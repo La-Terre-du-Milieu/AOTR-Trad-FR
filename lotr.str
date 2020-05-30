@@ -5759,10 +5759,6 @@ INI:FactionRohan
 "Rohan"
 END
 
-INI:FactionMirkwood
-"Greenwood"
-END
-
 INI:FactionMordor
 // context: Mordor faction name
 "Mordor"
@@ -5774,10 +5770,6 @@ END
 
 INI:FactionWild
 "Monts Brumeux"
-END
-
-INI:FactionGuldur
-"Dol Guldur"
 END
 
 SIDE:Men
@@ -8206,10 +8198,6 @@ CONTROLBAR:TransportExit
 "Descendre"
 END
 
-CONTROLBAR:TransportExitTreebeard
-"Ex&it Treebeard"
-END
-
 CONTROLBAR:SetRallyPoint
 "Point de ralliement"
 END
@@ -8640,10 +8628,6 @@ OBJECT:RohanArcher
 "Hommes de Dale"
 END
 
-OBJECT:RohanSpearThrower
-"Yeoman Spear Thrower"
-END
-
 OBJECT:RohanTheoden
 "Théoden"
 END
@@ -8754,26 +8738,6 @@ OBJECT:RohanRohirrim
 "Rohirrim"
 END
 
-OBJECT:RohanSnowbournRider
-"Rider of Snowbourn"
-END
-
-OBJECT:HordeRohanSnowbournRider
-"Riders of Snowbourn"
-END
-
-UPGRADE:UpgradeMundburgMasonry
-"Mundburg Masonry"
-End
-
-CONTROLBAR:MundburgMasonry
-"Mundburg Masonr&y"
-End
-
-CONTROLBAR:ToolTipMundburgMasonry
-"Structures gain a 50% boost in armor\n Player must maintain a Workshop to benefit from this upgrade"
-End
-
 OBJECT:GondorTownsman
 "Citadins"
 END
@@ -8822,14 +8786,6 @@ OBJECT:GondorBoromir
 "Boromir"
 END
 
-OBJECT:BoromirShield
-"Boromir's shield"
-END
-
-OBJECT:BilboandLindir
-"Bilbo & Lindir"
-END
-
 OBJECT:GondorBerethor
 "Berethor"
 END
@@ -8840,14 +8796,6 @@ END
 
 OBJECT:GondorAragorn
 "Aragorn"
-END
-
-OBJECT:RohanGrimbold
-"Grimbold"
-END
-
-OBJECT:GondorElessar
-"Elessar"
 END
 
 OBJECT:GondorDamrod
@@ -8874,10 +8822,6 @@ OBJECT:ElvenThranduil
 "Thranduil"
 END
 
-OBJECT:ElvenThranduilNew
-"King Thranduil"
-END
-
 OBJECT:ElvenLorienWarrior
 "Gardien de la Lórien"
 END
@@ -8893,7 +8837,6 @@ END
 OBJECT:GondorIsildur
 "Isildur"
 END
-
 OBJECT:GondorEarnur
 "Earnur"
 END
@@ -9273,14 +9216,6 @@ OBJECT:DeadOrc
 "Dead Orc"
 END
 
-OBJECT:DeadUruk
-"Dead Uruk"
-END
-
-OBJECT:DeadSoldier
-"Dead Soldier"
-END
-
 OBJECT:OrcMeatRack
 "Meat Rack"
 END
@@ -9621,14 +9556,6 @@ CONTROLBAR:ToolTipNimrodelWaters
 "Le Mallorn est baigné des eaux de la Nimrodel, un affluent de la rivière Celebrant qui naît dans les Monts Brumeux et traverse la Lothlórien.\nLes alliés proches du Mallorn sont soignés."
 END
 
-CONTROLBAR:MallornRoots
-"Mallorn &Roots"
-END
-
-CONTROLBAR:ToolTipMallornRoots
-"Requires Level 2 Mallorn Tree \n Nearby enemies are slowed"
-END
-
 OBJECT:Obsolete
 "Obsolete"
 END
@@ -9830,18 +9757,6 @@ OBJECT:GBMgatedoor
 "Castle Gate"
 END
 
-OBJECT:BreeGate
-"Bree Gate"
-END
-
-OBJECT:BreeWall
-"Bree Wall"
-END
-
-OBJECT:BreeTower
-"Bree Tower"
-END
-
 OBJECT:GondorBuildingFoundation
 //"Click here to build a structure"		//This is seen by everyone.
 "Fondation de bâtiment"
@@ -9873,10 +9788,6 @@ END
 
 OBJECT:GondorWorkshop
 "Atelier de siège"
-END
-
-OBJECT:RohanWorkshop
-"Workshop"
 END
 
 OBJECT:GondorFarm
@@ -10702,111 +10613,6 @@ END
 
 OBJECT:Spider
 "Spider"
-END
-
-//////////////////////////////////
-///FUDGE CAMPAIGN Strings
-//////////////////////////////////
-
-OBJECT:GamlingRoyalBanner
-"Banner of Eorl"
-END
-OBJECT:GamlingRoyalBannerDescription
-"The Royal Standard of Rohan"
-END
-CONTROLBAR:SpecialAbilityGamlingFLAL
-"For Lord and Land"
-END
-CONTROLBAR:ToolTipSpecialAbilityGamlingFLAL
-"+50% Damage, +50% Experience Gain, -20% Recharge Time\n Replensishes nearby hordes \n Passive ability"
-END
-
-CONTROLBAR:BFMEBuildNoldorExileHorde
-"Strong vs. Cavalry and Siege \n\nExiles of Noldor carry long spears to defend themselves on their journey back to Valinor."
-END
-
-OBJECT:CampaignStrider
-"Strider"
-END
-
-OBJECT:CampaignRingwraith
-"Ringwraith"
-END
-
-OBJECT:CampaignBreeBuilding
-"Bree Building"
-END
-
-OBJECT:CampaignBreePony
-"Prancing Pony"
-END
-
-OBJECT:CampaignAthelas
-"Athelas Bushel"
-END
-
-OBJECT:BalinsAxe
-"Balin's Axe"
-END
-
-CampaignName:Bree
-"Shadow of the Past"
-END
-
-CampaignName:Weathertop
-"Fords of Bruinen"
-END
-
-CampaignName:Orthanc
-"Treason of Isengard"
-END
-
-CampaignName:Council
-"Council of Elrond"
-END
-
-CampaignName:Redhorn
-"Howls on the Redhorn"
-END
-
-CampaignName:Moria
-"A Journey in the Dark"
-END
-
-CampaignName:Khazad
-"The Bridge of Khazad-dum"
-END
-
-CampaignName:Lothlorien
-"The Woods of Lothlorien"
-END
-
-CampaignName:AmonHen
-"Breaking of the Fellowship"
-END
-
-Map:MAP GOOD REDHORN
-"Good Redhorn"
-END
-
-Map:MAP GOOD ORTHANC
-"Good Orthanc"
-END
-
-Map:MAP GOOD KHAZAD
-"Good Bridge of Khazad-dum"
-END
-
-Map:MAP GOOD COUNCIL OF ELROND
-"Good Council of Elrond"
-END
-
-Map:MAP GOOD DWEATHERTOP
-"Good Fords of Bruinen"
-END
-
-Map:MAP GOOD SHADOW OF THE PAST
-"Good Shadow of the Past"
 END
 
 // comment:
@@ -14083,478 +13889,6 @@ SCRIPT:Dialog_E08_02
 "ELROND: Rivendell is our last hope. it must not fall!"
 END
 
-///////////////////////AotR CAMPAIGN OBJECTIVES///////////////////////////////////////////
-///////// A single line of text should be no longer than this one. /////////////
-
-SCRIPT:LACINEMATICWARNING
-"This campaign contains several long cinematics and we recommend saving regularly to avoid having to re-watch them."
-END
-
-SCRIPT:LAObjective00
-"Destroy the orc camp and establish a base"
-END
-
-SCRIPT:LAObjective01
-"Destroy the Mordor Citadel"
-END
-
-SCRIPT:LAObjective02
-"Destroy the remaining orc camp"
-END
-
-SCRIPT:LAObjective03
-"Destroy the orc pits to the north and await reinforcements"
-END
-
-SCRIPT:LAObjective04
-"Destroy orc tents to gather resources"
-END
-
-SCRIPT:LAObjective05
-"Protect the camps and move up the slopes of Orodruin"
-END
-
-SCRIPT:LAObjective06
-"Push through towards Sauron's final stronghold"
-END
-
-SCRIPT:LAObjective07
-"Nazgul are approaching"
-END
-
-SCRIPT:LAObjective08
-"Use Narsil to kill the Dark Lord Sauron"
-END
-
-SCRIPT:LAObjective09
-"Nazgul are attacking the camp"
-END
-
-SCRIPT:LAObjective10
-"Clear out the hordes of orcs that infest the plains of Gorgoroth"
-END
-
-SCRIPT:LAObjective11
-"Orcs are attacking the base"
-END
-
-SCRIPT:LAObjective12
-"Rescue the Dunedain scouts"
-END
-
-SCRIPT:LAIntro01
-"In the year 3429 of the Second Age, the Dark Lord Sauron took the fortress-city of \n Minas Ithil and burned its White Tree."
-END
-
-SCRIPT:LAIntro02
-"Soon his forces spread from Mordor and began assailing the Free Peoples of Middle-earth."
-END
-
-SCRIPT:LAIntro03
-"In response, Elendil, King of the Dunedain and Gil-galad, High King of the Noldor, forged a great alliance."
-END
-
-SCRIPT:LAIntro04
-"Together, Elves and Men sought to bring about Sauron's ultimate destruction."
-END
-
-SCRIPT:LAIntro05
-"Their great host marched upon Mordor, where they laid siege to Barad-dur for seven years."
-END
-
-SCRIPT:LAIntro06
-"In time, Sauron and his forces were forced to retreat to Mount Doom, whose rugged terrain \n was easy to defend and difficult to traverse."
-END
-
-SCRIPT:LAIntro07
-"Wishing a swift end to the war, Elendil commanded his son Isildur to take a small force \n and enter Sauron's last hold to break its defense and allow the army through."
-END
-
-SCRIPT:LAElrond01
-"This pass is heavily guarded. We must take care not to rouse the full might of Sauron's garrison or we will be undone."
-END
-
-SCRIPT:LAElrond02
-"This orc camp lies in a place of great strategic value."
-END
-
-SCRIPT:LAElrond03
-"There it lies, the last garrison defending Orodruin's treacherous slopes. Let us gather our forces and strike hard, so that Elendil and Gil-galad may march their armies forward."
-END
-
-SCRIPT:LAIsildur01
-"Yet we must make haste. Let us press on and put a torch to these towers, so that we may shroud our advance."
-END
-
-SCRIPT:LAIsildur02
-"Let us claim it and establish a camp!"
-END
-
-SCRIPT:LAIsildur03
-"Let us gather our forces and strike hard to allow the great host passage."
-END
-
-OBJECT:LADolGoldurMainGate
-"Mordor Gate"
-END
-
-OBJECT:LADolGoldurWall
-"Mordor Wall"
-END
-
-OBJECT:LADolGoldurTower
-"Mordor Tower"
-END
-////////////////SHADOW OF THE PAST////////////////
-
-SCRIPT:Objective01_Shadow
-"Reach the Buckleberry Ferry"
-END
-
-SCRIPT:Objective02_Shadow
-"Defend Gildor's Camp from the Risen Dunedain"
-END
-
-SCRIPT:Objective03_Shadow
-"Destroy the Barrows"
-END
-
-SCRIPT:Objective04_Shadow
-"Reach the Prancing Pony"
-END
-
-SCRIPT:Objective05_Shadow
-"Defend the Prancing Pony from the Black Riders assault"
-END
-
-SCRIPT:ObjectiveHint01_Shadow
-"Use the elven cloaks to avoid the Black Riders."
-END
-
-SCRIPT:ObjectiveHint02A_Shadow
-"Prepare for another attack by the Black Riders"
-END
-
-SCRIPT:ObjectiveHint02_Shadow
-"Rouse more Bree townsfolk from inns"
-END
-
-SCRIPT:ObjectiveHint02B_Shadow
-"All inns have been captured"
-END
-
-SCRIPT:ObjectiveHint03_Shadow
-"Capture farms to earn resources and increase commandpoints"
-END
-
-SCRIPT:ObjectiveHint03B_Shadow
-"All farms have been captured"
-END
-
-SCRIPT:ObjectiveHint03C_Shadow
-"Use heroes to capture inns & taverns"
-END
-
-///////////////////WEATHERTOP///////////////////
-
-SCRIPT:Objective01_Weathertop
-"Find tracks of Dunedain presence near Weathertop."
-END
-
-SCRIPT:Objective02_Weathertop
-"Survive the attack by the Risen Dunedain."
-END
-
-SCRIPT:Objective03_Weathertop
-"Protect the Hobbits from the Ringwraiths."
-END
-
-SCRIPT:Objective04_Weathertop
-"Frodo is poisoned and will slowly lose health. Escape Weathertop and find medicine."
-END
-
-SCRIPT:Objective04-update_Weathertop
-"Find at least 5 bushels of Kingsfoil to slow Frodo's poisoning!"
-END
-
-SCRIPT:Objective04-update2_Weathertop
-"Use Aragorn's Athelas to heal Frodo"
-END
-
-SCRIPT:Objective04counter_Weathertop
-"Athelas Bushels Found:"
-END
-
-SCRIPT:Objective05_Weathertop
-"Defend the Ford of Bruinen"
-END
-
-SCRIPT:Objective05-update_Weathertop
-"Build a force to help defend the Bruinen!"
-END
-
-SCRIPT:Objective05Timer_Weathertop
-"Glorfindel will arrive in:"
-END
-
-SCRIPT:Objective05-update2_Weathertop
-"Defeat the next wave of orcs crossing the Bruinen"
-END
-
-SCRIPT:Objective05GlorfindelArrives_Weathertop
-"Glorfindel, Aragorn and the Hobbits have arrived. Escort them across the ford."
-END
-
-SCRIPT:Objective05Final_Weathertop
-"Defeat the final wave."
-END
-
-////////////////ORTHANC/////////////////
-
-SCRIPT:Objective01_Orthanc
-"Defeat Saruman"
-END
-
-////////////////COUNCIL OF ELROND/////////////////
-
-SCRIPT:Objective00_Council
-"Speak to heroes in the Hall of Fire"
-END
-
-SCRIPT:Objective00Boromir_Council
-"Speak to Boromir to learn of the struggles in Gondor"
-END
-
-SCRIPT:Objective00Elrond_Council
-"Speak to Elrond to hear the fate of Isildur"
-END
-
-SCRIPT:Objective00Bilbo_Council
-"Speak to Bilbo to hear a tale of riddles"
-END
-
-SCRIPT:Objective01_Council
-"Explore the cave"
-END
-
-SCRIPT:Objective02_Council
-"Answer Gollum's riddles"
-END
-
-SCRIPT:Objective03_Council
-"Escape from Gollum's cave"
-END
-
-SCRIPT:Objective04_Council
-"Defeat the orc ambush"
-END
-
-SCRIPT:Objective05_Council
-"Stop orcs from advancing into the forest and finding Isildur"
-END
-
-SCRIPT:Objective06_Council
-"Defend Isildur"
-END
-
-SCRIPT:OsgiliathObjective01_Council
-"Reclaim all buildings on the Western bank before it is overrun"
-End
-
-SCRIPT:OsgiliathObjective02_Council
-"Defended the bridges from enemy attacks"
-End
-
-SCRIPT:OsgiliathObjective03_Council
-"Clear the bridges of enemy forces"
-End
-
-SCRIPT:OsgiliathBonus_Council
-"Kill the Nazgul commander"
-End
-
-////////////////////REDHORN//////////////////////
-
-SCRIPT:Objective00_Redhorn
-"Guide the Fellowship South"
-END
-
-SCRIPT:Objective01_Redhorn
-"Guide the Fellowship to the pass of Caradhras"
-END
-
-SCRIPT:Objective02_Redhorn
-"Traverse the Caradhras"
-END
-
-SCRIPT:Objective02_Update_Redhorn
-"Guide the Fellowship towards the Walls of Moria"
-END
-
-SCRIPT:Objective03_Redhorn
-"Survive the warg attack"
-END
-
-SCRIPT:Objective04_Redhorn
-"Kill the Watcher in the water"
-END
-
-SCRIPT:BonusObjective01_Redhorn
-"Find all hidden Noldorin treasures"
-END
-
-SCRIPT:BonusObjective02_Redhorn
-"Destroy all Snow-troll lairs"
-END
-
-SCRIPT:BonusObjective03_Redhorn
-"Kill all flocks of Crebain"
-END
-
-SCRIPT:BonusObjective04_Redhorn
-"Defeat Celebrimbor"
-END
-
-SCRIPT:CaradhrasHint_Redhorn
-"Avoid avalanches across the Caradhras"
-END
-
-SCRIPT:CaradhrasHint2_Redhorn
-"Gather the Fellowship before proceeding"
-END
-
-/////////////////////MORIA//////////////////////
-
-SCRIPT:Objective01_Moria
-"Reach the Great Hall"
-END
-
-SCRIPT:Objective02_Moria
-"All heroes must survive."
-END
-
-SCRIPT:Objective03_Moria
-"Reunite with the the Fellowship."
-END
-
-SCRIPT:Objective04_Moria
-"Kill the Watcher in the Water"
-END
-
-SCRIPT:Objective05_Moria
-"Survive until Oin Arrives"
-END
-
-SCRIPT:Objective06_Moria
-"Reach the Second Hall"
-END
-
-SCRIPT:Objective07_Moria
-"Survive the goblin attacks"
-END
-
-SCRIPT:BonusObjective01_Moria
-"Find five Dwarven treasures."
-END
-
-SCRIPT:BonusObjective02_Moria
-"Find Balin's Axe."
-END
-
-SCRIPT:BonusObjective03_Moria
-"Reach the Great Hall within 10 minutes."
-END
-
-SCRIPT:BonusObjective04_Moria
-"Destroy the drums in the deep."
-END
-
-//////////////////KHAZAD-DUM////////////////////
-
-SCRIPT:Objective01_Khazad
-"Escape Moria."
-END
-
-SCRIPT:Objective02_Khazad
-"All heroes must survive."
-END
-
-SCRIPT:Objective03_Khazad
-"Find the Chamber of Mazarbul."
-END
-
-SCRIPT:Objective04_Khazad
-"Kill the Goblin Shamans to break the enchanment"
-END
-
-SCRIPT:Objective05_Khazad
-"Kill the Balrog"
-END
-
-SCRIPT:Objective01Hint_Khazad
-"Cross the Great Hall towards the bridge of Khazad-dum"
-END
-
-//////////////////LOTHLORIEN////////////////////
-
-SCRIPT:Objective01_Lothl
-"Reach the Marchwarden Forward Camp"
-END
-
-SCRIPT:Objective02_Lothl
-"Rescue the Fellowship"
-END
-
-SCRIPT:Objective03_Lothl
-"Escort the Fellowship to Caras Galadhon"
-END
-
-SCRIPT:Objective04_Lothl
-"Defend Lady Galadriel and the Hobbits against the goblin assault on Caras Galadhon"
-END
-
-SCRIPT:Objective05_Lothl
-"Destroy all Goblin camps"
-END
-
-SCRIPT:BonusObjective01_Lothl
-"Discover all hidden allies"
-END
-
-SCRIPT:BonusObjective02_Lothl
-"Advance all elven heroes to level 3"
-END
-
-SCRIPT:BonusObjective01Hint_Lothl
-"Destroying goblin camps will diminish enemy reinforcements"
-END
-
-//////////////////AMON HEN////////////////////
-
-SCRIPT:Objective01_Amon
-"Survive the summit attack"
-END
-
-SCRIPT:Objective02_Amon
-"Reach Boromir"
-END
-
-SCRIPT:Objective03_Amon
-"Kill Lurtz"
-END
-
-SCRIPT:Objective04_Amon
-"Reach the boats without being discovered"
-END
-
-SCRIPT:BonusObjective01_Amon
-"Keep Boromir alive"
-END
-
-SCRIPT:Objective04Hint_Amon
-"Use Frodo's powers and hide amongst trees to avoid detection"
-END
-
 // Clears the common comment field for the missions text
 // context:
 // comment:
@@ -14645,7 +13979,7 @@ CONTROLBAR:UnpackSlaughterhouse
 END
 
 CONTROLBAR:TooltipSlaughterhouseUnpack
-"Génère des ressources selon le terrain disponible \nAugmente la limite de points commandement.\n Réduit le coût des Trolls et Mûmakil."
+"Génère des ressources selon le terrain disponible.\n Augmente la limite de points commandement.\n Réduit le coût des Trolls et Mûmakil."
 END
 
 CONTROLBAR:ConstructMenPorter
@@ -14669,11 +14003,7 @@ CONTROLBAR:ConstructMenArcheryRange
 END
 
 CONTROLBAR:ToolTipMenArcheryRange
-"Entraîne et améliore les archers du Gondor \nAugmente la limite de points de commandement de 25"
-END
-
-CONTROLBAR:ToolTipRohanArcheryRange
-"Trains and upgrades Rohan's Archers \n Generates a small amount of resources based on avaliable terrain \n Increases command point limit by 25"
+"Entraîne et améliore les archers du Gondor."
 END
 
 CONTROLBAR:ConstructMenStable
@@ -14684,20 +14014,8 @@ CONTROLBAR:ConstructMenWorkshop
 "Construire un Atelier de siège"
 END
 
-CONTROLBAR:ConstructRohanWorkshop
-"Build Wor&kshop"
-END
-
 CONTROLBAR:ToolTipConstructMenWorkshop
 "Construit et améliore les trébuchets.\nAu niveau 2, répare les engins de siège proches."
-END
-
-CONTROLBAR:ToolTipConstructRohanWorkshop
-"Constructs and upgrades siege engines\n At rank 2, repairs nearby siege engines \n Generates a small amount of resources based on avaliable terrain \n Reduces cost of upgrades \n Increases command point limit by 25"
-END
-
-OBJECT:RohanWorkshopDescription
-"Generates resources based on available terrain\nLevel 2: +10% Faster Build Speed\n Level 3: +25% Faster Build Speed\nArtisan Bonus - Reduced cost of upgrades \n 1 Workshop: 5% \n 2 Workshops: 10% \n 3 Workshops: 15% \n 4+ Workshops: 20%"
 END
 
 CONTROLBAR:ConstructMenSentryTower
@@ -14720,20 +14038,12 @@ CONTROLBAR:ConstructMenWell
 "Construire une Fontaine"
 END
 
-CONTROLBAR:ConstructRohanWell
-"Bui&ld Edoras Well"
-END
-
 CONTROLBAR:ToolTipConstructMenWell
 "Les unités proches du puits se soignent automatiquement si elles ne sont pas attaquées.\nRéduit le coût de l'infanterie."
 END
 
 CONTROLBAR:ConstructMenStatue
 "Construire une Statue héroïque"
-END
-
-CONTROLBAR:ConstructRohanStatue
-"Bu&ild Heroic Statue"
 END
 
 CONTROLBAR:ToolTipConstructMenStatue
@@ -14994,13 +14304,6 @@ CONTROLBAR:ConstructGondorWorkshop2Upgrade
 END
 CONTROLBAR:ConstructGondorWorkshopLevel3Upgrade
 "Améliore l'Atelier de siège au niveau 3"
-END
-
-CONTROLBAR:ConstructRohanWorkshop2Upgrade
-"&Upgrade Workshop to Level 2"
-END
-CONTROLBAR:ConstructRohanWorkshopLevel3Upgrade
-"&Upgrade Workshop to Level 3"
 END
 
 ////////////////////////////CONTROLBAR:ToolTipGondorBuildWatchTower
