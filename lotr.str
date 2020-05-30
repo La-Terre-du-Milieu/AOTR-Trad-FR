@@ -8988,11 +8988,11 @@ OBJECT:DwarvenDain
 END
 
 OBJECT:DwarvenBatteringRam
-"Démolisseur des Monts de Fer"
+"Démolisseur des Monts du Fer"
 END
 
 OBJECT:DwarvenCatapult
-"Catapulte des Monts de Fer"
+"Catapulte des Monts du Fer"
 END
 
 // Isengard units
@@ -10412,7 +10412,7 @@ OBJECT:DwarvenArcheryRange
 END
 
 OBJECT:DwarvenForgeWorks
-"Fort des Monts de Fer"
+"Fort des Monts du Fer"
 END
 
 OBJECT:DwarvenHearth
@@ -24309,7 +24309,7 @@ OBJECT:DwarvenArcheryRangeDescription
 END
 
 OBJECT:DwarvenForgeWorksDescription
-"Requiert : l'amélioration Arkenstone \nPermet de recruter les troupes des Monts de Fer et les machines de guerre."
+"Requiert : l'amélioration Arkenstone \nPermet de recruter les troupes des Monts du Fer et les machines de guerre."
 END
 
 OBJECT:DwarvenHearthDescription
@@ -27645,11 +27645,11 @@ CONTROLBAR:ToolTipConstructDwarvenForgeWorks
 END
 
 CONTROLBAR:ConstructDwarvenHusbandry
-"Construire un Fort des Monts de Fer"
+"Construire un Fort des Monts du Fer"
 END
 
 CONTROLBAR:ToolTipConstructDwarvenHusbandry
-"Requiert : l'amélioration Arkenstone.\nPermet de recruter les troupes et les machines de guerre des Monts de Fer."
+"Requiert : l'amélioration Arkenstone.\nPermet de recruter les troupes et les machines de guerre des Monts du Fer."
 END
 
 CONTROLBAR:ToolTipConstructDwarvenHusbandryBlueMountains
@@ -27787,7 +27787,7 @@ CONTROLBAR:PurchaseUpgradeDwarvenFortressMightyCatapult
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeDwarvenFortressMightyCatapult
-"Fournit une armure lourde aux héros nains.\nPermet de recruter le seigneur nain Dáin Pied-d'Acier ainsi que les troupes d'Ered Luin et des Monts de Fer."
+"Fournit une armure lourde aux héros nains.\nPermet de recruter le seigneur nain Dáin Pied-d'Acier ainsi que les troupes d'Ered Luin et des Monts du Fer."
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeDwarvenFortressMightyCatapult_WOTR
@@ -27970,7 +27970,7 @@ OBJECT:Gloin
 END
 
 OBJECT:DwarvenBattleWagon
-"Chariot de guerre des Monts de Fer"
+"Chariot de guerre des Monts du Fer"
 END
 
 OBJECT:DwarvenPorter
@@ -28022,7 +28022,7 @@ CONTROLBAR:ToolTipBuildDwarvenArcherHorde
 END
 
 CONTROLBAR:ConstructDwarvenDemolisher
-"Démolisseur des Monts de Fer"
+"Démolisseur des Monts du Fer"
 END
 
 TOOLTIP:LackLevel2ForgeWorksDemolisher
@@ -28030,11 +28030,11 @@ TOOLTIP:LackLevel2ForgeWorksDemolisher
 END
 
 CONTROLBAR:ConstructDwarvenBattleWagon
-"Chariot de guerre des Monts de Fer"
+"Chariot de guerre des Monts du Fer"
 END
 
 CONTROLBAR:ToolTipBuildDwarvenBattleWagon
-"Engins de mort tractés par de puissants béliers, les Chariots de guerre des Monts de Fer foncent vers la mêlée à une vitesse insensée. A l'impact, ils disloquent, piétinent et brisent les lignes ennemies dans un fracas assourdissant.\nPeut recevoir diverses améliorations.\n\nForts contre les épéistes et les archers."
+"Engins de mort tractés par de puissants béliers, les Chariots de guerre des Monts du Fer foncent vers la mêlée à une vitesse insensée. A l'impact, ils disloquent, piétinent et brisent les lignes ennemies dans un fracas assourdissant.\nPeut recevoir diverses améliorations.\n\nForts contre les épéistes et les archers."
 END
 
 CONTROLBAR:ConstructDwarvenCatapult
@@ -29572,11 +29572,11 @@ CONTROLBAR:LW_Unit_DwarvenMenOfDaleComboHordePlural
 END
 
 CONTROLBAR:LW_Unit_DwarvenCatapult
-"Catapulte des Monts de Fer"
+"Catapulte des Monts du Fer"
 END
 
 CONTROLBAR:LW_Unit_DwarvenCatapultPlural
-"Catapultes des Monts de Fer"
+"Catapultes des Monts du Fer"
 END
 
 
@@ -32517,7 +32517,7 @@ CONTROLBAR:ConstructCorsairShip
 End
 
 CONTROLBAR:ConstructDwarvenBatteringRam
-"Démolisseur des Monts de Fer"
+"Démolisseur des Monts du Fer"
 End
 
 CONTROLBAR:ConstructDwarvenForgeWorksLevel2Upgrade
@@ -39964,7 +39964,7 @@ DIALOGEVENT:MEErebo_OffM032subtitle
 END
 
 DIALOGEVENT:MEErebo_OffM033subtitle
-"*It's the fool Glóin! He's rallied the dwarves of the des Monts de Fer!"
+"*It's the fool Glóin! He's rallied the dwarves of the des Monts du Fer!"
 END
 
 DIALOGEVENT:MEErebo_OffM034subtitle
@@ -46030,7 +46030,7 @@ TOOLTIP:LackEagleNestEncasingVines
 END
 
 TOOLTIP:LackMightyCatapultDwarvenStonework
-"Requiert : l'amélioration Fortifications.\n Permet de recruter le seigneur nain Dáin Pied-d'Acier et les troupes d'Ered Luin et des Monts de Fer."
+"Requiert : l'amélioration Fortifications.\n Permet de recruter le seigneur nain Dáin Pied-d'Acier et les troupes d'Ered Luin et des Monts du Fer."
 END
 
 TOOLTIP:LackMightyCatapultDwarvenStonework_WOTR
@@ -57552,21 +57552,21 @@ END
 
 BANNERUI:DwarvenBattleWagon
 // Singluar name of the Dwarven Battle Wagon category displayed in the army summary for WotR
-//"Chariot de guerre des Monts de Fer"
-"Chariot de guerre des Monts de Fer"
+//"Chariot de guerre des Monts du Fer"
+"Chariot de guerre des Monts du Fer"
 End
 BANNERUI:DwarvenBattleWagons
 // Plural name of the Dwarven Battle Wagon category displayed in the army summary for WotR
-//"Chariots de guerre des Monts de Fer"
-"Chariots de guerre des Monts de Fer"
+//"Chariots de guerre des Monts du Fer"
+"Chariots de guerre des Monts du Fer"
 End
 CONTROLBAR:LW_Unit_DwarvenBattleWagon
-//"Chariot de guerre des Monts de Fer"
-"Chariot de guerre des Monts de Fer"
+//"Chariot de guerre des Monts du Fer"
+"Chariot de guerre des Monts du Fer"
 END
 CONTROLBAR:LW_Unit_DwarvenBattleWagonPlural
 //"Chariots de guerre Nains"
-"Chariots de guerre des Monts de Fer"
+"Chariots de guerre des Monts du Fer"
 END
 CONTROLBAR:LW_ToolTipBuild_DwarvenBattleWagon
 //"Type d'unité : cavalerie standard.\n\n Forts contre les archers\n "
@@ -60060,7 +60060,7 @@ CONTROLBAR:LW_ToolTip_MirkwoodWarriorHorde
 "\nType d'unité : infanterie d'élite\nForts contre l'infanterie"
 END
 
-CONTROLBAR:ToolTipBuildMirkwoodWarriorHorde
+CONTROLBAR:ToolTipBuildMirkwoodWarriorHordeInn
 "Pendant la guerre de l'Anneau, les Galadhrim se joignirent aux Elfes de Thranduil pour chasser l'Ennemi de la Forêt Noire, connu par la suite sous le nom d'Eryn Lasgalen.\nBien qu'on les aperçoive rarement au-delà des limites de leur domaine forestier, les Guerriers de la Forêt Noire forment un important remparts contre les forces du Mal.\n\nForts contre l'infanterie, équipés d'armure lourde."
 END
 
@@ -60082,8 +60082,16 @@ OBJECT:LothlorienFletDescription
 "Une plateforme défensive dans un arbre qui tire sur les ennemis proches."
 END
 
+OBJECT:LothlorienTDFletDescription
+"Upgradeable tower with archers that fire arrows at nearby enemies"
+END
+
 CONTROLBAR:ToolTipConstructLothlorienFlet
 "Plateforme d'archers défensive.\nUn bataillon d'archers peut entrer en garnison pour augmenter les dégâts infligés."
+END
+
+CONTROLBAR:ToolTipConstructLothlorienFletTD
+"Defensive Arrow Tower \n Can be upgraded with more archers for extra damage output"
 END
 
 //----------  STONEWORKER ---------
@@ -60127,10 +60135,40 @@ CONTROLBAR:ToolTipBuildGondorLinhirPikeHorde
 "Linhir est une ville du Gondor se situant dans la région du Lebennin, au confluent du Gilrain et du Serni. Au cours des derniers jours de la Guerre de l'Anneau, les hommes de Linhir résistèrent vaillamment contre un assaut combiné de corsaires et d'Haradrim.\n\nPeuvent changer de formation pour améliorer leurs défenses.\n\nForts contre la cavalerie"
 END
 
+CONTROLBAR:ToolTipBuildGondorLinhirPikeHorde_SwornAllegiance
+"Strong vs. Cavalry and Heroes \n Able to switch formation for improved defensive capabilities \n Come equipped with Armaments of the White City \n \n During the last days of the War of the Ring, the Men of Linhir stood valiantly against a combined assault of Corsairs and Haradrim."
+END
+
 CONTROLBAR:LW_ToolTipBuild_GondorLinhirPikeHorde
 "Type d'unité : unité standard\n Forts contre la cavalerie"
 END
 
+//------------ Lossarnach Axemen ---------------
+CONTROLBAR:LW_Unit_LossarnachAxemenHorde
+"Lossarnach Axemen Battalion"
+END
+
+CONTROLBAR:LW_Unit_LossarnachAxemenHordePlural
+"Lossarnach Axemen Battalions"
+END
+
+CONTROLBAR:LW_ToolTip_LossarnachAxemenHorde
+"\nUnit Type: Anti-spam Unit\nStrong vs. Buildings"
+END
+
+CONTROLBAR:LW_ToolTipBuild_LossarnachAxemenHorde
+"Unit Type: Anti-spam Unit\nStrong vs. Buildings\n"
+END
+
+BANNERUI:LossarnachAxeman
+"Lossarnach Axeman"
+END
+
+BANNERUI:LossarnachAxemen
+"Lossarnach Axemen"
+END
+
+//------------ Lamedon Clansmen ---------------
 //------------ Guerriers des Clans de Lamedon ---------------
 OBJECT:GondorLamedonFighter
 "Guerrier des Clans de Lamedon"
@@ -60156,8 +60194,25 @@ CONTROLBAR:ToolTipBuildGondorLamedonFighterHorde
 "Les gens des clans de Lamedon habitent les pentes sauvages des Montagnes Blanches. Indisciplinée et barbare, leur manière de combattre est peu adaptée aux lignes ordonnées des armées du Gondor, mais ils font d'excellents tirailleurs.\n\nForts contre les piquiers."
 END
 
+CONTROLBAR:ToolTipBuildGondorLamedonFighterHorde_SwornAllegiance
+"Strong vs. Pikemen \n Come equipped with Armaments of the White City \n \n Hailing from the forested highlands of Lamedon, these men have long defended their lands from Southron incursions."
+END
+
 CONTROLBAR:LW_ToolTipBuild_GondorLamedonFighterHorde
 "Type d'unité : unité standard\n Forts contre les piquiers"
+END
+
+// ------------- Loss additions ----------
+CONTROLBAR:ToolTipBuildLossarnachAxeMenHorde
+"Requires Level 2 Barracks and Forlong \n Strong vs. Pikemen and Buildings \n\n The lands of Lossarnach were renowned for their natural beauty, and its soldiers for their ferocity and loyalty to their Steward."
+END
+
+CONTROLBAR:ToolTipBuildLossarnachAxeMenHorde_SwornAllegiance
+"Requires Level 2 Barracks and Forlong \n Strong vs. Pikemen and Buildings \n Come equipped with Armaments of the White City \n\n The lands of Lossarnach were renowned for their natural beauty, and its soldiers for their ferocity and loyalty to their Steward."
+END
+
+CONTROLBAR:ConstructLossarnachAxeMenHorde
+"Lossarnach &Axemen"
 END
 
 //------------ Blackroot Vale Archers ---------------
@@ -60183,6 +60238,10 @@ END
 
 CONTROLBAR:ToolTipBuildGondorBlackrootArcherHorde
 "Les villageois de la Racine Noire ont souffert encore plus que les autres au cours des longues années de guerre contre Sauron.\nIls ne bénéficient pas de la protection de hautes murailles ou d'armure de métal, et ont à la place affiné leurs talents d'archers pour éliminer leurs ennemis en évitant le danger du corps à corps.\n\nForts contre l'infanterie et les monstres."
+END
+
+CONTROLBAR:ToolTipBuildGondorBlackrootArcherHorde_SwornAllegiance
+"Strong vs. Infantry and Monsters \n Come equipped with Armaments of the White City \n \n The inhabitants of the Blackroot Vale were known in Gondor for their archery skills, and their lord Duinhir took five-hundred bowmen to the Battle of the Pelennor Fields."
 END
 
 CONTROLBAR:LW_ToolTipBuild_GondorBlackrootArcherHorde
@@ -60233,6 +60292,10 @@ END
 
 CONTROLBAR:ToolTipConstructGondorDolMAArmsHorde
 "La défense de Dol Amroth repose également sur ses hommes d'armes, une force armée d'élite permanente au service du prince.\nLeurs compagnies sont souvent formées d'hommes moins riches que les Chevaliers, mais ils sont assez fortunés toutefois pour se procurer une armure telles qu'en portent leurs compagnons montés.\n\nForts contre les piquiers"
+END
+
+CONTROLBAR:ToolTipConstructGondorDolMAArmsHorde_WOTR
+"Requires Level 2 Barracks and Dol Amroth Citadel \n Strong vs. Pikemen \n \n Choosing to fight on foot rather than from horseback, these heavily armored soldiers are no less elite than their equestrian counterparts."
 END
 
 CONTROLBAR:LW_ToolTipBuild_GondorDolMAArmsHorde
@@ -60289,8 +60352,16 @@ CONTROLBAR:LW_ToolTip_GondorFountainGuardHorde
 "\n Type d'unité : unité héroïque\n Forts contre la cavalerie"
 END
 
+CONTROLBAR:LW_ToolTip_GondorFountainGuardHorde_WOTR
+"15 Fountain Guards\n\nUnit Type: Hero Unit\nStrong vs. Cavalry"
+END
+
 CONTROLBAR:ToolTipBuildGondorFountainGuardHorde
 "Requiert : Tour d'Ivoire\n Les Gardes de la Cour de la Fontaine sont sélectionnés parmi les vétérans les plus disciplinés de tout le Gondor, qui jurent de donner leur vie au service des seigneurs de Minas Tirith. Trop peu nombreux pour former leurs propres régiments sur le champ de bataille, ils sont particulièrement respectés, car ils formaient autrefois la garde royale des Rois du Gondor.\n Ils servent aujourd'hui de gardes du corps et d'officiers pour combler les faiblesses dans les défenses par leur dévouement exemplaire.\nUne seule unité autorisée en même temps.\n\nPeuvent changer de formation pour améliorer leurs défenses.\n\nUnité héroïque, forts contre la cavalerie."
+END
+
+CONTROLBAR:ToolTipBuildGondorFountainGuardHorde_WOTR
+"Hero Unit. Limited to 1. \nStrong vs. Cavalry \n Able to switch formation for improved defensive capabilities \n \n These men are the silent Guards of the White Tree. Their arms and armor, inlaid with Mithril, invoke the memory of lost N�menor. \n\n In War of the Ring, you can only recruit this unit if it was on the battlefield from the start and was killed"
 END
 
 CONTROLBAR:ToolTipBuildGondorFountainGuardHordeCairAndros
@@ -60369,6 +60440,10 @@ END
 
 CONTROLBAR:ToolTipSpecialAbilityNazgulNineServantsOfSauron
 "Plus les Nazgûl sont proches les uns des autres, plus ils se renforcent : ils gagnent chacun +10% dégâts et +10% armure pour chaque autre Nazgûl proche.\n\nCapacité passive"
+END
+
+CONTROLBAR:ToolTipSpecialAbilityRingwraithServantsOfSauron
+"As more Nazgûl gather, their strength grows \n +10% Damage and +10% Armor per every Nazg�l nearby \n Passive ability"
 END
 
 CONTROLBAR:ToolTipBlackRiderDreadVisage
@@ -60479,6 +60554,16 @@ CONTROLBAR:ToolTipGondorArmaments
 "Requiert : niveau 3\n Type d'Action : Niveau\n Bien organisés et équipés, menés par les vétérans des guerres contre le Harad et le Mordor, les unités gagnent de façon permanente +33% armure (bonus cumulable)."
 END
 
+CONTROLBAR:ToolTipGondorArmaments_SwornAllegiance
+"Modifier Type: Level\n Units permanently gain 33% Armor\n Stacks with Leadership, Buffs, and Spells"
+END
+
+CONTROLBAR:RohanArmaments
+//"Gondorian Marksmenship"
+//"Horsemen of the Mark"
+"Muster of Edoras"
+END
+
 CONTROLBAR:RangerToggle
 "Charge Vaillante"
 END
@@ -60523,12 +60608,20 @@ CONTROLBAR:TooltipSamwiseBladeMaster
 "Type d'Action : Bonus\n Dans un accès de colère, Sam gagne temporairement +100% dégâts et +100% armure.\n\nClic gauche pour activer"
 END
 
+CONTROLBAR:TooltipSamwiseBladeMaster_Campaign
+"Requires Level 3 \n Modifier Type: Buff \n Sam temporarily gains\n+100% Damage, +100% Armor \n Left click to activate"
+END
+
 UPGRADE:GondorBattleTowerGarrison
 "Sentinelles de l'Anórien"
 END
 
 CONTROLBAR:GondorBattleTowerGarrison
 "Sentinelle de l'Anórien"
+END
+
+CONTROLBAR:RohanBattleTowerGarrison
+"Yeom&an Sentry"
 END
 
 CONTROLBAR:ToolTipGondorBattleTowerGarrison
@@ -60794,6 +60887,14 @@ CONTROLBAR:ToolTipCelebornWise
 "Requiert : niveau 7\n Âgé de plusieurs siècles, Celeborn est un seigneur très respecté pour sa clairvoyance et sa sagacité.\nDonne de l'expérience aux unités ciblées.\n\nClic gauche sur la cible"
 END
 
+CONTROLBAR:SpecialPowerRenownedWarrior
+"&Renowned Warrior"
+END
+
+CONTROLBAR:ToolTipSpecialPowerRenownedWarrior
+"Requires Level 5 \n Thranduil briefly gains +15% speed and +50% armor \n Left click to activate"
+END
+
 //------------ Isengard Scouts ---------------
 OBJECT:IsengardScout
 "Eclaireur Uruk-hai"
@@ -60843,6 +60944,10 @@ END
 
 CONTROLBAR:LW_ToolTip_IsengardManSlayerHorde
 "\n Type d'unité : unité héroïque\n Limité à 3\n Forts contre tous les types d'unité"
+END
+
+CONTROLBAR:LW_ToolTip_IsengardManSlayerHorde_WOTR
+"# Man-Slayers\n\nUnit Type: Hero Unit\n Strong vs. All Unit types"
 END
 
 CONTROLBAR:ToolTipBuildIsengardManSlayerHorde
@@ -60905,6 +61010,10 @@ END
 
 CONTROLBAR:TooltipSummonMordorAllies
 "Invoque plusieurs hordes d'Orques du Mordor sous votre contrôle.\nCes créatures cruelles se réjouissent déjà du massacre et de la destruction promis par Saruman pour accomplir ses sombres desseins.\n\nClic gauche sur une zone praticable"
+End
+
+CONTROLBAR:TooltipSummonMordorAllies_WOTR
+"Summons several hordes of Mordor Orcs to fight for your side \n Left click icon then left click on pathable location"
 End
 
 //---------------- Devastate -----------------
@@ -61080,133 +61189,20 @@ CONTROLBAR:LW_ToolTipBuild_MordorVariagHorde
 "Type d'unité : unité d'élite\n Forts contre les piquiers"
 END
 
-//------------ Bree-land Farmers ---------------
-OBJECT:BreeFarmer
-"Bree-land Farmer"
-END
-
-OBJECT:HordeBreeFarmer
-"Bree-land Farmers"
-END
-
-CONTROLBAR:ConstructBreeFarmerHorde
-"Bree-land Farmers"
-END
-
-CONTROLBAR:LW_Unit_BreeFarmerHorde
-"Bree-land Farmers"
-END
-
-CONTROLBAR:LW_ToolTip_BreeFarmerHorde
-"\n Type d'unité : unité standard\n Forts contre les piquiers"
-END
-
-CONTROLBAR:ToolTipBuildBreeFarmerHorde
-"Forts contre les piquiers\n Can repair structures"
-END
-
-CONTROLBAR:LW_ToolTipBuild_BreeFarmerHorde
-"Type d'unité : unité standard\n Forts contre les piquiers"
-END
-
-CONTROLBAR:Greenfingers
-"Greenfingers"
-END
-
-CONTROLBAR:ToolTipGreenfingers
-"Requiert : niveau 5\n Gives a 5% production bonus to nearby orchards"
-END
-
-//------------ Bree-land Guard ---------------
-OBJECT:BreeTownsguard
-"Bree-Land Townsguard"
-END
-
-OBJECT:HordeBreeTownsguard
-"Bree-Land Townsguard"
-END
-
-CONTROLBAR:ConstructBreeTownsguardHorde
-"Bree-Land Townsguard"
-END
-
-CONTROLBAR:LW_Unit_BreeTownsguardHorde
-"Bree-Land Townsguard"
-END
-
-CONTROLBAR:LW_ToolTip_BreeTownsguardHorde
-"\n Type d'unité : unité standard\n Forts contre la cavalerie"
-END
-
-CONTROLBAR:ToolTipBuildBreeTownsguardHorde
-"Forts contre la cavalerie"
-END
-
-CONTROLBAR:LW_ToolTipBuild_BreeTownsguardHorde
-"Type d'unité : unité standard\n Forts contre la cavalerie"
-END
-
-CONTROLBAR:BreeArmor
-"Armor from the Barrows"
-END
-
-CONTROLBAR:ToolTipBreeArmor
-"Requiert : niveau 5\n Units attain a 33% armure bonus"
-END
-
-//------------ Vétérans de l'Ultime Alliance aka Ñoldor and Fall of Gil Galad ---------------
-OBJECT:NoldorVeterans
-"Vétéran Ñoldor"
-END
-
-OBJECT:HordeNoldorVeterans
-"Vétérans de l'Ultime Alliance"
-END
-
-CONTROLBAR:ConstructNoldorVeteransHorde
-"Vétérans de l'Ultime Alliance"
-END
-
-CONTROLBAR:ConstructNoldorVeteransGilGaladHorde
-"The Fall of Gil-Galad"
-END
-
-CONTROLBAR:LW_Unit_NoldorVeteransHorde
-"Vétérans de l'Ultime Alliance"
-END
-
-CONTROLBAR:LW_ToolTip_NoldorVeteransHorde
-"\n Type d'unité : unité héroïque\n Forts contre tous les types d'unité"
-END
-
-CONTROLBAR:ToolTipBuildNoldorVeteransHorde
-"Forts contre tous les types d'unité"
-END
-
-CONTROLBAR:ToolTipBuildNoldorVeteransGilGaladHorde
-"Allows for an additional battallion of Ñoldorin to be recruited from the Library\n Forts contre tous les types d'unité"
-END
-
-CONTROLBAR:LW_ToolTipBuild_NoldorVeteransHorde
-"Type d'unité : unité héroïque\n Forts contre tous les types d'unité"
-END
-
-//==================================================================
-
-CONTROLBAR:ElvenRangerCloak
-"Cape elfique"
-END
-
-CONTROLBAR:ToolTipElvenRangerCloak
-"Requiert : niveau 2\n Becomes invisible when standing still\n\nClic gauche pour activer"
-END
-
 CONTROLBAR:TooltipDenethorPalantir
-"Denethor regarde dans le Palantír : il espionne les forces ennemies.\n\nClic gauche sur la zone cible"
+"Requiert : Niveau 3\nPeut être utilisé pour révéler le brouillard\nPeut aussi être utilisé sur les unités alliées et ennemies\nleur faisant perdre leur charisme\n\nType d'Action : Pénalité Active non cumulable\nClic gauche sur l'icône puis clic gauche sur la zone cible"
 END
 
 CONTROLBAR:DenethorPalantir
 "Vision du Palantír"
+END
+
+CONTROLBAR:DenethorSummon
+"In Servi&ce of the Steward"
+END
+
+CONTROLBAR:ToolTipDenethorSummon
+"Requires Level 6 \n Summons a temporary battalion of Citadel Guards \n Left click on icon to activate"
 END
 
 CONTROLBAR:ToolTipDenethorFailingRule
@@ -61225,6 +61221,34 @@ CONTROLBAR:DenethorFavor
 "Faveur de l'Intendant"
 END
 
+CONTROLBAR:DenethorSteward
+"Ste&ward of Gondor"
+END
+
+CONTROLBAR:ToolTipStewardLvl3
+"Denethor is protected by his guards \n Allows Denethor to rank up \n Left click to purchase upgrade \n\n Modifier Type: Leadership \n Rank 1: Allied units near Denethor gain +50% experience gain \n Faramir loses -33% armor and -33% experience gain \n Rank 3: Allied units near Denethor gain +33% armor \n Gandalf loses -33% armor and -33% experience gain \n Rank 6: Allied units near Denethor gain +33% damage \n Elessar loses -33% armor \n Stacks with Buffs and Spells \n Passive ability"
+End
+
+CONTROLBAR:ToolTipStewardLvl10
+"Denethor is protected by his guards \n\n Modifier Type: Leadership \n Rank 1: Allied units near Denethor gain +50% experience gain \n Faramir loses -33% armor and -33% experience gain \n Rank 3: Allied units near Denethor gain +33% armor \n Gandalf loses -33% armor and -33% experience gain \n Rank 6: Allied units near Denethor gain +33% damage \n Elessar loses -33% armor and -33% experience gain \n Stacks with Buffs and Spells \n Passive ability"
+End
+
+CONTROLBAR:DenethorHighAuthority
+"High Authorit&y"
+END
+
+CONTROLBAR:ToolTipDenethorHighAuthority
+"Commands targeted enemy units to flee for their lives \n Left click on icon then left click on target units"
+END
+
+CONTROLBAR:DenethorContest
+"Contest of W&ills"
+END
+
+CONTROLBAR:ToolTipDenethorContest
+"Requires Level 10 \n When cast on a friendly hero, increases damage output at the cost of armor \n When cast on an enemy hero, causes the hero to temporarily be stunned and lose armor \n Left click on icon then left click on target hero"
+END
+
 OBJECT:LossarnachAxeMan
 "Guerrier de Lossarnach"
 END
@@ -61235,6 +61259,18 @@ END
 
 OBJECT:GondorForlong
 "Forlong"
+END
+
+CONTROLBAR:GondorForlongRecruit
+"Recruit the Lord of Lossarnach \n \n 'True heart, true friend! Forlong!'"
+END
+
+CONTROLBAR:GondorForlongRevive
+"Revive the fallen Hero, Forlong"
+END
+
+CONTROLBAR:GondorForlongHotkey
+"For&long"
 END
 
 OBJECT:GondorGwaihir
@@ -61253,16 +61289,40 @@ CONTROLBAR:SummonEagleAlliesGondor
 "Messagers de Manwë"
 END
 
+CONTROLBAR:SummonElessar
+"The Return of the King"
+END
+
+CONTROLBAR:TooltipSummonElessar
+"Summons King Elessar accompanied by his Royal Guards \n His guards are temporary, but the King lasts until killed \n Modifier Type: Buff \n Nearby units gain +50% Armor, immunity to fear \n and knockback and trample resistance for a brief time \nLeft click on icon then left click on target area"
+END
+
 CONTROLBAR:SummonSpawnDenethor
 "L'Intendant du Gondor"
+END
+
+CONTROLBAR:SummonSpawnTrebuchet
+"N�menorean Engineering"
 END
 
 CONTROLBAR:SummonLossarnachAllies
 "Assistance de Lossarnach"
 END
 
+CONTROLBAR:SwornAllegiance
+"Sworn Allegiance"
+END
+
+CONTROLBAR:TooltipSwornAllegiance
+"Can be cast on a barracks or an archery range to temporarily decrease recruitment time for Fiefdom troops \n The troops come equipped with Armaments of the White City \n Left click on icon then left click on target building"
+END
+
 CONTROLBAR:TooltipSummonDolAmrothAllies
 "Invoque une citadelle de Dol Amroth, la cité portuaire de Belfalas. Son Prince est l'un des plus puissants et des plus respectés des seigneurs du Gondor, notamment à cause de son ascendance elfique.\nPermet de recruter le Prince Imrahil, des hommes d'armes et des Chevaliers au Cygne Argenté.\nLimité à 2 citadelles.\n\nClic gauche sur la zone cible"
+END
+
+CONTROLBAR:TooltipSummonDolAmrothAllies_WOTR
+"Summons a Dol Amroth Citadel \n Limited to 2 \n Once used, passively unlocks Men-at-Arms and Swan Knights \n Left click on icon then left click on target area"
 END
 
 CONTROLBAR:TooltipSummonEagleAlliesGondor
@@ -61271,6 +61331,10 @@ END
 
 CONTROLBAR:TooltipSummonSpawnDenethor
 "Invoque Denethor et son contingent de gardes de la Citadelle.\nDenethor fut jadis un grand homme, mais il est las des responsabilités qui pèsent sur ses épaules en cette époque troublée. Il organise la résistance du Gondor mais s'enfonce peu à peu dans le désespoir face aux maux qui assaillent sa patrie.\n\nClic gauche sur la zone cible"
+END
+
+CONTROLBAR:TooltipSummonSpawnTrebuchet
+"Summons a stationary trebuchet onto the battlefield \n Left click on icon then left click on target area"
 END
 
 CONTROLBAR:TooltipSummonLossarnachAllies
@@ -61374,6 +61438,10 @@ CONTROLBAR:TooltipDolGuldurAllies
 "Invoque de façon permanente un bastion de l'antique forteresse de Dol Guldur, désormais hantée par la présence maléfique du Nécromancien.\nPermet de recruter Khamûl l'Oriental et les rejetons d'Ungoliant.\nLimité à 2 bastions.\n\nClic gauche sur la zone cible"
 END
 
+CONTROLBAR:TooltipDolGuldurAllies_WOTR
+"Permanently summon a foul Dol Guldur Dungeon on to the battlefield \n Limited to 2 \n Allows recruitment of Spawns of Ungoliant and Castellans\n Left click on icon then left click on target position"
+END
+
 CONTROLBAR:TooltipSummonWraith
 "Invoque deux Nazgûl montés sur des Ombres ailées sur le champ de bataille.\nAucun serviteur de Sauron n'est plus vil ni plus déterminé à voir s'accomplir ses volontés, car la survie des Nazgûl dépend de son existence.\n\nClic gauche sur la zone cible"
 END
@@ -61448,6 +61516,10 @@ END
 
 CONTROLBAR:ToolTipKhamulLieutnant
 "Requiert : niveau 7\n Khamûl devient Lieutenant de la forteresse de Dol Guldur et revêt son armure noire sinistre, dont l'aura de décrépitude affaiblit les mortels.\n\nLes ennemis proches de Khamûl subissent des dégâts lentement.\n\nCapacité passive"
+END
+
+OBJECT:GuldurAncientEasterling
+"Ancient Easterling"
 END
 
 CONTROLBAR:ConstructMordorArmory
@@ -61540,6 +61612,10 @@ END
 
 CONTROLBAR:ToolTipPurchaseUpgradeMordorFortressShelobTerror
 "Requiert : Sorcellerie de Morgul\nInvoque temporairement Arachnée, dernier enfant d'Ungoliant, pour défendre la forteresse.\n\nC'est une créature démoniaque à l'apparence d'une araignée, une horreur qui hante la Terre du Millieu depuis de nombreuses années, chassant tout ce qui vit."
+END
+
+CONTROLBAR:ToolTipMordorFortressShelobTerror
+"Requires the Morgul Sorcery upgrade\nand the Terror of Cirith Ungol upgrade\nShelob is temporarily summoned to defend this Fortress"
 END
 
 UPGRADE:FortressShelobTerror
@@ -61671,6 +61747,10 @@ CONTROLBAR:ToolTipAzogSpawnOfTheDefiler
 "Requiert : niveau 10\n Invoque temporairement Bolg et un bataillon de Demi-Ogres.\nRejeton d'Azog, Bolg est un Orque cruel dont le passe-temps favori est de superviser les tortures et autres sévices qui ont lieu dans les cachots de Dol Guldur. C'est un véritable tortionnaire qui se délecte des souffrances qu'il fait endurer à ses prisonniers.\n\nClic gauche sur la zone cible"
 END
 
+CONTROLBAR:ToolTipAzogSpawnOfTheDefiler_WOTR
+"Requires Level 10 \n Temporarily summons a battalion of Gundabad Bodyguards \n Left click on icon then left click on target area"
+END
+
 CONTROLBAR:AzogToggleMounted
 "Le Warg Blanc"
 END
@@ -61723,6 +61803,14 @@ CONTROLBAR:ToolTipSpecialAbilityDrumsInTheDeep
 "Lorsque le rythme immonde des tambours monte des abîmes, les hordes de Gobelins émergent des sinistres tunnels de la Moria et se rassemblent pour la guerre.\nInvoque de façon permanente 5 hordes d'Orques de la Moria équipés d'armures.\nRespecte la limite des points de commandement.\n\nType d'Action : Pénalité active\nLes unités ennemies dans l'aire d'effet subissent -25% dégâts et -20% armure (Pénalité non cumulable).\n\nClic gauche sur la zone cible"
 END
 
+CONTROLBAR:SpecialAbilitySummonWyrm
+"Lesser Dra&gon"
+END
+
+CONTROLBAR:ToolTipSpecialAbilitySummonWyrm
+"Requires the Allegiance: Northern Wastes upgrade \n Temporarily summons a Fire Wyrm \n Left click on icon then left click on target area"
+END
+
 CONTROLBAR:PurchaseUpgradeDolFortressBanners
 "Etendards de Dol Amroth"
 END
@@ -61763,6 +61851,10 @@ END
 
 CONTROLBAR:LW_ToolTip_MordorVangaurdHorde
 "\n Type d'unité : unité héroïque\n Forts contre toutes les unités sauf les piquiers"
+END
+
+CONTROLBAR:LW_ToolTip_MordorVangaurdHorde_WOTR
+"6 Morgul Vanguards\n\nUnit Type: Hero Unit\nStrong vs. All Unit Types except pikes"
 END
 
 CONTROLBAR:ToolTipBuildMordorVangaurdHorde
@@ -61827,6 +61919,30 @@ CONTROLBAR:LW_ToolTipBuild_MordorMorgulOrcHorde
 "Type d'unité : infanterie d'élite\n Forts contre les piquiers"
 END
 
+CONTROLBAR:SorcerousSteel
+"Sorcerous Steel"
+END
+
+CONTROLBAR:ToolTipSorcerousSteel
+"Each consecutive melee attack decreases enemy armor by 5%\nStacks five times\nPassive ability"
+END
+
+OBJECT:MordorMorgulOrcPike
+"Morgul Pikeman"
+END
+
+OBJECT:HordeMordorMorgulOrcPike
+"Morgul Pikemen"
+END
+
+CONTROLBAR:SerratedArmor
+"Serrated Armor"
+END
+
+CONTROLBAR:ToolTipSerratedArmor
+"Requires Level 3\nA small percentage of received melee damage\nis redirected to the attacker\nPassive ability"
+END
+
 CONTROLBAR:SpecialAbilityShieldBubble
 //"Shield Bubble (G)"
 "Shield Bubble"
@@ -61858,14 +61974,6 @@ END
 
 CONTROLBAR:ToolTipIntimidation
 "Type d'Action : Pénalité passive\n La seule vue de leurs sinistres trophées glace le sang de leurs ennemis.\nLes héros et les unités héroïques ennemies proches subissent -25% dégâts et -20% armure (Pénalité non cumulable).\n\nCapacité passive"
-END
-
-CONTROLBAR:UglukSummon
-"Renforts de Saruman"
-END
-
-CONTROLBAR:ToolTipUglukSummon
-"Requiert : niveau 7\n Uglúk invoque plusieurs hordes de maraudeurs Uruk équipés de hallebardes.\n\nClic gauche sur une zone praticable"
 END
 
 CONTROLBAR:GreyHost
@@ -61972,6 +62080,30 @@ CONTROLBAR:LW_ToolTip_MordorEasterlingEasterlingHorde
 "\n Type d'unité : piquiers/archers d'élite\n Forts contre les épéistes et la cavalerie"
 END
 
+CONTROLBAR:LW_Unit_MordorEasterlingEasterlingSwordHorde
+"Easterling Pikemen - Easterling Swordsmen Horde"
+END
+
+CONTROLBAR:LW_Unit_MordorEasterlingEasterlingSwordHordePlural
+"Easterling Pikemen - Easterling Swordsmen Hordes"
+END
+
+CONTROLBAR:LW_ToolTip_MordorEasterlingEasterlingSwordHorde
+"\nUnit Type: Elite Pikemen and Elite Infantry\nStrong vs. Cavalry and Pikemen"
+END
+
+CONTROLBAR:LW_Unit_MordorEasterlingArcherEasterlingSwordHorde
+"Easterling Archer - Easterling Swordsmen Horde"
+END
+
+CONTROLBAR:LW_Unit_MordorEasterlingArcherEasterlingSwordHordePlural
+"Easterling Archer - Easterling Swordsmen Hordes"
+END
+
+CONTROLBAR:LW_ToolTip_EasterlingArcherEasterlingSwordHorde
+"\nUnit Type: Elite Archer and Elite Infantry\nStrong vs. Infantry and Pikemen"
+END
+
 CONTROLBAR:FuryofKhand
 "Furie de Khand"
 END
@@ -61992,6 +62124,10 @@ CONTROLBAR:ToolTipStewPot
 "Sam prépare une marmite de ragoût qui guérit les unités proches et détecte les unités furtives.\n\nClic gauche sur le terrain"
 END
 
+CONTROLBAR:ToolTipStewPot_Campaign
+"Requires Level 6 \n Summons a pot of stew that heals nearby units and detects stealth \n Left click on icon then left click on target position"
+END
+
 OBJECT:WhiteWolfLair
 "Tanière de Loups Blancs"
 END
@@ -62006,6 +62142,18 @@ END
 
 CONTROLBAR:ToolTipBuildWhiteWolf
 "Forts contre les épéistes et les archers\n\n The Fell Winter of 2911 brought to Eriador fearsome white wolves from the frozen wilds of Forodwaith."
+END
+
+OBJECT:HordeWildRisenDead
+"Dead of Arnor"
+END
+
+CONTROLBAR:ConstructWildRisenDeadHorde
+"Dead of &Arnor"
+END
+
+CONTROLBAR:ToolTipBuildWildRisenDeadHorde
+"Fell spirits have long haunted the ruined castles of ancient Angmar. When the Witch-king rode North in pursuit of the Ring, he sent these spirits forth, to inhabit the bodies of long-dead Arnorian soldiers."
 END
 
 CONTROLBAR:MOSLieutenant
@@ -62045,10 +62193,28 @@ CONTROLBAR:SarumanThunderBolt
 "Foudre du Rubicorne"
 END
 
+CONTROLBAR:SarumanThunderBoltFort
+"Lightning S&trike"
+END
+
 CONTROLBAR:ToolTipSarumanThunderBolt
 //"Requiert : niveau 10\n Strikes a powerful lightning bolt against targeted enemy\n\nClic gauche sur la cible"
 //"Requiert : niveau 7\n Strikes a powerful lightning bolt against targeted enemies\n\nClic gauche sur la cible"
 "Requiert : niveau 6\nDans un coup de tonnerre assourdissant, Saruman invoque un puissant éclair qu'il jette sur l'ennemi.\n\nClic gauche sur la cible"
+END
+
+CONTROLBAR:ToolTipSarumanThunderBoltFort
+//"Requires Level 10 \n Strikes a powerful lightning bolt against targeted enemy \n Left click icon then left click on target"
+//"Requires Level 7 \n Strikes a powerful lightning bolt against targeted enemies\nLeft click icon then left click on target"
+"Requires the White Council Observatory upgrade\n\n Before his fall, Saruman the White employed his considerable skill at magic to the benefit of the Free Peoples of Middle-earth.\n\nStrikes a powerful lightning bolt against targeted enemies\nLeft click icon then left click on target"
+END
+
+CONTROLBAR:PurchaseUpgradeRivendellFortEagle
+"&Aiwendil, Bird-Friend"
+END
+
+CONTROLBAR:ToolTipPurchaseUpgradeRivendellFortEagle
+"Requires the White Council Observatory upgrade\n\nRadagast the Brown, also known as Aiwendil, 'lover of birds', maintained great friendship Gwaihir's folk.\n\n Allows the Conservatory to summon a Giant Eagle"
 END
 
 CONTROLBAR:SarumanDominate
@@ -62135,8 +62301,20 @@ CONTROLBAR:ToolTipElvenWoodLorien
 "Type d'Action : Bonus\nFait pousser de façon effrénée un bosquet d'Arbres d'Or : tous les alliés gagnent +50% dégâts, +50% armure et sont immunisés à la peur et à la terreur (bonus cumulable).\n\nClic gauche sur la zone cible"
 END
 
+CONTROLBAR:IthilienGarden
+"Garden of Ithilien"
+END
+
+CONTROLBAR:TooltipIthilienGarden
+"Summons a lush garden onto the battlefield \n Modifier Type: Buff \n All allied units become stealthed \n Enemy units lose all leadership \n The Garden is inhabited by a number of Ithilien Rangers \n Left click icon then left click on target area"
+END
+
 CONTROLBAR:SummonRadagast
 "Radagast le Brun"
+END
+
+CONTROLBAR:SummonCampaignRadagast
+"The Brown Wizard"
 END
 
 CONTROLBAR:TooltipSummonRadagast
@@ -62271,6 +62449,10 @@ CONTROLBAR:LW_ToolTip_ElvenNandorBlademasterHorde
 "\nType d'unité : unité héroïque\nForts contre les piquiers et l'infanterie"
 END
 
+CONTROLBAR:LW_ToolTip_ElvenNandorBlademasterHorde_WOTR
+"12 Nandor H�r-Hathol\n\nUnit Type: Hero Unit \nStrong vs. Pikemen and Infantry"
+END
+
 CONTROLBAR:ToolTipBuildNandorBlademasterHorde
 "Requiert : Garnison des Galadhrim niveau 3\nAvant l'arrivée des Galadhrim, ces elfes Telerin vivaient déjà en Lórien depuis des millénaires. Ce sont les premiers défenseurs du royaume sylvestre, des combattants éternels aux prouesses martiales exceptionnels qui ont parfait leurs compétences militaires au cours de nombreux conflits.\nCe sont des maîtres d'arme grâce à qui la Lothlórien a pu repousser les forces des Ténèbres pendant de nombreux siècles.\nUnité héroïque, limitée à 2 bataillons.\n\nForts contre les piquiers et l'infanterie."
 END
@@ -62285,6 +62467,14 @@ END
 
 CONTROLBAR:NandorUnscathed
 "Pour Lórinand !"
+END
+
+CONTROLBAR:ToolTipPalaceGUnscathed
+"Required: Rank 2\n The Palace Guard temporarily gain +60% Armor and is resistant to knockback but lose 40% speed \n Left click to activate"
+END
+
+CONTROLBAR:PalaceGUnscathed
+"Elven Endu&rance"
 END
 
 CONTROLBAR:ToolTipNandorTreasure
@@ -62417,6 +62607,10 @@ OBJECT:GMirrorDescription
 "Permet de rechercher des améliorations spéciales pour la Lórien.\n Détecte les unités furtives.\n Limité à 1" 
 END
 
+CONTROLBAR:ToolTipConstructGaladrielMirror_Disabled
+"Researches special faction upgrades \n Detects stealth \n Limited to 1 \n Increases command point limit by 25 \n \n The Mirror of Galadriel is already built"
+END
+
 UPGRADE:ThingsthatWere
 "Des choses Qui Furent"
 END
@@ -62439,6 +62633,14 @@ END
 
 CONTROLBAR:ToolTipBuildThingsthatAre
 "Augmente la vitesse de production des Guerriers et Archers de la Lórien, des Sentinelles de Cerin Amroth et des Gardiens des Marches pendant une courte durée."
+END
+
+CONTROLBAR:CallofBelegaer
+"&Call of Belegaer"
+END
+
+CONTROLBAR:ToolTipCallofBelegaer
+"Requires the White Council Observatory upgrade\n\nThe presence of Cirdan the Shipwright causes Elves to long for the Sea and their journey to the Undying Lands.\n\nIncreases production speed of Elven units for a short time"
 END
 
 OBJECT:WildUrshak
@@ -62505,6 +62707,14 @@ CONTROLBAR:ToolTipGothmogSiegeMaster
 "Requiert : niveau 6\nOrdonne un barrage de têtes décapitées dans la zone cible : les unités touchées subissent de lourds dégâts et sont empoisonnées.\n\nClic gauche sur la zone cible\n\nType d'Action : Charisme\n Toutes les unités de siège proches de Gothmog gagnent +15% dégâts, +15% vitesse et une cadence de tir plus élevée.\n\n Capacité passive"
 END
 
+CONTROLBAR:GothmogIntoTheFray
+"Into the Fra&y"
+END
+
+CONTROLBAR:ToolTipGothmogIntoTheFray
+"Requires Level 10\nAllied units in a wide radius gain +15% movement speed and +33% damage\nLeft click to activate"
+END
+
 OBJECT:IsengardLonghouse
 "Maison longue Dunlending"
 END
@@ -62515,6 +62725,10 @@ END
 
 CONTROLBAR:TooltipLonghouse
 "Invoque de façon permanente une Maison longue des Dunlendings sous la bannière de la Main Blanche.\n Permet de recruter leur chef Wulfgar, les Archers Dunlendings et les Cavaliers maraudeurs.\nLimité à 2 Maisons longues.\n\nClic gauche sur la position cible"
+END
+
+CONTROLBAR:TooltipLonghouse_WOTR
+"Permanently summon a Dunlending Longhouse under the banner of the White Hand \n Limited to 2 \n Allows recruitment of Dunlending Longbowmen and Dunnish Outriders at the Clan Steading\n Left click on icon then left click on target position"
 END
 
 OBJECT:IsengardWulfgar
@@ -62595,6 +62809,10 @@ CONTROLBAR:ToolTipBuildIsengardDunlandArcherHorde
 "Les collines rocheuses du Pays de Dun sont difficiles à cultiver, ce qui a conduit son peuple à une culture de la chasse basée sur la légende du Corbeau Blanc, leur emblème.\nEnnemis ancestraux du Rohan, les gens de Dun se sont tournés facilement du côté de Saruman pendant la Guerre de l'Anneau. Ce sont des combattants endurcis dont la rancoeur des Rohirrim en fait des soldats formidables sur le champ de bataille.\nArchers d'élite, forts contre l'infanterie."
 END
 
+CONTROLBAR:ToolTipBuildIsengardDunlandArcherHorde_WOTR
+"Requires Clan Steading Level 2 and Dunlending Longhouse \n Elite Archer \nStrong vs. Infantry \n \n 'The rocky hills of Dunland are difficult to farm, resulting in a sprawling culture of hunting based around the legend of the White Crow.'"
+END
+
 CONTROLBAR:LW_ToolTipBuild_IsengardDunlandArcherHorde
 "Type d'unité : archers d'élite\nForts contre l'infanterie"
 END
@@ -62623,6 +62841,10 @@ END
 
 CONTROLBAR:ToolTipBuildIsengardDunlandRiderHorde
 "Les Hommes du Pays de Dun n'apprécient pas les sentiments de supériorité équestre des Rohirrim, affirmant que leurs Maraudeurs peuvent rivaliser avec n'importe quel cavalier de Rohan.\nEnnemis ancestraux du Rohan, les gens de Dun se sont tournés facilement du côté de Saruman pendant la Guerre de l'Anneau. Ce sont des combattants endurcis dont la rancoeur des Rohirrim en fait des soldats formidables sur le champ de bataille.\nCavaliers d'élite, forts contre les archers."
+END
+
+CONTROLBAR:ToolTipBuildIsengardDunlandRiderHorde_WOTR
+"Requires Clan Standing Level 2 and Dunlending Longhouse \n Elite Cavalry \nStrong vs. Archers \n \n 'The Men of Dunland do not take kindly to notions of Rohirric equestrian superiority, claiming their Outriders can match any Rider of Rohan.'"
 END
 
 CONTROLBAR:LW_ToolTipBuild_IsengardDunlandRiderHorde
@@ -62727,6 +62949,11 @@ END
 GUI:LORIENINFANTRYDiscount
 // Context: used to display infantry discount modifier in palantir
 "Coût infanterie de base\net héros -%d%%"
+END
+
+GUI:MIRKWOODHERODiscount
+// Context: used to display infantry discount modifier in palantir
+"Hero cost -%d%%"
 END
 
 GUI:URUKDiscount
@@ -63231,6 +63458,14 @@ CONTROLBAR:LW_Unit_MenofDaleSwordHorde
 "Epéistes de Dale"
 END
 
+CONTROLBAR:LW_Unit_MenofDaleSwordComboHorde
+"Barding Swordsmen Combo Battalion"
+END
+
+CONTROLBAR:LW_Unit_MenofDaleSwordComboHordePlural
+"Barding Swordsmen Combo Battalions"
+END
+
 CONTROLBAR:LW_ToolTip_MenofDaleSwordHorde
 "\nType d'unité : Elite Infantry\nForts contre les piquiers"
 END
@@ -63262,6 +63497,10 @@ END
 
 CONTROLBAR:ToolTipBuildEredLuinTraderHorde
 "Requiert : Hall des Guerriers niveau 2 et l'amélioration Arkenstone\nLes Nains des Montagnes Bleues sont connus pour leur culture industrieuse et mercantile. Ils voyagent à travers toute la Terre du Milieu pour vendre leurs marchandises principalement avec les Hommes d'Eriador, les Elfes du Lindon et bien sûr avec le peuple de Durin.\n\n Soutien d'infanterie, forts contre les piquiers."
+END
+
+CONTROLBAR:ToolTipBuildEredLuinTraderHordeInn
+"Support Infantry \nStrong vs. Pikemen \n \n Dwarves from the Blue Mountains are known for their industrious, mercantile culture, and travel across Middle-earth to sell their wares."
 END
 
 CONTROLBAR:TraderEredLuinCram
@@ -63316,19 +63555,19 @@ End
 
 //------------ Iron Hill Riders ---------------
 OBJECT:IronHillRider
-"Chevaucheur de Bélier des Monts de Fer"
+"Chevaucheur de Bélier des Monts du Fer"
 END
 
 OBJECT:HordeIronHillRider
-"Chevaucheurs de Béliers des Monts de Fer"
+"Chevaucheurs de Béliers des Monts du Fer"
 END
 
 CONTROLBAR:ConstructIronHillRiderHorde
-"Chevaucheurs de Béliers des Monts de Fer"
+"Chevaucheurs de Béliers des Monts du Fer"
 END
 
 CONTROLBAR:LW_Unit_IronHillRiderHorde
-"Chevaucheurs de Béliers des Monts de Fer"
+"Chevaucheurs de Béliers des Monts du Fer"
 END
 
 CONTROLBAR:LW_ToolTip_IronHillRiderHorde
@@ -63336,7 +63575,7 @@ CONTROLBAR:LW_ToolTip_IronHillRiderHorde
 END
 
 CONTROLBAR:ToolTipBuildIronHillRiderHorde
-"Requiert : l'amélioration Arkenstone\nLes béliers sont les montures favorites des Nains. Les Monts de Fer sont peuplées d'un grand nombre de ces animaux, mais seuls les plus forts et résistants sont sélectionnés pour le dressage en tant que monture.\n\nCavalerie d'élite, forts contre les archers"
+"Requiert : l'amélioration Arkenstone\nLes béliers sont les montures favorites des Nains. Les Monts du Fer sont peuplées d'un grand nombre de ces animaux, mais seuls les plus forts et résistants sont sélectionnés pour le dressage en tant que monture.\n\nCavalerie d'élite, forts contre les archers"
 END
 
 CONTROLBAR:LW_ToolTipBuild_IronHillRiderHorde
@@ -63388,9 +63627,21 @@ OBJECT:ThrorsHoard
 "Trésor de Thrór"
 End
 
+OBJECT:CampaignCacheTreasure
+"Trésor"
+End
+
 CONTROLBAR:TooltipThrorHoard
 //"Summons the fire breathing Dragon to the battlefield \n\nClic gauche sur une zone praticable"
 "Invoque un tas de pièces d'or, de bijoux et de richesses accumulées par les Nains.\n Attention à votre avarice, elle peut vous jouer des tours !..."
+END
+
+CONTROLBAR:CampaignHiddenCache
+"Hidden Cache"
+END
+
+CONTROLBAR:TooltipCampaignHiddenCache
+"Summons a cache of resources \n Left click icon then left click on pathable location"
 END
 
 CONTROLBAR:BilboRecruit
@@ -63739,12 +63990,24 @@ CONTROLBAR:ToolTipGandalfGloriousCharge
 "Requiert : niveau 5 \n Les archers nains et les archers de Dale gagnent +20% portée et +15% dégâts.\n\nClic gauche pour activer"
 END
 
+CONTROLBAR:ToolTipRivendellGandalfGloriousCharge
+"Nearby archers gain +20% range and +15% damage \n Left click to activate"
+END
+
+CONTROLBAR:ToolTipFellowshipGandalfGloriousCharge
+"Drastically increases vision range and shroud reveal \n for a short time \n Left click to activate"
+END
+
 CONTROLBAR:GandalfHalflingLeaf
 "Charette de Gandalf"
 END
 
 CONTROLBAR:ToolTipGandalfHalflingLeaf
 "Requiert : niveau 3 \n Gandalf invoque son chariot de voyage : il soigne les alliés proches.\n\nClic gauche sur une zone praticable"
+END
+
+CONTROLBAR:ToolTipRivendellGandalfHalflingLeaf
+"Summons Gandalf's Travelling Cart\n Heals nearby allies \n Left click icon then left click on pathable location"
 END
 
 CONTROLBAR:GandalfDisturber
@@ -63771,13 +64034,37 @@ CONTROLBAR:ToolTipGandalfYouShallNotPass
 "Requiert : niveau 10 \n Etourdit les unités ennemies dans un large rayon autour de Gandalf.\n\nClic gauche pour activer"
 END
 
+CONTROLBAR:ShrugOff
+"Shr&ug Off"
+END
+
+CONTROLBAR:ToolTipShrugOff
+"Requires Level 3 \n Slighty damages and stuns enemy units in a small radius surrounding Thorin \n Thorin gains +20% Movement Speed \n Left click to activate"
+END
+
+CONTROLBAR:ToolTipRivendellGandalfYouShallNotPass
+"Stuns enemy units in a wide radius surrounding Gandalf \n Left click to activate"
+END
+
+CONTROLBAR:ToolTipFellowshipGandalfYouShallNotPass
+"Requires Level 3 \n Stuns enemy units in a wide radius surrounding Gandalf \n Left click to activate"
+END
+
 /////////////EreborDain////////////////////////
 CONTROLBAR:EreborDainLeadership
-"Seigneur des Monts de Fer"
+"Seigneur des Monts du Fer"
 End
 
 CONTROLBAR:ToolTipEreborDainLeadership
-"Type d'Action : Charisme \n Les unités des Monts de Fer proches de Dáin gagnent +33% dégâts, +33% armure, et gagnent de l'expérience 50% plus rapidement (bonus cumulable). \n\nCapacité passive"
+"Type d'Action : Charisme \n Les unités des Monts du Fer proches de Dáin gagnent +33% dégâts, +33% armure, et gagnent de l'expérience 50% plus rapidement (bonus cumulable). \n\nCapacité passive"
+END
+
+CONTROLBAR:EreborOldDainLeadership
+"King Under the Mountain"
+End
+
+CONTROLBAR:ToolTipEreborOldDainLeadership
+"Modifier Type: Leadership \n Units near Dáin gain +33% Damage, +33% Armor, and earn experience 50% faster \n Stacks with Buffs and Spells \n Passive ability"
 END
 
 CONTROLBAR:EreborDainBarukKhazad
@@ -63801,7 +64088,7 @@ CONTROLBAR:EreborDainToTheKing
 End
 
 CONTROLBAR:ToolTipEreborDainToTheKing
-"Requiert : niveau 10 \n A pied : Dáin invoque à ses côtés 3 bataillons de piquiers des Monts de Fer.\n Sur son sanglier : Dáin invoque à ses côtés 3 bataillons de Chevaucheurs de béliers des Monts de Fer.\n\nClic gauche sur une zone praticable"
+"Requiert : niveau 10 \n A pied : Dáin invoque à ses côtés 3 bataillons de piquiers des Monts du Fer.\n Sur son sanglier : Dáin invoque à ses côtés 3 bataillons de Chevaucheurs de béliers des Monts du Fer.\n\nClic gauche sur une zone praticable"
 End
 
 CONTROLBAR:EreborDainToTheKingMounted
@@ -63809,7 +64096,7 @@ CONTROLBAR:EreborDainToTheKingMounted
 End
 
 CONTROLBAR:ToolTipEreborDainToTheKingMounted
-"Requiert : niveau 10 \n A pied : Dáin invoque à ses côtés 3 bataillons de piquiers des Monts de Fer.\n Sur son sanglier : Dáin invoque à ses côtés 3 bataillons de Chevaucheurs de béliers des Monts de Fer.\n\nClic gauche sur une zone praticable"
+"Requiert : niveau 10 \n A pied : Dáin invoque à ses côtés 3 bataillons de piquiers des Monts du Fer.\n Sur son sanglier : Dáin invoque à ses côtés 3 bataillons de Chevaucheurs de béliers des Monts du Fer.\n\nClic gauche sur une zone praticable"
 End
 
 CONTROLBAR:BrotherhoodLeadership
@@ -63923,7 +64210,7 @@ OBJECT:EreborRoac
 END
 
 CONTROLBAR:EreborRoacRecruit
-"Recrutez le Seigneur des Corbeaux, Roäc.\n\nPendant des siècles, les Nains d'Erebor ont maintenu une étroite amitié avec les corbeaux de la Montagne Solitaire, les employant comme messagers et tenant compte de leurs sages conseils.\nC'est leur chef Roäc qui annonça la mort de Smaug à Thorin et Compagnie, après que la grive fut allé le chercher. Après cela, il fut chargé d'envoyer des émissaires de son peuple pour demander du soutien à Dáin, seigneur des Monts de Fer."
+"Recrutez le Seigneur des Corbeaux, Roäc.\n\nPendant des siècles, les Nains d'Erebor ont maintenu une étroite amitié avec les corbeaux de la Montagne Solitaire, les employant comme messagers et tenant compte de leurs sages conseils.\nC'est leur chef Roäc qui annonça la mort de Smaug à Thorin et Compagnie, après que la grive fut allé le chercher. Après cela, il fut chargé d'envoyer des émissaires de son peuple pour demander du soutien à Dáin, seigneur des Monts du Fer."
 END
 
 CONTROLBAR:EreborRoacRevive
@@ -63987,7 +64274,7 @@ CONTROLBAR:RoacMessenger
 END
 
 CONTROLBAR:ToolTipRoacMessenger
-"Requiert : niveau 5\nRoäc envoie des émissaires de son peuple pour demander à Dáin et à ses troupes d'accourir.\nInvoque un bataillon de Guerriers des Monts de Fer.\n\nClic gauche sur une zone praticable"
+"Requiert : niveau 5\nRoäc envoie des émissaires de son peuple pour demander à Dáin et à ses troupes d'accourir.\nInvoque un bataillon de Guerriers des Monts du Fer.\n\nClic gauche sur une zone praticable"
 END
 
 UPGRADE:RoacLevel3
@@ -64088,6 +64375,76 @@ CONTROLBAR:ToolTipElrohirSwiftStrikes
 "Requiert : niveau 3 \n Elrohir gagne +33% vitesse d'attaque mais perd -33% armure.\n\nClic gauche pour activer"
 END
 
+CONTROLBAR:TwinsHeroesLeadership
+"Representatives of Elves and Men"
+End
+
+CONTROLBAR:ToolTipTwinsHeroesLeadershipElladan
+"Modifier Type: Leadership \n Grants 50% experience gain and 25% armour to nearby Bree-landers, D�nedain and Elves \n At level 5, reduces recharge time for nearby heroes abilities by 25% and \n increases auto-heal of nearby heroes by 25%\n Does not affect his brother \n Stacks with Buffs and Spells \n Passive ability"
+End
+
+CONTROLBAR:ToolTipTwinsHeroesLeadershipElrohir
+"Modifier Type: Leadership \n Grants 50% experience gain and 25% damage to nearby Bree-landers, D�nedain and Elves \n At level 5, reduces recharge time for nearby heroes abilities by 25% and \n increases auto-heal of nearby heroes by 25%\n Does not affect his brother \n Stacks with Buffs and Spells \n Passive ability"
+End
+
+//------------ New Rivendell Stuff ---------------
+//------------ Rivendell Fortress stuff ---------------
+CONTROLBAR:PurchaseUpgradeRivendellFortressObservatory
+"White Council Obser&vatory"
+END
+
+TOOLTIP:LackObservatoy
+"Requires the Girdle of Imladris upgrade \n Unlocks three spells that can be cast from the Fortress \n Lightning Strike: Saruman's magic deals damage and stuns units within its radius \n Call of Belegaer: Cirdan's wisdom temporarily decreases build time of Elf units \n Aiwendil, Bird-Friend: Radagast's friendship with Gwaihir's folk allows the fortress to temporarily summon a Giant Eagle."
+END
+
+CONTROLBAR:ToolTipPurchaseUpgradeRivendellFortressObservatory
+"Unlocks three spells that can be cast from the Fortress \n Lightning Strike: Saruman's magic deals damage and stuns units within its radius \n Call of Belegaer: Cirdan's wisdom temporarily decreases cost and build time of Elf units \n Aiwendil, Bird-Friend: Radagast's friendship with Gwaihir's folk allows the fortress to temporarily summon a Giant Eagle."
+END
+
+CONTROLBAR:PurchaseUpgradeRivendellFortressFlamingMunitions
+"&Wardens of Imladris"
+END
+
+CONTROLBAR:ToolTipPurchaseUpgradeRivendellFortressFlamingMunitions
+"Adds magic damage to the fortress and to all attached towers"
+END
+
+CONTROLBAR:PurchaseUpgradeRivendellFortressBanners
+"Ba&nners of Gil-galad"
+END
+
+CONTROLBAR:ToolTipPurchaseUpgradeRivendellFortressBanners
+"Provides additional experience to nearby troops \n Reduces Hero cost by 10% \n Reduces Hero recruit time by 10% \n Reduces cost of builders by 20% \n \n Only applies to heroes recruited at the Conservatory"
+END
+
+CONTROLBAR:PurchaseUpgradeRivendellFortressMoat
+"Girdle of I&mladris"
+END
+CONTROLBAR:ToolTipPurchaseUpgradeRivendellFortressMoat
+"Increases Conservatory's armor and hitpoints"
+END
+
+CONTROLBAR:PurchaseUpgradeRivendellFortressForge
+"&Anvil of Eregion"
+END
+
+CONTROLBAR:ToolTipPurchaseUpgradeRivendellFortressForge
+//"Reduces the cost of Elven unit upgrades: \n 1 fortress with anvil = 10% cheaper \n 2 fortresses with anvil = 20% cheaper \n 3 fortresses with anvil = 25% cheaper \n 4 fortresses with anvil = 30% cheaper \n 5 fortresses with anvil = 35% cheaper"
+"Reduces research cost for Rivendell unit upgrades: \n 1 fortress with Anvil = 10% cheaper \n 2 fortresses with Anvil = 20% cheaper"
+END
+
+CONTROLBAR:PurchaseUpgradeRivendellFortressMerriment
+"Song &and Merriment"
+END
+
+CONTROLBAR:ToolTipPurchaseUpgradeRivendellFortressMerriment
+"Enables the recruitment of Rivendell Revelers from the Conservatory"
+END
+
+UPGRADE:RivendellMedicine
+"Elvish Medicine"
+END
+
 CONTROLBAR:PurchaseTechnologyRivendellMedicine
 "Rechercher Elvish Medicine: A Compendium"
 END
@@ -64124,10 +64481,6 @@ CONTROLBAR:ConstructNoldorVeteransGilGaladHorde
 "Reflections Upon the Battle of Dagorlad"
 END
 
-CONTROLBAR:ToolTipBuildNoldorVeteransGilGaladHorde
-"A collection of writings on the Battle of Dagorlad. Timelines, battleplans, and poetry.\n\n Allows for an additional battallion of Last Alliance Veterans to be recruited from the Library \n Strong vs. All Unit Types"
-END
-
 UPGRADE:RivendellFeanorSmithing
 "Practical Application of Fëanorian Smithing"
 END
@@ -64138,6 +64491,22 @@ END
 
 CONTROLBAR:ToolTipPurchaseTechnologyRivendellFeanorSmithing
 "This exhaustive treatise on Noldorin smithing techniques was authored by Celebrimbor. \n\n Permanently reduces cost of unit upgrades"
+END
+
+CONTROLBAR:PurchaseTechnologyRivendellMalice
+"A Sleepless Malice:\nReflections on the &Nature of Evil"
+END
+
+CONTROLBAR:ToolTipPurchaseTechnologyRivendellMalice
+"A passionate appeal to watchfulness and warning against inertia in times of apparent peace, written by King Thranduil. \n\n Permanently Stations Noldorin Guards at structures"
+END
+
+CONTROLBAR:PurchaseTechnologyRivendellDagorlad
+"Re&flections Upon the Battle of Dagorlad"
+END
+
+CONTROLBAR:ToolTipPurchaseTechnologyRivendellDagorlad
+"A collection of writings on the Battle of Dagorlad. Timelines, battleplans and poetry, gathered by Valandil, son of Isildur.\n\n Allows for an additional battallion of Veterans of the Last Alliance to be recruited from the Dormitory \n\n Sauron's fall came at great cost. With Gil-galad slain, many Elven veterans chose to linger in Rivendell, house of their late King's herald."
 END
 
 UPGRADE:RivendellAnduril
@@ -64152,12 +64521,505 @@ CONTROLBAR:ToolTipPurchaseTechnologyRivendellAnduril
 "Reforge the Sword of Elendil\n\n Aragorn takes up his claim to the throne of Gondor\n Aragorn gagne +40% dégâts magiques."
 END
 
+TOOLTIP:LackLayofLeithianlvl3ForgeTechnology
+"Requires Level 3 Rivendell Forge and The Lay of Leithian"
+END
+
+UPGRADE:RivendellAnduril
+"And�ril, the Flame of the West"
+END
+
+TOOLTIP:RivendellAnduril
+"And�ril, the Flame of the West"
+END
+//------------ Gildor --------------
+OBJECT:Gildor
+"Gildor Inglorion"
+END
+
+CONTROLBAR:ToolTipBuildGildor
+"Recruit the wandering Noldor, Gildor"
+END
+
+CONTROLBAR:GildorRecruit
+"Recruit the wandering Noldor, Gildor. \n \n 'Elves seldom give unguarded advice, for advice is a dangerous gift, even from the wise to the wise, and all courses may run ill.'"
+END
+
+CONTROLBAR:GildorRevive
+"Revive the fallen warrior, Gildor"
+END
+
+CONTROLBAR:GildorHotkey
+"Gi&ldor"
+END
+
+CONTROLBAR:GildorLeadership
+"Companion"
+End
+
+CONTROLBAR:ToolTipGildorLeadership
+"Modifier Type: Leadership \n Hobbits near Gildor gain +33% Damage and +33% Armor \n Stacks with Buffs and Spells \n Passive ability"
+END
+
+CONTROLBAR:GildorExiles
+"The Wandering Compa&nies"
+END
+
+CONTROLBAR:TooltipGildorExiles
+"Requires Level 3 \n Gildor summons a single group of Noldor Exiles to his side \n Left click icon to activate \n\nRequires Level 8 \n Gildor summons three groups of Noldor Exiles to his side \n Left click icon to activate"
+END
+
+CONTROLBAR:TooltipGildorExiles_Campaign
+"Gildor summons a single group of Noldor Exiles to his side \n Left click icon to activate \n\nRequires Level 8 \n Gildor summons three groups of Noldor Exiles to his side \n Left click icon to activate"
+END
+
+CONTROLBAR:GildorTelperion
+"Light of Te&lperion"
+END
+
+CONTROLBAR:ToolTipGildorTelperion
+"Requires Level 5 \n Gildor reveals his blessed Lantern, causing enemy units to flee in terror \n Left click to activate"
+END
+
+CONTROLBAR:ToolTipGildorTelperion_Campaign
+"Gildor reveals his blessed Lantern, causing enemy units to flee in terror \n Left click to activate"
+END
+
+//------------ Noldor Exiles --------------
+
+OBJECT:NoldorExile
+"Noldor Exile"
+END
+
+OBJECT:HordeNoldorExiles
+"Noldor Exiles"
+END
+
+CONTROLBAR:ConstructElvenNoldorExileHorde
+"Noldor Exiles"
+END
+
+CONTROLBAR:ToolTipBuildElvenNoldorExileHorde
+"Strong vs. Cavalry, Siege and Heroes"
+END
+
+CONTROLBAR:SongToElbereth
+"Song to E&lbereth"
+End
+
+CONTROLBAR:ToolTipSongToElbereth
+"Friendly units temporarily become immune to fear\nLeft click to activate"
+End
+
+//------------ Dunedain --------------
+
+CONTROLBAR:PurchaseUpgradeDunedainSpears
+"Eq&uip Spears"
+END
+CONTROLBAR:ToolTipPurchaseUpgradeDunedainSpears
+"Permanently equips rangers with spears \n Increases the damage done towards cavalry and heroes\n Only one upgrade may be purchased at a time\n Left click to upgrade this unit"
+END
+
+UPGRADE:DunedainSpear
+"Spears Equipped"
+END
+
+TOOLTIP:DunedainSpear
+"Spears Equipped"
+END
+
+CONTROLBAR:UpgradeDunedainSpears
+"Spears Equipped"
+END
+CONTROLBAR:ToolTipUpgradeDunedainSpears
+"Increases the damage done towards cavalry and heroes\n Passive Ability"
+END
+
+CONTROLBAR:PurchaseUpgradeDunedainSwords
+"Equip S&words"
+END
+CONTROLBAR:ToolTipPurchaseUpgradeDunedainSwords
+"Permanently equips rangers with swords \n Increases damage towards infantry and slightly increases armor\n Only one upgrade may be purchased at a time\n Left click to upgrade this unit"
+END
+
+UPGRADE:DunedainSword
+"Swords Equipped"
+END
+
+TOOLTIP:DunedainSword
+"Swords Equipped"
+END
+
+CONTROLBAR:UpgradeDunedainSwords
+"Swords Equipped"
+END
+CONTROLBAR:ToolTipUpgradeDunedainSwords
+"Increases damage towards infantry and slightly increases armor\n Passive Ability"
+END
+
+CONTROLBAR:ToolTipPurchaseUpgradeDunedainArrows
+"Permanently equips rangers with bows\n Increases base damage and adds additional piercing damage to arrows\n Only one upgrade may be purchased at a time\n Left click to upgrade this unit"
+END
+
+TOOLTIP:LackArnorFireArrowsDunedain
+"Research upgrade at Forge to enable this equipment \nPermanently equips rangers with bows\n Increases base damage and adds Magic damage to arrows\n Only one upgrade may be purchased at a time"
+END
+
+TOOLTIP:LackArnorFireArrowsDunedain_Inn
+"Research Fire Arrows upgrade at Archery Range\nto enable this equipment \nPermanently equips rangers with bows\n Increases base damage and adds Magic damage to arrows\n Only one upgrade may be purchased at a time"
+END
+
+
+CONTROLBAR:PurchaseUpgradeDunedainCaptain
+"D�&nedain Captain Upgrade"
+END
+
+CONTROLBAR:ToolTipPurchaseUpgradeDunedainCaptainforDunedain
+"Increases unit to Level 2 and unlocks Woodscraft special power \n Can only be equipped at Level 1"
+END
+
+Tooltip:LackDunedainCaptainBasicTraining
+"Research upgrade at Forge to enable this equipment \n When equipped, increases this battalion to Level 2 and unlocks Woodscraft special power"
+End
+
+Tooltip:LackDunedainCaptainBasicTraining_Inn
+"Research Banner Carrier upgrade at Blacksmith\nto enable this equipment \n When equipped, increases this battalion to Level 2 and unlocks Woodscraft special power"
+End
+
+CONTROLBAR:PurchaseUpgradeDunedainCaptainforBree
+"D�nedain &Captain Upgrade"
+END
+
+CONTROLBAR:ToolTipPurchaseUpgradeDunedainCaptainforBree
+"Increases a unit to Level 2 \n Can only be equipped at Level 1"
+END
+
+CONTROLBAR:ElvenRangerCloak
+"Cape elfique"
+END
+
+CONTROLBAR:ToolTipElvenRangerCloak
+"Requiert : niveau 2\n Becomes invisible when standing still\n\nClic gauche pour activer"
+END
+
+CONTROLBAR:ToolTipElvenRangerCloakInn
+"Becomes invisible when standing still \n Left click to activate"
+END
+
+
+//------------ Took Archers --------------
+
+OBJECT:TookArcher
+"Took Archer"
+END
+
+OBJECT:HordeTookArchers
+"Took Archers"
+END
+
+CONTROLBAR:ConstructTookArcherHorde
+"Too&k Archers"
+END
+
+CONTROLBAR:ToolTipBuildTookArcherHorde
+"Strong vs. Infantry \n Can stealth near trees \n \n Like all Hobbits, these archers are blessed with keen eyes and steady hands, with an added dose of courage native to the Took family."
+END
+
+//------------ Took Archers --------------
+
+OBJECT:DunedainOutrider
+"D�nedain Outrider"
+END
+
+OBJECT:HordeDunedainOutrider
+"D�nedain Outriders"
+END
+
+CONTROLBAR:ConstructDunedainOutriderHorde
+"D�nedai&n Outriders"
+END
+
+CONTROLBAR:ToolTipBuildDunedainOutriderHorde
+"Strong vs. Archers\n \n The wilds of Eriador stretch far and wide, and cannot all be protected by Men wandering on foot."
+END
+
+//------------ Bree-land Farmers ---------------
+OBJECT:BreeFarmer
+"Bree-land Farmer"
+END
+
+OBJECT:HordeBreeFarmer
+"Bree-land Farmers"
+END
+
+CONTROLBAR:ConstructBreeFarmerHorde
+"Bree-land Farmers"
+END
+
+CONTROLBAR:LW_Unit_BreeFarmerHorde
+"Bree-land Farmers"
+END
+
+CONTROLBAR:LW_ToolTip_BreeFarmerHorde
+"\n Type d'unité : unité standard\n Forts contre les piquiers"
+END
+
+CONTROLBAR:ToolTipBuildBreeFarmerHorde
+"Forts contre les piquiers\n Can repair structures"
+END
+
+CONTROLBAR:LW_ToolTipBuild_BreeFarmerHorde
+"Type d'unité : unité standard\n Forts contre les piquiers"
+END
+
+CONTROLBAR:Greenfingers
+"Greenfingers"
+END
+
+CONTROLBAR:ToolTipGreenfingers
+"Requiert : niveau 5\n Gives a 5% production bonus to nearby orchards"
+END
+
+//------------ Bree-land Guard ---------------
+OBJECT:BreeTownsguard
+"Bree-Land Townsguard"
+END
+
+OBJECT:HordeBreeTownsguard
+"Bree-Land Townsguard"
+END
+
+CONTROLBAR:ConstructBreeTownsguardHorde
+"Bree-Land Townsguard"
+END
+
+CONTROLBAR:LW_Unit_BreeTownsguardHorde
+"Bree-Land Townsguard"
+END
+
+CONTROLBAR:LW_ToolTip_BreeTownsguardHorde
+"\n Type d'unité : unité standard\n Forts contre la cavalerie"
+END
+
+CONTROLBAR:ToolTipBuildBreeTownsguardHorde
+"Forts contre la cavalerie"
+END
+
+CONTROLBAR:LW_ToolTipBuild_BreeTownsguardHorde
+"Type d'unité : unité standard\n Forts contre la cavalerie"
+END
+
+CONTROLBAR:BreeArmor
+"Armor from the Barrows"
+END
+
+CONTROLBAR:ToolTipBreeArmor
+"Requiert : niveau 5\n Units attain a 33% armure bonus"
+END
+
+//------------ Vétérans de l'Ultime Alliance aka Ñoldor and Fall of Gil Galad ---------------
+OBJECT:NoldorVeterans
+"Vétéran Ñoldor"
+END
+
+OBJECT:HordeNoldorVeterans
+"Vétérans de l'Ultime Alliance"
+END
+
+CONTROLBAR:LAVeteranManyWars
+"Veterans of Many Wars"
+End
+
+CONTROLBAR:ToolTipLAVeteranManyWars
+"The Veterans have fought many battles and witnessed great triumphs and tragic defeats,\nand are learned in the art of war.\n\nNearby allied troops gain +25% experience gain.\nPassive ability"
+End
+
+CONTROLBAR:LAVeteranEregion
+"Siege of E&region"
+End
+
+CONTROLBAR:ToolTipLAVeteranEregion
+"The Veterans were there during Sauron's attack on the Noldorin realm of Eregion.\n\nThe battalion is temporarily immune to knockback, trample and fear \n Modifier Type: Weapon \n Stacks with Leadership, Buffs, and Spells \nLeft click to activate.\n\nOnly one ability may be active at a time."
+End
+
+CONTROLBAR:LAVeteranLastAlliance
+"&War of the Last Alliance"
+End
+
+CONTROLBAR:ToolTipLAVeteranLastAlliance
+"Requires Level 3\nThe Veterans were there during the Battle of Dagorlad and the final siege of Barad-d�r.\n\nNearby D�nedain and Bree-landers temporarily gain +33% Armor for a short time\nwhile nearby Elven units gain +33% Damage for a short time\nLeft click to activate.\n\nOnly one ability may be active at a time."
+End
+
+CONTROLBAR:LAVeteranFallOfAngmar
+"Fal&l of Angmar"
+End
+
+CONTROLBAR:ToolTipLAVeteranFallOfAngmar
+"Requires Level 5\nThe Veterans fought alongside Glorfindel in the decisive battle against the Lord of Angmar.\n\nMelee attacks temporarily deal area-of-effect damage and additional damage versus structures. Ranged attack speed is increased.\n Modifier Type: Weapon \n Stacks with Leadership, Buffs, and Spells\nLeft click to activate.\n\nOnly one ability may be active at a time."
+End
+
+CONTROLBAR:ConstructNoldorVeteransHorde
+"Vétérans de l'Ultime Alliance"
+END
+
+CONTROLBAR:ConstructNoldorVeteransGilGaladHorde
+"The Fall of Gil-Galad"
+END
+
+CONTROLBAR:ToolTipBuildNoldorVeteransHorde
+"Requires Level 3 Dormitory \nHero Unit. Limited to 1 \nForts contre tous les types d'unité \n \n Sauron's fall came at great cost. With Gil-galad slain, many Elven veterans chose to linger in Rivendell, house of their late King's herald."
+END
+
+CONTROLBAR:ToolTipBuildNoldorVeteransGilGaladHorde
+"Requires Level 3 Dormitory \nHero Unit. Limit increased to 2 \nStrong vs. All Unit Types \n \n Sauron's fall came at great cost. With Gil-galad slain, many Elven veterans chose to linger in Rivendell, house of their late King's herald."
+END
+
+//----------Revelers----------------------------------
+
+CONTROLBAR:StoryTeller
+"Story-teller"
+End
+
+CONTROLBAR:ToolTipStoryTeller
+"Increases experience gain of friendly units by 10% \n Passively decreases the cooldown of the Hall of Fire's \n vivid retellings by 10% \n Passive ability"
+End
+
+CONTROLBAR:RevelerWeapon
+"Break the Fourth Wall"
+END
+
+CONTROLBAR:ToolTipRevelerWeapon
+"Revelers don't deal damage but can attack units reducing their movement speed by 10%\nand structures reducing their armor by 5% while targeting it\nCan stack with other Revelers\nPassive ability"
+END
+
+CONTROLBAR:StayAWhileAndListen
+"Stay Awhile and Listen"
+End
+
+CONTROLBAR:ToolTipStayAWhileAndListen
+"Passively decreases the speed and attack damage of enemy units in a wide radius by 15% \n Passive ability"
+End
+
+CONTROLBAR:SongOfSpring
+"Ain&ulindal�"
+End
+
+CONTROLBAR:ToolTipSongOfSpring
+"When cast on an Orchard, temporarily increases its resource production by 50%\n Left click icon then left click on target"
+End
+
+CONTROLBAR:RevelersAkallabeth
+"A&kallab�th"
+END
+
+CONTROLBAR:ToolTipRevelersAkallabeth
+"Revelers can target units to decrease their speed by 5% up to 25% and buildings to decrease their armor by 5% up to 25% \n Passive ability \n Deals significant damage over time to structures \n Can be cast from a large distance \n Left click icon then left click on target"
+END
+
+//----------Arwen-------------------------------------
+CONTROLBAR:UndomielLeadership
+"Und�miel"
+END
+
+CONTROLBAR:TooltipUndomielLeadership
+//"Requires Level 3 \n Allies near Elrond gain \n +50% Damage, +50% Armor, \n and earn experience twice as fast \n \n Passive ability       Does not stack"
+//"Requires Level 3 \n Allies near Elrond gain \n +33% Damage, +33% Armor, \n and earn experience twice as fast \nPassive ability"
+//"Requires Level 3 \n Allies near Elrond gain \n +33% Damage, +33% Armor, \n and earn experience 50% faster\nPassive ability"
+"Modifier Type: Leadership \n Units near Arwen gain +33% Armor \n Stacks with Buffs and Spells \n Passive ability"
+END
+
+CONTROLBAR:SpecialPowerUndomiel
+"&Und�miel"
+END
+
+CONTROLBAR:ToolTipSpecialPowerUndomiel
+"Allows Arwen to rank up.\n Becomes more expensive the higher Arwen ranks up. \n Left click to purchase upgrade \n\n Modifier Type: Leadership \n Rank 1: Allied heroes near Arwen gain +33% Armor. \n Rank 3: Allied heroes near Arwen gain +33% experience gain.\n Rank 6: Allied heroes near Arwen gain +66% Armor. \n Rank 10: The radius of Arwen's leadership is greatly increased. \n Also passively grants Arwen a high percentage of ranged damage avoidance and increased armor per level. \n Stacks with Buffs and Spells \n Passive ability"
+End
+
+CONTROLBAR:SpecialPowerUndomielFinal
+"Und�miel"
+END
+
+CONTROLBAR:ToolTipSpecialPowerUndomielFinal
+"Modifier Type: Leadership \n Rank 1: Allied heroes near Arwen gain +33% Armor. \n Rank 3: Allied heroes near Arwen gain +33% experience gain.\n Rank 6: Allied heroes near Arwen gain +66% Armor. \n Rank 10: The radius of Arwen's leadership is greatly increased. \n Also passively grants Arwen a high percentage of ranged damage avoidance and increased armor per level. \n Stacks with Buffs and Spells \n Passive ability"
+End
+
+CONTROLBAR:ArwenNoroLim
+"Noro Lim!"
+End
+
+CONTROLBAR:ToolTipArwenNoroLim
+"Requires Level 3\n Arwen gains\n+40% Speed, +100% Armor, \n and glides past enemies when mounted \n Left click to activate"
+End
+
+CONTROLBAR:ArwenEvenstar
+"Power of the &Evenstar"
+END
+
+CONTROLBAR:ToolTipArwenEvenstar
+"Requires Level 10 \n Allied units within the radius temporarily gain fear immunity and get healed when they deal damage \n Does not affect heroes, Grey Company or Veterans of the Last Alliance \n Enemy units within the radius lose all leadership\n Left click icon then left click on target"
+END
+
+CONTROLBAR:ArwenFlood
+"Loudwater's Fury"
+End
+
+CONTROLBAR:ToolTipArwenFlood
+"Requires Level 6\n Summons a flood that will damage enemies\nand put out fires \n Left click icon then left click on target"
+End
+
+CONTROLBAR:ToolTipArwenFloodCampaign
+"Requires Level 4\n Summons a flood that will damage enemies\nand put out fires \n Left click icon then left click on target"
+End
+
+CONTROLBAR:TinuvielBlessing
+"Blessing of &Tinuviel"
+END
+
+CONTROLBAR:ToolTipTinuvielBlessing
+"Requires Level 6 \n Enemy units within the radius are stunned\n Left click icon then left click on target"
+END
+
+CONTROLBAR:ArwenImage
+"Image of &L�thien"
+End
+
+CONTROLBAR:ToolTipArwenImage
+"Requires Level 3\n Targeted units and heroes temporarily become invisible and receive +25% movement speed \n Left click icon then left click on target"
+End
+
+//==========================Glorfindel==============================
+CONTROLBAR:GlorfindelWrath
+"&Revealed in Wrath"
+End
+
+CONTROLBAR:ToolTipGlorfindelWrath
+"Requires Level 3\nGlorfindel temporarily gains +100% damage\nLeft click to activate \n\nModifier Type: Spell \n Glorfindel causes fear to nearby enemies and Nazg�l. \n Stacks with Spells, Buffs, and Leaderships \nPassive ability"
+End
+
+CONTROLBAR:GlorfindelLight
+"&Light of Aman"
+End
+
+CONTROLBAR:ToolTipGlorfindelLight
+"Requires Level 7\n Targeted units gain experience \n Left click icon then left click on target units"
+End
+
+CONTROLBAR:GlorfindelSlayer
+"Slayer of Demo&ns"
+End
+
+CONTROLBAR:ToolTipGlorfindelSlayer
+"Requires Level 10\n Blasts back units in a wide radius surrounding Glorfindel \nGlorfindel�s melee attacks pin enemy heroes for a short time\n Left click to activate"
+End
+//==================================================================
+
 CONTROLBAR:ToolTipBuildDain
-"Recrutez le Seigneur des Monts de Fer"
+"Recrutez le Seigneur des Monts du Fer"
 END
 
 CONTROLBAR:DwarvenDainRecruit
-"Recrutez le Roi sous la Montagne.\n\nDáin Pied-d'Acier est le seigneur d'Erebor au moment de la Guerre de l'Anneau et tient sa cour sous le Mont Solitaire. Erebor a été repris à Smaug grâce à la Compagnie de Thorin et Dáin en est devenu le Roi.\n\nLes nombreuses guerres qu'il a livré lorsqu'il était souverain des Monts de Fer lui ont enseigné l'art de la stratégie et de la tactique. Aussi fait-il preuve d'une grande sagesse, renonçant au royaume de Khazad-dûm par deux fois, d'abord devant la menace du Fléau de Dúrin, le Balrog dont il sentit la présence, puis devant les tentatives de corruption de Sauron.\nBien qu'il porte le fardeau de longues années, ses guerriers sont d'une loyauté indéfectible et ne se rendront jamais tant que leur roi sera en vie.\n\nArmé de sa puissante hache Barazantathûl, taillée dans un seul morceau de roche rouge, Dáin sait toujours se frayer un chemin dans les rangs ennemis avec une volonté inflexible."
+"Recrutez le Roi sous la Montagne.\n\nDáin Pied-d'Acier est le seigneur d'Erebor au moment de la Guerre de l'Anneau et tient sa cour sous le Mont Solitaire. Erebor a été repris à Smaug grâce à la Compagnie de Thorin et Dáin en est devenu le Roi.\n\nLes nombreuses guerres qu'il a livré lorsqu'il était souverain des Monts du Fer lui ont enseigné l'art de la stratégie et de la tactique. Aussi fait-il preuve d'une grande sagesse, renonçant au royaume de Khazad-dûm par deux fois, d'abord devant la menace du Fléau de Dúrin, le Balrog dont il sentit la présence, puis devant les tentatives de corruption de Sauron.\nBien qu'il porte le fardeau de longues années, ses guerriers sont d'une loyauté indéfectible et ne se rendront jamais tant que leur roi sera en vie.\n\nArmé de sa puissante hache Barazantathûl, taillée dans un seul morceau de roche rouge, Dáin sait toujours se frayer un chemin dans les rangs ennemis avec une volonté inflexible."
 END
 
 CONTROLBAR:DwarvenDainRevive
@@ -64208,37 +65070,37 @@ END
 /////////////////////
 
 OBJECT:IronHillsWarrior
-"Guerrier des Monts de Fer"
+"Guerrier des Monts du Fer"
 END
 
 OBJECT:HordeIronHillsWarrior
 //"Guardian"
-"Guerriers des Monts de Fer"
+"Guerriers des Monts du Fer"
 END
 
 CONTROLBAR:ConstructIronHillsWarriorHorde
-"Guerriers des Monts de Fer"
+"Guerriers des Monts du Fer"
 END
 
 CONTROLBAR:ToolTipBuildIronHillsWarriorHorde
-"Requiert : l'amélioration Arkenstone\nLes Nains des Monts de Fer sont robustes et fiers, leur caractère trempé par les affrontements constants contre les Orques et les Gobelins qui infestent les Monts Brumeux.\nLeurs Gardiens sont réputés pour leur remarquable ténacité face à l'ennemi et sont équipés de lourds boucliers formant un rempart impénétrable.\n\nForts contre les piquiers."
+"Requiert : l'amélioration Arkenstone\nLes Nains des Monts du Fer sont robustes et fiers, leur caractère trempé par les affrontements constants contre les Orques et les Gobelins qui infestent les Monts Brumeux.\nLeurs Gardiens sont réputés pour leur remarquable ténacité face à l'ennemi et sont équipés de lourds boucliers formant un rempart impénétrable.\n\nForts contre les piquiers."
 END
 
 OBJECT:IronHillsCrossbow
-"Arbalétrier des Monts de Fer"
+"Arbalétrier des Monts du Fer"
 END
 
 OBJECT:HordeIronHillsCrossbow
 //"Guardian"
-"Arbalétriers des Monts de Fer"
+"Arbalétriers des Monts du Fer"
 END
 
 CONTROLBAR:ConstructIronHillsCrossbowHorde
-"Arbalétriers des Monts de Fer"
+"Arbalétriers des Monts du Fer"
 END
 
 CONTROLBAR:ToolTipBuildIronHillsCrossbowHorde
-"Requiert : l'amélioration Arkenstone\nLes Nains des Monts de Fer sont robustes et fiers, leur caractère trempé par les affrontements constants contre les Orques et les Gobelins qui infestent les Monts Brumeux.\nComme leurs utilisateurs, les arbalètes des Monts de Fer sont courtes et robustes.\n\nForts contre l'infanterie."
+"Requiert : l'amélioration Arkenstone\nLes Nains des Monts du Fer sont robustes et fiers, leur caractère trempé par les affrontements constants contre les Orques et les Gobelins qui infestent les Monts Brumeux.\nComme leurs utilisateurs, les arbalètes des Monts du Fer sont courtes et robustes.\n\nForts contre l'infanterie."
 END
 
 ///////////////////////////
@@ -64253,8 +65115,16 @@ CONTROLBAR:BTDurinBanner
 "Bannière de Durin"
 END
 
+CONTROLBAR:BTDurinBannerUpgraded
+"Bannière de Durin"
+END
+
 CONTROLBAR:ToolTipBTDurinBanner
 "Type d'Action : Sort \n Les alliés proches de la tour gagnent de l'expérience 15% plus rapidement (bonus cumulable).\n\nCapacité passive\n Clic gauche pour acheter"
+END
+
+CONTROLBAR:ToolTipBTDurinBannerUpgraded
+"Modifier Type: Spell \n Allies near the Tower earn experience +15% faster \n Stacks with Spells, Buffs, and Leaderships \nPassive ability"
 END
 
 UPGRADE:BTKhazadBanner
@@ -64265,8 +65135,16 @@ CONTROLBAR:BTKhazadBanner
 "Bannière de Khazad-dûm"
 END
 
+CONTROLBAR:BTKhazadBannerUpgraded
+"Bannière de Khazad-dûm"
+END
+
 CONTROLBAR:ToolTipBTKhazadBanner
 "Type d'Action : Sort\nLes alliés proches de la tour deviennent insensibles à la Peur et à la Terreur (bonus cumulable).\n\nCapacité passive\nClic gauche pour acheter"
+END
+
+CONTROLBAR:ToolTipBTKhazadBannerUpgraded
+"Modifier Type: Spell \n Allies near the Tower become immune to Fear and Terror \n Stacks with Spells, Buffs, and Leaderships \nPassive ability"
 END
 
 UPGRADE:BTEredMithrimBanner
@@ -64277,20 +65155,36 @@ CONTROLBAR:BTEredMithrimBanner
 "Bannière d'Ered Mithrin"
 END
 
+CONTROLBAR:BTEredMithrimBannerUpgraded
+"Bannière d'Ered Mithrin"
+END
+
 CONTROLBAR:ToolTipBTEredMithrimBanner
 "Type d'Action : Sort\nAugmente la portée de vision de la tour.\n Les alliés proches de la tour gagnent un bonus de +25% vision (bonus cumulable).\n\nCapacité passive\n Clic gauche pour acheter"
 END
 
+CONTROLBAR:ToolTipBTEredMithrimBannerUpgraded
+"Modifier Type: Spell \n Increases vision of tower \n Allies near the Tower gain a +25% range and vision bonus \n Stacks with Spells, Buffs, and Leaderships \nPassive ability"
+END
+
 UPGRADE:BTIronHillsBanner
-"Bannière des Monts de fer"
+"Bannière des Monts du Fer"
 END
 
 CONTROLBAR:BTIronHillsBanner
-"Bannière des Monts de fer"
+"Bannière des Monts du Fer"
+END
+
+CONTROLBAR:BTIronHillsBannerUpgraded
+"Bannière des Monts du Fer"
 END
 
 CONTROLBAR:ToolTipBTIronHillsBanner
 "Type d'Action : Sort\nLes alliés proches de la tour gagnent +15% dégâts (bonus cumulable).\n\nCapacité passive\n Clic gauche pour acheter"
+END
+
+CONTROLBAR:ToolTipBTIronHillsBannerUpgraded
+"Modifier Type: Spell \n Allies near the Tower gain +15% Damage \n Stacks with Spells, Buffs, and Leaderships \nPassive ability"
 END
 
 UPGRADE:BTEredLuinBanner
@@ -64301,8 +65195,16 @@ CONTROLBAR:BTEredLuinBanner
 "Bannière d'Ered Luin"
 END
 
+CONTROLBAR:BTEredLuinBannerUpgraded
+"Bannière d'Ered Luin"
+END
+
 CONTROLBAR:ToolTipBTEredLuinBanner
 "Type d'Action : Sort\nLes alliés proches de la tour gagnent des ressources pour chaque ennemi tué (bonus cumulable).\n\nCapacité passive\n Clic gauche pour acheter"
+END
+
+CONTROLBAR:ToolTipBTEredLuinBannerUpgraded
+"Modifier Type: Spell \n Allies near the Tower gain resources per kill \n Stacks with Spells, Buffs, and Leaderships \nPassive ability"
 END
 
 OBJECT:DwarfBatteringRam
@@ -64321,12 +65223,20 @@ OBJECT:DwarfSiegeCrew
 "Dwarven Siege Crewer"
 END
 
+OBJECT:RohanSiegeCrew
+"Rohan Siege Crewer"
+END
+
 CONTROLBAR:WannaBoroMiKnife
 "Couteau de Lancer"
 END
 
 CONTROLBAR:TooltipWannaBoroMiKnife
 "Requiert : niveau 3\n Boromir lance son couteau sur une unité ennemie pour la repousser et réduire leur armure.\n\nClic gauche sur la cible"
+END
+
+CONTROLBAR:TooltipFellowshipWannaBoroMiKnife
+"Boromir throws his knife at an enemy unit, knocking them back and reducing their armor \n Left click icon then left click on target"
 END
 
 CONTROLBAR:ToolTipSongOfDurin
@@ -64373,6 +65283,10 @@ OBJECT:SecondAgeIsildur
 "Isildur"
 END
 
+OBJECT:SecondAgeElendur
+"Elendur"
+END
+
 OBJECT:SecondAgeElrond
 "Elrond"
 END
@@ -64389,12 +65303,36 @@ CONTROLBAR:ToolTipElendilLeadership
 "Elendil, fils de Amandil, était le meneur des fidèles Núménoréens, avant que Eru Ilúvatar ne noit la nation insulaire de Núménor comme punition pour l'arrogance de Ar-Pharazôn, leurs dernier roi. Elendil s'échappa avec ses deux fils et fonda Númenorean kingdoms en Terre du Milieu. Ses places fortes étaient à Annúminas, en Arnor, pendant que son fils règnait en sont nom depuis Minas Anor et Minas Ithil, en Gondor. \n\n Les alliés proches de Elendil gain \n +33% dégâts, +33% armure, \n et gagnent de l'expérience 50% plus rapidement.\n\nCapacité passive"
 END
 
+CONTROLBAR:ElendurLeadership
+"Héritier d'Isildur"
+END
+
+CONTROLBAR:ToolTipElendurLeadership
+"Allies near Elendur gain \n +33% Damage, +33% Armor, \n and earn experience 50% faster\nPassive ability"
+END
+
 CONTROLBAR:ElendilRestoration
 "Mains du roi"
 END
 
 CONTROLBAR:ToolTipElendilRestoration
 "Soigne les alliès proches et et recharge totalement\nle temps de chargement de leurs habilités spéciales\n\nClic gauche sur la zone cible"
+END
+
+CONTROLBAR:OinRestoration
+"Oin's O&intments"
+END
+
+CONTROLBAR:ToolTipOinRestoration
+"Heals nearby allies \n Left click icon then left click on target area"
+END
+
+CONTROLBAR:ElendurRestoration
+"Hands of the Pr&ince"
+END
+
+CONTROLBAR:ToolTipElendurRestoration
+"Heals nearby allies and fully refreshes\ntheir special ability timers \n Left click icon then left click on target area"
 END
 
 CONTROLBAR:ElendilFear
@@ -64566,6 +65504,10 @@ OBJECT:HordeDwarvenArcherDwarvenPhalanxCombo
 "Piquiers d'Erebor - Archers d'Erebor Horde"
 END
 
+CONTROLBAR:LW_Unit_DwarvenArcherDwarvenPhalanxHorde
+"Erebor Phalanx - Erebor Archers Battalion"
+END
+
 CONTROLBAR:LW_Unit_DwarvenArcherDwarvenPhalanxHordePlural
 "Bataillons de Piquiers - Archers d'Erebor"
 END
@@ -64574,8 +65516,16 @@ CONTROLBAR:LW_ToolTipBuild_DwarvenArcherDwarvenPhalanxHorde
 "Type d'unité : piquiers standards and Basic Archers\nForts contre l'infanterie and Cavalry\n"
 END
 
+CONTROLBAR:LW_ToolTip_DwarvenArcherDwarvenPhalanxHorde
+"\nUnit Type: Basic Pikemen and Basic Archers\nStrong vs. Infantry and Cavalry"
+END
+
 OBJECT:HordeDwarvenArcherDwarvenGuardianCombo
 "Erebor Guardian - Archers d'Erebor Horde"
+END
+
+CONTROLBAR:LW_Unit_DwarvenArcherDwarvenGuardianHorde
+"Erebor Guardian - Erebor Archer Battalion"
 END
 
 CONTROLBAR:LW_Unit_DwarvenArcherDwarvenGuardianHordePlural
@@ -64602,6 +65552,10 @@ OBJECT:HordeDwarvenPhalanxDwarvenGuardianCombo
 "Erebor Guardian - Piquiers d'Erebor Horde"
 END
 
+CONTROLBAR:LW_Unit_DwarvenPhalanxDwarvenGuardianHorde
+"Erebor Guardian - Erebor Phalanx Battalion"
+END
+
 CONTROLBAR:LW_Unit_DwarvenPhalanxDwarvenGuardianHordePlural
 "Bataillons Erebor Guardian - Piquiers d'Erebor"
 END
@@ -64614,6 +65568,10 @@ OBJECT:HordeDwarvenHammerDwarvenGuardianCombo
 "Erebor Guardian - Mornes-Martels Horde"
 END
 
+CONTROLBAR:LW_Unit_DwarvenHammerDwarvenGuardianHorde
+"Erebor Guardian - Erebor Grim Hammer Battalion"
+END
+
 CONTROLBAR:LW_Unit_DwarvenHammerDwarvenGuardianHordePlural
 "Bataillons Erebor Guardian - Mornes-Martels"
 END
@@ -64622,8 +65580,28 @@ CONTROLBAR:LW_ToolTipBuild_DwarvenHammerDwarvenGuardianHorde
 "Type d'unité : infanterie standard \nForts contre les piquiers\n"
 END
 
+CONTROLBAR:LW_ToolTip_DwarvenHammerDwarvenGuardianHorde
+"\nUnit Type: Basic Infantry \nStrong vs. Pikemen"
+END
+
+OBJECT:HordeDwarvenHammerDwarvenHammerCombo
+"Erebor Grim Hammer Combo Battalion"
+END
+
+CONTROLBAR:LW_Unit_DwarvenHammerDwarvenHammerHordePlural
+"Erebor Grim Hammer Combo Battalions"
+END
+
+CONTROLBAR:LW_ToolTipBuild_DwarvenHammerDwarvenHammerHorde
+"Unit Type: Basic Infantry \nStrong vs. Pikemen\n"
+END
+
 OBJECT:HordeDwarvenPhalanxDwarvenHammerCombo
 "Mornes-Martels - Piquiers d'Erebor Horde"
+END
+
+CONTROLBAR:LW_Unit_DwarvenPhalanxDwarvenHammerHorde
+"Erebor Grim Hammer - Erebor Phalanx Battalion"
 END
 
 CONTROLBAR:LW_Unit_DwarvenPhalanxDwarvenHammerHordePlural
@@ -64632,6 +65610,10 @@ END
 
 CONTROLBAR:LW_ToolTipBuild_DwarvenPhalanxDwarvenHammerHorde
 "Type d'unité : infanterie standard and Basic Pikemen\nForts contre les cavaliers et les piquiers\n"
+END
+
+CONTROLBAR:LW_ToolTip_DwarvenPhalanxDwarvenHammerHorde
+"n\Unit Type: Basic Infantry and Basic Pikemen\nStrong vs. Cavalry and Pikemen"
 END
 
 OBJECT:GrimHammer
@@ -64670,6 +65652,14 @@ End
 
 TOOLTIP:LackDwarvenBasicTrainingForBattleWagon
 "Research Banner Carrier upgrade at Grand Forge to enable this upgrade\nIncreases the Battle Wagon's rank to Level 2\nOn Level 2, nearby allies gain\n+33% dégâts, +33% armure,\nand earn experience twice as fast\n"
+END
+
+CONTROLBAR:DwarvenWagonButtonBC
+"Unfurl Ironfoot's Banners!"
+END
+
+CONTROLBAR:TooltipDwarvenWagonButtonBC
+"Research Banner Carrier upgrade at Grand Forge\nIncreases the Battle Wagon's rank to Level 2\nNearby allies gain\n+33% Damage, +33% Armor,\nand earn experience twice as fast"
 END
 
 CONTROLBAR:DwarvenWagonButon1
@@ -64792,12 +65782,28 @@ CONTROLBAR:TooltipHornofHammerhand
 "Requires Horns of Hammerhand Upgrade \n Causes nearby enemy troops to be stunned in fear\n Left click to activate"
 END
 
+CONTROLBAR:PurchaseUpgradeDesperateGarrison
+"Desperate &Garrison"
+END
+
+CONTROLBAR:ToolTipPurchaseUpgradeDesperateGarrison
+"Stations Spear-throwers in the Fortress"
+END
+
 CONTROLBAR:PurchaseUpgradeHornofHammerhand
 "Horns of Hammerhand"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeHornofHammerhand
 "Allows the Fortress to use the Horns of Hammerhand ability\n Causes nearby enemy troops to be stunned in fear"
+END
+
+CONTROLBAR:ToolTipPurchaseUpgradeHornofHammerhand_WOTR
+"Allows the Fortress to use the Horns of Hammerhand ability \n Causes nearby enemy troops to be stunned in fear"
+END
+
+CONTROLBAR:ToolTipPurchaseUpgradeHornofHammerhandForMaps
+"Allows recruitment of Helmingas Warriors"
 END
 
 CONTROLBAR:PurchaseUpgradeRohanFortressFortifications
@@ -64970,6 +65976,14 @@ END
 
 CONTROLBAR:TooltipHallOfFireSpawnFingolfin
 "\nLe défi de Fingolfin : un récit vivant\n\nAprès que Morgoth ait dévasté les Elfes du Beleriand pendant la Bataille de la Flamme Subite, Fingolfin s'est rendu aux portes d'Angband et a défié le Seigneur des Ténèbres de mener un seul combat. Morgoth essaya de le terrasser, mais le Grand Roi esquiva ses coups et le blessa sept fois avant que la fatigue ne le fasse trébucher. Morgoth le tua, mais pas avant que Fingolfin ne lui coupe le talon, lui laissant une cicatrice qu'il portera toujours."
+END
+
+CONTROLBAR:HallOfFireSpawnCelebrimbor
+"The S&mith of Eregion"
+END
+
+CONTROLBAR:TooltipHallOfFireSpawnCelebrimbor
+"\nSummons a vivid retelling of Celebrimbor's Death\n\n Celebrimbor, the great Elven smith, forged many artifacts of beauty and power. When Sauron arrived in Eregion - disguised as Annatar the Fair - he taught Celebrimbor to make magic Rings of Power, which resulted in Celebrimbor creating the Three Elven Rings. Then Sauron went away to Orodruin, where he crafted the One Ring, to rule over the others. Celebrimbor, realizing this betrayal, sent the Three away for safekeeping and waged war against Sauron, ultimately losing his life."
 END
 
 CONTROLBAR:GilGaladHOFLeadership
@@ -67783,7 +68797,7 @@ BANNERUI:RivendellKnights
 END
 
 CONTROLBAR:LW_Unit_NoldorVeteransHorde
-"Veterans of the Last Alliance Battalion"
+"Vétérans de l'Ultime Alliance"
 END
 
 CONTROLBAR:LW_Unit_NoldorVeteransHordePlural
@@ -67791,7 +68805,7 @@ CONTROLBAR:LW_Unit_NoldorVeteransHordePlural
 END
 
 CONTROLBAR:LW_ToolTip_NoldorVeteransHorde
-"\nUnit Type: Hero Unit\nStrong vs. All"
+"\n Type d'unité : unité héroïque\n Forts contre tous les types d'unité"
 END
 
 CONTROLBAR:LW_ToolTip_NoldorVeteransHorde_WOTR
@@ -67799,7 +68813,7 @@ CONTROLBAR:LW_ToolTip_NoldorVeteransHorde_WOTR
 END
 
 CONTROLBAR:LW_ToolTipBuild_NoldorVeteransHorde
-"Unit Type: Hero Unit\nLimited to 1\nStrong vs. All\n"
+"Type d'unité : unité héroïque\n Forts contre tous les types d'unité"
 END
 
 BANNERUI:NoldorVeteran
@@ -70955,5 +71969,3 @@ END
 CONTROLBAR:ToolTipElvenHealGreenwood
 "Requiert : Niveau 2\nLes unités elfes régénèrent leur santé lorsqu'elles sont hors combat\nCapacité passive"
 END
-
-bitelolqueugergegeg
