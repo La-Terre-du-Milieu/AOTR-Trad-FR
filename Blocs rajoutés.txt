@@ -1,0 +1,2422 @@
+INI:FactionMirkwood
+
+INI:FactionGuldur
+
+OBJECT:RohanSnowbournRider
+
+OBJECT:HordeRohanSnowbournRider
+
+UPGRADE:UpgradeMundburgMasonry
+
+CONTROLBAR:MundburgMasonry
+
+CONTROLBAR:ToolTipMundburgMasonry
+
+OBJECT:BoromirShield
+"Boromir's shield"
+END
+
+OBJECT:BilboandLindir
+"Bilbo & Lindir"
+END
+
+OBJECT:RohanGrimbold
+"Grimbold"
+END
+
+OBJECT:GondorElessar
+"Elessar"
+END
+
+OBJECT:ElvenThranduilNew
+"King Thranduil"
+END
+
+OBJECT:DeadUruk
+"Dead Uruk"
+END
+
+OBJECT:DeadSoldier
+"Dead Soldier"
+END
+
+CONTROLBAR:MallornRoots
+"Mallorn &Roots"
+END
+
+CONTROLBAR:ToolTipMallornRoots
+"Requires Level 2 Mallorn Tree \n Nearby enemies are slowed"
+END
+
+OBJECT:BreeGate
+"Bree Gate"
+END
+
+OBJECT:BreeWall
+"Bree Wall"
+END
+
+OBJECT:BreeTower
+"Bree Tower"
+END
+
+OBJECT:RohanWorkshop
+"Workshop"
+END
+
+//////////////////////////////////
+///FUDGE CAMPAIGN Strings
+//////////////////////////////////
+
+OBJECT:GamlingRoyalBanner
+"Banner of Eorl"
+END
+OBJECT:GamlingRoyalBannerDescription
+"The Royal Standard of Rohan"
+END
+CONTROLBAR:SpecialAbilityGamlingFLAL
+"For Lord and Land"
+END
+CONTROLBAR:ToolTipSpecialAbilityGamlingFLAL
+"+50% Damage, +50% Experience Gain, -20% Recharge Time\n Replensishes nearby hordes \n Passive ability"
+END
+
+CONTROLBAR:BFMEBuildNoldorExileHorde
+"Strong vs. Cavalry and Siege \n\nExiles of Noldor carry long spears to defend themselves on their journey back to Valinor."
+END
+
+OBJECT:CampaignStrider
+"Strider"
+END
+
+OBJECT:CampaignRingwraith
+"Ringwraith"
+END
+
+OBJECT:CampaignBreeBuilding
+"Bree Building"
+END
+
+OBJECT:CampaignBreePony
+"Prancing Pony"
+END
+
+OBJECT:CampaignAthelas
+"Athelas Bushel"
+END
+
+OBJECT:BalinsAxe
+"Balin's Axe"
+END
+
+CampaignName:Bree
+"Shadow of the Past"
+END
+
+CampaignName:Weathertop
+"Fords of Bruinen"
+END
+
+CampaignName:Orthanc
+"Treason of Isengard"
+END
+
+CampaignName:Council
+"Council of Elrond"
+END
+
+CampaignName:Redhorn
+"Howls on the Redhorn"
+END
+
+CampaignName:Moria
+"A Journey in the Dark"
+END
+
+CampaignName:Khazad
+"The Bridge of Khazad-dum"
+END
+
+CampaignName:Lothlorien
+"The Woods of Lothlorien"
+END
+
+CampaignName:AmonHen
+"Breaking of the Fellowship"
+END
+
+Map:MAP GOOD REDHORN
+"Good Redhorn"
+END
+
+Map:MAP GOOD ORTHANC
+"Good Orthanc"
+END
+
+Map:MAP GOOD KHAZAD
+"Good Bridge of Khazad-dum"
+END
+
+Map:MAP GOOD COUNCIL OF ELROND
+"Good Council of Elrond"
+END
+
+Map:MAP GOOD DWEATHERTOP
+"Good Fords of Bruinen"
+END
+
+Map:MAP GOOD SHADOW OF THE PAST
+"Good Shadow of the Past"
+END
+
+///////////////////////AotR CAMPAIGN OBJECTIVES///////////////////////////////////////////
+///////// A single line of text should be no longer than this one. /////////////
+
+SCRIPT:LACINEMATICWARNING
+"This campaign contains several long cinematics and we recommend saving regularly to avoid having to re-watch them."
+END
+
+SCRIPT:LAObjective00
+"Destroy the orc camp and establish a base"
+END
+
+SCRIPT:LAObjective01
+"Destroy the Mordor Citadel"
+END
+
+SCRIPT:LAObjective02
+"Destroy the remaining orc camp"
+END
+
+SCRIPT:LAObjective03
+"Destroy the orc pits to the north and await reinforcements"
+END
+
+SCRIPT:LAObjective04
+"Destroy orc tents to gather resources"
+END
+
+SCRIPT:LAObjective05
+"Protect the camps and move up the slopes of Orodruin"
+END
+
+SCRIPT:LAObjective06
+"Push through towards Sauron's final stronghold"
+END
+
+SCRIPT:LAObjective07
+"Nazgul are approaching"
+END
+
+SCRIPT:LAObjective08
+"Use Narsil to kill the Dark Lord Sauron"
+END
+
+SCRIPT:LAObjective09
+"Nazgul are attacking the camp"
+END
+
+SCRIPT:LAObjective10
+"Clear out the hordes of orcs that infest the plains of Gorgoroth"
+END
+
+SCRIPT:LAObjective11
+"Orcs are attacking the base"
+END
+
+SCRIPT:LAObjective12
+"Rescue the Dunedain scouts"
+END
+
+SCRIPT:LAIntro01
+"In the year 3429 of the Second Age, the Dark Lord Sauron took the fortress-city of \n Minas Ithil and burned its White Tree."
+END
+
+SCRIPT:LAIntro02
+"Soon his forces spread from Mordor and began assailing the Free Peoples of Middle-earth."
+END
+
+SCRIPT:LAIntro03
+"In response, Elendil, King of the Dunedain and Gil-galad, High King of the Noldor, forged a great alliance."
+END
+
+SCRIPT:LAIntro04
+"Together, Elves and Men sought to bring about Sauron's ultimate destruction."
+END
+
+SCRIPT:LAIntro05
+"Their great host marched upon Mordor, where they laid siege to Barad-dur for seven years."
+END
+
+SCRIPT:LAIntro06
+"In time, Sauron and his forces were forced to retreat to Mount Doom, whose rugged terrain \n was easy to defend and difficult to traverse."
+END
+
+SCRIPT:LAIntro07
+"Wishing a swift end to the war, Elendil commanded his son Isildur to take a small force \n and enter Sauron's last hold to break its defense and allow the army through."
+END
+
+SCRIPT:LAElrond01
+"This pass is heavily guarded. We must take care not to rouse the full might of Sauron's garrison or we will be undone."
+END
+
+SCRIPT:LAElrond02
+"This orc camp lies in a place of great strategic value."
+END
+
+SCRIPT:LAElrond03
+"There it lies, the last garrison defending Orodruin's treacherous slopes. Let us gather our forces and strike hard, so that Elendil and Gil-galad may march their armies forward."
+END
+
+SCRIPT:LAIsildur01
+"Yet we must make haste. Let us press on and put a torch to these towers, so that we may shroud our advance."
+END
+
+SCRIPT:LAIsildur02
+"Let us claim it and establish a camp!"
+END
+
+SCRIPT:LAIsildur03
+"Let us gather our forces and strike hard to allow the great host passage."
+END
+
+OBJECT:LADolGoldurMainGate
+"Mordor Gate"
+END
+
+OBJECT:LADolGoldurWall
+"Mordor Wall"
+END
+
+OBJECT:LADolGoldurTower
+"Mordor Tower"
+END
+////////////////SHADOW OF THE PAST////////////////
+
+SCRIPT:Objective01_Shadow
+"Reach the Buckleberry Ferry"
+END
+
+SCRIPT:Objective02_Shadow
+"Defend Gildor's Camp from the Risen Dunedain"
+END
+
+SCRIPT:Objective03_Shadow
+"Destroy the Barrows"
+END
+
+SCRIPT:Objective04_Shadow
+"Reach the Prancing Pony"
+END
+
+SCRIPT:Objective05_Shadow
+"Defend the Prancing Pony from the Black Riders assault"
+END
+
+SCRIPT:ObjectiveHint01_Shadow
+"Use the elven cloaks to avoid the Black Riders."
+END
+
+SCRIPT:ObjectiveHint02A_Shadow
+"Prepare for another attack by the Black Riders"
+END
+
+SCRIPT:ObjectiveHint02_Shadow
+"Rouse more Bree townsfolk from inns"
+END
+
+SCRIPT:ObjectiveHint02B_Shadow
+"All inns have been captured"
+END
+
+SCRIPT:ObjectiveHint03_Shadow
+"Capture farms to earn resources and increase commandpoints"
+END
+
+SCRIPT:ObjectiveHint03B_Shadow
+"All farms have been captured"
+END
+
+SCRIPT:ObjectiveHint03C_Shadow
+"Use heroes to capture inns & taverns"
+END
+
+///////////////////WEATHERTOP///////////////////
+
+SCRIPT:Objective01_Weathertop
+"Find tracks of Dunedain presence near Weathertop."
+END
+
+SCRIPT:Objective02_Weathertop
+"Survive the attack by the Risen Dunedain."
+END
+
+SCRIPT:Objective03_Weathertop
+"Protect the Hobbits from the Ringwraiths."
+END
+
+SCRIPT:Objective04_Weathertop
+"Frodo is poisoned and will slowly lose health. Escape Weathertop and find medicine."
+END
+
+SCRIPT:Objective04-update_Weathertop
+"Find at least 5 bushels of Kingsfoil to slow Frodo's poisoning!"
+END
+
+SCRIPT:Objective04-update2_Weathertop
+"Use Aragorn's Athelas to heal Frodo"
+END
+
+SCRIPT:Objective04counter_Weathertop
+"Athelas Bushels Found:"
+END
+
+SCRIPT:Objective05_Weathertop
+"Defend the Ford of Bruinen"
+END
+
+SCRIPT:Objective05-update_Weathertop
+"Build a force to help defend the Bruinen!"
+END
+
+SCRIPT:Objective05Timer_Weathertop
+"Glorfindel will arrive in:"
+END
+
+SCRIPT:Objective05-update2_Weathertop
+"Defeat the next wave of orcs crossing the Bruinen"
+END
+
+SCRIPT:Objective05GlorfindelArrives_Weathertop
+"Glorfindel, Aragorn and the Hobbits have arrived. Escort them across the ford."
+END
+
+SCRIPT:Objective05Final_Weathertop
+"Defeat the final wave."
+END
+
+////////////////ORTHANC/////////////////
+
+SCRIPT:Objective01_Orthanc
+"Defeat Saruman"
+END
+
+////////////////COUNCIL OF ELROND/////////////////
+
+SCRIPT:Objective00_Council
+"Speak to heroes in the Hall of Fire"
+END
+
+SCRIPT:Objective00Boromir_Council
+"Speak to Boromir to learn of the struggles in Gondor"
+END
+
+SCRIPT:Objective00Elrond_Council
+"Speak to Elrond to hear the fate of Isildur"
+END
+
+SCRIPT:Objective00Bilbo_Council
+"Speak to Bilbo to hear a tale of riddles"
+END
+
+SCRIPT:Objective01_Council
+"Explore the cave"
+END
+
+SCRIPT:Objective02_Council
+"Answer Gollum's riddles"
+END
+
+SCRIPT:Objective03_Council
+"Escape from Gollum's cave"
+END
+
+SCRIPT:Objective04_Council
+"Defeat the orc ambush"
+END
+
+SCRIPT:Objective05_Council
+"Stop orcs from advancing into the forest and finding Isildur"
+END
+
+SCRIPT:Objective06_Council
+"Defend Isildur"
+END
+
+SCRIPT:OsgiliathObjective01_Council
+"Reclaim all buildings on the Western bank before it is overrun"
+End
+
+SCRIPT:OsgiliathObjective02_Council
+"Defended the bridges from enemy attacks"
+End
+
+SCRIPT:OsgiliathObjective03_Council
+"Clear the bridges of enemy forces"
+End
+
+SCRIPT:OsgiliathBonus_Council
+"Kill the Nazgul commander"
+End
+
+////////////////////REDHORN//////////////////////
+
+SCRIPT:Objective00_Redhorn
+"Guide the Fellowship South"
+END
+
+SCRIPT:Objective01_Redhorn
+"Guide the Fellowship to the pass of Caradhras"
+END
+
+SCRIPT:Objective02_Redhorn
+"Traverse the Caradhras"
+END
+
+SCRIPT:Objective02_Update_Redhorn
+"Guide the Fellowship towards the Walls of Moria"
+END
+
+SCRIPT:Objective03_Redhorn
+"Survive the warg attack"
+END
+
+SCRIPT:Objective04_Redhorn
+"Kill the Watcher in the water"
+END
+
+SCRIPT:BonusObjective01_Redhorn
+"Find all hidden Noldorin treasures"
+END
+
+SCRIPT:BonusObjective02_Redhorn
+"Destroy all Snow-troll lairs"
+END
+
+SCRIPT:BonusObjective03_Redhorn
+"Kill all flocks of Crebain"
+END
+
+SCRIPT:BonusObjective04_Redhorn
+"Defeat Celebrimbor"
+END
+
+SCRIPT:CaradhrasHint_Redhorn
+"Avoid avalanches across the Caradhras"
+END
+
+SCRIPT:CaradhrasHint2_Redhorn
+"Gather the Fellowship before proceeding"
+END
+
+/////////////////////MORIA//////////////////////
+
+SCRIPT:Objective01_Moria
+"Reach the Great Hall"
+END
+
+SCRIPT:Objective02_Moria
+"All heroes must survive."
+END
+
+SCRIPT:Objective03_Moria
+"Reunite with the the Fellowship."
+END
+
+SCRIPT:Objective04_Moria
+"Kill the Watcher in the Water"
+END
+
+SCRIPT:Objective05_Moria
+"Survive until Oin Arrives"
+END
+
+SCRIPT:Objective06_Moria
+"Reach the Second Hall"
+END
+
+SCRIPT:Objective07_Moria
+"Survive the goblin attacks"
+END
+
+SCRIPT:BonusObjective01_Moria
+"Find five Dwarven treasures."
+END
+
+SCRIPT:BonusObjective02_Moria
+"Find Balin's Axe."
+END
+
+SCRIPT:BonusObjective03_Moria
+"Reach the Great Hall within 10 minutes."
+END
+
+SCRIPT:BonusObjective04_Moria
+"Destroy the drums in the deep."
+END
+
+//////////////////KHAZAD-DUM////////////////////
+
+SCRIPT:Objective01_Khazad
+"Escape Moria."
+END
+
+SCRIPT:Objective02_Khazad
+"All heroes must survive."
+END
+
+SCRIPT:Objective03_Khazad
+"Find the Chamber of Mazarbul."
+END
+
+SCRIPT:Objective04_Khazad
+"Kill the Goblin Shamans to break the enchanment"
+END
+
+SCRIPT:Objective05_Khazad
+"Kill the Balrog"
+END
+
+SCRIPT:Objective01Hint_Khazad
+"Cross the Great Hall towards the bridge of Khazad-dum"
+END
+
+//////////////////LOTHLORIEN////////////////////
+
+SCRIPT:Objective01_Lothl
+"Reach the Marchwarden Forward Camp"
+END
+
+SCRIPT:Objective02_Lothl
+"Rescue the Fellowship"
+END
+
+SCRIPT:Objective03_Lothl
+"Escort the Fellowship to Caras Galadhon"
+END
+
+SCRIPT:Objective04_Lothl
+"Defend Lady Galadriel and the Hobbits against the goblin assault on Caras Galadhon"
+END
+
+SCRIPT:Objective05_Lothl
+"Destroy all Goblin camps"
+END
+
+SCRIPT:BonusObjective01_Lothl
+"Discover all hidden allies"
+END
+
+SCRIPT:BonusObjective02_Lothl
+"Advance all elven heroes to level 3"
+END
+
+SCRIPT:BonusObjective01Hint_Lothl
+"Destroying goblin camps will diminish enemy reinforcements"
+END
+
+//////////////////AMON HEN////////////////////
+
+SCRIPT:Objective01_Amon
+"Survive the summit attack"
+END
+
+SCRIPT:Objective02_Amon
+"Reach Boromir"
+END
+
+SCRIPT:Objective03_Amon
+"Kill Lurtz"
+END
+
+SCRIPT:Objective04_Amon
+"Reach the boats without being discovered"
+END
+
+SCRIPT:BonusObjective01_Amon
+"Keep Boromir alive"
+END
+
+SCRIPT:Objective04Hint_Amon
+"Use Frodo's powers and hide amongst trees to avoid detection"
+END
+
+CONTROLBAR:ConstructRohanWorkshop2Upgrade
+"&Upgrade Workshop to Level 2"
+END
+CONTROLBAR:ConstructRohanWorkshopLevel3Upgrade
+"&Upgrade Workshop to Level 3"
+END
+
+CONTROLBAR:ConstructWildMountainLodge
+"Build &Mountain-orc Lodge"
+END
+
+CONTROLBAR:ToolTipConstructWildMountainLodge
+"Trains Mountain-orcs and Gundabad orcs \n Increases command point limit by 25"
+END
+
+CONTROLBAR:ConstructGuldurFortress
+"Summon &Fortress"
+END
+
+CONTROLBAR:ToolTipAOTRScavenger
+"For 60 seconds, all kills earn extra resources \n Left click to activate"
+END
+
+CONTROLBAR:CampaignRebuild
+"Quick Repairs"
+END
+
+CONTROLBAR:GondorRebuild
+"Restoration"
+End
+
+CONTROLBAR:RohanRebuild
+"Shore Up"
+End
+
+CONTROLBAR:CampaignCloudBreak
+"There Is Always Hope"
+End
+
+CONTROLBAR:CampaignElvenWood
+"Take Refuge!"
+END
+
+CONTROLBAR:CampaignSummonEagleAllies
+"The Eagles Are Coming!"
+END
+
+CONTROLBAR:TooltipCampaignSummonEagleAllies
+"Summons a Giant Eagle \n Left click icon then left click on target area"
+END
+
+CONTROLBAR:CampaignLoneTower
+"Friendly Outpost"
+END
+
+CONTROLBAR:LoneTowerGondor
+"Lands Kept Safe"
+END
+
+CONTROLBAR:CampaignArrowVolley
+"Hidden Volley"
+END
+
+CONTROLBAR:TooltipCampaignArrowVolley
+"Launches a powerful volley of arrows anywhere on the map \n Left click icon then left click on target area"
+END
+
+CONTROLBAR:ConstructRohanSnowbournRider
+"Riders of &Snowbourn"
+END
+
+CONTROLBAR:ConstructRohanHorsemenHorde
+"Horsemen of the &Mark"
+END
+
+CONTROLBAR:ConstructRohanKingsguardHorde
+"Mounted &Kingsguard"
+END
+
+CONTROLBAR:ToolTipBuildGondorFighterHorde_Osgiliath
+"Strong vs. Pikemen\n Able to switch formation and form combo hordes for improved defensive capabilities \n \n Even during its decline at the end of the Third Age, Minas Tirith maintained a sizeable garrison of men-at-arms."
+END
+
+CONTROLBAR:ToolTipBuildGondorArcherHorde_Osgiliath
+"Strong vs. Infantry and Monsters \nAble to form combo hordes for improved defensive capabilities\n\nWielding great bows of heartwood, An�rien archers played a vital role in the defense of the White City."
+END
+
+CONTROLBAR:ToolTipBuildGondorRangerHorde_Osgiliath
+"Requires Level 2 Archery Range \n Strong vs. Infantry and Monsters \n Stealth near trees \n Can fire Longshot arrow volleys\n \n The Rangers are the descendants of the people who once dwelt in Ithilien, before it fell from Gondor's control."
+END
+CONTROLBAR:ToolTipBuildRohanKingsguardHorde
+//"Requires Level 2 Stables \n Strong vs. Archers"
+"Requires Level 3 Stables \n Strong vs. Swordsmen and Archers \n \n These mounted elites formed the personal bodyguard of the King and his heirs, performing great deeds at arms to keep safe their charge."
+END
+CONTROLBAR:ToolTipBuildRohanSnowbournRiderHorde
+//"Requires Level 2 Stables \n Strong vs. Archers"
+"Requires Level 2 Stables \n Strong vs. Swordsmen and Archers \n \n The Riders of Snowbourn were a heavy cavalry unit, capable of breaking the fiercest of enemy ranks and opening them up for the remainder of the army."
+END
+CONTROLBAR:ToolTipBuildRohanHorsemenHorde
+"Strong vs. Swordsmen and Archers \n \n Yeoman or peasant, in Rohan every man owned a horse, and had learned to defend themselves from horseback. When the need arose, these men would ride out to battle to defend their homes."
+END
+
+CONTROLBAR:UpgradeWildLodgeLevel2
+"&Upgrade Mountain-orc Lodge to Level 2"
+END
+
+CONTROLBAR:UpgradeWildLodgeLevel3
+"&Upgrade Mountain-orc Lodge to Level 3"
+END
+
+CONTROLBAR:ToolTipBuildMordorEasterlingHordeForInn
+"Strong vs. Cavalry and Heroes \n Able to switch formation for improved defensive capabilities\n \n The Men of Rh�n have a long history of Morgoth-worship. During the late Third Age, they joined with Sauron to make up the core of his armies."
+END
+
+CONTROLBAR:ToolTipBuildMordorGreatBeast
+"Requires Level 3 Great Siege Works \n Strong vs. Structures and Cavalry \n\n These lumbering creatures are native to the great ash-covered plains of Gorgoroth, feeding on the thick roots that grow in the dry soil of that barren land. The orcs were quick to realize their potential as beasts of burden and war, and have long bred them in captivity, fielding them in Sauron's war against the lands of Gondor"
+END
+
+CONTROLBAR:ToolTipBuildWildWargRider
+"Requires Level 2 Warg Cage\n Strong vs. Swordsmen and Archers \n \n For generations, Orcs have ridden Wargs - not as masters, but as equals - to track and ambush the Free Peoples."
+END
+
+CONTROLBAR:ToolTipThrowRocksRank3
+"Requires Rank 3 \n Switch to rock throwing mode"
+END
+
+CONTROLBAR:BodkinArrowUpgrade
+"Bodkin Arro&ws"
+END
+
+CONTROLBAR:ElessarBladeMaster
+"Andúril, Flame of the &West"
+END
+
+CONTROLBAR:ElessarAthelas
+"Ha&nds of the King"
+END
+
+CONTROLBAR:TooltipElessarAthelas
+"Heals nearby friendly Heroes and strengthens them by granting them \n +33% armor for a short time\n Left click to activate"
+END
+
+CONTROLBAR:ElessarLeadership
+"Estel"
+END
+
+CONTROLBAR:ElessarOathbreaker
+"Fulfil&l Your Oath!"
+END
+
+CONTROLBAR:ToolTipElessarOathbreaker
+"Summons an army of Oathbreakers that will kill and terrify anything in its path \n Left click icon then left click on target"
+END
+
+CONTROLBAR:FellowshipHawkStrike
+"Twin Ar&rows"
+END
+
+CONTROLBAR:HawkStrike_Summoned
+"Elven S&kill"
+END
+
+
+CONTROLBAR:TrainArchersBrand
+"King's Favor"
+END
+
+CONTROLBAR:DainKingsFavor
+"Migh&ty Veteran"
+END
+
+CONTROLBAR:ThranduilNewMount
+//"Elvenking (&M)"
+"Elvenking"
+END
+
+CONTROLBAR:ThranduilNewMountTooltip
+//"Passive: Provides +50% armor to nearby units \n Activate: Left click to switch between \n mounted on Elk and on foot"
+"Modifier Type: Leadership \n Allies near Thranduil gain +50% Armor \n Stacks with Buffs and Spells"
+END
+
+CONTROLBAR:ToolTipThranduilFavor_Campaign
+"Requires Level 7 \nGrants  Sindarin Armor to units in radius \n Sindarin Armor: grants an additional +20% armor to units \n Stacks with Leaderships, Buffs, and Spells \n \n Left click on icon then left click on target own units"
+END
+
+CONTROLBAR:ToolTipThranduilFavor
+"Requires Level 7 \nThranduil receives his silver armor,\npermanently gaining +50% armor\n\nGrants  Sindarin Armor to units in radius \n Sindarin Armor: grants an additional +20% armor to units \n Stacks with Leaderships, Buffs, and Spells \n \n Left click on icon then left click on target own units"
+END
+
+CONTROLBAR:ThranduilFavor
+"Love of Silver and Je&wels"
+END
+
+CONTROLBAR:GlorfindelNewMount
+"&Mount Asfaloth / Dismount"
+END
+
+CONTROLBAR:GlorfindelNewMountTooltip
+"Left click to switch between \n mounted on Asfaloth and on foot"
+END
+
+CONTROLBAR:TheodenNewMount
+"&Mount Snowmane / Dismount"
+END
+
+CONTROLBAR:TheodenNewMountTooltip
+"Left click to switch between \n mounted on Snowmane and on foot"
+END
+
+CONTROLBAR:EomerNewMount
+"&Mount Firefoot / Dismount"
+END
+
+CONTROLBAR:EomerNewMountTooltip
+"Left click to switch between \n mounted on Firefoot and on foot"
+END
+
+CONTROLBAR:TheodredNewMount
+"&Mount Brego / Dismount"
+END
+
+CONTROLBAR:TheodredNewMountTooltip
+"Left click to switch between \n mounted on Brego and on foot"
+END
+
+CONTROLBAR:FellowshipLeap
+"Nobody Tosses A D&warf"
+END
+
+CONTROLBAR:ToolTipFellowshipLeap
+"Requires Level 3 \n Gimli jumps to a location causing area-effect damage \n Left click icon then left click on target area"
+END
+
+CONTROLBAR:Leap_Summoned
+"Baru&k-Khazad!"
+END
+
+CONTROLBAR:ToolTipLeap_Summoned
+"Gimli jumps to a location causing area-effect damage \n Left click icon then left click on target area"
+END
+
+CONTROLBAR:ToolTipToggleGreyCompanyWeapons
+"Left click to toggle between bow and spear"
+END
+
+CONTROLBAR:ToolTipToggleElfhelmWeapons
+"Left click to toggle between sword and bow"
+END
+
+CONTROLBAR:ToolTipToggleLegolasWeapons
+"Left click to toggle between bow and white knives"
+END
+
+CONTROLBAR:ToggleDefaultFormation
+"Default For&mation"
+END
+
+CONTROLBAR:ToolTipToggleSnowbourneLineFormation
+"+15% Speed \n +15% Armor \n -15% Crush velocity"
+END
+
+CONTROLBAR:ToolTipToggleSnowbourneDefualtFormation
+"The units return to standard formation"
+END
+
+CONTROLBAR:TogglePhalanxFormation
+"Phalanx For&mation"
+END
+
+CONTROLBAR:ToggleSchiltronFormation
+"Schiltron For&mation"
+END
+
+CONTROLBAR:ToolTipUseSwordRank3
+"Requires Rank 3\nLeft click to switch to melee mode"
+END
+
+CONTROLBAR:TheOneRing_Campaign
+"A Heavy &Burden"
+END
+
+CONTROLBAR:ToolTipTheOneRing_Riddle
+"Become invisible \n Left click to activate"
+END
+
+CONTROLBAR:ToolTipTheOneRingIsildur
+"Become invisible but can not attack"
+END
+
+CONTROLBAR:HobbitCloak
+"Hide Here, Qui&ck!"
+END
+
+CONTROLBAR:ToolTipElvenCloakCampaign
+"Becomes invisible when standing still \n Also passively grants +10% armor to all nearby hobbit heroes \n Left click to activate"
+END
+
+CONTROLBAR:ToolTipRivendellLightningSword
+"Shoots out lightning bolts from Gandalf's sword \n Left click icon then left click on target"
+END
+
+CONTROLBAR:ToolTipFellowshipLightningSword
+"Shoots out lightning bolts from Gandalf's sword \n Left click icon then left click on target"
+END
+
+CONTROLBAR:ToolTipCampaignFaramirSummonLeadership
+"Requires Level 3 \n Faramir calls a group of Rangers to defend targeted location. They are immobile, but remain stealthed and will attack any enemy that approaches. \n Left click icon then left click on pathable location \n\n Modifier Type: Leadership \n Allies near Faramir gain +33% Damage, +33% Armor, and earn experience 50% faster \n Stacks with Buffs and Spells \n Passive ability"
+END
+
+CONTROLBAR:ToolTipBuildRohanPeasantDrafted
+"Drafted \n \n The Riddermark depended on its peasants to work the fields - only in times of great need could they be levied to serve their king in battle."
+END
+
+CREDITS:Producer
+"Senior Producers"
+END
+
+CREDITS:EALAMastering
+"EALA Mastering"
+END
+
+GUI:FRUIT_DISCOUNT
+// Context: used to display cavalry discount modifier in palantir
+"Fruit Bonus -%d%%"
+END
+
+GUI:GAME_DISCOUNT
+// Context: used to display cavalry discount modifier in palantir
+"Game Bonus -%d%%"
+END
+
+GUI:WINE_DISCOUNT
+// Context: used to display cavalry discount modifier in palantir
+"Wine Bonus -%d%%"
+END
+
+GUI:ARTISAN_DISCOUNT
+// Context: used to display cavalry discount modifier in palantir
+"Artisan Bonus -%d%%"
+END
+
+GUI:HeroismDiscount
+// Context: used to display infantry discount modifier in palantir
+"Heroism Bonus -%d%%"
+END
+
+GUI:IrrigationBonus
+// Context: used to display cavalry discount modifier in palantir
+"Irrigation\nBonus +20%"
+END
+
+GUI:FEANOR_DISCOUNT
+"Feanor Bonus -%d%%"
+END
+
+LWScenario:AOTRScenario001
+"WOTR: Assault on Rohan"
+END
+
+LWScenario:AOTRScenario001Description
+"# Of Players: 2\nSaruman has raised an army and is now threatening to overrun the Riddermark."
+END
+
+LWScenario:AOTRScenario002
+"WOTR: Siege of Gondor"
+END
+
+LWScenario:AOTRScenario002Description
+"# Of Players: 2\nSauron is gathering an army and prepares to take the capital city of Gondor."
+END
+
+LWScenario:AOTRScenario003
+"WOTR: War in the South"
+END
+
+LWScenario:AOTRScenario003Description
+"# Of Players: 2-6\nObjective: Fight for control of the southern lands of Middle-earth."
+END
+
+LWScenario:AOTRScenario004
+"WOTR: War in the North"
+END
+
+LWScenario:AOTRScenario004Description
+"# Of Players: 2-6\nObjective: Fight for control of the northern lands of Middle-earth."
+END
+
+LWA:GuldurArmy
+"Dol Guldur Army"
+END
+
+BANNERUI:WildAttackTroll
+"Gundabad Stone-troll"
+End
+
+BANNERUI:WildAttackTrolls
+"Gundabad Stone-trolls"
+End
+
+OBJECT:RohanBarracksDescription
+"Generates resources based on available terrain\nLevel 2: +10% Faster Build Speed\n Level 3: +25% Faster Build Speed"
+END
+
+OBJECT:RohanArcheryRangeDescription
+"Generates resources based on available terrain\nLevel 2: +10% Faster Build Speed\n Level 3: +25% Faster Build Speed"
+END
+
+LWA:ElvesHeroArmy
+"Lothlórien Hero Army"
+END
+
+LWA:GuldurHeroArmy
+"Dol Guldur Hero Army"
+END
+
+LWA:RohanGarrison
+"Rohan Garrison Army"
+End
+
+LWA:RohanHeroArmy
+"Rohan Hero Army"
+End
+
+LWA:GuldurGarrison
+"Dol Guldur Garrison Army"
+End
+
+OBJECT:HordeGondorSoldierCombo
+"An�rien Soldiers"
+END
+
+CONTROLBAR:LW_Unit_GondorFighterHordeCombo
+"An�rien Soldiers Combo Batallion"
+END
+
+CONTROLBAR:LW_Unit_GondorFighterHordeComboPlural
+"An�rien Soldiers Combo Batallions"
+END
+
+CONTROLBAR:LW_ToolTip_GondorFighterHordeCombo
+"Unit Type: Elite Infantry\nStrong vs. Pikemen\n"
+END
+
+OBJECT:HordeGondorSpearmenCombo
+"An�rien Pikemen"
+END
+
+CONTROLBAR:LW_Unit_GondorSpearmenHordeCombo
+"An�rien Pikemen Combo Batallion"
+END
+
+CONTROLBAR:LW_Unit_GondorSpearmenHordeComboPlural
+"An�rien Pikemen Combo Batallions"
+END
+
+CONTROLBAR:LW_ToolTip_GondorSpearmenHordeCombo
+"Unit Type: Elite Pikemen\nStrong vs. Cavalry\n"
+END
+
+OBJECT:HordeGondorArcherCombo
+"An�rien Archers"
+END
+
+CONTROLBAR:LW_Unit_GondorArcherHordeCombo
+"An�rien Archers Combo Batallion"
+END
+
+CONTROLBAR:LW_Unit_GondorArcherHordeComboPlural
+"An�rien Archers Combo Batallions"
+END
+
+CONTROLBAR:LW_ToolTip_GondorArcherHordeCombo
+"Unit Type: Elite Archer\nStrong vs. Infantry\n"
+END
+
+CONTROLBAR:LW_Unit_GondorFighterArcherHorde
+"An�rien Soldiers - An�rien Archers Batallion"
+END
+
+CONTROLBAR:LW_Unit_GondorFighterArcherHordePlural
+"An�rien Soldiers - An�rien Archers Batallions"
+END
+
+CONTROLBAR:LW_ToolTip_GondorFighterArcherHorde
+"Unit Type: Elite Infantry and Elite Archer\nStrong vs. Pikemen and Infantry\n"
+END
+
+CONTROLBAR:LW_Unit_GondorFighterSpearmenHorde
+"An�rien Pikemen - An�rien Archers Batallion"
+END
+
+CONTROLBAR:LW_Unit_GondorFighterSpearmenHordePlural
+"An�rien Pikemen - An�rien Archers Batallions"
+END
+
+CONTROLBAR:LW_ToolTip_GondorFighterSpearmenHorde
+"Unit Type: Elite Archer and Elite Pikemen\nStrong vs. Infantry and Cavalry\n"
+END
+
+CONTROLBAR:LW_Unit_GondorFighterDoubleCombo
+"An�rien Soldiers - An�rien Pikemen Bataillon"
+END
+
+CONTROLBAR:LW_Unit_GondorFighterDoubleComboPlural
+"An�rien Soldiers - An�rien Pikemen Bataillons"
+END
+
+CONTROLBAR:LW_ToolTip_GondorFighterDoubleCombo
+"Unit Type: Elite Infantry and Elite Pikemen\nStrong vs. Pikemen and Cavalry\n"
+END
+
+OBJECT:HordeMordorEasterlingEasterlingCombo3
+"Easterling Phalanx - Easterling Swordsmen"
+END
+
+OBJECT:HordeMordorEasterlingEasterlingCombo2
+"Easterling Swordsmen - Easterling Archers"
+END
+
+UPGRADE:GondorBodkinArrowUpgrade
+"Bodkin Arrows"
+END
+
+TOOLTIP:LackLevel3BarracksHeavyArmor
+"Requires Level 3 Barracks"
+END
+
+TOOLTIP:LackLevel2BarracksForgedBlades
+"Requires Level 2 Barracks"
+END
+
+CONTROLBAR:ToolTipPurchaseUpgradeRohanFortressFlamingMunitions
+//"Adds fire damage to all attached towers and trebuchets"
+//"Adds fire damage to all attached towers and machines"
+"Adds fire damage to all attached towers"
+END
+
+CONTROLBAR:ToolTipPurchaseUpgradeMenFortressIvoryTower_WOTR
+"Provides Palantir Vision Power \n Increases Fortress vision range"
+END
+
+CONTROLBAR:ToolTipConstructDwarvenHusbandryBlueMountains
+"Recruits Iron Hills Troops and War Machines \n Increases command point limit by 25"
+END
+
+CONTROLBAR:ToolTipPurchaseUpgradeDwarvenFortressMightyCatapult_WOTR
+"Grants heavy armor to Dwarf heroes \nEnables the recruitment of Iron Hills troops \n and Ered Luin troops"
+END
+
+CONTROLBAR:TooltipCommand_RohanWallUpgradeToTower
+"Spawns archers that can fire at nearby enemy units"
+END
+
+CONTROLBAR:Command_RohanWallUpgradeToCatapult
+"Rohirri&c Onager"
+END
+
+OBJECT:RohanCastleCatapultExpansion
+"Onager Expansion"
+END
+
+OBJECT:RohanCastleWallCatapultSmall
+"Onager"
+END
+
+CONTROLBAR:ToolTipUpgradeDwarvenBarracksLevel3_WOTR
+"+25% Faster Build Speed \n Adds Defensive Guard Tower"
+END
+
+CONTROLBAR:ConstructRivendellWatchtowerExpansion
+"To&wer Expansion"
+END
+
+CONTROLBAR:ToolTipConstructRivendellWatchtowerExpansion
+"Defensive tower that fires at nearby enemy units"
+END
+
+CONTROLBAR:PurchaseUpgradeMallornTreeLevel2
+"&Upgrade Mallorn Tree to Level 2"
+END
+
+CONTROLBAR:ToolTipBuildMallornTreeLevel2
+"Increases resource production \n Allows research of the Mallorn Roots Upgrade\n Gains the ability to fire at enemies at great range"
+END
+
+CONTROLBAR:PurchaseUpgradeMallornTreeLevel3
+"&Upgrade Mallorn Tree to Level 3"
+END
+
+CONTROLBAR:ToolTipBuildMallornTreeLevel3
+"Increases resource production \n Allows training of Sentinels of the Silver Tree"
+END
+
+OBJECT:RivendellStatue
+"Statue of Gil-galad"
+END
+
+CONTROLBAR:LW_ToolTipBuild_RohanBarracks
+"Structure Type: Barracks\nTrains Rohan units\n"
+END
+
+CONTROLBAR:LW_ToolTip_RohanBarracks
+"Structure Type: Barracks\nTrains Rohan units"
+END
+
+CONTROLBAR:LW_Structure_RohanWorkshop
+"Workshop"
+END
+
+CONTROLBAR:LW_Unit_RohanRohirrimArcherHorde
+"Rohirrim Archers Battalion"
+END
+
+CONTROLBAR:LW_Unit_RohanRohirrimArcherHordePlural
+"Rohirrim Archers Battalions"
+END
+
+BANNERUI:RohirrimArcher
+"Rohirrim Archer"
+END
+
+BANNERUI:PluralRohirrimArcher
+"Rohirrim Archers"
+END
+
+CONTROLBAR:LW_ToolTipBuild_RohanRohirrimArcherHorde
+"Unit Type: Elite Cavalry\nStrong vs. Archers\n"
+END
+
+CONTROLBAR:LW_ToolTip_RohanRohirrimArcherHorde
+"\nUnit Type: Elite Cavalry\nStrong vs. Archers"
+END
+
+CONTROLBAR:LW_Hero_Erkenbrand
+"Erkenbrand"
+END
+
+CONTROLBAR:LW_Hero_Elfhelm
+"Elfhelm"
+END
+
+CONTROLBAR:LW_Hero_Theodred
+"Théodred"
+END
+
+CONTROLBAR:LW_Unit_ElvenLorienWardenArcherHorde
+"Lórien Wardens - Lórien Archers Battalion"
+END
+
+CONTROLBAR:LW_Unit_ElvenLorienWardenArcherHordePlural
+"Lórien Wardens - Lórien Archers Battalions"
+END
+
+CONTROLBAR:CampaignFlood
+"Wrath of Ulmo"
+END
+
+CONTROLBAR:TooltipCampaignFlood
+"Summons a powerful Flood to crush enemy units \n Extinguishes fires\n Left click icon then left click on target area"
+END
+
+CONTROLBAR:PurchaseUpgradeWildFortressGoblinTown
+"Allegiance: Gobli&n-town"
+END
+
+CONTROLBAR:ToolTipPurchaseUpgradeWildFortressGoblinTown
+"Allows training of Goblin-towners and The Great Goblin \n Reduces Hero cost by 10% \n Reduces Hero recruit time by 10% \n Reduces cost of builders by 20%""
+End
+
+CONTROLBAR:ToolTipPurchaseUpgradeWildFortressGoblinTownForMap
+"Allows training of Goblin-towners and The Great Goblin"
+End
+
+CONTROLBAR:ToolTipPurchaseUpgradeWildFortressWebCocoonForMaps
+// "Increases Fortress armor \n Prerequisite to Dragon's Nest"
+"Allows training of Gundabad Berserkers, Gundabad Stone-trolls,\nand a second battalion of Horrors of Gram"
+End
+
+CONTROLBAR:PurchaseUpgradeWildFortressNorthernWastes
+"Allegiance: Northern &Wastes"
+END
+
+CONTROLBAR:ToolTipPurchaseUpgradeWildFortressNorthernWastes
+"Unlocks Wyrm Lair \n Allows the fortress to temporarily summon a Wyrm"
+End
+
+CONTROLBAR:ToolTipPurchaseUpgradeWildFortressNorthernWastesForMap
+"Unlocks Wyrm Lair"
+End
+
+CONTROLBAR:ToolTipPurchaseUpgradeWildFortressWebCocoon_WOTR
+// "Increases Fortress armor \n Prerequisite to Dragon's Nest"
+"Increases Fortress armor \n Unlocks Gundabad Olog-hai and Giant Bats"
+END
+
+CONTROLBAR:ToolTipPurchaseUpgradeGuldurSentryTowerFireArrows
+"Requires the Hidden Sentry upgrade\nUpgrades this Tower with Fire Arrows \n Increases damage done by Arrows"
+END
+
+CONTROLBAR:SelectFocusIsengardFortress
+"Focus System"
+END
+
+CONTROLBAR:ToolTipCommandSelectFocusIsengardFortress
+"Requires the Wisdom of Curunir upgrade \n Purchase focus for the faction"
+END
+
+CONTROLBAR:ToolTipBuildCorsairsOfUmbarHorde
+"Strong vs. Pikemen"
+END
+
+CONTROLBAR:SpecialPowerIncorruptable
+"&Incorruptible"
+END
+
+CONTROLBAR:SpecialPowerToolTipIncorruptable
+"Nothing may harm the Master of wood, water and hill\nBombadil temporarily becomes immune to damage, and is resistant to knockback  \n Left click to activate"
+END
+
+CONTROLBAR:SummonWillow
+"Old Man &Willow"
+END
+
+OBJECT:OldManWillow
+"Old Man Willow"
+END
+
+OBJECT:OldManWillowDescription
+"Old Man Willow whispers an old and enchanting song\nEnemy units around him are put to sleep"
+END
+
+CONTROLBAR:ToolTipWillowSleep
+"Old Man Willow whispers an old and enchanting song\nEnemy units around him are put to sleep"
+END
+
+CONTROLBAR:WillowSleep
+"Ancient song"
+END
+
+CONTROLBAR:ToolTipSummonWillow
+"Summons Old Man Willow\nEnemy units around him are put to sleep \n Left click icon then left click on pathable location"
+END
+
+CONTROLBAR:ConstructWildAttackTroll
+"Gundabad &Stone-troll"
+End
+
+CONTROLBAR:ConstructGuldurRuinousTower
+"Summon Ruinous &Tower"
+End
+
+CONTROLBAR:StonehelmLeadership
+"Prince of Erebor"
+End
+
+CONTROLBAR:ToolTipStonehelmLeadership
+"Modifier Type: Leadership \n Allies near Thorin III Stonehelm gain +33% Damage, +33% Armor, and earn experience 50% faster \n Stacks with Buffs and Spells \n Passive ability"
+END
+
+CONTROLBAR:FirienholtLongShotAbility
+"&Longshot"
+End
+
+CONTROLBAR:ToolTipConstructGuldurRuinousTower
+//"Short range defensive tower"
+"Defensive tower that fires arrows at nearby enemies \n Stealthed near trees \n Generates a small amount of resources based on available terrain \n Reduces cost of Shades"
+End
+
+OBJECT:GuldurRuinousTower
+"Ruinous Tower"
+END
+
+OBJECT:GuldurRuinousTowerDescription
+"Fires arrows at nearby enemies \n Stealthed near trees \n Generates a small amount of resources based on available terrain \n Deepening Darkness - Reduced cost of Shades \n 2 Towers: 10% \n 3 Towers: 20% \n 4 Towers: 30% \n 5 Towers: 40% \n 6+ Towers: 50%"
+END
+
+CONTROLBAR:GondorDenethorRecruit
+"Recruit the Steward of Gondor \n\n 'And I shall not forget it. Nor fail to reward that which is given. Fealty with love, valor with honor, disloyalty with vengeance.'"
+END
+
+CONTROLBAR:GondorDenethorRevive
+"Revive the fallen Steward of Gondor"
+END
+
+CONTROLBAR:GondorDenethorHotkey
+"Dene&thor II, Son of Ecthelion"
+END
+
+OBJECT:HordeRivendellHobbits
+"Bounders"
+END
+
+OBJECT:NeutralWorkPit
+"Work Pit"
+End
+
+OBJECT:RivendellHobbit
+"Bounder"
+END
+
+TOOLTIP:LackIvoryTower_WOTR
+"Requires the Numenor Stonework upgrade \n Provides Palantir Vision Power \n Increases Fortress vision range"
+END
+
+CONTROLBAR:RohanCatapultUpgrade
+"&Replace Onager"
+END
+
+CONTROLBAR:ToolTipRohanCatapultUpgrade
+"Rebuilds the onager on the platform"
+END
+
+CONTROLBAR:BuildPlotTrebuchet
+"Build &Trebuchet"
+END
+
+CONTROLBAR:ToolTipBuildPlotTrebuchet
+"Builds a trebuchet on the platform"
+END
+
+CONTROLBAR:BuildPlotLargeTrebuchet
+"Build Numenorean &Trebuchet"
+END
+
+CONTROLBAR:ToolTipBuildPlotLargeTrebuchet
+"Builds a Numenorean Trebuchet on the platform"
+END
+
+CONTROLBAR:ToolTipPurchaseUpgradeGondorBodkinArrows
+"Upgrades this battalion with Bodkin Arrows \n Reduces enemy armor by 25% when hit \n Does not stack"
+END
+
+CONTROLBAR:ToolTipPurchaseTechnologyElvenForgedBlades
+"Allows battalions to purchase the Tempered Blades upgrade \n When equipped, increases the damage done by Melee Weapons\n Will upgrade all patrols instantly once upgrade is purchased"
+END
+
+CONTROLBAR:ToolTipPurchaseTechnologyMirkwoodForgedBlades
+"Allows battalions to purchase the Silvan Steel upgrade \n When equipped, increases the damage done by Melee Weapons\n Will upgrade all patrols instantly once upgrade is purchased"
+END
+
+CONTROLBAR:ToolTipPurchaseUpgradeIsengardHeavyArmor_DGInn
+"Requires Guldur Gaol to enable this equipment\nUpgrades this horde with Heavy Armor \n Significantly reduces the amount of damage taken"
+END
+
+CONTROLBAR:ToolTipPurchaseTechnologyGuldurFireArrows
+"Allows hordes to purchase the Fire Arrows upgrade \nWhen equipped, significantly increases the damage done by Arrows and allows level 2 Hunters to use 'Bring It Down!' ability\n Will upgrade all patrols and tower archers instantly once upgrade is purchased"
+END
+
+CONTROLBAR:ToolTipPurchaseUpgradeGuldurFireArrows
+"Upgrades this horde with Fire Arrows \n Significantly increases the damage done by Arrows\n\nAllows this horde to use the 'Bring It Down!' ability at level 2\n to temporarily increase damage to Flying units"
+END
+
+CONTROLBAR:PurchaseUpgradeWildBasicTrainingWarg
+"Purchase Pac&k Alpha"
+END
+
+CONTROLBAR:PurchaseUpgradeIsengardBasicTrainingWarg
+"Purchase Pac&k Alpha"
+END
+
+CONTROLBAR:ToolTipPurchaseUpgradeMordorForgedBlades_DGInn
+"Requires Guldur Gaol to enable this equipment\nUpgrades this horde with Forged Blades \n Increases the damage done by Melee Weapons"
+END
+
+TOOLTIP:ToolTipPurchaseUpgradeDwarvenFlamingShot
+"Research Flaming Shot upgrade at Workshop to enable this equipment\nSignificantly increases the Mangonel's damage"
+END
+
+CONTROLBAR:TooltipPurchaseUpgradeMirkwoodSilverthornArrowsBattleTower
+"Upgrade this Battle Tower's Archer with Silvan Fletching \n Increases damage done by Arrows"
+END
+
+CONTROLBAR:PurchaseUpgradeMirkwoodSilverthornArrowsForBattleTower
+"Silvan F&letching"
+END
+
+TOOLTIP:LackArnorForgedBlades_Inn
+"Research Forged Blades upgrade at Blacksmith\nto enable this equipment \n When equipped, increases the damage done by Melee Weapons"
+END
+
+TOOLTIP:LackRohanForgedBladesP
+"Requires Peasants to be Drafted \n Research Upgrade at Barracks to enable this equipment \n When equipped, increases the damage done by Melee Weapons"
+END
+
+TOOLTIP:LackRohanHeavyArmorP
+"Requires Peasants to be Drafted \n Research Upgrade at Barracks to enable this equipment \n When equipped, significantly reduces the amount of damage taken"
+END
+
+TOOLTIP:LackGuldurFireArrow
+"Research upgrade at Guldur Gaol to enable this equipment \n When equipped, significantly increases the damage done by Arrows and allows level 2 Hunters to use 'Bring It Down!' ability to deal additional damage vs Flyers"
+END
+
+TOOLTIP:LackMordorBasicTraining_DGInn
+"Research upgrade at Guldur Gaol to enable this equipment \n When equipped, increases this horde to Level 2"
+END
+
+TOOLTIP:LackLevel2DwarvenWorkshop
+"Requires Level 2 Workshop"
+END
+
+ToolTip:LackElvenForgedBladesRohanInn
+"Research Forged Blades upgrade at Barracks\nto enable this equipment \n When equipped, increases the damage done by Melee Weapons"
+END
+
+ToolTip:LackMirkwoodForgedBlades
+"Research upgrade at Thranduil's Treasury to enable this equipment \n When equipped, increases the damage done by Melee Weapons"
+END
+
+TOOLTIP:LacksTechnologyMirkwoodSilverthornArrows
+"Research upgrade at Thranduil's Treasury to enable this equipment \n When equipped, significantly increases the damage done by Arrows"
+END
+
+TOOLTIP:LacksTechnologyElvenSilverthornArrows_RohanInn
+"Research Fire Arrows upgrade at Archery Range\nto enable this equipment \n When equipped, significantly increases the damage done by Arrows"
+END
+
+TOOLTIP:LackLorienBasicTraining
+"Research upgrade at Golden Wood Storehouse to enable this equipment \n When equipped, increases this battalion to Level 2"
+END
+
+TOOLTIP:LackLorienBasicTrainingForElves
+"Research upgrade at Golden Wood Storehouse to enable this equipment \n When equipped, increases this battalion to Level 2\nand allows to regain health outside of combat"
+END
+
+TOOLTIP:LackMirkwoodBasicTraining
+"Research upgrade at Thranduil's Treasury to enable this equipment \n When equipped, increases this battalion to Level 2"
+END
+
+ToolTip:LackMordorHeavyArmor_DGInn
+"Requires rank 3 Guldur Gaol to enable this equipment \n When equipped, significantly reduces the amount of damage taken"
+END
+
+ToolTip:LackMordorForgedBlades_DGInn
+"Requires rank 3 Guldur Gaol to enable this equipment \n When equipped, increases the damage done by Melee Weapons"
+END
+
+TOOLTIP:LackWildHeavyArmor_Inn
+"Research Heavy Armor upgrade at Armory\nto enable this equipment\nWhen equipped, significantly reduces the amount of damage taken"
+END
+
+TOOLTIP:GondorBodkingArrows
+"Bodkin Arrows"
+END
+
+TOOLTIP:ArnorHeavyArmor
+"Noldorin Armor"
+END
+
+TOOLTIP:ArnorForgedBlades
+"Tengwar-Inscribed Blades"
+END
+
+TOOLTIP:SindarinHeavyArmor
+"Sindarin Armor"
+END
+
+TOOLTIP:LackMightyCatapultDwarvenStonework_WOTR
+"Requires the Fortifications upgrade \nEnables the recruitment of Iron Hills and Ered Luin troops."
+END
+
+OBJECT:HordeRivendellReveler
+"Rivendell Revelers"
+END
+
+OBJECT:RivendellReveler
+"Rivendell Reveler"
+END
+
+OBJECT:ArnorGreyCompany
+"Grey Company"
+END
+
+OBJECT:HordeElvenRivendellSwordmenArcher
+"Rivendell Swordmen - Rivendell Archers"
+END
+
+OBJECT:HordeElvenRivendellGlaivemenArcher
+"Rivendell Glaivesmen - Rivendell Archers"
+END
+
+OBJECT:HordeElvenRivendellGlaivemenArcher
+"Rivendell Glaivesmen - Rivendell Archers"
+END
+
+CONTROLBAR:ToolTipConstructArnorStatue
+"Leadership bonus to nearby troops \n Reduces cost of heroes \n Increases command point limit by 10"
+END
+
+CONTROLBAR:ToolTipConstructArnorMarketPlace_Disabled
+"Library creates various upgrades \n Limited to 1 \n Increases command point limit by 25 \n \n The Library is already built"
+END
+
+OBJECT:ArnorMarketPlaceDescription
+"Creates various upgrades"
+END
+
+CONTROLBAR:ToolTipBuildArnorArcheryRangeLevel2Upgrade_WOTR
+"Level 2: +10% Faster Build Speed \n Allows recruitment of Battering Rams"
+END
+
+CONTROLBAR:ToolTipBuildArnorArcheryRangeLevel3Upgrade_WOTR
+"Level 3: +25% Faster Build Speed"
+END
+OBJECT:RivendellBlacksmith
+"Rivendell Forge"
+END
+OBJECT:RivendellBlacksmithDescription
+"Upgrades weapons and armor \n Generates resources based on available terrain \n Steel Bonus - Reduced cost of upgrades \n 2 Forges: 5% \n 3 Forges: 10% \n 4 Forges: 15% \n 5 Forges: 20% \n 6+ Forges: 25%"
+END
+
+CONTROLBAR:ConstructRivendellBlacksmith
+"Build R&ivendell Forge"
+END
+
+CONTROLBAR:ToolTipConstructRivendellBlacksmith
+"Upgrades weapons and armor \n Generates resources based on available terrain \n Increases command point limit by 50 \n Steel Bonus - Reduces cost of upgrades \n 2 Forges: 5% \n 3 Forges: 10% \n 4 Forges: 15% \n 5 Forges: 20% \n 6+ Forges: 25%"
+END
+
+CONTROLBAR:ToolTipBuildArnorBarracksLevel3Upgrade_WOTR
+"Level 3: +25% Faster Build Speed"
+END
+
+CONTROLBAR:ConstructRivendellHobbitShirrif
+//"Hobbits"
+"Bounder&s"
+End
+
+CONTROLBAR:ToolTipRivendellHobbitShirrif
+//"Recruits Hobbits to the battlefield"
+"Strong vs. Infantry \n Can stealth near trees \nThe Bounders are peace-keepers, patrolling the roads, paths, and borders of the Shire, settling disputes and keeping an eye out for wicked things and foreigners alike. During the last days of the Third Age, their numbers were greatly increased by Mayor Whitfoot, who could feel trouble brewing in the wild lands beyond."
+End
+
+CONTROLBAR:ConstructRivendellRevelerHorde
+"Rivendell &Revelers"
+END
+
+CONTROLBAR:ToolTipBuildRivendellRevelerHorde
+"Requires the Song and Merriment upgrade \n A party of Elven Revelers \n Limited to 5\n\nThe long history of the Elves is oft related through song and music, both sad and joyous."
+END
+
+CONTROLBAR:ToolTipPurchaseUpgradeArnorFireArrowsHobbits
+"Increases base damage and adds additional piercing damage to arrows \n Left click to upgrade this unit"
+END
+
+CONTROLBAR:ToolTipPurchaseUpgradeArnorBasicTrainingForElves
+"Increases a unit to Level 2\nAllows to regain health outside of combat\n Can only be equipped at Level 1"
+END
+
+CONTROLBAR:DunedainChieftain
+"Chieftain of the D�nedain"
+END
+
+CONTROLBAR:ToolTipDunedainChieftain
+"Nearby D�nedain gain +33% attack damage \n and become immune to fear\n Passive power \n \n Isildur's Heir \n Requires Level 9 and And�ril Upgrade \n Nearby D�nedain gain +33% attack damage \n and become immune to fear \n When activated, all nearby units gain +33% Damage, +50% Armor and become immune to fear"
+END
+
+CONTROLBAR:AragornIsildurHeir
+"&Isildur's Heir"
+END
+
+CONTROLBAR:ToolTipFellowshipAragornIsildurHeir
+"Requires Level 9 and And�ril Upgrade \n Nearby D�nedain gain +33% attack damage and become immune to fear\n Passive power \n When activated, all nearby units gain +33% Damage, \n +50% Armor and become immune to fear"
+END
+
+CONTROLBAR:FellowshipAragornBlademaster
+"Fa&ithful Protector"
+END
+
+CONTROLBAR:TooltipFellowshipAragornBlademaster
+//"Requires Level 2 \n Aragorn temporarily gains +100% Damage and +100% Armor \n Left click to activate"
+//"Requires Level 3 \n Aragorn temporarily gains +100% Damage and +100% Armor \n Left click to activate"
+"Requires Level 5 \n Aragorn temporarily gains\n+100% Damage, +100% Armor, and wields a torch \n Left click to activate"
+END
+
+CONTROLBAR:TooltipFellowshipStriderBlademaster
+//"Requires Level 2 \n Aragorn temporarily gains +100% Damage and +100% Armor \n Left click to activate"
+//"Requires Level 3 \n Aragorn temporarily gains +100% Damage and +100% Armor \n Left click to activate"
+"Requires Level 5 \n Strider temporarily gains\n+100% Damage, +100% Armor, and wields a torch \n Left click to activate"
+END
+
+Tooltip:LackArnorBasicTrainingForElves
+"Research upgrade at Forge to enable this equipment \n When equipped, increases this battalion to Level 2\nand allows to regain health outside of combat"
+End
+
+CONTROLBAR:GuldurKhamulRecruit
+//"Recruit a Fellbeast"
+"Recruit the Shadow of the East \n \n Once a great king of the Eastern Wastes, Kham�l was ensnared by Sauron through one of his Great Rings. For many long centuries Kham�l has served, performing acts of great terror and cruelty with solemn dedication to his Master."
+END
+
+TOOLTIP:LackLevel3GuldurGaolFireArrows
+"Requires Level 3 Guldur Gaol"
+END
+
+CONTROLBAR:LW_Unit_IsengardWildmanAxeSpearHorde
+"Wildmen Axe Thrower - Wildmen Spearman Horde"
+END
+
+CONTROLBAR:LW_Unit_IsengardWildmanAxeSpearHordePlural
+"Wildmen Axe Thrower - Wildmen Spearman Hordes"
+END
+
+CONTROLBAR:LW_ToolTip_IsengardWildmanAxeSpearHorde
+"\nUnit Type: Basic Archer and Basic Pikemen\nStrong vs. Pikemen and Cavalry"
+END
+
+CONTROLBAR:LW_Unit_IsengardWildmanAxeComboHorde
+"Wildmen of Dunland - Wildmen Axe Thrower Horde"
+END
+
+CONTROLBAR:LW_Unit_IsengardWildmanAxeSpearHordePlural
+"Wildmen of Dunland - Wildmen Axe Thrower Hordes"
+END
+
+CONTROLBAR:LW_ToolTip_IsengardWildmanAxeComboHorde
+"\nUnit Type: Basic Infantry and Basic Archer\nStrong vs. Archer and Pikemen"
+END
+
+CONTROLBAR:ConstructWhiteWargPack
+"White &Wolves"
+END
+
+CONTROLBAR:ToolTipBuildWhiteWargPack
+"Strong vs. Swordsmen and Archers \n \n A pack of large, terrifying White Wolves. \n May use Howl to temporarily terrify enemy units."
+END
+
+OBJECT:HordeWildWhiteWargPack
+"White Wolves"
+END
+
+CONTROLBAR:LW_Unit_RohanPeasantHorde
+"Peasants Battalion"
+END
+
+CONTROLBAR:LW_Unit_RohanPeasantHordePlural
+"Peasants Battalions"
+END
+
+CONTROLBAR:LW_ToolTip_RohanPeasantHorde
+"\nUnit Type: Basic Infantry\nStrong vs. Pikemen"
+END
+
+CONTROLBAR:LW_ToolTipBuild_RohanPeasantHorde
+"Unit Type: Basic Infantry\nStrong vs. Pikemen\n"
+END
+
+BANNERUI:RohanArcher
+"Yeoman Archer"
+END
+
+BANNERUI:PluralRohanArcher
+"Yeomen Archers"
+END
+
+OBJECT:HordeRohanRohirrimSpearCombo
+"Yeomen Spearmen - Rohirrim Warrior Horde"
+END
+
+OBJECT:HordeRohanArcherCombo
+"Yeomen Spearmen - Yeomen Archers"
+END
+
+CONTROLBAR:LW_Unit_RohanSArcherHorde
+"Yeomen Spearmen - Yeomen Archers Battalion"
+END
+
+CONTROLBAR:LW_Unit_RohanSArcherHordePlural
+"Yeomen Spearmen - Yeomen Archers Battalions"
+END
+
+CONTROLBAR:LW_ToolTip_RohanSArcherHorde
+"Unit Type: Basic Archer and Basic Pikemen\nStrong vs. Infantry, Cavalry and Heroes\n"
+END
+
+OBJECT:HordeRohanArcherWCombo
+"Yeomen Archers - Westfolders"
+END
+
+CONTROLBAR:LW_Unit_RohanWArcherHorde
+"Yeomen Archers - Westfolders Battalion"
+END
+
+CONTROLBAR:LW_Unit_RohanWArcherHordePlural
+"Yeomen Archers - Westfolders Battalions"
+END
+
+CONTROLBAR:LW_ToolTip_RohanWArcherHorde
+"Unit Type: Basic Archer and Elite Infantry\n Strong vs. Infantry and Archers\n"
+END
+
+OBJECT:HordeRohanArcher
+"Yeomen Archers"
+END
+
+CONTROLBAR:LW_Unit_RohanArcherHorde
+"Yeomen Archers Battalion"
+END
+
+CONTROLBAR:LW_Unit_RohanArcherHordePlural
+"Yeomen Archers Battalions"
+END
+
+CONTROLBAR:LW_ToolTipBuild_RohanArcherHorde
+//"Unit Type: Spearmen\nStrong vs. Cavalry\n"
+"Unit Type: Basic Archer\nStrong vs. Infantry\n"
+END
+
+CONTROLBAR:LW_ToolTip_RohanArcherHorde
+"\nUnit Type: Basic Archer\nStrong vs. Infantry"
+END
+
+BANNERUI:RohanWestfolder
+"Westfolder"
+END
+
+BANNERUI:RohanWestfolders
+"Westfolders"
+END
+
+CONTROLBAR:LW_Unit_RohanWestfolderHorde
+"Westfolders Battalion"
+END
+
+CONTROLBAR:LW_Unit_RohanWestfolderHordePlural
+"Westfolders Battalions"
+END
+
+CONTROLBAR:LW_Unit_RohanWestfolderComboHorde
+"Westfolders Combo Battalion"
+END
+
+CONTROLBAR:LW_Unit_RohanWestfolderComboHordePlural
+"Westfolders Combo Battalions"
+END
+
+CONTROLBAR:LW_ToolTipBuild_RohanWestfolderHorde
+//"Unit Type: Spearmen\nStrong vs. Cavalry\n"
+"Unit Type: Elite Infantry \nStrong vs. Archers\n"
+END
+
+CONTROLBAR:LW_ToolTip_RohanWestfolderHorde
+"\nUnit Type: Elite Infantry \nStrong vs. Archers"
+END
+
+BANNERUI:RohanFirienholtWarden
+"Halifirien Warden"
+END
+
+BANNERUI:RohanFirienholtWardens
+"Halifirien Wardens"
+END
+
+CONTROLBAR:LW_Unit_RohanFirienholtWardenHorde
+"Halifirien Wardens Battalion"
+END
+
+CONTROLBAR:LW_Unit_RohanFirienholtWardenHordePlural
+"Halifirien Wardens Battalions"
+END
+
+CONTROLBAR:LW_ToolTip_RohanFirienholtWardenHorde
+"\nUnit Type: Elite Archer\nStrong vs. Infantry"
+END
+
+CONTROLBAR:LW_ToolTipBuild_RohanFirienholtWardenHorde
+"Unit Type: Elite Archer\nStrong vs. Infantry\n"
+END
+
+BANNERUI:RohanDoorWarden
+"Edoras Kingsguard"
+END
+
+BANNERUI:RohanDoorWardens
+"Edoras Kingsguard"
+END
+
+CONTROLBAR:LW_Unit_RohanDoorWardenHorde
+"Edoras Kingsguard Battalion"
+END
+
+CONTROLBAR:LW_Unit_RohanDoorWardenHordePlural
+"Edoras Kingsguard Battalions"
+END
+
+CONTROLBAR:LW_ToolTipBuild_RohanDoorWardenHorde
+"Unit Type: Elite Infantry \nStrong vs. Archers\n"
+END
+
+CONTROLBAR:LW_ToolTip_RohanDoorWardenHorde
+"\nUnit Type: Elite Infantry \nStrong vs. Archers"
+END
+
+BANNERUI:RohanHorseman
+"Horseman of the Mark"
+END
+
+BANNERUI:RohanHorsemen
+"Horsemen of the Mark"
+END
+
+CONTROLBAR:LW_Unit_RohanHorsemenHorde
+"Horsemen Battalion"
+END
+
+CONTROLBAR:LW_Unit_RohanHorsemenHordePlural
+"Horsemen Battalions"
+END
+
+CONTROLBAR:LW_ToolTip_RohanHorsemenHorde
+"\nUnit Type: Basic Cavalry \nStrong vs. Infantry"
+END
+
+CONTROLBAR:LW_ToolTipBuild_RohanHorsemenHorde
+"Unit Type: Basic Cavalry \nStrong vs. Infantry\n"
+END
+
+BANNERUI:RohanSnowbournRider
+"Rider of Snowbourn"
+END
+
+BANNERUI:RohanSnowbournRiders
+"Riders of Snowbourn"
+END
+
+CONTROLBAR:LW_Unit_RohanSnowbournRiderHorde
+"Riders of Snowbourn Battalion"
+END
+
+CONTROLBAR:LW_Unit_RohanSnowbournRiderHordePlural
+"Riders of Snowbourn Battalions"
+END
+
+CONTROLBAR:LW_ToolTipBuild_RohanSnowbournRiderHorde
+"Unit Type: Elite Cavalry\nStrong vs. Archers\n"
+END
+
+CONTROLBAR:LW_ToolTip_RohanSnowbournRiderHorde
+"\nUnit Type: Elite Cavalry\nStrong vs. Archers"
+END
+
+BANNERUI:RohanRoyalGuardMounted
+"Kingsguard"
+END
+
+BANNERUI:RohanRoyalGuardMountedPlural
+"Kingsguards"
+END
+
+CONTROLBAR:LW_Unit_RohanRoyalGuardMountedHorde
+"Kingsguards Battalion"
+END
+
+CONTROLBAR:LW_Unit_RohanRoyalGuardMountedHordePlural
+"Kingsguards Battalions"
+END
+
+CONTROLBAR:LW_ToolTipBuild_RohanRoyalGuardMountedHorde
+"Unit Type: Elite Cavalry\nStrong vs. Archers\n"
+END
+
+CONTROLBAR:LW_ToolTip_RohanRoyalGuardMountedHorde
+"Unit Type: Elite Cavalry\nStrong vs. Archers\n"
+END
+
+BANNERUI:RohanHelmingasWarden
+"Helmingas Warrior"
+END
+
+BANNERUI:RohanHelmingasWardens
+"Helmingas Warriors"
+END
+
+CONTROLBAR:LW_Unit_RohanHelmingasWardenHorde
+"Helmingas Warriors Battalion"
+END
+
+CONTROLBAR:LW_Unit_RohanHelmingasWardenHordePlural
+"Helmingas Warriors Battalions"
+END
+
+CONTROLBAR:LW_ToolTipBuild_RohanHelmingasWardenHorde
+"Unit Type: Hero Unit\nLimited to 1\nStrong vs. All\n"
+END
+
+CONTROLBAR:LW_ToolTip_RohanHelmingasWardenHorde
+"\nUnit Type: Hero Unit\nStrong vs. All"
+END
+
+CONTROLBAR:LW_ToolTip_RohanHelmingasWardenHorde_WOTR
+"10 Helmingas Warriors\n\nUnit Type: Hero Unit\nStrong vs. All"
+END
+
+CONTROLBAR:ToolTipDescriptionArnorFarm
+//"Generates resources based on available terrain Increases command point limit by 50"
+"Generates resources based on available terrain\n Fruit Bonus - Reduced cost of cavalry \n 2 Orchards: 5% \n 3 Orchards: 10% \n 4 Orchards: 15% \n 5 Orchards: 20% \n 6+ Orchards: 25%"
+END
+
+OBJECT:RohanHeroicStatueDescription
+//"Allies near the Statue gain \n +50% Damage, +50% Armor, \n and earn experience twice as fast \n \n Reduces the cost of Infantry \n Increases command point limit by 10"
+//"Allies near the Statue gain \n +33% Damage, +33% Armor, \nearn experience twice as fast,\nand become immune to fear and terror\nReduces the cost of Infantry \n Increases command point limit by 10"
+//"Allies near the Statue gain \n +33% Damage, +33% Armor, \nearn experience 50% faster,\nand become immune to fear and terror\nReduces the cost of Infantry \n Increases command point limit by 10"
+"Modifier Type: Leadership \n Allies near the Statue gain +33% Damage, +33% Armor, earn experience 50% faster, and become immune to Fear and Terror \n Stacks with Buffs and Spells \n Heroism Bonus - Reduced cost of heroes \n 1 Statue: 5% \n 2 Statues: 10% \n 3 Statues: 15% \n 4 Statues: 20% \n 5+ Statues: 25%"
+END
+
+OBJECT:MirkwoodHeroicStatueDescription
+"Modifier Type: Leadership \n Allies near the Statue gain +33% Damage, +33% Armor, earn experience 50% faster, and become immune to Fear and Terror \n Stacks with Buffs and Spells \n Heroic Bonus - Reduced cost of heroes \n 1 Statue: 5% \n 2 Statues: 10% \n 3 Statues: 15% \n 4 Statues: 20% \n 5+ Statues: 25%"
+END
+
+CONTROLBAR:GondorHeal
+"Skilled Healers"
+END
+
+CONTROLBAR:TooltipCampaignRebuild
+//"Heals structures \n Left click icon then left click on target structures"
+"Repairs structures \n Left click icon then left click on target structures"
+End
+
+CONTROLBAR:ToolTipWhiteWinter
+//"Temporarily covers the map in rain \n All enemy units lose their leadership bonuses \n Left click to activate"
+//"Temporarily covers the map in rain\nReduces enemy armor and damage\nNullifies enemy Leadership\nLeft click to activate"
+"Temporarily blankets the map in a raging snowstorm\n Cancels Freezing Rain, White Winter, Blessing of Ulmo, or Darkness \n Modifier Type: Active Debuff \n Enemy units suffer -25% Damage, -20% Armor, and -30% Vision Range \nNullifies enemy Leadership \n Does not stack with other Debuffs \n Left click to activate"
+END
+
+CONTROLBAR:ToolTipMirkwoodLongShotAbility
+"Requires Level 5\nThe rangers bombard anywhere within a great radius with a volley of arrows \n Left click icon then left click on target area"
+End
+
+CONTROLBAR:ToolTipFirienholtLongShotAbility
+//"The rangers bombard anywhere on the map with a volley of arrows \n Left click icon then left click on target area\n Requires Level 2"
+//"Requires Level 2\nThe rangers bombard anywhere on the map with a volley of arrows \n Left click icon then left click on target area"
+"Requires Level 2\nThe sentinels bombard anywhere within a great radius with a volley of arrows \n Left click icon then left click on target area"
+End
+
+CONTROLBAR:ToolTipFirienholtLongShotAbility_Summoned
+//"The rangers bombard anywhere on the map with a volley of arrows \n Left click icon then left click on target area\n Requires Level 2"
+//"Requires Level 2\nThe rangers bombard anywhere on the map with a volley of arrows \n Left click icon then left click on target area"
+"The sentinels bombard anywhere within a great radius with a volley of arrows \n Left click icon then left click on target area"
+End
+
+CONTROLBAR:ToolTipConstructRohanBarracks
+//"Trains Soldiers, Spearmen and Tower Guards"
+"Trains the melee infantry of Rohan \n Upgrades weapons and armor \n Generates a small amount of resources based on avaliable terrain \n Increases command point limit by 25"
+END
+
+CONTROLBAR:ToolTipBuildGondorBarracksLevel2Upgrade_Osgiliath
+"Allows training of An�rien Spearmen \n+10% Faster Build Speed"
+END
+
+CONTROLBAR:ToolTipBuildGondorArcheryRangeLevel2Upgrade_Osgiliath
+"Allows training of Ithilien Rangers\n+10% Faster Build Speed"
+END
+
+CONTROLBAR:ToolTipBuildGondorArcheryRangeLevel3Upgrade_Osgiliath
+"Allows purchase of the Fire Arrow Upgrade\n+25% Faster Build Speed\nAdds defensive Arrow Tower"
+END
+
+CONTROLBAR:ToolTipConstructRohanStable
+//"Trains and upgrades Gondorian Cavalry \n Increases command point limit by 25"
+"Trains Rohan's cavalry \n Generates a small amount of resources based on avaliable terrain \n Increases command point limit by 25 \n Increases the armor of cavalry units"
+END
+
+CONTROLBAR:ToolTipBuildRohanWorkshopLevel2Upgrade
+//"Level 2: +10% Faster Build Speed \n Allows research of the Fire Stones upgrade"
+"Allows training of Rohirric Onager \n Heals nearby damaged siege machines \n +10% Faster Build Speed"
+END
+
+CONTROLBAR:ToolTipBuildRohanWorkshopLevel3Upgrade
+//"Level 3: +25% Faster Build Speed"
+"+25% Faster Build Speed \n Increased healing to nearby damaged siege machines"
+END
+
+CONTROLBAR:ToolTipBuildGondorKnightsofDolHorde_WOTR
+//"Strong vs. All Normal Troops \n Requires Level 2 Stables."
+"Requires Level 2 Stables and Dol Amroth Citadel \n Strong vs. Infantry, Archers. \n \n The Swan Knights of Dol Amroth were renowned as one of the greatest cavalry regiments in Middle-earth.."
+END
+
+CONTROLBAR:TheodenLeadership
+"King of Rohan"
+END
+
+CONTROLBAR:ToolTipDainKingsFavor
+//"Requires Level 4 \n Targeted units gain experience \n Left click icon then left click on target units"
+"Requires Level 6 \n Targeted units gain large experience \n Left click icon then left click on target units"
+END
+
+CONTROLBAR:ToolTipFellowshipHornofGondor
+"Requires Level 3 \n Stun enemies with terror \n Left click to activate"
+END
+
+CONTROLBAR:ToolTipBoromirNewLeadership
+//"Requires Level 5 \n Allies near Boromir gain \n +50% Damage, +50% Armor, \n and earn experience twice as fast \n \n Passive ability       Does not stack"
+//"Requires Level 5 \n Allies near Boromir gain \n +33% Damage, +33% Armor, \n and earn experience twice as fast \nPassive ability"
+//"Requires Level 5 \n Allies near Boromir gain \n +33% Damage, +33% Armor, \n and earn experience 50% faster\nPassive ability"
+"Requires Level 5 \n Boromir dons his Gondorian Armor \n Modifier Type: Leadership \n An�rien Soldiers, Spearmen, and Archers near Boromir gain +33% Damage, +25% Armor, and earn experience 50% faster \n Stacks with Buffs and Spells \n Passive ability"
+END
+
+CONTROLBAR:TooltipElessarBladeMaster
+//"Requires Level 2 \n Aragorn temporarily gains +100% Damage and +100% Armor \n Left click to activate"
+//"Requires Level 3 \n Aragorn temporarily gains +100% Damage and +100% Armor \n Left click to activate"
+"Aragorn deals magic damage and splash damage \n When activated, grants +50% extra fire damage, slows enemies and decreases their armor for a short time \n Left click to activate"
+END
+
+CONTROLBAR:ToolTipElessarLeadership
+//"Requires Level 4 \n Allies near Aragorn gain \n +50% Damage, +50% Armor, \n and earn experience twice as fast \n \n Passive ability       Does not stack"
+//"Requires Level 4 \n Allies near Aragorn gain \n +33% Damage, +33% Armor, \n and earn experience twice as fast \nPassive ability"
+//"Requires Level 4 \n Allies near Aragorn gain \n +33% Damage, +33% Armor, \n and earn experience 50% faster\nPassive ability"
+"Modifier Type: Leadership \n Allies near Elessar gain +33% Damage, +33% Armor, and earn experience 50% faster \n Stacks with Buffs and Spells \n Passive ability"
+END
+
+CONTROLBAR:GandalfNewMount
+"&Mount Shadowfax / Dismount"
+END
+
+CONTROLBAR:ConstructElvenLorienArcherHorde
+//"Tr&ain Lorien Archers"
+"L�rien &Archers"
+END
+
+OBJECT:HordeLorienWardenArcherCombo
+"Lórien Wardens - Lórien Archers"
+END
+CONTROLBAR:ToolTipBuildElvenBarracksLevel3
+//"Allows training of Noldor Warriors \n +25% Faster Build Speed \n Adds defensive arrow tower"
+//"Allows training of Noldor Warriors \n +25% Faster Build Speed \n Adds defensive Arrow Tower"
+"Allows training of Nandor H�r-Hathol\n+25% Faster Build Speed \n Adds defensive Arrow Tower"
+END
+
+CONTROLBAR:PrinceMirkwood
+"Prince of Mir&kwood"
+END
+
+CONTROLBAR:ToolTipFellowshipLegolasTrainArchers  
+//"Requires Level 3 \n Targeted Good archers gain experience \n Left click icon then left click on target archers"
+"Requires Level 3 \n Targeted Good archers gain good experience \n Left click icon then left click on target archers \n \n Requires Level 6 \n Nearby friendly units gain fear immunity and +25% vision range \n Passive ability"
+END
+
+CONTROLBAR:ToolTipCampaignElvenWood
+"Creates lush terrain \n Modifier Type: Buff \n All allied units gain +50% Damage, +50% Armor and become immune to fear and terror \n Stacks with Leadership and Spells \nLeft click icon then left click on target area"
+END
+
+CONTROLBAR:ToolTipSpecialAbilityDwarvenGuardianChargeAttack
+//"Requires Level 2 \n Order Guardians to charge the enemy \n Guardians gain +50% Damage and +50% Armor \n Causes meta impact \n Left click icon then left click on target"
+//"Requires Level 2 \n Order Guardians to charge the enemy \n Guardians gain +50% Damage, +50% Armor \n Causes meta impact \n Left click icon then left click on target"
+"Requires Level 4 \n Order Warriors to charge the enemy \n Modifier Type: Buff \n Guardians gain +50% Damage and +50% Armor \n Stacks with Leadership and Spells \n Causes meta impact \n Left click icon then left click on target"
+END
+
+CONTROLBAR:ToolTipHalifirienGuard_Summoned
+"Causes enemy monsters to flee in terror \n Left click icon then left click on target"
+End
+
+CONTROLBAR:ToolTipToggleIFighterBlockToLineFormation
+//"No bonus"
+//"+25% Damage\n-25% Armor\n+67% Speed"
+"The units return to standard line formation"
+END
+
+CONTROLBAR:ToolTipToggleIPikemanLineFormation
+//"No bonus"
+//"+25% Damage\n-25% Armor\n+67% Speed"
+"The units return to standard line formation"
+END
+
+CONTROLBAR:TooltipIsengardWargRiderHowl
+"Modifier Type: Buff \n Wargs gain +50% Damage and +33% Speed \n Stacks with Leadership and Spells \n Left click to activate"
+END
+
+CONTROLBAR:TooltipWhiteWolvesHowl
+"White Wolves temporarily terrify enemy units \n Left click to activate"
+END
+
+OBJECT:GreatBeast
+"Great Beast"
+END
+
+CONTROLBAR:ConstructMordorGreatBeast
+"Great B&east of Gorgoroth"
+END
+
+OBJECT:GoblinShaman
+"Moria Orc Shaman"
+END
+
+CONTROLBAR:ToolTipBuildWildLodgeLevel2Upgrade
+"Allows training of Mountain-orc Scouts and Gundabad Berserkers\n+10% Faster Build Speed"
+END
+
+CONTROLBAR:ToolTipBuildWildLodgeLevel3Upgrade
+"Allows training of Horrors of Gram\n+25% Faster Build Speed"
+END
+
+CONTROLBAR:ToolTipBuildWildLodgeLevel3Upgrade_WOTR
+"+25% Faster Build Speed"
+END
+
+CONTROLBAR:ToolTipBuildWildFissureLevel3Upgrade_WOTR
+//"Level 3: +25% Faster Build Speed \n Allows training of Mountain Giants and Fire Drake Brood"
+"Allows training of Attack Trolls\n+25% Faster Build Speed"
+END
+
+CONTROLBAR:ToolTipBuildAngmarSnowTrollHorde
+//"Requires Level 2 Troll and Wolf Den \nStrong vs. Swordsmen and Archers\n"
+"Requires Level 2 Troll and Wolf Den \nStrong vs. Swordsmen and Archers"
+End
+
+CONTROLBAR:TooltipPurchaseTechnologyAngmarDarkIronMail
+//"Research Dark Iron Mail \n When equipped, significantly reduces the amount of damage taken"
+"Allows hordes to purchase the Dark Iron Mail upgrade \n  When equipped, significantly reduces the amount of damage taken"
+End
+
+CONTROLBAR:LW_ToolTip_ElvenLorienWardenArcherHorde
+//"\nUnit Type: Basic Archer\nStrong at Range"
+"\nUnit Type: Basic Pikemen and Basic Archer\nStrong vs. Cavalry and Swordsmen"
+END
+
+CONTROLBAR:LW_ToolTip_DwarvenZerkerHorde_WOTR
+"12 Wyrm Slayers\n\nUnit Type: Hero Infantry\nStrong vs. All"
+END
+
+CONTROLBAR:LW_ToolTip_IsengardUrukFighterCrossbowHorde
+"\nUnit Type: Elite Infantry and Elite Archer\nStrong vs. Pikemen and Swordsmen"
+END
+
+CONTROLBAR:LW_Unit_IsengardUrukPikemanCrossbowHorde
+"Uruk-hai Pikeman - Uruk-hai Crossbow Horde"
+END
+
+CONTROLBAR:LW_Unit_IsengardUrukPikemanCrossbowHordePlural
+"Uruk-hai Pikeman - Uruk-hai Crossbow Hordes"
+END
+
+CONTROLBAR:LW_ToolTip_IsengardUrukPikemanCrossbowHorde
+"\nUnit Type: Elite Pikemen and Elite Archer\nStrong vs. Cavalry and Swordsmen"
+END
+
+CONTROLBAR:LW_Unit_IsengardUrukFighterPikemenHorde
+"Fighting Uruk-hai - Uruk-hai Pikeman Horde"
+END
+
+CONTROLBAR:LW_Unit_IsengardUrukFighterPikemenHordePlural
+"Fighting Uruk-hai - Uruk-hai Pikeman Hordes"
+END
+
+CONTROLBAR:LW_ToolTip_IsengardUrukFighterPikemenHorde
+"\nUnit Type: Elite Infantry and Elite Pikemen\nStrong vs. Pikeman and Cavalry"
+END
+
+CONTROLBAR:LW_ToolTip_IsengardFanaticHorde_WOTR
+"6 Gundabad Bodyguards\n\nUnit Type: Hero Infantry\nStrong vs. All"
+END
+
+CONTROLBAR:LW_ToolTip_MordorArcherPikeHorde
+//"\nUnit Type: Basic Archer\nStrong at Range"
+"\nUnit Type: Basic Archer and Basic Pikemen\nStrong vs. Swordsmen and Cavalry"
+END
+
+CONTROLBAR:ToolTipDainSlayer
+"Requires Level 10 \n Dáin gains +300% armor and +100% damage for a short time\nand as well splash and knockback damage \n -45% speed for the duration of the power \n Left click to activate"
+END
+
+CONTROLBAR:DainStand
+"Final Sta&nd"
+END
+
+
+CONTROLBAR:FellowshipSlayer
+"Stubbo&rn Pride"
+END
+
+CONTROLBAR:ToolTipFellowshipSlayer
+"Requires Level 6 \n Gimli gains +200% Armor but loses 33% speed \n Left click to activate"
+END
+
+CONTROLBAR:FellowshipLegolasSlayer
+"&Piercing Shots"
+END
+
+CONTROLBAR:ToolTipFellowshipLegolasSlayer
+"Requires Level 6 \n Legolas temporarily ignores enemy armor and slows down his targets \n Left click to activate"
+END
+
+CONTROLBAR:ToolTipGothmogDayoftheOrc
+//"Requires Level 6 \n Orcs near Gothmog gain \n +50% Damage, +50% Armor, \n Passive ability       Does not stack"
+//"Requires Level 6 \n Orcs near Gothmog gain \n +33% Damage, +33% Armor,\nand earn experience twice as fast\nPassive ability"
+//"Requires Level 6 \n Orcs near Gothmog gain \n +33% Damage, +33% Armor,\nand earn experience 50% faster\nPassive ability"
+"Requires Level 5 \n Orcs near Gothmog gain \n +33% Damage, +33% Armor,\nand earn experience 50% faster\nPassive ability"
+END
+
+CONTROLBAR:ToolTipToggleLineToSchiltronFormation
+"The Edoras Kingsguard form up into a schiltron formation\n-33% movement speed, +10% armor, bonus damage to cavalry"               
+End
+
+CONTROLBAR:EowynNewMount
+"&Mount Windfola / Dismount"
+END
+
+CONTROLBAR:ToolTipNewEowynMount
+//"Requires Level 3 \n Left click to switch between \n mounted and on foot"
+"Requires Level 5 \n Left click to switch between mounted on Windfola and on foot \n When mounted on Windfola, Eowyn gains +25% armor near Rohirrim units"
+END
+
+CONTROLBAR:TooltipUpgradeIsengardUrukPitLevel3_WOTR
+//"Allows training of Uruk Deathbringer Hordes \n +25% Faster Build Speed"
+//"Allows training of Uruk Deathbringers \n Adds defensive Arrow Tower \n +25% Faster Build Speed"
+"+25% Faster Build Speed"
+End
+
+CONTROLBAR:ToolTipConstructMenMarketPlace_Disabled
+//"Marketplace creates economy upgrades"
+//"Increases resources from Farms by 15%"
+//"Increases resources from Farms by 12%"
+//"Increases resources from Farms by 15%"
+"Increases resources from farms by 15%\n Income bonus benefits all Gondor allies \n Limited to 1 \n Increases command point limit by 25 \n \n The Marketplace is already built"
+END
+
+CONTROLBAR:ToolTipBuildMordorBlackOrcHordeInn
+"Strong vs. Pikemen \n\n Horde Bonus \n Modifier Type: Spell \n All Orc Warriors, Orc Pikemen, Orc Archers, Legions of Morgul, and Black Uruks gain +50% damage when gathered in numbers of 100 or more \n Stacks with Buffs, Leadership and other spells\n\n The Black Uruks of Barad-d�r are the elite of Sauron's orc armies, first bred to devastate Ithilien."
+END
+
+CONTROLBAR:ToolTipCampaignLoneTower
+"Summons a ruined Outpost that can be garrisoned\nand shoots arrows \n Left click icon then left click on pathable location"
+END
+
+CONTROLBAR:TooltipLoneTowerGondor
+//"Summons a defensive tower \n Left click icon then left click on pathable location"
+"Summons a defensive tower garrisoned with archers \n Archers recieve fire arrows once the upgrade is bought at the archery range \n \n All nearby allied units gain +10% Armor \n Stacks with Buffs and Spells \n Left click icon then left click on pathable location"
+END
+
+CONTROLBAR:TooltipCampaignCloudBreak
+"Stuns enemy units\n Slowly heals allied units across the map \n Left click to activate"
+END
+
+CONTROLBAR:ToolTipCloudBreakGondor
+//"Cancels Freezing Rain or Darkness \n Stuns enemy units \n Left click to activate"
+//"Cancels Freezing Rain or Darkness\nStuns enemy units\n Left click to activate"
+"Cancels Freezing Rain, White Winter, Blessing of Ulmo or Darkness\nStuns enemy units\n Grants +33% speed bonus to allied units across the map \n Left click to activate"
+END
+
+CONTROLBAR:DwarvenCaptainofDaleOld
+"King Brand"
+END
+
+CONTROLBAR:DwarvenCaptainofDaleRecruitOld
+"Recruit King Brand, the King of Dale"
+END
+
+CONTROLBAR:DwarvenCaptainofDaleReviveOld
+"Revive King Brand, the King of Dale"
+END
+
+CONTROLBAR:DwarvenCaptainofDaleHotkeyOld
+"King Brand, King of &Dale"
+END
+
+OBJECT:DwarvenCaptainofDaleOld
+"King Brand"
+END
+
+CONTROLBAR:ToolTipFellowshipWarCry
+"Requires Level 6\n Modifier Type: Leadership \n Nearby allies gain +33% Damage, +25% Armor and earn experience 50% faster\nPassive ability \n \n When activated, targeted friendly units gain\n+33% Damage, +20% Speed, and Fear Resistance\n Stacks With Buffs, Leadership and other Spells \nLeft click icon then left click on target units"
+END
+
+OBJECT:GondorFountainGuard
+"Gondor Fountain Guard"
+END
+
+CONTROLBAR:ToolTipBuildRivendellAragorn
+"Call upon the heir of Isildur"
+END
+
+CONTROLBAR:RivendellAragornRecruit
+"Recruit Aragorn, the Chieftain of the D�nedain. \n \n 'All that is gold does not glitter, Not all those who wander are lost; The old that is strong does not wither, Deep roots are not reached by the frost. From the ashes a fire shall be woken, A light from the shadows shall spring; Renewed shall be blade that was broken, The crownless again shall be king.'"
+END
+
+CONTROLBAR:RivendellAragornRevive
+"Revive the fallen Hero, Aragorn"
+END
+
+CONTROLBAR:RivendellAragornHotkey
+"&Aragorn"
+END
