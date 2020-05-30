@@ -10740,6 +10740,10 @@ OBJECT:BalinsAxe
 "Balin's Axe"
 END
 
+OBJECT:FireWood
+"Firewood"
+END
+
 CampaignName:Bree
 "Shadow of the Past"
 END
@@ -16035,7 +16039,7 @@ CONTROLBAR:ToolTipBuildRohanRohirrimHorde
 END
 CONTROLBAR:ToolTipBuildRohanKingsguardHorde
 //"Requires Level 2 Stables \n Strong vs. Archers"
-"Requires Level 3 Stables \n Strong vs. Swordsmen and Archers \n \n These mounted elites formed the personal bodyguard of the King and his heirs, performing great deeds at arms to keep safe their charge."
+"Requires Level 3 Stables \n Strong vs. Swordsmen and Archers \n \n These mounted elites formed the personal bodyguard of the King and his heirs, performing great deeds at arms to keep safe their charge. \n Limited to 3"
 END
 CONTROLBAR:ToolTipBuildRohanSnowbournRiderHorde
 //"Requires Level 2 Stables \n Strong vs. Archers"
@@ -17487,7 +17491,7 @@ CONTROLBAR:WizardBlast
 END
 
 CONTROLBAR:ToolTipWizardBlast
-"Explosion de magie : attaque à courte portée qui repousse les ennemis.\n\nClic gauche sur la cible\n\n Type d'Action : Charisme\n Les alliés proches de Gandalf gagnent +33% dégâts, +33% armure, gagnent de l'expérience 50% plus rapidement et deviennent résistants à la peur et à la terreur (bonus cumulable).\n\n Capacité passive\n\n Bouclier Mystique : Gandalf gagne occasionnellement +300% armure et une résistance au renversement s'il est attaqué.\n\n Capacité passive mais peut être activée manuellement par le raccourci (U)"
+"Explosion de magie : attaque à courte portée qui repousse les ennemis\nPeut seulement être utilisé à pied\nClic gauche sur la cible\n\n Type d'Action : Charisme\n Les alliés proches de Gandalf gagnent +33% dégâts, +33% armure, gagnent de l'expérience 50% plus rapidement et deviennent résistants à la peur et à la terreur (bonus cumulable).\n\n Capacité passive\n\n Bouclier Mystique : Gandalf gagne occasionnellement +300% armure et une résistance au renversement s'il est attaqué.\n\n Capacité passive mais peut être activée manuellement par le raccourci (U)"
 END
 
 CONTROLBAR:WordofPower
@@ -28022,7 +28026,7 @@ CONTROLBAR:ToolTipBuildDwarvenArcherHorde
 END
 
 CONTROLBAR:ConstructDwarvenDemolisher
-"Démolisseur des Monts du Fer"
+"&Démolisseur des Monts du Fer"
 END
 
 TOOLTIP:LackLevel2ForgeWorksDemolisher
@@ -41098,7 +41102,7 @@ CONTROLBAR:SauronConflagaration
 END
 
 CONTROLBAR:ToolTipSauronConflagaration
-"Des flammes ardentes jaillissent du héros ennemi ciblé, qui s'embrase et meurt carbonisé.\n (n'inflige que 25% des dégâts totaux à Gandalf, Saruman, le Roi-Sorcier, Azog, Galadriel, Elrond, Thranduil, Thorin, le Roi Doré)\n\nClic gauche sur un héros ennemi"
+"Des flammes ardentes jaillissent du héros ennemi ciblé, qui s'embrase et meurt carbonisé.\n (n'inflige que 25% des dégâts totaux à Gandalf, Saruman, le Roi-Sorcier, Azog, Galadriel, Elrond, Thranduil, Thorin, le Nécromancien, le Roi Doré)\n\nClic gauche sur un héros ennemi"
 END
 
 CONTROLBAR:SauronDominate
@@ -41290,6 +41294,10 @@ END
 
 CONTROLBAR:PurchaseUpgradeDwarvenBasicTraining
 "Bannières de Thrór"
+END
+
+CONTROLBAR:PurchaseUpgradeDwarvenBasicTrainingIH
+"Purchase Iron Hills Ban&ner"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeDwarvenBasicTraining
@@ -54138,6 +54146,14 @@ CONTROLBAR:ToolTipAngmarCatapultUpgrade
 "Reconstruit le lanceur de pierres sur la plateforme"
 END
 
+CONTROLBAR:GuldurCatapultUpgrade
+"&Replace Catapult"
+END
+
+CONTROLBAR:ToolTipGuldurCatapultUpgrade
+"Rebuilds the Catapult on the platform"
+END
+
 CONTROLBAR:ToolTipPurchaseTechnologyAngmarBasicTraining
 "Permet aux hordes d'acheter l'amélioration Porte-étendard.\nLorsqu'elle est équipée, les unités passent au niveau 2"
 END
@@ -55068,7 +55084,7 @@ END
 CONTROLBAR:ToolTipWhiteWinter
 //"Temporarily covers the map in rain \n All enemy units lose their leadership bonuses \n Left click to activate"
 //"Temporarily covers the map in rain\nReduces enemy armor and damage\nNullifies enemy Leadership\nLeft click to activate"
-"Temporarily blankets the map in a raging snowstorm\n Cancels Freezing Rain, White Winter, Blessing of Ulmo, or Darkness \n Modifier Type: Active Debuff \n Enemy units suffer -25% Damage, -20% Armor, and -30% Vision Range \nNullifies enemy Leadership \n Does not stack with other Debuffs \n Left click to activate"
+"Temporarily blankets the map in a raging snowstorm\n Cancels Western Winds, Freezing Rain, Ere the Sun Rises, Blessing of Ulmo, Blessing of Manwë, Durin's Day, White Winter or Darkness \n Modifier Type: Active Debuff \n Enemy units suffer -25% Damage, -20% Armor, and -30% Vision Range \nNullifies enemy Leadership \n Does not stack with other Debuffs \n Left click to activate"
 END
 
 CONTROLBAR:ToolTipFreezingRain
@@ -56033,19 +56049,19 @@ END
 CONTROLBAR:ToolTipSpecialAbilityLurtzCripple
 //"Immobilise un héros\n Utilisable seulement avec l'arc.\n\nClic gauche sur la cible"
 //"Requiert : niveau 2\n Immobilise un héros\n Utilisable seulement avec l'arc\n\nClic gauche sur la cible"
-"Requiert : niveau 4\n Lurtz décoche une flèche puissante sur un héros ennemi et l'immobilise pendant un moment.\n Utilisable seulement avec l'arc.\n\nClic gauche sur la cible"
+"Requiert : Niveau 4\n Lurtz décoche une flèche puissante sur un héros ennemi et l'immobilise pendant un moment.\n Utilisable seulement avec l'arc.\n\nClic gauche sur la cible"
 END
 
 CONTROLBAR:ToolTipLurtzLeadership
 //"Requiert : niveau 5\n Les alliés proches de Lurtz gagnent +50% dégâts, +50% armure, et gagnent de l'expérience deux fois plus rapidement.\n\n Capacité passive       Ne peut pas s'utiliser avec d'autres bonus"
 //"Requiert : niveau 5\n Les alliés proches de Lurtz gagnent +33% dégâts, +33% armure, et gagnent de l'expérience deux fois plus rapidement.\n\n Capacité passive"
 //"Requiert : niveau 5\n Les alliés proches de Lurtz gagnent +33% dégâts, +33% armure, et gagnent de l'expérience 50% plus rapidement.\n\n Capacité passive"
-"Requiert : niveau 5\n Type d'Action : Charisme\n Les alliés proches de Lurtz gagnent +33% dégâts, +33% armure et gagnent de l'expérience 50% plus rapidement (bonus cumulable).\n\n Capacité passive"
+"Requiert : Niveau 5\n Type d'Action : Charisme\n Les alliés proches de Lurtz gagnent +33% dégâts, +33% armure et gagnent de l'expérience 50% plus rapidement (bonus cumulable).\n\n Capacité passive"
 END
 
 CONTROLBAR:ToolTipLurtzPillage
 //"Requiert : niveau 6\n Détrousse les ennemis tués pour gagner des ressources.\n\n Capacité passive"
-"Requiert : niveau 8\n Lurtz et les alliés proches détroussent les ennemis tués\n pour gagner des ressources.\n\n Capacité passive"
+"Requiert : Niveau 8\n Lurtz et les alliés proches détroussent les ennemis tués\n pour gagner des ressources.\n\n Capacité passive"
 END
 
 CONTROLBAR:ToolTipGBloodHunt
@@ -56053,25 +56069,25 @@ CONTROLBAR:ToolTipGBloodHunt
 //"Requiert : niveau 3\n Les Wargs et Chevaucheurs de Wargs proches gagnent +33% dégâts, +33% armure et gagnent de l'expérience 2 fois plus rapidement\n\n Capacité passive"
 //"Requiert : niveau 5\n Les Wargs et Chevaucheurs de Wargs proches gagnent +33% dégâts, +33% armure et gagnent de l'expérience 2 fois plus rapidement\n\n Capacité passive"
 //"Requiert : niveau 3\n Les Wargs et Chevaucheurs de Wargs proches gagnent +33% dégâts, +33% armure et gagnent de l'expérience 50% plus rapidement\n\n Capacité passive"
-"Requiert : niveau 3\n Type d'Action : Charisme\n Les Wargs et Chevaucheurs de Wargs proches de Sharku gagnent +33% dégâts, +33% armure et gagnent de l'expérience 50% plus rapidement (bonus cumulable).\n\nCapacité passive"
+"Requiert : Niveau 3\n Type d'Action : Charisme\n Les Chevaucheurs de Wargs proches de Sharku gagnent +33% dégâts, +33% armure et gagnent de l'expérience 50% plus rapidement (bonus cumulable).\n\nCapacité passive"
 END
 
 CONTROLBAR:ToolTipSharkuManEater
 //"Requiert : niveau 10\n Tue l'ennemi ciblé, restaure la vie de Sharku et confère temporairement +50% armure et +50% dégâts.\n\nClic gauche sur la cible.\n Ne peut pas s'utiliser avec d'autres bonus"
-"Requiert : niveau 7\n Tue l'ennemi ciblé, restaure la vie de Sharku et confère temporairement +100% armure et +50% dégâts.\n\nClic gauche sur la cible" 
+"Requiert : Niveau 7\n Tue l'ennemi ciblé, restaure la vie de Sharku et confère temporairement +100% armure et +50% dégâts.\n\nClic gauche sur la cible" 
 END
 
 CONTROLBAR:ToolTipSpeechCraft
 //"Requiert : niveau 5\n Donne de l'expérience aux unités ciblées.\n\nClic gauche sur la cible"
 //"Requiert : niveau 5\n Donne beaucoup d'expérience aux unités ciblées.\n\nClic gauche sur la cible"
 //"Requiert : niveau 7\n Donne beaucoup d'expérience aux unités ciblées.\n\nClic gauche sur la cible"
-"Requiert : niveau 4\n Saruman exalte ses légions : il donne énormément d'expérience aux unités ciblées.\n\nClic gauche sur la cible"
+"Requiert : Niveau 4\n Saruman exalte ses légions : il donne énormément d'expérience aux unités ciblées.\n\nClic gauche sur la cible"
 END
 
 CONTROLBAR:ToolTipThunderBolt
 //"Requiert : niveau 10\n Frappe l'ennemi visé d'un puissant éclair.\n\nClic gauche sur la cible"
 //"Requiert : niveau 7\n Frappe l'ennemi visé d'un puissant éclair.\n\nClic gauche sur la cible"
-"Requiert : niveau 6\n Frappe l'ennemi visé d'un puissant éclair.\n\nClic gauche sur la cible"
+"Requiert : Niveau 6\n Frappe l'ennemi visé d'un puissant éclair.\n\nClic gauche sur la cible"
 END
 
 CONTROLBAR:ToolTipDominate
@@ -58778,7 +58794,8 @@ END
 CONTROLBAR:ToolTipCloudBreak
 //"Annule Pluie glacée et Ombre.\n Etourdit les unités ennemies.\n\nClic gauche pour activer"
 //"Annule Pluie glacée et Ombre.\n Etourdit les unités ennemies.\n\nClic gauche pour activer"
-"Le soleil perce le ciel et illumine le champ de bataille de sa clarté resplendissante. Annule Pluie glacée et Linceul d'Ombre.\nEtourdit les ennemis et soigne lentement les alliés sur la carte.\n\nClic gauche pour activer"
+//"Le soleil perce le ciel et illumine le champ de bataille de sa clarté resplendissante. Annule Pluie glacée et Linceul d'Ombre.\nEtourdit les ennemis et soigne lentement les alliés sur la carte.\n\nClic gauche pour activer"
+"Cancels Western Winds, Freezing Rain, Ere the Sun Rises, Blessing of Ulmo, Blessing of Manw�, Durin's Day, White Winter or Darkness\nStuns enemy units\n Slowly heals allied units across the map \n Left click to activate"
 END
 
 CONTROLBAR:TooltipCampaignCloudBreak
@@ -58788,7 +58805,7 @@ END
 CONTROLBAR:ToolTipCloudBreakGondor
 //"Cancels Freezing Rain or Darkness \n Stuns enemy units \n Left click to activate"
 //"Cancels Freezing Rain or Darkness\nStuns enemy units\n Left click to activate"
-"Cancels Freezing Rain, White Winter, Blessing of Ulmo or Darkness\nStuns enemy units\n Grants +33% speed bonus to allied units across the map \n Left click to activate"
+"Cancels Western Winds, Freezing Rain, Ere the Sun Rises, Blessing of Ulmo, Blessing of Manw�, Durin's Day, White Winter or Darkness\nStuns enemy units\n Grants +33% speed bonus to allied units across the map \n Left click to activate"
 END
 
 CONTROLBAR:SpecialAbilityHumanHeads
@@ -59160,7 +59177,8 @@ Version:Format2
 //"2.02 Version 6.0.0"
 //"Age of the Ring Version 3.1"
 //"Age of the Ring Version 4.1"
-"Age of the Ring Version 5.0"
+//"Age of the Ring Version 5.0"
+"Age of the Ring Version 5.1"
 END
 
 Version:Format3
@@ -59400,7 +59418,7 @@ CONTROLBAR:ConstructGondorFountainGuardHordes
 END
 
 CONTROLBAR:ToolTipBuildGondorFountainGuardHordes
-"Les Gardes de la Cour de la Fontaine sont recrutés parmi les vétérans les plus disciplinés de tout le Gondor. Ils jurent de donner leur vie au service des seigneurs de Minas Tirith et de ne jamais reculer au combat.\n Trop peu nombreux pour former leurs propres régiments sur le champ de bataille, ils servent de gardes du corps et d'officiers pour combler les faiblesses dans les défenses par leur dévouement exemplaire.\n\n Lanciers d'élite, forts contre les cavaliers."
+"Requiert : Tour d'Ivoire\nLanciers d'élite, forts contre la cavalerie\nLimité à 2 unités\nLes Gardes de la Cour de la Fontaine sont recrutés parmi les vétérans les plus disciplinés de tout le Gondor. Ils jurent de donner leur vie au service des seigneurs de Minas Tirith et de ne jamais reculer au combat.\n Trop peu nombreux pour former leurs propres régiments sur le champ de bataille, ils servent de gardes du corps et d'officiers pour combler les faiblesses dans les défenses par leur dévouement exemplaire."
 END
 
 OBJECT:RohanGuard
@@ -62338,7 +62356,8 @@ End
 CONTROLBAR:ToolTipCloudBreakLorien
 //"Cancels Freezing Rain or Darkness \n Stuns enemy units \n\nClic gauche pour activer"
 //"Cancels Freezing Rain or Darkness\nStuns enemy units\n\nClic gauche pour activer"
-"Le soleil perce le ciel et illumine le champ de bataille de sa clarté resplendissante. Annule Pluie glacée et Linceul d'Ombre.\nEtourdit les ennemis et soigne lentement les alliés sur la carte.\n\nClic gauche pour activer"
+//"Le soleil perce le ciel et illumine le champ de bataille de sa clarté resplendissante. Annule Pluie glacée et Linceul d'Ombre.\nEtourdit les ennemis et soigne lentement les alliés sur la carte.\n\nClic gauche pour activer"
+"Cancels Western Winds, Freezing Rain, Ere the Sun Rises, Blessing of Ulmo, Blessing of Manw�, Durin's Day, White Winter or Darkness\nStuns enemy units\n Slowly heals allied units across the map \n Left click to activate"
 END
 
 CONTROLBAR:CastDown
@@ -63133,7 +63152,8 @@ CONTROLBAR:BlessingofUlmo
 End
 
 CONTROLBAR:ToolTipBlessingofUlmo
-"Temporarily covers the map in rain \n Type d'Action : Pénalité active \n Enemy units suffer -25% dégâts and -20% armure\nNullifies enemy Leadership \n (Bonus non cumulable)\n\nClic gauche pour activer"
+//"Temporarily covers the map in rain \n Type d'Action : Pénalité active \n Enemy units suffer -25% dégâts and -20% armure\nNullifies enemy Leadership \n (Bonus non cumulable)\n\nClic gauche pour activer"
+"Temporarily covers the map in rain\n Cancels Western Winds, Freezing Rain, Ere the Sun Rises, Blessing of Ulmo, Blessing of Manw�, Durin's Day, White Winter or Darkness\n All friendly units gain immunity to fear and terror and are slowly healed\n Orchards generate +30% more resources and gain +25% Armor\n Benefits all Rivendell allies \n\n Left click to activate"
 END
 
 CONTROLBAR:Relics
@@ -63801,7 +63821,8 @@ End
 CONTROLBAR:ToolTipCloudBreakErebor
 //"Cancels Freezing Rain or Darkness \n Stuns enemy units \n\nClic gauche pour activer"
 //"Cancels Freezing Rain or Darkness\nStuns enemy units\n\nClic gauche pour activer"
-"Lorsque la dernière lune d'automne et le premier soleil d'hiver sont visibles dans le ciel, la nouvelle année pour les Nains commence : annule Pluie Glacée ou Linceul d'Ombre et étourdit les unités ennemies.\nSoigne lentement les unités alliées sur toute la carte.\n\nClic gauche pour activer"
+//"Lorsque la dernière lune d'automne et le premier soleil d'hiver sont visibles dans le ciel, la nouvelle année pour les Nains commence : annule Pluie Glacée ou Linceul d'Ombre et étourdit les unités ennemies.\nSoigne lentement les unités alliées sur toute la carte.\n\nClic gauche pour activer"
+"Cancels Western Winds, Freezing Rain, Ere the Sun Rises, Blessing of Ulmo, Blessing of Manw�, Durin's Day, White Winter or Darkness\nStuns enemy units\n Slowly heals allied units across the map \n Left click to activate"
 END
 
 CONTROLBAR:Twirlys
@@ -65057,12 +65078,12 @@ END
 
 CONTROLBAR:ToolTipToggleStanceAggressiveDain
 //"Raccourci : D \n Units gain an increase to their attack damage, but a decrease to their armor \n They will auto-acquire enemies when sighted"
-"Raccourci : D\nDáin utilise sa hache rouge : il gagne +10% dégâts et +10% vitesse, mais perd -20% armure."
+"Raccourci : D\nDáin utilise sa hache rouge : il gagne +10% dégâts et +10% vitesse, mais perd -20% armure\nInflige des dégâts de zone"
 END
 
 CONTROLBAR:ToolTipToggleStanceHoldGroundDain
 //"Raccourci : G \n Units gain an increase to their armor, but a decrease to their attack damage \n They will not auto-acquire enemies"
-"Raccourci : G\nDáin utilise son marteau de guerre : il gagne +10% armure, mais perd -20% dégâts et -10% vitesse."
+"Raccourci : G\nDáin utilise son marteau de guerre : il gagne +10% armure, mais perd -20% dégâts et -10% vitesse\Inflige des dégâts de recul"
 END
 
 /////////////////////
@@ -67723,7 +67744,7 @@ END
 CONTROLBAR:ToolTipRohanCloudBreak
 //"Cancels Freezing Rain or Darkness \n Stuns enemy units \n Left click to activate"
 //"Cancels Freezing Rain or Darkness\nStuns enemy units\n Left click to activate"
-"Cancels Freezing Rain, White Winter, Blessing of Ulmo, or Darkness\nStuns enemy units\n Slowly heals allied units across the map \n Left click to activate"
+"Cancels Western Winds, Freezing Rain, Ere the Sun Rises, Blessing of Ulmo, Blessing of Manw�, Durin's Day, White Winter or Darkness\nStuns enemy units\n Slowly heals allied units across the map \n Left click to activate"
 END
 
 CONTROLBAR:EverholtBoar
@@ -67935,7 +67956,7 @@ CONTROLBAR:ToolTipGamlingWhateverEnd
 END
 
 CONTROLBAR:StrengthRemembered
-"Str&ength Remembered"
+"Stre&ngth Remembered"
 END
 
 CONTROLBAR:ToolTipStrengthRemembered
@@ -69503,7 +69524,7 @@ CONTROLBAR:ConstructGuldurWoodsmenHorde
 END
 
 CONTROLBAR:ToolTipBuildGuldurWoodsmenHorde
-"Requiert : Niveau 2 Source de Corruption \n Fort vs. Archers et Monstres \n\nDes Spores parasites répandus par les bassins corromus du Sud de MirkWood ont infecté ces hommes de la forêt. Ils ont été vus pour la dernière fois en train de marcher vers la forteresse hantée sur la colline stérile..."
+"Requiert : Niveau 2 Source de Corruption \n Fort vs. Archers et Monstres \n\nDes Spores parasites répandus par les bassins corromus du Sud de la Forêt Noire ont infecté ces hommes de la forêt. Ils ont été vus pour la dernière fois en train de marcher vers la forteresse hantée sur la colline stérile..."
 END
 
 CONTROLBAR:GuldurNoxiousDarts
@@ -69704,6 +69725,7 @@ CONTROLBAR:EternalServitude
 END
 
 CONTROLBAR:ToolTipEternalServitude
+//"Requires Level 2 \n Each killed unit is reanimated as Risen Dead \n Risen Dead do not suffer from Slow Decay \n Passive ability"
 "Requiert : Niveau 2 \n Chaque unité tuée est réanimé en tant que Mort Réincarné \n Les Morts Réincarnés ne souffrent pas de la Corruption du Nécromancien \n Capacité Passive"
 END
 
@@ -69992,7 +70014,7 @@ CONTROLBAR:PurchaseGuldurRestlessBones
 END
 
 CONTROLBAR:ToolTipPurchaseGuldurRestlessBones
-"Allows the Forlorn Statue to summon a horde\nof skeletal warriors onto enemy battalions and siege engines"
+"Allows the Forlorn Statue to summon a horde\nof skeletal warriors"
 END
 
 CONTROLBAR:GuldurRestlessBones
@@ -70000,7 +70022,7 @@ CONTROLBAR:GuldurRestlessBones
 END
 
 CONTROLBAR:ToolTipGuldurRestlessBones
-"Summons a horde of skeletal warriors onto enemy battalions and siege engines\nLeft click icon then left click on target"
+"Summons a horde of skeletal warriors\nLeft click icon then left click on target"
 END
 
 UPGRADE:ToolTipGuldurRestlessBones
@@ -70286,7 +70308,7 @@ CONTROLBAR:ThrainDiminished
 END
 
 CONTROLBAR:TooltipThrainDiminished
-"Thrain n'est qu'une mince ombre de son ancienne forme et est capable de se faufiler \nCapacité Passive"
+"Thráin n'est qu'une mince ombre de son ancienne forme et est capable de se faufiler \nCapacité Passive"
 END
 
 CONTROLBAR:ThrainLeadership
@@ -70294,7 +70316,7 @@ CONTROLBAR:ThrainLeadership
 End
 
 CONTROLBAR:ToolTipThrainLeadership
-"Requiert : Niveau 2\nLes Brisés près de Thráin gagnent \n+33% Expérience et +33% Armure\nCapacité Passive"
+"Requiert : Niveau 2\nLes Brisés près de Thráin gagnent \n+33% Expérience et +33% Armure\n Au Niveau 6 ils gagnent +50% Expérience et +50% Armure\nCapacité Passive"
 END
 
 CONTROLBAR:ThrainNoEscape
@@ -70415,7 +70437,7 @@ CONTROLBAR:CargastSpell
 END
 
 CONTROLBAR:ToolTipCargastSpell
-"Requiert : Niveau 7\nLes unités ciblées ennemis sont paralysés de peur\nTout les Mort Réincarné dans la zone cible font +50% Dégâts\nClic gauche sur l'icône puis clic gauche sur la zone cible"
+"Requiert : Niveau 7\nLes unités ciblées ennemis fuient de terreur\nTous les Morts Réincarnés dans la zone cible font +50% Dégâts\nClic gauche sur l'icône puis clic gauche sur la zone cible"
 END
 
 CONTROLBAR:CargastDarkAwakening
@@ -70449,7 +70471,7 @@ CONTROLBAR:SpecialAbilityGuldurSaenathraTunnel
 END
 
 CONTROLBAR:ToolTipSpecialAbilityGuldurSaenathraTunnel
-"Permet à Saenathra de creuser un tunnel sous le sol et d'émerger à n'importe quel endroit de la carte \n Clic gauche sur l'icône puis clic gauche sur la postition ciblée"
+"Requiert : Niveau 2\nPermet à Saenathra de creuser un tunnel sous le sol et d'émerger à n'importe quel endroit de la carte \n Clic gauche sur l'icône puis clic gauche sur la postition ciblée"
 END
 
 CONTROLBAR:GuldurSaenathraFeast
@@ -70881,7 +70903,7 @@ CONTROLBAR:CastellanLeadership
 END
 
 CONTROLBAR:ToolTipCastellanLeadership
-"Donne de l'Armure aux structures alliées proches \n Les unités ennemis attaquées sont empoisonnées et ont une Armure réduite \n Capacité Passive"
+"Donne +25% Armure aux structures alliées proches \n Les unités ennemis attaquées sont empoisonnées et ont une Armure réduite \n Capacité Passive"
 END
 
 CONTROLBAR:CastellanIncorporeal
@@ -71164,7 +71186,7 @@ CONTROLBAR:GuldurSpireBlight
 END
 
 CONTROLBAR:ToolTipGuldurSpireBlight
-"Requires Level 2 Spire of Sorcery\nEnemy units surrounding the fortress take damage \n and turn into Wraiths upon dying\nPassive ability"
+"Requires Level 2 Spire of Sorcery\nEnemy units surrounding the Spire take damage \n and turn into Wraiths upon dying\nPassive ability"
 END
 
 CONTROLBAR:GreaterBlight
