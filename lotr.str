@@ -963,11 +963,11 @@ GUI:GameSaved
 END
 
 GUI:ErrorSavingGame
-"Erreur lors de la sauvegarde de "%s""
+"Erreur lors de la sauvegarde de '%s'"
 END
 
 GUI:ErrorLoadingGame
-"Erreur lors du chargement de "%s""
+"Erreur lors du chargement de '%s'"
 END
 
 GUI:ReducedColor
@@ -14709,8 +14709,7 @@ CONTROLBAR:ConstructMenStatue
 END
 
 CONTROLBAR:ToolTipConstructMenStatue
-"Leadership bonus to nearby troops\nRéduit le coût des héros."
-"Bonus de Charisme aux troupes proches\nRéduit le coût des héros."
+"Leadership bonus to nearby troops\nRéduit le coût des héros. \nBonus de Charisme aux troupes proches\nRéduit le coût des héros."
 END
 
 CONTROLBAR:ConstructMenBlacksmith
@@ -14877,24 +14876,19 @@ CONTROLBAR:ConstructGondorWhiteTower
 "Construire une Tour Blanche du Gondor"
 END
 CONTROLBAR:ConstructGondorFarm
-// context: Build Gondor Farm
 "Construire une Ferme"
 END
 CONTROLBAR:ConstructGondorMarketPlace
-// context: Build Gondor Market Place
 "Construire un Marché"
 END
 
 CONTROLBAR:ConstructGondorHseHeal
-// context: Build Gondor HseHeal
 "Construire une Maison de Guérison"
 END
 CONTROLBAR:ConstructGondorBlackSmith
-// context: Build Gondor Blacksmith
 "Construire un Forgeron"
 END
 CONTROLBAR:ConstructGondorBarracks
-// context: Build Gondor Barracks
 "Construire une Caserne"
 END
 CONTROLBAR:ConstructGondorWall
@@ -15992,7 +15986,7 @@ END
 CONTROLBAR:ToolTipBuildGandalf
 //"Recruit the Wizard armed with an arsenal of mighty magical powers"
 //"Recruit the Wizard armed with an arsenal of mighty magical powers\n\n Shield Bubble (U)\n Temporarily grants Gandalf +300% armure and resistance to knockback attacks\n\n Gandalf the White\n Requiert : niveau 5\n Les alliés proches de Gandalf become immune to Fear and Terror"
-"Recruit the Wizard armed with an arsenal of mighty magical powers""Recrutez le Pélerin Gris.\n\n Connu sous de nombreux noms, Gandalf le Gris est un magicien puissant, un des cinq membres de l'ordre des Istari dont Saruman était le chef. Ces cinq Maiar furent envoyés par les Valar en Terre du Milieu pour combattre Sauron.\n Gandalf consacre sa vie à la défaite finale du Seigneur des Ténèbres et, pour cela, voyage sans relâche pour trouver des alliés.\n\n Fournit un bonus de 100 points de commandement."
+"Recrutez le Pélerin Gris.\n\n Connu sous de nombreux noms, Gandalf le Gris est un magicien puissant, un des cinq membres de l'ordre des Istari dont Saruman était le chef. Ces cinq Maiar furent envoyés par les Valar en Terre du Milieu pour combattre Sauron.\n Gandalf consacre sa vie à la défaite finale du Seigneur des Ténèbres et, pour cela, voyage sans relâche pour trouver des alliés.\n\n Fournit un bonus de 100 points de commandement."
 END
 
 CONTROLBAR:GandalfTheWhiteRecruit
@@ -16343,7 +16337,7 @@ CONTROLBAR:ToolTipBuildMordorEasterlingHordeForInn
 END
 
 CONTROLBAR:ToolTipBuildMordorHaradrimSpearHorde
-"Lorsque le peuple du Harad met de côté ses différends et qu'il s'unit sous une seule bannière, ses effectifs sont tels qu'ils rivalisent même avec ceux du Mordor. Des nuées de guerriers en armure légère se ruent alors sur leurs ennemis, les perforent à mort de leurs flèches empoisonnées, ou les attaquent avec de longues lances barbelées.\n Ce qui leur fait défaut en terme d'aptitude et d'entraînement, les hommes du Harad le compense largement par leur cruauté barbare.\n\n Forts contre les cavaliers""Forts contre la cavalerie\n Peuvent changer de formation pour améliorer leurs défenses.\n\n Spears made of fire-hardened wood are the primary weapon of the legions of the South."
+"Lorsque le peuple du Harad met de côté ses différends et qu'il s'unit sous une seule bannière, ses effectifs sont tels qu'ils rivalisent même avec ceux du Mordor. Des nuées de guerriers en armure légère se ruent alors sur leurs ennemis, les perforent à mort de leurs flèches empoisonnées, ou les attaquent avec de longues lances barbelées.\n Ce qui leur fait défaut en terme d'aptitude et d'entraînement, les hommes du Harad le compense largement par leur cruauté barbare.\n\n Forts contre les cavaliers\nPeuvent changer de formation pour améliorer leurs défenses."
 END
 
 CONTROLBAR:ConstructMordorPorter
@@ -16388,7 +16382,7 @@ CONTROLBAR:ToolTipBuildMordorGreatBeast
 END
 
 CONTROLBAR:ToolTipBuildMordorSiegeTower
-"Requiert : niveau 2 Grand Atelier de siège.\n Une tour roulante constituée d'échaffaudages grossiers en bois et protégée par des peaux de bête.\n Deux Trolls poussent la tour sur le champ de bataille jusqu'aux murailles ennemies, où elle permet aux troupes du Mordor d'assaillir les ramparts.""Requiert : niveau 2 Great Siege Works\n Allows infantry units to scale castle walls\n\n Constructed by Mordor’s slaves using wood, iron and stone, Siege towers advance steadily toward enemy fortifications, looking to overwhelm their defenders."
+"Requiert : niveau 2 Grand Atelier de siège.\n Une tour roulante constituée d'échaffaudages grossiers en bois et protégée par des peaux de bête.\n Deux Trolls poussent la tour sur le champ de bataille jusqu'aux murailles ennemies, où elle permet aux troupes du Mordor d'assaillir les ramparts."
 END
 
 CONTROLBAR:ToolTipBuildMordorCatapult
@@ -17048,7 +17042,7 @@ END
 
 CONTROLBAR:ToolTipHawkStrike
 //"Double-arrow attack\n\nClic gauche sur la cible"
-"Double-arrow attack that deals splash damage\n\nClic gauche sur la cible""Legolas tire deux puissantes flèches en même temps.\n\nClic gauche sur la cible"
+"Legolas tire deux puissantes flèches en même temps.\n\nClic gauche sur la cible"
 END
 
 CONTROLBAR:HawkStrike_Summoned
@@ -31685,7 +31679,7 @@ CONTROLBAR:PurchaseUpgradeWildFortressGoblinTown
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeWildFortressGoblinTown
-"Allows training of Goblin-towners and The Great Goblin \n Reduces Hero cost by 10% \n Reduces Hero recruit time by 10% \n Reduces cost of builders by 20%""
+"Allows training of Goblin-towners and The Great Goblin \n Reduces Hero cost by 10% \n Reduces Hero recruit time by 10% \n Reduces cost of builders by 20%"
 End
 
 CONTROLBAR:ToolTipPurchaseUpgradeWildFortressGoblinTownForMap
@@ -41505,7 +41499,7 @@ CONTROLBAR:ToolTipPurchaseUpgradeMordorFireArrows
 END
 
 CONTROLBAR:ToolTipPurchaseTechnologyGuldurFireArrows
-"Permet aux hordes d'acheter l'amélioration Flèches enflammées \nLorsqu'elle est équipée, les dégâts des flèches sont augmenté de manière significative et permet aux Chasseurs niveau 2 d'utiliser la capacité 'Bring It Down!' \n Toutes les patrouilles et les tours d'archers profiteront de cette amélioration une fois achetée""
+"Permet aux hordes d'acheter l'amélioration Flèches enflammées \nLorsqu'elle est équipée, les dégâts des flèches sont augmenté de manière significative et permet aux Chasseurs niveau 2 d'utiliser la capacité 'Bring It Down!' \n Toutes les patrouilles et les tours d'archers profiteront de cette amélioration une fois achetée"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeGuldurFireArrows
@@ -67948,7 +67942,7 @@ CONTROLBAR:ToolTipHamaLeadership
 END
 
 CONTROLBAR:GamlingWhateverEnd
-""Quelque soit la fin""
+"Quelque soit la fin"
 END
 
 CONTROLBAR:ToolTipGamlingWhateverEnd
@@ -69139,8 +69133,7 @@ CONTROLBAR:MerryBlade
 END
 
 CONTROLBAR:ToolTipMerryBlade
-"Requiert : Niveau 10 \n
-Merry plonge sa lame du Westernesse dans un héros ennemi, \ n infligeant des dégâts modérés et diminuant temporairement l'armure \ n Ne peut être utilisé que lorsque l'épée est équipée \ n Clic gauche sur l'icône puis clic gauche sur la cible "
+"Requiert : Niveau 10 \n Merry plonge sa lame du Westernesse dans un héros ennemi, \n infligeant des dégâts modérés et diminuant temporairement l'armure \n Ne peut être utilisé que lorsque l'épée est équipée \n Clic gauche sur l'icône puis clic gauche sur la cible "
 End
 
 /////
@@ -69163,8 +69156,7 @@ CONTROLBAR:ConstructWildMountainOrcSwordHorde
 END
 
 CONTROLBAR:ToolTipBuildWildMountainOrcSwordHorde
-"Fort vs. Piquiers \n \n 
-Endurcis par des générations de guerre et de mauvais temps, ces Orcs des Montagnes ont finalement été réunis sous une seule bannière par Azog le Profanateur."
+"Fort vs. Piquiers \n \n Endurcis par des générations de guerre et de mauvais temps, ces Orcs des Montagnes ont finalement été réunis sous une seule bannière par Azog le Profanateur."
 END
 
 OBJECT:WildMountainOrcBrute
@@ -69180,8 +69172,7 @@ CONTROLBAR:ConstructWildMountainOrcBruteHorde
 END
 
 CONTROLBAR:ToolTipBuildWildMountainOrcBruteHorde
-"Fort vs. Cavalerie et Héros \n Peut changer de formation pour augmenter les capacités défensives\n \n
-Chargés de garder les vallées froides et les contreforts du territoire tenu par les Orcs, ces piquiers sont connus pour tendre une embuscade aux groupes de scouts elfiques."
+"Fort vs. Cavalerie et Héros \n Peut changer de formation pour augmenter les capacités défensives\n \n Chargés de garder les vallées froides et les contreforts du territoire tenu par les Orcs, ces piquiers sont connus pour tendre une embuscade aux groupes de scouts elfiques."
 END
 
 OBJECT:WildMountainOrcScout
@@ -69197,8 +69188,7 @@ CONTROLBAR:ConstructWildMountainOrcScoutHorde
 END
 
 CONTROLBAR:ToolTipBuildWildMountainOrcScoutHorde
-"Requiert : Niveau 2 loge d'Orc des Montagnes\nFort vs. Epéistes\n \n
-Redoutés dans tout l'Eriador, ces chasseurs d'hommes Orcs des Montagnes ont la réputation d'être cruels et impitoyables quand ils traquent leur proie"
+"Requiert : Niveau 2 loge d'Orc des Montagnes\nFort vs. Epéistes\n \n Redoutés dans tout l'Eriador, ces chasseurs d'hommes Orcs des Montagnes ont la réputation d'être cruels et impitoyables quand ils traquent leur proie"
 END
 
 CONTROLBAR:ToolTipConstructGenericSentryTower
@@ -69740,7 +69730,7 @@ CONTROLBAR:PurchaseTechnologyGuldurNecromancy
 END
 
 CONTROLBAR:ToolTipPurchaseTechnologyGuldurNecromancy
-"Les Chasseurs et Géôliers Orcs peuvent être transformés en Morts Réincarnés,\n des troupes de choc se déplaçant rapidement qui ne souffrent pas de Lent Pourissment. \ nFait également apparaître des Morts Réincarnés pour défendre les structures de Dol Guldur"
+"Les Chasseurs et Géôliers Orcs peuvent être transformés en Morts Réincarnés,\n des troupes de choc se déplaçant rapidement qui ne souffrent pas de Lent Pourissment. \nFait également apparaître des Morts Réincarnés pour défendre les structures de Dol Guldur"
 END
 
 CONTROLBAR:TechnologyGuldurNecromancy
@@ -69748,7 +69738,7 @@ CONTROLBAR:TechnologyGuldurNecromancy
 END
 
 CONTROLBAR:ToolTipTechnologyGuldurNecromancy
-"Les Chasseurs et Géôliers Orcs peuvent être transformés en Morts Réincarnés,\n des troupes de choc se déplaçant rapidement qui ne souffrent pas de Lent Pourissment. \ nFait également apparaître des Morts Réincarnés pour défendre les structures de Dol Guldur\nCapacité Passive"
+"Les Chasseurs et Géôliers Orcs peuvent être transformés en Morts Réincarnés,\n des troupes de choc se déplaçant rapidement qui ne souffrent pas de Lent Pourissment. \nFait également apparaître des Morts Réincarnés pour défendre les structures de Dol Guldur\nCapacité Passive"
 END
 
 CONTROLBAR:NecromancySummon
@@ -70396,7 +70386,7 @@ CONTROLBAR:KrimpulCripple
 END
 
 CONTROLBAR:ToolTipKrimpulCripple
-"Requiert : Niveau 8\nKrimpûl paralyse un héros ennemi\nProvoque la peur des unités ennemies environnantes\n Ne peut pas être lancé sur les Monstres, les Héros de l'Anneau, Elessar et Tom Bombadil \ nClic gauche sur l'icône puis clic gauche sur la cible "
+"Requiert : Niveau 8\nKrimpûl paralyse un héros ennemi\nProvoque la peur des unités ennemies environnantes\n Ne peut pas être lancé sur les Monstres, les Héros de l'Anneau, Elessar et Tom Bombadil \nClic gauche sur l'icône puis clic gauche sur la cible "
 END
 
 //------------ Cargast ---------------
