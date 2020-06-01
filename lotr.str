@@ -69118,102 +69118,107 @@ CONTROLBAR:ToolTipSpecialAbilityIsengardFocusForge
 END
 
 CONTROLBAR:ConstructRohanMangonelExpansion
-"O&nager Expansion"
+"Extension O&nagre"
 END
 
 CONTROLBAR:ToolTipConstructRohanMangonelExpansion
-"Long range defensive weapon"
+"Arme défensive à longue portée"
 END
 
 CONTROLBAR:TrollishRage
-"Trollish &Rage"
+"&Rage des Trolls"
 END
 
 CONTROLBAR:ToolTipTrollishRage
-"The Snow-trolls temporarily gain +33% Speed and +33% Damage \n Requires level 2 \n Left click to activate"
+"Les Trolls des Neiges gagnent temporairement +33% Vitesse et +33% Dégâts \n Requiert : Niveau 2 \n Clic gauche pour activer"
 END
 
 CONTROLBAR:MerryBlade
-"Ha&lfling Courage"
+//&l
+"Courage des Hobbits"
 END
 
 CONTROLBAR:ToolTipMerryBlade
-"Requires Level 10 \n Merry plunges his Blade of Westernesse into an enemy hero,\n dealing strong damage and temporarily decreasing armor \n Can only use when sword is equipped \n Left click icon then left click on target"
+"Requiert : Niveau 10 \n
+Merry plonge sa lame du Westernesse dans un héros ennemi, \ n infligeant des dégâts modérés et diminuant temporairement l'armure \ n Ne peut être utilisé que lorsque l'épée est équipée \ n Clic gauche sur l'icône puis clic gauche sur la cible "
 End
 
 /////
 /////
 
 OBJECT:WildMountainOrcBanner
-"Mountain-orc Banner"
+"Bannière d'Orc des Montagnes"
 END
 
 OBJECT:WildMountainOrcSword
-"Mountain-orc Slasher"
+"Slasher Orc des Montagnes"
 END
 
 OBJECT:WildMountainOrcSwordHorde
-"Mountain-orc Slashers"
+"Slashers Orc des Montagnes"
 END
 
 CONTROLBAR:ConstructWildMountainOrcSwordHorde
-"Mountain-or&c Slashers"
+"Slashers Or&c des Montagnes"
 END
 
 CONTROLBAR:ToolTipBuildWildMountainOrcSwordHorde
-"Strong vs. Pikemen \n \n Hardened through generations of war and weather, these Mountain-orcs were finally united under one banner by Azog the Defiler."
+"Fort vs. Piquiers \n \n 
+Endurcis par des générations de guerre et de mauvais temps, ces Orcs des Montagnes ont finalement été réunis sous une seule bannière par Azog le Profanateur."
 END
 
 OBJECT:WildMountainOrcBrute
-"Mountain-orc Brute"
+"Brute Orc des Montagnes"
 END
 
 OBJECT:WildMountainOrcBruteHorde
-"Mountain-orc Brutes"
+"Brutes Orc des Montagnes"
 END
 
 CONTROLBAR:ConstructWildMountainOrcBruteHorde
-"Mountain-orc Bru&tes"
+"Bru&tes Orc des Montagnes"
 END
 
 CONTROLBAR:ToolTipBuildWildMountainOrcBruteHorde
-"Strong vs. Cavalry and Heroes \n Able to switch formation for improved defensive capabilities\n \n Tasked with guarding the cold valleys and foothills of Orc-held territory, these pikemen have been known to ambush Elven scouting parties."
+"Fort vs. Cavalerie et Héros \n Peut changer de formation pour augmenter les capacités défensives\n \n
+Chargés de garder les vallées froides et les contreforts du territoire tenu par les Orcs, ces piquiers sont connus pour tendre une embuscade aux groupes de scouts elfiques."
 END
 
 OBJECT:WildMountainOrcScout
-"Mountain-orc Scout"
+"Scout Orc des Montagnes"
 END
 
 OBJECT:WildMountainOrcScoutHorde
-"Mountain-orc Scouts"
+"Scouts Orc des Montagnes"
 END
 
 CONTROLBAR:ConstructWildMountainOrcScoutHorde
-"Mountain-orc &Scouts"
+"&Scouts Orc des Montagnes"
 END
 
 CONTROLBAR:ToolTipBuildWildMountainOrcScoutHorde
-"Requires Level 2 Mountain-orc Lodge\nStrong vs Swordsmen\n \n Feared throughout Eriador, these Mountain-orc manhunters have a reputation for being cruel and ruthless in tracking down their quarry."
+"Requiert : Niveau 2 loge d'Orc des Montagnes\nFort vs. Epéistes\n \n
+Redoutés dans tout l'Eriador, ces chasseurs d'hommes Orcs des Montagnes ont la réputation d'être cruels et impitoyables quand ils traquent leur proie"
 END
 
 CONTROLBAR:ToolTipConstructGenericSentryTower
-"Defensive tower that fires arrows at nearby enemies \n Can be garrisoned with archers to increase damage output"
+"Tour défensive qui tire des flèches sur les ennemis proches \n Peut acceuillir des Archers pour augmenter les dégâts infligés"
 END
 
 OBJECT:GenericSentryTowerDescription
-"Defensive tower that fires arrows at nearby enemies \n Can be garrisoned with archers to increase damage output"
+"Tour défensive qui tire des flèches sur les ennemis proches \n Peut acceuillir des Archers pour augmenter les dégâts infligés"
 END
 
 CONTROLBAR:CampaignSpawnTornado
-"Wrath of Manwë"
+"Colère de Manwë"
 End
 
 CONTROLBAR:TooltipCampaignSpawnTornado
-"Summons a destructive tornado onto the battlefield for an extended duration"
+"Invoque une Tornade destrucitve sur le champ de bataille pour une longue durée"
 End
 
 CONTROLBAR:CampaignGloriousCharge
-"This Day We Fight!"
+"Aujourd'hui nous Combattons!"
 END
 
 CONTROLBAR:TooltipCampaignGloriousCharge
@@ -69388,11 +69393,11 @@ CONTROLBAR:ToolTipBuildWildGundabadBerserkerHorde
 END
 
 OBJECT:WildGundabadBerserkerHorde
-"Berserkers Gundabad"
+"Berserkers de Gundabad"
 END
 
 OBJECT:GundabadBerserker
-"Berserker Gundabad"
+"Berserker de Gundabad"
 END
 
 CONTROLBAR:LW_Unit_WildGundabadBerserkerHorde
@@ -69404,11 +69409,11 @@ CONTROLBAR:LW_Unit_WildGundabadBerserkerHordePlural
 END
 
 BANNERUI:GundabadBerserker
-"Berserker Gundabad"
+"Berserker de Gundabad"
 END
 
 BANNERUI:GundabadBerserkers
-"Berserkers Gundabad"
+"Berserkers de Gundabad"
 END
 
 CONTROLBAR:LW_ToolTipBuild_WildGundabadBerserkerHorde
