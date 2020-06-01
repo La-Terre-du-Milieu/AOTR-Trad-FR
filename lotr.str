@@ -8403,7 +8403,8 @@ UPGRADE:RohanHorseLance
 END
 
 UPGRADE:RohanHornsOfTheRohirrim
-"Horns of the Rohirrim Upgrades"
+//"Horns of the Rohirrim Upgrades"
+"Amélioration Cor des Rohirrim"
 END
 
 UPGRADE:HeavyArmor
@@ -8453,7 +8454,6 @@ END
 UPGRADE:SwordsUpgrade
 "Lames forgées"
 END
-
 
 TOOLTIP:SwordsUpgrade
 "Lames forgées"
@@ -14746,11 +14746,11 @@ END
 //////////////////////
 
 OBJECT:GondorBuildingGeneral
-"Gondor Building"
+"Bâtiment du Gondor"
 END
 
 OBJECT:GBCastleGate
-"Castle Gate"
+"Porte du Château"
 END
 
 OBJECT:GBCastleTrebuchet
@@ -14762,7 +14762,7 @@ OBJECT:GondorCastleGateTower
 END
 
 OBJECT:GondorTent
-"Tent"
+"Tente"
 END
 
 OBJECT:GondorSentryTower
@@ -14798,7 +14798,7 @@ OBJECT:ElvenGrove
 END
 
 OBJECT:GondorBuildingIthilien
-"Gondor Building"
+"Bâtiment du Gondor"
 END
 
 CONTROLBAR:ConstructRohanBattleTower
@@ -14818,11 +14818,11 @@ OBJECT:GondorUpgradeReinforcedGate
 END
 
 OBJECT:GondorCastleUpgradeStructuralFireArrows
-"Structures with Flèches enflammées"
+"Structures avec les Flèches Enflammées"
 END
 
 OBJECT:GondorCastleUpgradeNumenorian
-"Numenorean Stonework"
+"Maçonnerie de Númenor"
 END
 
 
@@ -14870,10 +14870,10 @@ CONTROLBAR:ConstructGondorWorkshop
 "Construire un Atelier de siège"
 END
 CONTROLBAR:ConstructGondorWatchTower
-"Construire une Watch Tower"
+"Construire une Tour de Garde"
 END
 CONTROLBAR:ConstructGondorWhiteTower
-"Construire une Gondor White Tower"
+"Construire une Tour Blanche du Gondor"
 END
 CONTROLBAR:ConstructGondorFarm
 // context: Build Gondor Farm
@@ -14886,7 +14886,7 @@ END
 
 CONTROLBAR:ConstructGondorHseHeal
 // context: Build Gondor HseHeal
-"Construct House of Healing"
+"Construire une Maison de Guérison"
 END
 CONTROLBAR:ConstructGondorBlackSmith
 // context: Build Gondor Blacksmith
@@ -14897,19 +14897,19 @@ CONTROLBAR:ConstructGondorBarracks
 "Construire une Caserne"
 END
 CONTROLBAR:ConstructGondorWall
-"Construire une Gondor Wall"
+"Construire un mur du Gondor"
 END
 CONTROLBAR:BattleTowerUpgrade
-"Construire une Tour de guerre Upgrade"
+"Construire amélioration Tou&r de guerre"
 END
 CONTROLBAR:PosternGateUpgrade
-"Construire une Poterne Upgrade"
+"Construire amélioration &Poterne"
 END
 CONTROLBAR:FlagsUpgrade
-"Construire une Wall Banner Upgrade"
+"Construire amélioration Etend&ars"
 END
 CONTROLBAR:ToolTipFlagsUpgrade
-"Grants a bonus to nearby troops\n +50% armure +125% dégâts"
+"Procure un bonus de +50% armure et +125% dégâts aux alliés proches"
 END
 CONTROLBAR:ToolTipGondorBuildStable
 "Comme le Rohan, le royaume du Gondor élève ses chevaux pour ses bataillons de chevaliers. C'est une nécessité vitale pour les royaume des Hommes de maintenir une cavalerie suffisante pour repousser les assauts incessants des forces du Mal, qui épuisent leurs ressources.\n\nPermet de recruter et d'améliorer les cavaliers du Gondor."
@@ -14924,7 +14924,7 @@ CONTROLBAR:ToolTipGondorBuildStatue
 END
 
 CONTROLBAR:ToolTipGondorBuildStoneMaker
-"Strengthens gates and towers"
+"Renforce les portes et les tours"
 END
 
 CONTROLBAR:ToolTipGondorBuildArcherRange
@@ -14991,7 +14991,7 @@ CONTROLBAR:ToolTipGondorWall
 END
 
 CONTROLBAR:ToolTipGondorBuildFarm
-"Les fermiers du royaume sont installées dans la campagne en dehors de la cité, ils s'occupent des champs et des vergers.\n\Produit de la nourriture comme ressource.\n Bonus de nourriture : réduit le coût de la cavalerie."
+"Les fermiers du royaume sont installés dans la campagne en dehors de la cité, ils s'occupent des champs et des vergers.\n\Produit de la nourriture comme ressource.\n Bonus de nourriture : réduit le coût de la cavalerie."
 END
 
 CONTROLBAR:ToolTipGondorBuildBarracks
@@ -15003,7 +15003,7 @@ CONTROLBAR:ToolTipGondorBuildMarketPlace
 END
 
 CONTROLBAR:ToolTipGondorBuildHseHeal
-"To build a House of Healing, left click on button"
+"Clic gauche pour construire une Maison de Guérison"
 END
 
 CONTROLBAR:ToolTipGondorBuildBlackSmith
@@ -15014,7 +15014,7 @@ CONTROLBAR:ToolTipBattleTowerUpgrade
 "Structure défensive"
 END
 CONTROLBAR:ToolTipPosternGateUpgrade
-"Les ennemis ne peuvent entrer"
+"Les ennemis ne peuvent pas entrer"
 END
 
 
@@ -15023,7 +15023,7 @@ END
 
 
 OBJECT:LBBRIDGE
-"Lothlórien Pont"
+"Pont de la Lothlórien"
 END
 
 OBJECT:LBTREEHOUSE
@@ -15747,7 +15747,7 @@ CONTROLBAR:ConstructIronOreUpgrade
 "Acier de l'Ouistrenesse"
 END
 CONTROLBAR:ConstructNumenorStoneworkUpgrade
-"Maçonnerie de Numenor"
+"Maçonnerie de Númenor"
 END
 CONTROLBAR:ConstructReinforcedGateUpgrade
 "Porte renforcée"
