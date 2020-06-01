@@ -14577,7 +14577,7 @@ CONTROLBAR:ToolTipGondorFarmUnpack
 END
 
 CONTROLBAR:TooltipCancelUpgrade
-"Annuler amélior."
+"Annuler l'amélioration"
 END
 
 CONTROLBAR:ConstructCastle
@@ -14710,6 +14710,7 @@ END
 
 CONTROLBAR:ToolTipConstructMenStatue
 "Leadership bonus to nearby troops\nRéduit le coût des héros."
+"Bonus de Charisme aux troupes proches\nRéduit le coût des héros."
 END
 
 CONTROLBAR:ConstructMenBlacksmith
@@ -15167,24 +15168,24 @@ CONTROLBAR:ToolTipLumberMill
 END
 
 CONTROLBAR:ToolTipMordorUmbarTavern
-"To build a Tavern, left click on button"
+"Clic gauche pour construire une Taverne"
 END
 
 CONTROLBAR:ConstructUpgradeDiscount
-"Discount"
+"Réduction"
 END
 
 CONTROLBAR:ToolTipConstructUpgradeDiscount
-"Provides a discount on future purchases"
+"Fournit une réduction sur les prochains achats"
 END
 
 // Isengard Buildings
 
 CONTROLBAR:ConstructIsengardUrukPit
-"Construire un Puits à Uruk"
+"Construire un Puit à Uruk"
 END
 CONTROLBAR:ConstructIsengardWargPit
-"Construire une Fosse des Wargs"
+"Construire une Fosse à Wargs"
 END
 CONTROLBAR:ConstructIsengardSiegeWorks
 "Construire un Atelier de siège"
@@ -15225,7 +15226,7 @@ CONTROLBAR:ConstructElvenFarm
 END
 
 CONTROLBAR:ToolTipElvenFarm
-"To build a Ferme, left click on button"
+"Clic gauche pour construire une ferme"
 END
 
 // Wild Buildings
@@ -33839,15 +33840,15 @@ OBJECT:GondorDenethor
 End
 
 CONTROLBAR:GondorDenethorRecruit
-"Recruit the Steward of Gondor \n\n 'And I shall not forget it. Nor fail to reward that which is given. Fealty with love, valor with honor, disloyalty with vengeance.'"
+"Recruter l'Intendant du Gondor \n\n 'Et je n'oublierai pas. Ni ne manquerai de récompenser ce qui est donné. Fidelité avec amour, valeur avec honneur, déloyauté avec vengeance.'"
 END
 
 CONTROLBAR:GondorDenethorRevive
-"Revive the fallen Steward of Gondor"
+"Ramener à la vie l'Intendant déchu du Gondor"
 END
 
 CONTROLBAR:GondorDenethorHotkey
-"Dene&thor II, Son of Ecthelion"
+"Dene&thor II, Fils d'Ecthelion"
 END
 
 OBJECT:GondorForbiddenPool
@@ -33855,11 +33856,11 @@ OBJECT:GondorForbiddenPool
 End
 
 OBJECT:GondorHseHeal
-"House of Healing"
+"Maison de Guérison"
 End
 
 OBJECT:GondorSilverTree
-"Silver Tree"
+"Arbre Blanc"
 End
 
 //OBJECT:GondorBuildingGeneral1
