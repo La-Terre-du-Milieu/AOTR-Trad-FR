@@ -69934,147 +69934,152 @@ CONTROLBAR:ToolTipConstructGuldurRestlessBarrow
 END
 
 OBJECT:GuldurRestlessWarrior
-"Restless Warrior"
+"Guerrier Agité"
 END
 
 CONTROLBAR:ConstructGuldurSorceryTower
-"Summon Spire of Sorcer&y"
+//&y
+"Invoquer une Tour de la Sorcellerie"
 End
 
 CONTROLBAR:ToolTipConstructGuldurSorceryTower
-"Trains specialist units\nDamage nearby enemies and turns them into wraiths upon dying\nGrants access to Necromancy upgrade\nIncreases command point limit by 25"
+"Entrâiner des unités d'élites\nInflige des dégâts aux ennemis proches et les transforme en spectres à leur mort \nDébloque l'amélioration Nécromancie\nAugmente la limite de Points de Commandements de 25"
 END
 
 CONTROLBAR:ToolTipConstructGuldurSorceryTower_WOTR
-"Trains specialist units\nDamage nearby enemies and turns them into wraiths upon dying\nIncreases command point limit by 25"
+"Entraîner des unités d'élites\nInflige des dégâts aux ennemis proches et les transforme en spectres à leur mort\nAugmente la limite de Points de Commandements de 25"
 END
 
 CONTROLBAR:HarbingerDeepRot
-"Deep &Rot"
+"Pourriture &Profonde"
 END
 
 CONTROLBAR:ToolTipHarbingerDeepRot
-"Can be cast on a structure to deal damage over time\nAt rank 3, spawns several uncontrollable Wraiths around the targeted structure\nThese Wraiths last a short time but can turn enemy units\ninto Wraiths\nLeft click icon then left click on target building"
+"Peut être jeté sur une structure pour infliger des dégâts au fil du temps\nAu Niveau 3, invoque plusieurs spectres incontrôllables autour de la structure ciblée\nCes spectres restent peu de temps mais peuvent transformer\nles unités ennemis en Spectres\nClic gauche sur l'icône puis clic gauche sur le bâtiment cible"
 END
 
 CONTROLBAR:HarbingerColdSteel
-"Cold Steel"
+"Acier gelé"
 END
 
 CONTROLBAR:ToolTipHarbingerColdSteel
-"Requires Level 2\nThe Harbingers' attacks passively decrease armor by 5%\nand movement speed by 10% per hit\nPassive ability"
+"Requiert : Niveau 2\nLes attaques des Messagers réduisent passivement l'armure ennemie de 5%\net la vitesse de déplacement de 10% par coups\nCapacité Passive"
 END
 
 CONTROLBAR:HarbingerWitheringTouch
-"&Withering Touch"
+//&w
+"Toucher de Mort"
 END
 
 CONTROLBAR:ToolTipHarbingerWitheringTouch
-"Requires Level 3\nUnits within the radius take damage over time\nAffects both enemies and allies\nRisen Dead are immune\nLeft click icon then left click on target area"
+"Requiert : Niveau 3\nLes unités dans la zone subissent des Dégâts au fil du temps\nAffecte les unités alliées et ennemis\nLes Morts Réincarnés sont immunisés\nClic gauche sur l'icône puis clic gauche sur la zone ciblée"
 END
 
 OBJECT:GuldurBarricadeExpansion
-"Unquiet Ruin Expansion"
+"Extension Ruine Tourmentée"
 END
 
 OBJECT:GuldurBoneyardExpansion
-"Boneyard Expansion"
+"Extension Cimetière"
 END
 
 OBJECT:GuldurCatapultExpansion
-"Orc Catapult Expansion"
+"Extension Catapulte Orc"
 END
 
 CONTROLBAR:ConstructGuldurBoneyardExpansion
-"Bone&yard Expansion"
+//&y
+"Extension Cimetière"
 END
 
 CONTROLBAR:ToolTipConstructGuldurBoneyardExpansion
-"Risen Dead will emerge and attack nearby enemy units"
+"Des Morts Réincarnés vont en sortir et attaquer les unités ennemis proches"
 END
 
 OBJECT:GuldurStatueExpansion
-"Forlorn Statue"
+"Statue Délaissée"
 END
 
 OBJECT:GuldurStatueExpansionDescription
-"Nearby enemies suffer -25% damage and -20% armor \n Causes enemy units to flee in terror \n Can summon a horde of skeletal warriors onto enemy battalions and siege engines"
+"Les ennemis proches subbissent -25% Dégpats et -20% Armure \n Les unités ennemis fuient de peur et de terreur \n Peut invoquer une horde de Guerriers Squelettes parmis les unités ennemis et les engins de siège"
 END
 
 CONTROLBAR:ConstructGuldurStatueExpansion
-"&Forlorn Statue Expansion"
+//&F
+"Extansion Statue Délaissée"
 END
 
 CONTROLBAR:ToolTipConstructGuldurStatueExpansion
-"Nearby enemies suffer -25% damage and -20% armor \n Causes enemy units to flee in terror \n May purchase Restless Bones upgrade, which allows the Forlorn Statue to summon a horde of skeletal warriors onto enemy battalions and siege engines"
+"Les ennemis proches subbissent -25% Dégpats et -20% Armure \n Les unités ennemis fuient de peur et de terreur \n Permet l'achat de l'Amélioration D'Os Agités qui permet à la Statue Délaissée d'invoquer une horde de Guerriers Squelettes parmis les unités ennemis et les engins de siège"
 END
 
 CONTROLBAR:PurchaseGuldurRestlessBones
-"Purchase &Restless Bones Upgrade"
+"Acheter l'Amélio&ration Os Agités"
 END
 
 CONTROLBAR:ToolTipPurchaseGuldurRestlessBones
-"Allows the Forlorn Statue to summon a horde\nof skeletal warriors"
+"Permet à la Statue Délaissée d'invoquer une horde \nde Guerriers Squelettes"
 END
 
 CONTROLBAR:GuldurRestlessBones
-"&Restless Bones"
+//&r
+"Os Agités"
 END
 
 CONTROLBAR:ToolTipGuldurRestlessBones
-"Summons a horde of skeletal warriors\nLeft click icon then left click on target"
+"Invoque une horde de Guerriers Squelettes\nClic gauche sur l'icône puis clic gauche sur la cible"
 END
 
 UPGRADE:ToolTipGuldurRestlessBones
-"Restless Bones Upgrade"
+"Amélioration Os Agités"
 END
 
 CONTROLBAR:ConstructGuldurBarricadeExpansion
-"&Unquiet Ruin Expansion"
+"Extension R&uine Tourmentée"
 END
 
 CONTROLBAR:ToolTipConstructGuldurBarricadeExpansion
-"Fires arrows at nearby enemy units \n Benefits from the Pale Torches upgrade"
+"Tire des flèches sur les unités ennemis proches \n Peut être amélioré avec les Torches Pâles"
 END
 
 CONTROLBAR:ConstructGuldurCatapultExpansion
-"Orc &Catapult Expansion"
+"Extension &Catapulte Orc"
 END
 
 CONTROLBAR:ToolTipConstructGuldurCatapultExpansion
-"Long range defensive weapon"
+"Arme défensive à longue portée"
 END
 
 CONTROLBAR:PurchaseUpgradeGuldurFortressBatCloud
-"Swa&rm of Bats"
+"Nuée de Chauve-Sou&ris"
 END
 
 Upgrade:GuldurFortressBatCloud
-"Swarm of Bats"
+"Nuée de Chauve-Souris"
 END
 
 CONTROLBAR:PurchaseUpgradeGuldurFortressFireArrows
-"Pale &Torches"
+"&Torches Pâles"
 END
 
 Upgrade:GuldurFortressFireArrows
-"Pale Torches"
+"Torches Pâles"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeGuldurFortressFireArrows
-"Adds fire damage to Fortress and all attached Unquiet Ruins"
+"Ajoute des dégâts de feu à la forteresse et à toutes les Ruines Tourmentées attachées"
 END
 
 CONTROLBAR:PurchaseUpgradeGuldurFortressBlight
-"B&light"
+"Roui&lle"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeGuldurFortressBlight
-"Prerequisite to Hill of Sorcery \n Enemy units surrounding the fortress take damage \n and turn into Wraiths upon dying"
+"Requiert : Colline de la Sorcellerie \n Les unités ennemis autour de la forteresse prennent des dégâts \n et sont transformés en Spectres à leur mort"
 END
 
 UPGRADE:FortressGuldurBlight
-"Blight"
+"Rouille"
 END
 
 CONTROLBAR:PurchaseUpgradeGuldurFortressEncroachment
@@ -70086,15 +70091,15 @@ CONTROLBAR:ToolTipPurchaseUpgradeGuldurFortressEncroachment
 END
 
 CONTROLBAR:GuldurFortressEncroachment
-"Dark &Encroachment"
+"Sombre &Empiètement"
 END
 
 CONTROLBAR:ToolTipGuldurFortressEncroachment
-"Requires the Dark Encroachment upgrade \n Reduces all structure costs by 33% for a limited time \n Left click to activate"
+"Requiert : l'Amélioration Sombre Empiètement \nRéduit le coût de toutes les structures de 33% pour une durée limitée \n Clic gauche pour activer"
 END
 
 UPGRADE:FortressGuldurEncroachment
-"Dark Encroachment"
+"Sombre Empiètement"
 END
 
 CONTROLBAR:PurchaseUpgradeGuldurFortressPalantir
@@ -70102,7 +70107,7 @@ CONTROLBAR:PurchaseUpgradeGuldurFortressPalantir
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeGuldurFortressPalantir
-"Can be cast to reveal part of the map\nEnemy units caught in the radius take minor damage over time"
+"Peut être jeter pour révéler une partie de la carte\nLes unités ennemis dans la zone subissent de légers dégâts au cours du temps "
 END
 
 UPGRADE:FortressGuldurPalantir
@@ -70114,35 +70119,37 @@ CONTROLBAR:GuldurPalantir
 END
 
 CONTROLBAR:ToolTipGuldurPalantir
-"Requires the Guldur Palantir upgrade\nCan be cast to reveal part of the map\nEnemy units caught in the radius take minor damage over time\nLeft click icon then left click on target area"
+"Requiert : l'Amélioration Guldur Palantir \nPeut être jeter pour révéler une partie de la carte\nLes unités ennemis dans la zone subissent de légers dégâts au cours du temps\nClic gauche sur l'icône puis clic gauche sur la zone cible"
 END
 
 CONTROLBAR:PurchaseUpgradeGuldurFortressSorcery
-"Hill of &Sorcery"
+"Colline de la &Sorcellerie"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeGuldurFortressSorcery
-"Requires the Blight upgrade \n Increases Fortress armor \n Allows use of Ensnare ability \n Temporarily takes control of enemy units within the radius \n When Ensnare runs out, ensnared enemies take damage"
+"Requiert : l'Amélioration Rouille \n Augmente l'Armure de la forteresse \n Permet l'utilisation de la capacité Embuscade \n Prend temporairement le contrôle des unités ennemis dans la zone \n Quand Embuscade prend fin, les ennemis qui étaient sous votre contrôle prennent des dégâts"
 END
 
 UPGRADE:FortressGuldurSorcery
-"Hill of Sorcery"
+"Colline de la Sorcellerie"
 END
 
 CONTROLBAR:GuldurSorcery
-"&Hill of Sorcery"
+//&h
+"Colline de la Sorcellerie"
 END
 
 CONTROLBAR:TooltipGuldurSorcery
-"Requires the Hill of Sorcery upgrade \n Castable, destructive spell that sunders the earth beneath \n the enemy and causes it to erupt in pale flame\nLeft click icon then left click on target area"
+"Requiert : l'Amélioration Colline de la Sorcellerie \n Jetable, sort destructif qui fait trembler le sol sous \n l'ennemi et crée une éruption de flammes pâles\nClic gauche sur l'icône puis clic gauche sur la zone cible"
 END
 
 CONTROLBAR:GuldurEnsnare
-"Ens&nare"
+//&n
+"Embuscade"
 END
 
 CONTROLBAR:TooltipGuldurEnsnare
-"Requires the Hill of Sorcery upgrade \n Temporarily takes control of enemy units within the radius \n Ensnared enemies are invulnerable but when the spell runs out, they take damage \nLeft click icon then left click on target"
+"Requiert : l'Amélioration Colline de la Sorcellerie \n Prend temporairement le contrôle des unités ennemis dans la zone  \n Les ennemis embusqués sont invulnérable mais quand le sort prend fin, ils prennent des dégât \nClic gauche sur l'icône puis clic gauche sur la cible"
 END
 
 OBJECT:DwarfStatue
@@ -70150,139 +70157,140 @@ OBJECT:DwarfStatue
 END
 
 OBJECT:HaradBazaar
-"Bazaar"
+"Bazar"
 END
 
 CONTROLBAR:SpecialAbilityHaradCaravanDeploy
-"Deplo&y Caravan"
+"Deplo&yer Caravane"
 End
 
 CONTROLBAR:TooltipSpecialAbilityHaradCaravanDeploy
-"Caravan becomes immobile but gains +200% production"
+"La Caravane devient immobile mais gagne +200% production"
 End
 
 OBJECT:TradeCaravan
-"Southron Trade Caravan"
+"Caravane Marchande de Southron"
 END
 
 CONTROLBAR:ConstructTradeCaravan
-"Southron Trade &Caravan"
+"&Caravane Marchande de Southron"
 END
 
 CONTROLBAR:ToolTipBuildTradeCaravan
-"Produces a small number of resources, more once deployed \n At rank 2, can provide nearby units with upgrades \n Limited to 3"
+"Produit un petit nombre de ressources, et beaucoup plus une fois déployé \n Au niveau 2 : Peut fornir des améliorations aux unités proche \n Limité à 3"
 END
 
 CONTROLBAR:CaravanBlades
-"Trade: Forged Blades"
+"Marchander: Lames Forgées"
 END
 
 CONTROLBAR:ToolTipCaravanBlades
-"Requires Level 2 \n The Caravan trades with Khand for Forged Blades. \n Units nearby the Caravan can be upgraded with Forged Blades \n Passive ability"
+"Requier : Niveau 2 \n La Caravane marchande avec Khand pour des Lames Forgées. \n Les unités proches de la Caravane peuvent être améliorées avec des Lames Forgées \n Capacité Passive"
 END
 
 CONTROLBAR:PurchaseUpgradeAngmarBasicTraining
-"Purchase Ban&ners Carrier"
+"Acheter Porte-Ba&nnières"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeAngmarBasicTraining
-"Increases this battalion to Level 2 \n Can only be equipped at Level 1"
+"Fait Passer l'unité au Niveau 2 \n Peut seulement être équipé au Niveau 1"
 END
 
 CONTROLBAR:CaravanBanners
-"Banners Carrier"
+"Porte-Bannières"
 END
 
 CONTROLBAR:ToolTipCaravanBanners
-"Units nearby the Caravan can be upgraded with Banners Carrier \n Passive ability"
+"Les Unités proches de la Caravane peuvent être améliorées avec des Portes-Bannières \n Capacité Passive"
 END
 
 CONTROLBAR:CaravanArmor
-"Trade: Heavy Armor"
+"Marchander: Armure Lourde"
 END
 
 CONTROLBAR:ToolTipCaravanArmor
-"Requires Level 2 \n The Caravan trades with Rhûn for Heavy Armor. \n Units nearby the Caravan can be upgraded with Heavy Armor \n Passive ability"
+"Requiert : Niveau 2 \n La Caravane marchande avec Rhûn pour des Armures Lourdes. \n Les unités proches de la Caravane peuvent être améliorées avec des Armures Lourdes \n Capacité Passive"
 END
 
 CONTROLBAR:CaravanArrows
-"Trade: Fire Arrows"
+"Marchander: Flèches Enflammées"
 END
 
 CONTROLBAR:ToolTipCaravanArrows
-"Requires Level 3 \n The Caravan trades with Umbar for Fire Arrows. \n Units nearby the Caravan can be upgraded with Heavy Armor \n Passive ability"
+"Requiert : Niveau 3 \n La Caravane marchande avec Umbar pour des Flèches Enflammées. \n Les unités proches de la Caravane peuvent être améliorées avec des Flèches Enflammées \n Capacité Passive"
 END
 
 OBJECT:HaradWarlord
-"Harad Warlord"
+"Seigneur de Guerre Harad"
 END
 
 CONTROLBAR:ConstructHaradWarlord
-"Harad &Warlord"
+//&w
+"Seigneur de Guerre Harad"
 End
 
 CONTROLBAR:ToolTipBuildHaradWarlord
-"Capable of summoning a variety of Tribesmen units to serve him"
+"Peut invoquer une grande variété d'unités des Tribus pour le servir"
 End
 
 OBJECT:TribalSpearmen
-"Tribal Spearman"
+"Lancier Tribal"
 End
 
 OBJECT:TribalSpearmenHorde
-"Tribal Spearmen"
+"Lanciers Tribaux"
 End
 
 OBJECT:TribalJavelineers
-"Tribal Javelineer"
+"Lanceur de Javelots Tribal"
 END
 
 OBJECT:TribalJavelineersHorde
-"Tribal Javelineers"
+"Lanceurs de Javelots Tribaux"
 END
 
 OBJECT:HarondorArcherHorde
-"Harondor Archers"
+"Archers d'Harondor"
 END
 
 CONTROLBAR:ConstructHarondorArcherHorde
-"H&arondor Archers"
+"Archers d'H&arondor"
 End
 
 CONTROLBAR:ToolTipBuildHarondorArcherHorde
-"Requires Level 2 Harondor Outpost \n Strong vs. Infantry \n Specialist Unit \n \n Using compound bows and barbed arrows, Southron archers were deadly both on foot and from within their Houda's."
+"Requiert : Niveau 2 Avant-Poste d'Harondor \n Fort vs. Infanterie \n Unité d'élite \n \n À l'aide d'arcs à poulies et de flèches barbelées, les archers du Southron étaient mortels à pied et de l'intérieur de leur Houda."
 End
 
 OBJECT:MahudOutpost
-"Mahûd Outpost"
+"Avant-Poste Mahûd"
 END
 
 OBJECT:MahudOutpostDescription
-"Level 2: +10% Faster Build Speed\n Level 3: +25% Faster Build Speed"
+"Niveau 2 : +10% Vitesse de Construction\n Niveau 3: +25% Vitesse de Construction"
 END
 
 CONTROLBAR:ConstructHaradMumakil
-"War &Mûmak"
+"&Mûmak de Guerre"
 END
 
 CONTROLBAR:ToolTipBuildHaradMumakil
-"Requires Level 2 Mahûd Outpost \n Strong vs. Structures and Cavalry \n \n The Mûmakil of Harad were tamed and used as beasts of war by the Haradrim, who employed them to devastating effect during the Battle of the Pelennor."
+"Requiert : Niveau 2 Avant-Poste Mahûd \n Fort vs. Structures et Cavalerie \n \n Les Mûmakils du Harad ont été apprivoisés et utilisés comme des bêtes de guerre par les Haradrims, qui les ont employés avec un effet dévastateur pendant la bataille du Pelennor."
 END
 
 OBJECT:GoldenKingPavillion
-"Pavillion of the Golden King"
+"Pavillon du Roi Doré"
 END
 
 OBJECT:GoldenKingPavillionDescription
-"Level 2: +10% Faster Build Speed\n Level 3: +25% Faster Build Speed"
+"Niveau 2: +10% Vitesse de Construction\n Niveau 3: +25% Vitesse de Construction"
 END
 
 OBJECT:UmbarianCitadel
-"Umbarian Citadel"
+"Citadelle d'Umbar"
 END
 
 OBJECT:UmbarianCitadelDescription
-"Level 2: +10% Faster Build Speed\n Level 3: +25% Faster Build Speed"
+"Niveau 2: +10% Vitesse de Construction\n Niveau 3: +25% Vitesse de Construction"
 END
 
 //------------ Broken Thrain ---------------
@@ -70292,11 +70300,11 @@ OBJECT:GuldurThrain
 END
 
 CONTROLBAR:GuldurThrainRecruit
-"Recrutez le nain Brisé \n \n Le fils autrefois fier de Thrór a été capturé près de la lisière de Mirkwood lors de sa quête pour récupérer les richesses d'Erebor,il fut emmené dans les cachots de Dol Guldur et torturé pendant de longues décennies jusqu'à ce qu'il se casse enfin."
+"Recruter le nain Brisé \n \n Le fils autrefois fier de Thrór a été capturé près de la lisière de Mirkwood lors de sa quête pour récupérer les richesses d'Erebor,il fut emmené dans les cachots de Dol Guldur et torturé pendant de longues décennies jusqu'à ce qu'il se casse enfin."
 END
 
 CONTROLBAR:GuldurThrainRevive
-"Rappelez à la vie, Thráin"
+"Rappeler à la vie, Thráin"
 END
 
 CONTROLBAR:GuldurThrainHotKey
@@ -70334,11 +70342,11 @@ OBJECT:GuldurKrimpul
 END
 
 CONTROLBAR:GuldurKrimpulRecruit
-"Recrutez un orc d'une cruauté exceptionnelle \n \n Krimpûl s'éleva impitoyablement dans les rangs de la garnison orque de Dol Guldur, jusqu'à ce que son lieutenant le remarque enfin et le mette au travail dans un endroit où ses talents pourraient être  utiles."
+"Recruter un orc d'une cruauté exceptionnelle \n \n Krimpûl s'éleva impitoyablement dans les rangs de la garnison orque de Dol Guldur, jusqu'à ce que son lieutenant le remarque enfin et le mette au travail dans un endroit où ses talents pourraient être  utiles."
 END
 
 CONTROLBAR:GuldurKrimpulRevive
-"Rappelez à la vie, Krimpûl"
+"Rappeler à la vie, Krimpûl"
 END
 
 CONTROLBAR:GuldurKrimpulHotKey
@@ -70393,11 +70401,11 @@ OBJECT:GuldurCargast
 End
 
 CONTROLBAR:GuldurCargastRecruit
-"Recrutez le Seigneur des Tombes \n \n Un Grand Roi du Rhovanion durant sa vie, Cargást a depuis longtemps oublié son véritable nom. Il a été parmi les premiers à se lever lorsque le Nécromancien a découvert les brouettes de ses proches et sert son maître avec une ferveur sombre."
+"Recruter le Seigneur des Tombes \n \n Un Grand Roi du Rhovanion durant sa vie, Cargást a depuis longtemps oublié son véritable nom. Il a été parmi les premiers à se lever lorsque le Nécromancien a découvert les brouettes de ses proches et sert son maître avec une ferveur sombre."
 END
 
 CONTROLBAR:GuldurCargastRevive
-"Rappelez à la vie, Cargást"
+"Rappeler à la vie, Cargást"
 END
 
 CONTROLBAR:GuldurCargastHotkey
@@ -70454,11 +70462,11 @@ OBJECT:GuldurSaenathra
 END
 
 CONTROLBAR:GuldurSaenathraRecruit
-"Recrutez la plus grande fille de Shelob \n \n Saenathra a tenté de supplanter la grande matrone dans son antre, mais a échoué et a été chassé. Maintenant, elle habite dans le sud de Mirkwood, où elle règne sur sa propre vile couvée. "
+"Recruter la plus grande fille de Shelob \n \n Saenathra a tenté de supplanter la grande matrone dans son antre, mais a échoué et a été chassé. Maintenant, elle habite dans le sud de Mirkwood, où elle règne sur sa propre vile couvée. "
 END
 
 CONTROLBAR:GuldurSaenathraRevive
-"Rappelez à la vie, Saenathra"
+"Rappeler à la vie, Saenathra"
 END
 
 CONTROLBAR:GuldurSaenathraHotKey
@@ -70515,11 +70523,11 @@ OBJECT:GuldurNecromancer
 END
 
 CONTROLBAR:NecromancerRecruit
-"Recrutez la Sombre Présence cachée dans les ruines hantées de Dol Guldur \n\n 'Un Sombre Pouvoir tel que je ne l'avais jamais ressenti auparavant règne ici. C'est l'ombre d'une abomination du passé, l'un de ceux qui peu ramener les morts à la vie. Je l'ai vu Gandalf, de l'extérieur des ténèbres. Le Necromancien est revenu.'"
+"Recruter la Sombre Présence cachée dans les ruines hantées de Dol Guldur \n\n 'Un Sombre Pouvoir tel que je ne l'avais jamais ressenti auparavant règne ici. C'est l'ombre d'une abomination du passé, l'un de ceux qui peut ramener les morts à la vie. Je l'ai vu Gandalf, de l'extérieur des ténèbres. Le Necromancien est revenu.'"
 END
 
 CONTROLBAR:NecromancerRevive
-"Rappelez le Nécromancien à la vie"
+"Rappeler le Nécromancien à la vie"
 END
 
 CONTROLBAR:NecromancerHotkey
