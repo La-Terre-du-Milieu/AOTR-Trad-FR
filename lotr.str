@@ -8705,7 +8705,7 @@ OBJECT:ElvenWarriorArcherComboHorde
 END
 
 OBJECT:ElvenRivendellLancer
-"Lancier de Fondcombe"
+"Lancier d'Imladris"
 END
 
 OBJECT:ElvenBanner
@@ -8713,7 +8713,7 @@ OBJECT:ElvenBanner
 END
 
 OBJECT:HordeElvenRivendellLancer
-"Bataillon de Lanciers de Fondcombe"
+"Bataillon de Lanciers d'Imladris"
 END
 
 
@@ -11570,7 +11570,7 @@ SCRIPT:Announcement_G01_07
 END
 
 SCRIPT:Announcement_G01_08
-"Arwen has returned with the Lanciers de Fondcombe." 
+"Arwen has returned with the Lanciers d'Imladris." 
 END
 
 SCRIPT:Announcement_G01_09
@@ -11707,7 +11707,7 @@ SCRIPT:OBJECTIVE_G02_01C
 End
 
 SCRIPT:ANNOUNCEMENT_G02_01C
-"Build a Verts Pâturages to train Lanciers de Fondcombe." 
+"Build a Verts Pâturages to train Lanciers d'Imladris." 
 End
 
 SCRIPT:COMPLETED_G02_01C
@@ -11739,15 +11739,15 @@ SCRIPT:COMPLETED_G02_01E
 End
 
 SCRIPT:OBJECTIVE_G02_01F
-"Train Archers de la Lórien and Lanciers de Fondcombe." 
+"Train Archers de la Lórien and Lanciers d'Imladris." 
 End
 
 SCRIPT:ANNOUNCEMENT_G02_01F
-"Train Archers de la Lórien from the Caserne and Lanciers de Fondcombe from the Pasture and we can venture into the pass." 
+"Train Archers de la Lórien from the Caserne and Lanciers d'Imladris from the Pasture and we can venture into the pass." 
 End
 
 SCRIPT:COMPLETED_G02_01F
-"Archers and Lanciers de Fondcombe trained." 
+"Archers and Lanciers d'Imladris trained." 
 End
 
 SCRIPT:OBJECTIVE_G02_02
@@ -15566,7 +15566,7 @@ CONTROLBAR:Anduril
 End
 
 CONTROLBAR:ToolTipAnduril
-"Aragorn porte dorénavant Andúril, l'épée reforgée par les Elfes de Fondcombe à partir des tronçons de Narsil, l'épée de son ancêtre le roi de Númenor Elendil.\n Aragorn gagne +100% dégâts.\n\n Capacité passive"
+"Aragorn porte dorénavant Andúril, l'épée reforgée par les Elfes d'Imladris à partir des tronçons de Narsil, l'épée de son ancêtre le roi de Númenor Elendil.\n Aragorn gagne +100% dégâts.\n\n Capacité passive"
 END
 
 CONTROLBAR:SummonArmyoftheDead
@@ -16447,11 +16447,11 @@ END
 
 // ELVEN UNITS
 CONTROLBAR:ToolTipBuildGlorfindel
-"Recrutez le Seigneur Elfe à l'armure d'Argent.\n\n Rares sont ceux, même dans les demeures sacrées de Fondcombe, à pouvoir affronter les Neuf pied à pied. Glorfindel est l'un de ces êtres d'exception. Devant ce puissant guerrier de la maison d'Elrond, les Spectres de l'Anneau eux-mêmes ont un recul de crainte, n'osant le défier que lorsqu'ils sont tous réunis sous la férule du Roi-Sorcier."
+"Recrutez le Seigneur Elfe à l'armure d'Argent.\n\n Rares sont ceux, même dans les demeures sacrées d'Imladris, à pouvoir affronter les Neuf pied à pied. Glorfindel est l'un de ces êtres d'exception. Devant ce puissant guerrier de la maison d'Elrond, les Spectres de l'Anneau eux-mêmes ont un recul de crainte, n'osant le défier que lorsqu'ils sont tous réunis sous la férule du Roi-Sorcier."
 END
 
 CONTROLBAR:ElvenGlorfindelRecruit
-"Recrutez le Seigneur Elfe à l'armure d'Argent.\n\n Rares sont ceux, même dans les demeures sacrées de Fondcombe, à pouvoir affronter les Neuf pied à pied. Glorfindel est l'un de ces êtres d'exception. Devant ce puissant guerrier de la maison d'Elrond, les Spectres de l'Anneau eux-mêmes ont un recul de crainte, n'osant le défier que lorsqu'ils sont tous réunis sous la férule du Roi-Sorcier."
+"Recrutez le Seigneur Elfe à l'armure d'Argent.\n\n Rares sont ceux, même dans les demeures sacrées d'Imladris, à pouvoir affronter les Neuf pied à pied. Glorfindel est l'un de ces êtres d'exception. Devant ce puissant guerrier de la maison d'Elrond, les Spectres de l'Anneau eux-mêmes ont un recul de crainte, n'osant le défier que lorsqu'ils sont tous réunis sous la férule du Roi-Sorcier."
 END
 
 CONTROLBAR:ElvenGlorfindelRevive
@@ -24083,7 +24083,7 @@ Map:MAPWORHelmsDeep/Desc
 END
 
 Map:MAPWORHighPass/Desc
-"Ce col étroit et dangereux traverse les Monts Brumeux à l'est de Fondcombe."
+"Ce col étroit et dangereux traverse les Monts Brumeux à l'est d'Imladris."
 END
 
 Map:MAPWORIronHills/Desc
@@ -29325,11 +29325,11 @@ CONTROLBAR:LW_ToolTip_ElvenMithlondSentryHorde
 END
 
 CONTROLBAR:LW_Unit_ElvenRivendellLancerHorde
-"Bataillon de Lanciers de Fondcombe"
+"Bataillon de Lanciers d'Imladris"
 END
 
 CONTROLBAR:LW_Unit_ElvenRivendellLancerHordePlural
-"Bataillons de Lanciers de Fondcombe"
+"Bataillons de Lanciers d'Imladris"
 END
 
 CONTROLBAR:LW_ToolTipBuild_ElvenRivendellLancerHorde
@@ -36090,7 +36090,7 @@ OBJECT:RivendellGateRightSide
 END
 
 OBJECT:RivendellGate
-"Porte principale de Fondcombe"
+"Porte principale d'Imladris"
 End
 
 OBJECT:RivendellGateLeftSide
@@ -36112,7 +36112,7 @@ OBJECT:ElrondsHouse
 END
 
 OBJECT:RivendellBattleTower
-"Tour de guerre de Fondcombe"
+"Tour de guerre d'Imladris"
 END
 
 HUD:InstructionalNotificationTitle
@@ -36268,7 +36268,7 @@ CONTROLBAR:HaldirRevive
 END
 
 CONTROLBAR:ElrondRecruit
-"Recrutez le maître de Fondcombe.\n\n Le Semi-Elfe Elrond est le maître de la Dernière Maison Simple, un Haut Elfe de noble lignée et un membre éminent du Conseil Blanc.\n Elrond est très âgé, même pour un Elfe immortel. Il a combattu Sauron au cours de l'Ultime Alliance des Hommes et des Elfes et était présent lorsqu'Isildur a tranché le doigt qui portait l'Anneau Unique. Il craint depuis longtemps que la perte de l'Anneau par Isildur revienne hanter les Peuples Libres, et il semble bien qu'il ait raison."
+"Recrutez le maître d'Imladris.\n\n Le Semi-Elfe Elrond est le maître de la Dernière Maison Simple, un Haut Elfe de noble lignée et un membre éminent du Conseil Blanc.\n Elrond est très âgé, même pour un Elfe immortel. Il a combattu Sauron au cours de l'Ultime Alliance des Hommes et des Elfes et était présent lorsqu'Isildur a tranché le doigt qui portait l'Anneau Unique. Il craint depuis longtemps que la perte de l'Anneau par Isildur revienne hanter les Peuples Libres, et il semble bien qu'il ait raison."
 END
 
 CONTROLBAR:ElrondRevive
@@ -47732,11 +47732,11 @@ END
 
 // Arnor units
 OBJECT:ArnorWorker
-"Bâtisseur de Fondcombe"
+"Bâtisseur d'Imladris"
 END
 
 OBJECT:ArnorTownsman
-"Citoyens de Fondcombe"
+"Citoyens d'Imladris"
 END
 
 OBJECT:ArnorPeasant
@@ -47744,7 +47744,7 @@ OBJECT:ArnorPeasant
 END
 
 OBJECT:ArnorPorter
-"Bâtisseur de Fondcombe"
+"Bâtisseur d'Imladris"
 END
 
 OBJECT:ArnorFighter
@@ -47752,15 +47752,15 @@ OBJECT:ArnorFighter
 END
 
 OBJECT:ElvenRivendellWarrior
-"Garde de Fondcombe"
+"Garde d'Imladris"
 END
 
 OBJECT:ElvenRivendellArcher
-"Archer de Fondcombe"
+"Archer d'Imladris"
 END
 
 OBJECT:ArnorTowerShieldGuard
-"Epéiste de Fondcombe"
+"Epéiste d'Imladris"
 END
 
 OBJECT:HordeRivendellReveler
@@ -47872,11 +47872,11 @@ OBJECT:HordeArnorSoldier
 END
 
 OBJECT:HordeArnorTowerGuard
-"Epéistes de Fondcombe"
+"Epéistes d'Imladris"
 END
 
 OBJECT:HordeArnorTowerGuardCav
-"Gardes de Fondcombe"
+"Gardes d'Imladris"
 END
 
 OBJECT:HordeElvenRivendellWarrior
@@ -47956,7 +47956,7 @@ END
 //////////////////////
 
 OBJECT:ArnorPosternGate
-"Poterne de Fondcombe"
+"Poterne d'Imladris"
 END
 
 OBJECT:ArnorTrebuchetOutcropping
@@ -47965,7 +47965,7 @@ END
 
 OBJECT:ArnorBuildingFoundation
 //"Click here to build a structure"		//This is seen by everyone.
-"Fondation de bâtiment de Fondcombe"
+"Fondation de bâtiment d'Imladris"
 END
 
 OBJECT:ArnorCastleWallUpgrade
@@ -47990,7 +47990,7 @@ OBJECT:ArnorStable
 END
 
 OBJECT:ArnorBarracks
-"Caserne de Fondcombe"
+"Caserne d'Imladris"
 END
 
 OBJECT:ArnorWorkshop
@@ -47998,27 +47998,27 @@ OBJECT:ArnorWorkshop
 END
 
 OBJECT:ArnorFarm
-"Verger de Fondcombe"
+"Verger d'Imladris"
 END
 
 OBJECT:ArnorBlackSmith
-"Forge de Fondcombe"
+"Forge d'Imladris"
 END
 
 OBJECT:ArnorMarket
-"Bibliothèque de Fondcombe"
+"Bibliothèque d'Imladris"
 END
 
 OBJECT:ArnorHeroStatue
-"Statue héroïque de Fondcombe"
+"Statue héroïque d'Imladris"
 END
 
 OBJECT:ArnorStoneMaker
-"Tailleur de pierres de Fondcombe"
+"Tailleur de pierres d'Imladris"
 END
 
 OBJECT:ArnorGate
-"Porte de Fondcombe"
+"Porte d'Imladris"
 END
 
 OBJECT:ArnorWall
@@ -48042,11 +48042,11 @@ OBJECT:ArnorBaseWallTreb
 END
 
 OBJECT:ArnorWatchTower
-"Tour d'archers de Fondcombe" 
+"Tour d'archers d'Imladris" 
 END
 
 OBJECT:ArnorSentryTower
-"Tour d'archers de Fondcombe" 
+"Tour d'archers d'Imladris" 
 END
 
 OBJECT:ArnorCastleWall
@@ -48054,7 +48054,7 @@ OBJECT:ArnorCastleWall
 END
 
 OBJECT:ArnorCastleWallPosternGate
-"Poterne de Fondcombe"
+"Poterne d'Imladris"
 END
 
 OBJECT:ArnorCastleGate
@@ -48074,16 +48074,16 @@ OBJECT:ArnorStatue
 END
 
 OBJECT:ArnorKeep
-"Tour d'archers de Fondcombe"
+"Tour d'archers d'Imladris"
 END
 
 OBJECT:ArnorCampKeep
 //"Click here to build/revive Heroes" //This is seen by all players.
-"Citadelle de Fondcombe"
+"Citadelle d'Imladris"
 END
 
 OBJECT:ArnorCastleBaseKeep
-"Citadelle de Fondcombe"
+"Citadelle d'Imladris"
 END
 
 //////////////////////
@@ -48095,19 +48095,19 @@ END
 //END
 
 CONTROLBAR:ToolTipConstructArnorPorter
-"Entraîner un bâtisseur de Fondcombe\n Construit des structures"
+"Entraîner un bâtisseur d'Imladris\n Construit des structures"
 END
 
 CONTROLBAR:ConstructArnorFarm
-"Construire un Verger de Fondcombe"
+"Construire un Verger d'Imladris"
 END
 
 CONTROLBAR:ConstructArnorBarracks
-"Construire un Quartier de Fondcombe"
+"Construire un Quartier d'Imladris"
 END
 
 CONTROLBAR:ToolTipConstructArnorBarracks
-"Permet de recruter les Elfes de Fondcombe"
+"Permet de recruter les Elfes d'Imladris"
 END
 
 CONTROLBAR:ConstructArnorArcheryRange
@@ -48127,15 +48127,15 @@ CONTROLBAR:ToolTipConstructArnorStable
 END
 
 CONTROLBAR:ConstructArnorWorkshop
-"Construire un Atelier de siège de Fondcombe"
+"Construire un Atelier de siège d'Imladris"
 END
 
 CONTROLBAR:ToolTipConstructArnorWorkshop
-"Construit les machines de siège de Fondcombe"
+"Construit les machines de siège d'Imladris"
 END
 
 CONTROLBAR:ConstructArnorSentryTower
-"Construire une Tour de guerre de Fondcombe"
+"Construire une Tour de guerre d'Imladris"
 END
 
 CONTROLBAR:ToolTipConstructArnorSentryTower
@@ -48151,11 +48151,11 @@ CONTROLBAR:ToolTipConstructArnorStatue
 END
 
 CONTROLBAR:ConstructArnorWallHub
-"Assise de Fondcombe"
+"Assise d'Imladris"
 END
 
 CONTROLBAR:ConstructArnorFortress
-"Citadelle de Fondcombe"
+"Citadelle d'Imladris"
 END
 
 CONTROLBAR:ToolTipConstructArnorWallHub
@@ -48175,7 +48175,7 @@ CONTROLBAR:ConstructArnorStatue
 END
 
 CONTROLBAR:ConstructArnorBlacksmith
-"Construire une Forge de Fondcombe"
+"Construire une Forge d'Imladris"
 END
 
 CONTROLBAR:ToolTipConstructArnorBlacksmith
@@ -48183,7 +48183,7 @@ CONTROLBAR:ToolTipConstructArnorBlacksmith
 END
 
 CONTROLBAR:ConstructArnorMarketPlace
-"Construire une Bibliothèque de Fondcombe"
+"Construire une Bibliothèque d'Imladris"
 END
 
 CONTROLBAR:ToolTipConstructArnorMarketPlace
@@ -48199,7 +48199,7 @@ OBJECT:ArnorMarketPlaceDescription
 END
 
 CONTROLBAR:ConstructArnorStoneMaker
-"Construire un Tailleur de pierres de Fondcombe"
+"Construire un Tailleur de pierres d'Imladris"
 END
 
 CONTROLBAR:ToolTipConstructArnorStoneMaker
@@ -48463,7 +48463,7 @@ OBJECT:ArnorWorkshopDescription
 END
 
 OBJECT:ArnorBlacksmithDescription
-"Recherche les améliorations de Fondcombe."
+"Recherche les améliorations d'Imladris."
 END
 
 OBJECT:ArnorStoneworkerDescription
@@ -48815,11 +48815,11 @@ END
 /////////// Arnor Units ////////////
 
 CONTROLBAR:LW_Unit_ArnorFighterHorde
-"Bataillon de Soldats de Fondcombe"
+"Bataillon de Soldats d'Imladris"
 END
 
 CONTROLBAR:LW_Unit_ArnorFighterHordePlural
-"Bataillons de Soldats de Fondcombe"
+"Bataillons de Soldats d'Imladris"
 END
 
 CONTROLBAR:LW_ToolTipBuild_ArnorFighterHorde
@@ -48831,11 +48831,11 @@ CONTROLBAR:LW_ToolTip_ArnorFighterHorde
 END
 
 CONTROLBAR:LW_Unit_ArnorArcherHorde
-"Bataillon d'Archers de Fondcombe"
+"Bataillon d'Archers d'Imladris"
 END
 
 CONTROLBAR:LW_Unit_ArnorArcherHordePlural
-"Bataillons d'Archers de Fondcombe"
+"Bataillons d'Archers d'Imladris"
 END
 
 CONTROLBAR:LW_ToolTipBuild_ArnorArcherHorde
@@ -50989,7 +50989,7 @@ CONTROLBAR:ToolTipBuildElvenRivendellArchers
 END
 
 OBJECT:HordeElvenRivendellLancer
-"Lanciers de Fondcombe"
+"Lanciers d'Imladris"
 END
 
 OBJECT:HordeElvenRivendellArcher
@@ -51189,62 +51189,62 @@ End
 
 BANNERUI:ArnorFighter
 // Singluar name of the Arnor Phalanx category displayed in the army summary for WotR
-"Soldat de Fondcombe"
+"Soldat d'Imladris"
 End
 
 BANNERUI:ArnorFighters
 // Singluar name of the Arnor Phalanx category displayed in the army summary for WotR
-"Soldats de Fondcombe"
+"Soldats d'Imladris"
 End
 
 CONTROLBAR:LW_Unit_ArnorFighterHorde
 // Singluar name of the Arnor Phalanx category displayed in the army summary for WotR
-"Bataillon de Soldats de Fondcombe"
+"Bataillon de Soldats d'Imladris"
 End
 
 CONTROLBAR:LW_UNIT_ArnorFighterHordePlural
 // Singluar name of the Arnor Phalanx category displayed in the army summary for WotR
-"Bataillons de Soldats de Fondcombe"
+"Bataillons de Soldats d'Imladris"
 End
 
 BANNERUI:ArnorArcher
 // Singluar name of the Arnor Phalanx category displayed in the army summary for WotR
-"Archer de Fondcombe"
+"Archer d'Imladris"
 End
 
 BANNERUI:ArnorArcher
 // Singluar name of the Arnor Phalanx category displayed in the army summary for WotR
-"Archers de Fondcombe"
+"Archers d'Imladris"
 End
 
 CONTROLBAR:LW_Unit_ArnorArcherHorde
 // Singluar name of the Arnor Phalanx category displayed in the army summary for WotR
-"Bataillon d'Archers de Fondcombe"
+"Bataillon d'Archers d'Imladris"
 End
 
 CONTROLBAR:LW_UNIT_ArnorArcherHordePlural
 // Plural name of the Arnor Phalanx category displayed in the army summary for WotR
-"Bataillons d'Archers de Fondcombe"
+"Bataillons d'Archers d'Imladris"
 End
 
 BANNERUI:ArnorKnight
 // Singluar name of the Arnor Phalanx category displayed in the army summary for WotR
-"Chevalier de Fondcombe"
+"Chevalier d'Imladris"
 End
 
 BANNERUI:ArnorKnights
 // Singluar name of the Arnor Phalanx category displayed in the army summary for WotR
-"Chevaliers de Fondcombe"
+"Chevaliers d'Imladris"
 End
 
 CONTROLBAR:LW_Unit_ArnorKnightHorde
 // Singluar name of the Arnor Phalanx category displayed in the army summary for WotR
-"Bataillon de Chevaliers de Fondcombe"
+"Bataillon de Chevaliers d'Imladris"
 End
 
 CONTROLBAR:LW_Unit_ArnorKnightHordePlural
 // Singluar name of the Arnor Phalanx category displayed in the army summary for WotR
-"Bataillons de Chevaliers de Fondcombe"
+"Bataillons de Chevaliers d'Imladris"
 End
 
 BANNERUI:ArnorTowerGuard
@@ -55499,8 +55499,8 @@ CONTROLBAR:ConstructElvenMirkwoodArcherHorde
 END
 
 CONTROLBAR:BuildElvenRivendellLancers
-//"Train Lanciers de Fondcombe"
-"Lanciers de Fondcombe"
+//"Train Lanciers d'Imladris"
+"Lanciers d'Imladris"
 END
 
 CONTROLBAR:BuildElvenRivendellArchers
@@ -57368,7 +57368,7 @@ BANNERUI:ElvenMithlondSentry
 "Sentinelle de Mithlond"
 End
 BANNERUI:ElvenMithlondSentries
-// Plural name of the Lancier elfe de Fondcombe category displayed in the army summary for WotR
+// Plural name of the Lancier elfe d'Imladris category displayed in the army summary for WotR
 //"Sentinelles elfes de Mithlond"
 "Sentinelles de Mithlond"
 End
@@ -57414,14 +57414,14 @@ CONTROLBAR:LW_ToolTip_ElvenNoldorWarriorHorde
 END
 
 BANNERUI:ElvenRivendellLancer
-// Singluar name of the Lancier elfe de Fondcombe category displayed in the army summary for WotR
-//"Lancier elfe de Fondcombe"
-"Lancier de Fondcombe"
+// Singluar name of the Lancier elfe d'Imladris category displayed in the army summary for WotR
+//"Lancier elfe d'Imladris"
+"Lancier d'Imladris"
 End
 BANNERUI:ElvenRivendellLancers
-// Plural name of the Lancier elfe de Fondcombe category displayed in the army summary for WotR
-//"Lanciers elfes de Fondcombe"
-"Lanciers de Fondcombe"
+// Plural name of the Lancier elfe d'Imladris category displayed in the army summary for WotR
+//"Lanciers elfes d'Imladris"
+"Lanciers d'Imladris"
 End
 
 CONTROLBAR:LW_ToolTipBuild_ElvenRivendellArcherHorde
@@ -62543,7 +62543,7 @@ OBJECT:ElvenIdrial
 END
 
 CONTROLBAR:IdrialRecruit
-"Recrutez Idrial, la fidèle servante de Galadriel.\n\n Idrial est au service de Dame Galadriel depuis des centaines d'années, en toutes circonstances. Après avoir sauvé Berethor du Gondor de l'attaque des Nazgûl au sud de Fondcombe, elle s'est jointe à lui afin d'essayer de rejoindre la Lothlórien lors d'un long périple. Il lui faudra affronter les terrifiants périls de la Moria pour avertir les Elfes des dangers qui les guettent sur le chemin des Havres Gris."
+"Recrutez Idrial, la fidèle servante de Galadriel.\n\n Idrial est au service de Dame Galadriel depuis des centaines d'années, en toutes circonstances. Après avoir sauvé Berethor du Gondor de l'attaque des Nazgûl au sud d'Imladris, elle s'est jointe à lui afin d'essayer de rejoindre la Lothlórien lors d'un long périple. Il lui faudra affronter les terrifiants périls de la Moria pour avertir les Elfes des dangers qui les guettent sur le chemin des Havres Gris."
 END
 
 CONTROLBAR:IdrialRevive
@@ -64314,7 +64314,7 @@ OBJECT:Elladan
 END
 
 CONTROLBAR:ElladanRecruit
-"Recrutez le fils d'Elrond et frère d'Elrohir.\n\nAu contraire de la plupart des Elfes de Fondcombe, les fils d'Elrond prennent une part active dans les évènements de la Terre du Milieu.\nIls ont affuté leurs talents guerriers au cours des siècles passés à parcourir les terres au delà du domaine de leur père pour traquer les sbires de Sauron.\nnlladan et Elrohir partagent le sang semi-elfique de leur père, c'est pourquoi ils seront eux aussi amenés à choisir entre la vie immortelle des Elfes, dont la race s'éteint en terre du Milieu, et celle des Hommes mortels, dont le peuple énergique étend peu à peu sa domination en cet Âge du monde."
+"Recrutez le fils d'Elrond et frère d'Elrohir.\n\nAu contraire de la plupart des Elfes d'Imladris, les fils d'Elrond prennent une part active dans les évènements de la Terre du Milieu.\nIls ont affuté leurs talents guerriers au cours des siècles passés à parcourir les terres au delà du domaine de leur père pour traquer les sbires de Sauron.\nnlladan et Elrohir partagent le sang semi-elfique de leur père, c'est pourquoi ils seront eux aussi amenés à choisir entre la vie immortelle des Elfes, dont la race s'éteint en terre du Milieu, et celle des Hommes mortels, dont le peuple énergique étend peu à peu sa domination en cet Âge du monde."
 END
 
 CONTROLBAR:ElladanRevive
@@ -64330,7 +64330,7 @@ OBJECT:Elrohir
 END
 
 CONTROLBAR:ElrohirRecruit
-"Recrutez le fils d'Elrond et frère d'Elladan.\n\nAu contraire de la plupart des Elfes de Fondcombe, les fils d'Elrond prennent une part active dans les évènements de la Terre du Milieu.\nIls ont affuté leurs talents guerriers au cours des siècles passés à parcourir les terres au delà du domaine de leur père pour traquer les sbires de Sauron.\nElladan et Elrohir partagent le sang semi-elfique de leur père, c'est pourquoi ils seront eux aussi amenés à choisir entre la vie immortelle des Elfes, dont la race s'éteint en terre du Milieu, et celle des Hommes mortels, dont le peuple énergique étend peu à peu sa domination en cet Âge du monde."
+"Recrutez le fils d'Elrond et frère d'Elladan.\n\nAu contraire de la plupart des Elfes d'Imladris, les fils d'Elrond prennent une part active dans les évènements de la Terre du Milieu.\nIls ont affuté leurs talents guerriers au cours des siècles passés à parcourir les terres au delà du domaine de leur père pour traquer les sbires de Sauron.\nElladan et Elrohir partagent le sang semi-elfique de leur père, c'est pourquoi ils seront eux aussi amenés à choisir entre la vie immortelle des Elfes, dont la race s'éteint en terre du Milieu, et celle des Hommes mortels, dont le peuple énergique étend peu à peu sa domination en cet Âge du monde."
 END
 
 CONTROLBAR:ElrohirRevive
@@ -68656,19 +68656,19 @@ BANNERUI:GreyCompanyMembers
 END
 
 CONTROLBAR:LW_Unit_RivendellGlaivemenHorde
-"Bataillon d'Hoplites de Fondcombe"
+"Bataillon d'Hoplites d'Imladris"
 END
 
 CONTROLBAR:LW_Unit_RivendellGlaivemenHordePlural
-"Bataillons d'Hoplites de Fondcombe"
+"Bataillons d'Hoplites d'Imladris"
 END
 
 CONTROLBAR:LW_Unit_RivendellGlaivemenComboHorde
-"Combinaison de Bataillon d'Hoplites de Fondcombe"
+"Combinaison de Bataillon d'Hoplites d'Imladris"
 END
 
 CONTROLBAR:LW_Unit_RivendellGlaivemenComboHordePlural
-"Combinaison de Bataillons d'Hoplites de Fondcombe"
+"Combinaison de Bataillons d'Hoplites d'Imladris"
 END
 
 CONTROLBAR:LW_ToolTipBuild_RivendellGlaivemenHorde
@@ -68680,39 +68680,39 @@ CONTROLBAR:LW_ToolTip_RivendellGlaivemenHorde
 END
 
 BANNERUI:RivendellGlaiveman
-"Hoplite de Fondcombe"
+"Hoplite d'Imladris"
 END
 
 BANNERUI:RivendellGlaivemen
-"Hoplites de Fondcombe"
+"Hoplites d'Imladris"
 END
 
 CONTROLBAR:LW_Unit_RivendellSwordmenHorde
-"Bataillon d'Epéistes de Fondcombe"
+"Bataillon d'Epéistes d'Imladris"
 END
 
 CONTROLBAR:LW_Unit_RivendellSwordmenHordePlural
-"Bataillons d'Epéistes de Fondcombe"
+"Bataillons d'Epéistes d'Imladris"
 END
 
 CONTROLBAR:LW_Unit_RivendellSwordmenDoubleHorde
-"Combinaison de Bataillon d'Epéistes de Fondcombe"
+"Combinaison de Bataillon d'Epéistes d'Imladris"
 END
 
 CONTROLBAR:LW_Unit_RivendellSwordmenGlaivemenHorde
-"Bataillon d'Hoplites de Fondcombe - Epéistes de Fondcombe"
+"Bataillon d'Hoplites d'Imladris - Epéistes d'Imladris"
 END
 
 CONTROLBAR:LW_Unit_RivendellSwordmenGlaivemenHordePlural
-"Bataillons d'Hoplites de Fondcombe - Epéistes de Fondcombe"
+"Bataillons d'Hoplites d'Imladris - Epéistes d'Imladris"
 END
 
 CONTROLBAR:LW_Unit_RivendellSwordmenArcherHorde
-"Bataillon d'Archers de Fondcombe - Epéistes de Fondcombe"
+"Bataillon d'Archers d'Imladris - Epéistes d'Imladris"
 END
 
 CONTROLBAR:LW_Unit_RivendellSwordmenArcherHordePlural
-"Bataillon d'Archers de Fondcombe - Epéistes de Fondcombe"
+"Bataillon d'Archers d'Imladris - Epéistes d'Imladris"
 END
 
 CONTROLBAR:LW_ToolTip_RivendellSwordmenArcherHorde
@@ -68724,15 +68724,15 @@ CONTROLBAR:LW_ToolTip_RivendellSwordmenGlaivemenHorde
 END
 
 CONTROLBAR:LW_Unit_RivendellSwordmenDoubleHordePlural
-"Combinaison de Bataillons d'Epéistes de Fondcombe"
+"Combinaison de Bataillons d'Epéistes d'Imladris"
 END
 
 CONTROLBAR:LW_Unit_RivendellGlaivemenArcherHorde
-"Bataillon d'Archers de Fondcombe - Hoplites de Fondcombe"
+"Bataillon d'Archers d'Imladris - Hoplites d'Imladris"
 END
 
 CONTROLBAR:LW_Unit_RivendellGlaivemenArcherHordePlural
-"Bataillon d'Archers de Fondcombe - Hoplites de Fondcombe"
+"Bataillon d'Archers d'Imladris - Hoplites d'Imladris"
 END
 
 CONTROLBAR:LW_ToolTip_RivendellGlaivemenArcherHorde
@@ -68748,27 +68748,27 @@ CONTROLBAR:LW_ToolTip_RivendellSwordmenHorde
 END
 
 BANNERUI:RivendellSwordman
-"Epéiste de Fondcombe"
+"Epéiste d'Imladris"
 END
 
 BANNERUI:RivendellSwordmen
-"Epéistes de Fondcombe"
+"Epéistes d'Imladris"
 END
 
 CONTROLBAR:LW_Unit_RivendellArcherHorde
-"Bataillon d'Archers de Fondcombe"
+"Bataillon d'Archers d'Imladris"
 END
 
 CONTROLBAR:LW_Unit_RivendellArcherHordePlural
-"Bataillons d'Archers de Fondcombe"
+"Bataillons d'Archers d'Imladris"
 END
 
 CONTROLBAR:LW_Unit_RivendellArcherComboHorde
-"Combinaison de Bataillon d'Archers de Fondcombe"
+"Combinaison de Bataillon d'Archers d'Imladris"
 END
 
 CONTROLBAR:LW_Unit_RivendellArcherComboHordePlural
-"Combinaison de Bataillons d'Archers de Fondcombe"
+"Combinaison de Bataillons d'Archers d'Imladris"
 END
 
 CONTROLBAR:LW_ToolTipBuild_RivendellArcherHorde
@@ -68780,19 +68780,19 @@ CONTROLBAR:LW_ToolTip_RivendellArcherHorde
 END
 
 BANNERUI:RivendellArcher
-"Archer de Fondcombe"
+"Archer d'Imladris"
 END
 
 BANNERUI:RivendellArchers
-"Archers de Fondcombe"
+"Archers d'Imladris"
 END
 
 CONTROLBAR:LW_Unit_RivendellKnightHorde
-"Bataillon de Chevaliers de Fondcombe"
+"Bataillon de Chevaliers d'Imladris"
 END
 
 CONTROLBAR:LW_Unit_RivendellKnightHordePlural
-"Bataillons de Chevaliers de Fondcombe"
+"Bataillons de Chevaliers d'Imladris"
 END
 
 CONTROLBAR:LW_ToolTipBuild_RivendellKnightHorde
@@ -68804,11 +68804,11 @@ CONTROLBAR:LW_ToolTip_RivendellKnightHorde
 END
 
 BANNERUI:RivendellKnight
-"Chevalier de Fondcombe"
+"Chevalier d'Imladris"
 END
 
 BANNERUI:RivendellKnights
-"Chevaliers de Fondcombe"
+"Chevaliers d'Imladris"
 END
 
 CONTROLBAR:LW_Unit_NoldorVeteransHorde
@@ -68901,19 +68901,19 @@ CONTROLBAR:SongForVictory
 END
 
 CONTROLBAR:ToolTipSongForVictoryGuards
-"Les Guerriers chevronnés chantent une chanson des victoires du passées \n Les Guardes de Fondcombe gagnent temporairement +33% Dégâts\nClic gauche pour activer"
+"Les Guerriers chevronnés chantent une chanson des victoires du passées \n Les Guardes d'Imladris gagnent temporairement +33% Dégâts\nClic gauche pour activer"
 END
 
 CONTROLBAR:ToolTipSongForVictoryGlaivesmen
-"Les Guerriers chevronnés chantent une chanson des victoires du passées \nLes Hoplites de Fondcombe gagnent temporairement +33% Armure\nClic gauche pour activer"
+"Les Guerriers chevronnés chantent une chanson des victoires du passées \nLes Hoplites d'Imladris gagnent temporairement +33% Armure\nClic gauche pour activer"
 END
 
 CONTROLBAR:ToolTipSongForVictoryArchers
-"Les Guerriers chevronnés chantent une chanson des victoires du passées \nLes Archers de Fondcombe gagnent temporairement une Vitesse d'Attaque accrue\nClic gauche pour activer"
+"Les Guerriers chevronnés chantent une chanson des victoires du passées \nLes Archers d'Imladris gagnent temporairement une Vitesse d'Attaque accrue\nClic gauche pour activer"
 END
 
 CONTROLBAR:ToolTipSongForVictoryKnights
-"Les Guerriers chevronnés chantent une chanson des victoires du passées \nLes Chevaliers de Fondcombe gagnent temporairement une décélération de renversement réduite\n Clic gauche pour activer"
+"Les Guerriers chevronnés chantent une chanson des victoires du passées \nLes Chevaliers d'Imladris gagnent temporairement une décélération de renversement réduite\n Clic gauche pour activer"
 END
 
 CONTROLBAR:EyesoftheCrow
