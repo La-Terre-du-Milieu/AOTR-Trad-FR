@@ -14901,7 +14901,7 @@ CONTROLBAR:PosternGateUpgrade
 "Construire amélioration &Poterne"
 END
 CONTROLBAR:FlagsUpgrade
-"Construire amélioration Etend&ars"
+"Construire amélioration Étend&ars"
 END
 CONTROLBAR:ToolTipFlagsUpgrade
 "Procure un bonus de +50% armure et +125% dégâts aux alliés proches"
@@ -14935,7 +14935,7 @@ CONTROLBAR:TooltipBuildForbiddenPoolArchers
 END
 
 CONTROLBAR:TooltipBuildForbiddenPoolKnights
-"Requiert : Lac Interdit niveau 3\n Gondor's cavalry unit\n Forts contre les épéistes"
+"Requiert : Lac Interdit niveau 3\n Unité de cavalerie du Gondor\n Forts contre les épéistes"
 END
 
 CONTROLBAR:ConstructGondorArcheryRangeLevel2Upgrade
@@ -22884,7 +22884,7 @@ End
 
 BANNERUI:LamedonClansman
 // Singluar name of the Gondor Soldier category displayed in the army summary for WotR
-"Lamedon Clansman"
+"Guerrier des Clans de Lamedon"
 End
 
 BANNERUI:Lamedon Clansmen
@@ -28839,11 +28839,11 @@ CONTROLBAR:LW_Unit_LamedonClansmenHordePlural
 END
 
 CONTROLBAR:LW_ToolTipBuild_LamedonClansmenHorde
-"Type d'unité : infanterie des fiefs\n Forts contre les piquiers\n "
+"Type d'unité : Infanterie des fiefs\n Forts contre les piquiers\n "
 END
 
 CONTROLBAR:LW_ToolTip_LamedonClansmenHorde
-"\n Type d'unité : infanterie des fiefs\n Forts contre les piquiers"
+"\n Type d'unité : Infanterie des fiefs\n Forts contre les piquiers"
 END
 
 CONTROLBAR:LW_Unit_BlackrootValeArcherHorde
@@ -28855,11 +28855,11 @@ CONTROLBAR:LW_Unit_BlackrootValeArcherHordePlural
 END
 
 CONTROLBAR:LW_ToolTipBuild_BlackrootValeArcherHorde
-"Type d'unité : archers des fiefs\n Forts à distance\n "
+"Type d'unité : Archers des fiefs\n Forts à distance\n "
 END
 
 CONTROLBAR:LW_ToolTip_BlackrootValeArcherHorde
-"\n Type d'unité : archers des fiefs\n Forts à distance"
+"\n Type d'unité : Archers des fiefs\n Forts à distance"
 END
 
 CONTROLBAR:LW_Unit_GondorFighterHorde
@@ -33838,7 +33838,7 @@ CONTROLBAR:GondorDenethorRecruit
 END
 
 CONTROLBAR:GondorDenethorRevive
-"Ramener à la vie l'Intendant déchu du Gondor"
+"Ramener à la vie l'Intendant du Gondor"
 END
 
 CONTROLBAR:GondorDenethorHotkey
@@ -55030,7 +55030,7 @@ END
 
 CONTROLBAR:ToolTipHeal
 //"Les blessures se referment, les fractures se réduisent et les guerriers harassés retrouvent la force de combattre : soigne les unités et remplace 1 mort par bataillon\n\nClic gauche sur la cible"
-"Les blessures se referment, les fractures se réduisent et les guerriers harassés retrouvent la force de combattre : soigne les unités et remplace 1 mort par bataillon\n\nClic gauche sur la cible"
+"Les blessures se referment, les fractures se réduisent et les guerriers harassés retrouvent la force de combattre : soigne partiellment les unités et remplace 1 mort par bataillon\n\nClic gauche sur la cible"
 END
 
 CONTROLBAR:TooltipRebuild
@@ -61302,11 +61302,11 @@ CONTROLBAR:SummonEagleAlliesGondor
 END
 
 CONTROLBAR:SummonElessar
-"The Return of the King"
+"Le Retour du Roi"
 END
 
 CONTROLBAR:TooltipSummonElessar
-"Summons King Elessar accompanied by his Royal Guards \n His guards are temporary, but the King lasts until killed \n Modifier Type: Buff \n Nearby units gain +50% Armor, immunity to fear \n and knockback and trample resistance for a brief time \nLeft click on icon then left click on target area"
+"Invoque le Roi Elessar accompagné de sa Garde Royale \n Ses gardes sont temporaires, mais le Roi persiste jusqu'à sa mort \n Type d'Action : Bonus \n Les unités proches gagnent +50% Armure, immunité à la peur \n et au recul et une résistance au piétinement pour un court instant \nClic gauche sur l'icône puis clic gauche sur la zone ciblée"
 END
 
 CONTROLBAR:SummonSpawnDenethor
@@ -61322,11 +61322,11 @@ CONTROLBAR:SummonLossarnachAllies
 END
 
 CONTROLBAR:SwornAllegiance
-"Sworn Allegiance"
+"Serment d'Allégeance"
 END
 
 CONTROLBAR:TooltipSwornAllegiance
-"Can be cast on a barracks or an archery range to temporarily decrease recruitment time for Fiefdom troops \n The troops come equipped with Armaments of the White City \n Left click on icon then left click on target building"
+"Peut être utilisé sur une Caserne ou une Archerie pour réduire le temps de recrutement des unités des fiefs \n Les unités viennent équipées avec de l'Armement de la Cité Blanche \n Clic gauche sur l'icône puis clic gauche sur le bâtiment ciblé"
 END
 
 CONTROLBAR:TooltipSummonDolAmrothAllies
@@ -61334,7 +61334,7 @@ CONTROLBAR:TooltipSummonDolAmrothAllies
 END
 
 CONTROLBAR:TooltipSummonDolAmrothAllies_WOTR
-"Summons a Dol Amroth Citadel \n Limited to 2 \n Once used, passively unlocks Men-at-Arms and Swan Knights \n Left click on icon then left click on target area"
+"Invoque une citadelle de Dol Amroth \n Limité à 2 \n Une fois utilisé, débloque de façon permanente les Hommes d'Armes et les Chevaliers de Dol Amroth \n Clic gauche sur l'icône puis clic gauche sur la zone ciblée"
 END
 
 CONTROLBAR:TooltipSummonEagleAlliesGondor
@@ -61346,7 +61346,7 @@ CONTROLBAR:TooltipSummonSpawnDenethor
 END
 
 CONTROLBAR:TooltipSummonSpawnTrebuchet
-"Summons a stationary trebuchet onto the battlefield \n Left click on icon then left click on target area"
+"Invoque un trébuchet fixe sur le champ de bataille \n Clic gauche sur l'icône puis clic gauche sur la zone ciblée"
 END
 
 CONTROLBAR:TooltipSummonLossarnachAllies
@@ -61383,7 +61383,7 @@ CONTROLBAR:GreatGoblinSwarm
 END
 
 CONTROLBAR:ToolTipGreatGoblinSwarm
-"Requiert : niveau 10\n Le Grand Gobelin plante un totem et peut y recruter des hordes d'habitants de son royaume sordide.\n\nLes habitants de Gobelinville sont des créatures dégénérées affligées de toutes sortes de mutations et de difformités. Ces Gobelins sont défigurés, contaminés et couverts de cicatrices et d'ulcères. Leur sinistre apparence correspond parfaitement à leur nature malveillante, cruelle et violente.\nS'ils sont individuellement faibles, ils sont capables de faire ployer l'ennemi sous le poids de leurs effectifs considérables.\n\nClic gauche sur la position cible"
+"Requiert : Niveau 10\n Le Grand Gobelin plante un totem et peut y recruter des hordes d'habitants de son royaume sordide.\n\nLes habitants de Gobelinville sont des créatures dégénérées affligées de toutes sortes de mutations et de difformités. Ces Gobelins sont défigurés, contaminés et couverts de cicatrices et d'ulcères. Leur sinistre apparence correspond parfaitement à leur nature malveillante, cruelle et violente.\nS'ils sont individuellement faibles, ils sont capables de faire ployer l'ennemi sous le poids de leurs effectifs considérables.\n\nClic gauche sur la position cible"
 END
 
 CONTROLBAR:GreatGoblinSwarm2
@@ -67078,27 +67078,27 @@ BANNERUI:WildBodyGuards
 END
 
 CONTROLBAR:LW_Unit_WildFireDrake
-"Fire Wyrm"
+"Wyrm de feu"
 END
 
 CONTROLBAR:LW_Unit_WildFireDrakePlural
-"Fire Wyrms"
+"Wyrms de feu"
 END
 
 CONTROLBAR:LW_ToolTipBuild_WildFireDrake
-"Unit Type: Elite Cavalry\nStrong vs. Swordsmen and Cavalry\n"
+"Type d'unité : Cavalerie d'Élite\nFort contre Épéiste et Cavalerie\n"
 END
 
 CONTROLBAR:LW_ToolTip_WildFireDrake
-"Unit Type: Elite Cavalry\nStrong vs. Swordsmen and Cavalry\n"
+"Type d'unité : Cavalerie d'Élite\nFort contre Épéiste et Cavalerie\n"
 END
 
 CONTROLBAR:LW_Unit_WildGiantBat
-"Giant Bat"
+"Chauve-souris géante"
 END
 
 CONTROLBAR:LW_Unit_WildGiantBatPlural
-"Giant Bats"
+"Chauves-souris géantes"
 END
 
 CONTROLBAR:LW_ToolTipBuild_WildGiantBat
@@ -67118,11 +67118,11 @@ CONTROLBAR:LW_Hero_Galadriel
 END
 
 BANNERUI:LamedonClansman
-"Lamedon Clansman"
+"Guerrier des Clans de Lamedon"
 END
 
 BANNERUI:LamedonClansmen
-"Lamedon Clansmen"
+"Guerriers des Clans de Lamedon"
 END
 
 BANNERUI:GondorPinnathGelinRider
@@ -68388,19 +68388,20 @@ CONTROLBAR:DwarvenOinHotkey
 END
 
 CONTROLBAR:ForlongLeadership
-"Lord of Lossarnach"
+"Seigneur de Lossarnach"
 END
 
 CONTROLBAR:TooltipForlongLeadership
-"Modifier Type: Leadership \n Fiefdom troops near Forlong earn experience 33% faster \n and become immune to Fear \n Stacks with Buffs and Spells \n Passive ability"
+"Type d'Action : Charisme \n Fiefdom troops near Forlong earn experience 33% faster \n and become immune to Fear \n Stacks with Buffs and Spells \n Passive ability"
 END
 
 CONTROLBAR:ForlongVitality
-"Vitalit&y"
+//&y
+"Vitalité"
 END
 
 CONTROLBAR:TooltipForlongVitality
-"Requires Level 3 \n Forlong temporarily gains\n+50% Damage and +25% Speed\n Left click to activate"
+"Requiert : Niveau 3 \n Forlong gagne temporairement\n+50% Dégâts et +25% Vitesse\n Clic gauche pour activer"
 END
 
 CONTROLBAR:ForlongTrueHeartTrueFriend
