@@ -16415,16 +16415,16 @@ CONTROLBAR:MordorWitchKingOnFellBeastHotkey
 END
 
 CONTROLBAR:ToolTipBuildNazgulOnFellBeast
-"Recruit a Ombre Ailée"					
+"Recruter une Ombre Ailée"					
 END
 CONTROLBAR:MordorFellBeastRecruit			
-"Recruit a Ombre ailée."					
+"Recruter une Ombre Ailée."					
 END
 CONTROLBAR:MordorFellBeastRevive			
-"Rappelez à la vie Ombre Ailée"						
+"Rappelez à la vie l'Ombre Ailée"						
 END
 CONTROLBAR:MordorFellBeastHotkey			
-"Ombre ailée"						
+"Ombre Ailée"						
 END
 CONTROLBAR:MordorMouthofSauronHotkey
 "La Bouche de Sauron"
@@ -16577,10 +16577,10 @@ CONTROLBAR:ToolTipBuildIsengardExplosiveMine
 END
 
 CONTROLBAR:ToolTipBuildIsengardBannerCarrier
-"Requiert : Armurerie niveau 2\n Increases a horde au niveau 2"
+"Requiert : Armurerie niveau 2\n Fait passer unu horde au niveau 2"
 END
 CONTROLBAR:ToolTipBuildIsengardForgedBladesPorter
-"Increases damage"
+"Augmente les dégâts"
 END
 CONTROLBAR:ToolTipBuildIsengardHeavyArmorPorter
 "+100% points de vie"
@@ -16620,7 +16620,7 @@ CONTROLBAR:IsengardSarumanRevive
 END
 
 CONTROLBAR:IsengardSarumanHotkey
-"Saruman"
+"Saroumane"
 END
 
 // ENT UNITS
@@ -16646,15 +16646,15 @@ CONTROLBAR:ToolTipBuildEnt
 END
 
 CONTROLBAR:ToolTipBuildEntFir
-"Crée Ent sapin"
+"Crée un Ent sapin"
 END
 
 CONTROLBAR:ToolTipBuildEntAsh
-"Crée Ent frêne"
+"Crée un Ent frêne"
 END
 
 CONTROLBAR:ToolTipBuildEntBirch
-"Crée Ent bouleau"
+"Crée un Ent bouleau"
 END
 
 CONTROLBAR:KickAndPunch
@@ -16674,21 +16674,21 @@ CONTROLBAR:ToolTipThrowRocks
 END
 
 CONTROLBAR:ToolTipThrowRocksRank3
-"Requires Rank 3 \n Switch to rock throwing mode"
+"Requiert : Niveau 3 \n Passer en mode lancer de rochers"
 END
 
 
 // ELVEN UNITS
 CONTROLBAR:ToolTipBuildElvenWarriorHorde
-"Requiert : Archerie niveau 2\n Skilled with Bow and Sword"
+"Requiert : Archerie niveau 2\n Forts à l'Arc et à l'Épée"
 END
 
 CONTROLBAR:ToolTipToggleEMirkwoodArcherLineToAmbushFormation
-"Stealth, -50% armure"
+"Furtivité, -50% Armure"
 END
 
 CONTROLBAR:ToolTipToggleEMirkwoodArcherAmbushToLineFormation
-"No bonus"
+"Pas de bonus"
 END
 
 //
@@ -16720,7 +16720,8 @@ CONTROLBAR:FireArrowUpgrade
 END
 
 CONTROLBAR:BodkinArrowUpgrade
-"Bodkin Arro&ws"
+//&w
+"Flèches Bodkin"
 END
 
 CONTROLBAR:ArnorFireArrowUpgrade
@@ -16748,7 +16749,7 @@ CONTROLBAR:FireWitchKingMorgulBlade
 END
 
 CONTROLBAR:ToolTipMorgulBlade
-"Attaque empoisonnée\n\nClic gauche sur la cible"
+"Attaque empoisonnée\n\nClic gauche sur l'icône puis clic gauche sur la cible"
 END
 
 CONTROLBAR:ShadeChomp
@@ -16821,7 +16822,7 @@ CONTROLBAR:ToolTipBuildGondorArcher
 END
 
 CONTROLBAR:ConstructGondorGondorFighterHorde
-"Unit Fighters de l'Anórien"
+"Unite de Combattants de l'Anórien"
 END
 
 CONTROLBAR:ToolTipBuildGondorCavalry
@@ -16833,7 +16834,7 @@ CONTROLBAR:ToolTipBuildGondorManAtArms
 END
 
 CONTROLBAR:ToolTipFireMordorOliphantKnockbackAttack
-"Assomme les ennemis"
+"Renverse les ennemis"
 END
 
 CONTROLBAR:ToolTipTrollFindRock
@@ -16982,15 +16983,15 @@ CONTROLBAR:TooltipAthelas
 END
 
 CONTROLBAR:ElessarAthelas
-"Ha&nds of the King"
+"Mai&ns du Roi"
 END
 
 CONTROLBAR:TooltipElessarAthelas
-"Heals nearby friendly Heroes and strengthens them by granting them \n +33% armor for a short time\n Left click to activate"
+"Soigne les Héros alliés et leur fournit +33% Armure pour une courte durée\n Clic gauche pour activer"
 END
 
 CONTROLBAR:ToolTipElendil
-"Requiert : niveau 6\n Dans sa rage, l'évocation du roi du Gondor et de l'Arnor fait fuir les ennemis proches.\n\nClic gauche pour activer"
+"Requiert : Niveau 6\n Dans sa rage, l'évocation du Roi du Gondor et de l'Arnor fait fuir les ennemis proches.\n\nClic gauche pour activer"
 END
 
 CONTROLBAR:Elendil
@@ -17006,19 +17007,20 @@ CONTROLBAR:ElessarLeadership
 END
 
 CONTROLBAR:ElessarOathbreaker
-"Fulfil&l Your Oath!"
+//&l
+"Honorez votre Serment !"
 END
 
 CONTROLBAR:ToolTipElessarOathbreaker
-"Summons an army of Oathbreakers that will kill and terrify anything in its path \n Left click icon then left click on target"
+"Invoque une armée de Parjures qui tueront et terrifieront tout sur leur passage \n Clic gauche sur l'icône puis clic gauche sur la cible"
 END
 
 CONTROLBAR:Oathbreakers
-"Accomplissez votre Serment"
+"Honorez votre Serment"
 END
 
 CONTROLBAR:ToolTipOathbreakers
-"Requiert : niveau 10\n Aragorn invoque un groupe de Parjures de l'Armée des Morts, des félons maudits par Isildur.\n\nClic gauche sur la cible"
+"Requiert : Niveau 10\n Aragorn invoque un groupe de Parjures de l'Armée des Morts, des félons maudits par Isildur.\n\nClic gauche sur la cible"
 END
 
 CONTROLBAR:HawkStrike
@@ -17026,11 +17028,11 @@ CONTROLBAR:HawkStrike
 END
 
 CONTROLBAR:FellowshipHawkStrike
-"Twin Ar&rows"
+//&r
+"Doubles Flèches"
 END
 
 CONTROLBAR:ToolTipHawkStrike
-//"Double-arrow attack\n\nClic gauche sur la cible"
 "Legolas tire deux puissantes flèches en même temps.\n\nClic gauche sur la cible"
 END
 
@@ -17043,16 +17045,15 @@ CONTROLBAR:ArrowWind
 END
 
 CONTROLBAR:ToolTipArrowWind
-"Requiert : niveau 7\n Legolas ordonne à ses troupes camouflées une puissante volée de flèches qui s'abat sur une zone.\n\nClic gauche sur la zone cible"
+"Requiert : Niveau 7\n Legolas ordonne à ses troupes camouflées une puissante volée de flèches qui s'abat sur une zone.\n\nClic gauche sur la zone cible"
 END
 
 CONTROLBAR:TrainArchers
 "Entraînement des Archers"
 END
 
-
 CONTROLBAR:TrainArchersBrand
-"King's Favor"
+"Faveur du Roi"
 END
 
 CONTROLBAR:MonsterSlayer
@@ -17100,7 +17101,7 @@ CONTROLBAR:HorseLordLeadership
 END
 
 CONTROLBAR:ToolTipGandalfLeadership
-"Requiert : niveau 4\n Les alliés proches de Gandalf gagnent +50% dégâts, +50% armure, et gagnent de l'expérience deux fois plus rapidement.\n\n Capacité passive       Ne peut pas s'utiliser avec d'autres bonus"
+"Requiert : Niveau 4\n Les alliés proches de Gandalf gagnent +50% dégâts, +50% armure, et gagnent de l'expérience deux fois plus rapidement.\n\n Capacité passive       Ne peut pas s'utiliser avec d'autres bonus"
 END
 
 CONTROLBAR:ToolTipInspiringPresence
@@ -17112,7 +17113,7 @@ CONTROLBAR:DwarvenGrudge
 END
 
 CONTROLBAR:DwarvenGrudgeDescription
-"Recovers 50% health instead of dying"
+"Recouvre 50% de santé au lieu de mourir"
 END
 
 CONTROLBAR:Pillage
@@ -17120,7 +17121,7 @@ CONTROLBAR:Pillage
 END
 
 CONTROLBAR:OutlawLeadership
-"Outlaw Leadership"
+"Charisme Hors-la-loi"
 END
 
 CONTROLBAR:ToolTipToggleGate
@@ -17128,15 +17129,15 @@ CONTROLBAR:ToolTipToggleGate
 END
 
 CONTROLBAR:ForGondor
-"For Gondor"
+"Pour le Gondor"
 END
 
 CONTROLBAR:ToolTipForGondor
-"Requiert : niveau 4\n Les alliés proches de Boromir gagnent +50% dégâts, +50% armure, et gagnent de l'expérience deux fois plus rapidement.\n\n Capacité passive       Ne peut pas s'utiliser avec d'autres bonus"
+"Requiert : Niveau 4\n Les alliés proches de Boromir gagnent +50% dégâts, +50% armure, et gagnent de l'expérience deux fois plus rapidement.\n\n Capacité passive \n Ne peut pas s'utiliser avec d'autres bonus"
 END
 
 CONTROLBAR:ToolTipWarSpeech
-"Les alliés proches de Théoden gagnent +50% dégâts, +50% armure, et gagnent de l'expérience deux fois plus rapidement.\n\n Capacité passive       Ne peut pas s'utiliser avec d'autres bonus"
+"Les alliés proches de Théoden gagnent +50% dégâts, +50% armure, et gagnent de l'expérience deux fois plus rapidement.\n\n Capacité passive \n Ne peut pas s'utiliser avec d'autres bonus"
 END
 
 CONTROLBAR:LastStand
@@ -17144,7 +17145,7 @@ CONTROLBAR:LastStand
 END
 
 CONTROLBAR:ToolTipLastStand
-"Will continue to fight after health is depleted"
+"Continuera de se battre après que la santé soit épuisée"
 END
 
 CONTROLBAR:GenericMountTooltip
@@ -17152,19 +17153,19 @@ CONTROLBAR:GenericMountTooltip
 END
 
 CONTROLBAR:ToolTipSummonEntAllies
-"Summons Ents.\n\nClic gauche sur une zone praticable"
+"Invoque des Ents\n\nClic gauche sur une zone praticable"
 END
 
 CONTROLBAR:KingsFavor
-"King's Favor"
+"Faveur du Roi"
 END
 
 CONTROLBAR:DainKingsFavor
-"Migh&ty Veteran"
+"Vé&téran puissant"
 END
 
 CONTROLBAR:GloriousCharge
-"Glorious Charge"
+"Charge Glorieuse"
 END
 
 CONTROLBAR:TheodenMount
@@ -17173,60 +17174,62 @@ END
 
 CONTROLBAR:ThranduilNewMount
 //"Elvenking (&M)"
-"Elvenking"
+"Roi Elfe"
 END
 
 CONTROLBAR:ThranduilNewMountTooltip
 //"Passive: Provides +50% armor to nearby units \n Activate: Left click to switch between \n mounted on Elk and on foot"
-"Modifier Type: Leadership \n Allies near Thranduil gain +50% Armor \n Stacks with Buffs and Spells"
+"Type d'Action : Charisme \n Les alliés proches de Thranduil gagnent +50% Armure \n Se cumule avec les Bonus et les Sorts"
 END
 
 CONTROLBAR:ToolTipThranduilFavor_Campaign
-"Requires Level 7 \nGrants  Sindarin Armor to units in radius \n Sindarin Armor: grants an additional +20% armor to units \n Stacks with Leaderships, Buffs, and Spells \n \n Left click on icon then left click on target own units"
+"Requiert : Niveau 7 \nAccorde l'Armure Sindarine aux unités dans le rayon \n Armure Sindarine : fournit +20% d'Armure supplémentaire aux unités \n Se cumulte avec le Charisme, les Bonus et les Sorts \n\n Clic gauche sur l'icône puis clic gauche sur les unités ciblées"
 END
 
 CONTROLBAR:ToolTipThranduilFavor
-"Requires Level 7 \nThranduil receives his silver armor,\npermanently gaining +50% armor\n\nGrants  Sindarin Armor to units in radius \n Sindarin Armor: grants an additional +20% armor to units \n Stacks with Leaderships, Buffs, and Spells \n \n Left click on icon then left click on target own units"
+"Requiert : Niveau 7 \nThranduil reçoit son armure d'argent et gagne de façon permanente +50% Armure\n\nAccorde l'Armure Sindarine aux unités dans le rayon \n Armure Sindarine : fournit +20% d'Armure supplémentaire aux unités \n Se cumulte avec le Charisme, les Bonus et les Sorts \n\n Clic gauche sur l'icône puis clic gauche sur les unités ciblées"
 END
 
 CONTROLBAR:ThranduilFavor
-"Love of Silver and Je&wels"
+//&w
+"Amour de l'Argent et des Bijoux"
 END
 
 CONTROLBAR:GlorfindelNewMount
-"&Mount Asfaloth / Dismount"
+"&Monter / Descendre d'Asfaloth"
 END
 
 CONTROLBAR:GlorfindelNewMountTooltip
-"Left click to switch between \n mounted on Asfaloth and on foot"
+//"Left click to switch between \n mounted on Asfaloth and on foot"
+"Clic gauche pour alterner entre monter sur Asfaloth et être à pieds"
 END
 
 CONTROLBAR:TheodenNewMount
-"&Mount Snowmane / Dismount"
+"&Monter / Descendre de Crins-de-Neige"
 END
 
 CONTROLBAR:TheodenNewMountTooltip
-"Left click to switch between \n mounted on Snowmane and on foot"
+"Clic gauche pour alterner entre monter sur Crins-de-Neige et être à pieds"
 END
 
 CONTROLBAR:EomerNewMount
-"&Mount Firefoot / Dismount"
+"&Monter / Descendre de Pied-Ardent"
 END
 
 CONTROLBAR:EomerNewMountTooltip
-"Left click to switch between \n mounted on Firefoot and on foot"
+"Clic gauche pour alterner entre monter sur Pied-Ardent et être à pieds"
 END
 
 CONTROLBAR:TheodredNewMount
-"&Mount Brego / Dismount"
+"&Monter / Descendre Brego"
 END
 
 CONTROLBAR:TheodredNewMountTooltip
-"Left click to switch between \n mounted on Brego and on foot"
+"Clic gauche pour alterner entre monter sur Brego et être à pieds"
 END
 
 CONTROLBAR:ToolTipTheodenMount
-"Clic gauche pour monter à cheval\n +25% armure vs. Footmen et la cavalerie\n -50% armure vs. Archers and Pikes\n 100% more damage from archers and spearmen"
+"Clic gauche pour monter à cheval\n +25% Armure contre les Fantassins et la Cavalerie\n -50% Armure contre les Archers et les Piquiers\n +100% dégâts reçus des Archers et des Piquiers"
 END
 
 CONTROLBAR:EowynMount
@@ -17234,35 +17237,37 @@ CONTROLBAR:EowynMount
 END
 
 CONTROLBAR:Leap
-"Leap Attack"
+"Attaque sautée"
 END
 
 CONTROLBAR:ToolTipLeap
-"Requiert : niveau 2\n Gimli jumps to a location causing area-effect damage.\n\nClic gauche sur la zone cible"
+"Requiert : Niveau 2\n Gimli effectue un saut à la position choisie infligeant des dégâtes de zone \n Clic gauche sur l'icône puis clic gauche sur la zone cible"
 END
 
 CONTROLBAR:FellowshipLeap
-"Nobody Tosses A D&warf"
+//&w
+"Personne ne lance un nain !"
 END
 
 CONTROLBAR:ToolTipFellowshipLeap
-"Requires Level 3 \n Gimli jumps to a location causing area-effect damage \n Left click icon then left click on target area"
+"Requiert Niveau 3 \n Gimli effectue un saut à la position choisie infligeant des dégâtes de zone \n Clic gauche sur l'icône puis clic gauche sur la zone cible"
 END
 
 CONTROLBAR:Leap_Summoned
-"Baru&k-Khazad!"
+"Baru&k-Khazad !"
 END
 
 CONTROLBAR:ToolTipLeap_Summoned
-"Gimli jumps to a location causing area-effect damage \n Left click icon then left click on target area"
+"Gimli effectue un saut à la position choisie infligeant des dégâtes de zone \n Clic gauche sur l'icône puis clic gauche sur la zone cible"
 END
 
 CONTROLBAR:AxeThrow
-"Axe Throw"
+//&T
+"Lancer de Hache"
 END
 
 CONTROLBAR:Slayer
-"Slayer"
+"Tueur"
 END
 
 CONTROLBAR:ToggleFaramirWeapons
@@ -17270,19 +17275,19 @@ CONTROLBAR:ToggleFaramirWeapons
 END
 
 CONTROLBAR:ToolTipToggleFaramirWeapons
-"Clic gauche pour changer entre l'arc et l'épée"
+"Clic gauche pour alterner entre l'arc et l'épée"
 END
 
 CONTROLBAR:ToolTipToggleGreyCompanyWeapons
-"Left click to toggle between bow and spear"
+"Clic gauche pour alterner entre l'arc et la lance"
 END
 
 CONTROLBAR:ToolTipToggleElfhelmWeapons
-"Left click to toggle between sword and bow"
+"Clic gauche pour alterner entre l'épée et l'arc"
 END
 
 CONTROLBAR:ToolTipToggleLegolasWeapons
-"Left click to toggle between bow and white knives"
+"Clic gauche pour alterner entre l'arc et les couteaux blancs"
 END
 
 CONTROLBAR:ToggleDamrodWeapons
@@ -17290,7 +17295,7 @@ CONTROLBAR:ToggleDamrodWeapons
 END
 
 CONTROLBAR:ToolTipToggleDamrodWeapons
-"Clic gauche pour changer entre l'arc et l'épée"
+"Clic gauche pour alterner entre l'arc et l'épée"
 END
 
 CONTROLBAR:SpecialPowerRallyRangers
@@ -17338,7 +17343,7 @@ CONTROLBAR:ToggleFormation
 END
 
 CONTROLBAR:ToggleSkirmishFormation
-"Skirmish Formation"
+"Formation d'escarmouche"
 END
 
 CONTROLBAR:ToolTipToggleSkirmishFormation
@@ -61295,7 +61300,7 @@ CONTROLBAR:SummonElessar
 END
 
 CONTROLBAR:TooltipSummonElessar
-"Invoque le Roi Elessar accompagné de sa Garde Royale \n Ses gardes sont temporaires, mais le Roi persiste jusqu'à sa mort \n Type d'Action : Bonus \n Les unités proches gagnent +50% Armure, immunité à la peur \n et au renversement et une résistance au piétinement pour un court instant \nClic gauche sur l'icône puis clic gauche sur la zone ciblée"
+"Invoque le Roi Elessar accompagné de sa Garde Royale \n Ses gardes sont temporaires, mais le Roi persiste jusqu'à sa mort \n Type d'Action : Bonus \n Les unités proches gagnent +50% Armure, immunité à la peur \n et au renversement et une résistance au piétinement pour un court instant \nClic gauche sur l'icône puis clic gauche sur la zone cible"
 END
 
 CONTROLBAR:SummonSpawnDenethor
@@ -61323,7 +61328,7 @@ CONTROLBAR:TooltipSummonDolAmrothAllies
 END
 
 CONTROLBAR:TooltipSummonDolAmrothAllies_WOTR
-"Invoque une citadelle de Dol Amroth \n Limité à 2 \n Une fois utilisé, débloque de façon permanente les Hommes d'Armes et les Chevaliers de Dol Amroth \n Clic gauche sur l'icône puis clic gauche sur la zone ciblée"
+"Invoque une citadelle de Dol Amroth \n Limité à 2 \n Une fois utilisé, débloque de façon permanente les Hommes d'Armes et les Chevaliers de Dol Amroth \n Clic gauche sur l'icône puis clic gauche sur la zone cible"
 END
 
 CONTROLBAR:TooltipSummonEagleAlliesGondor
@@ -61335,7 +61340,7 @@ CONTROLBAR:TooltipSummonSpawnDenethor
 END
 
 CONTROLBAR:TooltipSummonSpawnTrebuchet
-"Invoque un trébuchet fixe sur le champ de bataille \n Clic gauche sur l'icône puis clic gauche sur la zone ciblée"
+"Invoque un trébuchet fixe sur le champ de bataille \n Clic gauche sur l'icône puis clic gauche sur la zone cible"
 END
 
 CONTROLBAR:TooltipSummonLossarnachAllies
@@ -69966,7 +69971,7 @@ CONTROLBAR:HarbingerWitheringTouch
 END
 
 CONTROLBAR:ToolTipHarbingerWitheringTouch
-"Requiert : Niveau 3\nLes unités dans la zone subissent des Dégâts au fil du temps\nAffecte les unités alliées et ennemis\nLes Morts Réincarnés sont immunisés\nClic gauche sur l'icône puis clic gauche sur la zone ciblée"
+"Requiert : Niveau 3\nLes unités dans la zone subissent des Dégâts au fil du temps\nAffecte les unités alliées et ennemis\nLes Morts Réincarnés sont immunisés\nClic gauche sur l'icône puis clic gauche sur la zone cible"
 END
 
 OBJECT:GuldurBarricadeExpansion
@@ -70622,7 +70627,7 @@ CONTROLBAR:GwanthaurExpulsion
 END
 
 CONTROLBAR:ToolTipGwanthaurExpulsion
-"Invoque une vague de d'Ombres pour faire fuir l'ennemi\nClic gauche sur l'icône puis clic gauche sur la zone ciblée"
+"Invoque une vague de d'Ombres pour faire fuir l'ennemi\nClic gauche sur l'icône puis clic gauche sur la zone cible"
 END
 
 CONTROLBAR:GuldurCarnage
@@ -70638,7 +70643,7 @@ CONTROLBAR:GuldurMarsh
 End
 
 CONTROLBAR:ToolTipGuldurMarsh
-"Invoque un marais fétide \n Type de modification: Malus \n Toutes les unités dans la zone perdent le charisme et sont ralentis \n Clic gauche sur l'icône puis clic gauche sur la zone ciblée"
+"Invoque un marais fétide \n Type de modification: Malus \n Toutes les unités dans la zone perdent le charisme et sont ralentis \n Clic gauche sur l'icône puis clic gauche sur la zone cible"
 END
 
 CONTROLBAR:GuldurShadeDecoy
@@ -70686,7 +70691,7 @@ CONTROLBAR:GuldurBlackWarg
 END
 
 CONTROLBAR:ToolTipGuldurBlackWarg
-"Invoque deux hordes de Wargs Noir menés par leur Grand Alpha\nClic gauche sur l'icône puis clic gauche sur la zone ciblée"
+"Invoque deux hordes de Wargs Noir menés par leur Grand Alpha\nClic gauche sur l'icône puis clic gauche sur la zone cible"
 END
 
 OBJECT:BlackWarg
@@ -71900,11 +71905,11 @@ CONTROLBAR:SummonEotheodAllies
 End
 
 CONTROLBAR:ToolTipSummonEotheodAllies
-"Invoque une armée d'Eotheod commandée par Frumgar, fils de Frumgar\n Clic gauche sur l'icône puis clic gauche sur la zone ciblée"
+"Invoque une armée d'Eotheod commandée par Frumgar, fils de Frumgar\n Clic gauche sur l'icône puis clic gauche sur la zone cible"
 END
 
 CONTROLBAR:ToolTipSummonEotheodAllies_WOTR
-"Invoque une armée d'Eotheod\n Clic gauche sur l'icône puis clic gauche sur la zone ciblée"
+"Invoque une armée d'Eotheod\n Clic gauche sur l'icône puis clic gauche sur la zone cible"
 END
 
 //---------------------------------------------------------------------------
