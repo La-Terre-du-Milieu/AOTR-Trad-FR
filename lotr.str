@@ -16414,25 +16414,14 @@ CONTROLBAR:MordorWitchKingOnFellBeastHotkey
 "Le Roi-Sorcier"
 END
 
-
-
-//CONTROLBAR:MordorGothmogRecruit
-//"Recruit the Lieutenant of Minas Morgul"
-//END
-//CONTROLBAR:MordorGothmogRevive
-//"Rappeler Gothmog à la vie"
-//END
-//CONTROLBAR:MordorGothmogHotkey
-//"Gothmog"
-//END
-CONTROLBAR:ToolTipBuildNazgulOnFellBeast		
+CONTROLBAR:ToolTipBuildNazgulOnFellBeast
 "Recruit a Ombre Ailée"					
 END
 CONTROLBAR:MordorFellBeastRecruit			
 "Recruit a Ombre ailée."					
 END
 CONTROLBAR:MordorFellBeastRevive			
-"Rappelez  à la vie Ombre Ailée"						
+"Rappelez à la vie Ombre Ailée"						
 END
 CONTROLBAR:MordorFellBeastHotkey			
 "Ombre ailée"						
@@ -61306,7 +61295,7 @@ CONTROLBAR:SummonElessar
 END
 
 CONTROLBAR:TooltipSummonElessar
-"Invoque le Roi Elessar accompagné de sa Garde Royale \n Ses gardes sont temporaires, mais le Roi persiste jusqu'à sa mort \n Type d'Action : Bonus \n Les unités proches gagnent +50% Armure, immunité à la peur \n et au recul et une résistance au piétinement pour un court instant \nClic gauche sur l'icône puis clic gauche sur la zone ciblée"
+"Invoque le Roi Elessar accompagné de sa Garde Royale \n Ses gardes sont temporaires, mais le Roi persiste jusqu'à sa mort \n Type d'Action : Bonus \n Les unités proches gagnent +50% Armure, immunité à la peur \n et au renversement et une résistance au piétinement pour un court instant \nClic gauche sur l'icône puis clic gauche sur la zone ciblée"
 END
 
 CONTROLBAR:SummonSpawnDenethor
@@ -65077,7 +65066,7 @@ END
 
 CONTROLBAR:ToolTipToggleStanceHoldGroundDain
 //"Raccourci : G \n Units gain an increase to their armor, but a decrease to their attack damage \n They will not auto-acquire enemies"
-"Raccourci : G\nDáin utilise son marteau de guerre : il gagne +10% armure, mais perd -20% dégâts et -10% vitesse\Inflige des dégâts de recul"
+"Raccourci : G\nDáin utilise son marteau de guerre : il gagne +10% armure, mais perd -20% dégâts et -10% vitesse\Inflige des dégâts de renversement"
 END
 
 /////////////////////
@@ -69477,7 +69466,7 @@ CONTROLBAR:FellDetermination
 END
 
 CONTROLBAR:ToolTipFellDetermination
-"Requiert : Niveau 2 \n Les Berserkers de Gundabad gagnent brièvement \n +100% résistance au recul \n +33% Armure \nClic gauche pour activer"
+"Requiert : Niveau 2 \n Les Berserkers de Gundabad gagnent brièvement \n +100% résistance au renversement \n +33% Armure \nClic gauche pour activer"
 END
 
 CONTROLBAR:ConstructGuldurLumberMill
