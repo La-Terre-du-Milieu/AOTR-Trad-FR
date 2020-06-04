@@ -5760,7 +5760,7 @@ INI:FactionRohan
 END
 
 INI:FactionMirkwood
-"Greenwood"
+"Forêt Noire"
 END
 
 INI:FactionMordor
@@ -14673,6 +14673,11 @@ CONTROLBAR:ConstructMenStable
 END
 
 CONTROLBAR:ConstructMenWorkshop
+"Construire un Atelier de siège"
+END
+
+CONTROLBAR:ConstructRohanWorkshop
+//&k
 "Construire un Atelier de siège"
 END
 
@@ -53761,27 +53766,27 @@ BANNERUI:PluralGondorSpearmen
 END
 
 CONTROLBAR:LW_Unit_RohanPeasantHorde
-"Batailon de Paysans"
+"Bataillon de Paysans"
 END
 
 CONTROLBAR:LW_Unit_RohanPeasantHordePlural
-"Battailons de Paysans"
+"Bataillons de Paysans"
 END
 
 CONTROLBAR:LW_ToolTip_RohanPeasantHorde
-"\nType d'Unités: Infantrie Basique\nFort contre les Piquiers"
+"\nType d'Unité : Infanterie Basique\nFort contre les Piquiers"
 END
 
 CONTROLBAR:LW_ToolTipBuild_RohanPeasantHorde
-"Type d'Unités: Infantrie Basique\nFort contre les Piquiers\n"
+"Type d'Unité : Infanterie Basique\nFort contre les Piquiers"
 END
 
 CONTROLBAR:LW_Unit_RohanSpearmenHorde
-"Lanciers du Rohan Bataillon de "
+"Bataillon de Lanciers du Rohan"
 END
 
 CONTROLBAR:LW_Unit_RohanSpearmenHordePlural
-"Lanciers du Rohan Bataillons de "
+"Bataillons de Lanciers du Rohan"
 END
 
 BANNERUI:PluralRohanSpearmen
@@ -53789,35 +53794,35 @@ BANNERUI:PluralRohanSpearmen
 END
 
 BANNERUI:RohanArcher
-"Archer Paysan"
+"Archer du Rohan"
 END
 
 BANNERUI:PluralRohanArcher
-"Archers Paysans"
+"Archers du Rohan"
 END
 
 OBJECT:HordeRohanRohirrimSpearCombo
-"Yeomen Spearmen - Rohirrim Warrior Horde"
+"Horde de Lanciers du Rohan - Guerriers Rohirrim"
 END
 
 OBJECT:HordeRohanArcherCombo
-"Yeomen Spearmen - Yeomen Archers"
+"Lanciers du Rohan - Archers du Rohan"
 END
 
 CONTROLBAR:LW_Unit_RohanSArcherHorde
-"Yeomen Spearmen - Yeomen Archers Battalion"
+"Batallion de Lanciers du Rohan - Archers du Rohan"
 END
 
 CONTROLBAR:LW_Unit_RohanSArcherHordePlural
-"Yeomen Spearmen - Yeomen Archers Battalions"
+"Batallions de Lanciers du Rohan - Yeomen Archers"
 END
 
 CONTROLBAR:LW_ToolTip_RohanSArcherHorde
-"Unit Type: Basic Archer and Basic Pikemen\nStrong vs. Infantry, Cavalry and Heroes\n"
+"Type d'Unité : Archers basiques et Piquiers basiques\nForts contre l'infanterie, la Cavalerie et les Héros"
 END
-
+zbe
 OBJECT:HordeRohanArcherWCombo
-"Yeomen Archers - Westfolders"
+"Archers du Rohan - Westfolders"
 END
 
 CONTROLBAR:LW_Unit_RohanWArcherHorde
@@ -54135,11 +54140,11 @@ CONTROLBAR:ToolTipAngmarCatapultUpgrade
 END
 
 CONTROLBAR:GuldurCatapultUpgrade
-"&Replace Catapult"
+"&Remplace la Catapulte"
 END
 
 CONTROLBAR:ToolTipGuldurCatapultUpgrade
-"Rebuilds the Catapult on the platform"
+"Reconstruit la Catapulte sur la plateforme"
 END
 
 CONTROLBAR:ToolTipPurchaseTechnologyAngmarBasicTraining
@@ -65988,7 +65993,8 @@ CONTROLBAR:TooltipHallOfFireSpawnFingolfin
 END
 
 CONTROLBAR:HallOfFireSpawnCelebrimbor
-"The S&mith of Eregion"
+//&m
+"Le Forgeron d'Eregion"
 END
 
 CONTROLBAR:TooltipHallOfFireSpawnCelebrimbor
@@ -67537,19 +67543,20 @@ CONTROLBAR:RohanTheodredHotkey
 END
 
 OBJECT:RohanWestfolder
-"Westfolder"
+"Guerrier de Ouestfolde"
 END
 
 OBJECT:RohanWestfolderHorde
-"Westfolders"
+"Guerriers de Ouestfolde"
 END
 
 CONTROLBAR:ConstructRohanWestfolderHorde
-"&Westfolders"
+//&W
+"Guerriers de Ouestfolde"
 END
 
 CONTROLBAR:ToolTipBuildRohanWestfolderHorde
-"Requires Level 2 Barracks and Horn of the Westfold power to be used\n Strong vs. Pikemen\n Able to switch formation and combo horde with other Westfolders \n \n These hardy, disciplined men were some of the best-armed warriors in the Riddermark. Their shieldwall was feared amongst the enemies of the Westfold, particularly the men of Dunland."
+"Requiert : Caserne niveau 2 et le pouvoir Cor de Ouestfolde pour être utilisé\n Forts contre Piquiers\n Capables de changer de formation et de fusionner avec une autre horde de Guerriers de Ouestfolde \n\n Ces hommes très disciplinés comptaient parmi les meilleurs guerriers du Riddermark. Leur mur de bouclier était craint parmi les ennemies du Ouestfolde, particulièrement par les hommes du Pays de Dun."
 END
 
 CONTROLBAR:ToolTipToggleWestfolderBlockToLineFormationElite
