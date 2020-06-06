@@ -6331,7 +6331,7 @@ TOOLTIP:Squire
 END
 
 TOOLTIP:Knight
-"Knight"
+"Chevalier"
 END
 
 TOOLTIP:RoyalGuard
@@ -8543,11 +8543,11 @@ OBJECT:Deer
 END
 
 OBJECT:Rabbit
-"Rabbit"
+"Lapin"
 END
 
 OBJECT:Pig
-"Pig"
+"Cochon"
 END
 
 OBJECT:Bear
@@ -8555,23 +8555,23 @@ OBJECT:Bear
 END
 
 OBJECT:Elk
-"Elk"
+"Elan"
 END
 
 OBJECT:Chicken
-"Chicken"
+"Poulet"
 END
 
 OBJECT:Ruins
-"Ruins"
+"Ruines"
 END
 
 OBJECT:ElvenBridge
-"Elven Pont"
+"Pont elfique"
 END
 
 OBJECT:LavaBridge
-"Lava Pont"
+"Pont de lave"
 END
 
 // End hardcoded strings
@@ -8701,7 +8701,7 @@ OBJECT:ElvenMirkwoodArcher
 END
 
 OBJECT:ElvenWarriorArcherComboHorde
-"Elven Warriors and Archers"
+"Guerriers et archers elfes"
 END
 
 OBJECT:ElvenRivendellLancer
@@ -8723,7 +8723,7 @@ OBJECT:GondorWorker
 END
 
 OBJECT:RohanRohirrimBannerRider
-"Rohirrim Banner Rider"
+"Porteur d'étendard Rohirrim"
 END
 
 OBJECT:RohanBanner
@@ -8747,15 +8747,15 @@ OBJECT:RohanRohirrim
 END
 
 OBJECT:RohanSnowbournRider
-"Rider of Snowbourn"
+"Cavalier du Snowbourn"
 END
 
 OBJECT:HordeRohanSnowbournRider
-"Riders of Snowbourn"
+"Cavaliers du Snowbourn"
 END
 
 UPGRADE:UpgradeMundburgMasonry
-"Mundburg Masonry"
+"Maçonnerie de Mundburg"
 End
 
 CONTROLBAR:MundburgMasonry
@@ -8763,7 +8763,7 @@ CONTROLBAR:MundburgMasonry
 End
 
 CONTROLBAR:ToolTipMundburgMasonry
-"Structures gain a 50% boost in armor\n Player must maintain a Workshop to benefit from this upgrade"
+"Les structures gagnent un bonus de 50% d'armure\n Le joueur doit garder a minima un atelier s'il veut continuer à bénéficier de cette amélioration"
 End
 
 OBJECT:GondorTownsman
@@ -8815,7 +8815,7 @@ OBJECT:GondorBoromir
 END
 
 OBJECT:BoromirShield
-"Boromir's shield"
+"Bouclier de Boromir"
 END
 
 OBJECT:BilboandLindir
@@ -8999,11 +8999,11 @@ END
 
 
 OBJECT:IsengardSaruman
-"Saruman"
+"Saroumane"
 END
 
 OBJECT:IsengardSharku
-"Sharku"
+"Sharcoux"
 END
 
 OBJECT:IsengardWildman
@@ -9039,7 +9039,7 @@ OBJECT:IsengardBanner
 END
 
 OBJECT:IsengardWargRider
-"Chevaucheur de Warg"
+"Chevaucheur de Ouargues"
 END
 
 OBJECT:IsengardBeserker
@@ -9617,7 +9617,7 @@ CONTROLBAR:MallornRoots
 END
 
 CONTROLBAR:ToolTipMallornRoots
-"Requires Level 2 Mallorn Tree \n Nearby enemies are slowed"
+"Requiert niveau 2 \n Les ennemis proches sont ralentis"
 END
 
 OBJECT:Obsolete
@@ -9990,11 +9990,11 @@ OBJECT:RohanHelmsDeepKeep
 END
 
 OBJECT:NBHDMainWall
-"Helm's Deep Main Wall"
+"Mur principal du Gouffre de Helm"
 END
 
 OBJECT:NBHDRamp
-"Helm's Deep Ramp"
+"Rampe du Gouffre de Helm"
 END
 
 OBJECT:NBHDDeepingW
@@ -10006,19 +10006,19 @@ OBJECT:HelmsDeepCauseway
 END
 
 OBJECT:RBHelmsDeepGateDoorBig
-"Helm's Deep Gate"
+"Porte du Gouffre de Helm"
 END
 
 OBJECT:HelmsDeepdiWall
-"Helm's Deep Wall"
+"Mur du Gouffre de Helm"
 END
 
 OBJECT:HelmsDeepTower
-"Helm's Deep Tower"
+"Tour du Gouffre de Helm"
 END
 
 OBJECT:RBHelmsDeepGateDoorSmall
-"Helm's Deep Gate Door"
+"Porte d'entrée du Gouffre de Helm"
 END
 
 OBJECT:HelmsDeepGatehouseLeft
@@ -11490,140 +11490,140 @@ End
 
 
 SCRIPT:Objective_G01_01 
-"Bring Glorfindel and his elves to Rivendell."
+"Amenez Glorfindel et ses elfes jusqu'à Fondcombe."
 END
 
 SCRIPT:Complete_G01_01a 
-"Glorfindel has arrived at Rivendell."
+"Glorfindel est arrivé à Fondcombe."
 END
 
 SCRIPT:Objective_G01_02
-"Warn Elrond of the approaching goblin army."
+"Prévenez Elrond de l'arrivée imminente de l'armée des gobelins."
 END
 
 SCRIPT:Complete_G01_02a
-"Elrond has been warned of the approaching goblin army."
+"Elrond a été prévenu de leur arrivée imminente."
 END
 
 SCRIPT:Objective_G01_03
-"Defend Rivendell from attack."
+"Defendez Fondcombre contre l'attaque."
 END
 
 SCRIPT:Complete_G01_03a
-"Rivendell has been defended."
+"Fondcombe a été défendue."
 END
 
 SCRIPT:Objective_G01_04
-"Destroy the goblin base to the South."
+"Détruisez la base des gobelins au Sud."
 END
 
 SCRIPT:Complete_G01_04a
-"The goblin base has been destroyed."
+"La base des gobelins a été détruite."
 END
 
 SCRIPT:Objective_G01_05
-"The House of Elrond must not fall."
+"La maison d'Elrond ne doit pas tomber."
 END
 
 SCRIPT:Objective_G01_06
-"Train a battalion of Guerriers de la Lórien from your barracks."
+"Entrainez un bataillon de guerriers de la Lorien depuis votre Caserne."
 END
 
 SCRIPT:Complete_G01_06a
-"Guerriers de la Lórien have been trained at the barracks."
+"Les guerriers de la Lórien ont été entrainés dans la caserne."
 END
 
 SCRIPT:Objective_G01_07
-"Glóin must reach niveau 2."
+"Glóin doit atteindre le niveau 2."
 END
 
 SCRIPT:Complete_G01_07a
-"Glóin has reached niveau 2."
+"Glóin a atteint le niveau 2."
 END
 
 SCRIPT:Announcement_G01_01
-"Defend Rivendell from the hordes of Gobelins.\n The House of Elrond must not fall."
+"Defendez Fondcombe face aux hordes de Gobelins.\n La maison d'Elrond ne doit pas tomber."
 END
 
 SCRIPT:Announcement_G01_02
-"Find Elrond and warn him of the incoming goblin invasion." 
+"Trouvez Elrond et prévenez le de l'invasion imminente des Gobelins." 
 END
 
 SCRIPT:Announcement_G01_03
-"Slay the giant before it destroys Rivendell."
+"Abattez le géant avant qu'il ne détruise Fondcombe ."
 END
 
 SCRIPT:Announcement_G01_04
-"Ride out and destroy the Goblin encampment to the south."
+"Sortez de la ville et détruisez le camp de gobelins au Sud."
 END
 
 SCRIPT:Announcement_G01_05
-"Build a Guerriers de la Lórien battalion from your barracks."
+"Construisez un bataillon de guerriers de la Lorien depuis votre caserne."
 END
 
 SCRIPT:Announcement_G01_06
-"You can build more units from this Elven Barracks."
+"Vous pouvez construire plus d'unités depuis cette caserne."
 END
 
 SCRIPT:Announcement_G01_07
-"You can garrison a tower by giving a unit a move order into the tower." 
+"Vous pouvez placer une unité en garnison dans la tour en lui intimant l'ordre de s'y rendre." 
 END
 
 SCRIPT:Announcement_G01_08
-"Arwen has returned with the Lanciers d'Imladris." 
+"Arwen est revenue avec des lanciers d'Imladris." 
 END
 
 SCRIPT:Announcement_G01_09
-"The eagles have joined the fight." 
+"Les aigles ont rejoint la bataille." 
 END
 
 SCRIPT:Announcement_G01_10
-"Use the eagles to slay the Wyrm." 
+"Utilisez les aigles pour abattre le Wyrm." 
 END
 
 
 SCRIPT:Hint_G01_01
-"Aid your fellow elves against the encroaching Gobelins."
+"Aidez vos compagnons elfes face aux envahisseurs gobelins."
 END
 
 SCRIPT:Hint_G01_02
-"You can build more fighter battalions from your barracks."
+"Vous pouvez construire plus de bataillons de guerriers depuis votre caserne."
 END
 
 SCRIPT:Hint_G01_03
-"The Mallorn produces resources that you can use to buy units."
+"Le Mallorn produit des ressources que vous pouvez utiliser pour acheter des unités."
 END
 
 SCRIPT:Hint_G01_04
-"Some Archers de la Lórien have arrived to the west."
+"Des archers de la Lorien viennent d'arriver par l'Ouest."
 END
 
 SCRIPT:Hint_G01_05
-"These Archers de la Lórien will aid us greatly."
+"Ces archers de la Lorien seront d'une aide précieuse."
 END
 
 SCRIPT:Hint_G01_06
-"Select a power from the Palantír."
+"Selectionnez un pouvoir depuis le Palantir."
 END
 
 SCRIPT:Hint_G01_07
-"Goblins are attacking from the West."
+"Les gobelins sont en train d'attaquer par l'Ouest."
 END
 
 SCRIPT:Hint_G01_08
-"More Gobelins are attacking from the West."
+"Les gobelins continuent d'attaquer par l'Ouest."
 END
 
 SCRIPT:Hint_G01_09
-"ELF OFFICER: Sir look! It's the Eagles!" 
+"OFFICIER ELFE: Seigneur regardez! Ce sont les aigles!" 
 END
 
 SCRIPT:Hint_G01_10
-"You can now build Archers de la Lórien from the Elven Barracks." 
+"Vous pouvez dorénavant entrainer des archers de la Lorien depuis votre caserne." 
 END
 
 SCRIPT:Hint_G01_11
-"ELF OFFICER: A Wyrm! We must destroy it!" 
+"OFFICIER ELFE: Un Wyrm! Nous devons le détruire!" 
 END
 
 SCRIPT:Dialog_G01_01
