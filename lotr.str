@@ -68304,52 +68304,53 @@ CONTROLBAR:GreyCompanySilentDefenders
 END
 
 CONTROLBAR:ToolTipGreyCompanySilentDefenders
-"Requires Level 3\nAragorn, Halbarad and the Sons of Elrond passively gain +25% Damage when around the Grey Company\n When activated, nearby Hobbits, Bree-landers and Hobbit heroes recruited from the Encampment gain +25% Armor while Dúnedain units gain +25% damage for a short time"
+"Requiert : Niveau 3\nAragorn, Halbarad et les fils d'Elrond gagnent de façon passive +25% Dégâts quand ils sont proches de la Compagnie Grise\n Quand activé, les Hobbits , les troupes de Bree et les Héros Hobbits recrutés depuis le Campement gagnent +25% Armure tandis que les unités Dúnedains gagnent +25% Dégâts pour une courte durée"
 END
 
 CONTROLBAR:GreyCompanyHunt
-"S&killed Hunters"
+//&k
+"Chasseurs Qualifiés"
 END
 
 CONTROLBAR:ToolTipGreyCompanyHunt
-"Requires Level 5\n For 30 seconds, a target unit or hero is marked by the Grey Company\nThe target shares vision with the player, loses speed and takes 50% more damage from Grey Company and Dunedain attack\n Left click then left click on target"
+"Requiert : Niveau 5\n Durant 30 secondes, une unité ou un héros ciblé est marqué par la Compagnie Grise\nLa cible partage sa vision avec le joueur, se déplace plus lentement et subit +50% Dégâts des attaques de la Compagnie Grise et des Dunedains\n Clic gauche puis clic gauche sur la cible"
 END
 
 CONTROLBAR:ArwenEvenstarCampaign
-"Light of the &Evenstar"
+"Lumièr&e de l'Etoile du Soir"
 END
 
 CONTROLBAR:ToolTipArwenEvenstarCampaign
-"Allies units within the radius are healed and temporarily gain +33% Damage \n Left click icon then left click on target"
+"Les unités alliées dans la zone sont soignés et gagnent temporairement +33% Dégâts \n Clic gauche sur l'icône puis clic gauche sur la cible"
 END
 
 CONTROLBAR:DancingHobbits
-"Unexpected Party"
+"Fête inattendue"
 END
 
 CONTROLBAR:ToolTipDancingHobbits
-"\nHo! Ho! Ho! To the bottle I go\nTo heal my heart and drown my woe\nRain may fall and wind may blow\nAnd many miles be still to go\nBut under a tall tree I will lie\nAnd let the clouds go sailing by"
+"\nHo! Ho! Ho! Dans la bouteille, je vais\nPour guérir mon cœur et noyer mon malheur\nLa pluie peut tomber et le vent peut souffler\nEt de nombreux kilomètres restent encore à parcourir \nMais sous un grand arbre, je vais mentir\nEt laisser les nuages ??passer"
 END
 
 CONTROLBAR:FattyBolgerSpeed
-"&Run, Fatty, Run!"
+"Cou&rs, Fatty, Cours!"
 END
 
 CONTROLBAR:TooltipFattyBolgerSpeed
-"Modifier Type: Buff \n Fatty Bolger temporarily gains +30% Speed \n Left click to activate"
+"Type de Modification : Bonus \n Fatty Bolger gagne temporairement + 30% de vitesse \n Clic gauche pour activer"
 END
 
 OBJECT:DwarvenBofur
 "Bofur"
 END
 CONTROLBAR:ToolTipBuildBofur
-"Recruit a fellow companion of Thorin's company"
+"Recruter un compagnon de la compagnie de Thorin"
 END
 CONTROLBAR:DwarvenBofurRecruit
-"Recruit a fellow companion of Thorin's company"
+"Recruter un compagnon de la compagnie de Thorin"
 END
 CONTROLBAR:DwarvenBofurRevive
-"Revive the fallen companion, Bofur"
+"Rappeler à la vie, Bofur"
 END
 CONTROLBAR:DwarvenBofurHotkey
 "&Bofur"
@@ -68360,13 +68361,13 @@ OBJECT:DwarvenBifur
 "Bifur"
 END
 CONTROLBAR:ToolTipBuildBifur
-"Recruit a fellow companion of Thorin's company"
+"Recruter un compagnon de la compagnie de Thorin"
 END
 CONTROLBAR:DwarvenBifurRecruit
-"Recruit a fellow companion of Thorin's company"
+"Recruter un compagnon de la compagnie de Thorin"
 END
 CONTROLBAR:DwarvenBifurRevive
-"Revive the fallen companion, Bifur"
+"Rappeler à la vie, Bifur"
 END
 CONTROLBAR:DwarvenBifurHotkey
 "&Bifur"
@@ -68376,13 +68377,13 @@ OBJECT:DwarvenOin
 "Oin"
 END
 CONTROLBAR:ToolTipBuildOin
-"Recruit a fellow companion of Thorin's company"
+"Recruter un compagnon de la compagnie de Thorin"
 END
 CONTROLBAR:DwarvenOinRecruit
-"Recruit a fellow companion of Thorin's company"
+"Recruter un compagnon de la compagnie de Thorin"
 END
 CONTROLBAR:DwarvenOinRevive
-"Revive the fallen companion, Oin"
+"Rappeler à la vie, Oin"
 END
 CONTROLBAR:DwarvenOinHotkey
 "&Oin"
