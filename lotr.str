@@ -12719,163 +12719,163 @@ End
 ///////// A single line of text should be no longer than this one. /////////////
 
 SCRIPT:GoodDolGuldurOpenText
-"Seize the Feu d'alarmes in the North and Southeast to summon aid from Mirkwood and Erebor."
+"Capturez les feux d'alarme dans le Nord et le Sud-Est pour demander l'aide de la Forêt Noire et d'Erebor."
 END
 
 SCRIPT:GoodDolGuldurSeizeSignalFire1Text
-"The Feu d'alarme has been captured. Reinforcements from Mirkwood have been signaled and are on the way."
+"Le feu d'alarme a été capturé. Des renforts de la Forêt Noire ont été signalés et sont en chemin."
 END
 
 SCRIPT:GoodDolGuldurSeizeSignalFire2Text
-"The Feu d'alarme has been captured. Reinforcements from Erebor have been signaled and are on the way."
+"Le feu d'alarme a été capturé. Des renforts d'Erebor ont été signalés et sont en chemin."
 END
 
 SCRIPT:GoodDolGuldurHelpText_SeizeSignalFireNorthReminder
-"Seize the Northern Feu d'alarme."
+"Emparez vous du feu d'alarme dans le Nord."
 END
 
 SCRIPT:GoodDolGuldurHelpText_SeizeSignalFireSouthReminder
-"Seize the Southern Feu d'alarme."
+"Emparez vous du feu d'alarme dans le Sud."
 END
 
 SCRIPT:GoodDolGuldurHelpText_BreachFortress
-"Your armies have been summoned. When ready, besiege the fortress and break through\n to the inner perimeter of Dol Guldur."
+"Vos armées ont été convoquées. Quand vous serez prêts, assiegez la forteresse et faîtes une percée\n dans le périmètre intérieur de Dol Guldur."
 END
 
 SCRIPT:GoodDolGuldurHelpText_BreachFortressReminder
-"Breach the inner perimeter of Dol Guldur."
+"Faîtes une percée dans le périmètre intérieur de Dol Guldur."
 END
 
 SCRIPT:GoodDolGuldurHelpText_BreachFortressComplete
-"You have breached the inner perimeter of Dol Guldur."
+"Vous avez pénétré au sein du périmètre de Dol Guldur."
 END
 
 SCRIPT:GoodDolGuldurHelpText_DestroyStructures
-"Destroy all structures within the fortress walls."
+"Détruisez toutes les structures à l'intérieur des murs de la forteresse."
 END
 
 SCRIPT:GoodDolGuldurHelpText_DestroyStructuresReminder
-"There are still structures remaining within the walls of Dol Guldur."
+"Certaines structures sont encore debout dans l'enceinte de Dol Guldur."
 END
 
 SCRIPT:GoodDolGuldurHelpText_DestroyStructuresComplete
-"All Mordor structures within the fortress walls have been destroyed."
+"Toutes les structures du Mordor au sein des murs de Dol Guldur ont été détruites."
 END
 
 SCRIPT:GoodDolGuldurHelpText_RepelCounterattack
-"A great army of Mordor approaches from the South and the West.\n Defeat all enemy forces."
+"Une grande armée du Mordor approche par le Sud et l'Ouest.\n Abattez toutes les forces ennemies."
 END
 
 SCRIPT:GoodDolGuldurHelpText_CounterattackReminder
-"Destroy all enemy forces in the Mordor counterattack."
+"Détruisez toutes les forces de la contre-attaque du Mordor."
 END
 
 SCRIPT:GoodDolGuldurHelpText_RepelCounterattackComplete
-"You have successfully survived the Mordor counterattack."
+"Vous avez réussi à contrecarrer la contre-attaque du Mordor."
 END
 
 SCRIPT:GoodDolGuldurHelpText_DestroyPrison
-"Destroy the castle."
+"Détruisez le chateau."
 END
 
 SCRIPT:GoodDolGuldurHelpText_DestroyCastle
-"Destroy the prison."
+"Détruisez la prison."
 END
 
 SCRIPT:TIMER_MGDG_Mirkwood_Reinforcements_Arrive
-"Mirkwood Reinforcements Arrive In:   "
+"Les renforts de la Forêt Noire arrivent dans:   "
 END
 
 SCRIPT:TIMER_MGDG_Erebor_Reinforcements_Arrive
-"Erebor Reinforcements Arrive In:   "
+"Les renforts d'Erebor arrivent dans:   "
 END
 
 SCRIPT:OBJECTIVE_MGDG_SeizeNorthSignalFire
-"Locate and capture the Northern Feu d'alarme."
+"Localisez et emparez vous du feu d'alarme au Nord."
 END
 
 SCRIPT:OBJECTIVE_MGDG_SeizeSouthSignalFire
-"Locate and capture the Southern Feu d'alarme."
+"Localisez et emparez vous du feu d'alarme au Sud."
 END
 
 SCRIPT:OBJECTIVE_MGDG_BreachDolGuldur
-"Breach the fortress of Dol Guldur."
+"Pénétrez au sein de la forteresse de Dol Guldur."
 END
 
 SCRIPT:OBJECTIVE_MGDG_DestroyStructures
-"Destroy all free-standing Mordor structures within Dol Guldur."
+"Détruisez toutes les structures autonomes du Mordor à l'intérieur de Dol Guldur."
 END
 
 SCRIPT:OBJECTIVE_MGDG_DestroyStructuresa
-"All Mordor structures have been destroyed."
+"Toutes les structures du Mordor ont été détruites."
 END
 
 SCRIPT:OBJECTIVE_MGDG_RepelCounterattack
-"Repel the Mordor counterattack."
+"Repoussez la contre-attaque du Mordor."
 END
 
 SCRIPT:OBJECTIVE_MGDG_RepelCounterattacka
-"The Mordor counterattack has been repelled."
+"La contre-attaque du Mordor a été repoussée."
 END
 
 SCRIPT:BONUS_OBJECTIVE_MGDG_HoldAllSignalFires
-"Seize all Feu d'alarmes."
+"Capturez tous les feux d'alarme."
 END
 
 SCRIPT:BONUS_OBJECTIVE_MGDG_HoldAllSignalFiresComplete
-"All Feu d'alarmes have been seized."
+"Tous les feux d'alarme ont été capturés."
 END
 
 SCRIPT:BONUS_OBJECTIVE_MGDG_DestroySpiders
-"Destroy all Spider Lairs."
+"Détruisez tous les antres d'araignées."
 END
 
 SCRIPT:BONUS_OBJECTIVE_MGDG_DestroySpidersComplete
-"All Spider Lairs have been destroyed."
+"Tous les antres d'araignées ont été détruits."
 END
 
 SCRIPT:SUBTITLE_MGDolGu_Elrond01
-"LORD ELROND: Elves of the Golden Wood - hear me! We must cast out the shadow\n in the forest! Our allies from Mirkwood and Erebor will heed our\n signal. Galadrim, to battle!"
+"LORD ELROND: Elfes du Bois doré - Ecoutez moi! Nous devons chasser l'ombre\n de cette forêt! Nos alliés de la Forêt Noire et d'Erebor répondront à notre\n signal. Galadhrim, au combat!"
 END
 
 SCRIPT:SUBTITLE_MGDolGu_Elf102
-"ELVEN WARRIOR: King Thranduil has arrived with reinforcements!"
+"ELVEN WARRIOR: Le roi Thranduil est arrivé avec des renforts!"
 END
 
 SCRIPT:SUBTITLE_MGDolGu_Thranduil01
-"KING THRANDUIL: The Elves of the Northern Wood will not cower from the Darkness! Elves, Ents - follow my lead!"
+"KING THRANDUIL: Les elfes de la Forêt Noire ne se cacheront pas des forces du mal! Elfes, Ents - Suivez ma bannière!"
 END
 
 SCRIPT:SUBTITLE_MGDolGu_Elf103
-"ELVEN WARRIOR: It's Roi Daïn! He's come to help us!"
+"ELVEN WARRIOR: C'est le roi Daïn! Il est venu nous aider!"
 END
 
 SCRIPT:SUBTITLE_MGDolGu_Dain01
-"Roi Daïn: The Dwarves of the mountain stand with you on this day! Dwarf and Elf, let us stand united against the shadow!"
+"Roi Daïn: Les nains d'Erebor feront face avec vous en ce jour! Nains et Elfes, restez unis face à l'ombre!"
 END
 
 SCRIPT:SUBTITLE_MGDolGu_Glorfindel01
-"GLORFINDEL: The Black Riders have returned! And they lead a great host of Mordor against us!"
+"GLORFINDEL: Les Cavaliers Noirs viennent d'arriver! Et ils sont à la tête d'une grande armée du Mordor venue nous défier!"
 END
 
 SCRIPT:SUBTITLE_MGDolGu_ElfOfficer08
-"ELVEN OFFICER: What? An army of Mordor has emerged from the forest!"
+"ELVEN OFFICER: Quoi? Une armée du Mordor vient de surgir de la forêt!"
 END
 
 SCRIPT:SUBTITLE_MGDolGu_Elrond04
-"LORD ELROND: We must now stand firm! It is in fear that our\n enemy seeks to divide us! Elves, Dwarves, and Men...slay the.\n enemy to the last!"
+"LORD ELROND: Nous devons tenir bon! C'est par la peur que notre\n ennemi cherche à nous diviser! Elfes, Nains, et Hommes...abattez chaque.\n ennemi jusqu'au dernier!"
 END
 
 SCRIPT:SUBTITLE_MGDolGu_ElfOfficer026
-"ELVEN OFFICER: Our hearts must not falter - vanquish the hordes of Mordor!" 
+"ELVEN OFFICER: Nos coeurs ne doivent pas faillir - abattez les hordes du Mordor!" 
 END
 
 SCRIPT:SUBTITLE_MGDolGu_Elrond05
-"LORD ELROND: It is done! The great darkness has been purged from these woods! May the valor shown this day endure in song for all the days to follow."
+"LORD ELROND: C'est fait! La grande obscurité a été purgée de ces bois! Que la valeur démontrée en ce jour perdure en chanson pour tous les jours à venir."
 END
 
 SCRIPT:TIMER_MGDG_Mordor_Counterattack_Begins
-"Mordor Counterattack Begins in: "
+"La contre-attaque du Mordor débute dans: "
 END
 
 
@@ -12885,115 +12885,115 @@ END
 ///////// A single line of text should be no longer than this one. /////////////
 
 SCRIPT:EvilLorienOpenText
-"Construire une up your base and raise an army to destroy Lothlórien."
+"Construisez une base et levez une armée pour détruire la Lothlórien."
 END
 
 SCRIPT:EvilLorienHintText_BuildCave
-"Left-click one of your Builders, then left-click the flashing Goblin Cave button on the right edge of the screen."
+"Faîtes clic gauche sur l'un des batisseurs, puis clic gauche sur le bouton en surbrillance de la cave à gobelins sur le côté droit de l'écran."
 END
 
 SCRIPT:EvilLorienHintText_BuildCaveComplete
-"You have successfully built the Goblin Cave."
+"Vous avez réussi à construire une cave à gobelins ."
 END
 
 SCRIPT:EvilLorienHintText_BuildCaveReminder
-"Left-click one of your Builders, then left-click the flashing Goblin Cave button on the build interface to the right."
+"gauche sur l'un des batisseurs, puis clic gauche sur le bouton en surbrillance de la cave à gobelins sur le côté droit de l'écran."
 END
 
 SCRIPT:EvilLorienHintText_BuildHordes
-"Now, left-click the Goblin Cave and build two Goblin hordes by left-clicking on the highlighted buttons."
+"Maintenant, faîtes clic gauche sur la cave à gobelins et entraînez deux hordes de gobelins en cliquant sur les boutons en surbrillance."
 END
 
 SCRIPT:EvilLorienHintText_BuildHordesReminder
-"Construire une two goblin hordes from your Goblin Cave."
+"Construisez deux hordes de gobelins depuis votre cave à gobelins."
 END
 
 SCRIPT:EvilLorienHintText_BuildHordesComplete
-"You have created two Goblin Hordes."
+"Vous avez entraîné deux hordes de gobelins."
 END
 
 SCRIPT:EvilLorienHintText_BuildTunnel
-"Left-click a Builder and create a second Tunnel. Tunnels generate resources and increase the number of units you can command."
+"Faîtes clic gauche sur l'un des batisseurs pour construire un second tunnel. Les tunnels générent des ressources et augmentent le nombre de troupes que vous pouvez commander."
 END
 
 SCRIPT:EvilLorienHintText_BuildTunnelReminder
-"Select a Builder and build a second Tunnel."
+"Sélectionner un batisseur et construisez un second tunnel."
 END
 
 SCRIPT:EvilLorienHintText_BuildTunnelComplete
-"The second Tunnel is complete."
+"Le second tunnel a été bati."
 END
 
 SCRIPT:EvilLorienHintText_TunnelGarrison
-"Tunnels are linked in a network that can move units instantly across the map. Select a unit, then right-click on a tunnel to garrison the units inside."
+"Les tunnels sont reliés en un réseau qui permet de déplacer instantanément les unités à travers la carte. Sélectionnez une unité, puis clic droit sur le tunnel pour la placer en garnison à l'intérieur."
 END
 
 SCRIPT:EvilLorienHintText_TunnelTeleport
-"Then, select your destination Tunnel and click on the units in the Tunnel to deploy them."
+"Ensuite, sélectionnez votre tunnel de destination et cliquez sur les unités dans le tunnel pour les déployer."
 END
 
 SCRIPT:EvilLorienHintText_TunnelTeleportReminder
-"Select your units, then right-click on a Tunnel to garrison the units inside."
+"Sélectionnez vos unités, puis faîtes clic droit sur un tunnel pour les placer en garnison à l'intérieur."
 END
 
 SCRIPT:EvilLorienHintText_TunnelSpreadOut
-"Tunnels will generate more resources the farther they are from each other. Place them in clear areas and spread them out to maximize your resource income."
+"Plus les tunnels sont éloignés les uns des autres, plus ils générent de ressources. Placez les dans une zone vierge et étalez les autant que possible pour maximiser vos revenus."
 END
 
 SCRIPT:EvilLorienHintText_BuildFissure
-"Select one of your Builders, then build a Fissure from the interface on the right."
+"Selectionnez l'un de vos batisseurs, ensuite construisez une fissure depuis l'interface sur la droite."
 END
 
 SCRIPT:EvilLorienHintText_BuildFissureReminder
-"Select a builder to create a Fissure."
+"Sélectionnez un batisseur pour construire une fissure."
 END
 
 SCRIPT:EvilLorienHintText_BuildFissureComplete
-"The Fissure is complete."
+"La fissure a été créée."
 END
 
 SCRIPT:EvilLorienHintText_UpgradeFissure
-"Select your newly-built Fissure, then click the Upgrade button."
+"Sélectionnez votre nouvelle fissure, puis cliquez sur le bouton d'amélioration."
 END
 
 SCRIPT:EvilLorienHintText_UpgradeFissureReminder
-"Select the Fissure and upgrade it."
+"Sélectionnez votre fissure et améliorez la."
 END
 
 SCRIPT:EvilLorienHintText_UpgradeFissureComplete
-"The Fissure has been upgraded."
+"La fissure a été améliorée."
 END
 
 SCRIPT:EvilLorienHintText_BuildTrolls
-"Select your Fissure and build a Troll des Cavernes."
+"Sélectionnez votre fissure et entraînez un Troll des Cavernes."
 END
 
 SCRIPT:EvilLorienHintText_BuildTrollsReminder
-"Construire une a Troll des Cavernes from your Fissure."
+"Entraînez un Troll des Cavernes depuis votre Fissure."
 END
 
 SCRIPT:EvilLorienHintText_BuildTrollsComplete
-"The Troll des Cavernes has been created."
+"Le Troll des Cavernes a été entraîné."
 END
 
 SCRIPT:EvilLorienHintText_BuildFortressUpgrades
-"Select the build plots around the base of your Fortress, and build\n two defensive upgrades."
+"Sélectionnez les emplacements d'amélioration à la base de votre forteresse, et construisez\n deux améliorations défensives."
 END
 
 SCRIPT:EvilLorienHintText_BuildFortressUpgradesReminder
-"Construire une two defensive upgrades from the build plots around your Fortress."
+"Construisez deux améliorations défensives depuis les emplacements d'amélioration de votre forteresse."
 END
 
 SCRIPT:EvilLorienHintText_BuildFortressUpgradesComplete
-"You've completed the fortress upgrades."
+"Vous avez achevé les améliorations de la forteresse."
 END
 
 SCRIPT:EvilLorienHintText_ObjectivesReminder
-"Click the Objectives button in the lower left or press the TAB key\n to view your objectives."
+"Cliquez sur les boutons d'objectif en bas à gauche ou appuyez sur la touche tab\n pour visualiser vos objectifs."
 END
 
 SCRIPT:EvilLorienHintText_BuildForces
-"Remember to keep building more Gobelins and Trolls from your base\n to ensure the successful conquest of Lothlórien."
+"N'oubliez pas d'entrainer plus de gobelins et de trolls depuis votre base\n pour être sur de conquérir la Lothlorien."
 END
 
 SCRIPT:EvilLorienHintText_TrollsVsBuildings
