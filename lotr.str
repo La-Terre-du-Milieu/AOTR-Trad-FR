@@ -13564,95 +13564,95 @@ END
 ///////// A single line of text should be no longer than this one. /////////////
 
 SCRIPT:EvilFornostOpenText
-"The Dwarves and Dúnedain make one final stand here.\n Clear the city of their kind so they never rise again."
+"Les Nains et les Dunedains font corps ici une dernière fois.\n Nettoyez la ville de leur présence pour qu'ils ne se relèvent plus."
 END
 
 SCRIPT:Announcement_E04_01
-"Destroy all Dwarves and Dúnedain defending the city."
+"Détruisez tous les Nains et Dunedains défendant la Cité."
 END
 
 SCRIPT:Announcement_E04_02
-"Those towers could be used to destroy the gate. Use Giants to knock them down."
+"Ces tours pourraient être utilisées pour détruire la porte. Utilisez des géants pour les faire tomber."
 END
 
 SCRIPT:Announcement_E04_03
-"End their Dwarven Champion's life before he causes more trouble."
+"Mettez fin à la vie de leur champion nain avant qu'il ne cause plus de troubles."
 END
 
 SCRIPT:Announcement_E04_04
-"Take down the Marteau de la Terre before it destroys our forces."
+"Mettez à bas le Marteau de la Terre avant qu'il n'annihile nos forces."
 END
 
 SCRIPT:Announcement_E04_05
-"Destroy their main citadel."
+"Détruisez leur principale citadelle."
 END
 
 SCRIPT:Hint_E04_01
-"Capture the Auberge."
+"Capturez l'Auberge."
 END
 
 SCRIPT:Hint_E04_02
-"Capture the Feu d'alarme."
+"Capturez le Feu d'alarme."
 END
 
 SCRIPT:Hint_E04_03
-"Perhaps we should strike a temporary allegiance with those Araignées sauvages."
+"Peut être pourrions nous contracter une alliance temporaire avec ces Araignées sauvages."
 END
 
 SCRIPT:Hint_E04_04
-"Our Gobelins can scale walls, so give them a move order on the other side and they'll climb right over."
+"Nos gobelins peuvent escalader les murs, donnez leur l'ordre de bouger de l'autre côté et ils grimperont au dessus des murs."
 End
 
 SCRIPT:Hint_E04_05
-"The Main Gate is breached. Storm the Castle."
+"La porte principale est brisée. Détruisez leur citadelle"
 End
 
 SCRIPT:Hint_E04_06
-"The Marteau de la Terre is no more. Now to summon in a weapon of our own.\n You can purchase the Watcher power now."
+"Le Marteau de la Terre n'est plus. Vous allez pouvoir convoquer une force similaire à votre avantage.\n Vous pouvez dorénavant acheter le pouvoir du Guetteur."
 End
 
 SCRIPT:Hint_E04_07
-"Destroy the Marteau de la Terre."
+"Détruisez le Marteau de la Terre."
 End
 
 SCRIPT:Objective_E04_01
-"Destroy all structures in the outer city."
+"Détruisez toutes les structures à l'extérieur de la cité."
 END
 
 SCRIPT:Objective_E04_02
-"Destroy castle's citadel."
+"Détruisez le chateau de la citadelle."
 END
 
 SCRIPT:Objective_E04_03
-"Destroy the Marteau de la Terre."
+"Détruisez le Marteau de la Terre."
 END
 
 SCRIPT:BonusObjective_E04_01
-"Capture the Auberge."
+"Capturez l'Auberge."
 END
 
 SCRIPT:BonusObjective_E04_02
-"Capture the Feu d'alarme."
+"Capturez le Feu d'alarme."
 END
 
 SCRIPT:BonusObjective_E04_03
-"Use Untamed Allegiance on both of the Spider Lairs."
+"Utilisez allégeance nature sur chaque antre d'araignées."
 END
 
 SCRIPT:Completed_E04_01
-"The outer city of Fornost has been taken."
+"L'extérieur de la cité de Fornost a été conquis."
 END
 
 SCRIPT:Completed_E04_02
-"The Marteau de la Terre is no more. Now to summon in a weapon of our own. You can purchase the Watcher power now."
+"Le Marteau de la Terre n'est plus. Vous allez pouvoir convoquer une force similaire à votre avantage. Vous pouvez dorénavant acheter le pouvoir du Guetteur."
 End
 
 SCRIPT:Completed_E04_03
-"The citadel of Fornost has been destroyed."
+"La citadelle de Fornost a été détruite."
 END
 
 SCRIPT:Timer_E04_01
-"Earth Hammer fires in:"
+"Le Marteau de la Terre fait feu dans:"
 End
 
 ///////////////////////// EVIL MIRKWOOD MISSION TEXT ///////////////////////////
@@ -13661,121 +13661,121 @@ End
 
 
 SCRIPT:MEMirkwood_MissionObjective01
-"Advance to the Old Forest Road in the North."
+"Avancez vers la vieille route de la foret dans le Nord."
 END
 
 SCRIPT:Complete_MEMirkwood_MissionObjective01
-"Our forces have reached the Old Forest Road."
+"Nos forces ont atteint la vieille route de la foret."
 END
  
 
 SCRIPT:MEMirkwood_MissionObjective02
-"Find another way across the river."
+"Trouvez un autre chemin pour traverser la rivière."
 END
 
 SCRIPT:Complete_MEMirkwood_MissionObjective02
-"Our forces have found a river crossing."
+"Nos forces ont trouvé un passage à travers la rivière."
 END
 
 SCRIPT:MEMirkwood_MissionObjective03
-"Construct a new fortress on the northern side of the river."
+"Construisez une nouvelle forteresse vers le côté Nord de la rivière."
 END
 
 SCRIPT:Complete_MEMirkwood_MissionObjective03
-"We have constructed a new fortress across the river."
+"Nous avons construit une nouvelle forteresse au delà de la rivière."
 END
 
 SCRIPT:MEMirkwood_MissionObjective04
-"Construire une up and defend Tour de gardes in the designated spots before the elves do."
+"Construisez et défendez des tours de garde sur les emplacements désignés avant que les elfes ne le fassent."
 END
 
 SCRIPT:Complete_MEMirkwood_MissionObjective04
-"Tour de gardes have been constructed and defended along the Old Forest Road."
+"Les Tours de garde ont été construites et défendues le long de la Vieille route de la forêt."
 END
 
 SCRIPT:MEMirkwood_BonusObjective01
-"Find and destroy the Ent base."
+"Trouvé et détruisez le camp des Ents."
 END
 
 SCRIPT:Complete_MEMirkwood_BonusObjective01
-"The Ent base is no more."
+"Le camp des Ents n'est plus."
 END
 
 SCRIPT:MEMirkwood_BonusObjective02
-"Bring Arachnée to tame the Araignées sauvages."
+"Amener Arachne pour apprivoiser les Araignées sauvages."
 END
 
 SCRIPT:Complete_MEMirkwood_BonusObjective02
-"We can summon more Araignées sauvages by purchasing the Summon Spiderling power."
+"Vous pouvez invoquer plus d'Araignées sauvages en achetant le pouvoir correspondant."
 END
 
 SCRIPT:MEMirkwood_BonusObjective03
-"Find and destroy the Elven bases."
+"Trouvez et détruisez les bases elfes."
 END
 
 SCRIPT:Complete_MEMirkwood_BonusObjective03
-"The Elven bases have been destroyed."
+"Les bases elfes ont été détruites."
 END
 
 SCRIPT:MEOldForestRoad_MissionAnnouncement01
-"ORC OFFICER: We must assemble an army and advance to the Old Forest Road."
+"ORC OFFICER: Nous devons assembler une armée et avancer vers la vieille route de la foret."
 END
 
 SCRIPT:MEOldForestRoad_MissionAnnouncement02
-"ORC OFFICER: We can cross over to the north at the bridge along the river."
+"ORC OFFICER: Nous pouvons traverser vers le Nord en empruntant le pont qui longe la rivière."
 END
 
 SCRIPT:MEOldForestRoad_MissionHint01
-"ORC OFFICER: Our scouts have found a way down into the river to the east."
+"ORC OFFICER: Nos éclaireurs ont trouvé une route qui contourne la rivière vers l'Est."
 END
 
 SCRIPT:MEOldForestRoad_MissionHint02
-"ORC OFFICER: We need fire to burn those Ents to the ground!"
+"ORC OFFICER: Nous avons besoin de feu pour bruler ces Ents!"
 END
 
 SCRIPT:MEOldForestRoad_MissionHint03
-"ORC OFFICER: We can purchase the Fire Arrow upgrade from the Tavern."
+"ORC OFFICER: Nous pouvons rechercher les flèches enflammées depuis la Taverne."
 END
 
 SCRIPT:MEOldForestRoad_MissionHint04
-"La Bouche de Sauron: The Araignées sauvages of Mirkwood are said to be Arachnée's children. Bring her and we can gain their allegiance."
+"La Bouche de Sauron: Les Araignées sauvages de la foret Noire sont prétendument des enfants d'Arachne. Amenez la et nous obtiendrons leur allégeance."
 END
 
 SCRIPT:MEOldForestRoad_MissionHint05
-"ORC OFFICER: We've found the Ent base! Burn every last Ent and Chambre des Ents to the ground!"
+"ORC OFFICER: Nous avons trouvé la base des Ents! Brulez la et brulez jusqu'au dernier des Ents!"
 END
 
 SCRIPT:MEOldForestRoad_MissionHint06
 
-"ORC OFFICER: The elves are hiding in the trees. Use devestation to clear their cover!"
+"ORC OFFICER: Les elfes sont cachés dans les arbres. Utilisez la dévastation pour faire disparaitre leur couverture!"
 End
 
 SCRIPT:MEOldForestRoad_MissionHint07
-"ORC OFFICER: Find the elven bases and destroy them to halt their defense of this road!"
+"ORC OFFICER: Trouvez les bases des elfes et détruisez-les pour arrêter leur défense de cette route!"
 END
 
 SCRIPT:MEOldForestRoad_MissionHint08
-"ORC OFFICER: Don't let the elves build up their tower!"
+"ORC OFFICER: Ne laissez pas les Elfes construire leurs tours!"
 END
 
 SCRIPT:MEOldForestRoad_MissionHint09
-"ORC OFFICER: If the elves build up all four towers we will lose the road!"
+"ORC OFFICER: Si les Elfes arrivent à construire leurs 4 tours, nous perdrons le controle de la route!"
 END
 
 SCRIPT:MEOldForestRoad_MissionHint10
-"ORC OFFICER: The elves have all four towers up. Take them down quick or we shall lose the road."
+"ORC OFFICER: Les Elfes ont érigé leurs 4 tours. Repoussez les rapidement ou nous devrons leur céder la route."
 END
 
 SCRIPT:MEOldForestRoad_MissionHint11
-"ORC OFFICER: We have all of our towers up! Hold them a bit longer and the road shall be ours!"
+"ORC OFFICER: Nous avons érigé nos 4 tours! Défendez les encore un peu et la route sera à nous!"
 END
 
 SCRIPT:MEOldForestRoad_WinTimer
-"Road Successfully Held in:"
+"Route tenue avec succès dans:"
 END
 
 SCRIPT:MEOldForestRoad_LossTimer
-"Road Lost in:"
+"Route perdue dans:"
 END
 
 
