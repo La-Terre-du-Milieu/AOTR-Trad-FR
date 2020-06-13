@@ -28672,7 +28672,7 @@ OBJECT:ElvenStatueDescription
 END
 
 OBJECT:RivendellStatue
-"Statue of Gil-galad"
+"Statue de Gil-galad"
 END
 
 OBJECT:ElvenMirrorofGaladriel
@@ -28680,9 +28680,9 @@ OBJECT:ElvenMirrorofGaladriel
 END
 
 OBJECT:ElvenMirrorofGaladrielDescription
-//"Nearby allies will heal if not under attack"
-//"Heals nearby allies"
-"Unlocks special upgrades \n Detects stealth" 
+//"Les alliÈs proches sont soignÈs s'ils ne sont pas attaquÈs"
+//"Soigne les unitÈs proches"
+"DÈbloque des amÈliorations spÈciales \n Detecte les unitÈs furtives" 
 END
 
 OBJECT:ElvenWellDescription
@@ -28795,7 +28795,7 @@ CONTROLBAR:LW_ToolTip_GondorBarracks
 END
 
 CONTROLBAR:LW_ToolTip_RohanBarracks
-"Structure Type: Barracks\nTrains Rohan units"
+"Structure Type: caserne\n Forme les unitÈs du Rohan"
 END
 
 CONTROLBAR:LW_Structure_GondorBlackSmith
@@ -28819,7 +28819,7 @@ CONTROLBAR:LW_Structure_GondorFarm
 END
 
 CONTROLBAR:LW_ToolTipBuild_GondorFarm
-"Type de structure : Ferme\n Increases treasury\n "
+"Type de structure : Ferme\n Augmente les ressources\n "
 END
 
 CONTROLBAR:LW_ToolTip_GondorFarm
@@ -28890,7 +28890,7 @@ CONTROLBAR:LW_ToolTipBuild_GondorFighterDoubleHorde
 END
 
 CONTROLBAR:LW_ToolTip_GondorFighterDoubleHorde
-"\n Type d'unitÈ : infanterie d'Èlite and Elite Pikemen\n Forts contre la cavalerie et les piquiers"
+"\n Type d'unitÈ : infanterie d'Èlite et piquiers d'Èlite\n Forts contre la cavalerie et les piquiers"
 END
 
 CONTROLBAR:LW_ToolTipBuild_GondorFighterRangerHorde
@@ -28999,27 +28999,27 @@ CONTROLBAR:LW_ToolTip_RohanRohirrimHorde
 END
 
 CONTROLBAR:LW_Unit_RohanRohirrimArcherHorde
-"Rohirrim Archers Battalion"
+"Bataillon d'archers Rohirrim"
 END
 
 CONTROLBAR:LW_Unit_RohanRohirrimArcherHordePlural
-"Rohirrim Archers Battalions"
+"Bataillons d'archers Rohirrim"
 END
 
 BANNERUI:RohirrimArcher
-"Rohirrim Archer"
+"Archer Rohirrim"
 END
 
 BANNERUI:PluralRohirrimArcher
-"Rohirrim Archers"
+"Archers Rohirrim"
 END
 
 CONTROLBAR:LW_ToolTipBuild_RohanRohirrimArcherHorde
-"Unit Type: Elite Cavalry\nStrong vs. Archers\n"
+"Unit Type: Cavalerie d'Èlite\nFort contre les archers\n"
 END
 
 CONTROLBAR:LW_ToolTip_RohanRohirrimArcherHorde
-"\nUnit Type: Elite Cavalry\nStrong vs. Archers"
+"\nUnit Type: Cavalerie d'Èlite\nFort contre les archers"
 END
 
 CONTROLBAR:LW_Unit_GondorTrebuchet
@@ -29034,7 +29034,7 @@ END
 /////////// MOW Heroes ///////////
 
 CONTROLBAR:LW_Hero_CreateAHero
-"Create-A-Captain"
+"CrÈer un capitaine"
 END
 
 CONTROLBAR:LW_ToolTipBuild_CreateAHero
@@ -29216,11 +29216,11 @@ CONTROLBAR:LW_Structure_ElvenBarracks
 END
 
 CONTROLBAR:LW_ToolTipBuild_ElvenBarracks
-"Type de structure : Caserne\n Trains Elven units\n "
+"Type de structure : Caserne\n EntraÓne les unitÈs elfes\n "
 END
 
 CONTROLBAR:LW_ToolTip_ElvenBarracks
-"Type de structure : Caserne\n Trains Elven units"
+"Type de structure : Caserne\n EntraÓne les unitÈs elfes"
 END
 
 CONTROLBAR:LW_Structure_ElvenEregionForge
@@ -29228,11 +29228,11 @@ CONTROLBAR:LW_Structure_ElvenEregionForge
 END
 
 CONTROLBAR:LW_ToolTipBuild_ElvenEregionForge
-"Type de structure : Armurerie\n Grants all upgrades to units\n "
+"Type de structure : Armurerie\n Fournit toutes les amÈliorations aux unitÈs\n "
 END
 
 CONTROLBAR:LW_ToolTip_ElvenEregionForge
-"Type de structure : Armurerie\n Grants all upgrades to units"
+"Type de structure : Armurerie\n Fournit toutes les amÈliorations aux unitÈs"
 END
 
 CONTROLBAR:LW_Structure_ElvenMallornTree
@@ -29240,11 +29240,11 @@ CONTROLBAR:LW_Structure_ElvenMallornTree
 END
 
 CONTROLBAR:LW_ToolTipBuild_ElvenMallornTree
-"Type de structure : Ferme\n Increases treasury\n "
+"Type de structure : Ferme\n Augmente les ressources\n "
 END
 
 CONTROLBAR:LW_ToolTip_ElvenMallornTree
-"Type de structure : Ferme\n Increases treasury\n "
+"Type de structure : Ferme\n Augmente les ressources\n "
 END
 
 
@@ -29267,15 +29267,15 @@ CONTROLBAR:LW_ToolTip_ElvenLorienWarriorHorde
 END
 
 CONTROLBAR:LW_Unit_ElvenLorienArcherHorde
-"Bataillon d'Archers de la LÛrien"
+"Bataillon d'Archers de la Lorien"
 END
 
 CONTROLBAR:LW_Unit_ElvenLorienWardenArcherHorde
-"LÛrien Wardens - LÛrien Archers Battalion"
+"LÛrien Wardens - Bataillon d'Archers de la Lorien"
 END
 
 CONTROLBAR:LW_Unit_ElvenLorienWardenArcherHordePlural
-"LÛrien Wardens - LÛrien Archers Battalions"
+"LÛrien Wardens - Bataillons d'Archers de la Lorien"
 END
 
 CONTROLBAR:LW_ToolTip_ElvenLindonWarriorHorde
@@ -29283,7 +29283,7 @@ CONTROLBAR:LW_ToolTip_ElvenLindonWarriorHorde
 END
 
 CONTROLBAR:LW_Unit_ElvenLindonWarriorHorde
-"Lindon Warrior Bataillon de "
+"Bataillon de guerriers du Lindon "
 END
 
 CONTROLBAR:LW_ToolTip_ElvenFondcombeWarriorHorde
@@ -29308,11 +29308,11 @@ CONTROLBAR:LW_Unit_ElvenMirkwoodArcherHordePlural
 END
 
 CONTROLBAR:LW_Unit_ElvenMithlondSentryHorde
-"Bataillon de Mithlond Sentry"
+"Bataillon de sentinelles de Mithlond"
 END
 
 CONTROLBAR:LW_Unit_ElvenMithlondSentryHordePlural
-"Bataillons de Mithlond Sentry"
+"Bataillons de sentinelles de Mithlond"
 END
 
 CONTROLBAR:LW_ToolTipBuild_ElvenMithlondSentryHorde
@@ -29379,19 +29379,19 @@ CONTROLBAR:LW_Hero_Thranduil
 END
 
 CONTROLBAR:LW_Hero_Krimpul
-"Krimpùl the Torturer"
+"Krimpul the Torturer"
 END
 
 CONTROLBAR:LW_Hero_Cargast
-"Cargùst"
+"Cargast"
 End
 
 CONTROLBAR:LW_Hero_Saenathra
-"Queen Saenathra"
+"Reine Saenathra "
 END
 
 CONTROLBAR:LW_Hero_Necromancer
-"The Necromancer"
+"Le Necromancien"
 END
 
 CONTROLBAR:LW_ToolTipBuild_Thranduil
@@ -29439,11 +29439,11 @@ CONTROLBAR:LW_ToolTip_Glorfindel
 END
 
 CONTROLBAR:LW_Hero_Bolger
-"Fatty Bolger"
+"Fredegar Bolger"
 End
 
 CONTROLBAR:LW_Hero_Maggot
-"Farmer Maggot"
+"Le PËre Magotte"
 END
 
 CONTROLBAR:LW_Hero_Gildor
@@ -29464,15 +29464,15 @@ END
 
 //////// Rivendell Structures ////////
 CONTROLBAR:LW_Structure_RivendellBarracks
-"Dormitory"
+"Dortoir"
 END
 
 CONTROLBAR:LW_ToolTipBuild_RivendellBarracks
-"Structure Type: Barracks\nTrains Rivendell units\n"
+"Structure Type: Casernes\nEntraÓne les unitÈs d'Imladris\n"
 END
 
 CONTROLBAR:LW_ToolTip_RivendellBarracks
-"Structure Type: Barracks\nTrains Rivendell units"
+"Structure Type: Casernes\nEntraÓne les unitÈs d'Imladris"
 END
 
 CONTROLBAR:LW_Structure_RivendellForge
@@ -29480,23 +29480,23 @@ CONTROLBAR:LW_Structure_RivendellForge
 END
 
 CONTROLBAR:LW_ToolTipBuild_RivendellForge
-"Structure Type: Armory\nGrants all upgrades to units\n"
+"Structure Type: Armory\nFournit toutes les amÈliorations aux unitÈs\n"
 END
 
 CONTROLBAR:LW_ToolTip_RivendellForge
-"Structure Type: Armory\nGrants all upgrades to units"
+"Structure Type: Armory\nFournit toutes les amÈliorations aux unitÈs"
 END
 
 CONTROLBAR:LW_Structure_RivendellOrchard
-"Orchard"
+"Verger"
 END
 
 CONTROLBAR:LW_ToolTipBuild_RivendellOrchard
-"Structure Type: Farm\nIncreases treasury\n"
+"Structure Type: Ferme\nAugmente les ressources\n"
 END
 
 CONTROLBAR:LW_ToolTip_RivendellOrchard
-"Structure Type: Farm\nIncreases treasury\n"
+"Structure Type: Ferme\nAugmente les ressources\n"
 END
 
 /////// Dwarven Structures ///////
@@ -29518,15 +29518,15 @@ CONTROLBAR:LW_ToolTip_DwarvenHallOfWarriors
 END
 
 CONTROLBAR:LW_Structure_DwarvenForgeWorks
-"Forge Works"
+"Grande Forge"
 END
 
 CONTROLBAR:LW_ToolTipBuild_DwarvenForgeWorks
-"Type de structure : Armurerie\n Grants all upgrades to units\n "
+"Type de structure : Armurerie\n Fournit toutes les amÈliorations aux unitÈs\n "
 END
 
 CONTROLBAR:LW_ToolTip_DwarvenForgeWorks
-"Type de structure : Armurerie\n Grants all upgrades to units"
+"Type de structure : Armurerie\n Fournit toutes les amÈliorations aux unitÈs"
 END
 
 CONTROLBAR:LW_Structure_DwarvenMineShaft
@@ -29534,11 +29534,11 @@ CONTROLBAR:LW_Structure_DwarvenMineShaft
 END
 
 CONTROLBAR:LW_ToolTipBuild_DwarvenMineShaft
-"Type de structure : Ferme\n Increases treasury\n "
+"Type de structure : Ferme\n Augmente les ressources\n "
 END
 
 CONTROLBAR:LW_ToolTip_DwarvenMineShaft
-"Type de structure : Ferme\n Increases treasury\n "
+"Type de structure : Ferme\n Augmente les ressources\n "
 END
 
 
@@ -29562,11 +29562,11 @@ CONTROLBAR:LW_Unit_DwarvenMenOfDaleHordePlural
 END
 
 CONTROLBAR:LW_Unit_DwarvenMenOfDaleComboHorde
-"Barding Longbowmen Combo Battalion"
+"Bataillon d'archers de Dale"
 END
 
 CONTROLBAR:LW_Unit_DwarvenMenOfDaleComboHordePlural
-"Barding Longbowmen Combo Battalions"
+"Bataillons d'archers de Dale"
 END
 
 CONTROLBAR:LW_Unit_DwarvenCatapult
@@ -29631,179 +29631,179 @@ END
 /////// DG Structures ////////
 
 CONTROLBAR:LW_Structure_GuldurGaol
-"Guldur Gaol"
+"Geole de Dol Guldur"
 END
 
 CONTROLBAR:LW_ToolTipBuild_GuldurGaol
-"Structure Type: Barracks\nTrains Dol Guldur units\n"
+"Structure Type: Caserne\nEntraÓne les unitÈs de Dol Guldur\n"
 END
 
 CONTROLBAR:LW_ToolTip_GuldurGaol
-"Structure Type: Barracks\nTrains Dol Guldur units"
+"Structure Type: Caserne\nEntraÓne les unitÈs de Dol Guldur"
 END
 
 CONTROLBAR:LW_Structure_GuldurSpire
-"Spire of Sorcery"
+"FlËche de la sorcellerie"
 END
 
 CONTROLBAR:LW_ToolTipBuild_GuldurSpire
-"Structure Type: Armory\nGrants all upgrades to units\nTrains Dol Guldur siege units\n"
+"Structure Type: Armurerie\nFournit les amÈliorations aux unitÈs\nEntraÓne les unitÈs de siËge de Dol Guldur\n"
 END
 
 CONTROLBAR:LW_ToolTip_GuldurSpire
-"Structure Type: Armory\nGrants all upgrades to units\nTrains Dol Guldur siege units"
+"Structure Type: Armurerie\nFournit les amÈliorations aux unitÈs\nEntraÓne les unitÈs de siËge de Dol Guldur"
 END
 
 CONTROLBAR:LW_Structure_GuldurMill
-"Slave Mill"
+"Moulin ‡ esclave"
 END
 
 CONTROLBAR:LW_ToolTipBuild_GuldurMill
-"Structure Type: Farm\nIncreases treasury\n"
+"Structure Type: Ferme\nAugmente les ressources\n"
 END
 
 CONTROLBAR:LW_ToolTip_GuldurMill
-"Structure Type: Farm\nIncreases treasury\n"
+"Structure Type: Ferme\nAugmente les ressources\n"
 END
 
 BANNERUI:BrokenRabble
-"Broken Rabble"
+"Canailles brisÈes"
 END
 
 CONTROLBAR:LW_Unit_GuldurBrokenRabbleHorde
-"Broken Rabble Horde"
+"Horde de canailles brisÈes"
 END
 
 CONTROLBAR:LW_Unit_GuldurBrokenRabbleHordePlural
-"Broken Rabble Hordes"
+"hordes de canailles brisÈes"
 END
 
 CONTROLBAR:LW_ToolTip_GuldurBrokenRabbleHorde
-"\nUnit Type: Basic Infantry\nStrong vs. Pikemen"
+"\nUnit Type: infanterie basique\nForts contre piquiers"
 END
 
 CONTROLBAR:LW_ToolTipBuild_GuldurBrokenRabbleHorde
-"Unit Type: Basic Infantry\nStrong vs. Pikemen\n"
+"Unit Type: infanterie basique\nForts contre piquiers\n"
 END
 
 BANNERUI:OrcGaoler
-"Orc Gaoler"
+"Geoliers orques"
 END
 
 BANNERUI:OrcGaolers
-"Orc Gaolers"
+"Geoliers orques"
 END
 
 CONTROLBAR:LW_Unit_GuldurOrcPikemanHorde
-"Orc Gaolers Horde"
+"Horde de geoliers orques"
 END
 
 CONTROLBAR:LW_Unit_GuldurOrcPikemanHordePlural
-"Orc Gaolers Hordes"
+"Hordes de geoliers orques"
 END
 
 CONTROLBAR:LW_ToolTip_GuldurOrcPikemanHorde
-"\nUnit Type: Basic Pikemen\nStrong vs. Cavalry"
+"\nUnit Type: Piquiers basiques\nForts contre la cavalerie"
 END
 
 CONTROLBAR:LW_ToolTipBuild_GuldurOrcPikemanHorde
-"Unit Type: Basic Pikemen\nStrong vs. Cavalry\n"
+"Unit Type: Piquiers basiques\nForts contre la cavalerie\n"
 END
 
 CONTROLBAR:LW_Unit_GuldurArcherPikeHorde
-"Orc Gaolers - Orc Hunters Horde"
+"Bataillon de Geoliers orques - Chasseurs orques"
 END
 
 CONTROLBAR:LW_Unit_GuldurArcherPikeHordePlural
-"Orc Gaolers - Orc Hunters Hordes"
+"Bataillons de Geoliers orques - Chasseurs orques"
 END
 
 CONTROLBAR:LW_ToolTip_GuldurArcherPikeHorde
-"\nUnit Type: Basic Archer and Basic Pikemen\nStrong vs. Swordsmen and Cavalry"
+"\nUnit Type: Archers basiques et piquiers basiques\nForts contre ÈpÈistes et cavalerie"
 END
 
 BANNERUI:OrcHunter
-"Orc Hunter"
+"Chasseur orque"
 End
 
 BANNERUI:OrcHunters
-"Orc Hunters"
+"Chasseurs orques"
 END
 
 CONTROLBAR:LW_Unit_GuldurOrcArcherHorde
-"Orc Hunters Horde"
+"Bataillon de chasseurs orques"
 END
 
 CONTROLBAR:LW_Unit_GuldurOrcArcherHordePlural
-"Orc Hunters Hordes"
+"Bataillons de chasseurs orques"
 END
 
 CONTROLBAR:LW_ToolTip_GuldurOrcArcherHorde
-"\nUnit Type: Basic Archer\nStrong vs. Pikemen and Infantry"
+"\nUnit Type: Archers basiques\nForts contre les piquiers et l'infanterie"
 END
 
 CONTROLBAR:LW_ToolTipBuild_GuldurOrcArcherHorde
-"Unit Type: Basic Archer\nStrong vs. Pikemen and Infantry\n"
+"Unit Type: Archers basiques\nForts contre les piquiers et l'infanterie\n"
 END
 
 BANNERUI:GuldurFellBrood
-"Fell Brood"
+"CouvÈe fÈroce"
 End
 
 CONTROLBAR:LW_Unit_GuldurFellBroodHorde
-"Fell Brood Horde"
+"Bataillon de couvÈe fÈroce"
 END
 
 CONTROLBAR:LW_Unit_GuldurFellBroodHordePlural
-"Fell Brood Hordes"
+"Bataillon de couvÈe fÈroce"
 END
 
 CONTROLBAR:LW_ToolTip_GuldurFellBroodHorde
-"\nUnit Type: Basic Cavalry\nStrong vs. Archers"
+"\nUnit Type: Cavalerie basique\nFort contre les archers"
 END
 
 CONTROLBAR:LW_ToolTipBuild_GuldurFellBroodHorde
-"Unit Type: Basic Cavalry\nStrong vs. Archers\n"
+"Unit Type: Cavalerie basique\nFort contre les archers\n"
 END
 
 BANNERUI:GuldurWoodsman
-"Blighted Trapper"
+"PiËgeur tourmentÈ"
 END
 
 BANNERUI:GuldurWoodsmen
-"Blighted Trappers"
+"PiÈgeurs tourmentÈs"
 END
 
 CONTROLBAR:LW_Unit_GuldurWoodsmenHorde
-"Blighted Trappers Horde"
+"Bataillon de piËgeurs tourmentÈs"
 END
 
 CONTROLBAR:LW_Unit_GuldurWoodsmenHordePlural
-"Blighted Trappers Hordes"
+"Bataillon de piËgeurs tourmentÈs"
 END
 
 CONTROLBAR:LW_ToolTip_GuldurWoodsmenHorde
-"\nUnit Type: Elite Archer\nStrong vs. Pikemen and Infantry"
+"\nUnit Type: Archer d'Èlite\nFort contre les piquiers et l'infanterie"
 END
 
 CONTROLBAR:LW_ToolTipBuild_GuldurWoodsmenHorde
-"Unit Type: Elite Archer\nStrong vs. Pikemen and Infantry\n"
+"Unit Type: Archer d'elite\nFort contre les piquiers et l'infanterie\n"
 END
 
 BANNERUI:OrcRavager
-"Orc Ravager"
+"Ravageur orque"
 END
 
 BANNERUI:OrcRavagers
-"Orc Ravagers"
+"Ravageurs orques"
 END
 
 CONTROLBAR:LW_Unit_GuldurOrcRavagerHorde
-"Orc Ravagers Horde"
+"Bataillon de ravageurs orques"
 END
 
 CONTROLBAR:LW_Unit_GuldurOrcRavagerHordePlural
-"Orc Ravagers Hordes"
+"Bataillons de ravageurs orques"
 END
 
 CONTROLBAR:LW_ToolTip_GuldurOrcRavagerHorde
@@ -29811,127 +29811,127 @@ CONTROLBAR:LW_ToolTip_GuldurOrcRavagerHorde
 END
 
 CONTROLBAR:LW_ToolTipBuild_GuldurOrcRavagerHorde
-"Unit Type: Elite Infantry\nStrong vs. Pikemen\n"
+"Unit Type: Infanterie d'Èlite\nFort contre les piquiers\n"
 END
 
 BANNERUI:TombGuard
-"Tomb Guard"
+"Garde du tombeau"
 END
 
 BANNERUI:TombGuards
-"Tomb Guard"
+"Gardes du tombeau"
 END
 
 CONTROLBAR:LW_Unit_GuldurTombGuardHorde
-"Tomb Guard Horde"
+"Bataillon de gardes du tombeau"
 END
 
 CONTROLBAR:LW_Unit_GuldurTombGuardHordePlural
-"Tomb Guard Hordes"
+"Bataillons de gardes du tombeau"
 END
 
 CONTROLBAR:LW_ToolTip_GuldurTombGuardHorde
-"\nUnit Type: Elite Pikemen\nStrong vs. Cavalry"
+"\nUnit Type: Piquiers d'Èlite\nFort contre la cavalerie"
 END
 
 CONTROLBAR:LW_ToolTipBuild_GuldurTombGuardHorde
-"Unit Type: Elite Pikemen\nStrong vs. Cavalry\n"
+"Unit Type: Piquiers d'Èlite\nFort contre la cavalerie\n"
 END
 
 CONTROLBAR:LW_Unit_GuldurRisenDeadHorde
-"Risen Dead Horde"
+"Bataillon de morts ressuscitÈs"
 END
 
 CONTROLBAR:LW_Unit_GuldurRisenDeadHordePlural
-"Risen Dead Hordes"
+"Bataillons de morts ressuscitÈs"
 END
 
 CONTROLBAR:LW_ToolTip_GuldurRisenDeadHorde
-"\nUnit Type: Elite Infantry\nStrong vs. Pikemen"
+"\nUnit Type: Infanterie d'Èlite\nFort contre les piquiers"
 END
 
 CONTROLBAR:LW_ToolTipBuild_GuldurRisenDeadHorde
-"Unit Type: Elite Infantry\nStrong vs. Pikemen\n"
+"Unit Type: Infanterie d'Èlite\nFort contre les piquiers\n"
 END
 
 BANNERUI:Harbinger
-"Harbinger of Shadow"
+"PrÈcurseur de l'ombre"
 END
 
 BANNERUI:Harbingers
-"Harbingers of Shadow"
+"PrÈcurseurs de l'ombre"
 END
 
 CONTROLBAR:LW_Unit_GuldurHarbingerHorde
-"Harbingers of Shadow Horde"
+"Bataillon de prÈcurseurs de l'ombre"
 END
 
 CONTROLBAR:LW_Unit_GuldurHarbingerHordePlural
-"Harbingers of Shadow Hordes"
+"Bataillons de prÈcurseurs de l'ombre"
 END
 
 CONTROLBAR:LW_ToolTip_GuldurHarbingerHorde
-"\nUnit Type: Elite Infantry\nStrong vs. Pikemen"
+"\nUnit Type: infanterie d'Èlite\nFort contre les piquiers"
 END
 
 CONTROLBAR:LW_ToolTipBuild_GuldurHarbingerHorde
-"Unit Type: Elite Infantry\nStrong vs. Pikemen\n"
+"Unit Type: infanterie d'Èlite\nFort contre les piquiers\n"
 END
 
 CONTROLBAR:LW_Unit_GuldurCastellan
-"Armoured Castellan"
+"Chatelain blindÈ"
 END
 
 CONTROLBAR:LW_Unit_GuldurCastellanPlural
-"Armoured Castellans"
+"Chatelains blindÈs"
 END
 
 CONTROLBAR:LW_ToolTip_GuldurCastellan
-"\nUnit Type: Hero Unit\nStrong vs. All"
+"\nUnit Type: UnitÈ hÈroÔque\nFort contre tous"
 END
 
 CONTROLBAR:LW_ToolTipBuild_GuldurCastellan
-"Unit Type: Hero Unit\nStrong vs. All\n"
+"Unit Type: UnitÈ hÈroÔque\nFort contre tous\n"
 END
 
 CONTROLBAR:LW_Unit_GuldurEntwife
-"Corrupted Entwife"
+"Ent-femme corrompue"
 END
 
 CONTROLBAR:LW_Unit_GuldurEntwifePlural
-"Corrupted Entwives"
+"Ent-femmes corrompues"
 END
 
 CONTROLBAR:LW_ToolTipBuild_GuldurEntwife
-"Unit Type: Siege\nStrong vs. Swordsmen, Archers, Cavalry, and Structures\n"
+"Unit Type: Siege\nFort contre ÈpÈistes, archers, cavalerie et structures\n"
 END
 
 CONTROLBAR:LW_ToolTip_GuldurEntwife
-"\nUnit Type: Siege\nStrong vs. Swordsmen, Archers, Cavalry, and Structures"
+"\nUnit Type: Siege\nFort contre ÈpÈistes, archers, cavalerie et structures"
 END
 
 CONTROLBAR:LW_Unit_GuldurGreatSpider
-"Saenathra's Sister"
+"Soeur de Saenathra"
 END
 
 CONTROLBAR:LW_Unit_GuldurGreatSpiderPlural
-"Saenathra's Sisters"
+"Soeurs de Saenathra"
 END
 
 CONTROLBAR:LW_ToolTip_GuldurGreatSpider
-"\nUnit Type: Siege\nStrong vs. Swordsmen, Archers, Cavalry, and Structures"
+"\nUnit Type: Siege\nFort contre ÈpÈistes, archers, cavalerie et structures"
 END
 
 CONTROLBAR:LW_ToolTipBuild_GuldurGreatSpider
-"Unit Type: Siege\nStrong vs. Swordsmen, Archers, Cavalry, and Structures\n"
+"Unit Type: Siege\nFort contre ÈpÈistes, archers, cavalerie et structures\n"
 END
 
 BANNERUI:GuldurRisenDead
-"Risen Dead"
+"Mort ressuscitÈ"
 END
 
 CONTROLBAR:LW_ToolTip_GuldurRisenDeadHorde
-"\nUnit Type: Elite Infantry\nStrong vs. Pikemen"
+"\nUnit Type : Infanterie d'Èlite\nFort contre les piquiers"
 END
 
 
