@@ -15096,7 +15096,7 @@ END
 
 // Mordor Buildings
 CONTROLBAR:ToolTipConstructMordorBase
-"Construire une a Mordor Base"
+"Construire une base du Mordor"
 END
 
 CONTROLBAR:ConstructMordorBase
@@ -15767,15 +15767,15 @@ CONTROLBAR:ConstructRohanRohirrimHorde
 END
 
 CONTROLBAR:ConstructRohanSnowbournRider
-"Riders of &Snowbourn"
+"Cavaliers du Snowbourn"
 END
 
 CONTROLBAR:ConstructRohanHorsemenHorde
-"Horsemen of the &Mark"
+"Cavaliers de la marche"
 END
 
 CONTROLBAR:ConstructRohanKingsguardHorde
-"Mounted &Kingsguard"
+"Gardes royaux montÈs"
 END
 
 
@@ -16039,30 +16039,30 @@ CONTROLBAR:ToolTipBuildRohanRohirrimHorde
 END
 CONTROLBAR:ToolTipBuildRohanKingsguardHorde
 //"Requires Level 2 Stables \n Strong vs. Archers"
-"Requires Level 3 Stables \n Strong vs. Swordsmen and Archers \n \n These mounted elites formed the personal bodyguard of the King and his heirs, performing great deeds at arms to keep safe their charge. \n Limited to 3"
+"Requiert: Ecurie niveau 3 \n Forts contre les ÈpÈistes et les archers \n \n Ces cavaliers d'Èlite forment la garde personnelle du roi, de ses hÈritiers et accomplissent de hauts faits d'arme pour garantir leur sÈcuritÈ. \n LimitÈ ‡ 3"
 END
 CONTROLBAR:ToolTipBuildRohanSnowbournRiderHorde
 //"Requires Level 2 Stables \n Strong vs. Archers"
-"Requires Level 2 Stables \n Strong vs. Swordsmen and Archers \n \n The Riders of Snowbourn were a heavy cavalry unit, capable of breaking the fiercest of enemy ranks and opening them up for the remainder of the army."
+"Requiert: Ecurie niveau 2\n Forts contre les ÈpÈistes et les archers \n \n Les cavaliers du Snowbourn sont une unitÈ de cavalerie lourde, capable de briser les rangs les plus fÈroces de l'ennemi et d'ouvrir une brËche pour le reste de l'armÈe."
 END
 CONTROLBAR:ToolTipBuildRohanHorsemenHorde
-"Strong vs. Swordsmen and Archers \n \n Yeoman or peasant, in Rohan every man owned a horse, and had learned to defend themselves from horseback. When the need arose, these men would ride out to battle to defend their homes."
+"Forts contre les ÈpÈistes et les archers \n \n Artisan ou paysan, au Rohan, chaque homme possÈdait un cheval, et avait appris ‡ se dÈfendre en montant. Lorsque le besoin s'en faisait sentir, ces hommes partaient au combat pour dÈfendre leurs foyers."
 END
 
 CONTROLBAR:ToolTipBuildRohanRohirrimArcherHorde
 "Forts contre les ÈpÈistes"
 END
 CONTROLBAR:ToolTipBuildRohanHeavyArmorPorter
-"+100% points de vie to Rohirrim and Infantry"
+"+100% points de vie aux Rohirrims et ‡ l'infanterie"
 END
 CONTROLBAR:ToolTipBuildRohanFireArrowPorter
-"+100% dÈg‚ts by Hommes de Dale, Elven Warriors and Rohirrim arrows"
+"+100% dÈg‚ts aux Hommes de Dale, Guerriers elfes et archers Rohirrim"
 END
 CONTROLBAR:ToolTipBuildRohanForgedBladesPorter
-"+50 damage by Rohirrim, Elven Warriors and Paysans"
+"+50 de dommages pour les Rohirrim, guerriers elfes et paysans"
 END
 CONTROLBAR:ToolTipBuildRohanBannerUnit
-"Requiert : Armurerie niveau 2\n Gives Leadership bonus, increases niveau and revives fallen troops"
+"Requiert : Armurerie niveau 2\n Donne un bonus de leadership, augmente le niveau du bataillon et ressuscite les troupes tombÈes au combat"
 END
 CONTROLBAR:ToolTipBuildRohanHornsOfTheRohirrimPorter
 "Construire une Rohan RohanHorns Of The Rohirrim Porter"
@@ -16071,10 +16071,10 @@ CONTROLBAR:ToolTipBuildRohanHorseLancePorter
 "Construire une Rohan Horse Lance Porter"
 END
 CONTROLBAR:ToolTipBuildRohanHorseBowPorter
-"Ugprades Rohirrim with bows"
+"AmÈliore les Rohirrim avec des arcs"
 END
 CONTROLBAR:ToolTipBuildRohanHorseShieldPorter
-"Requiert : Ecurie niveau 2\n +80% armure for Rohirrim\n against arrows and pikes"
+"Requiert : Ecurie niveau 2\n +80% armure pour les Rohirrim\n contre les flËches et les lances"
 END
 TOOLTIP:RohanHeavyArmor
 "Armure lourde"
@@ -16091,7 +16091,7 @@ END
 
 //ROHAN HEROES
 CONTROLBAR:ToolTipBuildTheoden
-"Recruit the King of Rohan"
+"Recrutez le Roi du Rohan"
 END
 CONTROLBAR:RohanTheodenRecruit
 "Recrutez le Roi du Rohan.\n\n MÍme si les annÈes paraissent avoir abattu ThÈoden, son Coeur br˚le toujours d'une fÈroce ardeur guerriËre. Il est le Roi des Rohirrim, peuple de braves cavaliers qui le suivront ‡ la bataille, mÍme avec peu de chance de victoire. C'est un leader charismatique qui verra la Terre du Milieu retournÈe ‡ la grandeur, et les alliÈs du Seigneur des TÈnËbres punis pour leurs crimes."
@@ -16125,7 +16125,7 @@ CONTROLBAR:RohanMerryHotkey
 "Merry"
 END
 CONTROLBAR:ToolTipBuildGimli
-"Recruit the Dwarf of the Lonely Mountain"
+"Recrutez le nain de la Montagne Solitaire"
 END
 CONTROLBAR:RohanGimliRecruit
 "Recrutez le fils de GlÛin.\n\n Comme tous les Nains, Gimli est austËre, bourru et redoutable avec une hache. Ce combattant excelle d'ailleurs dans le maniement de cette arme comme en tÈmoigne la multitude d'Orques tombÈs sous ses coups.\n D'une robustesse exceptionnelle, mÍme pour un Nain, Gimli devient une implacable force de destruction lorsqu'on provoque sa colËre ou que ses compagnons sont en danger."
@@ -16138,7 +16138,7 @@ CONTROLBAR:RohanGimliHotkey
 END
 
 CONTROLBAR:ToolTipBuildEomer
-"Recruit the Leader of the outlawed Rohirrim"
+"Recrutez le chef des Rohirrim exilÈs"
 END
 
 CONTROLBAR:RohanEomerRecruit
@@ -16176,7 +16176,7 @@ CONTROLBAR:ConstructGoblinCave
 "Construire une Cave Orque de la Moria"
 END
 CONTROLBAR:ToolTipGoblinCave
-"Trains Moria Orques Warriors, Archers, and Cave Trolls"
+"EntraÓne des guerriers orques de la Moria, des archers et des trolls des cavernes"
 END
 
 CONTROLBAR:ConstructGoblinCaveTroll
@@ -16192,7 +16192,7 @@ CONTROLBAR:ToolTipBuildGoblinCaveTrollLair
 END
 
 CONTROLBAR:ConstructGoblinFissure
-"Construire une Gathering??? de Gundabad"
+"Construire une fissure de Gundabad"
 END
 
 CONTROLBAR:ToolTipGoblinFissure
@@ -16338,7 +16338,7 @@ CONTROLBAR:ToolTipBuildMordorEasterlingHorde
 END
 
 CONTROLBAR:ToolTipBuildMordorEasterlingHordeForInn
-"Strong vs. Cavalry and Heroes \n Able to switch formation for improved defensive capabilities\n \n The Men of Rhùn have a long history of Morgoth-worship. During the late Third Age, they joined with Sauron to make up the core of his armies."
+"Forts contre la cavalerie et les hÈros \n Capables de changer de formation pour amÈliorer leurs capacitÈs dÈfensives\n \n Les hommes de Rhùn ont longtemps vÈnÈrÈ Morgoth. ¿ la fin du troisiËme ‚ge, ils se sont joints ‡ Sauron pour former le noyau de ses armÈes."
 END
 
 CONTROLBAR:ToolTipBuildMordorHaradrimSpearHorde
@@ -16383,7 +16383,7 @@ CONTROLBAR:ToolTipBuildMordorMumakil
 "Les armÈes du Harad alignent souvent des M˚makil, d'Ènormes bÍtes de guerre entraÓnÈes par les mystÈrieux Mah˚d. Ces crÈatures gigantesques portent sur le dos une tour d'osier et de cuir, depuis laquelle Haradrim ou Mah˚d peuvent libÈrer une pluie de projectiles sur leurs ennemis.\nUn M˚mak en charge est presque impossible ‡ arrÍter, et ceux qui tentent de lui barrer la route sont impitoyablement piÈtinÈs ou projetÈs en l'air.\n\n Forts contre les structures et les cavaliers."
 END
 CONTROLBAR:ToolTipBuildMordorGreatBeast
-"Requires Level 3 Great Siege Works \n Strong vs. Structures and Cavalry \n\n These lumbering creatures are native to the great ash-covered plains of Gorgoroth, feeding on the thick roots that grow in the dry soil of that barren land. The orcs were quick to realize their potential as beasts of burden and war, and have long bred them in captivity, fielding them in Sauron's war against the lands of Gondor"
+"Requiert : niveau 3 Grand Atelier de siËge \n Fort contre les structures et la cavalerie\n\n Ces crÈatures pesantes sont originaires des grandes plaines couvertes de cendres de Gorgoroth, et se nourrissent des racines Èpaisses qui poussent dans le sol sec de cette terre stÈrile. Les orcs ont rapidement rÈalisÈ leur potentiel en tant que bÍtes de somme et de guerre, et les ont longtemps ÈlevÈes en captivitÈ, en les faisant combattre dans la guerre de Sauron contre les terres du Gondor"
 END
 
 CONTROLBAR:ToolTipBuildMordorSiegeTower
@@ -17380,11 +17380,11 @@ CONTROLBAR:ToggleDefaultFormation
 END
 
 CONTROLBAR:ToolTipToggleSnowbourneLineFormation
-"+15% Speed \n +15% Armor \n -15% Crush velocity"
+"+15% Vitesse \n +15% Armure \n -15% Vitesse d'Ècrasement"
 END
 
 CONTROLBAR:ToolTipToggleSnowbourneDefualtFormation
-"The units return to standard formation"
+"es unitÈs reviennent ‡ leur formation standard"
 END
 
 CONTROLBAR:ToolTipToggleWedgeFormation
@@ -17541,7 +17541,7 @@ CONTROLBAR:PalantirVision
 END
 
 CONTROLBAR:FarSeeing
-"Longue vision"
+"Vision lointaine"
 END
 
 CONTROLBAR:EnshroudingMist
@@ -17569,7 +17569,7 @@ CONTROLBAR:ToolTipTheOneRing_Riddle
 END
 
 CONTROLBAR:ToolTipTheOneRingIsildur
-"Become invisible but can not attack"
+"Devient invisible mais ne peut attaquer"
 END
 
 CONTROLBAR:FryingPan
@@ -17593,7 +17593,7 @@ CONTROLBAR:ToolTipElvenCloak
 END
 
 CONTROLBAR:ToolTipElvenCloakCampaign
-"Becomes invisible when standing still \n Also passively grants +10% armor to all nearby hobbit heroes \n Left click to activate"
+"Devient invisible si immobile \n ConfËre de maniËre passivÈ +10% d'armure ‡ tous les hÈros hobbit proches \n Clic gauche pour activer"
 END
 
 CONTROLBAR:ToolTipElvenCloakBasicUnit
@@ -17671,7 +17671,7 @@ CONTROLBAR:ToolTipFaramirSummonLeadership
 END
 
 CONTROLBAR:ToolTipCampaignFaramirSummonLeadership
-"Requires Level 3 \n Faramir calls a group of Rangers to defend targeted location. They are immobile, but remain stealthed and will attack any enemy that approaches. \n Left click icon then left click on pathable location \n\n Modifier Type: Leadership \n Allies near Faramir gain +33% Damage, +33% Armor, and earn experience 50% faster \n Stacks with Buffs and Spells \n Passive ability"
+"Requiert : niveau 3 \n Faramir appelle un groupe de Rangers pour dÈfendre l'endroit visÈ. Ils sont immobiles, mais restent discrets et attaquent tout ennemi qui s'approche. \n Clic gauche sur l'icone puis clic gauche sur l'emplacement visÈ \n\n Modifier Type: Leadership \n Les alliÈs proches de Faramir gagnent +33% de dÈgats, +33% d'armure, et gagnent de l'expÈrience 50% plus rapidement \n (bonus cumulable) \n CapacitÈ passive"
 END
 
 CONTROLBAR:FaramirAmbushAbility
@@ -17814,7 +17814,7 @@ CONTROLBAR:ToolTipBuildRohanPeasant
 END
 
 CONTROLBAR:ToolTipBuildRohanPeasantDrafted
-"Drafted \n \n The Riddermark depended on its peasants to work the fields - only in times of great need could they be levied to serve their king in battle."
+"EnrÙlÈs \n \n Le Riddermark dÈpendait de ses paysans pour travailler les champs - ce n'est qu'en cas de grand besoin qu'ils pouvaient Ítre perÁus pour servir leur roi au combat."
 END
 
 CONTROLBAR:ToolTipSpecialAbilityDwarfToss
