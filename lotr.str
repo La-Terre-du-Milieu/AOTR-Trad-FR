@@ -48227,40 +48227,40 @@ END
 
 CONTROLBAR:ConstructRivendellHobbitShirrif
 //"Hobbits"
-"Bounder&s"
+"Garde frontiËres"
 End
 
 CONTROLBAR:ToolTipRivendellHobbitShirrif
 //"Recruits Hobbits to the battlefield"
-"Strong vs. Infantry \n Can stealth near trees \nThe Bounders are peace-keepers, patrolling the roads, paths, and borders of the Shire, settling disputes and keeping an eye out for wicked things and foreigners alike. During the last days of the Third Age, their numbers were greatly increased by Mayor Whitfoot, who could feel trouble brewing in the wild lands beyond."
+"Forts contre l'infanterie \n Gagne la furtivitÈ prËs des arbres \nLes garde-frontiËres sont des gardiens de la paix qui patrouillent les routes, les chemins et les frontiËres du ComtÈ, rËglent les diffÈrends et surveillent les mÈchants et les Ètrangers. Pendant les derniers jours du troisiËme ‚ge, leur nombre a ÈtÈ considÈrablement augmentÈ par le maire Will Piedblanc qui sentait que des problËmes se prÈparaient dans les terres sauvages au-del‡ du ComtÈ."
 End
 
 CONTROLBAR:ConstructArnorArcherHorde
-"Rivendell Archers"
+"Archers d'Imladris"
 END
 
 CONTROLBAR:ConstructArnorRangerHorde
-"D˙nedain Rangers"
+"Rodeurs D˙nedain"
 END
 
 CONTROLBAR:ConstructRivendellGreyCompanyHorde
-"Grey Company"
+"Compagnie Grise"
 END
 
 CONTROLBAR:ConstructArnorFighterHorde
-"Bree-Land Townsguard"
+"Gardes de la citÈ du Pays de Bree"
 END
 
 CONTROLBAR:ConstructElvenImladrisWarriorHordeS
-"Rivendell Guardsmen"
+"Guerriers d'Imladris"
 END
 
 CONTROLBAR:ConstructElvenImladrisWarriorHorde
-"Rivendell Archers"
+"Archers d'Imladris"
 END
 
 CONTROLBAR:ConstructArnorShieldGuardHorde
-"Rivendell Glaivemen"
+"Hoplites d'Imladris"
 END
 
 CONTROLBAR:ConstructRivendellRevelerHorde
@@ -48268,15 +48268,15 @@ CONTROLBAR:ConstructRivendellRevelerHorde
 END
 
 CONTROLBAR:ConstructArnorKnightHorde
-"Rivendell Knights"
+"Chevaliers d'Imladris"
 END
 
 CONTROLBAR:ConstructArnorTrebuchet
-"Rivendell Trebuchet"
+"TrÈbuchet d'Imladris"
 END
 
 CONTROLBAR:ConstructArnorPorter
-"Rivendell Builder"
+"Batisseur d'Imladris"
 END
 
 CONTROLBAR:ConstructArnorFireArrowPorter
@@ -48292,9 +48292,9 @@ CONTROLBAR:ConstructArnorHeavyArmorPorter
 END
 
 CONTROLBAR:ConstructArnorKnightShieldPorter
-"Fondcombe Knight Shield Porter"
-END
-
+"ND
+Fondcombe Knight Shield Porter"
+E
 CONTROLBAR:ConstructFireStoneArnorPorter
 "Fondcombe Pierres de feu Porter"
 END
@@ -48321,7 +48321,7 @@ CONTROLBAR:ToolTipBuildRivendellGreyCompanyHorde
 END
 
 CONTROLBAR:ToolTipBuildArnorRangerHorde
-"Versatile unit wielding bows and spears\n Forts ‡ distance and vs Cavalry"
+"UnitÈ polyvalente pouvant alterner entre arcs et lances\n Forts ‡ distance et contre la cavalerie"
 END
 
 CONTROLBAR:ToolTipBuildElvenImladrisWarriorHordeWithNoPrerequisitesS
@@ -48337,15 +48337,15 @@ CONTROLBAR:ToolTipBuildArnorRangerHordeForGoodIthilien
 END
 
 CONTROLBAR:ToolTipBuildArnorShieldGuardHorde
-"Requiert : Caserne niveau 2\n Elite Pikemen\n Forts contre les cavaliers"
+"Requiert : Caserne niveau 2\n Piquiers d'Èlite\n Forts contre les cavaliers"
 END
 
 CONTROLBAR:ToolTipBuildRivendellRevelerHorde
-"Requires the Song and Merriment upgrade \n A party of Elven Revelers \n Limited to 5\n\nThe long history of the Elves is oft related through song and music, both sad and joyous."
+"NÈcessite l'amÈlioration Chanson et FÈlicitÈ \n Une bande de troubadours elfes \n LimitÈ ‡ 5\n\nLa longue histoire des Elfes est souvent racontÈe ‡ travers des chansons et des musiques, ‡ la fois tristes et joyeuses."
 END
 
 CONTROLBAR:ToolTipBuildArnorShieldGuardHordeCav
-"Requiert : Ecurie niveau 2\n Limited to 3\n Hero Unit\n Forts contre les archers  Infantry"
+"Requiert : Ecurie niveau 2\n LimitÈ ‡ 3\n UnitÈ hÈroÔque\n Forts contre les archers et l'infanterie"
 END
 
 CONTROLBAR:ToolTipBuildArnorKnightHorde
@@ -48367,7 +48367,7 @@ END
 
 
 CONTROLBAR:ToolTipBuildArnorPeasant
-"Arnor Paysan\n Can repair buildings"
+"Arnor Paysan\n Peuvent rÈparer les batiments"
 END
 
 CONTROLBAR:ConstructArnorPeasant
@@ -48408,7 +48408,7 @@ OBJECT:ArnorStatueDescription
 END
 
 OBJECT:ArnorWellDescription
-"Replenishes health and units in nearby Bataillons de "
+"Soigne les unitÈs proches"
 END
 
 OBJECT:ArnorBattleTowerDescription
@@ -48418,7 +48418,7 @@ END
 ///////////////
 
 CONTROLBAR:PurchaseTechnologyArnorFireArrows
-"Rechercher FlËches ‡ plumes de cygne Upgrade"
+"Rechercher l'amÈlioration FlËches ‡ plumes de cygne"
 END
 
 CONTROLBAR:ToolTipPurchaseTechnologyArnorFireArrows
@@ -48430,23 +48430,23 @@ CONTROLBAR:ToolTipPurchaseUpgradeArnorFireArrows
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeArnorFireArrowsHobbits
-"Increases base damage and adds additional piercing damage to arrows \n Left click to upgrade this unit"
+"Accroit les dÈgats de base et ajoute des dÈgats perÁants aux flËches \n Clic gauche pour Èquiper cette unitÈ"
 END
 
 CONTROLBAR:PurchaseTechnologyArnorForgedBlades
-"Rechercher Lames gravÈes de Tengwar"
+"Rechercher Lames gravÈes en Tengwar"
 END
 
 CONTROLBAR:ToolTipPurchaseTechnologyArnorForgedBlades
-"Forged Blade Upgrade.\n Increases damage done by Melee Weapons\n Select a battalion to upgrade"
+"AmÈlioration lames forgÈes.\n Accroit les dÈgats infligÈs par les armes de mÍlÈe\n SÈlectionnez un bataillon pour l'amÈliorer"
 END
 
 CONTROLBAR:PurchaseUpgradeArnorForgedBlades
-"Lames gravÈes de Tengwar"
+"Lames gravÈes en Tengwar"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeArnorForgedBlades
-"\n Increases damage done by Melee Weapons\n Clic gauche pour amÈliorer cette unitÈ"
+"\n Accroit les dÈgats infligÈs par les armes de mÍlÈe \n Clic gauche pour amÈliorer cette unitÈ"
 END
 
 CONTROLBAR:PurchaseTechnologyArnorHeavyArmor
@@ -48454,7 +48454,7 @@ CONTROLBAR:PurchaseTechnologyArnorHeavyArmor
 END
 
 CONTROLBAR:ToolTipPurchaseTechnologyArnorHeavyArmor
-"l'amÈlioration Armure lourde.\n Select a battalion to upgrade"
+"l'amÈlioration Armure lourde.\n SÈlectionnez un bataillon pour l'amÈliorer"
 END
 
 CONTROLBAR:PurchaseUpgradeArnorHeavyArmor
@@ -48471,19 +48471,19 @@ CONTROLBAR:PurchaseTechnologyArnorBasicTraining
 END
 
 CONTROLBAR:ToolTipPurchaseTechnologyArnorBasicTraining
-"Increases a unit au niveau 2\n Utilisable seulement au niveau 1"
+"AmÈliore l'unitÈ au niveau 2\n Utilisable seulement au niveau 1"
 END
 
 CONTROLBAR:PurchaseUpgradeArnorBasicTraining
-"Banner Carrier Upgrade"
+"AmÈlioration Porte-Etendard"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeArnorBasicTraining
-"Increases a unit au niveau 2\n Utilisable seulement au niveau 1"
+"AmÈliore l'unitÈ au niveau 2\n Utilisable seulement au niveau 1"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeArnorBasicTrainingForElves
-"Increases a unit to Level 2\nAllows to regain health outside of combat\n Can only be equipped at Level 1"
+"AmÈliore l'unitÈ au niveau 2\nPermet de regagner de la santÈ en dehors du combat\n Peut seulement Ítre ÈquipÈ au niveau 1"
 END
 
 UPGRADE:ArnorHeavyArmor
@@ -48563,7 +48563,7 @@ CONTROLBAR:PurchaseUpgradeArnorFortressNumenorStonework
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeArnorFortressNumenorStonework
-"Increases Fortress and Wall armor\n Prerequisite for Tour d'Ivoire"
+"Accroit l'armure de la forteresse et des murs\n PrÈ-requis pour la Tour d'Ivoire"
 END
 
 CONTROLBAR:PurchaseUpgradeArnorFortressFlamingMunitions
@@ -48571,11 +48571,11 @@ CONTROLBAR:PurchaseUpgradeArnorFortressFlamingMunitions
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeArnorFortressFlamingMunitions
-"Adds fire damage to all attached towers and trebuchets"
+"Ajoute des dÈgats de feu ‡ toutes les tours et trÈbuchets reliÈs"
 END
 
 CONTROLBAR:PurchaseUpgradeArnorFortressBanners
-"Banners"
+"BanniËres"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeArnorFortressBanners
@@ -48583,11 +48583,11 @@ CONTROLBAR:ToolTipPurchaseUpgradeArnorFortressBanners
 END
 
 CONTROLBAR:PurchaseUpgradeArnorFortressHouseOfHealing
-"House of Healing"
+"Maisons de GuÈrison"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeArnorFortressHouseOfHealing
-"Reduces Hero revival cost by 20%.\n Reduces Hero revival time by 20%"
+"RÈduit le cout de rappel ‡ la vie des hÈros de 20%.\n RÈduit leur temps de rÈapparition de 20%"
 END
 
 CONTROLBAR:PurchaseUpgradeArnorFortressIvoryTower
@@ -48595,7 +48595,7 @@ CONTROLBAR:PurchaseUpgradeArnorFortressIvoryTower
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeArnorFortressIvoryTower
-"Provides PalantÌr Vision Power\n Increases Fortress vision range"
+"Fournit la puissance de vision du PalantÌr\n Augmente la portÈe de la vision de la forteresse"
 END
 
 CONTROLBAR:PurchaseUpgradeArnorFortressBoilingOil
@@ -48713,11 +48713,11 @@ CONTROLBAR:LW_Structure_ArnorBarracks
 END
 
 CONTROLBAR:LW_ToolTipBuild_ArnorBarracks
-"Type de structure : Caserne\n Trains elven units\n "
+"Type de structure : Caserne\n EntraÓne les unitÈs elfes\n "
 END
 
 CONTROLBAR:LW_ToolTip_ArnorBarracks
-"Type de structure : Caserne\n Trains elven units"
+"Type de structure : Caserne\n EntraÓne les unitÈs elfes"
 END
 
 CONTROLBAR:LW_Structure_ArnorBlackSmith
@@ -48725,11 +48725,11 @@ CONTROLBAR:LW_Structure_ArnorBlackSmith
 END
 
 CONTROLBAR:LW_ToolTipBuild_ArnorBlackSmith
-"Type de structure : Armurerie\n Grants all upgrades to units\n "
+"Type de structure : Armurerie\n Fournit les amÈliorations aux unitÈs\n "
 END
 
 CONTROLBAR:LW_ToolTip_ArnorBlackSmith
-"Type de structure : Armurerie\n Grants all upgrades to units"
+"Type de structure : Armurerie\n Fournit les amÈliorations aux unitÈs"
 END
 
 CONTROLBAR:LW_Structure_ArnorFarm
@@ -48737,11 +48737,11 @@ CONTROLBAR:LW_Structure_ArnorFarm
 END
 
 CONTROLBAR:LW_ToolTipBuild_ArnorFarm
-"Type de structure : Verger\n Increases treasury\n "
+"Type de structure : Verger\n Augmente les ressources\n "
 END
 
 CONTROLBAR:LW_ToolTip_ArnorFarm
-"Type de structure : Verger\n Increases treasury\n "
+"Type de structure : Verger\n Augmente les ressources\n "
 END
 
 
@@ -48780,11 +48780,11 @@ CONTROLBAR:LW_ToolTip_ArnorArcherHorde
 END
 
 CONTROLBAR:LW_Unit_ArnorTowerGuardHorde
-"Rivendell Guard Bataillon de "
+"Bataillon de gardes de la tour"
 END
 
 CONTROLBAR:LW_Unit_ArnorTowerGuardHordePlural
-"Rivendell Guard Bataillons de "
+"Bataillons de gardes de la tour"
 END
 
 CONTROLBAR:LW_ToolTipBuild_ArnorTowerGuardHorde
@@ -48796,11 +48796,11 @@ CONTROLBAR:LW_ToolTip_ArnorTowerGuardHorde
 END
 
 CONTROLBAR:LW_Unit_ArnorKnightHorde
-"Fondcombe Knight Bataillon de "
+"Bataillon de chevaliers d'Imladris "
 END
 
-CONTROLBAR:LW_Unit_ArnorKnightHordePlural
-"Fondcombe Knight Bataillons de "
+CONTROLBAR:LW_Unit_ArnorKnightHordePlural "
+"Bataillons de chevaliers d'Imladris"
 END
 
 CONTROLBAR:LW_ToolTipBuild_ArnorKnightHorde
@@ -48813,39 +48813,39 @@ END
 
 
 OBJECT:ArnorBuildingGeneral2
-"Arnor Building 2"
+"Batiment de l'Arnor 2"
 End
 
 OBJECT:ArnorBuildingGeneral3
-"Arnor Building 3"
+"Batiment de l'Arnor 3"
 End
 
 OBJECT:ArnorBuildingGeneral4
-"Arnor Building 4"
+"Batiment de l'Arnor 4"
 End
 
 OBJECT:ArnorBuildingGeneral5
-"Arnor Building 5"
+"Batiment de l'Arnor 5"
 End
 
 OBJECT:ArnorBuildingGeneral6
-"Arnor Building 6"
+"Batiment de l'Arnor 6"
 End
 
 OBJECT:ArnorBuildingGeneral7
-"Arnor Building 7"
+"Batiment de l'Arnor 7"
 End
 
 OBJECT:ArnorBuildingGeneral8
-"Arnor Building 8"
+"Batiment de l'Arnor 8"
 End
 
 OBJECT:ArnorCastleBarracks_temp
-"Arnor Caserne"
+"Caserne de l'Arnor"
 End
 
 OBJECT:ArnorCastleFoundation_temp
-"Castle Foundation"
+"Fondation de chateau"
 End
 
 OBJECT:ArnorCastleKeep_temp
@@ -48881,11 +48881,11 @@ OBJECT:ArnorForbiddenPool
 End
 
 OBJECT:ArnorHseHeal
-"House of Healing"
+"Maison de GuÈrison"
 End
 
 OBJECT:ArnorSilverTree
-"Silver Tree"
+"Arbre sylvestre"
 End
 
 
@@ -48950,7 +48950,7 @@ Upgrade:ArnorWorkshopLevel3
 END
 
 OBJECT:ArnorTent
-"Tent"
+"Tente"
 END
 
 CONTROLBAR:MasterTracker
@@ -48958,63 +48958,63 @@ CONTROLBAR:MasterTracker
 END
 
 CONTROLBAR:DunedainChieftain
-"Chieftain of the Dùnedain"
+"Chef des Dunedain"
 END
 
 CONTROLBAR:ToolTipDunedainChieftain
-"Nearby Dùnedain gain +33% attack damage \n and become immune to fear\n Passive power \n \n Isildur's Heir \n Requiert : Niveau 9 and Andùril Upgrade \n Nearby Dùnedain gain +33% attack damage \n and become immune to fear \n When activated, all nearby units gain +33% Damage, +50% Armor and become immune to fear"
+"Les Dunedains proches gagnent +33% de dÈgats \n et sont immunisÈs ‡ la peur\n pouvoir passif \n \n HÈritier d'Isildur \n Requiert : Niveau 9 et l'amÈlioration Anduril \n Les Dunedains proches gagnent +33% de dÈgats \n et sont immunisÈs ‡ la peur \n Quand le pouvoir est activÈ, toutes les unitÈs proches gagnent +33% de dÈg‚ts, 50% d'armure et sont immunisÈes ‡ la peur"
 END
 
 CONTROLBAR:AragornIsildurHeir
-"&Isildur's Heir"
+"HÈritier d'Isildur"
 END
 
 CONTROLBAR:ToolTipFellowshipAragornIsildurHeir
-"Requiert : Niveau 9 and Andùril Upgrade \n Nearby Dùnedain gain +33% attack damage and become immune to fear\n Passive power \n When activated, all nearby units gain +33% Damage, \n +50% Armor and become immune to fear"
+"Requiert : Niveau 9 et l'amÈlioration Anduril \n Les Dunedains proches gagnent +33% de dÈgats \n et sont immunisÈs ‡ la peur \n Quand le pouvoir est activÈ, toutes les unitÈs proches gagnent +33% de dÈg‚ts, 50% d'armure et sont immunisÈes ‡ la peur"
 END
 
 CONTROLBAR:ArnorAragornBlademaster
-"A Fire Shall Be Woken"
+"Un feu doit Ítre rÈveillÈ"
 END
 
 CONTROLBAR:TooltipArnorAragornBlademaster
-//"Requiert : niveau 2\n Aragorn temporarily gains +100% dÈg‚ts et +100% armure\n\nClic gauche pour activer"
-//"Requiert : niveau 3\n Aragorn temporarily gains +100% dÈg‚ts et +100% armure\n\nClic gauche pour activer"
-"Requiert : niveau 6\n Aragorn gagne temporairement +100% dÈg‚ts, +100% armure, and wields a torch\n\nClic gauche pour activer"
+//"Requiert : niveau 2\n Aragorn gagne temporairement +100% dÈg‚ts et +100% armure\n\nClic gauche pour activer"
+//"Requiert : niveau 3\n Aragorn gagne temporairement +100% dÈg‚ts et +100% armure\n\nClic gauche pour activer"
+"Requiert : niveau 6\n Aragorn gagne temporairement +100% dÈg‚ts, +100% armure, et manie une torche\n\nClic gauche pour activer"
 END
 
 CONTROLBAR:FellowshipAragornBlademaster
-"Fa&ithful Protector"
+"Protecteur fidËle"
 END
 
 CONTROLBAR:TooltipFellowshipAragornBlademaster
-//"Requiert : Niveau 2 \n Aragorn temporarily gains +100% Damage and +100% Armor \n Clic gauche pour activer"
-//"Requiert : Niveau 3 \n Aragorn temporarily gains +100% Damage and +100% Armor \n Clic gauche pour activer"
-"Requiert : Niveau 5 \n Aragorn temporarily gains\n+100% Damage, +100% Armor, and wields a torch \n Clic gauche pour activer"
+//"Requiert : niveau 2\n Aragorn gagne temporairement +100% dÈg‚ts et +100% armure\n\nClic gauche pour activer"
+//"Requiert : niveau 3\n Aragorn gagne temporairement +100% dÈg‚ts et +100% armure\n\nClic gauche pour activer"
+"Requiert : niveau 6\n Aragorn gagne temporairement +100% dÈg‚ts, +100% armure, et manie une torche\n\nClic gauche pour activer"
 END
 
 CONTROLBAR:TooltipFellowshipStriderBlademaster
-//"Requiert : Niveau 2 \n Aragorn temporarily gains +100% Damage and +100% Armor \n Clic gauche pour activer"
-//"Requiert : Niveau 3 \n Aragorn temporarily gains +100% Damage and +100% Armor \n Clic gauche pour activer"
-"Requiert : Niveau 5 \n Strider temporarily gains\n+100% Damage, +100% Armor, and wields a torch \n Clic gauche pour activer"
+//"Requiert : niveau 2\n Aragorn gagne temporairement +100% dÈg‚ts et +100% armure\n\nClic gauche pour activer"
+//"Requiert : niveau 3\n Aragorn gagne temporairement +100% dÈg‚ts et +100% armure\n\nClic gauche pour activer"
+"Requiert : niveau 5\n Grands-Pas gagne temporairement +100% dÈg‚ts, +100% armure, et manie une torche\n\nClic gauche pour activer"
 END
 
 CONTROLBAR:ToolTipMasterTrackerAbility
-//"Requiert : niveau 2\n Aragorn temporarily gains +100% dÈg‚ts et +100% armure\n\nClic gauche pour activer"
-//"Requiert : niveau 3\n Aragorn temporarily gains +100% dÈg‚ts et +100% armure\n\nClic gauche pour activer"
-"Requiert : niveau 3\n Aragorn and nearby allies gain\n +15% vitesse\n\n When using his bow\n Aragorn temporarily gains +150% vision range and +25% range\n\nClic gauche pour activer"
+//"Requiert : niveau 2\n Aragorn gagne temporairement +100% dÈg‚ts et +100% armure\n\nClic gauche pour activer"
+//"Requiert : niveau 3\n Aragorn gagne temporairement +100% dÈg‚ts et +100% armure\n\nClic gauche pour activer"
+"Requiert : niveau 3\n Aragorn et les alliÈs proches\n +15% vitesse\n\n Quand il utilise son arc\n Aragorn gagne temporairement + 150% de champ de vision et + 25% de portÈe\n\nClic gauche pour activer"
 END
 
 CONTROLBAR:ToolTipMasterTrackerLeadership
-//"Requiert : niveau 4\n Les alliÈs proches de Aragorn gain\n +50% dÈg‚ts, +50% armure,\n and earn experience twice as fast\n\nCapacitÈ passive      Does not stack"
-//"Requiert : niveau 4\n Les alliÈs proches de Aragorn gain\n +33% dÈg‚ts, +33% armure,\n and earn experience twice as fast\n\nCapacitÈ passive"
-"Requiert : niveau 3\n Aragorn and nearby allies gain\n +15% vitesse\n\n When using his bow\n Aragorn temporarily gains +150% vision range and +25% range\n\nCapacitÈ passive"
+//"Requiert : niveau 4\n Les alliÈs proches de Aragorn gagnent\n +50% dÈg‚ts, +50% armure,\n et gagnent de l'expÈrience deux fois plus rapidement\n\nCapacitÈ passive      Ne se cumule pas"
+//"Requiert : niveau 4\n Les alliÈs proches de Aragorn gagnent\n +33% dÈg‚ts, +33% armure,\n et gagnent de l'expÈrience deux fois plus rapidement\n\nCapacitÈ passive"
+"Requiert : niveau 3\n Aragorn et les alliÈs proches\n +15% vitesse\n\n Quand il utilise son arc\n Aragorn gagne temporairement + 150% de champ de vision et + 25% de portÈe\n\nCapacitÈ passive"
 END
 
 CONTROLBAR:ToolTipAragornIsildurLeadership
-//"Requiert : niveau 4\n Les alliÈs proches de Aragorn gain\n +50% dÈg‚ts, +50% armure,\n and earn experience twice as fast\n\nCapacitÈ passive      Does not stack"
-//"Requiert : niveau 4\n Les alliÈs proches de Aragorn gain\n +33% dÈg‚ts, +33% armure,\n and earn experience twice as fast\n\nCapacitÈ passive"
-"Requiert : niveau 9\n Les alliÈs proches d'Aragorn gagnent +50% dÈg‚ts et deviennent rÈsistants ‡ la peur.\n Aragorn gains And˙ril\n\nCapacitÈ passive"
+//"Requiert : niveau 4\n Les alliÈs proches de Aragorn gain\n +50% dÈg‚ts, +50% armure,\n et gagnent de l'expÈrience deux fois plus rapidement\n\nCapacitÈ passive      Ne se cumule pas"
+//"Requiert : niveau 4\n Les alliÈs proches de Aragorn gain\n +33% dÈg‚ts, +33% armure,\n et gagnent de l'expÈrience deux fois plus rapidement\n\nCapacitÈ passive"
+"Requiert : niveau 9\n Les alliÈs proches d'Aragorn gagnent +50% dÈg‚ts et deviennent rÈsistants ‡ la peur.\n Aragorn gagne And˙ril\n\nCapacitÈ passive"
 END
 
 ////////////////////////// ANGMAR UNITS //////////////////////////////////////////
@@ -49024,7 +49024,7 @@ END
 // Angmar Units
 
 OBJECT:Angmarnecromancer
-"Sorcerer"
+"Sorcier"
 END
 
 OBJECT:AngmarMenOfDale
@@ -49044,7 +49044,7 @@ OBJECT:HordeAngmarRanger
 END
 
 CONTROLBAR:AngmarWitchKingRecruit
-"Recruit the Ruler of Angmar"
+"Recrutez le chef d'Angmar"
 END
 CONTROLBAR:AngmarWitchKingRevive
 "Rappelez Le Roi-Sorcier ‡ la vie"
@@ -49097,12 +49097,12 @@ End
 
 BANNERUI:AngmarNecromancer
 // Singluar name of the Angmar Guardian category displayed in the army summary for WotR
-"Sorcerer"
+"Sorcier"
 End
 
 BANNERUI:AngmarNecromancers
 // Plural name of the Angmar Guardian category displayed in the army summary for WotR
-"Sorcerers"
+"Sorciers"
 End
 
 BANNERUI:AngmarTrollSling
@@ -49146,23 +49146,23 @@ End
 ////Angmar Units////
 
 CONTROLBAR:LW_Unit_AngmarDarkDunedainHorde
-"N˙menÛrÈen Noir Horde"
+"Horde de N˙menÛrÈens noirs"
 END
 
 CONTROLBAR:LW_Unit_AngmarDarkDunedainHordePlural
-"N˙menÛrÈen Noir Hordes"
+"Hordes de N˙menÛrÈens noirs"
 END
 
 CONTROLBAR:LW_ToolTipBuild_AngmarDarkDunedainHorde
-"Type d'unitÈ : Elite Swordsmen.\n\n Forts contre les piquiers\n "
+"Type d'unitÈ : EpÈistes d'Èlite.\n\n Forts contre les piquiers\n "
 END
 
 CONTROLBAR:LW_Unit_AngmarDarkRangerHorde
-"RÙdeur Noir Horde"
+"Horde de RÙdeurs Noirs"
 END
 
 CONTROLBAR:LW_Unit_AngmarDarkRangerHordePlural
-"RÙdeur Noir Hordes"
+"Hordes de RÙdeur Noir "
 END
 
 TOOLTIP:LackLevel2HallOfKingsMen
