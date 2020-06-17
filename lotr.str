@@ -58106,7 +58106,7 @@ END
 // New tooltip
 
 CONTROLBAR:TooltipElrondAthelas
-"Heals nearby friendly units.\n\nClic gauche pour activer"
+"Soigne les unités alliées proches.\n\nClic gauche pour activer"
 END
 
 
@@ -58184,7 +58184,7 @@ CONTROLBAR:ToolTipLightTorch
 END
 
 CONTROLBAR:ToolTipExtinguishTorch
-//"Extinguish the torch that detonates explosive mines when lit\n No Penalty\n\nClic gauche pour activer"
+//"Éteindre la torche qui fait exploser les mines explosives lorsqu'elle est allumée\n No Penalty\n\nClic gauche pour activer"
 "Eteint la torche.\n\nClic gauche pour activer"
 END
 
@@ -58192,10 +58192,10 @@ END
 //========================= VERSION 3.0.3 ==========	;;,;;
 
 CONTROLBAR:ToolTipOutlawLeadership
-//"Requiert : niveau 2\n Nearby allies earn resources per kill\n\n Capacité passive"
-//"Requiert : niveau 2\n Nearby cavalry earn resources per kill\n\n Capacité passive"
-//"Requiert : niveau 5\n Nearby allies earn resources per kill\n\n Capacité passive"
-"Requiert : niveau 4\n Nearby allies earn resources per kill\n\n Capacité passive"
+//"Requiert : niveau 2\n Les alliés proches amassent des ressources à chaque ennemi tué\n\n Capacité passive"
+//"Requiert : niveau 2\n La cavalerie proche amasse des ressources à chaque ennemi tué\n\n Capacité passive"
+//"Requiert : niveau 5\n Les alliés proches amassent des ressources à chaque ennemi tué\n\n Capacité passive"
+"Requiert : niveau 4\n Les alliés proches amassent des ressources à chaque ennemi tué\n\n Capacité passive"
 END
 
 CONTROLBAR:ToolTipSlayer
@@ -58354,8 +58354,8 @@ CONTROLBAR:ToolTipBuildIsengardWildmanHorde
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeWildFortressDragonNest
-//"Allows summoning of a Wyrm de feu"
-"Allows the recruitment of a Fire Drake Units\n Slowly heals nearby Smaug"
+//"Permet l'invocation d'un drake de feu"
+"Permet le recrutement d'une unité de drakes de feu\n Se soignent lentement près de Smaug"
 END
 
 
@@ -58412,7 +58412,7 @@ CONTROLBAR:ToolTipToggleTowerGuardLineToPorcupineFormation
 End
 
 CONTROLBAR:ToolTipToggleLineToSchiltronFormation
-"The Edoras Kingsguard form up into a schiltron formation\n-33% movement speed, +10% armor, bonus damage to cavalry"               
+"Les Garde-royaux d'Edoras se mettent en formation Schiltron\n Ils perdent 33% de vitesse mais gagnent +10% d'armure, dégats bonus face à la cavalerie"               
 End
 
 CONTROLBAR:ToolTipToggleLorienSentryLineToPorcupineFormation
@@ -58425,12 +58425,12 @@ CONTROLBAR:ToolTipEowynMount
 END
 
 CONTROLBAR:EowynNewMount
-"&Mount Windfola / Dismount"
+"Monter Windfola / Mettre pied à terre"
 END
 
 CONTROLBAR:ToolTipNewEowynMount
-//"Requiert : Niveau 3 \n Clic gauche to switch between \n mounted and on foot"
-"Requiert : Niveau 5 \n Clic gauche to switch between mounted on Windfola and on foot \n When mounted on Windfola, Eowyn gains +25% armor near Rohirrim units"
+//"Requiert : Niveau 3 \n Clic gauche pour changer \n entre la monte et mettre pied à terre"
+"Requiert : Niveau 5 \n Clic gauche pour changer entre monter Windfola ou mettre pied à terre \n Montée sur Winfola, Eowyn gagne +25% d'armure près des unités Rohirrim"
 END
 
 CONTROLBAR:ToolTipShieldMaiden
