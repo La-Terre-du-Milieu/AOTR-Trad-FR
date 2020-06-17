@@ -15399,8 +15399,8 @@ CONTROLBAR:Earthquake
 End
 
 CONTROLBAR:ToolTipEarthquake
-//"Crée un tremblement de terre sur une zone du terrain, causant de gros dommages aux structures.\n\nClic gauche sur la cible"
-"Crée un tremblement de terre sur une zone du terrain, causant de gros dommages aux structures et des dégâts modérés aux unités.\n\nClic gauche sur la zone cible"
+//"Crée un tremblement de terre sur une zone du terrain, causant de gros dégats aux structures.\n\nClic gauche sur la cible"
+"Crée un tremblement de terre sur une zone du terrain, causant de gros dégats aux structures et des dégâts modérés aux unités.\n\nClic gauche sur la zone cible"
 END
 
 CONTROLBAR:Conquer
@@ -16059,7 +16059,7 @@ CONTROLBAR:ToolTipBuildRohanFireArrowPorter
 "+100% dégâts aux Hommes de Dale, Guerriers elfes et archers Rohirrim"
 END
 CONTROLBAR:ToolTipBuildRohanForgedBladesPorter
-"+50 de dommages pour les Rohirrim, guerriers elfes et paysans"
+"+50 de dégats pour les Rohirrim, guerriers elfes et paysans"
 END
 CONTROLBAR:ToolTipBuildRohanBannerUnit
 "Requiert : Armurerie niveau 2\n Donne un bonus de leadership, augmente le niveau du bataillon et ressuscite les troupes tombées au combat"
@@ -16647,7 +16647,7 @@ END
 
 CONTROLBAR:ToolTipBuildEnt
 //"Forts contre les structures et les épéistes"
-"Recrutez un des terribles défenseurs de Fangorn.\n\nAu combat, les Ents font d'énormes dommages aux structures, murs et portes avec leurs branches ou en lançant des rocs. Ils sont également très forts contre les troupes, mais sont vulnérables aux haches et aux dégâts élémentaires.\n\nForts contre les structures, les épéistes et les archers. Seulement 8 disponibles en même temps."
+"Recrutez un des terribles défenseurs de Fangorn.\n\nAu combat, les Ents font d'énormes dégats aux structures, murs et portes avec leurs branches ou en lançant des rocs. Ils sont également très forts contre les troupes, mais sont vulnérables aux haches et aux dégâts élémentaires.\n\nForts contre les structures, les épéistes et les archers. Seulement 8 disponibles en même temps."
 END
 
 CONTROLBAR:ToolTipBuildEntFir
@@ -16920,7 +16920,7 @@ CONTROLBAR:ConstructMordorBatteringRam
 END
 
 CONTROLBAR:ToolTipBuildMordorBatteringRam
-"L'utilisation d'un bélier est la technique favorite du Mordor pour pénétrer dans les forteresses ennemies. Il provoque des dommages remarquables aux structures et aux portes ennemies."
+"L'utilisation d'un bélier est la technique favorite du Mordor pour pénétrer dans les forteresses ennemies. Il provoque des dégats remarquables aux structures et aux portes ennemies."
 END
 
 CONTROLBAR:ToggleCatapultWeapons
@@ -32102,7 +32102,7 @@ CONTROLBAR:SpecialPowerIncorruptable
 END
 
 CONTROLBAR:SpecialPowerToolTipIncorruptable
-"Rien ne peut nuire au maître du bois, de l'eau et de la colline\nBombadil devient temporairement immunisé contre les dommages, et ne peut être renversé \n Cliquer sur le bouton gauche pour activer"
+"Rien ne peut nuire au maître du bois, de l'eau et de la colline\nBombadil devient temporairement immunisé contre les dégats, et ne peut être renversé \n Cliquer sur le bouton gauche pour activer"
 END
 
 CONTROLBAR:SummonWillow
@@ -41696,7 +41696,7 @@ CONTROLBAR:ToolTipPurchaseUpgradeMordorForgedBlades
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeMordorForgedBlades_DGInn
-"Requiert Geôle de Dol Guldur pour activer cet équipement\nAméliore cette horde avec les lames forgées \n Accroît les dommages infligés par les armes de mêlée"
+"Requiert Geôle de Dol Guldur pour activer cet équipement\nAméliore cette horde avec les lames forgées \n Accroît les dégats infligés par les armes de mêlée"
 END
 
 CONTROLBAR:PurchaseTechnologyMordorHeavyArmor
@@ -41804,7 +41804,7 @@ CONTROLBAR:TooltipPurchaseUpgradeElvenSilverthornArrowsBattleTower
 END
 
 CONTROLBAR:TooltipPurchaseUpgradeMirkwoodSilverthornArrowsBattleTower
-"Améiorer cette tour d'archers avec des plumes sylvestres \n Accroît les dommages infligés par les flèches"
+"Améiorer cette tour d'archers avec des plumes sylvestres \n Accroît les dégats infligés par les flèches"
 END
 
 CONTROLBAR:PurchaseUpgradeMirkwoodSilverthornArrowsForBattleTower
@@ -55596,8 +55596,8 @@ CONTROLBAR:ToolTipTreeBeardLeadership
 END
 
 CONTROLBAR:ToolTipPersonalFlood
-//"Requiert : niveau 10\n Invoque un torrent qui inflige des dommages aux ennemis et éteint les feux.\n\nClic gauche sur l'icône puis clic gauche sur la cible"
-"Requiert : niveau 6\n Invoque un torrent qui inflige des dommages aux ennemis et éteint les feux.\n\nClic gauche sur l'icône puis clic gauche sur la cible"
+//"Requiert : niveau 10\n Invoque un torrent qui inflige des dégats aux ennemis et éteint les feux.\n\nClic gauche sur l'icône puis clic gauche sur la cible"
+"Requiert : niveau 6\n Invoque un torrent qui inflige des dégats aux ennemis et éteint les feux.\n\nClic gauche sur l'icône puis clic gauche sur la cible"
 END
 
 CONTROLBAR:ToolTipHaldirGoldenArrow
@@ -55645,7 +55645,7 @@ CONTROLBAR:ToolTipElvenCloakThranduil
 END
 
 CONTROLBAR:ToolTipDeadEye
-//"Requiert : niveau 7\n Garantit de manière temporaire un accroissement des dommages.\n\nClic gauche pour activer"
+//"Requiert : niveau 7\n Garantit de manière temporaire un accroissement des dégats.\n\nClic gauche pour activer"
 //"Requiert : niveau 7\n Thranduil accroit de manière significative ses dégats et sa portée d'attaque\n\nClic gauche pour activer"
 //"Requiert : niveau 4\n Thranduil accroit sa vitesse d'attaque et sa portée\n\nClic gauche pour activer"
 "Requiert : niveau 4\n Thranduil accroit ses dégats, sa vitesse d'attaque ainsi que sa portée\n\nClic gauche pour activer"
@@ -55860,7 +55860,7 @@ END
 
 CONTROLBAR:ToolTipDwarvenGloinShakeFoundation
 //"Requiert : niveau 4\n Désactive le bâtiment ciblé\n Ouvre automatiquement la porte ciblée.\n\nClic gauche sur l'icône puis clic gauche sur la cible"
-"Requiert : niveau 4\n  Le bâtiment ennemi ciblé subit d'importants dommages et est temporairement désactivé.\n Ouvre automatiquement la porte ciblée.\n\nClic gauche sur l'icône puis clic gauche sur la cible"
+"Requiert : niveau 4\n  Le bâtiment ennemi ciblé subit d'importants dégats et est temporairement désactivé.\n Ouvre automatiquement la porte ciblée.\n\nClic gauche sur l'icône puis clic gauche sur la cible"
 END
 
 CONTROLBAR:ToolTipDainLeadership
@@ -60812,7 +60812,7 @@ CONTROLBAR:SpecialPowerGaladrielNenya
 END
 
 CONTROLBAR:ToolTipSpecialPowerGaladrielNenya
-"Requiert : niveau 4 \n Toutes les structures dans la zone d'effet sont immunisées à tous les dommages, mais ne peuvent plus produire.\n\n Clic gauche sur l'icône puis clic gauche sur la zone cible\n\n Type d'Action : Charisme\n Toutes les structures alliées gagnent +150% armure (bonus cumulable).\n\nCapacité passive"
+"Requiert : niveau 4 \n Toutes les structures dans la zone d'effet sont immunisées à tous les dégats, mais ne peuvent plus produire.\n\n Clic gauche sur l'icône puis clic gauche sur la zone cible\n\n Type d'Action : Charisme\n Toutes les structures alliées gagnent +150% armure (bonus cumulable).\n\nCapacité passive"
 END
 
 CONTROLBAR:GaladrielFear
@@ -60830,7 +60830,7 @@ END
 CONTROLBAR:TooltipGaladrielStormQueen
 //"Requiert : niveau 2 \n Aragorn temporarily gains +100% dégâts and +100% armure \n\nClic gauche pour activer"
 //"Requiert : niveau 3 \n Aragorn temporarily gains +100% dégâts and +100% armure \n\nClic gauche pour activer"
-"Requiert : niveau 10 \n Imbue de la beauté obscure de la guerre, Galadriel prend un aspect martial terrifiant. Elle devient sauvage et capricieuse, sa silhouette habituellement sereine ondulant de sombres énergies mystiques.\n\nSes attaques se font à distance, elle gagne temporairement +100% dégâts, +100% armure et inflige +300% dommages aux structures.\n\nClic gauche pour activer"
+"Requiert : niveau 10 \n Imbue de la beauté obscure de la guerre, Galadriel prend un aspect martial terrifiant. Elle devient sauvage et capricieuse, sa silhouette habituellement sereine ondulant de sombres énergies mystiques.\n\nSes attaques se font à distance, elle gagne temporairement +100% dégâts, +100% armure et inflige +300% dégats aux structures.\n\nClic gauche pour activer"
 END
 
 
@@ -62350,7 +62350,7 @@ CONTROLBAR:CastDown
 End
 
 CONTROLBAR:ToolTipCastDown
-"La Dame de Lothlórien invoque une tempête rugissante sur une zone du terrain, causant de gros dommages aux structures et des dégâts modérés aux unités.\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
+"La Dame de Lothlórien invoque une tempête rugissante sur une zone du terrain, causant de gros dégats aux structures et des dégâts modérés aux unités.\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
 END
 
 CONTROLBAR:EnshroudingMistLorien
@@ -62676,7 +62676,7 @@ CONTROLBAR:UrshakShakeFoundation
 END
 
 CONTROLBAR:ToolTipUrshakShakeFoundation
-"Requiert : niveau 3\nLe bâtiment ennemi ciblé subit de lourds dommages et est temporairement désactivé.\nSi une citadelle est touchée, le sort ouvre automatiquement sa porte.\n\nClic gauche sur l'icône puis clic gauche sur la cible"
+"Requiert : niveau 3\nLe bâtiment ennemi ciblé subit de lourds dégats et est temporairement désactivé.\nSi une citadelle est touchée, le sort ouvre automatiquement sa porte.\n\nClic gauche sur l'icône puis clic gauche sur la cible"
 END
 
 CONTROLBAR:UrshakSoulFreeze
@@ -65957,7 +65957,7 @@ OBJECT:HallOfFire
 END
 
 OBJECT:HallOfFireDescription
-"Asseyez-vous près du foyer et écoutez les contes d'autrefois. \n\nType d'Action : Charisme \n Les alliés proches de la Salle de feu gagnent +33% d'armure, gagnent 50% d'expérience plus rapidement, et deviennent immunisés contre la peur et la terreur \n S'aditionne avec les bonus et charismes \n Réapprovisionne la santé et les unités des bataillons proches\n La Salle de feu peut évoquer des images vivantes du passé qui inspirent la peur et causent des dommages aux unités ennemies"
+"Asseyez-vous près du foyer et écoutez les contes d'autrefois. \n\nType d'Action : Charisme \n Les alliés proches de la Salle de feu gagnent +33% d'armure, gagnent 50% d'expérience plus rapidement, et deviennent immunisés contre la peur et la terreur \n S'aditionne avec les bonus et charismes \n Réapprovisionne la santé et les unités des bataillons proches\n La Salle de feu peut évoquer des images vivantes du passé qui inspirent la peur et causent des dégats aux unités ennemies"
 END
 
 CONTROLBAR:HallOfFireSpawnGilGalad
@@ -71203,11 +71203,11 @@ CONTROLBAR:ToolTipGreaterBlight
 END
 
 CONTROLBAR:GwanthaurSoulTrap
-"Soul &Trap"
+"Piège d'âme (&t)"
 END
 
 CONTROLBAR:ToolTipGwanthaurSoulTrap
-"Enemy units within the radius take damage\nIf a unit dies, the Gwanthaur receives +5% armor and damage for a limited time \n Clic gauche sélectionner Clic gauche sur cible area"
+"Les unités ennemies dans le rayon subissent des dégats \n Si l'unité meurt, le Gwanthaur reçoit +5% d'armure et de dégats pour un temps limité \n Clic gauche sélectionner Clic gauche sur une zone ciblé"
 END
 
 CONTROLBAR:GwanthaurReclamation
@@ -71244,7 +71244,7 @@ CONTROLBAR:ChitteringSwarm
 END
 
 CONTROLBAR:ToolTipChitteringSwarm
-"Bonus Horde \n Modifier Type: Sort \n Tous les progénitures tombés gagnent +25% de dommage et +25% d'armure lorsqu'ils sont rassemblés en nombre de 30 ou plus"
+"Bonus Horde \n Modifier Type: Sort \n Tous les progénitures tombés gagnent +25% de dégats et +25% d'armure lorsqu'ils sont rassemblés en nombre de 30 ou plus"
 END
 
 CONTROLBAR:BTKhazadBannerUpgradedPillar
@@ -71307,7 +71307,7 @@ CONTROLBAR:SallyForth
 END
 
 CONTROLBAR:TooltipSallyForth
-"Requiert : Niveau 2 \n Les hommes d'armes et les troupes du Fief gagnent \n +25% de dommages et de resistance au renversement pendant 15 secondes \n Clic gauche pour activer"
+"Requiert : Niveau 2 \n Les hommes d'armes et les troupes du Fief gagnent \n +25% de dégats et de resistance au renversement pendant 15 secondes \n Clic gauche pour activer"
 END
 
 CONTROLBAR:BlackUrukDespoiler
@@ -71315,7 +71315,7 @@ CONTROLBAR:BlackUrukDespoiler
 END
 
 CONTROLBAR:ToolTipBlackUrukDespoiler
-"Requiert : Niveau 3 \n Maraudeurs noir Uruk gagnent temporairement +25% de dommage contre les structures \n et absorbe les ressources lors d'attaques de structures \n Clic gauche pour activer"
+"Requiert : Niveau 3 \n Maraudeurs noir Uruk gagnent temporairement +25% de dégats contre les structures \n et absorbe les ressources lors d'attaques de structures \n Clic gauche pour activer"
 END
 
 CONTROLBAR:BlackUrukBrawl
@@ -71331,7 +71331,7 @@ CONTROLBAR:ToolTipBlackUrukBrawl_Inn
 END
 
 CONTROLBAR:UrukScoutHuntingArrows
-"Des flèches de chasse (&i)"
+"Flèches du chasseur (&i)"
 END
 
 CONTROLBAR:ToolTipUrukScoutHuntingArrows
@@ -71368,7 +71368,7 @@ CONTROLBAR:GalionDorwinionRed
 END
 
 CONTROLBAR:ToolTipGalionDorwinionRed
-"Requiert : Niveau 3 \n Les unités alliés dans le rayon gagnent +75% d'armure et perdent -25% de dommage d'attaque \n Clic gauche sélectionner Clic gauche sur un bataillon ciblé"
+"Requiert : Niveau 3 \n Les unités alliés dans le rayon gagnent +75% d'armure et perdent -25% de dégats d'attaque \n Clic gauche sélectionner Clic gauche sur un bataillon ciblé"
 END
 
 CONTROLBAR:GalionBadBatch
@@ -71401,7 +71401,7 @@ CONTROLBAR:FerenShieldBash
 END
 
 CONTROLBAR:ToolTipFerenShieldBash
-"Attaque puissante renversant les unités ennemies \n Au niveau 5, le rayon et les dommages sont augmentés \n Clic gauche sélectionner Clic gauche sur cible"
+"Attaque puissante renversant les unités ennemies \n Au niveau 5, le rayon et les dégats sont augmentés \n Clic gauche sélectionner Clic gauche sur cible"
 END
 
 //------------ Grimbeorn ---------------
