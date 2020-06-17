@@ -689,7 +689,7 @@ APT:InitialResources
 "Initial Resources"
 END
 
-APT:InitialSortPoints
+APT:InitialSpellPoints
 "Initial Power Points"
 END
 
@@ -13068,11 +13068,11 @@ SCRIPT:EvilLorienHintText_DestroyStrongholdComplete
 "Vous avez détruit Caras Galadhon."
 END
 
-SCRIPT:EvilLorienHintText_Sorts
+SCRIPT:EvilLorienHintText_Spells
 "Cliquez sur le bouton anneau unique en bas à gauche pour acheter des Pouvoirs."
 END
 
-SCRIPT:EvilLorienHintText_CastSorts
+SCRIPT:EvilLorienHintText_CastSpells
 "Les pouvoirs sur la gauche se rechargent au fil du temps. Lorsqu'un pouvoir s'allume, cliquez sur le pouvoir en question avec le bouton gauche de la souris pour l'utiliser. Certains pouvoirs nécessitent un clic gauche sur la cible sur laquelle vous souhaitez utiliser le pouvoir."
 END
 
@@ -15345,7 +15345,7 @@ CONTROLBAR:ToolTipEvilBuildSentryTower
 END
 
 
-//EVIL SortS
+//EVIL SPELLS
 
 CONTROLBAR:SpecialAbilitySarumanFireball
 "Boule de Feu"
@@ -15468,7 +15468,7 @@ CONTROLBAR:ToolTipSummonLurker
 "Invoque le Guetteur de l'Eau, un ancien mal d'un autre âge, une monstruosité tentaculaire cachée dans les profondeurs à l'affût d'une proie. La nature exacte de cette créature est auréolée de mystère.\n\nClic gauche sur une zone praticable"
 END
 
-// Good Sorts
+// Good Spells
 
 CONTROLBAR:Heal
 "Maisons de Guérisons"
@@ -19356,7 +19356,7 @@ STAT:RTS_RESOUCES_SPENT_ON_HEROES
 "Ressources dépensées en héros"
 END
 
-STAT:RTS_TIME_SPENT_TO_REACH_LAST_Sort_LEVEL
+STAT:RTS_TIME_SPENT_TO_REACH_LAST_SPELL_LEVEL
 "Temps pour atteindre le dernier niveau de pouvoir"
 END
 
@@ -19729,23 +19729,23 @@ APT:EnemyRank
 "1"
 END
 
-APT:SortStoreTitle
+APT:SpellStoreTitle
 "Pouvoirs"
 END
 
-APT:SortStoreSortPointsLabel
+APT:SpellStoreSpellPointsLabel
 "POINTS DE POUVOIR DISPONIBLES :"
 END
 
-APT:ExitSortStore
+APT:ExitSpellStore
 "SORTIR"
 END
 
-APT:SortHelpText
+APT:SpellHelpText
 " "
 END
 
-APT:SortDescription
+APT:SpellDescription
 " "
 END
 
@@ -27134,7 +27134,7 @@ END
 
 
 ////////////////////////////////////////////////////////////////////
-// Create a Hero Sort names.
+// Create a Hero Spell names.
 ////////////////////////////////////////////////////////////////////
 
 CAH:ArmorMenuLabel
@@ -31033,7 +31033,7 @@ STRATEGICHUD:RegionAwardResourceMultiplier
 "+%1.1fx"
 END
 
-STRATEGICHUD:RegionAwardSortPoints
+STRATEGICHUD:RegionAwardSpellPoints
 "+%d"
 END
 
@@ -34649,7 +34649,7 @@ OBJECT:SkullTotem
 "Totem de crânes"
 End
 
-OBJECT:SortBookDragonStrikeDragon
+OBJECT:SpellBookDragonStrikeDragon
 "Attaque de dragon"
 End
 
