@@ -55155,17 +55155,17 @@ CONTROLBAR:ToolTipMenLongShotAbility
 "Requiert : niveau 2\n Les Rôdeurs arrosent une zone de la carte d'une volée de flèches.\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
 End
 CONTROLBAR:ToolTipMirkwoodLongShotAbility
-"Requiert : Niveau 5\nThe rangers bombard anywhere within a great radius with a volley of arrows \n Clic gauche sélectionner Clic gauche sur cible area"
+"Requiert : Niveau 5\nLes rodeurs bombardent une zone de la carte avec une volée de flèches\n Clic gauche sélectionner Clic gauche sur cible area"
 End
 CONTROLBAR:ToolTipFirienholtLongShotAbility
-//"The rangers bombard anywhere on the map with a volley of arrows \n Clic gauche sélectionner Clic gauche sur cible area\n Requiert : Niveau 2"
-//"Requiert : Niveau 2\nThe rangers bombard anywhere on the map with a volley of arrows \n Clic gauche sélectionner Clic gauche sur cible area"
-"Requiert : Niveau 2\nThe sentinels bombard anywhere within a great radius with a volley of arrows \n Clic gauche sélectionner Clic gauche sur cible area"
+//"Les rodeurs bombardent une zone de la carte avec une volée de flèches \n Clic gauche sélectionner Clic gauche sur cible area\n Requiert : Niveau 2"
+//"Requiert : Niveau 2\nLes rodeurs bombardent une zone de la carte avec une volée de flèches \n Clic gauche sélectionner Clic gauche sur cible area"
+"Requiert : Niveau 2\nLes Sentinelles bombardent une zone de la carte avec une volée de flèches \n Clic gauche sélectionner Clic gauche sur cible area"
 End
 CONTROLBAR:ToolTipFirienholtLongShotAbility_Summoned
-//"The rangers bombard anywhere on the map with a volley of arrows \n Clic gauche sélectionner Clic gauche sur cible area\n Requiert : Niveau 2"
-//"Requiert : Niveau 2\nThe rangers bombard anywhere on the map with a volley of arrows \n Clic gauche sélectionner Clic gauche sur cible area"
-"The sentinels bombard anywhere within a great radius with a volley of arrows \n Clic gauche sélectionner Clic gauche sur cible area"
+//"Les rodeurs bombardent une zone de la carte avec une volée de flèches \n Clic gauche sélectionner Clic gauche sur cible area\n Requiert : Niveau 2"
+//"Requiert : Niveau 2\nLes rodeurs bombardent une zone de la carte avec une volée de flèches \n Clic gauche sélectionner Clic gauche sur cible area"
+"Les sentinelles bombardent une zone de la carte avec une volée de flèches \n Clic gauche sélectionner Clic gauche sur cible area"
 End
 
 CONTROLBAR:ToggleIthilienWeapons
@@ -55179,8 +55179,8 @@ END
 // Men Structures
 
 CONTROLBAR:ToolTipConstructMenFarm
-//"Génère des ressources selon le terrain disponible Augmente la limite des points de comandemments de 50"
-//"Génère des ressources selon le terrain disponible\n Reduces the cost of cavalry"
+//"Génère des ressources selon le terrain disponible Augmente la limite des points de commandement de 50"
+//"Génère des ressources selon le terrain disponible\n Réduit le cout de la cavalerie"
 "Génère des ressources en nourriture selon le terrain disponible.\nRéduit le coût de la cavalerie."
 END
 
@@ -55196,18 +55196,18 @@ END
 
 CONTROLBAR:ToolTipConstructRohanBarracks
 //"Trains Soldiers, Spearmen and Tower Guards"
-"Trains the melee infantry of Rohan \n Upgrades weapons and armor \n Generates a small amount of resources based on avaliable terrain \n Increases command point limit by 25"
+"Entraîne l'infanterie de mêlée du Rohan \n Améliore armes et armures \n Génère une petite quantité de ressources selon le terrain disponible \n Augmente la limite de points de commandement de 25"
 END
 
 CONTROLBAR:ToolTipBuildGondorBarracksLevel2Upgrade
 //"Permet de recruter les Gardes de la Citadelle.\n Niveau 2 : vitesse de construction +10%"
-//"Permet de recruter les Gardes de la Citadelle and the purchase of Porte-étendards\n Niveau 2 : vitesse de construction +10%"
-//"Permet de recruter les Gardes de la Citadelle and the research of Porte-étendards\n Vitesse de construction +10%"
+//"Permet de recruter les Gardes de la Citadelle et de rechercher les portes-étendards\n Niveau 2 : vitesse de construction +10%"
+//"Permet de recruter les Gardes de la Citadelle et de rechercher les portes-étendards\n Vitesse de construction +10%"
 "Permet de recruter les Soldats et Lanciers de l'Anórien.\n Vitesse de construction +10%"
 END
 
 CONTROLBAR:ToolTipBuildGondorBarracksLevel2Upgrade_Osgiliath
-"Allows training of Anrien Spearmen \n+10% Faster Build Speed"
+"Permet l'entraînement des lanciers de l'Anorien \n+10% de vitesse de construction"
 END
 CONTROLBAR:ToolTipBuildGondorBarracksLevel3Upgrade
 //"Niveau 3 : vitesse de construction +25%"
@@ -55220,15 +55220,15 @@ CONTROLBAR:ToolTipBuildGondorArcheryRangeLevel2Upgrade
 "Permet de recruter les Archers de l'Anórien.\n Vitesse de construction +10%"
 END
 CONTROLBAR:ToolTipBuildGondorArcheryRangeLevel3Upgrade
-//"Niveau 3 : vitesse de construction +25%\n Allows purchase of the Fire Arrow Upgrade"
+//"Niveau 3 : vitesse de construction +25%\n Permet de rechercher l'amélioration flèches enflammées"
 "Permet de recruter les Rôdeurs de l'Ithilien et permet la recherche de l'amélioration Flèches enflammées.\n Vitesse de construction +25%\n Ajoute une tour d'archers défensive"
 END
 
 CONTROLBAR:ToolTipBuildGondorArcheryRangeLevel2Upgrade_Osgiliath
-"Allows training of Ithilien Rangers\n+10% Faster Build Speed"
+"Permet l'entrainement des Rodeurs de l'Ithilien\nVitesse de construction +10%"
 END
 CONTROLBAR:ToolTipBuildGondorArcheryRangeLevel3Upgrade_Osgiliath
-"Allows purchase of the Fire Arrow Upgrade\n+25% Faster Build Speed\nAdds defensive Arrow Tower"
+"Permet la recherche de l'amélioration Flèches enflammées\n+25% de vitesse de construction\nAjoute une tour d'archers défensive"
 END
 
 CONTROLBAR:ToolTipConstructMenStable
@@ -55237,8 +55237,8 @@ CONTROLBAR:ToolTipConstructMenStable
 END
 
 CONTROLBAR:ToolTipConstructRohanStable
-//"Trains and upgrades Gondorian Cavalry \n Increases command point limit by 25"
-"Trains Rohan's cavalry \n Generates a small amount of resources based on avaliable terrain \n Increases command point limit by 25 \n Increases the armor of cavalry units"
+//"Entraîne et améliore la cavalerie du Gondor\n Augmente la limite de points de commandement de 25"
+"Entraîne la cavalerie du Rohan \n Génère une petite quantité de ressources selon le terrain disponible \n Augmente la limite de points de commandement de 25 \n Accroit l'armure des unités de cavalerie"
 END
 
 CONTROLBAR:ToolTipBuildGondorStableLevel2Upgrade
@@ -55252,7 +55252,7 @@ CONTROLBAR:ToolTipBuildGondorStableLevel3Upgrade
 END
 
 CONTROLBAR:ToolTipBuildGondorWorkshopLevel2Upgrade
-//"Niveau 2 : vitesse de construction +10%\n Permet de rechercher des the Pierres de feu upgrade"
+//"Niveau 2 : vitesse de construction +10%\n Permet de rechercher l'amélioration pierres de feu"
 "Permet de rechercher l'amélioration Pierres de feu.\n Répare les machines de siège endommagées proches.\n Vitesse de construction +10%"
 END
 
@@ -55261,16 +55261,16 @@ CONTROLBAR:ToolTipBuildGondorWorkshopLevel3Upgrade
 "Vitesse de construction +25%\n Réparation améliorée des machines de siège endommagées proches.\n Ajoute une tour d'archers défensive"
 END
 CONTROLBAR:ToolTipBuildRohanWorkshopLevel2Upgrade
-//"Level 2: +10% Faster Build Speed \n Allows research of the Fire Stones upgrade"
-"Allows training of Rohirric Onager \n Heals nearby damaged siege machines \n +10% Faster Build Speed"
+//"Level 2: +10% vitesse de construction \n Permet de rechercher l'amélioration pierres de feu"
+"Permet d'entrainer des onagres rohirric \n Les machines de siège proches et endommagées se réparent \n +10% Vitesse de construction"
 END
 CONTROLBAR:ToolTipBuildRohanWorkshopLevel3Upgrade
-//"Level 3: +25% Faster Build Speed"
-"+25% Faster Build Speed \n Increased healing to nearby damaged siege machines"
+//"Level 3: +25% Vitesse de construction"
+"+25% Vitesse de construction \n Les machines de sièges endommagées proches sont réparées plus rapidement"
 END
 
 OBJECT:GondorBlacksmithDescription
-//"Recherches des améliorations d'unités d'Hommes de l'Ouest"
+//"Recherche des améliorations d'unités d'Hommes de l'Ouest"
 //"Niveau 2 : vitesse de construction +10%\n Niveau 3 : vitesse de construction +25%"
 "Génère des ressources avec la forge selon le terrain disponible.\nPermet de rechercher les amélioration d'armes et armures.\nBonus d'acier - Réduit le coût des améliorations :\n2 forgerons : -5% \n 3 forgerons : -10% \n 4 forgerons : -15% \n 5 forgerons : -20% \n 6+ forgerons : -25%"
 END
@@ -55312,8 +55312,8 @@ CONTROLBAR:ToolTipBuildGondorKnightsofDolHorde
 "Les grands Chevaliers au Cygne Argenté de Dol Amroth sont la noblesse du Belfalas et les plus fameux des guerriers du Gondor.\n Les compagnies de chevaliers montent de puissants chevaux de guerre caparaçonnés et portent des armures plus lourdes que les autres combattants du grand fief du sud.\n\nForts contre l'infanterie et les archers."
 END
 CONTROLBAR:ToolTipBuildGondorKnightsofDolHorde_WOTR
-//"Strong vs. All Normal Troops \n Requiert : Niveau 2 Stables."
-"Requiert : Niveau 2 Stables and Dol Amroth Citadel \n Strong vs. Infantry, Archers. \n \n The Swan Knights of Dol Amroth were renowned as one of the greatest cavalry regiments in Middle-earth.."
+//"Forts contre toutes les troupes normales\n Requiert : Ecuries niveau 2."
+"Requiert : Ecuries niveau et Citadelle de Dol Amroth \n Forts contre l'infanterie et les archers. \n \n Les chevaliers au cygne argenté de Dol Amroth sont reconnus comme étant l'un des régiments de cavalerie les plus puissants de la Terre du Milieu."
 END
 
 CONTROLBAR:TooltipKnightsofDolInspiration
@@ -55342,7 +55342,7 @@ CONTROLBAR:ToolTipThrowSpear
 END
 
 CONTROLBAR:TheodenLeadership
-"King of Rohan"
+"Roi du Rohan"
 END
 
 CONTROLBAR:ToolTipTheodenLeadership
@@ -55357,8 +55357,8 @@ CONTROLBAR:ToolTipKingsFavor
 "Requiert : niveau 4\n Les unités ciblées gagnent de l'expérience modérément.\n\nClic gauche sur l'icône puis clic gauche sur la cible"
 END
 CONTROLBAR:ToolTipDainKingsFavor
-//"Requiert : Niveau 4 \n Targeted units gain experience \n Clic gauche sélectionner Clic gauche sur cible units"
-"Requiert : Niveau 6 \n Targeted units gain large experience \n Clic gauche sélectionner Clic gauche sur cible units"
+//"Requiert : Niveau 4 \n Donne de l'expérience aux unités ciblées \n Clic gauche pour activer puis clic gauche sur les unités ciblées"
+"Requiert : Niveau 6 \n Octroie beaucoup d'expérience aux unités ciblées \n Clic gauche pour activer puis clic gauche sur les unités ciblées"
 END
 
 CONTROLBAR:ToolTipGloriousCharge
@@ -55397,10 +55397,10 @@ CONTROLBAR:ToolTipBoromirLeadership
 END
 
 CONTROLBAR:ToolTipBoromirNewLeadership
-//"Requiert : Niveau 5 \n Allies near Boromir gain \n +50% Damage, +50% Armor, \n and earn experience twice as fast \n \n Passive ability       Does not stack"
-//"Requiert : Niveau 5 \n Allies near Boromir gain \n +33% Damage, +33% Armor, \n and earn experience twice as fast \nPassive ability"
-//"Requiert : Niveau 5 \n Allies near Boromir gain \n +33% Damage, +33% Armor, \n and earn experience 50% faster\nPassive ability"
-"Requiert : Niveau 5 \n Boromir dons his Gondorian Armor \n Modifier Type: Leadership \n Anrien Soldiers, Spearmen, and Archers near Boromir gain +33% Damage, +25% Armor, and earn experience 50% faster \n Stacks with Buffs and Spells \n Passive ability"
+//"Requiert : Niveau 5 \n Les alliés proches de Boromir gagnent +50% dégâts, +50% armure, et gagnent de l'expérience deux fois plus rapidement.\n\n Capacité passive       Ne peut pas s'utiliser avec d'autres bonus"
+//"Requiert : Niveau 5 \n Les alliés proches de Boromir gagnent +33% dégâts, +33% armure, et gagnent de l'expérience deux fois plus rapidement.\n\n Capacité passive"
+//"Requiert : Niveau 5 \n Les alliés proches de Boromir gagnent +33% dégâts, +33% armure, et gagnent de l'expérience deux fois plus rapidement.\n\n Capacité passive"
+"Requiert : Niveau 5 \n Boromir revêt son armure gondorienne \n Type d'action: Charisme\n Les soldats, lanciers et archers de l'Anorien proches gagnent +33% Dégâts, +25% Armure, et gagnent de l'expérience 50% plus rapidement \n Bonus cumulable \n Capacité passive"
 END
 
 CONTROLBAR:ToolTipCaptainofGondorBoromir
@@ -55417,7 +55417,7 @@ END
 CONTROLBAR:TooltipElessarBladeMaster
 //"Requiert : Niveau 2 \n Aragorn temporarily gains +100% Damage and +100% Armor \n Clic gauche pour activer"
 //"Requiert : Niveau 3 \n Aragorn temporarily gains +100% Damage and +100% Armor \n Clic gauche pour activer"
-"Aragorn deals magic damage and splash damage \n When activated, grants +50% extra fire damage, slows enemies and decreases their armor for a short time \n Clic gauche pour activer"
+"Aragorn inflige des dégats magiques et de zone \n Quand la capacité est active, elle garantit +50% de dégats de feu, ralentit les ennemis et réduit leur armure pour un court instant \n Clic gauche pour activer"
 END
 
 CONTROLBAR:ToolTipAragornLeadership
@@ -55431,11 +55431,11 @@ CONTROLBAR:ToolTipElessarLeadership
 //"Requiert : Niveau 4 \n Allies near Aragorn gain \n +50% Damage, +50% Armor, \n and earn experience twice as fast \n \n Passive ability       Does not stack"
 //"Requiert : Niveau 4 \n Allies near Aragorn gain \n +33% Damage, +33% Armor, \n and earn experience twice as fast \nPassive ability"
 //"Requiert : Niveau 4 \n Allies near Aragorn gain \n +33% Damage, +33% Armor, \n and earn experience 50% faster\nPassive ability"
-"Modifier Type: Leadership \n Allies near Elessar gain +33% Damage, +33% Armor, and earn experience 50% faster \n Stacks with Buffs and Spells \n Passive ability"
+"Type d'Action : Charisme\n Le Roi Elessar est un héros légendaire, les alliés proches de lui gagnent +33% dégâts, +33% armure et gagnent de l'expérience 50% plus rapidement (bonus cumulable).\n\n Capacité passive"
 END
 
 CONTROLBAR:GandalfNewMount
-"&Mount Shadowfax / Dismount"
+"Monter Shadowfax / Mettre pied à terre"
 END
 
 CONTROLBAR:ToolTipShadowfax
@@ -55466,7 +55466,7 @@ CONTROLBAR:ConstructElvenLorienArcherHorde
 END
 
 OBJECT:HordeLorienWardenArcherCombo
-"Lórien Wardens - Lórien Archers"
+"Guerriers de la Lórien - Archers de la Lórien"
 END
 
 OBJECT:HordeMithlondSentry
@@ -55522,9 +55522,9 @@ CONTROLBAR:PurchaseUpgradeElvenBarracksLevel3
 "Améliorer la Garnison des Galadhrim au niveau 3"
 END
 CONTROLBAR:ToolTipBuildElvenBarracksLevel3
-//"Allows training of Noldor Warriors \n +25% Faster Build Speed \n Adds defensive arrow tower"
-//"Allows training of Noldor Warriors \n +25% Faster Build Speed \n Adds defensive Arrow Tower"
-"Allows training of Nandor Hr-Hathol\n+25% Faster Build Speed \n Adds defensive Arrow Tower"
+//"Permet l'entraînement des Guerriers Noldor \n +25% Vitesse de construction\n Ajoute une tour d'archers défensive"
+//"Permet l'entraînement des Guerriers Noldor \n +25% Vitesse de construction\n Ajoute une tour d'archers défensive"
+"Permet l'entrainement des guerriers d'élite Nandor Hir-Hathol\n+25% Vitesse de construction\n Ajoute une tour d'archers défensive"
 END
 
 CONTROLBAR:ToolTipBuildElvenBarracksLevel3
@@ -55554,7 +55554,7 @@ CONTROLBAR:PurchaseUpgradeElvenSilverthornArrowsForBattleTower
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeElvenFortressEnchantedAnvil
-//"Réduit le coût des améliorations des unités elfes : \n 1 fortress avec enclume : -10%\n 2 fortresses avec enclume : -20%\n 3 fortresses avec enclume : -25%\n 4 fortresses avec enclume : -30%\n 5 fortresses avec enclume : -35%"
+//"Réduit le coût des améliorations des unités elfes : \n 1 forteresse avec enclume : -10%\n 2 fortresses avec enclume : -20%\n 3 fortresses avec enclume : -25%\n 4 fortresses avec enclume : -30%\n 5 fortresses avec enclume : -35%"
 "Réduit le coût des améliorations des unités elfes :\n 1 forteresse avec enclume : -17%\n 2 forteresses avec enclume : -21%\n 3 forteresses avec enclume : -25%\n 4 forteresses avec enclume : -29%\n 5 forteresses avec enclume : -33%"
 END
 
@@ -55566,13 +55566,13 @@ END
 
 CONTROLBAR:ToolTipPurchaseUpgradeElvenFortressMysticFountains
 "Soigne les troupes proches.\n Les héros ressuscitent 25% plus vite dans cette forteresse."
-//"Adds Arcs en bois de Mallorn to Watchtowers\n Heroes revive 25% faster at this Forteresse"
-//"Provides healing to nearby troops\n Heroes revive 15% faster at this Forteresse"
+//"Ajoute des arcs en bois de Mallorn aux tours de guet\n Les héros ressuscitent 25% plus vite à la forteresse"
+//"Soignes les troupes alliés proches\n Les héros ressuscitent 15% plus vite à la forteresse"
 END
 
 TOOLTIP:LackEagleNest
 "Requiert : le Nid d'aigle"
-//"This unit has already been purchased"
+//"Cette unité a été acquise" 
 END
 
 
@@ -55590,18 +55590,18 @@ CONTROLBAR:TreeBeardLeadership
 END
 
 CONTROLBAR:ToolTipTreeBeardLeadership  
-//"Allied Ents near Sylvebarbe gain +15% vitesseet +100% armure\n\n Capacité passive"
-//"Allied Ents near Sylvebarbe gain +15% vitesse, +20% Range, et +100% armure\n\n Capacité passive"
+//"Les alliés Ents proches de Sylvebarbe gagnent +15% vitesse et +100% armure\n\n Capacité passive"
+//"Les alliés Ents proches de Sylvebarbe gagnent +15% vitesse, +20% de portée, et +100% armure\n\n Capacité passive"
 "Type d'Action : Sort\n Les Ents proches de Sylvebarbe gagnent +50% armure et +15% vitesse (bonus cumulable).\n\nCapacité passive"
 END
 
 CONTROLBAR:ToolTipPersonalFlood
-//"Requiert : niveau 10\n Summons a flood that will damage enemies and put out fires.\n\nClic gauche sur l'icône puis clic gauche sur la cible"
-"Requiert : niveau 6\n Summons a flood that will damage enemies\n and put out fires.\n\nClic gauche sur l'icône puis clic gauche sur la cible"
+//"Requiert : niveau 10\n Invoque un torrent qui inflige des dommages aux ennemis et éteint les feux.\n\nClic gauche sur l'icône puis clic gauche sur la cible"
+"Requiert : niveau 6\n Invoque un torrent qui inflige des dommages aux ennemis et éteint les feux.\n\nClic gauche sur l'icône puis clic gauche sur la cible"
 END
 
 CONTROLBAR:ToolTipHaldirGoldenArrow
-//"Requiert : niveau 10\n A high damage attack that also stuns light-sensitive units.\n\nClic gauche sur l'icône puis clic gauche sur la cible"
+//"Requiert : niveau 10\n Une attaque infligeant de lourds dégâts qui étourdit les unités ennemies sensibles à la lumière.\n\nClic gauche sur l'icône puis clic gauche sur la cible"
 "Requiert : niveau 10\n Cette attaque inflige de lourds dégâts et assomme les unités ennemies.\n Utilisable seulement avec l'arc.\n\nClic gauche sur l'icône puis clic gauche sur la cible" 
 END
 
@@ -55625,8 +55625,8 @@ CONTROLBAR:PrinceMirkwood
 END
 
 CONTROLBAR:ToolTipFellowshipLegolasTrainArchers  
-//"Requiert : Niveau 3 \n Targeted Good archers gain experience \n Clic gauche sélectionner Clic gauche sur cible archers"
-"Requiert : Niveau 3 \n Targeted Good archers gain good experience \n Clic gauche sélectionner Clic gauche sur cible archers \n \n Requiert : Niveau 6 \n Nearby friendly units gain fear immunity and +25% vision range \n Passive ability"
+//"Requiert : Niveau 3 \n Les archers ciblés gagnent un bon montant d'expérience \n Clic gauche sélectionner Clic gauche sur cible archers"
+"Requiert : Niveau 3 \n Les archers ciblés gagnent un bon montant d'expérience \n Clic gauche sélectionner Clic gauche sur cible archers \n \n Requiert : Niveau 6 \n Nearby friendly units gain fear immunity and +25% vision range \n Passive ability"
 END
 
 CONTROLBAR:ToolTipKnifeFighter
@@ -55640,28 +55640,28 @@ CONTROLBAR:ElvenCloakThranduil
 END
 
 CONTROLBAR:ToolTipElvenCloakThranduil
-//"Requiert : niveau 4\n Becomes invisible when standing still\n\nClic gauche pour activer"
+//"Requiert : niveau 4\n Devient invisible tant qu'il reste immobile\n\nClic gauche pour activer"
 "Permet à Thranduil d'être furtif tant qu'il reste immobile.\n\n Capacité passive"
 END
 
 CONTROLBAR:ToolTipDeadEye
-//"Requiert : niveau 7\n Temporarily grants an increase to damage.\n\nClic gauche pour activer"
-//"Requiert : niveau 7\n Thranduil gagne significantly increased dégâts et attack range\n\nClic gauche pour activer"
-//"Requiert : niveau 4\n Thranduil gagne increased attack speed and range\n\nClic gauche pour activer"
-"Requiert : niveau 4\n Thranduil gagne increased attack speed, damage, and range\n\nClic gauche pour activer"
+//"Requiert : niveau 7\n Garantit de manière temporaire un accroissement des dommages.\n\nClic gauche pour activer"
+//"Requiert : niveau 7\n Thranduil accroit de manière significative ses dégats et sa portée d'attaque\n\nClic gauche pour activer"
+//"Requiert : niveau 4\n Thranduil accroit sa vitesse d'attaque et sa portée\n\nClic gauche pour activer"
+"Requiert : niveau 4\n Thranduil accroit ses dégats, sa vitesse d'attaque ainsi que sa portée\n\nClic gauche pour activer"
 END
 
 CONTROLBAR:ToolTipThranduilWildWalk
-//"Allows Thranduil to shoot while stealthed\n\n Capacité passive"
-//"Requiert : niveau 4\n Allows Thranduil to remain stealthed even when moving and firing\n\n Capacité passive"
-//"Requiert : niveau 6\n Allows Thranduil to stealth while moving\n Can also shoot while stealthed if in trees\n\n Capacité passive"
-//"Requiert : niveau 4\n Allows Thranduil to stealth while moving\n Can also shoot while stealthed if in trees\n\n Capacité passive"
-"Requiert : niveau 6\n Allows Thranduil to stealth while moving\n Can also shoot while stealthed if in trees\n\n Capacité passive"
+//"Permet à Thranduil de tirer même camouflé\n\n Capacité passive"
+//"Requiert : niveau 4\n Permet à Thranduil de rester camouflé même quand il bouge et tire\n\n Capacité passive"
+//"Requiert : niveau 6\n Permet à Thranduil de rester camouflé quand il bouge\n Peut aussi tirer en étant camouflé s'il est proche des arbres\n\n Capacité passive"
+//"Requiert : niveau 4\n Permet à Thranduil de rester camouflé quand il bouge\n Peut aussi tirer en étant camouflé s'il est proche des arbres\n\n Capacité passive"
+"Requiert : niveau 6\n Permet à Thranduil de rester camouflé quand il bouge\n Peut aussi tirer en étant camouflé s'il est proche des arbres\n\n Capacité passive"
 END
 
 CONTROLBAR:ToolTipMoveUnseen
-//"Requiert : niveau 3\n Allows all targeted allies to become temporarily stealthed\n\nClic gauche sur l'icône puis clic gauche sur la cible"
-"Requiert : niveau 7\n Allows all targeted allies to become temporarily stealthed\n\nClic gauche sur l'icône puis clic gauche sur la cible"
+//"Requiert : niveau 3\n Permet aux allis ciblés d'être camouflés temporairement\n\nClic gauche sur l'icône puis clic gauche sur la cible"
+"Requiert : niveau 7\n Permet aux allis ciblés d'être camouflés temporairement\n\nClic gauche sur l'icône puis clic gauche sur la cible"
 END
 
 CONTROLBAR:ToolTipElrondFarsight
@@ -55678,8 +55678,8 @@ CONTROLBAR:TooltipElrondLeadership
 END
 
 CONTROLBAR:ToolTipElrondRestoration
-//"Requiert : niveau 10\n Soigne les alliés proches and fully refreshes their special ability timers.\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
-"Requiert : niveau 5\n Soigne les alliés proches and fully refreshes\n their special ability timers.\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
+//"Requiert : niveau 10\n Soigne les alliés proches et réinitialise leur compteur de capacités spéciales.\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
+"Requiert : niveau 5\n Soigne les alliés proches et réinitialise \nleur compteur de capacités spéciales.\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
 END
 
 
@@ -55894,8 +55894,8 @@ END
 
 CONTROLBAR:ToolTipToggleIFighterBlockToLineFormation
 //"No bonus"
-//"+25% Damage\n-25% Armor\n+67% Speed"
-"The units return to standard line formation"
+//"+25% dégâts\n -25% armure\n +67% vitesse"
+"L'unité retourne à sa formation en ligne standard"
 END
 
 CONTROLBAR:ToolTipToggleIFighterBlockToLineFormation
@@ -55906,8 +55906,8 @@ END
 
 CONTROLBAR:ToolTipToggleIPikemanLineFormation
 //"No bonus"
-//"+25% Damage\n-25% Armor\n+67% Speed"
-"The units return to standard line formation"
+//"+25% dégâts\n -25% armure\n +67% vitesse"
+"L'unité retourne à sa formation en ligne standard"
 END
 
 OBJECT:IsengardArcher
@@ -55936,11 +55936,11 @@ CONTROLBAR:TooltipWargRiderHowl
 END
 
 CONTROLBAR:TooltipIsengardWargRiderHowl
-"Modifier Type: Buff \n Wargs gain +50% Damage and +33% Speed \n Stacks with Leadership and Spells \n Clic gauche pour activer"
+"Type d'Action : Bonus\n  Les Wargs gagnent +50% dégâts et +50% armure (bonus cumulable).\n\nClic gauche pour activer"
 END
 
 CONTROLBAR:TooltipWhiteWolvesHowl
-"White Wolves temporarily terrify enemy units \n Clic gauche pour activer"
+"Les Loups blancs terrifient temporairement les unités ennemies \n Clic gauche pour activer"
 END
 
 
@@ -56365,20 +56365,20 @@ CONTROLBAR:ToolTipBuildWildCaveLevel3Upgrade
 END
 
 CONTROLBAR:ToolTipConstructWildGoblinFissure
-//"Trains semi-Trolls maraudeurs, Half-Troll Swordsmen, Trolls des Cavernes, Giants,\n and Couvée de Drakes de feus."
+//"Trains semi-Trolls maraudeurs, Half-Troll Swordsmen, Trolls des Cavernes, Giants,\n and Couvée de Drakes de feu."
 "Permet de recruter les Orques et des Trolls de Gundabad."
 END
 
 CONTROLBAR:ToolTipBuildWildLodgeLevel2Upgrade
-"Allows training of Mountain-orc Scouts and Gundabad Berserkers\n+10% Faster Build Speed"
+"Permet l'entrainement des Scouts orques des Montagnes et des berserkers de Gundabad\nvitesse de construction +10%"
 END
 
 CONTROLBAR:ToolTipBuildWildLodgeLevel3Upgrade
-"Allows training of Horrors of Gram\n+25% Faster Build Speed"
+"Permet l'entrainement des Monstruosités de Gram\n+vitesse de construction +25%"
 END
 
 CONTROLBAR:ToolTipBuildWildLodgeLevel3Upgrade_WOTR
-"+25% Faster Build Speed"
+"Vitesse de construction +25%"
 END
 
 CONTROLBAR:ToolTipBuildWildFissureLevel2Upgrade
@@ -57275,10 +57275,10 @@ BANNERUI:DunedainRangers
 "Rôdeurs Dúnedain"
 END
 CONTROLBAR:LW_Unit_GondorRangerHordeDunedain
-"Rôdeurs Dúnedain Bataillon de "
+"Bataillon de Rôdeurs Dúnedain"
 END
 CONTROLBAR:LW_Unit_GondorRangerHordeDunedainPlural
-"Rôdeurs Dúnedain Bataillons de "
+" Bataillons de Rôdeurs Dúnedain"
 END
 
 CONTROLBAR:LW_ToolTipBuild_GondorTrebuchet
@@ -57611,31 +57611,31 @@ CONTROLBAR:LW_ToolTip_IsengardUrukCrossbowHorde
 END
 
 CONTROLBAR:LW_ToolTip_IsengardUrukFighterCrossbowHorde
-"\nUnit Type: Elite Infantry and Elite Archer\nStrong vs. Pikemen and Swordsmen"
+"\nType d'unité: Infanterie d'élite et archers d'élite\nForts contre piquiers et épéistes"
 END
 
 CONTROLBAR:LW_Unit_IsengardUrukPikemanCrossbowHorde
-"Uruk-hai Pikeman - Uruk-hai Crossbow Horde"
+"Horde de piquiers Uruk-hai - Arbalétriers Uruk-hai"
 END
 
 CONTROLBAR:LW_Unit_IsengardUrukPikemanCrossbowHordePlural
-"Uruk-hai Pikeman - Uruk-hai Crossbow Hordes"
+"Hordes de piquiers Uruk-hai - Arbalétriers Uruk-hai"
 END
 
 CONTROLBAR:LW_ToolTip_IsengardUrukPikemanCrossbowHorde
-"\nUnit Type: Elite Pikemen and Elite Archer\nStrong vs. Cavalry and Swordsmen"
+"\nType d'unité: Piquiers d'élite et archers d'élite\nForts contre cavalerie et épéistes"
 END
 
 CONTROLBAR:LW_Unit_IsengardUrukFighterPikemenHorde
-"Fighting Uruk-hai - Uruk-hai Pikeman Horde"
+"Horde de combattants Uruk-hai - Piquiers Uruk-hai"
 END
 
 CONTROLBAR:LW_Unit_IsengardUrukFighterPikemenHordePlural
-"Fighting Uruk-hai - Uruk-hai Pikeman Hordes"
+"Hordes de combattants Uruk-hai - Piquiers Uruk-hai"
 END
 
 CONTROLBAR:LW_ToolTip_IsengardUrukFighterPikemenHorde
-"\nUnit Type: Elite Infantry and Elite Pikemen\nStrong vs. Pikeman and Cavalry"
+"\nType d'unité: Infanterie et piquiers d'élite \nForts contre piquiers et cavalerie"
 END
 
 CONTROLBAR:LW_ToolTipBuild_IsengardBeserker
@@ -57739,8 +57739,8 @@ CONTROLBAR:LW_ToolTip_MordorArcherHorde
 END
 
 CONTROLBAR:LW_ToolTip_MordorArcherPikeHorde
-//"\nUnit Type: Basic Archer\nStrong at Range"
-"\nUnit Type: Basic Archer and Basic Pikemen\nStrong vs. Swordsmen and Cavalry"
+//"\nType d'unité: Archers basiques\nForts à distance"
+"\nType d'unité: Archers basiques et piquiers basiques\nForts contre épéistes et cavalerie"
 END
 
 BANNERUI:MordorBlackOrc
@@ -57853,13 +57853,13 @@ BANNERUI:MordorMumakil
 End
 CONTROLBAR:LW_ToolTipBuild_MordorMumakil
 //"Type d'unité : cavalerie d'élite.\n\n Forts contre les archers\n "
-//"Type d'unité : siège.\n\n Forts contre les épéistes, Cavalry, les structures et les héros\n "
-"Type d'unité : cavalerie d'élite.\n\n Forts contre les épéistes, Cavalry, les structures et les héros\n "
+//"Type d'unité : siège.\n\n Forts contre les épéistes, la cavalerie, les structures et les héros\n "
+"Type d'unité : cavalerie d'élite.\n\n Forts contre les épéistes, la cavalerie, les structures et les héros\n "
 END
 CONTROLBAR:LW_ToolTip_MordorMumakil
 //"\n Type d'unité : cavalerie d'élite.\n\n Forts contre les archers"
-//"\n Type d'unité : siège.\n\n Forts contre les épéistes, Cavalry, les structures et les héros"
-"\n Type d'unité : cavalerie d'élite.\n\n Forts contre les épéistes, Cavalry, les structures et les héros"
+//"\n Type d'unité : siège.\n\n Forts contre les épéistes, la cavalerie, les structures et les héros"
+"\n Type d'unité : cavalerie d'élite.\n\n Forts contre les épéistes, la cavalerie, les structures et les héros"
 END
 
 CONTROLBAR:LW_Structure_WildFortress
@@ -57899,11 +57899,11 @@ END
 
 CONTROLBAR:LW_ToolTipBuild_WildMountainGiant
 //"\n Type d'unité : siège.\n\n Forts contre les épéistes et les structures."
-"Type d'unité : siège.\n\n Forts contre les épéistes, Cavalry, et les structures.\n "
+"Type d'unité : siège.\n\n Forts contre les épéistes, la cavalerie, et les structures.\n "
 END
 CONTROLBAR:LW_ToolTip_WildMountainGiant
 //"Type d'unité : siège.\n\n Forts contre les épéistes et les structures.\n "
-"\n Type d'unité : siège.\n\n Forts contre les épéistes, Cavalry, et les structures."
+"\n Type d'unité : siège.\n\n Forts contre les épéistes, la cavalerie, et les structures."
 END
 
 BANNERUI:WildBabyDrake
@@ -57935,11 +57935,11 @@ END
 
 CONTROLBAR:LW_Unit_GoblinSpiderRiderHorde
 //"Spider Rider Horde"
-"Chevaucheur d'araignées gobelin Horde"
+"Horde de Chevaucheurs d'araignées gobelin"
 END
 CONTROLBAR:LW_Unit_GoblinSpiderRiderHordePlural
 //"Spider Rider Hordes"
-"Chevaucheur d'araignées gobelin Hordes"
+"Hordes de Chevaucheurs d'araignées gobelin"
 END
 
 CONTROLBAR:LW_Hero_GoblinKing
@@ -58059,10 +58059,10 @@ END
 
 CONTROLBAR:ToolTipCAH_Starlight
 //"les alliés proches sont soignées et gagnent +50% dégâts, +50% armure, et gagnent de l'expérience deux fois plus rapidement."
-//"les alliés proches sont soignées et gagnent +50% dégâts et +50% armure.\n Stuns light-sensitive units"
-//"les alliés proches sont soignées et gagnent +50% dégâts, +50% armure.\n Stuns enemy units\n Cumulable avec tout autre bonus ou pénalité"
-//"les alliés proches sont soignées et gagnent +50% dégâts, +50% armure.\n Stuns enemy units"
-//"les alliés proches sont soignées et gagnent +33% dégâts, +33% armure\n Stuns enemy units"
+//"les alliés proches sont soignées et gagnent +50% dégâts et +50% armure.\n Etourdit les unités ennemies"
+//"les alliés proches sont soignées et gagnent +50% dégâts, +50% armure.\n Etourdit les unités ennemies\n Cumulable avec tout autre bonus ou pénalité"
+//"les alliés proches sont soignées et gagnent +50% dégâts, +50% armure.\n Etourdit les unités ennemies"
+//"les alliés proches sont soignées et gagnent +33% dégâts, +33% armure\n Etourdit les unités ennemies"
 "Type d'Action : Sort\n Etourdit les unités ennemies tandis que les alliés proches sont soignées et gagnent +33% dégâts, +33% armure (bonus cumulable)."
 END
 
