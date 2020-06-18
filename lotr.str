@@ -58474,7 +58474,7 @@ CONTROLBAR:TooltipConstructMordorDrummerTrolls
 END
 
 CONTROLBAR:TooltipUpgradeMordorOrcPitLevel3
-//"Permet de rechercher des the Banner Carrier upgrade\n Vitesse de construction +25%"
+//"Permet de rechercher l'amélioration Porte-étendard\n Vitesse de construction +25%"
 //"Ajoute une tour d'archers défensive.\n Vitesse de construction +25%"
 "Vitesse de construction +25%"
 End
@@ -58507,11 +58507,11 @@ End
 // Angmar Rhudaur Hillmen aka Angmar Wildmen
 
 OBJECT:AngmarWildmenHordeRhudaur
-"Rhudaur Hillmen Rebels"
+"Hommes des collines du Rhudaur"
 END
 
 CONTROLBAR:ConstructAngmarWildmanHorde
-"Rhudaur Hillmen"
+"Hommes des collines du Rhudaur"
 END
 
 CONTROLBAR:ToolTipBuildAngmarWildmanHorde
@@ -58593,7 +58593,7 @@ CONTROLBAR:ToolTipZerkSlayer
 //"Requiert : niveau 7\n Les Zélotes gagnent +50% dégâts et doublent leur vitesse d'attaque.\n\nClic gauche pour activer"
 //"Requiert : niveau 7\n Les Zélotes gagnent +50% dégâts et augmentent leur vitesse d'attaque.\n\nClic gauche pour activer"
 //"Requiert : niveau 7\n Les Zélotes gagnent +50% dégâts et augmentent leur vitesse d'attaque et leur vitesse de mouvement.\n\nClic gauche pour activer"
-"Requiert : niveau 5\n En entonnant l'hymne funèbre d'Azaghâl, ancien seigneur de Belegost qui mis en déroute les Dragons, les Tueurs de Wyrms gagnent +50% dégâts, augmentent leur vitesse d'attaque et leur vitesse de mouvement et sont brièvement insensibles aux dégâts.\n\nClic gauche pour activer"
+"Requiert : niveau 5\n En entonnant l'hymne funèbre d'Azaghâl, ancien seigneur de Belegost qui mit en déroute les Dragons, les Tueurs de Wyrms gagnent +50% dégâts, augmentent leur vitesse d'attaque et leur vitesse de mouvement et sont brièvement insensibles aux dégâts.\n\nClic gauche pour activer"
 END
 
 CONTROLBAR:ToolTipFanaticDeathWish
@@ -58620,7 +58620,7 @@ CONTROLBAR:TooltipNecroBlackIce
 //"La zone cible est couverte de glace : vitesse des unités ennemies -25%.\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
 //"La zone cible est couverte de glace : vitesse des unités ennemies -33%.\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
 //"les ennemis ciblés subissent -33% vitesse\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
-"les ennemis ciblés subissent -33% vitesse\n Extinguishes fires.\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
+"les ennemis ciblés subissent -33% vitesse\n Eteint les feux.\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
 End
 
 CONTROLBAR:TooltipUpgradeMordorTrollCageLevel3
@@ -58643,7 +58643,7 @@ OBJECT:GondorMarketPlaceDescription
 END
 
 CONTROLBAR:ToolTipConstructMenMarketPlace
-//"Marché creates economy upgrades"
+//"Le marché crée des améliorations économiques"
 //"Augmente la production des fermes de 15%"
 //"Augmente la production des fermes de 12%"
 //"Augmente la production des fermes de 15%\n\n Augmente la limite de points commandement de 25."
@@ -58651,11 +58651,11 @@ CONTROLBAR:ToolTipConstructMenMarketPlace
 END
 
 CONTROLBAR:ToolTipConstructMenMarketPlace_Disabled
-//"Marketplace creates economy upgrades"
-//"Increases resources from Farms by 15%"
-//"Increases resources from Farms by 12%"
-//"Increases resources from Farms by 15%"
-"Increases resources from farms by 15%\n Income bonus benefits all Gondor allies \n Limited to 1 \n Increases command point limit by 25 \n \n The Marketplace is already built"
+//"Le marché crée des améliorations économiques"
+//"Augmente la production des fermes de 15%"
+//"Augmente la production des fermes de 12%"
+//"Augmente la production des fermes de 15%"
+"Augmente la production des fermes de 15%\n Ce bonus de ressources bénéficie à tous les alliés du Gondor \n Limité à 1 \n Augmente la limite de points de commandement de 25 \n \n Le marché est maintenant construit"
 END
 
 CONTROLBAR:ToolTipBuildGoblinFighterHorde
@@ -58695,13 +58695,13 @@ CONTROLBAR:ToolTipBuildMordorBlackOrcHorde
 END
 
 CONTROLBAR:ToolTipBuildMordorBlackOrcHordeInn
-"Strong contre Pikemen \n\n Horde Bonus \n Modifier Type: Sort \n All Orc Warriors, Orc Pikemen, Orc Archers, Legions of Morgul, and Black Uruks gain +50% damage when gathered in numbers of 100 or more \n Stacks with Buffs, Leadership and other Sorts\n\n The Black Uruks of Barad-dr are the elite of Sauron's orc armies, first bred to devastate Ithilien."
+"Fort contre les piquiers \n\n Bonus de Horde \n Modifier Type: Sort \n Tous les guerriers orques, piquiers orques, Archers orques, légions de Morgul, et Uruk noirs gagnent +50% de dégats quand ils sont réunis en hordes de 150 ou plus \n Bonus cumulable\n\n Les Uruks noirs de Barad-dur sont l'élite des armées orques de Sauron, élevées en premier lieu pour dévaster l'Ithilien."
 END
 
 CONTROLBAR:TooltipThrallMasterUpgradeOrcWarriors
-//"Summon Gundabad Orcs to serve you .\n\n Forts contre les piquiers"
-//"Summon Gundabad Orcs to serve you .\n\n Forts contre les piquiers\n Bonus de horde : tous les Orques de Gundabad gagnent +50% dégâts lorsqu'ils sont rassemblés en légion d'au moins 100 individus."
-"Summon Gundabad Orcs to serve you\n Forts contre les piquiers\n\n Horde Bonus\n Type d'Action : Sort\n All Gundabad Orcs gain +50% dégâts lorsqu'ils sont rassemblés en nombre de 150 ou plus (bonus cumulable)."
+//"Invoque des orques de Gundabad pour vous servir .\n\n Forts contre les piquiers"
+//"Invoque des orques de Gundabad pour vous servir.\n\n Forts contre les piquiers\n Bonus de horde : tous les Orques de Gundabad gagnent +50% dégâts lorsqu'ils sont rassemblés en légion d'au moins 100 individus."
+"Invoque des orques de Gundabad pour vous servir\n Forts contre les piquiers\n\n Horde Bonus\n Type d'Action : Sort\n Tous les Orques de Gundabad gagnent +50% dégâts lorsqu'ils sont rassemblés en nombre de 150 ou plus (bonus cumulable)."
 End
 
 CONTROLBAR:MordorWitchkingMorgulCorruption
@@ -58718,12 +58718,12 @@ CONTROLBAR:TooltipLoneTower
 END
 
 CONTROLBAR:ToolTipCampaignLoneTower
-"Summons a ruined Outpost that can be garrisoned\nand shoots arrows \n Clic gauche sélectionner Clic gauche on pathable location"
+"Invoque un avant poste en ruines pouvant être garni de troupes\n et qui tire des flèches \n Clic gauche sélectionner Clic gauche sur une surface disponible"
 END
 
 CONTROLBAR:TooltipLoneTowerGondor
-//"Summons a defensive tower \n Clic gauche sélectionner Clic gauche on pathable location"
-"Summons a defensive tower garrisoned with archers \n Archers recieve fire arrows once the upgrade is bought at the archery range \n \n All nearby allied units gain +10% Armor \n Stacks with Buffs and Sorts \n Clic gauche sélectionner Clic gauche on pathable location"
+//"Invoque une tour défensive \n Clic gauche puis clic gauche sur la zone cible"
+"Invoque une tour défensive pouvant être garnie d'archers \n Les archers reçoivent des flèches enflammées une fois que l'amélioration a été activée dans l'archerie \n \n Tous les alliés proches gagnent +10% d'armure \n Bonus cumulable \n Clic gauche puis Clic gauche sur une zone praticable"
 END
 
 CONTROLBAR:TooltipBarricade
@@ -58784,17 +58784,17 @@ CONTROLBAR:ToolTipCloudBreak
 END
 
 CONTROLBAR:TooltipCampaignCloudBreak
-"Stuns enemy units\n Slowly heals allied units across the map \n Clic gauche pour activer"
+"Etourdit les unités ennemis\n Soigne lentement les unités alliées à travers la carte \n Clic gauche pour activer"
 END
 
 CONTROLBAR:ToolTipCloudBreakGondor
-//"Cancels Freezing Rain or Darkness \n Stuns enemy units \n Clic gauche pour activer"
-//"Cancels Freezing Rain or Darkness\nStuns enemy units\n Clic gauche pour activer"
+//"Annule pluie glacée ou Ténébres \n Etourdit les unités ennemies \n Clic gauche pour activer"
+//"Annule pluie glacée ou Ténébres \n Etourdit les unités ennemies\n Clic gauche pour activer"
 "Cancels Western Winds, Freezing Rain, Ere the Sun Rises, Blessing of Ulmo, Blessing of Manw, Durin's Day, White Winter or Darkness\nStuns enemy units\n Grants +33% speed bonus to allied units across the map \n Clic gauche pour activer"
 END
 
 CONTROLBAR:SpecialAbilityHumanHeads
-"Lancer des têtes"
+"Lancer de têtes"
 END
 
 CONTROLBAR:TooltipSpecialAbilityHumanHeads
@@ -58802,12 +58802,12 @@ CONTROLBAR:TooltipSpecialAbilityHumanHeads
 END
 
 CONTROLBAR:SpecialAbilityDwarvenVigilance
-"Dwarven Vigilance"
+"Vigilance naine"
 END
 
 CONTROLBAR:TooltipSpecialAbilityDwarvenVigilance
-//"Improves the vision radius of the Bâtisseur"
-"Improves the vision radius of the Builder\n\n Capacité passive"
+//"Améliore le champ de vision du batisseur"
+"Améliore le champ de vision du batisseur\n\n Capacité passive"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityWingBlastGwaihir
@@ -58826,8 +58826,8 @@ CONTROLBAR:ToolTipBuildDwarvenDemolisher
 END
 
 CONTROLBAR:ToolTipUpgradeDwarvenForgeWorksLevel2
-//"Permet de rechercher des lames forgées upgrade.\n Allows Demolishers and Catapults to be built\n Vitesse de construction +10%"
-//"Permet de rechercher des lames forgées and Marteaux de siège\n Allows Demolishers and Catapults to be built\n Vitesse de construction +10%"
+//"Permet de rechercher l'amélioration lame forgées.\n Permet l'entrainement des démolisseurs et des catapultes\n Vitesse de construction +10%"
+//"Permet de rechercher les améliorations lame forgées et marteaux de siège.\n Permet l'entrainement des démolisseurs et des catapultes\n Vitesse de construction +10%"
 "Vitesse de construction +10%\n Permet de rechercher l'amélioration Flèches à pointes de Mithril."
 END
 
@@ -58837,13 +58837,13 @@ CONTROLBAR:ToolTipUpgradeDwarvenForgeWorksLevel3
 END
 
 CONTROLBAR:ToolTipUpgradeDwarvenWorkshopLevel2
-//"Allows research of Forged Blades upgrade \n Allows Demolishers and Catapults to be built\n +10% vitesse de production"
-//"Allows research of Forged Blades and Siege Hammers \n Allows Demolishers and Catapults to be built\n +10% vitesse de production"
+//"Permet de rechercher l'amélioration lame forgées.\n Permet l'entrainement des démolisseurs et des catapultes\n +10% vitesse de production"
+//"Permet de rechercher les améliorations lame forgées et marteaux de siège.\n Permet l'entrainement des démolisseurs et des catapultes\n +10% vitesse de production"
 "Vitesse de construction +10%\n Permet de construire des Mangonneaux.\nRépare les engins de siège proches."
 END
 
 CONTROLBAR:ToolTipUpgradeDwarvenWorkshopLevel3
-//"+25% vitesse de production \n Allows research of Mithril Mail, Siege Hammers, and Flaming Shot upgrades \n Adds Defensive Axe Tower"
+//"+25% vitesse de production \n Permet de rechercher les améliorations mailles de mithril, marteaux de siège et tir enflammé \n Ajoute une tour défensive lanceuse de haches"
 "Vitesse de construction +25%\nRépare plus rapidement les engins de siège proches.\n Ajoute une Tour de garde défensive."
 END
 
@@ -58868,7 +58868,7 @@ End
 
 CONTROLBAR:ToolTipDaleBeastSlayerArrow
 //"Requiert : niveau 7\n Inflige des dégâts importants aux monstres\n\nClic gauche sur l'icône puis clic gauche sur la cible"
-//"Requiert : niveau 7\n Causes extra damage to flying enemies and des dégâts importants aux monstres.\n\nClic gauche sur l'icône puis clic gauche sur la cible"
+//"Requiert : niveau 7\n Inflige des dégats importants aux ennemis volants and des dégâts importants aux monstres.\n\nClic gauche sur l'icône puis clic gauche sur la cible"
 "Requiert : niveau 7\n Inflige des dégâts supplémentaires aux unités volantes et des dégâts importants aux monstres.\n Utilisable seulement avec l'arc.\n\nClic gauche sur l'icône puis clic gauche sur la cible"
 End
 
