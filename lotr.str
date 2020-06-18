@@ -55429,8 +55429,8 @@ END
 
 CONTROLBAR:ToolTipElessarLeadership
 //"Requiert : Niveau 4 \n Allies near Aragorn gain \n +50% Damage, +50% Armor, \n and earn experience twice as fast \n \n CapacitÈ passive       Does not stack"
-//"Requiert : Niveau 4 \n Allies near Aragorn gain \n +33% Damage, +33% Armor, \n and earn experience twice as fast \nPassive ability"
-//"Requiert : Niveau 4 \n Allies near Aragorn gain \n +33% Damage, +33% Armor, \n and earn experience 50% faster\nPassive ability"
+//"Requiert : Niveau 4 \n Allies near Aragorn gain \n +33% Damage, +33% Armor, \n and earn experience twice as fast \n CapacitÈ passive"
+//"Requiert : Niveau 4 \n Allies near Aragorn gain \n +33% Damage, +33% Armor, \n and earn experience 50% faster \n CapacitÈ passive"
 "Type d'Action : Charisme\n Le Roi Elessar est un hÈros lÈgendaire, les alliÈs proches de lui gagnent +33% dÈg‚ts, +33% armure et gagnent de l'expÈrience 50% plus rapidement (bonus cumulable).\n\n CapacitÈ passive"
 END
 
@@ -58313,9 +58313,9 @@ END
 
 CONTROLBAR:ToolTipGothmogDayoftheOrc
 //"Requiert : Niveau 6 \n Orcs near Gothmog gain \n +50% Damage, +50% Armor, \n CapacitÈ passive       Does not stack"
-//"Requiert : Niveau 6 \n Orcs near Gothmog gain \n +33% Damage, +33% Armor,\nand earn experience twice as fast\nPassive ability"
-//"Requiert : Niveau 6 \n Orcs near Gothmog gain \n +33% Damage, +33% Armor,\nand earn experience 50% faster\nPassive ability"
-"Requiert : Niveau 5 \n Orcs near Gothmog gain \n +33% Damage, +33% Armor,\nand earn experience 50% faster\nPassive ability"
+//"Requiert : Niveau 6 \n Orcs near Gothmog gain \n +33% Damage, +33% Armor,\nand earn experience twice as fast\n CapacitÈ passive"
+//"Requiert : Niveau 6 \n Orcs near Gothmog gain \n +33% Damage, +33% Armor,\nand earn experience 50% faster\n CapacitÈ passive"
+"Requiert : Niveau 5 \n Orcs near Gothmog gain \n +33% Damage, +33% Armor,\nand earn experience 50% faster\n CapacitÈ passive"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityGothmogCarnage
@@ -59191,7 +59191,7 @@ CONTROLBAR:ToolTipWarCry
 END
 
 CONTROLBAR:ToolTipFellowshipWarCry
-"Requiert : Niveau 6\n Modifier Type: Leadership \n Nearby allies gain +33% Damage, +25% Armor and earn experience 50% faster\nPassive ability \n \n When activated, targeted friendly units gain\n+33% Damage, +20% Speed, and Fear Resistance\n Stacks With Buffs, Leadership and other Sorts \nClic gauche sÈlectionner Clic gauche sur cible units"
+"Requiert : Niveau 6\n Modifier Type: Leadership \n Nearby allies gain +33% Damage, +25% Armor and earn experience 50% faster\n CapacitÈ passive \n \n When activated, targeted friendly units gain\n+33% Damage, +20% Speed, and Fear Resistance\n Stacks With Buffs, Leadership and other Sorts \nClic gauche sÈlectionner Clic gauche sur cible units"
 END
 
 CONTROLBAR:GuardianStrike
@@ -61927,7 +61927,7 @@ CONTROLBAR:SorcerousSteel
 END
 
 CONTROLBAR:ToolTipSorcerousSteel
-"Each consecutive melee attack decreases enemy armor by 5%\nStacks five times\nPassive ability"
+"Each consecutive melee attack decreases enemy armor by 5%\nStacks five times\n CapacitÈ passive"
 END
 
 OBJECT:MordorMorgulOrcPike
@@ -61943,7 +61943,7 @@ CONTROLBAR:SerratedArmor
 END
 
 CONTROLBAR:ToolTipSerratedArmor
-"Requiert : Niveau 3\nA small percentage of received melee damage\nis redirected to the attacker\nPassive ability"
+"Requiert : Niveau 3\nA small percentage of received melee damage\nis redirected to the attacker\n CapacitÈ passive"
 END
 
 CONTROLBAR:SpecialAbilityShieldBubble
@@ -64837,7 +64837,7 @@ CONTROLBAR:LAVeteranManyWars
 End
 
 CONTROLBAR:ToolTipLAVeteranManyWars
-"The Veterans have fought many battles and witnessed great triumphs and tragic defeats,\nand are learned in the art of war.\n\nNearby allied troops gain +25% experience gain.\nPassive ability"
+"The Veterans have fought many battles and witnessed great triumphs and tragic defeats,\nand are learned in the art of war.\n\nNearby allied troops gain +25% experience gain.\n CapacitÈ passive"
 End
 
 CONTROLBAR:LAVeteranEregion
@@ -64895,7 +64895,7 @@ CONTROLBAR:RevelerWeapon
 END
 
 CONTROLBAR:ToolTipRevelerWeapon
-"Revelers don't deal damage but can attack units reducing their movement speed by 10%\nand structures reducing their armor by 5% while targeting it\nCan stack with other Revelers\nPassive ability"
+"Revelers don't deal damage but can attack units reducing their movement speed by 10%\nand structures reducing their armor by 5% while targeting it\nCan stack with other Revelers\n CapacitÈ passive"
 END
 
 CONTROLBAR:StayAWhileAndListen
@@ -64929,8 +64929,8 @@ END
 
 CONTROLBAR:TooltipUndomielLeadership
 //"Requiert : Niveau 3 \n Allies near Elrond gain \n +50% Damage, +50% Armor, \n and earn experience twice as fast \n \n CapacitÈ passive       Does not stack"
-//"Requiert : Niveau 3 \n Allies near Elrond gain \n +33% Damage, +33% Armor, \n and earn experience twice as fast \nPassive ability"
-//"Requiert : Niveau 3 \n Allies near Elrond gain \n +33% Damage, +33% Armor, \n and earn experience 50% faster\nPassive ability"
+//"Requiert : Niveau 3 \n Allies near Elrond gain \n +33% Damage, +33% Armor, \n and earn experience twice as fast \n CapacitÈ passive"
+//"Requiert : Niveau 3 \n Allies near Elrond gain \n +33% Damage, +33% Armor, \n and earn experience 50% faster \n CapacitÈ passive"
 "Modifier Type: Leadership \n Units near Arwen gain +33% Armor \n Stacks with Buffs and Sorts \n CapacitÈ passive"
 END
 
@@ -65000,7 +65000,7 @@ CONTROLBAR:GlorfindelWrath
 End
 
 CONTROLBAR:ToolTipGlorfindelWrath
-"Requiert : Niveau 3\nGlorfindel temporarily gains +100% damage\nClic gauche pour activer \n\nModifier Type: Sort \n Glorfindel causes fear to nearby enemies and Nazgùl. \n Stacks with Sorts, Buffs, and Leaderships \nPassive ability"
+"Requiert : Niveau 3\nGlorfindel temporarily gains +100% damage\nClic gauche pour activer \n\nModifier Type: Sort \n Glorfindel causes fear to nearby enemies and Nazgùl. \n Stacks with Sorts, Buffs, and Leaderships \n CapacitÈ passive"
 End
 
 CONTROLBAR:GlorfindelLight
@@ -65130,7 +65130,7 @@ CONTROLBAR:ToolTipBTDurinBanner
 END
 
 CONTROLBAR:ToolTipBTDurinBannerUpgraded
-"Modifier Type: Sort \n Allies near the Tower earn experience +15% faster \n Stacks with Sorts, Buffs, and Leaderships \nPassive ability"
+"Modifier Type: Sort \n Allies near the Tower earn experience +15% faster \n Stacks with Sorts, Buffs, and Leaderships \n CapacitÈ passive"
 END
 
 UPGRADE:BTKhazadBanner
@@ -65150,7 +65150,7 @@ CONTROLBAR:ToolTipBTKhazadBanner
 END
 
 CONTROLBAR:ToolTipBTKhazadBannerUpgraded
-"Modifier Type: Sort \n Allies near the Tower become immune to Fear and Terror \n Stacks with Sorts, Buffs, and Leaderships \nPassive ability"
+"Modifier Type: Sort \n Allies near the Tower become immune to Fear and Terror \n Stacks with Sorts, Buffs, and Leaderships \n CapacitÈ passive"
 END
 
 UPGRADE:BTEredMithrimBanner
@@ -65170,7 +65170,7 @@ CONTROLBAR:ToolTipBTEredMithrimBanner
 END
 
 CONTROLBAR:ToolTipBTEredMithrimBannerUpgraded
-"Modifier Type: Sort \n Increases vision of tower \n Allies near the Tower gain a +25% range and vision bonus \n Stacks with Sorts, Buffs, and Leaderships \nPassive ability"
+"Modifier Type: Sort \n Increases vision of tower \n Allies near the Tower gain a +25% range and vision bonus \n Stacks with Sorts, Buffs, and Leaderships \n CapacitÈ passive"
 END
 
 UPGRADE:BTIronHillsBanner
@@ -65190,7 +65190,7 @@ CONTROLBAR:ToolTipBTIronHillsBanner
 END
 
 CONTROLBAR:ToolTipBTIronHillsBannerUpgraded
-"Modifier Type: Sort \n Allies near the Tower gain +15% Damage \n Stacks with Sorts, Buffs, and Leaderships \nPassive ability"
+"Modifier Type: Sort \n Allies near the Tower gain +15% Damage \n Stacks with Sorts, Buffs, and Leaderships \n CapacitÈ passive"
 END
 
 UPGRADE:BTEredLuinBanner
@@ -65210,7 +65210,7 @@ CONTROLBAR:ToolTipBTEredLuinBanner
 END
 
 CONTROLBAR:ToolTipBTEredLuinBannerUpgraded
-"Modifier Type: Sort \n Allies near the Tower gain resources per kill \n Stacks with Sorts, Buffs, and Leaderships \nPassive ability"
+"Modifier Type: Sort \n Allies near the Tower gain resources per kill \n Stacks with Sorts, Buffs, and Leaderships \n CapacitÈ passive"
 END
 
 OBJECT:DwarfBatteringRam
@@ -65314,7 +65314,7 @@ CONTROLBAR:ElendurLeadership
 END
 
 CONTROLBAR:ToolTipElendurLeadership
-"Allies near Elendur gain \n +33% Damage, +33% Armor, \n and earn experience 50% faster\nPassive ability"
+"Allies near Elendur gain \n +33% Damage, +33% Armor, \n and earn experience 50% faster\n CapacitÈ passive"
 END
 
 CONTROLBAR:ElendilRestoration
@@ -66474,7 +66474,7 @@ MAP:MAPNewWorMinasTirith/Desc
 END
 
 MAP:MAPNewWorMinhiriath/Desc
-"Le Minhiriath Ètait le nom de toutes les terres situÈes entre les riviËres Brandevin et Flot-Gris. La "dÈvastation" de Cardolan par des forces malÈfiques a provoquÈ un dÈpeuplement massif de tout le pays. Bien qu'il soit encore couvert d'une Èpaisse forÍt en plusieurs endroits au moment de la Guerre de l'Anneau, le Minhiriath, autrefois vÈritable poumon vert, porte les cicatrices permanentes de plus de 5000 ans d'abattage, de br˚lis et de guerres."
+"Le Minhiriath Ètait le nom de toutes les terres situÈes entre les riviËres Brandevin et Flot-Gris. La 'dÈvastation' de Cardolan par des forces malÈfiques a provoquÈ un dÈpeuplement massif de tout le pays. Bien qu'il soit encore couvert d'une Èpaisse forÍt en plusieurs endroits au moment de la Guerre de l'Anneau, le Minhiriath, autrefois vÈritable poumon vert, porte les cicatrices permanentes de plus de 5000 ans d'abattage, de br˚lis et de guerres."
 END
 
 MAP:MAPNewWorMirkwood/Desc
@@ -70976,34 +70976,34 @@ CONTROLBAR:DwarvenThorinHelmRecruit
 "Recruit Thorin III Stonehelm, Prince of Erebor"
 END
 CONTROLBAR:DwarvenThorinHelmRevive
-"Revive the fallen Hero, Thorin III Stonehelm"
+"RÈssucite le hÈros dÈchu, Thorin III Stonehelm"
 END
 CONTROLBAR:DwarvenThorinHelmHotkey
 "Thorin III &Stonehelm"
 END
 
 CONTROLBAR:EreborEraChoiceButton
-"Erebor Era Choice"
+"L'Ëre d'Erebor Choisie"
 END
 
 CONTROLBAR:ToolTipEreborEraChoiceButton
-"Choose your era at the fortress"
+"Choisisez votre Ëre ‡ la forteresse"
 END
 
 CONTROLBAR:HobbitEraChoiceButton
-"Hobbit Era"
+"L'Ëre des Hobbits"
 END
 
 CONTROLBAR:ToolTipHobbitEraChoiceButton
-"Hobbit Era Chosen"
+"L'Ëre des Hobbits Choisie"
 END
 
 CONTROLBAR:LotREraChoiceButton
-"LOTR Era"
+"L'Ëre du Seigneur des Anneaux"
 END
 
 CONTROLBAR:ToolTipLotREraChoiceButton
-"LOTR Era Chosen"
+"L'Ëre du Seigneur des Anneaux Choisie"
 END
 
 OBJECT:MordorGorbag
@@ -71011,11 +71011,11 @@ OBJECT:MordorGorbag
 END
 
 CONTROLBAR:MordorGorbagRecruit
-"Recruit the orc captain of Cirith Ungol \n \n 'It's going to the Great Eye! Along with everything else.'"
+"Recrute le capitaine Orque de Cirith Ungol \n \n 'C'est pour le Grand Oeil! Comme tous le reste d'ailleurs.'"
 END
 
 CONTROLBAR:MordorGorbagRevive
-"Revive the fallen Hero, Gorbag"
+"RÈssucite le hÈros dÈchu, Gorbag"
 END
 
 CONTROLBAR:MordorGorbagHotkey
@@ -71027,11 +71027,11 @@ OBJECT:MordorShagrat
 END
 
 CONTROLBAR:MordorShagratRecruit
-"Recruit the Uruk chieftain of Cirith Ungol \n \n 'I don't take orders from stinking Morgul rats!'"
+"Recrute le Chef de Clan Uruk de Cirith Ungol \n \n 'Je ne reÁois pas d'ordre de rat puant de Morgul!'"
 END
 
 CONTROLBAR:MordorShagratRevive
-"Revive the fallen Hero, Shagrat"
+"RÈssucite le hÈros dÈchu, Shagrat"
 END
 
 CONTROLBAR:MordorShagratHotkey
@@ -71039,7 +71039,7 @@ CONTROLBAR:MordorShagratHotkey
 END
 
 CONTROLBAR:FierceRivalry
-"Fierce Rivalry"
+"RivalitÈ FÈroce"
 END
 
 CONTROLBAR:ToolTipGorbagFierceRivalry
