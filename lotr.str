@@ -15250,7 +15250,7 @@ CONTROLBAR:ToolTipConstructWildGoblinCave
 END
 
 CONTROLBAR:ConstructWildMountainLodge
-"Build &Mountain-orc Lodge"
+"Build &Orque des Montagnes Lodge"
 END
 
 CONTROLBAR:ToolTipConstructWildMountainLodge
@@ -16230,11 +16230,11 @@ CONTROLBAR:ConstructWildCaveLevel3Upgrade
 END
 
 CONTROLBAR:UpgradeWildLodgeLevel2
-"&Upgrade Mountain-orc Lodge to Level 2"
+"Améliorer La Hutte d'Orq&ue des Montagnes au niveau 2"
 END
 
 CONTROLBAR:UpgradeWildLodgeLevel3
-"&Upgrade Mountain-orc Lodge to Level 3"
+"Améliorer La Hutte d'Orq&ue des Montagnes au niveau 3"
 END
 
 CONTROLBAR:UpgradeWildFissureLevel2
@@ -28588,7 +28588,7 @@ CONTROLBAR:Command_ElvenCastleWallHub_BeginWallSpan
 END
 
 CONTROLBAR:PurchaseUpgradeMallornTreeLevel2
-"&Upgrade Mallorn Tree to Level 2"
+"&Upgrade Mallorn Tree au niveau 2"
 END
 
 CONTROLBAR:ToolTipBuildMallornTreeLevel2
@@ -28596,7 +28596,7 @@ CONTROLBAR:ToolTipBuildMallornTreeLevel2
 END
 
 CONTROLBAR:PurchaseUpgradeMallornTreeLevel3
-"&Upgrade Mallorn Tree to Level 3"
+"&Upgrade Mallorn Tree au niveau 3"
 END
 
 CONTROLBAR:ToolTipBuildMallornTreeLevel3
@@ -50256,7 +50256,7 @@ Tooltip:LackArnorBasicTraining
 End
 
 Tooltip:LackArnorBasicTrainingForElves
-"Research upgrade at Forge to enable this equipment \n When equipped, increases this battalion to Level 2\nand allows to regain health outside of combat"
+"Research upgrade at Forge to enable this equipment \n When equipped, increases this battalion au niveau 2\nand allows to regain health outside of combat"
 End
 
 OBJECT:AngmarWildMissile
@@ -64681,15 +64681,15 @@ CONTROLBAR:PurchaseUpgradeDunedainCaptain
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeDunedainCaptainforDunedain
-"Increases unit to Level 2 and unlocks Woodscraft special power \n Can only be equipped at Level 1"
+"Increases unit au niveau 2 and unlocks Woodscraft special power \n Can only be equipped at Level 1"
 END
 
 Tooltip:LackDunedainCaptainBasicTraining
-"Research upgrade at Forge to enable this equipment \n When equipped, increases this battalion to Level 2 and unlocks Woodscraft special power"
+"Research upgrade at Forge to enable this equipment \n When equipped, increases this battalion au niveau 2 and unlocks Woodscraft special power"
 End
 
 Tooltip:LackDunedainCaptainBasicTraining_Inn
-"Research Banner Carrier upgrade at Blacksmith\nto enable this equipment \n When equipped, increases this battalion to Level 2 and unlocks Woodscraft special power"
+"Research Banner Carrier upgrade at Blacksmith\nto enable this equipment \n When equipped, increases this battalion au niveau 2 and unlocks Woodscraft special power"
 End
 
 CONTROLBAR:PurchaseUpgradeDunedainCaptainforBree
@@ -64697,7 +64697,7 @@ CONTROLBAR:PurchaseUpgradeDunedainCaptainforBree
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeDunedainCaptainforBree
-"Increases a unit to Level 2 \n Can only be equipped at Level 1"
+"Increases a unit au niveau 2 \n Can only be equipped at Level 1"
 END
 
 CONTROLBAR:ElvenRangerCloak
@@ -65657,7 +65657,7 @@ CONTROLBAR:ToolTipPurchaseUpgradeDwarvenTrainingWagon
 End
 
 TOOLTIP:LackDwarvenBasicTrainingForBattleWagon
-"Research Banner Carrier upgrade at Grand Forge to enable this upgrade\nIncreases the Battle Wagon's rank to Level 2\nOn Level 2, nearby allies gain\n+33% dégâts, +33% armure,\nand earn experience twice as fast\n"
+"Research Banner Carrier upgrade at Grand Forge to enable this upgrade\nIncreases the Battle Wagon's rank au niveau 2\nOn Level 2, nearby allies gain\n+33% dégâts, +33% armure,\nand earn experience twice as fast\n"
 END
 
 CONTROLBAR:DwarvenWagonButtonBC
@@ -65665,7 +65665,7 @@ CONTROLBAR:DwarvenWagonButtonBC
 END
 
 CONTROLBAR:TooltipDwarvenWagonButtonBC
-"Research Banner Carrier upgrade at Grand Forge\nIncreases the Battle Wagon's rank to Level 2\nNearby allies gain\n+33% Damage, +33% Armor,\nand earn experience twice as fast"
+"Research Banner Carrier upgrade at Grand Forge\nIncreases the Battle Wagon's rank au niveau 2\nNearby allies gain\n+33% Damage, +33% Armor,\nand earn experience twice as fast"
 END
 
 CONTROLBAR:DwarvenWagonButon1
@@ -69268,110 +69268,110 @@ CONTROLBAR:ToolTipPurchaseUpgradeIronFist
 END
 
 CONTROLBAR:LW_Unit_MordorGreatBeast
-"Great Beast"
+"Grande Bête"
 END
 CONTROLBAR:LW_Unit_MordorMumakilPlural
-"Great Beasts"
+"Grandes Bêtes"
 END
 BANNERUI:GreatBeast
-"Great Beast"
+"Grande Bête"
 END
 BANNERUI:GreatBeasts
-"Great Beasts"
+"Grandes Bêtes"
 End
 CONTROLBAR:LW_ToolTipBuild_MordorGreatBeast
-"Type d'unité: Elite Cavalry\n Fort contre Swordsmen, Cavalry, Structures, and Heroes\n"
+"Type d'unité : Cavalerie Elite \n Fort contre épéiste, Cavalerie, Structures et Héros"
 END
 CONTROLBAR:LW_ToolTip_MordorGreatBeast
-"\nType d'unité: Elite Cavalry\n Fort contre Swordsmen, Cavalry, Structures, and Heroes"
+"Type d'unité : Cavalerie Elite \n Fort contre épéiste, Cavalerie, Structures et Héros"
 END
 
 CONTROLBAR:LW_Unit_MountainOrcSwordHorde
-"Mountain-orc Slashers Horde"
+"Hordes d'Orque des Montagnes Trancheur"
 END
 
 CONTROLBAR:LW_Unit_MountainOrcSwordHordePlural
-"Mountain-orc Slashers Hordes"
+"Hordes d'Orque des Montagnes Trancheur"
 END
 
 CONTROLBAR:LW_ToolTipBuild_MountainOrcSwordHorde
-"Type d'unité: Basic Infantry\n Fort contre Pikemen\n"
+"Type d'unité : Infantrie Basique \n Fort contre les Piquiers"
 END
 
 CONTROLBAR:LW_ToolTip_MountainOrcSwordHorde
-"\nType d'unité: Basic Infantry\n Fort contre Pikemen"
+"Type d'unité : Infantrie Basique \n Fort contre les Piquiers"
 END
 
 BANNERUI:MountainOrcSword
-"Mountain-orc Slasher"
+"Orque des Montagnes Trancheur"
 END
 
 BANNERUI:MountainOrcSwords
-"Mountain-orc Slashers"
+"Orque des Montagnes Trancheur"
 End
 
 CONTROLBAR:LW_Unit_MountainOrcBruteHorde
-"Mountain-orc Brutes Horde"
+"Horde d'Orque des Montagnes Brutes"
 END
 
 CONTROLBAR:LW_Unit_MountainOrcBruteHordePlural
-"Mountain-orc Brutes Hordes"
+"Horde d'Orque des Montagnes Brutes"
 END
 
 CONTROLBAR:LW_Unit_MountainOrcScoutHorde
-"Mountain-orc Scout Horde"
+"Horde d'Orque des Montagnes Eclaireur"
 END
 
 CONTROLBAR:LW_Unit_MountainOrcScoutHordePlural
-"Mountain-orc Scout Hordes"
+"Horde d'Orque des Montagnes Eclaireur"
 END
 
 CONTROLBAR:LW_ToolTipBuild_MountainOrcBruteHorde
-"Type d'unité: Basic Pikemen\n Fort contre Cavalry\n"
+"Type d'unité : Piquier Basic \n Fort contre la Cavalerie"
 END
 
 CONTROLBAR:LW_ToolTip_MountainOrcBruteHorde
-"\nType d'unité: Basic Pikemen\n Fort contre Cavalry"
+"Type d'unité : Piquier Basic \n Fort contre la Cavalerie"
 END
 
 BANNERUI:MountainOrcBrute
-"Mountain-orc Brute"
+"Orque des Montagnes Brute"
 END
 
 BANNERUI:MountainOrcBrutes
-"Mountain-orc Brutes"
+"Orque des Montagnes Brutes"
 End
 
 CONTROLBAR:LW_ToolTipBuild_MountainOrcScoutHorde
-"Type d'unité: Basic Archer\n Fort contre Infantry\n"
+"Type d'unité : Archer Basique \n Fort contre l'Infantrie"
 END
 
 CONTROLBAR:LW_ToolTip_MountainOrcScoutHorde
-"\nType d'unité: Basic Archer\n Fort contre Infantry"
+"Type d'unité : Archer Basique \n Fort contre l'Infantrie"
 END
 
 BANNERUI:MountainOrcScout
-"Mountain-orc Scout"
+"Orque des Montagnes Eclaireur"
 END
 
 BANNERUI:MountainOrcScouts
-"Mountain-orc Scouts"
+"Orque des Montagnes Eclaireur"
 End
 
 CONTROLBAR:LoneScoutLeadership
-"Lone Scout"
+"Eclaireur solitaire"
 END
 
 CONTROLBAR:TooltipLoneScoutLeadership
-"Modifier Type: Buff \n The Outrider grants nearby units +15% speed \n Stacks with Leaderships and Sorts \n \n Capacité passive"
+"Modifier Type: Bonus \n Le Cavalier accord aux unités proches +15% de vitesse \n S'accumule avec le charisme et les Sorts \n \n Capacité passive"
 END
 
 CONTROLBAR:FrodoMithrilShirt
-"Mithril Shirt"
+"Chemise en Mithril"
 END
 
 CONTROLBAR:TooltipFrodoMithrilShirt
-"Requiert : Niveau 3 \n Frodo receives his shirt of mithril mail \n granting him +50% armor \n \n Capacité passive"
+"Requiert : Niveau 3 \n Frodon reçoit sa chemise en cotte de mithril \n lui accordant +50% d'armure \n Capacité passive"
 END
 
 OBJECT:Lindir
@@ -69379,11 +69379,11 @@ OBJECT:Lindir
 END
 
 CONTROLBAR:ConstructWildGundabadBerserkerHorde
-"Gundaba&d Berserkers"
+"Berserkers de Gundaba&d"
 END
 
 CONTROLBAR:ToolTipBuildWildGundabadBerserkerHorde
-"Requiert : Niveau 2 La Hutte Montagne d'orque \n et de l'Allégeance : Gundabad améliorer \n Fort contre les Piquiers et la Cavalerie \n\n Mount Gundabad has long been occupied by large, fierce orcs under the command of Azog and his spawn."
+"Requiert : Niveau 2 La Hutte d'orque des Montagnes \n et de l'Allégeance : Gundabad améliorer \n Fort contre les Piquiers et la Cavalerie \n\n Le Mont Gundabad est occupé depuis longtemps par de grands orques féroces sous le commandement d'Azog son engeance."
 END
 
 OBJECT:WildGundabadBerserkerHorde
