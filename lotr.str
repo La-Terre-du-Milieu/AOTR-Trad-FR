@@ -55696,7 +55696,7 @@ CONTROLBAR:ToolTipElvenWood
 END
 
 CONTROLBAR:ToolTipCampaignElvenWood
-"Creates lush terrain \n Modifier Type: Buff \n All allied units gain +50% Damage, +50% Armor and become immune to fear and terror \n Stacks with Leadership and Sorts \nClic gauche sélectionner Clic gauche sur cible area"
+"Creates lush terrain \n Modifier Type: Buff \n All allied units gain +50% Damage, +50% Armor and become immune to fear and terror \n S'accumule avec le Charisme et les Sorts \nClic gauche sélectionner Clic gauche sur cible area"
 END
 
 CONTROLBAR:TooltipEnshroudingMist
@@ -63326,7 +63326,7 @@ CONTROLBAR:YoungThorinDuBekar
 END
 
 CONTROLBAR:ToolTipYoungThorinDuBekar
-"Requiert : niveau 5 \n Type d'Action : Sort \n Thorin and nearby allies gain resistance to knockback, +75% armure, +20% vitesse, and crush enemies for a short time \n Stacks with Leadership and Sorts \n\nClic gauche pour activer"
+"Requiert : niveau 5 \n Type d'Action : Sort \n Thorin and nearby allies gain resistance to knockback, +75% armure, +20% vitesse, and crush enemies for a short time \n S'accumule avec le Charisme et les Sorts \n\nClic gauche pour activer"
 END
 
 CONTROLBAR:YoungDwalinLeadership
@@ -63384,7 +63384,7 @@ CONTROLBAR:YoungBalinCounselorOfKings
 END
 
 CONTROLBAR:ToolTipYoungBalinCounselorOfKings
-"Requiert : niveau 3 \n Type d'Action : Sort \n Balin temporarily empowers a friendly hero, granting them 50% armure, 50% faster experience gain, and 75% faster power recharge times \n Stacks with Leadership and Sorts \n\nClic gauche sur l'icône puis clic gauche sur la cible hero"
+"Requiert : niveau 3 \n Type d'Action : Sort \n Balin temporarily empowers a friendly hero, granting them 50% armure, 50% faster experience gain, and 75% faster power recharge times \n S'accumule avec le Charisme et les Sorts \n\nClic gauche sur l'icône puis clic gauche sur la cible hero"
 END
 
 
@@ -67466,7 +67466,7 @@ CONTROLBAR:ElrondRingOfAir
 END
 
 CONTROLBAR:TooltipElrondRingOfAir
-"Requiert : Niveau 10\n Modifier Type: Buff \n Creates a circular sanctuary in which all allied units gain +150% Armor, become stealthed, and become immune to fear and terror while in the area\n Stacks with Leadership and Sorts \n\n Modifier Type: Active Debuff \n Nearby enemy units suffer -25% Damage and -20% Armor\nNullifies enemy Leadership \n Does not stack with other Debuffs \nClic gauche sélectionner Clic gauche sur cible area"
+"Requiert : Niveau 10\n Modifier Type: Buff \n Creates a circular sanctuary in which all allied units gain +150% Armor, become stealthed, and become immune to fear and terror while in the area\n S'accumule avec le Charisme et les Sorts \n\n Modifier Type: Active Debuff \n Nearby enemy units suffer -25% Damage and -20% Armor\nNullifies enemy Leadership \n Does not stack with other Debuffs \nClic gauche sélectionner Clic gauche sur cible area"
 END
 
 CONTROLBAR:ElrondMountTooltip
@@ -67649,7 +67649,7 @@ END
 
 OBJECT:RohanStablesDescription
 //"Generates resources based on available terrain Augmente la limite des points de comandemments de 50"
-"Generates resources based on available terrain\nLevel 2: +10% Faster Build Speed\n Level 3: +25% Faster Build Speed \n\n Horsemaster Bonus\n Modifier Type: Buff \n Grants additional +5% armor to all cavalry units on the map \n Stacks with Leadership and Sorts \n 1 Stables: 5% \n 2 Stables: 10% \n 3 Stables: 15% \n 4 Stables: 20% \n 5 Stables: 25% \n 6 Stables: 30% \n 7 Stables: 35% \n 8+ Stables: 40%"
+"Generates resources based on available terrain\nLevel 2: +10% Faster Build Speed\n Level 3: +25% Faster Build Speed \n\n Horsemaster Bonus\n Modifier Type: Buff \n Grants additional +5% armor to all cavalry units on the map \n S'accumule avec le Charisme et les Sorts \n 1 Stables: 5% \n 2 Stables: 10% \n 3 Stables: 15% \n 4 Stables: 20% \n 5 Stables: 25% \n 6 Stables: 30% \n 7 Stables: 35% \n 8+ Stables: 40%"
 END
 
 GUI:FIELD_DISCOUNT
@@ -67689,11 +67689,11 @@ CONTROLBAR:WestfoldHorn
 END
 
 CONTROLBAR:TooltipWestfoldHorn
-"Modifier Type: Buff \n Targeted allies gain +50% Damage and +50% Armor \n Stacks with Leadership and Sorts \n Once used, passively unlocks Erkenbrand and Westfolders \n Clic gauche sélectionner Clic gauche sur unités ciblé "
+"Modifier Type: Buff \n Targeted allies gain +50% Damage and +50% Armor \n S'accumule avec le Charisme et les Sorts \n Once used, passively unlocks Erkenbrand and Westfolders \n Clic gauche sélectionner Clic gauche sur unités ciblé "
 END
 
 CONTROLBAR:TooltipWestfoldHorn_WOTR
-"Modifier Type: Buff \n Targeted allies gain +50% Damage and +50% Armor \n Stacks with Leadership and Sorts \n Once used, passively unlocks Westfolders \n Clic gauche sélectionner Clic gauche sur unités ciblé "
+"Modifier Type: Buff \n Targeted allies gain +50% Damage and +50% Armor \n S'accumule avec le Charisme et les Sorts \n Once used, passively unlocks Westfolders \n Clic gauche sélectionner Clic gauche sur unités ciblé "
 END
 
 CONTROLBAR:PukelStatue
@@ -67839,99 +67839,96 @@ CONTROLBAR:PurchaseDraftTowerWestfolder
 END
 
 CONTROLBAR:ToolTipPurchaseDraftTowerWestfolder
-"Requires the Horn of the Westfold power to be used\nPermanently alters the active Oath to summon a battalion of Westfolders"
+"Requires the Horn of the Westfold power to be used \n Permanently alters the active Oath to summon a battalion of Westfolders"
 END
 
 CONTROLBAR:ToolTipDraftTowerOathWestfolder
-"Summons one battalion of Westfolders to defend the tower"
+"Invoque un bataillon du Ouestfolde pour défendre la Tour"
 END
 
 CONTROLBAR:PurchaseDraftTowerFirienholt
-"Oath: &Firienholt"
+"Serment de &Firienholt"
 END
 
 CONTROLBAR:ToolTipPurchaseDraftTowerFirienholt
-"Permanently alters the active Oath to summon a battalion of Halifirien Wardens"
+"Modifie de façon permanente le serment actif d'invoquer un bataillon de Gardien Halifirien"
 END
 
 CONTROLBAR:ToolTipDraftTowerOathFirienholt
-"Summons one battalion of Halifirien Wardens to defend the tower"
+"Invoque un bataillon de Gardien Halifirien pour défendre la Tour"
 END
 
 CONTROLBAR:PurchaseDraftTowerRohirrim
-"Oath: Éor&ed"
+"Serment d'Éor&ed"
 END
 
 CONTROLBAR:ToolTipPurchaseDraftTowerRohirrim
-"Permanently alters the active Oath to summon a battalion of upgraded Rohirrim Warriors"
+"Modifie de façon permanente le Serment actif pour invoquer un bataillon de Guerriers Rohirrim améliorés"
 END
 
 CONTROLBAR:ToolTipDraftTowerOathRohirrim
-"Summons one battalion of upgraded Rohirrim Warriors to defend the tower"
+"Invoque un bataillon de Guerriers Rohirrim améliorés pour défendre la Tour"
 END
 
 OBJECT:RohanLoneScout
-"Outrider"
+"Cavalier"
 END
 
 CONTROLBAR:ThreeHuntersLeadership
-"The Three Hunters"
+"Les Trois Chasseurs"
 END
 
 CONTROLBAR:ToolTipHuntersLeadershipAragorn
-"Modifier Type: Leadership \n When near Legolas or Gimli, Aragorn gains +25% armor and speed\n Capacité passive"
+"Modifier Type: Charisme \n A proximité d'Aragorn ou de Legolas, Gimli gagne +25% d'armure et de vitesse \n Capacité passive"
 END
 
 CONTROLBAR:ToolTipHuntersLeadershipLegolas
-"Modifier Type: Leadership \n When near Aragorn or Gimli, Legolas gains +25% armor and speed\n Capacité passive"
+"Modifier Type: Charisme \n A proximité d'Aragorn ou de Legolas, Gimli gagne +25% d'armure et de vitesse \n Capacité passive"
 END
 
 CONTROLBAR:ToolTipHuntersLeadershipGimli
-"Modifier Type: Leadership \n When near Aragorn or Legolas, Gimli gains +25% armor and speed\n Capacité passive"
+"Modifier Type: Charisme \n A proximité d'Aragorn ou de Legolas, Gimli gagne +25% d'armure et de vitesse \n Capacité passive"
 END
 
 CONTROLBAR:HarkenToMeLeadership
-"Harken To Me!"
+"Ecoutez Moi!"
 END
 
 CONTROLBAR:ToolTipHarkenToMeLeadership
-"Modifier Type: Leadership \nNearby heroes have reduced ability cooldowns \n Capacité passive"
+"Modifier Type: Charisme \n Les Héros proches ont un temps de recharge réduit \n Capacité passive"
 END
 
 CONTROLBAR:DoorWardenKingsguardLeadership
-"Door-wardens"
+"Les Gardiens de la Porte"
 END
 
 CONTROLBAR:TooltipDoorWardenKingsguardLeadership
-"Modifier Type: Leadership \n The Kingsguard grants nearby structures +33% armor. \n S'accumule avec les Bonus et les Sorts \n \n Capacité passive"
+"Modifier Type: Charisme \n La Garde du Roi confère aux structures voisines +33% d'armure. \n S'accumule avec les Bonus et les Sorts \n \n Capacité passive"
 END
 
 CONTROLBAR:KingsguardLeadership
 //"Théoden's Royal Guard"
-"Royal Escort"
+"Escorte Royale"
 END
 
 CONTROLBAR:TooltipKingsguardLeadership
-"Modifier Type: Leadership \n The Kingsguards grant nearby heroes +15% armor and +10% speed \n S'accumule avec les Bonus et les Sorts \n \n Capacité passive"
+"Modifier Type: Charisme \n Les Gardes du Roi accordent aux Héros proches +15% d'armure et +10% de vitesse \n S'accumule avec les Bonus et les Sorts \n \n Capacité passive"
 END
 
 OBJECT:RohanHorsemen
-"Horseman of the Mark"
+"Cavaliers de la Marche"
 END
 
 OBJECT:HordeRohanHorsemen
-"Horsemen of the Mark"
+"Cavaliers de la Marche"
 END
 
 CONTROLBAR:HamaLeadership
-"Doorwarden of Meduseld"
+"Gardien de la Porte de Meduseld"
 END
 
 CONTROLBAR:ToolTipHamaLeadership
-//"Les alliés proches de Theoden gagnent \n +50% dégâts, +50% Armure, \n et gagnent de l'expérience deux fois plus vite \n \n Capacité passive       Ne peut pas s'utiliser avec d'autres bonus"
-//"Les alliés proches de Theoden gagnent \n +33% dégâts, +33% Armure, \n et gagnent de l'expérience deux fois plus vite \n Capacité passive"
-//"Les alliés proches de Theoden gagnent \n +33% dégâts, +33% Armure, \n et gagnent de l'expérience 50% plus vite \n Capacité passive"
-"Modifier Type: Sort \n Pour chaque bâtiment allié proche de Háma,\n il obtient +15% Armure \n Se cumule avec les Bonus et Sorts \n Capacité passive"
+"Modifier Type: Sort \n Pour chaque bâtiment allié proche de Háma,\n il obtient +15% Armure \n S'accumule avec les Bonus et Sorts \n Capacité passive"
 END
 
 CONTROLBAR:GamlingWhateverEnd
@@ -67939,63 +67936,63 @@ CONTROLBAR:GamlingWhateverEnd
 END
 
 CONTROLBAR:ToolTipGamlingWhateverEnd
-"Modifier Type: Buff \n Target hero temporarily gains +25% Armor \n Can only be used on Théoden, Éomer, Eowyn or Théodred \n Stacks with Leadership and Sorts \n Clic gauche sélectionner Clic gauche sur cible hero"
+"Modifier Type: Bonus \n Le Héros ciblé gagne temporairement +25% d'Armure \n Ne peut être utilisé que sur Théoden, Éomer, Eowyn ou Théodred \n S'accumule avec le Charisme et les Sorts \n Clic gauche sélectionner Clic gauche sur cible hero"
 END
 
 CONTROLBAR:StrengthRemembered
-"Stre&ngth Remembered"
+"Force Mémorable"
 END
 
 CONTROLBAR:ToolTipStrengthRemembered
-"Requiert : Niveau 3 \n Heal nearby units \n\n Requiert : Niveau 5 \n Also summons two battalions of Kingsguard accompanied by Háma and Gamling \n\n Clic gauche pour activer"
+"Requiert : Niveau 3 \n Soigne les unités proches \n\n Requiert : Niveau 5 \n Invoque également deux bataillons de la Garde du Roi accompagnés d'Háma et de Gamling \n\n Clic gauche pour activer"
 END
 
 CONTROLBAR:RohanPeasantHasDraft
-"Drafted"
+"Enrôlement"
 END
 
 CONTROLBAR:ToolTipRohanPeasantHasDraft
-"Requires Draft power\n Peasants have received swords and shields"
+"Requiert : Enrôlement \n Les paysans reçoivent des épées et des boucliers"
 END
 
 CONTROLBAR:ErkenbrandHorn
-"G&ilded Horn"
+"Corne Dorée (&i)"
 END
 
 CONTROLBAR:ToolTipErkenbrandHorn
-"Nearby infantry temporarily gain +10% bonus speed and knockback resistance"
+"L'infanterie proche gagne temporairement +10% de bonus de vitesses et de résistance aux renversements"
 END
 
 CONTROLBAR:ErkenbrandShieldCrush
-"&Valour of Hammerhand"
+"&Valeur de Main-Marteau"
 END
 
 CONTROLBAR:ToolTipErkenbrandShieldCrush
-"Requiert : Niveau 3\nErkenbrand can crush enemies and is immune to arrows for a short duration"
+"Requiert : Niveau 3 \n Erkenbrand peut écrasser les ennemis et est immunisé contre les flèches pendant une courte durée"
 End
 
 CONTROLBAR:ErkenbrandLeadership
-"Marshall of the West-mark"
+"Maréchal de la Marche-Ouest"
 END
 
 CONTROLBAR:ToolTipErkenbrandLeadership
-"Requiert : Niveau 5 \n Modifier Type: Leadership \n Westfolders near Erkenbrand gain +33% Armor \n S'accumule avec les Bonus et les Sorts \n Capacité passive"
+"Requiert : Niveau 5 \n Modifier Type: Charisme \n Les Ouestfoldes proche d'Erkenbrand gagnent +33% d'Armoure \n S'accumule avec les Bonus et les Sorts \n Capacité passive"
 END
 
 CONTROLBAR:ErkenbrandReinforcements
-"&Reinforcements"
+"Les &Renforts"
 END
 
 CONTROLBAR:ToolTipErkenbrandReinforcements
-"Requiert : Niveau 8 \n Summons two battalions of Westfolders"
+"Requiert : Niveau 8 \n Invoques deux bataillons du Ouestfolde"
 END
 
 CONTROLBAR:GrimboldLeadership
-"Valiant Captain"
+"Vaillant Capitaine"
 END
 
 CONTROLBAR:ToolTipGrimboldLeadership
-"Requiert : Niveau 5 \n Modifier Type: Leadership \n Nearby infantry units gain +33% Armor and +33% Damage\n S'accumule avec les Bonus et les Sorts \n Capacité passive"
+"Requiert : Niveau 5 \n Modifier Type: Charisme \n Les unités d'Infantrie à proximité gagnent +33% d'Armure et +33% de Dégâts \n S'accumule avec les Bonus et les Sorts \n Capacité passive"
 END
 
 CONTROLBAR:GrimboldProtection
