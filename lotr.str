@@ -59381,17 +59381,17 @@ CONTROLBAR:DwarvenHeroArmor
 "Heroic Armor"
 END
 CONTROLBAR:ToolTipDwarvenHeroArmor
-"gagne an additional armor bonus upon reaching niveau 10"
+"Gagne un bonus d'armure additionnel en atteignant le niveau 10"
 END
 CONTROLBAR:WildShot
-"Wild Shot"
+"Tir sauvage"
 END
 
 CONTROLBAR:ToolTipWildShot
-"Requiert : niveau 3\n Single ranged attack\n Causes target monster to flee\n Utilisable seulement avec l'arc.\n\nClic gauche sur l'icÙne puis clic gauche sur la cible"
+"Requiert : niveau 3\n Attaque ‡ distance unique\N- Fait fuir le monstre ciblÈ\n Utilisable seulement avec l'arc.\n\nClic gauche sur l'icÙne puis clic gauche sur la cible"
 END
 OBJECT:GondorFountainGuard
-"Gondor Fountain Guard"
+"Garde de la Cour de la Fontaine"
 END
 
 OBJECT:GondorFountainGuard
@@ -59433,7 +59433,7 @@ CONTROLBAR:TooltipRallyingCallGondor
 END
 
 CONTROLBAR:ToolTipArmorofOld
-"Heroes don their battle armor, gaining +75% armure, resistance to knockback, and faster power recharge times.\n\n CapacitÈ passive"
+"Les hÈros revÍtent leur armure de bataille, gagnent +75% d'armure, le rÈsistance au renversment, et ils rechargent leurs pouvoirs plus vite.\n\n CapacitÈ passive"
 END
 
 CONTROLBAR:CorsairCharge
@@ -59512,7 +59512,7 @@ CONTROLBAR:ChangeAngle4
 End
 
 CONTROLBAR:ToolTipChangeAngle0
-"Pull back and view the map from higher above"
+"Reculez et regardez la carte d'en haut"
 END
 
 CONTROLBAR:ToolTipChangeAngle1
@@ -59532,20 +59532,20 @@ CONTROLBAR:ToolTipChangeAngle4
 END
 
 CONTROLBAR:ToolTipBuildRivendellAragorn
-"Call upon the heir of Isildur"
+"Faites appel ‡ l'hÈritier d'Isildur"
 END
 CONTROLBAR:RivendellAragornRecruit
-"Recruit Aragorn, the Chieftain of the Dùnedain. \n \n 'All that is gold does not glitter, Not all those who wander are lost; The old that is strong does not wither, Deep roots are not reached by the frost. From the ashes a fire shall be woken, A light from the shadows shall spring; Renewed shall be blade that was broken, The crownless again shall be king.'"
+"Recrutez Aragorn, le chef des Dunedain. \Tout ce qui est or ne brille pas,Tout ceux qui errent ne sont pas perdus,Le vieux qui est fort ne dÈpÈrit point.Les racines profondes ne sont pas atteintes par le gel. Des cendres, un feu s'Èveillera.Des ombres, une lumiËre jaillira; RenouvelÈe sera l'ÈpÈe qui fut brisÈe,Le sans-couronne sera de nouveau roi.'"
 END
 CONTROLBAR:RivendellAragornRevive
-"Revive the fallen Hero, Aragorn"
+"Ramenez Aragorn ‡ la vie"
 END
 CONTROLBAR:RivendellAragornHotkey
 "&Aragorn"
 END
 
 CONTROLBAR:ToolTipBuildHalbarad
-"Recruit the captain of the D˙nedain. \n \n 'This is an evil door, and my death lies beyond it. I will dare to pass it nonetheless.'"
+"Recruter le capitaine des D˙nedain. \C'est une porte malÈfique, et ma mort se trouve au-del‡. J'oserai nÈanmoins la franchir.'"
 END
 
 CONTROLBAR:GondorHalbaradRecruit
@@ -59565,7 +59565,7 @@ CONTROLBAR:HalbaradUnerringLoyalty
 END
 
 CONTROLBAR:ToolTipHalbaradUnerringLoyalty
-"Type d'Action : Sort \n Aragorn gains Experience +15% faster when near Halbarad \n Stacks with Leadership, Buffs, and Sorts \n\nCapacitÈ passive"
+"Type d'Action : Sort \n Aragorn gagne de l'experience 15% plus rapidement quand il est proche d'Halbarad\n Bonus cumulable \n\nCapacitÈ passive"
 END
 
 CONTROLBAR:HalbaradPerseverance
@@ -59573,7 +59573,7 @@ CONTROLBAR:HalbaradPerseverance
 END
 
 CONTROLBAR:ToolTipHalbaradPerseverance
-"Requiert : niveau 3 \n Nearby D˙nedain gain +30% armure, and +50% Resistance to Knockback for a short time \n\nClic gauche pour activer"
+"Requiert : niveau 3 \n Les Dunedain proches gagnent +30% d'armure, +50% de resistance au renversement pour un court instant \n\nClic gauche pour activer"
 END
 
 CONTROLBAR:HalbaradCaptainoftheNorth
@@ -59581,28 +59581,28 @@ CONTROLBAR:HalbaradCaptainoftheNorth
 END
 
 CONTROLBAR:ToolTipHalbaradCaptainoftheNorth
-"Requiert : niveau 4\n All nearby units gain immunity to fear and terror and gain an armor bonus.\n\nClic gauche pour activer"
+"Requiert : niveau 4\n Toutes les unitÈs proches gagnent l'immunitÈ ‡ la peur et la terreur ainsi qu'un bonus d'armure.\n\nClic gauche pour activer"
 END
 
 
 CONTROLBAR:HalbaradMuster
-"Muster the D˙nedain"
+"Rassembler les Dunedains"
 END
 
 CONTROLBAR:ToolTipHalbaradMuster
-"Requiert : niveau 6 \n Type d'Action : Sort \n Target structure temporarily gains +75% unit production speed \n Stacks with Leadership and Sorts \n\nClic gauche sur l'icÙne puis clic gauche sur la cible building"
+"Requiert : niveau 6 \n Type d'Action : Sort \n Les structures sÈlectionnÈes gagnent +75% de vitesse de production d'unitÈs\n Bonus cumulable \n\nClic gauche sur l'icÙne puis clic gauche sur le batiment cible"
 END
 
 CONTROLBAR:HalbaradBannerOfArwen
-"The Banner of Arwen"
+"L'Ètendard d'Arwen"
 END
 
 CONTROLBAR:TooltipHalbaradBannerOfArwen
-"Requiert : niveau 10 \n Halbarad unfurls the Banner wrought by Arwen UndÛmiel. What it does, nobody knows. \n Clic gauche icon to activate"
+"Requiert : niveau 10 \n Halbarad dÈploie la banniËre d'Arwen UndÛmiel. Ce qu'il fait, personne ne le sait. \n Clic gauche sur l'icone pour activer"
 END
 
 OBJECT:BannerofArwen
-"Banner of Arwen UndÛmiel"
+"L'Ètendard d'Arwen"
 END
 
 //------------ Gundabad Archer ---------------
@@ -59727,23 +59727,23 @@ CONTROLBAR:MuzgashPutridBlade
 End
 
 CONTROLBAR:ToolTipMuzgashPutridBlade
-"Requiert : Niveau 3 \n Muzgash dips his blade in orcish poison, \n temporarily dealing strong poison damage \n Clic gauche pour activer"
+"Requiert : Niveau 3 \n Muzgash trempe sa lame dans du poison orque, \n infligeant temporairement de gros dÈgats de poison \n Clic gauche pour activer"
 End
 
 CONTROLBAR:MuzgashDiscipline
-"Iron D&iscipline"
+"Discipline de fer"
 END
 
 CONTROLBAR:ToolTipMuzgashDiscipline
-"Requiert : Niveau 6 \n Muzgash whips his underlings into proper formation, \n granting them +33% attack speed for a limited time \n Clic gauche on sÈlectionner Clic gauche sur cible"
+"Requiert : Niveau 6 \n Muzgash fouette ses sous-fifres en bonne et due forme, \n leur donnant +33% de vitesse d'attaque pour un temps limitÈ\n Clic gauche sur l'icone puis clic gauche sur la cible."
 End
 
 CONTROLBAR:MuzgashSupremacy
-"Token of Supremac&y"
+"Gage de suprÈmatie"
 END
 
 CONTROLBAR:ToolTipMuzgashSupremacy
-"Requiert : Niveau 9 \n Muzgash presents his foes with a token of past victories \n Enemy units lose all leadership and lose some movement speed \n Clic gauche on sÈlectionner Clic gauche sur cible"
+"Requiert : Niveau 9 \n Muzgash prÈsente ‡ ses ennemis un symbole de ses victoires passÈes \n Les unitÈs ennemies perdent tout bonus de charisme et perdent de la vitesse de mouvement \n Clic gauche on sÈlectionner Clic gauche sur cible"
 End
 
 //------- Callous
@@ -59855,27 +59855,27 @@ OBJECT:HordeLorienSilverTreeSentinel
 END
 
 CONTROLBAR:ConstructSilverTreeSentinelHorde
-"&Sentinels of the Silver Tree"
+"Sentinelles de l'Arbre d'Argent"
 END
 
 CONTROLBAR:ToolTipBuildSilverTreeSentinelHorde
-"Requiert : Niveau 3 Mallorn Tree\n Elite archers"
+"Requiert : Mallorn niveau 3\n Archers d'Èlite"
 END
 
 CONTROLBAR:LW_Unit_LorienSilverTreeSentinelHorde
-"Sentinels of the Silver Tree Battalion"
+"Bataillon de Sentinelles de l'Arbre d'Argent "
 END
 
 CONTROLBAR:LW_Unit_LorienSilverTreeSentinelHordePlural
-"Sentinels of the Silver Tree Battalions"
+"Bataillons de Sentinelles de l'Arbre d'Argent"
 END
 
 CONTROLBAR:LW_ToolTip_LorienSilverTreeSentinelHorde
-"\nType d'unitÈ: Elite Archer\n Fort contre Pikemen"
+"\nType d'unitÈ: Archer d'Èlite\n Fort contre piquiers"
 END
 
 CONTROLBAR:LW_ToolTipBuild_LorienSilverTreeSentinelHorde
-"Type d'unitÈ: Elite Archer\n Fort contre Pikemen\n"
+"Type d'unitÈ: Archer d'Èlite\n Fort contre piquiers\n"
 END
 
 BANNERUI:SilverTreeSentinel
@@ -59944,11 +59944,11 @@ CONTROLBAR:LW_Unit_ElvenGaladhrimWarriorHorde
 END
 
 CONTROLBAR:LW_Unit_ElvenGaladhrimWarriorComboHorde
-"Marchwardens combinÈ Battalion"
+"Bataillon de gardiens des marches"
 END
 
 CONTROLBAR:LW_Unit_ElvenGaladhrimWarriorComboHordePlural
-"Marchwardens combinÈ Battalions"
+"Bataillon de gardiens de"
 END
 
 CONTROLBAR:LW_ToolTip_ElvenGaladhrimWarriorHorde
@@ -59956,7 +59956,7 @@ CONTROLBAR:LW_ToolTip_ElvenGaladhrimWarriorHorde
 END
 
 CONTROLBAR:ToolTipBuildGaladhrimWarriorInnHorde
-"Fort contre Infantry \n \n Marchwardens are the only true military unit within Lothlùrien, and only the finest Elven warriors may count themselves amongst their ranks. They are tasked with guarding the borders of Lùrien and report to Lord Celeborn himself."
+"Fort contre infanterie \n \n Les Gardiens des Marches sont la seule vÈritable unitÈ militaire de la Lothlorien, et seuls les meilleurs guerriers elfes peuvent espÈrer en faire partie. Ils sont chargÈs de garder les frontiËres de Lorien et rapportent au Seigneur Celeborn lui-mÍme."
 END
 
 CONTROLBAR:ToolTipBuildGaladhrimWarriorHorde
@@ -60086,7 +60086,7 @@ OBJECT:LothlorienFletDescription
 END
 
 OBJECT:LothlorienTDFletDescription
-"Upgradeable tower with archers that fire arrows at nearby enemies"
+"Une plateforme dÈfensive dans un arbre qui tire sur les ennemis proches"
 END
 
 CONTROLBAR:ToolTipConstructLothlorienFlet
@@ -60094,7 +60094,7 @@ CONTROLBAR:ToolTipConstructLothlorienFlet
 END
 
 CONTROLBAR:ToolTipConstructLothlorienFletTD
-"Defensive Arrow Tower \n Can be upgraded with more archers for extra damage output"
+"Plateforme d'archers dÈfensiver \n Un bataillon d'archers peut entrer en garnison pour augmenter les dÈg‚ts infligÈs"
 END
 
 //----------  STONEWORKER ---------
@@ -60148,27 +60148,27 @@ END
 
 //------------ Lossarnach Axemen ---------------
 CONTROLBAR:LW_Unit_LossarnachAxemenHorde
-"Lossarnach Axemen Battalion"
+"Bataillon de porteur de haches du Lossarnach"
 END
 
 CONTROLBAR:LW_Unit_LossarnachAxemenHordePlural
-"Lossarnach Axemen Battalions"
+"Bataillon de porteur de haches du Lossarnach"
 END
 
 CONTROLBAR:LW_ToolTip_LossarnachAxemenHorde
-"\nType d'unitÈ: Anti-spam Unit\n Fort contre Buildings"
+"\nType d'unitÈ: UnitÈ Anti-spam Unit\n Fort contre les batiments"
 END
 
 CONTROLBAR:LW_ToolTipBuild_LossarnachAxemenHorde
-"Type d'unitÈ: Anti-spam Unit\n Fort contre Buildings\n"
+"Type d'unitÈ: UnitÈ Anti-spam\n Fort contre les batiments\n"
 END
 
 BANNERUI:LossarnachAxeman
-"Lossarnach Axeman"
+"Porteur de haches du Lossarnach"
 END
 
 BANNERUI:LossarnachAxemen
-"Lossarnach Axemen"
+"Porteurs de haches du Lossarnach"
 END
 
 //------------ Lamedon Clansmen ---------------
@@ -60198,7 +60198,7 @@ CONTROLBAR:ToolTipBuildGondorLamedonFighterHorde
 END
 
 CONTROLBAR:ToolTipBuildGondorLamedonFighterHorde_SwornAllegiance
-"Fort contre Pikemen \n Come equipped with Armaments of the White City \n \n Hailing from the forested highlands of Lamedon, these men have long defended their lands from Southron incursions."
+"Fort contre les piquiers \n Arrivent ÈquipÈs de l'armemement de la CitÈ Blanche \n \n Originaires des hautes terres boisÈes de Lamedon, ces hommes ont longtemps dÈfendu leurs terres contre les incursions Suderonnes."
 END
 
 CONTROLBAR:LW_ToolTipBuild_GondorLamedonFighterHorde
@@ -60207,15 +60207,15 @@ END
 
 // ------------- Loss additions ----------
 CONTROLBAR:ToolTipBuildLossarnachAxeMenHorde
-"Requiert : Niveau 2 Barracks and Forlong \n Fort contre Pikemen and Buildings \n\n The lands of Lossarnach were renowned for their natural beauty, and its soldiers for their ferocity and loyalty to their Steward."
+"Requiert : Niveau 2 Caserne et Forlong\n Fort contre les piquiers et les batiments \n\n Les terres de Lossarnach Ètaient rÈputÈes pour leur beautÈ naturelle, et ses soldats pour leur fÈrocitÈ et leur loyautÈ envers leur intendant."
 END
 
 CONTROLBAR:ToolTipBuildLossarnachAxeMenHorde_SwornAllegiance
-"Requiert : Niveau 2 Barracks and Forlong \n Fort contre Pikemen and Buildings \n Come equipped with Armaments of the White City \n\n The lands of Lossarnach were renowned for their natural beauty, and its soldiers for their ferocity and loyalty to their Steward."
+"Requiert : Niveau 2 Caserne et Forlong\n Fort contre les piquiers et les batiments \n Arrivent ÈquipÈs de l'armemement de la CitÈ Blanche \n\n Les terres de Lossarnach Ètaient rÈputÈes pour leur beautÈ naturelle, et ses soldats pour leur fÈrocitÈ et leur loyautÈ envers leur intendant."
 END
 
 CONTROLBAR:ConstructLossarnachAxeMenHorde
-"Lossarnach &Axemen"
+"Porteurs de haches du Lossarnach"
 END
 
 //------------ Blackroot Vale Archers ---------------
@@ -60244,7 +60244,7 @@ CONTROLBAR:ToolTipBuildGondorBlackrootArcherHorde
 END
 
 CONTROLBAR:ToolTipBuildGondorBlackrootArcherHorde_SwornAllegiance
-"Fort contre Infantry and Monsters \n Come equipped with Armaments of the White City \n \n The inhabitants of the Blackroot Vale were known in Gondor for their archery skills, and their lord Duinhir took five-hundred bowmen to the Battle of the Pelennor Fields."
+"Fort contre l'infanterie et les monstres \n Viennent ÈquipÈs de l'armement de la CitÈ Blanche\n \n Les habitant de la VallÈe de la Racine Noire sont rÈputÈs en Gondor pour leur habiletÈ ‡ l'arc, et leur Seigneur Duinhir emmena avec lui 500 archers ‡ la bataille des Champs du Pelennor."
 END
 
 CONTROLBAR:LW_ToolTipBuild_GondorBlackrootArcherHorde
@@ -60356,7 +60356,7 @@ CONTROLBAR:LW_ToolTip_GondorFountainGuardHorde
 END
 
 CONTROLBAR:LW_ToolTip_GondorFountainGuardHorde_WOTR
-"15 Fountain Guards\n\nType d'unitÈ: Hero Unit\n Fort contre Cavalry"
+"15 Fountain Guards\n\nType d'unitÈ: UnitÈ hÈroŒque\n Fort contre la cavalerie"
 END
 
 CONTROLBAR:ToolTipBuildGondorFountainGuardHorde
@@ -60364,7 +60364,7 @@ CONTROLBAR:ToolTipBuildGondorFountainGuardHorde
 END
 
 CONTROLBAR:ToolTipBuildGondorFountainGuardHorde_WOTR
-"Hero Unit. Limited to 1. \n Fort contre Cavalry \n Able to switch formation for improved defensive capabilities \n \n These men are the silent Guards of the White Tree. Their arms and armor, inlaid with Mithril, invoke the memory of lost Nùmenor. \n\n In War of the Ring, you can only recruit this unit if it was on the battlefield from the start and was killed"
+"UnitÈs hÈroÔques. LimitÈ ‡ 1. \n Fort contre la cavalerie \n Capables de changer de formation pour amÈliorer leurs capacitÈs dÈfensives \n \n Ces hommes sont les gardes silencieux de l'Arbre blanc. Leurs armes et armures, incrustÈes de Mithril, invoquent le souvenir perdu de Numenor. \nDans la Guerre de l'Anneau, vous ne pouvez recruter cette unitÈ que si elle Ètait sur le champ de bataille depuis le dÈbut et a ÈtÈ tuÈe"
 END
 
 CONTROLBAR:ToolTipBuildGondorFountainGuardHordeCairAndros
@@ -60446,7 +60446,7 @@ CONTROLBAR:ToolTipSpecialAbilityNazgulNineServantsOfSauron
 END
 
 CONTROLBAR:ToolTipSpecialAbilityRingwraithServantsOfSauron
-"As more Nazg˚l gather, their strength grows \n +10% Damage and +10% Armor per every Nazgùl nearby \n CapacitÈ passive"
+"Plus les Nazg˚l se rassemblent, plus leur force augmente \n +10% de dÈgats et +10% d'armure pour chaque Nazgul proche \n CapacitÈ passive"
 END
 
 CONTROLBAR:ToolTipBlackRiderDreadVisage
@@ -60558,13 +60558,13 @@ CONTROLBAR:ToolTipGondorArmaments
 END
 
 CONTROLBAR:ToolTipGondorArmaments_SwornAllegiance
-"Modifier Type: Level\n Units permanently gain 33% Armor\n Stacks with Leadership, Buffs, and Sorts"
+"Type d'action: Level\n Les unitÈs gagnent +33% d'armure de faÁon permanente\n Bonus cumulable"
 END
 
 CONTROLBAR:RohanArmaments
 //"Gondorian Marksmenship"
 //"Horsemen of the Mark"
-"Muster of Edoras"
+"Rassemblement d'Edoras"
 END
 
 CONTROLBAR:RangerToggle
@@ -60600,7 +60600,7 @@ CONTROLBAR:SamwiseFrodoLeadership
 END
 
 CONTROLBAR:ToolTipSamwiseFrodoLeadership
-"Type d'Action : Charisme\n Sam s'est vu confiÈ la t‚che par Gandalf de protÈger Frodon ‡ tout prix : Frodon gagne +100% armure.\n\n CapacitÈ passive"
+"Type d'Action : Charisme\n Sam s'est vu confier la t‚che par Gandalf de protÈger Frodon ‡ tout prix : Frodon gagne +100% armure.\n\n CapacitÈ passive"
 END
 
 CONTROLBAR:SamwiseBladeMaster
@@ -60624,7 +60624,7 @@ CONTROLBAR:GondorBattleTowerGarrison
 END
 
 CONTROLBAR:RohanBattleTowerGarrison
-"Yeom&an Sentry"
+"Paysan Sentinelle"
 END
 
 CONTROLBAR:ToolTipGondorBattleTowerGarrison
@@ -61201,11 +61201,11 @@ CONTROLBAR:DenethorPalantir
 END
 
 CONTROLBAR:DenethorSummon
-"In Servi&ce of the Steward"
+"Au service de l'intendant"
 END
 
 CONTROLBAR:ToolTipDenethorSummon
-"Requiert : Niveau 6 \n Summons a temporary battalion of Citadel Guards \n Clic gauche on icon to activate"
+"Requiert : Niveau 6 \n Invoque temporairement un bataillon de Gardes de la Citadelle \n Clic gauche sur l'icone pour activer"
 END
 
 CONTROLBAR:ToolTipDenethorFailingRule
@@ -61225,31 +61225,31 @@ CONTROLBAR:DenethorFavor
 END
 
 CONTROLBAR:DenethorSteward
-"Ste&ward of Gondor"
+"Intendant du Gondor"
 END
 
 CONTROLBAR:ToolTipStewardLvl3
-"Denethor is protected by his guards \n Allows Denethor to rank up \n Clic gauche to purchase upgrade \n\n Modifier Type: Leadership \n Rank 1: Allied units near Denethor gain +50% experience gain \n Faramir loses -33% armor and -33% experience gain \n Rank 3: Allied units near Denethor gain +33% armor \n Gandalf loses -33% armor and -33% experience gain \n Rank 6: Allied units near Denethor gain +33% damage \n Elessar loses -33% armor \n Stacks with Buffs and Sorts \n CapacitÈ passive"
+"Denethor est protÈgÈ par ses gardes \n Permet ‡ Denethor de monter de niveau \n Clic gauche pour rechercher l'amÈlioration \n\n Type d'action: Charisme \n Rang 1: Les unitÈs alliÈs proches de Denethor gagnent +50% d'expÈrience \n Faramir perd 33% d'armure et 33% de gain d'experience \n Rang 3: Les unitÈs alliÈes proches de Denethor gagnent +33% d'armure \n Gandalf perd 33% d'armure et 33% de gain d'experience \n Rang 6: Les unitÈs alliÈes proches de Denethor gagnent +33% de dÈg‚ts \n Elessar perd 33% d'armure \n Bonus cumulable \n CapacitÈ passive"
 End
 
 CONTROLBAR:ToolTipStewardLvl10
-"Denethor is protected by his guards \n\n Modifier Type: Leadership \n Rank 1: Allied units near Denethor gain +50% experience gain \n Faramir loses -33% armor and -33% experience gain \n Rank 3: Allied units near Denethor gain +33% armor \n Gandalf loses -33% armor and -33% experience gain \n Rank 6: Allied units near Denethor gain +33% damage \n Elessar loses -33% armor and -33% experience gain \n Stacks with Buffs and Sorts \n CapacitÈ passive"
+"Denethor est protÈgÈ par ses gardes \n\n Type d'action : Charisme \n Rang 1: Les unitÈs alliÈs proches de Denethor gagnent +50% d'expÈrience \n Faramir perd 33% d'armure et 33% de gain d'experience \n Rang 3: Les unitÈs alliÈes proches de Denethor gagnent +33% d'armure \n Gandalf perd 33% d'armure et 33% de gain d'experience \n Rang 6: Les unitÈs alliÈes proches de Denethor gagnent +33% de dÈg‚ts \n Elessar perd 33% d'armure et 33% de gain d'experience\n Bonus cumulable \n CapacitÈ passive"
 End
 
 CONTROLBAR:DenethorHighAuthority
-"High Authorit&y"
+"Haute AutoritÈ"
 END
 
 CONTROLBAR:ToolTipDenethorHighAuthority
-"Commands targeted enemy units to flee for their lives \n Clic gauche on sÈlectionner Clic gauche sur cible units"
+"Ordonne aux unitÈs ciblÈes de fuire pour leur vie \n Clic gauche on sÈlectionner Clic gauche sur cible units"
 END
 
 CONTROLBAR:DenethorContest
-"Contest of W&ills"
+"Lutte de volontÈs"
 END
 
 CONTROLBAR:ToolTipDenethorContest
-"Requiert : Niveau 10 \n When cast on a friendly hero, increases damage output at the cost of armor \n When cast on an enemy hero, causes the hero to temporarily be stunned and lose armor \n Clic gauche on sÈlectionner Clic gauche sur cible hero"
+"Requiert : Niveau 10 \n LancÈ sur un hÈros ami, augmente les dÈg‚ts au dÈtriment de l'armure. LancÈ sur un hÈros ennemi, il provoque un Ètourdissement temporaire du hÈros et lui fait perdre son armure. \n Clic gauche sur l'icone puis clic gauche sur le hÈros ciblÈ"
 END
 
 OBJECT:LossarnachAxeMan
@@ -61265,11 +61265,11 @@ OBJECT:GondorForlong
 END
 
 CONTROLBAR:GondorForlongRecruit
-"Recruit the Lord of Lossarnach \n \n 'True heart, true friend! Forlong!'"
+"Recruter le seigneur de Lossarnach : "Un vrai coeur, un vrai ami ! Forlong !'"
 END
 
 CONTROLBAR:GondorForlongRevive
-"Revive the fallen Hero, Forlong"
+"Ramener Forlong ‡ la vie"
 END
 
 CONTROLBAR:GondorForlongHotkey
@@ -61305,7 +61305,7 @@ CONTROLBAR:SummonSpawnDenethor
 END
 
 CONTROLBAR:SummonSpawnTrebuchet
-"Nùmenorean Engineering"
+"IngÈnieurie numÈnorÈenne"
 END
 
 CONTROLBAR:SummonLossarnachAllies
@@ -61386,11 +61386,11 @@ CONTROLBAR:ToolTipGreatGoblinSwarm2
 END
 
 CONTROLBAR:ConstructGoblinTownFighterHorde
-"Goblin Town Warriors"
+"Guerriers de Gobelinville"
 END
 
 CONTROLBAR:ToolTipBuildGoblinTownFighterHorde
-"Forts contre les piquiers \n\n The Great Goblin calls a horde of Goblin Towners to battle."
+"Forts contre les piquiers \n\n Le Grand Gobelin appelle une horde de Gobelinville pour combattre."
 END
 
 CONTROLBAR:GreatGoblinLeadership
@@ -61442,7 +61442,7 @@ CONTROLBAR:TooltipDolGuldurAllies
 END
 
 CONTROLBAR:TooltipDolGuldurAllies_WOTR
-"Permanently summon a foul Dol Guldur Dungeon on to the battlefield \n Limited to 2 \n Allows recruitment of Spawns of Ungoliant and Castellans\n Clic gauche on sÈlectionner Clic gauche sur cible position"
+"Invoque de faÁon permanente sur le champ de bataille un bastion de l'antique forteresse de Dol Guldur \n LimitÈ ‡ 2 \n Permet de recruter des rejetons d'Ungoliant et des castellans\n Clic gauche sur l'icone puis clic gauche sur la zone cible"
 END
 
 CONTROLBAR:TooltipSummonWraith
@@ -61522,7 +61522,7 @@ CONTROLBAR:ToolTipKhamulLieutnant
 END
 
 OBJECT:GuldurAncientEasterling
-"Ancient Easterling"
+"Ancien Oriental"
 END
 
 CONTROLBAR:ConstructMordorArmory
@@ -61618,7 +61618,7 @@ CONTROLBAR:ToolTipPurchaseUpgradeMordorFortressShelobTerror
 END
 
 CONTROLBAR:ToolTipMordorFortressShelobTerror
-"Requires the Morgul Sorcery upgrade\nand the Terror of Cirith Ungol upgrade\nShelob is temporarily summoned to defend this Fortress"
+"Requiert l'amÈlioration Sorcellerie de Morgul\n Requiert l'amÈlioration terreur de Cirith Ungol\nArachnÈe est invoquÈe temporairement pour dÈfendre cette forteresse"
 END
 
 UPGRADE:FortressShelobTerror
@@ -61707,7 +61707,7 @@ OBJECT:WildGolfimbul
 END
 
 CONTROLBAR:WildGolfimbulRecruit
-"Recrutez le chef du clan du Mont Gram.\n\n Golfimbul est le descendant du roi gobelin qui tenta, en 2747 du 3e ¬ge, d'envahir la ComtÈ. Mais sa tentative Èchoua lors de la Bataille des Champs Verts par la charge du hobbit Bandobras Touque. L'Orque pÈrit des mains du valeureux Hobbit, qui le dÈcapita d'un coup de gourdin surpuissant, faisant voler sa tÍte qui attÈrit dans un trou de lapin.\nSelon la lÈgende, le jeu de golf fut inventÈe ‡ cette occasion.\n\n'Golfimbul s'impatiente de pouvoir enfin venger la mort horrible de son ancÍtre...'"
+"Recrutez le chef du clan du Mont Gram.\n\n Golfimbul est le descendant du roi gobelin qui tenta, en 2747 du 3e ¬ge, d'envahir la ComtÈ. Mais sa tentative Èchoua lors de la Bataille des Champs Verts par la charge du hobbit Bandobras Touque. L'Orque pÈrit des mains du valeureux Hobbit, qui le dÈcapita d'un coup de gourdin surpuissant, faisant voler sa tÍte qui atterrit dans un trou de lapin.\nSelon la lÈgende, le jeu de golf fut inventÈe ‡ cette occasion.\n\n'Golfimbul s'impatiente de pouvoir enfin venger la mort horrible de son ancÍtre...'"
 END
 
 CONTROLBAR:WildGolfimbulRevive
@@ -61751,7 +61751,7 @@ CONTROLBAR:ToolTipAzogSpawnOfTheDefiler
 END
 
 CONTROLBAR:ToolTipAzogSpawnOfTheDefiler_WOTR
-"Requiert : Niveau 10 \n Temporarily summons a battalion of Gundabad Bodyguards \n Clic gauche on sÈlectionner Clic gauche sur cible area"
+"Requiert : Niveau 10 \n Invoque temporairement un bataillon de gardes du corps de Gundabad \n Clic gauche sur l'icone puis clic gauche sur la zone cible"
 END
 
 CONTROLBAR:AzogToggleMounted
@@ -61807,11 +61807,11 @@ CONTROLBAR:ToolTipSpecialAbilityDrumsInTheDeep
 END
 
 CONTROLBAR:SpecialAbilitySummonWyrm
-"Lesser Dra&gon"
+"Petit dragon"
 END
 
 CONTROLBAR:ToolTipSpecialAbilitySummonWyrm
-"Requires the Allegiance: Northern Wastes upgrade \n Temporarily summons a Fire Wyrm \n Clic gauche on sÈlectionner Clic gauche sur cible area"
+"Requiert l'allÈgeance: Immondices du nord \n Invoque temporairement un Wyrm de feu \n Clic gauche sur l'icone puis clic gauche sur la zone cible"
 END
 
 CONTROLBAR:PurchaseUpgradeDolFortressBanners
