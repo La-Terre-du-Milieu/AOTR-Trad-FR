@@ -10713,7 +10713,7 @@ CONTROLBAR:ToolTipSpecialAbilityGamlingFLAL
 END
 
 CONTROLBAR:BFMEBuildNoldorExileHorde
-"Strong contre Cavalry and Siege \n\nExiles of Noldor carry long spears to defend themselves on their journey back to Valinor."
+"Fort contre Cavalry and Siege \n\nExiles of Noldor carry long spears to defend themselves on their journey back to Valinor."
 END
 
 OBJECT:CampaignStrider
@@ -13461,19 +13461,19 @@ SCRIPT:COMPLETION_E03_03
 END
 
 SCRIPT:OBJECTIVE_E03_04
-"Abattez tous les Dunedain."
+"Abattez tous les D˙nedain."
 END
 
 SCRIPT:ANNOUNCEMENT_E03_04
-"Les Dunedain attaquent nos forces. Tuez les tous."
+"Les D˙nedain attaquent nos forces. Tuez les tous."
 END
 
 SCRIPT:HINT_E03_04
-"Les Dunedain attaquent nos forces. Tuez les tous."
+"Les D˙nedain attaquent nos forces. Tuez les tous."
 END
 
 SCRIPT:COMPLETION_E03_04
-"Les Dunedain ont ÈtÈ dÈtruits."
+"Les D˙nedain ont ÈtÈ dÈtruits."
 END
 
 SCRIPT:OBJECTIVE_E03_05
@@ -14055,7 +14055,7 @@ SCRIPT:Hint_E08_06
 END
 
 SCRIPT:Hint_E08_07
-"Les derniers des Dunedain ont rejoint le combat. DÈtruisez les."
+"Les derniers des D˙nedain ont rejoint le combat. DÈtruisez les."
 END
 
 SCRIPT:Hint_E08_08
@@ -14146,7 +14146,7 @@ SCRIPT:LAIntro02
 END
 
 SCRIPT:LAIntro03
-"En rÈponse, Elendil, roi des Dunedain et Gil-galad, grand roi des Noldor, forgËrent une grande alliance."
+"En rÈponse, Elendil, roi des D˙nedain et Gil-galad, grand roi des Noldor, forgËrent une grande alliance."
 END
 
 SCRIPT:LAIntro04
@@ -14207,7 +14207,7 @@ SCRIPT:Objective01_Shadow
 END
 
 SCRIPT:Objective02_Shadow
-"DÈfendez le camp de Gildor face aux morts-vivants Dunedain"
+"DÈfendez le camp de Gildor face aux morts-vivants D˙nedain"
 END
 
 SCRIPT:Objective03_Shadow
@@ -14253,11 +14253,11 @@ END
 ///////////////////WEATHERTOP///////////////////
 
 SCRIPT:Objective01_Weathertop
-"Find tracks of Dunedain presence near Weathertop."
+"Find tracks of D˙nedain presence near Weathertop."
 END
 
 SCRIPT:Objective02_Weathertop
-"Survive the attack by the Risen Dunedain."
+"Survive the attack by the Risen D˙nedain."
 END
 
 SCRIPT:Objective03_Weathertop
@@ -15801,7 +15801,7 @@ CONTROLBAR:ToolTipBuildGondorFighterHorde
 END
 
 CONTROLBAR:ToolTipBuildGondorFighterHorde_Osgiliath
-"Strong contre Pikemen\n Able to switch formation and form combo hordes for improved defensive capabilities \n \n Even during its decline at the end of the Third Age, Minas Tirith maintained a sizeable garrison of men-at-arms."
+"Fort contre Pikemen\n Able to switch formation and form combo hordes for improved defensive capabilities \n \n Even during its decline at the end of the Third Age, Minas Tirith maintained a sizeable garrison of men-at-arms."
 END
 
 CONTROLBAR:ToolTipBuildGondorFighterHordeOld
@@ -15814,7 +15814,7 @@ CONTROLBAR:ToolTipBuildGondorArcherHorde
 END
 
 CONTROLBAR:ToolTipBuildGondorArcherHorde_Osgiliath
-"Strong contre Infantry and Monsters \nAble to form combo hordes for improved defensive capabilities\n\nWielding great bows of heartwood, Anùrien archers played a vital role in the defense of the White City."
+"Fort contre Infantry and Monsters \nAble to form combo hordes for improved defensive capabilities\n\nWielding great bows of heartwood, Anùrien archers played a vital role in the defense of the White City."
 END
 
 CONTROLBAR:ToolTipBuildGondorRangerHorde
@@ -15822,7 +15822,7 @@ CONTROLBAR:ToolTipBuildGondorRangerHorde
 END
 
 CONTROLBAR:ToolTipBuildGondorRangerHorde_Osgiliath
-"Requiert : Niveau 2 Archery Range \n Strong contre Infantry and Monsters \n Stealth near trees \n Can fire Longshot arrow volleys\n \n The RÙdeurs are the descendants of the people who once dwelt in Ithilien, before it fell from Gondor's control."
+"Requiert : Niveau 2 Archery Range \n Fort contre Infantry and Monsters \n Stealth near trees \n Can fire Longshot arrow volleys\n \n The RÙdeurs are the descendants of the people who once dwelt in Ithilien, before it fell from Gondor's control."
 END
 
 CONTROLBAR:ToolTipBuildGondorRangerHordeForGoodIthilien
@@ -16038,11 +16038,11 @@ CONTROLBAR:ToolTipBuildRohanRohirrimHorde
 "Requiert : Ecurie niveau 2\n Les Rohirrim sont les maÓtres des chevaux, renommÈs pour leur bravoure sans faille et pour leur adresse avec les bÍtes. SurnommÈs non sans raisons les Chevaliers de la Lance, ils chargent l'ennemi avec de longues lances et un bouclier, pour faucher l'ennemi sur leur passage.\n\nLeurs formations de pointe crÈent sans doute l'impact de†charge le plus meurtrier qui soit parmi les peuples libres de la Terre du Milieu.\nCan switch between Bow and Spear\n Forts contre les ÈpÈistes et les archers"
 END
 CONTROLBAR:ToolTipBuildRohanKingsguardHorde
-//"Requiert : Niveau 2 Stables \n Strong contre Archers"
+//"Requiert : Niveau 2 Stables \n Fort contre Archers"
 "Requiert: Ecurie niveau 3 \n Forts contre les ÈpÈistes et les archers \n \n Ces cavaliers d'Èlite forment la garde personnelle du roi, de ses hÈritiers et accomplissent de hauts faits d'arme pour garantir leur sÈcuritÈ. \n LimitÈ ‡ 3"
 END
 CONTROLBAR:ToolTipBuildRohanSnowbournRiderHorde
-//"Requiert : Niveau 2 Stables \n Strong contre Archers"
+//"Requiert : Niveau 2 Stables \n Fort contre Archers"
 "Requiert: Ecurie niveau 2\n Forts contre les ÈpÈistes et les archers \n \n Les cavaliers du Snowbourn sont une unitÈ de cavalerie lourde, capable de briser les rangs les plus fÈroces de l'ennemi et d'ouvrir une brËche pour le reste de l'armÈe."
 END
 CONTROLBAR:ToolTipBuildRohanHorsemenHorde
@@ -16558,7 +16558,7 @@ CONTROLBAR:ToolTipBuildIsengardWargRider
 "Requiert : Fosse des Wargs niveau 2\n Les Wargs de la Terre du Milieu sont des loups gÈants malfaisants ‡ l'apparence de hyËnes, faisant nÈanmoins preuve d'une intelligence inattendue, si grands et si robustes que certains Orques s'en servent comme monture.\n\nForts contre les ÈpÈistes et les archers"
 END
 CONTROLBAR:ToolTipBuildWildWargRider
-"Requiert : Niveau 2 Warg Cage\n Strong contre Swordsmen and Archers \n \n For generations, Orques have ridden Wargs - not as masters, but as equals - to track and ambush the Free Peoples."
+"Requiert : Niveau 2 Warg Cage\n Fort contre Swordsmen and Archers \n \n For generations, Orques have ridden Wargs - not as masters, but as equals - to track and ambush the Free Peoples."
 END
 
 CONTROLBAR:ToolTipBuildIsengardSiegeBallista
@@ -32059,7 +32059,7 @@ CONTROLBAR:ToolTipBuildMordorCorsairsOfUmbarHorde
 END
 
 CONTROLBAR:ToolTipBuildCorsairsOfUmbarHorde
-"Strong contre Pikemen"
+"Fort contre Pikemen"
 END
 
 CONTROLBAR:ToolTipBuildMordorCorsairsOfUmbarInnHorde
@@ -37536,7 +37536,7 @@ DIALOGEVENT:MEShire_Dune002subtitle
 END
 
 DIALOGEVENT:MEShire_GobK003subtitle
-"*Dunedain?here? Hmph! They can't save these little scrubs!"
+"*D˙nedain?here? Hmph! They can't save these little scrubs!"
 END
 
 DIALOGEVENT:MEShire_Hobb004subtitle
@@ -37600,7 +37600,7 @@ DIALOGEVENT:MEShire_GobK005subtitle
 END
 
 DIALOGEVENT:MEShire_Worm001subtitle
-"*I want extend my gratitude, oh great king, for clearing the shire of the meddlesome Dunedain."
+"*I want extend my gratitude, oh great king, for clearing the shire of the meddlesome D˙nedain."
 END
 
 DIALOGEVENT:MEShire_Worm002subtitle
@@ -37660,7 +37660,7 @@ DIALOGEVENT:MEShire_Hobb013subtitle
 END
 
 DIALOGEVENT:MEForno_GobK001subtitle
-"*The Dwarves have joined the Dunedain in their last attempt to save Eriador."
+"*The Dwarves have joined the D˙nedain in their last attempt to save Eriador."
 END
 
 DIALOGEVENT:MEForno_GobK002subtitle
@@ -38488,7 +38488,7 @@ DIALOGEVENT:MESkirm_OffM011subtitle
 END
 
 DIALOGEVENT:MESkirm_OffM012subtitle
-"*The Dunedain have held these lands for many years. We must put an end to their reign in this region."
+"*The D˙nedain have held these lands for many years. We must put an end to their reign in this region."
 END
 
 DIALOGEVENT:MGRiven_OffE014subtitle
@@ -39696,11 +39696,11 @@ DIALOGEVENT:MEGreyH_Cors025subtitle
 END
 
 DIALOGEVENT:MEShire_OffG008subtitle
-"*We must eliminate ALL the Dunedain"
+"*We must eliminate ALL the D˙nedain"
 END
 
 DIALOGEVENT:MEShire_OffG009subtitle
-"*The Dunedain still roam these lands. They must ALL DIE!"
+"*The D˙nedain still roam these lands. They must ALL DIE!"
 END
 
 DIALOGEVENT:MEShire_OffG010subtitle
@@ -39744,19 +39744,19 @@ DIALOGEVENT:MEShire_OffG019subtitle
 END
 
 DIALOGEVENT:MEShire_OffG020subtitle
-"*The Dunedain are attacking our base. Drive 'em out!"
+"*The D˙nedain are attacking our base. Drive 'em out!"
 END
 
 DIALOGEVENT:MEShire_OffG021subtitle
-"*So, the Dunedain have set up camp here."
+"*So, the D˙nedain have set up camp here."
 END
 
 DIALOGEVENT:MEShire_OffG022subtitle
-"*Looks like a Dunedain camp. Be wary."
+"*Looks like a D˙nedain camp. Be wary."
 END
 
 DIALOGEVENT:MEShire_OffG023subtitle
-"*Dunedain tents?watch your backs."
+"*D˙nedain tents?watch your backs."
 END
 
 DIALOGEVENT:MEShire_OffG024subtitle
@@ -39968,7 +39968,7 @@ DIALOGEVENT:MEErebo_OffM035subtitle
 END
 
 DIALOGEVENT:MERiven_OffG013subtitle
-"*Oh look, the last of the Dunedain have joined the fight. Kill them."
+"*Oh look, the last of the D˙nedain have joined the fight. Kill them."
 END
 
 DIALOGEVENT:MERiven_OffG014subtitle
@@ -46417,7 +46417,7 @@ DIALOGEVENT:MEShire_OffG033subtitle
 END
 
 DIALOGEVENT:MEForno_OffG017subtitle
-"*The remaining Dunedain of this region have rallied the help of the Blue Mountain Dwarves. It is in this abandoned fortress of Fornost where they will see their last moments. Once our work is done, all of the lands West of the Misty Mountains will be ours!"
+"*The remaining D˙nedain of this region have rallied the help of the Blue Mountain Dwarves. It is in this abandoned fortress of Fornost where they will see their last moments. Once our work is done, all of the lands West of the Misty Mountains will be ours!"
 END
 
 DIALOGEVENT:MEOldFo_OffM018subtitle
@@ -47849,7 +47849,7 @@ OBJECT:ArnorCavalryRiderless
 END
 
 OBJECT:ArnorCavalryCINE
-"Chevaliers Dunedain"
+"Chevaliers D˙nedain"
 END
 
 OBJECT:ArnorTrebuchet
@@ -47921,11 +47921,11 @@ OBJECT:HordeArnorTowerGuardTrebuchetCombo
 END
 
 OBJECT:HordeArnorKnight
-"Chevaliers Dunedain"
+"Chevaliers D˙nedain"
 END
 
 OBJECT:ArnorKnights
-"Chevaliers Dunedain"
+"Chevaliers D˙nedain"
 END
 
 OBJECT:HordeArnorSoldierKnightCombo
@@ -49018,7 +49018,7 @@ CONTROLBAR:MasterTracker
 END
 
 CONTROLBAR:DunedainChieftain
-"Chef des Dunedain"
+"Chef des D˙nedain"
 END
 
 CONTROLBAR:ToolTipDunedainChieftain
@@ -51901,7 +51901,7 @@ SCRIPT:ANGAmonSulCloudBreakIntroText
 END
 
 SCRIPT:ANGAmonSulDunedainIntroText
-"\n This tree summons D˙nedain ranger reinforcements."
+"\n This tree summons D˙nedain rÙdeur reinforcements."
 END
 
 SCRIPT:ANGAmonSulElvenWoodIntroText
@@ -56467,8 +56467,8 @@ END
 
 CONTROLBAR:ToolTipWildBabyDrakeHorde
 //"Fort contre toutes les troupes standards sauf les piquiers\n Requiert : Fissure de Gundabad niveau 3\n Only 2 Drake Broods sont autorisÈes en mÍme temps."
-//"Requiert : niveau 3 Fissure\n Strong contre All except Archers\n Only 2 Drake Broods sont autorisÈs en mÍme temps."
-"Requiert : niveau 3 Fissure\n Strong contre All except Archers\n Only 2 packs of Drake Broods sont autorisÈs en mÍme temps"
+//"Requiert : niveau 3 Fissure\n Fort contre All except Archers\n Only 2 Drake Broods sont autorisÈs en mÍme temps."
+"Requiert : niveau 3 Fissure\n Fort contre All except Archers\n Only 2 packs of Drake Broods sont autorisÈs en mÍme temps"
 END
 
 CONTROLBAR:ToolTipWildDrake
@@ -58080,7 +58080,7 @@ CONTROLBAR:ToolTipDarkGlory
 //"Requiert : niveau 7\n Morgomir and nearby N˙menÛrÈen Noir Swordsmen and RÙdeurs Noirs gain\n +50% dÈg‚ts et +50% armure.\n\nClic gauche pour activer\n Cumulable avec tout autre Bonus ou PÈnalitÈ" 
 //"Requiert : niveau 7\n Morgomir and nearby Dark D˙nedain gain\n +50% dÈg‚ts, +50% armure.\n\nClic gauche pour activer" 
 //"Requiert : niveau 7\n Morgomir and nearby Dark D˙nedain gain\n +33% dÈg‚ts, +33% armure.\n\nClic gauche pour activer"
-"Requiert : niveau 7\n Type d'Action : Sort\n Morgomir and nearby Dark Dunedain gain +33% dÈg‚ts et +33% armure\n Cumulable avec d'autres Bonus de Sort ou de Charisme.\n\nClic gauche pour activer" 
+"Requiert : niveau 7\n Type d'Action : Sort\n Morgomir and nearby Dark D˙nedain gain +33% dÈg‚ts et +33% armure\n Cumulable avec d'autres Bonus de Sort ou de Charisme.\n\nClic gauche pour activer" 
 END
 
 CONTROLBAR:ToolTipDarkness
@@ -59956,7 +59956,7 @@ CONTROLBAR:LW_ToolTip_ElvenGaladhrimWarriorHorde
 END
 
 CONTROLBAR:ToolTipBuildGaladhrimWarriorInnHorde
-"Strong contre Infantry \n \n Marchwardens are the only true military unit within Lothlùrien, and only the finest Elven warriors may count themselves amongst their ranks. They are tasked with guarding the borders of Lùrien and report to Lord Celeborn himself."
+"Fort contre Infantry \n \n Marchwardens are the only true military unit within Lothlùrien, and only the finest Elven warriors may count themselves amongst their ranks. They are tasked with guarding the borders of Lùrien and report to Lord Celeborn himself."
 END
 
 CONTROLBAR:ToolTipBuildGaladhrimWarriorHorde
@@ -60139,7 +60139,7 @@ CONTROLBAR:ToolTipBuildGondorLinhirPikeHorde
 END
 
 CONTROLBAR:ToolTipBuildGondorLinhirPikeHorde_SwornAllegiance
-"Strong contre Cavalry and Heroes \n Able to switch formation for improved defensive capabilities \n Come equipped with Armaments of the White City \n \n During the last days of the War of the Ring, the Men of Linhir stood valiantly against a combined assault of Corsairs and Haradrim."
+"Fort contre Cavalry and Heroes \n Able to switch formation for improved defensive capabilities \n Come equipped with Armaments of the White City \n \n During the last days of the War of the Ring, the Men of Linhir stood valiantly against a combined assault of Corsairs and Haradrim."
 END
 
 CONTROLBAR:LW_ToolTipBuild_GondorLinhirPikeHorde
@@ -60198,7 +60198,7 @@ CONTROLBAR:ToolTipBuildGondorLamedonFighterHorde
 END
 
 CONTROLBAR:ToolTipBuildGondorLamedonFighterHorde_SwornAllegiance
-"Strong contre Pikemen \n Come equipped with Armaments of the White City \n \n Hailing from the forested highlands of Lamedon, these men have long defended their lands from Southron incursions."
+"Fort contre Pikemen \n Come equipped with Armaments of the White City \n \n Hailing from the forested highlands of Lamedon, these men have long defended their lands from Southron incursions."
 END
 
 CONTROLBAR:LW_ToolTipBuild_GondorLamedonFighterHorde
@@ -60207,11 +60207,11 @@ END
 
 // ------------- Loss additions ----------
 CONTROLBAR:ToolTipBuildLossarnachAxeMenHorde
-"Requiert : Niveau 2 Barracks and Forlong \n Strong contre Pikemen and Buildings \n\n The lands of Lossarnach were renowned for their natural beauty, and its soldiers for their ferocity and loyalty to their Steward."
+"Requiert : Niveau 2 Barracks and Forlong \n Fort contre Pikemen and Buildings \n\n The lands of Lossarnach were renowned for their natural beauty, and its soldiers for their ferocity and loyalty to their Steward."
 END
 
 CONTROLBAR:ToolTipBuildLossarnachAxeMenHorde_SwornAllegiance
-"Requiert : Niveau 2 Barracks and Forlong \n Strong contre Pikemen and Buildings \n Come equipped with Armaments of the White City \n\n The lands of Lossarnach were renowned for their natural beauty, and its soldiers for their ferocity and loyalty to their Steward."
+"Requiert : Niveau 2 Barracks and Forlong \n Fort contre Pikemen and Buildings \n Come equipped with Armaments of the White City \n\n The lands of Lossarnach were renowned for their natural beauty, and its soldiers for their ferocity and loyalty to their Steward."
 END
 
 CONTROLBAR:ConstructLossarnachAxeMenHorde
@@ -60244,7 +60244,7 @@ CONTROLBAR:ToolTipBuildGondorBlackrootArcherHorde
 END
 
 CONTROLBAR:ToolTipBuildGondorBlackrootArcherHorde_SwornAllegiance
-"Strong contre Infantry and Monsters \n Come equipped with Armaments of the White City \n \n The inhabitants of the Blackroot Vale were known in Gondor for their archery skills, and their lord Duinhir took five-hundred bowmen to the Battle of the Pelennor Fields."
+"Fort contre Infantry and Monsters \n Come equipped with Armaments of the White City \n \n The inhabitants of the Blackroot Vale were known in Gondor for their archery skills, and their lord Duinhir took five-hundred bowmen to the Battle of the Pelennor Fields."
 END
 
 CONTROLBAR:LW_ToolTipBuild_GondorBlackrootArcherHorde
@@ -60298,7 +60298,7 @@ CONTROLBAR:ToolTipConstructGondorDolMAArmsHorde
 END
 
 CONTROLBAR:ToolTipConstructGondorDolMAArmsHorde_WOTR
-"Requiert : Niveau 2 Barracks and Dol Amroth Citadel \n Strong contre Pikemen \n \n Choosing to fight on foot rather than from horseback, these heavily armored soldiers are no less elite than their equestrian counterparts."
+"Requiert : Niveau 2 Barracks and Dol Amroth Citadel \n Fort contre Pikemen \n \n Choosing to fight on foot rather than from horseback, these heavily armored soldiers are no less elite than their equestrian counterparts."
 END
 
 CONTROLBAR:LW_ToolTipBuild_GondorDolMAArmsHorde
@@ -60950,7 +60950,7 @@ CONTROLBAR:LW_ToolTip_IsengardManSlayerHorde
 END
 
 CONTROLBAR:LW_ToolTip_IsengardManSlayerHorde_WOTR
-"# Man-Slayers\n\nType d'unitÈ: Hero Unit\n Strong contre All Unit types"
+"# Man-Slayers\n\nType d'unitÈ: Hero Unit\n Fort contre All Unit types"
 END
 
 CONTROLBAR:ToolTipBuildIsengardManSlayerHorde
@@ -64606,7 +64606,7 @@ CONTROLBAR:ConstructElvenNoldorExileHorde
 END
 
 CONTROLBAR:ToolTipBuildElvenNoldorExileHorde
-"Strong contre Cavalry, Siege and Heroes"
+"Fort contre Cavalry, Siege and Heroes"
 END
 
 CONTROLBAR:SongToElbereth
@@ -64728,7 +64728,7 @@ CONTROLBAR:ConstructTookArcherHorde
 END
 
 CONTROLBAR:ToolTipBuildTookArcherHorde
-"Strong contre Infantry \n Can stealth near trees \n \n Like all Hobbits, these archers are blessed with keen eyes and steady hands, with an added dose of courage native to the Took family."
+"Fort contre Infantry \n Can stealth near trees \n \n Like all Hobbits, these archers are blessed with keen eyes and steady hands, with an added dose of courage native to the Took family."
 END
 
 //------------ Took Archers --------------
@@ -64746,7 +64746,7 @@ CONTROLBAR:ConstructDunedainOutriderHorde
 END
 
 CONTROLBAR:ToolTipBuildDunedainOutriderHorde
-"Strong contre Archers\n \n The wilds of Eriador stretch far and wide, and cannot all be protected by Men wandering on foot."
+"Fort contre Archers\n \n The wilds of Eriador stretch far and wide, and cannot all be protected by Men wandering on foot."
 END
 
 //------------ Bree-land Farmers ---------------
@@ -67594,7 +67594,7 @@ CONTROLBAR:ConstructFirienholtWardenHorde
 END
 
 CONTROLBAR:ToolTipBuildFirienholtWardenHorde
-"Requiert : Niveau 2 Archery Range \n Strong contre Infantry and Monsters \n Can fire Longshot arrow volleys\n \n These woodsmen protected the sacred hill of Halifirien and the surrounding Firienholt."
+"Requiert : Niveau 2 Archery Range \n Fort contre Infantry and Monsters \n Can fire Longshot arrow volleys\n \n These woodsmen protected the sacred hill of Halifirien and the surrounding Firienholt."
 END
 
 CONTROLBAR:HalifirienGuards
@@ -67614,7 +67614,7 @@ CONTROLBAR:ConstructRohanDoorWardenHorde
 END
 
 CONTROLBAR:ToolTipBuildRohanDoorWardenHorde
-"Requiert : Niveau 3 Barracks \n Strong contre Pikemen \n \n Alternatively named the Door-Wardens, these warriors were hand-picked by the King and tasked with the safety of Meduseld. In times of war, they would each lead a small part of a greater …ored."
+"Requiert : Niveau 3 Barracks \n Fort contre Pikemen \n \n Alternatively named the Door-Wardens, these warriors were hand-picked by the King and tasked with the safety of Meduseld. In times of war, they would each lead a small part of a greater …ored."
 END
 
 CONTROLBAR:ToolTipConstructRohanFarm
@@ -68175,124 +68175,124 @@ CONTROLBAR:FellowshipAthelas
 END
 
 CONTROLBAR:TooltipFellowshipAthelas
-"Heals nearby friendly Heroes \n Clic gauche pour activer"
+"Soigne les HÈros amis proches \n Clic gauche pour activer"
 END
 
 OBJECT:RohanPukelStatue
-"P˙kel-man Statue"
+"Statue d'Homme-P˙kel"
 END
 
 OBJECT:RohanPukelStatueDescription
-"A P˙kel-man statue harboring strange magic"
+"La Statue d'Homme-P˙kel abritant une Ètrange magie"
 END
 
 CONTROLBAR:PukelMoveUnseen
-"&Secret Paths"
+"Les Voies SecrËtes (&p)"
 END
 
 CONTROLBAR:ToolTipPukelMoveUnseen
-"The Dr˙edain know of paths that others have long forgotten \n Allows all targeted allies to become temporarily stealthed \n Clic gauche sÈlectionner Clic gauche sur cible units"
+"Les Dr˙edain connaissent des chemins que d'autres ont oubliÈs depuis longtemps \n Permet ‡ tous les alliÈs ciblÈs de devenir temporairement furtifs \n Clic gauche sÈlectionner Clic gauche sur les unitÈs ciblÈes"
 END
 
 CONTROLBAR:PukelStoneSkin
-"Stone-S&kin"
+"Peau de Pierre (&k)"
 END
 
 CONTROLBAR:ToolTipPukelStoneSkin
-"The P˙kel-men statues were said to harbor benign spirits, capable of shielding friends and warding off foes \n Units within the radius are temporarily frozen and cannot attack or be attacked \n Clic gauche sÈlectionner Clic gauche sur cible units"
+"Les statues d'Hommes-P˙kel auraient abritÈ des esprits bienveillants, capables de protÈger leurs amis et de repousser les ennemis \n Les unitÈs dans le rayon sont temporairement gelÈes et ne peuvent pas attaquer ou Ítre attaquÈes \n Clic gauche sÈlectionner Clic gauche sur les unitÈs ciblÈes"
 END
 
 CONTROLBAR:PukelFaithfulStone
-"&Faithful Stone"
+"StËle &FidËle"
 END
 
 CONTROLBAR:ToolTipPukelFaithfulStone
-"A long-forgotten tale tells of a faithful stone guardian coming alive to guard the house of a friend \n When cast on a structure, said structure is temporarily defended by a mysterious Dr˙edain warrior \n Clic gauche sÈlectionner Clic gauche sur cible building"
+"Une histoire oubliÈe depuis longtemps raconte qu'un fidËle gardien de pierre prend vie pour garder la maison d'un ami \n Lorsqu'elle est lancÈe sur une structure, celle-ci est temporairement dÈfendue par un mystÈrieux guerrier Dr˙edain \n Clic gauche sÈlectionner Clic gauche sur le b‚timent ciblÈ"
 END
 
 OBJECT:DruedainWarrior
-"Dr˙edain Warrior"
+"Guerrier Dr˙edain"
 END
 
 CONTROLBAR:ConstructRohanBatteringRam
-//"Horse-head &Ram"
-"Horse-head &Ram"
+//"BÈlie&r ‡ TÍte de Cheval"
+"BÈlie&r ‡ TÍte de Cheval"
 END
 
 OBJECT:RohanBatteringRam
-"Horse-Head Ram"
+"BÈlier ‡ TÍte de Cheval"
 END
 
 CONTROLBAR:ToolTipBuildRohanBatteringRam
-"Breaks down castle gates and enemy structures \n \n The Rohirrim associated horses with strength and nobility. No wonder then that they preferred to adorn their battering rams with iron-wrought horse-heads, to bring down an enemy's gate with noble fury."
+"DÈtruit les portes du ch‚teau et les structures ennemies \n \n Les Rohirrims ont associÈ les chevaux ‡ la force et ‡ la noblesse. Pas Ètonnant alors qu'ils prÈfÈraient orner leurs bÈliers battants avec des tÍtes de cheval, pour abattre la porte d'un ennemi avec une noble fureur."
 END
 
 CONTROLBAR:ConstructRohanMangonel
-"Rohirric Ona&ger"
+"Ona&gre Rohirique"
 END
 
 OBJECT:RohanMangonel
-"Rohirric Onager"
+"Onagre Rohirique"
 END
 
 CONTROLBAR:SpecialAbilityHayBale
-"Launch Ha&y Bale"
+"Lance un Boule de Foin"
 END
 
 CONTROLBAR:TooltipSpecialAbilityHayBale
-"Launches a flaming hay bale at targeted area \n causes fire in the effected area"
+"Lance une Boule de Foin enflammÈe dans la zone ciblÈe \n provoque un incendie dans la zone affectÈe"
 END
 
 CONTROLBAR:ToolTipBuildRohanMangonel
-"Requiert : Niveau 2 Workshop \n Strong contre Structures\n Only 6 allowed at any time \n Can launch a bale of burning hay, setting fire to the area surrounding impact.\n \n Though not as advanced as their allies in Gondor, the Rohirrim were nonetheless capable of constructing powerful ranged siege weapons."
+"Requiert : Niveau 2 Atelier \n Fort contre Structures \n Seulement 6 permis ‡ tout moment \n Peut lancer une Boule de Foin enflammÈe, mettant le feu ‡ la zone environnante.\n \n Bien que pas si aussi avancÈ que leurs alliÈs au Gondor, les Rohirrims Ètaient nÈanmoins capables de construire de puissantes armes de siËge ‡ distance."
 END
 
 CONTROLBAR:BowMastery
-"Bow Master&y"
+"MaÓtrise de l'Arc (&y)"
 END
 
 CONTROLBAR:ToolTipBowMastery
-"Requiert : Niveau 2\nTemporarily allows the unit to fire while moving"
+"Requiert : Niveau 2 \n Permet temporairement ‡ l'unitÈ de tirer tout en se dÈplaÁant"
 END
 
 CONTROLBAR:ImladrisDunedainGarrison
-"&D˙nedain Sentries"
+"Sentinelles du &D˙nedain"
 END
 
 CONTROLBAR:ToolTipImladrisDunedainGarrison
-"Stations permanent D˙nedain sentries inside the tower. \n Clic gauche to purchase"
+"Stationne des sentinelles du D˙nedain permanentes ‡ l'intÈrieur de la tour. \n Clic gauche to purchase"
 END
 
 CONTROLBAR:ToolTipBuildImladrisBatteringRam
-"Requiert : Niveau 2 Encampment \nBreaks down castle gates and enemy structures \n \n A battering ram is a basic tool for siege warfare. Easy to make, and simple in use. Straight-forward, like the Men of Bree."
+"Requiert : Niveau 2 Campement \n DÈtruit les portes du ch‚teau et les structures ennemies \n \n Un BÈlier est un outil de base pour la guerre de siËge. Facile ‡ faire, et simple d'utilisation. La SimplicitÈ, tout comme les hommes de Bree."
 END
 
 CONTROLBAR:ConstructRohanHelmingasWardenHorde
-"Helmingas &Warriors"
+"Guerriers d'Helmingas (&w)"
 END
 
 CONTROLBAR:ToolTipBuildRohanHelmingasWardenHorde
-"Requiert : Niveau 3 Barracks \n and the Horns of Hammerhand upgrade\n Hero Unit. Limited to 1. \n Fort contre Infantry and Structures\n Able to switch between mounted and on foot \n \n Helm's Deep was home to a garrison of veteran warriors. Keeping alive the image of Helm Hammerhand's martial prowess, they kept Rohan's primary refuge open and guarded against surprise assaults."
+"Requiert : Niveau 3 Casernes \n et les Cornes de Mainmarteau amÈliorÈ \n UnitÈ HÈros. LimitÈ ‡ 1. \n Fort contre Infantrie et Structures \n Capable de basculer entre montÈ et ‡ pied \n \n Le Gouffre de Helm abritait une garnison de guerriers vÈtÈrans. Gardant vivante l'image des prouesses martiales d'Helm Mainmarteau, ils ont gardÈ le principal refuge du Rohan ouvert et protÈgÈ contre les attaques surprise."
 END
 
 OBJECT:HordeRohanHelmingasWarden
-"Helmingas Warriors"
+"Guerriers d'Helmingas"
 END
 
 OBJECT:RohanHelmingasWarden
-"Helmingas Warriors"
+"Guerriers d'Helmingas"
 END
 
 CONTROLBAR:GreyCompanyGrimResolve
-"Grim Resolve"
+"Sinistre rÈsolution"
 END
 
 CONTROLBAR:ToolTipGreyCompanyGrimResolve
-"Nearby enemies lose 10% armour and damage and have reduced fear resistance\nEach time a ranger falls, the other members of the battalion gain a small damage and armor boost for a short time\nStacks each time a ranger dies\nPassive power"
+"Les enemies proches perdent 10% d'armure, de dommage et ont une rÈduction ‡ la rÈsistance de la peur \n ‡ chaque fois qu'un rÙdeur tombe, les autres membres du bataillon obtiennent une petite augmentation de dÈg‚ts et armure durant un court instant \n S'accumule ‡ chaque fois qu'un rÙdeur meurt \n Pouvoir Passive"
 END
 
 CONTROLBAR:GreyCompanySilentDefenders
-"Silent D&efenders"
+"DÈf&enseurs Silencieux"
 END
 
 CONTROLBAR:ToolTipGreyCompanySilentDefenders
