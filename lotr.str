@@ -15814,7 +15814,7 @@ CONTROLBAR:ToolTipBuildGondorArcherHorde
 END
 
 CONTROLBAR:ToolTipBuildGondorArcherHorde_Osgiliath
-"Fort contre Infantry and Monsters \nAble to form combo hordes for improved defensive capabilities\n\nWielding great bows of heartwood, Anùrien archers played a vital role in the defense of the White City."
+"Fort contre l'Infantrie and Monsters \nAble to form combo hordes for improved defensive capabilities\n\nWielding great bows of heartwood, Anùrien archers played a vital role in the defense of the White City."
 END
 
 CONTROLBAR:ToolTipBuildGondorRangerHorde
@@ -15822,7 +15822,7 @@ CONTROLBAR:ToolTipBuildGondorRangerHorde
 END
 
 CONTROLBAR:ToolTipBuildGondorRangerHorde_Osgiliath
-"Requiert : Niveau 2 Archery Range \n Fort contre Infantry and Monsters \n Stealth near trees \n Can fire Longshot arrow volleys\n \n The RÙdeurs are the descendants of the people who once dwelt in Ithilien, before it fell from Gondor's control."
+"Requiert : Niveau 2 Archerie \n Fort contre l'Infantrie and Monsters \n Stealth near trees \n Can fire Longshot arrow volleys\n \n The RÙdeurs are the descendants of the people who once dwelt in Ithilien, before it fell from Gondor's control."
 END
 
 CONTROLBAR:ToolTipBuildGondorRangerHordeForGoodIthilien
@@ -24331,7 +24331,7 @@ OBJECT:GondorBarracksDescription
 END
 
 OBJECT:RohanBarracksDescription
-"Generates resources based on available terrain\nLevel 2: +10% Faster Build Speed\n Level 3: +25% Faster Build Speed"
+"Generates resources based on available terrain\nLevel 2: +10% de vitesse de construction\n Level 3: +25% de vitesse de construction"
 END
 
 OBJECT:GondorArcheryRangeDescription
@@ -24339,7 +24339,7 @@ OBJECT:GondorArcheryRangeDescription
 END
 
 OBJECT:RohanArcheryRangeDescription
-"Generates resources based on available terrain\nLevel 2: +10% Faster Build Speed\n Level 3: +25% Faster Build Speed"
+"Generates resources based on available terrain\nLevel 2: +10% de vitesse de construction\n Level 3: +25% de vitesse de construction"
 END
 
 OBJECT:GondorStablesDescription
@@ -24735,7 +24735,7 @@ CONTROLBAR:LW_Unit_GondorArcherHordeComboPlural
 END
 
 CONTROLBAR:LW_ToolTip_GondorArcherHordeCombo
-"Type d'unitÈ: Elite Archer\n Fort contre Infantry\n"
+"Type d'unitÈ: Elite Archer\n Fort contre l'Infantrie\n"
 END
 
 OBJECT:HordeGondorSoldierArcherCombo
@@ -24767,7 +24767,7 @@ CONTROLBAR:LW_Unit_GondorFighterSpearmenHordePlural
 END
 
 CONTROLBAR:LW_ToolTip_GondorFighterSpearmenHorde
-"Type d'unitÈ: Elite Archer and Elite Pikemen\n Fort contre Infantry and Cavalry\n"
+"Type d'unitÈ: Elite Archer and Elite Pikemen\n Fort contre l'Infantrie and Cavalry\n"
 END
 
 OBJECT:HordeGondorSpearmenRangerCombo
@@ -28056,7 +28056,7 @@ CONTROLBAR:ToolTipUpgradeDwarvenBarracksLevel3
 END
 
 CONTROLBAR:ToolTipUpgradeDwarvenBarracksLevel3_WOTR
-"+25% Faster Build Speed \n Adds Defensive Guard Tower"
+"+25% de vitesse de construction \n Adds Defensive Guard Tower"
 END
 
 CONTROLBAR:ConstructDwarvenMenOfDale
@@ -40244,7 +40244,7 @@ DIALOGEVENT:MTrBas_OffT054subtitle
 END
 
 DIALOGEVENT:MTrBas_OffT055subtitle
-"*The last thing we'll need is an Archery Range. Build one of those on the other spotlight."
+"*The last thing we'll need is an Archerie. Build one of those on the other spotlight."
 END
 
 DIALOGEVENT:MTrBas_OffT056subtitle
@@ -40308,7 +40308,7 @@ DIALOGEVENT:MTrBas_OffT070subtitle
 END
 
 DIALOGEVENT:MTrBas_OffT071subtitle
-"*Great! Now train two battalions of Gondor Archers from the Archery Range."
+"*Great! Now train two battalions of Gondor Archers from the Archerie."
 END
 
 DIALOGEVENT:MTrBas_OffT072subtitle
@@ -56393,8 +56393,8 @@ CONTROLBAR:ToolTipBuildWildFissureLevel3Upgrade
 END
 
 CONTROLBAR:ToolTipBuildWildFissureLevel3Upgrade_WOTR
-//"Level 3: +25% Faster Build Speed \n Allows training of Mountain Giants and Fire Drake Brood"
-"Allows training of Attack Trolls\n+25% Faster Build Speed"
+//"Level 3: +25% de vitesse de construction \n Allows training of Mountain Giants and Fire Drake Brood"
+"Allows training of Attack Trolls\n+25% de vitesse de construction"
 END
 
 CONTROLBAR:ToolTipConstructWildWildSpiderPit
@@ -58204,7 +58204,7 @@ CONTROLBAR:ToolTipSlayer
 //"Requiert : niveau 4\n Gimli attacks twice as fast and gains\n +100% dÈg‚ts\n\nClic gauche pour activer"
 //"Requiert : niveau 5\n Gimli gagne +150% dÈg‚ts and\n increased attack speed\n\nClic gauche pour activer"
 //"Requiert : niveau 5\n Gimli gagne +100% dÈg‚ts and\n increased attack speed\n\nClic gauche pour activer"
-"Requiert : niveau 5\n Gimli gagne +100% dÈg‚ts and\n increased attack and movement speed\n\nClic gauche pour activer"
+"Requiert : niveau 5\n Gimli gagne +100% dÈg‚ts and\n increased attack et de vitesse dÈplacement\n\nClic gauche pour activer"
 END
 
 CONTROLBAR:ToolTipDainSlayer
@@ -58454,9 +58454,9 @@ CONTROLBAR:TooltipUpgradeIsengardUrukPitLevel3
 End
 
 CONTROLBAR:TooltipUpgradeIsengardUrukPitLevel3_WOTR
-//"Allows training of Uruk Deathbringer Hordes \n +25% Faster Build Speed"
-//"Allows training of Uruk Deathbringers \n Adds defensive Arrow Tower \n +25% Faster Build Speed"
-"+25% Faster Build Speed"
+//"Allows training of Uruk Deathbringer Hordes \n +25% de vitesse de construction"
+//"Allows training of Uruk Deathbringers \n Adds defensive Arrow Tower \n +25% de vitesse de construction"
+"+25% de vitesse de construction"
 End
 
 CONTROLBAR:ToolTipBloodthirstyMordorFighter
@@ -61016,7 +61016,7 @@ CONTROLBAR:TooltipSummonMordorAllies
 End
 
 CONTROLBAR:TooltipSummonMordorAllies_WOTR
-"Summons several hordes of Mordor Orques to fight for your side \n Clic gauche sÈlectionner Clic gauche on pathable location"
+"Summons several hordes of Mordor Orques to fight for your side \n Clic gauche sÈlectionner Clic gauche un emplacement libre"
 End
 
 //---------------- Devastate -----------------
@@ -62814,7 +62814,7 @@ CONTROLBAR:ToolTipBuildIsengardDunlandArcherHorde
 END
 
 CONTROLBAR:ToolTipBuildIsengardDunlandArcherHorde_WOTR
-"Requires Clan Steading Level 2 and Dunlending Longhouse \n Elite Archer \n Fort contre Infantry \n \n 'The rocky hills du Pays de Dun are difficult to farm, resulting in a sprawling culture of hunting based around the legend of the White Crow.'"
+"Requires Clan Steading Level 2 and Dunlending Longhouse \n Elite Archer \n Fort contre l'Infantrie \n \n 'The rocky hills du Pays de Dun are difficult to farm, resulting in a sprawling culture of hunting based around the legend of the White Crow.'"
 END
 
 CONTROLBAR:LW_ToolTipBuild_IsengardDunlandArcherHorde
@@ -63646,7 +63646,7 @@ CONTROLBAR:CampaignHiddenCache
 END
 
 CONTROLBAR:TooltipCampaignHiddenCache
-"Summons a cache of resources \n Clic gauche sÈlectionner Clic gauche on pathable location"
+"Summons a cache of resources \n Clic gauche sÈlectionner Clic gauche un emplacement libre"
 END
 
 CONTROLBAR:BilboRecruit
@@ -64013,7 +64013,7 @@ CONTROLBAR:ToolTipGandalfHalflingLeaf
 END
 
 CONTROLBAR:ToolTipRivendellGandalfHalflingLeaf
-"Summons Gandalf's Travelling Cart\n Heals nearby allies \n Clic gauche sÈlectionner Clic gauche on pathable location"
+"Summons Gandalf's Travelling Cart\n Heals nearby allies \n Clic gauche sÈlectionner Clic gauche un emplacement libre"
 END
 
 CONTROLBAR:GandalfDisturber
@@ -64672,7 +64672,7 @@ TOOLTIP:LackArnorFireArrowsDunedain
 END
 
 TOOLTIP:LackArnorFireArrowsDunedain_Inn
-"Research Fire Arrows upgrade at Archery Range\nto enable this equipment \nPermanently equips rangers with bows\n Increases base damage and adds Magic damage to arrows\n Only one upgrade may be purchased at a time"
+"Research Fire Arrows upgrade at Archerie\nto enable this equipment \nPermanently equips rangers with bows\n Increases base damage and adds Magic damage to arrows\n Only one upgrade may be purchased at a time"
 END
 
 
@@ -64728,7 +64728,7 @@ CONTROLBAR:ConstructTookArcherHorde
 END
 
 CONTROLBAR:ToolTipBuildTookArcherHorde
-"Fort contre Infantry \n Can stealth near trees \n \n Like all Hobbits, these archers are blessed with keen eyes and steady hands, with an added dose of courage native to the Took family."
+"Fort contre l'Infantrie \n Can stealth near trees \n \n Like all Hobbits, these archers are blessed with keen eyes and steady hands, with an added dose of courage native to the Took family."
 END
 
 //------------ Took Archers --------------
@@ -65523,7 +65523,7 @@ CONTROLBAR:LW_ToolTipBuild_DwarvenArcherDwarvenPhalanxHorde
 END
 
 CONTROLBAR:LW_ToolTip_DwarvenArcherDwarvenPhalanxHorde
-"\nType d'unitÈ: Basic Pikemen and Basic Archers\n Fort contre Infantry and Cavalry"
+"\nType d'unitÈ: Basic Pikemen and Basic Archers\n Fort contre l'Infantrie and Cavalry"
 END
 
 OBJECT:HordeDwarvenArcherDwarvenGuardianCombo
@@ -66686,7 +66686,7 @@ CONTROLBAR:LW_Unit_GondorDolMAArmsHordePlural
 END
 
 CONTROLBAR:LW_ToolTipBuild_GondorKnightsofDolHorde
-"Type d'unitÈ: Hero Cavalry\n Fort contre Infantry\n"
+"Type d'unitÈ: Hero Cavalry\n Fort contre l'Infantrie\n"
 END
 
 CONTROLBAR:LW_Unit_GondorFountainGuardHordePlural
@@ -67398,11 +67398,11 @@ CONTROLBAR:LW_Unit_IronHillsCrossbowHorde
 END
 
 CONTROLBAR:LW_ToolTip_IronHillsCrossbowHorde
-"\nType d'unitÈ: Elite Archer\n Fort contre Infantry"
+"\nType d'unitÈ: Elite Archer\n Fort contre l'Infantrie"
 END
 
 CONTROLBAR:LW_ToolTipBuild_IronHillsCrossbowHorde
-"Type d'unitÈ: Elite Archer\n Fort contre Infantry\n"
+"Type d'unitÈ: Elite Archer\n Fort contre l'Infantrie\n"
 END
 
 CONTROLBAR:LW_Unit_EredLuinTraderHordePlural
@@ -67481,55 +67481,71 @@ CONTROLBAR:ToolTipElrondEarendilion
 //"Requiert : Niveau 10 \n Heals nearby allies and fully refreshes their special ability timers \n Clic gauche sÈlectionner Clic gauche sur cible area"
 "Requiert : Niveau 7 \n Heals nearby allies and fully refreshes\ntheir special ability timers \n Clic gauche sÈlectionner Clic gauche sur cible area"
 END
+
 OBJECT:RohanElfhelm
 "Elfhelm"
 END
+
 CONTROLBAR:RohanElfhelmRecruit
-"Recruit the marshal of Riddermark. \n \n A gifted swordsman and archer, Elfhelm's skill at arms earned him his name at an early age: Elf-helm; protected by the magic of the Elves, as the Rohirrim might have believed."
+"Recrute Le MarÈchal du Riddermark. \n\n Un talentueux ÈpÈiste et archer, les compÈtences d'armes d'Elfhelm lui ont valu son nom ‡ ‚ge prÈcoce: Le Casque d'Elfe; protÈgÈ par la Magie des Elfes, comme les Rohirrims auraient pu le croire."
 END
+
 CONTROLBAR:RohanElfhelmRevive
-"Revive the fallen Hero, Elfhelm"
+"RÈssucite le HÈros DÈchu, Elfhelm"
 END
+
 CONTROLBAR:RohanElfhelmHotkey
 "El&fhelm"
 END
+
 OBJECT:RohanHama
 "H·ma"
 END
+
 CONTROLBAR:RohanHamaRecruit
-"Recruit the Door-warden."
+"Recrute Le Gardien de la Porte."
 END
+
 CONTROLBAR:RohanHamaRevive
-"Revive the fallen Hero, H·ma"
+"RÈssucite le HÈros DÈchu, H·ma"
 END
+
 CONTROLBAR:RohanHamaHotkey
 "&H·ma"
 END
+
 OBJECT:RohanErkenbrand
 "Erkenbrand"
 END
+
 CONTROLBAR:RohanErkenbrandRecruit
-//"Recruit the Lord of the Westfold \n \n Amid them strode a man tall and strong. His shield was red. As he came to the valley's brink, he set to his lips a great black horn and blew a ringing blast. 'Erkenbrand!' the Riders shouted. 'Erkenbrand!'"
-"Requires the Horn of the Westfold power to be used \n Recruit the Lord of the Westfold \n \n Amid them strode a man tall and strong. His shield was red. As he came to the valley's brink, he set to his lips a great black horn and blew a ringing blast. 'Erkenbrand!' the Riders shouted. 'Erkenbrand!'"
+"NÈcessite l'utilisation du pouvoir Le Cor de Ouestfolde \n Recrute le Seigneur du Ouestfold \n\n Au milieux d'eux marchait un homme grand et fort. Son Bouclier Ètait rouge. Alors qu'il arrivait au bord de la VallÈe, il a mis ‡ ses lËvres une grande corne noire et a fait retentir une sonnerie. 'Erkenbrand!' CriËrent les Cavaliers. 'Erkenbrand!'"
 END
+
 CONTROLBAR:RohanErkenbrandRevive
-"Revive the fallen Hero, Erkenbrand"
+"RÈssucite le HÈros DÈchu, Erkenbrand"
 END
+
 CONTROLBAR:RohanErkenbrandHotkey
 "Er&kenbrand"
 END
+
 CONTROLBAR:RohanErkenbrandFakeSlot
-"Recruit Er&kenbrand"
+"Recrute Er&kenbrand"
 END
+
 OBJECT:RohanTheodred
 "ThÈodred"
 END
+
 CONTROLBAR:RohanTheodredRecruit
-"Recruit the Prince of Riddermark. \n \n 'Bealocwealm hafa frÈone frecan forth onsended\ngiedd sculon singan glÈomenn sorgiende\non Meduselde thÊt he ma no wÊre\nhis dryhtne dyrest and maga deorost.'"
+"Recrute le Prince du Riddermark. \n\n 'Bealocwealm hafa frÈone frecan forth onsended \n giedd sculon singan glÈomenn sorgiende \n on Meduselde thÊt he ma no wÊre \n his dryhtne dyrest and maga deorost.'"
 END
+
 CONTROLBAR:RohanTheodredRevive
-"Revive the fallen Hero, ThÈodred"
+"RÈssucite le HÈros DÈchu, ThÈodred"
 END
+
 CONTROLBAR:RohanTheodredHotkey
 "ThÈodre&d"
 END
@@ -67543,157 +67559,147 @@ OBJECT:RohanWestfolderHorde
 END
 
 CONTROLBAR:ConstructRohanWestfolderHorde
-//&W
-"Guerriers de Ouestfolde"
+"Guerriers de Ouestfolde (&w)"
 END
 
 CONTROLBAR:ToolTipBuildRohanWestfolderHorde
-"Requiert : Caserne niveau 2 et le pouvoir Cor de Ouestfolde pour Ítre utilisÈ\n Forts contre Piquiers\n Capables de changer de formation et de fusionner avec une autre horde de Guerriers de Ouestfolde \n\n Ces hommes trËs disciplinÈs comptaient parmi les meilleurs guerriers du Riddermark. Leur mur de bouclier Ètait craint parmi les ennemies du Ouestfolde, particuliËrement par les hommes du Pays de Dun."
+"Requiert : Caserne Niveau 2 et le pouvoir du Cor de Ouestfolde pour Ítre utilisÈ \n Forts contre Piquiers \n Capables de changer de formation et de fusionner avec une autre horde de Guerriers de Ouestfolde \n\n Ces hommes trËs disciplinÈs comptaient parmi les meilleurs guerriers du Riddermark. Leur mur de bouclier Ètait craint parmi les ennemies du Ouestfolde, particuliËrement par les hommes du Pays de Dun."
 END
 
 CONTROLBAR:ToolTipToggleWestfolderBlockToLineFormationElite
 //"No bonus"
 //"+25% Damage\n-25% Armor\n+67% Speed"
-"Requiert : Niveau 2 \n The units return to standard line formation"
+"Requiert : Niveau 2 \n Les unitÈs retournent ‡ la formation de la ligne standard"
 END
 
 CONTROLBAR:ToolTipToggleWestfolderLineToBlockFormationElite
 //"+25% Armor, -40% Speed"
-"Requiert : Niveau 2 \n +33% Armor\n-40% Speed \n Reduces arrow damage by 33%"
+"Requiert : Niveau 2 \n +33% d'Armure \n -40% de vitesse \n RÈduit les DÈg‚ts des flËches de 33%"
 END
 
 CONTROLBAR:ToolTipToggleWestfolderBlockToLineFormationElite_Summoned
 //"No bonus"
 //"+25% Damage\n-25% Armor\n+67% Speed"
-"The units return to standard line formation"
+"Les unitÈs retournent ‡ la formation de la ligne standard"
 END
 
 CONTROLBAR:ToolTipToggleWestfolderLineToBlockFormationElite_Summoned
-//"+25% Armor, -40% Speed"
-"+33% Armor\n-40% Speed \n Reduces arrow damage by 33%"
+"+33% d'Armure \n -40% de vitesse \n RÈduit les DÈg‚ts des flËches de 33%"
 END
 
 CONTROLBAR:ForthEorlingas
-"For&th Eorlingas!"
+"Pour les Eorlingas! (&t)"
 END
 
 CONTROLBAR:ToolTipForthEorlingas
-"Requiert : Niveau 2 \n Westfolders briefly gain +25% Damage and movement speed\nClic gauche pour activer"
+"Requiert : Niveau 2 \n Le Ouestfolde gagne brievement +25% de DÈg‚ts et de vitesse dÈplacement \n Clic gauche pour activer"
 END
 
 OBJECT:FirienholtWarden
-"Halifirien Warden"
+"Gardien d'Halifirien"
 END
 
 OBJECT:HordeRohanFirienholtWarden
-"Halifirien Wardens"
+"Les Gardiens d'Halifirien"
 END
 
 CONTROLBAR:ConstructFirienholtWardenHorde
-"Hali&firien Wardens"
+"Les Gardiens d'Hali&firien"
 END
 
 CONTROLBAR:ToolTipBuildFirienholtWardenHorde
-"Requiert : Niveau 2 Archery Range \n Fort contre Infantry and Monsters \n Can fire Longshot arrow volleys\n \n These woodsmen protected the sacred hill of Halifirien and the surrounding Firienholt."
+"Requiert : Niveau 2 Archerie \n Fort contre l'Infantrie et les Monstres \n Peut tirer des volÈes de flËche ‡ longue portÈe \n\n Ces b˚cherons protÈgeaient la colline sacrÈe d'Halifirien et les environs de Firienholt."
 END
 
 CONTROLBAR:HalifirienGuards
-"Hal&ifirien Guards"
+"Les Gardes d'Hal&ifirien"
 END
 
 OBJECT:RohanDoorWarden
-"Edoras Kingsguard"
+"Garde Royale d'Edoras"
 END
 
 OBJECT:HordeRohanDoorWarden
-"Edoras Kingsguard"
+"Garde Royale d'Edoras"
 END
 
 CONTROLBAR:ConstructRohanDoorWardenHorde
-"Edoras Kingsguar&d"
+"Gar&de Royale d'Edoras"
 END
 
 CONTROLBAR:ToolTipBuildRohanDoorWardenHorde
-"Requiert : Niveau 3 Barracks \n Fort contre Pikemen \n \n Alternatively named the Door-Wardens, these warriors were hand-picked by the King and tasked with the safety of Meduseld. In times of war, they would each lead a small part of a greater …ored."
+"Requiert : Niveau 3 Casernes \n Fort contre les Piquiers \n\n Autrement appelÈs les Gardiens de la Porte, ces Guerriers ont ÈtÈ triÈs sur le volet par le Roi et sont chargÈs de la sÈcuritÈ de Meduseld. En Temps de Guerre, ils mËneraient chacun une petite partie d'un plus grand …ored."
 END
 
 CONTROLBAR:ToolTipConstructRohanFarm
-//"Generates resources based on available terrain Augmente la limite des points de comandemments de 50"
-//"Generates resources based on available terrain\n Reduces the cost of cavalry"
-"Provides field as a resource based on available terrain \nReduced cost of cavalry\n Augmente la limite des points de comandemments de 50"
+"Cultive un champ comme ressource selon le terrain disponible \n RÈduit le co˚t de la Cavalerie \n Augmente la limite des points de comandemments de 50"
 END
 
 CONTROLBAR:ToolTipDescriptionRohanFarm
-//"Generates resources based on available terrain Augmente la limite des points de comandemments de 50"
-"Generates resources based on available terrain\n Field Bonus - Reduced cost of cavalry \n 2 Farms: 5% \n 3 Farms: 10% \n 4 Farms: 15% \n 5 Farms: 20% \n 6+ Farms: 25%"
+"GÈnËre des ressources selon le terrain disponible \n Bonus de Terrain - RÈduit le co˚t de la Cavalerie \n 2 Farms: 5% \n 3 Farms: 10% \n 4 Farms: 15% \n 5 Farms: 20% \n 6+ Farms: 25% \n Augmente la limite des points de comandemments de 50"
 END
 
 OBJECT:RohanWindmill
-"Windmill"
+"Moulin ‡ Vent"
 END
 
 CONTROLBAR:ConstructRohanWindmill
-"Build Wind&mill"
+"Construire un &Moulin ‡ Vent"
 END
 
 CONTROLBAR:ToolTipConstructRohanWindmill
-//"Generates resources based on available terrain Augmente la limite des points de comandemments de 50"
-//"Generates resources based on available terrain\n Reduces the cost of cavalry"
-"Provides bread as a resource based on available terrain \nReduced cost of infantry\n Augmente la limite des points de comandemments de 50"
+"Produit du Pain comme ressource selon le terrain disponible \n RÈduit le co˚t de l'infantrie \n Augmente la limite des points de comandemments de 50"
 END
 
 CONTROLBAR:ToolTipDescriptionRohanWindmill
-//"Generates resources based on available terrain Augmente la limite des points de comandemments de 50"
-"Generates resources based on available terrain\n Bread Bonus - Reduced cost of infantry \n 2 Windmills: 5% \n 3 Windmills: 10% \n 4 Windmills: 15% \n 5 Windmills: 20% \n 6+ Windmills: 25%"
+"GÈnËre des ressources selon le terrain disponible \n Bonus de Pain - RÈduit le co˚t de l'infantrie \n 2 Moulin ‡ Vent : 5% \n 3 Moulin ‡ Vent : 10% \n 4 Moulin ‡ Vent : 15% \n 5 Moulin ‡ Vent : 20% \n 6+ Moulin ‡ Vent : 25% \n Augmente la limite des points de comandemments de 50"
 END
 
 OBJECT:RohanStablesDescription
-//"Generates resources based on available terrain Augmente la limite des points de comandemments de 50"
-"Generates resources based on available terrain\nLevel 2: +10% Faster Build Speed\n Level 3: +25% Faster Build Speed \n\n Horsemaster Bonus\n Modifier Type: Buff \n Grants additional +5% armor to all cavalry units on the map \n S'accumule avec le Charisme et les Sorts \n 1 Stables: 5% \n 2 Stables: 10% \n 3 Stables: 15% \n 4 Stables: 20% \n 5 Stables: 25% \n 6 Stables: 30% \n 7 Stables: 35% \n 8+ Stables: 40%"
+"GÈnËre des ressources selon le terrain disponible \n Niveau 2: +10% de vitesse de construction \n Level 3: +25% de vitesse de construction \n\n Bonus MaÓtre Cavalier \n Modifier Type: Bonus \n Accorde +5% d'armure supplÈmentaire ‡ toutes les unitÈs de Cavalere sur la carte \n S'accumule avec le Charisme et les Sorts \n 1 Ecuries : 5% \n 2 Ecuries : 10% \n 3 Ecuries : 15% \n 4 Ecuries : 20% \n 5 Ecuries : 25% \n 6 Ecuries : 30% \n 7 Ecuries : 35% \n 8+ Ecuries : 40% \n Augmente la limite des points de comandemments de 50"
 END
 
 GUI:FIELD_DISCOUNT
 // Context: used to display cavalry discount modifier in palantir
-"Field Bonus -%d%%"
+"Bonus de champ -%d%%"
 END
 
 GUI:BREAD_DISCOUNT
 // Context: used to display cavalry discount modifier in palantir
-"Bread Bonus -%d%%"
+"Bonus de Pain -%d%%"
 END
 
 GUI:HORSEMASTER_DISCOUNT
 // Context: used to display cavalry discount modifier in palantir
-//"Horsemaster\nBonus +%d%%"
-"Horsemaster\nBonus %d%%"
+"MaÓtre Cavalier \n Bonus %d%%"
 END
 
 CONTROLBAR:SummonLoneScout
-"Lone Eclaireur"
+"Eclaireur Solitaire"
 End
 
 CONTROLBAR:ToolTipSummonLoneScout
-"Summons a temporary, invulnerable Rohirrim scout which grants +15% speed to nearby allied units\n Clic gauche sÈlectionner Clic gauche on pathable location"
+"Invoque temporairement, un Èclaireur Rohirrim invulnÈrable qui accordent +15% de vitesse aux unitÈs alliÈes proches \n Clic gauche sÈlectionner Clic gauche un emplacement libre"
 END
 
 CONTROLBAR:SummonCirionOath
-"Oath of Cirion"
+"Serment de Cirion"
 END
 
 CONTROLBAR:TooltipSummonCirionOath
-"Summons two battalions of AnÛrien spearmen and archers.  \n Clic gauche on sÈlectionner Clic gauche sur cible area"
+"Invoque deux bataillons de lanciers et d'archers AnÛriens. \n Clic gauche on sÈlectionner Clic gauche sur zone ciblÈ"
 END
 
 CONTROLBAR:WestfoldHorn
-"Horn of the Westfold"
+"La Corne du Ouestfold"
 END
 
 CONTROLBAR:TooltipWestfoldHorn
-"Modifier Type: Buff \n Targeted allies gain +50% Damage and +50% Armor \n S'accumule avec le Charisme et les Sorts \n Once used, passively unlocks Erkenbrand and Westfolders \n Clic gauche sÈlectionner Clic gauche sur unitÈs ciblÈ "
+"Modifier Type: Bonus \n Les alliÈs ciblÈ gagnent +50% de DÈg‚ts et +50% d'Armure \n S'accumule avec le Charisme et les Sorts \n Une fois utilisÈ, dÈverouille passivements Erkenbrand and les Ouestfoldes \n Clic gauche sÈlectionner Clic gauche sur unitÈs ciblÈ "
 END
 
 CONTROLBAR:TooltipWestfoldHorn_WOTR
-"Modifier Type: Buff \n Targeted allies gain +50% Damage and +50% Armor \n S'accumule avec le Charisme et les Sorts \n Once used, passively unlocks Westfolders \n Clic gauche sÈlectionner Clic gauche sur unitÈs ciblÈ "
+"Modifier Type: Bonus \n Les alliÈs ciblÈ gagnent +50% de DÈg‚ts et +50% d'Armure \n S'accumule avec le Charisme et les Sorts \n Une fois utilisÈ, dÈverouille passivement les Ouestfoldes \n Clic gauche sÈlectionner Clic gauche sur unitÈs ciblÈ "
 END
 
 CONTROLBAR:PukelStatue
@@ -67701,7 +67707,7 @@ CONTROLBAR:PukelStatue
 END
 
 CONTROLBAR:TooltipPukelStatue
-"Invoque une statue d'Homme-P˙kel abritant une magie Ètrange \n Clic gauche sÈlectionner Clic gauche on pathable location"
+"Invoque une statue d'Homme-P˙kel abritant une magie Ètrange \n Clic gauche sÈlectionner Clic gauche un emplacement libre"
 END
 
 CONTROLBAR:MusterRohirrim
