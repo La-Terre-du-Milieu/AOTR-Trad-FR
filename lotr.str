@@ -10713,7 +10713,7 @@ CONTROLBAR:ToolTipSpecialAbilityGamlingFLAL
 END
 
 CONTROLBAR:BFMEBuildNoldorExileHorde
-"Fort contre Cavalry and Siege \n\nExiles of Noldor carry long spears to defend themselves on their journey back to Valinor."
+"Fort contre la Cavalerie and Siege \n\nExiles of Noldor carry long spears to defend themselves on their journey back to Valinor."
 END
 
 OBJECT:CampaignStrider
@@ -13461,19 +13461,19 @@ SCRIPT:COMPLETION_E03_03
 END
 
 SCRIPT:OBJECTIVE_E03_04
-"Abattez tous les Dúnedain."
+"Abattez tous les Dúnedains."
 END
 
 SCRIPT:ANNOUNCEMENT_E03_04
-"Les Dúnedain attaquent nos forces. Tuez les tous."
+"Les Dúnedains attaquent nos forces. Tuez les tous."
 END
 
 SCRIPT:HINT_E03_04
-"Les Dúnedain attaquent nos forces. Tuez les tous."
+"Les Dúnedains attaquent nos forces. Tuez les tous."
 END
 
 SCRIPT:COMPLETION_E03_04
-"Les Dúnedain ont été détruits."
+"Les Dúnedains ont été détruits."
 END
 
 SCRIPT:OBJECTIVE_E03_05
@@ -13564,11 +13564,11 @@ END
 ///////// A single line of text should be no longer than this one. /////////////
 
 SCRIPT:EvilFornostOpenText
-"Les Nains et les Dunedains font corps ici une dernière fois.\n Nettoyez la ville de leur présence pour qu'ils ne se relèvent plus."
+"Les Nains et les Dúnedains font corps ici une dernière fois.\n Nettoyez la ville de leur présence pour qu'ils ne se relèvent plus."
 END
 
 SCRIPT:Announcement_E04_01
-"Détruisez tous les Nains et Dunedains défendant la Cité."
+"Détruisez tous les Nains et Dúnedains défendant la Cité."
 END
 
 SCRIPT:Announcement_E04_02
@@ -14055,7 +14055,7 @@ SCRIPT:Hint_E08_06
 END
 
 SCRIPT:Hint_E08_07
-"Les derniers des Dúnedain ont rejoint le combat. Détruisez les."
+"Les derniers des Dúnedains ont rejoint le combat. Détruisez les."
 END
 
 SCRIPT:Hint_E08_08
@@ -14134,7 +14134,7 @@ SCRIPT:LAObjective11
 END
 
 SCRIPT:LAObjective12
-"Sauvez les éclaireurs Dunedains"
+"Sauvez les éclaireurs Dúnedains"
 END
 
 SCRIPT:LAIntro01
@@ -14146,7 +14146,7 @@ SCRIPT:LAIntro02
 END
 
 SCRIPT:LAIntro03
-"En réponse, Elendil, roi des Dúnedain et Gil-galad, grand roi des Noldor, forgèrent une grande alliance."
+"En réponse, Elendil, roi des Dúnedains et Gil-galad, grand roi des Noldor, forgèrent une grande alliance."
 END
 
 SCRIPT:LAIntro04
@@ -24719,7 +24719,7 @@ CONTROLBAR:LW_Unit_GondorSpearmenHordeComboPlural
 END
 
 CONTROLBAR:LW_ToolTip_GondorSpearmenHordeCombo
-"Type d'unité: Elite Pikemen\n Fort contre Cavalry\n"
+"Type d'unité: Elite Pikemen\n Fort contre la Cavalerie\n"
 END
 
 OBJECT:HordeGondorArcherCombo
@@ -37536,7 +37536,7 @@ DIALOGEVENT:MEShire_Dune002subtitle
 END
 
 DIALOGEVENT:MEShire_GobK003subtitle
-"*Dúnedain?here? Hmph! They can't save these little scrubs!"
+"*Dúnedain? here? Hmph! They can't save these little scrubs!"
 END
 
 DIALOGEVENT:MEShire_Hobb004subtitle
@@ -47921,11 +47921,11 @@ OBJECT:HordeArnorTowerGuardTrebuchetCombo
 END
 
 OBJECT:HordeArnorKnight
-"Chevaliers Dúnedain"
+"Les Chevaliers du Dúnedain"
 END
 
 OBJECT:ArnorKnights
-"Chevaliers Dúnedain"
+"Les Chevaliers du Dúnedain"
 END
 
 OBJECT:HordeArnorSoldierKnightCombo
@@ -48116,7 +48116,7 @@ CONTROLBAR:ConstructArnorStable
 END
 
 CONTROLBAR:ToolTipConstructArnorStable
-"Entraîne les dunedains du Nord"
+"Entraîne les Dúnedains du Nord"
 END
 
 CONTROLBAR:ConstructArnorWorkshop
@@ -49022,7 +49022,7 @@ CONTROLBAR:DunedainChieftain
 END
 
 CONTROLBAR:ToolTipDunedainChieftain
-"Les Dunedains proches gagnent +33% de dégâts \n et sont immunisés à la peur\n pouvoir passif \n \n Héritier d'Isildur \n Requiert : Niveau 9 et l'amélioration Anduril \n Les Dunedains proches gagnent +33% de dégâts \n et sont immunisés à la peur \n Quand le pouvoir est activé, toutes les unités proches gagnent +33% de dégâts, 50% d'armure et sont immunisées à la peur"
+"Les Dúnedains proches gagnent +33% de dégâts \n et sont immunisés à la peur\n pouvoir passif \n \n Héritier d'Isildur \n Requiert : Niveau 9 et l'amélioration Anduril \n Les Dúnedains proches gagnent +33% de dégâts \n et sont immunisés à la peur \n Quand le pouvoir est activé, toutes les unités proches gagnent +33% de dégâts, 50% d'armure et sont immunisées à la peur"
 END
 
 CONTROLBAR:AragornIsildurHeir
@@ -49030,7 +49030,7 @@ CONTROLBAR:AragornIsildurHeir
 END
 
 CONTROLBAR:ToolTipFellowshipAragornIsildurHeir
-"Requiert : Niveau 9 et l'amélioration Anduril \n Les Dunedains proches gagnent +33% de dégâts \n et sont immunisés à la peur \n Quand le pouvoir est activé, toutes les unités proches gagnent +33% de dégâts, 50% d'armure et sont immunisées à la peur"
+"Requiert : Niveau 9 et l'amélioration Anduril \n Les Dúnedains proches gagnent +33% de dégâts \n et sont immunisés à la peur \n Quand le pouvoir est activé, toutes les unités proches gagnent +33% de dégâts, 50% d'armure et sont immunisées à la peur"
 END
 
 CONTROLBAR:ArnorAragornBlademaster
@@ -50884,7 +50884,7 @@ CONTROLBAR:LW_Unit_IsengardWildmanAxeSpearHordePlural
 END
 
 CONTROLBAR:LW_ToolTip_IsengardWildmanAxeSpearHorde
-"\nType d'unité: Archers et piquiers basiques\nFort contre piquiers et cavalerie"
+"Type d'unité: Archers et piquiers basiques \n Fort contre piquiers et cavalerie"
 END
 
 CONTROLBAR:LW_Unit_IsengardWildmanAxeComboHorde
@@ -50896,7 +50896,7 @@ CONTROLBAR:LW_Unit_IsengardWildmanAxeSpearHordePlural
 END
 
 CONTROLBAR:LW_ToolTip_IsengardWildmanAxeComboHorde
-"\nType d'unité: infanterie et archers basiques\nForts contre archers et piquiers"
+"Type d'unité: infanterie et archers basiques \n Forts contre archers et piquiers"
 END
 
 CONTROLBAR:ConstructIsengardWargPack
@@ -54645,7 +54645,7 @@ APT:buttonName
 END
 
 CONTROLBAR:LW_ToolTip_MordorHaradrimRiderHorde
-"\n Type d'unité : cavalerie standard.\n\n Forts contre les archers"
+"Type d'unité : cavalerie standard. \n Forts contre les archers"
 END
 
 BANNERUI:IsengardWildmenAxe
@@ -56531,7 +56531,6 @@ CONTROLBAR:ToolTipGoblinKingBattleFrenzy
 End
 
 CONTROLBAR:ToolTipGoblinKingPoisonedStinger
-//"Requiert : niveau 6\n Ne peut être utilisé que sur sa monture.\n L'ennemi visé est assommé et subit des dégâts de poison sur le temps.\n\nClic gauche sur l'icône puis clic gauche sur la cible"
 "Requiert : niveau 6\n Ne peut être utilisé que sur sa monture.\n L'ennemi visé subit d'importants dégâts puis subit des dégâts de poison sur le temps.\nClic gauche sur l'icône puis clic gauche sur la cible"
 END
 
@@ -56564,27 +56563,25 @@ END
 // Angmar Units
 
 CONTROLBAR:PurchaseUpgradeAngmarDarkIronBlades
-//"Lames en fer des ténèbres"
 "Lames en fer des ténèbres"
 End
 
 TOOLTIP:LackAngmarDarkIronBlades
-//"Rechercher this upgrade at the.\n Forge des Ténèbres to\n enable this equipment\n Lorsqu'elle est équipée, elle améliore significativement les dégâts infligés par les armes de mêlée."
 "Rechercher this upgrade at the Forge des Ténèbres\n pour activer cet équipement. Lorsqu'elle est équipée, elle améliore significativement les dégâts des armes de mêlée."
 End
 
 CONTROLBAR:PurchaseUpgradeAngmarDarkIronMail
-//"Dark Iron Mail"
 "Dark Iron Mail"
 End
+
 TOOLTIP:LackAngmarDarkIronMail
-//"Rechercher this upgrade at the.\n Forge des Ténèbres to\n enable this equipment\n Lorsqu'elle est équipée, réduit significativement les dégâts reçus."
 "Rechercher this upgrade at the Forge des Ténèbres\n pour activer cet équipement. Lorsqu'elle est équipée, réduit significativement les dégâts reçus."
 End
 
 OBJECT:AngmarWolfRider
 "Wolf Rider"
 End
+
 CONTROLBAR:TooltipThrallMasterUpgradeWolfRiders_Fake  
 "Requiert : the presence of a Troll and Wolf Den"
 End
@@ -56603,30 +56600,25 @@ CONTROLBAR:ToolTipThrallMasterUpgradeWolfRiders202Campaign
 End
 
 OBJECT:AngmarDarkDunedain
-//"Númenóréens Noirs"
 "Númenóréen Noir"
 END
 
 CONTROLBAR:ToolTipBuildAngmarDarkDunedainHorde
-//"Requiert : niveau 2 Hall of King's Men .\n\n Forts contre les piquiers\n "
 "Requiert : niveau 2 Hall of King's Men .\n\n Forts contre les piquiers"
 End
 
 CONTROLBAR:ToolTipSpecialAbilityAngmarChargeAttack
-//"Requiert : niveau 2\n Order Númenóréens Noirs to charge the enemy\n Númenóréens Noirs gain +50% dégâts et +50% armure.\n Inflige un méta impact.\n\nClic gauche sur l'icône puis clic gauche sur la cible"
-//"Requiert : niveau 2\n Order Númenóréens Noirs to charge the enemy\n Númenóréens Noirs gain\n +50% dégâts, +50% armure.\n Inflige un méta impact.\n\nClic gauche sur l'icône puis clic gauche sur la cible"
 "Requiert : niveau 2\n Order Númenóréens Noirs to charge the enemy\n Type: Buff\n Númenóréens Noirs gain +50% dégâts et +50% armure (bonus cumulable).\n Causes meta impact\n\nClic gauche sur l'icône puis clic gauche sur la cible"
 END
 
 OBJECT:AngmarRanger
-//"Rôdeurs Noirs"
 "Rôdeur Noir"
 END
 
 CONTROLBAR:ToolTipBuildAngmarDarkRangerHorde
-//"Requiert : niveau 3 Hall of King's Men\n Fort à distance\n "
 "Requiert : niveau 3 Hall of King's Men\n Fort à distance"
 End
+
 CONTROLBAR:ToolTipBuildAngmarDarkRangerHorde_Inn  
 "Fort à distance"
 End
@@ -57350,7 +57342,7 @@ END
 
 CONTROLBAR:LW_ToolTip_ElvenLorienWardenArcherHorde
 //"\nType d'unité: Basic Archer\nStrong at Range"
-"\nType d'unité: Basic Pikemen and Basic Archer\n Fort contre Cavalry and Swordsmen"
+"\nType d'unité: Basic Pikemen and Basic Archer\n Fort contre la Cavalerie and Swordsmen"
 END
 
 BANNERUI:ElvenMithlondSentry
@@ -57962,7 +57954,6 @@ CONTROLBAR:LW_ToolTip_AngmarThrallMaster
 END
 
 CONTROLBAR:LW_ToolTip_AngmarDarkDunedainHorde
-//"Type d'unité : Elite Swordsmen.\n\n Forts contre les piquiers\n "
 "\n Type d'unité : Elite Swordsmen.\n\n Forts contre les piquiers"
 END
 
@@ -57976,11 +57967,9 @@ CONTROLBAR:LW_ToolTip_AngmarDarkRangerHorde
 END
 
 CONTROLBAR:LW_Unit_AngmarDireWolfHorde
-//"Dire Wolf"
 "Dire Wolf Horde"
 END
 CONTROLBAR:LW_Unit_AngmarDireWolfHordePlural
-//"Dire Wolves"
 "Dire Wolf Hordes"
 END
 CONTROLBAR:LW_ToolTipBuild_AngmarDireWolfHorde
@@ -57994,62 +57983,64 @@ CONTROLBAR:LW_ToolTip_AngmarDireWolfHorde
 END
 
 CONTROLBAR:LW_Unit_AngmarSnowTrollHorde
-//"Troll des neiges"
 "Troll des neiges Horde"
 END
+
 CONTROLBAR:LW_Unit_AngmarSnowTrollsHordePlural
-//"Trolls des neiges"
 "Troll des neiges Hordes"
 END
+
 CONTROLBAR:LW_ToolTipBuild_AngmarSnowTrollHorde
 //"Type d'unité : cavalerie d'élite.\n\n Forts contre les archers et les épéistes\n "
-"Type d'unité : cavalerie d'élite.\n\n Forts contre les archers\n "
+"Type d'unité : cavalerie d'élite.\n\n Forts contre les archers"
 END
+
 CONTROLBAR:LW_ToolTip_AngmarSnowTrollHorde
 //"Type d'unité : cavalerie d'élite.\n\n Forts contre les archers et les épéistes\n "
-"\n Type d'unité : cavalerie d'élite.\n\n Forts contre les archers"
+"Type d'unité : cavalerie d'élite.\n\n Forts contre les archers"
 END
 
 CONTROLBAR:LW_Unit_AngmarHillTrollHorde
-//"Trolls des collines"
 "Trolls des collines Hordes"
 END
+
 CONTROLBAR:LW_Unit_AngmarHillTrollHordePlural
 //"Trolls des collines" // don't think this tooltip is used
 "Trolls des collines Hordes"
 END
+
 CONTROLBAR:LW_ToolTip_AngmarHillTrollHorde
-//"Type d'unité : Elite Pikeman.\n\n Forts contre les cavaliers\n "
-"\n Type d'unité : piquiers d'élite.\n\n Forts contre les cavaliers"
+"Type d'unité : piquiers d'élite.\n\n Forts contre les cavaliers"
 END
+
 CONTROLBAR:LW_Unit_AngmarHillTrollsHordePlural
 "Trolls des collines Hordes"
 END
 
 CONTROLBAR:LW_Unit_AngmarNecromancerHorde
-//"Sorcerer"
 "Sorcerer Horde"
 END
+
 CONTROLBAR:LW_Unit_AngmarNecromancerHordePlural
-//"Sorcerers"
 "Sorcerer Hordes"
 END
+
 CONTROLBAR:LW_ToolTipBuild_AngmarNecromancerHorde
-//"Type d'unité : Support\n "
-"Type d'unité : unité de soutien\n Faible contre les archers et la cavalerie\n "
+"Type d'unité : unité de soutien \n Faible contre les archers et la cavalerie"
 END
+
 CONTROLBAR:LW_ToolTip_AngmarNecromancerHorde
-//"Type d'unité : Support\n "
-"\n Type d'unité : unité de soutien\n Faible contre les archers et la cavalerie"
+"Type d'unité : unité de soutien \n Faible contre les archers et la cavalerie"
 END
 
 CONTROLBAR:LW_ToolTipBuild_AngmarTrollSling
 //"Type d'unité : siège.\n\n Forts contre les structures\n "
-"Type d'unité : siège.\n\n Forts contre les structures et les archers\n "
+"Type d'unité : siège.\n\n Forts contre les structures et les archers"
 END
+
 CONTROLBAR:LW_ToolTip_AngmarTrollSlingHorde
 //"Type d'unité : siège.\n\n Forts contre les structures\n "
-"\n Type d'unité : siège.\n\n Forts contre les structures et les archers"
+"Type d'unité : siège.\n\n Forts contre les structures et les archers"
 END
 
 
@@ -59535,7 +59526,7 @@ CONTROLBAR:ToolTipBuildRivendellAragorn
 "Faites appel à l'héritier d'Isildur"
 END
 CONTROLBAR:RivendellAragornRecruit
-"Recrutez Aragorn, le chef des Dunedain. \Tout ce qui est or ne brille pas,Tout ceux qui errent ne sont pas perdus,Le vieux qui est fort ne dépérit point.Les racines profondes ne sont pas atteintes par le gel. Des cendres, un feu s'éveillera.Des ombres, une lumière jaillira; Renouvelée sera l'épée qui fut brisée,Le sans-couronne sera de nouveau roi.'"
+"Recrutez Aragorn, le chef des Dúnedains. \n Tout ce qui est or ne brille pas,Tout ceux qui errent ne sont pas perdus,Le vieux qui est fort ne dépérit point.Les racines profondes ne sont pas atteintes par le gel. Des cendres, un feu s'éveillera.Des ombres, une lumière jaillira; Renouvelée sera l'épée qui fut brisée,Le sans-couronne sera de nouveau roi.'"
 END
 CONTROLBAR:RivendellAragornRevive
 "Ramenez Aragorn à la vie"
@@ -59545,11 +59536,11 @@ CONTROLBAR:RivendellAragornHotkey
 END
 
 CONTROLBAR:ToolTipBuildHalbarad
-"Recruter le capitaine des Dúnedain. \C'est une porte maléfique, et ma mort se trouve au-delà. J'oserai néanmoins la franchir.'"
+"Recruter le capitaine des Dúnedains. \n C'est une porte maléfique, et ma mort se trouve au-delà. J'oserai néanmoins la franchir.'"
 END
 
 CONTROLBAR:GondorHalbaradRecruit
-"Recrutez le porte-étendard des Dúnedain.\n\n Halbarad Dúnadan est un parent d'Aragorn et l'un de ses compagnons les plus fidèles. C'est un chef compétent aussi bien qu'un guerrier réputé qui assure le commandement des Dúnedain si Aragorn s'aventure seul dans les terres sauvages."
+"Recrutez le porte-étendard des Dúnedains.\n\n Halbarad Dúnadan est un parent d'Aragorn et l'un de ses compagnons les plus fidèles. C'est un chef compétent aussi bien qu'un guerrier réputé qui assure le commandement des Dúnedains si Aragorn s'aventure seul dans les terres sauvages."
 END
 
 CONTROLBAR:GondorHalbaradRevive
@@ -59573,7 +59564,7 @@ CONTROLBAR:HalbaradPerseverance
 END
 
 CONTROLBAR:ToolTipHalbaradPerseverance
-"Requiert : niveau 3 \n Les Dunedain proches gagnent +30% d'armure, +50% de resistance au renversement pour un court instant \n\nClic gauche pour activer"
+"Requiert : niveau 3 \n Les Dunedains proches gagnent +30% d'armure, +50% de resistance au renversement pour un court instant \n\nClic gauche pour activer"
 END
 
 CONTROLBAR:HalbaradCaptainoftheNorth
@@ -59586,7 +59577,7 @@ END
 
 
 CONTROLBAR:HalbaradMuster
-"Rassembler les Dunedains"
+"Rassembler les Dúnedains"
 END
 
 CONTROLBAR:ToolTipHalbaradMuster
@@ -60139,7 +60130,7 @@ CONTROLBAR:ToolTipBuildGondorLinhirPikeHorde
 END
 
 CONTROLBAR:ToolTipBuildGondorLinhirPikeHorde_SwornAllegiance
-"Fort contre Cavalry and Heroes \n Able to switch formation for improved defensive capabilities \n Come equipped with Armaments of the White City \n \n During the last days of the War of the Ring, the Men of Linhir stood valiantly against a combined assault of Corsairs and Haradrim."
+"Fort contre la Cavalerie and Heroes \n Able to switch formation for improved defensive capabilities \n Come equipped with Armaments of the White City \n \n During the last days of the War of the Ring, the Men of Linhir stood valiantly against a combined assault of Corsairs and Haradrim."
 END
 
 CONTROLBAR:LW_ToolTipBuild_GondorLinhirPikeHorde
@@ -62732,7 +62723,7 @@ CONTROLBAR:TooltipLonghouse
 END
 
 CONTROLBAR:TooltipLonghouse_WOTR
-"Permanently summon a Dunlending Longhouse under the banner of the White Hand \n Limited to 2 \n Allows recruitment of Dunlending Longbowmen and Dunnish Cavaliers at the Clan Steading\n Clic gauche on sélectionner Clic gauche sur cible position"
+"Permanently summon a Dunlending Longhouse under the banner of the White Hand \n Limited to 2 \n Allows recruitment of Dunlending Archers Arc Long and Dúnedain Cavaliers at the Clan Steading\n Clic gauche on sélectionner Clic gauche sur cible position"
 END
 
 OBJECT:IsengardWulfgar
@@ -62810,7 +62801,7 @@ CONTROLBAR:LW_ToolTip_IsengardDunlandArcherHorde
 END
 
 CONTROLBAR:ToolTipBuildIsengardDunlandArcherHorde
-"Les collines rocheuses du Pays de Dun sont difficiles à cultiver, ce qui a conduit son peuple à une culture de la chasse basée sur la légende du Corbeau Blanc, leur emblème.\nEnnemis ancestraux du Rohan, les gens de Dun se sont tournés facilement du côté de Saruman pendant la Guerre de l'Anneau. Ce sont des combattants endurcis dont la rancoeur des Rohirrim en fait des soldats formidables sur le champ de bataille.\nArchers d'élite, forts contre l'infanterie."
+"Les collines rocheuses du Pays de Dun sont difficiles à cultiver, ce qui a conduit son peuple à une culture de la chasse basée sur la légende du Corbeau Blanc, leur emblème.\n Ennemis ancestraux du Rohan, les gens de Dun se sont tournés facilement du côté de Saruman pendant la Guerre de l'Anneau. Ce sont des combattants endurcis dont la rancoeur des Rohirrim en fait des soldats formidables sur le champ de bataille.\nArchers d'élite, forts contre l'infanterie."
 END
 
 CONTROLBAR:ToolTipBuildIsengardDunlandArcherHorde_WOTR
@@ -64386,11 +64377,11 @@ CONTROLBAR:TwinsHeroesLeadership
 End
 
 CONTROLBAR:ToolTipTwinsHeroesLeadershipElladan
-"Modifier Type: Leadership \n Grants 50% experience gain and 25% armour to nearby Bree-landers, Dnedain and Elves \n At level 5, reduces recharge time for nearby heroes abilities by 25% and \n increases auto-heal of nearby heroes by 25%\n Does not affect his brother \n S'accumule avec les Bonus et les Sorts \n Capacité passive"
+"Modifier Type: Leadership \n Grants 50% experience gain and 25% armour to nearby Bree-landers, Dúnedain and Elves \n At level 5, reduces recharge time for nearby heroes abilities by 25% and \n increases auto-heal of nearby heroes by 25%\n Does not affect his brother \n S'accumule avec les Bonus et les Sorts \n Capacité passive"
 End
 
 CONTROLBAR:ToolTipTwinsHeroesLeadershipElrohir
-"Modifier Type: Leadership \n Grants 50% experience gain and 25% damage to nearby Bree-landers, Dnedain and Elves \n At level 5, reduces recharge time for nearby heroes abilities by 25% and \n increases auto-heal of nearby heroes by 25%\n Does not affect his brother \n S'accumule avec les Bonus et les Sorts \n Capacité passive"
+"Modifier Type: Leadership \n Grants 50% experience gain and 25% damage to nearby Bree-landers, Dúnedain and Elves \n At level 5, reduces recharge time for nearby heroes abilities by 25% and \n increases auto-heal of nearby heroes by 25%\n Does not affect his brother \n S'accumule avec les Bonus et les Sorts \n Capacité passive"
 End
 
 //------------ New Rivendell Stuff ---------------
@@ -64606,7 +64597,7 @@ CONTROLBAR:ConstructElvenNoldorExileHorde
 END
 
 CONTROLBAR:ToolTipBuildElvenNoldorExileHorde
-"Fort contre Cavalry, Siege and Heroes"
+"Fort contre la Cavalerie, Siege and Heroes"
 END
 
 CONTROLBAR:SongToElbereth
@@ -64677,7 +64668,7 @@ END
 
 
 CONTROLBAR:PurchaseUpgradeDunedainCaptain
-"D&nedain Captain Upgrade"
+"Dú&nedain Captain Upgrade"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeDunedainCaptainforDunedain
@@ -64693,7 +64684,7 @@ Tooltip:LackDunedainCaptainBasicTraining_Inn
 End
 
 CONTROLBAR:PurchaseUpgradeDunedainCaptainforBree
-"Dnedain &Captain Upgrade"
+"Dúnedain &Captain Upgrade"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeDunedainCaptainforBree
@@ -64734,15 +64725,15 @@ END
 //------------ Took Archers --------------
 
 OBJECT:DunedainOutrider
-"Dnedain Outrider"
+"Cavalier du Dúnedain"
 END
 
 OBJECT:HordeDunedainOutrider
-"Dnedain Cavaliers"
+"Cavaliers du Dúnedain"
 END
 
 CONTROLBAR:ConstructDunedainOutriderHorde
-"Dnedai&n Cavaliers"
+"Cavaliers du Dúnedai&n"
 END
 
 CONTROLBAR:ToolTipBuildDunedainOutriderHorde
@@ -64853,7 +64844,7 @@ CONTROLBAR:LAVeteranLastAlliance
 End
 
 CONTROLBAR:ToolTipLAVeteranLastAlliance
-"Requiert : Niveau 3\nThe Veterans were there during the Battle of Dagorlad and the final siege of Barad-dr.\n\nNearby Dnedain and Bree-landers temporarily gain +33% Armor for a short time\nwhile nearby Elven units gain +33% Damage for a short time\nClic gauche pour activer.\n\nOnly one ability may be active at a time."
+"Requiert : Niveau 3\nThe Veterans were there during the Battle of Dagorlad and the final siege of Barad-dr.\n\nNearby Dúnedain and Bree-landers temporarily gain +33% Armor for a short time\nwhile nearby Elven units gain +33% Damage for a short time\nClic gauche pour activer.\n\nOnly one ability may be active at a time."
 End
 
 CONTROLBAR:LAVeteranFallOfAngmar
@@ -65302,7 +65293,7 @@ OBJECT:SecondAgeGilgalad
 END
 
 CONTROLBAR:ElendilLeadership
-"Haut-Roi des Dúnedain"
+"Haut-Roi des Dúnedains"
 END
 
 CONTROLBAR:ToolTipElendilLeadership
@@ -65446,16 +65437,16 @@ END
 
 
 CONTROLBAR:ToolTipBuildSecondAgeFighterHorde
-"Forts contre l'infanterie\n\n Elendil's Dúnedain soldiers were of stature undimmed and undiluted blood - legendary warriors, feared by the Dark Lord's servants."
+"Forts contre l'infanterie \n\n Elendil's Dúnedain soldiers were of stature undimmed and undiluted blood - legendary warriors, feared by the Dark Lord's servants."
 END
 
 OBJECT:SecondAgeArcher
-"Archer Dúnedain"
+"Archer du Dúnedain"
 END
 
 OBJECT:HordeSecondAgeArcher
 //"Guardian"
-"Archers Dúnedain"
+"Archers du Dúnedain"
 END
 
 CONTROLBAR:ConstructSecondAgeArcherHorde
@@ -65619,7 +65610,7 @@ CONTROLBAR:LW_ToolTipBuild_DwarvenPhalanxDwarvenHammerHorde
 END
 
 CONTROLBAR:LW_ToolTip_DwarvenPhalanxDwarvenHammerHorde
-"n\Type d'unité: Basic Infantry and Basic Pikemen\n Fort contre Cavalry and Pikemen"
+"n\Type d'unité: Basic Infantry and Basic Pikemen\n Fort contre la Cavalerie and Pikemen"
 END
 
 OBJECT:GrimHammer
@@ -66198,7 +66189,7 @@ MAP:MAPNewWorAnorien/Desc
 END
 
 MAP:MAPNewWorBarrowDowns/Desc
-"Les Coteaux des Tertres ou Tyn Gorthad était une série de petits tumuli situés au Sud-Ouest de Bree. La plupart des collines étaient coiffés de mégalithes et de petits tertres d'ou leur nom. Après le ralliement du Rhudaur à Angmar, les Dunedains du Cardolan s'y retranchèrent mais leur royaume finit par tomber et le Roi-Sorcier envoya les esprits des tertres qui hantaient les lieux empêcher tout réinstallation."
+"Les Coteaux des Tertres ou Tyn Gorthad était une série de petits tumuli situés au Sud-Ouest de Bree. La plupart des collines étaient coiffés de mégalithes et de petits tertres d'ou leur nom. Après le ralliement du Rhudaur à Angmar, les Dúnedains du Cardolan s'y retranchèrent mais leur royaume finit par tomber et le Roi-Sorcier envoya les esprits des tertres qui hantaient les lieux empêcher tout réinstallation."
 END
 
 MAP:MAPNewWorBelfalas/Desc
@@ -66226,7 +66217,7 @@ MAP:MAPNewWorCaradhras/Desc
 END
 
 MAP:MAPNewWorCardolan/Desc
-"Le Cardolan était un royaume dissident du royaume dúnedain d'Arnor. Après la mort du roi d'Arnor, Eärendur, ses fils divisèrent le royaume en trois royaumes : Arthedain, Rhudaur et Cardolan. La région est restée dépeuplée même après la chute finale d'Arnor et la destruction d'Angmar."
+"Le Cardolan était un royaume dissident du royaume Dúnedain d'Arnor. Après la mort du roi d'Arnor, Eärendur, ses fils divisèrent le royaume en trois royaumes : Arthedain, Rhudaur et Cardolan. La région est restée dépeuplée même après la chute finale d'Arnor et la destruction d'Angmar."
 END
 
 MAP:MAPNewWorCarnDum/Desc
@@ -66898,63 +66889,63 @@ BANNERUI:IsengardWildmenSpear
 END
 
 CONTROLBAR:LW_Unit_IsengardDunlandArcherHordePlural
-"Dunlending Longbowmen Hordes"
+"Hordes d'Archers Arc Long du Dúnedains"
 END
 
 BANNERUI:IsengardDunlandArcher
-"Dunlending Longbowman"
+"Archer Arc Long du Dúnedains"
 END
 
 BANNERUI:IsengardDunlandArchers
-"Dunlending Longbowmen"
+"Archers Arc Long du Dúnedains"
 END
 
 CONTROLBAR:LW_Unit_IsengardDunlandRiderHordePlural
-"Dunnish Cavaliers Hordes"
+"Hordes de Cavaliers du Dúnedain"
 END
 
 BANNERUI:IsengardDunlandRider
-"Dunnish Outrider"
+"Cavalier du Dúnedain"
 END
 
 BANNERUI:IsengardDunlandRiders
-"Dunnish Cavaliers"
+"Cavaliers du Dúnedain"
 END
 
 CONTROLBAR:LW_Unit_IsengardManSlayerHordePlural
-"Man-Slayers Hordes"
+"Hordes de Trancheurs d'Homme"
 END
 
 CONTROLBAR:LW_Unit_IsengardMineBeserker
-"Isengard Sapper"
+"Sapeur d'Isengard"
 END
 
 CONTROLBAR:LW_ToolTipBuild_MordorPikemanHorde
-"Type d'unité: Basic Pikemen\n Fort contre Cavalry\n"
+"Type d'unité : Piquier Basique \n Fort contre la Cavalerie"
 END
 
 CONTROLBAR:LW_Unit_MordorPikemanHordePlural
-"Orque Pikemen Hordes"
+"Hordes de Piquiers d'Orque"
 END
 
 BANNERUI:MordorPikeman
-"Orque Pikeman"
+"Piquier d'Orque"
 END
 
 BANNERUI:MordorPikemen
-"Orque Pikemen"
+"Les Piquiers d'Orque"
 END
 
 CONTROLBAR:LW_Unit_MordorVariagHordePlural
-"Variags of Khand Battalions"
+"Bataillons de Variags de Khand "
 END
 
 BANNERUI:MordorVariag
-"Variag of Khand"
+"Un Variag de Khand"
 END
 
 BANNERUI:MordorVariags
-"Variags of Khand"
+"Les Variags de Khand"
 END
 
 CONTROLBAR:LW_ToolTip_Uvatha
@@ -68292,7 +68283,7 @@ CONTROLBAR:GreyCompanyHunt
 END
 
 CONTROLBAR:ToolTipGreyCompanyHunt
-"Requiert : Niveau 5 \n Durant 30 secondes, une unité ou un héros ciblé est marqué par la Compagnie Grise \n La cible partage sa vision avec le joueur, se déplace plus lentement et subit +50% Dégâts des attaques de la Compagnie Grise et des Dunedains \n Clic gauche puis clic gauche sur la cible"
+"Requiert : Niveau 5 \n Durant 30 secondes, une unité ou un héros ciblé est marqué par la Compagnie Grise \n La cible partage sa vision avec le joueur, se déplace plus lentement et subit +50% Dégâts des attaques de la Compagnie Grise et des Dúnedains \n Clic gauche puis clic gauche sur la cible"
 END
 
 CONTROLBAR:ArwenEvenstarCampaign
