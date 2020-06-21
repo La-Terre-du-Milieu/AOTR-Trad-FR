@@ -3478,7 +3478,7 @@ END
 
 GUI:CouldNotTransferHero
 // context: error message shown if hero transfer at game start fails
-"Unable to transfer the Hero data. The game cannot start."
+"Unable to transfer the HÈros data. The game cannot start."
 END
 
 GUI:Status
@@ -9031,7 +9031,7 @@ OBJECT:IsengardBatteringRam
 END
 
 OBJECT:IsengardFighter
-"Uruk-hai combattant"
+"Uruk-HaÔ combattant"
 END
 
 OBJECT:IsengardBanner
@@ -11179,11 +11179,11 @@ SCRIPT:MBTutorial_MissionText65
 End
 
 SCRIPT:MBTutorial_MissionText66
-"We'll need a Hero to lead our troops. Heroes can be purchased from the fortress. If your Heroes should fall in battle, they can be revived from the fortress as well."
+"We'll need a HÈros to lead our troops. Heroes can be purchased from the fortress. If your Heroes should fall in battle, they can be revived from the fortress as well."
 End
 
 SCRIPT:MBTutorial_MissionText67
-"To summon a Hero, select your fortress and click on the Heroes button. This will bring up a menu of all the current Heroes you're allowed to build. Right now Boromir is residing in our fortress."
+"To summon a HÈros, select your fortress and click on the Heroes button. This will bring up a menu of all the current Heroes you're allowed to build. Right now Boromir is residing in our fortress."
 End
 
 SCRIPT:MBTutorial_MissionText68
@@ -11195,7 +11195,7 @@ SCRIPT:MBTutorial_MissionText69
 End
 
 SCRIPT:MBTutorial_MissionText70
-"You will find a Hero's abilities on the PalantÌr. Some are passive abilities which are always enabled such as Boromir's leadership ability."
+"You will find a HÈros's abilities on the PalantÌr. Some are passive abilities which are always enabled such as Boromir's leadership ability."
 End
 
 SCRIPT:MBTutorial_MissionText71
@@ -15200,7 +15200,7 @@ CONTROLBAR:ToolTipBuildIsengardBattleTower
 END
 
 CONTROLBAR:ToolTipIsengardUrukPit
-"L‡ o˘ les Orques ordinaires sont vo˚tÈs et peureux, les Uruk-hai de Saruman sont des guerriers forts, droits et musculeux, d'un courage et d'aptitudes supÈrieurs.\nIls ne se prÈoccupent nullement des terres ou des possessions, ils ne font que tuer tout ce qui se prÈsente ‡ eux, poursuivant ainsi leur guerre Èternelle en assouvissant leur faim de chair humaine.\n\nPermet de recruter l'infanterie de l'Isengard."
+"L‡ o˘ les Orques ordinaires sont vo˚tÈs et peureux, les Uruk-HaÔ de Saruman sont des guerriers forts, droits et musculeux, d'un courage et d'aptitudes supÈrieurs.\nIls ne se prÈoccupent nullement des terres ou des possessions, ils ne font que tuer tout ce qui se prÈsente ‡ eux, poursuivant ainsi leur guerre Èternelle en assouvissant leur faim de chair humaine.\n\nPermet de recruter l'infanterie de l'Isengard."
 END
 
 CONTROLBAR:ToolTipIsengardUrukPit_EvilAmonHen
@@ -15212,7 +15212,7 @@ CONTROLBAR:ToolTipIsengardWargPit
 END
 
 CONTROLBAR:ToolTipIsengardSiegeWorks
-"Saruman a mis au point des engins de siËge et des technologies infernales pour soutenir ses lÈgions ‡ la guerre.\nDes servants et des artificiers Uruk-hai sont chargÈs de les mener au plus prËs de la bataille, jusqu'au sacrifice de leur misÈrable vie.\n\nConstruit les engins de siËge et les charges de dÈmolition.\n\n Au niveau 2, rÈpare les engins de siege proches."
+"Saruman a mis au point des engins de siËge et des technologies infernales pour soutenir ses lÈgions ‡ la guerre.\nDes servants et des artificiers Uruk-HaÔ sont chargÈs de les mener au plus prËs de la bataille, jusqu'au sacrifice de leur misÈrable vie.\n\nConstruit les engins de siËge et les charges de dÈmolition.\n\n Au niveau 2, rÈpare les engins de siege proches."
 END
 
 CONTROLBAR:ToolTipIsengardArmory
@@ -15895,7 +15895,7 @@ END
 
 
 //----------------------------
-//Create A Hero
+//Create A HÈros
 //----------------------------
 CONTROLBAR:CreateAHeroRecruit
 // Recruit text for the create a hero.
@@ -16142,7 +16142,7 @@ CONTROLBAR:ToolTipBuildEomer
 END
 
 CONTROLBAR:RohanEomerRecruit
-"Recrutez le chef des Rohirrim exilÈs.\n\n …omer, fils d'…omund, est le neveu du roi ThÈoden et un des meilleurs guerriers du Rohan.\n Tandis que les armÈes de l'Isengard convergent vers le Rohan, …omer risque l'exil afin de protÈger les paysans et les simples gens des dÈprÈdations des Uruk-hai, des Wargs et pire encore."
+"Recrutez le chef des Rohirrim exilÈs.\n\n …omer, fils d'…omund, est le neveu du roi ThÈoden et un des meilleurs guerriers du Rohan.\n Tandis que les armÈes de l'Isengard convergent vers le Rohan, …omer risque l'exil afin de protÈger les paysans et les simples gens des dÈprÈdations des Uruk-HaÔ, des Wargs et pire encore."
 END
 CONTROLBAR:RohanEomerRevive
 "Rappelez …omer ‡ la vie"
@@ -16562,7 +16562,7 @@ CONTROLBAR:ToolTipBuildWildWargRider
 END
 
 CONTROLBAR:ToolTipBuildIsengardSiegeBallista
-"Requiert : Atelier de siËge niveau 2\n Les Uruk-hai emploient des Balistes de siËge, des machines de conception singuliËre qui envoient d'Ènormes grapins qui s'Ècrasent sur les remparts ou sur les engins ennemis avec un effet dÈvastateur.\n\n Forts contre les structures et engins de siËge.\nSeulement 6 disponibles en mÍme temps."
+"Requiert : Atelier de siËge niveau 2\n Les Uruk-HaÔ emploient des Balistes de siËge, des machines de conception singuliËre qui envoient d'Ènormes grapins qui s'Ècrasent sur les remparts ou sur les engins ennemis avec un effet dÈvastateur.\n\n Forts contre les structures et engins de siËge.\nSeulement 6 disponibles en mÍme temps."
 END
 
 CONTROLBAR:ToolTipBuildIsengardSiegeLadder
@@ -16570,7 +16570,7 @@ CONTROLBAR:ToolTipBuildIsengardSiegeLadder
 END
 
 CONTROLBAR:ToolTipBuildIsengardBerserker
-"Requiert : Puits ‡ Uruk niveau 2\nLes Berserkers sont les plus dangereux de tous les Uruk-hai. ArmÈs de cimeterres aussi grands qu'eux, ils chargent dans la mÍlÈe sans se soucier de leur propre survie.\nInsensibles ‡ la douleur et aux blessures, les Berserkers font un tel carnage qu'‡ la fin de la bataille, leurs corps sont couverts du sang de leurs victimes.\n\nForts contre les ÈpÈistes et les piquiers."
+"Requiert : Puits ‡ Uruk niveau 2\nLes Berserkers sont les plus dangereux de tous les Uruk-HaÔ. ArmÈs de cimeterres aussi grands qu'eux, ils chargent dans la mÍlÈe sans se soucier de leur propre survie.\nInsensibles ‡ la douleur et aux blessures, les Berserkers font un tel carnage qu'‡ la fin de la bataille, leurs corps sont couverts du sang de leurs victimes.\n\nForts contre les ÈpÈistes et les piquiers."
 END
 
 CONTROLBAR:ToolTipBuildIsengardBatteringRam
@@ -16597,11 +16597,11 @@ END
 //ISENGARD HEROES
 
 CONTROLBAR:ToolTipBuildLurtz
-"Recrutez le Premier Capitaine des Uruk-hai\n\nLurtz est le plus puissant de tous les Uruk-hai, un chef extrÍmement belliqueux, mÍme au sein de cette race impitoyable.\nIl est exclusivement dÈvouÈ ‡ la volontÈ de la Main Blanche, n'a cure des vies de ses guerriers et est assoiffÈ du sang de ses ennemis. En outre, sa tenacitÈ en fait un adversaire redoutable.\n\n'Trouvez les semi-hommes !'"
+"Recrutez le Premier Capitaine des Uruk-HaÔ\n\nLurtz est le plus puissant de tous les Uruk-HaÔ, un chef extrÍmement belliqueux, mÍme au sein de cette race impitoyable.\nIl est exclusivement dÈvouÈ ‡ la volontÈ de la Main Blanche, n'a cure des vies de ses guerriers et est assoiffÈ du sang de ses ennemis. En outre, sa tenacitÈ en fait un adversaire redoutable.\n\n'Trouvez les semi-hommes !'"
 END
 
 CONTROLBAR:IsengardLurtzRecruit
-"Recrutez le Premier Capitaine des Uruk-hai\n\nLurtz est le plus puissant de tous les Uruk-hai, un chef extrÍmement belliqueux, mÍme au sein de cette race impitoyable.\nIl est exclusivement dÈvouÈ ‡ la volontÈ de la Main Blanche, n'a cure des vies de ses guerriers et est assoiffÈ du sang de ses ennemis. En outre, sa tenacitÈ en fait un adversaire redoutable.\n\n'Trouvez les semi-hommes !'"
+"Recrutez le Premier Capitaine des Uruk-HaÔ\n\nLurtz est le plus puissant de tous les Uruk-HaÔ, un chef extrÍmement belliqueux, mÍme au sein de cette race impitoyable.\nIl est exclusivement dÈvouÈ ‡ la volontÈ de la Main Blanche, n'a cure des vies de ses guerriers et est assoiffÈ du sang de ses ennemis. En outre, sa tenacitÈ en fait un adversaire redoutable.\n\n'Trouvez les semi-hommes !'"
 END
 
 CONTROLBAR:IsengardLurtzRevive
@@ -22302,7 +22302,7 @@ WOTRTutorial:LW_InstructionText11
 End
 
 WOTRTutorial:LW_InstructionText12
-"In the Retreat phase, all Hero armies that are defeated in battle must withdraw to safe territories."
+"In the Retreat phase, all HÈros armies that are defeated in battle must withdraw to safe territories."
 End
 
 WOTRTutorial:LW_InstructionText13
@@ -22330,7 +22330,7 @@ WOTRTutorial:LW_InstructionText18
 End
 
 WOTRTutorial:LW_InstructionText19
-"There are 2 types of armies under your command, Garrison Armies, and Hero Armies."
+"There are 2 types of armies under your command, Garrison Armies, and HÈros Armies."
 End
 
 WOTRTutorial:LW_InstructionText20
@@ -22346,11 +22346,11 @@ WOTRTutorial:LW_InstructionText22
 End
 
 WOTRTutorial:LW_InstructionText23
-"To order a garrison army to join a ArmÈe de hÈros, Clic gauche to select a garrison army. Then right click on the desired ArmÈe de hÈros to have the battalions of your selected army merge with the Hero forces."
+"To order a garrison army to join a ArmÈe de hÈros, Clic gauche to select a garrison army. Then right click on the desired ArmÈe de hÈros to have the battalions of your selected army merge with the HÈros forces."
 End
 
 WOTRTutorial:LW_InstructionText24
-"A ArmÈe de hÈros is a group of battalions that are commanded by a special Hero that has the ability to lead troops into battle."
+"A ArmÈe de hÈros is a group of battalions that are commanded by a special HÈros that has the ability to lead troops into battle."
 End
 
 WOTRTutorial:LW_InstructionText25
@@ -22427,7 +22427,7 @@ WOTRSCRIPT:WOTR_Tutorial034subtitle
 END
 
 WOTRSCRIPT:WOTR_Tutorial035subtitle
-"Since you do not have any defeated Hero armies at this time, the game will continue to the next phase."
+"Since you do not have any defeated HÈros armies at this time, the game will continue to the next phase."
 END
 
 WOTRSCRIPT:WOTR_Tutorial036subtitle
@@ -22495,7 +22495,7 @@ WOTRSCRIPT:WOTR_Tutorial069subtitle
 END
 
 WOTRSCRIPT:WOTR_Tutorial071subtitle
-"A ArmÈe de hÈros is a group of battalions that are commanded by a special Hero that has the ability to lead troops into battle. They can not only move between territories that you control, but are also used to expand the lands of your kingdom by conquering neutral territories and invading enemy territories."
+"A ArmÈe de hÈros is a group of battalions that are commanded by a special HÈros that has the ability to lead troops into battle. They can not only move between territories that you control, but are also used to expand the lands of your kingdom by conquering neutral territories and invading enemy territories."
 END
 
 WOTRSCRIPT:WOTR_Tutorial075subtitle
@@ -22563,7 +22563,7 @@ WOTRSCRIPT:WOTR_Tutorial096subtitle
 END
 
 WOTRSCRIPT:WOTR_Tutorial098subtitle
-"Since one of your Hero armies has been defeated in battle, you must withdraw that army to a friendly territory to recover. Only the ArmÈe de hÈros leaders survive from a lost battle and have the ability to retreat."
+"Since one of your HÈros armies has been defeated in battle, you must withdraw that army to a friendly territory to recover. Only the ArmÈe de hÈros leaders survive from a lost battle and have the ability to retreat."
 END
 
 WOTRSCRIPT:WOTR_Tutorial100subtitle
@@ -23091,12 +23091,12 @@ End
 
 BANNERUI:IsengardFighter
 // Singluar name of the Isengard Fighter category displayed in the army summary for WotR
-"Uruk-hai"
+"Uruk-HaÔ"
 End
 
 BANNERUI:IsengardFighters
 // Plural name of the Isengard Fighter category displayed in the army summary for WotR
-"Uruk-hai combattant"
+"Uruk-HaÔ combattant"
 End
 
 BANNERUI:IsengardBeserker
@@ -24588,11 +24588,11 @@ LWA:MenHeroArmy
 End
 
 LWA:RohanHeroArmy
-"Rohan Hero Army"
+"Rohan HÈros Army"
 End
 
 LWA:ElvesHeroArmy
-"LothlÛrien Hero Army"
+"LothlÛrien HÈros Army"
 END
 
 LWA:DwarvesHeroArmy
@@ -24608,7 +24608,7 @@ LWA:IsengardHeroArmy
 End
 
 LWA:GuldurHeroArmy
-"Dol Guldur Hero Army"
+"Dol Guldur HÈros Army"
 END
 
 LWA:WildHeroArmy
@@ -24879,11 +24879,11 @@ OBJECT:HordeOathBreakers
 END
 
 OBJECT:HordeIsengardFighter
-"Uruk-hai combattant"
+"Uruk-HaÔ combattant"
 END
 
 OBJECT:HordeIsengardFighterPikemenCombo
-"Uruk-hai - Piquiers Uruk"
+"Uruk-HaÔ - Piquiers Uruk"
 END
 
 OBJECT:HordeIsengardCrossbowPikemanCombo
@@ -24891,7 +24891,7 @@ OBJECT:HordeIsengardCrossbowPikemanCombo
 END
 
 OBJECT:HordeIsengardFighterLadderCombo
-"Uruk-hai - Ladder"
+"Uruk-HaÔ - Ladder"
 END
 
 OBJECT:HordeIsengardPikemen
@@ -24899,7 +24899,7 @@ OBJECT:HordeIsengardPikemen
 END
 
 OBJECT:HordeIsengardFighterCrossbowCombo
-"Uruk-hai - ArbalÈtriers Uruk"
+"Uruk-HaÔ - ArbalÈtriers Uruk"
 END
 
 OBJECT:HordeIsengardWildmenCombo
@@ -25577,7 +25577,7 @@ END
 
 //EASTFOLD
 BONUSROUND:SPSGOODEASTFOLDURUK
-"Bonus : Defeat Uruk-hai reinforcement army."
+"Bonus : Defeat Uruk-HaÔ reinforcement army."
 END
 BONUSROUND:SPSGOODEASTFOLDHEAVY
 "Bonus : Acheter Armure lourde for 3 battalions."
@@ -25593,7 +25593,7 @@ END
 
 //EAVES OF FANGORN
 BONUSROUND:FANGORNBONUSCOMBO
-"Bonus : Combine a horde of ArbalÈtriers Uruk with a horde of Uruk-hai."
+"Bonus : Combine a horde of ArbalÈtriers Uruk with a horde of Uruk-HaÔ."
 END
 BONUSROUND:SPSGOODEAVESOFFANGORNRESCUE
 "Bonus : Rescue Merry and Pippin."
@@ -25805,28 +25805,28 @@ BONUSROUND:SPSGOODMINASTIRITHDESTROY
 "Destroy all Evil Forces."
 END
 BONUSROUND:SPSGOODMINASTIRITHRANK
-"Bonus : niveau any Hero au niveau 8."
+"Bonus : niveau any HÈros au niveau 8."
 END
 
 //DAGORLAD
 BONUSROUND:SPSGOODDAGORLADRANK
-"Bonus : niveau any Hero au niveau 10"
+"Bonus : niveau any HÈros au niveau 10"
 END
 
 //NURN
 BONUSROUND:SPSGOODNURNRANK
-"Bonus : niveau any Hero au niveau 10"
+"Bonus : niveau any HÈros au niveau 10"
 END
 
 
 //NEAR HARAD
 BONUSROUND:SPSGOODNEARHARADRANK
-"Bonus : niveau any Hero au niveau 10"
+"Bonus : niveau any HÈros au niveau 10"
 END
 
 //RHUN
 BOMUSROUND:SPSGOODRHUNRANK
-"Bonus : niveau any Hero au niveau 10"
+"Bonus : niveau any HÈros au niveau 10"
 END
 
 //BLACK GATE
@@ -26877,7 +26877,7 @@ END
 
 
 APT:HeaderChooseHeroPowers
-//Header abouve Hero Power select matrix
+//Header abouve HÈros Power select matrix
 "Choisir les pouvoirs du Capitaine"
 END
 
@@ -26932,12 +26932,12 @@ APT:CurrentPowers
 END
 
 APT:CaH_Powers_PopHeader
-//Header for Hero Powers screen Pop-up
+//Header for HÈros Powers screen Pop-up
 "Personnaliser les pouvoirs de votre Capitaine"
 END
 
 APT:CaH_Powers_PopText
-//Body text for Hero Powers screen Pop-up (Needs final text)
+//Body text for HÈros Powers screen Pop-up (Needs final text)
 "Ce texte prÈsente l'Ècran de sÈlection des pouvoirs du Capitaine."
 END
 
@@ -26975,7 +26975,7 @@ APT:NPlay
 END
 
 APT:RequiredHeroLevel
-//Sub-header for Hero Power select matrix
+//Sub-header for HÈros Power select matrix
 "Niveau de hÈros requis"
 END
 
@@ -27134,7 +27134,7 @@ END
 
 
 ////////////////////////////////////////////////////////////////////
-// Create a Hero Spell names.
+// Create a HÈros Spell names.
 ////////////////////////////////////////////////////////////////////
 
 CAH:ArmorMenuLabel
@@ -29107,11 +29107,11 @@ CONTROLBAR:LW_Hero_Faramir
 END
 
 CONTROLBAR:LW_ToolTipBuild_Faramir
-"Type d'unitÈ : Hero Army Leader\n "
+"Type d'unitÈ : HÈros Army Leader\n "
 END
 
 CONTROLBAR:LW_ToolTip_Faramir
-"Type d'unitÈ : Hero Army Leader"
+"Type d'unitÈ : HÈros Army Leader"
 END
 
 CONTROLBAR:LW_Hero_Eomer
@@ -30327,11 +30327,11 @@ CONTROLBAR:LW_Unit_IsengardUrukCrossbowHordePlural
 END
 
 CONTROLBAR:LW_Unit_IsengardUrukFighterCrossbowHorde
-"Horde de combattants Uruk-hai - arbalÈtriers Uruk"
+"Horde de combattants Uruk-HaÔ - arbalÈtriers Uruk"
 END
 
 CONTROLBAR:LW_Unit_IsengardUrukFighterCrossbowHordePlural
-"Hordes de combattants Uruk-hai - arbalÈtriers Uruk"
+"Hordes de combattants Uruk-HaÔ - arbalÈtriers Uruk"
 END
 
 CONTROLBAR:LW_Unit_IsengardPikemanHorde
@@ -30697,7 +30697,7 @@ END
 
 APT:TurnPhaseDescriptionPlanHeroMoves
 // Context: text used in the WotR turn timeline to describe the plan hero moves phase
-"Choose destination territory for Hero armies"
+"Choose destination territory for HÈros armies"
 END
 
 APT:TurnPhaseDescriptionResolveBattles
@@ -30786,7 +30786,7 @@ STRATEGICHUD:BarracksInProductionTooltip
 END
 
 STRATEGICHUD:FortressInProductionTooltip
-"This Hero unit is currently being recruited"
+"This HÈros unit is currently being recruited"
 END
 
 
@@ -30864,7 +30864,7 @@ APT:StrategicBattlePromptSwapButton1Tooltip
 END
 
 APT:StrategicBattlePromptSwapButton2Tooltip
-"Switch the order of arrival for the reinforcement Hero armies"
+"Switch the order of arrival for the reinforcement HÈros armies"
 END
 
 
@@ -31132,7 +31132,7 @@ STRATEGICHUD:ResolveRegionOwnershipAfterBattleChecklistItem
 END
 
 STRATEGICHUD:MoveHeroArmiesChecklistItem
-"Conquer new territories by moving Hero armies into adjacent territories."
+"Conquer new territories by moving HÈros armies into adjacent territories."
 END
 
 STRATEGICHUD:StrengthenRegionGarrisonChecklistItem
@@ -31176,7 +31176,7 @@ STRATEGICHUD:BuildCavalryUnitsChecklistItem
 END
 
 STRATEGICHUD:BuildHeroUnitsChecklistItem
-"Construire une Hero units from your fort to help boost an army's strength."
+"Construire une HÈros units from your fort to help boost an army's strength."
 END
 
 STRATEGICHUD:DisbandUnitsChecklistItem
@@ -32086,7 +32086,7 @@ END
 
 
 //////////////////////////
-/// New Hero Abilities ///
+/// New HÈros Abilities ///
 //////////////////////////
 
 CONTROLBAR:SonicSong
@@ -32337,8 +32337,8 @@ CONTROLBAR:SpecialAbilitySmaugStun
 END
 
 CONTROLBAR:ToolTipSpecialAbilitySmaugStun
-//"Pins enemy Hero in place \n Can only use with bow equipped \n Clic gauche sur la cible"
-//"Requiert : niveau 2 \n Pins enemy Hero in place \n Can only use with bow equipped \n Clic gauche sur la cible"
+//"Pins enemy HÈros in place \n Can only use with bow equipped \n Clic gauche sur la cible"
+//"Requiert : niveau 2 \n Pins enemy HÈros in place \n Can only use with bow equipped \n Clic gauche sur la cible"
 "Requiert : Niveau 6 \n Immobilise le hÈros ennemi pendant une courte durÈe.\n\nClic gauche sur l'icÙne puis clic gauche sur la cible"
 END
 
@@ -32882,7 +32882,7 @@ CONTROLBAR:ToolTipConstructIsengardPorter
 End
 
 CONTROLBAR:ToolTipConstructIsengardUrukPit
-"L‡ o˘ les Orques ordinaires sont vo˚tÈs et peureux, les Uruk-hai de Saruman sont des guerriers forts, droits et musculeux, d'un courage et d'aptitudes supÈrieurs.\nIls ne se prÈoccupent nullement des terres ou des possessions, ils ne font que tuer tout ce qui se prÈsente ‡ eux, poursuivant ainsi leur guerre Èternelle en assouvissant leur faim de chair humaine.\n\nPermet de recruter les Uruk-hai de Saruman."
+"L‡ o˘ les Orques ordinaires sont vo˚tÈs et peureux, les Uruk-HaÔ de Saruman sont des guerriers forts, droits et musculeux, d'un courage et d'aptitudes supÈrieurs.\nIls ne se prÈoccupent nullement des terres ou des possessions, ils ne font que tuer tout ce qui se prÈsente ‡ eux, poursuivant ainsi leur guerre Èternelle en assouvissant leur faim de chair humaine.\n\nPermet de recruter les Uruk-HaÔ de Saruman."
 End
 
 CONTROLBAR:ToolTipConstructMordorBattleTower
@@ -33040,7 +33040,7 @@ CONTROLBAR:TooltipSummonWildMenAllies
 End
 
 CONTROLBAR:TooltipUpgradeIsengardUrukPitLevel2
-"Permet de recruter les Uruk-hai en armure et des Berserker Uruks.\n Vitesse de construction +10%"
+"Permet de recruter les Uruk-HaÔ en armure et des Berserker Uruks.\n Vitesse de construction +10%"
 End
 
 CONTROLBAR:TooltipUpgradeIsengardWargPitLevel2
@@ -40312,7 +40312,7 @@ DIALOGEVENT:MTrBas_OffT071subtitle
 END
 
 DIALOGEVENT:MTrBas_OffT072subtitle
-"*And lastly, we'll need a Hero to lead our troops. Heroes can be purchased from the Fortress. And if your Hero should fall in battle, they can be revived from the fortress as well."
+"*And lastly, we'll need a HÈros to lead our troops. Heroes can be purchased from the Fortress. And if your HÈros should fall in battle, they can be revived from the fortress as well."
 END
 
 DIALOGEVENT:MTrBas_OffT074subtitle
@@ -40324,7 +40324,7 @@ DIALOGEVENT:MTrBas_OffT075subtitle
 END
 
 DIALOGEVENT:MTrBas_OffT076subtitle
-"*You will find a Hero?s abilities on the Palantir. Some are Passive abilities which mean they?re always enabled such as Boromir?s Leadership ability."
+"*You will find a HÈros?s abilities on the Palantir. Some are Passive abilities which mean they?re always enabled such as Boromir?s Leadership ability."
 END
 
 DIALOGEVENT:MTrBas_OffT077subtitle
@@ -40684,7 +40684,7 @@ DIALOGEVENT:WOTR_Tutorial034subtitle
 END
 
 DIALOGEVENT:WOTR_Tutorial035subtitle
-"*Since you do not have any defeated Hero armies at this time, the game will continue to the next phase."
+"*Since you do not have any defeated HÈros armies at this time, the game will continue to the next phase."
 END
 
 DIALOGEVENT:WOTR_Tutorial036subtitle
@@ -40784,7 +40784,7 @@ DIALOGEVENT:WOTR_Tutorial059subtitle
 END
 
 DIALOGEVENT:WOTR_Tutorial060subtitle
-"*There are 2 types of armies under your command, Garrison Armies, and Hero Armies."
+"*There are 2 types of armies under your command, Garrison Armies, and HÈros Armies."
 END
 
 DIALOGEVENT:WOTR_Tutorial061subtitle
@@ -40808,15 +40808,15 @@ DIALOGEVENT:WOTR_Tutorial065subtitle
 END
 
 DIALOGEVENT:WOTR_Tutorial066subtitle
-"*Garrison armies are used to defend the lands of your empire and can only move between territories that you control. Thus, they cannot takeover neutral territories or invade enemy territories on their own. However, a garrison army can join with a Hero army to strengthen a Hero army's attacking forces."
+"*Garrison armies are used to defend the lands of your empire and can only move between territories that you control. Thus, they cannot takeover neutral territories or invade enemy territories on their own. However, a garrison army can join with a HÈros army to strengthen a HÈros army's attacking forces."
 END
 
 DIALOGEVENT:WOTR_Tutorial067subtitle
-"*To order a garrison army to join a hero army, Clic gauche to select a garrison army. Then right click on the desired Hero army to have the battalions of your selected army merge with the Hero forces."
+"*To order a garrison army to join a hero army, Clic gauche to select a garrison army. Then right click on the desired HÈros army to have the battalions of your selected army merge with the HÈros forces."
 END
 
 DIALOGEVENT:WOTR_Tutorial068subtitle
-"*Notice that your cursor changes to a join icon when you have a garrison army selected and move your mouse over a Hero army that it can legally join."
+"*Notice that your cursor changes to a join icon when you have a garrison army selected and move your mouse over a HÈros army that it can legally join."
 END
 
 DIALOGEVENT:WOTR_Tutorial069subtitle
@@ -40828,7 +40828,7 @@ DIALOGEVENT:WOTR_Tutorial070subtitle
 END
 
 DIALOGEVENT:WOTR_Tutorial071subtitle
-"*A Hero army is a group of battalions that are commanded by a special hero that has the ability to lead troops into battle. They can not only move between territories that you control, but are also used to expand the lands of your kingdom by conquering neutral territories and invading enemy territories."
+"*A HÈros army is a group of battalions that are commanded by a special hero that has the ability to lead troops into battle. They can not only move between territories that you control, but are also used to expand the lands of your kingdom by conquering neutral territories and invading enemy territories."
 END
 
 DIALOGEVENT:WOTR_Tutorial072subtitle
@@ -40836,7 +40836,7 @@ DIALOGEVENT:WOTR_Tutorial072subtitle
 END
 
 DIALOGEVENT:WOTR_Tutorial073subtitle
-"*To order a hero army to move into a territory, Clic gauche to select a Hero army. Then right click on the desired territory to send your selected Hero army to that location."
+"*To order a hero army to move into a territory, Clic gauche to select a HÈros army. Then right click on the desired territory to send your selected HÈros army to that location."
 END
 
 DIALOGEVENT:WOTR_Tutorial074subtitle
@@ -40936,11 +40936,11 @@ DIALOGEVENT:WOTR_Tutorial097subtitle
 END
 
 DIALOGEVENT:WOTR_Tutorial098subtitle
-"*Since one of your Hero armies has been defeated in battle, you must withdraw that army to a friendly territory to recover. Only the Hero army leaders survive from a lost battle and have the ability to retreat."
+"*Since one of your HÈros armies has been defeated in battle, you must withdraw that army to a friendly territory to recover. Only the HÈros army leaders survive from a lost battle and have the ability to retreat."
 END
 
 DIALOGEVENT:WOTR_Tutorial099subtitle
-"*To order a Hero army to retreat, Clic gauche to select a defeated Hero army. Then right click on a friendly territory to send your army to that location."
+"*To order a HÈros army to retreat, Clic gauche to select a defeated HÈros army. Then right click on a friendly territory to send your army to that location."
 END
 
 DIALOGEVENT:WOTR_Tutorial100subtitle
@@ -44522,7 +44522,7 @@ End
 
 
 ////////////////////////////////////////////////
-//// Create a Hero PalantÌr In game casting  ///
+//// Create a HÈros PalantÌr In game casting  ///
 ////////////////////////////////////////////////
 
 /////////////////////////
@@ -50733,15 +50733,15 @@ CONTROLBAR:ToolTipBuildMordorWargHorde
 END
 
 CONTROLBAR:ConstructMordorBlackOrcHorde
-"Uruk-hai du Mordor"
+"Uruk-HaÔ du Mordor"
 END
 
 OBJECT:HordeMordorBlackOrcs
-"Uruk-hai du Mordor"
+"Uruk-HaÔ du Mordor"
 END
 
 CONTROLBAR:LW_Unit_MordorBlackOrcHorde
-"Horde d'Uruk-hai du Mordor"
+"Horde d'Uruk-HaÔ du Mordor"
 END
 
 CONTROLBAR:LW_ToolTip_MordorBlackOrcHorde
@@ -50927,7 +50927,7 @@ OBJECT:HordeWildWhiteWargPack
 "Loups blancs"
 END
 
-//--------Dwarven Hero Additions for Expansion-------------
+//--------Dwarven HÈros Additions for Expansion-------------
 
 CONTROLBAR:ToolTipCaptDaleLeadership
 "Requiert : niveau 6\n Les alliÈs proches du capitaine gagnent +50% dÈg‚ts, +50% armure et gagnent de l'expÈrience deux fois plus rapidement.\n\n CapacitÈ passive       Ne peut pas s'utiliser avec d'autres bonus"
@@ -51277,7 +51277,7 @@ CONTROLBAR:SpecialAbilityNoPower
 End
 
 CONTROLBAR:ToolTipSpecialAbilityNoPower
-// Tooltip on a "No Power" after it has been added to your Hero's list of powers
+// Tooltip on a "No Power" after it has been added to your HÈros's list of powers
 // The tooltips for most other powers describe what they do
 "Pouvoir gratuit pour rÈduire le co˚t de construction du hÈros"
 End
@@ -51288,7 +51288,7 @@ TOOLTIP:AddSpecialAbilityNoPower
 End
 	
 CAH:Command_SpecialAbilityNoPowerDummy_Name
-// Entry description for "No Power" where it shows up in the Hero Powers list on both Manager and Powers screens
+// Entry description for "No Power" where it shows up in the HÈros Powers list on both Manager and Powers screens
 "- Pas de pouvoir -"
 END
 
@@ -54028,7 +54028,7 @@ CONTROLBAR:LW_ToolTip_RohanHelmingasWardenHorde
 END
 
 CONTROLBAR:LW_ToolTip_RohanHelmingasWardenHorde_WOTR
-"10 Guerriers Helmingas\n\nType d'unitÈ: Hero Unit\n Fort contre Tous"
+"10 Guerriers Helmingas\n\nType d'unitÈ: HÈros Unit\n Fort contre Tous"
 END
 
 BANNERUI:ElvenRivendellArchers
@@ -54048,7 +54048,7 @@ CONTROLBAR:LW_Unit_ElvenRivendellArcherHordePlural
 END
 
 CONTROLBAR:LW_Unit_MordorBlackOrcHordePlural
-"Hordes d'Uruk-hai du Mordor"
+"Hordes d'Uruk-HaÔ du Mordor"
 END
 
 CONTROLBAR:LW_ToolTipBuild_MordorHaradrimRiderHorde
@@ -55405,7 +55405,7 @@ END
 
 CONTROLBAR:ToolTipCaptainofGondorBoromir
 //"Requiert : niveau 7\n Donne de l'expÈrience aux unitÈs ciblÈes.\n\nClic gauche sur l'icÙne puis clic gauche sur la cible"
-"Requiert : niveau 7\n Boromir a dirigÈ les assauts pour reprendre la ville d'Osgiliath aux Uruk-hai noirs du Mordor.\n Il donne de l'expÈrience aux unitÈs ciblÈes.\n\nClic gauche sur l'icÙne puis clic gauche sur la cible"
+"Requiert : niveau 7\n Boromir a dirigÈ les assauts pour reprendre la ville d'Osgiliath aux Uruk-HaÔ noirs du Mordor.\n Il donne de l'expÈrience aux unitÈs ciblÈes.\n\nClic gauche sur l'icÙne puis clic gauche sur la cible"
 END
 
 CONTROLBAR:TooltipBladeMaster
@@ -56108,7 +56108,7 @@ END
 
 OBJECT:MordorBlackOrc
 //"Black Orque"
-"Uruk-hai du Mordor"
+"Uruk-HaÔ du Mordor"
 END
 
 OBJECT:MordorEasterling
@@ -56179,13 +56179,13 @@ END
 // Mordor Structures
 
 CONTROLBAR:ToolTipMordorOrcPit
-//"EntraÓne les guerriers Orques, archers Orques et Uruk-hai du Mordor"
-"Permet de recruter les unitÈs Orques et les Uruk-hai du Mordor."
+//"EntraÓne les guerriers Orques, archers Orques et Uruk-HaÔ du Mordor"
+"Permet de recruter les unitÈs Orques et les Uruk-HaÔ du Mordor."
 END
 
 CONTROLBAR:TooltipUpgradeMordorOrcPitLevel2
 //"Permet de recruter les Orques noirs\n Vitesse de construction +10%"
-"Permet de recruter les Uruk-hai du Mordor.\n Vitesse de construction +10%"
+"Permet de recruter les Uruk-HaÔ du Mordor.\n Vitesse de construction +10%"
 End
 
 CONTROLBAR:TooltipUpgradeMordorHaradrimPalaceLevel3
@@ -56849,8 +56849,8 @@ END
 // Angmar Heroes
 
 CONTROLBAR:ToolTipHwaldarLeadership
-//"Rhudaur Axe Throwers and Spearmen near the Hero gain +20% dÈg‚ts et +20% armure.\n\n CapacitÈ passive"
-//"Rhudaur Spearmen and Axe Throwers near the Hero gain\n +33% dÈg‚ts, +33% armure,\n et gagnent de l'expÈrience 2 fois plus rapidement.\n\n CapacitÈ passive"
+//"Rhudaur Axe Throwers and Spearmen near the HÈros gain +20% dÈg‚ts et +20% armure.\n\n CapacitÈ passive"
+//"Rhudaur Spearmen and Axe Throwers near the HÈros gain\n +33% dÈg‚ts, +33% armure,\n et gagnent de l'expÈrience 2 fois plus rapidement.\n\n CapacitÈ passive"
 //"Rhudaur Spearmen and Axe Throwers near Hwaldar gain\n +33% dÈg‚ts, +33% armure,\n et gagnent de l'expÈrience 2 fois plus rapidement.\n\n CapacitÈ passive"
 //"Rhudaur Spearmen and Axe Throwers gain\n +33% dÈg‚ts, +33% armure,\n et gagnent de l'expÈrience 2 fois plus rapidement.\n\n CapacitÈ passive"
 //"Rhudaur Spearmen and Axe Throwers gain\n +33% dÈg‚ts, +33% armure,\n et gagnent de l'expÈrience 50% plus rapidement\n\n CapacitÈ passive"
@@ -56858,7 +56858,7 @@ CONTROLBAR:ToolTipHwaldarLeadership
 End
 
 CONTROLBAR:ToolTipHwaldarBrigandage
-//"Requiert : niveau 3\n Rhudaur Axe Throwers and Spearmen near the Hero steal resources whenever dealing damage to enemy units.\n\n CapacitÈ passive"
+//"Requiert : niveau 3\n Rhudaur Axe Throwers and Spearmen near the HÈros steal resources whenever dealing damage to enemy units.\n\n CapacitÈ passive"
 //"Requiert : niveau 3\n Nearby Rhudaur Spearmen and Axe Throwers gain resources for kills\n\n CapacitÈ passive"
 "Requiert : niveau 3\n Nearby Rhudaur Spearmen, Axe Throwers and Hillmen gain resources for kills\n\nCapacitÈ passive"
 END
@@ -57504,7 +57504,7 @@ CONTROLBAR:LW_ToolTip_DwarvenZerkerHorde
 END
 
 CONTROLBAR:LW_ToolTip_DwarvenZerkerHorde_WOTR
-"12 Wyrm Slayers\n\nType d'unitÈ: Hero Infantry\n Fort contre Tous"
+"12 Wyrm Slayers\n\nType d'unitÈ: HÈros Infantry\n Fort contre Tous"
 END
 
 BANNERUI:DwarvenAxeThrower
@@ -57586,11 +57586,11 @@ END
 
 CONTROLBAR:LW_Unit_IsengardFighterHorde
 //"Horde de Guerriers Uruk"
-"Horde d'Uruk-hai"
+"Horde d'Uruk-HaÔ"
 END
 CONTROLBAR:LW_Unit_IsengardFighterHordePlural
 //"Hordes de Guerriers Uruk"
-"Hordes d'Uruk-hai"
+"Hordes d'Uruk-HaÔ"
 END
 
 CONTROLBAR:LW_ToolTipBuild_IsengardUrukCrossbowHorde
@@ -57607,11 +57607,11 @@ CONTROLBAR:LW_ToolTip_IsengardUrukFighterCrossbowHorde
 END
 
 CONTROLBAR:LW_Unit_IsengardUrukPikemanCrossbowHorde
-"Horde de piquiers Uruk-hai - ArbalÈtriers Uruk-hai"
+"Horde de piquiers Uruk-HaÔ - ArbalÈtriers Uruk-HaÔ"
 END
 
 CONTROLBAR:LW_Unit_IsengardUrukPikemanCrossbowHordePlural
-"Hordes de piquiers Uruk-hai - ArbalÈtriers Uruk-hai"
+"Hordes de piquiers Uruk-HaÔ - ArbalÈtriers Uruk-HaÔ"
 END
 
 CONTROLBAR:LW_ToolTip_IsengardUrukPikemanCrossbowHorde
@@ -57619,11 +57619,11 @@ CONTROLBAR:LW_ToolTip_IsengardUrukPikemanCrossbowHorde
 END
 
 CONTROLBAR:LW_Unit_IsengardUrukFighterPikemenHorde
-"Horde de combattants Uruk-hai - Piquiers Uruk-hai"
+"Horde de combattants Uruk-HaÔ - Piquiers Uruk-HaÔ"
 END
 
 CONTROLBAR:LW_Unit_IsengardUrukFighterPikemenHordePlural
-"Hordes de combattants Uruk-hai - Piquiers Uruk-hai"
+"Hordes de combattants Uruk-HaÔ - Piquiers Uruk-HaÔ"
 END
 
 CONTROLBAR:LW_ToolTip_IsengardUrukFighterPikemenHorde
@@ -57656,7 +57656,7 @@ CONTROLBAR:LW_ToolTip_IsengardFanaticHorde
 END
 
 CONTROLBAR:LW_ToolTip_IsengardFanaticHorde_WOTR
-"6 Gundabad Bodyguards\n\nType d'unitÈ: Hero Infantry\n Fort contre Tous"
+"6 Gundabad Bodyguards\n\nType d'unitÈ: HÈros Infantry\n Fort contre Tous"
 END
 
 CONTROLBAR:LW_ToolTipBuild_IsengardWildmanHorde
@@ -57737,12 +57737,12 @@ END
 
 BANNERUI:MordorBlackOrc
 //"Black Guerrier Orque Horde"
-"Horde d'Uruk-hai du Mordor"
+"Horde d'Uruk-HaÔ du Mordor"
 END
 
 BANNERUI:MordorBlackOrcs
 //"Black Guerrier Orque Hordes"
-"Uruk-hai du Mordor"
+"Uruk-HaÔ du Mordor"
 END
 
 CONTROLBAR:LW_ToolTipBuild_MordorBlackOrcHorde
@@ -58161,7 +58161,7 @@ CONTROLBAR:ToolTipBloodthirsty
 END
 
 CONTROLBAR:ToolTipIsengardBloodthirsty
-"Requiert : niveau 3\n PoussÈs par leur appÈtit insatiable pour la chair et le sang, les Uruk-hai gagnent +25% dÈg‚ts.\n\n CapacitÈ passive"
+"Requiert : niveau 3\n PoussÈs par leur appÈtit insatiable pour la chair et le sang, les Uruk-HaÔ gagnent +25% dÈg‚ts.\n\n CapacitÈ passive"
 END
 
 CONTROLBAR:ToolTipBlackOrcBloodthirsty
@@ -58663,26 +58663,26 @@ END
 
 CONTROLBAR:ToolTipBuildMordorOrcFighterHorde
 //"Les Orques sont des crÈatures malfaisantes, des monstres qui se complaisent dans la destruction et la mort. Ils ne sont loyaux envers personne, pas mÍme envers leurs compagnons, et ils n'hÈsiteront pas ‡ se battre entre eux pour se disputer leurs conquÍtes.\n\n Les guerriers sont forts contre les piquiers."
-//"Les Orques sont des crÈatures malfaisantes, des monstres qui se complaisent dans la destruction et la mort. Ils ne sont loyaux envers personne, pas mÍme envers leurs compagnons, et ils n'hÈsiteront pas ‡ se battre entre eux pour se disputer leurs conquÍtes.\n\n Les guerriers sont forts contre les piquiers.\n\n Bonus de horde : tous les Guerriers Orques, Archers Orques et Uruk-hai du Mordor gagnent +50% dÈg‚ts lorsqu'ils sont rassemblÈs en lÈgion d'au moins 100 individus"
-"Les Orques sont des crÈatures malfaisantes, des monstres qui se complaisent dans la destruction et la mort. Ils ne sont loyaux envers personne, pas mÍme envers leurs compagnons, et ils n'hÈsiteront pas ‡ se battre entre eux pour se disputer leurs conquÍtes.\nCes guerriers sont ÈquipÈs de cuir et brandissent des cimeterres noirs, toujours prËs ‡ suivre les ordres de l'Oeil pour moins souffrir de son fouet.\n\nForts contre les piquiers\n\nType d'Action : Sort\nBonus de horde : tous les combattants Orques et Uruk-hai du Mordor gagnent +50% dÈg‚ts lorsqu'ils sont rassemblÈs en nombre de 150 ou plus (bonus cumulable)."
+//"Les Orques sont des crÈatures malfaisantes, des monstres qui se complaisent dans la destruction et la mort. Ils ne sont loyaux envers personne, pas mÍme envers leurs compagnons, et ils n'hÈsiteront pas ‡ se battre entre eux pour se disputer leurs conquÍtes.\n\n Les guerriers sont forts contre les piquiers.\n\n Bonus de horde : tous les Guerriers Orques, Archers Orques et Uruk-HaÔ du Mordor gagnent +50% dÈg‚ts lorsqu'ils sont rassemblÈs en lÈgion d'au moins 100 individus"
+"Les Orques sont des crÈatures malfaisantes, des monstres qui se complaisent dans la destruction et la mort. Ils ne sont loyaux envers personne, pas mÍme envers leurs compagnons, et ils n'hÈsiteront pas ‡ se battre entre eux pour se disputer leurs conquÍtes.\nCes guerriers sont ÈquipÈs de cuir et brandissent des cimeterres noirs, toujours prËs ‡ suivre les ordres de l'Oeil pour moins souffrir de son fouet.\n\nForts contre les piquiers\n\nType d'Action : Sort\nBonus de horde : tous les combattants Orques et Uruk-HaÔ du Mordor gagnent +50% dÈg‚ts lorsqu'ils sont rassemblÈs en nombre de 150 ou plus (bonus cumulable)."
 END
 
 CONTROLBAR:ToolTipBuildMordorOrcFighterHordeShelobsLair
 //"Forts contre les piquiers"
-//"Forts contre les piquiers.\n\n Bonus de horde : tous les Guerriers Orques, Archers Orques et Uruk-hai du Mordor gagnent +50% dÈg‚ts lorsqu'ils sont rassemblÈs en lÈgion d'au moins 100 individus"
-"Forts contre les piquiers\n\n  Type d'Action : Sort\n Bonus de horde : tous les combattants Orques et Uruk-hai du Mordor gagnent +50% dÈg‚ts lorsqu'ils sont rassemblÈs en nombre de 150 ou plus (bonus cumulable)."
+//"Forts contre les piquiers.\n\n Bonus de horde : tous les Guerriers Orques, Archers Orques et Uruk-HaÔ du Mordor gagnent +50% dÈg‚ts lorsqu'ils sont rassemblÈs en lÈgion d'au moins 100 individus"
+"Forts contre les piquiers\n\n  Type d'Action : Sort\n Bonus de horde : tous les combattants Orques et Uruk-HaÔ du Mordor gagnent +50% dÈg‚ts lorsqu'ils sont rassemblÈs en nombre de 150 ou plus (bonus cumulable)."
 END
 
 CONTROLBAR:ToolTipBuildMordorOrcArcherHorde
 //"Les Orques sont des crÈatures malfaisantes, des monstres qui se complaisent dans la destruction et la mort. Ils ne sont loyaux envers personne, pas mÍme envers leurs compagnons, et ils n'hÈsiteront pas ‡ se battre entre eux pour se disputer leurs conquÍtes.\n\n Les archers sont forts ‡ distance."
 //"Forts contre l'infanterie\n Horde Bonus\n All Guerriers Orques, Archers Orques and Black Uruks gain +50% dÈg‚ts lorsqu'ils sont rassemblÈs en nombre de 150 ou plus.\n\n Largely unskilled and ill-equipped, Mordor's archers are a prime example of strength in numbers."
-"Les Orques sont des crÈatures malfaisantes, des monstres qui se complaisent dans la destruction et la mort. Ils ne sont loyaux envers personne, pas mÍme envers leurs compagnons, et ils n'hÈsiteront pas ‡ se battre entre eux pour se disputer leurs conquÍtes.\nEn grande partie non qualifiÈs et mal ÈquipÈs, les archers de Mordor ne sont redoutables qu'en grand nombre.\n\nForts contre l'infanterie\n\nType d'Action : Sort\nBonus de horde : tous les combattants Orques et Uruk-hai du Mordor gagnent +50% dÈg‚ts lorsqu'ils sont rassemblÈs en nombre de 150 ou plus (bonus cumulable)."
+"Les Orques sont des crÈatures malfaisantes, des monstres qui se complaisent dans la destruction et la mort. Ils ne sont loyaux envers personne, pas mÍme envers leurs compagnons, et ils n'hÈsiteront pas ‡ se battre entre eux pour se disputer leurs conquÍtes.\nEn grande partie non qualifiÈs et mal ÈquipÈs, les archers de Mordor ne sont redoutables qu'en grand nombre.\n\nForts contre l'infanterie\n\nType d'Action : Sort\nBonus de horde : tous les combattants Orques et Uruk-HaÔ du Mordor gagnent +50% dÈg‚ts lorsqu'ils sont rassemblÈs en nombre de 150 ou plus (bonus cumulable)."
 END
 
 CONTROLBAR:ToolTipBuildMordorBlackOrcHorde
-//"Requiert : Bastion des Orques niveau 2\n Si les Orques sont les pires crÈatures de la Terre du Milieu, les Uruk-hai sont les plus dangereux de leur engeance. L‡ o˘ leurs cousins sont difformes et malhabiles, les Uruk-hai du Mordor sont musculeux, adroits et animÈs d'un grand courage, et bien que peu nombreux, leur rÈputation de tueurs est connue de tous.\n\n Forts contre les piquiers"
-//"Requiert : Bastion des Orques niveau 2\n Si les Orques sont les pires crÈatures de la Terre du Milieu, les Uruk-hai sont les plus dangereux de leur engeance. L‡ o˘ leurs cousins sont difformes et malhabiles, les Uruk-hai du Mordor sont musculeux, adroits et animÈs d'un grand courage, et bien que peu nombreux, leur rÈputation de tueurs est connue de tous.\n\n Forts contre les piquiers.\n\n Bonus de horde : tous les Guerriers Orques, Archers Orques et Uruk-hai du Mordor gagnent +50% dÈg‚ts lorsqu'ils sont rassemblÈs en lÈgion d'au moins 100 individus."
-"Requiert : Bastion des Orques niveau 2\n Les Uruk-hai sont les Orques les plus dangereux de leur engeance. L‡ o˘ leurs cousins sont difformes et malhabiles, les Uruk-hai du Mordor sont musculeux, adroits et animÈs d'un grand courage, et bien que peu nombreux, leur rÈputation de tueurs est connue de tous.\n\nForts contre les piquiers\n\nType d'Action : Sort\n Bonus de horde : tous les combattants Orques et Uruk-hai du Mordor gagnent +50% dÈg‚ts lorsqu'ils sont rassemblÈs en nombre de 150 ou plus (bonus cumulable)."
+//"Requiert : Bastion des Orques niveau 2\n Si les Orques sont les pires crÈatures de la Terre du Milieu, les Uruk-HaÔ sont les plus dangereux de leur engeance. L‡ o˘ leurs cousins sont difformes et malhabiles, les Uruk-HaÔ du Mordor sont musculeux, adroits et animÈs d'un grand courage, et bien que peu nombreux, leur rÈputation de tueurs est connue de tous.\n\n Forts contre les piquiers"
+//"Requiert : Bastion des Orques niveau 2\n Si les Orques sont les pires crÈatures de la Terre du Milieu, les Uruk-HaÔ sont les plus dangereux de leur engeance. L‡ o˘ leurs cousins sont difformes et malhabiles, les Uruk-HaÔ du Mordor sont musculeux, adroits et animÈs d'un grand courage, et bien que peu nombreux, leur rÈputation de tueurs est connue de tous.\n\n Forts contre les piquiers.\n\n Bonus de horde : tous les Guerriers Orques, Archers Orques et Uruk-HaÔ du Mordor gagnent +50% dÈg‚ts lorsqu'ils sont rassemblÈs en lÈgion d'au moins 100 individus."
+"Requiert : Bastion des Orques niveau 2\n Les Uruk-HaÔ sont les Orques les plus dangereux de leur engeance. L‡ o˘ leurs cousins sont difformes et malhabiles, les Uruk-HaÔ du Mordor sont musculeux, adroits et animÈs d'un grand courage, et bien que peu nombreux, leur rÈputation de tueurs est connue de tous.\n\nForts contre les piquiers\n\nType d'Action : Sort\n Bonus de horde : tous les combattants Orques et Uruk-HaÔ du Mordor gagnent +50% dÈg‚ts lorsqu'ils sont rassemblÈs en nombre de 150 ou plus (bonus cumulable)."
 END
 
 CONTROLBAR:ToolTipBuildMordorBlackOrcHordeInn
@@ -59674,8 +59674,8 @@ CONTROLBAR:ToolTipSpecialAbilityBolgCarnage
 END
 
 CONTROLBAR:ToolTipSpecialAbilityBolgCripple
-//"Pins enemy Hero in place\n Ne peut Ítre utilisÈ qu'avec l'arc en main.\n\nClic gauche sur l'icÙne puis clic gauche sur la cible"
-//"Requiert : niveau 2\n Pins enemy Hero in place\n Ne peut Ítre utilisÈ qu'avec l'arc en main.\n\nClic gauche sur l'icÙne puis clic gauche sur la cible"
+//"Pins enemy HÈros in place\n Ne peut Ítre utilisÈ qu'avec l'arc en main.\n\nClic gauche sur l'icÙne puis clic gauche sur la cible"
+//"Requiert : niveau 2\n Pins enemy HÈros in place\n Ne peut Ítre utilisÈ qu'avec l'arc en main.\n\nClic gauche sur l'icÙne puis clic gauche sur la cible"
 "Requiert : niveau 4\n Bolg tire une puissante flËche enduite de poison : il immobile et empoisonne un hÈros ennemi.\n Utilisable seulement avec l'arc.\n\nClic gauche sur l'icÙne puis clic gauche sur la cible"
 END
 
@@ -60891,19 +60891,19 @@ END
 
 //------------ Isengard Scouts ---------------
 OBJECT:IsengardScout
-"Eclaireur Uruk-hai"
+"Eclaireur Uruk-HaÔ"
 END
 
 OBJECT:HordeIsengardScout
-"Eclaireurs Uruk-hai"
+"Eclaireurs Uruk-HaÔ"
 END
 
 CONTROLBAR:ConstructIsengardScoutHorde
-"Eclaireurs Uruk-hai"
+"Eclaireurs Uruk-HaÔ"
 END
 
 CONTROLBAR:LW_Unit_IsengardScoutHorde
-"Eclaireurs Uruk-hai"
+"Eclaireurs Uruk-HaÔ"
 END
 
 CONTROLBAR:LW_ToolTip_IsengardScoutHorde
@@ -60911,7 +60911,7 @@ CONTROLBAR:LW_ToolTip_IsengardScoutHorde
 END
 
 CONTROLBAR:ToolTipBuildIsengardScoutHorde
-"Les Eclaireurs Uruk-hai sont les yeux et les oreilles de Saruman. Plus lÈgËrement ÈquipÈs que les troupes de masse des lÈgions d'Isengard, les Èclaireurs ont une excellente endurance et ne sont ralentis ni par la fatigue, ni par la lumiËre du soleil.\nCe sont Ègalement des chasseurs capables de traquer leurs proies ‡ travers toute la Terre du Milieu s'il le faut, en tuant tous ceux qui se dresseraient sur leur chemin.\n\nForts contre l'infanterie et les piquiers."
+"Les Eclaireurs Uruk-HaÔ sont les yeux et les oreilles de Saruman. Plus lÈgËrement ÈquipÈs que les troupes de masse des lÈgions d'Isengard, les Èclaireurs ont une excellente endurance et ne sont ralentis ni par la fatigue, ni par la lumiËre du soleil.\nCe sont Ègalement des chasseurs capables de traquer leurs proies ‡ travers toute la Terre du Milieu s'il le faut, en tuant tous ceux qui se dresseraient sur leur chemin.\n\nForts contre l'infanterie et les piquiers."
 END
 
 CONTROLBAR:LW_ToolTipBuild_IsengardScoutHorde
@@ -60941,11 +60941,11 @@ CONTROLBAR:LW_ToolTip_IsengardManSlayerHorde
 END
 
 CONTROLBAR:LW_ToolTip_IsengardManSlayerHorde_WOTR
-"# Man-Slayers\n\nType d'unitÈ: Hero Unit\n Fort contre Tous Unit types"
+"# Man-Slayers\n\nType d'unitÈ: HÈros Unit\n Fort contre Tous Unit types"
 END
 
 CONTROLBAR:ToolTipBuildIsengardManSlayerHorde
-"Requiert : Puits ‡ Uruk niveau 3\n Certains Uruk-hai sont torturÈs afin qu'ils nourrissent une haine infinie contre toute chose vivante. EnchaÓnÈs dans les plus profonds donjons d'Isengard, ces Ítres bestiaux ont soif de carnage et ne vivent que pour tuer.\nLorsqu'ils sont libÈrÈs sur un champ de bataille, rendus fous par l'odeur du sang, ils sont capables de supporter des blessures qui tueraient n'importe quel Uruk pour assouvir leur appÈtit de boucherie.\n Seulement 3 unitÈs autorisÈes en mÍme temps.\n\nForts contre tous les types d'unitÈ"
+"Requiert : Puits ‡ Uruk niveau 3\n Certains Uruk-HaÔ sont torturÈs afin qu'ils nourrissent une haine infinie contre toute chose vivante. EnchaÓnÈs dans les plus profonds donjons d'Isengard, ces Ítres bestiaux ont soif de carnage et ne vivent que pour tuer.\nLorsqu'ils sont libÈrÈs sur un champ de bataille, rendus fous par l'odeur du sang, ils sont capables de supporter des blessures qui tueraient n'importe quel Uruk pour assouvir leur appÈtit de boucherie.\n Seulement 3 unitÈs autorisÈes en mÍme temps.\n\nForts contre tous les types d'unitÈ"
 END
 
 CONTROLBAR:LW_ToolTipBuild_IsengardManSlayerHorde
@@ -61056,7 +61056,7 @@ OBJECT:IsengardUgluk
 END
 
 CONTROLBAR:IsengardUglukRecruit
-"Recrutez le fÈroce Capitaine des Uruk-hai.\n\nLorsque Aragorn terrasse Lurtz ‡ la bataille d'Amon Hen, c'est Ugl˙k qui s'impose ‡ la tÍte des Uruk-hai.\nComme son prÈdÈcesseur, sa loyautÈ envers Saruman est indÈfectible. Ugl˙k est un chef sauvage qui dirige ses guerriers autant par des menaces qu'en les brutalisant.\n\n'Ils ont quelque chose. Une arme elfique.\nLe MaÓtre la veut pour la guerre.'"
+"Recrutez le fÈroce Capitaine des Uruk-HaÔ.\n\nLorsque Aragorn terrasse Lurtz ‡ la bataille d'Amon Hen, c'est Ugl˙k qui s'impose ‡ la tÍte des Uruk-HaÔ.\nComme son prÈdÈcesseur, sa loyautÈ envers Saruman est indÈfectible. Ugl˙k est un chef sauvage qui dirige ses guerriers autant par des menaces qu'en les brutalisant.\n\n'Ils ont quelque chose. Une arme elfique.\nLe MaÓtre la veut pour la guerre.'"
 END
 
 CONTROLBAR:IsengardUglukRevive
@@ -61686,7 +61686,7 @@ CONTROLBAR:ConstructMordorPikeHorde
 END
 
 CONTROLBAR:ToolTipBuildMordorPikeHorde
-"Les Orques sont des crÈatures malfaisantes, des monstres qui se complaisent dans la destruction et la mort. Ils ne sont loyaux envers personne, pas mÍme envers leurs compagnons, et ils n'hÈsiteront pas ‡ se battre entre eux pour se disputer leurs conquÍtes.\nLes piquiers sont armÈs de longues et cruelles piques afin de former un mur de fer face ‡ l'ennemi.\n\nForts contre la cavalerie\n\nType d'Action : Sort\nBonus de horde : tous les combattants Orques et Uruk-hai du Mordor gagnent +50% dÈg‚ts lorsqu'ils sont rassemblÈs en nombre de 150 ou plus (bonus cumulable)."
+"Les Orques sont des crÈatures malfaisantes, des monstres qui se complaisent dans la destruction et la mort. Ils ne sont loyaux envers personne, pas mÍme envers leurs compagnons, et ils n'hÈsiteront pas ‡ se battre entre eux pour se disputer leurs conquÍtes.\nLes piquiers sont armÈs de longues et cruelles piques afin de former un mur de fer face ‡ l'ennemi.\n\nForts contre la cavalerie\n\nType d'Action : Sort\nBonus de horde : tous les combattants Orques et Uruk-HaÔ du Mordor gagnent +50% dÈg‚ts lorsqu'ils sont rassemblÈs en nombre de 150 ou plus (bonus cumulable)."
 END
 
 OBJECT:WhiteWarg
@@ -62445,7 +62445,7 @@ CONTROLBAR:LW_ToolTip_ElvenNandorBlademasterHorde
 END
 
 CONTROLBAR:LW_ToolTip_ElvenNandorBlademasterHorde_WOTR
-"12 Nandor Hùr-Hathol\n\nType d'unitÈ: Hero Unit \n Fort contre les Piquiers and Infantry"
+"12 Nandor Hùr-Hathol\n\nType d'unitÈ: HÈros Unit \n Fort contre les Piquiers and Infantry"
 END
 
 CONTROLBAR:ToolTipBuildNandorBlademasterHorde
@@ -64411,7 +64411,7 @@ CONTROLBAR:PurchaseUpgradeRivendellFortressBanners
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeRivendellFortressBanners
-"Provides additional experience to nearby troops \n Reduces Hero cost by 10% \n Reduces Hero recruit time by 10% \n RÈduction du co˚t of builders by 20% \n \n Only applies to heroes recruited at the Conservatory"
+"Provides additional experience to nearby troops \n Reduces HÈros cost by 10% \n Reduces HÈros recruit time by 10% \n RÈduction du co˚t of builders by 20% \n \n Only applies to heroes recruited at the Conservatory"
 END
 
 CONTROLBAR:PurchaseUpgradeRivendellFortressMoat
@@ -65764,7 +65764,7 @@ END
 
 // ROHAN BITCH
 CONTROLBAR:ToolTipPurchaseUpgradeRohanFortressBanners
-"Modifier Type: Leadership \n Allies near the Fortress gain +33% Damage, +33% Armor, and earn experience 50% faster. \n S'accumule avec les Bonus et les Sorts \n\nReduces Hero cost by 10% \n Reduces Hero recruit time by 10% \n Reduces the cost of builders by 20%"
+"Modifier Type: Leadership \n Allies near the Fortress gain +33% Damage, +33% Armor, and earn experience 50% faster. \n S'accumule avec les Bonus et les Sorts \n\nReduces HÈros cost by 10% \n Reduces HÈros recruit time by 10% \n Reduces the cost of builders by 20%"
 END
 
 CONTROLBAR:PurchaseUpgradeRohanFortressBanners
@@ -66297,7 +66297,7 @@ MAP:MAPNewWorEasternRohan/Desc
 END
 
 MAP:MAPNewWorEavesFangorn/Desc
-"A la fin du TroisiËme Age, Saroumane commenÁa ‡ fortifier l'Isengard. C'Ètait sans compter sur ses Orques qui commencËrent ‡ abuser et harceler la forÍt, ses arbres et les Ents, pour ses fortifications et ses machines de guerre. Pendant la Guerre de l'Anneau, les Ents d'…omer ont attaquÈ et massacrÈ la bande d'Uruk-hai d'Ugl˙k ‡ l'orÈe de Fangorn."
+"A la fin du TroisiËme Age, Saroumane commenÁa ‡ fortifier l'Isengard. C'Ètait sans compter sur ses Orques qui commencËrent ‡ abuser et harceler la forÍt, ses arbres et les Ents, pour ses fortifications et ses machines de guerre. Pendant la Guerre de l'Anneau, les Ents d'…omer ont attaquÈ et massacrÈ la bande d'Uruk-HaÔ d'Ugl˙k ‡ l'orÈe de Fangorn."
 END
 
 MAP:MAPNewWorEdoras/Desc
@@ -66613,7 +66613,7 @@ CONTROLBAR:LW_Hero_Urshak
 END
 
 CONTROLBAR:LW_Hero_GreatGoblin
-"Great Goblin"
+"Grand Gobelin"
 END
 
 CONTROLBAR:LW_Hero_Golfimbul
@@ -66625,71 +66625,71 @@ CONTROLBAR:LW_Hero_Bolg
 END
 
 CONTROLBAR:LW_Hero_Thrain
-"Thr·in the Broken"
+"Thr·in Le BrisÈ"
 END
 
 CONTROLBAR:LW_Unit_GondorLinhirPikeHordePlural
-"Linhir Spearmen Battalions"
+"Bataillons de Lanciers de Linhir"
 END
 
 CONTROLBAR:LW_Unit_GoblinTownFighterHorde
-"Goblin Town Warrior Horde"
+"Horde de Guerrier de Gobelinville"
 END
 
 CONTROLBAR:LW_Unit_GoblinTownFighterHordePlural
-"Goblin Town Warrior Hordes"
+"Des Hordes de Guerrier de Gobelinville"
 END
 
 CONTROLBAR:LW_ToolTipBuild_GoblinTownFighterHorde
-"Type d'unitÈ: Basic Infantry\n Fort contre les Piquiers\n"
+"Type d'unitÈ : Infantrie Basique \n Fort contre les Piquiers"
 END
 
 LWA:RivendellGarrison
-"Rivendell Garrison Army"
+"ArmÈe de Garnison de Fondcombe"
 END
 
 LWA:Rivendell
-"Rivendell"
+"Fondcombe"
 END
 
 LWA:RivendellHeroArmy
-"Rivendell Hero Army"
+"ArmÈe de HÈros de Fondcombe"
 End
 
 BANNERUI:GondorSpearman
-"AnÛrien Spearman"
+"Lancier d'AnÛrien"
 End
 
 BANNERUI:GondorSpearmen
-"AnÛrien Spearmen"
+"Les Lanciers d'AnÛrien"
 End
 
 BANNERUI:GondorDolFighter
-"Dol Amroth Man at Arms"
+"Homme ArmÈ du Dol Amroth"
 END
 
 BANNERUI:GondorDolFighters
-"Dol Amroth Men at Arms"
+"Des Hommes ArmÈs du Dol Amroth"
 END
 
 CONTROLBAR:LW_Unit_GondorDolMAArmsHordePlural
-"Dol Amroth Men at Arms Battalions"
+"Bataillons d'Hommes ArmÈs du Dol Amroth"
 END
 
 CONTROLBAR:LW_ToolTipBuild_GondorKnightsofDolHorde
-"Type d'unitÈ: Hero Cavalry\n Fort contre l'Infantrie\n"
+"Type d'unitÈ : Cavalerie d'HÈros \n Fort contre l'Infantrie"
 END
 
 CONTROLBAR:LW_Unit_GondorFountainGuardHordePlural
-"Fountain Guards Battalions"
+"Bataillons des Gardes de la Fontaine"
 END
 
 BANNERUI:GondorFountainGuard
-"Fountain Guard"
+"Garde de la Fontaine"
 END
 
 BANNERUI:GondorFountainGuards
-"Fountain Guards"
+"Les Gardes de la Fontaine"
 END
 
 CONTROLBAR:LW_Hero_Beregond
@@ -66705,19 +66705,19 @@ CONTROLBAR:LW_Hero_Denethor
 END
 
 CONTROLBAR:LW_ToolTip_Berethor
-"Type d'unitÈ: Hero"
+"Type d'unitÈ: HÈros"
 END
 
 CONTROLBAR:LW_ToolTip_Pippin
-"Type d'unitÈ: Hero"
+"Type d'unitÈ: HÈros"
 END
 
 CONTROLBAR:LW_ToolTip_Beregond
-"Type d'unitÈ: Hero"
+"Type d'unitÈ: HÈros"
 END
 
 CONTROLBAR:LW_ToolTip_GondorDolMAArmsHorde
-"\nType d'unitÈ: Elite Infantry\n Fort contre les Piquiers"
+"Type d'unitÈ : Infantrie d'Elite \n Fort contre les Piquiers"
 END
 
 CONTROLBAR:LW_Hero_Orophin
@@ -66729,103 +66729,103 @@ CONTROLBAR:LW_Hero_Idrial
 END
 
 CONTROLBAR:LW_ToolTip_Orophin
-"Type d'unitÈ: Hero"
+"Type d'unitÈ : HÈros"
 END
 
 BANNERUI:ElvenLorienSentry
-"LÛrien Warden"
+"Gardien du LÛrien"
 END
 
 BANNERUI:ElvenLorienSentries
-"LÛrien Wardens"
+"Les Gardiens du LÛrien"
 END
 
 CONTROLBAR:LW_ToolTip_Galadriel
-"Type d'unitÈ: Hero Army Leader"
+"Type d'unitÈ : Chef-HÈros des ArmÈes"
 END
 
 CONTROLBAR:LW_Unit_CerinAmrothSentinelHordePlural
-"Sentinels of Cerin Amroth Battalions"
+"Bataillons de Sentinelles du Cerin Amroth "
 END
 
 BANNERUI:CerinAmrothSentinel
-"Sentinel of Cerin Amroth"
+"Sentinelle du Cerin Amroth"
 END
 
 BANNERUI:CerinAmrothSentinels
-"Sentinels of Cerin Amroth"
+"Les Sentinelles du Cerin Amroth"
 END
 
 CONTROLBAR:LW_Unit_LorienStalkerHordePlural
-"Sindar Pathstalkers Battalions"
+"Bataillons des Traqueurs du Chemin des Sindar"
 END
 
 BANNERUI:LorienStalker
-"Sindar Pathstalker"
+"Traqueur du Chemin des Sindar"
 END
 
 BANNERUI:LorienStalkers
-"Sindar Pathstalkers"
+"Les Traqueurs du Chemin des Sindar"
 END
 
 CONTROLBAR:LW_Unit_ElvenGaladhrimWarriorHordePlural
-"Marchwardens Battalions"
+"Bataillons de Gardiens de la Marche"
 END
 
 BANNERUI:GaladhrimWarrior
-"Marchwarden"
+"Les Gardiens de la Marche"
 END
 
 BANNERUI:GaladhrimWarriors
-"Marchwardens"
+"Les Gardiens de la Marche"
 END
 
 CONTROLBAR:LW_Unit_NimrodelHordePlural
-"Eclaireurs of Nimrodel Battalions"
+"Bataillons Eclaireurs de Nimrodel"
 END
 
 BANNERUI:NimrodelScout
-"Eclaireur of Nimrodel"
+"Eclaireur de Nimrodel"
 END
 
 BANNERUI:NimrodelScouts
-"Eclaireurs of Nimrodel"
+"Eclaireurs de Nimrodel"
 END
 
 CONTROLBAR:LW_Unit_ElvenAmrothKnightHordePlural
-"Amroth's Knights Battalions"
+"Bataillons de Chevaliers d'Amroth"
 END
 
 BANNERUI:AmrothKnight
-"Amroth's Knight"
+"Les Chevaliers d'Amroth"
 END
 
 BANNERUI:AmrothKnights
-"Amroth's Knights"
+"Les Chevaliers d'Amroth"
 END
 
 CONTROLBAR:LW_Unit_ElvenNandorBlademasterHordePlural
-"Nandor HÓr-Hathol Battalions"
+"Bataillons du Nandor d'HÓr-Hathol"
 END
 
 BANNERUI:NandorBlademaster
-"Nandor HÓr-Hathol"
+"Nandor d'HÓr-Hathol"
 END
 
 CONTROLBAR:LW_ToolTip_Kili
-"Type d'unitÈ: Hero"
+"Type d'unitÈ : HÈros"
 END
 
 CONTROLBAR:LW_ToolTip_Fili
-"Type d'unitÈ: Hero"
+"Type d'unitÈ : HÈros"
 END
 
 CONTROLBAR:LW_ToolTip_Roac
-"Type d'unitÈ: Hero"
+"Type d'unitÈ : HÈros"
 END
 
 CONTROLBAR:LW_ToolTip_Dwalin
-"Type d'unitÈ: Hero"
+"Type d'unitÈ : HÈros"
 END
 
 CONTROLBAR:LW_Hero_Roac
@@ -66845,7 +66845,7 @@ CONTROLBAR:LW_Hero_Dwalin
 END
 
 CONTROLBAR:LW_Hero_Thorin
-"Thorin Oakenshield"
+"Thorin Ecu-de-ChÍne"
 END
 
 CONTROLBAR:LW_Hero_Balin
@@ -66853,7 +66853,7 @@ CONTROLBAR:LW_Hero_Balin
 END
 
 CONTROLBAR:LW_Unit_EreborArcherHordePlural
-"Erebor Archers Battalions"
+"Bataillons d'Archers d'Erebor"
 END
 
 CONTROLBAR:LW_Hero_Wulfgar
@@ -66865,27 +66865,27 @@ CONTROLBAR:LW_Hero_Ugluk
 END
 
 CONTROLBAR:LW_Unit_IsengardScoutHordePlural
-"Uruk-hai Eclaireurs Hordes"
+"Hordes d'Eclaireurs d'Uruk-HaÔ"
 END
 
 BANNERUI:IsengardScout
-"Uruk Eclaireur"
+"Eclaireur d'Uruk-HaÔ"
 End
 
 BANNERUI:IsengardScouts
-"Uruk-hai Eclaireurs"
+"Eclaireurs d'Uruk-HaÔ"
 END
 
 CONTROLBAR:LW_Unit_IsengardWildmenSpearHordePlural
-"Wildmen Spearmen Hordes"
+"Hordes de Lanciers des Hommes sauvages"
 END
 
 BANNERUI:IsengardWildmanSpear
-"Wildmen Spearman"
+"Lancier d'Homme sauvages"
 END
 
 BANNERUI:IsengardWildmenSpear
-"Wildmen Spearmen"
+"Lanciers des Hommes sauvages"
 END
 
 CONTROLBAR:LW_Unit_IsengardDunlandArcherHordePlural
@@ -69035,11 +69035,11 @@ CONTROLBAR:TooltipPurchaseUpgradeArnorFireArrowsBattleTower
 END
 
 CONTROLBAR:SpecialAbilityIsengardFocusInfantry
-"Focus: Combattant &Uruk-hai"
+"Focus: Combattant &Uruk-HaÔ"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityIsengardFocusInfantry
-"SÈlectionner pour Activer \n Donne des Bonus aux combattants Uruk-hai et aux Piquiers Uruk-hai \n +30% de DÈg‚ts, +70% d'ExpÈrience \n RÈduit le prix de 20%"
+"SÈlectionner pour Activer \n Donne des Bonus aux combattants Uruk-HaÔ et aux Piquiers Uruk-HaÔ \n +30% de DÈg‚ts, +70% d'ExpÈrience \n RÈduit le prix de 20%"
 END
 
 CONTROLBAR:SpecialAbilityIsengardFocusDunland
@@ -69055,7 +69055,7 @@ CONTROLBAR:SpecialAbilityIsengardFocusArcher
 END
 
 CONTROLBAR:ToolTipSpecialAbilityIsengardFocusArcher
-"Donne des Bonus aux Eclaireurs Uruk-hai et aux ArbalÈtriers \n +20% de DÈg‚ts, +80% d'ExpÈrience \n RÈduit le prix de 20% \n SÈlectionner pour Activer"
+"Donne des Bonus aux Eclaireurs Uruk-HaÔ et aux ArbalÈtriers \n +20% de DÈg‚ts, +80% d'ExpÈrience \n RÈduit le prix de 20% \n SÈlectionner pour Activer"
 END
 
 CONTROLBAR:SpecialAbilityIsengardFocusWarg
@@ -71278,7 +71278,7 @@ CONTROLBAR:UrukScoutHuntingArrows
 END
 
 CONTROLBAR:ToolTipUrukScoutHuntingArrows
-"Requiert Lurtz et le niveau 4 \n Eclaireur Uruk-hai relentit temporairement les cibles de 33% \n Clic gauche pour activer"
+"Requiert Lurtz et le niveau 4 \n Eclaireur Uruk-HaÔ relentit temporairement les cibles de 33% \n Clic gauche pour activer"
 END
 
 //------------ Galion ---------------
