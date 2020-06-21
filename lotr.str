@@ -55069,7 +55069,7 @@ END
 CONTROLBAR:ToolTipWhiteWinter
 //"Temporarily covers the map in rain \n All enemy units lose their leadership bonuses \n Clic gauche pour activer"
 //"Temporarily covers the map in rain\nReduces enemy armor and damage\nNullifies enemy Leadership\nClic gauche pour activer"
-"Temporarily blankets the map in a raging snowstorm\n Cancels Western Winds, Freezing Rain, Ere the Sun Rises, Blessing of Ulmo, Blessing of Manwë, Durin's Day, White Winter or Darkness \n Modifier Type: Active Debuff \n Enemy units suffer -25% Damage, -20% Armor, and -30% Vision Range \nNullifies enemy Leadership \n Does not stack with other Debuffs \n Clic gauche pour activer"
+"Temporarily blankets the map in a raging snowstorm\n Annule les Vents Occidentaux, Pluie Verglaçante, Avant que le Soleil ne se Lève, Bénédiction d'Ulmo, Blessing of Manwë, Le Jour de Durin, Hiver Blanc ou Sombre \n Modifier Type: Active Debuff \n Enemy units suffer -25% Damage, -20% Armor, and -30% Vision Range \nNullifies enemy Leadership \n Does not stack with other Debuffs \n Clic gauche pour activer"
 END
 
 CONTROLBAR:ToolTipFreezingRain
@@ -58771,17 +58771,17 @@ CONTROLBAR:ToolTipCloudBreak
 //"Annule Pluie glacée et Ombre.\n Etourdit les unités ennemies.\n\nClic gauche pour activer"
 //"Annule Pluie glacée et Ombre.\n Etourdit les unités ennemies.\n\nClic gauche pour activer"
 //"Le soleil perce le ciel et illumine le champ de bataille de sa clarté resplendissante. Annule Pluie glacée et Linceul d'Ombre.\nEtourdit les ennemis et soigne lentement les alliés sur la carte.\n\nClic gauche pour activer"
-"Cancels Western Winds, Freezing Rain, Ere the Sun Rises, Blessing of Ulmo, Blessing of Manw, Durin's Day, White Winter or Darkness\nStuns enemy units\n Slowly heals allied units across the map \n Clic gauche pour activer"
+"Annule les Vents Occidentaux, Pluie Verglaçante, Avant que le Soleil ne se Lève, Bénédiction d'Ulmo, Bénédiction de Manwë, Le Jour de Durin, Hiver Blanc ou Sombre \n Etourdit les unités ennemies \n Soigne lentement les unités alliées sur la carte \n Clic gauche pour activer"
 END
 
 CONTROLBAR:TooltipCampaignCloudBreak
-"Etourdit les unités ennemis\n Soigne lentement les unités alliées à travers la carte \n Clic gauche pour activer"
+"Etourdit les unités ennemis \n Soigne lentement les unités alliées à travers la carte \n Clic gauche pour activer"
 END
 
 CONTROLBAR:ToolTipCloudBreakGondor
 //"Annule pluie glacée ou Ténébres \n Etourdit les unités ennemies \n Clic gauche pour activer"
 //"Annule pluie glacée ou Ténébres \n Etourdit les unités ennemies\n Clic gauche pour activer"
-"Cancels Western Winds, Freezing Rain, Ere the Sun Rises, Blessing of Ulmo, Blessing of Manw, Durin's Day, White Winter or Darkness\nStuns enemy units\n Grants +33% speed bonus to allied units across the map \n Clic gauche pour activer"
+"Annule les Vents Occidentaux, Pluie Verglaçante, Avant que le Soleil ne se Lève, Bénédiction d'Ulmo, Bénédiction de Manwë, Le Jour de Durin, Hiver Blanc ou Sombre \n Etourdit les unités ennemies \n Octroie +33% de bonus de vitesse aux unités alliées sur la carte \n Clic gauche pour activer"
 END
 
 CONTROLBAR:SpecialAbilityHumanHeads
@@ -62247,12 +62247,11 @@ END
 //---------------------------------------------------------------------------
 
 CONTROLBAR:RallyingCallElves
-//"Horn of the Nandor"
 "Cor des Nandor"
 END
 
 CONTROLBAR:TooltipRallyingCallElves
-"Type d'Action : Bonus\nLe son des cors de la Lórien exalte les troupes : les alliés ciblés gagnent +50% dégâts et +50% armure (bonus cumulable).\n\nClic gauche sur l'icône puis clic gauche sur la cible"
+"Type d'Action : Bonus \n Le son des cors de la Lórien exalte les troupes : les alliés ciblés gagnent +50% dégâts et +50% armure (bonus cumulable). \n\n Clic gauche sur l'icône puis clic gauche sur la cible"
 END
 
 CONTROLBAR:ArrowVolleyLorien
@@ -62260,31 +62259,31 @@ CONTROLBAR:ArrowVolleyLorien
 END
 
 CONTROLBAR:TooltipArrowVolleyLorien
-"Des archers en embuscade font tomber une pluie de flèches sur une zone n'importe où sur la carte..\n\n Clic gauche sur l'icône puis clic gauche sur la zone cible"
+"Des archers en embuscade font tomber une pluie de flèches sur une zone n'importe où sur la carte. \n\n Clic gauche sur l'icône puis clic gauche sur la zone cible"
 END
 
 CONTROLBAR:LorienTrap
-"Défenseurs de la Lórien"
+"Les Défenseurs de la Lórien"
 End
 
 CONTROLBAR:ToolTipLorienTrap
-"Les gardes forestiers interdisent à quiconque l'accès à leur domaine : immobilise toutes les unités enemies dans une petite zone pendant une courte durée.\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
+"Les gardes forestiers interdisent à quiconque l'accès à leur domaine : immobilise toutes les unités enemies dans une petite zone pendant une courte durée. \n\n Clic gauche sur l'icône puis clic gauche sur la zone cible"
 END
 
 CONTROLBAR:AmrothKnights
-"Chevaliers d'Amroth"
+"Les Chevaliers d'Amroth"
 End
 
 CONTROLBAR:ToolTipAmrothKnights
-"Permet de recruter les formidables Chevaliers d'Amroth dans les Pâturages du Bois Doré.\n\nCapacité passive"
+"Permet de recruter les formidables Chevaliers d'Amroth dans les Pâturages du Bois Doré.\n\n Capacité passive"
 END
 
 CONTROLBAR:SilvanAllies
-"Gardes de la Forêt Noire"
+"Les Gardes de la Forêt Noire"
 End
 
 CONTROLBAR:TooltipSilvanAllies
-"Invoque temporairement trois groupes alliés d'Archers de la Forêt Noire. Ce sont des chasseurs hors pair du royaume elfique du roi Thranduil, particulièrement habiles dans les forêts.\n\nClic gauche sur l'icône puis clic gauche sur une zone praticable"
+"Invoque temporairement trois groupes alliés d'Archers de la Forêt Noire. Ce sont des chasseurs hors pair du royaume elfique du roi Thranduil, particulièrement habiles dans les forêts.\n\n Clic gauche sur l'icône puis clic gauche sur une zone praticable"
 END
 
 CONTROLBAR:ElvenWoodLorien
@@ -62292,27 +62291,27 @@ CONTROLBAR:ElvenWoodLorien
 END
 
 CONTROLBAR:ToolTipElvenWoodLorien
-"Type d'Action : Bonus\nFait pousser de façon effrénée un bosquet d'Arbres d'Or : tous les alliés gagnent +50% dégâts, +50% armure et sont immunisés à la peur et à la terreur (bonus cumulable).\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
+"Type d'Action : Bonus \n Fait pousser de façon effrénée un bosquet d'Arbres d'Or : tous les alliés gagnent +50% dégâts, +50% armure et sont immunisés à la peur et à la terreur (bonus cumulable).\n\nClic gauche sur l'icône puis clic gauche sur une zone ciblé"
 END
 
 CONTROLBAR:IthilienGarden
-"Garden of Ithilien"
+"Le Jardin d'Ithilien"
 END
 
 CONTROLBAR:TooltipIthilienGarden
-"Summons a lush garden onto the battlefield \n Modifier Type: Buff \n All allied units become stealthed \n Enemy units lose all leadership \n The Garden is inhabited by a number of Ithilien Rôdeurs \n Clic gauche sélectionner Clic gauche sur cible area"
+"Invoque un Jardin Luxuriant sur le champ de bataille \n Modifier Type: Bonus \n Tous les alliés deviennent furtives \n Les unités ennemies perdent leur Charisme \n Le Jardin est habité par un certain nombre de Rôdeurs d'Ithilien \n Clic gauche sélectionner Clic gauche sur une zone ciblé"
 END
 
 CONTROLBAR:SummonRadagast
-"Radagast le Brun"
+"Radagast Le Brun"
 END
 
 CONTROLBAR:SummonCampaignRadagast
-"The Brown Wizard"
+"Le Magicien Brun"
 END
 
 CONTROLBAR:TooltipSummonRadagast
-"Invoque le mage Radagast, l'Ami des Bêtes et des Plantes, à vos côtés. Membre du Conseil des Magiciens, c'est un subtil personnage dont la véritable sagesse est dissimulée derrière son apparence et ses manières excentriques.\n\nClic gauche sur l'icône puis clic gauche sur une zone praticable"
+"Invoque Le Mage Radagast, l'Ami des Bêtes et des Plantes, à vos côtés. Membre du Conseil des Magiciens, c'est un subtil personnage dont la véritable sagesse est dissimulée derrière son apparence et ses manières excentriques. \n\n Clic gauche sur l'icône puis clic gauche sur une zone praticable"
 
 END
 
@@ -62321,7 +62320,7 @@ CONTROLBAR:SummonEagleAlliesLorien
 End
 
 CONTROLBAR:ToolTipSummonEagleAlliesLorien
-"Invoque deux Aigles géants. Ce sont des créatures distantes qui préfèrent généralement se tenir à l'écart des affaires du monde, mais lorsque le péril est grand, ils apportent leur aide à ceux qui le demandent.\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
+"Invoque deux Aigles géants. Ce sont des créatures distantes qui préfèrent généralement se tenir à l'écart des affaires du monde, mais lorsque le péril est grand, ils apportent leur aide à ceux qui le demandent. \n\n Clic gauche sur l'icône puis clic gauche sur la zone cible"
 
 END
 
@@ -62330,10 +62329,10 @@ CONTROLBAR:CloudBreakLorien
 End
 
 CONTROLBAR:ToolTipCloudBreakLorien
-//"Cancels Freezing Rain or Darkness \n Stuns enemy units \n\nClic gauche pour activer"
-//"Cancels Freezing Rain or Darkness\nStuns enemy units\n\nClic gauche pour activer"
+//"Cancels Pluie Verglaçante or Darkness \n Stuns enemy units \n\nClic gauche pour activer"
+//"Cancels Pluie Verglaçante or Darkness \n Etourdit les unités ennemies \n\nClic gauche pour activer"
 //"Le soleil perce le ciel et illumine le champ de bataille de sa clarté resplendissante. Annule Pluie glacée et Linceul d'Ombre.\nEtourdit les ennemis et soigne lentement les alliés sur la carte.\n\nClic gauche pour activer"
-"Cancels Western Winds, Freezing Rain, Ere the Sun Rises, Blessing of Ulmo, Blessing of Manw, Durin's Day, White Winter or Darkness\nStuns enemy units\n Slowly heals allied units across the map \n Clic gauche pour activer"
+"Annules, les Vents Occidentaux, la Pluie Verglaçante, Avant que le Soleil ne se lève, Bénédiction d'Ulmo, Bénédiction de Manwë, Le Jour de Durin, Hiver Blanc ou Sombre \n Etourdit les unités ennemies \n Soigne lentement les unités alliées sur la carte \n Clic gauche pour activer"
 END
 
 CONTROLBAR:CastDown
@@ -62349,7 +62348,7 @@ CONTROLBAR:EnshroudingMistLorien
 END
 
 CONTROLBAR:TooltipEnshroudingMistLorien
-"Type d'Action : Pénalité active\n Les unités alliées dans la brume deviennent furtives, tandis que les unités ennemies subissent des dégâts dans le temps, subissent -25% dégâts, -50% vitesse, -20% armure et leurs bonus de charisme sont annulés (Pénalité non cumulable).\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
+"Type d'Action : Pénalité active \n Les unités alliées dans la brume deviennent furtives, tandis que les unités ennemies subissent des dégâts dans le temps, subissent -25% dégâts, -50% vitesse, -20% armure et leurs bonus de charisme sont annulés (Pénalité non cumulable). \n\n Clic gauche sur l'icône puis clic gauche sur la zone cible"
 END
 
 CONTROLBAR:ElvenWoodAdamant
@@ -62357,7 +62356,7 @@ CONTROLBAR:ElvenWoodAdamant
 End
 
 CONTROLBAR:ToolTipElvenWoodAdamant
-"Type d'Action : Sort\nLe pouvoir de l'Anneau elfique Nenya crée une zone de terrain ensorcelée : toutes les unités alliées sont soignées lentement, gagnent +300% armure et sont immunisées à la peur et à la terreur.\nToutes les structures gagnent +100% armure et sont réparées dans le temps (bonus cumulable).\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
+"Type d'Action : Sort \n Le pouvoir de l'Anneau elfique Nenya crée une zone de terrain ensorcelée : toutes les unités alliées sont soignées lentement, gagnent +300% armure et sont immunisées à la peur et à la terreur. \n Toutes les structures gagnent +100% armure et sont réparées dans le temps (bonus cumulable).\n\n Clic gauche sur l'icône puis clic gauche sur la zone cible"
 END
 
 //------------ Amroth Knights ---------------
@@ -62367,27 +62366,27 @@ OBJECT:ElvenAmrothKnight
 END
 
 OBJECT:HordeElvenAmrothKnight
-"Chevaliers d'Amroth"
+"Les Chevaliers d'Amroth"
 END
 
 CONTROLBAR:ConstructElvenAmrothKnightHorde
-"Chevaliers d'Amroth Amdirion"
+"Les Chevaliers d'Amroth Amdirion"
 END
 
 CONTROLBAR:LW_Unit_ElvenAmrothKnightHorde
-"Chevaliers d'Amroth"
+"Les Chevaliers d'Amroth"
 END
 
 CONTROLBAR:LW_ToolTip_ElvenAmrothKnightHorde
-"\nType d'unité : cavalerie d'élite\nForts contre les archers"
+"Type d'unité : cavalerie d'élite \n Fort contre les archers"
 END
 
 CONTROLBAR:ToolTipBuildElvenAmrothKnightHorde
-"Requiert : Chevaliers d'Amroth\nDe tous les cavaliers elfiques, ce sont les Chevaliers d'Amroth qui incarnent le mieux la grâce martiale et la valeur auxquelles chaque jeune Elfe aspire. Leurs cavaliers sont recrutés parmi les familles de sang noble, et rares sont les aristocrates qui s'exposent au déshonneur en refusant d'accomplir leur devoir.\nBien que leur roi ait disparu depuis longtemps, ces nobles Sindarin continuent à tenir leurs serments et à se battre pour défendre la Lórien en tant que garde de la maison d'Amroth.\n\nCavalerie d'élite, forts contre les archers."
+"Requiert : Chevaliers d'Amroth \n De tous les cavaliers elfiques, ce sont les Chevaliers d'Amroth qui incarnent le mieux la grâce martiale et la valeur auxquelles chaque jeune Elfe aspire. Leurs cavaliers sont recrutés parmi les familles de sang noble, et rares sont les aristocrates qui s'exposent au déshonneur en refusant d'accomplir leur devoir. \n Bien que leur roi ait disparu depuis longtemps, ces nobles Sindarin continuent à tenir leurs serments et à se battre pour défendre la Lórien en tant que garde de la maison d'Amroth. \n\n Cavalerie d'élite, Fort contre les archers."
 END
 
 CONTROLBAR:LW_ToolTipBuild_ElvenAmrothKnightHorde
-"Type d'unité : cavalerie d'élite\nForts contre les archers"
+"Type d'unité : Cavalerie d'élite \n Fort contre les archers"
 END
 
 //------------- Amroth Knight shield upgrade (is an overwrite to the Angmar spiked collars since they are abandoned) -------------------
@@ -62441,11 +62440,11 @@ CONTROLBAR:LW_Unit_ElvenNandorBlademasterHorde
 END
 
 CONTROLBAR:LW_ToolTip_ElvenNandorBlademasterHorde
-"\nType d'unité : unité héroïque\nForts contre les piquiers et l'infanterie"
+"Type d'unité : Unité Héroïque \n Forts contre les piquiers et l'infanterie"
 END
 
 CONTROLBAR:LW_ToolTip_ElvenNandorBlademasterHorde_WOTR
-"12 Nandor Hr-Hathol\n\nType d'unité: Héros Unit \n Fort contre les Piquiers and Infantry"
+"12 Nandor Hîr-Hathol\n\nType d'unité: Héros Unit \n Fort contre les Piquiers and Infantry"
 END
 
 CONTROLBAR:ToolTipBuildNandorBlademasterHorde
@@ -63129,7 +63128,7 @@ End
 
 CONTROLBAR:ToolTipBlessingofUlmo
 //"Temporarily covers the map in rain \n Type d'Action : Pénalité active \n Enemy units suffer -25% dégâts and -20% armure\nNullifies enemy Leadership \n (Bonus non cumulable)\n\nClic gauche pour activer"
-"Temporarily covers the map in rain\n Cancels Western Winds, Freezing Rain, Ere the Sun Rises, Blessing of Ulmo, Blessing of Manw, Durin's Day, White Winter or Darkness\n All friendly units gain immunity to fear and terror and are slowly healed\n Orchards generate +30% more resources and gain +25% Armor\n Benefits all Rivendell allies \n\n Clic gauche pour activer"
+"Temporarily covers the map in rain \n Annule les Vents Occidentaux, Pluie Verglaçante, Avant que le Soleil ne se Lève, Bénédiction d'Ulmo, Bénédiction de Manwë, Le Jour de Durin, Hiver Blanc ou Sombre \n All friendly units gain immunity to fear and terror and are slowly healed \n Orchards generate +30% more resources and gain +25% Armor\n Benefits all Rivendell allies \n\n Clic gauche pour activer"
 END
 
 CONTROLBAR:Relics
@@ -63795,10 +63794,10 @@ CONTROLBAR:CloudBreakErebor
 End
 
 CONTROLBAR:ToolTipCloudBreakErebor
-//"Cancels Freezing Rain or Darkness \n Stuns enemy units \n\nClic gauche pour activer"
-//"Cancels Freezing Rain or Darkness\nStuns enemy units\n\nClic gauche pour activer"
+//"Cancels Pluie Verglaçante or Darkness \n Stuns enemy units \n\nClic gauche pour activer"
+//"Cancels Pluie Verglaçante or Darkness \n Etourdit les unités ennemies \n\nClic gauche pour activer"
 //"Lorsque la dernière lune d'automne et le premier soleil d'hiver sont visibles dans le ciel, la nouvelle année pour les Nains commence : annule Pluie Glacée ou Linceul d'Ombre et étourdit les unités ennemies.\nSoigne lentement les unités alliées sur toute la carte.\n\nClic gauche pour activer"
-"Cancels Western Winds, Freezing Rain, Ere the Sun Rises, Blessing of Ulmo, Blessing of Manw, Durin's Day, White Winter or Darkness\nStuns enemy units\n Slowly heals allied units across the map \n Clic gauche pour activer"
+"Annule les Vents Occidentaux, Pluie Verglaçante, Avant que le Soleil ne se Lève, Bénédiction d'Ulmo, Bénédiction de Manwë, Le Jour de Durin, Hiver Blanc ou Sombre \n Etourdit les unités ennemies \n Soigne lentement les unités alliées sur la carte \n Clic gauche pour activer"
 END
 
 CONTROLBAR:Twirlys
@@ -68251,7 +68250,7 @@ CONTROLBAR:ConstructRohanHelmingasWardenHorde
 END
 
 CONTROLBAR:ToolTipBuildRohanHelmingasWardenHorde
-"Requiert : Niveau 3 Casernes \n et les Cornes de Mainmarteau amélioré \n Unité Héros. Limité à 1. \n Fort contre Infantrie et Structures \n Capable de basculer entre monté et à pied \n \n Le Gouffre de Helm abritait une garnison de guerriers vétérans. Gardant vivante l'image des prouesses martiales d'Helm Mainmarteau, ils ont gardé le principal refuge du Rohan ouvert et protégé contre les attaques surprise."
+"Requiert : Niveau 3 Casernes \n et les Cornes de Mainmarteau amélioré \n Unité Héroique. Limité à 1. \n Fort contre Infantrie et Structures \n Capable de basculer entre monté et à pied \n \n Le Gouffre de Helm abritait une garnison de guerriers vétérans. Gardant vivante l'image des prouesses martiales d'Helm Mainmarteau, ils ont gardé le principal refuge du Rohan ouvert et protégé contre les attaques surprise."
 END
 
 OBJECT:HordeRohanHelmingasWarden
