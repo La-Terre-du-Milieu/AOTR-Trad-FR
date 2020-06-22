@@ -106,27 +106,27 @@ Color:Red
 END
 
 Color:MordorRed
-"Mordor Red"
+"Rouge Mordor"
 END
 
 Color:Blue
-"Blue"
+"Bleu"
 END
 
 Color:GondorBlue
-"Gondor Blue"
+"Bleu Gondor"
 END
 
 Color:Green
-"Green"
+"Vert"
 END
 
 Color:RohanGreen
-"Elven Green"
+"Vert Rohan"
 END
 
 Color:Black
-"Sauron Black"
+"Noir Sauron"
 END
 
 Color:Orange
@@ -138,11 +138,11 @@ Color:SkyBlue
 END
 
 Color:Purple
-"Purple"
+"Violet"
 END
 
 Color:Pink
-"Fairy Pink"
+"Rose FÈerique"
 END
 
 // context: Team names. They are used in a drop list where the player can select his team for a multiplayer game
@@ -191,15 +191,15 @@ GUI:Age
 END
 
 GUI:Month
-"Month (MM)"
+"Mois (MM)"
 END
 
 GUI:Day
-"Day (DD)"
+"Jour (DD)"
 END
 
 GUI:Year
-"Year (YYYY)"
+"AnnÈe (YYYY)"
 END
 
 GUI:RandomSide
@@ -11179,7 +11179,7 @@ SCRIPT:MBTutorial_MissionText65
 End
 
 SCRIPT:MBTutorial_MissionText66
-"We'll need a HÈros to lead our troops. Heroes can be purchased from the fortress. If your Heroes should fall in battle, they can be revived from the fortress as well."
+"We'll need a HÈros to lead our troupes. Heroes can be purchased from the fortress. If your Heroes should fall in battle, they can be revived from the fortress as well."
 End
 
 SCRIPT:MBTutorial_MissionText67
@@ -11330,7 +11330,7 @@ SCRIPT:MATutorial_MissionText16
 End
 
 SCRIPT:MATutorial_MissionText17
-"The transport will ferry your troops across large bodies of water."
+"The transport will ferry your troupes across large bodies of water."
 End
 
 SCRIPT:MATutorial_MissionText18
@@ -15082,16 +15082,16 @@ CONTROLBAR:ToolTipRohanFarm
 "Produit de la nourriture comme ressource.\n Creates Paysans\n RÈduit le co˚t de la cavalerie"
 END
 CONTROLBAR:ToolTipRohanStatue
-"Leadership bonus to nearby troops\n Price of Heroes is reduced\n +50% armure, +200% Combat Experience"
+"Leadership bonus to nearby troupes\n Price of Heroes is reduced\n +50% armure, +200% Combat Experience"
 END
 CONTROLBAR:ToolTipRohanGoldenHall
 "Structure dÈfensive. Revives fallen Heroes"
 END
 CONTROLBAR:DescriptionRohanFlagTower
-"Grants a bonus to nearby troops\n +50% armure +125% dÈg‚ts"
+"Grants a bonus to nearby troupes\n +50% armure +125% dÈg‚ts"
 END
 OBJECT:RohanFlagTowerDescription
-"Grants a bonus to nearby troops\n +50% armure +125% dÈg‚ts"
+"Grants a bonus to nearby troupes\n +50% armure +125% dÈg‚ts"
 END
 
 // Mordor Buildings
@@ -17671,7 +17671,7 @@ CONTROLBAR:ToolTipFaramirSummonLeadership
 END
 
 CONTROLBAR:ToolTipCampaignFaramirSummonLeadership
-"Requiert : niveau 3 \n Faramir appelle un groupe de RÙdeurs pour dÈfendre l'endroit visÈ. Ils sont immobiles, mais restent discrets et attaquent tout ennemi qui s'approche. \n Clic gauche sur l'icone puis clic gauche sur l'emplacement visÈ \n\n Modifier Type: Leadership \n Les alliÈs proches de Faramir gagnent +33% de dÈg‚ts, +33% d'armure, et gagnent de l'expÈrience 50% plus rapidement \n (bonus cumulable) \n CapacitÈ passive"
+"Requiert : niveau 3 \n Faramir appelle un groupe de RÙdeurs pour dÈfendre l'endroit visÈ. Ils sont immobiles, mais restent discrets et attaquent tout ennemi qui s'approche. \n Clic gauche sur l'icone puis clic gauche sur l'emplacement visÈ \n\n Type d'Action : Charisme \n Les alliÈs proches de Faramir gagnent +33% de dÈg‚ts, +33% d'armure, et gagnent de l'expÈrience 50% plus rapidement \n (bonus cumulable) \n CapacitÈ passive"
 END
 
 CONTROLBAR:FaramirAmbushAbility
@@ -17711,7 +17711,7 @@ CONTROLBAR:DamrodWarSpeech
 END
 
 CONTROLBAR:ToolTipDamrodWarSpeech
-"Requiert : niveau 10\n Nearby troops gain leadership bonus.\n\n CapacitÈ passive"
+"Requiert : niveau 10\n Nearby troupes gain leadership bonus.\n\n CapacitÈ passive"
 END
 
 CONTROLBAR:DamrodKnightRanger
@@ -22234,7 +22234,7 @@ WOTRTutorial:BuildBarracksCairAndros
 End
 
 WOTRTutorial:TrainTroopsCairAndros
-"Select the barracks in Cair Andros and train a battalion of troops."
+"Select the barracks in Cair Andros and train a battalion of troupes."
 End
 
 WOTRTutorial:InspectArmyCairAndros
@@ -22306,7 +22306,7 @@ WOTRTutorial:LW_InstructionText12
 End
 
 WOTRTutorial:LW_InstructionText13
-"Command points represent the number of troops you are allowed to train. You can not build more troops than you have command points. Your world command point limit indicates the current population of your empire that inhabits the whole of Middle-earth."
+"Command points represent the number of troupes you are allowed to train. You can not build more troupes than you have command points. Your world command point limit indicates the current population of your empire that inhabits the whole of Middle-earth."
 End
 
 WOTRTutorial:LW_InstructionText14
@@ -22322,7 +22322,7 @@ WOTRTutorial:LW_InstructionText16
 End
 
 WOTRTutorial:LW_InstructionText17
-"All battalions cost a number of turns to train and only one set of troops per barracks can be in training at a time."
+"All battalions cost a number of turns to train and only one set of troupes per barracks can be in training at a time."
 End
 
 WOTRTutorial:LW_InstructionText18
@@ -22350,7 +22350,7 @@ WOTRTutorial:LW_InstructionText23
 End
 
 WOTRTutorial:LW_InstructionText24
-"A ArmÈe de hÈros is a group of battalions that are commanded by a special HÈros that has the ability to lead troops into battle."
+"A ArmÈe de hÈros is a group of battalions that are commanded by a special HÈros that has the ability to lead troupes into battle."
 End
 
 WOTRTutorial:LW_InstructionText25
@@ -22443,7 +22443,7 @@ WOTRSCRIPT:WOTR_Tutorial040subtitle
 END
 
 WOTRSCRIPT:WOTR_Tutorial042subtitle
-"Command points represent the number of troops you are allowed to train. You can not build more troops than you have command points."
+"Command points represent the number of troupes you are allowed to train. You can not build more troupes than you have command points."
 END
 
 WOTRSCRIPT:WOTR_Tutorial043subtitle
@@ -22455,7 +22455,7 @@ WOTRSCRIPT:WOTR_Tutorial046subtitle
 END
 
 WOTRSCRIPT:WOTR_Tutorial048subtitle
-"Select the barracks in Cair Andros and train a battalion of troops."
+"Select the barracks in Cair Andros and train a battalion of troupes."
 END
 
 WOTRSCRIPT:WOTR_Tutorial051subtitle
@@ -22495,7 +22495,7 @@ WOTRSCRIPT:WOTR_Tutorial069subtitle
 END
 
 WOTRSCRIPT:WOTR_Tutorial071subtitle
-"A ArmÈe de hÈros is a group of battalions that are commanded by a special HÈros that has the ability to lead troops into battle. They can not only move between territories that you control, but are also used to expand the lands of your kingdom by conquering neutral territories and invading enemy territories."
+"A ArmÈe de hÈros is a group of battalions that are commanded by a special HÈros that has the ability to lead troupes into battle. They can not only move between territories that you control, but are also used to expand the lands of your kingdom by conquering neutral territories and invading enemy territories."
 END
 
 WOTRSCRIPT:WOTR_Tutorial075subtitle
@@ -24967,7 +24967,7 @@ OBJECT:HordeMordorEasterlingEasterlingCombo
 END
 
 OBJECT:HordeMordorEasterlingEasterlingCombo3
-"Easterling Phalanx - Easterling Swordsmen"
+"Easterling Phalange - Easterling Swordsmen"
 END
 
 OBJECT:HordeMordorEasterlingEasterlingCombo2
@@ -27789,7 +27789,7 @@ CONTROLBAR:ToolTipPurchaseUpgradeDwarvenFortressMightyCatapult
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeDwarvenFortressMightyCatapult_WOTR
-"Grants heavy armor to Dwarf heroes \nEnables the recruitment of Iron Hills troops \n and Ered Luin troops"
+"Grants heavy armor to Dwarf heroes \nEnables the recruitment of Iron Hills troupes \n and Ered Luin troupes"
 END
 
 CONTROLBAR:PurchaseUpgradeDwarvenFortressOilCasks
@@ -32627,7 +32627,7 @@ CONTROLBAR:StonehelmLeadership
 End
 
 CONTROLBAR:ToolTipStonehelmLeadership
-"Modifier Type: Leadership \n Allies near Thorin III Heaume de Pierre gain +33% Damage, +33% Armor, and earn experience 50% faster \n S'accumule avec les Bonus et les Sorts \n CapacitÈ passive"
+"Type d'Action : Charisme \n Allies near Thorin III Heaume de Pierre gain +33% Damage, +33% Armor, and earn experience 50% faster \n S'accumule avec les Bonus et les Sorts \n CapacitÈ passive"
 END
 
 CONTROLBAR:DominateTroll
@@ -36416,7 +36416,7 @@ DIALOGEVENT:MGRiven_OffE002subtitle
 END
 
 DIALOGEVENT:MGRiven_OffE003subtitle
-"*We may need the troops to leave the tower that they garrisoned."
+"*We may need the troupes to leave the tower that they garrisoned."
 END
 
 DIALOGEVENT:MGRiven_OffE004subtitle
@@ -36444,11 +36444,11 @@ DIALOGEVENT:MGRiven_OffE009subtitle
 END
 
 DIALOGEVENT:MGRiven_OffE010subtitle
-"*We can equip our troops with new upgrades."
+"*We can equip our troupes with new upgrades."
 END
 
 DIALOGEVENT:MGRiven_OffE011subtitle
-"*We can equip our troops with upgrades purchased at the Forge."
+"*We can equip our troupes with upgrades purchased at the Forge."
 END
 
 DIALOGEVENT:MGRiven_Elf1004subtitle
@@ -36776,7 +36776,7 @@ DIALOGEVENT:MGBlueM_OffD015subtitle
 END
 
 DIALOGEVENT:MGBlueM_OffD016subtitle
-"*Our troops may need a good morale boost. Use the Rallying Call!"
+"*Our troupes may need a good morale boost. Use the Rallying Call!"
 END
 
 DIALOGEVENT:MGBlueM_Dwar006subtitle
@@ -39116,7 +39116,7 @@ DIALOGEVENT:MGErebo_OffD014subtitle
 END
 
 DIALOGEVENT:MGErebo_OffD015subtitle
-"*We can train our troops here."
+"*We can train our troupes here."
 END
 
 DIALOGEVENT:MGErebo_OffD016subtitle
@@ -39128,7 +39128,7 @@ DIALOGEVENT:MGErebo_OffD017subtitle
 END
 
 DIALOGEVENT:MGErebo_OffD018subtitle
-"*We will need to send troops to Dale."
+"*We will need to send troupes to Dale."
 END
 
 DIALOGEVENT:MGErebo_OffD019subtitle
@@ -39172,7 +39172,7 @@ DIALOGEVENT:MGErebo_OffD028subtitle
 END
 
 DIALOGEVENT:MGErebo_OffD029subtitle
-"*We can use the buildings inside Erebor to train up more troops."
+"*We can use the buildings inside Erebor to train up more troupes."
 END
 
 DIALOGEVENT:MGErebo_OffD030subtitle
@@ -39508,7 +39508,7 @@ DIALOGEVENT:MELorie_OffG058subtitle
 END
 
 DIALOGEVENT:MELorie_OffG060subtitle
-"*Build another tunnel on the far side of the river, with it, we can move our troops into Lorien quickly!"
+"*Build another tunnel on the far side of the river, with it, we can move our troupes into Lorien quickly!"
 END
 
 DIALOGEVENT:MELorie_OffG061subtitle
@@ -39616,7 +39616,7 @@ DIALOGEVENT:MEGreyH_Cors016subtitle
 END
 
 DIALOGEVENT:MEGreyH_Cors017subtitle
-"*We can use transport ships to move troops across water."
+"*We can use transport ships to move troupes across water."
 END
 
 DIALOGEVENT:MEGreyH_Cors018subtitle
@@ -40312,7 +40312,7 @@ DIALOGEVENT:MTrBas_OffT071subtitle
 END
 
 DIALOGEVENT:MTrBas_OffT072subtitle
-"*And lastly, we'll need a HÈros to lead our troops. Heroes can be purchased from the Fortress. And if your HÈros should fall in battle, they can be revived from the fortress as well."
+"*And lastly, we'll need a HÈros to lead our troupes. Heroes can be purchased from the Fortress. And if your HÈros should fall in battle, they can be revived from the fortress as well."
 END
 
 DIALOGEVENT:MTrBas_OffT074subtitle
@@ -40324,7 +40324,7 @@ DIALOGEVENT:MTrBas_OffT075subtitle
 END
 
 DIALOGEVENT:MTrBas_OffT076subtitle
-"*You will find a HÈros?s abilities on the Palantir. Some are Passive abilities which mean they?re always enabled such as Boromir?s Leadership ability."
+"*You will find a HÈros?s abilities on the Palantir. Some are Passive abilities which mean they?re always enabled such as Boromir?s Charisme ability."
 END
 
 DIALOGEVENT:MTrBas_OffT077subtitle
@@ -40424,7 +40424,7 @@ DIALOGEVENT:MTrAdv_OffT016subtitle
 END
 
 DIALOGEVENT:MTrAdv_OffT017subtitle
-"*The Transport will ferry your troops across large bodies of water."
+"*The Transport will ferry your troupes across large bodies of water."
 END
 
 DIALOGEVENT:MTrAdv_OffT018subtitle
@@ -40712,7 +40712,7 @@ DIALOGEVENT:WOTR_Tutorial041subtitle
 END
 
 DIALOGEVENT:WOTR_Tutorial042subtitle
-"*Command points represent the number of troops you are allowed to train. You can not build more troops than you have command points."
+"*Command points represent the number of troupes you are allowed to train. You can not build more troupes than you have command points."
 END
 
 DIALOGEVENT:WOTR_Tutorial043subtitle
@@ -40736,7 +40736,7 @@ DIALOGEVENT:WOTR_Tutorial047subtitle
 END
 
 DIALOGEVENT:WOTR_Tutorial048subtitle
-"*Select the barracks in Cair Andros and train a battalion of troops."
+"*Select the barracks in Cair Andros and train a battalion of troupes."
 END
 
 DIALOGEVENT:WOTR_Tutorial049subtitle
@@ -40744,7 +40744,7 @@ DIALOGEVENT:WOTR_Tutorial049subtitle
 END
 
 DIALOGEVENT:WOTR_Tutorial050subtitle
-"*All battalions cost a number of turns to train and only one set of troops per barracks can be in training at a time."
+"*All battalions cost a number of turns to train and only one set of troupes per barracks can be in training at a time."
 END
 
 DIALOGEVENT:WOTR_Tutorial051subtitle
@@ -40828,7 +40828,7 @@ DIALOGEVENT:WOTR_Tutorial070subtitle
 END
 
 DIALOGEVENT:WOTR_Tutorial071subtitle
-"*A HÈros army is a group of battalions that are commanded by a special hero that has the ability to lead troops into battle. They can not only move between territories that you control, but are also used to expand the lands of your kingdom by conquering neutral territories and invading enemy territories."
+"*A HÈros army is a group of battalions that are commanded by a special hero that has the ability to lead troupes into battle. They can not only move between territories that you control, but are also used to expand the lands of your kingdom by conquering neutral territories and invading enemy territories."
 END
 
 DIALOGEVENT:WOTR_Tutorial072subtitle
@@ -45969,7 +45969,7 @@ TOOLTIP:LackMightyCatapultDwarvenStonework
 END
 
 TOOLTIP:LackMightyCatapultDwarvenStonework_WOTR
-"Requires the Fortifications upgrade \nEnables the recruitment of Iron Hills and Ered Luin troops."
+"Requires the Fortifications upgrade \nEnables the recruitment of Iron Hills and Ered Luin troupes."
 END
 
 OBJECT:ArgonathStatues"
@@ -46305,7 +46305,7 @@ DIALOGEVENT:MGErebo_OffD068subtitle
 END
 
 DIALOGEVENT:MGErebo_OffD069subtitle
-"*Soon we will be able to use the undermine power to send troops whereever they are needed."
+"*Soon we will be able to use the undermine power to send troupes whereever they are needed."
 END
 
 DIALOGEVENT:MGErebo_OffD070subtitle
@@ -50343,7 +50343,7 @@ CONTROLBAR:Command_AngmarWallUpgradeToRegularGate
 End
 
 CONTROLBAR:TooltipCommand_AngmarWallUpgradeToRegularGate
-"Creates a gate that troops can pass through"
+"Creates a gate that troupes can pass through"
 End
 
 CONTROLBAR:Command_AngmarWallUpgradeToPosternGate
@@ -51122,12 +51122,12 @@ END
 //-----------War of the Ring additions--------------------
 
 BANNERUI:DwarvenCatapult
-// Singluar name of the Dwarven Phalanx category displayed in the army summary for WotR
+// Singluar name of the Dwarven Phalange category displayed in the army summary for WotR
 "Catapulte"
 End
 
 BANNERUI:PluralDwarvenCatapult
-// Singluar name of the Dwarven Phalanx category displayed in the army summary for WotR
+// Singluar name of the Dwarven Phalange category displayed in the army summary for WotR
 "Catapultes"
 End
 
@@ -51152,17 +51152,17 @@ BANNERUI:AngmarDarkRangers
 End
 
 BANNERUI:MordorCatapult
-// Singluar name of the Mordor Phalanx category displayed in the army summary for WotR
+// Singluar name of the Mordor Phalange category displayed in the army summary for WotR
 "Catapulte"
 End
 
 BANNERUI:MordorCatapultPlural
-// Singluar name of the Mordor Phalanx category displayed in the army summary for WotR
+// Singluar name of the Mordor Phalange category displayed in the army summary for WotR
 "Catapultes"
 End
 
 BANNERUI:IsengardBallista
-// Singluar name of the Isengard Phalanx category displayed in the army summary for WotR
+// Singluar name of the Isengard Phalange category displayed in the army summary for WotR
 "Baliste"
 End
 
@@ -51171,92 +51171,92 @@ OBJECT:HordeDwarvenZerker
 END
 
 BANNERUI:WildMountainGiant
-// Singluar name of the Wild Phalanx category displayed in the army summary for WotR
+// Singluar name of the Wild Phalange category displayed in the army summary for WotR
 "GÈant des Montagnes"
 End
 
 BANNERUI:WildMountainGiantPlural
-// Singluar name of the Wild Phalanx category displayed in the army summary for WotR
+// Singluar name of the Wild Phalange category displayed in the army summary for WotR
 "GÈants des Montagnes"
 End
 
 BANNERUI:ArnorFighter
-// Singluar name of the Arnor Phalanx category displayed in the army summary for WotR
+// Singluar name of the Arnor Phalange category displayed in the army summary for WotR
 "Soldat d'Imladris"
 End
 
 BANNERUI:ArnorFighters
-// Singluar name of the Arnor Phalanx category displayed in the army summary for WotR
+// Singluar name of the Arnor Phalange category displayed in the army summary for WotR
 "Soldats d'Imladris"
 End
 
 CONTROLBAR:LW_Unit_ArnorFighterHorde
-// Singluar name of the Arnor Phalanx category displayed in the army summary for WotR
+// Singluar name of the Arnor Phalange category displayed in the army summary for WotR
 "Bataillon de Soldats d'Imladris"
 End
 
 CONTROLBAR:LW_UNIT_ArnorFighterHordePlural
-// Singluar name of the Arnor Phalanx category displayed in the army summary for WotR
+// Singluar name of the Arnor Phalange category displayed in the army summary for WotR
 "Bataillons de Soldats d'Imladris"
 End
 
 BANNERUI:ArnorArcher
-// Singluar name of the Arnor Phalanx category displayed in the army summary for WotR
+// Singluar name of the Arnor Phalange category displayed in the army summary for WotR
 "Archer d'Imladris"
 End
 
 BANNERUI:ArnorArcher
-// Singluar name of the Arnor Phalanx category displayed in the army summary for WotR
+// Singluar name of the Arnor Phalange category displayed in the army summary for WotR
 "Archers d'Imladris"
 End
 
 CONTROLBAR:LW_Unit_ArnorArcherHorde
-// Singluar name of the Arnor Phalanx category displayed in the army summary for WotR
+// Singluar name of the Arnor Phalange category displayed in the army summary for WotR
 "Bataillon d'Archers d'Imladris"
 End
 
 CONTROLBAR:LW_UNIT_ArnorArcherHordePlural
-// Plural name of the Arnor Phalanx category displayed in the army summary for WotR
+// Plural name of the Arnor Phalange category displayed in the army summary for WotR
 "Bataillons d'Archers d'Imladris"
 End
 
 BANNERUI:ArnorKnight
-// Singluar name of the Arnor Phalanx category displayed in the army summary for WotR
+// Singluar name of the Arnor Phalange category displayed in the army summary for WotR
 "Chevalier d'Imladris"
 End
 
 BANNERUI:ArnorKnights
-// Singluar name of the Arnor Phalanx category displayed in the army summary for WotR
+// Singluar name of the Arnor Phalange category displayed in the army summary for WotR
 "Chevaliers d'Imladris"
 End
 
 CONTROLBAR:LW_Unit_ArnorKnightHorde
-// Singluar name of the Arnor Phalanx category displayed in the army summary for WotR
+// Singluar name of the Arnor Phalange category displayed in the army summary for WotR
 "Bataillon de Chevaliers d'Imladris"
 End
 
 CONTROLBAR:LW_Unit_ArnorKnightHordePlural
-// Singluar name of the Arnor Phalanx category displayed in the army summary for WotR
+// Singluar name of the Arnor Phalange category displayed in the army summary for WotR
 "Bataillons de Chevaliers d'Imladris"
 End
 
 BANNERUI:ArnorTowerGuard
-// Singluar name of the Arnor Phalanx category displayed in the army summary for WotR
+// Singluar name of the Arnor Phalange category displayed in the army summary for WotR
 "Garde royal D˙nedain"
 End
 
 BANNERUI:ArnorTowerGuards
-// Singluar name of the Arnor Phalanx category displayed in the army summary for WotR
+// Singluar name of the Arnor Phalange category displayed in the army summary for WotR
 "Gardes royaux D˙nedain"
 End
 
 CONTROLBAR:LW_Unit_ArnorTowerGuardHorde
-// Singluar name of the Arnor Phalanx category displayed in the army summary for WotR
+// Singluar name of the Arnor Phalange category displayed in the army summary for WotR
 "Bataillon de Gardes royaux D˙nedain"
 End
 
 CONTROLBAR:LW_Unit_ArnorTowerGuardHordePlural
-// Singluar name of the Arnor Phalanx category displayed in the army summary for WotR
+// Singluar name of the Arnor Phalange category displayed in the army summary for WotR
 "Bataillons de Gardes royaux D˙nedain"
 End
 
@@ -51897,7 +51897,7 @@ SCRIPT:ANGAmonSulRebuildIntroText
 END
  
 SCRIPT:ANGAmonSulCloudBreakIntroText
-"\n This tree parts the clouds and stuns our troops."
+"\n This tree parts the clouds and stuns our troupes."
 END
 
 SCRIPT:ANGAmonSulDunedainIntroText
@@ -51993,7 +51993,7 @@ SCRIPT:ANGAngmarBonusObjectiveText_03
 END
 
 SCRIPT:ANGAngmarObjectiveComplete_01
-"The N˙menÛrÈens Noirs are coming to destroy our fortresses - if any fortresses fall, all is lost! Use your resources to upgrade the fortresses and recruit new troops to stand against the attack!"
+"The N˙menÛrÈens Noirs are coming to destroy our fortresses - if any fortresses fall, all is lost! Use your resources to upgrade the fortresses and recruit new troupes to stand against the attack!"
 END
 
 SCRIPT:ANGAngmarObjectiveComplete_02
@@ -52113,7 +52113,7 @@ SCRIPT:ANGAngmarHintText_10
 END
 
 SCRIPT:ANGAngmarHintText_11
-"We've taken control of this Forge des TÈnËbres! We can use it to build Stone Throwers and upgrade our troops with Dark Iron weapons and armor."
+"We've taken control of this Forge des TÈnËbres! We can use it to build Stone Throwers and upgrade our troupes with Dark Iron weapons and armor."
 END
 
 SCRIPT:ANGAngmarHintText_12
@@ -52193,7 +52193,7 @@ SCRIPT:ANGBarrowDownsIntroText_02
 END
 
 SCRIPT:ANGBarrowDownsIntroText_021
-"ANGMAR OFFICER: We cannot bring our entire host at once, or the Prince may lose his nerve.\n More troops will arrive during the battle to help you hold the royal barrow."
+"ANGMAR OFFICER: We cannot bring our entire host at once, or the Prince may lose his nerve.\n More troupes will arrive during the battle to help you hold the royal barrow."
 END
 
 SCRIPT:ANGBarrowDownsIntroText_03
@@ -53362,7 +53362,7 @@ End
 //End
 
 //SCRIPT:RANGERS_ARRIVE
-//"Commander - just south of here lies a large goblin camp, well defended by towers and troops."
+//"Commander - just south of here lies a large goblin camp, well defended by towers and troupes."
 //End
 
 //SCRIPT:GUNDABAD_HEADPILES_DESTROYED
@@ -54970,7 +54970,7 @@ OBJECT:RohanHeroicStatueDescription
 //"Les alliÈs proches de la Statue gagnent\n +50% dÈg‚ts, +50% armure, \n et gagnent de l'expÈrience deux fois plus rapidement \n \n RÈduit le cout de l'infanterie \n Augmente la limite de points de commandement de 10"
 //"Les alliÈs proches de la Statue gagnent \n +33% dÈg‚ts, +33% armure, \gagnent de l'expÈrience deux fois plus rapidement,\n et sont immunisÈs ‡ la peur et ‡ la terreur\nRÈduit le cout de l'infanterie \n Augmente la limite de points de commandement de 10"
 //"Les alliÈs proches de la Statue gagnent \n +33% dÈg‚ts, +33% armure, \gagnent de l'expÈrience deux fois plus rapidement,\n et sont immunisÈs ‡ la peur et ‡ la terreur\nRÈduit le cout de l'infanterie \n Augmente la limite de points de commandement de 10"
-"Modifier Type: Leadership \n Les alliÈs proches de la statue gagnent +33% dÈg‚ts, +33% armure, gagnent de l'expÈrience 50% plus rapidement, et sont insensibles ‡ la peur et ‡ la terreur \n Bonus cumulable \n Bonus hÈroÔque - RÈduit le co˚t des hÈros :\n 1 statue : -5% \n 2 statues : -10% \n 3 statues : -15% \n 4 statues : -20% \n 5+ statues : -25%"
+"Type d'Action : Charisme \n Les alliÈs proches de la statue gagnent +33% dÈg‚ts, +33% armure, gagnent de l'expÈrience 50% plus rapidement, et sont insensibles ‡ la peur et ‡ la terreur \n Bonus cumulable \n Bonus hÈroÔque - RÈduit le co˚t des hÈros :\n 1 statue : -5% \n 2 statues : -10% \n 3 statues : -15% \n 4 statues : -20% \n 5+ statues : -25%"
 END
 
 OBJECT:ElvenHeroicStatueDescription
@@ -54978,7 +54978,7 @@ OBJECT:ElvenHeroicStatueDescription
 END
 
 OBJECT:MirkwoodHeroicStatueDescription
-"Modifier Type: Les alliÈs proches de la statue gagnent +33% dÈg‚ts, +33% armure, gagnent de l'expÈrience 50% plus rapidement, et sont insensibles ‡ la peur et ‡ la terreur \n Bonus cumulable \n Bonus hÈroÔque - RÈduit le co˚t des hÈros :\n 1 statue : -5% \n 2 statues : -10% \n 3 statues : -15% \n 4 statues : -20% \n 5+ statues : -25%"
+"Type d'Action : Les alliÈs proches de la statue gagnent +33% dÈg‚ts, +33% armure, gagnent de l'expÈrience 50% plus rapidement, et sont insensibles ‡ la peur et ‡ la terreur \n Bonus cumulable \n Bonus hÈroÔque - RÈduit le co˚t des hÈros :\n 1 statue : -5% \n 2 statues : -10% \n 3 statues : -15% \n 4 statues : -20% \n 5+ statues : -25%"
 END
 
 CONTROLBAR:ToolTipBuildEvilBombardShip
@@ -55069,7 +55069,7 @@ END
 CONTROLBAR:ToolTipWhiteWinter
 //"Temporarily covers the map in rain \n All enemy units lose their leadership bonuses \n Clic gauche pour activer"
 //"Temporarily covers the map in rain\nReduces enemy armor and damage\nNullifies enemy Leadership\nClic gauche pour activer"
-"Temporarily blankets the map in a raging snowstorm\n Annule les Vents Occidentaux, Pluie VerglaÁante, Avant que le Soleil ne se LËve, BÈnÈdiction d'Ulmo, Blessing of ManwÎ, Le Jour de Durin, Hiver Blanc ou Sombre \n Modifier Type: Active Debuff \n Enemy units suffer -25% Damage, -20% Armor, and -30% Vision Range \nNullifies enemy Leadership \n Does not stack with other Debuffs \n Clic gauche pour activer"
+"Temporarily blankets the map in a raging snowstorm\n Annule les Vents Occidentaux, Pluie VerglaÁante, Avant que le Soleil ne se LËve, BÈnÈdiction d'Ulmo, Blessing of ManwÎ, Le Jour de Durin, Hiver Blanc ou Sombre \n Type d'Action : Active Debuff \n Enemy units suffer -25% Damage, -20% Armor, and -30% Vision Range \nNullifies enemy Charisme \n Does not stack with other Debuffs \n Clic gauche pour activer"
 END
 
 CONTROLBAR:ToolTipFreezingRain
@@ -55696,7 +55696,7 @@ CONTROLBAR:ToolTipElvenWood
 END
 
 CONTROLBAR:ToolTipCampaignElvenWood
-"Creates lush terrain \n Modifier Type: Buff \n All allied units gain +50% Damage, +50% Armor and become immune to fear and terror \n S'accumule avec le Charisme et les Sorts \nClic gauche sÈlectionner Clic gauche sur cible area"
+"Creates lush terrain \n Type d'Action : Buff \n All allied units gain +50% Damage, +50% Armor and become immune to fear and terror \n S'accumule avec le Charisme et les Sorts \nClic gauche sÈlectionner Clic gauche sur cible area"
 END
 
 CONTROLBAR:TooltipEnshroudingMist
@@ -57459,12 +57459,12 @@ CONTROLBAR:LW_Unit_DwarvenGuardianHordePlural
 END
 
 BANNERUI:DwarvenPhalanx
-// Singluar name of the Dwarven Phalanx category displayed in the army summary for WotR
+// Singluar name of the Dwarven Phalange category displayed in the army summary for WotR
 //"Erebor Pikemen"
 "Phalanx"
 End
 BANNERUI:PluralDwarvenPhalanx
-// Plural name of the Dwarven Phalanx category displayed in the army summary for WotR
+// Plural name of the Dwarven Phalange category displayed in the army summary for WotR
 //"Erebor Pikemen"
 "Phalanx"
 End
@@ -57704,7 +57704,7 @@ CONTROLBAR:LW_Unit_IsengardWargPackHordePlural
 END
 
 BANNERUI:IsengardBallistaPlural
-// Singluar name of the Isengard Phalanx category displayed in the army summary for WotR
+// Singluar name of the Isengard Phalange category displayed in the army summary for WotR
 //"Balistes"
 "Baliste"
 End
@@ -58686,7 +58686,7 @@ CONTROLBAR:ToolTipBuildMordorBlackOrcHorde
 END
 
 CONTROLBAR:ToolTipBuildMordorBlackOrcHordeInn
-"Fort contre les piquiers \n\n Bonus de Horde \n Modifier Type: Sort \n Tous les guerriers orques, piquiers orques, Archers orques, lÈgions de Morgul, et Uruk noirs gagnent +50% de dÈgats quand ils sont rÈunis en hordes de 150 ou plus \n Bonus cumulable\n\n Les Uruks noirs de Barad-dur sont l'Èlite des armÈes orques de Sauron, ÈlevÈes en premier lieu pour dÈvaster l'Ithilien."
+"Fort contre les piquiers \n\n Bonus de Horde \n Type d'Action : Sort \n Tous les guerriers orques, piquiers orques, Archers orques, lÈgions de Morgul, et Uruk noirs gagnent +50% de dÈgats quand ils sont rÈunis en hordes de 150 ou plus \n Bonus cumulable\n\n Les Uruks noirs de Barad-dur sont l'Èlite des armÈes orques de Sauron, ÈlevÈes en premier lieu pour dÈvaster l'Ithilien."
 END
 
 CONTROLBAR:TooltipThrallMasterUpgradeOrcWarriors
@@ -59182,7 +59182,7 @@ CONTROLBAR:ToolTipWarCry
 END
 
 CONTROLBAR:ToolTipFellowshipWarCry
-"Requiert : Niveau 6\n Modifier Type: Charisme \n Les alliÈs proches gagnent +33% de dÈgats, +25% d'armure et gagne de l'experience 50% plus rapidement\n CapacitÈ passive \n \n Quand elle est activÈe, les unitÈs alliÈes ciblÈes gagnent\n+33% de dÈgats, +20% de vitesse ainsi que la rÈsistance ‡ la peur\n Bonus cumulable \nClic gauche pour sÈlectionner puis clic gauche sur les unitÈs ciblÈes"
+"Requiert : Niveau 6\n Type d'Action : Charisme \n Les alliÈs proches gagnent +33% de dÈgats, +25% d'armure et gagne de l'experience 50% plus rapidement\n CapacitÈ passive \n \n Quand elle est activÈe, les unitÈs alliÈes ciblÈes gagnent\n+33% de dÈgats, +20% de vitesse ainsi que la rÈsistance ‡ la peur\n Bonus cumulable \nClic gauche pour sÈlectionner puis clic gauche sur les unitÈs ciblÈes"
 END
 
 CONTROLBAR:GuardianStrike
@@ -60603,7 +60603,7 @@ CONTROLBAR:TooltipSamwiseBladeMaster
 END
 
 CONTROLBAR:TooltipSamwiseBladeMaster_Campaign
-"Requiert : Niveau 3 \n Modifier Type: Buff \n Sam temporarily gains\n+100% Damage, +100% Armor \n Clic gauche pour activer"
+"Requiert : Niveau 3 \n Type d'Action : Buff \n Sam temporarily gains\n+100% Damage, +100% Armor \n Clic gauche pour activer"
 END
 
 UPGRADE:GondorBattleTowerGarrison
@@ -60762,7 +60762,7 @@ END
 
 CONTROLBAR:TooltipRadagastSummonFamiliar
 //"Hero summons a flock of birds that have an excellent view distance and detect stealth \n Clic gauche sur l'icÙne puis clic gauche sur une zone praticable"
-//"Hero summons a flock of birds that reduce enemy armor and damage and nullify enemy Leadership \n Clic gauche sur l'icÙne puis clic gauche sur une zone praticable"
+//"Hero summons a flock of birds that reduce enemy armor and damage and nullify enemy Charisme \n Clic gauche sur l'icÙne puis clic gauche sur une zone praticable"
 "Type d'Action : PÈnalitÈ active\nRadagast invoque une nuÈe d'oiseaux qui rÈvËlent le brouillard de guerre et dÈtecte les unitÈs furtives.\nLes unitÈs ennemies proches subissent -25% dÈg‚ts, -20% armure et leurs bonus de charisme sont annulÈs (PÈnalitÈ non cumulable)."
 End
 
@@ -62299,7 +62299,7 @@ CONTROLBAR:IthilienGarden
 END
 
 CONTROLBAR:TooltipIthilienGarden
-"Invoque un Jardin Luxuriant sur le champ de bataille \n Modifier Type: Bonus \n Tous les alliÈs deviennent furtives \n Les unitÈs ennemies perdent leur Charisme \n Le Jardin est habitÈ par un certain nombre de RÙdeurs d'Ithilien \n Clic gauche sÈlectionner Clic gauche sur une zone ciblÈ"
+"Invoque un Jardin Luxuriant sur le champ de bataille \n Type d'Action : Bonus \n Tous les alliÈs deviennent furtives \n Les unitÈs ennemies perdent leur Charisme \n Le Jardin est habitÈ par un certain nombre de RÙdeurs d'Ithilien \n Clic gauche sÈlectionner Clic gauche sur une zone ciblÈ"
 END
 
 CONTROLBAR:SummonRadagast
@@ -63127,7 +63127,7 @@ CONTROLBAR:BlessingofUlmo
 End
 
 CONTROLBAR:ToolTipBlessingofUlmo
-//"Temporarily covers the map in rain \n Type d'Action : PÈnalitÈ active \n Enemy units suffer -25% dÈg‚ts and -20% armure\nNullifies enemy Leadership \n (Bonus non cumulable)\n\nClic gauche pour activer"
+//"Temporarily covers the map in rain \n Type d'Action : PÈnalitÈ active \n Enemy units suffer -25% dÈg‚ts and -20% armure\nNullifies enemy Charisme \n (Bonus non cumulable)\n\nClic gauche pour activer"
 "Temporarily covers the map in rain \n Annule les Vents Occidentaux, Pluie VerglaÁante, Avant que le Soleil ne se LËve, BÈnÈdiction d'Ulmo, BÈnÈdiction de ManwÎ, Le Jour de Durin, Hiver Blanc ou Sombre \n All friendly units gain immunity to fear and terror and are slowly healed \n Orchards generate +30% more resources and gain +25% Armor\n Benefits all Rivendell allies \n\n Clic gauche pour activer"
 END
 
@@ -63366,7 +63366,7 @@ END
 
 CONTROLBAR:ToolTipYoungBalinTactician
 //"Requiert : niveau 7 \n Give targeted units experience \n\nClic gauche sur l'icÙne puis clic gauche sur les unitÈs ciblÈes"
-"Requiert : niveau 3 \n Give targeted friendly troops experience \n\nClic gauche sur l'icÙne puis clic gauche sur les unitÈs ciblÈes"
+"Requiert : niveau 3 \n Give targeted friendly troupes experience \n\nClic gauche sur l'icÙne puis clic gauche sur les unitÈs ciblÈes"
 END
 
 CONTROLBAR:YoungBalinCounselorOfKings
@@ -63548,7 +63548,7 @@ CONTROLBAR:ToolTipTraderToymakers2
 "Faire exploser le feu d'artifice.\n\nClic gauche pour activer"
 End
 
-//------------ Iron Hill Riders ---------------
+//------------ Monts de Fer Riders ---------------
 OBJECT:IronHillRider
 "Chevaucheur de BÈlier des Monts du Fer"
 END
@@ -64060,7 +64060,7 @@ CONTROLBAR:EreborOldDainLeadership
 End
 
 CONTROLBAR:ToolTipEreborOldDainLeadership
-"Modifier Type: Leadership \n Units near D·in gain +33% Damage, +33% Armor, and earn experience 50% faster \n S'accumule avec les Bonus et les Sorts \n CapacitÈ passive"
+"Type d'Action : Charisme \n Units near D·in gain +33% Damage, +33% Armor, and earn experience 50% faster \n S'accumule avec les Bonus et les Sorts \n CapacitÈ passive"
 END
 
 CONTROLBAR:EreborDainBarukKhazad
@@ -64376,11 +64376,11 @@ CONTROLBAR:TwinsHeroesLeadership
 End
 
 CONTROLBAR:ToolTipTwinsHeroesLeadershipElladan
-"Modifier Type: Leadership \n Grants 50% experience gain and 25% armour to nearby Bree-landers, D˙nedain and Elves \n At level 5, reduces recharge time for nearby heroes abilities by 25% and \n increases auto-heal of nearby heroes by 25%\n Does not affect his brother \n S'accumule avec les Bonus et les Sorts \n CapacitÈ passive"
+"Type d'Action : Charisme \n Grants 50% experience gain and 25% armour to nearby Bree-landers, D˙nedain and Elves \n At level 5, reduces recharge time for nearby heroes abilities by 25% and \n increases auto-heal of nearby heroes by 25%\n Does not affect his brother \n S'accumule avec les Bonus et les Sorts \n CapacitÈ passive"
 End
 
 CONTROLBAR:ToolTipTwinsHeroesLeadershipElrohir
-"Modifier Type: Leadership \n Grants 50% experience gain and 25% damage to nearby Bree-landers, D˙nedain and Elves \n At level 5, reduces recharge time for nearby heroes abilities by 25% and \n increases auto-heal of nearby heroes by 25%\n Does not affect his brother \n S'accumule avec les Bonus et les Sorts \n CapacitÈ passive"
+"Type d'Action : Charisme \n Grants 50% experience gain and 25% damage to nearby Bree-landers, D˙nedain and Elves \n At level 5, reduces recharge time for nearby heroes abilities by 25% and \n increases auto-heal of nearby heroes by 25%\n Does not affect his brother \n S'accumule avec les Bonus et les Sorts \n CapacitÈ passive"
 End
 
 //------------ New Rivendell Stuff ---------------
@@ -64410,7 +64410,7 @@ CONTROLBAR:PurchaseUpgradeRivendellFortressBanners
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeRivendellFortressBanners
-"Provides additional experience to nearby troops \n Reduces HÈros cost by 10% \n Reduces HÈros recruit time by 10% \n RÈduction du co˚t of builders by 20% \n \n Only applies to heroes recruited at the Conservatory"
+"Provides additional experience to nearby troupes \n Reduces HÈros cost by 10% \n Reduces HÈros recruit time by 10% \n RÈduction du co˚t of builders by 20% \n \n Only applies to heroes recruited at the Conservatory"
 END
 
 CONTROLBAR:PurchaseUpgradeRivendellFortressMoat
@@ -64554,7 +64554,7 @@ CONTROLBAR:GildorLeadership
 End
 
 CONTROLBAR:ToolTipGildorLeadership
-"Modifier Type: Leadership \n Hobbits near Gildor gain +33% Damage and +33% Armor \n S'accumule avec les Bonus et les Sorts \n CapacitÈ passive"
+"Type d'Action : Charisme \n Hobbits near Gildor gain +33% Damage and +33% Armor \n S'accumule avec les Bonus et les Sorts \n CapacitÈ passive"
 END
 
 CONTROLBAR:GildorExiles
@@ -64827,7 +64827,7 @@ CONTROLBAR:LAVeteranManyWars
 End
 
 CONTROLBAR:ToolTipLAVeteranManyWars
-"The Veterans have fought many battles and witnessed great triumphs and tragic defeats,\nand are learned in the art of war.\n\nNearby allied troops gain +25% experience gain.\n CapacitÈ passive"
+"The Veterans have fought many battles and witnessed great triumphs and tragic defeats,\nand are learned in the art of war.\n\nNearby allied troupes gain +25% experience gain.\n CapacitÈ passive"
 End
 
 CONTROLBAR:LAVeteranEregion
@@ -64835,7 +64835,7 @@ CONTROLBAR:LAVeteranEregion
 End
 
 CONTROLBAR:ToolTipLAVeteranEregion
-"The Veterans were there during Sauron's attack on the Noldorin realm of Eregion.\n\nThe battalion is temporarily immune to knockback, trample and fear \n Modifier Type: Weapon \n Stacks with Leadership, Buffs, and Sorts \nClic gauche pour activer.\n\nOnly one ability may be active at a time."
+"The Veterans were there during Sauron's attack on the Noldorin realm of Eregion.\n\nThe battalion is temporarily immune to knockback, trample and fear \n Type d'Action : Weapon \n Stacks with Leadership, Buffs, and Sorts \nClic gauche pour activer.\n\nOnly one ability may be active at a time."
 End
 
 CONTROLBAR:LAVeteranLastAlliance
@@ -64851,7 +64851,7 @@ CONTROLBAR:LAVeteranFallOfAngmar
 End
 
 CONTROLBAR:ToolTipLAVeteranFallOfAngmar
-"Requiert : Niveau 5\nThe Veterans fought alongside Glorfindel in the decisive battle against the Lord of Angmar.\n\nMelee attacks temporarily deal area-of-effect damage and additional damage versus structures. Ranged attack speed is increased.\n Modifier Type: Weapon \n Stacks with Leadership, Buffs, and Sorts\nClic gauche pour activer.\n\nOnly one ability may be active at a time."
+"Requiert : Niveau 5\nThe Veterans fought alongside Glorfindel in the decisive battle against the Lord of Angmar.\n\nMelee attacks temporarily deal area-of-effect damage and additional damage versus structures. Ranged attack speed is increased.\n Type d'Action : Weapon \n Stacks with Leadership, Buffs, and Sorts\nClic gauche pour activer.\n\nOnly one ability may be active at a time."
 End
 
 CONTROLBAR:ConstructNoldorVeteransHorde
@@ -64921,7 +64921,7 @@ CONTROLBAR:TooltipUndomielLeadership
 //"Requiert : Niveau 3 \n Allies near Elrond gain \n +50% Damage, +50% Armor, \n and earn experience twice as fast \n \n CapacitÈ passive       Does not stack"
 //"Requiert : Niveau 3 \n Allies near Elrond gain \n +33% Damage, +33% Armor, \n and earn experience twice as fast \n CapacitÈ passive"
 //"Requiert : Niveau 3 \n Allies near Elrond gain \n +33% Damage, +33% Armor, \n and earn experience 50% faster \n CapacitÈ passive"
-"Modifier Type: Leadership \n Units near Arwen gain +33% Armor \n S'accumule avec les Bonus et les Sorts \n CapacitÈ passive"
+"Type d'Action : Charisme \n Units near Arwen gain +33% Armor \n S'accumule avec les Bonus et les Sorts \n CapacitÈ passive"
 END
 
 CONTROLBAR:SpecialPowerUndomiel
@@ -64929,7 +64929,7 @@ CONTROLBAR:SpecialPowerUndomiel
 END
 
 CONTROLBAR:ToolTipSpecialPowerUndomiel
-"Allows Arwen to rank up.\n Becomes more expensive the higher Arwen ranks up. \n Clic gauche to purchase upgrade \n\n Modifier Type: Leadership \n Rank 1: Allied heroes near Arwen gain +33% Armor. \n Rank 3: Allied heroes near Arwen gain +33% experience gain.\n Rank 6: Allied heroes near Arwen gain +66% Armor. \n Rank 10: The radius of Arwen's leadership is greatly increased. \n Also passively grants Arwen a high percentage of ranged damage avoidance and increased armor per level. \n S'accumule avec les Bonus et les Sorts \n CapacitÈ passive"
+"Allows Arwen to rank up.\n Becomes more expensive the higher Arwen ranks up. \n Clic gauche to purchase upgrade \n\n Type d'Action : Charisme \n Rank 1: Allied heroes near Arwen gain +33% Armor. \n Rank 3: Allied heroes near Arwen gain +33% experience gain.\n Rank 6: Allied heroes near Arwen gain +66% Armor. \n Rank 10: The radius of Arwen's leadership is greatly increased. \n Also passively grants Arwen a high percentage of ranged damage avoidance and increased armor per level. \n S'accumule avec les Bonus et les Sorts \n CapacitÈ passive"
 End
 
 CONTROLBAR:SpecialPowerUndomielFinal
@@ -64937,7 +64937,7 @@ CONTROLBAR:SpecialPowerUndomielFinal
 END
 
 CONTROLBAR:ToolTipSpecialPowerUndomielFinal
-"Modifier Type: Leadership \n Rank 1: Allied heroes near Arwen gain +33% Armor. \n Rank 3: Allied heroes near Arwen gain +33% experience gain.\n Rank 6: Allied heroes near Arwen gain +66% Armor. \n Rank 10: The radius of Arwen's leadership is greatly increased. \n Also passively grants Arwen a high percentage of ranged damage avoidance and increased armor per level. \n S'accumule avec les Bonus et les Sorts \n CapacitÈ passive"
+"Type d'Action : Charisme \n Rank 1: Allied heroes near Arwen gain +33% Armor. \n Rank 3: Allied heroes near Arwen gain +33% experience gain.\n Rank 6: Allied heroes near Arwen gain +66% Armor. \n Rank 10: The radius of Arwen's leadership is greatly increased. \n Also passively grants Arwen a high percentage of ranged damage avoidance and increased armor per level. \n S'accumule avec les Bonus et les Sorts \n CapacitÈ passive"
 End
 
 CONTROLBAR:ArwenNoroLim
@@ -64990,7 +64990,7 @@ CONTROLBAR:GlorfindelWrath
 End
 
 CONTROLBAR:ToolTipGlorfindelWrath
-"Requiert : Niveau 3\nGlorfindel temporarily gains +100% damage\nClic gauche pour activer \n\nModifier Type: Sort \n Glorfindel causes fear to nearby enemies and Nazgùl. \n Stacks with Sorts, Buffs, and Leaderships \n CapacitÈ passive"
+"Requiert : Niveau 3\nGlorfindel temporarily gains +100% damage\nClic gauche pour activer \n\nModifier Type: Sort \n Glorfindel causes fear to nearby enemies and Nazgùl. \n Stacks with Sorts, Buffs, and Charismes \n CapacitÈ passive"
 End
 
 CONTROLBAR:GlorfindelLight
@@ -64998,15 +64998,15 @@ CONTROLBAR:GlorfindelLight
 End
 
 CONTROLBAR:ToolTipGlorfindelLight
-"Requiert : Niveau 7\n Targeted units gain experience \n Clic gauche sÈlectionner Clic gauche sur unitÈs ciblÈ"
+"Requiert : Niveau 7 \n Les unitÈes ciblÈ gagnent de l'expÈrience \n Clic gauche sÈlectionner Clic gauche sur unitÈs ciblÈ"
 End
 
 CONTROLBAR:GlorfindelSlayer
-"Slayer of Demo&ns"
+"Tueur de DÈmo&ns"
 End
 
 CONTROLBAR:ToolTipGlorfindelSlayer
-"Requiert : Niveau 10\n Blasts back units in a wide radius surrounding Glorfindel \nGlorfindelùs melee attacks pin enemy heroes for a short time\n Clic gauche pour activer"
+"Requiert : Niveau 10 \n Renverse les unitÈ dans un large rayon autour de Glorfindel \n Les attaques de mÍlÈe de Glorfindel marque les HÈros ennemis pendant une courte pÈriode \n Clic gauche pour activer"
 End
 //==================================================================
 
@@ -65015,7 +65015,7 @@ CONTROLBAR:ToolTipBuildDain
 END
 
 CONTROLBAR:DwarvenDainRecruit
-"Recrutez le Roi sous la Montagne.\n\nD·in Pied-d'Acier est le seigneur d'Erebor au moment de la Guerre de l'Anneau et tient sa cour sous le Mont Solitaire. Erebor a ÈtÈ repris ‡ Smaug gr‚ce ‡ la Compagnie de Thorin et D·in en est devenu le Roi.\n\nLes nombreuses guerres qu'il a livrÈ lorsqu'il Ètait souverain des Monts du Fer lui ont enseignÈ l'art de la stratÈgie et de la tactique. Aussi fait-il preuve d'une grande sagesse, renonÁant au royaume de Khazad-d˚m†par deux fois, d'abord devant la menace du†FlÈau de D˙rin, le Balrog dont il sentit la prÈsence, puis devant les tentatives de corruption de Sauron.\nBien qu'il porte le fardeau de longues annÈes, ses guerriers sont d'une loyautÈ indÈfectible et ne se rendront jamais tant que leur roi sera en vie.\n\nArmÈ de sa puissante hache Barazantath˚l, taillÈe dans un seul morceau de roche rouge, D·in sait toujours se frayer un chemin dans les rangs ennemis avec une volontÈ inflexible."
+"Recrutez le Roi sous la Montagne. \n\n D·in Pied-d'Acier est le seigneur d'Erebor au moment de la Guerre de l'Anneau et tient sa cour sous le Mont Solitaire. Erebor a ÈtÈ repris ‡ Smaug gr‚ce ‡ la Compagnie de Thorin et D·in en est devenu le Roi. \n\n Les nombreuses guerres qu'il a livrÈ lorsqu'il Ètait souverain des Monts du Fer lui ont enseignÈ l'art de la stratÈgie et de la tactique. Aussi fait-il preuve d'une grande sagesse, renonÁant au royaume de Khazad-d˚m†par deux fois, d'abord devant la menace du†FlÈau de D˙rin, le Balrog dont il sentit la prÈsence, puis devant les tentatives de corruption de Sauron. \n Bien qu'il porte le fardeau de longues annÈes, ses guerriers sont d'une loyautÈ indÈfectible et ne se rendront jamais tant que leur roi sera en vie. \n\n ArmÈ de sa puissante hache Barazantath˚l, taillÈe dans un seul morceau de roche rouge, D·in sait toujours se frayer un chemin dans les rangs ennemis avec une volontÈ inflexible."
 END
 
 CONTROLBAR:DwarvenDainRevive
@@ -65048,17 +65048,17 @@ END
 
 CONTROLBAR:ToolTipToggleStanceBattleDain
 //"Raccourci : F \n This is the default unit stance \n They will auto-acquire enemies within a medium range"
-"Raccourci : F\nC'est la posture par dÈfaut de D·in, qui utilise une hache : aucun bonus"
+"C'est la posture par dÈ&faut de D·in, qui utilise une hache : aucun bonus"
 END
 
 CONTROLBAR:ToolTipToggleStanceAggressiveDain
 //"Raccourci : D \n Units gain an increase to their attack damage, but a decrease to their armor \n They will auto-acquire enemies when sighted"
-"Raccourci : D\nD·in utilise sa hache rouge : il gagne +10% dÈg‚ts et +10% vitesse, mais perd -20% armure\nInflige des dÈg‚ts de zone"
+"&D·in utilise sa hache rouge : il gagne +10% dÈg‚ts et +10% vitesse, mais perd -20% armure \n Inflige des dÈg‚ts de zone"
 END
 
 CONTROLBAR:ToolTipToggleStanceHoldGroundDain
 //"Raccourci : G \n Units gain an increase to their armor, but a decrease to their attack damage \n They will not auto-acquire enemies"
-"Raccourci : G\nD·in utilise son marteau de guerre : il gagne +10% armure, mais perd -20% dÈg‚ts et -10% vitesse\Inflige des dÈg‚ts de renversement"
+"D·in utilise son marteau de &guerre : il gagne +10% armure, mais perd -20% dÈg‚ts et -10% vitesse \n Inflige des dÈg‚ts de renversement"
 END
 
 /////////////////////
@@ -65070,7 +65070,6 @@ OBJECT:IronHillsWarrior
 END
 
 OBJECT:HordeIronHillsWarrior
-//"Guardian"
 "Guerriers des Monts du Fer"
 END
 
@@ -65079,7 +65078,7 @@ CONTROLBAR:ConstructIronHillsWarriorHorde
 END
 
 CONTROLBAR:ToolTipBuildIronHillsWarriorHorde
-"Requiert : l'amÈlioration Arkenstone\nLes Nains des Monts du Fer sont robustes et fiers, leur caractËre trempÈ par les affrontements constants contre les Orques et les Gobelins qui infestent les Monts Brumeux.\nLeurs Gardiens sont rÈputÈs pour leur remarquable tÈnacitÈ face ‡ l'ennemi et sont ÈquipÈs de lourds boucliers formant un rempart impÈnÈtrable.\n\nForts contre les piquiers."
+"Requiert : l'amÈlioration Arkenstone \n Les Nains des Monts du Fer sont robustes et fiers, leur caractËre trempÈ par les affrontements constants contre les Orques et les Gobelins qui infestent les Monts Brumeux. \n Leurs Gardiens sont rÈputÈs pour leur remarquable tÈnacitÈ face ‡ l'ennemi et sont ÈquipÈs de lourds boucliers formant un rempart impÈnÈtrable. \n\n Forts contre les piquiers."
 END
 
 OBJECT:IronHillsCrossbow
@@ -65087,7 +65086,6 @@ OBJECT:IronHillsCrossbow
 END
 
 OBJECT:HordeIronHillsCrossbow
-//"Guardian"
 "ArbalÈtriers des Monts du Fer"
 END
 
@@ -65096,11 +65094,11 @@ CONTROLBAR:ConstructIronHillsCrossbowHorde
 END
 
 CONTROLBAR:ToolTipBuildIronHillsCrossbowHorde
-"Requiert : l'amÈlioration Arkenstone\nLes Nains des Monts du Fer sont robustes et fiers, leur caractËre trempÈ par les affrontements constants contre les Orques et les Gobelins qui infestent les Monts Brumeux.\nComme leurs utilisateurs, les arbalËtes des Monts du Fer sont courtes et robustes.\n\nForts contre l'infanterie."
+"Requiert : l'amÈlioration Arkenstone \n Les Nains des Monts du Fer sont robustes et fiers, leur caractËre trempÈ par les affrontements constants contre les Orques et les Gobelins qui infestent les Monts Brumeux. \n Comme leurs utilisateurs, les arbalËtes des Monts du Fer sont courtes et robustes. \n\n Forts contre l'infanterie."
 END
 
 ///////////////////////////
-// Dwarven Battle Tower /// Les alliÈs proches de the Statue gain +33% dÈg‚ts, +33% armure, earn experience 50% faster, and become immune to Fear and Terror 
+// Tour de Guerre Naines /// Les alliÈs proches de la statue gagnent +33% dÈg‚ts, +33% armure, octroie 50% d'expÈrience plus vite, et deviennent immunisÈ de la Peur et de la Terreur 
 ///////////////////////////
 
 UPGRADE:BTDurinBanner
@@ -65116,11 +65114,11 @@ CONTROLBAR:BTDurinBannerUpgraded
 END
 
 CONTROLBAR:ToolTipBTDurinBanner
-"Type d'Action : Sort \n Les alliÈs proches de la tour gagnent de l'expÈrience 15% plus rapidement (bonus cumulable).\n\nCapacitÈ passive\n Clic gauche pour acheter"
+"Type d'Action : Sort \n Les alliÈs proches de la tour gagnent de l'expÈrience 15% plus rapidement \n S'accumule avec les Sorts, les Bonus, et les Charismes \n CapacitÈ passive \n Clic gauche pour acheter"
 END
 
 CONTROLBAR:ToolTipBTDurinBannerUpgraded
-"Modifier Type: Sort \n Allies near the Tower earn experience +15% faster \n Stacks with Sorts, Buffs, and Leaderships \n CapacitÈ passive"
+"Type d'Action : Sort \n Les alliÈs proches de la tour gagnent de l'expÈrience 15% plus rapidement \n S'accumule avec les Sorts, les Bonus, et les Charismes \n CapacitÈ passive"
 END
 
 UPGRADE:BTKhazadBanner
@@ -65136,11 +65134,11 @@ CONTROLBAR:BTKhazadBannerUpgraded
 END
 
 CONTROLBAR:ToolTipBTKhazadBanner
-"Type d'Action : Sort\nLes alliÈs proches de la tour deviennent insensibles ‡ la Peur et ‡ la Terreur (bonus cumulable).\n\nCapacitÈ passive\nClic gauche pour acheter"
+"Type d'Action : Sort \n Les alliÈs proches de la tour deviennent insensibles ‡ la Peur et ‡ la Terreur \n S'accumule avec les Sorts, les Bonus, et les Charismes \n CapacitÈ passive \n Clic gauche pour acheter"
 END
 
 CONTROLBAR:ToolTipBTKhazadBannerUpgraded
-"Modifier Type: Sort \n Allies near the Tower become immune to Fear and Terror \n Stacks with Sorts, Buffs, and Leaderships \n CapacitÈ passive"
+"Type d'Action : Sort \n Les alliÈs proches de la tour deviennent insensibles ‡ la Peur et ‡ la Terreur \n S'accumule avec les Sorts, les Bonus, et les Charismes \n CapacitÈ passive"
 END
 
 UPGRADE:BTEredMithrimBanner
@@ -65156,11 +65154,11 @@ CONTROLBAR:BTEredMithrimBannerUpgraded
 END
 
 CONTROLBAR:ToolTipBTEredMithrimBanner
-"Type d'Action : Sort\nAugmente la portÈe de vision de la tour.\n Les alliÈs proches de la tour gagnent un bonus de +25% vision (bonus cumulable).\n\nCapacitÈ passive\n Clic gauche pour acheter"
+"Type d'Action : Sort \n Augmente la portÈe de vision de la tour.\n Les alliÈs proches de la tour gagnent un bonus de +25% vision \n S'accumule avec les Sorts, les Bonus, et les Charismes \n CapacitÈ passive \n Clic gauche pour acheter"
 END
 
 CONTROLBAR:ToolTipBTEredMithrimBannerUpgraded
-"Modifier Type: Sort \n Increases vision of tower \n Allies near the Tower gain a +25% range and vision bonus \n Stacks with Sorts, Buffs, and Leaderships \n CapacitÈ passive"
+"Type d'Action : Sort \n Augmente la portÈe de vision de la tour.\n Les alliÈs proches de la tour gagnent un bonus de +25% vision \n S'accumule avec les Sorts, les Bonus, et les Charismes \n CapacitÈ passive"
 END
 
 UPGRADE:BTIronHillsBanner
@@ -65176,11 +65174,11 @@ CONTROLBAR:BTIronHillsBannerUpgraded
 END
 
 CONTROLBAR:ToolTipBTIronHillsBanner
-"Type d'Action : Sort\nLes alliÈs proches de la tour gagnent +15% dÈg‚ts (bonus cumulable).\n\nCapacitÈ passive\n Clic gauche pour acheter"
+"Type d'Action : Sort \n Les alliÈs proches de la tour gagnent +15% dÈg‚ts \n S'accumule avec les Sorts, les Bonus, et les Charismes \n CapacitÈ passive \n Clic gauche pour acheter"
 END
 
 CONTROLBAR:ToolTipBTIronHillsBannerUpgraded
-"Modifier Type: Sort \n Allies near the Tower gain +15% Damage \n Stacks with Sorts, Buffs, and Leaderships \n CapacitÈ passive"
+"Type d'Action : Sort \n Les alliÈs proches de la tour gagnent +15% dÈg‚ts \n S'accumule avec les Sorts, les Bonus, et les Charismes \n CapacitÈ passive"
 END
 
 UPGRADE:BTEredLuinBanner
@@ -65196,11 +65194,11 @@ CONTROLBAR:BTEredLuinBannerUpgraded
 END
 
 CONTROLBAR:ToolTipBTEredLuinBanner
-"Type d'Action : Sort\nLes alliÈs proches de la tour gagnent des ressources pour chaque ennemi tuÈ (bonus cumulable).\n\nCapacitÈ passive\n Clic gauche pour acheter"
+"Type d'Action : Sort \n Les alliÈs proches de la tour gagnent des ressources pour chaque ennemi tuÈ \n S'accumule avec les Sorts, les Bonus, et les Charismes \n CapacitÈ passive"
 END
 
 CONTROLBAR:ToolTipBTEredLuinBannerUpgraded
-"Modifier Type: Sort \n Allies near the Tower gain resources per kill \n Stacks with Sorts, Buffs, and Leaderships \n CapacitÈ passive"
+"Type d'Action : Sort \n Les alliÈs proches de la tour gagnent des ressources pour chaque ennemi tuÈ \n S'accumule avec les Sorts, les Bonus, et les Charismes \n CapacitÈ passive"
 END
 
 OBJECT:DwarfBatteringRam
@@ -65212,31 +65210,31 @@ CONTROLBAR:ConstructDwarfBatteringRam
 END
 
 CONTROLBAR:ToolTipBuildDwarfBatteringRam
-"Capables de porter un grand poids sur de grandes distances, les Nains d'Erebor forgent et sculptent leurs bÈliers dans leurs salles, plutÙt que d'utiliser des arbres abattus du champ de bataille.\n\nForts contre les portes des forteresses et les structures ennemies."
+"Capables de porter un grand poids sur de grandes distances, les Nains d'Erebor forgent et sculptent leurs bÈliers dans leurs salles, plutÙt que d'utiliser des arbres abattus du champ de bataille. \n\n Forts contre les portes des forteresses et les structures ennemies."
 END
 
 OBJECT:DwarfSiegeCrew
-"Dwarven Siege Crewer"
+"Equipe de SiËge des Nains"
 END
 
 OBJECT:RohanSiegeCrew
-"Rohan Siege Crewer"
+"Equipe de SiËge du Rohan"
 END
 
 CONTROLBAR:WannaBoroMiKnife
-"Couteau de Lancer"
+"Le Lancer d'ÈpÈe"
 END
 
 CONTROLBAR:TooltipWannaBoroMiKnife
-"Requiert : niveau 3\n Boromir lance son couteau sur une unitÈ ennemie pour la repousser et rÈduire leur armure.\n\nClic gauche sur l'icÙne puis clic gauche sur la cible"
+"Requiert : niveau 3 \n Boromir lance son ÈpÈe sur une unitÈ ennemie, ce qui les repoussent et rÈduisent leur armure. \n\n Clic gauche sur l'icÙne puis clic gauche sur la cible"
 END
 
 CONTROLBAR:TooltipFellowshipWannaBoroMiKnife
-"Boromir throws his knife at an enemy unit, knocking them back and reducing their armor \n Clic gauche sÈlectionner Clic gauche sur cible"
+"Boromir lance son ÈpÈe sur une unitÈ ennemie, ce qui les repoussent et rÈduisent leur armure. \n Clic gauche sÈlectionner Clic gauche sur cible"
 END
 
 CONTROLBAR:ToolTipSongOfDurin
-"Les VÈtÈrans de Khazad-d˙m entonnent un chant intimidant qui rÈduit l'armure des ennemis proches.\n\nClic gauche pour activer"
+"Les VÈtÈrans de Khazad-d˙m entonnent un chant intimidant qui rÈduit l'armure des ennemis proches. \n\n Clic gauche pour activer"
 END
 
 CONTROLBAR:SongOfDurin
@@ -65244,7 +65242,7 @@ CONTROLBAR:SongOfDurin
 END
 
 CONTROLBAR:ToolTipKiliHighSpirits
-"Requiert : niveau 8\n Donne de l'expÈrience aux troupes proches. N'affecte que les unitÈs naines.\n\nClic gauche sur l'icÙne puis clic gauche sur les unitÈs ciblÈes"
+"Requiert : niveau 8 \n Donne de l'expÈrience aux troupes proches. N'affecte que les unitÈs naines. \n\n Clic gauche sur l'icÙne puis clic gauche sur les unitÈs ciblÈes"
 END
 
 CONTROLBAR:KiliHighSpirits
@@ -65256,11 +65254,11 @@ CONTROLBAR:KnottedStrings
 END
 
 CONTROLBAR:ToolTipKnottedStrings
-"Requiert : niveau 2\nEn tendant les cordes au maximum, les arbalÈtriers augmentent la force des tirs : ils renversent temporairement leurs ennemis ‡ chaque tir.\n\nClic gauche pour activer"
+"Requiert : niveau 2 \n En tendant les cordes au maximum, les arbalÈtriers augmentent la force des tirs : ils renversent temporairement leurs ennemis ‡ chaque tir. \n\n Clic gauche pour activer"
 END
 
 CONTROLBAR:ToolTipKiliArrowDodge
-"KÌli gagne de faÁon permanente un bonus d'esquive contre les attaques ‡ distance.\n\nCapacitÈ passive"
+"KÌli gagne de faÁon permanente un bonus d'esquive contre les attaques ‡ distance. \n\n CapacitÈ passive"
 END
 
 CONTROLBAR:KiliArrowDodge
@@ -65296,7 +65294,7 @@ CONTROLBAR:ElendilLeadership
 END
 
 CONTROLBAR:ToolTipElendilLeadership
-"Elendil, fils de Amandil, Ètait le meneur des fidËles N˙mÈnorÈens, avant que Eru Il˙vatar ne noit la nation insulaire de N˙mÈnor comme punition pour l'arrogance de Ar-PharazÙn, leurs dernier roi. Elendil s'Èchappa avec ses deux fils et fonda N˙menorean kingdoms en Terre du Milieu. Ses places fortes Ètaient ‡ Ann˙minas, en Arnor, pendant que son fils rËgnait en sont nom depuis Minas Anor et Minas Ithil, en Gondor. \n\n Les alliÈs proches de Elendil gain \n +33% dÈg‚ts, +33% armure, \n et gagnent de l'expÈrience 50% plus rapidement.\n\nCapacitÈ passive"
+"Elendil, fils d'Amandil, Ètait le meneur des fidËles N˙mÈnorÈens, avant qu'Eru Il˙vatar ne noit la nation insulaire de N˙mÈnor comme punition pour l'arrogance d'Ar-PharazÙn, leurs dernier roi. Elendil s'Èchappa avec ses deux fils et fonda le Royaume N˙menÛrÈens en Terre du Milieu. Ses places fortes Ètaient ‡ Ann˙minas, en Arnor, pendant que son fils rËgnait en sont nom depuis Minas Anor et Minas Ithil, en Gondor. \n\n Les alliÈs proches de Elendil gain \n +33% de dÈg‚ts, +33% d'armure, \n et gagnent de l'expÈrience 50% plus rapidement.\n\n CapacitÈ passive"
 END
 
 CONTROLBAR:ElendurLeadership
@@ -65304,31 +65302,31 @@ CONTROLBAR:ElendurLeadership
 END
 
 CONTROLBAR:ToolTipElendurLeadership
-"Allies near Elendur gain \n +33% Damage, +33% Armor, \n and earn experience 50% faster\n CapacitÈ passive"
+"Les AlliÈes proches d'Elendur gagnent \n +33% de DÈg‚ts, +33% d'Armure, \n et octroient 50% d'experience plus vite \n CapacitÈ passive"
 END
 
 CONTROLBAR:ElendilRestoration
-"Mains du roi"
+"Les Mains du roi"
 END
 
 CONTROLBAR:ToolTipElendilRestoration
-"Soigne les alliËs proches et et recharge totalement\nle temps de chargement de leurs habilitÈs spÈciales\n\nClic gauche sur l'icÙne puis clic gauche sur la zone cible"
+"Soigne les alliËs proches et et recharge totalement \n le temps de chargement de leurs habilitÈs spÈciales \n\n Clic gauche sur l'icÙne puis clic gauche sur la zone cible"
 END
 
 CONTROLBAR:OinRestoration
-"Oin's O&intments"
+"Les Onguents d'O&in"
 END
 
 CONTROLBAR:ToolTipOinRestoration
-"Heals nearby allies \n Clic gauche sÈlectionner Clic gauche sur cible area"
+"Soigne les alliÈs proches \n Clic gauche sÈlectionner Clic gauche sur zone ciblÈ"
 END
 
 CONTROLBAR:ElendurRestoration
-"Hands of the Pr&ince"
+"Les Mains du Pr&ince"
 END
 
 CONTROLBAR:ToolTipElendurRestoration
-"Heals nearby allies and fully refreshes\ntheir special ability timers \n Clic gauche sÈlectionner Clic gauche sur cible area"
+"Soigne les alliÈs proches et rÈinitialise \n leurs compteurs de capactitÈs spÈciales \n Clic gauche sÈlectionner Clic gauche sur zone ciblÈ"
 END
 
 CONTROLBAR:ElendilFear
@@ -65336,39 +65334,39 @@ CONTROLBAR:ElendilFear
 END
 
 CONTROLBAR:ToolTipElendilFear
-"Fait fuir les unitÈs ennemies proches.\n\nClic gauche pour activer"
+"Fait fuir les unitÈs ennemies proches.\n\n Clic gauche pour activer"
 END
 
 CONTROLBAR:IsildurLeadership
-"HÈritier de N˙menor"
+"L'HÈritier de N˙menor"
 END
 
 CONTROLBAR:ToolTipIsildurLeadership
-"An·rion, l'aÓnÈ de Elendil, est tombÈ tÙt dans la Guerre de la DerniËre Alliance. Ce fut donc Isildur, son plus jeune fils, qui prit le commandement. Isildur Ètait un guerrier puissant et avait dÈj‡ prouvÈ son habiletÈ et son endurance pendant les derniers jours de N˙menor. \n\n  Les alliÈs proches de Isildur gagnent \n +33% dÈg‚ts, +33% armure, \n et gagnent de l'expÈrience 50% plus rapidement.\n\nCapacitÈ passive"
+"An·rion, l'aÓnÈ de Elendil, est tombÈ tÙt dans la Guerre de la DerniËre Alliance. Ce fut donc Isildur, son plus jeune fils, qui prit le commandement. Isildur Ètait un guerrier puissant et avait dÈj‡ prouvÈ son habiletÈ et son endurance pendant les derniers jours de N˙menor. \n\n  Les alliÈs proches de Isildur gagnent \n +33% de dÈg‚ts, +33% d'armure, \n et gagnent de l'expÈrience 50% plus rapidement.\n\n CapacitÈ passive"
 END
 
 CONTROLBAR:IsildurBladeMaster
-"Fragment de Narsil"
+"Les Fragments de Narsil"
 END
 
 CONTROLBAR:TooltipIsildurBladeMaster
-"Requiert : niveau 2 \n Isildur gagne +100% dÈg‚ts et +100% d'armure quand il prend les Èclats de l'ÈpÈe de son pËre \n\nClic gauche pour activer"
+"Requiert : niveau 2 \n Isildur gagne +100% dÈg‚ts et +100% d'armure quand il prend les Èclats de l'ÈpÈe de son pËre \n\n Clic gauche pour activer"
 END
 
 CONTROLBAR:GilGaladLeadership
-"Dernier Haut-Roi des Noldor"
+"Le Dernier Haut-Roi des Noldor"
 END
 
 CONTROLBAR:ToolTipGilGaladLeadership
-"AprËs la destruction du Beleriand ‡ la fin du premier Age, Ereinion Gil-galad alla ‡ l'est ‡ travers l'Ered Luin et forgea le royaume Noldorin au Lindon. De nombreux elfes se joignirent ‡ eux, and for much of the second age, his realm was a place of beauty and wisdom, firmly arrayed against Sauron's slow encroachment. \n\n Les alliÈs proches de Gil-galad gain \n +33% dÈg‚ts, +33% armure, \n et gagnent de l'expÈrience 50% plus rapidement.\n\nCapacitÈ passive"
+"AprËs la destruction du Beleriand ‡ la fin du premier Age, Ereinion Gil-galad alla ‡ l'est ‡ travers l'Ered Luin et forgea le royaume Noldorin au Lindon. De nombreux elfes se joignirent ‡ eux, and for much of the second age, his realm was a place of beauty and wisdom, firmly arrayed against Sauron's slow encroachment. \n\n Les alliÈs proches de Gil-galad gagnent \n +33% de dÈg‚ts, +33% d'armure, \n et gagnent de l'expÈrience 50% plus rapidement.\n\n CapacitÈ passive"
 END
 
 CONTROLBAR:GilGaladAeglosLance
-"His Lance Was Keen"
+"Sa Lance Ètait AiguisÈ"
 END
 
 CONTROLBAR:ToolTipGilGaladAeglosLance
-"Knocks down and pins target hero \n Normal units are knocked down and damaged \n Clic gauche then right click sur cible"
+"Renverse et marque le HÈros ciblÈ \n Les unitÈs normales sont renversÈes et endommagÈes \n Clic gauche then right click sur cible"
 END
 
 CONTROLBAR:ElrondLALeadership
@@ -65376,7 +65374,7 @@ CONTROLBAR:ElrondLALeadership
 END
 
 CONTROLBAR:ToolTipElrondLALeadership
-"When Gil-galad and Elendil joined forces, the Lord of Rivendell opened his sanctuary for the Kings to formulate their battleplans and assemble and their forces. Scores of mighty arms and armor were wrought in Imladris during this time. Elrond would be Gil-galad's herald in the war to come. \n\n  Les alliÈs proches de Elrond gain \n +33% dÈg‚ts, +33% armure, \n et gagnent de l'expÈrience 50% plus rapidement.\n\nCapacitÈ passive"
+"Quand Gil-galad et Elendil ont uni leurs forces, le Seigneur de Fondcombe a ouvert son sanctuaire pour les Rois afin de formuler leurs plans de bataille et assembler leurs forces. Des dizaines d'armes et d'armures puissantes ont ÈtÈ fabriquÈes ‡ Imladris pendant cette pÈriode. Elrond serait le HÈraut de Gil-galad dans la guerre ‡ venir. \n\n  Les alliÈs proches de Elrond gagnent \n +33% de dÈg‚ts, +33% d'armure, \n et gagnent de l'expÈrience 50% plus rapidement.\n\n CapacitÈ passive"
 END
 
 CONTROLBAR:ElrondArrowVolleyAbility
@@ -65384,7 +65382,7 @@ CONTROLBAR:ElrondArrowVolleyAbility
 END
 
 CONTROLBAR:ToolTipElrondArrowVolleyAbility
-"Elrond calls elven archers to bombard anywhere within a great radius with a volley of arrows \n\nClic gauche sur l'icÙne puis clic gauche sur la zone cible"
+"Elrond appelle les arches elfes ‡ bombarder n'importe o˘ dans un grand rayon avec une volÈe de flËches \n\n Clic gauche sur l'icÙne puis clic gauche sur la zone cible"
 END
 
 OBJECT:SecondAgeLindonWarrior
@@ -65392,7 +65390,6 @@ OBJECT:SecondAgeLindonWarrior
 END
 
 OBJECT:HordeSecondAgeLindonWarrior
-//"Guardian"
 "Guerriers du Lindon"
 END
 
@@ -65401,7 +65398,7 @@ CONTROLBAR:ConstructSecondAgeLindonWarriorHorde
 END
 
 CONTROLBAR:ToolTipBuildSecondAgeLindonWarriorHorde
-"Forts contre l'infanterie\n\n Gil-galad's forces were well armed and armored, carrying long swords and bows, shining and shimmering as they approached the Enemy."
+"Forts contre l'infanterie \n\n Les Forces de Gil-galad Ètaient bien armÈes et blindÈes, portant de longues ÈpÈes et des arcs, brillant et scintillant ‡ l'approche de l'Ennemi."
 END
 
 OBJECT:SecondAgeLindonSpearmen
@@ -65409,7 +65406,6 @@ OBJECT:SecondAgeLindonSpearmen
 END
 
 OBJECT:HordeSecondAgeLindonSpearmen
-//"Guardian"
 "Lanciers du Lindon"
 END
 
@@ -65418,25 +65414,23 @@ CONTROLBAR:ConstructSecondAgeLindonSpearmenHorde
 END
 
 CONTROLBAR:ToolTipBuildSecondAgeLindonSpearmenHorde
-"Forts contre les cavaliers\n\n With tall shields and immense spears, these Noldor warriors halted the swarming advance of Mordor's armies."
+"Forts contre les cavaliers \n\n Avec de grands boucliers et d'immenses lances, ces guerriers de Noldor ont stoppÈ l'avance grouillante des armÈes du Mordor."
 END
 
 OBJECT:SecondAgeFighter
-"D˙nedain Soldier"
+"Soldats de D˙nedain"
 END
 
 OBJECT:HordeSecondAgeFighter
-//"Guardian"
-"D˙nedain Soldiers"
+"Soldats de D˙nedain"
 END
 
 CONTROLBAR:ConstructSecondAgeFighterHorde
-"D˙nedain Soldiers"
+"Soldats de D˙nedain"
 END
 
-
 CONTROLBAR:ToolTipBuildSecondAgeFighterHorde
-"Forts contre l'infanterie \n\n Elendil's D˙nedain soldiers were of stature undimmed and undiluted blood - legendary warriors, feared by the Dark Lord's servants."
+"Forts contre l'infanterie \n\n Les Soldats du D˙nedain d'Elendil Ètaient de stature intact et de sang non altÈrÈ - des guerriers legendaires, craint par les serviteurs du Seigneur des TÈnËbres."
 END
 
 OBJECT:SecondAgeArcher
@@ -65444,48 +65438,47 @@ OBJECT:SecondAgeArcher
 END
 
 OBJECT:HordeSecondAgeArcher
-//"Guardian"
 "Archers du D˙nedain"
 END
 
 CONTROLBAR:ConstructSecondAgeArcherHorde
-"Archers D˙nedain"
+"Archers du D˙nedain"
 END
 
 CONTROLBAR:ToolTipBuildSecondAgeArcherHorde
-"Forts contre l'infanterie\n\n The D˙nedain under Elendil still made use N˙menÛrean hollow steel-bows and sent before them a great cloud of arrows, like rain turned to serpents."
+"Forts contre l'Infanterie \n\n Les D˙nedains selon Elendil utilisaient toujours des arcs creux en acier N˙menÛrÈens et envoyaient devant eux un grand nuage de flËches, comme si la pluie se transformait en serpents."
 END
 
 CONTROLBAR:ConstructLAGondorTent
-"Build a D˙nedain Tent"
+"Construire une Tente de D˙nedain"
 END
 
 CONTROLBAR:ToolTipConstructLAGondorTent
-"Recruits D˙nedain troops"
+"Recrutes des troupes de D˙nedain"
 END
 
 OBJECT:LAGondorTent
-"D˙nedain Tent"
+"Tente de D˙nedain"
 END
 
 OBJECT:LAGondorTentDescription
-"Recruits D˙nedain troops"
+"Recrutes des troupes de D˙nedain"
 END
 
 CONTROLBAR:ConstructLAElvenTent
-"Build a Noldor Tent"
+"Construire une Tente de Noldor"
 END
 
 CONTROLBAR:ToolTipConstructLAElvenTent
-"Recruits Noldor troops"
+"Recrutes des troupes de Noldor"
 END
 
 OBJECT:LAElvenTent
-"Noldor Tent"
+"Tente de Noldor"
 END
 
 OBJECT:LAElvenTentDescription
-"Recruits Noldor troops"
+"Recrutes des troupes de Noldor"
 END
 
 CONTROLBAR:VWMineLeadership
@@ -65493,140 +65486,139 @@ CONTROLBAR:VWMineLeadership
 End
 
 CONTROLBAR:ToolTipVWMineLeadership
-"Type d'Action : Charisme \n Lorsqu'ils sont proches d'une mine alliÈe, les Gardiens des Portes gagnent +25% dÈg‚ts et +50% armure et gagnent de l'expÈrience 50% plus rapidement (bonus cumulable).\n\nCapacitÈ passive"
+"Type d'Action : Charisme \n Lorsqu'ils sont proches d'une mine alliÈe, les Gardiens des Portes gagnent +25% dÈg‚ts et +50% armure et gagnent de l'expÈrience 50% plus rapidement (bonus cumulable). \n\n CapacitÈ passive"
 End
 
 OBJECT:HordeDwarvenArcherDwarvenPhalanxCombo
-"Piquiers d'Erebor - Archers d'Erebor Horde"
+"Bataillons Piquiers - Archers d'Erebor"
 END
 
 CONTROLBAR:LW_Unit_DwarvenArcherDwarvenPhalanxHorde
-"Erebor Phalanx - Erebor Archers Battalion"
+"Bataillons Phalanges - Archers d'Erebor"
 END
 
 CONTROLBAR:LW_Unit_DwarvenArcherDwarvenPhalanxHordePlural
-"Bataillons de Piquiers - Archers d'Erebor"
+"Bataillons Piquiers - Archers d'Erebor"
 END
 
 CONTROLBAR:LW_ToolTipBuild_DwarvenArcherDwarvenPhalanxHorde
-"Type d'unitÈ : piquiers standards and Basic Archers\nForts contre l'infanterie and Cavalry\n"
+"Type d'unitÈ: Piquier et Archers Basique \n Fort contre l'Infantrie et la Cavalerie"
 END
 
 CONTROLBAR:LW_ToolTip_DwarvenArcherDwarvenPhalanxHorde
-"\nType d'unitÈ: Basic Pikemen and Basic Archers\n Fort contre l'Infantrie and Cavalry"
+"Type d'unitÈ: Piquier et Archers Basique \n Fort contre l'Infantrie et la Cavalerie"
 END
 
 OBJECT:HordeDwarvenArcherDwarvenGuardianCombo
-"Erebor Guardian - Archers d'Erebor Horde"
+"Bataillon Gardien - Archer d'Erebor"
 END
 
 CONTROLBAR:LW_Unit_DwarvenArcherDwarvenGuardianHorde
-"Erebor Guardian - Erebor Archer Battalion"
+"Bataillons Gardiens - Archers d'Erebor"
 END
 
 CONTROLBAR:LW_Unit_DwarvenArcherDwarvenGuardianHordePlural
-"Bataillons de Erebor Guardian - Archers d'Erebor "
+"Bataillons Gardiens - Archers d'Erebor"
 END
 
 CONTROLBAR:LW_ToolTipBuild_DwarvenArcherDwarvenGuardianHorde
-"Type d'unitÈ : infanterie standard and Basic Archers\nForts contre l'infanterie et les piquiers\n"
+"Type d'unitÈ : Infantrie et Archer Basique \n Forts contre l'infanterie et les piquiers"
 END
 
 OBJECT:HordeIronHillsArcherDwarvenGuardianCombo
-"Iron Hill Warriors - Iron Hill Crossbows Horde"
+"Bataillon Guerrier des Monts de Fer - Arbaletrier des Monts de Fer"
 END
 
 CONTROLBAR:LW_Unit_IronHillsArcherDwarvenGuardianHordePlural
-"Bataillons de Iron Hill Warriors - Iron Hill Crossbows "
+"Bataillons Guerriers des Monts de Fer - Arbaletriers des Monts de Fer"
 END
 
 CONTROLBAR:LW_ToolTipBuild_IronHillsArcherDwarvenGuardianHorde
-"Type d'unitÈ : infanterie et archers d'Èlite\nForts contre l'infanterie et les piquiers\n"
+"Type d'unitÈ : Infanterie et Archers d'Èlite \n Forts contre l'infanterie et les piquiers"
 END
 
 OBJECT:HordeDwarvenPhalanxDwarvenGuardianCombo
-"Erebor Guardian - Piquiers d'Erebor Horde"
+"Bataillons Gardiens - Piquiers d'Erebor"
 END
 
 CONTROLBAR:LW_Unit_DwarvenPhalanxDwarvenGuardianHorde
-"Erebor Guardian - Erebor Phalanx Battalion"
+"Bataillons Gardiens - Phalanges d'Erebor"
 END
 
 CONTROLBAR:LW_Unit_DwarvenPhalanxDwarvenGuardianHordePlural
-"Bataillons Erebor Guardian - Piquiers d'Erebor"
+"Bataillons Gardiens - Piquiers d'Erebor"
 END
 
 CONTROLBAR:LW_ToolTipBuild_DwarvenPhalanxDwarvenGuardianHorde
-"Type d'unitÈ : infanterie et piquiers standards\nForts contre les cavaliers et les piquiers\n"
+"Type d'unitÈ : Infantrie et Piquier Basique \n Forts contre les cavaliers et les piquiers"
 END
 
 OBJECT:HordeDwarvenHammerDwarvenGuardianCombo
-"Erebor Guardian - Mornes-Martels Horde"
+"Bataillons Gardiens d'Erebor - Marteliers Sinistre"
 END
 
 CONTROLBAR:LW_Unit_DwarvenHammerDwarvenGuardianHorde
-"Erebor Guardian - Erebor Grim Hammer Battalion"
+"Bataillon Gardien d'Erebor - Martelier Sinistre"
 END
 
 CONTROLBAR:LW_Unit_DwarvenHammerDwarvenGuardianHordePlural
-"Bataillons Erebor Guardian - Mornes-Martels"
+"Bataillons Gardiens d'Erebor - Marteliers Sinistre"
 END
 
 CONTROLBAR:LW_ToolTipBuild_DwarvenHammerDwarvenGuardianHorde
-"Type d'unitÈ : infanterie standard \nForts contre les piquiers\n"
+"Type d'unitÈ : Infantrie Basique \n Forts contre les piquiers"
 END
 
 CONTROLBAR:LW_ToolTip_DwarvenHammerDwarvenGuardianHorde
-"\nType d'unitÈ: Basic Infantry \n Fort contre les Piquiers"
+"Type d'unitÈ : Infantrie Basique \n Fort contre les Piquiers"
 END
 
 OBJECT:HordeDwarvenHammerDwarvenHammerCombo
-"Erebor Grim Hammer combinÈ Battalion"
+"Bataillon de Marteliers Sinistre d'Erebor combinÈ"
 END
 
 CONTROLBAR:LW_Unit_DwarvenHammerDwarvenHammerHordePlural
-"Erebor Grim Hammer combinÈ Battalions"
+"Bataillon de Marteliers Sinistre d'Erebor combinÈ"
 END
 
 CONTROLBAR:LW_ToolTipBuild_DwarvenHammerDwarvenHammerHorde
-"Type d'unitÈ: Basic Infantry \n Fort contre les Piquiers\n"
+"Type d'unitÈ : Infantrie Basique \n Fort contre les Piquiers"
 END
 
 OBJECT:HordeDwarvenPhalanxDwarvenHammerCombo
-"Mornes-Martels - Piquiers d'Erebor Horde"
+"Bataillon Marteliers Sinistre - Piquiers d'Erebor"
 END
 
 CONTROLBAR:LW_Unit_DwarvenPhalanxDwarvenHammerHorde
-"Erebor Grim Hammer - Erebor Phalanx Battalion"
+"Bataillon Marteliers Sinistre - Phalange d'Erebor"
 END
 
 CONTROLBAR:LW_Unit_DwarvenPhalanxDwarvenHammerHordePlural
-"Bataillons de Mornes-Martels - Piquiers d'Erebor"
+"Bataillons de Marteliers Sinistre - Piquiers d'Erebor"
 END
 
 CONTROLBAR:LW_ToolTipBuild_DwarvenPhalanxDwarvenHammerHorde
-"Type d'unitÈ : infanterie standard and Basic Pikemen\nForts contre les cavaliers et les piquiers\n"
+"Type d'unitÈ : Infantrie et Piquier Basique \n Fort contre la Cavalerie et Piquier"
 END
 
 CONTROLBAR:LW_ToolTip_DwarvenPhalanxDwarvenHammerHorde
-"n\Type d'unitÈ: Basic Infantry and Basic Pikemen\n Fort contre la Cavalerie and Pikemen"
+"Type d'unitÈ : Infantrie et Piquier Basique \n Fort contre la Cavalerie et Piquier"
 END
 
 OBJECT:GrimHammer
-"Morne-Martel d'Erebor"
+"Martelier Sinistre d'Erebor"
 END
 
 OBJECT:HordeGrimHammer
-//"Guardian"
-"Mornes-Martels d'Erebor"
+"Marteliers Sinistre d'Erebor"
 END
 
 CONTROLBAR:ConstructGrimHammerHorde
-"Mornes-Martels d'Erebor"
+"Marteliers Sinistre d'Erebor"
 END
 
 CONTROLBAR:ToolTipBuildGrimHammerHorde
-"Lorsque les Nains se rassemblent pour infliger leur terrible vengeance, leur avant-garde est souvent constituÈe de Mornes-martels. Ces guerriers Nains dÈterminÈs, engoncÈs des pieds ‡ la tÍte dans une armure de plates et de mailles, progressent avec des intentions meurtriËres.\n\nForts contre les piquiers."
+"Lorsque les Nains se rassemblent pour infliger leur terrible vengeance, leur avant-garde est souvent constituÈe de Mornes-martels. Ces guerriers Nains dÈterminÈs, engoncÈs des pieds ‡ la tÍte dans une armure de plates et de mailles, progressent avec des intentions meurtriËres. \n\n Forts contre les piquiers."
 END
 
 CONTROLBAR:GrimIntimidate
@@ -65634,28 +65626,27 @@ CONTROLBAR:GrimIntimidate
 End
 
 CONTROLBAR:TooltipGrimIntimidate
-"Requiert : niveau 2 \n Type d'Action : PÈnalitÈ passive\nLes unitÈs ennemies proches des Mornes-Martels subissent -10% vitesse (bonus cumulable).\n\nCapacitÈ passive"
+"Requiert : niveau 2 \n Type d'Action : PÈnalitÈ passive \n Les unitÈs ennemies proches des Marteliers Sinistre subissent -10% vitesse (bonus cumulable). \n\n CapacitÈ passive"
 End
 
 CONTROLBAR:PurchaseUpgradeDwarvenTrainingWagon
-"Unfurl Pied-d'Acier's Banners!"
+"DÈployer les BanniËres de Pied-d'Acier!"
 END
-
 
 CONTROLBAR:ToolTipPurchaseUpgradeDwarvenTrainingWagon
 "Le chariot de guerre passe au niveau 2.\n Utilisable seulement au niveau 1"
 End
 
 TOOLTIP:LackDwarvenBasicTrainingForBattleWagon
-"Research Banner Carrier upgrade at Grand Forge to enable this upgrade\nIncreases the Battle Wagon's rank au niveau 2\nOn Level 2, nearby allies gain\n+33% dÈg‚ts, +33% armure,\nand earn experience twice as fast\n"
+"Recherche l'amÈlioration des Portes-BanniËres ‡ la Grande Forge \n Augmente les Chariots de Guerre au niveau 2 \n Les AlliÈes proches gagnent \n +33% de DÈg‚ts, +33% d'Armure, \n et octroie deux fois plus vite de l'expÈrience"
 END
 
 CONTROLBAR:DwarvenWagonButtonBC
-"Unfurl Ironfoot's Banners!"
+"DÈployer les BanniËres de Pied-d'Acier!"
 END
 
 CONTROLBAR:TooltipDwarvenWagonButtonBC
-"Research Banner Carrier upgrade at Grand Forge\nIncreases the Battle Wagon's rank au niveau 2\nNearby allies gain\n+33% Damage, +33% Armor,\nand earn experience twice as fast"
+"Recherche l'amÈlioration des Portes-BanniËres ‡ la Grande Forge \n Augmente les Chariots de Guerre au niveau 2 \n Les AlliÈes proches gagnent \n +33% de DÈg‚ts, +33% d'Armure, \n et octroie deux fois plus vite de l'expÈrience"
 END
 
 CONTROLBAR:DwarvenWagonButon1
@@ -65663,7 +65654,7 @@ CONTROLBAR:DwarvenWagonButon1
 END
 
 CONTROLBAR:TooltipDwarvenWagonButon1
-"Requiert : niveau 3\nAjoute plusieurs arbalÈtriers au chariot de guerre."
+"Requiert : niveau 3 \n Ajoute plusieurs arbalÈtriers au chariot de guerre."
 END
 
 CONTROLBAR:DwarvenWagonButon2
@@ -65671,7 +65662,7 @@ CONTROLBAR:DwarvenWagonButon2
 END
 
 CONTROLBAR:TooltipDwarvenWagonButon2
-"Requiert : niveau 4 \nLes roues du chariot sont ÈquipÈes de dangereuses lames pour dÈchiqueter les ennemis dans la mÍlÈe.\nRÈduit la dÈcÈlÈration lors des charges du chariot."
+"Requiert : niveau 4 \n Les roues du chariot sont ÈquipÈes de dangereuses lames pour dÈchiqueter les ennemis dans la mÍlÈe. \n RÈduit la dÈcÈlÈration lors des charges du chariot."
 END
 
 CONTROLBAR:DwarvenWagonButon3
@@ -65679,7 +65670,7 @@ CONTROLBAR:DwarvenWagonButon3
 END
 
 CONTROLBAR:TooltipDwarvenWagonButon3
-"Requiert : niveau 5 \nLe chariot et son Èquipage se soignent en dehors des combats."
+"Requiert : niveau 5 \n Le chariot et son Èquipage se soignent en dehors des combats."
 END
 
 //----- Dol Guldur --------
@@ -65693,7 +65684,7 @@ CONTROLBAR:ConstructGuldurCastellan
 END
 
 CONTROLBAR:ToolTipBuildGuldurCastellan
-"Anonymes, dÈpourvus de volontÈ propre et de personnalitÈ, les Castellans de Dol Guldur ne sont qu'un aspect de l'Èternelle malfaisance de la tour.\nIls sont dÈnuÈs de forme physique ‡ l'exception de celles que leur confËrent leurs lourdes armures, et arpentent les sentiers environnant Dol Guldur, tuant tous ceux qu'ils rencontrent.\nCes gardiens sont tous entrÈs au service de Sauron d'une faÁon diffÈrente. Certains cherchaient en lui un maÓtre pour apprendre la sorcellerie, d'autres ne sont que les restes immatÈriels de ceux qui ont connu l'agonie au fond de ses donjons. Tous lui sont irrÈmÈdiablement liÈs et le serviront de toute leur ‚me, ou de ce qu'il en reste.\n\nForts contre les ÈpÈistes et les archers."
+"Anonymes, dÈpourvus de volontÈ propre et de personnalitÈ, les Ch‚telains de Dol Guldur ne sont qu'un aspect de l'Èternelle malfaisance de la tour. \n Ils sont dÈnuÈs de forme physique ‡ l'exception de celles que leur confËrent leurs lourdes armures, et arpentent les sentiers environnant Dol Guldur, tuant tous ceux qu'ils rencontrent. \n Ces gardiens sont tous entrÈs au service de Sauron d'une faÁon diffÈrente. Certains cherchaient en lui un maÓtre pour apprendre la sorcellerie, d'autres ne sont que les restes immatÈriels de ceux qui ont connu l'agonie au fond de ses donjons. Tous lui sont irrÈmÈdiablement liÈs et le serviront de toute leur ‚me, ou de ce qu'il en reste. \n\n Forts contre les ÈpÈistes et les archers."
 END
 
 OBJECT:DwarfTruesilverMine
@@ -65701,101 +65692,109 @@ OBJECT:DwarfTruesilverMine
 END
 
 OBJECT:DwarfTruesilverMineDescription
-//"A vein of truesilver has been found below this building. Due to its rarity, the lode will be exhausted shortly."
-"AppelÈ "vrai-argent" par les Hommes, c'est une ancienne mine naine : capturez l‡ pour gÈnÈrer des ressources supplÈmentaires."
+"AppelÈ 'Vrai-Argent' par les Hommes, c'est une ancienne mine naine : capturez l‡ pour gÈnÈrer des ressources supplÈmentaires. \n\n Une veine de Mithril a ÈtÈ trouvÈe sous ce b‚timent. En raison de sa raretÈ, le filon sera ÈpuisÈ sous peu."
 END
 
 OBJECT:RhovanionEstate
-"Rhovanion Estate"
+"Les Possessions du Rhovanion"
 END
 
 OBJECT:RhovanionEstateDescription
-//"A vein of truesilver has been found below this building. Due to its rarity, the lode will be exhausted shortly."
-"Capture to generate extra resources"
+"Capturer pour gÈnÈrer des ressources supplÈmentaires. \n\n Une veine de Mithril a ÈtÈ trouvÈe sous ce b‚timent. En raison de sa raretÈ, le filon sera ÈpuisÈ sous peu."
 END
 
 OBJECT:DwarfCampElevator
-"Dwarf Stairwell"
+"Cage d'escalier Naine"
 END
+
 OBJECT:DwarfCampGatehouse
-"Dwarf Camp Gatehouse"
+"Camp du Corps de Garde Nain"
 END
+
 OBJECT:DwarfCampGate
-"Dwarf Gate"
+"Porte Naine"
 END
+
 OBJECT:DwarfCastleKeep
-"Nain Citadelle"
+"Citadelle Naine"
 END
+
 OBJECT:DwarfCastleWall
-"Dwarf Fortif"
+"Fortification Naine"
 END
+
 OBJECT:DwarfCastleHub
-"Dwarf Fortified Wall Hub"
+"Moyeu FortifiÈ Nain"
 END
+
 OBJECT:DwarfCastleGatehouse
-"Dwarf Fortified Gatehouse"
+"Corps de Garde FortifiÈ Nain"
 END
+
 OBJECT:DwarfCastleGate
-"Dwarf Reinforced Gate"
+"Porte RenforcÈe Naine"
 END
+
 OBJECT:DwarfCastleStairs
-"Dwarf Stairway"
+"Escalier Nain"
 END
+
 OBJECT:DwarfOutpostKeep
-"Dwarf Outpost"
+"Avant-Poste Nain"
 END
 
 OBJECT:DwarfOutpostFence
-"Dwarf Low Fence"
+"Petite Barricade Naine"
 END
 
 OBJECT:DwarfOutpostDefenceFoundation
-"Outpost Defensive Foundation"
+"Foundation d'Avant-Poste DÈfensive"
 END
 
 OBJECT:DwarfWatchtower
-"Dwarf Watchtower"
+"La Tour de Guet Naine"
 END
 
 OBJECT:DwarfPosternGate
-"Secret Gate"
+"Porte SecrËte"
 END
 
 // ROHAN BITCH
+
 CONTROLBAR:ToolTipPurchaseUpgradeRohanFortressBanners
-"Modifier Type: Leadership \n Allies near the Fortress gain +33% Damage, +33% Armor, and earn experience 50% faster. \n S'accumule avec les Bonus et les Sorts \n\nReduces HÈros cost by 10% \n Reduces HÈros recruit time by 10% \n Reduces the cost of builders by 20%"
+"Type d'action : Charisme \n Les AlliÈs proches de la Forteresse gagnent +33% de DÈg‚ts, +33% d'Armure, et obtient 50% d'expÈrience plus vite. \n S'accumule avec les Bonus et les Sorts \n\n RÈduit le co˚t des HÈros de 10% \n RÈduit le temps de recrutement de 10% \n RÈduit le co˚t de construction de 20%"
 END
 
 CONTROLBAR:PurchaseUpgradeRohanFortressBanners
-"Royal Banners"
+"Les BanniËres Royales"
 END
 
 CONTROLBAR:HornofHammerhand
-"Horns of Hammerhand"
+"Les Cornes de Main-Marteau"
 END
 
 CONTROLBAR:TooltipHornofHammerhand
-"Requires Horns of Hammerhand Upgrade \n Causes nearby enemy troops to be stunned in fear\n Clic gauche pour activer"
+"Requiert l'amÈlioration des Cornes de Main-Marteau \n StupÈfait les troupes ennemies proches de la Peur \n Clic gauche pour activer"
 END
 
 CONTROLBAR:PurchaseUpgradeDesperateGarrison
-"Desperate &Garrison"
+"Garnison DÈsespÈrÈe"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeDesperateGarrison
-"Stations Spear-throwers in the Fortress"
+"Stationne des Lanceurs de Lance dans la Forteresse"
 END
 
 CONTROLBAR:PurchaseUpgradeHornofHammerhand
-"Horns of Hammerhand"
+"Les Cornes de Main-Marteau"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeHornofHammerhand
-"Allows the Fortress to use the Horns of Hammerhand ability\n Causes nearby enemy troops to be stunned in fear"
+"Permet ‡ la Forteresse d'utiliser la capacitÈ des Cornes de Main-Marteau \n Les troupes ennemies proches sont stupÈfaites de Peur"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeHornofHammerhand_WOTR
-"Allows the Fortress to use the Horns of Hammerhand ability \n Causes nearby enemy troops to be stunned in fear"
+"Permet ‡ la Forteresse d'utiliser la capacitÈ des Cornes de Main-Marteau \n Les troupes ennemies proches sont stupÈfaites de Peur"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeHornofHammerhandForMaps
@@ -67443,7 +67442,7 @@ CONTROLBAR:ElrondHeavyArmor
 END
 
 CONTROLBAR:ToolTipElrondHeavyArmor
-"Requiert : Niveau 6 \n Elrond s'Èquipe de son Armure Lourd \n Modifier Type: Sort \n Elrond gagne +50% d'Armure et +50% de rÈsistance aux renversements \n S'accumule avec les Bonus et les Sorts \n CapacitÈ passive"
+"Requiert : Niveau 6 \n Elrond s'Èquipe de son Armure Lourd \n Type d'Action : Sort \n Elrond gagne +50% d'Armure et +50% de rÈsistance aux renversements \n S'accumule avec les Bonus et les Sorts \n CapacitÈ passive"
 END
 
 CONTROLBAR:ElrondRingOfAir
@@ -67451,7 +67450,7 @@ CONTROLBAR:ElrondRingOfAir
 END
 
 CONTROLBAR:TooltipElrondRingOfAir
-"Requiert : Niveau 10 \n Modifier Type: Bonus \n CrÈe un sanctuaire circulaire dans lequel toutes les unitÈs alliÈes gagnent +150% d'Armure, deviennent furtives, et immunisÈ contre la Peur et la Terreur dans la rÈgion \n S'accumule avec le Charisme et les Sorts \n\n Modifier Type: AltÈration ActivÈ \n A proximitÈ des unitÈes ennemies subissent -25% de DÈg‚ts et -20% d'Armure \n Annule le Charisme ennemi \n Ne se cumule pas avec les autres altÈrations \n Clic gauche sÈlectionner Clic gauche sur zone ciblÈ"
+"Requiert : Niveau 10 \n Type d'Action : Bonus \n CrÈe un sanctuaire circulaire dans lequel toutes les unitÈs alliÈes gagnent +150% d'Armure, deviennent furtives, et immunisÈ contre la Peur et la Terreur dans la rÈgion \n S'accumule avec le Charisme et les Sorts \n\n Type d'Action : AltÈration ActivÈ \n A proximitÈ des unitÈes ennemies subissent -25% de DÈg‚ts et -20% d'Armure \n Annule le Charisme ennemi \n Ne se cumule pas avec les autres altÈrations \n Clic gauche sÈlectionner Clic gauche sur zone ciblÈ"
 END
 
 CONTROLBAR:ElrondMountTooltip
@@ -67641,7 +67640,7 @@ CONTROLBAR:ToolTipDescriptionRohanWindmill
 END
 
 OBJECT:RohanStablesDescription
-"GÈnËre des ressources selon le terrain disponible \n Niveau 2: +10% de vitesse de construction \n Level 3: +25% de vitesse de construction \n\n Bonus MaÓtre Cavalier \n Modifier Type: Bonus \n Accorde +5% d'armure supplÈmentaire ‡ toutes les unitÈs de Cavalere sur la carte \n S'accumule avec le Charisme et les Sorts \n 1 Ecuries : 5% \n 2 Ecuries : 10% \n 3 Ecuries : 15% \n 4 Ecuries : 20% \n 5 Ecuries : 25% \n 6 Ecuries : 30% \n 7 Ecuries : 35% \n 8+ Ecuries : 40% \n Augmente la limite des points de comandemments de 50"
+"GÈnËre des ressources selon le terrain disponible \n Niveau 2: +10% de vitesse de construction \n Level 3: +25% de vitesse de construction \n\n Bonus MaÓtre Cavalier \n Type d'Action : Bonus \n Accorde +5% d'armure supplÈmentaire ‡ toutes les unitÈs de Cavalere sur la carte \n S'accumule avec le Charisme et les Sorts \n 1 Ecuries : 5% \n 2 Ecuries : 10% \n 3 Ecuries : 15% \n 4 Ecuries : 20% \n 5 Ecuries : 25% \n 6 Ecuries : 30% \n 7 Ecuries : 35% \n 8+ Ecuries : 40% \n Augmente la limite des points de comandemments de 50"
 END
 
 GUI:FIELD_DISCOUNT
@@ -67680,11 +67679,11 @@ CONTROLBAR:WestfoldHorn
 END
 
 CONTROLBAR:TooltipWestfoldHorn
-"Modifier Type: Bonus \n Les alliÈs ciblÈ gagnent +50% de DÈg‚ts et +50% d'Armure \n S'accumule avec le Charisme et les Sorts \n Une fois utilisÈ, dÈverouille passivements Erkenbrand and les Ouestfoldes \n Clic gauche sÈlectionner Clic gauche sur unitÈs ciblÈ "
+"Type d'Action : Bonus \n Les alliÈs ciblÈ gagnent +50% de DÈg‚ts et +50% d'Armure \n S'accumule avec le Charisme et les Sorts \n Une fois utilisÈ, dÈverouille passivements Erkenbrand and les Ouestfoldes \n Clic gauche sÈlectionner Clic gauche sur unitÈs ciblÈ "
 END
 
 CONTROLBAR:TooltipWestfoldHorn_WOTR
-"Modifier Type: Bonus \n Les alliÈs ciblÈ gagnent +50% de DÈg‚ts et +50% d'Armure \n S'accumule avec le Charisme et les Sorts \n Une fois utilisÈ, dÈverouille passivement les Ouestfoldes \n Clic gauche sÈlectionner Clic gauche sur unitÈs ciblÈ "
+"Type d'Action : Bonus \n Les alliÈs ciblÈ gagnent +50% de DÈg‚ts et +50% d'Armure \n S'accumule avec le Charisme et les Sorts \n Une fois utilisÈ, dÈverouille passivement les Ouestfoldes \n Clic gauche sÈlectionner Clic gauche sur unitÈs ciblÈ "
 END
 
 CONTROLBAR:PukelStatue
@@ -67860,15 +67859,15 @@ CONTROLBAR:ThreeHuntersLeadership
 END
 
 CONTROLBAR:ToolTipHuntersLeadershipAragorn
-"Modifier Type: Charisme \n A proximitÈ d'Aragorn ou de Legolas, Gimli gagne +25% d'armure et de vitesse \n CapacitÈ passive"
+"Type d'Action : Charisme \n A proximitÈ d'Aragorn ou de Legolas, Gimli gagne +25% d'armure et de vitesse \n CapacitÈ passive"
 END
 
 CONTROLBAR:ToolTipHuntersLeadershipLegolas
-"Modifier Type: Charisme \n A proximitÈ d'Aragorn ou de Legolas, Gimli gagne +25% d'armure et de vitesse \n CapacitÈ passive"
+"Type d'Action : Charisme \n A proximitÈ d'Aragorn ou de Legolas, Gimli gagne +25% d'armure et de vitesse \n CapacitÈ passive"
 END
 
 CONTROLBAR:ToolTipHuntersLeadershipGimli
-"Modifier Type: Charisme \n A proximitÈ d'Aragorn ou de Legolas, Gimli gagne +25% d'armure et de vitesse \n CapacitÈ passive"
+"Type d'Action : Charisme \n A proximitÈ d'Aragorn ou de Legolas, Gimli gagne +25% d'armure et de vitesse \n CapacitÈ passive"
 END
 
 CONTROLBAR:HarkenToMeLeadership
@@ -67876,7 +67875,7 @@ CONTROLBAR:HarkenToMeLeadership
 END
 
 CONTROLBAR:ToolTipHarkenToMeLeadership
-"Modifier Type: Charisme \n Les HÈros proches ont un temps de recharge rÈduit \n CapacitÈ passive"
+"Type d'Action : Charisme \n Les HÈros proches ont un temps de recharge rÈduit \n CapacitÈ passive"
 END
 
 CONTROLBAR:DoorWardenKingsguardLeadership
@@ -67884,7 +67883,7 @@ CONTROLBAR:DoorWardenKingsguardLeadership
 END
 
 CONTROLBAR:TooltipDoorWardenKingsguardLeadership
-"Modifier Type: Charisme \n La Garde Royale confËre aux structures voisines +33% d'armure. \n S'accumule avec les Bonus et les Sorts \n \n CapacitÈ passive"
+"Type d'Action : Charisme \n La Garde Royale confËre aux structures voisines +33% d'armure. \n S'accumule avec les Bonus et les Sorts \n \n CapacitÈ passive"
 END
 
 CONTROLBAR:KingsguardLeadership
@@ -67893,7 +67892,7 @@ CONTROLBAR:KingsguardLeadership
 END
 
 CONTROLBAR:TooltipKingsguardLeadership
-"Modifier Type: Charisme \n Les Gardes Royaux accordent aux HÈros proches +15% d'armure et +10% de vitesse \n S'accumule avec les Bonus et les Sorts \n \n CapacitÈ passive"
+"Type d'Action : Charisme \n Les Gardes Royaux accordent aux HÈros proches +15% d'armure et +10% de vitesse \n S'accumule avec les Bonus et les Sorts \n \n CapacitÈ passive"
 END
 
 OBJECT:RohanHorsemen
@@ -67909,7 +67908,7 @@ CONTROLBAR:HamaLeadership
 END
 
 CONTROLBAR:ToolTipHamaLeadership
-"Modifier Type: Sort \n Pour chaque b‚timent alliÈ proche de H·ma,\n il obtient +15% Armure \n S'accumule avec les Bonus et Sorts \n CapacitÈ passive"
+"Type d'Action : Sort \n Pour chaque b‚timent alliÈ proche de H·ma,\n il obtient +15% Armure \n S'accumule avec les Bonus et Sorts \n CapacitÈ passive"
 END
 
 CONTROLBAR:GamlingWhateverEnd
@@ -67917,7 +67916,7 @@ CONTROLBAR:GamlingWhateverEnd
 END
 
 CONTROLBAR:ToolTipGamlingWhateverEnd
-"Modifier Type: Bonus \n Le HÈros ciblÈ gagne temporairement +25% d'Armure \n Ne peut Ítre utilisÈ que sur ThÈoden, …omer, Eowyn ou ThÈodred \n S'accumule avec le Charisme et les Sorts \n Clic gauche sÈlectionner Clic gauche sur cible hero"
+"Type d'Action : Bonus \n Le HÈros ciblÈ gagne temporairement +25% d'Armure \n Ne peut Ítre utilisÈ que sur ThÈoden, …omer, Eowyn ou ThÈodred \n S'accumule avec le Charisme et les Sorts \n Clic gauche sÈlectionner Clic gauche sur cible hero"
 END
 
 CONTROLBAR:StrengthRemembered
@@ -67957,7 +67956,7 @@ CONTROLBAR:ErkenbrandLeadership
 END
 
 CONTROLBAR:ToolTipErkenbrandLeadership
-"Requiert : Niveau 5 \n Modifier Type: Charisme \n Les Ouestfoldes proche d'Erkenbrand gagnent +33% d'Armoure \n S'accumule avec les Bonus et les Sorts \n CapacitÈ passive"
+"Requiert : Niveau 5 \n Type d'Action : Charisme \n Les Ouestfoldes proche d'Erkenbrand gagnent +33% d'Armoure \n S'accumule avec les Bonus et les Sorts \n CapacitÈ passive"
 END
 
 CONTROLBAR:ErkenbrandReinforcements
@@ -67973,7 +67972,7 @@ CONTROLBAR:GrimboldLeadership
 END
 
 CONTROLBAR:ToolTipGrimboldLeadership
-"Requiert : Niveau 5 \n Modifier Type: Charisme \n Les unitÈs d'Infantrie ‡ proximitÈ gagnent +33% d'Armure et +33% de DÈg‚ts \n S'accumule avec les Bonus et les Sorts \n CapacitÈ passive"
+"Requiert : Niveau 5 \n Type d'Action : Charisme \n Les unitÈs d'Infantrie ‡ proximitÈ gagnent +33% d'Armure et +33% de DÈg‚ts \n S'accumule avec les Bonus et les Sorts \n CapacitÈ passive"
 END
 
 CONTROLBAR:GrimboldProtection
@@ -68029,7 +68028,7 @@ CONTROLBAR:TheodredPrinceRiddermark
 END
 
 CONTROLBAR:ToolTipTheodredPrinceRiddermark
-"Requiert : Niveau 5 \n ThÈodred Èquipe sa cape royale \n Modifier Type: Charisme \n Accorde +20% aux Armures and +10% aux DÈg‚ts d'Attaques, vitesse de dÈplacement et rÈgÈnÈration de santÈ \n pour ThÈoden, …omer et …owyn \n Les unitÈs proches gagnent +35% de DÈg‚ts \n S'accumule avec les Bonus et les Sorts \n CapacitÈ passive"
+"Requiert : Niveau 5 \n ThÈodred Èquipe sa cape royale \n Type d'Action : Charisme \n Accorde +20% aux Armures and +10% aux DÈg‚ts d'Attaques, vitesse de dÈplacement et rÈgÈnÈration de santÈ \n pour ThÈoden, …omer et …owyn \n Les unitÈs proches gagnent +35% de DÈg‚ts \n S'accumule avec les Bonus et les Sorts \n CapacitÈ passive"
 END
 
 CONTROLBAR:TheodredDetermination
@@ -68057,15 +68056,15 @@ CONTROLBAR:AragornLeaderofMen
 END
 
 CONTROLBAR:ToolTipAragornLeaderofMen
-"Modifier Type: Sort \n Les unitÈs amies proches obtiennent +33% armor \n \n Lorsqu'elles sont activÈes, les unitÈs proches d'Aragorn gagnent temporairement +50% de dÈg‚ts et une immunitÈ ‡ la Terreur \n Clic gauche pour activer"
+"Type d'Action : Sort \n Les unitÈs amies proches obtiennent +33% armor \n \n Lorsqu'elles sont activÈes, les unitÈs proches d'Aragorn gagnent temporairement +50% de dÈg‚ts et une immunitÈ ‡ la Terreur \n Clic gauche pour activer"
 END
 
 CONTROLBAR:ToolTipFellowshipAragornLeaderofMen
-"Requiert : Niveau 8 \n Modifier Type: Sort \n Les unitÈs amies proches obtiennent +33% d'armure \n \n Lorsqu'elles sont activÈes, les unitÈs proches d'Aragorn gagnent temporairement +50% de dÈg‚ts et une immunitÈ ‡ la Terreur \n Clic gauche pour activer"
+"Requiert : Niveau 8 \n Type d'Action : Sort \n Les unitÈs amies proches obtiennent +33% d'armure \n \n Lorsqu'elles sont activÈes, les unitÈs proches d'Aragorn gagnent temporairement +50% de dÈg‚ts et une immunitÈ ‡ la Terreur \n Clic gauche pour activer"
 END
 
 CONTROLBAR:ToolTipFellowshipStriderLeaderofMen
-"Requiert : Niveau 8 \n Modifier Type: Sort \n Les unitÈs amies proches obtiennent +33% d'armure \n \n Lorsqu'elles sont activÈes, les unitÈs proches de Grands-Pas gagnent temporairement +50% de dÈg‚ts et une immunitÈ ‡ la Terreur \n Clic gauche pour activer"
+"Requiert : Niveau 8 \n Type d'Action : Sort \n Les unitÈs amies proches obtiennent +33% d'armure \n \n Lorsqu'elles sont activÈes, les unitÈs proches de Grands-Pas gagnent temporairement +50% de dÈg‚ts et une immunitÈ ‡ la Terreur \n Clic gauche pour activer"
 END
 
 CONTROLBAR:EowynLeadership
@@ -68073,7 +68072,7 @@ CONTROLBAR:EowynLeadership
 END
 
 CONTROLBAR:ToolTipEowynLeadership
-"Modifier Type: Charisme \n Les paysans prËs de Eowyn obtiennent +25% d'Armure, and gagnent de l'expÈrience 100% plus vite \n S'accumule avec les Bonus et les Sorts \n CapacitÈ passive"
+"Type d'Action : Charisme \n Les paysans prËs de Eowyn obtiennent +25% d'Armure, and gagnent de l'expÈrience 100% plus vite \n S'accumule avec les Bonus et les Sorts \n CapacitÈ passive"
 END
 
 CONTROLBAR:EowynReadiness
@@ -68121,7 +68120,7 @@ CONTROLBAR:ElfhelmQuickRescue
 END
 
 CONTROLBAR:ToolTipElfhelmQuickRescue
-"Requiert : Niveau 3 \n Modifier Type: Sort \n La Cavalerie ‡ proximitÈ gagne +15% de vitesse tandis que l'Infanterie ‡ proximitÈ gagne +15% d'armure \n La Cavalerie et l'Infanterie bÈnÈficient de dÈg‚ts supplÈmentaires contre les Machines \n S'accumule avec le Charisme et les Sorts \n Clic gauche pour activer"
+"Requiert : Niveau 3 \n Type d'Action : Sort \n La Cavalerie ‡ proximitÈ gagne +15% de vitesse tandis que l'Infanterie ‡ proximitÈ gagne +15% d'armure \n La Cavalerie et l'Infanterie bÈnÈficient de dÈg‚ts supplÈmentaires contre les Machines \n S'accumule avec le Charisme et les Sorts \n Clic gauche pour activer"
 END
 
 CONTROLBAR:ElfhelmPromotion
@@ -68137,7 +68136,7 @@ CONTROLBAR:ElfhelmLeadership
 END
 
 CONTROLBAR:ToolTipElfhelmLeadership
-"Requiert : Niveau 9 \n Modifier Type: Charisme \n Les Cavaliers de Snawburna, les Gardiens d'Halifirien, les Archers Alleutier et les Archers Rohirrims prËs d'Elfhelm gagnent +15% de PortÈe et +50% d'armure \n S'accumules avec les Bonus et les Sorts \n CapacitÈ passive"
+"Requiert : Niveau 9 \n Type d'Action : Charisme \n Les Cavaliers de Snawburna, les Gardiens d'Halifirien, les Archers Alleutier et les Archers Rohirrims prËs d'Elfhelm gagnent +15% de PortÈe et +50% d'armure \n S'accumules avec les Bonus et les Sorts \n CapacitÈ passive"
 END
 
 CONTROLBAR:MerryLeadership
@@ -68145,7 +68144,7 @@ CONTROLBAR:MerryLeadership
 END
 
 CONTROLBAR:ToolTipMerryLeadership
-"Requiert : Niveau 5 \n Modifier Type: Charisme \n Merry obtient +25 d'armure et +25% de dÈg‚ts ‡ proximitÈ d'Eowyn \n Les HÈros ‡ proximitÈ gagnent de l'expÈrience +50% plus vite \n S'accumule avec les Bonus et les Sorts \n La SantÈ de Merry est augmentÈe \n CapacitÈ passive"
+"Requiert : Niveau 5 \n Type d'Action : Charisme \n Merry obtient +25 d'armure et +25% de dÈg‚ts ‡ proximitÈ d'Eowyn \n Les HÈros ‡ proximitÈ gagnent de l'expÈrience +50% plus vite \n S'accumule avec les Bonus et les Sorts \n La SantÈ de Merry est augmentÈe \n CapacitÈ passive"
 END
 
 CONTROLBAR:FellowshipAthelas
@@ -69180,7 +69179,7 @@ CONTROLBAR:CampaignGloriousCharge
 END
 
 CONTROLBAR:TooltipCampaignGloriousCharge
-"Modifier Type: Bonus \n Les HÈros et la cavalerie obtiennent +100% de DÈg‚ts et +300% d'Armure \n Aucune force ne peut ralentir cette charge \n S'accumule avec le Charisme et les Sorts \n Clic gauche sÈlectionner Clic gauche sur l'unitÈ ciblÈ"
+"Type d'Action : Bonus \n Les HÈros et la cavalerie obtiennent +100% de DÈg‚ts et +300% d'Armure \n Aucune force ne peut ralentir cette charge \n S'accumule avec le Charisme et les Sorts \n Clic gauche sÈlectionner Clic gauche sur l'unitÈ ciblÈ"
 END
 
 TOOLTIP:Mansblood
@@ -69332,7 +69331,7 @@ CONTROLBAR:LoneScoutLeadership
 END
 
 CONTROLBAR:TooltipLoneScoutLeadership
-"Modifier Type: Bonus \n Le Cavalier accord aux unitÈs proches +15% de vitesse \n S'accumule avec le charisme et les Sorts \n \n CapacitÈ passive"
+"Type d'Action : Bonus \n Le Cavalier accord aux unitÈs proches +15% de vitesse \n S'accumule avec le charisme et les Sorts \n \n CapacitÈ passive"
 END
 
 CONTROLBAR:FrodoMithrilShirt
@@ -71185,7 +71184,7 @@ CONTROLBAR:ChitteringSwarm
 END
 
 CONTROLBAR:ToolTipChitteringSwarm
-"Bonus Horde \n Modifier Type: Sort \n Tous les progÈnitures tombÈs gagnent +25% de dÈg‚ts et +25% d'armure lorsqu'ils sont rassemblÈs en nombre de 30 ou plus"
+"Bonus Horde \n Type d'Action : Sort \n Tous les progÈnitures tombÈs gagnent +25% de dÈg‚ts et +25% d'armure lorsqu'ils sont rassemblÈs en nombre de 30 ou plus"
 END
 
 CONTROLBAR:BTKhazadBannerUpgradedPillar
@@ -71193,7 +71192,7 @@ CONTROLBAR:BTKhazadBannerUpgradedPillar
 END
 
 CONTROLBAR:ToolTipBTKhazadBannerUpgradedPillar
-"Modifier Type: Sort \n Les alliÈs prËs du pilier deviennet immunisÈs contre la peur et la terreur \n S'accumule avec les sorts, les avantages, les dirigeants \n CapacitÈ Passive"
+"Type d'Action : Sort \n Les alliÈs prËs du pilier deviennet immunisÈs contre la peur et la terreur \n S'accumule avec les sorts, les avantages, les dirigeants \n CapacitÈ Passive"
 END
 CONTROLBAR:PurchaseUpgradeFountofCorruptionLevel2
 "AmÈliore la So&urce de Corruption au niveau 2"
@@ -71412,7 +71411,7 @@ CONTROLBAR:TaurielFleetFooted
 END
 
 CONTROLBAR:ToolTipTaurielFleetFooted
-"Requiert : Niveau 8 \n Modifier Type: Sort \n L'infanterie proche gagne +33% vitesse de mouvement \n S'accumule avec le chef et les sorts \n Clic gauche pour activer"
+"Requiert : Niveau 8 \n Type d'Action : Sort \n L'infanterie proche gagne +33% vitesse de mouvement \n S'accumule avec le chef et les sorts \n Clic gauche pour activer"
 END
 
 //------------ Legolas ---------------
