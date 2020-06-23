@@ -64534,15 +64534,15 @@ OBJECT:Gildor
 END
 
 CONTROLBAR:ToolTipBuildGildor
-"Recruit the wandering Noldor, Gildor"
+"Recrutez le Noldor errant, Gildor"
 END
 
 CONTROLBAR:GildorRecruit
-"Recruit the wandering Noldor, Gildor. \n \n 'Elves seldom give unguarded advice, for advice is a dangerous gift, even from the wise to the wise, and all courses may run ill.'"
+"Recrutez le Noldor errant, Gildor. \n \n 'Les elfes donnent rarement des conseils sans surveillance, car les conseils sont un don dangereux, même de sage à sage, et tous les plans peuvent mal tourner.'"
 END
 
 CONTROLBAR:GildorRevive
-"Revive the fallen warrior, Gildor"
+"Ramenez Gildor à la vie"
 END
 
 CONTROLBAR:GildorHotkey
@@ -64550,144 +64550,144 @@ CONTROLBAR:GildorHotkey
 END
 
 CONTROLBAR:GildorLeadership
-"Companion"
+"Compagnon"
 End
 
 CONTROLBAR:ToolTipGildorLeadership
-"Type d'Action : Charisme \n Hobbits near Gildor gain +33% Damage and +33% Armor \n S'accumule avec les Bonus et les Sorts \n Capacité passive"
+"Type d'Action : Charisme \n Les Hobbits près de Gildor gagnent +33% de dégâts et +33% d'armure \n S'accumule avec les Bonus et les Sorts \n Capacité passive"
 END
 
 CONTROLBAR:GildorExiles
-"The Wandering Compa&nies"
+"Les Compagnies errantes"
 END
 
 CONTROLBAR:TooltipGildorExiles
-"Requiert : Niveau 3 \n Gildor summons a single group of Noldor Exiles to his side \n Clic gauche icon to activate \n\nRequiert : Niveau 8 \n Gildor summons three groups of Noldor Exiles to his side \n Clic gauche icon to activate"
+"Requiert : Niveau 3 \n Gildor invoque un seul groupe d'exilés Noldor à ses côtés \n Clic gauche sur l'icone pour activer \n\nRequiert : Niveau 8 \n Gildor invoque trois groupes d'exilés Noldor à ses côtés \n Clic gauche sur l'icone pour activer"
 END
 
 CONTROLBAR:TooltipGildorExiles_Campaign
-"Gildor summons a single group of Noldor Exiles to his side \n Clic gauche icon to activate \n\nRequiert : Niveau 8 \n Gildor summons three groups of Noldor Exiles to his side \n Clic gauche icon to activate"
+"Gildor invoque un seul groupe d'exilés Noldor à ses côtés \n Clic gauche sur l'icone pour activer \n\nRequiert : Niveau 8 \n Gildor invoque trois groupes d'exilés Noldor à ses côtés \n Clic gauche sur l'icone pour activer"
 END
 
 CONTROLBAR:GildorTelperion
-"Light of Te&lperion"
+"Lumière de Telperion"
 END
 
 CONTROLBAR:ToolTipGildorTelperion
-"Requiert : Niveau 5 \n Gildor reveals his blessed Lantern, causing enemy units to flee in terror \n Clic gauche pour activer"
+"Requiert : Niveau 5 \n Gildor révèle sa lanterne bénie, provoquant la fuite des unités ennemies dans la terreur \n Clic gauche pour activer"
 END
 
 CONTROLBAR:ToolTipGildorTelperion_Campaign
-"Gildor reveals his blessed Lantern, causing enemy units to flee in terror \n Clic gauche pour activer"
+"Gildor révèle sa lanterne bénie, provoquant la fuite des unités ennemies dans la terreur  \n Clic gauche pour activer"
 END
 
 //------------ Noldor Exiles --------------
 
 OBJECT:NoldorExile
-"Noldor Exile"
+"Exilé Noldor"
 END
 
 OBJECT:HordeNoldorExiles
-"Noldor Exiles"
+"Exilé Noldor"
 END
 
 CONTROLBAR:ConstructElvenNoldorExileHorde
-"Noldor Exiles"
+"Exilé Noldor"
 END
 
 CONTROLBAR:ToolTipBuildElvenNoldorExileHorde
-"Fort contre la Cavalerie, Siege and Heroes"
+"Fort contre la Cavalerie, les unités de siège et les héros"
 END
 
 CONTROLBAR:SongToElbereth
-"Song to E&lbereth"
+"Chants à Elbereth"
 End
 
 CONTROLBAR:ToolTipSongToElbereth
-"Friendly units temporarily become immune to fear\nClic gauche pour activer"
+"Les unités alliées deviennent temporairement immunisées à la peur\nClic gauche pour activer"
 End
 
 //------------ Dunedain --------------
 
 CONTROLBAR:PurchaseUpgradeDunedainSpears
-"Eq&uip Spears"
+"Dégainez les épées"
 END
 CONTROLBAR:ToolTipPurchaseUpgradeDunedainSpears
-"Permanently equips rangers with spears \n Increases the damage done towards cavalry and heroes\n Only one upgrade may be purchased at a time\n Clic gauche to upgrade this unit"
+"Equipe les rodeurs de façon permanente avec des épées \n Accroit les dommages infligés à la cavalerie et aux héros\n Seule une amélioration peut être active à la fois\n Clic gauche pour améliorer cette unité"
 END
 
 UPGRADE:DunedainSpear
-"Spears Equipped"
+"Epées équipées"
 END
 
 TOOLTIP:DunedainSpear
-"Spears Equipped"
+"Epées équipées"
 END
 
 CONTROLBAR:UpgradeDunedainSpears
-"Spears Equipped"
+"Epées équipées"
 END
 CONTROLBAR:ToolTipUpgradeDunedainSpears
-"Increases the damage done towards cavalry and heroes\n Passive Ability"
+"Accroit les dommages infligés à la cavalerie et aux héros\n Capacité passive"
 END
 
 CONTROLBAR:PurchaseUpgradeDunedainSwords
-"Equip S&words"
+"Sortez les lames"
 END
 CONTROLBAR:ToolTipPurchaseUpgradeDunedainSwords
-"Permanently equips rangers with swords \n Increases damage towards infantry and slightly increases armor\n Only one upgrade may be purchased at a time\n Clic gauche to upgrade this unit"
+"Equipe les rodeurs de façon permanente avec des lames \n Accroit les dommages infligés à l'infanterie et augmente légèrement l'armure\n Seule une amélioration peut être active à la fois\n Clic gauche pour améliorer cette unité"
 END
 
 UPGRADE:DunedainSword
-"Swords Equipped"
+"Lames équipées"
 END
 
 TOOLTIP:DunedainSword
-"Swords Equipped"
+"Lames équipées"
 END
 
 CONTROLBAR:UpgradeDunedainSwords
-"Swords Equipped"
+"Lames équipées"
 END
 CONTROLBAR:ToolTipUpgradeDunedainSwords
-"Increases damage towards infantry and slightly increases armor\n Passive Ability"
+"Accroit les dommages infligés à l'infanterie et augmente légèrement l'armure\n Capacité passive"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeDunedainArrows
-"Permanently equips rangers with bows\n Increases base damage and adds additional piercing damage to arrows\n Only one upgrade may be purchased at a time\n Clic gauche to upgrade this unit"
+"Equipe les rodeurs de façon permanente avec des arcs\n Augmente les dégâts de base et ajoute des dégâts pénétrants supplémentaires aux flèches\n Seule une amélioration peut être active à la fois\n Clic gauche pour améliorer cette unité\n Clic gauche pour améliorer cette unité"
 END
 
 TOOLTIP:LackArnorFireArrowsDunedain
-"Research upgrade at Forge to enable this equipment \nPermanently equips rangers with bows\n Increases base damage and adds Magic damage to arrows\n Only one upgrade may be purchased at a time"
+"Rechercher l'amélioration à la forge pour activer cet équipement\nEquipe les rodeurs de façon permanente avec des arcs\n Augmente les dégâts de base et ajoute des dégâts magiques supplémentaires aux flèches\n Seule une amélioration peut être active à la fois"
 END
 
 TOOLTIP:LackArnorFireArrowsDunedain_Inn
-"Research Fire Arrows upgrade at Archerie\nto enable this equipment \nPermanently equips rangers with bows\n Increases base damage and adds Magic damage to arrows\n Only one upgrade may be purchased at a time"
+"Rechercher l'amélioration flèches de feu à l'archerie\npour activer cet équipement \nEquipe les rodeurs de façon permanente avec des arcs\n Augmente les dégâts de base et ajoute des dégâts pénétrants supplémentaires aux flèches\n Seule une amélioration peut être active à la fois"
 END
 
 
 CONTROLBAR:PurchaseUpgradeDunedainCaptain
-"Dú&nedain Captain Upgrade"
+"Amélioration de capitaine Dunedain"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeDunedainCaptainforDunedain
-"Increases unit au niveau 2 and unlocks Woodscraft special power \n Can only be equipped at Level 1"
+"Fait passer l'unité au niveau 2 et débloque le pouvoir spécial Travail du bois \n Ne peut être équipé qu'au niveau 1"
 END
 
 Tooltip:LackDunedainCaptainBasicTraining
-"Research upgrade at Forge to enable this equipment \n When equipped, increases this battalion au niveau 2 and unlocks Woodscraft special power"
+"Rechercher l'amélioration à la forge pour activer cet équipement \n Lorsqu'il est équipé, fait passer le bataillon au niveau 2 et débloque le pouvoir spécial travail du bois"
 End
 
 Tooltip:LackDunedainCaptainBasicTraining_Inn
-"Research Banner Carrier upgrade at Blacksmith\nto enable this equipment \n When equipped, increases this battalion au niveau 2 and unlocks Woodscraft special power"
+"Rechercher l'amélioration Porte-étendard au Forgeron\npour activer cet équipement \n Lorsqu'il est équipé, fait passer le bataillon au niveau 2 et débloque le pouvoir spécial travail du bois"
 End
 
 CONTROLBAR:PurchaseUpgradeDunedainCaptainforBree
-"Dúnedain &Captain Upgrade"
+"Amélioration de capitaine Dunedain"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeDunedainCaptainforBree
-"Increases a unit au niveau 2 \n Can only be equipped at Level 1"
+"Améliore l'unité au niveau 2 \n Peut seulement être équipé au niveau 1"
 END
 
 CONTROLBAR:ElvenRangerCloak
@@ -64695,65 +64695,65 @@ CONTROLBAR:ElvenRangerCloak
 END
 
 CONTROLBAR:ToolTipElvenRangerCloak
-"Requiert : niveau 2\n Becomes invisible when standing still\n\nClic gauche pour activer"
+"Requiert : niveau 2\n Devient invisible en restant immobile\n\nClic gauche pour activer"
 END
 
 CONTROLBAR:ToolTipElvenRangerCloakInn
-"Becomes invisible when standing still \n Clic gauche pour activer"
+"Devient invisible en restant immobile \n Clic gauche pour activer"
 END
 
 
 //------------ Took Archers --------------
 
 OBJECT:TookArcher
-"Took Archer"
+"Archer Touque"
 END
 
 OBJECT:HordeTookArchers
-"Took Archers"
+"Archers Touque"
 END
 
 CONTROLBAR:ConstructTookArcherHorde
-"Too&k Archers"
+"Archers Touque"
 END
 
 CONTROLBAR:ToolTipBuildTookArcherHorde
-"Fort contre l'Infantrie \n Can stealth near trees \n \n Like all Hobbits, these archers are blessed with keen eyes and steady hands, with an added dose of courage native to the Took family."
+"Fort contre l'Infantrie \n Peuvent devenir furtifs près des arbres \n \n Comme tous les Hobbits, ces archers ont la chance d'avoir des yeux perçants et des mains solides et possèdent une dose supplémentaire de courage propre à la famille Touque."
 END
 
 //------------ Took Archers --------------
 
 OBJECT:DunedainOutrider
-"Cavalier du Dúnedain"
+"Cavalier Dúnedain"
 END
 
 OBJECT:HordeDunedainOutrider
-"Cavaliers du Dúnedain"
+"Cavaliers Dúnedain"
 END
 
 CONTROLBAR:ConstructDunedainOutriderHorde
-"Cavaliers du Dúnedai&n"
+"Cavaliers Dúnedai&n"
 END
 
 CONTROLBAR:ToolTipBuildDunedainOutriderHorde
-"Fort contre Archers\n \n The wilds of Eriador stretch far and wide, and cannot all be protected by Men wandering on foot."
+"Fort contre Archers\n \n Les étendues sauvages de l'Eriador sont vastes et ne peuvent pas toutes être protégées par des hommes errant à pied."
 END
 
 //------------ Bree-land Farmers ---------------
 OBJECT:BreeFarmer
-"Bree-land Farmer"
+"Fermier du Pays de Bree"
 END
 
 OBJECT:HordeBreeFarmer
-"Bree-land Farmers"
+"Fermiers du Pays de Bree"
 END
 
 CONTROLBAR:ConstructBreeFarmerHorde
-"Bree-land Farmers"
+"Fermiers du Pays de Bree"
 END
 
 CONTROLBAR:LW_Unit_BreeFarmerHorde
-"Bree-land Farmers"
+"Fermiers du Pays de Bree"
 END
 
 CONTROLBAR:LW_ToolTip_BreeFarmerHorde
@@ -64761,7 +64761,7 @@ CONTROLBAR:LW_ToolTip_BreeFarmerHorde
 END
 
 CONTROLBAR:ToolTipBuildBreeFarmerHorde
-"Forts contre les piquiers\n Can repair structures"
+"Forts contre les piquiers\n Peuvent réparer les structures"
 END
 
 CONTROLBAR:LW_ToolTipBuild_BreeFarmerHorde
@@ -64769,28 +64769,28 @@ CONTROLBAR:LW_ToolTipBuild_BreeFarmerHorde
 END
 
 CONTROLBAR:Greenfingers
-"Greenfingers"
+"Main verte"
 END
 
 CONTROLBAR:ToolTipGreenfingers
-"Requiert : niveau 5\n Gives a 5% production bonus to nearby orchards"
+"Requiert : niveau 5\n Octroient un bonus de 5% de production aux vergers proches"
 END
 
 //------------ Bree-land Guard ---------------
 OBJECT:BreeTownsguard
-"Bree-Land Townsguard"
+"Garde de la cité du Pays de Bree"
 END
 
 OBJECT:HordeBreeTownsguard
-"Bree-Land Townsguard"
+"Garde de la cité du Pays de Bree"
 END
 
 CONTROLBAR:ConstructBreeTownsguardHorde
-"Bree-Land Townsguard"
+"Garde de la cité du Pays de Bree"
 END
 
 CONTROLBAR:LW_Unit_BreeTownsguardHorde
-"Bree-Land Townsguard"
+"Garde de la cité du Pays de Bree"
 END
 
 CONTROLBAR:LW_ToolTip_BreeTownsguardHorde
@@ -64806,11 +64806,11 @@ CONTROLBAR:LW_ToolTipBuild_BreeTownsguardHorde
 END
 
 CONTROLBAR:BreeArmor
-"Armor from the Barrows"
+"Armure des Tertres"
 END
 
 CONTROLBAR:ToolTipBreeArmor
-"Requiert : niveau 5\n Units attain a 33% armure bonus"
+"Requiert : niveau 5\n Les unités obtiennent un bonus d'armure de 33%"
 END
 
 //------------ Vétérans de l'Ultime Alliance aka Ñoldor and Fall of Gil Galad ---------------
@@ -64823,11 +64823,11 @@ OBJECT:HordeNoldorVeterans
 END
 
 CONTROLBAR:LAVeteranManyWars
-"Veterans of Many Wars"
+"Veterans de nombreuses guerres"
 End
 
 CONTROLBAR:ToolTipLAVeteranManyWars
-"The Veterans have fought many battles and witnessed great triumphs and tragic defeats,\nand are learned in the art of war.\n\nNearby allied troupes gain +25% experience gain.\n Capacité passive"
+"Les vétérans ont mené de nombreuses batailles et ont été les témoins de grands triomphes et de défaites tragiques, et s'initient à l'art de la guerre.\n\nLes unités alliés proches gagnent 25% d'expérience en plus.\n Capacité passive"
 End
 
 CONTROLBAR:LAVeteranEregion
@@ -64835,23 +64835,23 @@ CONTROLBAR:LAVeteranEregion
 End
 
 CONTROLBAR:ToolTipLAVeteranEregion
-"The Veterans were there during Sauron's attack on the Noldorin realm of Eregion.\n\nThe battalion is temporarily immune to knockback, trample and fear \n Type d'Action : Weapon \n Stacks with Leadership, Buffs, and Sorts \nClic gauche pour activer.\n\nOnly one ability may be active at a time."
+"Les vétérans étaient là lors de l'attaque de Sauron sur le royaume Noldorin d'Eregion.\n\nLe bataillon est temporairement immunisé contre le renversement, les piétinements et la peur \n Type d'Action : Arme \n Bonus cumulable \nClic gauche pour activer.\n\nUne seule capacité peut être active à la fois."
 End
 
 CONTROLBAR:LAVeteranLastAlliance
-"&War of the Last Alliance"
+"Guerre de la Dernière Alliance"
 End
 
 CONTROLBAR:ToolTipLAVeteranLastAlliance
-"Requiert : Niveau 3\nThe Veterans were there during the Battle of Dagorlad and the final siege of Barad-dr.\n\nNearby Dúnedain and Bree-landers temporarily gain +33% Armor for a short time\nwhile nearby Elven units gain +33% Damage for a short time\nClic gauche pour activer.\n\nOnly one ability may be active at a time."
+"Requiert : Niveau 3\nLes Vétérans étaient présents lors de la bataille de Dagorlad et le siège de Barad-Dur.\n\nLes Dunedain et hommes du pays de Bree proches gagnent temporairement 33% d'armure\nAlors que les unités elfes gagnent elles 33% de dégats pour un court laps de temps\nClic gauche pour activer.\n\nUne seule capacité peut être active à la fois ."
 End
 
 CONTROLBAR:LAVeteranFallOfAngmar
-"Fal&l of Angmar"
+"Chute d'Angmar"
 End
 
 CONTROLBAR:ToolTipLAVeteranFallOfAngmar
-"Requiert : Niveau 5\nThe Veterans fought alongside Glorfindel in the decisive battle against the Lord of Angmar.\n\nMelee attacks temporarily deal area-of-effect damage and additional damage versus structures. Ranged attack speed is increased.\n Type d'Action : Weapon \n Stacks with Leadership, Buffs, and Sorts\nClic gauche pour activer.\n\nOnly one ability may be active at a time."
+"Requiert : Niveau 5\nLes Vétérans combattirent auprès de Glorfindel dans la bataille décisive contre le roi sorcier d'Angmar.\n\nLes attaques de mêlée provoquent temporairement des dégâts de zone et des dégâts supplémentaires aux structures. La vitesse d'attaque à distance est augmenté.\n Type d'Action : Arme \n Bonus cumulable\nClic gauche pour activer.\n\nUne seule capacité peut être active à la fois."
 End
 
 CONTROLBAR:ConstructNoldorVeteransHorde
@@ -64859,41 +64859,41 @@ CONTROLBAR:ConstructNoldorVeteransHorde
 END
 
 CONTROLBAR:ConstructNoldorVeteransGilGaladHorde
-"The Fall of Gil-Galad"
+"La chute de Gil-Galad"
 END
 
 CONTROLBAR:ToolTipBuildNoldorVeteransHorde
-"Requiert : Niveau 3 Dormitory \nHero Unit. Limited to 1 \nForts contre tous les types d'unité \n \n Sauron's fall came at great cost. With Gil-galad slain, many Elven veterans chose to linger in Rivendell, house of their late King's herald."
+"Requiert : Niveau 3 Dortoir \nUnité héroïque. Limité à 1\nForts contre tous les types d'unité \n \n La chute de Sauron a eu un coût important. Après la mort de Gil-galad, de nombreux vétérans elfes choisirent de s'attarder à Imladris, la maison de leur défunt héraut du roi."
 END
 
 CONTROLBAR:ToolTipBuildNoldorVeteransGilGaladHorde
-"Requiert : Niveau 3 Dormitory \nHero Unit. Limit increased to 2 \n Fort contre Tous Type d'unités \n \n Sauron's fall came at great cost. With Gil-galad slain, many Elven veterans chose to linger in Rivendell, house of their late King's herald."
+"Requiert : Niveau 3 Dortoir \nUnité héroïque. Limite augmentée à 2 \n Fort contre Tous Type d'unités \n \n La chute de Sauron a eu un coût important. Après la mort de Gil-galad, de nombreux vétérans elfes choisirent de s'attarder à Imladris, la maison de leur défunt héraut du roi."
 END
 
 //----------Revelers----------------------------------
 
 CONTROLBAR:StoryTeller
-"Story-teller"
+"Conteur d'histoires"
 End
 
 CONTROLBAR:ToolTipStoryTeller
-"Increases experience gain of friendly units by 10% \n Passively decreases the cooldown of the Hall of Fire's \n vivid retellings by 10% \n Capacité passive"
+"Augmente de 10% le gain d'expérience des unités alliées \n Diminue de manière passive le rechargement du Hall des Feux de 10% \n \n Capacité passive"
 End
 
 CONTROLBAR:RevelerWeapon
-"Break the Fourth Wall"
+"Briser le Quatrième Mur"
 END
 
 CONTROLBAR:ToolTipRevelerWeapon
-"Revelers don't deal damage but can attack units reducing their movement speed by 10%\nand structures reducing their armor by 5% while targeting it\nCan stack with other Revelers\n Capacité passive"
+"Les Troubadours ne font pas de dégâts mais peuvent attaquer des unités en réduisant leur vitesse de déplacement de 10%.\n et réduire l'armure des structures de 5% quand ils les ciblent\nPeut se cumuler avec les autres troubadours\n Capacité passive"
 END
 
 CONTROLBAR:StayAWhileAndListen
-"Stay Awhile and Listen"
+"Restez à l'écoute"
 End
 
 CONTROLBAR:ToolTipStayAWhileAndListen
-"Passively decreases the speed and attack damage of enemy units in a wide radius by 15% \n Capacité passive"
+"Réduit de 15% et de manière passive la vitesse et les dégâts d'attaque des unités ennemies dans un large rayon \n Capacité passive"
 End
 
 CONTROLBAR:SongOfSpring
@@ -64901,7 +64901,7 @@ CONTROLBAR:SongOfSpring
 End
 
 CONTROLBAR:ToolTipSongOfSpring
-"When cast on an Orchard, temporarily increases its resource production by 50%\n Clic gauche sélectionner Clic gauche sur cible"
+"Lorsque ce pouvoir est diffusé dans un verger, il augmente temporairement de 50 % la production de ressources\n Clic gauche sélectionner Clic gauche sur cible"
 End
 
 CONTROLBAR:RevelersAkallabeth
@@ -64909,7 +64909,7 @@ CONTROLBAR:RevelersAkallabeth
 END
 
 CONTROLBAR:ToolTipRevelersAkallabeth
-"Revelers can target units to decrease their speed by 5% up to 25% and buildings to decrease their armor by 5% up to 25% \n Capacité passive \n Deals significant damage over time to structures \n Can be cast from a large distance \n Clic gauche sélectionner Clic gauche sur cible"
+"Les "troubadours" peuvent cibler les unités pour réduire leur vitesse de 5% à 25% et les bâtiments pour réduire leur blindage de 5% à 25%. \n Capacité passive \n Deals significant damage over time to structures \n Can be cast from a large distance \n Clic gauche sélectionner Clic gauche sur cible"
 END
 
 //----------Arwen-------------------------------------
@@ -64921,7 +64921,7 @@ CONTROLBAR:TooltipUndomielLeadership
 //"Requiert : Niveau 3 \n Allies near Elrond gain \n +50% Damage, +50% Armor, \n and earn experience twice as fast \n \n Capacité passive       Does not stack"
 //"Requiert : Niveau 3 \n Allies near Elrond gain \n +33% Damage, +33% Armor, \n and earn experience twice as fast \n Capacité passive"
 //"Requiert : Niveau 3 \n Allies near Elrond gain \n +33% Damage, +33% Armor, \n and earn experience 50% faster \n Capacité passive"
-"Type d'Action : Charisme \n Units near Arwen gain +33% Armor \n S'accumule avec les Bonus et les Sorts \n Capacité passive"
+"Type d'Action : Charisme \n Les unités proches d'Arwen gagnent +33% d'armure \n S'accumule avec les Bonus et les Sorts \n Capacité passive"
 END
 
 CONTROLBAR:SpecialPowerUndomiel
@@ -64929,7 +64929,7 @@ CONTROLBAR:SpecialPowerUndomiel
 END
 
 CONTROLBAR:ToolTipSpecialPowerUndomiel
-"Allows Arwen to rank up.\n Becomes more expensive the higher Arwen ranks up. \n Clic gauche to purchase upgrade \n\n Type d'Action : Charisme \n Rank 1: Allied heroes near Arwen gain +33% Armor. \n Rank 3: Allied heroes near Arwen gain +33% experience gain.\n Rank 6: Allied heroes near Arwen gain +66% Armor. \n Rank 10: The radius of Arwen's leadership is greatly increased. \n Also passively grants Arwen a high percentage of ranged damage avoidance and increased armor per level. \n S'accumule avec les Bonus et les Sorts \n Capacité passive"
+"Permet à Arwen de monter en niveau.\n Devient de plus en plus cher à mesure qu'Arwen change de grade. \n Clic gauche pour activer l'amélioration \n\n Type d'Action : Charisme \n Rang 1: Les héros alliés proches d'Arwen gagnent + 33% d'armure. \n Rang 3: Les héros alliés proches d'Arwen gagnent +33% d'expérience.\n Rang 6: Les héros alliés proches d'Arwen gagnent + 66% d'armure. \n Rang 10: Le rayon d'action du charisme d'Arwen est considérablement accru. \n accorde aussi passivement à Arwen un pourcentage élevé d'évitement des dommages à distance et une armure accrue à chaque niveau. \n S'accumule avec les Bonus et les Sorts \n Capacité passive"
 End
 
 CONTROLBAR:SpecialPowerUndomielFinal
@@ -64937,7 +64937,7 @@ CONTROLBAR:SpecialPowerUndomielFinal
 END
 
 CONTROLBAR:ToolTipSpecialPowerUndomielFinal
-"Type d'Action : Charisme \n Rank 1: Allied heroes near Arwen gain +33% Armor. \n Rank 3: Allied heroes near Arwen gain +33% experience gain.\n Rank 6: Allied heroes near Arwen gain +66% Armor. \n Rank 10: The radius of Arwen's leadership is greatly increased. \n Also passively grants Arwen a high percentage of ranged damage avoidance and increased armor per level. \n S'accumule avec les Bonus et les Sorts \n Capacité passive"
+"Type d'Action : Charisme \n Rang 1: Les héros alliés proches d'Arwen gagnent + 33% d'armure. \n Rang 3: Les héros alliés proches d'Arwen gagnent +33% d'expérience.\n Rang 6: Les héros alliés proches d'Arwen gagnent + 66% d'armure. \n Rang 10: Le rayon d'action du charisme d'Arwen est considérablement accru. \n accorde aussi passivement à Arwen un pourcentage élevé d'évitement des dommages à distance et une armure accrue à chaque niveau.. \n S'accumule avec les Bonus et les Sorts \n Capacité passive"
 End
 
 CONTROLBAR:ArwenNoroLim
@@ -64945,60 +64945,60 @@ CONTROLBAR:ArwenNoroLim
 End
 
 CONTROLBAR:ToolTipArwenNoroLim
-"Requiert : Niveau 3\n Arwen gains\n+40% Speed, +100% Armor, \n and glides past enemies when mounted \n Clic gauche pour activer"
+"Requiert : Niveau 3\n Arwen gagne\n+40% de Vitesse, +100% d'armure, \n et glisse devant les ennemis quand elle monte \n Clic gauche pour activer"
 End
 
 CONTROLBAR:ArwenEvenstar
-"Power of the &Evenstar"
+"Pouvoir de l'étoile du soir"
 END
 
 CONTROLBAR:ToolTipArwenEvenstar
-"Requiert : Niveau 10 \n Allied units within the radius temporarily gain fear immunity and get healed when they deal damage \n Does not affect heroes, Grey Company or Veterans of the Last Alliance \n Enemy units within the radius lose all leadership\n Clic gauche sélectionner Clic gauche sur cible"
+"Requiert : Niveau 10 \n Les unités alliées dans le rayon acquièrent temporairement une immunité à la peur et sont soignées lorsqu'elles font des dégâts \n N'affecte pas les héros, La Compagnie Grise ou les Véterans de la Dernière Alliance \n Les unités ennemies dans le rayon perdent tout charisme\n Clic gauche pour sélectionner puis clic gauche sur la cible"
 END
 
 CONTROLBAR:ArwenFlood
-"Loudwater's Fury"
+"Fureur de la Bruinen"
 End
 
 CONTROLBAR:ToolTipArwenFlood
-"Requiert : Niveau 6\n Summons a flood that will damage enemies\nand put out fires \n Clic gauche sélectionner Clic gauche sur cible"
+"Requiert : Niveau 6\n Invoque une inondation qui inflige des dégats aux ennemis\n et éteint les feux\n Clic gauche pour sélectionner puis clic gauche sur la cible"
 End
 
 CONTROLBAR:ToolTipArwenFloodCampaign
-"Requiert : Niveau 4\n Summons a flood that will damage enemies\nand put out fires \n Clic gauche sélectionner Clic gauche sur cible"
+"Requiert : Niveau 4\n Invoque une inondation qui inflige des dégats aux ennemis\n et éteint les feux\n Clic gauche pour sélectionner puis clic gauche sur la cible"
 End
 
 CONTROLBAR:TinuvielBlessing
-"Blessing of &Tinuviel"
+"Bénédiction de Tinuviel"
 END
 
 CONTROLBAR:ToolTipTinuvielBlessing
-"Requiert : Niveau 6 \n Enemy units within the radius are stunned\n Clic gauche sélectionner Clic gauche sur cible"
+"Requiert : Niveau 6 \n Les unités ennemies dans le rayon sont étourdies\n Clic gauche pour sélectionner puis clic gauche sur la cible"
 END
 
 CONTROLBAR:ArwenImage
-"Image of &Lthien"
+"Image de Luthien"
 End
 
 CONTROLBAR:ToolTipArwenImage
-"Requiert : Niveau 3\n Targeted units and heroes temporarily become invisible and receive +25% movement speed \n Clic gauche sélectionner Clic gauche sur cible"
+"Requiert : Niveau 3\n Les unités et les héros ciblés gagnent temporairement +25% de vitesse de mouvement \n Clic gauche pour sélectionner puis clic gauche sur la cible"
 End
 
 //==========================Glorfindel==============================
 CONTROLBAR:GlorfindelWrath
-"&Revealed in Wrath"
+"Révélé dans la colère"
 End
 
 CONTROLBAR:ToolTipGlorfindelWrath
-"Requiert : Niveau 3\nGlorfindel temporarily gains +100% damage\nClic gauche pour activer \n\nModifier Type: Sort \n Glorfindel causes fear to nearby enemies and Nazgl. \n Stacks with Sorts, Buffs, and Charismes \n Capacité passive"
+"Requiert : Niveau 3\nGlorfindel gagne temporairement +100 de déats\nClic gauche pour activer \n\nType d'action: Sort \n Glorfindel provoque la peur aux ennemis proches et aux Nazguls. \n Bonus cumulable \n Capacité passive"
 End
 
 CONTROLBAR:GlorfindelLight
-"&Light of Aman"
+"Lumière d'Aman"
 End
 
 CONTROLBAR:ToolTipGlorfindelLight
-"Requiert : Niveau 7 \n Les unitées ciblé gagnent de l'expérience \n Clic gauche sélectionner Clic gauche sur unités ciblé"
+"Requiert : Niveau 7 \n Les unitées ciblé gagnent de l'expérience \n Clic gauche pour sélectionner puis clic gauche sur les unités ciblées"
 End
 
 CONTROLBAR:GlorfindelSlayer
@@ -65006,7 +65006,7 @@ CONTROLBAR:GlorfindelSlayer
 End
 
 CONTROLBAR:ToolTipGlorfindelSlayer
-"Requiert : Niveau 10 \n Renverse les unité dans un large rayon autour de Glorfindel \n Les attaques de mêlée de Glorfindel marque les Héros ennemis pendant une courte période \n Clic gauche pour activer"
+"Requiert : Niveau 10 \n Renverse les unités dans un large rayon autour de Glorfindel \n Les attaques de mêlée de Glorfindel marquent les héros ennemis pendant une courte période \n Clic gauche pour activer"
 End
 //==================================================================
 
