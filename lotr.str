@@ -59218,7 +59218,7 @@ CONTROLBAR:ToolTipShatteringStrike
 END
 
 CONTROLBAR:StandFast
-"Stand Fast"
+"Tenir Bon!"
 END
 
 CONTROLBAR:ToolTipStandFast
@@ -59226,7 +59226,7 @@ CONTROLBAR:ToolTipStandFast
 END
 
 CONTROLBAR:StrengthoftheCitadel
-"Strength of the Citadel"
+"Force de la Citadelle"
 END
 
 CONTROLBAR:ToolTipStrengthoftheCitadel
@@ -59249,20 +59249,22 @@ CONTROLBAR:ToolTipChallengeofGondor
 "Requiert : niveau 10\n Type d'Action : Pénalité active\n Les ennemis ciblés perdent leurs bonus de charisme et subissent -25% dégâts et -25% armure (Pénalité non cumulable).\n\nClic gauche sur l'icône puis clic gauche sur les unités ciblées"
 END
 
-
 OBJECT:DwarvenThror
 "Thrór"
 END
 
 CONTROLBAR:ToolTipBuildThror
-"Recrutez le roi d'Erebor"
+"Recrutez le Roi d'Erebor"
 END
+
 CONTROLBAR:DwarvenThrorRecruit
-"Recrutez le roi d'Erebor"
+"Recrutez le Roi d'Erebor"
 END
+
 CONTROLBAR:DwarvenThrorRevive
-"Faites revenir le roi à la vie, Thrór"
+"Faites revenir le Roi à la vie, Thrór"
 END
+
 CONTROLBAR:DwarvenThrorHotkey
 "Thrór"
 END
@@ -59272,14 +59274,17 @@ OBJECT:DwarvenThrain
 END
 
 CONTROLBAR:ToolTipBuildThrain
-"Recrutez le prince d'Erebor"
+"Recrutez le Prince d'Erebor"
 END
+
 CONTROLBAR:DwarvenThrainRecruit
-"Recrutez le prince d'Erebor"
+"Recrutez le Prince d'Erebor"
 END
+
 CONTROLBAR:DwarvenThrainRevive
-"Faites revenir le prince à la vie, Thrór"
+"Faites revenir le Prince à la vie, Thrór"
 END
+
 CONTROLBAR:DwarvenThrainHotkey
 "Thráin"
 END
@@ -59289,11 +59294,11 @@ OBJECT:DwarvenKili
 END
 
 CONTROLBAR:ToolTipBuildKili
-"Recrutez le jeune prince d'Erebor. Kíli est le petit frère de Fíli et le neveu de Thorin. Il aime s'amuser et rien n'entame sa bonne humeur. C'est un combattant doué et un archer expert qui s'est entraîné à manier les armes depuis son plus jeune âge.\nÉtant l'un des plus jeunes membres de la Compagnie des Nains, Kíli est déterminé à laisser sa marque et à prouver sa valeur.\n\n'Je ne me cacherai pas derrière un mur de pierres pendant que d'autres mènent nos batailles à notre place !'"
+"Recrutez le jeune Prince d'Erebor. Kíli est le petit frère de Fíli et le neveu de Thorin. Il aime s'amuser et rien n'entame sa bonne humeur. C'est un combattant doué et un archer expert qui s'est entraîné à manier les armes depuis son plus jeune âge.\nÉtant l'un des plus jeunes membres de la Compagnie des Nains, Kíli est déterminé à laisser sa marque et à prouver sa valeur.\n\n'Je ne me cacherai pas derrière un mur de pierres pendant que d'autres mènent nos batailles à notre place !'"
 END
 
 CONTROLBAR:DwarvenKiliRecruit
-"Recrutez le jeune prince d'Erebor. Kíli est le petit frère de Fíli et le neveu de Thorin. Il aime s'amuser et rien n'entame sa bonne humeur. C'est un combattant doué et un archer expert qui s'est entraîné à manier les armes depuis son plus jeune âge.\nÉtant l'un des plus jeunes membres de la Compagnie des Nains, Kíli est déterminé à laisser sa marque et à prouver sa valeur.\n\n'Je ne me cacherai pas derrière un mur de pierres pendant que d'autres mènent nos batailles à notre place !'"
+"Recrutez le jeune Prince d'Erebor. Kíli est le petit frère de Fíli et le neveu de Thorin. Il aime s'amuser et rien n'entame sa bonne humeur. C'est un combattant doué et un archer expert qui s'est entraîné à manier les armes depuis son plus jeune âge.\nÉtant l'un des plus jeunes membres de la Compagnie des Nains, Kíli est déterminé à laisser sa marque et à prouver sa valeur.\n\n'Je ne me cacherai pas derrière un mur de pierres pendant que d'autres mènent nos batailles à notre place !'"
 END
 
 CONTROLBAR:DwarvenKiliRevive
@@ -59369,18 +59374,21 @@ CONTROLBAR:DwarvenBalinHotkey
 END
 
 CONTROLBAR:DwarvenHeroArmor
-"Heroic Armor"
+"Armure Héroïque"
 END
+
 CONTROLBAR:ToolTipDwarvenHeroArmor
 "Gagne un bonus d'armure additionnel en atteignant le niveau 10"
 END
+
 CONTROLBAR:WildShot
 "Tir sauvage"
 END
 
 CONTROLBAR:ToolTipWildShot
-"Requiert : niveau 3\n Attaque à distance unique\N- Fait fuir le monstre ciblé\n Utilisable seulement avec l'arc.\n\nClic gauche sur l'icône puis clic gauche sur la cible"
+"Requiert : niveau 3\n Attaque à distance unique \n - Fait fuir le monstre ciblé\n Utilisable seulement avec l'arc.\n\nClic gauche sur l'icône puis clic gauche sur la cible"
 END
+
 OBJECT:GondorFountainGuard
 "Garde de la Cour de la Fontaine"
 END
@@ -59475,7 +59483,7 @@ END
 
 CONTROLBAR:GondorArcherBonus
 //"Gondorian Marksmenship"
-"Arcs d'If"
+"Arc Vif"
 END
 
 CONTROLBAR:ToolTipGondorArcherBonus
@@ -59560,11 +59568,11 @@ CONTROLBAR:ToolTipHalbaradUnerringLoyalty
 END
 
 CONTROLBAR:HalbaradPerseverance
-"Perseverance"
+"Persévérance"
 END
 
 CONTROLBAR:ToolTipHalbaradPerseverance
-"Requiert : niveau 3 \n Les Dunedains proches gagnent +30% d'armure, +50% de resistance au renversement pour un court instant \n\nClic gauche pour activer"
+"Requiert : niveau 3 \n Les Dúnedains proches gagnent +30% d'armure, +50% de resistance au renversement pour un court instant \n\nClic gauche pour activer"
 END
 
 CONTROLBAR:HalbaradCaptainoftheNorth
@@ -59714,7 +59722,7 @@ CONTROLBAR:ToolTipMuzgashLeadership2
 End
 
 CONTROLBAR:MuzgashPutridBlade
-"P&utrid Blade"
+"Lame P&utride"
 End
 
 CONTROLBAR:ToolTipMuzgashPutridBlade
@@ -59793,7 +59801,7 @@ CONTROLBAR:ToolTipBuildFireWyrmLairLevel2Upgrade
 "Permet de rechercher l'amélioration Cuirasse de Wyrm.\n Vitesse de construction +10%"
 END
 CONTROLBAR:ToolTipBuildFireWyrmLairLevel3Upgrade
-"\n Vitesse de construction +25%"
+"Vitesse de construction +25%"
 END
 
 //------------ Cerin Amroth ---------------
@@ -59862,7 +59870,7 @@ CONTROLBAR:LW_Unit_LorienSilverTreeSentinelHordePlural
 END
 
 CONTROLBAR:LW_ToolTip_LorienSilverTreeSentinelHorde
-"\nType d'unité: Archer d'élite\n Fort contre piquiers"
+"Type d'unité: Archer d'élite\n Fort contre piquiers"
 END
 
 CONTROLBAR:LW_ToolTipBuild_LorienSilverTreeSentinelHorde
@@ -59870,11 +59878,11 @@ CONTROLBAR:LW_ToolTipBuild_LorienSilverTreeSentinelHorde
 END
 
 BANNERUI:SilverTreeSentinel
-"Sentinel of the Silver Tree"
+"Sentinelle de l'Arbre d'Argent"
 END
 
 BANNERUI:SilverTreeSentinels
-"Sentinels of the Silver Tree"
+"Les Sentinelles de l'Arbre d'Argent"
 END
 
 //------------ Pathstalker ---------------
@@ -59939,11 +59947,11 @@ CONTROLBAR:LW_Unit_ElvenGaladhrimWarriorComboHorde
 END
 
 CONTROLBAR:LW_Unit_ElvenGaladhrimWarriorComboHordePlural
-"Bataillon de gardiens de"
+"Bataillon de gardiens des marches"
 END
 
 CONTROLBAR:LW_ToolTip_ElvenGaladhrimWarriorHorde
-"\n Type d'unité : infanterie d'élite.\n\n Fort contre l'infanterie"
+"Type d'unité : infanterie d'élite.\n\n Fort contre l'infanterie"
 END
 
 CONTROLBAR:ToolTipBuildGaladhrimWarriorInnHorde
@@ -59977,7 +59985,7 @@ CONTROLBAR:LW_Unit_NimrodelHorde
 END
 
 CONTROLBAR:LW_ToolTip_NimrodelHorde
-"\n Type d'unité : cavalerie d'élite\n Forts contre l'infanterie"
+"Type d'unité : cavalerie d'élite\n Forts contre l'infanterie"
 END
 
 CONTROLBAR:ToolTipBuildNimrodelHorde
@@ -64458,7 +64466,7 @@ CONTROLBAR:PurchaseTechnologyRivendellLeithian
 END
 
 CONTROLBAR:ToolTipPurchaseTechnologyRivendellLeithian
-"L'histoire d'amour classique entre une Elfe immortelle et un homme mortel. \n\n Permet à la Compagnie Grise d'être recrutée depuis le Quartier Dunedain"
+"L'histoire d'amour classique entre une Elfe immortelle et un homme mortel. \n\n Permet à la Compagnie Grise d'être recrutée depuis le Quartier Dúnedain"
 END
 
 UPGRADE:RivendellYavanna
@@ -64607,7 +64615,7 @@ CONTROLBAR:ToolTipSongToElbereth
 "Les unités alliées deviennent temporairement immunisées à la peur\nClic gauche pour activer"
 End
 
-//------------ Dunedain --------------
+//------------ Dúnedain --------------
 
 CONTROLBAR:PurchaseUpgradeDunedainSpears
 "Dégainez les épées"
@@ -64667,7 +64675,7 @@ END
 
 
 CONTROLBAR:PurchaseUpgradeDunedainCaptain
-"Amélioration de capitaine Dunedain"
+"Amélioration de capitaine Dúnedain"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeDunedainCaptainforDunedain
@@ -64683,7 +64691,7 @@ Tooltip:LackDunedainCaptainBasicTraining_Inn
 End
 
 CONTROLBAR:PurchaseUpgradeDunedainCaptainforBree
-"Amélioration de capitaine Dunedain"
+"Amélioration de capitaine Dúnedain"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeDunedainCaptainforBree
@@ -66830,11 +66838,11 @@ CONTROLBAR:LW_Hero_Roac
 END
 
 CONTROLBAR:LW_Hero_Kili
-"Kili"
+"Kíli"
 END
 
 CONTROLBAR:LW_Hero_Fili
-"Fili"
+"Fíli"
 END
 
 CONTROLBAR:LW_Hero_Dwalin
