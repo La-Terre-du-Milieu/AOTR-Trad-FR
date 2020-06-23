@@ -31691,7 +31691,7 @@ END
 
 CONTROLBAR:ToolTipPurchaseUpgradeWildFortressWebCocoon
 // "Augmente l'armure de la forteresse. \n Requis pour le nid de dragons."
-"Augmente l'armure de la forteresse.\nPermet de recruter les Trolls Olog-hai, les Chauve-souris géantes et un second bataillon de Demi-Ogres."
+"Augmente l'armure de la forteresse.\nPermet de recruter les Trolls Olog-hai, les Chauve-souris géantes et un second bataillon de Semi-Ogres."
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeWildFortressWebCocoonForMaps
@@ -56389,7 +56389,7 @@ END
 
 CONTROLBAR:ToolTipBuildWildFissureLevel3Upgrade
 //"Niveau 3 : vitesse de construction +25%.\n Permet de recruter les Géant des Montagness and Couvée de Drakes de feu"
-"Permet de recruter les Olog-hai et des Demi-Ogres.\n Vitesse de construction +25%"
+"Permet de recruter les Olog-hai et des Semi-Ogres.\n Vitesse de construction +25%"
 END
 
 CONTROLBAR:ToolTipBuildWildFissureLevel3Upgrade_WOTR
@@ -60051,7 +60051,7 @@ CONTROLBAR:LW_Unit_MirkwoodWarriorHorde
 END
 
 CONTROLBAR:LW_ToolTip_MirkwoodWarriorHorde
-"\nType d'unité : infanterie d'élite\nForts contre l'infanterie"
+"Type d'unité : infanterie d'élite\nForts contre l'infanterie"
 END
 
 CONTROLBAR:ToolTipBuildMirkwoodWarriorHordeInn
@@ -60100,7 +60100,7 @@ END
 
 GUI:STONEWORKER_DISCOUNT
 // Context: used to display cavalry discount modifier in Palantír
-"Coût des\nstructures -%d%%"
+"Coût des \nstructures -%d%%"
 END
 
 //------------ Linhir Pikes ---------------
@@ -60122,7 +60122,7 @@ CONTROLBAR:LW_Unit_GondorLinhirPikeHorde
 END
 
 CONTROLBAR:LW_ToolTip_GondorLinhirPikeHorde
-"\n Type d'unité : unité standard\n Forts contre la cavalerie"
+"Type d'unité : unité standard\n Forts contre la cavalerie"
 END
 
 CONTROLBAR:ToolTipBuildGondorLinhirPikeHorde
@@ -60147,7 +60147,7 @@ CONTROLBAR:LW_Unit_LossarnachAxemenHordePlural
 END
 
 CONTROLBAR:LW_ToolTip_LossarnachAxemenHorde
-"\nType d'unité: Unité Anti-spam Unit\n Fort contre les batiments"
+"Type d'unité: Unité Anti-spam Unit\n Fort contre les batiments"
 END
 
 CONTROLBAR:LW_ToolTipBuild_LossarnachAxemenHorde
@@ -60181,7 +60181,7 @@ CONTROLBAR:LW_Unit_GondorLamedonFighterHorde
 END
 
 CONTROLBAR:LW_ToolTip_GondorLamedonFighterHorde
-"\n Type d'unité : unité standard\n Forts contre les piquiers"
+"Type d'unité : unité standard\n Forts contre les piquiers"
 END
 
 CONTROLBAR:ToolTipBuildGondorLamedonFighterHorde
@@ -60227,7 +60227,7 @@ CONTROLBAR:LW_Unit_GondorBlackrootArcherHorde
 END
 
 CONTROLBAR:LW_ToolTip_GondorBlackrootArcherHorde
-"\n Type d'unité : unité standard\n Forts contre l'infanterie et les monstres"
+"Type d'unité : unité standard\n Forts contre l'infanterie et les monstres"
 END
 
 CONTROLBAR:ToolTipBuildGondorBlackrootArcherHorde
@@ -60314,7 +60314,7 @@ CONTROLBAR:LW_Unit_GondorPinnathGelinHorde
 END
 
 CONTROLBAR:LW_ToolTip_GondorPinnathGelinHorde
-"\n Type d'unité : cavalerie standard\n Forts contre les archers"
+"Type d'unité : cavalerie standard\n Forts contre les archers"
 END
 
 CONTROLBAR:ToolTipBuildGondorPinnathGelinHorde
@@ -60460,19 +60460,19 @@ END
 
 //------------ Tribe BodyGuard Pikes ---------------
 OBJECT:WildBodyGuard
-"Demi-Ogre"
+"Semi-Ogre"
 END
 
 OBJECT:HordeWildBodyGuard
-"Demi-Ogres"
+"Semi-Ogres"
 END
 
 CONTROLBAR:ConstructWildBodyGuardHorde
-"Demi-Ogres"
+"Semi-Ogres"
 END
 
 CONTROLBAR:LW_Unit_WildBodyGuardHorde
-"Demi-Ogres"
+"Semi-Ogres"
 END
 
 CONTROLBAR:LW_ToolTip_WildBodyGuardHorde
@@ -60480,11 +60480,11 @@ CONTROLBAR:LW_ToolTip_WildBodyGuardHorde
 END
 
 CONTROLBAR:ToolTipBuildWildBodyGuardHorde
-"Requiert : Fissure de Gundabad niveau 3\nLes galeries qui serpentent sous les Monts Brumeux dissimulent davantage de secrets que les laissés pour compte de la société gobeline. Les Demi-Ogres sont issus du croisement contre-nature entre des Orques parias et des Ogres, bêtes humanoïdes repoussantes qui rôdent dans les galeries à la recherche de la moindre chair à dévorer.\nEncore plus voraces que les Orques, les Demi-Ogres sont des machines à tuer dégénérées, se résumant à des muscles noueux, des moulinets de cimeterres acérés et de la bestialité, car les promesses de sang et leur soif de carnage en font de véritables monstres.\nUne seule unité autorisée en même temps.\n\nUnités d'élite, forts contre toutes les unités standards"
+"Requiert : Fissure de Gundabad niveau 3\nLes galeries qui serpentent sous les Monts Brumeux dissimulent davantage de secrets que les laissés pour compte de la société gobeline. Les Semi-Ogres sont issus du croisement contre-nature entre des Orques parias et des Ogres, bêtes humanoïdes repoussantes qui rôdent dans les galeries à la recherche de la moindre chair à dévorer.\nEncore plus voraces que les Orques, les Semi-Ogres sont des machines à tuer dégénérées, se résumant à des muscles noueux, des moulinets de cimeterres acérés et de la bestialité, car les promesses de sang et leur soif de carnage en font de véritables monstres.\nUne seule unité autorisée en même temps.\n\nUnités d'élite, forts contre toutes les unités standards"
 END
 
 CONTROLBAR:ToolTipBuildWildBodyGuardHordeFortress
-"Requiert : Donjon de Gundabad\nLes Demi-Ogres sont issus du croisement contre-nature entre des Orques paria et des Ogres, bêtes humanoïdes repoussantes qui rôdent dans les galeries à la recherche de la moindre chair à dévorer.\nEncore plus voraces que les Orques, les Demi-Ogres sont des machines à tuer dégénérées, se résumant à des muscles noueux, des moulinets de cimeterres acérés et de la bestialité, car les promesses de sang et leur soif de carnage en font de véritables monstres.\nUne seule unité autorisée en même temps.\n\nForts contre toutes les unités standards."
+"Requiert : Donjon de Gundabad\nLes Semi-Ogres sont issus du croisement contre-nature entre des Orques paria et des Ogres, bêtes humanoïdes repoussantes qui rôdent dans les galeries à la recherche de la moindre chair à dévorer.\nEncore plus voraces que les Orques, les Semi-Ogres sont des machines à tuer dégénérées, se résumant à des muscles noueux, des moulinets de cimeterres acérés et de la bestialité, car les promesses de sang et leur soif de carnage en font de véritables monstres.\nUne seule unité autorisée en même temps.\n\nForts contre toutes les unités standards."
 END
 
 CONTROLBAR:LW_ToolTipBuild_WildBodyGuardHorde
@@ -60549,7 +60549,7 @@ CONTROLBAR:ToolTipGondorArmaments
 END
 
 CONTROLBAR:ToolTipGondorArmaments_SwornAllegiance
-"Type d'action: Level\n Les unités gagnent +33% d'armure de façon permanente\n Bonus cumulable"
+"Type d'action: Niveau \n Les unités gagnent +33% d'armure de façon permanente\n Bonus cumulable"
 END
 
 CONTROLBAR:RohanArmaments
@@ -60631,7 +60631,7 @@ CONTROLBAR:ToolTipRumilLeadership
 END
 
 CONTROLBAR:OrophinLeadership
-"Gardien du Celebrant"
+"Gardien du Célébrant"
 END
 
 CONTROLBAR:ToolTipOrophinLeadership
@@ -60907,7 +60907,7 @@ CONTROLBAR:LW_Unit_IsengardScoutHorde
 END
 
 CONTROLBAR:LW_ToolTip_IsengardScoutHorde
-"\n Type d'unité : unité standard\n Forts contre l'infanterie et les piquiers"
+"Type d'unité : unité standard\n Forts contre l'infanterie et les piquiers"
 END
 
 CONTROLBAR:ToolTipBuildIsengardScoutHorde
@@ -60937,11 +60937,11 @@ CONTROLBAR:LW_Unit_IsengardManSlayerHorde
 END
 
 CONTROLBAR:LW_ToolTip_IsengardManSlayerHorde
-"\n Type d'unité : unité héroïque\n Limité à 3\n Forts contre tous les types d'unité"
+"Type d'unité : unité héroïque\n Limité à 3\n Forts contre tous les types d'unité"
 END
 
 CONTROLBAR:LW_ToolTip_IsengardManSlayerHorde_WOTR
-"# Man-Slayers\n\nType d'unité: Héros Unit\n Fort contre Tous Unit types"
+"Eventreurs \n\n Type d'unité: Unité Héroïque \n Fort contre Tous Type d'Unité"
 END
 
 CONTROLBAR:ToolTipBuildIsengardManSlayerHorde
@@ -61007,7 +61007,7 @@ CONTROLBAR:TooltipSummonMordorAllies
 End
 
 CONTROLBAR:TooltipSummonMordorAllies_WOTR
-"Summons several hordes of Mordor Orques to fight for your side \n Clic gauche sélectionner Clic gauche un emplacement libre"
+"Invoque plusieurs hordes d'Orques du Mordor sous votre contrôle \n Clic gauche sélectionner Clic gauche un emplacement libre"
 End
 
 //---------------- Devastate -----------------
@@ -61038,7 +61038,7 @@ CONTROLBAR:LW_Unit_IsengardWildmenSpearHorde
 END
 
 CONTROLBAR:LW_ToolTip_IsengardWildmenSpearHorde
-"\n Type d'unité : unité standard\n Forts contre la cavalerie"
+"Type d'unité : unité standard\n Forts contre la cavalerie"
 END
 
 CONTROLBAR:ToolTipBuildIsengardWildmenSpearHorde
@@ -61122,7 +61122,7 @@ CONTROLBAR:LW_Unit_MordorEasterlingSwordsman
 End
 
 CONTROLBAR:LW_ToolTip_MordorEasterlingSwordsman
-"Type d'unité : Elite Infantry\nForts contre les piquiers"
+"Type d'unité : Infantrie d'Elite \nForts contre les piquiers"
 End
 
 //------------ Easterling Archers ---------------
@@ -61176,7 +61176,7 @@ CONTROLBAR:LW_ToolTip_MordorVariagHorde
 END
 
 CONTROLBAR:ToolTipBuildMordorVariagHorde
-"Les osts de Khand s'appuient sur un grand nombre de guerriers expérimentés. La plupart ont juré de servir un roi en particulier, mais certains louent leurs services en tant que mercenaires, car leurs talents sont recherchés à Khand aussi bien que dans les terres voisines.\n\nForts contre les piquiers"
+"Les Variags de Khand s'appuient sur un grand nombre de guerriers expérimentés. La plupart ont juré de servir un roi en particulier, mais certains louent leurs services en tant que mercenaires, car leurs talents sont recherchés à Khand aussi bien que dans les terres voisines.\n\nForts contre les piquiers"
 END
 
 CONTROLBAR:LW_ToolTipBuild_MordorVariagHorde
@@ -61256,7 +61256,7 @@ OBJECT:GondorForlong
 END
 
 CONTROLBAR:GondorForlongRecruit
-"Recruter le seigneur de Lossarnach : "Un vrai coeur, un vrai ami ! Forlong !'"
+"Recruter le seigneur de Lossarnach : 'Un vrai coeur, un vrai ami ! Forlong !'"
 END
 
 CONTROLBAR:GondorForlongRevive
@@ -61738,7 +61738,7 @@ CONTROLBAR:AzogSpawnOfTheDefiler
 END
 
 CONTROLBAR:ToolTipAzogSpawnOfTheDefiler
-"Requiert : niveau 10\n Invoque temporairement Bolg et un bataillon de Demi-Ogres.\nRejeton d'Azog, Bolg est un Orque cruel dont le passe-temps favori est de superviser les tortures et autres sévices qui ont lieu dans les cachots de Dol Guldur. C'est un véritable tortionnaire qui se délecte des souffrances qu'il fait endurer à ses prisonniers.\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
+"Requiert : niveau 10\n Invoque temporairement Bolg et un bataillon de Semi-Ogres.\nRejeton d'Azog, Bolg est un Orque cruel dont le passe-temps favori est de superviser les tortures et autres sévices qui ont lieu dans les cachots de Dol Guldur. C'est un véritable tortionnaire qui se délecte des souffrances qu'il fait endurer à ses prisonniers.\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
 END
 
 CONTROLBAR:ToolTipAzogSpawnOfTheDefiler_WOTR
@@ -62172,7 +62172,7 @@ END
 
 CONTROLBAR:ToolTipBodyGuardBoom
 //"Powerful ranged attack against a single target \n\n Clic gauche sur l'icône puis clic gauche sur la cible"
-"Requiert : niveau 3 \n Les Demi-Ogres lancent sur l'ennemi une volée de crânes enflammés : inflige d'importants dégâts avec un effet de zone.\n\n Clic gauche sur l'icône puis clic gauche sur la cible"
+"Requiert : niveau 3 \n Les Semi-Ogres lancent sur l'ennemi une volée de crânes enflammés : inflige d'importants dégâts avec un effet de zone.\n\n Clic gauche sur l'icône puis clic gauche sur la cible"
 END
 
 CONTROLBAR:BodyguardDeathWish
@@ -62180,7 +62180,7 @@ CONTROLBAR:BodyguardDeathWish
 END
 
 CONTROLBAR:ToolTipBodyguardDeathWish
-"Requiert : niveau 7 \n Les Demi-Ogres gagnent temporairement +150% dégâts au détriment de -25% armure.\n\n Clic gauche pour activer"
+"Requiert : niveau 7 \n Les Semi-Ogres gagnent temporairement +150% dégâts au détriment de -25% armure.\n\n Clic gauche pour activer"
 END
 
 CONTROLBAR:SarumanThunderBolt
