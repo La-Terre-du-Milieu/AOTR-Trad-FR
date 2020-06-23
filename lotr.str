@@ -57223,7 +57223,7 @@ CONTROLBAR:LW_ToolTipBuild_GondorSpearmenHorde
 END
 CONTROLBAR:LW_ToolTip_GondorSpearmenHorde
 //"\n Type d'unité : lanciers.\n\n Forts contre les cavaliers"
-"\n Type d'unité : piquiers d'élite.\n\n Forts contre les cavaliers"
+"Type d'unité : piquiers d'élite.\n\n Forts contre les cavaliers"
 END
 
 BANNERUI:RohanSpearmen
@@ -57238,7 +57238,7 @@ END
 
 CONTROLBAR:LW_ToolTip_RohanSpearmenHorde
 //"\n Type d'unité : lanciers.\n\n Forts contre les cavaliers"
-"\n Type d'unité : piquiers standards.\n\n Forts contre les cavaliers"
+"Type d'unité : piquiers standards.\n\n Forts contre les cavaliers"
 END
 
 CONTROLBAR:LW_ToolTipBuild_GondorArcherHorde
@@ -57248,7 +57248,7 @@ END
 
 CONTROLBAR:LW_ToolTip_GondorArcherHorde
 //"\n Type d'unité : archers standards\n Fort à distance"
-"\n Type d'unité : archers d'élite.\n\n Forts contre les épéistes"
+"Type d'unité : archers d'élite.\n\n Forts contre les épéistes"
 END
 
 CONTROLBAR:LW_ToolTipBuild_GondorRangerHorde
@@ -57257,7 +57257,7 @@ CONTROLBAR:LW_ToolTipBuild_GondorRangerHorde
 END
 CONTROLBAR:LW_ToolTip_GondorRangerHorde
 //"\n Type d'unité : archers d'élite\n Fort à distance"
-"\n Type d'unité : archers d'élite.\n\n Forts contre les épéistes"
+"Type d'unité : archers d'élite.\n\n Forts contre les épéistes"
 END
 
 BANNERUI:DunedainRanger
@@ -57279,7 +57279,7 @@ CONTROLBAR:LW_ToolTipBuild_GondorTrebuchet
 END
 CONTROLBAR:LW_ToolTip_GondorTrebuchet
 //"Type d'unité : siège.\n\n Forts contre les structures\n "
-"\n Type d'unité : siège.\n\n Forts contre les structures et les archers"
+"Type d'unité : siège.\n\n Forts contre les structures et les archers"
 END
 
 BANNERUI:KnightOfDol
@@ -57337,12 +57337,12 @@ CONTROLBAR:LW_ToolTipBuild_ElvenLorienArcherHorde
 END
 CONTROLBAR:LW_ToolTip_ElvenLorienArcherHorde
 //"\n Type d'unité : archers standards\n Fort à distance"
-"\n Type d'unité : archers standards.\n\n Forts contre les épéistes"
+"Type d'unité : archers standards.\n\n Forts contre les épéistes"
 END
 
 CONTROLBAR:LW_ToolTip_ElvenLorienWardenArcherHorde
 //"\nType d'unité: Basic Archer\nStrong at Range"
-"\nType d'unité: Basic Pikemen and Basic Archer\n Fort contre la Cavalerie and Swordsmen"
+"Type d'unité: Basic Pikemen and Basic Archer\n Fort contre la Cavalerie and Swordsmen"
 END
 
 BANNERUI:ElvenMithlondSentry
@@ -57372,7 +57372,7 @@ CONTROLBAR:LW_ToolTipBuild_ElvenMirkwoodArcherHorde
 END
 CONTROLBAR:LW_ToolTip_ElvenMirkwoodArcherHorde
 //"\n Type d'unité : archers d'élite\n Fort à distance"
-"\n Type d'unité : archers d'élite.\n\n Forts contre les épéistes"
+"Type d'unité : archers d'élite.\n\n Forts contre les épéistes"
 END
 
 BANNERUI:ElvenNoldorWarrior
@@ -57389,11 +57389,11 @@ CONTROLBAR:LW_Unit_ElvenNoldorWarriorHordePlural
 END
 CONTROLBAR:LW_ToolTip_NoldorWarriorHorde
 //"Type d'unité : infanterie héroïque.\n\n Fort contre tout"
-"\n Type d'unité : infanterie héroïque.\n\n Fort contre tout"
+"Type d'unité : infanterie héroïque.\n\n Fort contre tout"
 // I don't think this tooltip is used.
 END
 CONTROLBAR:LW_ToolTip_ElvenNoldorWarriorHorde
-"\n Type d'unité : infanterie héroïque.\n\n Fort contre tout"
+"Type d'unité : infanterie héroïque.\n\n Fort contre tout"
 END
 
 BANNERUI:ElvenRivendellLancer
@@ -57413,7 +57413,7 @@ CONTROLBAR:LW_ToolTipBuild_ElvenRivendellArcherHorde
 END
 CONTROLBAR:LW_ToolTip_ElvenRivendellArcherHorde
 //"Fast Archers, Fort à distance"
-"\n Type d'unité : cavalerie standard.\n\n Forts contre les épéistes, les archers et la cavalerie"
+"Type d'unité : cavalerie standard.\n\n Forts contre les épéistes, les archers et la cavalerie"
 END
 
 CONTROLBAR:LW_ToolTipBuild_ElvenEnt
@@ -57422,7 +57422,7 @@ CONTROLBAR:LW_ToolTipBuild_ElvenEnt
 END
 CONTROLBAR:LW_ToolTip_ElvenEnt
 //"Type d'unité : siège.\n\n Forts contre les structures\n "
-"\n Type d'unité : siège.\n\n Forts contre les épéistes, les archers, la cavalerie et les structures"
+"Type d'unité : siège.\n\n Forts contre les épéistes, les archers, la cavalerie et les structures"
 END
 
 CONTROLBAR:LW_ToolTip_Treebeard
@@ -57431,7 +57431,7 @@ END
 
 CONTROLBAR:LW_Structure_DwarvenHallOfWarriors
 //"Hall des Guerriers"
-"Hall des Guerriers"
+"La Salle des Guerriers"
 END
 
 CONTROLBAR:LW_Structure_DwarvenFortress
@@ -57461,20 +57461,20 @@ END
 BANNERUI:DwarvenPhalanx
 // Singluar name of the Dwarven Phalange category displayed in the army summary for WotR
 //"Erebor Pikemen"
-"Phalanx"
+"Phalange"
 End
 BANNERUI:PluralDwarvenPhalanx
 // Plural name of the Dwarven Phalange category displayed in the army summary for WotR
 //"Erebor Pikemen"
-"Phalanx"
+"Phalange"
 End
 CONTROLBAR:LW_Unit_DwarvenPhalanxHorde
 //"Bataillon de Erebor Pikemen"
-"Bataillon de Phalanx"
+"Bataillon de Phalange"
 END
 CONTROLBAR:LW_Unit_DwarvenPhalanxHordePlural
 //"Bataillons de Erebor Pikemen"
-"Bataillons de Erebor Pikemen"
+"Bataillons de Piquiers d'Erebor"
 END
 CONTROLBAR:LW_ToolTipBuild_DwarvenPhalanxHorde
 //"Type d'unité : piquiers standards.\n\n Forts contre les cavaliers\n "
@@ -57500,11 +57500,11 @@ CONTROLBAR:LW_Unit_DwarvenZerkerHordePlural
 END
 CONTROLBAR:LW_ToolTip_DwarvenZerkerHorde
 //"Type d'unité : infanterie héroïque.\n\n Fort contre tout"
-"\n Type d'unité : infanterie héroïque.\n\n Fort contre tout"
+"Type d'unité : infanterie héroïque.\n\n Fort contre tout"
 END
 
 CONTROLBAR:LW_ToolTip_DwarvenZerkerHorde_WOTR
-"12 Wyrm Slayers\n\nType d'unité: Héros Infantry\n Fort contre Tous"
+"12 Eventreur de Wyrm \n\n Type d'unité: Infantrie Héroïque \n Fort contre Tous"
 END
 
 BANNERUI:DwarvenAxeThrower
@@ -57531,7 +57531,7 @@ CONTROLBAR:LW_ToolTipBuild_DwarvenAxeThrowerHorde
 END
 CONTROLBAR:LW_ToolTip_DwarvenAxeThrowerHorde
 //"\n Type d'unité : archers standards\n Fort à distance"
-"\n Type d'unité : archers standards.\n\n Forts contre les piquiers"
+"Type d'unité : archers standards.\n\n Forts contre les piquiers"
 END
 
 CONTROLBAR:LW_ToolTipBuild_DwarvenMenOfDaleHorde
@@ -57540,7 +57540,7 @@ CONTROLBAR:LW_ToolTipBuild_DwarvenMenOfDaleHorde
 END
 CONTROLBAR:LW_ToolTip_DwarvenMenOfDaleHorde
 //"\n Type d'unité : archers d'élite\n Fort à distance"
-"\n Type d'unité : archers d'élite.\n\n Forts contre les épéistes"
+"Type d'unité : archers d'élite.\n\n Forts contre les épéistes"
 END
 
 BANNERUI:DwarvenBattleWagon
@@ -57567,7 +57567,7 @@ CONTROLBAR:LW_ToolTipBuild_DwarvenBattleWagon
 END
 CONTROLBAR:LW_ToolTip_DwarvenBattleWagon
 //"\n Type d'unité : cavalerie standard.\n\n Forts contre les archers"
-"\n Type d'unité : cavalerie standard.\n\n Forts contre les archers et les épéistes"
+"Type d'unité : cavalerie standard.\n\n Forts contre les archers et les épéistes"
 END
 
 CONTROLBAR:LW_ToolTipBuild_DwarvenCatapult
@@ -57576,7 +57576,7 @@ CONTROLBAR:LW_ToolTipBuild_DwarvenCatapult
 END
 CONTROLBAR:LW_ToolTip_DwarvenCatapult
 //"Type d'unité : siège.\n\n Forts contre les structures\n "
-"\n Type d'unité : siège.\n\n Forts contre les structures et les archers"
+"Type d'unité : siège.\n\n Forts contre les structures et les archers"
 END
 
 CONTROLBAR:LW_Structure_IsengardFortress
@@ -57599,11 +57599,11 @@ CONTROLBAR:LW_ToolTipBuild_IsengardUrukCrossbowHorde
 END
 CONTROLBAR:LW_ToolTip_IsengardUrukCrossbowHorde
 //"\n Type d'unité : archers standards\n Fort à distance"
-"\n Type d'unité : archers d'élite.\n\n Forts contre les épéistes"
+"Type d'unité : archers d'élite.\n\n Forts contre les épéistes"
 END
 
 CONTROLBAR:LW_ToolTip_IsengardUrukFighterCrossbowHorde
-"\nType d'unité: Infanterie d'élite et archers d'élite\nForts contre piquiers et épéistes"
+"Type d'unité: Infanterie d'élite et archers d'élite\nForts contre piquiers et épéistes"
 END
 
 CONTROLBAR:LW_Unit_IsengardUrukPikemanCrossbowHorde
@@ -57615,7 +57615,7 @@ CONTROLBAR:LW_Unit_IsengardUrukPikemanCrossbowHordePlural
 END
 
 CONTROLBAR:LW_ToolTip_IsengardUrukPikemanCrossbowHorde
-"\nType d'unité: Piquiers d'élite et archers d'élite\nForts contre cavalerie et épéistes"
+"Type d'unité: Piquiers d'élite et archers d'élite\nForts contre cavalerie et épéistes"
 END
 
 CONTROLBAR:LW_Unit_IsengardUrukFighterPikemenHorde
@@ -57627,7 +57627,7 @@ CONTROLBAR:LW_Unit_IsengardUrukFighterPikemenHordePlural
 END
 
 CONTROLBAR:LW_ToolTip_IsengardUrukFighterPikemenHorde
-"\nType d'unité: Infanterie et piquiers d'élite \nForts contre piquiers et cavalerie"
+"Type d'unité: Infanterie et piquiers d'élite \nForts contre piquiers et cavalerie"
 END
 
 CONTROLBAR:LW_ToolTipBuild_IsengardBeserker
@@ -57636,7 +57636,7 @@ CONTROLBAR:LW_ToolTipBuild_IsengardBeserker
 END
 CONTROLBAR:LW_ToolTip_IsengardBeserker
 //"\n Type d'unité : infanterie d'élite.\n\n Forts contre les piquiers"
-"\n Type d'unité : infanterie d'élite.\n\n Forts contre les épéistes"
+"Type d'unité : infanterie d'élite.\n\n Forts contre les épéistes"
 END
 
 BANNERUI:IsengardFanatic
@@ -57652,11 +57652,11 @@ CONTROLBAR:LW_Unit_IsengardFanaticHordePlural
 "Hordes d'Eclaireurs Uruks"
 END
 CONTROLBAR:LW_ToolTip_IsengardFanaticHorde
-"\n Type d'unité : infanterie d'élite.\n\n Fort contre tout"
+"Type d'unité : infanterie d'élite.\n\n Fort contre tout"
 END
 
 CONTROLBAR:LW_ToolTip_IsengardFanaticHorde_WOTR
-"6 Gundabad Bodyguards\n\nType d'unité: Héros Infantry\n Fort contre Tous"
+"6 Garde du Corps de Gundabad \n\nType d'unité: Infantrie Héroïque \n Fort contre Tous"
 END
 
 CONTROLBAR:LW_ToolTipBuild_IsengardWildmanHorde
@@ -57668,7 +57668,7 @@ END
 //END
 CONTROLBAR:LW_ToolTip_IsengardWildmanHorde
 //"\n Type d'unité : épéistes standards.\n\n Forts contre les piquiers"
-"\n Type d'unité : infanterie standard.\n\n Forts contre les piquiers"
+"Type d'unité : infanterie standard.\n\n Forts contre les piquiers"
 END
 
 CONTROLBAR:LW_ToolTipBuild_IsengardWildmanAxeHorde
@@ -57936,7 +57936,7 @@ END
 
 CONTROLBAR:LW_Hero_GoblinKing
 //"Gorkil The Goblin King"
-"Golfimbul The Chieftan of Mount Gram"
+"Golfimbul Le Grand Chef du Mont Gram"
 END
 
 CONTROLBAR:LW_Structure_AngmarFortress
@@ -57946,15 +57946,15 @@ END
 
 CONTROLBAR:LW_ToolTipBuild_AngmarThrallMaster
 //"Type d'unité : divers\n "
-"Type d'unité : Weak Support Unit\n Versatile\n "
+"Type d'unité : Unité de soutien faible \n Polyvalente"
 END
 CONTROLBAR:LW_ToolTip_AngmarThrallMaster
 //"Type d'unité : divers\n "
-"\n Type d'unité : Weak Support Unit\n Versatile"
+"Type d'unité : Unité de soutien faible \n Polyvalente"
 END
 
 CONTROLBAR:LW_ToolTip_AngmarDarkDunedainHorde
-"\n Type d'unité : Elite Swordsmen.\n\n Forts contre les piquiers"
+"Type d'unité : Epéiste d'Elite \n\n Forts contre les piquiers"
 END
 
 CONTROLBAR:LW_ToolTipBuild_AngmarDarkRangerHorde
@@ -57963,14 +57963,14 @@ CONTROLBAR:LW_ToolTipBuild_AngmarDarkRangerHorde
 END
 CONTROLBAR:LW_ToolTip_AngmarDarkRangerHorde
 //"Type d'unité : archers d'élite\n Fort à distance\n "
-"\n Type d'unité : archers d'élite.\n\n Forts contre les épéistes"
+"Type d'unité : archers d'élite.\n\n Forts contre les épéistes"
 END
 
 CONTROLBAR:LW_Unit_AngmarDireWolfHorde
-"Dire Wolf Horde"
+"Horde d'Affreux Loups"
 END
 CONTROLBAR:LW_Unit_AngmarDireWolfHordePlural
-"Dire Wolf Hordes"
+"Hordes d'Affreux Loups"
 END
 CONTROLBAR:LW_ToolTipBuild_AngmarDireWolfHorde
 //"Type d'unité : Fast Infantry.\n\n Forts contre les archers et les piquiers\n "
@@ -57979,15 +57979,15 @@ END
 
 CONTROLBAR:LW_ToolTip_AngmarDireWolfHorde
 //"Type d'unité : infanterie.\n\n Forts contre les archers et les piquiers\n "
-"\n Type d'unité : infanterie standard\n Très forts contre les piquiers"
+"Type d'unité : infanterie standard\n Très forts contre les piquiers"
 END
 
 CONTROLBAR:LW_Unit_AngmarSnowTrollHorde
-"Troll des neiges Horde"
+"Horde de Troll des neiges"
 END
 
 CONTROLBAR:LW_Unit_AngmarSnowTrollsHordePlural
-"Troll des neiges Hordes"
+"Hordes de Troll des neiges"
 END
 
 CONTROLBAR:LW_ToolTipBuild_AngmarSnowTrollHorde
@@ -58001,12 +58001,12 @@ CONTROLBAR:LW_ToolTip_AngmarSnowTrollHorde
 END
 
 CONTROLBAR:LW_Unit_AngmarHillTrollHorde
-"Trolls des collines Hordes"
+"Horde de Trolls des collines"
 END
 
 CONTROLBAR:LW_Unit_AngmarHillTrollHordePlural
 //"Trolls des collines" // don't think this tooltip is used
-"Trolls des collines Hordes"
+"Hordes de Trolls des collines"
 END
 
 CONTROLBAR:LW_ToolTip_AngmarHillTrollHorde
@@ -58018,11 +58018,11 @@ CONTROLBAR:LW_Unit_AngmarHillTrollsHordePlural
 END
 
 CONTROLBAR:LW_Unit_AngmarNecromancerHorde
-"Sorcerer Horde"
+"Horde de Sorciers"
 END
 
 CONTROLBAR:LW_Unit_AngmarNecromancerHordePlural
-"Sorcerer Hordes"
+"Hordes de Sorciers"
 END
 
 CONTROLBAR:LW_ToolTipBuild_AngmarNecromancerHorde
@@ -58071,7 +58071,7 @@ CONTROLBAR:ToolTipDarkGlory
 //"Requiert : niveau 7\n Morgomir and nearby Númenóréen Noir Swordsmen and Rôdeurs Noirs gain\n +50% dégâts et +50% armure.\n\nClic gauche pour activer\n Cumulable avec tout autre Bonus ou Pénalité" 
 //"Requiert : niveau 7\n Morgomir and nearby Dark Dúnedain gain\n +50% dégâts, +50% armure.\n\nClic gauche pour activer" 
 //"Requiert : niveau 7\n Morgomir and nearby Dark Dúnedain gain\n +33% dégâts, +33% armure.\n\nClic gauche pour activer"
-"Requiert : niveau 7\n Type d'Action : Sort\n Morgomir and nearby Dark Dúnedain gain +33% dégâts et +33% armure\n Cumulable avec d'autres Bonus de Sort ou de Charisme.\n\nClic gauche pour activer" 
+"Requiert : niveau 7\n Type d'Action : Sort\n Morgomir et les Sombres Dúnedain à proximité gagnent +33% dégâts et +33% armure\n Cumulable avec d'autres Bonus de Sort ou de Charisme.\n\nClic gauche pour activer" 
 END
 
 CONTROLBAR:ToolTipDarkness
@@ -58114,7 +58114,7 @@ CONTROLBAR:TooltipNecroFellStrength
 //"Drains Enemy units of Strength\n +25% dégâts, +25% attack speed bonus to friendly non-siege units.\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
 //"Drains enemy units of strength\n Nearby friendly units gain\n +50% dégâts, +50% armure.\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
 //"Drains enemy units of strength\n Targeted enemy units take slight damage\n Nearby friendly units gain\n +33% dégâts, +33% armure\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
-"Drains enemy units of strength\n Type d'Action : Sort et Pénalité active\n Targeted enemy units take slight damage\n Nearby friendly units gain\n +33% dégâts et +33% armure\n Cumulable avec d'autres bonus de sort ou de charisme (Pénalité non cumulable).\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
+"Draine les unités de force ennemies \n Type d'Action : Sort et Pénalité active\n Les unités ennemies ciblées subissent de légers dégâts \n Les unités amies proches gagnent \n +33% dégâts et +33% armure\n Cumulable avec d'autres bonus de sort ou de charisme (Pénalité non cumulable).\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
 End
 
 CONTROLBAR:ToolTipHourOfTheWitchKing
@@ -58195,32 +58195,32 @@ CONTROLBAR:ToolTipSlayer
 //"Requiert : niveau 4\n Gimli attacks twice as fast and gains\n +100% dégâts\n\nClic gauche pour activer"
 //"Requiert : niveau 5\n Gimli gagne +150% dégâts and\n increased attack speed\n\nClic gauche pour activer"
 //"Requiert : niveau 5\n Gimli gagne +100% dégâts and\n increased attack speed\n\nClic gauche pour activer"
-"Requiert : niveau 5\n Gimli gagne +100% dégâts and\n increased attack et de vitesse déplacement\n\nClic gauche pour activer"
+"Requiert : niveau 5\n Gimli gagne +100% dégâts et \n augmente l'attaque et la vitesse déplacement \n\n Clic gauche pour activer"
 END
 
 CONTROLBAR:ToolTipDainSlayer
-"Requiert : Niveau 10 \n Dáin gains +300% armor and +100% damage for a short time\nand as well splash and knockback damage \n -45% speed for the duration of the power \n Clic gauche pour activer"
+"Requiert : Niveau 10 \n Dáin gagne +300% d'armure et +100% de dégâts pour une courte période \n et aussi des dégâts d'éclaboussure et de renversement \n -45% de vitesse pour la durée de la puissance \n Clic gauche pour activer"
 END
 
 CONTROLBAR:DainStand
-"Final Sta&nd"
+"Résistance Fi&nale"
 END
 
 
 CONTROLBAR:FellowshipSlayer
-"Stubbo&rn Pride"
+"Fierté Obstin&ée"
 END
 
 CONTROLBAR:ToolTipFellowshipSlayer
-"Requiert : Niveau 6 \n Gimli gains +200% Armor but loses 33% speed \n Clic gauche pour activer"
+"Requiert : Niveau 6 \n Gimli gagne +200% d'Armure mais perd 33% de vitesse \n Clic gauche pour activer"
 END
 
 CONTROLBAR:FellowshipLegolasSlayer
-"&Piercing Shots"
+"Coup &Perçants"
 END
 
 CONTROLBAR:ToolTipFellowshipLegolasSlayer
-"Requiert : Niveau 6 \n Legolas temporarily ignores enemy armor and slows down his targets \n Clic gauche pour activer"
+"Requiert : Niveau 6 \n Legolas ignore temporairement l'armure ennemie et ralentit ses cibles \n Clic gauche pour activer"
 END
 
 CONTROLBAR:TooltipDwarvenRiches
