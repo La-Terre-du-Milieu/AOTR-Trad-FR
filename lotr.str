@@ -56758,67 +56758,58 @@ CONTROLBAR:ToolTipPurchaseTechnologyAngmarWellOfSouls
 End
 
 CONTROLBAR:ToolTipPurchaseTechnologyAngmarCorpseRain
-//"Allows Sorcerers to Specialize in the Pluie de Cadavres power\n This calls down a barrage of corpses on the target area."
-"Allows Sorcerers to specialize in the Pluie de Cadavres power\n This calls down a barrage of corpses on the target area"
+"Permet aux Sorciers de se spécialiser dans la puissance des Pluies de Cadavres \n Cela appelle un barrage de cadavres sur la zone ciblé"
 End
 
 CONTROLBAR:ToolTipConstructAngmarForgeWorks
-//"Provides Siege Units and Unit Upgrades"
-"Provides Stone Throwers and Angmar unit upgrades"
+"Fournit des Lanceurs de Pierres et des améliorations d'unité d'Angmar"
 End
+
 CONTROLBAR:TooltipUpgradeAngmarForgeWorksLevel2
-//"Permet de rechercher des Lames en fer des ténèbres and Ice Arrows\n Vitesse de construction +10%"
-"Permet de rechercher des Lames en fer des ténèbres and Ice Shot\n Vitesse de construction +10%"
+"Permet de rechercher des Lames de fer des ténèbres des Tirs de GLace \n Vitesse de construction +10%"
 End
 CONTROLBAR:TooltipUpgradeAngmarForgeWorksLevel3
-//"Permet de rechercher des Dark Iron Mail and Ice Shot\n Vitesse de construction +25%"
-"Permet de rechercher des Ice Arrows and Dark Iron Mail\n Vitesse de construction +25%.\n Ajoute une tour d'archers défensive"
+"Permet de rechercher des Flèches de Glace et des Sombres Cottes de Maille \n Vitesse de construction +25%. \n Ajoute une tour d'archers défensive"
 End
+
 CONTROLBAR:PurchaseTechnologyAngmarIceShot
-//"Ice Shot"
-"Rechercher Ice Shot"
+"Rechercher Tir de Glace"
 End
+
 CONTROLBAR:TooltipPurchaseTechnologyAngmarIceShot
-//"Rechercher Ice Shot\n Lorsqu'elle est équipée, significantly increases a Stone Thrower's damage"
-"Permet aux hordes d'acheter l'amélioration Ice Shot upgrade. Lorsqu'elle est équipée, significantly increases a Stone Thrower's damage"
+"Permet aux hordes d'acheter l'amélioration Ice Shot upgrade. Lorsqu'elle est équipée, augmente significativement les dégâts du Lanceur de Pierre"
 End
 
 CONTROLBAR:PurchaseTechnologyAngmarDarkIronBlades
-//"Lames en fer des ténèbres"
-"Rechercher Lames en fer des ténèbres"
+"Rechercher Lames de fer des ténèbres"
 End
+
 CONTROLBAR:TooltipPurchaseTechnologyAngmarDarkIronBlades
-//"Rechercher Lames en fer des ténèbres\n Lorsqu'elle est équipée, significantly Améliore significativement les dégâts infligés par les armes de mêlée."
-"Permet aux hordes d'acheter l'amélioration Lames en fer des ténèbres upgrade\n Lorsqu'elle est équipée, significantly Améliore significativement les dégâts infligés par les armes de mêlée."
+"Permet aux hordes d'acheter l'amélioration des Lames de fer des ténèbres \n Lorsqu'elle est équipée, augmente significativement les dégâts infligés par les armes de mêlée."
 End
 
 CONTROLBAR:PurchaseTechnologyAngmarDarkIronMail
-//"Dark Iron Heavy Mail"
-"Rechercher Dark Iron Mail"
+"Rechercher Des Sombres Cottes de Maille"
 End
 
 CONTROLBAR:TooltipPurchaseTechnologyAngmarDarkIronMail
-//"Research Dark Iron Mail \n When equipped, significantly reduces the amount of damage taken"
-"Allows hordes to purchase the Dark Iron Mail upgrade \n  When equipped, significantly reduces the amount of damage taken"
+"Permet aux hordes d'acheter l'amélioration Les Sombres Cottes de Maille \n Une fois équipé, réduit considérablement la quantité de dégâts subis"
 End
 
 CONTROLBAR:PurchaseTechnologyAngmarIceArrows
-//"Ice Arrows"
-"Rechercher Ice Arrows"
+"Recherche des Flèches de Glace"
 End
 
 CONTROLBAR:TooltipPurchaseTechnologyAngmarIceArrows
-//"Rechercher Ice Arrows\n Lorsqu'elle est équipée, les dégâts des flèches sont augmentés de manière significative."
-"Permet aux hordes d'acheter l'amélioration Ice Arrows upgrade. Lorsqu'elle est équipée, les dégâts des flèches sont augmentés de manière significative."
+"Permet aux hordes d'acheter l'amélioration des Flèches de Glace. Lorsqu'elle est équipée, les dégâts des flèches sont augmentés de manière significative."
 End
 
 OBJECT:AngmarSentryTowerDescription
-//"Tire des flèches sur les ennemis proches"
 "Tour défensive qui tire des flèches sur les ennemis proches."
 End
 
 CONTROLBAR:PurchaseTechnologyAngmarIceArrowsForBattleTower
-"Ice Arrows"
+"Les Flèches de Glace"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeAngmarFortressBanners
@@ -56837,12 +56828,12 @@ END
 
 CONTROLBAR:ToolTipPurchaseUpgradeAngmarFortressSanctum
 //"Constructs Le Roi-Sorcier's Sanctum and Winter's Wrath, which launches chunks of ice."
-"Constructs Le Roi-Sorcier's Sanctum, which launches chunks of ice"
+"Construit Le Sanctuaire du Roi-Sorcier, qui lance des Morceaux de glace"
 END
 
 CONTROLBAR:FireWeaponAngmarFortressSanctumFrostball
 //"Fire Roi-Sorcier's Sanctum Winter's Wrath"
-"Winter's Wrath"
+"Le Courroux Hivernal"
 END
 
 
@@ -56854,7 +56845,7 @@ CONTROLBAR:ToolTipHwaldarLeadership
 //"Rhudaur Spearmen and Axe Throwers near Hwaldar gain\n +33% dégâts, +33% armure,\n et gagnent de l'expérience 2 fois plus rapidement.\n\n Capacité passive"
 //"Rhudaur Spearmen and Axe Throwers gain\n +33% dégâts, +33% armure,\n et gagnent de l'expérience 2 fois plus rapidement.\n\n Capacité passive"
 //"Rhudaur Spearmen and Axe Throwers gain\n +33% dégâts, +33% armure,\n et gagnent de l'expérience 50% plus rapidement\n\n Capacité passive"
-"Type d'Action : Charisme\n Allied Rhudaur Spearmen, Axe Throwers and Hillmen near Hwaldar gain +33% dégâts, +33% armure, et gagnent de l'expérience 50% plus rapidement (bonus cumulable).\n\n Capacité passive"
+"Type d'Action : Charisme \n Les Piquiers alliées de Rhudaur, Les Lancerus de Hache et Les Montagnards près d'Hwaldar gagnent +33% dégâts, +33% armure, et gagnent de l'expérience 50% plus rapidement (bonus cumulable).\n\n Capacité passive"
 End
 
 CONTROLBAR:ToolTipHwaldarBrigandage
@@ -56880,28 +56871,28 @@ CONTROLBAR:ToolTipMorgomirMorgulBlade
 END
 CONTROLBAR:ToolTipMorgramirRuin
 //"Requiert : niveau 10\n Target enemy building takes heavy damage.\nClic gauche sur l'icône puis clic gauche sur le bâtiment cible"
-"Requiert : niveau 10\n Target enemy building takes heavy dégâts et is temporarily disabled\n Automatically opens targeted gate.\n\nClic gauche sur l'icône puis clic gauche sur la cible"
+"Requiert : niveau 10 \n Le bâtiment ennemi ciblé subit de lourds dégâts et est temporairement désactivé \n Ouvre automatiquement la porte ciblée. \n\n Clic gauche sur l'icône puis clic gauche sur la cible"
 END
 
 CONTROLBAR:TooltipSpecialAbilityChillSoul
 //"All nearby enemies suffer -50% vitesse and take slight damage over time.\n\n Capacité passive"
 //"All nearby enemies suffer -33% vitesse\n and take slight damage over time.\n\n Capacité passive"
-"All nearby enemies suffer -33% vitesse and take slight damage over time\n\n Capacité passive"
+"Tous les ennemis proches subissent -33% de vitesse et subissent de légers dégâts au fil du temps \n\n Capacité passive"
 End
 
 Controlbar:TooltipSpecialAbilityKarshBlink
 //"Requiert : niveau 7\n Karsh can teleport to a selected area\n\nClic gauche sur l'icône puis clic gauche sur une zone praticable"
-"Requiert : niveau 5\n Karsh can teleport to a selected area\n\nClic gauche sur l'icône puis clic gauche sur une zone praticable"
+"Requiert : niveau 5 \n Karsh peut se téléporter dans une zone sélectionnée \n\n Clic gauche sur l'icône puis clic gauche sur une zone praticable"
 END
 CONTROLBAR:TooltipWhisperofDeath
 //"Requiert : niveau 8\n Inflicts massive damage on a non-undead\n unit.\n\nClic gauche sur l'icône puis clic gauche sur la cible unit"
-"Requiert : niveau 8\n Inflicts massive damage on a non-undead unit.\n\nClic gauche sur l'icône puis clic gauche sur la cible unit"
+"Requiert : niveau 8 \n Inflige d'énormes dégâts à une unité non mort-vivante. \n\n Clic gauche sur l'icône puis clic gauche sur la cible unit"
 End
 
 CONTROLBAR:ToolTipRogashLeap
 //"Requiert : niveau 4\n Rogash jumps to a location causing\n area-effect damage.\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
 //"Requiert : niveau 6\n Rogash jumps to a location causing\n area-effect damage.\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
-"Requiert : niveau 5\n Rogash jumps to a location causing\n area-effect damage.\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
+"Requiert : niveau 5 \n Rogash saute à endroit causant \n des dommage à effet de zone. \n\n Clic gauche sur l'icône puis clic gauche sur la zone cible"
 END
 
 CONTROLBAR:AngmarWitchKingHotkey
@@ -56926,7 +56917,7 @@ CONTROLBAR:TooltipBlight
 //"Enemy units in the affected area recieve damage over time and, for a brief period, become Wights under your control upon death.\n Reduces the production rate of buildings in the affected area by 50%\n\nClic gauche sur l'icône puis clic gauche sur la zone cible."
 //"Enemy units in the affected area recieve damage over time and, upon death, briefly become Wights under your control\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
 //"Enemy units in the affected area receive damage over time and, upon death, briefly become Wights under your control\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
-"Enemy units in the affected area receive damage over time and, upon death, briefly become Wights under your control\n Halves the resource production of any resource structure within the area of effect\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
+"Les unités ennemies dans la zone affectée subissent des dégâts au fil du temps et, à  leur mort, deviennent brièvement des Créatures sous son contrôle \n Réduit de moitié la production de ressources de toute structure de ressources dans la zone d'effet \n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
 End
 
 CONTROLBAR:ToolTipShadeChomp
@@ -64847,7 +64838,7 @@ CONTROLBAR:ToolTipLAVeteranEregion
 End
 
 CONTROLBAR:LAVeteranLastAlliance
-"La Guerre de l'Ultime Alliance (&w)"
+"La Guerre de l'Ultime Alliance (&z)"
 End
 
 CONTROLBAR:ToolTipLAVeteranLastAlliance
@@ -67551,7 +67542,7 @@ OBJECT:RohanWestfolderHorde
 END
 
 CONTROLBAR:ConstructRohanWestfolderHorde
-"Guerriers de Ouestfolde (&w)"
+"Guerriers de Ouestfolde (&z)"
 END
 
 CONTROLBAR:ToolTipBuildRohanWestfolderHorde
@@ -67803,7 +67794,7 @@ OBJECT:RohanDraftTowerDescription
 END
 
 UPGRADE:DraftTowerWestfold
-"Serment du Ouestfold (&w)"
+"Serment du Ouestfold (&z)"
 END
 
 UPGRADE:DraftTowerFirienholt
@@ -67823,7 +67814,7 @@ CONTROLBAR:ToolTipDraftTowerOathPeasant
 END
 
 CONTROLBAR:PurchaseDraftTowerWestfolder
-"Serment du Ouestfold (&w)"
+"Serment du Ouestfold (&z)"
 END
 
 CONTROLBAR:ToolTipPurchaseDraftTowerWestfolder
@@ -68252,7 +68243,7 @@ CONTROLBAR:ToolTipBuildImladrisBatteringRam
 END
 
 CONTROLBAR:ConstructRohanHelmingasWardenHorde
-"Guerriers d'Helmingas (&w)"
+"Guerriers d'Helmingas (&z)"
 END
 
 CONTROLBAR:ToolTipBuildRohanHelmingasWardenHorde
@@ -68900,7 +68891,7 @@ CONTROLBAR:ToolTipEyesoftheCrow
 END
 
 CONTROLBAR:WildCharge
-"Charge Sauvage (&w)"
+"Charge Sauvage (&z)"
 END
 
 CONTROLBAR:ToolTipWildCharge
@@ -69024,7 +69015,7 @@ CONTROLBAR:TooltipSpecialAbilityGreatBeastGrog
 End
 
 CONTROLBAR:GreatBeastFear
-"Bête de Guerre (&w)"
+"Bête de Guerre (&z)"
 END
 
 CONTROLBAR:TooltipSpecialAbilityGreatBeastFear
@@ -69647,7 +69638,7 @@ CONTROLBAR:ToolTipBuildGuldurRisenDeadHorde
 END
 
 CONTROLBAR:ConstructGuldurHarbingerHorde
-"Messagers des Ténèbres (&w)"
+"Messagers des Ténèbres (&z)"
 END
 
 CONTROLBAR:ToolTipBuildGuldurHarbingerHorde
@@ -69852,7 +69843,7 @@ OBJECT:GuldurGreatSpider
 END
 
 CONTROLBAR:SpecialAbilityGreatSpiderTunnel
-"Tunnel (&w)"
+"Tunnel (&z)"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityGreatSpiderTunnel
@@ -69888,7 +69879,7 @@ OBJECT:GuldurRestlessBarrow
 END
 
 CONTROLBAR:ConstructGuldurRestlessBarrow
-"Invoquer Tombe Agitée (&w)"
+"Invoquer Tombe Agitée (&z)"
 END
 
 CONTROLBAR:ToolTipConstructGuldurRestlessBarrow
@@ -69928,7 +69919,7 @@ CONTROLBAR:ToolTipHarbingerColdSteel
 END
 
 CONTROLBAR:HarbingerWitheringTouch
-"Toucher de Mort (&w)"
+"Toucher de Mort (&z)"
 END
 
 CONTROLBAR:ToolTipHarbingerWitheringTouch
@@ -70180,7 +70171,7 @@ OBJECT:HaradWarlord
 END
 
 CONTROLBAR:ConstructHaradWarlord
-"Seigneur de Guerre Harad (&w)"
+"Seigneur de Guerre Harad (&z)"
 End
 
 CONTROLBAR:ToolTipBuildHaradWarlord
@@ -70366,7 +70357,7 @@ CONTROLBAR:GuldurCargastHotkey
 End
 
 CONTROLBAR:CargastBarrowLord
-"Seigneur des Tombes (&w)"
+"Seigneur des Tombes (&z)"
 End
 
 CONTROLBAR:ToolTipCargastBarrowLord
@@ -70440,7 +70431,7 @@ CONTROLBAR:ToolTipGuldurSaenathraFeast
 END
 
 CONTROLBAR:GuldurSaenathraWebOfLies
-"Toile de Mensonge (&w)"
+"Toile de Mensonge (&z)"
 END
 
 CONTROLBAR:ToolTipGuldurSaenathraWebOfLies
@@ -70548,7 +70539,7 @@ CONTROLBAR:TooltipNecromancerShapelessMaliceUpgraded
 END
 
 CONTROLBAR:NecromancerWreathed
-"Enveloppé dans les Flammes (&w)" 
+"Enveloppé dans les Flammes (&z)" 
 END
 
 CONTROLBAR:ToolTipNecromancerWreathed
@@ -71035,7 +71026,7 @@ CONTROLBAR:ShagratTowersCaptain
 END
 
 CONTROLBAR:ShagratTowersCaptainLevel3
-"Capitaine de la Tour(&w)"
+"Capitaine de la Tour(&z)"
 END
 
 CONTROLBAR:ToolTipShagratTowersCaptain
@@ -71267,7 +71258,7 @@ CONTROLBAR:ToolTipBlackUrukDespoiler
 END
 
 CONTROLBAR:BlackUrukBrawl
-"Bagarre (&w)"
+"Bagarre (&z)"
 END
 
 CONTROLBAR:ToolTipBlackUrukBrawl
@@ -71425,7 +71416,7 @@ END
 //------------ Legolas ---------------
 
 CONTROLBAR:LegolasDwarfFriend
-"Ami-nain (&w)"
+"Ami-nain (&z)"
 END
 
 CONTROLBAR:TooltipLegolasDwarfFriend
