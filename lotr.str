@@ -3880,7 +3880,7 @@ END
 
 GUI:AllTimePoints
 // context: total points won by this player
-"All-Time Rank Points"
+"All-Time Au Niveau Points"
 END
 
 GUI:AllTimeDisconnects
@@ -10713,7 +10713,7 @@ CONTROLBAR:ToolTipSpecialAbilityGamlingFLAL
 END
 
 CONTROLBAR:BFMEBuildNoldorExileHorde
-"Fort contre la Cavalerie and Siege \n\nExiles of Noldor carry long spears to defend themselves on their journey back to Valinor."
+"Fort contre la Cavalerie and Siege \n\nExiles of —oldor carry long spears to defend themselves on their journey back to Valinor."
 END
 
 OBJECT:CampaignStrider
@@ -14122,7 +14122,7 @@ SCRIPT:LAObjective08
 END
 
 SCRIPT:LAObjective09
-"Les Nazgul attaquent le camp"
+"Les Nazg˚l attaquent le camp"
 END
 
 SCRIPT:LAObjective10
@@ -14146,7 +14146,7 @@ SCRIPT:LAIntro02
 END
 
 SCRIPT:LAIntro03
-"En rÈponse, Elendil, roi des D˙nedains et Gil-galad, grand roi des Noldor, forgËrent une grande alliance."
+"En rÈponse, Elendil, roi des D˙nedains et Gil-galad, grand roi des —oldor, forgËrent une grande alliance."
 END
 
 SCRIPT:LAIntro04
@@ -14365,7 +14365,7 @@ SCRIPT:OsgiliathObjective03_Council
 End
 
 SCRIPT:OsgiliathBonus_Council
-"Kill the Nazgul commander"
+"Kill the Nazg˚l commander"
 End
 
 ////////////////////REDHORN//////////////////////
@@ -17525,7 +17525,7 @@ CONTROLBAR:ToolTipUseSword
 END
 
 CONTROLBAR:ToolTipUseSwordRank3
-"Requires Rank 3\nClic gauche to switch to melee mode"
+"Requires Au Niveau 3\nClic gauche to switch to melee mode"
 END
 
 CONTROLBAR:PhialofGaladriel
@@ -20238,11 +20238,11 @@ APT:CareerLadderGames2vs2Colon
 END
 
 APT:HighestRankColon
-"Highest Rank on 1 contre1 Ladder:"
+"Highest Au Niveau on 1 contre1 Ladder:"
 END
 
 APT:HighestRank2Colon
-"Highest Rank on 2 contre2 Ladder:"
+"Highest Au Niveau on 2 contre2 Ladder:"
 END
 
 APT:CareerDisconnectsColon
@@ -37068,7 +37068,7 @@ DIALOGEVENT:MGCeldu_Dwar017subtitle
 END
 
 DIALOGEVENT:MGCeldu_Dwar018subtitle
-"*Ah! A Nazgul!"
+"*Ah! A Nazg˚l!"
 END
 
 DIALOGEVENT:MGCeldu_Dwar019subtitle
@@ -37276,11 +37276,11 @@ DIALOGEVENT:MGDolGu_Elro005subtitle
 END
 
 DIALOGEVENT:MGDolGu_OffE009subtitle
-"*The Nazgul leader must be dealt with!"
+"*The Nazg˚l leader must be dealt with!"
 END
 
 DIALOGEVENT:MGDolGu_OffE010subtitle
-"*We must face the Nazgul leader who commands these armies!"
+"*We must face the Nazg˚l leader who commands these armies!"
 END
 
 DIALOGEVENT:MELorie_Mout001subtitle
@@ -38380,7 +38380,7 @@ DIALOGEVENT:MERiven_GobK007subtitle
 END
 
 DIALOGEVENT:MERiven_Arwe006subtitle
-"*Oh no! The Nazgul have killed Gwahir!"
+"*Oh no! The Nazg˚l have killed Gwahir!"
 END
 
 DIALOGEVENT:MERiven_Arwe007subtitle
@@ -39084,15 +39084,15 @@ DIALOGEVENT:MGCeldu_OffD008subtitle
 END
 
 DIALOGEVENT:MGCeldu_OffD009subtitle
-"*A Nazgul!"
+"*A Nazg˚l!"
 END
 
 DIALOGEVENT:MGCeldu_OffD010subtitle
-"*The Nazgul returns!"
+"*The Nazg˚l returns!"
 END
 
 DIALOGEVENT:MGCeldu_OffD011subtitle
-"*Accursed Nazgul, when will you die!"
+"*Accursed Nazg˚l, when will you die!"
 END
 
 DIALOGEVENT:MGCeldu_OffD012subtitle
@@ -39980,7 +39980,7 @@ DIALOGEVENT:MERiven_OffG015subtitle
 END
 
 DIALOGEVENT:MERiven_OffG016subtitle
-"*The WitchKing has brought some Nazgul to deal with the Eagles."
+"*The WitchKing has brought some Nazg˚l to deal with the Eagles."
 END
 
 DIALOGEVENT:MERiven_OffG017subtitle
@@ -40444,7 +40444,7 @@ DIALOGEVENT:MTrAdv_OffT021subtitle
 END
 
 DIALOGEVENT:MTrAdv_OffT022subtitle
-"*A Nazgul! Watch out!"
+"*A Nazg˚l! Watch out!"
 END
 
 DIALOGEVENT:MTrAdv_OffT023subtitle
@@ -55522,8 +55522,8 @@ CONTROLBAR:PurchaseUpgradeElvenBarracksLevel3
 "AmÈliorer la Garnison des Galadhrim au niveau 3"
 END
 CONTROLBAR:ToolTipBuildElvenBarracksLevel3
-//"Permet l'entraÓnement des Guerriers Noldor \n +25% Vitesse de construction\n Ajoute une tour d'archers dÈfensive"
-//"Permet l'entraÓnement des Guerriers Noldor \n +25% Vitesse de construction\n Ajoute une tour d'archers dÈfensive"
+//"Permet l'entraÓnement des Guerriers —oldor \n +25% Vitesse de construction\n Ajoute une tour d'archers dÈfensive"
+//"Permet l'entraÓnement des Guerriers —oldor \n +25% Vitesse de construction\n Ajoute une tour d'archers dÈfensive"
 "Permet l'entrainement des guerriers d'Èlite Nandor Hir-Hathol\n+25% Vitesse de construction\n Ajoute une tour d'archers dÈfensive"
 END
 
@@ -60437,7 +60437,7 @@ CONTROLBAR:ToolTipSpecialAbilityNazgulNineServantsOfSauron
 END
 
 CONTROLBAR:ToolTipSpecialAbilityRingwraithServantsOfSauron
-"Plus les Nazg˚l se rassemblent, plus leur force augmente \n +10% de dÈgats et +10% d'armure pour chaque Nazgul proche \n CapacitÈ passive"
+"Plus les Nazg˚l se rassemblent, plus leur force augmente \n +10% de dÈgats et +10% d'armure pour chaque Nazg˚l proche \n CapacitÈ passive"
 END
 
 CONTROLBAR:ToolTipBlackRiderDreadVisage
@@ -64434,7 +64434,7 @@ CONTROLBAR:PurchaseUpgradeRivendellFortressMerriment
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeRivendellFortressMerriment
-"Enables the recruitment of Rivendell Revelers from the Conservatory"
+"Enables the recruitment of Rivendell FÍtards from the Conservatory"
 END
 
 UPGRADE:RivendellMedicine
@@ -64534,11 +64534,11 @@ OBJECT:Gildor
 END
 
 CONTROLBAR:ToolTipBuildGildor
-"Recruit the wandering Noldor, Gildor"
+"Recruit the wandering —oldor, Gildor"
 END
 
 CONTROLBAR:GildorRecruit
-"Recruit the wandering Noldor, Gildor. \n \n 'Elves seldom give unguarded advice, for advice is a dangerous gift, even from the wise to the wise, and all courses may run ill.'"
+"Recruit the wandering —oldor, Gildor. \n \n 'Elves seldom give unguarded advice, for advice is a dangerous gift, even from the wise to the wise, and all courses may run ill.'"
 END
 
 CONTROLBAR:GildorRevive
@@ -64562,11 +64562,11 @@ CONTROLBAR:GildorExiles
 END
 
 CONTROLBAR:TooltipGildorExiles
-"Requiert : Niveau 3 \n Gildor summons a single group of Noldor Exiles to his side \n Clic gauche icon to activate \n\nRequiert : Niveau 8 \n Gildor summons three groups of Noldor Exiles to his side \n Clic gauche icon to activate"
+"Requiert : Niveau 3 \n Gildor summons a single group of —oldor Exiles to his side \n Clic gauche icon to activate \n\nRequiert : Niveau 8 \n Gildor summons three groups of —oldor Exiles to his side \n Clic gauche icon to activate"
 END
 
 CONTROLBAR:TooltipGildorExiles_Campaign
-"Gildor summons a single group of Noldor Exiles to his side \n Clic gauche icon to activate \n\nRequiert : Niveau 8 \n Gildor summons three groups of Noldor Exiles to his side \n Clic gauche icon to activate"
+"Gildor summons a single group of —oldor Exiles to his side \n Clic gauche icon to activate \n\nRequiert : Niveau 8 \n Gildor summons three groups of —oldor Exiles to his side \n Clic gauche icon to activate"
 END
 
 CONTROLBAR:GildorTelperion
@@ -64581,7 +64581,7 @@ CONTROLBAR:ToolTipGildorTelperion_Campaign
 "Gildor reveals his blessed Lantern, causing enemy units to flee in terror \n Clic gauche pour activer"
 END
 
-//------------ Noldor Exiles --------------
+//------------ —oldor Exiles --------------
 
 OBJECT:NoldorExile
 "Noldor Exile"
@@ -64794,7 +64794,7 @@ CONTROLBAR:LW_Unit_BreeTownsguardHorde
 END
 
 CONTROLBAR:LW_ToolTip_BreeTownsguardHorde
-"\n Type d'unitÈ : unitÈ standard\n Forts contre la cavalerie"
+"Type d'unitÈ : UnitÈ standard \n Forts contre la cavalerie"
 END
 
 CONTROLBAR:ToolTipBuildBreeTownsguardHorde
@@ -64802,114 +64802,114 @@ CONTROLBAR:ToolTipBuildBreeTownsguardHorde
 END
 
 CONTROLBAR:LW_ToolTipBuild_BreeTownsguardHorde
-"Type d'unitÈ : unitÈ standard\n Forts contre la cavalerie"
+"Type d'unitÈ : UnitÈ standard \n Forts contre la cavalerie"
 END
 
 CONTROLBAR:BreeArmor
-"Armor from the Barrows"
+"Armure des Brouettes"
 END
 
 CONTROLBAR:ToolTipBreeArmor
-"Requiert : niveau 5\n Units attain a 33% armure bonus"
+"Requiert : niveau 5 \n Les unitÈs obtiennent 33% de bonus d'armure "
 END
 
-//------------ VÈtÈrans de l'Ultime Alliance aka —oldor and Fall of Gil Galad ---------------
+//------------ VÈtÈrans de l'Ultime Alliance avec —oldor La Chute de Gil-Galad ---------------
 OBJECT:NoldorVeterans
 "VÈtÈran —oldor"
 END
 
 OBJECT:HordeNoldorVeterans
-"VÈtÈrans de l'Ultime Alliance"
+"Les VÈtÈrans de l'Ultime Alliance"
 END
 
 CONTROLBAR:LAVeteranManyWars
-"Veterans of Many Wars"
+"Les VÈtÈrans de Nombreuses Guerres"
 End
 
 CONTROLBAR:ToolTipLAVeteranManyWars
-"The Veterans have fought many battles and witnessed great triumphs and tragic defeats,\nand are learned in the art of war.\n\nNearby allied troupes gain +25% experience gain.\n CapacitÈ passive"
+"Les VÈtÈrans ont menÈ de nombreuses batailles et ont ÈtÈ tÈmoins de grands triomphes et de dÈfaites tragiques, \n and are learned in the art of war.\n\n Les troupes alliÈs proches +25% d'obtention d'expÈrience. \n CapacitÈ passive"
 End
 
 CONTROLBAR:LAVeteranEregion
-"Siege of E&region"
+"Le SiËge d'E&region"
 End
 
 CONTROLBAR:ToolTipLAVeteranEregion
-"The Veterans were there during Sauron's attack on the Noldorin realm of Eregion.\n\nThe battalion is temporarily immune to knockback, trample and fear \n Type d'Action : Weapon \n Stacks with Leadership, Buffs, and Sorts \nClic gauche pour activer.\n\nOnly one ability may be active at a time."
+"Les VÈtÈrans Ètaient l‡ lors de l'attaque de Sauron contre le Royaume Noldorin d'Eregion. \n\n Le Bataillon est temporaiement immunisÈ contre les Renversements, le PiÈtinement et la Peur \n Type d'Action : Armes \n S'accumle avec le Charisme, les Bonus et les Sorts \n Clic gauche pour activer. \n\n Une seule capacitÈ peut Ítre activÈ ‡ la fois."
 End
 
 CONTROLBAR:LAVeteranLastAlliance
-"&War of the Last Alliance"
+"La Guerre de l'Ultime Alliance (&w)"
 End
 
 CONTROLBAR:ToolTipLAVeteranLastAlliance
-"Requiert : Niveau 3\nThe Veterans were there during the Battle of Dagorlad and the final siege of Barad-dùr.\n\nNearby D˙nedain and Bree-landers temporarily gain +33% Armor for a short time\nwhile nearby Elven units gain +33% Damage for a short time\nClic gauche pour activer.\n\nOnly one ability may be active at a time."
+"Requiert : Niveau 3 \n Les VÈtÈrans Ètaient l‡ pendant la Bataille de Dagorlad et le SiËge Final de Barad-d˚r. \n\n Les D˙nedains et les Habitants de Bree ‡ proximitÈ gagnent temporairement +33% d'Armure pendant une courte pÈriode \n tandis que les unitÈs Elfes proches gagnent +33% de dÈg‚ts pendant une courte pÈriode \n Clic gauche pour activer. \n\n Une seule capacitÈ peut Ítre activÈ ‡ la fois."
 End
 
 CONTROLBAR:LAVeteranFallOfAngmar
-"Fal&l of Angmar"
+"&La Chute d'Angmar"
 End
 
 CONTROLBAR:ToolTipLAVeteranFallOfAngmar
-"Requiert : Niveau 5\nThe Veterans fought alongside Glorfindel in the decisive battle against the Lord of Angmar.\n\nMelee attacks temporarily deal area-of-effect damage and additional damage versus structures. Ranged attack speed is increased.\n Type d'Action : Weapon \n Stacks with Leadership, Buffs, and Sorts\nClic gauche pour activer.\n\nOnly one ability may be active at a time."
+"Requiert : Niveau 5 \n Les VÈtÈrans ont combattu aux cotÈs de Glorfindel dans la Bataille dÈcisive contre le Seigneur d'Angmar. \n\n Les attaques de mÍlÈe infligent temporairement des dÈg‚ts de zone d'effet et des dÈg‚ts supplÈmentaires par rapport aux structures. La Vitesse d'attaque ‡ distance est augmentÈe. \n Type d'Action : Armes \n S'accumle avec le Charisme, les Bonus et les Sorts \n Clic gauche pour activer. \n\n Une seule capacitÈ peut Ítre activÈ ‡ la fois."
 End
 
 CONTROLBAR:ConstructNoldorVeteransHorde
-"VÈtÈrans de l'Ultime Alliance"
+"Les VÈtÈrans de l'Ultime Alliance"
 END
 
 CONTROLBAR:ConstructNoldorVeteransGilGaladHorde
-"The Fall of Gil-Galad"
+"La Chute de Gil-Galad"
 END
 
 CONTROLBAR:ToolTipBuildNoldorVeteransHorde
-"Requiert : Niveau 3 Dormitory \nHero Unit. Limited to 1 \nForts contre tous les types d'unitÈ \n \n Sauron's fall came at great cost. With Gil-galad slain, many Elven veterans chose to linger in Rivendell, house of their late King's herald."
+"Requiert : Niveau 3 Dortoir \n UnitÈ HÈroÔque. LimitÈ ‡ 1 \n Fort contre Tous Type d'unitÈs \n\n La Chute de Sauron a co˚tÈ cher. Avec Gil-galad tuÈ, de nombreux VÈtÈrans Elfes ont choisi de s'attarder ‡ Fondcombe, la Maison de leur dÈfunt HÈraut du Roi."
 END
 
 CONTROLBAR:ToolTipBuildNoldorVeteransGilGaladHorde
-"Requiert : Niveau 3 Dormitory \nHero Unit. Limit increased to 2 \n Fort contre Tous Type d'unitÈs \n \n Sauron's fall came at great cost. With Gil-galad slain, many Elven veterans chose to linger in Rivendell, house of their late King's herald."
+"Requiert : Niveau 3 Dortoir \n UnitÈ HÈroÔque. LimitÈ ‡ 2 \n Fort contre Tous Type d'unitÈs \n\n La Chute de Sauron a co˚tÈ cher. Avec Gil-galad tuÈ, de nombreux VÈtÈrans Elfes ont choisi de s'attarder ‡ Fondcombe, la Maison de leur dÈfunt HÈraut du Roi."
 END
 
 //----------Revelers----------------------------------
 
 CONTROLBAR:StoryTeller
-"Story-teller"
+"Conteur"
 End
 
 CONTROLBAR:ToolTipStoryTeller
-"Increases experience gain of friendly units by 10% \n Passively decreases the cooldown of the Hall of Fire's \n vivid retellings by 10% \n CapacitÈ passive"
+"Augmente le gain d'expÈrience des unitÈs amies de 10% \n Diminue passivement le temps de recharge de la Salle du Feu \n rÈcit vif de 10% \n CapacitÈ passive"
 End
 
 CONTROLBAR:RevelerWeapon
-"Break the Fourth Wall"
+"Briser le QuatriËme Mur"
 END
 
 CONTROLBAR:ToolTipRevelerWeapon
-"Revelers don't deal damage but can attack units reducing their movement speed by 10%\nand structures reducing their armor by 5% while targeting it\nCan stack with other Revelers\n CapacitÈ passive"
+"Les FÍtards n'infligent pas de dÈg‚ts mais peuvent attaquer les unitÈs en rÈduissant leur vitesse de dÈplacement de 10% \n et structures rÈduissant leur armure de 5% tout en la ciblant \n Peu s'accumuler avec les autres FÍtards \n CapacitÈ passive"
 END
 
 CONTROLBAR:StayAWhileAndListen
-"Stay Awhile and Listen"
+"Reste un moment et Ècoute"
 End
 
 CONTROLBAR:ToolTipStayAWhileAndListen
-"Passively decreases the speed and attack damage of enemy units in a wide radius by 15% \n CapacitÈ passive"
+"RÈduit passivement la vitesse et les dÈg‚ts d'attaque des unitÈs ennemies dans un large rayon de 15% \n CapacitÈ passive"
 End
 
 CONTROLBAR:SongOfSpring
-"Ain&ulindalù"
+"Ain&ulindalÎ"
 End
 
 CONTROLBAR:ToolTipSongOfSpring
-"When cast on an Orchard, temporarily increases its resource production by 50%\n Clic gauche sÈlectionner Clic gauche sur cible"
+"Lorsqu'il est lancÈ sur un Verger, augmente temporairement sa production de ressources de 50% \n Clic gauche sÈlectionner Clic gauche sur cible"
 End
 
 CONTROLBAR:RevelersAkallabeth
-"A&kallabùth"
+"A&kallabÍth"
 END
 
 CONTROLBAR:ToolTipRevelersAkallabeth
-"Revelers can target units to decrease their speed by 5% up to 25% and buildings to decrease their armor by 5% up to 25% \n CapacitÈ passive \n Deals significant damage over time to structures \n Can be cast from a large distance \n Clic gauche sÈlectionner Clic gauche sur cible"
+"Les FÍtards peuvent cibler des unitÈs pour diminuer leur vitesse de 5% jusqu'‡ 25% et les b‚timents pour diminuer leur armure de 5% jusqu'‡ 25% \n CapacitÈ passive \n Deals significant damage over time to structures \n Can be cast from a large distance \n Clic gauche sÈlectionner Clic gauche sur cible"
 END
 
 //----------Arwen-------------------------------------
@@ -64918,10 +64918,10 @@ CONTROLBAR:UndomielLeadership
 END
 
 CONTROLBAR:TooltipUndomielLeadership
-//"Requiert : Niveau 3 \n Allies near Elrond gain \n +50% Damage, +50% Armor, \n and earn experience twice as fast \n \n CapacitÈ passive       Does not stack"
+//"Requiert : Niveau 3 \n Allies near Elrond gain \n +50% Damage, +50% Armor, \n and earn experience twice as fast \n CapacitÈ passive       Does not stack"
 //"Requiert : Niveau 3 \n Allies near Elrond gain \n +33% Damage, +33% Armor, \n and earn experience twice as fast \n CapacitÈ passive"
 //"Requiert : Niveau 3 \n Allies near Elrond gain \n +33% Damage, +33% Armor, \n and earn experience 50% faster \n CapacitÈ passive"
-"Type d'Action : Charisme \n Units near Arwen gain +33% Armor \n S'accumule avec les Bonus et les Sorts \n CapacitÈ passive"
+"Type d'Action : Charisme \n Les unitÈs proches d'Arwen gagnent +33% d'Armure \n S'accumule avec les Bonus et les Sorts \n CapacitÈ passive"
 END
 
 CONTROLBAR:SpecialPowerUndomiel
@@ -64929,7 +64929,7 @@ CONTROLBAR:SpecialPowerUndomiel
 END
 
 CONTROLBAR:ToolTipSpecialPowerUndomiel
-"Allows Arwen to rank up.\n Becomes more expensive the higher Arwen ranks up. \n Clic gauche to purchase upgrade \n\n Type d'Action : Charisme \n Rank 1: Allied heroes near Arwen gain +33% Armor. \n Rank 3: Allied heroes near Arwen gain +33% experience gain.\n Rank 6: Allied heroes near Arwen gain +66% Armor. \n Rank 10: The radius of Arwen's leadership is greatly increased. \n Also passively grants Arwen a high percentage of ranged damage avoidance and increased armor per level. \n S'accumule avec les Bonus et les Sorts \n CapacitÈ passive"
+"Permet ‡ Arwen d'augmenter de niveau. \n Devient plus cher plus le niveau d'Arwen est ÈlevÈ. \n Clic gauche pour acheter l'amÈlioration \n\n Type d'Action : Charisme \n Au Niveau 1 : Les AlliÈs HÈros proches d'Arwen gagnent +33% d'Armure. \n Au Niveau 3 : Les AlliÈs HÈros proches d'Arwen gagnent +33% d'obtention d'expÈrience. \n Au Niveau 6 : Les AlliÈs HÈros proches d'Arwen gagnent +66% d'Armure. \n Au Niveau 10 : Le rayon du Charimse d'Arwen est considÈrablement augmentÈ. \n ConfËre Ègalement ‡ Arwen un pourcentage ÈlevÈ d'Èvitement des dÈg‚ts ‡ distance et une augmentation de l'armure par niveau. \n S'accumule avec les Bonus et les Sorts \n CapacitÈ passive"
 End
 
 CONTROLBAR:SpecialPowerUndomielFinal
@@ -64937,7 +64937,7 @@ CONTROLBAR:SpecialPowerUndomielFinal
 END
 
 CONTROLBAR:ToolTipSpecialPowerUndomielFinal
-"Type d'Action : Charisme \n Rank 1: Allied heroes near Arwen gain +33% Armor. \n Rank 3: Allied heroes near Arwen gain +33% experience gain.\n Rank 6: Allied heroes near Arwen gain +66% Armor. \n Rank 10: The radius of Arwen's leadership is greatly increased. \n Also passively grants Arwen a high percentage of ranged damage avoidance and increased armor per level. \n S'accumule avec les Bonus et les Sorts \n CapacitÈ passive"
+"Type d'Action : Charisme \n Au Niveau 1 : Les AlliÈs HÈros proches d'Arwen gagnent +33% d'Armure. \n Au Niveau 3 : Les AlliÈs HÈros proches d'Arwen gagnent +33% d'obtention d'expÈrience. \n Au Niveau 6 : Les AlliÈs HÈros proches d'Arwen gagnent +66% d'Armure. \n Au Niveau 10 : Le rayon du Charimse d'Arwen est considÈrablement augmentÈ. \n ConfËre Ègalement ‡ Arwen un pourcentage ÈlevÈ d'Èvitement des dÈg‚ts ‡ distance et une augmentation de l'armure par niveau. \n S'accumule avec les Bonus et les Sorts \n CapacitÈ passive"
 End
 
 CONTROLBAR:ArwenNoroLim
@@ -64945,56 +64945,56 @@ CONTROLBAR:ArwenNoroLim
 End
 
 CONTROLBAR:ToolTipArwenNoroLim
-"Requiert : Niveau 3\n Arwen gains\n+40% Speed, +100% Armor, \n and glides past enemies when mounted \n Clic gauche pour activer"
+"Requiert : Niveau 3 \n Arwen gagne \n +40% de vitesse, +100% d'Armure, \n et glisse devant les ennemis une fois montÈ. \n Clic gauche pour activer"
 End
 
 CONTROLBAR:ArwenEvenstar
-"Power of the &Evenstar"
+"Le Pouvoir de l'&Etoile du Soir"
 END
 
 CONTROLBAR:ToolTipArwenEvenstar
-"Requiert : Niveau 10 \n Allied units within the radius temporarily gain fear immunity and get healed when they deal damage \n Does not affect heroes, Grey Company or Veterans of the Last Alliance \n Enemy units within the radius lose all leadership\n Clic gauche sÈlectionner Clic gauche sur cible"
+"Requiert : Niveau 10 \n Les unitÈ alliÈes dans le rayon acquiËrent temporairement une immunitÈ contre la Peur et sont soignÈes lorsqu'elles infligent des dÈg‚ts \n N'affecte pas les HÈros, La Compagnie Grise ou les vÈtÈrans de la DerniËre Alliance \n Les unitÈs ennemies dans le rayon perdent tout leur Charisme \n Clic gauche sÈlectionner Clic gauche sur cible"
 END
 
 CONTROLBAR:ArwenFlood
-"Loudwater's Fury"
+" Le DÈchaÓnement des Grandes Eaux "
 End
 
 CONTROLBAR:ToolTipArwenFlood
-"Requiert : Niveau 6\n Summons a flood that will damage enemies\nand put out fires \n Clic gauche sÈlectionner Clic gauche sur cible"
+"Requiert : Niveau 6 \n Invoque une inondation qui endommagera les ennemis \n et Èteindra les incendies \n Clic gauche sÈlectionner Clic gauche sur cible"
 End
 
 CONTROLBAR:ToolTipArwenFloodCampaign
-"Requiert : Niveau 4\n Summons a flood that will damage enemies\nand put out fires \n Clic gauche sÈlectionner Clic gauche sur cible"
+"Requiert : Niveau 4 \n Invoque une inondation qui endommagera les ennemis \n et Èteindra les incendies \n Clic gauche sÈlectionner Clic gauche sur cible"
 End
 
 CONTROLBAR:TinuvielBlessing
-"Blessing of &Tinuviel"
+"BÈnÈdiction de &Tinuviel"
 END
 
 CONTROLBAR:ToolTipTinuvielBlessing
-"Requiert : Niveau 6 \n Enemy units within the radius are stunned\n Clic gauche sÈlectionner Clic gauche sur cible"
+"Requiert : Niveau 6 \n Enemy units within the radius are stunned \n Clic gauche sÈlectionner Clic gauche sur cible"
 END
 
 CONTROLBAR:ArwenImage
-"Image of &Lùthien"
+"Reflet de &L˙thien"
 End
 
 CONTROLBAR:ToolTipArwenImage
-"Requiert : Niveau 3\n Targeted units and heroes temporarily become invisible and receive +25% movement speed \n Clic gauche sÈlectionner Clic gauche sur cible"
+"Requiert : Niveau 3 \n Les unitÈes et HÈros ciblÈs deviennent temporairement invicible et reÁoivent +25% de vitesse de mouvement \n Clic gauche sÈlectionner Clic gauche sur cible"
 End
 
 //==========================Glorfindel==============================
 CONTROLBAR:GlorfindelWrath
-"&Revealed in Wrath"
+"&RÈvÈlÈ dans la ColËre"
 End
 
 CONTROLBAR:ToolTipGlorfindelWrath
-"Requiert : Niveau 3\nGlorfindel temporarily gains +100% damage\nClic gauche pour activer \n\nModifier Type: Sort \n Glorfindel causes fear to nearby enemies and Nazgùl. \n Stacks with Sorts, Buffs, and Charismes \n CapacitÈ passive"
+"Requiert : Niveau 3 \n Glorfindel gagne temporairement +100% de dÈg‚ts \n Clic gauche pour activer \n\n Type d'Action : Sort \n Glorfindel provoque la peur aux ennemis proches et aux Nazg˚l. \n S'accumule avec les Sorts, les Bonus, et les Charismes \n CapacitÈ passive"
 End
 
 CONTROLBAR:GlorfindelLight
-"&Light of Aman"
+"&LumiËre d'Aman"
 End
 
 CONTROLBAR:ToolTipGlorfindelLight
@@ -65354,7 +65354,7 @@ CONTROLBAR:TooltipIsildurBladeMaster
 END
 
 CONTROLBAR:GilGaladLeadership
-"Le Dernier Haut-Roi des Noldor"
+"Le Dernier Haut-Roi des —oldor"
 END
 
 CONTROLBAR:ToolTipGilGaladLeadership
@@ -65414,7 +65414,7 @@ CONTROLBAR:ConstructSecondAgeLindonSpearmenHorde
 END
 
 CONTROLBAR:ToolTipBuildSecondAgeLindonSpearmenHorde
-"Forts contre les cavaliers \n\n Avec de grands boucliers et d'immenses lances, ces guerriers de Noldor ont stoppÈ l'avance grouillante des armÈes du Mordor."
+"Forts contre les cavaliers \n\n Avec de grands boucliers et d'immenses lances, ces guerriers de —oldor ont stoppÈ l'avance grouillante des armÈes du Mordor."
 END
 
 OBJECT:SecondAgeFighter
@@ -65466,19 +65466,19 @@ OBJECT:LAGondorTentDescription
 END
 
 CONTROLBAR:ConstructLAElvenTent
-"Construire une Tente de Noldor"
+"Construire une Tente de —oldor"
 END
 
 CONTROLBAR:ToolTipConstructLAElvenTent
-"Recrutes des troupes de Noldor"
+"Recrutes des troupes de —oldor"
 END
 
 OBJECT:LAElvenTent
-"Tente de Noldor"
+"Tente de —oldor"
 END
 
 OBJECT:LAElvenTentDescription
-"Recrutes des troupes de Noldor"
+"Recrutes des troupes de —oldor"
 END
 
 CONTROLBAR:VWMineLeadership
@@ -65838,7 +65838,7 @@ CONTROLBAR:ToolTipRohanFortressRideofRohirrim
 END
 
 OBJECT:NoldorSpecter
-"Spectre Noldor"
+"Spectre —oldor"
 END
 
 OBJECT:RisenDead
@@ -66322,7 +66322,7 @@ MAP:MAPNewWorErech/Desc
 END
 
 MAP:MAPNewWorEregion/Desc
-"L'Eregion ou Hollin Ètait un sous-royaume des Elfes Noldor en Eriador au cours du Second Age. Sous le rËgne de Celebrimbor, les Elfes d'Eregion se sont liÈs d'amitiÈ avec Annatar, le "Seigneur des Dons", et ont crÈÈ les Anneaux de Pouvoir. Lorsque ce dernier s'est rÈvÈlÈ Ítre Sauron le Seigneur des TÈnËbres, les elfes ont essayÈ de garder les Anneaux mais n'ont rÈussi qu'‡ sauver Vilya, Narya et Nenya et Celebrimbor a ÈtÈ tuÈ."
+"L'Eregion ou Hollin Ètait un sous-royaume des Elfes —oldor en Eriador au cours du Second Age. Sous le rËgne de Celebrimbor, les Elfes d'Eregion se sont liÈs d'amitiÈ avec Annatar, le "Seigneur des Dons", et ont crÈÈ les Anneaux de Pouvoir. Lorsque ce dernier s'est rÈvÈlÈ Ítre Sauron le Seigneur des TÈnËbres, les elfes ont essayÈ de garder les Anneaux mais n'ont rÈussi qu'‡ sauver Vilya, Narya et Nenya et Celebrimbor a ÈtÈ tuÈ."
 END
 
 MAP:MAPNewWorEsgaroth/Desc
@@ -66386,7 +66386,7 @@ MAP:MAPNewWorGladdenFields/Desc
 END
 
 MAP:MAPNewWorGreyHavens/Desc
-"Les Havres gris, Ègalement connus sous le nom de Mithlond, Ètait un port maritime sur le golfe de Loune, ‡ l'embouchure de la riviËre du mÍme nom, fondÈ au cours du DeuxiËme Age par les elfes de Lindon. Les Havres gris ont ensuite ÈtÈ utilisÈs par tous les Elfes (que ce soit les Noldor, les Sindar ou les Sylvains) pour quitter la Terre du Milieu en direction de Valinor. CÌrdan Ètait le Seigneur des Havres."
+"Les Havres gris, Ègalement connus sous le nom de Mithlond, Ètait un port maritime sur le golfe de Loune, ‡ l'embouchure de la riviËre du mÍme nom, fondÈ au cours du DeuxiËme Age par les elfes de Lindon. Les Havres gris ont ensuite ÈtÈ utilisÈs par tous les Elfes (que ce soit les —oldor, les Sindar ou les Sylvains) pour quitter la Terre du Milieu en direction de Valinor. CÌrdan Ètait le Seigneur des Havres."
 END
 
 MAP:MAPNewWorGreyMountains/Desc
@@ -71103,11 +71103,11 @@ CONTROLBAR:PurchaseUpgradeMordorFortressMorgulSpire
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeMordorFortressMorgulSpire
-"Requiert : La Sorcellerie de Morgul amÈliorÈ \n Ses Serviteurs Mortels :\n Donne passivement +33% de dÈg‚ts et 33% d'armure ‡ tous les Nazgul sur le champs de bataille \n Permet ‡ la Forteresse d'utiliser le Flambeau de Morgul : \n Tous les orques sur le champs de bataille gagnet 15% de vitesse et 25% d'armure \n pour un court instant \n durant ce temps toutes les structures de ressources amies sont dÈsactivÈes"
+"Requiert : La Sorcellerie de Morgul amÈliorÈ \n Ses Serviteurs Mortels :\n Donne passivement +33% de dÈg‚ts et 33% d'armure ‡ tous les Nazg˚l sur le champs de bataille \n Permet ‡ la Forteresse d'utiliser le Flambeau de Morgul : \n Tous les orques sur le champs de bataille gagnet 15% de vitesse et 25% d'armure \n pour un court instant \n durant ce temps toutes les structures de ressources amies sont dÈsactivÈes"
 END
 
 ToolTip:LackMorgulSorcery
-"Requiert : La Sorcellerie de Morgul amÈliorÈ \n Ses Serviteurs Mortels :\n Donne passivement +33% de dÈg‚ts et 33% d'armure ‡ tous les Nazgul sur le champs de bataille \n Permet ‡ la Forteresse d'utiliser le Flambeau de Morgul : \n Tous les orques sur le champs de bataille gagnet 15% de vitesse et 25% d'armure \n pour un court instant \n durant ce temps toutes les structures de ressources amies sont dÈsactivÈes"
+"Requiert : La Sorcellerie de Morgul amÈliorÈ \n Ses Serviteurs Mortels :\n Donne passivement +33% de dÈg‚ts et 33% d'armure ‡ tous les Nazg˚l sur le champs de bataille \n Permet ‡ la Forteresse d'utiliser le Flambeau de Morgul : \n Tous les orques sur le champs de bataille gagnet 15% de vitesse et 25% d'armure \n pour un court instant \n durant ce temps toutes les structures de ressources amies sont dÈsactivÈes"
 END
 
 CONTROLBAR:MordorFortressDeadliestServants
@@ -71115,7 +71115,7 @@ CONTROLBAR:MordorFortressDeadliestServants
 END
 
 CONTROLBAR:ToolTipMordorFortressDeadliestServants
-"Requiert : FlËche de Morgul amÈliorÈ \n Donne +33% de dÈg‚ts et 33% d'armure \n ‡ tous les Nazgul sur le champs de bataille \n CapacitÈ Passive"
+"Requiert : FlËche de Morgul amÈliorÈ \n Donne +33% de dÈg‚ts et 33% d'armure \n ‡ tous les Nazg˚l sur le champs de bataille \n CapacitÈ Passive"
 END
 
 CONTROLBAR:MordorFortressMorgulSpire
