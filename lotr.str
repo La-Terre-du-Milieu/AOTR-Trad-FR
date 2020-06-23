@@ -9565,11 +9565,11 @@ OBJECT:GenericWargRider
 END
   
 OBJECT:GenericGoblinSwordsman
-"Epéiste Orque de la Moria"
+"Epéiste Gobelins de la Moria"
 END
   
 OBJECT:GenericGoblinArcher
-"Archer Orque de la Moria"
+"Archer Gobelins de la Moria"
 END
   
 OBJECT:GenericMountainTroll
@@ -9725,11 +9725,11 @@ OBJECT:MordorHaradrimOverlord
 END
 
 OBJECT:GoblinSwordsman
-"Epéiste Orque de la Moria"
+"Epéiste Gobelins de la Moria"
 END
 
 OBJECT:MordorGoblinArcher
-"Archer Orque de la Moria"
+"Archer Gobelins de la Moria"
 END
 
 OBJECT:RohanTreeBerd
@@ -10393,7 +10393,7 @@ OBJECT:GoblinBuildingFoundation
 END
 
 OBJECT:GoblinCave
-"Cave Orque de la Moria"
+"Cave Gobelins de la Moria"
 END
 
 OBJECT:GoblinCampKeep
@@ -15242,7 +15242,7 @@ CONTROLBAR:ToolTipConstructWildLumberMill
 END
 
 CONTROLBAR:ConstructWildGoblinCave
-"Construire une Cave Orque de la Moria"
+"Construire une Cave Gobelins de la Moria"
 END
 
 CONTROLBAR:ToolTipConstructWildGoblinCave
@@ -16173,7 +16173,7 @@ CONTROLBAR:ConstructGoblinArcherHorde
 END
 
 CONTROLBAR:ConstructGoblinCave
-"Construire une Cave Orque de la Moria"
+"Construire une Cave Gobelins de la Moria"
 END
 CONTROLBAR:ToolTipGoblinCave
 "Entraîne des guerriers orques de la Moria, des archers et des trolls des cavernes"
@@ -49937,7 +49937,7 @@ CONTROLBAR:ToolTipPurchaseUpgradeAngmarDarkIronMail
 End
 
 CONTROLBAR:ToolTipPurchaseUpgradeAngmarDarkIronBlades
-"Permet aux hordes d'acheter l'amélioration Lames en fer des ténèbres upgrade : améliore significativement les dégâts des armes de mêlée."
+"Permet aux hordes d'acheter l'amélioration Lames de Fer des ténèbres upgrade : améliore significativement les dégâts des armes de mêlée."
 End
 
 CONTROLBAR:ToolTipLackAngmarDarkIronMail
@@ -50041,7 +50041,7 @@ TOOLTIP:PurchaseUpgradeAngmarDarkIronMail
 End
 
 TOOLTIP:PurchaseUpgradeAngmarDarkIronBlades
-"Permet aux hordes d'acheter l'amélioration Lames en fer des ténèbres upgrade : améliore significativement les dégâts des armes de mêlée."
+"Permet aux hordes d'acheter l'amélioration Lames de Fer des ténèbres upgrade : améliore significativement les dégâts des armes de mêlée."
 End
 
 CONTROLBAR:NecroBlackIce
@@ -50139,7 +50139,7 @@ CONTROLBAR:ToolTipSummonShadeOfWolf
 End
 
 TOOLTIP:AngmarDarkIronBlades
-"Lames en fer des ténèbres"
+"Lames de Fer des ténèbres"
 End
 
 TOOLTIP:AngmarDarkIronArmor
@@ -50167,7 +50167,7 @@ UPGRADE:AngmarDarkIronArmor
 End
 
 UPGRADE:AngmarDarkIronBlades
-"Lames en fer des ténèbres"
+"Lames de Fer des ténèbres"
 End
 
 UPGRADE:AngmarBarracksLevel2
@@ -51096,7 +51096,7 @@ OBJECT:WildAzog
 END
 
 CONTROLBAR:WildAzogRecruit
-"Recrutez Le Profanateur de Gundabad.\n\nAzog est un Orque pilleur de tombes et le puissant chef des Orque de la Moria, qu'ils occupèrent après que les Nains l'eut abandonné. Il participa à la grande guerre des Nains et des Orques lorsque Thrór tenta de reprendre Khazâd-Dûm. Il est finalement tué par Dáin Pied-d'Acier lors de la Bataille d'Azanulbizar, puis son nom sombra dans l'oubli.\nMais de récentes rumeurs font état d'un Orque pâle correspondant à sa description et chevauchant un Warg blanc...\n\n'Nuzdigid? Nuzdi gast...'"
+"Recrutez Le Profanateur de Gundabad.\n\nAzog est un Orque pilleur de tombes et le puissant chef des Gobelins de la Moria, qu'ils occupèrent après que les Nains l'eut abandonné. Il participa à la grande guerre des Nains et des Orques lorsque Thrór tenta de reprendre Khazâd-Dûm. Il est finalement tué par Dáin Pied-d'Acier lors de la Bataille d'Azanulbizar, puis son nom sombra dans l'oubli.\nMais de récentes rumeurs font état d'un Orque pâle correspondant à sa description et chevauchant un Warg blanc...\n\n'Nuzdigid? Nuzdi gast...'"
 END
 
 CONTROLBAR:WildAzogRevive
@@ -56001,7 +56001,6 @@ CONTROLBAR:ToolTipPurchaseUpgradeIsengardFortressWizardsTower
 END
 
 ToolTip:LackIronPlating
-//"Requiert : l'amélioration Blindage en fer.\n La tour de magicien peut tirer plusieurs éclairs dans une zone entourant la forteresse."
 "Requiert : l'amélioration Blindage en fer.\n La Tour de Magicien peut créer plusieurs éclairs dans une zone entourant la forteresse."
 END
 
@@ -56009,8 +56008,7 @@ END
 // Isengard Heroes
 
 CONTROLBAR:ToolTipBuildIsengardBerserkerHorde
-//"Hero Infantry\n Fort contre tout\n Requiert : niveau 3 Puits à Uruk\n Seules 3 unités de Deathbringers sont autorisées en même temps."
-//"Fort contre toutes les troupes standards\n Requiert : niveau 3 Puits à Uruk\n Seules 3 unités de Deathbringers sont autorisées en même temps."
+"Fort contre toutes les troupes standards \n Infantrie Héroïque \n Requiert : niveau 3 Puits à Uruk \n Seules 3 unités de Porte-mort sont autorisées en même temps."
 End
 
 CONTROLBAR:ToolTipVenomousWords
@@ -56092,8 +56090,7 @@ CONTROLBAR:TooltipCrebain
 END
 
 CONTROLBAR:ToolTipTaintIsengard  
-//"Souille une zone : tous les alliés gagnent +50% dégâts, +50% armure et gagnent des ressources pour chaque ennemi tué.\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
-"Type d'Action : Bonus\nSouille une zone du terrain en le recouvrant de terres stériles, de fragments osseux et de miasmes méphitiques : tous les alliés gagnent +50% dégâts, +50% armure et gagnent des ressources pour chaque ennemi tué (bonus cumulable).\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
+"Type d'Action : Bonus \n Souille une zone du terrain en le recouvrant de terres stériles, de fragments osseux et de miasmes méphitiques : tous les alliés gagnent +50% dégâts, +50% armure et gagnent des ressources pour chaque ennemi tué (bonus cumulable). \n\n Clic gauche sur l'icône puis clic gauche sur la zone cible"
 END
 
 
@@ -56102,7 +56099,6 @@ END
 // Mordor Units
 
 CONTROLBAR:PurchaseUpgradeMorderHeavyArmor
-//"Armure lourde"
 "Armures lourdes"
 END
 
@@ -56117,12 +56113,10 @@ OBJECT:MordorEasterling
 END
 
 CONTROLBAR:ToolTipBuildMordorHaradrimRiderHorde
-//"Requiert : Palais Haradrim niveau 2\n Les tribus des Haradrim comptent des cavaliers émérites, habitués à lancer des raids aussi bien dans le désert que dans la savane. Si les chevaux du Harad n'égalent pas ceux du Gondor, ce sont des montures robustes, capables de porter leur cavalier sur les plaines désertiques.\n Le seigneur d'Abrakhân entretient de nombreux Pillards pour tenir le rôle d'éclaireurs. De même que l'infanterie de l'Armée Dorée, leur loyauté est achetée au prix fort.\n\n Cavalerie, forts contre les archers et les épéistes"
-"Requiert : Palais Haradrim niveau 2\n Les tribus des Haradrim comptent des cavaliers émérites, habitués à lancer des raids aussi bien dans le désert que dans la savane. Si les chevaux du Harad n'égalent pas ceux du Gondor, ce sont des montures robustes, capables de porter leur cavalier sur les plaines désertiques.\n Le seigneur d'Abrakhân entretient de nombreux Pillards pour tenir le rôle d'éclaireurs. De même que l'infanterie de l'Armée Dorée, leur loyauté est achetée au prix fort.\n\n Cavalerie, forts contre les archers et les épéistes"\n\n The nomad tribes of Near Harad were home to some of the greatest horsemen in Middle-earth."
+"Requiert : Palais Haradrim niveau 2\n Les tribus des Haradrim comptent des cavaliers émérites, habitués à lancer des raids aussi bien dans le désert que dans la savane. Si les chevaux du Harad n'égalent pas ceux du Gondor, ce sont des montures robustes, capables de porter leur cavalier sur les plaines désertiques.\n Le seigneur d'Abrakhân entretient de nombreux Pillards pour tenir le rôle d'éclaireurs. De même que l'infanterie de l'Armée Dorée, leur loyauté est achetée au prix fort.\n\n Cavalerie, forts contre les archers et les épéistes \n\n Les Tribus nomades du proches Harad abritaient certains des meilleurs cavaliers de la Terre du Milieu."
 END
 
 OBJECT:HordeMordorHaradrimArcher
-//"Archer Haradrim"
 "Archers Haradrim"
 End
 
@@ -56131,7 +56125,6 @@ CONTROLBAR:ToolTipBuildMordorHaradrimArcherHorde_Inn
 End
 
 CONTROLBAR:ToolTipBarbedArrows
-//"Provoque un méta impact et augmente les dégâts classiques"
 "Requiert : niveau 2\n Provoque un méta impact et augmente les dégâts classiques.\n\nClic gauche sur l'icône puis clic gauche sur la cible"
 End
 
@@ -56148,7 +56141,7 @@ CONTROLBar:ToolTipDominateTroll
 End
 
 OBJECT:GreatBeast
-"Great Beast"
+"Grande Bête"
 END
 
 OBJECT:MordorMumakil
@@ -56157,7 +56150,6 @@ OBJECT:MordorMumakil
 END
 
 CONTROLBAR:ConstructMordorMumakilPen
-//"Construire un Enclos à Mûmakil"
 "Construire un Enclos à Mûmakil"
 END
 
@@ -56172,7 +56164,7 @@ Stat:Mumakils_Killed_Name
 END
 
 CONTROLBAR:ConstructMordorGreatBeast
-"Great B&east of Gorgoroth"
+"Grand&e Bête de Gorgoroth"
 END
 
 
@@ -56224,12 +56216,11 @@ END
 // Mordor Heroes
 
 OBJECT:MordorBlackRider
-"Serviteurs de l'Anneau"
+"Les Serviteurs de l'Anneau"
 END
 
 CONTROLBAR:BlackRiderRecruit	
-//"Recrutez les Cavaliers Noirs"
-"Cavaliers Noirs"
+"Les Cavaliers Noirs"
 END
 
 CONTROLBAR:ConstructBlackRiderHorde
@@ -56269,17 +56260,15 @@ END
 // Gobelins Units
 
 OBJECT:GoblinShaman
-"Moria Orque Shaman"
+"Chaman Gobelins de la Moria"
 END
 
 OBJECT:GoblinFighter
-//"Guerriers Gobelins"
-"Guerrier Orque de la Moria"
+"Guerrier Gobelins de la Moria"
 END
 
 OBJECT:GoblinArcher
-//"Archers Gobelins"
-"Archer Orque de la Moria"
+"Archer Gobelins de la Moria"
 END
 
 OBJECT:GundabadFighter
@@ -56312,8 +56301,7 @@ CONTROLBAR:ToolTipTrollfindgoblintothrow
 END
 
 CONTROLBAR:ToolTipBuildWildMountainGiant
-//"Requiert : pit niveau 3\n De puissantes créatures des Monts Brumeux qui lancent des rochers pour écraser les ennemis et détruire les structures, et particulièrement redoutables en combat rapproché.\n\n Forts contre les structures et les épéistes"
-"Requiert : pit niveau 3\n De puissantes créatures des Monts Brumeux qui lancent des rochers pour écraser les ennemis et détruire les structures, et particulièrement redoutables en combat rapproché.\n\n Forts contre les structures et les épéistes"
+"Requiert : Fosse niveau 3 \n De puissantes créatures des Monts Brumeux qui lancent des rochers pour écraser les ennemis et détruire les structures, et particulièrement redoutables en combat rapproché. \n\n Forts contre les structures et les épéistes"
 END
 
 CONTROLBAR:ToolTipWildMountainGiantStomp
@@ -56324,20 +56312,18 @@ CONTROLBAR:ToolTipWildMountainGiantStomp
 End
 
 OBJECT:WildSpiderling
-//"Araignées sauvages"
 "Araignée sauvage"
 END
+
 OBJECT:WildSpiderlingHorde
-//"Araignée sauvage"
 "Araignées sauvages"
 END        
 
 OBJECT:WildSpiderRider
-//"Chevaucheur d'araignées gobelins"
 "Chevaucheur d'araignées Gobelin"
 END  
+
 OBJECT:WildSpiderRiderHorde
-//"Chevaucheur d'araignées gobelin"
 "Chevaucheur d'araignées Gobelins"
 END
 
@@ -56345,22 +56331,18 @@ END
 // Gobelins Structures
 
 CONTROLBAR:ToolTipConstructWildMineShaft
-//"Génère des ressources selon le terrain disponible.\n Donne accès au réseau de tunnels.\n\n Augmente la limite de points commandement de 50."
-"Génère des ressources selon le terrain disponible.\n Donne accès au réseau de tunnels."
+"Génère des ressources selon le terrain disponible.\n Donne accès au réseau de tunnels. \n\n Augmente la limite de points commandement de 50."
 END
 
 OBJECT:WildMineShaftDescription
-//"Génère des ressources selon le terrain disponible. Donne accès au réseau de tunnels\n\n Augmente la limite de points commandement de 50."
-"Génère des ressources selon le terrain disponible.\n Donne accès au réseau de tunnels."
+"Génère des ressources selon le terrain disponible.\n Donne accès au réseau de tunnels. \n\n Augmente la limite de points commandement de 50."
 END
 
 CONTROLBAR:ToolTipBuildWildCaveLevel2Upgrade
-//"Niveau 2 : vitesse de construction +10%"
 "Permet de recruter les Trolls des Cavernes.\n Vitesse de construction +10%"
 END
 
 CONTROLBAR:ToolTipBuildWildCaveLevel3Upgrade
-//"Niveau 3 : vitesse de construction +25%, Ajoute une tour d'archers défensive"
 "Permet de recruter les Trolls lanceurs de pierres.\nVitesse de construction +25%\n Ajoute une tour d'archers défensive."
 END
 
@@ -56384,17 +56366,17 @@ END
 CONTROLBAR:ToolTipBuildWildFissureLevel2Upgrade
 //"Niveau 2 : vitesse de construction +10%\n Permet de recruter les Trolls des Cavernes and Half-troll Swordsmen"
 //"Niveau 2 : vitesse de construction +10%\n Permet de recruter les Trolls des Cavernes"
-"Permet de recruter les Chasseurs de Gundabad\n Vitesse de construction +10%"
+"Permet de recruter les Chasseurs de Gundabad \n Vitesse de construction +10%"
 END
 
 CONTROLBAR:ToolTipBuildWildFissureLevel3Upgrade
 //"Niveau 3 : vitesse de construction +25%.\n Permet de recruter les Géant des Montagness and Couvée de Drakes de feu"
-"Permet de recruter les Olog-hai et des Semi-Ogres.\n Vitesse de construction +25%"
+"Permet de recruter les Olog-hai et des Semi-Ogres. \n Vitesse de construction +25%"
 END
 
 CONTROLBAR:ToolTipBuildWildFissureLevel3Upgrade_WOTR
 //"Level 3: +25% de vitesse de construction \n Allows training of Mountain Giants and Fire Drake Brood"
-"Allows training of Attack Trolls\n+25% de vitesse de construction"
+"Permet l'entraînement des Trolls d'attaque \n +25% de vitesse de construction"
 END
 
 CONTROLBAR:ToolTipConstructWildWildSpiderPit
@@ -56449,7 +56431,7 @@ TOOLTIP:LackDragonNest
 //"Requiert : the Web Cocoon upgrade.\n Allows summoning of the Wyrm de feu"
 //"This unit has already been purchased"
 //"Requiert : the Dragon's Nest"
-"Requiert : niveau 3 Pit and Dragon Nesting Upgrade"
+"Requiert : niveau 3 Améliore La Fosse et la Nidification de Dragon"
 END
 
 
@@ -56467,8 +56449,7 @@ END
 
 CONTROLBAR:ToolTipWildBabyDrakeHorde
 //"Fort contre toutes les troupes standards sauf les piquiers\n Requiert : Fissure de Gundabad niveau 3\n Only 2 Drake Broods sont autorisées en même temps."
-//"Requiert : niveau 3 Fissure\n Fort contre Tous except Archers\n Only 2 Drake Broods sont autorisés en même temps."
-"Requiert : niveau 3 Fissure\n Fort contre Tous except Archers\n Only 2 packs of Drake Broods sont autorisés en même temps"
+"Requiert : niveau 3 Fissure\n Fort contre Tous except Archers\n Seulement 2 portées de couvées de Drake sont autorisés en même temps"
 END
 
 CONTROLBAR:ToolTipWildDrake
@@ -56538,9 +56519,7 @@ END
 // Gobelins Powers
 
 CONTROLBAR:TooltipCaveBats
-//"Révèle le brouillard et détecte les unités furtives.\n Réduit significativement les dégâts et l'armure des ennemis.\n\nClic gauche sur l'icône puis clic gauche sur une zone praticable"
-//"Révèle le brouillard et détecte les unités furtives.\Réduit significativement les dégâts et l'armure des ennemis.\n Tous les ennemis perdent leur bonus de Charisme.\n\nClic gauche sur l'icône puis clic gauche sur une zone praticable"
-"Les chauves-souris bouffies et corrompues du Tawar Duath se sont depuis longtemps ralliées aux forces du Mal.\nType d'Action : Pénalité active\nLa nuée révèle le brouillard et détecte les unités furtives.\n Les ennemis proches perdent leur bonus de Charisme et subissent -25% dégâts et -20% armure (Pénalité non cumulable).\n\nClic gauche sur l'icône puis clic gauche sur une zone praticable"
+"Les chauves-souris bouffies et corrompues du Tawar Duath se sont depuis longtemps ralliées aux forces du Mal. \n Type d'Action : Pénalité active \n La nuée révèle le brouillard et détecte les unités furtives.\n Les ennemis proches perdent leur bonus de Charisme et subissent -25% dégâts et -20% armure (Pénalité non cumulable).\n\n Clic gauche sur l'icône puis clic gauche sur une zone praticable"
 END
 
 CONTROLBAR:SummonSpiderlingAllies
@@ -56563,40 +56542,35 @@ END
 // Angmar Units
 
 CONTROLBAR:PurchaseUpgradeAngmarDarkIronBlades
-"Lames en fer des ténèbres"
+"Lames de Fer des ténèbres"
 End
 
 TOOLTIP:LackAngmarDarkIronBlades
-"Rechercher this upgrade at the Forge des Ténèbres\n pour activer cet équipement. Lorsqu'elle est équipée, elle améliore significativement les dégâts des armes de mêlée."
+"Rechercher cette amélioration à la Forge des Ténèbres \n pour activer cet équipement. Lorsqu'elle est équipée, elle améliore significativement les dégâts des armes de mêlée."
 End
 
 CONTROLBAR:PurchaseUpgradeAngmarDarkIronMail
-"Dark Iron Mail"
+"Sombre Cotte de Maille"
 End
 
 TOOLTIP:LackAngmarDarkIronMail
-"Rechercher this upgrade at the Forge des Ténèbres\n pour activer cet équipement. Lorsqu'elle est équipée, réduit significativement les dégâts reçus."
+"Rechercher cette amélioration à la Forge des Ténèbres \n pour activer cet équipement. Lorsqu'elle est équipée, réduit significativement les dégâts reçus."
 End
 
 OBJECT:AngmarWolfRider
-"Wolf Rider"
+"Chevaucheur de Loup"
 End
 
 CONTROLBAR:TooltipThrallMasterUpgradeWolfRiders_Fake  
-"Requiert : the presence of a Troll and Wolf Den"
+"Requiert : La présence du Repaire de Troll et de La Tanière de Loup"
 End
 
 CONTROLBAR:TooltipThrallMasterUpgradeWolfRiders
-//"Summon Wolf Riders to serve you .\n\n Forts contre les archers"
-//"Summon Wolf Riders to serve you .\n\n Forts contre les archers\n Adds 10 additional CP"
-//"Summon Wolf Riders to serve you .\n\n Forts contre les archers\n Adds 20 additional CP"
-"Summon Wolf Riders to serve you\n Forts contre les épéistes et les archers\n Adds 20 additional CP"
+"Invoquez des Chevaucheurs de Loup pour vous servir \n Forts contre les épéistes et les archers\n Ajoute 20 Point de Commandement supplémentaire"
 End
 
 CONTROLBAR:ToolTipThrallMasterUpgradeWolfRiders202Campaign
-//"Summon Wolf Riders to serve you\n from a nearby Troll and Wolf Den\n Forts contre les archers\n Adds 10 additional CP"
-//"Summon Wolf Riders to serve you\n from a nearby Troll and Wolf Den .\n\n Forts contre les archers\n Adds 20 additional CP"
-"Summon Wolf Riders to serve you\n from a nearby Troll and Wolf Den\n Forts contre les épéistes et les archers\n Adds 20 additional CP"
+"Invoquez des Chevaucheurs de Loup pour vous servir \n à proximité du Repaire de Troll et de La Tanière de Loup \n Forts contre les épéistes et les archers \n Ajoute 20 Point de Commandement supplémentaire"
 End
 
 OBJECT:AngmarDarkDunedain
@@ -57832,13 +57806,13 @@ END
 BANNERUI:GoblinWarrior
 // Singluar name of the Guerrier Gobelin category displayed in the army summary for WotR
 //"Guerriers Gobelins"
-"Guerrier Orque de la Moria"
+"Guerrier Gobelins de la Moria"
 End
 
 BANNERUI:GoblinArcher
 // Singluar name of the Archer Gobelin category displayed in the army summary for WotR
 //"Archers Gobelins"
-"Archer Orque de la Moria"
+"Archer Gobelins de la Moria"
 End
 
 CONTROLBAR:LW_ToolTipBuild_WildMarauderHorde
@@ -59664,7 +59638,7 @@ OBJECT:WildMuzgash
 END
 
 CONTROLBAR:WildMuzgashRecruit
-"Recrutez le Roi Orque de la Moria.\n\nMuzgash règne sur la Moria depuis des années. S'il n'est pas le plus intelligent des Orques, il reste assez gros et brutal pour s'imposer comme chef incontesté. Il commande avec une autorité despotique ses sujets qui ont appris à le craindre plus que n'importe quel ennemi.\n\n'Même s'il est un meneur autoritaire, Muzgash jouit d'une grande renommée parmi les Gobelins des Monts Brumeux. Les femelles s'offrent facilement à lui, tandis que les mâles le jalousent.'"
+"Recrutez le Roi Gobelins de la Moria.\n\nMuzgash règne sur la Moria depuis des années. S'il n'est pas le plus intelligent des Orques, il reste assez gros et brutal pour s'imposer comme chef incontesté. Il commande avec une autorité despotique ses sujets qui ont appris à le craindre plus que n'importe quel ennemi.\n\n'Même s'il est un meneur autoritaire, Muzgash jouit d'une grande renommée parmi les Gobelins des Monts Brumeux. Les femelles s'offrent facilement à lui, tandis que les mâles le jalousent.'"
 END
 
 CONTROLBAR:WildMuzgashRevive
