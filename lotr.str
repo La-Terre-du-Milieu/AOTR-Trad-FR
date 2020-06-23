@@ -31746,7 +31746,7 @@ END
 //////////////////////////////////
 
 CONTROLBAR:WizardsTowerLightningStrike
-"Déluge d'Eclairs"
+"Puits des Eclairs"
 END
 
 CONTROLBAR:ToolTipWizardsTowerLightningStrike
@@ -50009,7 +50009,7 @@ CONTROLBAR:PurchaseTechnologyAngmarSoulFreeze
 End
 
 CONTROLBAR:PurchaseTechnologyAngmarWellOfSouls
-"Déluge d'Âmes"
+"Puits des Âmes"
 End
 
 CONTROLBAR:PurchaseTechnologyAngmarCorpseRain
@@ -50074,15 +50074,15 @@ TOOLTIP:AngmarSoulFreeze
 End
 
 CONTROLBAR:NecroWellOfSouls
-"Déluge d'Âmes"
+"Puits des Âmes"
 End
 
 CONTROLBAR:PurchaseUpgradeWellOfSouls
-"Déluge d'Âmes"
+"Puits des Âmes"
 End
 
 TOOLTIP:AngmarWellOfSouls
-"Déluge d'Âmes"
+"Puits des Âmes"
 End
 
 CONTROLBAR:NecroCorpseRain
@@ -50151,7 +50151,7 @@ TOOLTIP:AngmarIceShot
 End
 
 UPGRADE:AngmarWellOfSouls
-"Déluge d'Âmes"
+"Puits des Âmes"
 End
 
 UPGRADE:AngmarCorpseRain
@@ -56604,11 +56604,11 @@ OBJECT:AngmarDarkDunedain
 END
 
 CONTROLBAR:ToolTipBuildAngmarDarkDunedainHorde
-"Requiert : niveau 2 Hall of King's Men .\n\n Forts contre les piquiers"
+"Requiert : niveau 2 La Salle du Roi des Hommes \n\n Forts contre les piquiers"
 End
 
 CONTROLBAR:ToolTipSpecialAbilityAngmarChargeAttack
-"Requiert : niveau 2\n Order Númenóréens Noirs to charge the enemy\n Type: Buff\n Númenóréens Noirs gain +50% dégâts et +50% armure (bonus cumulable).\n Causes meta impact\n\nClic gauche sur l'icône puis clic gauche sur la cible"
+"Requiert : niveau 2 \n Ordonne aux Númenóréens Noirs de charger l'ennemis \n Type: Bonus \n Les Númenóréens Noirs gagnent +50% dégâts et +50% armure (bonus cumulable).\n Provoque d'énorme impact \n\n Clic gauche sur l'icône puis clic gauche sur la cible"
 END
 
 OBJECT:AngmarRanger
@@ -56616,145 +56616,124 @@ OBJECT:AngmarRanger
 END
 
 CONTROLBAR:ToolTipBuildAngmarDarkRangerHorde
-"Requiert : niveau 3 Hall of King's Men\n Fort à distance"
+"Requiert : niveau 3 La Salle du Roi des Hommes \n Fort à distance"
 End
 
 CONTROLBAR:ToolTipBuildAngmarDarkRangerHorde_Inn  
 "Fort à distance"
 End
 CONTROLBAR:PurchaseUpgradeAngmarIceArrows
-"Ice Arrows"
+"Flèches de Glace"
 End
 
 TOOLTIP:LackAngmarIceArrows
-//"Rechercher this upgrade at the.\n Forge des Ténèbres to\n enable this equipment\n Lorsqu'elle est équipée, les dégâts des flèches sont augmentés de manière significative."
-"Rechercher this upgrade at the Forge des Ténèbres\n pour activer cet équipement. Lorsqu'elle est équipée, les dégâts des flèches sont augmentés de manière significative."
+"Rechercher l'amélioration à la Forge des Ténèbres \n pour activer cet équipement. Lorsqu'elle est équipée, les dégâts des flèches sont augmentés de manière significative."
 End
 
 CONTROLBAR:TooltipNecromancerDeathMask
 //"Requiert : niveau 4\n Les ennemis proches subissent -25% dégâts.\n\n Capacité passive."
 //"Requiert : niveau 4\n Réduit significativement les dégâts et l'armure des ennemis.\n\n Capacité passive"
-"Requiert : niveau 4\n Type d'Action : Pénalité passive\n Les ennemis proches subissent -25% dégâts et -20% armure (Pénalité non cumulable).\n\n Capacité passive"
+"Requiert : niveau 4 \n Type d'Action : Pénalité passive \n Les ennemis proches subissent -25% dégâts et -20% armure (Pénalité non cumulable). \n\n Capacité passive"
 End
 
 CONTROLBAR:ToolTipBuildAngmarSnowTrollHorde
-//"Requiert : niveau 2 Troll and Wolf Den .\n\n Forts contre les épéistes et les archers\n "
-"Requiert : niveau 2 Troll and Wolf Den .\n\n Forts contre les épéistes et les archers"
+"Requiert : niveau 2 Le Repaire de Troll et La Tanière de Loup \n Forts contre les épéistes et les archers"
 End
 
 CONTROLBAR:ToolTipBuildAngmarSnowTrollHorde
-//"Requiert : Niveau 2 Troll and Wolf Den \n Fort contre Swordsmen and Archers\n"
-"Requiert : Niveau 2 Troll and Wolf Den \n Fort contre Swordsmen and Archers"
+"Requiert : Niveau 2 Le Repaire de Troll et La Tanière de Loup \n Fort contre les Epéistes et les Archers"
 End
 
 CONTROLBAR:ToolTipSpecialAbilityAngmarTrollChargeAttack
 //"Requiert : niveau 2\n Order Trolls to charge the enemy\n Trolls gain +50% dégâts et +50% armure.\n Inflige un méta impact.\n\nClic gauche sur l'icône puis clic gauche sur la cible"
-//"Requiert : niveau 2\n Order Warriors to charge the enemy\n Warriors gain +50% dégâts, +50% armure.\n Inflige un méta impact.\n\nClic gauche sur l'icône puis clic gauche sur la cible"
-"Requiert : niveau 2\nType d'Action : Bonus\nOrdonne aux guerriers de charger l'ennemi : ils gagnent +50% dégâts et +50% armure, et infligent un meta impact (bonus cumulable).\n\nClic gauche sur l'icône puis clic gauche sur la cible"
+"Requiert : niveau 2 \n Type d'Action : Bonus \n Ordonne aux guerriers de charger l'ennemi : ils gagnent +50% dégâts et +50% armure, et infligent un énorme impact (bonus cumulable). \n\n Clic gauche sur l'icône puis clic gauche sur la cible"
 END
 
 CONTROLBAR:ToolTipBuildAngmarHillTrollHorde
-//"Requiert : niveau 2 Troll and Wolf Den .\n\n Forts contre les cavaliers"
-"Requiert : niveau 3 Troll and Wolf Den .\n\n Forts contre les cavaliers"
+"Requiert : niveau 3 Le Repaire de Troll et La Tanière de Loup. \n\n Forts contre les cavaliers"
 End
 
 CONTROLBAR:ToolTipNecroWellOfSouls
 //"Enemy Units in target area suffer medium damage over time. Affected Units transform into Lesser Wights upon death. Nearby friendly units are healed slightly.\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
-//"Enemy units in target area suffer medium damage over time and transform into Lesser Wights upon death. Heals nearby friendly units.\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
-"Enemy units in target area suffer medium damage over time and become Wights upon death.\n Heals nearby friendly units.\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
+"Les unités ennemies dans la zone ciblé subissent des dégâts moyens au fil du temps et deviennent des Créatures à leur mort. \n Soignent les unités amies à proximité. \n\n Clic gauche sur l'icône puis clic gauche sur la zone cible"
 End
 
 CONTROLBAR:ToolTipNecroCorpseRain
-//"Units in target area receive.\n Heavy Magic Damage.\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
-"Units in target area receive heavy dégâts et become badly poisoned\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
+//"Units in target area receive.\n Heavy Magic Damage."
+"Les unités dans la zone ciblé reçoivent de lourds dégâts et deviennent gravement empoisonnées \n\n Clic gauche sur l'icône puis clic gauche sur la zone cible"
 End
 
 CONTROLBAR:ToolTipPurchaseUpgradeAngmarWellOfSouls
-//"Allows Specialization in the Déluge d'Âmes\n power. This sucks life force from the target to heal units around the Sorcerer.\n The Sorcerer can specialize in only one power."
-//"Allows Specialization in the Déluge d'Âmes power\n This sucks life force from the target to heal units around the Sorcerer.\n The Sorcerer can specialize in only one power."
-"Allows Specialization in the Well of Souls power\n This sucks life force from the target to heal units around the Sorcerer.\n The Sorcerer can specialize in one power only"
+"Permet une spécialisation dans le pouvoir du Puits des Âmes \n Cela aspire la force de vie de la cible pour soigner les unités autour du Sorcier. \n Le Sorcier ne peut se spécialiser que dans un seul pouvoir"
 End
 
 TOOLTIP:LackAngmarSoulFreeze
-//"Rechercher this upgrade at the.\n Temple of Twilight to\n enable this power"
-"Rechercher this upgrade at the Temple of Twilight to enable this power"
+"Rechercher cette amélioration au Temple du Crépuscule pour activer ce pouvoir"
 End
 
 TOOLTIP:LackAngmarCorpseRain
-//"Rechercher this upgrade at the.\n Temple of Twilight to\n enable this power"
-"Rechercher this upgrade at the Temple of Twilight to enable this power"
+"Rechercher cette amélioration au Temple du Crépuscule pour activer ce pouvoir"
 End
 
 TOOLTIP:LackAngmarWellOfSouls
-//"Rechercher this upgrade at the.\n Temple of Twilight to\n enable this power"
-"Rechercher this upgrade at the Temple of Twilight to enable this power"
+"Rechercher cette amélioration au Temple du Crépuscule pour activer ce pouvoir"
 End
 
 CONTROLBAR:PurchaseUpgradeAngmarIceShot
-//"Ice Shot"
-"Ice Shot"
+"Tir de Glace"
 END
+
 TOOLTIP:LackAngmarIceShot
-//"Rechercher this upgrade at the.\n Forge des Ténèbres pour activer cet équipement. Lorsqu'elle est équipée, significantly increases the Stone Thrower's damage"
-"Rechercher this upgrade at the Forge des Ténèbres\n pour activer cet équipement. Lorsqu'elle est équipée, significantly increases the Stone Thrower's damage"
+"Rechercher cette amélioration à la Forge des Ténèbres \n pour activer cet équipement. Lorsqu'elle est équipée, augmente considérablement les dégâts des Lanceurs de Pierre."
 END  
 
 
 // Angmar Structures
 
 CONTROLBAR:ToolTipConstructAngmarMill
-//"Génère des ressources selon le terrain disponible.\n\n Augmente la limite de points commandement de 50."
-"Génère des ressources selon le terrain disponible."
+"Génère des ressources selon le terrain disponible \n\n Augmente la limite de points commandement de 50"
 End
 
 CONTROLBAR:ToolTipConstructAngmarBarracks
-//"Trains Thrall Masters, Númenóréens Noirs and Rôdeurs Noirs"
-"Trains Thrall Masters, Númenóréens Noirs,\n and Rôdeurs Noirs"
+"Recrute des Maîtres des Esclaves, des Númenóréens Noirs,\n et des Rôdeurs Noirs"
 End
 
 CONTROLBAR:ToolTipBuildAngmarBarracksLevel2Upgrade
-//"Allows construction of Númenóréens Noirs and Researches Porte-étendards\n niveau 2 : vitesse de construction +10%"
-"Permet de recruter les Númenóréens Noirs and the research of Porte-étendards\n Vitesse de construction +10%"
+"Permet de recruter les Númenóréens Noirs et la recherche de Porte-étendards \n Vitesse de construction +10%"
 End
 
 CONTROLBAR:ToolTipBuildAngmarBarracksLevel3Upgrade
-//"Allows construction of Rôdeurs Noirs\n Adds Arrow Tower to building\n Vitesse de construction +25%"
-//"Allows construction of Rôdeurs Noirs\n Vitesse de construction +25%.\n Ajoute une tour d'archers défensive"
-"Allows training of Rôdeurs Noirs\n Vitesse de construction +25%\n Ajoute une tour d'archers défensive"
+"Permet de recruter les Rôdeurs Noirs \n Vitesse de construction +25% \n Ajoute une tour d'archers défensive"
 End
 
 CONTROLBAR:ToolTipAngmarDen
-//"Trains Dire Wolves, Snow and Trolls des collines"
-//"Trains Dire Wolves, Snow and Trolls des collines\n Required to summon Wolf Riders"
-"Trains Dire Wolves, Trolls des neiges,\n and Trolls des collines\n Required to summon Wolf Riders"
+"Entraine d'Affreux Loups, Trolls des neiges,\n and Trolls des collines\n Requis pour invoquer les Chevaucheurs de Loup"
 END
 CONTROLBAR:TooltipUpgradeAngmarDenLevel2
 //"Upgrade Den au niveau 2"
-"Allows the training of Trolls des neiges\n Vitesse de construction +10%"
+"Permet de recruter les Trolls des neiges \n Vitesse de construction +10%"
 End
 CONTROLBAR:TooltipUpgradeAngmarDenLevel3
 //"Upgrade Den au niveau 3"
-"Allows the training of Trolls des collines\n Vitesse de construction +25%.\n Ajoute une tour d'archers défensive"
+"Permet de recruter les Trolls des collines \n Vitesse de construction +25%.\n Ajoute une tour d'archers défensive"
 End
 TOOLTIP:LackLevel2Den
-//"Requiert : niveau 3 Troll and Wolf Den"
-"Requiert : niveau 2 Troll and Wolf Den"
+"Requiert : niveau 2 Le Repaire de Troll et La Tanière de Loup"
 End
 TOOLTIP:LackLevel3Den  
-"Requiert : niveau 3 Troll and Wolf Den"
+"Requiert : niveau 3 Le Repaire de Troll et La Tanière de Loup"
 End
 
 CONTROLBAR:ToolTipConstructAngmarHallofTwilight
-//"Recruit and Upgrade Angmar Sorcerers"
-"Recruits and upgrades Angmar Sorcerers"
+"Recrute et améliore les Sorciers d'Angmar"
 End
+
 CONTROLBAR:ToolTipPurchaseTechnologyAngmarSoulFreeze
-//"Allows Sorcerers to Specialize in the Prison de Glace power\n This makes units in the radius immobile but invulnerable for a short time."
-"Allows Sorcerers to specialize in the Prison de Glace power\n This makes units in the radius immobile but invulnerable for a short time"
+"Permet aux Sorciers de se spécialiser dans le pouvoir de Prison de Glace \n Cela rend les unités dans le rayon immobiles mais invulnérables pendant une courte période"
 End
+
 CONTROLBAR:ToolTipPurchaseTechnologyAngmarWellOfSouls
-//"Allows Sorcerers to Specialize in the Déluge d'Âmes power\n This sucks life force from the target to heal units around the Sorcerer."
-"Allows Sorcerers to specialize in the Déluge d'Âmes power\n This sucks life force from the targets to heal units around the Sorcerer"
+"Permet aux Sorciers de se spécialiser dans le pouvoir du Puits des Âmes \n Cela aspire la force de vie des cibles pour soigner les unités autour du sorcier"
 End
 
 CONTROLBAR:ToolTipPurchaseTechnologyAngmarCorpseRain
@@ -58543,14 +58522,14 @@ Map:MAPMPIslandsofValinor/Desc
 END
 
 CONTROLBAR:ToolTipBuildAngmarHallofTwilightLevel2Upgrade
-//"Allows Déluge d'Âmes\n Vitesse de construction +10%"
+//"Allows Puits des Âmes\n Vitesse de construction +10%"
 //"Allows Pluie de Cadavres\n Vitesse de construction +10%"
-"Allows Déluge d'Âmes\n Vitesse de construction +10%"
+"Allows Puits des Âmes\n Vitesse de construction +10%"
 End
 
 CONTROLBAR:TooltipBuildAngmarHallofTwilightLevel3Upgrade
 //"Allows Pluie de Cadavres\n Adds a Tour d'archers défensive.\n +25% Build Speed"
-//"Allows Déluge d'Âmes\n Adds a Tour d'archers défensive.\n +25% Build Speed"
+//"Allows Puits des Âmes\n Adds a Tour d'archers défensive.\n +25% Build Speed"
 "Allows Pluie de Cadavres\n Adds a Tour d'archers défensive.\n +25% Build Speed"
 End
 
