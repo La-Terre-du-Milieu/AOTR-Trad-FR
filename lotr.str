@@ -9193,11 +9193,11 @@ OBJECT:FeedingTrough
 END
 
 OBJECT:PileDebris
-"Debris Pile"
+"Débris Pile"
 END
 
-OBJECT:Debris
-"Debris"
+OBJECT:Débris
+"Débris"
 END
 
 OBJECT:Crow
@@ -9983,10 +9983,10 @@ OBJECT:OsgiliathRuin07
 "Ruin"
 END
 
-////Helm's Deep Structures
+////Le Gouffre de Helm Structures
 
 OBJECT:RohanHelmsDeepKeep
-"Helm's Deep Keep"
+"Le Gouffre de Helm Keep"
 END
 
 OBJECT:NBHDMainWall
@@ -9998,11 +9998,11 @@ OBJECT:NBHDRamp
 END
 
 OBJECT:NBHDDeepingW
-"Helm's Deep Deeping Wall"
+"Le Gouffre de Helm Deeping Wall"
 END
 
 OBJECT:HelmsDeepCauseway
-"Helm's Deep Causeway"
+"Le Gouffre de Helm Causeway"
 END
 
 OBJECT:RBHelmsDeepGateDoorBig
@@ -10022,123 +10022,123 @@ OBJECT:RBHelmsDeepGateDoorSmall
 END
 
 OBJECT:HelmsDeepGatehouseLeft
-"Helm's Deep Gatehouse"
+"Le Gouffre de Helm Gatehouse"
 END
 
 OBJECT:HelmsDeepGatehouseRight
-"Helm's Deep Gatehouse"
+"Le Gouffre de Helm Gatehouse"
 END
 
 OBJECT:HelmsDeepdoSectionA2
-"Helm's Deep Outer Wall"
+"Le Gouffre de Helm Outer Wall"
 END
 
 OBJECT:HelmsDeepdoSectionB1
-"Helm's Deep Outer Wall"
+"Le Gouffre de Helm Outer Wall"
 END
 
 OBJECT:HelmsDeepdoSectionD
-"Helm's Deep Outer Wall"
+"Le Gouffre de Helm Outer Wall"
 END
 
 OBJECT:HelmsDeepdiStair1
-"Helm's Deep Inner Ramp"
+"Le Gouffre de Helm Inner Ramp"
 END
 
 OBJECT:HelmsDeepRampart03
-"Helm's Deep Rampart"
+"Le Gouffre de Helm Rampart"
 END
 
 OBJECT:HelmsDeepdiSectionB
-"Helm's Deep Inner Wall"
+"Le Gouffre de Helm Inner Wall"
 END
 
 OBJECT:HelmsDeepdiSectionA8
-"Helm's Deep Inner Wall"
+"Le Gouffre de Helm Inner Wall"
 END
 
 OBJECT:HelmsDeepdoStairsA1
-"Helm's Deep Stairs"
+"Le Gouffre de Helm Stairs"
 END
 
 OBJECT:HelmsDeepRampart02
-"Helm's Deep Rampart"
+"Le Gouffre de Helm Rampart"
 END
 
 OBJECT:HelmsDeepdiSectionA7
-"Helm's Deep Inner Wall"
+"Le Gouffre de Helm Inner Wall"
 END
 
 OBJECT:HelmsDeepdiSectionA6
-"Helm's Deep Inner Wall"
+"Le Gouffre de Helm Inner Wall"
 END
 
 OBJECT:HelmsDeepdiSectionA5
-"Helm's Deep Inner Wall"
+"Le Gouffre de Helm Inner Wall"
 END
 
 OBJECT:HelmsDeepRampart04
-"Helm's Deep Rampart"
+"Le Gouffre de Helm Rampart"
 END
 
 OBJECT:HelmsDeepRampart05
-"Helm's Deep Rampart"
+"Le Gouffre de Helm Rampart"
 END
 
 OBJECT:HelmsDeepdiSectionA3
-"Helm's Deep Inner Wall"
+"Le Gouffre de Helm Inner Wall"
 END
 
 OBJECT:HelmsDeepdoBridge1
-"Helm's Deep Outer Ramp"
+"Le Gouffre de Helm Outer Ramp"
 END
 
 OBJECT:HelmsDeepdoSectionA5
-"Helm's Deep Outer Wall"
+"Le Gouffre de Helm Outer Wall"
 END
 
 OBJECT:HelmsDeepdoStairsA4
-"Helm's Deep Stairs"
+"Le Gouffre de Helm Stairs"
 END
 
 OBJECT:HelmsDeepdoStairsA5
-"Helm's Deep Stairs"
+"Le Gouffre de Helm Stairs"
 END
 
 OBJECT:HelmsDeepSectionC
-"Helm's Deep Deeping Wall"
+"Le Gouffre de Helm Deeping Wall"
 END
 
 OBJECT:HelmsDeepSectionB
-"Helm's Deep Deeping Wall"
+"Le Gouffre de Helm Deeping Wall"
 END
 
 OBJECT:HelmsDeepdwStairsA1
-"Helm's Deep Stairs"
+"Le Gouffre de Helm Stairs"
 END
 
 OBJECT:HelmsDeepCulvert
-"Helm's Deep Culvert"
+"Le Gouffre de Helm Culvert"
 END
 
 OBJECT:HelmsDeepSectionAi
-"Helm's Deep Deeping Wall"
+"Le Gouffre de Helm Deeping Wall"
 END
 
 OBJECT:HelmsDeepdwStairsA2
-"Helm's Deep Stairs"
+"Le Gouffre de Helm Stairs"
 END
 
 OBJECT:HelmsDeepArcade
-"Helm's Deep Keep"
+"Le Gouffre de Helm Keep"
 END
 
 OBJECT:HelmsDeepdiStep1
-"Helm's Deep Stairs"
+"Le Gouffre de Helm Stairs"
 END
 
 OBJECT:HelmsDeepdiStep2
-"Helm's Deep Stairs"
+"Le Gouffre de Helm Stairs"
 END
 
 OBJECT:IsengardBattleTower
@@ -12775,7 +12775,7 @@ SCRIPT:GoodDolGuldurHelpText_RepelCounterattackComplete
 END
 
 SCRIPT:GoodDolGuldurHelpText_DestroyPrison
-"Détruisez le chateau."
+"Détruisez le Château."
 END
 
 SCRIPT:GoodDolGuldurHelpText_DestroyCastle
@@ -13620,7 +13620,7 @@ SCRIPT:Objective_E04_01
 END
 
 SCRIPT:Objective_E04_02
-"Détruisez le chateau de la citadelle."
+"Détruisez le Château de la citadelle."
 END
 
 SCRIPT:Objective_E04_03
@@ -15595,7 +15595,7 @@ CONTROLBAR:ToolTipSummonEagleAllies
 END
 
 CONTROLBAR:TooltipCampaignSummonEagleAllies
-"Summons a Giant Eagle \n Clic gauche sélectionner Clic gauche sur zone ciblé"
+"Summons a Géant Eagle \n Clic gauche sélectionner Clic gauche sur zone ciblé"
 END
 
 CONTROLBAR:SummonDunedainAllies
@@ -15944,10 +15944,10 @@ CONTROLBAR:GondorFaramirHotkey
 END
 
 CONTROLBAR:ToolTipBuildDamrod
-"Hero Unit. Skilled with bow and sword"
+"Héros Unit. Skilled with bow and sword"
 END
 CONTROLBAR:GondorDamrodRecruit
-"Hero Unit. Recruit a fighter skilled with bow and sword"
+"Héros Unit. Recruit a fighter skilled with bow and sword"
 END
 CONTROLBAR:GondorDamrodRevive
 "Rappelez Damrod à la vie"
@@ -20870,7 +20870,7 @@ END
 
 LW:Good_Helms_Deep
 // Good Campaign help text
-"Click on Helm's Deep."
+"Click on Le Gouffre de Helm."
 END
 
 LW:Good_Isengard
@@ -20917,7 +20917,7 @@ END
 // EVIL Living World
 LW:Evil_HelmsDeep
 // Evil Campaign help text
-"Attack Helm's Deep."
+"Attack Le Gouffre de Helm."
 END
 
 
@@ -21416,7 +21416,7 @@ End
 
 LW:DisplayNameHelmsDeep
 // Region display name in the living world
-"Helm's Deep"
+"Le Gouffre de Helm"
 End
 
 LW:DisplayNameHighPass
@@ -23075,12 +23075,12 @@ BANNERUI:PluralMordorMumakil
 End
 
 BANNERUI:MordorEasterling
-// Singluar name of the Mordor Easterling category displayed in the army summary for WotR
+// Singluar name of the Mordor Orientaux category displayed in the army summary for WotR
 "Oriental"
 End
 
 BANNERUI:MordorEasterlings
-// Plural name of the Mordor Easterling category displayed in the army summary for WotR
+// Plural name of the Mordor Orientaux category displayed in the army summary for WotR
 "Orientaux"
 End
 
@@ -24967,11 +24967,11 @@ OBJECT:HordeMordorEasterlingEasterlingCombo
 END
 
 OBJECT:HordeMordorEasterlingEasterlingCombo3
-"Easterling Phalange - Easterling Swordsmen"
+"Orientaux Phalange - Orientaux Swordsmen"
 END
 
 OBJECT:HordeMordorEasterlingEasterlingCombo2
-"Easterling Swordsmen - Easterling Archers"
+"Orientaux Swordsmen - Orientaux Archers"
 END
 
 OBJECT:HordeMordorHaradrim
@@ -25076,7 +25076,7 @@ Map:MAPEVILFangorn
 END
  
 Map:MAPEVILHelmsDeep
-"Evil Helm's Deep"
+"Evil Le Gouffre de Helm"
 END
  
 Map:MAPEVILIsengard
@@ -25116,7 +25116,7 @@ Map:MAPGOODFangorn
 END
  
 Map:MAPGOODHelmsDeep
-"Good Helm's Deep"
+"Good Le Gouffre de Helm"
 END
  
 Map:MAPGOODIsengard
@@ -26183,7 +26183,7 @@ BONUSROUND:EAVESFANGORNMNP
 "Bonus : Help Merry and Pippin escape."
 END
 
-//Good Helm's Deep
+//Good Le Gouffre de Helm
 BONUSROUND:HELMEOMER
 "Call in Éomer's Army when he arrives."
 END
@@ -26240,7 +26240,7 @@ END
 
 //EVIL HELM's DEEP
 BONUSROUND:HELMDESTORY
-"Destroy Helm's Deep."
+"Destroy Le Gouffre de Helm."
 END
 
 BONUSROUND:HELMHEROES
@@ -31193,7 +31193,7 @@ END
 
 
 ///////////////////
-// Create-a-Hero //
+// Create-a-Héros //
 ///////////////////
 
 APT:History
@@ -31390,7 +31390,7 @@ STRATEGICHUD:BuildTimeSingularLabel
 END
 
 STRATEGICHUD:BuildTimePluralLabel
-"Construire une Time: %d Turns"
+"Construire une Time: %d en cours"
 END
 
 STRATEGICHUD:ToggleSelectionDetailsTitle
@@ -32105,7 +32105,7 @@ CONTROLBAR:SpecialPowerToolTipIncorruptable
 END
 
 CONTROLBAR:SummonWillow
-"Old Man &Willow"
+"Le Vieil Homme-Saule (&w)"
 END
 
 OBJECT:OldManWillow
@@ -32302,7 +32302,7 @@ CONTROLBAR:SpecialAbilityWildShelobTunnel
 END
 
 CONTROLBAR:SpecialAbilityFireDrakeInferno
-"Inferno"
+"L'Enfer"
 END
 
 CONTROLBAR:SpecialAbilityFiresOfDoom
@@ -32488,9 +32488,8 @@ CONTROLBAR:BlackRiderMount
 "Monter\n Descendre"
 End
 
-
 CONTROLBAR:CitadelCatapultUpgrade
-"Untamed Allegiance"
+"Allégeance indomptée"
 End
 
 CONTROLBAR:Command_DwarvenCastleWallHub_BeginRamp
@@ -32510,7 +32509,7 @@ CONTROLBAR:Command_GondorCastleWallHub_SmallWallSpan
 End
 
 CONTROLBAR:ConstructCorsairShip
-"Corsair Arrow Ship"
+"Navire de Flèches Corsaire"
 End
 
 CONTROLBAR:ConstructDwarvenBatteringRam
@@ -32590,7 +32589,7 @@ CONTROLBAR:ConstructMordorAttackTroll
 End
 
 CONTROLBAR:ConstructWildAttackTroll
-"Gundabad &Stone-troll"
+"Troll de Pierre de Gundabad (&s)"
 End
 
 CONTROLBAR:ConstructMordorBattleTower
@@ -32612,10 +32611,6 @@ End
 CONTROLBAR:ConstructRohanRohirrimArcherHorde
 "Archers Rohirrim"
 End
-
-
-
-
 
 CONTROLBAR:DainLeadership
 "Charisme"
@@ -32662,7 +32657,7 @@ CONTROLBAR:GondorCastleWallHub
 End
 
 CONTROLBAR:IsengardWargSentryUnleash
-"Unleash Warg"
+"Warg déchaîner"
 End
 
 CONTROLBAR:IvoryTowerVision
@@ -32686,11 +32681,11 @@ CONTROLBAR:Messenger
 End
 
 CONTROLBAR:MessengerDescription
-"Chat with other players"
+"Discussion avec les autre joueurs"
 End
 
 CONTROLBAR:MithlondSentryZephyrStrike
-"Zephyr Strike"
+"Frappe du Zéphyr"
 End
 
 CONTROLBAR:MordorMouthOfSauronRevive
@@ -32698,11 +32693,11 @@ CONTROLBAR:MordorMouthOfSauronRevive
 End
 
 CONTROLBAR:OCLTimerDesc
-"Needs Description"
+"Description des besoins"
 End
 
 CONTROLBAR:PlanningMode
-"Mode Planification"
+"Planification du Mode"
 End
 
 CONTROLBAR:PlanningModeDescription
@@ -32741,8 +32736,6 @@ CONTROLBAR:ShelobWebbing
 "Entoilage"
 End
 
-
-
 CONTROLBAR:SpecialAbilityBatCloud
 "Nuée de chauves-souris"
 End
@@ -32755,8 +32748,6 @@ CONTROLBAR:Command_CreateAHero_CorruptedManToggleWeapon
 "Changer d'arme"
 End
 
-
-
 CONTROLBAR:SpecialAbilityDwarvenDemolisherDeploy
 "Déploiement"
 End
@@ -32764,11 +32755,6 @@ End
 CONTROLBAR:SpecialAbilityGoblinFighterPoisonedBlades
 "Lames empoisonnées"
 End
-
-
-
-
-
 
 CONTROLBAR:SpecialAbilitySummonedDragonReposition
 "&Reposition"
@@ -32889,7 +32875,6 @@ CONTROLBAR:ToolTipConstructMordorBattleTower
 End
 
 CONTROLBAR:ToolTipConstructGuldurRuinousTower
-//"Short range defensive tower"
 "Tour défensive qui tire des flèches sur les ennemis à proximité \n Furtive près des arbres \n Génére une petite quantité de ressources basée sur le terrain disponible \n Réduit le cout des batisseurs de l'ombre"
 End
 
@@ -33022,7 +33007,6 @@ CONTROLBAR:TooltipFarsight
 End
 
 CONTROLBAR:TooltipIvoryTowerVision
-//"Reveals the entire shroud for 30 seconds"
 "Révèle le brouillard en entier pendant 30 secondes \n Détecte les unités furtives"
 End
 
@@ -33071,11 +33055,11 @@ CONTROLBAR:TooltipUpgradeMordorTavernLevel3
 End
 
 CONTROLBAR:TrainAllies
-"Train Allies"
+"Forme des Alliées"
 End
 
 CONTROLBAR:TrueSight
-"TrueSight"
+"Vraie vue"
 End
 
 CONTROLBAR:UnpackFurnace
@@ -33191,7 +33175,7 @@ OBJECT:BatCloud
 End
 
 OBJECT:BattleFlag
-"Battle Flag"
+"Drapeau de Bataille"
 End
 
 OBJECT:BlueMountainGate
@@ -33207,11 +33191,11 @@ OBJECT:BlueMoutainBridge
 End
 
 OBJECT:CINE_Pine1
-"Pine"
+"Dépérir"
 End
 
 OBJECT:CINE_Pine2
-"Pine"
+"Dépérir"
 End
 
 OBJECT:Canoe
@@ -33227,7 +33211,7 @@ OBJECT:CirithUngol_B
 End
 
 OBJECT:Conyard
-"Con Yard"
+"Arnaque"
 End
 
 OBJECT:CorsairBanner
@@ -33235,19 +33219,19 @@ OBJECT:CorsairBanner
 End
 
 OBJECT:Cow
-"Cow"
+"Intimider"
 End
 
 OBJECT:CreateAHero
-"Create a Captain"
+"Créer un Capitaine"
 End
 
 OBJECT:Create_A_Hero_Platform
-"Platform"
+"Platforme"
 End
 
 OBJECT:Culvert
-"Culvert"
+"Caniveau"
 End
 
 OBJECT:DaleBridge
@@ -33315,7 +33299,7 @@ OBJECT:DolGoldurBridgeR
 End
 
 OBJECT:DolGoldurCastle
-"Castle"
+"Château"
 End
 
 OBJECT:DolGoldurCatwalk
@@ -33335,7 +33319,7 @@ OBJECT:DolGoldurPrison
 End
 
 OBJECT:DolGoldurSmallGate
-"Dol Guldur Perimeter Gate"
+"Porte de périmètre de Dol Guldur "
 End
 
 OBJECT:DolGoldurWallSegmentSmall
@@ -33423,7 +33407,7 @@ OBJECT:DwarfCave
 End
 
 OBJECT:DwarfMiddle
-"Dwarf"
+"Nain"
 End
 
 OBJECT:DwarvenBattleWagonAxeThrower
@@ -33439,11 +33423,11 @@ OBJECT:DwarvenBattleWagonMenOfDale
 End
 
 OBJECT:DwarvenBunker
-"Hall"
+"Salle"
 End
 
 OBJECT:DwarvenBunkerDescription
-"Garrisonable Structure défensive"
+"Structure de Garnison défensive"
 End
 
 OBJECT:DwarvenCastleWallCatapult
@@ -33459,19 +33443,19 @@ OBJECT:DwarvenCastleWallHub
 End
 
 OBJECT:DwarvenGuard
-"Dwarven Guard"
+"Garde Nain"
 End
 
 OBJECT:DwarvenGuardian_C
-"Gardien nain"
+"Gardien Nain"
 End
 
 OBJECT:DwarvenHallExpansion
-"Extension Hall"
+"Salle d'Extension"
 End
 
 OBJECT:DwarvenLoneTower
-"Dwarven Lone Tower"
+"Tour Solitaire Naine"
 End
 
 OBJECT:DwarvenLoneTowerDescription
@@ -33487,7 +33471,7 @@ OBJECT:DwarvenRuin
 End
 
 OBJECT:DwarvenSummonedCitadel
-"Dwarven Citadel"
+"Citadelle Naine"
 End
 
 OBJECT:DwarvenUndermineMineShaft
@@ -33515,23 +33499,23 @@ OBJECT:Easterling_Banner4
 End
 
 OBJECT:Easterling_Barracks
-"Easterling Caserne"
+"Orientaux Caserne"
 End
 
 OBJECT:Easterling_House_01
-"Easterling House"
+"Orientaux House"
 End
 
 OBJECT:Easterling_House_02
-"Easternling House"
+"Maison Orientaux"
 End
 
 OBJECT:Easterling_Rack1
-"Weapon Rack"
+"Porte-Armes"
 End
 
 OBJECT:Easterling_Rack2
-"Weapon Rack"
+"Porte-Armes"
 End
 
 OBJECT:Easterling_Tower
@@ -33539,11 +33523,11 @@ OBJECT:Easterling_Tower
 End
 
 OBJECT:Easterling_WindMill
-"WindMill"
+"Moulin à Vent"
 End
 
 OBJECT:ElvenCastleWallGate
-"Wall Gate"
+"Porte Murale"
 End
 
 OBJECT:ElvenCastleWallHub
@@ -33559,7 +33543,7 @@ OBJECT:ElvenEntMootDescription
 End
 
 OBJECT:ElvenFloodgateExpansion
-"Floodgate Expansion"
+"Extension Porte d'écluse"
 End
 
 OBJECT:ElvenMirkwoodArcherBanner
@@ -33567,7 +33551,7 @@ OBJECT:ElvenMirkwoodArcherBanner
 End
 
 OBJECT:ElvenMithlondSentry
-"Mithlond Sentry"
+"Sentinelle de Mithlond"
 End
 
 OBJECT:ElvenPorter
@@ -33583,11 +33567,11 @@ OBJECT:ElvenSentryTowerDescription
 End
 
 OBJECT:ElvenShipwreck01
-"Elven Shipwreck"
+"Naufrage Elfes"
 End
 
 OBJECT:ElvenShipwreck02
-"Elven Shipwreck"
+"Naufrage Elfes"
 End
 
 OBJECT:ElvenTransportShip
@@ -33599,7 +33583,7 @@ OBJECT:ElvenBombardShip
 End
 
 OBJECT:ElvenStormShip
-"Vaisseau tempête elfe"
+"Vaisseau Tempête elfe"
 End
 
 OBJECT:ElvenVigilantEntExpansion
@@ -33611,23 +33595,23 @@ OBJECT:ElvenWatchtowerExpansion
 End
 
 OBJECT:ElvenWorker
-"Worker"
+"Travailleur"
 End
 
 OBJECT:EnedwaithCliff01
-"Enedwaith Cliff 1"
+"Enedwaith Falaise 1"
 End
 
 OBJECT:EnedwaithCliff02
-"Enedwaith Cliff 2"
+"Enedwaith Falaise 2"
 End
 
 OBJECT:EnedwaithCliff03
-"Enedwaith Cliff 3"
+"Enedwaith Falaise 3"
 End
 
 OBJECT:EnedwaithCliff04
-"Enedwaith Cliff 4"
+"Enedwaith Falaise 4"
 End
 
 OBJECT:EreaborBattleTower
@@ -33639,7 +33623,7 @@ OBJECT:EreaborMainDoor
 End
 
 OBJECT:EttenmoorsGoblinKingFortress
-"Forteresse du roi Gobelin"
+"Forteresse du Roi Gobelin"
 End
 
 OBJECT:EvilMenTransportShip
@@ -33647,19 +33631,19 @@ OBJECT:EvilMenTransportShip
 End
 
 OBJECT:EvilPort
-"Dock"
+"Quai"
 End
 
 OBJECT:EvilPortDescription
-"Dock Description"
+"Quai Description"
 End
 
 OBJECT:ExpBonus
-"Exp Bonus"
+"Bonus d'Expérience"
 End
 
 OBJECT:FallingRocks
-"Falling Rocks"
+"Chutes de Pierres"
 End
 
 OBJECT:FarmerMaggots
@@ -33671,7 +33655,7 @@ OBJECT:FireDrakeLair
 End
 
 OBJECT:FlamingInfantry
-"Flaming Infantry"
+"Infantrie Flamoyante"
 End
 
 OBJECT:ForStronghold
@@ -33735,7 +33719,7 @@ OBJECT:FornostWallPosternGate
 End
 
 OBJECT:Frozen
-"Frozen"
+"Gelé"
 End
 
 OBJECT:GenericFireDrake
@@ -33743,19 +33727,19 @@ OBJECT:GenericFireDrake
 End
 
 OBJECT:GiantSkull01
-"Giant Skull 1"
+"Géant Crâne 1"
 End
 
 OBJECT:GiantSkull02
-"Giant Skull 2"
+"Géant Crâne 2"
 End
 
 OBJECT:GiantSpider
-"Giant Araignée"
+"Géante Araignée"
 End
 
 OBJECT:GoblinKingFortressTower
-"Forteresse Tower"
+"Tour Forteresse"
 End
 
 OBJECT:GondorBuildingGeneral1
@@ -33795,15 +33779,15 @@ OBJECT:GondorCastleBarracks_temp
 End
 
 OBJECT:GondorCastleFoundation_temp
-"Fondation du chateau"
+"Fondation du Château"
 End
 
 OBJECT:GondorCastleKeep_temp
-"Gondor Keep"
+"Gondor Donjon"
 End
 
 OBJECT:GondorCastleWallHub
-"Extension Assise"
+"Extension d'Assise"
 End
 
 OBJECT:GondorCastleWallUpgradeNode
@@ -33863,7 +33847,7 @@ OBJECT:GoodPortDescription
 End
 
 OBJECT:HaradBuildingArmyK
-"Harad Army"
+"Harad Armée"
 End
 
 OBJECT:HaradBuildingBarrack
@@ -33875,7 +33859,7 @@ OBJECT:HaradBuildingBarrack2
 End
 
 OBJECT:HaradBuildingChurch
-"Harad Church"
+"Harad Eglise"
 End
 
 OBJECT:HaradBuildingFarm
@@ -33883,95 +33867,95 @@ OBJECT:HaradBuildingFarm
 End
 
 OBJECT:HaradBuildingWatch
-"Harad Watchtower"
+"Harad Tour de Guet"
 End
 
 OBJECT:HaradrimTent
-"Haradrim Tent"
+"Haradrim Tente"
 End
 
 OBJECT:HelmsDeepGate1
-"Helm's Deep Gate 1"
+"Le Gouffre de Helm Porte 1"
 End
 
 OBJECT:HelmsDeepGate2
-"Helm's Deep Gate 2"
+"Le Gouffre de Helm Porte 2"
 End
 
 OBJECT:HelmsDeepPavement01
-"Helm's Deep Pavement 1"
+"Le Gouffre de Helm Pavement 1"
 End
 
 OBJECT:HelmsDeepPavement02
-"Helm's Deep Pavement 2"
+"Le Gouffre de Helm Pavement 2"
 End
 
 OBJECT:HelmsDeepRampart05Invisible
-"Helm's Deep Rampart 1"
+"Le Gouffre de Helm Rampart 1"
 End
 
 OBJECT:HelmsDeepRampart05a
-"Helm's Deep Rampart 2"
+"Le Gouffre de Helm Rampart 2"
 End
 
 OBJECT:HelmsDeepdiSectionA4
-"Helm's Deep Architecture"
+"Le Gouffre de Helm Architecture"
 End
 
 OBJECT:HelmsDeepdiWall2_Prop
-"Helm's Deep Wall"
+"Le Gouffre de Helm Mur"
 End
 
 OBJECT:HelmsDeepdoSectionA2_Prop
-"Helm's Deep Architecture"
+"Le Gouffre de Helm Architecture"
 End
 
 OBJECT:HeroCarosel01
-"Hero Carosel"
+"Héros Carosel"
 End
 
 OBJECT:Hero_Gondor01
-"Hero Gondor 1"
+"Héros Gondor 1"
 End
 
 OBJECT:Hero_Gondor02
-"Hero Gondor 2"
+"Héros Gondor 2"
 End
 
 OBJECT:Hero_Gondor03
-"Hero Gondor 3"
+"Héros Gondor 3"
 End
 
 OBJECT:Hero_Gondor04
-"Hero Gondor 4"
+"Héros Gondor 4"
 End
 
 OBJECT:Hero_Gondor05
-"Hero Gondor 5"
+"Héros Gondor 5"
 End
 
 OBJECT:Hero_Gondor06
-"Hero Gondor 6"
+"Héros Gondor 6"
 End
 
 OBJECT:Hero_Gondor07
-"Hero Gondor 7"
+"Héros Gondor 7"
 End
 
 OBJECT:Hero_Ise01
-"Hero Isengard"
+"Héros Isengard"
 End
 
 OBJECT:HighPassTower
-"High Pass Tower"
+"Tour Haut Col"
 End
 
 OBJECT:HobbitWorkPit
-"Hobbit Work Pit"
+"Elaborer Hobbit"
 End
 
 OBJECT:HobbitWorkPitDescription
-"Hobbit Work Pit Description"
+"Description Elaborer Hobbit"
 End
 
 OBJECT:HordeHobbits
@@ -33979,7 +33963,7 @@ OBJECT:HordeHobbits
 End
 
 OBJECT:HordeRivendellHobbits
-"Bounders"
+"Douanier"
 END
 
 OBJECT:InnTavern
@@ -34191,7 +34175,7 @@ OBJECT:MirkBridge
 End
 
 OBJECT:MirkBridgeDescription
-"Bridge Description"
+"Description du Ponts"
 End
 
 
@@ -34231,43 +34215,43 @@ STRATEGICHUD:RegionAbsoluteBonus
 END
 
 STRATEGICHUD:RegionCommandPointBonusTooltip
-"Command Point Bonus"
+"Bonus de Point de Commandement "
 END
 
 STRATEGICHUD:RegionAttackBonusTooltip
-"Attack Bonus"
+"Bonus d'Attaque"
 END
 
 STRATEGICHUD:RegionDefenseBonusTooltip
-"Defense Bonus"
+"Bonus de Défense "
 END
 
 STRATEGICHUD:RegionExperienceBonusTooltip
-"Experience Bonus"
+"Bonus d'Experience "
 END
 
 STRATEGICHUD:RegionResourceBonusTooltip
-"Resource Multiplier Bonus"
+"Bonus Multiplicateur de Ressource"
 END
 
 STRATEGICHUD:RegionPowerPointBonusTooltip
-"Power Points Bonus"
+"Bonus des Points de Pouvoir"
 END
 
 STRATEGICHUD:ArmyCurrentOverMaxCommandPointsTooltip
-"Army's current command points / Maximum command points"
+"Points de Commandement actuels de l'Armée / Points de Commandement Maximum"
 END
 
 STRATEGICHUD:ConstructionOneTurnRemaining
-"1 Turn"
+"1 en cours"
 END
 
 STRATEGICHUD:ConstructionTurnsRemaining
-"%d Turns"
+"%d en cours"
 END
 
 STRATEGICHUD:ConstructionTurnsRemainingTooltip
-"Construction turns remaining"
+"Construction en cours"
 END
 
 OBJECT:MordorAttackTroll
@@ -34295,7 +34279,7 @@ OBJECT:MordorBattleTower
 End
 
 OBJECT:MordorCastleWallGate
-"Wall Gate"
+"Porte murale"
 End
 
 OBJECT:MordorCastleWallHub
@@ -34319,7 +34303,7 @@ OBJECT:MordorFortress
 End
 
 OBJECT:MordorFortressBridge
-"Forteresse Pont"
+"Pont de Forteresse"
 End
 
 OBJECT:MordorFortressDescription
@@ -34339,19 +34323,19 @@ OBJECT:MordorMouthOfSauron
 End
 
 OBJECT:MordorPagoda
-"Pagoda"
+"Pagode"
 End
 
 OBJECT:MordorPagodaDescription
-"Pagoda Description"
+"Description d'une Pagode"
 End
 
 OBJECT:MordorRocks
-"Rocks"
+"Pierre"
 End
 
 OBJECT:MordorTavernDescription
-"Trains Corsaires d'Umbar\n Recherche des améliorations d'unités"
+"Forme des Corsaires d'Umbar \n Recherche des améliorations d'unités"
 End
 
 OBJECT:MordorWallCatapultExpansion
@@ -34359,7 +34343,7 @@ OBJECT:MordorWallCatapultExpansion
 End
 
 OBJECT:MoriaAquaduct01
-"Moria Aquaduct"
+"Aquaduc de la Moria"
 End
 
 OBJECT:MurderOfCrows
@@ -34367,11 +34351,11 @@ OBJECT:MurderOfCrows
 End
 
 OBJECT:NBHDKeepWall
-"Keep Wall"
+"Tenir le Mur"
 End
 
 OBJECT:NecromancerStatue
-"Necromancer Statue"
+"Statue du Necromancien "
 End
 
 OBJECT:NightGlow
@@ -34379,7 +34363,7 @@ OBJECT:NightGlow
 End
 
 OBJECT:NeutralWorkPit
-"Work Pit"
+"Elaborer"
 End
 
 OBJECT:Outpost
@@ -34403,43 +34387,43 @@ OBJECT:Particle03
 End
 
 OBJECT:PelennorFieldsBattleDebris01
-"Debris des Champs du Pelennor 1"
+"Débris des Champs du Pelennor 1"
 End
 
 OBJECT:PelennorFieldsBattleDebris02
-"Debris des Champs du Pelennor 2"
+"Débris des Champs du Pelennor 2"
 End
 
 OBJECT:PelennorFieldsBattleDebris03
-"Debris des Champs du Pelennor 3"
+"Débris des Champs du Pelennor 3"
 End
 
 OBJECT:PelennorFieldsBattleDebris04
-"Debris des Champs du Pelennor 4"
+"Débris des Champs du Pelennor 4"
 End
 
 OBJECT:PelennorFieldsBattleDebris05
-"Debris des Champs du Pelennor 5"
+"Débris des Champs du Pelennor 5"
 End
 
 OBJECT:PelennorFieldsBattleDebris06
-"Debris des Champs du Pelennor 6"
+"Débris des Champs du Pelennor 6"
 End
 
 OBJECT:PelennorFieldsBattleDebris07
-"Debris des Champs du Pelennor 7"
+"Débris des Champs du Pelennor 7"
 End
 
 OBJECT:PelennorFieldsBattleDebris08
-"Debris des Champs du Pelennor 8"
+"Débris des Champs du Pelennor 8"
 End
 
 OBJECT:PelennorFieldsBattleDebris09
-"Debris des Champs du Pelennor 9"
+"Débris des Champs du Pelennor 9"
 End
 
 OBJECT:PelennorFieldsBattleDebris10
-"Debris des Champs du Pelennor 10"
+"Débris des Champs du Pelennor 10"
 End
 
 OBJECT:RBCampFence
@@ -34451,7 +34435,7 @@ OBJECT:RBCampFence2
 End
 
 OBJECT:RBSizeTemplate
-"Size Template"
+"Taille Gabarit"
 End
 
 OBJECT:Rivendell
@@ -34475,7 +34459,7 @@ OBJECT:RivendellWalkwayRamp
 End
 
 OBJECT:RockFall
-"Rock Fall"
+"Chute de Pierre"
 End
 
 OBJECT:Rohan
@@ -34492,7 +34476,7 @@ OBJECT:RohanArmory
 End
 
 OBJECT:RohanBaseDefenseFoundation
-"Rohan Defense Foundation"
+"Fondation de Défense du Rohan"
 End
 
 OBJECT:RohanBattleTower
@@ -34512,23 +34496,23 @@ OBJECT:RohanCastleBaseKeep
 End
 
 OBJECT:RohanCastleDoor
-"Porte du chateau du Rohan"
+"Porte du Château du Rohan"
 End
 
 OBJECT:RohanCastleElevator
-"Rohan Elevator"
+"Rohan Elévateur"
 End
 
 OBJECT:RohanCastleGate
-"Porte du chateau du Rohan"
+"Porte du Château du Rohan"
 End
 
 OBJECT:RohanCastleTower
-"Tour du chateau du Rohan"
+"Tour du Château du Rohan"
 End
 
 OBJECT:RohanCastleWall
-"Mur du chateau du Rohan"
+"Mur du Château du Rohan"
 End
 
 OBJECT:RohanFarm
@@ -34581,15 +34565,15 @@ OBJECT:RohanWell
 End
 
 OBJECT:Rubble
-"Rubble"
+"Décombres"
 End
 
 OBJECT:Sarcophagus
-"Sarcophagus"
+"Sarcophage"
 End
 
 OBJECT:Sheep
-"Sheep"
+"Mouton"
 End
 
 OBJECT:ShipWright
@@ -34669,7 +34653,7 @@ OBJECT:Test
 End
 
 OBJECT:Test_CorsairSky
-"Corsair Sky"
+"Ciel Corsaire"
 End
 
 OBJECT:TheGreenDragon
@@ -35087,7 +35071,7 @@ CreateAHero:BlingDesc_TrollSword
 END
 
 CreateAHero:BlingDesc_Westron
-"Epée des Ouesterons"
+"Epée des Ouistrain"
 END
 
 CreateAHero:BlingDesc_WizardStaff01
@@ -35138,15 +35122,15 @@ CreateAHero:BlingDesc_CaptainOfGondor_CHSP02
 End
 
 CreateAHero:BlingName_CG_CHBOD01
-"Capitaine de Gondor Breastplate 1"
+"Capitaine de Gondor Plastron 1"
 END
 
 CreateAHero:BlingName_CG_CHBOD02
-"Capitaine de Gondor Breastplate 2"
+"Capitaine de Gondor Plastron 2"
 END
 
 CreateAHero:BlingName_CG_CHBOD03
-"Capitaine de Gondor Breastplate 3"
+"Capitaine de Gondor Plastron 3"
 END
 
 CreateAHero:BlingName_CAPG_CHS01
@@ -35339,7 +35323,7 @@ CreateAHero:BlingName_Wizard_CHH01
 END
 
 CreateAHero:BlingName_Wizard_CHH02
-"Wizard Casque 2"
+"Casque de magicien 2"
 END
 
 CreateAHero:BlingName_Wizard_CHH03
@@ -35415,7 +35399,7 @@ CreateAHero:BlingName_Dwarf_CHH02
 End
 
 CreateAHero:BlingName_Dwarf_CHH03
-"Dwarf 3"
+"Nain 3"
 End
 
 CreateAHero:BlingName_Dwarf_CHSP01
@@ -35616,7 +35600,7 @@ CreateAHero:BlingName_UK_CHBOD03
 END
 
 //////////////////////
-///  Easterling Gear
+///  Orientaux Gear
 ///////////////////////
 
 CreateAHero:BlingName_CorruptedMan_1_CHB01
@@ -35761,7 +35745,7 @@ CreateAHero:BlingName_TrollSword
 END
 
 CreateAHero:BlingName_Westron
-"Epée Westron"
+"Epée Ouistrain"
 END
 
 
@@ -36467,7 +36451,7 @@ DIALOGEVENT:MGRiven_Gobl001subtitle
 END
 
 DIALOGEVENT:MGRiven_Gobl002subtitle
-"*Bring up.. the Mountain Giant!"
+"*Bring up.. the Mountain Géant!"
 END
 
 DIALOGEVENT:MGRiven_OffE012subtitle
@@ -36475,7 +36459,7 @@ DIALOGEVENT:MGRiven_OffE012subtitle
 END
 
 DIALOGEVENT:MGRiven_OffE013subtitle
-"*Bring down that Giant before it's too late!"
+"*Bring down that Géant before it's too late!"
 END
 
 DIALOGEVENT:MGRiven_Elro006subtitle
@@ -37303,11 +37287,11 @@ DIALOGEVENT:MELorie_OffG003subtitle
 END
 
 DIALOGEVENT:MELorie_Mout003subtitle
-"*They have a Giant held captive. Free it and it will help us destroy the Elves!"
+"*They have a Géant held captive. Free it and it will help us destroy the Elves!"
 END
 
 DIALOGEVENT:MELorie_Mout004subtitle
-"*Another Giant! Our army will grow yet stronger!"
+"*Another Géant! Our army will grow yet stronger!"
 END
 
 DIALOGEVENT:MELorie_Mout005subtitle
@@ -37375,15 +37359,15 @@ DIALOGEVENT:MELorie_Hald006subtitle
 END
 
 DIALOGEVENT:MELorie_Elf1001subtitle
-"*Do not let them free the Giant!"
+"*Do not let them free the Géant!"
 END
 
 DIALOGEVENT:MELorie_Elf2001subtitle
-"*The Giant! They will release it upon us!"
+"*The Géant! They will release it upon us!"
 END
 
 DIALOGEVENT:MELorie_Elf1002subtitle
-"*It's too late! The Giant has been freed!"
+"*It's too late! The Géant has been freed!"
 END
 
 DIALOGEVENT:MELorie_Elf1003subtitle
@@ -38715,11 +38699,11 @@ DIALOGEVENT:MGRiven_Elf1007subtitle
 END
 
 DIALOGEVENT:MGRiven_Arwe012subtitle
-"*A Giant! It will destroy Rivendell!"
+"*A Géant! It will destroy Rivendell!"
 END
 
 DIALOGEVENT:MGRiven_Elf2003subtitle
-"*It's a Giant! It will destroy Rivendell!"
+"*It's a Géant! It will destroy Rivendell!"
 END
 
 DIALOGEVENT:MGRiven_Elf1008subtitle
@@ -39491,7 +39475,7 @@ DIALOGEVENT:MELorie_OffG055subtitle
 END
 
 DIALOGEVENT:MELorie_OffG056subtitle
-"*You heard him, move in and free the Giant!"
+"*You heard him, move in and free the Géant!"
 END
 
 DIALOGEVENT:MELorie_OffG057subtitle
@@ -39503,7 +39487,7 @@ DIALOGEVENT:MELorie_OffG059subtitle
 END
 
 DIALOGEVENT:MELorie_OffG058subtitle
-"*Don't squander the Giant's strength on that rabble - save it for destroying the buildings!"
+"*Don't squander the Géant's strength on that rabble - save it for destroying the buildings!"
 END
 
 DIALOGEVENT:MELorie_OffG060subtitle
@@ -40527,7 +40511,7 @@ DIALOGEVENT:MTrAdv_OffT054subtitle
 END
 
 DIALOGEVENT:MTrAdv_OffT055subtitle
-"*Next, I would recommend taking the Rôdeurs that joined you and have them cast their volley on the hill to the south of the base. The fire that you start there should spread to the Giant and burn him to the ground!"
+"*Next, I would recommend taking the Rôdeurs that joined you and have them cast their volley on the hill to the south of the base. The fire that you start there should spread to the Géant and burn him to the ground!"
 END
 
 DIALOGEVENT:MTrAdv_OffT056subtitle
@@ -44285,17 +44269,17 @@ CONTROLBAR:ToolTipCAH_Sapper_Level3
 END
 
 CONTROLBAR:ToolTipCAH_DwarfCharge_L1
-//"Hero can crush enemies for a short duration"
+//"Héros can crush enemies for a short duration"
 "Le héros peut écraser ses ennemis pour une courte durée.\n Il gagne +100% armure and +50% dégâts"
 End
 
 CONTROLBAR:ToolTipCAH_DwarfCharge_L2
-//"Hero can crush enemies for a medium duration"
+//"Héros can crush enemies for a medium duration"
 "Le héros peut écraser ses ennemis pour une durée moyenne\n Il gagne +100% armure and +100% dégâts"
 End
 
 CONTROLBAR:ToolTipCAH_DwarfCharge_L3
-//"Hero can crush enemies and is immune to arrows for a long duration"
+//"Héros can crush enemies and is immune to arrows for a long duration"
 "Le héros peut écraser ses ennemis et est insensible aux flèches pour une longue durée\n Il gagne +100% armure and +100% dégâts"
 End
 
@@ -51281,7 +51265,7 @@ OBJECT:PalantirShard
 "Fragment de Palantír"
 END
 
-//-----------New Create-A-Hero "No Power" Feature --------------------
+//-----------New Create-A-Héros "No Power" Feature --------------------
 
 CONTROLBAR:SpecialAbilityNoPower
 // Description of what the "No Power" power is in the Palantír.  (Never seen?)
@@ -51295,7 +51279,7 @@ CONTROLBAR:ToolTipSpecialAbilityNoPower
 End
 
 TOOLTIP:AddSpecialAbilityNoPower
-// Tooltip on the "Add No Power" button in the Create-A-Hero Powers UI
+// Tooltip on the "Add No Power" button in the Create-A-Héros Powers UI
 "Remplissez cet emplacement de pouvoir sans augmentation du coût de construction des héros"
 End
 	
@@ -51321,7 +51305,7 @@ END
 
 
 
-//-----------New Strings for Create-A-Hero Olog-hai class --------------------
+//-----------New Strings for Create-A-Héros Olog-hai class --------------------
 
 // JH found this edit added in version 115.  Not sure why this was here because this string is already defined 
 // correctly in the base game. Commenting it out instead of removing it.
@@ -60708,8 +60692,8 @@ CONTROLBAR:RadagastSummonFamiliar
 END
 
 CONTROLBAR:TooltipRadagastSummonFamiliar
-//"Hero summons a flock of birds that have an excellent view distance and detect stealth \n Clic gauche sur l'icône puis clic gauche sur une zone praticable"
-//"Hero summons a flock of birds that reduce enemy armor and damage and nullify enemy Charisme \n Clic gauche sur l'icône puis clic gauche sur une zone praticable"
+//"Héros summons a flock of birds that have an excellent view distance and detect stealth \n Clic gauche sur l'icône puis clic gauche sur une zone praticable"
+//"Héros summons a flock of birds that reduce enemy armor and damage and nullify enemy Charisme \n Clic gauche sur l'icône puis clic gauche sur une zone praticable"
 "Type d'Action : Pénalité active\nRadagast invoque une nuée d'oiseaux qui révèlent le brouillard de guerre et détecte les unités furtives.\nLes unités ennemies proches subissent -25% dégâts, -20% armure et leurs bonus de charisme sont annulés (Pénalité non cumulable)."
 End
 
@@ -61050,7 +61034,7 @@ CONTROLBAR:ToolTipIsengardUglukReinforcements
 END
 
 
-//------------Easterling Swordsmen---------------
+//------------Orientaux Swordsmen---------------
 
 OBJECT:MordorEasterlingSwordsman
 "Guerrier Oriental"
@@ -61076,7 +61060,7 @@ CONTROLBAR:LW_ToolTip_MordorEasterlingSwordsman
 "Type d'unité : Infantrie d'Elite \nForts contre les piquiers"
 End
 
-//------------ Easterling Archers ---------------
+//------------ Orientaux Archers ---------------
 
 OBJECT:MordorEasterlingArcher
 "Archer de Rhûn"
@@ -62798,7 +62782,7 @@ CONTROLBAR:LW_ToolTipBuild_IsengardDunlandRiderHorde
 "Type d'unité : cavalerie d'élite\nForts contre les archers"
 END
 
-//------------ Easterling Riders ---------------
+//------------ Orientaux Riders ---------------
 
 OBJECT:MordorEasterlingKataphract
 "Cataphractaire Oriental"
@@ -62828,7 +62812,7 @@ CONTROLBAR:LW_ToolTipBuild_MordorEasterlingKataphractHorde
 "Type d'unité : cavalerie d'élite\nForts contre les archers"
 END
 
-//------------ Giant Bats ---------------
+//------------ Géant Bats ---------------
 
 OBJECT:WildGiantBat
 "Chauve-souris géante"
@@ -62900,7 +62884,7 @@ END
 
 GUI:MIRKWOODHERODiscount
 // Context: used to display infantry discount modifier in palantir
-"Hero cost -%d%%"
+"Héros cost -%d%%"
 END
 
 GUI:URUKDiscount
