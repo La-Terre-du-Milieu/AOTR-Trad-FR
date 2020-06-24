@@ -10428,7 +10428,7 @@ OBJECT:DwarvenStatue
 END
 
 OBJECT:DwarvenBarracks
-"Hall des Guerriers d'Erebor"
+"Salle des Guerriers d'Erebor"
 END
 
 OBJECT:DwarvenMineShaft
@@ -27614,7 +27614,7 @@ CONTROLBAR:ToolTipConstructDwarvenSentryTower
 END
 
 CONTROLBAR:ConstructDwarvenBarracks
-"Construire un Hall des Guerriers"
+"Construire un Salle des Guerriers"
 END
 
 CONTROLBAR:ToolTipConstructDwarvenBarracks
@@ -28003,7 +28003,7 @@ CONTROLBAR:ToolTipBuildDwarvenPhalanxHorde
 END
 
 CONTROLBAR:ConstructDwarvenAxeThrowerHorde
-"Axe Throwers"
+"Lanceur de Hache"
 END
 
 CONTROLBAR:ToolTipBuildDwarvenAxeThrowerHorde
@@ -28039,15 +28039,15 @@ CONTROLBAR:ConstructDwarvenCatapult
 END
 
 CONTROLBAR:ToolTipBuildDwarvenCatapult
-"Requiert : Forge niveau 2\n Forts contre les structures and Siege units\n Fires two shots at once"
+"Requiert : Forge niveau 2\n Forts contre les structures et les unités de Siège \n Tire deux coups à la fois"
 END
 
 CONTROLBAR:UpgradeDwarvenBarracksLevel2
-"Améliore le Hall des Guerriers au niveau 2"
+"Améliore le Salle des Guerriers au niveau 2"
 END
 
 CONTROLBAR:UpgradeDwarvenBarracksLevel3
-"Améliore le Hall des Guerriers au niveau 3"
+"Améliore le Salle des Guerriers au niveau 3"
 END
 
 CONTROLBAR:ToolTipUpgradeDwarvenBarracksLevel3
@@ -28055,7 +28055,7 @@ CONTROLBAR:ToolTipUpgradeDwarvenBarracksLevel3
 END
 
 CONTROLBAR:ToolTipUpgradeDwarvenBarracksLevel3_WOTR
-"+25% de vitesse de construction \n Adds Defensive Guard Tower"
+"+25% de vitesse de construction \n Ajoute une Tour de Garde Défensive"
 END
 
 CONTROLBAR:ConstructDwarvenMenOfDale
@@ -28067,7 +28067,7 @@ CONTROLBAR:ToolTipBuildDwarvenMenOfDaleHorde
 END
 
 CONTROLBAR:ConstructDwarvenDaleGuardHorde
-"Hommes de Dale Pikemen"
+"Hommes Piquiers de Dale"
 END
 
 CONTROLBAR:ToolTipBuildDwarvenDaleGuardHorde
@@ -28175,7 +28175,7 @@ CONTROLBAR:WildGoblinKingHotkey
 END
 
 CONTROLBAR:WildGoblinKingRecruit
-"Recruit the Chieftan of Mount Gram"
+"Recrute Le Grand Chef du Mont Gram"
 END
 
 CONTROLBAR:WildDrogothHotkey
@@ -28379,11 +28379,11 @@ CONTROLBAR:ToolTipConstructElvenWatchtowerExpansion
 END
 
 CONTROLBAR:ConstructRivendellWatchtowerExpansion
-"To&wer Expansion"
+"Extension d'une Tour (&w)"
 END
 
 CONTROLBAR:ToolTipConstructRivendellWatchtowerExpansion
-"Defensive tower that fires at nearby enemy units"
+"Tour défensive qui tire sur les unités ennemies proches"
 END
 
 CONTROLBAR:ConstructElvenVigilantEntExpansion
@@ -28443,7 +28443,7 @@ CONTROLBAR:ToolTipPurchaseUpgradeElvenFortressEncasingVines
 END
 
 CONTROLBAR:PurchaseUpgradeElvenFortressMysticFountains
-"Eaux du Celebrant"
+"Eaux du Célébrant"
 END
 
 CONTROLBAR:PurchaseUpgradeElvenFortressEnchantedAnvil
@@ -28587,19 +28587,19 @@ CONTROLBAR:Command_ElvenCastleWallHub_BeginWallSpan
 END
 
 CONTROLBAR:PurchaseUpgradeMallornTreeLevel2
-"&Améliore Mallorn Tree au niveau 2"
+"&Améliore L'arbre Mallorn au niveau 2"
 END
 
 CONTROLBAR:ToolTipBuildMallornTreeLevel2
-"Augmente la production de ressource \n Allows research of the Mallorn Roots Upgrade\n Gains the ability to fire at enemies at great range"
+"Augmente la production de ressource \n Permet la recherche de l'amélioration des Racines de Mellyrn \n Gagne la capacité de tirer sur les ennemis à grande distance"
 END
 
 CONTROLBAR:PurchaseUpgradeMallornTreeLevel3
-"&Améliore Mallorn Tree au niveau 3"
+"&Améliore l'Arbre Mallorn au niveau 3"
 END
 
 CONTROLBAR:ToolTipBuildMallornTreeLevel3
-"Augmente la production de ressource \n Allows training of Sentinels of the Silver Tree"
+"Augmente la production de ressource \n Permet de former des Sentinelles de l'Arbre d'Argent"
 END
 
 
@@ -28766,7 +28766,7 @@ END
 ///////// MOW Structures /////////
 
 CONTROLBAR:LW_Structure_MenFortress
-"Forteressee"
+"Forteresse"
 END
 
 CONTROLBAR:LW_ToolTipBuild_MenFortress
@@ -28802,7 +28802,7 @@ CONTROLBAR:LW_Structure_GondorBlackSmith
 END
 
 CONTROLBAR:LW_Structure_RohanWorkshop
-"Workshop"
+"Atelier"
 END
 
 CONTROLBAR:LW_ToolTipBuild_GondorBlackSmith
@@ -28877,11 +28877,11 @@ CONTROLBAR:LW_ToolTip_GondorFighterHorde
 END
 
 CONTROLBAR:LW_Unit_GondorFighterDoubleHorde
-"Anórien Soldier Spearmen Battalion"
+"Bataillon de Piquiers d'Anórien"
 END
 
 CONTROLBAR:LW_Unit_GondorFighterDoubleHordePlural
-"Bataillons de Anórien Soldier Spearmen "
+"Bataillons de Piquiers d'Anórien"
 END
 
 CONTROLBAR:LW_ToolTipBuild_GondorFighterDoubleHorde
@@ -28933,11 +28933,11 @@ CONTROLBAR:LW_Unit_GondorRangerHordePlural
 END
 
 CONTROLBAR:LW_Unit_GondorTowerGuardHorde
-"Bataillon de Citadel Guard de l'Anórien"
+"Bataillon Garde de la Citadelle de l'Anórien"
 END
 
 CONTROLBAR:LW_Unit_GondorTowerGuardHordePlural
-"Bataillons de Citadel Guard de l'Anórien"
+"Bataillons Garde de la Citadelle de l'Anórien"
 END
 
 CONTROLBAR:LW_ToolTipBuild_GondorTowerGuardHorde
@@ -28980,13 +28980,12 @@ CONTROLBAR:LW_ToolTip_GondorLancerHorde
 "\n Type d'unité : Shock Cavalry.\n\n Fort contre l'infanterie et les archers"
 END
 
-
 CONTROLBAR:LW_Unit_RohanRohirrimHorde
-"Rohirrim Bataillon de "
+"Bataillon de Rohirrim"
 END
 
 CONTROLBAR:LW_Unit_RohanRohirrimHordePlural
-"Rohirrim Bataillons de "
+"Bataillons de Rohirrim"
 END
 
 CONTROLBAR:LW_ToolTipBuild_RohanRohirrimHorde
@@ -29075,7 +29074,6 @@ END
 CONTROLBAR:LW_ToolTipBuild_Berethor
 "Type d'unité : héros commandant une armée\n "
 END
-
 
 CONTROLBAR:LW_Hero_Boromir
 "Boromir"
@@ -29270,11 +29268,11 @@ CONTROLBAR:LW_Unit_ElvenLorienArcherHorde
 END
 
 CONTROLBAR:LW_Unit_ElvenLorienWardenArcherHorde
-"Lórien Wardens - Bataillon d'Archers de la Lorien"
+"Lórien Gardiens - Bataillon d'Archers de la Lorien"
 END
 
 CONTROLBAR:LW_Unit_ElvenLorienWardenArcherHordePlural
-"Lórien Wardens - Bataillons d'Archers de la Lorien"
+"Lórien Gardiens - Bataillons d'Archers de la Lorien"
 END
 
 CONTROLBAR:LW_ToolTip_ElvenLindonWarriorHorde
@@ -29378,7 +29376,7 @@ CONTROLBAR:LW_Hero_Thranduil
 END
 
 CONTROLBAR:LW_Hero_Krimpul
-"Krimpul the Torturer"
+"Krimpul Le Tortionnaire"
 END
 
 CONTROLBAR:LW_Hero_Cargast
@@ -30141,7 +30139,7 @@ CONTROLBAR:LW_Unit_MordorCatapult
 END
 
 CONTROLBAR:LW_Unit_MordorCatapultPlural
-"Catapults"
+"Catapultes"
 END
 
 
@@ -30220,7 +30218,7 @@ CONTROLBAR:LW_ToolTip_Nazgul
 END
 
 CONTROLBAR:LW_Hero_BlackRider
-"Ring Wraith"			
+"Créature de l'Anneau"			
 END
 
 CONTROLBAR:LW_ToolTipBuild_BlackRider
@@ -30230,7 +30228,6 @@ END
 CONTROLBAR:LW_ToolTip_BlackRider
 "Type d'unité : héros"
 END
-
 
 CONTROLBAR:LW_Hero_Gothmog
 "Gothmog"
@@ -30486,11 +30483,11 @@ CONTROLBAR:LW_ToolTip_GoblinFighterHorde
 END
 
 CONTROLBAR:LW_Unit_WildSpiderlingHorde
-"Spiderling Horde"
+"Horde d'araignées"
 END
 
 CONTROLBAR:LW_Unit_WildSpiderlingHordePlural
-"Spiderling Hordes"
+"Hordes d'araignées"
 END
 
 CONTROLBAR:LW_Unit_GoblinArcherHorde
@@ -30725,15 +30722,15 @@ END
 ////// Details Panel //////
 
 CONTROLBAR:LW_Options
-"Game Menu"
+"Menu du Jeu"
 END
 
 CONTROLBAR:LW_OptionsDescription
-"Pause the game to change settings, load, save, surrender, or exit"
+"Mettre le jeu en pause pour modifier les paramètres, charger, sauvegarder, capituler, ou quitter"
 END
 	
 CONTROLBAR:LW_Objectives
-"Game Info"
+"Info Jeu"
 END
 
 CONTROLBAR:LW_ObjectivesDescription
@@ -30741,7 +30738,7 @@ CONTROLBAR:LW_ObjectivesDescription
 END
 
 STRATEGICHUD:CriticalTasksWillBeDisplayedHere
-"Critical tasks will be displayed here"
+"Les tâches critiques seront affichées ici"
 END
 
 STRATEGICHUD:ArcherUnitArchetypeTooltip
@@ -30753,7 +30750,7 @@ STRATEGICHUD:InfantryUnitArchetypeTooltip
 END
 
 STRATEGICHUD:PikemanUnitArchetypeTooltip
-"Type d'unité : Pikeman"
+"Type d'unité : Piquier"
 END
 
 STRATEGICHUD:CavalryUnitArchetypeTooltip
@@ -30781,11 +30778,11 @@ STRATEGICHUD:FarmStructureArchetypeTooltip
 END
 
 STRATEGICHUD:BarracksInProductionTooltip
-"This unit is currently being trained"
+"Cette  unité est en ours de formation"
 END
 
 STRATEGICHUD:FortressInProductionTooltip
-"This Héros unit is currently being recruited"
+"Cette unité Héros est en cours e recrutement"
 END
 
 
@@ -31104,7 +31101,7 @@ APT:GameType
 End
 
 APT:NumberOfPlayers
-"Number Of Players"
+"Nombre des Joueurs"
 END
 
 APT:ScenarioFiction
@@ -31611,20 +31608,20 @@ CONTROLBAR:tooltipDragonStrike
 END
 
 CONTROLBAR:Flood
-"Colère de la Bruinen"
+"Courroux de la Bruinen"
 END
 
 CONTROLBAR:TooltipFlood
 //"Déchaîne le pouvoir de la nature en faisant déborder subitement les flots de la Bruinen : une puissante inondation balaye les ennemis sur son passage.\n\nClic gauche sur la zone cible"//"Summons a powerful Flood to crush enemy units\n\nClic gauche sur la zone cible"
-"Summons a powerful Flood to crush enemy units\n Extinguishes fires\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
+"Invoque un Déluge puissant pour écrasser les unités ennemies \n Eteint les incendies \n Clic gauche sur l'icône puis clic gauche sur la zone cible"
 END
 
 CONTROLBAR:CampaignFlood
-"Wrath of Ulmo"
+"Courroux d'Ulmo"
 END
 
 CONTROLBAR:TooltipCampaignFlood
-"Summons a powerful Flood to crush enemy units \n Extinguishes fires\n Clic gauche sélectionner Clic gauche sur zone ciblé"
+"Invoque un Déluge puissant pour écrasser les unités ennemies \n Eteint les incendies \n Clic gauche sélectionner Clic gauche sur zone ciblé"
 END
 
 CONTROLBAR:Sunflare
@@ -31695,7 +31692,7 @@ END
 
 CONTROLBAR:ToolTipPurchaseUpgradeWildFortressWebCocoonForMaps
 // "Increases Fortress armor \n Prerequisite to Dragon's Nest"
-"Allows training of Gundabad Berserkers, Gundabad Stone-trolls,\nand a second battalion of Horrors of Gram"
+"Permet d'entraîner des Berserkers de Gundabad, Trolls de Pierre de Gundabad,\n et un second bataillon d'Horreur de Gram"
 End
 
 CONTROLBAR:PurchaseUpgradeWildFortressNorthernWastes
@@ -31869,7 +31866,7 @@ CONTROLBAR:ToolTipCommandSelectUpgradesIsengardFortress
 END
 
 CONTROLBAR:SelectFocusIsengardFortress
-"Focus System"
+"Foyer structure"
 END
 
 CONTROLBAR:ToolTipCommandSelectFocusIsengardFortress
@@ -50938,7 +50935,7 @@ CONTROLBAR:ConstructDwarvenZerkerHorde
 END
 
 CONTROLBAR:ToolTipBuildDwarvenZerkerHorde
-//"Requiert : niveau 3 Hall des Guerriers\n Lorsque les Nains se rassemblent pour infliger leur terrible vengeance, leur avant-garde est souvent constituée de Mornes-martels. Ces guerriers Nains déterminés, engoncés des pieds à la tête dans une armure de plates et de mailles, progressent avec des intentions meurtrières.\n\n Fort contre toutes les troupes standards.\n Seulement 3 unités autorisées en même temps.Forts contre toutes les unités standards\n Requiert : niveau 3 Hall of Warriors\n Only 3 Units of Zealots sont autorisés en même temps."
+//"Requiert : niveau 3 Salle des Guerriers\n Lorsque les Nains se rassemblent pour infliger leur terrible vengeance, leur avant-garde est souvent constituée de Mornes-martels. Ces guerriers Nains déterminés, engoncés des pieds à la tête dans une armure de plates et de mailles, progressent avec des intentions meurtrières.\n\n Fort contre toutes les troupes standards.\n Seulement 3 unités autorisées en même temps.Forts contre toutes les unités standards\n Requiert : niveau 3 Hall of Warriors\n Only 3 Units of Zealots sont autorisés en même temps."
 "Requiert : La Salle des Guerriers niveau 3\nSeuls les vétérans les plus redoutables et les plus intrépides peuvent se hisser au rang de Tueurs de Wyrms. Leur mission est de défendre les routes commerciales autour des forteresses contre tout ennemi y compris les féroces dragons de la Lande Desséchée, fonction qui ne leur laisse aucun repos.\nAinsi sont-ils devenus par nécessité des combattants austères et agressifs, redoutés pour leurs charges dévastatrices contre des ennemis bien plus nombreux mais qu'ils massacrent grâce à leurs glaives acérés.\nLimité à 3 bataillons.\n\nForts contre toutes les unités standards"
 END
 
@@ -55779,12 +55776,12 @@ CONTROLBAR:TooltipConstructDwarvenMineShaft
 END
 
 TOOLTIP:LackLevel2HallOfWarriors
-"Requiert : Hall des Guerriers niveau 2"
+"Requiert : Salle des Guerriers niveau 2"
 END
 
 TOOLTIP:LackLevel3HallOfWarriors  
-//"Requiert : Hall des Guerriers niveau 2"
-"Requiert : Hall des Guerriers niveau 3"
+//"Requiert : Salle des Guerriers niveau 2"
+"Requiert : Salle des Guerriers niveau 3"
 END
 
 CONTROLBAR:ToolTipBuildDwarvenArcheryRangeLevel2Upgrade
@@ -57353,7 +57350,7 @@ CONTROLBAR:LW_ToolTip_Treebeard
 END
 
 CONTROLBAR:LW_Structure_DwarvenHallOfWarriors
-//"Hall des Guerriers"
+//"Salle des Guerriers"
 "La Salle des Guerriers"
 END
 
@@ -63428,7 +63425,7 @@ CONTROLBAR:LW_Unit_EredLuinTraderHorde
 END
 
 CONTROLBAR:ToolTipBuildEredLuinTraderHorde
-"Requiert : Hall des Guerriers niveau 2 et l'amélioration Arkenstone\nLes Nains des Montagnes Bleues sont connus pour leur culture industrieuse et mercantile. Ils voyagent à travers toute la Terre du Milieu pour vendre leurs marchandises principalement avec les Hommes d'Eriador, les Elfes du Lindon et bien sûr avec le peuple de Durin.\n\n Soutien d'infanterie, forts contre les piquiers."
+"Requiert : Salle des Guerriers niveau 2 et l'amélioration Arkenstone\nLes Nains des Montagnes Bleues sont connus pour leur culture industrieuse et mercantile. Ils voyagent à travers toute la Terre du Milieu pour vendre leurs marchandises principalement avec les Hommes d'Eriador, les Elfes du Lindon et bien sûr avec le peuple de Durin.\n\n Soutien d'infanterie, forts contre les piquiers."
 END
 
 CONTROLBAR:ToolTipBuildEredLuinTraderHordeInn
@@ -64123,7 +64120,7 @@ CONTROLBAR:LW_ToolTip_EreborVWHorde
 END
 
 CONTROLBAR:ToolTipBuildEreborVWHorde
-"Requiert : Hall des Guerriers niveau 2 \n Les guerriers les plus compétents se voient confier une mission périlleuse. Ils forment des équipes de Gardiens des Portes, des combattants des tunnels spécialisés dans le maniement de pavois et de longs épieux. Cet armement leur permet de repousser les multitudes d'ennemis qui se pressent dans les espaces confinés que forment les portes et les galeries d'Erebor. \n\n Unité spéciale, forts contre les cavaliers et les monstres."
+"Requiert : Salle des Guerriers niveau 2 \n Les guerriers les plus compétents se voient confier une mission périlleuse. Ils forment des équipes de Gardiens des Portes, des combattants des tunnels spécialisés dans le maniement de pavois et de longs épieux. Cet armement leur permet de repousser les multitudes d'ennemis qui se pressent dans les espaces confinés que forment les portes et les galeries d'Erebor. \n\n Unité spéciale, forts contre les cavaliers et les monstres."
 END
 
 CONTROLBAR:LW_ToolTipBuild_EreborVWHorde
