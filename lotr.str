@@ -999,7 +999,7 @@ GUI:WinnersLastWeek
 END
 
 MOTD:NumPlayersHeading
-"Bienvenue sur LSDA, L'Avènement du Roi-sorcier" en ligne.\nIl y a actuellement %d joueurs en ligne."
+"Bienvenue sur LSDA, L'Avènement du Roi-sorcier en ligne.\nIl y a actuellement %d joueurs en ligne."
 END
 
 GUI:Shadows2D
@@ -13294,7 +13294,7 @@ SCRIPT:EvilGreyHavensHintText_BuildFleetObj
 END
 
 SCRIPT:EvilGreyHavensHintText_BuildBattleship
-"Selectionnez le quai puis cliquer sur le bouton "contruire un vaisseau Noir' pour débuter la construction de votre flotte."
+"Selectionnez le quai puis cliquer sur le bouton contruire un vaisseau Noir' pour débuter la construction de votre flotte."
 END
 
 SCRIPT:EvilGreyHavensHintText_InfoBattleship
@@ -18068,7 +18068,7 @@ END
 //context: CREDITS Titles and Thanks
 ////////////////////////////////////////////////////
 CREDITS:DevelopmentTitle1
-"Le Seigneur des Anneaux","
+"Le Seigneur des Anneaux,"
 END
 
 CREDITS:EAPacificDevTeam2
@@ -18710,7 +18710,7 @@ CREDITS:NewLineThanks2
 END
 
 CREDITS:NewLineThanks3
-"Le Seigneur des Anneaux" - Le Retour du Roi."
+"Le Seigneur des Anneaux - Le Retour du Roi."
 END
 
 CREDITS:BingThanks
@@ -20530,7 +20530,7 @@ APT:LogoffConfirmationTitle
 END
 
 APT:LogoffConfirmationMsg
-"Voulez-vous vraiment vous déconnecter de LSDA, L'Avènement du Roi-sorcier" en ligne ?"
+"Voulez-vous vraiment vous déconnecter de LSDA, L'Avènement du Roi-sorcier en ligne ?"
 END
 
 APT:CreateAccount
@@ -30372,7 +30372,7 @@ END
 
 ///////// Isengard Heroes ////////
 
-CONTROLBAR:LW_Hero_Saruman"
+CONTROLBAR:LW_Hero_Saruman
 "Saroumane"
 END
 
@@ -30738,7 +30738,7 @@ CONTROLBAR:LW_Objectives
 END
 
 CONTROLBAR:LW_ObjectivesDescription
-"Display the status of all players and show the objectives for the game."
+"Affichez le statut de tous les joueurs et montrez les objectifs du jeu"
 END
 
 STRATEGICHUD:CriticalTasksWillBeDisplayedHere
@@ -60838,6 +60838,7 @@ CONTROLBAR:ToolTipSpecialPowerRenownedWarrior
 END
 
 //------------ Isengard Scouts ---------------
+
 OBJECT:IsengardScout
 "Eclaireur Uruk-Haï"
 END
@@ -60928,6 +60929,7 @@ CONTROLBAR:ToolTipScourgeofMan
 END
 
 //---------------- Isengard Beserker Kamikazees -----------------
+
 OBJECT:IsengardMineBeserker
 "Artificier Uruk"
 END
@@ -60969,6 +60971,7 @@ CONTROLBAR:ToolTipDevastation
 END
 
 //------------ Isengard Wildmen Spears ---------------
+
 OBJECT:IsengardWildmenSpear
 "Lancier du Pays de Dun"
 END
@@ -61049,6 +61052,7 @@ END
 
 
 //------------Easterling Swordsmen---------------
+
 OBJECT:MordorEasterlingSwordsman
 "Guerrier Oriental"
 End
@@ -61074,6 +61078,7 @@ CONTROLBAR:LW_ToolTip_MordorEasterlingSwordsman
 End
 
 //------------ Easterling Archers ---------------
+
 OBJECT:MordorEasterlingArcher
 "Archer de Rhûn"
 END
@@ -61103,6 +61108,7 @@ CONTROLBAR:LW_ToolTipBuild_MordorEasterlingArcherHorde
 END
 
 //------------ Variag Boyos rated 10/10 on IGN ---------------
+
 OBJECT:MordorVariag
 "Variag de Khand"
 END
@@ -66126,7 +66132,7 @@ MAP:MAPNewWorAnfalas/Desc
 END
 
 MAP:MAPNewWorAngmar/Desc
-"Angmar était une région et un royaume fondé durant le Troisième Age à l'extrême nord des Monts Brumeux par le maléfique seigneur des spectres de l'anneau également connu sous le nom de "Roi-Sorcier d'Angmar". Depuis que ce dernier était un des vassaux de Sauron le seigneur des Ténébres, il est fort probable que les raids menés par Angmar contre les royaumes successeurs d'Arnor l'aient été sous la houlette de Sauron."
+"Angmar était une région et un royaume fondé durant le Troisième Age à l'extrême nord des Monts Brumeux par le maléfique seigneur des spectres de l'anneau également connu sous le nom de 'Roi-Sorcier d'Angmar'. Depuis que ce dernier était un des vassaux de Sauron le seigneur des Ténébres, il est fort probable que les raids menés par Angmar contre les royaumes successeurs d'Arnor l'aient été sous la houlette de Sauron."
 END
 
 MAP:MAPNewWorAnorien/Desc
@@ -66202,7 +66208,7 @@ MAP:MAPNewWorDolAmroth/Desc
 END
 
 MAP:MAPNewWorDolGuldur/Desc
-"Dol Guldur, "les donjons du Nécromancien", était une forteresse de Sauron située au sud de la Forêt Noire. Le Conseil des Sages a longtemps craint que le Nécromancien ne soit nul autre que Sauron lui-même ayant retrouvé ses pouvoirs après sa défaite dans la guerre de la dernière alliance. Gandalf se rendit à Dol Guldur, et le "Nécromancien", loin d'être au faite de sa puissance, s'enfuit à l'Est pour ne pas être identifié."
+"Dol Guldur, "les donjons du Nécromancien", était une forteresse de Sauron située au sud de la Forêt Noire. Le Conseil des Sages a longtemps craint que le Nécromancien ne soit nul autre que Sauron lui-même ayant retrouvé ses pouvoirs après sa défaite dans la guerre de la dernière alliance. Gandalf se rendit à Dol Guldur, et le 'Nécromancien', loin d'être au faite de sa puissance, s'enfuit à l'Est pour ne pas être identifié."
 END
 
 MAP:MAPNewWorDorwinion/Desc
@@ -66262,7 +66268,7 @@ MAP:MAPNewWorEnedwaith/Desc
 END
 
 MAP:MAPNewWorErebor/Desc
-"La Montagne Solitaire, ou Erebor, était une montagne au nord-est du Rhovanion. Elle était la source de la rivière Celduin, et une importante place forte des Nains connue sous le nom de "Royaume sous la Montagne" à la fin du Troisième Age."
+"La Montagne Solitaire, ou Erebor, était une montagne au nord-est du Rhovanion. Elle était la source de la rivière Celduin, et une importante place forte des Nains connue sous le nom de 'Royaume sous la Montagne' à la fin du Troisième Age."
 END
 
 MAP:MAPNewWorErech/Desc
@@ -66270,7 +66276,7 @@ MAP:MAPNewWorErech/Desc
 END
 
 MAP:MAPNewWorEregion/Desc
-"L'Eregion ou Hollin était un sous-royaume des Elfes Ñoldor en Eriador au cours du Second Age. Sous le règne de Celebrimbor, les Elfes d'Eregion se sont liés d'amitié avec Annatar, le "Seigneur des Dons", et ont créé les Anneaux de Pouvoir. Lorsque ce dernier s'est révélé être Sauron le Seigneur des Ténèbres, les elfes ont essayé de garder les Anneaux mais n'ont réussi qu'à sauver Vilya, Narya et Nenya et Celebrimbor a été tué."
+"L'Eregion ou Hollin était un sous-royaume des Elfes Ñoldor en Eriador au cours du Second Age. Sous le règne de Celebrimbor, les Elfes d'Eregion se sont liés d'amitié avec Annatar, le 'Seigneur des Dons', et ont créé les Anneaux de Pouvoir. Lorsque ce dernier s'est révélé être Sauron le Seigneur des Ténèbres, les elfes ont essayé de garder les Anneaux mais n'ont réussi qu'à sauver Vilya, Narya et Nenya et Celebrimbor a été tué."
 END
 
 MAP:MAPNewWorEsgaroth/Desc
@@ -66390,7 +66396,7 @@ MAP:MAPNewWorLamedon/Desc
 END
 
 MAP:MAPNewWorLebennin/Desc
-"Le Lebennin était une région et un fief du sud du Gondor, au sud de l'Ered Nimrais, entre le Gilrain et l'Anduin. Le Lebennin était largement peuplé d'hommes de sang mêlés, car de nombreux hommes du Lebennin ont pu faire remonter leur généalogie jusqu'aux oubliés "hommes des montagnes" qui avaient été déportés des Montagnes Blanches par les Númenóréens."
+"Le Lebennin était une région et un fief du sud du Gondor, au sud de l'Ered Nimrais, entre le Gilrain et l'Anduin. Le Lebennin était largement peuplé d'hommes de sang mêlés, car de nombreux hommes du Lebennin ont pu faire remonter leur généalogie jusqu'aux oubliés 'hommes des montagnes' qui avaient été déportés des Montagnes Blanches par les Númenóréens."
 END
 
 MAP:MAPNewWorLithlad/Desc
@@ -68258,15 +68264,19 @@ END
 OBJECT:DwarvenBofur
 "Bofur"
 END
+
 CONTROLBAR:ToolTipBuildBofur
 "Recruter un compagnon de la compagnie de Thorin"
 END
+
 CONTROLBAR:DwarvenBofurRecruit
 "Recruter un compagnon de la compagnie de Thorin"
 END
+
 CONTROLBAR:DwarvenBofurRevive
 "Rappeler Bofur à la vie"
 END
+
 CONTROLBAR:DwarvenBofurHotkey
 "&Bofur"
 END
@@ -68274,15 +68284,19 @@ END
 OBJECT:DwarvenBifur
 "Bifur"
 END
+
 CONTROLBAR:ToolTipBuildBifur
 "Recruter un compagnon de la compagnie de Thorin"
 END
+
 CONTROLBAR:DwarvenBifurRecruit
 "Recruter un compagnon de la compagnie de Thorin"
 END
+
 CONTROLBAR:DwarvenBifurRevive
 "Rappeler Bifur à la vie"
 END
+
 CONTROLBAR:DwarvenBifurHotkey
 "&Bifur"
 END
@@ -68290,15 +68304,19 @@ END
 OBJECT:DwarvenOin
 "Oin"
 END
+
 CONTROLBAR:ToolTipBuildOin
 "Recruter un compagnon de la compagnie de Thorin"
 END
+
 CONTROLBAR:DwarvenOinRecruit
 "Recruter un compagnon de la compagnie de Thorin"
 END
+
 CONTROLBAR:DwarvenOinRevive
 "Rappeler Oin à la vie"
 END
+
 CONTROLBAR:DwarvenOinHotkey
 "&Oin"
 END
