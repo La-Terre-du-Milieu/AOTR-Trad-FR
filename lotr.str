@@ -10688,7 +10688,7 @@ OBJECT:RohirrimRoyalGuard
 END
 
 OBJECT:NeutralShelob
- "Arachnée"
+ "Arachne"
 END
 
 OBJECT:Spider
@@ -13911,7 +13911,7 @@ END
 //// Announcements \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
 SCRIPT:Announcement_E07_01
-"Arachnée et sa couvée devraient s'occuper rapidement du troupeau en fuite."
+"Arachne et sa couvée devraient s'occuper rapidement du troupeau en fuite."
 END
 
 SCRIPT:Announcement_E07_02
@@ -16726,7 +16726,7 @@ END
 
 CONTROLBAR:BodkinArrowUpgrade
 //&w
-"Flèches Bodkin"
+"Flèches Alêne"
 END
 
 CONTROLBAR:ArnorFireArrowUpgrade
@@ -20895,7 +20895,7 @@ END
 
 LW:Good_Cirith_Ungol
 // Good Campaign help text
-"Click on Arachnée's Lair."
+"Click on Arachne's Lair."
 END
 
 LW:Good_Minas_Tirith
@@ -20974,7 +20974,7 @@ END
 
 LW:Evil_Cirith_Ungol
 // Evil Campaign help text
-"Click Arachnée's Lair."
+"Click Arachne's Lair."
 END
 
 LW:Evil_Final
@@ -21551,7 +21551,7 @@ End
 
 LW:DisplayNameShelobsLair
 // Region display name in the living world
- "Arachnée's Lair"
+ "Arachne's Lair"
 End
 
 LW:DisplayNameSouthernIthilien
@@ -25760,10 +25760,10 @@ BONUSROUND:SPSGOODSHELOBSLAIRSAM
 "Sam must not die."
 END
 BONUSROUND:SPSGOODSHELOBSLAIRTREASURE   
-"Bonus : Find all treasure in Arachnée's Lair."
+"Bonus : Find all treasure in Arachne's Lair."
 END
 BONUSROUND:SPSGOODSHELOBSLAIRWEBBED 
-"Bonus : Free all the webbed units in Arachnée's Lair."
+"Bonus : Free all the webbed units in Arachne's Lair."
 END
 BONUSROUND:SPSGOODSHELOBSLAIRPHIAL
 "Bonus : Use the Phial."
@@ -26267,7 +26267,7 @@ END
 
 //EVIL SHELOB's LAIR
 BONUSROUND:SHEORCS
-"Bonus : Feed Orques to Arachnée."
+"Bonus : Feed Orques to Arachne."
 END
 
 BONUSROUND:SHEURUKS
@@ -26371,7 +26371,6 @@ UPGRADE:MordorBasicTraining
 END
 
 
-
 UPGRADE:RohanHeavyArmor
 "Armure lourde"
 END
@@ -26397,7 +26396,7 @@ UPGRADE:GondorFireArrowUpgrade
 END
 
 UPGRADE:GondorBodkinArrowUpgrade
-"Bodkin Arrows"
+"Flèches Alêne"
 END
 
 UPGRADE:GondorKnightShield
@@ -28290,7 +28289,7 @@ OBJECT:WildFortressDescription
 END
 
 OBJECT:WildShelob
- "Arachnée"
+ "Arachne"
 END
 
 OBJECT:WildBuildingFoundation
@@ -30579,7 +30578,7 @@ CONTROLBAR:LW_ToolTip_Drogoth
 END
 
 CONTROLBAR:LW_Hero_Shelob
- "Arachnée"
+ "Arachne"
 END
 
 CONTROLBAR:LW_ToolTipBuild_Shelob
@@ -32295,7 +32294,7 @@ CONTROLBAR:WildShelobInstillTerror
 END
 
 CONTROLBAR:TooltipWildShelobInstillTerror
-"Requiert : niveau 3\n Arachnée est une abomination ténébreuse, elle effraie les ennemis proches.\n\nClic gauche pour activer"
+"Requiert : niveau 3\n Arachne est une abomination ténébreuse, elle effraie les ennemis proches.\n\nClic gauche pour activer"
 END
 
 CONTROLBAR:SpecialAbilityWildShelobTunnel
@@ -32822,7 +32821,7 @@ CONTROLBAR:ToolTipBuildDwarvenBatteringRam
 End
 
 CONTROLBAR:ToolTipBuildDwarvenForgeWorksLevel2Upgrade
-"Permet de rechercher les améliorations Runes Khûzdul, Flèches à pointes de Mithril et Armures de Plates Naines."
+"Permet de rechercher les améliorations Runes Khûzdul, Flèches à pointes de Mithril et Armures de Plaques Naines."
 End
 
 CONTROLBAR:ToolTipBuildDwarvenForgeWorksLevel3Upgrade
@@ -36020,7 +36019,7 @@ END
 /////////////////////////////
 
 CONTROLBAR:CancelWallSpan
-"Cancel Wall Span"
+"Annuler la portée du mur"
 END
 
 CONTROLBAR:ToolTipCancelWallSpan
@@ -36032,7 +36031,7 @@ CONTROLBAR:ToolTipPurchaseUpgradeSentryTowerForgedBlades
 END
 
 CONTROLBAR:Trollfindgoblintothrow
-"Pick up Goblin"
+"Détecter Gobelin"
 END
 
 OBJECT:NaturesWrath
@@ -36326,15 +36325,15 @@ CONTROLBAR:IsengardWormtongueRevive
 END
 
 CONTROLBAR:ShelobRecruit
-"Recrutez l'araignée du Col de Cirith Ungol.\n Arachnée, dernier enfant d'Ungliant, est une créature démoniaque à l'apparence d'une araignée, une horreur venimeuse qui hante la Terre du Millieu depuis de nombreuses années, chassant tout ce qui vit."
+"Recrutez l'araignée du Col de Cirith Ungol.\n Arachne, dernier enfant d'Ungliant, est une créature démoniaque à l'apparence d'une araignée, une horreur venimeuse qui hante la Terre du Millieu depuis de nombreuses années, chassant tout ce qui vit."
 END
 
 CONTROLBAR:ShelobRevive
-"Rappelez Arachnée à la vie"
+"Rappelez Arachne à la vie"
 END
 
 CONTROLBAR:ShelobHotkey
- "Arachnée"
+ "Arachne"
 END
 
 CONTROLBAR:BlackRiderRevive	
@@ -36608,7 +36607,7 @@ DIALOGEVENT:MGHighP_Elf1008subtitle
 END
 
 DIALOGEVENT:MGHighP_Gloi007subtitle
-"*C'est un "Guetteur" ! Tuez-le !"
+"*C'est un 'Guetteur' ! Tuez-le !"
 END
 
 DIALOGEVENT:MGEtten_Elf1001subtitle
@@ -36688,7 +36687,7 @@ DIALOGEVENT:MGBlueM_OffD003subtitle
 END
 
 DIALOGEVENT:MGBlueM_OffD004subtitle
-"*Euh... et vous avez amené des Elfes ? Cette "Mine des Nains" n'est pas un endroit pour eux."
+"*Euh... et vous avez amené des Elfes ? Cette 'Mine des Nains' n'est pas un endroit pour eux."
 END
 
 DIALOGEVENT:MGBlueM_OffD005subtitle
@@ -40328,7 +40327,7 @@ DIALOGEVENT:MTrBas_OffT076subtitle
 END
 
 DIALOGEVENT:MTrBas_OffT077subtitle
-"*Certains pouvoirs peuvent être réglés en mode "tir automatique" en faisant un clic droit sur leur bouton dans le Palantir. Leur contour scintille lorsqu'ils sont activés."
+"*Certains pouvoirs peuvent être réglés en mode 'tir automatique' en faisant un clic droit sur leur bouton dans le Palantir. Leur contour scintille lorsqu'ils sont activés."
 END
 
 DIALOGEVENT:MTrBas_OffT078subtitle
@@ -40460,7 +40459,7 @@ DIALOGEVENT:MTrAdv_OffT025subtitle
 END
 
 DIALOGEVENT:MTrAdv_OffT026subtitle
-"*Un de leurs camps se trouve devant. Il faut s'en débarrasser avant qu'ils n'aient le temps de se replier et d'avertir les autres. Donnez l'ordre "ATTAQUER", cela devrait suffire à les éliminer."
+"*Un de leurs camps se trouve devant. Il faut s'en débarrasser avant qu'ils n'aient le temps de se replier et d'avertir les autres. Donnez l'ordre 'ATTAQUER', cela devrait suffire à les éliminer."
 END
 
 DIALOGEVENT:MTrAdv_OffT027subtitle
@@ -40994,7 +40993,7 @@ OBJECT:EvilArrowShip
 END
 
 OBJECT:ElvenCastleWallHubExpansion
-"Extension Assise"
+"Extension d'Assise"
 END
 
 OBJECT:ElvenCastleWallHubExpansionDescription
@@ -41150,11 +41149,11 @@ CONTROLBAR:ToolTipDwarvenCatapultUpgrade
 END
 
 CONTROLBAR:RohanCatapultUpgrade
-"&Replace Onager"
+"&Remplacer l'Onagre"
 END
 
 CONTROLBAR:ToolTipRohanCatapultUpgrade
-"Rebuilds the onager on the platform"
+"Reconstruit l'Onagre sur la plateforme"
 END
 
 CONTROLBAR:IsengardBallistaUpgrade
@@ -41190,11 +41189,11 @@ CONTROLBAR:ToolTipBuildPlotTrebuchet
 END
 
 CONTROLBAR:BuildPlotLargeTrebuchet
-"Build Numenorean &Trebuchet"
+"Construit un &Trébuchet Numénoréen"
 END
 
 CONTROLBAR:ToolTipBuildPlotLargeTrebuchet
-"Construit un Trébuchet numénoréen sur la plateforme"
+"Construit un Trébuchet Numénoréen sur la plateforme"
 END
 
 CONTROLBAR:GoblinGiantSentryUpgrade
@@ -41244,19 +41243,19 @@ CONTROLBAR:ToolTipPurchaseUpgradeDwarvenForgedBlades
 END
 
 CONTROLBAR:PurchaseTechnologyDwarvenHeavyArmor
-"Rechercher Armures de Plates Naines"
+"Rechercher Armures de Plaques Naines"
 END
 
 CONTROLBAR:ToolTipPurchaseTechnologyDwarvenHeavyArmor
-"Permet aux bataillons d'acheter l'amélioration Armures de Plates Naines. Lorsqu'elle est équipée, réduit significativement les dégâts reçus."
+"Permet aux bataillons d'acheter l'amélioration Armures de Plaques Naines. Lorsqu'elle est équipée, réduit significativement les dégâts reçus."
 END
 
 CONTROLBAR:PurchaseUpgradeDwarvenHeavyArmor
-"Armures de Plates Naines"
+"Armures de Plaques Naines"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeDwarvenHeavyArmor
-"Améliore le bataillon avec des Armures de Plates Naines : réduit significativement les dégâts reçus."
+"Améliore le bataillon avec des Armures de Plaques Naines : réduit significativement les dégâts reçus."
 END
 
 CONTROLBAR:PurchaseTechnologyGondorFireArrows
@@ -41276,7 +41275,7 @@ CONTROLBAR:ToolTipPurchaseUpgradeGondorFireArrows
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeGondorBodkinArrows
-"Upgrades this battalion with Bodkin Arrows \n Reduces enemy armor by 25% when hit \n Does not stack"
+"Améliore ce Batailon avec les flèches Alêne \n Réduit l'armure ennemie de 25% lorsqu'elle est touchée \n Ne s'accumule pas"
 END
 
 CONTROLBAR:PurchaseTechnologyGondorForgedBlades
@@ -41492,19 +41491,19 @@ CONTROLBAR:BatallionAreadyHasUpgrade
 END
 
 CONTROLBAR:PurchaseUpgradeDwarvenMithrilMail
-"Armures de Plates Naines"
+"Armures de Plaques Naines"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeDwarvenMithrilMail
-"Améliore le bataillon avec les Armures de Plates Naines : réduit significativement les dégâts reçus."
+"Améliore le bataillon avec les Armures de Plaques Naines : réduit significativement les dégâts reçus."
 END
 
 CONTROLBAR:PurchaseTechnologyDwarvenMithrilMail
-"Rechercher Armures de Plates Naines"
+"Rechercher Armures de Plaques Naines"
 END
 
 CONTROLBAR:ToolTipPurchaseTechnologyDwarvenMithrilMail
-"Permet aux bataillons et aux Démolisseurs d'acheter l'amélioration Armures de Plates Naines. Lorsqu'elle est équipée, réduit significativement les dégâts reçus."
+"Permet aux bataillons et aux Démolisseurs d'acheter l'amélioration Armures de Plaques Naines. Lorsqu'elle est équipée, réduit significativement les dégâts reçus."
 END
 
 CONTROLBAR:PurchaseUpgradeWildBasicTraining
@@ -41512,11 +41511,11 @@ CONTROLBAR:PurchaseUpgradeWildBasicTraining
 END
 
 CONTROLBAR:PurchaseUpgradeWildBasicTrainingWarg
-"Acheter Pac&k Alpha"
+"Acheter Groupe d'Alpha (&k)"
 END
 
 CONTROLBAR:PurchaseUpgradeIsengardBasicTrainingWarg
-"Acheter Pac&k Alpha"
+"Acheter Groupe d'Alpha (&k)"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeWildBasicTraining
@@ -41624,7 +41623,7 @@ CONTROLBAR:ToolTipBuildElvenBasicTraining
 END
 
 CONTROLBAR:PurchaseTechnologyElderRacesWarBarding
-"Rechercher War Barding"
+"Rechercher Barde de guerre"
 END
 
 CONTROLBAR:ToolTipPurchaseTechnologyElderRacesWarBarding
@@ -42070,7 +42069,7 @@ TOOLTIP:GondorFlamingArrows
 "Flèches enflammées"
 END
 TOOLTIP:GondorBodkingArrows
-"Bodkin Arrows"
+"Alêne Arrows"
 END
 TOOLTIP:ArnorFlamingArrows
 "Flèches à plumes de cygne"
@@ -42099,7 +42098,7 @@ TOOLTIP:DwarvenForgedBlades
 END
 
 TOOLTIP:DwarvenMithrilMail
-"Armures de Plates Naines"
+"Armures de Plaques Naines"
 END
 
 TOOLTIP:DwarvenFlamingShot
@@ -42532,7 +42531,7 @@ UPGRADE:DwarvenForgedBlades
 END
 
 UPGRADE:DwarvenMithrilMail
-"Armures de Plates Naines"
+"Armures de Plaques Naines"
 END
 
 UPGRADE:DwarvenFlamingShot
@@ -42540,11 +42539,11 @@ UPGRADE:DwarvenFlamingShot
 END
 
 UPGRADE:DwarvenBarracksLevel2
-"hall des Guerriers niveau 2"
+"Salle des Guerriers niveau 2"
 END
 
 UPGRADE:DwarvenBarracksLevel3
-"hall des Guerriers niveau 3"
+"Salle des Guerriers niveau 3"
 END
 
 UPGRADE:Upgrade_DwarvenWallHub
@@ -45664,7 +45663,7 @@ ToolTip:OnlineShell/WaroftheRingButton
 END
 
 ToolTip:OnlineShell/StatsButton
-"Follow your progress with these statistics"
+"Suivez vos progrès avec ces statistiques"
 END
 
 ToolTip:OnlineShell/ClanWarsShortcut
@@ -45680,11 +45679,11 @@ ToolTip:OpeningMenu/SkirmishButton
 END
 
 ToolTip:OpeningMenu/EvilCampaignButton
-"Begin the story driven Evil Campaign"
+"Commencer la campagne du Mal axée sur l'Histoire"
 END
 
 ToolTip:OpeningMenu/GoodCampaignButton
-"Begin the story driven Good Campaign"
+"Commencer la campagne du Bien axée sur l'Histoire"
 END
 
 ToolTip:OpeningMenu/LoadGameButton
@@ -45940,7 +45939,7 @@ SCRIPT:WitheredHeath_ExtraCampaignText_Again
 END
 
 SCRIPT:Erebor_ExtraCampaignText
-"Nos lignes d'approvisionnement sont minces. Pillez la ville de Dale et amassez toutes les ressources que vous pouvez trouver. Puis assiégez la forteresse naine d'Erebor. Arachnée et les araignées de la forêt Noire ont été envoyées en éclaireurs en raison de leur rapidité et de leur appétit de destruction."
+"Nos lignes d'approvisionnement sont minces. Pillez la ville de Dale et amassez toutes les ressources que vous pouvez trouver. Puis assiégez la forteresse naine d'Erebor. Arachne et les araignées de la forêt Noire ont été envoyées en éclaireurs en raison de leur rapidité et de leur appétit de destruction."
 END
 
 SCRIPT:Rivendell_ExtraCampaignText
@@ -45953,7 +45952,7 @@ END
 //// New random stuff ///
 /////////////////////////
 GUI:StuckAsObserverInStrategicRTSGameMessage
-"Your have forfeited from this encounter. You are now an observer since an allied human player remains in the battle."
+"Vous avez perdu ce Combat. Vous êtes maintenant un observateur puisqu'un joueur humain allié reste dans la bataille."
 END
 
 TOOLTIP:LackDragonNestWebCocoon
@@ -45965,11 +45964,11 @@ TOOLTIP:LackEagleNestEncasingVines
 END
 
 TOOLTIP:LackMightyCatapultDwarvenStonework
-"Requiert : l'amélioration Fortifications.\n Permet de recruter le seigneur nain Dáin Pied-d'Acier et les troupes d'Ered Luin et des Monts du Fer."
+"Requiert : l'amélioration des Fortifications \n Permet de recruter le seigneur nain Dáin Pied-d'Acier et les troupes d'Ered Luin et des Monts du Fer."
 END
 
 TOOLTIP:LackMightyCatapultDwarvenStonework_WOTR
-"Requires the Fortifications upgrade \nEnables the recruitment of Iron Hills and Ered Luin troupes."
+"Requiert l'amélioration des Fortifications \n Permet le recrutement des troupes des Monts de Fer et d'Ered Luin."
 END
 
 OBJECT:ArgonathStatues
@@ -47757,11 +47756,11 @@ OBJECT:ArnorTowerShieldGuard
 END
 
 OBJECT:HordeRivendellReveler
-"Rivendell Revelers"
+"Troubadours de Fondcombe"
 END
 
 OBJECT:RivendellReveler
-"Rivendell Reveler"
+"Troubadours de Fondcombe"
 END
 
 OBJECT:ArnorRanger
@@ -47913,11 +47912,11 @@ OBJECT:HordeArnorSoldierRangerCombo
 END
 
 OBJECT:HordeArnorSoldierTrebuchetCombo
-"Soldats - Trebuchet"
+"Soldats - Trébuchet"
 END
 
 OBJECT:HordeArnorTowerGuardTrebuchetCombo
-"Gardes de la Tour - Trebuchet"
+"Gardes de la Tour - Trébuchet"
 END
 
 OBJECT:HordeArnorKnight
@@ -47953,7 +47952,7 @@ OBJECT:ArnorPosternGate
 END
 
 OBJECT:ArnorTrebuchetOutcropping
-"Fondcombe Trebuchet Rampart"
+"Trébuchet de Rempart de Fondcombe "
 END
 
 OBJECT:ArnorBuildingFoundation
@@ -47962,16 +47961,16 @@ OBJECT:ArnorBuildingFoundation
 END
 
 OBJECT:ArnorCastleWallUpgrade
-"Fondcombe Castle Wall"
+"Mur du Château de Fondcombe"
 END
 
 OBJECT:ArnorBaseDefenseFoundation
 //"Click here to build a Structure défensive"		//This is seen by everyone.
-"Fondcombe Defensive Foundation"
+"Fondation Défensive de Fondcombe"
 END
 
 OBJECT:ArnorWallFoundation
-"Fondcombe Wall Foundation"
+"Fondation de Mur de Fondcombe"
 END
 
 OBJECT:ArnorArcherRange
@@ -47979,7 +47978,7 @@ OBJECT:ArnorArcherRange
 END
 
 OBJECT:ArnorStable
-"Dúnedain Gathering"
+"La Récolte de Dúnedain"
 END
 
 OBJECT:ArnorBarracks
@@ -47987,7 +47986,7 @@ OBJECT:ArnorBarracks
 END
 
 OBJECT:ArnorWorkshop
-"Fondcombe Atelier de siège"
+"Atelier de siège de Fondcombe"
 END
 
 OBJECT:ArnorFarm
@@ -48348,7 +48347,7 @@ CONTROLBAR:ConstructArnorShieldGuardHorde
 END
 
 CONTROLBAR:ConstructRivendellRevelerHorde
-"Rivendell &Revelers"
+"Troubadours de Fondcombe"
 END
 
 CONTROLBAR:ConstructArnorKnightHorde
@@ -48425,7 +48424,7 @@ CONTROLBAR:ToolTipBuildArnorShieldGuardHorde
 END
 
 CONTROLBAR:ToolTipBuildRivendellRevelerHorde
-"Nécessite l'amélioration Chanson et Félicité \n Une bande de troubadours elfes \n Limité à 5\n\nLa longue histoire des Elfes est souvent racontée à travers des chansons et des musiques, à la fois tristes et joyeuses."
+"Nécessite l'amélioration Chanson et Félicité \n Une bande de Troubadours elfes \n Limité à 5\n\nLa longue histoire des Elfes est souvent racontée à travers des chansons et des musiques, à la fois tristes et joyeuses."
 END
 
 CONTROLBAR:ToolTipBuildArnorShieldGuardHordeCav
@@ -58322,12 +58321,12 @@ End
 CONTROLBAR:ToolTipWildShelobPoisonedStinger
 //"Requiert : niveau 6\n Empoisonne l'ennemi visé et lui inflige des dégâts progressifs"
 //"Requiert : niveau 6\n Immobilise et empoisonne l'ennemi visé en lui infligeant des dégâts progressifs.\n\nClic gauche sur l'icône puis clic gauche sur la cible"
-"Requiert : niveau 4\n Le dard et les mandibules d'Arachnée sécrètent un poison virulent : elle immobilise et empoisonne l'ennemi visé en lui infligeant des dégâts progressifs.\n\nClic gauche sur l'icône puis clic gauche sur la cible"
+"Requiert : niveau 4\n Le dard et les mandibules d'Arachne sécrètent un poison virulent : elle immobilise et empoisonne l'ennemi visé en lui infligeant des dégâts progressifs.\n\nClic gauche sur l'icône puis clic gauche sur la cible"
 End
 
 CONTROLBAR:ToolTipSpecialAbilityWildShelobTunnel
-//"Requiert : niveau 10\n Permet à Arachnée de creuser un tunnel sous le sol pour réapparaître n'importe où.\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
-"Requiert : niveau 7\n Permet à Arachnée de creuser un tunnel sous le sol pour réapparaître n'importe où.\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
+//"Requiert : niveau 10\n Permet à Arachne de creuser un tunnel sous le sol pour réapparaître n'importe où.\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
+"Requiert : niveau 7\n Permet à Arachne de creuser un tunnel sous le sol pour réapparaître n'importe où.\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
 END
 
 // ======================== VERSION 5.0 ===============    ;;,;;
@@ -58764,7 +58763,7 @@ END
 
 CONTROLBAR:ToolTipUpgradeDwarvenForgeWorksLevel3
 //"Vitesse de construction +25%.\n Permet de rechercher des Cotte de mailles en mithril, Marteaux de siège, and Projectile incendiaire upgrades\n Adds Defensive Axe Tower"
-"Vitesse de construction +25%.\n Permet de rechercher les améliorations Runes Khûzdul et Armures de Plates Naines.\nAjoute une tour d'archers défensive."
+"Vitesse de construction +25%.\n Permet de rechercher les améliorations Runes Khûzdul et Armures de Plaques Naines.\nAjoute une tour d'archers défensive."
 END
 
 CONTROLBAR:ToolTipUpgradeDwarvenWorkshopLevel2
@@ -61559,7 +61558,7 @@ CONTROLBAR:PurchaseUpgradeMordorFortressShelobTerror
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeMordorFortressShelobTerror
-"Requiert : Sorcellerie de Morgul\nInvoque temporairement Arachnée, dernier enfant d'Ungoliant, pour défendre la forteresse.\n\nC'est une créature démoniaque à l'apparence d'une araignée, une horreur qui hante la Terre du Millieu depuis de nombreuses années, chassant tout ce qui vit."
+"Requiert : Sorcellerie de Morgul\nInvoque temporairement Arachne, dernier enfant d'Ungoliant, pour défendre la forteresse.\n\nC'est une créature démoniaque à l'apparence d'une araignée, une horreur qui hante la Terre du Millieu depuis de nombreuses années, chassant tout ce qui vit."
 END
 
 CONTROLBAR:ToolTipMordorFortressShelobTerror
@@ -64388,7 +64387,7 @@ CONTROLBAR:PurchaseUpgradeRivendellFortressMerriment
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeRivendellFortressMerriment
-"Permet le recrutement des Fêtards de Fondconbe du Conservatoire"
+"Permet le recrutement des Troubadours de Fondconbe du Conservatoire"
 END
 
 UPGRADE:RivendellMedicine
@@ -64839,7 +64838,7 @@ CONTROLBAR:RevelerWeapon
 END
 
 CONTROLBAR:ToolTipRevelerWeapon
-"Les Fêtards n'infligent pas de dégâts mais peuvent attaquer les unités en réduissant leur vitesse de déplacement de 10% \n et structures réduissant leur armure de 5% tout en la ciblant \n Peu s'accumuler avec les autres Fêtards \n Capacité passive"
+"Les Troubadours n'infligent pas de dégâts mais peuvent attaquer les unités en réduissant leur vitesse de déplacement de 10% \n et structures réduissant leur armure de 5% tout en la ciblant \n Peu s'accumuler avec les autres Troubadours \n Capacité passive"
 END
 
 CONTROLBAR:StayAWhileAndListen
@@ -64863,7 +64862,7 @@ CONTROLBAR:RevelersAkallabeth
 END
 
 CONTROLBAR:ToolTipRevelersAkallabeth
-"Les Fêtards peuvent cibler des unités pour diminuer leur vitesse de 5% jusqu'à 25% et les bâtiments pour diminuer leur armure de 5% jusqu'à 25% \n Capacité passive \n Inflige des dégâts important au fil du temps aux structures \n Peut être lancé à grande distance \n Clic gauche sélectionner Clic gauche sur cible"
+"Les Troubadours peuvent cibler des unités pour diminuer leur vitesse de 5% jusqu'à 25% et les bâtiments pour diminuer leur armure de 5% jusqu'à 25% \n Capacité passive \n Inflige des dégâts important au fil du temps aux structures \n Peut être lancé à grande distance \n Clic gauche sélectionner Clic gauche sur cible"
 END
 
 //----------Arwen-------------------------------------
@@ -66420,7 +66419,7 @@ MAP:MAPNewWorMinhiriath/Desc
 END
 
 MAP:MAPNewWorMirkwood/Desc
-"Au début du troisième âge, Thranduil remplaça Oropher comme roi des elfes de la Forêt Noire. L'arrivée de Sauron provoqua un assombrissement de la forêt, qui prit alors le nom de Forêt Noire. Les enfants d'Arachnée, des araignées géantes, ainsi que des chauves-souris et des orcs au service de Dol Guldur occupèrent la forêt qui devint plus épaisse, plus sombre et couverte de toiles d'araignée."
+"Au début du troisième âge, Thranduil remplaça Oropher comme roi des elfes de la Forêt Noire. L'arrivée de Sauron provoqua un assombrissement de la forêt, qui prit alors le nom de Forêt Noire. Les enfants d'Arachne, des araignées géantes, ainsi que des chauves-souris et des orcs au service de Dol Guldur occupèrent la forêt qui devint plus épaisse, plus sombre et couverte de toiles d'araignée."
 END
 
 MAP:MAPNewWorMoria/Desc
@@ -68418,11 +68417,11 @@ BANNERUI:HobbitBounders
 END
 
 CONTROLBAR:LW_Unit_RivendellRevelerHorde
-"Bataillon de Fêtards"
+"Bataillon de Troubadours"
 END
 
 CONTROLBAR:LW_Unit_RivendellRevelerHordePlural
-"Bataillons de Fêtards"
+"Bataillons de Troubadours"
 END
 
 CONTROLBAR:LW_ToolTip_RivendellRevelerHorde
@@ -68434,11 +68433,11 @@ CONTROLBAR:LW_ToolTipBuild_RivendellRevelerHorde
 END
 
 BANNERUI:Reveler
-"Fêtard"
+"Troubadours"
 END
 
 BANNERUI:Revelers
-"Fêtards"
+"Troubadours"
 END
 
 CONTROLBAR:LW_Unit_TookArcherHorde
