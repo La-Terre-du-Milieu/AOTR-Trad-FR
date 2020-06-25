@@ -10640,7 +10640,7 @@ OBJECT:MinasTirithBattleTower
 END
 
 OBJECT:MinasTirithTrebuchetOutcropping
-"Minas Tirith Trebuchet Rampart"
+"Minas Tirith TrÈbuchet Rampart"
 END
 
 OBJECT:MinasTirithPosternGate
@@ -15814,7 +15814,7 @@ CONTROLBAR:ToolTipBuildGondorArcherHorde
 END
 
 CONTROLBAR:ToolTipBuildGondorArcherHorde_Osgiliath
-"Fort contre l'Infantrie and Monsters \nAble to form combo hordes for improved defensive capabilities\n\nWielding great bows of heartwood, Anùrien archers played a vital role in the defense of the White City."
+"Fort contre l'Infantrie and Monsters \nAble to form combo hordes for improved defensive capabilities\n\nWielding great bows of heartwood, AnÛrien archers played a vital role in the defense of the White City."
 END
 
 CONTROLBAR:ToolTipBuildGondorRangerHorde
@@ -16025,7 +16025,7 @@ CONTROLBAR:ConstructTreebeard
 END
 
 CONTROLBAR:ToolTipConstructRohanBannerUnits
-"Requiert : Armurerie niveau 2\n Upgrades unit: +1 Unit Level"
+"Requiert : Armurerie niveau 2\n Upgrades unit: +1 Unit Niveau"
 END
 CONTROLBAR:ToolTipBuildRohanArcherHorde
 "Forts contre les cavaliers et les monstres"
@@ -16558,7 +16558,7 @@ CONTROLBAR:ToolTipBuildIsengardWargRider
 "Requiert : Fosse des Wargs niveau 2\n Les Wargs de la Terre du Milieu sont des loups gÈants malfaisants ‡ l'apparence de hyËnes, faisant nÈanmoins preuve d'une intelligence inattendue, si grands et si robustes que certains Orques s'en servent comme monture.\n\nForts contre les ÈpÈistes et les archers"
 END
 CONTROLBAR:ToolTipBuildWildWargRider
-"Requiert : Niveau 2 Warg Cage\n Fort contre Swordsmen and Archers \n \n For generations, Orques have ridden Wargs - not as masters, but as equals - to track and ambush the Free Peoples."
+"Requiert : Niveau 2 Warg Cage\n Fort contre EpÈiste and Archers \n \n For generations, Orques have ridden Wargs - not as masters, but as equals - to track and ambush the Free Peoples."
 END
 
 CONTROLBAR:ToolTipBuildIsengardSiegeBallista
@@ -19132,7 +19132,7 @@ APT:FirstTrained
 END
 
 APT:UnitCurrentLevel
-"Unit Current Level"
+"Unit Current Niveau"
 END
 
 APT:MissionEnemiesVanquished
@@ -20020,7 +20020,7 @@ APT:Ladder
 END
 
 APT:GamesInProgress
-"Games In Progress"
+"Jeu en Cours"
 END
 
 APT:PlayersOnline
@@ -20152,7 +20152,6 @@ APT:TotalTimePlayedColon
 "Total Time Played:"
 END
 
-
 APT:NextLevel
 "Prochain niveau :"
 END
@@ -20230,19 +20229,19 @@ APT:TotalGamesPlayedColon
 END
 
 APT:CareerLadderGames1vs1Colon
-"Career Games Played On 1 contre1 Ladder:"
+"Career Games Played On 1 contre 1 Ladder:"
 END
 
 APT:CareerLadderGames2vs2Colon
-"Career Games Played On 2 contre2 Ladder:"
+"Career Games Played On 2 contre 2 Ladder:"
 END
 
 APT:HighestRankColon
-"Highest Au Niveau on 1 contre1 Ladder:"
+"Highest Au Niveau on 1 contre 1 Ladder:"
 END
 
 APT:HighestRank2Colon
-"Highest Au Niveau on 2 contre2 Ladder:"
+"Highest Au Niveau on 2 contre 2 Ladder:"
 END
 
 APT:CareerDisconnectsColon
@@ -20304,8 +20303,6 @@ END
 APT:OnlineEAAccountName
 "Nom compte T3A"
 END
-
-
 
 APT:WinsNumFormat
 "%d Points"
@@ -20920,7 +20917,6 @@ LW:Evil_HelmsDeep
 "Attack Le Gouffre de Helm."
 END
 
-
 LW:Evil_Fangorn
 // Evil Campaign help text for Fangorn
 "Click on Fangorn."
@@ -21426,7 +21422,7 @@ End
 
 LW:DisplayNameIronHills
 // Region display name in the living world
-"Iron Hills"
+"Monts de Fer"
 End
 
 LW:DisplayNameIsengard
@@ -21501,7 +21497,7 @@ End
 
 LW:DisplayNameNearHarad
 // Region display name in the living world
-"Near Harad"
+"Proche Harad"
 End
 
 LW:DisplayNameBrownlands
@@ -21581,7 +21577,7 @@ End
 
 LW:DisplayNameWestfold
 // Region display name in the living world
-"Westfold"
+"Ouestfold"
 End
 
 LW:DisplayNameWitheredHeath
@@ -22145,8 +22141,9 @@ END
 LWA:CorsairsArmy
 "ArmÈe des Pirates"
 END
+
 LWA:GuldurArmy
-"Dol Guldur Army"
+"ArmÈe de Dol Guldur"
 END
 
 LWA:OathbreakersArmy
@@ -22380,7 +22377,6 @@ End
 WOTRTutorial:LW_InstructionText31
 "Good Luck!"
 End
-
 
 WOTRSCRIPT:WOTR_Tutorial003subtitle
 "The War Of The Ring is a turn-based strategic game of territory conquest, resource management, and epic confrontations that takes place over the lands of Middle-earth."
@@ -22839,12 +22835,12 @@ End
 
 BANNERUI:EvilMan
 // Singluar name of the evil men category displayed in the army summary from the banner ui
-"Evil Man"
+"Mauvais Homme"
 End
 
 BANNERUI:EvilMen
 // Plural name of the evil men category displayed in the army summary from the banner ui
-"Evil Men"
+"Mauvais Hommes"
 End
 
 BANNERUI:Trebuchet
@@ -23043,12 +23039,12 @@ End
 
 BANNERUI:MordorDrummerTroll
 // Singluar name of the Mordor Troll-tambour category displayed in the army summary for WotR
-"Troll-tambour"
+"Troll-Tambour"
 End
 
 BANNERUI:MordorDrummerTrolls
 // Plural name of the Mordor Troll-tambour category displayed in the army summary for WotR
-"Trolls-tambour"
+"Trolls-Tambour"
 End
 
 BANNERUI:MordorAttackTroll
@@ -24331,7 +24327,7 @@ OBJECT:GondorBarracksDescription
 END
 
 OBJECT:RohanBarracksDescription
-"Generates resources based on available terrain\nLevel 2: +10% de vitesse de construction\n Level 3: +25% de vitesse de construction"
+"GÈnËre des ressources selon le terrain disponible \n Niveau 2: +10% de vitesse de construction\n Niveau 3: +25% de vitesse de construction"
 END
 
 OBJECT:GondorArcheryRangeDescription
@@ -24339,7 +24335,7 @@ OBJECT:GondorArcheryRangeDescription
 END
 
 OBJECT:RohanArcheryRangeDescription
-"Generates resources based on available terrain\nLevel 2: +10% de vitesse de construction\n Level 3: +25% de vitesse de construction"
+"GÈnËre des ressources selon le terrain disponible \n Niveau 2: +10% de vitesse de construction\n Niveau 3: +25% de vitesse de construction"
 END
 
 OBJECT:GondorStablesDescription
@@ -24691,47 +24687,47 @@ OBJECT:HordeGondorArcher
 END
 
 OBJECT:HordeGondorSoldierCombo
-"Anùrien Soldiers"
+"AnÛrien Soldiers"
 END
 
 CONTROLBAR:LW_Unit_GondorFighterHordeCombo
-"Anùrien Soldiers combinÈ Batallion"
+"AnÛrien Soldiers combinÈ Batallion"
 END
 
 CONTROLBAR:LW_Unit_GondorFighterHordeComboPlural
-"Anùrien Soldiers combinÈ Batallions"
+"AnÛrien Soldiers combinÈ Batallions"
 END
 
 CONTROLBAR:LW_ToolTip_GondorFighterHordeCombo
-"Type d'unitÈ: Elite Infantry\n Fort contre les Piquiers\n"
+"Type d'unitÈ: Elite Infantrie \n Fort contre les Piquiers"
 END
 
 OBJECT:HordeGondorSpearmenCombo
-"Anùrien Pikemen"
+"AnÛrien Piquiers "
 END
 
 CONTROLBAR:LW_Unit_GondorSpearmenHordeCombo
-"Anùrien Pikemen combinÈ Batallion"
+"AnÛrien Piquiers  combinÈ Batallion"
 END
 
 CONTROLBAR:LW_Unit_GondorSpearmenHordeComboPlural
-"Anùrien Pikemen combinÈ Batallions"
+"AnÛrien Piquiers  combinÈ Batallions"
 END
 
 CONTROLBAR:LW_ToolTip_GondorSpearmenHordeCombo
-"Type d'unitÈ: Elite Pikemen\n Fort contre la Cavalerie\n"
+"Type d'unitÈ: Elite Piquiers \n Fort contre la Cavalerie\n"
 END
 
 OBJECT:HordeGondorArcherCombo
-"Anùrien Archers"
+"AnÛrien Archers"
 END
 
 CONTROLBAR:LW_Unit_GondorArcherHordeCombo
-"Anùrien Archers combinÈ Batallion"
+"AnÛrien Archers combinÈ Batallion"
 END
 
 CONTROLBAR:LW_Unit_GondorArcherHordeComboPlural
-"Anùrien Archers combinÈ Batallions"
+"AnÛrien Archers combinÈ Batallions"
 END
 
 CONTROLBAR:LW_ToolTip_GondorArcherHordeCombo
@@ -24743,15 +24739,15 @@ OBJECT:HordeGondorSoldierArcherCombo
 END
 
 CONTROLBAR:LW_Unit_GondorFighterArcherHorde
-"Anùrien Soldiers - Anùrien Archers Batallion"
+"AnÛrien Soldiers - AnÛrien Archers Batallion"
 END
 
 CONTROLBAR:LW_Unit_GondorFighterArcherHordePlural
-"Anùrien Soldiers - Anùrien Archers Batallions"
+"AnÛrien Soldiers - AnÛrien Archers Batallions"
 END
 
 CONTROLBAR:LW_ToolTip_GondorFighterArcherHorde
-"Type d'unitÈ: Elite Infantry and Elite Archer\n Fort contre les Piquiers and Infantry\n"
+"Type d'unitÈ: Elite Infantrie and Elite Archer\n Fort contre les Piquiers and Infantrie\n"
 END
 
 OBJECT:HordeGondorSpearmenArcherCombo
@@ -24759,51 +24755,51 @@ OBJECT:HordeGondorSpearmenArcherCombo
 END
 
 CONTROLBAR:LW_Unit_GondorFighterSpearmenHorde
-"Anùrien Pikemen - Anùrien Archers Batallion"
+"AnÛrien Piquiers  - AnÛrien Archers Batallion"
 END
 
 CONTROLBAR:LW_Unit_GondorFighterSpearmenHordePlural
-"Anùrien Pikemen - Anùrien Archers Batallions"
+"AnÛrien Piquiers  - AnÛrien Archers Batallions"
 END
 
 CONTROLBAR:LW_ToolTip_GondorFighterSpearmenHorde
-"Type d'unitÈ: Elite Archer and Elite Pikemen\n Fort contre l'Infantrie and Cavalry\n"
+"Type d'unitÈ: Elite Archer and Elite Piquiers \n Fort contre l'Infantrie and Cavalerie\n"
 END
 
 OBJECT:HordeGondorSpearmenRangerCombo
-"Piquiers de l'AnÛrien - Ithilien RÙdeurs Horde"
+"Piquiers de l'AnÛrien - Horde de RÙdeurs Ithilien"
 END
 
 OBJECT:HordeGondorFighterDoubleCombo
-"AnÛrien Soldiers - Piquiers de l'AnÛrien Horde"
+"AnÛrien Soldiers - Horde de Piquiers de l'AnÛrien"
 END
 
 CONTROLBAR:LW_Unit_GondorFighterDoubleCombo
-"Anùrien Soldiers - Anùrien Pikemen Bataillon"
+"AnÛrien Soldiers - AnÛrien Piquiers  Bataillon"
 END
 
 CONTROLBAR:LW_Unit_GondorFighterDoubleComboPlural
-"Anùrien Soldiers - Anùrien Pikemen Bataillons"
+"AnÛrien Soldiers - AnÛrien Piquiers  Bataillons"
 END
 
 CONTROLBAR:LW_ToolTip_GondorFighterDoubleCombo
-"Type d'unitÈ: Elite Infantry and Elite Pikemen\n Fort contre les Piquiers and Cavalry\n"
+"Type d'unitÈ: Elite Infantrie et Elite Piquiers \n Fort contre les Piquiers et Cavalerie"
 END
 
 OBJECT:HordeGondorSoldierPikemenCombo
-"AnÛrien Soldier - Piquiers de l'AnÛrien Horde"
+"Soldat d'AnÛrienr - Horde de Piquiers de l'AnÛrien"
 END
 
 OBJECT:HordeGondorSoldierRangerCombo
-"AnÛrien Soldier - Ithilien RÙdeur Horde"
+"Soldat d'AnÛrien - Horde de RÙdeur Ithilien"
 END
 
 OBJECT:HordeGondorSoldierTrebuchetCombo
-"AnÛrien Soldier - Trebuchet Horde"
+"Soldat d'AnÛrien - Horde de TrÈbuchet"
 END
 
 OBJECT:HordeGondorTowerGuardTrebuchetCombo
-"Minas Tirith Citadel Guard - Trebuchet Horde"
+"Garde de la Citadelle de Minas Tirith - Horde de TrÈbuchet"
 END
 
 OBJECT:HordeGondorKnight
@@ -24823,11 +24819,11 @@ OBJECT:HordeGondorTowerGuardKnightCombo
 END
 
 OBJECT:HordeGondorTowerGuardArcherCombo
-"Minas Tirith Citadel Guard - Archers de l'AnÛrien Horde"
+"Garde de la Citadelle de Minas Tirith - Horde d'Archers de l'AnÛrien"
 END
 
 OBJECT:HordeGondorTowerGuardRangerCombo
-"Minas Tirith Citadel Guard - Ithilien RÙdeur Horde"
+"Garde de la Citadelle de Minas Tirith - Horde de RÙdeur Ithilien"
 END
 
 OBJECT:HordeRohanRohirrim
@@ -24871,7 +24867,7 @@ OBJECT:HordeRohanElves
 END
 
 OBJECT:HordeRohanElvesCombo
-"Guerriers de la LÛrien Battle Line???"
+"Guerriers de la LÛrien"
 END
 
 OBJECT:HordeOathBreakers
@@ -24891,7 +24887,7 @@ OBJECT:HordeIsengardCrossbowPikemanCombo
 END
 
 OBJECT:HordeIsengardFighterLadderCombo
-"Uruk-HaÔ - Ladder"
+"Uruk-HaÔ - Echelle"
 END
 
 OBJECT:HordeIsengardPikemen
@@ -24915,11 +24911,11 @@ OBJECT:HordeIsengardWargRiders
 END
 
 OBJECT:HordeWildMenOfDunland
-"Homme sauvage du Pays de Dun"
+"Homme Sauvage du Pays de Dun"
 END
 
 OBJECT:HordeWildmanANGRhudaur
-"Hommes des collines loyalistes du Rhudaur"
+"Hommes des Collines loyalistes du Rhudaur"
 END
 
 OBJECT:HordeMordorOrcs
@@ -24967,11 +24963,11 @@ OBJECT:HordeMordorEasterlingEasterlingCombo
 END
 
 OBJECT:HordeMordorEasterlingEasterlingCombo3
-"Orientaux Phalange - Orientaux Swordsmen"
+"Orientaux Phalange - Orientaux EpÈiste"
 END
 
 OBJECT:HordeMordorEasterlingEasterlingCombo2
-"Orientaux Swordsmen - Orientaux Archers"
+"Orientaux EpÈiste - Orientaux Archers"
 END
 
 OBJECT:HordeMordorHaradrim
@@ -25031,7 +25027,7 @@ END
 
 APT:PlayerLevel
 // Context: Players level on loading screen
-"Player Level"
+"Player Niveau"
 END
 
 APT:AcceptCreate
@@ -25741,7 +25737,7 @@ BONUSROUND:SPSGOODDEADMARSHESSCARCE
 "Note: Resources are scarce in this region."
 END
 BONUSROUND:SPSGOODDEADMARSHESCAVALRY
-"Note: Cavalry cannot be built."
+"Note: Cavalerie cannot be built."
 END
 
 //CAIR ANDROS
@@ -25791,7 +25787,7 @@ BONUSROUND:SPSGOODEMYNARNENKNIGHTS
 "Bonus : Make contact with Gondor Knights hiding in this region."
 END
 BONUSROUND:SPSGOODEMYNARNENSHIELDS
-"Bonus : Acheter shields for 3 Cavalry Battalions."
+"Bonus : Acheter shields for 3 Cavalerie Battalions."
 END
 
 //CENTRAL ITHILIEN
@@ -25968,7 +25964,7 @@ END
 
 //DUNHARROW
 BONUSROUND:SPSEVILDUNHARROWISE
-"Bonus : Combine 5 hordes of Crossbowmen with Pikemen or Warriors."
+"Bonus : Combine 5 hordes of Crossbowmen with Piquiers  or Warriors."
 END
 BONUSROUND:SPSEVILDUNHARROWMOR
 "Bonus : Combine 5 hordes of Archers with Guerriers Orques."
@@ -25980,7 +25976,7 @@ BONUSROUND:SPSEVILDRUADANFORESTDESTROY
 "Bonus : Destroy all the wild Trolls that roam this region."
 END
 BONUSROUND:SPSEVILDRUADANFORESTISE
-"Bonus : Combine 5 hordes of Crossbowmen with Pikemen or Warriors."
+"Bonus : Combine 5 hordes of Crossbowmen with Piquiers  or Warriors."
 END
 BONUSROUND:SPSEVILDRUADANFORESTMOR
 "Bonus : Combine 5 hordes of Archers with Guerriers Orques."
@@ -26304,7 +26300,7 @@ CONTROLBAR:ToolTipPurchaseUpgradeRohanFireArrows
 END
 
 CONTROLBAR:PurchaseTechnologyRohanForgedBlades
-"Rechercher Forged Blade"
+"Rechercher les Lames forgÈes"
 END
 
 CONTROLBAR:ToolTipPurchaseTechnologyRohanForgedBlades
@@ -26369,7 +26365,6 @@ END
 UPGRADE:MordorBasicTraining
 "Porte-Ètendard"
 END
-
 
 UPGRADE:RohanHeavyArmor
 "Armure lourde"
@@ -26443,7 +26438,6 @@ TOOLTIP:LackLevel2ForbiddenPool
 "Requiert : Lac Interdit niveau 2 "
 END
 
-
 CONTROLBAR:GoHarvest
 "RÈcolter les ressources"
 END
@@ -26459,9 +26453,6 @@ END
 TOOLTIP:LackLevel3TavernFireArrows
 "Requiert : Taverne niveau 3"
 END
-
-
-
 
 
 
@@ -27399,11 +27390,11 @@ CONTROLBAR:ToolTipCaptureBuilding
 END
 
 CONTROLBAR:SelectUpgradesMenFortress
-"AmÈliorer la forteresse"
+"AmÈliorer la Forteresse"
 END
 
 CONTROLBAR:ToolTipCommandSelectUpgradesMenFortress
-"Acheter des amÈliorations et des dÈfenses supplÈmentaires pour la forteresse."
+"Acheter des amÈliorations et des dÈfenses supplÈmentaires pour la Forteresse."
 END
 
 CONTROLBAR:SelectRevivablesMenFortress
@@ -27411,11 +27402,11 @@ CONTROLBAR:SelectRevivablesMenFortress
 END
 
 CONTROLBAR:ToolTipCommandSelectRevivablesMenFortress
-"Recruter et ranimer des hÈros"
+"Recruter et ranimer des HÈros"
 END
 
 CONTROLBAR:ConstructMenTrebuchetExpansion
-"Extension TrÈbuchet"
+"Extension de TrÈbuchet"
 END
 
 CONTROLBAR:ToolTipConstructMenTrebuchetExpansion
@@ -27427,7 +27418,7 @@ CONTROLBAR:ConstructMenArrowTowerExpansion
 END
 
 CONTROLBAR:ConstructMenDormitory
-"Extension Quartiers"
+"Extension d'un Quartiers"
 END
 
 CONTROLBAR:ToolTipConstructMenArrowTowerExpansion
@@ -27435,7 +27426,7 @@ CONTROLBAR:ToolTipConstructMenArrowTowerExpansion
 END
 
 CONTROLBAR:Command_ConstructMenWallHubExpansion
-"Extension Assise"
+"Extension d'Assise"
 END
 
 CONTROLBAR:ToolTipCommand_ConstructMenWallHubExpansion
@@ -27455,14 +27446,13 @@ CONTROLBAR:PurchaseUpgradeMenFortressFlamingMunitions
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeMenFortressFlamingMunitions
-//"Ajoute des dÈg‚ts de feu ‡ toutes les tours et trÈbuchets reliÈs"
 "Ajoute des dÈg‚ts de feu ‡ toutes les tours et engins de siËge reliÈs."
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeRohanFortressFlamingMunitions
 //"Adds fire damage to all attached towers and trebuchets"
 //"Adds fire damage to all attached towers and machines"
-"Adds fire damage to all attached towers"
+"Ajoute des dÈg‚ts de feu ‡ toutes les tours"
 END
 
 CONTROLBAR:PurchaseUpgradeMenFortressBanners
@@ -27482,11 +27472,11 @@ CONTROLBAR:PurchaseUpgradeMenFortressIvoryTower
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeMenFortressIvoryTower
-"ConfËre le pouvoir de vision au PalantÌr et permet de recruter les Gardes de la Fontaine.\n Augmente la portÈe de vision de la forteresse."
+"ConfËre le pouvoir de vision au PalantÌr et permet de recruter les Gardes de la Fontaine.\n Augmente la portÈe de vision de la Forteresse."
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeMenFortressIvoryTower_WOTR
-"Provides Palantir Vision Power \n Increases Fortress vision range"
+"Donne le Pouvoir de Vision du Palantir \n Augmente la portÈe de vision de la Forteresse"
 END
 
 CONTROLBAR:PurchaseUpgradeMenFortressBoilingOil
@@ -27650,7 +27640,7 @@ CONTROLBAR:ToolTipConstructDwarvenHusbandry
 END
 
 CONTROLBAR:ToolTipConstructDwarvenHusbandryBlueMountains
-"Recruits Iron Hills Troops and War Machines \n Increases command point limit by 25"
+"Recrute des troupes des Monts de Fer et des Machines de Guerre \n Augmente la limite des Points de Commandement de 25"
 END
 
 CONTROLBAR:ConstructDwarvenWorkshop
@@ -27776,7 +27766,7 @@ CONTROLBAR:PurchaseUpgradeDwarvenFortressSiegeKegs
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeDwarvenFortressSiegeKegs
-"Soigne les alliÈs proches de la forteresse et dans les Halls.\nAjoute des points de vie ‡ la forteresse."
+"Soigne les alliÈs proches de la forteresse et dans les Salles. \n Ajoute des points de vie ‡ la forteresse."
 END
 
 CONTROLBAR:PurchaseUpgradeDwarvenFortressMightyCatapult
@@ -27788,7 +27778,7 @@ CONTROLBAR:ToolTipPurchaseUpgradeDwarvenFortressMightyCatapult
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeDwarvenFortressMightyCatapult_WOTR
-"Grants heavy armor to Dwarf heroes \nEnables the recruitment of Iron Hills troupes \n and Ered Luin troupes"
+"Donne une Armure Lourde aux HÈros Nains \n Permet le recrutement des troupes des Monts de Fer \n et aux troupes d'Ered Luin "
 END
 
 CONTROLBAR:PurchaseUpgradeDwarvenFortressOilCasks
@@ -27849,7 +27839,6 @@ CONTROLBAR:TooltipCommand_DwarvenWallUpgradeToHub
 "Permet la construction de murs supplÈmentaires."
 END
 
-
 CONTROLBAR:Command_DwarvenWallUpgradeToBanners
 "BanniËres du Corbeau"
 END
@@ -27879,7 +27868,7 @@ CONTROLBAR:Command_DwarvenWallUpgradeToPosternGate
 END
 
 CONTROLBAR:TooltipCommand_DwarvenWallUpgradeToPosternGate
-"Allows friendly units pass through the wall\n Invisible to enemies"
+"Permet aux unitÈs amies de passer ‡ traves le mur\n Invisible pour les ennemis"
 END
 
 CONTROLBAR:Command_DwarvenWallUpgradeToTower
@@ -27891,7 +27880,7 @@ CONTROLBAR:TooltipCommand_DwarvenWallUpgradeToTower
 END
 
 CONTROLBAR:TooltipCommand_RohanWallUpgradeToTower
-"Spawns archers that can fire at nearby enemy units"
+"Fait apparaÓtre des archers qui peuvent tirer sur les unitÈs ennemies proches"
 END
 
 CONTROLBAR:Command_DwarvenWallUpgradeToCatapult
@@ -27899,7 +27888,7 @@ CONTROLBAR:Command_DwarvenWallUpgradeToCatapult
 END
 
 CONTROLBAR:Command_RohanWallUpgradeToCatapult
-"Rohirri&c Onager"
+"Onagre Rohirrique (&c)"
 END
 
 CONTROLBAR:TooltipCommand_DwarvenWallUpgradeToCatapult
@@ -27915,7 +27904,7 @@ CONTROLBAR:GloinHotkey
 END
 
 CONTROLBAR:GloinRecruit
-"Recrutez le pËre de Gimli.\n\n GlÛin faisait partie des guerriers les plus douÈs et les plus expÈrimentÈs qui partirent reconquÈrir le Mont Solitaire avec Thorin Ecu-de-ChÍne. Au cour de cette quÍte, il prouva sa force et sa valeur d'innombrables fois. Lorsque D·in Pied-d'Acier succÈda ‡ Thorin sur le trÙne d'Erebor, nul ne fut plus fidËle au nouveau roi que lui."
+"Recrutez le pËre de Gimli.\n\n GlÛin faisait partie des guerriers les plus douÈs et les plus expÈrimentÈs qui partirent reconquÈrir le Mont Solitaire avec Thorin Ecu-de-ChÍne. Au cour de cette quÍte, il prouva sa force et sa valeur d'innombrables fois. Lorsque D·in Pied-d'Acier succÈda ‡ Thorin sur le trÙne d'Erebor, nul ne fut plus fidËle au nouveau Roi que lui."
 END
 
 CONTROLBAR:GloinRevive
@@ -27951,11 +27940,11 @@ OBJECT:DwarvenCastleWallCatapultSmall
 END
 
 OBJECT:RohanCastleCatapultExpansion
-"Onager Expansion"
+"Extension d'Onagre"
 END
 
 OBJECT:RohanCastleWallCatapultSmall
-"Onager"
+"Onagre"
 END
 
 OBJECT:DwarvenCastleWallTowerSmall
@@ -27979,7 +27968,7 @@ OBJECT:DwarvenBattleWagonPhalanx
 END
 
 OBJECT:HordeDwarvenAxeThrower
-"Axe Throwers"
+"Les Lanceurs de Hache"
 END
 
 /////////////////////////////////////////
@@ -28003,7 +27992,7 @@ CONTROLBAR:ToolTipBuildDwarvenPhalanxHorde
 END
 
 CONTROLBAR:ConstructDwarvenAxeThrowerHorde
-"Lanceur de Hache"
+"Les Lanceurs de Hache"
 END
 
 CONTROLBAR:ToolTipBuildDwarvenAxeThrowerHorde
@@ -28511,7 +28500,7 @@ CONTROLBAR:ConstructElvenStable
 END
 
 //CONTROLBAR:ToolTipElvenBarracks
-//"Trains Elven Cavalry"
+//"Trains Elven Cavalerie"
 //END
 
 CONTROLBAR:ConstructElvenGreenPastureLevel2Upgrade
@@ -28885,7 +28874,7 @@ CONTROLBAR:LW_Unit_GondorFighterDoubleHordePlural
 END
 
 CONTROLBAR:LW_ToolTipBuild_GondorFighterDoubleHorde
-"Type d'unitÈ : infanterie d'Èlite and Elite Pikemen\n Forts contre la cavalerie et les piquiers\n "
+"Type d'unitÈ : infanterie d'Èlite and Elite Piquiers \n Forts contre la cavalerie et les piquiers\n "
 END
 
 CONTROLBAR:LW_ToolTip_GondorFighterDoubleHorde
@@ -28973,11 +28962,11 @@ CONTROLBAR:LW_Unit_GondorLancerHordePlural
 END
 
 CONTROLBAR:LW_ToolTipBuild_GondorLancerHorde
-"Type d'unitÈ : Shock Cavalry.\n\n Fort contre l'infanterie et les archers\n "
+"Type d'unitÈ : Shock Cavalerie.\n\n Fort contre l'infanterie et les archers\n "
 END
 
 CONTROLBAR:LW_ToolTip_GondorLancerHorde
-"\n Type d'unitÈ : Shock Cavalry.\n\n Fort contre l'infanterie et les archers"
+"\n Type d'unitÈ : Shock Cavalerie.\n\n Fort contre l'infanterie et les archers"
 END
 
 CONTROLBAR:LW_Unit_RohanRohirrimHorde
@@ -30943,7 +30932,7 @@ APT:UnitVeterancyTitle
 END
 
 APT:LW_UnitCurrentLevel
-"Unit Current Level"
+"Unit Current Niveau"
 END
 
 
@@ -40280,7 +40269,7 @@ DIALOGEVENT:MTrBas_OffT068subtitle
 END
 
 DIALOGEVENT:MTrBas_OffT069subtitle
-"*A good wall defense is the Trebuchet. Select any wall segment and build a Trebuchet upgrade on it."
+"*A good wall defense is the TrÈbuchet. Select any wall segment and build a TrÈbuchet upgrade on it."
 END
 
 DIALOGEVENT:MTrBas_OffT070subtitle
@@ -40708,7 +40697,7 @@ DIALOGEVENT:WOTR_Tutorial045subtitle
 END
 
 DIALOGEVENT:WOTR_Tutorial046subtitle
-"*There are four basic unit classes to choose from, Soldier, Archer, Pikeman, and Cavalry. Each unit class has their own distinct traits and capabilities when fighting the other unit classes."
+"*There are four basic unit classes to choose from, Soldier, Archer, Pikeman, and Cavalerie. Each unit class has their own distinct traits and capabilities when fighting the other unit classes."
 END
 
 DIALOGEVENT:WOTR_Tutorial047subtitle
@@ -48011,7 +48000,7 @@ OBJECT:ArnorBaseWall
 END
 
 OBJECT:ArnorBaseWallTreb
-"Fondcombe Trebuchet"
+"Fondcombe TrÈbuchet"
 END
 
 OBJECT:ArnorWatchTower
@@ -53116,7 +53105,7 @@ SCRIPT:PRINCE_RIDES_OUT
 End
 
 SCRIPT:CAVALRY_WARNING
-"ANGMAR OFFICER: Cavalry! Guard the flanks!"
+"ANGMAR OFFICER: Cavalerie! Guard the flanks!"
 End
 
 SCRIPT:FORNOST_BLACKSMITH_HINT
@@ -53713,7 +53702,7 @@ Stat:Killed_Gothmog_Count_Name
 END
 
 Stat:ANGMAR_Infantry_Killed_Name
-"Angmar Infantry tuÈes"
+"Angmar Infantrie tuÈes"
 END
 
 Stat:Killed_AZOG_Count_Name
@@ -55251,11 +55240,11 @@ CONTROLBAR:ToolTipBuildGondorWorkshopLevel3Upgrade
 "Vitesse de construction +25%\n RÈparation amÈliorÈe des machines de siËge endommagÈes proches.\n Ajoute une tour d'archers dÈfensive"
 END
 CONTROLBAR:ToolTipBuildRohanWorkshopLevel2Upgrade
-//"Level 2: +10% vitesse de construction \n Permet de rechercher l'amÈlioration pierres de feu"
+//"Niveau 2: +10% vitesse de construction \n Permet de rechercher l'amÈlioration pierres de feu"
 "Permet d'entrainer des onagres rohirric \n Les machines de siËge proches et endommagÈes se rÈparent \n +10% Vitesse de construction"
 END
 CONTROLBAR:ToolTipBuildRohanWorkshopLevel3Upgrade
-//"Level 3: +25% Vitesse de construction"
+//"Niveau 3: +25% Vitesse de construction"
 "+25% Vitesse de construction \n Les machines de siËges endommagÈes proches sont rÈparÈes plus rapidement"
 END
 
@@ -56323,7 +56312,7 @@ CONTROLBAR:ToolTipBuildWildCaveLevel3Upgrade
 END
 
 CONTROLBAR:ToolTipConstructWildGoblinFissure
-//"Trains semi-Trolls maraudeurs, Half-Troll Swordsmen, Trolls des Cavernes, Giants,\n and CouvÈe de Drakes de feu."
+//"Trains semi-Trolls maraudeurs, Half-Troll EpÈiste, Trolls des Cavernes, Giants,\n and CouvÈe de Drakes de feu."
 "Permet de recruter les Orques et des Trolls de Gundabad."
 END
 
@@ -56340,7 +56329,7 @@ CONTROLBAR:ToolTipBuildWildLodgeLevel3Upgrade_WOTR
 END
 
 CONTROLBAR:ToolTipBuildWildFissureLevel2Upgrade
-//"Niveau 2 : vitesse de construction +10%\n Permet de recruter les Trolls des Cavernes and Half-troll Swordsmen"
+//"Niveau 2 : vitesse de construction +10%\n Permet de recruter les Trolls des Cavernes and Half-troll EpÈiste"
 //"Niveau 2 : vitesse de construction +10%\n Permet de recruter les Trolls des Cavernes"
 "Permet de recruter les Chasseurs de Gundabad \n Vitesse de construction +10%"
 END
@@ -56351,7 +56340,7 @@ CONTROLBAR:ToolTipBuildWildFissureLevel3Upgrade
 END
 
 CONTROLBAR:ToolTipBuildWildFissureLevel3Upgrade_WOTR
-//"Level 3: +25% de vitesse de construction \n Allows training of Mountain Giants and Fire Drake Brood"
+//"Niveau 3: +25% de vitesse de construction \n Allows training of Mountain Giants and Fire Drake Brood"
 "Permet l'entraÓnement des Trolls d'attaque \n +25% de vitesse de construction"
 END
 
@@ -56429,7 +56418,7 @@ CONTROLBAR:ToolTipWildBabyDrakeHorde
 END
 
 CONTROLBAR:ToolTipWildDrake
-//"Forts contre toutes les unitÈs standards except Pikemen\n Requiert : Fissure niveau 3\n Only 2 Drake Broods sont autorisÈs en mÍme temps."
+//"Forts contre toutes les unitÈs standards except Piquiers \n Requiert : Fissure niveau 3\n Only 2 Drake Broods sont autorisÈs en mÍme temps."
 "Le Wyrm des Cavernes est un prÈdateur souterrain cr‚cheur de feu qui rÈside dans les endroits les plus sombres et froids des entrailles de la terre. Bien que dÈpourvus d'ailes et plus petits que les dragons, les Wyrms font partie des crÈatures les plus dangereuses de la Terre du Milieu.\nSeuls 4 Wyrms sont autorisÈs en mÍme temps.\n\nForts contre l'infanterie et les structures."
 END
 
@@ -57262,7 +57251,7 @@ END
 
 CONTROLBAR:LW_ToolTip_ElvenLorienWardenArcherHorde
 //"\nType d'unitÈ: Basic Archer\nStrong at Range"
-"Type d'unitÈ: Basic Pikemen and Basic Archer\n Fort contre la Cavalerie and Swordsmen"
+"Type d'unitÈ: Basic Piquiers  and Basic Archer\n Fort contre la Cavalerie and EpÈiste"
 END
 
 BANNERUI:ElvenMithlondSentry
@@ -57380,20 +57369,20 @@ END
 
 BANNERUI:DwarvenPhalanx
 // Singluar name of the Dwarven Phalange category displayed in the army summary for WotR
-//"Erebor Pikemen"
+//"Erebor Piquiers "
 "Phalange"
 End
 BANNERUI:PluralDwarvenPhalanx
 // Plural name of the Dwarven Phalange category displayed in the army summary for WotR
-//"Erebor Pikemen"
+//"Erebor Piquiers "
 "Phalange"
 End
 CONTROLBAR:LW_Unit_DwarvenPhalanxHorde
-//"Bataillon de Erebor Pikemen"
+//"Bataillon de Erebor Piquiers "
 "Bataillon de Phalange"
 END
 CONTROLBAR:LW_Unit_DwarvenPhalanxHordePlural
-//"Bataillons de Erebor Pikemen"
+//"Bataillons de Erebor Piquiers "
 "Bataillons de Piquiers d'Erebor"
 END
 CONTROLBAR:LW_ToolTipBuild_DwarvenPhalanxHorde
@@ -57893,7 +57882,7 @@ CONTROLBAR:LW_Unit_AngmarDireWolfHordePlural
 "Hordes d'Affreux Loups"
 END
 CONTROLBAR:LW_ToolTipBuild_AngmarDireWolfHorde
-//"Type d'unitÈ : Fast Infantry.\n\n Forts contre les archers et les piquiers\n "
+//"Type d'unitÈ : Fast Infantrie.\n\n Forts contre les archers et les piquiers\n "
 "Type d'unitÈ : infanterie standard\n TrËs forts contre les piquiers\n "
 END
 
@@ -57987,8 +57976,8 @@ CONTROLBAR:ToolTipCAH_Starlight_Palantir
 END
 
 CONTROLBAR:ToolTipDarkGlory
-//"Requiert : niveau 8\n Morgomir and nearby N˙menÛrÈen Noir Swordsmen,\n RÙdeurs Noirs and Thrall Masters gain a major boost to dÈg‚ts et Armor\n\nClic gauche pour activer"
-//"Requiert : niveau 7\n Morgomir and nearby N˙menÛrÈen Noir Swordsmen and RÙdeurs Noirs gain\n +50% dÈg‚ts et +50% armure.\n\nClic gauche pour activer\n Cumulable avec tout autre Bonus ou PÈnalitÈ" 
+//"Requiert : niveau 8\n Morgomir and nearby N˙menÛrÈen Noir EpÈiste,\n RÙdeurs Noirs and Thrall Masters gain a major boost to dÈg‚ts et Armor\n\nClic gauche pour activer"
+//"Requiert : niveau 7\n Morgomir and nearby N˙menÛrÈen Noir EpÈiste and RÙdeurs Noirs gain\n +50% dÈg‚ts et +50% armure.\n\nClic gauche pour activer\n Cumulable avec tout autre Bonus ou PÈnalitÈ" 
 //"Requiert : niveau 7\n Morgomir and nearby Dark D˙nedain gain\n +50% dÈg‚ts, +50% armure.\n\nClic gauche pour activer" 
 //"Requiert : niveau 7\n Morgomir and nearby Dark D˙nedain gain\n +33% dÈg‚ts, +33% armure.\n\nClic gauche pour activer"
 "Requiert : niveau 7\n Type d'Action : Sort\n Morgomir et les Sombres D˙nedain ‡ proximitÈ gagnent +33% dÈg‚ts et +33% armure\n Cumulable avec d'autres Bonus de Sort ou de Charisme.\n\nClic gauche pour activer" 
@@ -61031,7 +61020,7 @@ CONTROLBAR:ToolTipIsengardUglukReinforcements
 END
 
 
-//------------Orientaux Swordsmen---------------
+//------------Orientaux EpÈiste---------------
 
 OBJECT:MordorEasterlingSwordsman
 "Guerrier Oriental"
@@ -62378,7 +62367,7 @@ CONTROLBAR:LW_ToolTip_ElvenNandorBlademasterHorde
 END
 
 CONTROLBAR:LW_ToolTip_ElvenNandorBlademasterHorde_WOTR
-"12 Nandor HÓr-Hathol\n\nType d'unitÈ: HÈros Unit \n Fort contre les Piquiers and Infantry"
+"12 Nandor HÓr-Hathol\n\nType d'unitÈ: HÈros Unit \n Fort contre les Piquiers and Infantrie"
 END
 
 CONTROLBAR:ToolTipBuildNandorBlademasterHorde
@@ -63396,7 +63385,7 @@ CONTROLBAR:LW_Unit_MenofDaleSwordComboHordePlural
 END
 
 CONTROLBAR:LW_ToolTip_MenofDaleSwordHorde
-"\nType d'unitÈ : Elite Infantry\nForts contre les piquiers"
+"\nType d'unitÈ : Elite Infantrie\nForts contre les piquiers"
 END
 
 CONTROLBAR:ToolTipBuildMenofDaleSwordHorde
@@ -67574,7 +67563,7 @@ CONTROLBAR:ToolTipDescriptionRohanWindmill
 END
 
 OBJECT:RohanStablesDescription
-"GÈnËre des ressources selon le terrain disponible \n Niveau 2: +10% de vitesse de construction \n Level 3: +25% de vitesse de construction \n\n Bonus MaÓtre Cavalier \n Type d'Action : Bonus \n Accorde +5% d'armure supplÈmentaire ‡ toutes les unitÈs de Cavalere sur la carte \n S'accumule avec le Charisme et les Sorts \n 1 Ecuries : 5% \n 2 Ecuries : 10% \n 3 Ecuries : 15% \n 4 Ecuries : 20% \n 5 Ecuries : 25% \n 6 Ecuries : 30% \n 7 Ecuries : 35% \n 8+ Ecuries : 40% \n Augmente la limite des points de comandemments de 50"
+"GÈnËre des ressources selon le terrain disponible \n Niveau 2: +10% de vitesse de construction \n Niveau 3: +25% de vitesse de construction \n\n Bonus MaÓtre Cavalier \n Type d'Action : Bonus \n Accorde +5% d'armure supplÈmentaire ‡ toutes les unitÈs de Cavalere sur la carte \n S'accumule avec le Charisme et les Sorts \n 1 Ecuries : 5% \n 2 Ecuries : 10% \n 3 Ecuries : 15% \n 4 Ecuries : 20% \n 5 Ecuries : 25% \n 6 Ecuries : 30% \n 7 Ecuries : 35% \n 8+ Ecuries : 40% \n Augmente la limite des points de comandemments de 50"
 END
 
 GUI:FIELD_DISCOUNT
