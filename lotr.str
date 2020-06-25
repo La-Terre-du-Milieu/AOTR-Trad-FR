@@ -7288,9 +7288,7 @@ END
 
 GUI:CreateTeam1
 // context: Command to Create Team X
-
 "Create Team 1"
-
 END
 
 GUI:CreateTeam1Description
@@ -7386,7 +7384,6 @@ END
 GUI:SelectTeam0Description
 // context: Help text for 'Select Team X' command
 "Select members of team 0."
-
 END
 
 GUI:SelectTeam1
@@ -7585,7 +7582,6 @@ END
 GUI:LocalIPDesc
 // context: IP address of the player computer
 "Local IP"
-
 END
 
 
@@ -7654,7 +7650,7 @@ END
 
 Mouse:DoRepair
 // context: Repair Cursor
-"Repair"
+"Répare"
 END
 
 Mouse:ResumeConstruction
@@ -7664,7 +7660,7 @@ END
 
 Mouse:Enter
 // context: Cursor to order units to enter buildings/transports
-"Enter"
+"Entrer"
 END
 
 Mouse:SetRallyPoint
@@ -7679,12 +7675,12 @@ End
 
 Mouse:Invalid
 // contest: Invalid command cursor.
-"INVALID"
+"INVALIDE"
 END
 
 Mouse:PlaceBeacon
 // context: Place a Becon cursor (Beacon is like Post-It note in the map for the player)
-"Place Beacon"
+"Place une balise"
 END
 
 // comment:
@@ -7783,7 +7779,7 @@ CONTROLBAR:ToolTipToggleWargLineToSkirmishFormation
 END
 
 CONTROLBAR:ToolTipTogglePikemanLineToPorcupineFormation
-"+25% armure, -40% vitesse\n Bonus damage to cavalry"
+"+25% armure, -40% vitesse\n Bonus de dgâts pour la cavalerie"
 END
 
 CONTROLBAR:ToolTipTogglePikemanPorcupineToLineFormation
@@ -7827,7 +7823,7 @@ CONTROLBAR:ToolTipToggleHaradrimWedgeToLineFormation
 END
 
 CONTROLBAR:ToolTipToggleEasterlingLineToPorcupineFormation
-"+25% armure, -40% vitesse\n Bonus damage to cavalry"
+"+25% armure, -40% vitesse\n Bonus de dégâts pour la cavalerie"
 END
 
 CONTROLBAR:ToolTipToggleEasterlingPorcupineToLineFormation
@@ -7875,40 +7871,43 @@ CONTROLBAR:ToolTipToggleTowerGuardShieldWallToLineFormation
 END
 
 CONTROLBAR:RevealArea
-"Reveal area"
+"Révéler la zone"
 END
 
 CONTROLBAR:TooltipRevealArea
-"Temporarily reveal an area of the map."
+"Révéler temporairement une zone de la carte."
 End
 
 CONTROLBAR:SpecialAbilityManTheWalls
-"Man the Walls"
+"Homme des murs"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityManTheWalls
-"Order units to man the walls"
+"Ordonner aux unités de remplir les murs"
 END
 
 CONTROLBAR:SpecialAbilityRangerAmbush
 "Formation en embuscade"
 END
+
 CONTROLBAR:ToolTipSpecialAbilityRangerAmbush
 "+50% dégâts\n -75% armure"
 END
 
 CONTROLBAR:SpecialAbilityOsgiliathVeterans
-"Osgiliath Veterans"
+"Osgiliath Vétérans"
 END
+
 CONTROLBAR:ToolTipSpecialAbilityOsgiliathVeterans
-"Osgiliath Veterans"
+"Osgiliath Vétérans"
 END
 
 CONTROLBAR:SpecialAbilityPrinceOfDolArmoth
-"Prince of Dol Armoth"
+"Prince de Dol Armoth"
 END
+
 CONTROLBAR:ToolTipSpecialAbilityPrinceOfDolArmoth
-"Prince of Dol Armoth"
+"Prince de Dol Armoth"
 END
 
 CONTROLBAR:SiegeDeploy
@@ -7956,7 +7955,6 @@ CONTROLBAR:ObservePriorPlayerDescription
 "View the game from the perspective of the previous player"
 END
 
-
 CONTROLBAR:OrRequirement
 // context: For the command button of building a strategy center.  Inserted into the building requirements list in the tooltip
 "or"
@@ -7995,7 +7993,6 @@ END
 CONTROLBAR:Power
 // tooltip for the power
 "Pouvoir"
-
 END
 
 CONTROLBAR:PowerDescription
@@ -8017,8 +8014,6 @@ CONTROLBAR:EvilPlayerExperienceMenu
 "Menu des Pouvoirs"
 END
 
- 
-
 CONTROLBAR:EvilPlayerExperienceMenuDescription
 "Augmentez le pouvoir de l'Anneau Unique.\n Terrassez des unités pour obtenir d'autres Pouvoirs"
 END
@@ -8027,14 +8022,9 @@ CONTROLBAR:GoodPlayerExperienceMenu
 "Menu des Pouvoirs"
 END
 
- 
-
 CONTROLBAR:GoodPlayerExperienceMenuDescription
 "Augmentez le pouvoir de l'Etoile du Soir.\n Terrassez des unités pour obtenir d'autres Pouvoirs"
 END
-
-
-
 
 CONTROLBAR:UpDown
 "Afficher/masquer"
@@ -8221,6 +8211,7 @@ END
 CONTROLBAR:OptionsDescription
 "Mettez la partie en pause pour modifier les options, sauvegarder, charger, recommencer ou quitter"
 END
+
 CONTROLBAR:MultiPlayerOptionsDescription
 "Cliquez ici pour changer vos options ou quitter"
 END
@@ -8322,7 +8313,7 @@ END
 
 CONTROLBAR:Communicator
 // context: Button to go to the chat window
-"Communicator"
+"Communication"
 END
 
 CONTROLBAR:CommunicatorDescription
@@ -8375,7 +8366,7 @@ UPGRADE:FireArrowUpgrade
 END
 
 UPGRADE:ElfStealthUpgrade
-"Amélior. furtivité elfe"
+"Amélioration furtivité elfe"
 END
 
 UPGRADE:RohanHorseShield
@@ -8403,7 +8394,6 @@ UPGRADE:RohanHorseLance
 END
 
 UPGRADE:RohanHornsOfTheRohirrim
-//"Horns of the Rohirrim Upgrades"
 "Amélioration Cor des Rohirrim"
 END
 
@@ -8436,7 +8426,7 @@ UPGRADE:EntAllies
 END
 
 UPGRADE:GondorCounterweights
-"Counterweights"
+"Contre-poids"
 END
 
 UPGRADE:GondorFireStones
@@ -8499,47 +8489,47 @@ OBJECT:CampFlag
 END
 
 OBJECT:CastleFlag
-"Castle"
+"Château"
 END
 
 OBJECT:EconomyFlag
-"Settlement"
+"Colonie"
 END
 
 OBJECT:DogwoodTree
-"Dogwood"
+"Cornouiller"
 End
 
 OBJECT:TreeStump
-"Tree Stump"
+"Souche d'Arbre"
 End
 
 OBJECT:CornStalk
-"Corn Stalk"
+"Tige de Maïs"
 End
 
 OBJECT:Tree
-"Tree"
+"Arbre"
 End
 
 OBJECT:Fish
-"Fish"
+"Poisson"
 END
 
 OBJECT:Egret
-"Egret"
+"Aigrette"
 END
 
 OBJECT:Wolf
-"Wolf"
+"Loup"
 END
 
 OBJECT:Dog
-"Dog"
+"Chien"
 END
 
 OBJECT:Deer
-"Deer"
+"Cerf"
 END
 
 OBJECT:Rabbit
@@ -8551,7 +8541,7 @@ OBJECT:Pig
 END
 
 OBJECT:Bear
-"Bear"
+"Ours"
 END
 
 OBJECT:Elk
@@ -8577,7 +8567,7 @@ END
 // End hardcoded strings
 
 OBJECT:CivilianBattleTower
-"Keep"
+"Donjon"
 END
 
 OBJECT:NeutralGollum
@@ -8602,7 +8592,6 @@ END
 TOOLTIP:RohanForgedBlades
 "Lames forgées"
 END
-
 
 OBJECT:RohanHorseShieldPorter
 "Rohan Horse Shields Porter"
@@ -8629,7 +8618,7 @@ OBJECT:RohanWorker
 END
 
 OBJECT:RohanFighter
-"Rohan Militia"
+"Milicien du Rohan"
 END
 
 OBJECT:RohanArcher
@@ -8641,7 +8630,7 @@ OBJECT:RohanTheoden
 END
 
 OBJECT:RohanTheodenMounted
-"Théoden Mounted"
+"Théoden Monté"
 END
 
 OBJECT:RohanEnt
@@ -8653,25 +8642,23 @@ OBJECT:RohanTreeBeard
 END
 
 OBJECT:RohanElvenWarrior
-"Elven Warriors"
+"Guerrier Elfe"
 END
 
 OBJECT:ElvenFondcombeWarriorHorde
-"Rivendell Archers"
+"Archersde Fondcombe"
 END
 
-
 OBJECT:ElvenFondcombeWarrior
-"Rivendell Archer"
+"Archerde Fondcombe"
 END
 
 OBJECT:ElvenFondcombeWarriorHordeS
-"Rivendell Guardsmen"
+"Soldat de la !garde de Fondcombe"
 END
 
-
 OBJECT:ElvenFondcombeWarriorS
-"Rivendell Guard"
+"Garde de Fondcombe"
 END
 
 OBJECT:RohanEomer
@@ -8867,7 +8854,7 @@ OBJECT:ElvenThranduil
 END
 
 OBJECT:ElvenThranduilNew
-"King Thranduil"
+"Roi Thranduil"
 END
 
 OBJECT:ElvenLorienWarrior
@@ -8898,11 +8885,11 @@ OBJECT:ElvenHaldir
 END
 
 OBJECT:ElvenLindonWarrior
-"Lindon Warrior"
+"Guerrier de Lindon"
 END
 
 OBJECT:ElvenFondcombeWarrior
-"Rivendell Archer"
+"Archer de Fondcombe"
 END
 
 OBJECT:Gwaihir
@@ -8968,7 +8955,7 @@ END
 // Dwarven Units
 
 OBJECT:DaleBanner
-"Dale Captain"
+"Capitaine de Dale"
 END
 
 OBJECT:DwarvenGuardian
@@ -9129,7 +9116,7 @@ OBJECT:DeathCage
 END
 
 OBJECT:SHOULDNOTSEE
-"You should not see this string!"
+"Vous ne devriez pas voir cette chaîne!"
 END
 
 OBJECT:Throne
@@ -9141,59 +9128,59 @@ OBJECT:Stairs
 END
 
 OBJECT:Door
-"Door"
+"Porte"
 END
 
 OBJECT:Box
-"Box"
+"Boite"
 END
 
 OBJECT:Bucket
-"Bucket"
+"Godet"
 END
 
 OBJECT:Chair
-"Chair"
+"Chaise"
 END
 
 OBJECT:Hammer
-"Hammer"
+"Marteau"
 END
 
 OBJECT:Pick
-"Pick"
+"Cueillir"
 END
 
 OBJECT:Shovel
-"Shovel"
+"Pelle"
 END
 
 OBJECT:Tombstone
-"Tombstone"
+"Pierre Tombale"
 END
 
 OBJECT:CropBundle
-"Crop Bundle"
+"Paquet de récolte"
 END
 
 OBJECT:CropPile
-"Crop Pile"
+"Tas de récolte"
 END
 
 OBJECT:Haystack
-"Haystack"
+"Meule de Foin"
 END
 
 OBJECT:RailTie
-"Rail Tie"
+"Attache de Rampe"
 END
 
 OBJECT:FeedingTrough
-"Feeding Trough"
+"Bac de nourriture"
 END
 
 OBJECT:PileDebris
-"Débris Pile"
+"Pile de Débris"
 END
 
 OBJECT:Débris
@@ -9201,27 +9188,27 @@ OBJECT:Débris
 END
 
 OBJECT:Crow
-"Crow"
+"Corbeau"
 END
 
 OBJECT:Dove
-"Dove"
+"Colombe"
 END
 
 OBJECT:WoodCutter
-"Wood Cutter"
+"Bûcheron"
 END
 
 OBJECT:GondorWoodCutter
-"Wood Cutter"
+"Bûcheron"
 END
 
 OBJECT:Flower
-"Flower"
+"Fleur"
 END
 
 OBJECT:ClothesLine
-"Clothes Line"
+"Corde à linge"
 END
 
 OBJECT:Fence
@@ -9229,31 +9216,31 @@ OBJECT:Fence
 END
 
 OBJECT:Tomb
-"Tomb"
+"Tombe"
 END
 
 OBJECT:PolesSkull
-"Skull"
+"Crâne"
 END
 
 OBJECT:Cauldron
-"Cauldron"
+"Chaudron"
 END
 
 OBJECT:Incinerator
-"Incinerator"
+"Incinérateur"
 END
 
 OBJECT:Scaffolding
-"Scaffolding"
+"Echafaudage"
 END
 
 OBJECT:FirePit
-"Fire Pit"
+"Foyer"
 END
 
 OBJECT:Skeleton
-"Skeleton"
+"Squelette"
 END
 
 OBJECT:Village
@@ -9261,19 +9248,19 @@ OBJECT:Village
 END
 
 OBJECT:DeadOrc
-"Dead Orque"
+"Orque Mort"
 END
 
 OBJECT:DeadUruk
-"Dead Uruk"
+"Uruk Mort"
 END
 
 OBJECT:DeadSoldier
-"Dead Soldier"
+"Soldat Mort"
 END
 
 OBJECT:OrcMeatRack
-"Meat Rack"
+"Etagère à Viande"
 END
 
 OBJECT:Howda
@@ -9281,43 +9268,43 @@ OBJECT:Howda
 END
 
 OBJECT:SkullPile
-"Skull Pile"
+"Pile de Crâne"
 END
 
 OBJECT:Shackle
-"Shackle"
+"Enchaîner"
 END
 
 OBJECT:Mountain
-"Mountain"
+"Montagne"
 END
 
 OBJECT:Ground
-"Ground"
+"Sol"
 END
 
 OBJECT:Arch
-"Arch"
+"Arche"
 END
 
 OBJECT:MMDBalinsTomb
-"Balin's Tomb"
+"Tombe de Balin"
 END
 
 OBJECT:MMDGrtHallDoor
-"Great Hall Door"
+"Grande Porte de la Salle"
 END
 
 OBJECT:MMDEntrance
-"Entrance"
+"Entrée"
 END
 
 OBJECT:TrollPit
-"Troll Pit"
+"Fosse à Troll"
 END
 
 OBJECT:FangornTrollCave
-"Troll Cave"
+"Grotte de Troll"
 END
 
 OBJECT:Gate
@@ -9325,103 +9312,103 @@ OBJECT:Gate
 END
 
 OBJECT:Corridor
-"Corridor"
+"Couloir"
 END
 
 OBJECT:GreatHall
-"Great Hall"
+"Grande Salle"
 END
 
 OBJECT:Exit
-"Exit"
+"Sortie"
 END
 
 OBJECT:MMDGrtHallWall
-"Great Hall Wall"
+"Grand Mur de la Salle"
 END
 
 OBJECT:Column
-"Column"
+"Colonne"
 END
 
 OBJECT:Bag
-"Bag"
+"Sac"
 END
 
 OBJECT:Chest
-"Chest"
+"Coffre"
 END
 
 OBJECT:Crate
-"Crate"
+"Caisse"
 END
 
 OBJECT:Cart
-"Cart"
+"Chariot"
 END
 
 OBJECT:CartPiece
-"Cart Piece"
+"Pièce de Chariot"
 END
 
 OBJECT:CartWheel
-"Cart Wheel"
+"Roue de Chariot"
 END
 
 OBJECT:CartWreck
-"Cart Wreck"
+"Epave de Chariot"
 END
 
 OBJECT:BrokenDoor
-"Broken Door"
+"Porte Brisé"
 END
 
 OBJECT:Bench
-"Bench"
+"Banc"
 END
 
 OBJECT:Beams
-"Beams"
+"Poutres"
 END
 
 OBJECT:TimberPile
-"Timber Pile"
+"Pile de bois"
 END
 
 OBJECT:VineBarricade
-"Vine Barricade"
+"Barricade de Vigne"
 END
 
 OBJECT:Urn
-"Urn"
+"Urne"
 END
 
 OBJECT:LogBlock
-"Log Block"
+"Bloc de Journal"
 END
 
 OBJECT:Wench
-"Wench"
+"Servante"
 END
 
 OBJECT:Spike
-"Spike"
+"Pointe"
 END
 
 OBJECT:SpikePatch
-"Spike Patch"
+"Pièce de pointe"
 END
 
 OBJECT:SpikeTripod
-"Spike Tripod"
+"Trépied à pointes"
 END
 
 OBJECT:CrateBombs
-"Crate Bombs"
+"Caisse de Bombes"
 END
 
 OBJECT:BombsStack
-"Bomb Stack"
+"Amas de Bombe"
 END
 
 OBJECT:Barricade
@@ -9429,59 +9416,59 @@ OBJECT:Barricade
 END
 
 OBJECT:BrokenFurniture
-"Broken Furniture"
+"Meubles Cassés"
 END
 
 OBJECT:Sword
-"Sword"
+"Epée"
 END
 
 OBJECT:Spear
-"Spear"
+"Lance"
 END
 
 OBJECT:Shield
-"Shield"
+"Bouclier"
 END
 
 OBJECT:Corner
-"Corner"
+"Coin"
 END
 
 OBJECT:WaterRipples
-"Water Ripples"
+"Ondulations de l'eau"
 END
 
 OBJECT:Sparkles
-"Sparkles"
+"Scintille"
 END
 
 OBJECT:Sparks
-"Sparks"
+"Etincelles"
 END
 
 OBJECT:Flood
-"Flood"
+"Inonder"
 END
 
 OBJECT:Devastation
-"Devastation"
+"Dévastation"
 END
 
 OBJECT:Footprints
-"Footprints"
+"Empreintes"
 END
 
 OBJECT:IthilienSupplies
-"Supplies"
+"Provisions"
 END
 
 OBJECT:Pylon
-"Pylon"
+"Pylône"
 END
 
 OBJECT:LUGalMirror
-"Galadriel's Mirror"
+"Miroir de Galadriel"
 END
 
 OBJECT:Well
@@ -9489,7 +9476,7 @@ OBJECT:Well
 END
 
 OBJECT:Corpse
-"Corpse"
+"Cadavre"
 END
 
 OBJECT:Bridge
@@ -9497,15 +9484,15 @@ OBJECT:Bridge
 END
 
 OBJECT:Dock
-"Dock"
+"Quai"
 END
 
 OBJECT:Beacon
-"Beacon"
+"Flambeau"
 END
 
 OBJECT:WargLair
-"Warg Lair"
+"Repaire de Warg"
 END
 
 OBJECT:WARG
@@ -9525,19 +9512,19 @@ OBJECT:CaveTrollLair
 END
 
 OBJECT:SnowTrollLair
-"Troll des neiges Lair"
+"Repaire de Troll des neiges"
 END
 
 OBJECT:HillTrollLair
-"Trolls des collines Lair"
+"Repaire de Trolls des collines"
 END
 
 OBJECT:StoneTrollLair
-"Stone Troll Lair"
+"Repaire de Troll des Cavernes"
 END
 
 OBJECT:BarrowWightLair
-"Wight Lair"
+"Repaire de Créature"
 END
 
 OBJECT:BarrowWight
@@ -9613,7 +9600,7 @@ CONTROLBAR:ToolTipNimrodelWaters
 END
 
 CONTROLBAR:MallornRoots
-"Mallorn &Roots"
+"&Racine de Mallorn"
 END
 
 CONTROLBAR:ToolTipMallornRoots
@@ -9621,7 +9608,7 @@ CONTROLBAR:ToolTipMallornRoots
 END
 
 OBJECT:Obsolete
-"Obsolete"
+"Obsolète"
 END
 
 OBJECT:Fire
@@ -9653,15 +9640,15 @@ OBJECT:Lightning
 END
 
 OBJECT:WaterTestPlane
-"Test Plane.."
+"Platane d'essai.."
 END
 
 OBJECT:Fern
-"Fern"
+"Fougère"
 END
 
 OBJECT:TrainGuide
-"Train Guide"
+"Guide de Cortège"
 END
 
 OBJECT:IU_Banr
@@ -9721,7 +9708,7 @@ OBJECT:MordorCaveTroll
 END
 
 OBJECT:MordorHaradrimOverlord
-"Haradrim Overlord"
+"Suzerain Haradrim"
 END
 
 OBJECT:GoblinSwordsman
@@ -9737,7 +9724,7 @@ OBJECT:RohanTreeBerd
 END
 
 OBJECT:RohanFlag
-"Rohan Flag"
+"Drapeau du Rohan"
 END
 
 OBJECT:MordorNazgul
@@ -9814,23 +9801,23 @@ OBJECT:GondorPosternGate
 END
 
 OBJECT:GondorTrebuchetOutcropping
-"Trébuchet Rampart"
+"Trébuchet Rempart"
 END
 
 OBJECT:GBMgatedoor
-"Castle Gate"
+"Porte du Château"
 END
 
 OBJECT:BreeGate
-"Bree Gate"
+"Porte de Bree"
 END
 
 OBJECT:BreeWall
-"Bree Wall"
+"Mur de Bree"
 END
 
 OBJECT:BreeTower
-"Bree Tower"
+"Tour de Bree"
 END
 
 OBJECT:GondorBuildingFoundation
@@ -9867,7 +9854,7 @@ OBJECT:GondorWorkshop
 END
 
 OBJECT:RohanWorkshop
-"Workshop"
+"Atelier"
 END
 
 OBJECT:GondorFarm
@@ -9899,7 +9886,7 @@ OBJECT:GondorWall
 END
 
 OBJECT:GondorGateTower
-"Gate Tower"
+"Porte de la Tour"
 END
 
 OBJECT:GondorBaseTower
@@ -9907,7 +9894,7 @@ OBJECT:GondorBaseTower
 END
 
 OBJECT:GondorBaseWall
-"Wall"
+"Mur"
 END
 
 OBJECT:GondorBaseWallTreb
@@ -9931,15 +9918,15 @@ OBJECT:GondorCastleWallPosternGate
 END
 
 OBJECT:GondorCastleGate
-"Castle Gate" 
+"Porte du Château" 
 END
 
 OBJECT:GondorCastleElevator
-"Castle Stairs" 
+"Escalier du Château" 
 END
 
 OBJECT:GondorWhiteTower
-"White Tower" 
+"Tour Blanche" 
 END
 
 OBJECT:GondorStatue
@@ -9960,27 +9947,27 @@ OBJECT:GondorCastleBaseKeep
 END
 
 OBJECT:GBCampWall
-"Camp Wall"
+"Mur du Camp"
 END
 
 OBJECT:OsgiliathRuin10
-"Ruin"
+"Ruine"
 END
 
 OBJECT:OsgiliathRuin15
-"Ruin"
+"Ruine"
 END
 
 OBJECT:OsgiliathRuin11
-"Ruin"
+"Ruine"
 END
 
 OBJECT:Tower_FromZeroHourThatCanTopple
-"Destroyable Tower"
+"Tour destructible"
 END
 
 OBJECT:OsgiliathRuin07
-"Ruin"
+"Ruine"
 END
 
 ////Le Gouffre de Helm Structures
