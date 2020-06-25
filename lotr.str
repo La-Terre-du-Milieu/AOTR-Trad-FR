@@ -8787,7 +8787,7 @@ OBJECT:GondorPorterHeavyArmor
 END
 
 OBJECT:GondorPorterShield
-"Gondor Knight Shield Porter"
+"Gondor Bouclier du Chevalier Porter"
 END
 
 OBJECT:GondorPorterFireStone
@@ -14991,7 +14991,7 @@ CONTROLBAR:ToolTipGondorWall
 END
 
 CONTROLBAR:ToolTipGondorBuildFarm
-"Les fermiers du royaume sont installés dans la campagne en dehors de la cité, ils s'occupent des champs et des vergers.\n\Produit de la nourriture comme ressource.\n Bonus de nourriture : réduit le coût de la cavalerie."
+"Les fermiers du royaume sont installés dans la campagne en dehors de la cité, ils s'occupent des champs et des vergers.\n\n Produit de la nourriture comme ressource.\n Bonus de nourriture : réduit le coût de la cavalerie."
 END
 
 CONTROLBAR:ToolTipGondorBuildBarracks
@@ -15029,69 +15029,89 @@ END
 OBJECT:LBTREEHOUSE
 "Demeure sylvestre"
 END
+
 CONTROLBAR:ConstructRohanArmory
 "Construire une Armurerie du Rohan"
 END
+
 CONTROLBAR:ConstructRohanBarracks
 "Construire une Caserne du Rohan"
 END
+
 CONTROLBAR:ConstructRohanWell
 "Construire un Puit du Rohan"
 END
+
 CONTROLBAR:ConstructRohanWatchTower
 "Construire une Tour de guet du Rohan"
 END
+
 CONTROLBAR:ConstructRohanArcherRange
 "Construire une Archerie du Rohan"
 END
+
 CONTROLBAR:ConstructRohanStable
 "Construire une Ecurie du Rohan"
 END
+
 CONTROLBAR:ConstructRohanFarm
 "Construire une Ferme du Rohan"
 END
+
 CONTROLBAR:ConstructRohanStatue
 "Construire une Statue du Rohan"
 END
+
 CONTROLBAR:ConstructRohanGoldenHall
 "Construire un Château d'Or"
 END
+
 CONTROLBAR:ConstructRohanWall
 "Construire un mur du Rohan"
 END
 
 CONTROLBAR:ToolTipRohanArmory
-"Weapon and armor upgrades"
+"Armes et Armures Améliorées"
 END
+
 CONTROLBAR:ToolTipRohanBarracks
-"To build a barracks, Clic gauche on button"
+"Pour construire une Caserne, Clic gauche sur le bouton"
 END
+
 CONTROLBAR:ToolTipRohanWell
 "Les unités proches du puits se soignent automatiquement si elles ne sont pas attaquées\n Réduit le coût de l'infanterie"
 END
+
 CONTROLBAR:ToolTipRohanWatchTower
-"To build a WatchTower, Clic gauche on button"
+"Pour Construire une Tour de Guet, Clic gauche sur le bouton"
 END
+
 CONTROLBAR:ToolTipRohanArcherRange
 "Former et améliorer les Archers Alleutier et les Archers Elfes"
 END
+
 CONTROLBAR:ToolTipRohanStable
-"Trains and upgrades Rohirrim"
+"Forme et améliore des Rohirrims"
 END
+
 CONTROLBAR:ToolTipRohanFarm
-"Produit de la nourriture comme ressource.\n Creates Paysans\n Réduit le coût de la cavalerie"
+"Produit de la nourriture comme ressource. \n Crée des Paysans \n Réduit le coût de la cavalerie"
 END
+
 CONTROLBAR:ToolTipRohanStatue
-"Leadership bonus to nearby troupes\n Price of Heroes is reduced\n +50% armure, +200% Combat Experience"
+"Bonus de Charisme aux unités à proximités \n Le Prix des Héros est réduit \n +50% d'armure, +200% d'Experience de Combat"
 END
+
 CONTROLBAR:ToolTipRohanGoldenHall
-"Structure défensive. Revives fallen Heroes"
+"Structure défensive. Réssuscite les Héros Déchus"
 END
+
 CONTROLBAR:DescriptionRohanFlagTower
-"Grants a bonus to nearby troupes\n +50% armure +125% dégâts"
+"Accorde un Bonus aux troupes à proximité \n +50% armure +125% dégâts"
 END
+
 OBJECT:RohanFlagTowerDescription
-"Grants a bonus to nearby troupes\n +50% armure +125% dégâts"
+"Accorde un Bonus aux troupes à proximité \n +50% armure +125% dégâts"
 END
 
 // Mordor Buildings
@@ -15103,39 +15123,49 @@ CONTROLBAR:ConstructMordorBase
 // context: Build Mordor Base
 "Construire une base"
 END
+
 CONTROLBAR:ConstructMordorOrcPit
 "Construire un Bastion des Orques"
 END
+
 CONTROLBAR:BuildMordorWorker
 "Ouvrier Orque"
 END
+
 CONTROLBAR:ConstructMordorOrcFletcher
-"Construire une Fletcher"
+"Construire un Flèchier"
 END
+
 CONTROLBAR:ConstructMordorTrollCage
 "Construire une Cage à Trolls"
 END
+
 CONTROLBAR:ConstructMordorSiegeWorks
 "Construire un Grand Atelier de siège"
 END
+
 CONTROLBAR:ConstructMordorHaradrimPalace
 "Construire un Palais Oriental"
 END
+
 CONTROLBAR:ConstructSlaughterHouse
 "Construire un Abattoir"
 END
+
 CONTROLBAR:ConstructLumberMill
 "Construire une Scierie"
 END
+
 CONTROLBAR:ConstructFurnace
 "Construire une Fournaise"
 END
+
 CONTROLBAR:ConstructMordorUmbarTavern
 "Construire une Taverne"
 END
 
 CONTROLBAR:ToolTipMordorOrcFletcher
-"To build a Fletcher, Clic gauche on button"
+"Pour construire un Flèchier, Clic gauche sur le bouton"
 END
 
 CONTROLBAR:ToolTipMordorTrollCage
@@ -15183,18 +15213,23 @@ END
 CONTROLBAR:ConstructIsengardUrukPit
 "Construire un Puit à Uruk"
 END
+
 CONTROLBAR:ConstructIsengardWargPit
 "Construire une Fosse à Wargs"
 END
+
 CONTROLBAR:ConstructIsengardSiegeWorks
 "Construire un Atelier de siège"
 END
+
 CONTROLBAR:ConstructIsengardArmory
 "Construire une Armurerie"
 END
+
 CONTROLBAR:ConstructIsengardBattleTower
 "Construire une Tour d'observation"
 END
+
 CONTROLBAR:ToolTipBuildIsengardBattleTower
 "Tour d'archers défensive.\n Les archers peuvent y tenir garnison pour infliger plus de dégâts."
 END
@@ -15250,11 +15285,11 @@ CONTROLBAR:ToolTipConstructWildGoblinCave
 END
 
 CONTROLBAR:ConstructWildMountainLodge
-"Build &Orque des Montagnes Lodge"
+"Construit la Hutte d'&Orque des Montagnes"
 END
 
 CONTROLBAR:ToolTipConstructWildMountainLodge
-"Trains Mountain-orcs and Gundabad orcs \n Increases command point limit by 25"
+"Forme des Orques des Montagnes et des Orques de Gundabad \n Augmente la limite de Point de Commandement de 25"
 END
 
 CONTROLBAR:ConstructWildGoblinFissure
@@ -15270,7 +15305,7 @@ CONTROLBAR:ConstructWildFortress
 END
 
 CONTROLBAR:ConstructGuldurFortress
-"Summon &Fortress"
+"Invoque &Fortress"
 END
 
 CONTROLBAR:ToolTipConstructWildFortress
@@ -15333,6 +15368,7 @@ END
 CONTROLBAR:ConstructRohanSentryTower
 "Tour de garde"
 END
+
 CONTROLBAR:ToolTipRohanBuildSentryTower
 "La tour de garde mettra le feu aux unités ennemies"
 END
@@ -15340,6 +15376,7 @@ END
 CONTROLBAR:ConstructEvilSentryTower
 "Tour de garde"
 END
+
 CONTROLBAR:ToolTipEvilBuildSentryTower
 "La tour de garde mettra le feu aux unités ennemies"
 END
@@ -15350,6 +15387,7 @@ END
 CONTROLBAR:SpecialAbilitySarumanFireball
 "Boule de Feu"
 END
+
 CONTROLBAR:ToolTipSpecialAbilitySarumanFireball
 "Requiert : niveau 2\n Saroumane invoque une sphére de feu au sommet de son bâton et la jette en direction de l'ennemi.\n\nClic gauche sur la cible"
 END
@@ -15371,11 +15409,11 @@ CONTROLBAR:Scavenger
 End
 
 CONTROLBAR:ToolTipScavenger
-"Avides de richesses, les hordes des Monts Brumeux gagnent des ressources pour chaque ennemi tué.\n\nCapacité passive"
+"Avides de richesses, les hordes des Monts Brumeux donnent des ressources pour chaque ennemi tué.\n\nCapacité passive"
 END
 
 CONTROLBAR:ToolTipAOTRScavenger
-"For 60 seconds, all kills earn extra resources \n Clic gauche pour activer"
+"Durant 60 secondes, tous les tués donnent des ressources supplémentaires \n Clic gauche pour activer"
 END
 
 CONTROLBAR:FreezingRain
@@ -15387,7 +15425,7 @@ CONTROLBAR:Plus1Nazgul
 End
 
 CONTROLBAR:ToolTipPlus1Nazgul
-"Gives control of an extra Nazgûl"
+"Donne le contrôle d'un Nazgûl supplémentaire"
 END
 
 CONTROLBAR:Taint
@@ -15487,15 +15525,15 @@ CONTROLBAR:Rebuild
 End
 
 CONTROLBAR:CampaignRebuild
-"Quick Repairs"
+"Réparation rapide"
 END
 
 CONTROLBAR:GondorRebuild
-"Restoration"
+"Restauration"
 End
 
 CONTROLBAR:RohanRebuild
-"Shore Up"
+"Etayer"
 End
 
 CONTROLBAR:Draft
@@ -15531,7 +15569,7 @@ CONTROLBAR:IstariPower
 End
 
 CONTROLBAR:ToolTipGandalftheWhite
-"Gandalf gagne +200% dégâts\n Gandalf's powers recharge twice as quickly\n\n Capacité passive"
+"Gandalf gagne +200% dégâts\n Les pouvoirs de Gandalf se recharge deux fois plus vite \n\n Capacité passive"
 END
 
 CONTROLBAR:SummonRohanAllies
@@ -15547,7 +15585,7 @@ CONTROLBAR:CloudBreak
 End
 
 CONTROLBAR:CampaignCloudBreak
-"There Is Always Hope"
+"Il y a toujours de l'Espoir"
 End
 
 CONTROLBAR:ElvenWood
@@ -15555,15 +15593,15 @@ CONTROLBAR:ElvenWood
 End
 
 CONTROLBAR:CampaignElvenWood
-"Take Refuge!"
+"Réfugiez-vous!"
 END
 
 CONTROLBAR:SummonEntAllies
-"Summon Ent Allies"
+"Invoque Ent Alliés"
 End
 
 CONTROLBAR:ToolTipEntAllies
-"Summons several Ents to the battlefield\n\nClic gauche sur une zone praticable"
+"Invoque plusieurs Ents sous votre contrêle \n\n Clic gauche sur une zone praticable"
 END
 
 CONTROLBAR:Anduril
@@ -15587,15 +15625,15 @@ CONTROLBAR:SummonEagleAllies
 End
 
 CONTROLBAR:CampaignSummonEagleAllies
-"The Eagles Are Coming!"
+"Les Aigles Arrivent!"
 END
 
 CONTROLBAR:ToolTipSummonEagleAllies
-"Appelle deux aigles géants des Monts Brumeux. Ces créatures distantes préfèrent généralement se tenir à l'écart des affaires du monde, mais lorsque le péril est grand, ils apportent leur aide à ceux qui le demandent.\n\nClic gauche sur la zone cible"
+"Appelle deux Aigles Géants des Monts Brumeux. Ces créatures distantes préfèrent généralement se tenir à l'écart des affaires du monde, mais lorsque le péril est grand, ils apportent leur aide à ceux qui le demandent.\n\nClic gauche sur la zone cible"
 END
 
 CONTROLBAR:TooltipCampaignSummonEagleAllies
-"Summons a Géant Eagle \n Clic gauche sélectionner Clic gauche sur zone ciblé"
+"Invoque un Aigle Géant sous votre votre contrôle Clic gauche Sélectionner Clic gauche sur zone ciblé"
 END
 
 CONTROLBAR:SummonDunedainAllies
@@ -15607,19 +15645,19 @@ CONTROLBAR:ToolTipSummonDunedainAllies
 END
 
 CONTROLBAR:MenOfDaleAllies
-"Summon Hommes de Dale Allies"
+"Invoque des Hommes de Dale Allies"
 End
 
 CONTROLBAR:TooltipMenOfDaleAllies
-"Summons the Hommes de Dale.\n\nClic gauche sur une zone praticable"
+"Invoque unhe Hommes de sous votrelic gaôcehe sur une zone praticable"
 END
 
 CONTROLBAR:SummonSpiderlings
-"Summon Araignées sauvages"
+"Invoque des Araignées sauvages"
 End
 
 CONTROLBAR:ToolTipSummonSpiderlings
-"Summons a group of Araignées sauvages.\n\nClic gauche sur une zone praticable"
+"Invoque un group of Arasous votrevages.ône\nClic gauche sur une zone praticable"
 END
 
 CONTROLBAR:SummonTomBombadil
@@ -15643,11 +15681,11 @@ CONTROLBAR:LoneTower
 END
 
 CONTROLBAR:CampaignLoneTower
-"Friendly Outpost"
+"Avant-Poste amical"
 END
 
 CONTROLBAR:LoneTowerGondor
-"Lands Kept Safe"
+"Terres gardé en sécurité"
 END
 
 CONTROLBAR:ArrowVolley
@@ -15655,15 +15693,15 @@ CONTROLBAR:ArrowVolley
 END
 
 CONTROLBAR:TooltipArrowVolley
-"Des archers en embuscade font tomber une pluie de flèches n'importe où sur la carte.\n\nClic gauche sur la zone cible"
+"Des archers en embuscade font tomber une Pluie de Flèches n'importe où sur la carte.\n\nClic gauche sur la zone cible"
 END
 
 CONTROLBAR:CampaignArrowVolley
-"Hidden Volley"
+"Pluie de Flèches"
 END
 
 CONTROLBAR:TooltipCampaignArrowVolley
-"Launches a powerful volley of arrows anywhere on the map \n Clic gauche sélectionner Clic gauche sur zone ciblé"
+"Lance une puissante Pluie de Flèches n'importe où sur la carte \n Clic gauche sélectionner Clic gauche sur zone ciblé"
 END
 
 CONTROLBAR:Bombard
@@ -15696,68 +15734,89 @@ END
 
 // MEN OF THE WEST UNITS
 CONTROLBAR:ConstructLamedonClansmenHorde
-"Guerriers des Clans de Lamedon"
+"Les Hommes des Clans de Lamedon"
 END
+
 CONTROLBAR:ConstructBlackrootValeHorde
 "Archers de la Racine Noire"
 END
+
 CONTROLBAR:ConstructGondorArcherHorde
 "Archers de l'Anórien"
 END
+
 CONTROLBAR:ConstructGondorRangerHorde
 "Rôdeurs de l'Ithilien"
 END
+
 CONTROLBAR:ConstructGondorFighterHorde
 "Soldats de l'Anórien"
 END
+
 CONTROLBAR:ConstructGondorShieldGuardHorde
 "Gardes de la Citadelle de Minas Tirith"
 END
+
 CONTROLBAR:ConstructGondorKnightHorde
 "Chevaliers de l'Anórien"
 END
+
 CONTROLBAR:ConstructGondorLancerHorde
 "Chevaliers de l'Anórien"
 END
+
 CONTROLBAR:ConstructGondorTrebuchet
 "Trébuchet"
 END
+
 CONTROLBAR:ConstructGondorPorter
 "Bâtisseur"
 END
+
 CONTROLBAR:ConstructGondorFireArrowPorter
 "Gondor Flèches enflammées Porter"
 END
+
 CONTROLBAR:ConstructGondorSwordsPorter
 "Gondor Lames forgées Porter"
 END
+
 CONTROLBAR:ConstructGondorHeavyArmorPorter
 "Gondor Armure lourde Porter"
 END
+
 CONTROLBAR:ConstructGondorKnightShieldPorter
-"Gondor Knight Shield Porter"
+"Gondor Bouclier du Chevalier Porter"
 END
+
 CONTROLBAR:ConstructFireStoneGondorPorter
 "Gondor Pierres de feu Porter"
 END
+
 CONTROLBAR:ConstructGarrisonUpgrade
 "Tour de guerre and Keep Archers"
 END
+
 CONTROLBAR:ConstructIronOreUpgrade
 "Acier de l'Ouistrenesse"
 END
+
 CONTROLBAR:ConstructNumenorStoneworkUpgrade
 "Maçonnerie de Númenor"
 END
+
 CONTROLBAR:ConstructReinforcedGateUpgrade
 "Porte renforcée"
 END
+
 CONTROLBAR:ConstructGrandHarvestUpgrade
 "Récolte abondante"
 END
+
 CONTROLBAR:ConstructSiegeMaterialsUpgrade
 "Matériaux de siège"
 END
+
 CONTROLBAR:ConstructGondorSilverTreeBanner
 "Porte-étendard de l'Arbre Blanc"
 END
@@ -15778,18 +15837,16 @@ CONTROLBAR:ConstructRohanKingsguardHorde
 "Gardes royaux montés"
 END
 
-
-
 CONTROLBAR:ToolTipBuildGondorSilverTreeBanner
 "Améliore le bataillon au niveau 2.\n Uniquement applicable à un bataillon de niveau 1."
 END
 
 CONTROLBAR:ToolTipBuildGondorFireArrowPorter
-"Can upgrade 1 group of archers"
+"Peut améliorer 1 groupe d'archers"
 END
 
 CONTROLBAR:ToolTipBuildLamedonClansmenFighterHorde
-"Clansmen from Lamedon\n Forts contre les piquiers."
+"Les Hommes des Clan de Lamedon\n Forts contre les piquiers."
 END
 
 CONTROLBAR:ToolTipBuildBlackrootValeArcherHorde
@@ -15801,7 +15858,7 @@ CONTROLBAR:ToolTipBuildGondorFighterHorde
 END
 
 CONTROLBAR:ToolTipBuildGondorFighterHorde_Osgiliath
-"Fort contre les Piquiers\n Able to switch formation and form combo hordes for improved defensive capabilities \n \n Even during its decline at the end of the Third Age, Minas Tirith maintained a sizeable garrison of men-at-arms."
+"Fort contre les Piquiers\n Capable de changer de fomration et de former des combinaisons de hordes pour des capacités défenseives améliorées \n \n Même lors de son déclin à la fin du Troisème Age, Minas Tirith a maintenu une garnison importante d'hommes armés."
 END
 
 CONTROLBAR:ToolTipBuildGondorFighterHordeOld
@@ -15850,7 +15907,7 @@ CONTROLBAR:ToolTipBuildGondorFireStonePorter
 END
 
 CONTROLBAR:ToolTipBuildGondorCounterweightPorter
-"Crée porteur de contrepoids"
+"Crée un porteur de contrepoids"
 END
 
 CONTROLBAR:ToolTipBuildGarrisonUpgrade
@@ -15944,14 +16001,17 @@ CONTROLBAR:GondorFaramirHotkey
 END
 
 CONTROLBAR:ToolTipBuildDamrod
-"Héros Unit. Skilled with bow and sword"
+"Unité Héroïque Equipé d'un arc et d'une épee"
 END
+
 CONTROLBAR:GondorDamrodRecruit
-"Héros Unit. Recruit a fighter skilled with bow and sword"
+"Unité Héroïque Recrute un combattant équipé d'un arc et d'une épee"
 END
+
 CONTROLBAR:GondorDamrodRevive
 "Rappelez Damrod à la vie"
 END
+
 CONTROLBAR:GondorDamrodHotkey
 "Damrod"
 END
@@ -16027,24 +16087,30 @@ END
 CONTROLBAR:ToolTipConstructRohanBannerUnits
 "Requiert : Armurerie niveau 2\n Upgrades unit: +1 Unit Niveau"
 END
+
 CONTROLBAR:ToolTipBuildRohanArcherHorde
 "Forts contre les cavaliers et les monstres"
 END
+
 CONTROLBAR:ToolTipBuildRohanRoyalGuardHorde
-"Construire une Rohan Royal Guards"
+"Forme un Garde Royal du Rohan"
 END
+
 CONTROLBAR:ToolTipBuildRohanRohirrimHorde
 //"Requiert : Ecurie niveau 2\n Forts contre les archers"
-"Requiert : Ecurie niveau 2\n Les Rohirrim sont les maîtres des chevaux, renommés pour leur bravoure sans faille et pour leur adresse avec les bêtes. Surnommés non sans raisons les Chevaliers de la Lance, ils chargent l'ennemi avec de longues lances et un bouclier, pour faucher l'ennemi sur leur passage.\n\nLeurs formations de pointe créent sans doute l'impact de charge le plus meurtrier qui soit parmi les peuples libres de la Terre du Milieu.\nCan switch between Bow and Spear\n Forts contre les épéistes et les archers"
+"Requiert : Ecurie niveau 2\n Les Rohirrim sont les maîtres des chevaux, renommés pour leur bravoure sans faille et pour leur adresse avec les bêtes. Surnommés non sans raisons les Chevaliers de la Lance, ils chargent l'ennemi avec de longues lances et un bouclier, pour faucher l'ennemi sur leur passage.\n\nLeurs formations de pointe créent sans doute l'impact de charge le plus meurtrier qui soit parmi les peuples libres de la Terre du Milieu.\n Peut permuter entre Arc et Lance \n Forts contre les épéistes et les archers"
 END
+
 CONTROLBAR:ToolTipBuildRohanKingsguardHorde
 //"Requiert : Niveau 2 Stables \n Fort contre Archers"
 "Requiert: Ecurie niveau 3 \n Forts contre les épéistes et les archers \n \n Ces cavaliers d'élite forment la garde personnelle du roi, de ses héritiers et accomplissent de hauts faits d'arme pour garantir leur sécurité. \n Limité à 3"
 END
+
 CONTROLBAR:ToolTipBuildRohanSnowbournRiderHorde
 //"Requiert : Niveau 2 Stables \n Fort contre Archers"
 "Requiert: Ecurie niveau 2\n Forts contre les épéistes et les archers \n \n Les cavaliers du Snawburna sont une unité de cavalerie lourde, capable de briser les rangs les plus féroces de l'ennemi et d'ouvrir une brèche pour le reste de l'armée."
 END
+
 CONTROLBAR:ToolTipBuildRohanHorsemenHorde
 "Forts contre les épéistes et les archers \n \n Artisan ou paysan, au Rohan, chaque homme possédait un cheval, et avait appris à se défendre en montant. Lorsque le besoin s'en faisait sentir, ces hommes partaient au combat pour défendre leurs foyers."
 END
@@ -16052,39 +16118,51 @@ END
 CONTROLBAR:ToolTipBuildRohanRohirrimArcherHorde
 "Forts contre les épéistes"
 END
+
 CONTROLBAR:ToolTipBuildRohanHeavyArmorPorter
 "+100% points de vie aux Rohirrims et à l'infanterie"
 END
+
 CONTROLBAR:ToolTipBuildRohanFireArrowPorter
 "+100% dégâts aux Hommes de Dale, Guerriers elfes et archers Rohirrim"
 END
+
 CONTROLBAR:ToolTipBuildRohanForgedBladesPorter
 "+50 de dégâts pour les Rohirrim, guerriers elfes et paysans"
 END
+
 CONTROLBAR:ToolTipBuildRohanBannerUnit
 "Requiert : Armurerie niveau 2\n Donne un bonus de leadership, augmente le niveau du bataillon et ressuscite les troupes tombées au combat"
 END
+
 CONTROLBAR:ToolTipBuildRohanHornsOfTheRohirrimPorter
 "Construire une Rohan RohanHorns Of The Rohirrim Porter"
 END
+
 CONTROLBAR:ToolTipBuildRohanHorseLancePorter
 "Construire une Rohan Horse Lance Porter"
 END
+
 CONTROLBAR:ToolTipBuildRohanHorseBowPorter
 "Améliore les Rohirrim avec des arcs"
 END
+
 CONTROLBAR:ToolTipBuildRohanHorseShieldPorter
 "Requiert : Ecurie niveau 2\n +80% armure pour les Rohirrim\n contre les flèches et les lances"
 END
+
 TOOLTIP:RohanHeavyArmor
 "Armure lourde"
 END
+
 TOOLTIP:RohanHorseShields
-"Horse Shields"
+"Bouclier de Cheval"
 END
+
 TOOLTIP:Draft
-"Drafted"
+"Dresser"
 END
+
 TOOLTIP:RohanFlamingArrows
 "Flèches enflammées" 
 END
@@ -16093,12 +16171,15 @@ END
 CONTROLBAR:ToolTipBuildTheoden
 "Recrutez le Roi du Rohan"
 END
+
 CONTROLBAR:RohanTheodenRecruit
 "Recrutez le Roi du Rohan.\n\n Même si les années paraissent avoir abattu Théoden, son Coeur brûle toujours d'une féroce ardeur guerrière. Il est le Roi des Rohirrim, peuple de braves cavaliers qui le suivront à la bataille, même avec peu de chance de victoire. C'est un leader charismatique qui verra la Terre du Milieu retournée à la grandeur, et les alliés du Seigneur des Ténèbres punis pour leurs crimes."
 END
+
 CONTROLBAR:RohanTheodenRevive
 "Rappelez Théoden à la vie"
 END
+
 CONTROLBAR:RohanTheodenHotkey
 "Théoden"
 END
@@ -16106,33 +16187,43 @@ END
 CONTROLBAR:ToolTipBuildEowyn
 "Recrutez la Damoiselle Protectrice du Rohan.\n\n Éowyn est la soeur d'Éomer et nièce du roi Théoden, et tout comme eux c'est une combattante née, fière et obstinée.\n Refusant de rester en arrière lorsque les ténèbres menacent de submerger sa terre natale, elle se déguise en homme pour rejoindre l'armée des Rohirrim.\n\n Lors de la bataille des Champs du Pelennor, elle fait face au Roi-Sorcier d'Angmar au moment où celui-ci est sur le point de porter le coup de grâce à Théoden. La Vierge au Bouclier réussit alors l'impensable : vaincre en duel le plus puissant des héros du Mal de la Terre du Milieu."
 END
+
 CONTROLBAR:RohanEowynRevive
 "Rappelez Eowyn à la vie"
 END
+
 CONTROLBAR:RohanEowynRecruit
 "Recrutez la Damoiselle Protectrice du Rohan.\n\n Éowyn est la soeur d'Éomer et nièce du roi Théoden, et tout comme eux c'est une combattante née, fière et obstinée.\n Refusant de rester en arrière lorsque les ténèbres menacent de submerger sa terre natale, elle se déguise en homme pour rejoindre l'armée des Rohirrim.\n\n Lors de la bataille des Champs du Pelennor, elle fait face au Roi-Sorcier d'Angmar au moment où celui-ci est sur le point de porter le coup de grâce à Théoden. La Vierge au Bouclier réussit alors l'impensable : vaincre en duel le plus puissant des héros du Mal de la Terre du Milieu."
 END
+
 CONTROLBAR:RohanEowynHotkey
 "Eowyn"
 END
+
 CONTROLBAR:RohanMerryRecruit
 "Recrutez un hobbit loyal pour combattre à vos côtés.\n\n Meriadoc Brandebouc, communément appelé Merry, est un jeune et fougueux hobbit. C'est par hasard que Merry se retrouve embringué dans la plus grande aventure de son existence.\n Même s'il apprécie la vie paisaible et heureuse qu'on mène dans la Comté, il s'adapte remarquablement à l'effervescence et aux dangers qui font les jours d'un aventurier, bien qu'il souffre amèrement des privations culinaires que cela implique."
 END
+
 CONTROLBAR:RohanMerryRevive
 "Rappelez Merry à la vie"
 END
+
 CONTROLBAR:RohanMerryHotkey
 "Merry"
 END
+
 CONTROLBAR:ToolTipBuildGimli
 "Recrutez le nain de la Montagne Solitaire"
 END
+
 CONTROLBAR:RohanGimliRecruit
 "Recrutez le fils de Glóin.\n\n Comme tous les Nains, Gimli est austère, bourru et redoutable avec une hache. Ce combattant excelle d'ailleurs dans le maniement de cette arme comme en témoigne la multitude d'Orques tombés sous ses coups.\n D'une robustesse exceptionnelle, même pour un Nain, Gimli devient une implacable force de destruction lorsqu'on provoque sa colère ou que ses compagnons sont en danger."
 END
+
 CONTROLBAR:RohanGimliRevive
 "Rappelez Gimli à la vie"
 END
+
 CONTROLBAR:RohanGimliHotkey
 "Gimli"
 END
@@ -16144,12 +16235,15 @@ END
 CONTROLBAR:RohanEomerRecruit
 "Recrutez le chef des Rohirrim exilés.\n\n Éomer, fils d'Éomund, est le neveu du roi Théoden et un des meilleurs guerriers du Rohan.\n Tandis que les armées de l'Isengard convergent vers le Rohan, Éomer risque l'exil afin de protéger les paysans et les simples gens des déprédations des Uruk-Haï, des Wargs et pire encore."
 END
+
 CONTROLBAR:RohanEomerRevive
 "Rappelez Éomer à la vie"
 END
+
 CONTROLBAR:RohanEomerHotkey
 "Éomer"
 END
+
 CONTROLBAR:ToolTipBuildLegolas
 "Recrutez le Prince des Elfes de la Forêt Noire."
 END
@@ -16157,17 +16251,19 @@ END
 CONTROLBAR:RohanLegolasRecruit
 "Recrutez le Prince des Elfes de la Forêt Noire.\n\n Fils de Thranduil et de ce fait, prince de la Forêt Noire, Legolas Vertefeuille est un guerrier exceptionnel, même selon les standards elfiques. Il maîtrise toutes les disciplines martiales, ayant une préférence pour l'arc, avec lequel il peut lâcher une volée de flèches en un battement de cil, ou effectuer un tir d'une précision inégalable."
 END
+
 CONTROLBAR:RohanLegolasRevive
 "Rappelez Legolas à la vie"
 END
+
 CONTROLBAR:RohanLegolasHotkey
 "Legolas"
 END
 
-
 CONTROLBAR:ConstructGoblinFighterHorde
 "Guerriers Orques de la Moria"
 END
+
 CONTROLBAR:ConstructGoblinArcherHorde
 "Archers Orques de la Moria"
 END
@@ -16175,6 +16271,7 @@ END
 CONTROLBAR:ConstructGoblinCave
 "Construire une Cave Gobelins de la Moria"
 END
+
 CONTROLBAR:ToolTipGoblinCave
 "Entraîne des guerriers orques de la Moria, des archers et des trolls des cavernes"
 END
@@ -16254,11 +16351,11 @@ CONTROLBAR:ConstructWildSpiderPitLevel3Upgrade
 END
 
 CONTROLBAR:ConstructWildTreasureTroveLevel2Upgrade
-"Améliorer le Trésor  au niveau 2"
+"Améliorer le Trésor au niveau 2"
 END
 
 CONTROLBAR:ConstructWildTreasureTroveLevel3Upgrade
-"Améliorer le Trésor  au niveau 3"
+"Améliorer le Trésor au niveau 3"
 END
 
 CONTROLBAR:ConstructWildSpiderlingHorde
@@ -16270,7 +16367,7 @@ CONTROLBAR:ConstructWildSpiderRiderHorde
 END
 
 CONTROLBAR:ToolTipBuildWildSpiderRiderHorde
-"Requiert : niveau 2 Fosse des Wargs\n Can switch between Bow and Spear\n Forts contre les archers"
+"Requiert : niveau 2 Fosse des Wargs\n Peut permuter entre Arc et Lance \n Forts contre les archers"
 END
 
 CONTROLBAR:ConstructWildMountainGiant
@@ -16291,36 +16388,47 @@ END
 CONTROLBAR:ConstructMordorOrcFighterHorde
 "Guerriers Orques"
 END
+
 CONTROLBAR:ConstructMordorOrcArcherHorde
 "Archers Orques"
 END
+
 CONTROLBAR:ConstructMordorHaradrimHorde
 "Archers Haradrim"
 END
+
 CONTROLBAR:ConstructMordorHaradrimHordeSpr
 "Lanciers Haradrim"
 END
+
 CONTROLBAR:ConstructMordorCorsairHorde
 "Corsaires d'Umbar"
 END
+
 CONTROLBAR:ConstructMordorEasterlingHorde
 "Phalanges de Rhûn"
 END
+
 CONTROLBAR:ConstructMordorCaveTroll
 "Troll des Cavernes"
 END
+
 CONTROLBAR:ConstructMordorMountainTroll
 "Troll des Montagnes"
 END
+
 CONTROLBAR:ConstructMordorSiegeTower
 "Tour de siège"
 END
+
 CONTROLBAR:ConstructMordorCatapult
 "Catapulte"
 END
+
 CONTROLBAR:ConstructMordorGrond
 "Grond"
 END
+
 CONTROLBAR:ConstructMordorBannerOrc
 "Porte-étendard"
 END
@@ -17033,8 +17141,7 @@ CONTROLBAR:HawkStrike
 END
 
 CONTROLBAR:FellowshipHawkStrike
-//&r
-"Doubles Flèches"
+"Doubles Flèches (&r)"
 END
 
 CONTROLBAR:ToolTipHawkStrike
@@ -17042,7 +17149,7 @@ CONTROLBAR:ToolTipHawkStrike
 END
 
 CONTROLBAR:HawkStrike_Summoned
-"Elven S&kill"
+"Compétence des Elfes (S)&k)"
 END
 
 CONTROLBAR:ArrowWind
@@ -17304,19 +17411,19 @@ CONTROLBAR:ToolTipToggleDamrodWeapons
 END
 
 CONTROLBAR:SpecialPowerRallyRangers
-"Rally Rôdeurs"
+"Rallier les Rôdeurs"
 END
 
 CONTROLBAR:TooltipSpecialPowerRallyRangers
-"Rally Rôdeurs"
+"Rallier les Rôdeurs"
 END
 
 CONTROLBAR:SpecialPowerDeadlySniper
-"Use Damrod as sniper"
+"Utiliser Damrod comme Tireur d'élite"
 END
 
 CONTROLBAR:TooltipSpecialPowerDeadlySniper
-"Deadly Sniper"
+"Tireur d'élite mortel"
 END
 
 CONTROLBAR:ToggleLurtzWeapon
@@ -17376,7 +17483,7 @@ CONTROLBAR:ToggleLineFormation
 END
 
 CONTROLBAR:ToggleDefaultFormation
-"Default For&mation"
+"For&mation par Défaut"
 END
 
 CONTROLBAR:ToolTipToggleSnowbourneLineFormation
@@ -17384,7 +17491,7 @@ CONTROLBAR:ToolTipToggleSnowbourneLineFormation
 END
 
 CONTROLBAR:ToolTipToggleSnowbourneDefualtFormation
-"es unités reviennent à leur formation standard"
+"Les unités reviennent à leur formation standard"
 END
 
 CONTROLBAR:ToolTipToggleWedgeFormation
@@ -17396,15 +17503,15 @@ CONTROLBAR:ToolTipToggleLineFormation
 END
 
 CONTROLBAR:TogglePorcupineFormation
-"Formation porc-épic"
+"Formation Porc-épic"
 END
 
 CONTROLBAR:TogglePhalanxFormation
-"Phalanx For&mation"
+"For&mation Phalange "
 END
 
 CONTROLBAR:ToggleSchiltronFormation
-"Schiltron For&mation"
+"For&mation Schiltron"
 END
 
 CONTROLBAR:ToggleSquareFormation
@@ -17422,7 +17529,6 @@ END
 CONTROLBAR:ToolTipToggleSpearWallFormation
 "-35% vitesse et +33% armure.\n Résistance à l'écrasement\n Bonus de dégâts contre la cavalerie"
 END
-
 
 CONTROLBAR:ToggleBlockFormation
 "Formation mur de boucliers"
@@ -17465,7 +17571,7 @@ CONTROLBAR:ToolTipToggleGondorRangerWeapons
 END
 
 CONTROLBAR:PorterGiveUpgrade
-"Give Upgrade"
+"Donne une amélioration"
 END
 
 CONTROLBAR:ToolTipPorterGiveUpgrade
@@ -17525,7 +17631,7 @@ CONTROLBAR:ToolTipUseSword
 END
 
 CONTROLBAR:ToolTipUseSwordRank3
-"Requires Au Niveau 3\nClic gauche to switch to melee mode"
+"Requiert Au Niveau 3\nClic gauche pour passer en mode mêlée"
 END
 
 CONTROLBAR:PhialofGaladriel
@@ -17549,7 +17655,7 @@ CONTROLBAR:EnshroudingMist
 END
 
 CONTROLBAR:EnshroudingMistCampaign
-"Hide!???"
+"Cachez-vous!???"
 END
 
 CONTROLBAR:TheOneRing
@@ -17557,7 +17663,7 @@ CONTROLBAR:TheOneRing
 END
 
 CONTROLBAR:TheOneRing_Campaign
-"A Heavy &Burden"
+"Un Lourd Fardeau (&b)"
 END
 
 CONTROLBAR:ToolTipTheOneRing
@@ -17565,7 +17671,7 @@ CONTROLBAR:ToolTipTheOneRing
 END
 
 CONTROLBAR:ToolTipTheOneRing_Riddle
-"Become invisible \n Clic gauche pour activer"
+"Devient invisible \n Clic gauche pour activer"
 END
 
 CONTROLBAR:ToolTipTheOneRingIsildur
@@ -17581,7 +17687,7 @@ CONTROLBAR:ToolTipFryingPan
 END
 
 CONTROLBAR:HobbitCloak
-"Hide Here, Qui&ck!"
+"Cachez-vous, Vite! (&c)"
 END
 
 CONTROLBAR:ElvenCloak
@@ -17634,11 +17740,11 @@ CONTROLBAR:ToolTipLightningSword
 END
 
 CONTROLBAR:ToolTipRivendellLightningSword
-"Shoots out lightning bolts from Gandalf's sword \n Clic gauche sélectionner Clic gauche sur cible"
+"Lance des Eclaires de l'épée de Gandalf \n Clic gauche sélectionner Clic gauche sur cible"
 END
 
 CONTROLBAR:ToolTipFellowshipLightningSword
-"Shoots out lightning bolts from Gandalf's sword \n Clic gauche sélectionner Clic gauche sur cible"
+"Lance des Eclaires de l'épée de Gandalf \n Clic gauche sélectionner Clic gauche sur cible"
 END
 
 CONTROLBAR:ThrowSpear
@@ -17691,7 +17797,7 @@ CONTROLBAR:ToolTipFaramirDesperateCharge
 END
 
 CONTROLBAR:FaramirWarSpeech
-"War Speech"
+"Discours de Guerre"
 END
 
 CONTROLBAR:ToolTipFaramirWarSpeech
@@ -17707,11 +17813,11 @@ CONTROLBAR:ToolTipFaramirKnightRanger
 END
 
 CONTROLBAR:DamrodWarSpeech
-"War Speech"
+"Discours de Guerre"
 END
 
 CONTROLBAR:ToolTipDamrodWarSpeech
-"Requiert : niveau 10\n Nearby troupes gain leadership bonus.\n\n Capacité passive"
+"Requiert : niveau 10\n Les troupes à proximité gagnent un Bonus de Charisme \n\n Capacité passive"
 END
 
 CONTROLBAR:DamrodKnightRanger
@@ -17731,27 +17837,33 @@ CONTROLBAR:ToolTipToggleShieldWallFormation
 END
 
 CONTROLBAR:ToggleLooseFormation
-"Loose Formation"
+"Formation Libre"
 END
 
 CONTROLBAR:ToolTipToggleIFighterBlockToLooseFormation
 "Formation par défaut"
 END
+
 CONTROLBAR:ToolTipToggleCrossbowmanLooseToWedgeFormation
 "+25% dégâts et -25% armure"
 END
+
 CONTROLBAR:ToolTipToggleCrossbowmanWedgeToLooseFormation
 "Formation par défaut"
 END
+
 CONTROLBAR:ToolTipToggleFighterLooseToBlockFormation
 "-40% vitesse et +25% armure"
 END
+
 CONTROLBAR:ToolTipToggleFighterBlockToLooseFormation
 "Formation par défaut"
 END
+
 CONTROLBAR:ToolTipTogglePikemanLooseToPorcupineFormation
 "-40% vitesse et +25% armure.\n Bonus de dégâts contre la cavalerie"
 END
+
 CONTROLBAR:ToolTipTogglePikemanPorcupineToLooseFormation
 "Formation par défaut"
 END
@@ -17804,7 +17916,6 @@ CONTROLBAR:ToolTipAutoAcquire
 "Clic gauche pour attaquer automatiquement l'ennemi"
 END
 
-
 CONTROLBAR:ConstructRohanPeasant
 "Paysans du Rohan"
 END
@@ -17814,7 +17925,7 @@ CONTROLBAR:ToolTipBuildRohanPeasant
 END
 
 CONTROLBAR:ToolTipBuildRohanPeasantDrafted
-"Enrôlés \n \n Le Riddermark dépendait de ses paysans pour travailler les champs - ce n'est qu'en cas de grand besoin qu'ils pouvaient être perçus pour servir leur roi au combat."
+"Enrôlés \n \n Le Riddermark dépendait de ses paysans pour travailler les champs - ce n'est qu'en cas de grand besoin qu'ils pouvaient être perçus pour servir leur Roi au combat."
 END
 
 CONTROLBAR:ToolTipSpecialAbilityDwarfToss
@@ -17962,7 +18073,7 @@ ThingTemplate:IndustrialBridgeTower01
 END
 
 ThingTemplate:Crypt01
-"Crypt"
+"Crypte"
 END
 
 // NEW INTERFACE ADDITIONS
@@ -17984,15 +18095,15 @@ TOOLTIP:Campaign3
 END
  
 GUI:InternetDisconnectionMenuHeader
-"Disconnection Menu" 
+"Deconnection Menu" 
 END
  
 GUI:InternetDisconnectionMenuHeaderCaps
-"DISCONNECTION MENU"
+"DECONNECTION MENU"
 END
  
 APT:DisconnectRules
-"One or more players has disconnected from the game. The player(s) may return to continue play; however it is possible that the player(s) are attempting to circumvent proper win/loss ladder reporting. If you wish to file a grievance, click on the 'Report Cheaters' link within the game ladder web page"
+"Un ou plusieurs joueurs se sont déconnectés du jeu. Le(s) Joueur(s) peut revenir pour continuer le jeu; cependant il est possible que le(s) joueur(s) tentent de contourner le bon rapport d'échelle victoire/défaite. Si vous souhaitez déposer un grief, cliquez sur le lien 'Signaler les tricheurs' dans la page web de l'échelle de jeu"
 END
 
 GUI:InternetDisconnectionMenuBody2
@@ -18002,50 +18113,48 @@ END
 
 GUI:Setup
 // context: Button on the Quickmatch Screen that will show the setup options
-"SETUP"
+"CONFIGURATION"
 END
  
 GUI:PlayerInfo
 // context: Button on the QUickmatch Screen that will show the player info
-"PLAYER INFO"
+"INFO JOUEUR"
 END
  
 GUI:Persona
 // context: Button to go to the stats window
-"PERSONA"
+"PERSONNEL"
 END
  
-
 GUI:TextureLow
 //context: Set the level of quality for the textures to Low Quality
-"Low Quality (faster)"
+"Basse Qualité (plus rapide)"
 END
 
 GUI:GameSpeed
 //context: Options setting to control the speed of the game
-"Game Speed:"
+"Vitesse du Jeu:"
 END
 
 GUI:SlowGameSpeed
 //context: Slow setting for the Game Speed Control
-"Slow"
+"Lent"
 END
 
 GUI:MediumGameSpeed
 //context: Medium setting for the Game Speed Control
-"Medium"
+"Moyen"
 END
 
 GUI:FastGameSpeed
 //context: Fast setting for the Game Speed Control
-"Fast"
+"Rapide"
 END
 
 GUI:FetchingPlayerInfo
 // context: on the player info screen, we are waiting for info from the server.  This must be short.
-"Updating..."
+"Mise à Jour..."
 END
-
 
 GUI:GameTypeScenario 
 // context: GameType Combo box on quickmatch screen
@@ -18054,12 +18163,12 @@ END
 
 GUI:GameTypeHeadToHead 
 // context: GameType Combo box on quickmatch screen
-"Head to Head"
+"Face à Face"
 END
 
 GUI:TooltipNoMoreCommandPoints
 //displayed in game to notify player when they have reached their //command point limit
-"Command Point Limit has Been Reached"
+"La limite du point de commande a été atteinte"
 END
 
 
@@ -19005,12 +19114,12 @@ END
 
 GUI:GAME_DISCOUNT
 // Context: used to display cavalry discount modifier in palantir
-"Game Bonus -%d%%"
+"Bonus de Jeu -%d%%"
 END
 
 GUI:WINE_DISCOUNT
 // Context: used to display cavalry discount modifier in palantir
-"Wine Bonus -%d%%"
+"Bonus de Vin -%d%%"
 END
 
 GUI:CAVALRYMONSTERDiscount
@@ -19035,7 +19144,7 @@ END
 
 GUI:HeroismDiscount
 // Context: used to display infantry discount modifier in palantir
-"Heroism Bonus -%d%%"
+"Bonus d'Héroisme -%d%%"
 END
 
 GUI:HERO_DISCOUNT
@@ -19062,7 +19171,6 @@ END
 GUI:FEANOR_DISCOUNT
 "Feanor Bonus -%d%%"
 END
-
 
 GUI:STOCK_DISCOUNT
 // Context: used to display the upgrade discount modifier in the palantir
@@ -19132,23 +19240,23 @@ APT:FirstTrained
 END
 
 APT:UnitCurrentLevel
-"Unit Current Niveau"
+"Niveau Unité Actuel"
 END
 
 APT:MissionEnemiesVanquished
-"Mission Enemies Vanquished"
+"Mission Enemies Vaincus"
 END
 
 APT:CampaignEnemiesVanquished
-"Campaign Enemies Vanquished"
+"Campagne Enemies Vaincus"
 END
 
 APT:MissionsCompleted
-"Missions Completed"
+"Missions terminé"
 END
 
 APT:BattleStats
-"BATTLE STATISTICS"
+"BATAILLE STATISTIQUES"
 END
 
 APT:BonusObjectives
@@ -19156,11 +19264,11 @@ APT:BonusObjectives
 END
 
 APT:HeroVeterancy
-"HERO EXPERIENCE"
+"HEROS EXPERIENCE"
 END
 
 APT:UnitVeterancy
-"UNIT EXPERIENCE"
+"UNITE EXPERIENCE"
 END
 
 APT:TerritoryBonus
@@ -19191,7 +19299,7 @@ END
 
 // Time formatting for time line screen. Format uses "s" for seconds, "m" for minutes, "h" for hours and "d" for days. Don't repeat letters (like "mm").
 APT:TimeDaysHoursMinute
-"d:h:m"
+"j:h:m"
 END
 
 // Textual description of time format set above by APT:TimeMinuteSecond
@@ -19710,7 +19818,7 @@ APT:UnitGainingRank
 END
 
 APT:CommandPoints
-"points de commandement"
+"Points de commandement"
 END
 
 APT:PowerPoints
@@ -19872,7 +19980,7 @@ APT:TurnOffMessengerInGame
 END
 
 APT:FilterLanguage
-"Filter Langue"
+"Filtre Langue"
 END
 
 APT:AudioControls
@@ -28420,7 +28528,7 @@ CONTROLBAR:PurchaseElvenEagle
 END
 
 CONTROLBAR:ToolTipPurchaseElvenEagle
-"Summons a Aigle géant under your control"
+"Invoque un Aigle géant sous votre contrôle"
 END
 
 CONTROLBAR:PurchaseUpgradeElvenFortressEncasingVines
@@ -31601,7 +31709,7 @@ CONTROLBAR:Flood
 END
 
 CONTROLBAR:TooltipFlood
-//"Déchaîne le pouvoir de la nature en faisant déborder subitement les flots de la Bruinen : une puissante inondation balaye les ennemis sur son passage.\n\nClic gauche sur la zone cible"//"Summons a powerful Flood to crush enemy units\n\nClic gauche sur la zone cible"
+//"Déchaîne le pouvoir de la nature en faisant déborder subitement les flots de la Bruinen : une puissante inondation balaye les ennemis sur son passage.\n\nClic gauche sur la zone cible"//"Invoque un powerful Flosous votreh enemô eunits\n\nClic gauche sur la zone cible"
 "Invoque un Déluge puissant pour écrasser les unités ennemies \n Eteint les incendies \n Clic gauche sur l'icône puis clic gauche sur la zone cible"
 END
 
@@ -39357,7 +39465,7 @@ DIALOGEVENT:MELorie_OffG031subtitle
 END
 
 DIALOGEVENT:MELorie_OffG032subtitle
-"*Lorien will not fall of its own accord! Summon the Cave Trolls from the fissure!"
+"*Lorien will not fall of its own accord! Invoque the Cave Trolls from the fissure!"
 END
 
 DIALOGEVENT:MELorie_OffG033subtitle
@@ -51859,7 +51967,7 @@ SCRIPT:ANGAmonSulElvenWoodTreeTooltip
 END
 
 SCRIPT:ANGAmonSulDunedainTreeTooltip
-"This Mallorn grants the Summon Dúnedain power to the defenders of Amon Sûl"
+"This Mallorn grants the Invoque Dúnedain power to the defenders of Amon Sûl"
 END
 
 SCRIPT:ANGAmonSulRebuildTreeTooltip
@@ -52666,7 +52774,7 @@ SCRIPT:CARNDUMOBJECTIVE1
 End
 
 SCRIPT:CARNDUMOBJECTIVE2
-"Capture the Feu d'alarme to Summon Rogash"
+"Capture the Feu d'alarme to Invoque Rogash"
 End
 
 SCRIPT:CARNDUMOBJECTIVE2PT2
@@ -54922,7 +55030,7 @@ OBJECT:WargLairDescription
 END
 
 CONTROLBAR:ConstructFireDrake
-//"Summon Wyrm de feu"
+//"Invoque Wyrm de feu"
 "Wyrm de feu"
 END
 
@@ -56773,8 +56881,8 @@ CONTROLBAR:ToolTipHwaldarBrigandage
 END
 
 CONTROLBAR:ToolTipHwaldarSummonHillmen1
-//"Requiert : niveau 5\n Summons hordes of Hillmen to\n fight for you\n\nClic gauche sur l'icône puis clic gauche sur une zone praticable"
-"Requiert : niveau 5\n Summons Rhudaur Spearmen to fight for you\n\nClic gauche sur l'icône puis clic gauche sur une zone praticable"
+//"Requiert : niveau 5\n Invoque unordes of Hillsous votreight fôre you\n\nClic gauche sur l'icône puis clic gauche sur une zone praticable"
+"Requiert : niveau 5\n Invoque unhudaur Spearmsous votret for ôoeu\n\nClic gauche sur l'icône puis clic gauche sur une zone praticable"
 END
 
 CONTROLBAR:ToolTipMorgomirDreadVisage  
@@ -60911,7 +61019,7 @@ CONTROLBAR:ToolTipBuildIsengardMineBerserker
 "Requiert : Puits à Uruk niveau 2 et Atelier de siège niveau 3\nCes Berserkers Uruk portent une petite charge de Feu d'Orthanc sur leur dos et sont destinés à se faire exploser au milieu des ennemis pour faire le maximum de dégâts."
 END
 
-//---------------- Mordor Orc Summon -----------------
+//---------------- Mordor Orc Invoque -----------------
 
 CONTROLBAR:MordorAllies
 "Séides de Lugbúrz"
@@ -62851,7 +62959,7 @@ CONTROLBAR:BarricadeMuzgash
 END
 
 CONTROLBAR:TooltipBarricadeMuzgash
-//"Summons a defensive tower garrisoned with archers \n Clic gauche sur l'icône puis clic gauche sur une zone praticable"
+//"Invoque un defensive tosous votreoned wôteh archers \n Clic gauche sur l'icône puis clic gauche sur une zone praticable"
 "Requiert : niveau 7 \nInvoque une tour défensive avec des archers en garnison. Profite de l'amélioration Passerelles de la forteresse.\n\nClic gauche sur l'icône puis clic gauche sur une zone praticable"
 END
 
@@ -63550,7 +63658,7 @@ OBJECT:CampaignCacheTreasure
 End
 
 CONTROLBAR:TooltipThrorHoard
-//"Summons the fire breathing Dragon to the battlefield \n\nClic gauche sur l'icône puis clic gauche sur une zone praticable"
+//"Invoque unhe fire breatsous votren to tôee battlefield \n\nClic gauche sur l'icône puis clic gauche sur une zone praticable"
 "Invoque un tas de pièces d'or, de bijoux et de richesses accumulées par les Nains.\n Attention à votre avarice, elle peut vous jouer des tours !..."
 END
 
@@ -63708,7 +63816,7 @@ CONTROLBAR:SendInTheGoats
 END
 
 CONTROLBAR:TooltipSendInTheGoats
-//"Summons a powerful Flood to crush enemy units \n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
+//"Invoque un powerful Flosous votreh enemô eunits \n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
 "Invoque une redoutable cavalcade de béliers pour écraser les ennemis.\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
 END
 
