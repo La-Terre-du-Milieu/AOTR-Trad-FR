@@ -9952,11 +9952,11 @@ END
 
 OBJECT:GondorCampKeep
 //"Click here to build/revive Heroes"  //This is seen by all players.
-"Citadel"
+"Citadelle"
 END
 
 OBJECT:GondorCastleBaseKeep
-"Citadel"
+"Citadelle"
 END
 
 OBJECT:GBCampWall
@@ -9998,11 +9998,11 @@ OBJECT:NBHDRamp
 END
 
 OBJECT:NBHDDeepingW
-"Le Gouffre de Helm Deeping Wall"
+"Le Gouffre de Helm Mur Intérieur"
 END
 
 OBJECT:HelmsDeepCauseway
-"Le Gouffre de Helm Causeway"
+"Le Gouffre de Helm Chaussée"
 END
 
 OBJECT:RBHelmsDeepGateDoorBig
@@ -10022,123 +10022,123 @@ OBJECT:RBHelmsDeepGateDoorSmall
 END
 
 OBJECT:HelmsDeepGatehouseLeft
-"Le Gouffre de Helm Gatehouse"
+"Le Gouffre de Helm Corps de Garde"
 END
 
 OBJECT:HelmsDeepGatehouseRight
-"Le Gouffre de Helm Gatehouse"
+"Le Gouffre de Helm Corps de Garde"
 END
 
 OBJECT:HelmsDeepdoSectionA2
-"Le Gouffre de Helm Outer Wall"
+"Le Gouffre de Helm Mur Extérieur"
 END
 
 OBJECT:HelmsDeepdoSectionB1
-"Le Gouffre de Helm Outer Wall"
+"Le Gouffre de Helm Mur Extérieur"
 END
 
 OBJECT:HelmsDeepdoSectionD
-"Le Gouffre de Helm Outer Wall"
+"Le Gouffre de Helm Mur Extérieur"
 END
 
 OBJECT:HelmsDeepdiStair1
-"Le Gouffre de Helm Inner Ramp"
+"Le Gouffre de Helm Rampe Interne"
 END
 
 OBJECT:HelmsDeepRampart03
-"Le Gouffre de Helm Rampart"
+"Le Gouffre de Helm Rempart"
 END
 
 OBJECT:HelmsDeepdiSectionB
-"Le Gouffre de Helm Inner Wall"
+"Le Gouffre de Helm Mur Interne"
 END
 
 OBJECT:HelmsDeepdiSectionA8
-"Le Gouffre de Helm Inner Wall"
+"Le Gouffre de Helm Mur Interne"
 END
 
 OBJECT:HelmsDeepdoStairsA1
-"Le Gouffre de Helm Stairs"
+"Le Gouffre de Helm Escalier"
 END
 
 OBJECT:HelmsDeepRampart02
-"Le Gouffre de Helm Rampart"
+"Le Gouffre de Helm Rempart"
 END
 
 OBJECT:HelmsDeepdiSectionA7
-"Le Gouffre de Helm Inner Wall"
+"Le Gouffre de Helm Mur Interne"
 END
 
 OBJECT:HelmsDeepdiSectionA6
-"Le Gouffre de Helm Inner Wall"
+"Le Gouffre de Helm Mur Interne"
 END
 
 OBJECT:HelmsDeepdiSectionA5
-"Le Gouffre de Helm Inner Wall"
+"Le Gouffre de Helm Mur Interne"
 END
 
 OBJECT:HelmsDeepRampart04
-"Le Gouffre de Helm Rampart"
+"Le Gouffre de Helm Rempart"
 END
 
 OBJECT:HelmsDeepRampart05
-"Le Gouffre de Helm Rampart"
+"Le Gouffre de Helm Rempart"
 END
 
 OBJECT:HelmsDeepdiSectionA3
-"Le Gouffre de Helm Inner Wall"
+"Le Gouffre de Helm Mur Interne"
 END
 
 OBJECT:HelmsDeepdoBridge1
-"Le Gouffre de Helm Outer Ramp"
+"Le Gouffre de Helm Rampe Extérieur"
 END
 
 OBJECT:HelmsDeepdoSectionA5
-"Le Gouffre de Helm Outer Wall"
+"Le Gouffre de Helm Mur Extérieur"
 END
 
 OBJECT:HelmsDeepdoStairsA4
-"Le Gouffre de Helm Stairs"
+"Le Gouffre de Helm Escalier"
 END
 
 OBJECT:HelmsDeepdoStairsA5
-"Le Gouffre de Helm Stairs"
+"Le Gouffre de Helm Escalier"
 END
 
 OBJECT:HelmsDeepSectionC
-"Le Gouffre de Helm Deeping Wall"
+"Le Gouffre de Helm Mur Intérieur"
 END
 
 OBJECT:HelmsDeepSectionB
-"Le Gouffre de Helm Deeping Wall"
+"Le Gouffre de Helm Mur Intérieur"
 END
 
 OBJECT:HelmsDeepdwStairsA1
-"Le Gouffre de Helm Stairs"
+"Le Gouffre de Helm Escalier"
 END
 
 OBJECT:HelmsDeepCulvert
-"Le Gouffre de Helm Culvert"
+"Le Gouffre de Helm Ponceau"
 END
 
 OBJECT:HelmsDeepSectionAi
-"Le Gouffre de Helm Deeping Wall"
+"Le Gouffre de Helm Mur Intérieur"
 END
 
 OBJECT:HelmsDeepdwStairsA2
-"Le Gouffre de Helm Stairs"
+"Le Gouffre de Helm Escalier"
 END
 
 OBJECT:HelmsDeepArcade
-"Le Gouffre de Helm Keep"
+"Le Gouffre de Helm Donjon"
 END
 
 OBJECT:HelmsDeepdiStep1
-"Le Gouffre de Helm Stairs"
+"Le Gouffre de Helm Escalier"
 END
 
 OBJECT:HelmsDeepdiStep2
-"Le Gouffre de Helm Stairs"
+"Le Gouffre de Helm Escalier"
 END
 
 OBJECT:IsengardBattleTower
@@ -10167,9 +10167,6 @@ END
 
 
 
-
-
-
 //////////////////////
 // Mordor buildings //
 //////////////////////
@@ -10184,11 +10181,11 @@ END
 
 OBJECT:MordorBaseDefenseFoundation
 //"Click here to build a Structure défensive"	//Everyone sees this.
-"Defensive Foundation"
+"Fondation Défensive"
 END
 
 OBJECT:MordorBlackGate
-"The Black Gate"
+"La Porte Noire"
 END
 
 OBJECT:MBCastFloor
@@ -10204,11 +10201,11 @@ OBJECT:CINETrollCave
 END
 
 OBJECT:Ashfall
-"Ash Fall"
+"Chute de Cendre"
 END
 
 OBJECT:MountDoom
-"Mount Doom"
+"Montagne du Destin"
 END
 
 OBJECT:MordorBaseFoundation
@@ -10221,7 +10218,7 @@ END
 
 OBJECT:MordorCampKeep
 //"Click here to build/revive Heroes"  //This is seen by all players.
-"Citadel"
+"Citadelle"
 END
 
 OBJECT:MordorBuildingFoundation
@@ -10230,7 +10227,7 @@ OBJECT:MordorBuildingFoundation
 END
 
 OBJECT:MordorWallFoundation
-"Wall Foundation"
+"Fondation de Mur"
 END
 
 OBJECT:MordorBase
@@ -10238,7 +10235,7 @@ OBJECT:MordorBase
 END
 
 OBJECT:MordorTent
-"Tent"
+"Tente"
 END
 
 OBJECT:MordorOrcPit
@@ -10246,7 +10243,7 @@ OBJECT:MordorOrcPit
 END
 
 OBJECT:MordorOrcFletcher
-"Orque Fletcher"
+"Orque Flèchier"
 END
 
 OBJECT:MordorTrollCage
@@ -10262,11 +10259,11 @@ OBJECT:MordorHaradrimPalace
 END
 
 OBJECT:MordorTavern
-"Tavern"
+"Taverne"
 END
 
 OBJECT:MordorBarracks
-"Rhun Caserne"
+"Caserne Rhûn"
 END
 
 
@@ -10313,7 +10310,7 @@ END
 
 OBJECT:IsengardCampKeep
 //"Click here to build/revive Heroes"  //This is seen by all players.
-"Citadel"
+"Citadelle"
 END
 
 OBJECT:IsengardBuildingFoundation
@@ -10322,7 +10319,7 @@ OBJECT:IsengardBuildingFoundation
 END
 
 OBJECT:IsengardWallFoundation
-"Wall Foundation"
+"Fondation de mur"
 END
 
 OBJECT:IsengardUrukPit
@@ -10350,12 +10347,12 @@ OBJECT:EBCampFence
 END
 
 OBJECT:ElvenCastleBaseKeep
-"Citadel"
+"Citadelle"
 END
 
 OBJECT:ElvenCampKeep
 //"Click here to build/revive Heroes"  //This is seen by all players.
-"Citadel"
+"Citadelle"
 END
 
 OBJECT:ElvenBuildingFoundation
@@ -10363,7 +10360,7 @@ OBJECT:ElvenBuildingFoundation
 END
 
 OBJECT:ElvenOrchard
-"Orchard"
+"Verger"
 END
 
 OBJECT:ElvenBarracks
@@ -10397,11 +10394,11 @@ OBJECT:GoblinCave
 END
 
 OBJECT:GoblinCampKeep
-"Citadel"
+"Citadelle"
 END
 
 OBJECT:GoblinCastleBaseKeep
-"Citadel"
+"Citadelle"
 END
 
 ////////////////////////
@@ -10453,18 +10450,18 @@ END
 ////////////////////
 
 OBJECT:EntBuildingFoundation
-"Ent Foundation"
+"Fondation Ent"
 END
 
 OBJECT:EntsMoot
-"Entmoot"
+"Racine d'Ent"
 END
 
 ///////////////////
 // Misc. objects //
 ///////////////////
 OBJECT:EconomyBuildingFoundation
-"Settlement Foundation"
+"Fondation d'établissement"
 END
 
 OBJECT:LumberMill
@@ -10496,23 +10493,23 @@ OBJECT:WreckedCatapult
 END
 
 OBJECT:RopeCoil
-"Rope"
+"Corde"
 END
 
 OBJECT:WoodBeams
-"Wood"
+"Bois"
 END
 
 OBJECT:WineVat
-"Wine Vat"
+"Cuve à Vin"
 END
 
 OBJECT:Barrel
-"Barrel"
+"Baril"
 END
 
 OBJECT:Tent
-"Tent"
+"Tente"
 END
 
 OBJECT:Table
@@ -10520,7 +10517,7 @@ OBJECT:Table
 END
 
 OBJECT:Stool
-"Stool"
+"Selle"
 END
 
 OBJECT:Statue
@@ -10532,19 +10529,19 @@ OBJECT:BatteringRam
 END
 
 OBJECT:Torch
-"Torch"
+"Torche"
 END
 
 OBJECT:Lamp
-"Lamp"
+"Lampe"
 END
 
 OBJECT:WeaponRack
-"Weapon Rack"
+"Ratellier d'armes"
 END
 
 OBJECT:Flag
-"Flag"
+"Drapeau"
 END
 
 OBJECT:Monument
@@ -10552,71 +10549,71 @@ OBJECT:Monument
 END
 
 OBJECT:OrcTent
-"Orque Tent"
+"Tente d'Orque"
 END
 
 OBJECT:Rocks
-"Rock"
+"Pierre"
 END
 
 OBJECT:Grass
-"Grass"
+"Herbe"
 END
 
 OBJECT:RockArch
-"Rock Arch"
+"Arche de Pierre"
 END
 
 OBJECT:RockColumn
-"Rock Column"
+"Colonne de Pierre"
 END
 
 OBJECT:Bones
-"Bones"
+"Des Os"
 END
 
 OBJECT:Remains
-"Remains"
+"Vestiges"
 END
 
 OBJECT:Cocoon
-"Cocoon"
+"Cocon"
 END
 
 OBJECT:ThickWebs
-"Thick Webs"
+"Toile épaisse"
 END
 
 OBJECT:SpiderWebs
-"Spider Webs"
+"Toile d'araignées"
 END
 
 OBJECT:Root
-"Root"
+"Racine"
 END
 
 OBJECT:Smoke
-"Smoke"
+"Fumée"
 END
 
 OBJECT:Bush
-"Bush"
+"Buison"
 END
 
 OBJECT:Cloud
-"Cloud"
+"Nuage"
 END
 
 OBJECT:Dust
-"Dust"
+"Poussière"
 END
 
 OBJECT:WaterfallHaze
-"Waterfall Haze"
+"Brume de Cascade"
 END
 
 OBJECT:Waterfall
-"Waterfall"
+"Chute d'Eau"
 END
 
 OBJECT:Wall
@@ -10624,15 +10621,15 @@ OBJECT:Wall
 END
 
 OBJECT:RohirrimBannerRider
-"Rohan Banner Rider"
+"Bannière de Chevaucheur du Rohan"
 END
 
 OBJECT:MTMountain
-"Minas Tirith Mountain"
+"Minas Tirith Montagne"
 END
 
 OBJECT:MTGround
-"Minas Tirith Ground"
+"Minas Tirith Terrain"
 END
 
 OBJECT:MinasTirithBattleTower
@@ -10664,19 +10661,19 @@ OBJECT:MTBridge
 END
 
 OBJECT:MTTop
-"Minas Tirith Building"
+"Bâtiment de Minas Tirith"
 END
 
 OBJECT:MTBuilding
-"Minas Tirith Building"
+"Bâtiment de Minas Tirith"
 END
 
 OBJECT:Horse
-"Horse"
+"Chevale"
 END
 
 OBJECT:HorseGrazing
-"Horse"
+"Chevale"
 END
 
 OBJECT:RohanHeroStatue
@@ -10688,11 +10685,11 @@ OBJECT:RohirrimRoyalGuard
 END
 
 OBJECT:NeutralShelob
- "Arachne"
+"Arachne"
 END
 
 OBJECT:Spider
-"Spider"
+"Araignée"
 END
 
 //////////////////////////////////
@@ -10700,48 +10697,51 @@ END
 //////////////////////////////////
 
 OBJECT:GamlingRoyalBanner
-"Banner of Eorl"
+"Bannière d'Eorl"
 END
+
 OBJECT:GamlingRoyalBannerDescription
-"The Royal Standard of Rohan"
+"L'Etalon Royal du Rohan"
 END
+
 CONTROLBAR:SpecialAbilityGamlingFLAL
-"For Lord and Land"
+"Pour le Seigneur et les Terres"
 END
+
 CONTROLBAR:ToolTipSpecialAbilityGamlingFLAL
-"+50% Damage, +50% Experience Gain, -20% Recharge Time\n Replensishes nearby hordes \n Capacité passive"
+"+50% de Dégâts, +50% d'obtention d'Expérience, -20% Temps de Recharge \n Reconstitue les hordes proches \n Capacité passive"
 END
 
 CONTROLBAR:BFMEBuildNoldorExileHorde
-"Fort contre la Cavalerie and Siege \n\nExiles of Ñoldor carry long spears to defend themselves on their journey back to Valinor."
+"Fort contre la Cavalerie et les Sièges \n\n Les Exilés de Ñoldor portent de longues lances pouur se défendre lors de leur retour à Valinor."
 END
 
 OBJECT:CampaignStrider
-"Strider"
+"Rôdeur"
 END
 
 OBJECT:CampaignRingwraith
-"Ringwraith"
+"Spectre de l'Anneau"
 END
 
 OBJECT:CampaignBreeBuilding
-"Bree Building"
+"Bâtiment de Bree"
 END
 
 OBJECT:CampaignBreePony
-"Prancing Pony"
+"Poney Fringant"
 END
 
 OBJECT:CampaignAthelas
-"Athelas Bushel"
+"Boisseau d'Athelas"
 END
 
 OBJECT:BalinsAxe
-"Balin's Axe"
+"Hache de Balin"
 END
 
 OBJECT:FireWood
-"Firewood"
+"Bois à brûler"
 END
 
 CampaignName:Bree
@@ -10842,19 +10842,19 @@ END
 
 // context: Audio Options
 Audio:Speakers0
-"2 Speakers"
+"2 Enceintes"
 END
 
 Audio:Speakers1
-"Headphones"
+"Casque"
 END
 
 Audio:Speakers2
-"Surround Sound"
+"Son Surround "
 END
 
 Audio:Speakers3
-"4 Speaker"
+"4 Enceintes"
 END
 
 Audio:Speakers4
@@ -13192,8 +13192,6 @@ SCRIPT:SUBTITLE_MELorie_MouthOfSauron018
 "La Bouche de Sauron: La sorcière elfique Galadriel et son fou\n de compagnon nous font grâce de leur présence - Quel plaisir divin leur\n mort nous apportera!"
 END
 
-
-
 SCRIPT:SUBTITLE_MELorie_Galadriel004
 "LADY GALADRIEL: Vous allez sentir ma colère, sales serviteurs de Sauron!"
 END
@@ -13376,7 +13374,6 @@ END
 SCRIPT:EvilGreyHavensHintText_Fissure
 "Les semi-Trolls maraudeurs peuvent être entrainés depuis la fissure."
 END
-
 
 SCRIPT:EvilGreyHavensHintText_Marauders
 "Les semi troll maraudeurs sont de puissantes unités de mêlée qui excellent contre la cavalerie."
@@ -13822,8 +13819,6 @@ SCRIPT:MEWitheredHeath_MissionObjective04A
 "Trouvez le Seigneur dragon."
 END
 
-
-
 SCRIPT:MEWitheredHeath_MissionObjective05
 "Détruisez toutes les mines naines."
 END
@@ -13927,13 +13922,12 @@ SCRIPT:Announcement_E07_04
 END
 
 SCRIPT:Announcement_E07_05
-"Le trone de Dale est depuis toujours le symbole de la puissance des nains.\n Détruisez le."
+"Le trone de Dale est depuis toujours le symbole de la puissance des nains.\n Détruisez-le."
 END
 
 SCRIPT:Announcement_E07_06
 "Notre mission dans la Brande desséchée a été fructueuse - nous avons de nouveaux alliés!"
 END
-
 
 SCRIPT:Announcement_E07_07
 "Ahh... les dragons volant sont arrivés, Utilisez leur feu pour nettoyer cette terre de la souillure des nains."
@@ -14000,7 +13994,7 @@ SCRIPT:Hint_E07_11
 END
 
 SCRIPT:Hint_E07_12
-"La Bouche de Sauron a trouvé bon de nous envoyer plus de batisseurs.\n Nous devons les protéger, car nous ne recevrons plus d'aide du Seigneur des Ténè."
+"La Bouche de Sauron a trouvé bon de nous envoyer plus de batisseurs.\n Nous devons les protéger, car nous ne recevrons plus d'aide du Seigneur des Ténèbres."
 END
 
 //////////////////////// EVIL RIVENDELL MISSION TEXT ///////////////////////////
@@ -14677,8 +14671,7 @@ CONTROLBAR:ConstructMenWorkshop
 END
 
 CONTROLBAR:ConstructRohanWorkshop
-//&k
-"Construire un Atelier de siège"
+"Construire un Atelier de siège (&k)"
 END
 
 CONTROLBAR:ToolTipConstructMenWorkshop
@@ -14763,7 +14756,7 @@ OBJECT:GBCastleTrebuchet
 END
 
 OBJECT:GondorCastleGateTower
-"Gate Tower"
+"Porte de Tour"
 END
 
 OBJECT:GondorTent
@@ -14779,7 +14772,7 @@ OBJECT:GondorWell
 END
 
 OBJECT:GBKeep
-"Keep"
+"Donjon"
 END
 
 OBJECT:ElvenFarm
@@ -14799,7 +14792,7 @@ OBJECT:SignalFire
 END
 
 OBJECT:ElvenGrove
-"Elven Grove"
+"Le Bosquet Elfes"
 END
 
 OBJECT:GondorBuildingIthilien
@@ -14830,7 +14823,6 @@ OBJECT:GondorCastleUpgradeNumenorian
 "Maçonnerie de Númenor"
 END
 
-
 OBJECT:GondorCastleUpgradeBattleTower
 "Tour de guerre"
 END
@@ -14838,6 +14830,7 @@ END
 CONTROLBAR:SelectAllHeroes
 "Sélectionner tous les héros"
 END
+
 CONTROLBAR:SelectAllHeroesDescription
 "Cliquez ici pour sélectionner tous les héros sur la carte."
 END
@@ -14845,6 +14838,7 @@ END
 CONTROLBAR:SelectNearestBuilder
 "Sélectionner le bâtisseur le plus proche"
 END
+
 CONTROLBAR:SelectNearestBuilderDescription
 "Cliquez ici pour sélectionner le bâtisseur prêt à travailler le plus proche."
 END
@@ -14856,33 +14850,43 @@ END
 CONTROLBAR:ConstructGondorStable
 "Construire une Ecurie"
 END
+
 CONTROLBAR:ConstructGondorKeep
 "Construire une Keep"
 END
+
 CONTROLBAR:ConstructGondorStatue
 "Construire une Statue héroïque"
 END
+
 CONTROLBAR:ConstructGondorWell
 "Construire une Fontaine"
 END
+
 CONTROLBAR:ConstructGondorStoneMaker
 "Construire un Tailleur de pierres"
 END
+
 CONTROLBAR:ConstructGondorArcherRange
 "Construire une Archerie"
 END
+
 CONTROLBAR:ConstructGondorWorkshop
 "Construire un Atelier de siège"
 END
+
 CONTROLBAR:ConstructGondorWatchTower
 "Construire une Tour de Garde"
 END
+
 CONTROLBAR:ConstructGondorWhiteTower
 "Construire une Tour Blanche du Gondor"
 END
+
 CONTROLBAR:ConstructGondorFarm
 "Construire une Ferme"
 END
+
 CONTROLBAR:ConstructGondorMarketPlace
 "Construire un Marché"
 END
@@ -14890,27 +14894,35 @@ END
 CONTROLBAR:ConstructGondorHseHeal
 "Construire une Maison de Guérison"
 END
+
 CONTROLBAR:ConstructGondorBlackSmith
 "Construire un Forgeron"
 END
+
 CONTROLBAR:ConstructGondorBarracks
 "Construire une Caserne"
 END
+
 CONTROLBAR:ConstructGondorWall
 "Construire un mur du Gondor"
 END
+
 CONTROLBAR:BattleTowerUpgrade
 "Construire amélioration Tou&r de guerre"
 END
+
 CONTROLBAR:PosternGateUpgrade
 "Construire amélioration &Poterne"
 END
+
 CONTROLBAR:FlagsUpgrade
 "Construire amélioration Étend&ars"
 END
+
 CONTROLBAR:ToolTipFlagsUpgrade
 "Procure un bonus de +50% armure et +125% dégâts aux alliés proches"
 END
+
 CONTROLBAR:ToolTipGondorBuildStable
 "Comme le Rohan, le royaume du Gondor élève ses chevaux pour ses bataillons de chevaliers. C'est une nécessité vitale pour les royaume des Hommes de maintenir une cavalerie suffisante pour repousser les assauts incessants des forces du Mal, qui épuisent leurs ressources.\n\nPermet de recruter et d'améliorer les cavaliers du Gondor."
 END
@@ -14946,24 +14958,31 @@ END
 CONTROLBAR:ConstructGondorArcheryRangeLevel2Upgrade
 "Améliore l'Archerie au nivea&u 2"
 END
+
 CONTROLBAR:ConstructGondorArcheryRangeLevel3Upgrade
 "Améliore l'Archerie au nivea&u 3"
 END
+
 CONTROLBAR:ConstructGondorBarracks2Upgrade
 "Améliore la Caserne au nivea&u 2"
 END
+
 CONTROLBAR:ConstructGondorBarracksLevel3Upgrade
 "Améliore la Caserne au nivea&u 3"
 END
+
 CONTROLBAR:ConstructGondorStable2Upgrade
 "Améliore l'Ecurie au nivea&u 2"
 END
+
 CONTROLBAR:ConstructGondorStableLevel3Upgrade
 "Améliore l'Ecurie au nivea&u 3"
 END
+
 CONTROLBAR:ConstructGondorWorkshop2Upgrade
 "Améliore l'Atelier de Siège au nivea&u 2"
 END
+
 CONTROLBAR:ConstructGondorWorkshopLevel3Upgrade
 "Améliore l'Atelier de Siège au nivea&u 3"
 END
@@ -14971,6 +14990,7 @@ END
 CONTROLBAR:ConstructRohanWorkshop2Upgrade
 "Améliore l'Atelier de Siège au nivea&u 2"
 END
+
 CONTROLBAR:ConstructRohanWorkshopLevel3Upgrade
 "Améliore l'Atelier de Siège au nivea&u 3"
 END
@@ -26119,7 +26139,7 @@ END
 
 //NEAR HARAD
 BONUSROUND:SPSEVILNEARHARADBUILD
-"Bonus : produisez a Chariot de tribut at a Citadel."
+"Bonus : produisez a Chariot de tribut at a Citadelle."
 END
 BONUSROUND:SPSEVILNEARHARADSEND
 "Bonus : Send your Chariot de tribut to a camp to buy their loyalty."
@@ -53109,7 +53129,7 @@ SCRIPT:FORNOST_GOAL_4
 End
 
 SCRIPT:FORNOST_GOAL_3
-"Destroy the Citadel of Fornost"
+"Destroy the Citadelle of Fornost"
 End
 
 SCRIPT:FORNOST_GOAL_5
@@ -53257,7 +53277,7 @@ SCRIPT:FORNOST_5_BUILDINGS_LEFT
 End
 
 SCRIPT:FORNOST_GOAL_3_COMPLETE
-"The Citadel of Fornost has been destroyed!"
+"The Citadelle of Fornost has been destroyed!"
 End
 
 SCRIPT:FORNOST_GOAL_4_COMPLETE
@@ -60314,7 +60334,7 @@ CONTROLBAR:ToolTipConstructGondorDolMAArmsHorde
 END
 
 CONTROLBAR:ToolTipConstructGondorDolMAArmsHorde_WOTR
-"Requiert : Niveau 2 Barracks and Dol Amroth Citadel \n Fort contre les Piquiers \n \n Choosing to fight on foot rather than from horseback, these heavily armored soldiers are no less elite than their equestrian counterparts."
+"Requiert : Niveau 2 Barracks and Dol Amroth Citadelle \n Fort contre les Piquiers \n \n Choosing to fight on foot rather than from horseback, these heavily armored soldiers are no less elite than their equestrian counterparts."
 END
 
 CONTROLBAR:LW_ToolTipBuild_GondorDolMAArmsHorde
