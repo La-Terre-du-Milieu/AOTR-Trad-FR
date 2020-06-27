@@ -8059,7 +8059,7 @@ CONTROLBAR:TrollFindOrcToHold
 END
 
 CONTROLBAR:GrabBuildingChunk
-"Prendre un morceau de bâtiment"
+"Prendre un morceau de &bâtiment"
 END
 
 CONTROLBAR:GrabAndEatPassenger
@@ -8103,7 +8103,7 @@ CONTROLBAR:SwoopAttack
 End
 
 CONTROLBAR:ChargeAttack
-"Charge"
+"&Charge"
 END
 
 CONTROLBAR:Guard
@@ -8115,7 +8115,7 @@ CONTROLBAR:GuardUnit
 END
 
 CONTROLBAR:GuardWithoutPursuit
-"Protection rapprochée"
+"Prote&ction rapprochée"
 END
 
 CONTROLBAR:GuardFlyingUnitsOnly
@@ -8135,11 +8135,11 @@ CONTROLBAR:Waypoints
 END
 
 CONTROLBAR:CancelBuild
-"Annuler la construction"
+"Annuler la &construction"
 END
 
 CONTROLBAR:Contaminate
-"Contaminer"
+"&Contaminer"
 END
 
 CONTROLBAR:UnderConstructionDesc
@@ -14638,7 +14638,7 @@ CONTROLBAR:ConstructMenFarm
 END
 
 CONTROLBAR:ConstructMenBarracks
-"Construire une Caserne"
+"Construire une &Caserne"
 END
 
 CONTROLBAR:ConstructMenArcheryRange
@@ -14823,7 +14823,7 @@ CONTROLBAR:SelectAllHeroesDescription
 END
 
 CONTROLBAR:SelectNearestBuilder
-"Sélectionner le bâtisseur le plus proche"
+"Sélectionner le &bâtisseur le plus proche"
 END
 
 CONTROLBAR:SelectNearestBuilderDescription
@@ -15042,7 +15042,7 @@ CONTROLBAR:ConstructRohanArmory
 END
 
 CONTROLBAR:ConstructRohanBarracks
-"Construire une Caserne du Rohan"
+"Construire une &Caserne du Rohan"
 END
 
 CONTROLBAR:ConstructRohanWell
@@ -15132,7 +15132,7 @@ CONTROLBAR:ConstructMordorBase
 END
 
 CONTROLBAR:ConstructMordorOrcPit
-"Construire un Bastion des Orques"
+"&Construire un Bastion des Orques"
 END
 
 CONTROLBAR:BuildMordorWorker
@@ -15284,7 +15284,7 @@ CONTROLBAR:ToolTipConstructWildLumberMill
 END
 
 CONTROLBAR:ConstructWildGoblinCave
-"Construire une Cave Gobelins de la Moria"
+"Construire une &Cave Gobelins de la Moria"
 END
 
 CONTROLBAR:ToolTipConstructWildGoblinCave
@@ -15761,7 +15761,7 @@ CONTROLBAR:ConstructGondorFighterHorde
 END
 
 CONTROLBAR:ConstructGondorShieldGuardHorde
-"Gardes de la Citadelle de Minas Tirith"
+"Gardes de la &Citadelle de Minas Tirith"
 END
 
 CONTROLBAR:ConstructGondorKnightHorde
@@ -15970,7 +15970,7 @@ CONTROLBAR:CreateAHeroRevive
 "Rappelez votre Capitaine à la vie"
 END
 CONTROLBAR:CreateAHeroHotkey
-"Capitaine"
+"&Capitaine"
 END
 
 //GONDOR HEROES
@@ -16284,7 +16284,7 @@ CONTROLBAR:ToolTipGoblinCave
 END
 
 CONTROLBAR:ConstructGoblinCaveTroll
-"Troll des Cavernes"
+"Troll des &Cavernes"
 END
 
 CONTROLBAR:ToolTipBuildGoblinCaveTroll
@@ -16409,7 +16409,7 @@ CONTROLBAR:ConstructMordorHaradrimHordeSpr
 END
 
 CONTROLBAR:ConstructMordorCorsairHorde
-"Corsaires d'Umbar"
+"&Corsaires d'Umbar"
 END
 
 CONTROLBAR:ConstructMordorEasterlingHorde
@@ -16417,7 +16417,7 @@ CONTROLBAR:ConstructMordorEasterlingHorde
 END
 
 CONTROLBAR:ConstructMordorCaveTroll
-"Troll des Cavernes"
+"Troll des &Cavernes"
 END
 
 CONTROLBAR:ConstructMordorMountainTroll
@@ -16429,7 +16429,7 @@ CONTROLBAR:ConstructMordorSiegeTower
 END
 
 CONTROLBAR:ConstructMordorCatapult
-"Catapulte"
+"&Catapulte"
 END
 
 CONTROLBAR:ConstructMordorGrond
@@ -16593,7 +16593,7 @@ END
 
 
 CONTROLBAR:DwarvenGuardianChargeAttack
-"Charge"
+"&Charge"
 END
 
 // ISENGARD UNITS
@@ -16602,7 +16602,7 @@ CONTROLBAR:ConstructIsengardUrukHai
 END
 
 CONTROLBAR:ConstructIsengardCrossbowmen
-"Arbalétriers Uruk"
+"Arbalétriers Uruk [&C]"
 END
 
 CONTROLBAR:ConstructIsengardPikemen
@@ -16778,7 +16778,7 @@ CONTROLBAR:ToolTipBuildEntBirch
 END
 
 CONTROLBAR:KickAndPunch
-"Attaque rapprochée"
+"Attaque rappro&chée"
 END
 
 CONTROLBAR:ToolTipKickAndPunch
@@ -16786,7 +16786,7 @@ CONTROLBAR:ToolTipKickAndPunch
 END
 
 CONTROLBAR:ThrowRocks
-"Jeter des rochers"
+"Jeter des ro&chers"
 END
 
 CONTROLBAR:ToolTipThrowRocks
@@ -16840,8 +16840,7 @@ CONTROLBAR:FireArrowUpgrade
 END
 
 CONTROLBAR:BodkinArrowUpgrade
-//&w
-"Flèches Alêne"
+"Flèches Alêne [&W]"
 END
 
 CONTROLBAR:ArnorFireArrowUpgrade
@@ -16881,11 +16880,11 @@ CONTROLBAR:SpecialAbilityDarkLordsLament
 END
 
 CONTROLBAR:SpecialAbilityCallPack
-"Appel de la meute"
+"Appel de la meute [&C]"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityDarkLordsLament
-"Etourdit les ennemis alentour.\n\nClic gauche pour activer"
+"Etourdit les ennemis alentour.\n\nClic gauche sur l'icône pour activer"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityCallPack
@@ -17047,7 +17046,7 @@ CONTROLBAR:TooltipToggleCatapultWeapons
 END
 
 CONTROLBAR:Screech
-"Cri"
+"&Cri"
 END
 
 CONTROLBAR:TooltipScreech
@@ -17127,8 +17126,7 @@ CONTROLBAR:ElessarLeadership
 END
 
 CONTROLBAR:ElessarOathbreaker
-//&l
-"Honorez votre Serment !"
+"Honorez votre Serment ! [&L]"
 END
 
 CONTROLBAR:ToolTipElessarOathbreaker
@@ -17148,8 +17146,7 @@ CONTROLBAR:HawkStrike
 END
 
 CONTROLBAR:FellowshipHawkStrike
-//&r
-"Doubles Flèches"
+"Doubles Flèches [&R]"
 END
 
 CONTROLBAR:ToolTipHawkStrike
@@ -17157,8 +17154,7 @@ CONTROLBAR:ToolTipHawkStrike
 END
 
 CONTROLBAR:HawkStrike_Summoned
-//&k
-"Compétence des Elfes"
+"Compétence des Elfes [&K]"
 END
 
 CONTROLBAR:ArrowWind
@@ -17170,7 +17166,7 @@ CONTROLBAR:ToolTipArrowWind
 END
 
 CONTROLBAR:TrainArchers
-"Entraînement des Archers"
+"Entraînement des Ar&chers"
 END
 
 CONTROLBAR:TrainArchersBrand
@@ -17311,8 +17307,7 @@ CONTROLBAR:ToolTipThranduilFavor
 END
 
 CONTROLBAR:ThranduilFavor
-//&w
-"Amour de l'Argent et des Bijoux"
+"Amour de l'Argent et des Bijoux [&W]"
 END
 
 CONTROLBAR:GlorfindelNewMount
@@ -17365,8 +17360,7 @@ CONTROLBAR:ToolTipLeap
 END
 
 CONTROLBAR:FellowshipLeap
-//&w
-"Personne ne lance un nain !"
+"Personne ne lance un nain ! [&W]"
 END
 
 CONTROLBAR:ToolTipFellowshipLeap
@@ -17382,8 +17376,7 @@ CONTROLBAR:ToolTipLeap_Summoned
 END
 
 CONTROLBAR:AxeThrow
-//&T
-"Lancer de Hache"
+"Lancer de Hache [&T]"
 END
 
 CONTROLBAR:Slayer
@@ -36335,7 +36328,7 @@ ToolTip:LackMorgulSorcery
 END
 
 CONTROLBAR:ArcherBarrage
-"Bombardement"
+"&Bombardement"
 END
 
 CONTROLBAR:ToolTipBuildFireDrake
@@ -55854,13 +55847,13 @@ CONTROLBAR:ToolTipBlackArrows
 End
 
 CONTROLBAR:ToolTipHalifirienGuard_Summoned
-"Causes enemy monsters to flee in terror \n Clic gauche sélectionner Clic gauche sur cible"
+"Effraie les monstres ennemis ciblés qui s'enfuient de terreur \n Clic gauche sur l'icône puis clic gauche sur la cible"
 End
 
 CONTROLBAR:SpecialAbilityOilBarrels
 //"Oil Barrels"
 //"Oil Barrels"
-"Tonneaux d'huile"
+"Tonneaux d'hu&ile"
 End
 
 CONTROLBAR:ToolTipBattleWagonUpgradeBannerCarrier
@@ -59684,7 +59677,7 @@ CONTROLBAR:BolgRevive
 END
 
 CONTROLBAR:BolgHotkey
-"Bolg"
+"&Bolg"
 END
 
 CONTROLBAR:BolgCastellan
