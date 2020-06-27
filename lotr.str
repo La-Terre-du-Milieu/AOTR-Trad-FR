@@ -14658,7 +14658,7 @@ CONTROLBAR:ConstructMenWorkshop
 END
 
 CONTROLBAR:ConstructRohanWorkshop
-"Construire un Atelier de siège (&k)"
+"Construire un Atelier de siège [&k]"
 END
 
 CONTROLBAR:ToolTipConstructMenWorkshop
@@ -17148,7 +17148,8 @@ CONTROLBAR:HawkStrike
 END
 
 CONTROLBAR:FellowshipHawkStrike
-"Doubles Flèches (&r)"
+//&r
+"Doubles Flèches"
 END
 
 CONTROLBAR:ToolTipHawkStrike
@@ -17156,7 +17157,8 @@ CONTROLBAR:ToolTipHawkStrike
 END
 
 CONTROLBAR:HawkStrike_Summoned
-"Compétence des Elfes (S)&k)"
+//&k
+"Compétence des Elfes"
 END
 
 CONTROLBAR:ArrowWind
@@ -17292,8 +17294,7 @@ CONTROLBAR:TheodenMount
 END
 
 CONTROLBAR:ThranduilNewMount
-//"Elvenking (&M)"
-"Roi Elfe"
+"Roi Elfe [&m]"
 END
 
 CONTROLBAR:ThranduilNewMountTooltip
@@ -17328,7 +17329,7 @@ CONTROLBAR:TheodenNewMount
 END
 
 CONTROLBAR:TheodenNewMountTooltip
-"Clic gauche pour alterner entre monter sur Crins-de-Neige et être à pieds"
+"Clic gauche pour alterner entre \n monter sur Crins-de-Neige et être à pieds"
 END
 
 CONTROLBAR:EomerNewMount
@@ -17336,7 +17337,7 @@ CONTROLBAR:EomerNewMount
 END
 
 CONTROLBAR:EomerNewMountTooltip
-"Clic gauche pour alterner entre monter sur Pied-Ardent et être à pieds"
+"Clic gauche pour alterner entre \n monter sur Pied-Ardent et être à pieds"
 END
 
 CONTROLBAR:TheodredNewMount
@@ -17670,7 +17671,7 @@ CONTROLBAR:TheOneRing
 END
 
 CONTROLBAR:TheOneRing_Campaign
-"Un Lourd Fardeau (&b)"
+"Un Lourd Fardeau [&b]"
 END
 
 CONTROLBAR:ToolTipTheOneRing
@@ -17694,7 +17695,7 @@ CONTROLBAR:ToolTipFryingPan
 END
 
 CONTROLBAR:HobbitCloak
-"Cachez-vous, Vite! (&c)"
+"Cachez-vous, Vite! [&c]"
 END
 
 CONTROLBAR:ElvenCloak
@@ -28003,7 +28004,7 @@ CONTROLBAR:Command_DwarvenWallUpgradeToCatapult
 END
 
 CONTROLBAR:Command_RohanWallUpgradeToCatapult
-"Onagre Rohirrique (&c)"
+"Onagre Rohirrique [&c]"
 END
 
 CONTROLBAR:TooltipCommand_DwarvenWallUpgradeToCatapult
@@ -28483,7 +28484,7 @@ CONTROLBAR:ToolTipConstructElvenWatchtowerExpansion
 END
 
 CONTROLBAR:ConstructRivendellWatchtowerExpansion
-"Extension d'une Tour (&w)"
+"Extension d'une Tour [&w]"
 END
 
 CONTROLBAR:ToolTipConstructRivendellWatchtowerExpansion
@@ -32210,7 +32211,7 @@ CONTROLBAR:SpecialPowerToolTipIncorruptable
 END
 
 CONTROLBAR:SummonWillow
-"Le Vieil Homme-Saule (&w)"
+"Le Vieil Homme-Saule [&w]"
 END
 
 OBJECT:OldManWillow
@@ -32694,7 +32695,7 @@ CONTROLBAR:ConstructMordorAttackTroll
 End
 
 CONTROLBAR:ConstructWildAttackTroll
-"Troll de Pierre de Gundabad (&s)"
+"Troll de Pierre de Gundabad [&s]"
 End
 
 CONTROLBAR:ConstructMordorBattleTower
@@ -41600,11 +41601,11 @@ CONTROLBAR:PurchaseUpgradeWildBasicTraining
 END
 
 CONTROLBAR:PurchaseUpgradeWildBasicTrainingWarg
-"Acheter Groupe d'Alpha (&k)"
+"Acheter Groupe d'Alpha [&k]"
 END
 
 CONTROLBAR:PurchaseUpgradeIsengardBasicTrainingWarg
-"Acheter Groupe d'Alpha (&k)"
+"Acheter Groupe d'Alpha [&k]"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeWildBasicTraining
@@ -55430,7 +55431,7 @@ CONTROLBAR:ToolTipEomerLeadership
 //"Les cavaliers alliés proches d'Éomer gagnent +50% dégâts, +50% armure et gagnent de l'expérience deux fois plus rapidement.\n\n Capacité passive       Ne peut pas s'utiliser avec d'autres bonus"
 //"Les cavaliers alliés proches d'Éomer gagnent +33% dégâts, +33% armure et gagnent de l'expérience deux fois plus rapidement.\n\n Capacité passive"
 //"Les cavaliers alliés proches d'Éomer gagnent +33% dégâts, +33% armure et gagnent de l'expérience 50% plus rapidement.\n\n Capacité passive"
-"Type d'Action : Charisme\n Allied cavalry near Eomer gain +33% dégâts, +33% armure, et gagnent de l'expérience 50% plus rapidement (bonus cumulable).\n\n Capacité passive"
+"Type d'Action : Charisme\n Les Cavaliers proche d'Eomer gagnent +33% dégâts, +33% armure, et gagnent de l'expérience 50% plus rapidement (bonus cumulable).\n\n Capacité passive"
 END
 
 CONTROLBAR:ToolTipThrowSpear
@@ -55719,7 +55720,7 @@ CONTROLBAR:ToolTipLegolasTrainArchers
 END
 
 CONTROLBAR:PrinceMirkwood
-"Prince de la Forêt Noir (&k)"
+"Prince de la Forêt Noir [&k]"
 END
 
 CONTROLBAR:ToolTipFellowshipLegolasTrainArchers  
@@ -62230,7 +62231,7 @@ CONTROLBAR:SarumanThunderBolt
 END
 
 CONTROLBAR:SarumanThunderBoltFort
-"Frappe Eclair (&t)"
+"Frappe Eclair [&t]"
 END
 
 CONTROLBAR:ToolTipSarumanThunderBolt
@@ -62744,7 +62745,7 @@ CONTROLBAR:ToolTipGothmogSiegeMaster
 END
 
 CONTROLBAR:GothmogIntoTheFray
-"Dans la mêlée (&y)"
+"Dans la mêlée [&y]"
 END
 
 CONTROLBAR:ToolTipGothmogIntoTheFray
@@ -64881,7 +64882,7 @@ CONTROLBAR:ToolTipLAVeteranEregion
 End
 
 CONTROLBAR:LAVeteranLastAlliance
-"La Guerre de l'Ultime Alliance (&z)"
+"La Guerre de l'Ultime Alliance [&z]"
 End
 
 CONTROLBAR:ToolTipLAVeteranLastAlliance
@@ -66016,7 +66017,7 @@ CONTROLBAR:TooltipHallOfFireSpawnFingolfin
 END
 
 CONTROLBAR:HallOfFireSpawnCelebrimbor
-"Le Forgeron d'Eregion (&m)"
+"Le Forgeron d'Eregion [&m]"
 END
 
 CONTROLBAR:TooltipHallOfFireSpawnCelebrimbor
@@ -67585,7 +67586,7 @@ OBJECT:RohanWestfolderHorde
 END
 
 CONTROLBAR:ConstructRohanWestfolderHorde
-"Guerriers Du Ouestfolde (&z)"
+"Guerriers Du Ouestfolde [&z]"
 END
 
 CONTROLBAR:ToolTipBuildRohanWestfolderHorde
@@ -67614,7 +67615,7 @@ CONTROLBAR:ToolTipToggleWestfolderLineToBlockFormationElite_Summoned
 END
 
 CONTROLBAR:ForthEorlingas
-"Pour les Eorlingas! (&t)"
+"Pour les Eorlingas! [&t]"
 END
 
 CONTROLBAR:ToolTipForthEorlingas
@@ -67821,7 +67822,7 @@ OBJECT:EverholtBoar
 END
 
 CONTROLBAR:ConstructRohanDraftTower
-"Construire une Tour &dressé"
+"Construire une Tour &d'Alarme'"
 END
 
 CONTROLBAR:ToolTipConstructRohanDraftTower
@@ -67829,7 +67830,7 @@ CONTROLBAR:ToolTipConstructRohanDraftTower
 END
 
 OBJECT:RohanDraftTower
-"Tour dressé"
+"Tour d'Alarme"
 END
 
 OBJECT:RohanDraftTowerDescription
@@ -67837,19 +67838,19 @@ OBJECT:RohanDraftTowerDescription
 END
 
 UPGRADE:DraftTowerWestfold
-"Serment du Ouestfold (&z)"
+"Le Serment du Ouestfold [&z]"
 END
 
 UPGRADE:DraftTowerFirienholt
-"Serment de &Firienholt"
+"Le Serment de &Firienholt"
 END
 
 UPGRADE:DraftTowerEored
-"Serment d'Éor&ed"
+"Le Serment d'Éor&ed"
 END
 
 CONTROLBAR:DraftTowerOath
-"Serment que vous avez prê&tés..."
+"Le Serment que vous avez prê&tés..."
 END
 
 CONTROLBAR:ToolTipDraftTowerOathPeasant
@@ -67857,11 +67858,11 @@ CONTROLBAR:ToolTipDraftTowerOathPeasant
 END
 
 CONTROLBAR:PurchaseDraftTowerWestfolder
-"Serment du Ouestfold (&z)"
+"Le Serment du Ouestfold [&z]"
 END
 
 CONTROLBAR:ToolTipPurchaseDraftTowerWestfolder
-"Nécessite l'utilisation du pouvoir la Corne du Ouestfolde \n Modifie de façon permanente le Serment actif pour invoquer un bataillon du Ouestfolders"
+"Nécessite l'utilisation du pouvoir la Corne du Ouestfolde \n Modifie de façon permanente le Serment actif pour invoquer un bataillon du Ouestfolde"
 END
 
 CONTROLBAR:ToolTipDraftTowerOathWestfolder
@@ -67869,7 +67870,7 @@ CONTROLBAR:ToolTipDraftTowerOathWestfolder
 END
 
 CONTROLBAR:PurchaseDraftTowerFirienholt
-"Serment de &Firienholt"
+"Le Serment de &Firienholt"
 END
 
 CONTROLBAR:ToolTipPurchaseDraftTowerFirienholt
@@ -67881,7 +67882,7 @@ CONTROLBAR:ToolTipDraftTowerOathFirienholt
 END
 
 CONTROLBAR:PurchaseDraftTowerRohirrim
-"Serment d'Éor&ed"
+"Le Serment d'Éor&ed"
 END
 
 CONTROLBAR:ToolTipPurchaseDraftTowerRohirrim
@@ -67978,7 +67979,7 @@ CONTROLBAR:ToolTipRohanPeasantHasDraft
 END
 
 CONTROLBAR:ErkenbrandHorn
-"Corne Dorée (&i)"
+"Corne Dorée [&i]"
 END
 
 CONTROLBAR:ToolTipErkenbrandHorn
@@ -68042,11 +68043,11 @@ CONTROLBAR:TooltipEomerBlademaster
 END
 
 CONTROLBAR:EomerStandGround
-"Défendez votre Territoire (&y)"
+"Défendez votre Territoire [&y]"
 END
 
 CONTROLBAR:ToolTipEomerStandGround
-"Requiert : Niveau 8 \n Crée un anneau qui confère +30% d'Armure et de résistance aux \n renversements et l'immunité à la Peur aux unités qui s'y trouvent \n Dure 60 seconds \n Clic gauche pour activer"
+"Requiert : Niveau 8 \n Crée un anneau qui confère +30% d'Armure, \n de résistance aux renversements \n et l'immunité à la Peur aux unités qui s'y trouvent \n Dure 60 seconds \n Clic gauche pour activer"
 END
 
 CONTROLBAR:TheodredIllFated
@@ -68190,7 +68191,7 @@ CONTROLBAR:ToolTipMerryLeadership
 END
 
 CONTROLBAR:FellowshipAthelas
-"Athelas, Feuille des Rois (&k)"
+"Athelas, Feuille des Rois [&k]"
 END
 
 CONTROLBAR:TooltipFellowshipAthelas
@@ -68206,7 +68207,7 @@ OBJECT:RohanPukelStatueDescription
 END
 
 CONTROLBAR:PukelMoveUnseen
-"Les Voies Secrètes (&p)"
+"Les Voies Secrètes [&p]"
 END
 
 CONTROLBAR:ToolTipPukelMoveUnseen
@@ -68214,7 +68215,7 @@ CONTROLBAR:ToolTipPukelMoveUnseen
 END
 
 CONTROLBAR:PukelStoneSkin
-"Peau de Pierre (&k)"
+"Peau de Pierre [&k]"
 END
 
 CONTROLBAR:ToolTipPukelStoneSkin
@@ -68266,7 +68267,7 @@ CONTROLBAR:ToolTipBuildRohanMangonel
 END
 
 CONTROLBAR:BowMastery
-"Maîtrise de l'Arc (&y)"
+"Maîtrise de l'Arc [&y]"
 END
 
 CONTROLBAR:ToolTipBowMastery
@@ -68286,7 +68287,7 @@ CONTROLBAR:ToolTipBuildImladrisBatteringRam
 END
 
 CONTROLBAR:ConstructRohanHelmingasWardenHorde
-"Guerriers d'Helmingas (&z)"
+"Guerriers d'Helmingas [&z]"
 END
 
 CONTROLBAR:ToolTipBuildRohanHelmingasWardenHorde
@@ -68318,7 +68319,7 @@ CONTROLBAR:ToolTipGreyCompanySilentDefenders
 END
 
 CONTROLBAR:GreyCompanyHunt
-"Chasseurs Qualifiés (&k)"
+"Chasseurs Qualifiés [&k]"
 END
 
 CONTROLBAR:ToolTipGreyCompanyHunt
@@ -68418,7 +68419,7 @@ CONTROLBAR:TooltipForlongLeadership
 END
 
 CONTROLBAR:ForlongVitality
-"Vitalité (&y)"
+"Vitalité [&y]"
 END
 
 CONTROLBAR:TooltipForlongVitality
@@ -68906,7 +68907,7 @@ CONTROLBAR:ToolTipPurchaseTunnelCollapse
 END
 
 CONTROLBAR:TunnelCollaspe
-"Effondrement de Tunnel (&p)"
+"Effondrement de Tunnel [&p]"
 END
 
 CONTROLBAR:ToolTipTunnelCollaspe
@@ -68946,7 +68947,7 @@ CONTROLBAR:ToolTipEyesoftheCrow
 END
 
 CONTROLBAR:WildCharge
-"Charge Sauvage (&z)"
+"Charge Sauvage [&z]"
 END
 
 CONTROLBAR:ToolTipWildCharge
@@ -68954,7 +68955,7 @@ CONTROLBAR:ToolTipWildCharge
 END
 
 CONTROLBAR:ThickSkull
-"Tête Dure (&k)"
+"Tête Dure [&k]"
 END
 
 CONTROLBAR:ToolTipThickSkull
@@ -69014,7 +69015,7 @@ CONTROLBAR:ToolTipHelmingasShieldCrush
 End
 
 CONTROLBAR:MarkOfHelm
-"La Marque de Helm (&k)"
+"La Marque de Helm [&k]"
 END
 
 CONTROLBAR:ToolTipMarkOfHelm
@@ -69046,7 +69047,7 @@ CONTROLBAR:ToolTipGrandHarvest
 END
 
 CONTROLBAR:GreatBeastChargeAttack
-"Charge (&p)"
+"Charge [&p]"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityGreatBeastChargeAttack
@@ -69062,7 +69063,7 @@ CONTROLBAR:ToolTipSpecialAbilityGreatBeastHouda
 END
 
 CONTROLBAR:GreatBeastGrog
-"Donner leur du Grog! (&i)"
+"Donner leur du Grog! [&i]"
 END
 
 CONTROLBAR:TooltipSpecialAbilityGreatBeastGrog
@@ -69070,7 +69071,7 @@ CONTROLBAR:TooltipSpecialAbilityGreatBeastGrog
 End
 
 CONTROLBAR:GreatBeastFear
-"Bête de Guerre (&z)"
+"Bête de Guerre [&z]"
 END
 
 CONTROLBAR:TooltipSpecialAbilityGreatBeastFear
@@ -69102,7 +69103,7 @@ CONTROLBAR:ToolTipSpecialAbilityIsengardFocusDunland
 END
 
 CONTROLBAR:SpecialAbilityIsengardFocusArcher
-"Focus: Tireur d'Elites Cruels (&k)"
+"Focus: Tireur d'Elites Cruels [&k]"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityIsengardFocusArcher
@@ -69126,7 +69127,7 @@ CONTROLBAR:ToolTipSpecialAbilityIsengardFocusSiege
 END
 
 CONTROLBAR:SpecialAbilityIsengardFocusForge
-"Focus: Acier Noir (&l)"
+"Focus: Acier Noir [&l]"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityIsengardFocusForge
@@ -69150,7 +69151,7 @@ CONTROLBAR:ToolTipTrollishRage
 END
 
 CONTROLBAR:MerryBlade
-"Courage des Hobbits (&l)"
+"Courage des Hobbits [&l]"
 END
 
 CONTROLBAR:ToolTipMerryBlade
@@ -69261,7 +69262,7 @@ UPGRADE:ThickSkin
 END
 
 CONTROLBAR:PurchaseUpgradeThickSkin
-"Acheter Peau Epaisse (&k)"
+"Acheter Peau Epaisse [&k]"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeThickSkin
@@ -69509,7 +69510,7 @@ OBJECT:GuldurSlaveMillDescription
 End
 
 CONTROLBAR:ConstructGuldurSlaveMill
-"Invoquer un Moulin à Esclaves (&R)"
+"Invoquer un Moulin à Esclaves [&r]"
 END
 
 CONTROLBAR:TooltipConstructGuldurSlaveMill
@@ -69577,7 +69578,7 @@ OBJECT:HordeGuldurBrokenRabble
 END
 
 CONTROLBAR:ConstructGuldurBrokenRabbleHorde
-"Brisés (&k)"
+"Brisés [&k]"
 END
 
 CONTROLBAR:ToolTipBuildGuldurBrokenRabbleHorde
@@ -69597,7 +69598,7 @@ OBJECT:HordeGuldurArcherPikeCombo
 END
 
 CONTROLBAR:ConstructGuldurOrcArcherHorde
-"Chasseurs Orques (&t)"
+"Chasseurs Orques [&t]"
 END
 
 CONTROLBAR:ToolTipBuildGuldurOrcArcherHorde
@@ -69605,7 +69606,7 @@ CONTROLBAR:ToolTipBuildGuldurOrcArcherHorde
 END
 
 CONTROLBAR:BringItDown
-"Mettez-le à Terre ! (&i)"
+"Mettez-le à Terre ! [&i]"
 END
 
 CONTROLBAR:ToolTipBringItDown
@@ -69685,7 +69686,7 @@ OBJECT:HordeGuldurHarbinger
 END
 
 CONTROLBAR:ConstructGuldurRisenDeadHorde
-"Morts Réincarnés (&d)"
+"Morts Réincarnés [&d]"
 END
 
 CONTROLBAR:ToolTipBuildGuldurRisenDeadHorde
@@ -69693,7 +69694,7 @@ CONTROLBAR:ToolTipBuildGuldurRisenDeadHorde
 END
 
 CONTROLBAR:ConstructGuldurHarbingerHorde
-"Messagers des Ténèbres (&z)"
+"Messagers des Ténèbres [&z]"
 END
 
 CONTROLBAR:ToolTipBuildGuldurHarbingerHorde
@@ -69745,7 +69746,7 @@ CONTROLBAR:ToolTipEternalServitude
 END
 
 CONTROLBAR:PurchaseTechnologyGuldurNecromancy
-"Nécromancie (&y)"
+"Nécromancie [&y]"
 END
 
 CONTROLBAR:ToolTipPurchaseTechnologyGuldurNecromancy
@@ -69761,7 +69762,7 @@ CONTROLBAR:ToolTipTechnologyGuldurNecromancy
 END
 
 CONTROLBAR:NecromancySummon
-"Nécromancie (&y)"
+"Nécromancie [&y]"
 END
 
 CONTROLBAR:ToolTipNecromancySummon
@@ -69806,7 +69807,7 @@ CONTROLBAR:ToolTipTumorousAcorn
 END
 
 CONTROLBAR:GuldurMirkwood
-"Forêt Noir (&k)"
+"Forêt Noir [&k]"
 END
 
 CONTROLBAR:ToolTipGuldurMirkwood
@@ -69854,7 +69855,7 @@ OBJECT:GuldurSpiderLairDescription
 END
 
 CONTROLBAR:ConstructGuldurSpiderLair
-"Invoquer une Antre à Araignées (&l)"
+"Invoquer une Antre à Araignées [&l]"
 END
 
 CONTROLBAR:ToolTipConstructGuldurSpiderLair
@@ -69870,7 +69871,7 @@ OBJECT:GuldurFellBroodMatriarch
 END
 
 CONTROLBAR:ConstructGuldurFellBroodHorde
-"Couvée (&f)"
+"Couvée [&f]"
 END
 
 CONTROLBAR:ToolTipBuildGuldurFellBroodHorde
@@ -69878,7 +69879,7 @@ CONTROLBAR:ToolTipBuildGuldurFellBroodHorde
 END
 
 CONTROLBAR:FellBroodShriek
-"Cri (&k)"
+"Cri [&k]"
 END
 
 CONTROLBAR:TooltipFellBroodShriek
@@ -69898,7 +69899,7 @@ OBJECT:GuldurGreatSpider
 END
 
 CONTROLBAR:SpecialAbilityGreatSpiderTunnel
-"Tunnel (&z)"
+"Tunnel [&z]"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityGreatSpiderTunnel
@@ -69934,7 +69935,7 @@ OBJECT:GuldurRestlessBarrow
 END
 
 CONTROLBAR:ConstructGuldurRestlessBarrow
-"Invoquer Tombe Agitée (&z)"
+"Invoquer Tombe Agitée [&z]"
 END
 
 CONTROLBAR:ToolTipConstructGuldurRestlessBarrow
@@ -69946,7 +69947,7 @@ OBJECT:GuldurRestlessWarrior
 END
 
 CONTROLBAR:ConstructGuldurSorceryTower
-"Invoquer une Tour de la Sorcellerie (&y)"
+"Invoquer une Tour de la Sorcellerie [&y]"
 End
 
 CONTROLBAR:ToolTipConstructGuldurSorceryTower
@@ -69974,7 +69975,7 @@ CONTROLBAR:ToolTipHarbingerColdSteel
 END
 
 CONTROLBAR:HarbingerWitheringTouch
-"Toucher de Mort (&z)"
+"Toucher de Mort [&z]"
 END
 
 CONTROLBAR:ToolTipHarbingerWitheringTouch
@@ -69994,7 +69995,7 @@ OBJECT:GuldurCatapultExpansion
 END
 
 CONTROLBAR:ConstructGuldurBoneyardExpansion
-"Extension Cimetière (&y)"
+"Extension Cimetière [&y]"
 END
 
 CONTROLBAR:ToolTipConstructGuldurBoneyardExpansion
@@ -70010,7 +70011,7 @@ OBJECT:GuldurStatueExpansionDescription
 END
 
 CONTROLBAR:ConstructGuldurStatueExpansion
-"Extansion Statue Délaissée (&f)"
+"Extansion Statue Délaissée [&f]"
 END
 
 CONTROLBAR:ToolTipConstructGuldurStatueExpansion
@@ -70026,7 +70027,7 @@ CONTROLBAR:ToolTipPurchaseGuldurRestlessBones
 END
 
 CONTROLBAR:GuldurRestlessBones
-"Os Agités (&r)"
+"Os Agités [&r]"
 END
 
 CONTROLBAR:ToolTipGuldurRestlessBones
@@ -70138,7 +70139,7 @@ UPGRADE:FortressGuldurSorcery
 END
 
 CONTROLBAR:GuldurSorcery
-"Colline de la Sorcellerie (&h)"
+"Colline de la Sorcellerie [&h]"
 END
 
 CONTROLBAR:TooltipGuldurSorcery
@@ -70146,7 +70147,7 @@ CONTROLBAR:TooltipGuldurSorcery
 END
 
 CONTROLBAR:GuldurEnsnare
-"Embuscade (&n)"
+"Embuscade [&n]"
 END
 
 CONTROLBAR:TooltipGuldurEnsnare
@@ -70226,7 +70227,7 @@ OBJECT:HaradWarlord
 END
 
 CONTROLBAR:ConstructHaradWarlord
-"Seigneur de Guerre Harad (&z)"
+"Seigneur de Guerre Harad [&z]"
 End
 
 CONTROLBAR:ToolTipBuildHaradWarlord
@@ -70350,7 +70351,7 @@ CONTROLBAR:GuldurKrimpulRevive
 END
 
 CONTROLBAR:GuldurKrimpulHotKey
-"Krimpûl le Tortionnaire (&u)"
+"Krimpûl le Tortionnaire [&u]"
 END
 
 CONTROLBAR:KrimpulOrcSummon
@@ -70412,7 +70413,7 @@ CONTROLBAR:GuldurCargastHotkey
 End
 
 CONTROLBAR:CargastBarrowLord
-"Seigneur des Tombes (&z)"
+"Seigneur des Tombes [&z]"
 End
 
 CONTROLBAR:ToolTipCargastBarrowLord
@@ -70428,7 +70429,7 @@ CONTROLBAR:ToolTipCargastLeadership
 END
 
 CONTROLBAR:CargastCursedTreasure
-"Trésor Maudit (&c)"
+"Trésor Maudit [&c]"
 END
 
 CONTROLBAR:ToolTipCargastCursedTreasure
@@ -70436,7 +70437,7 @@ CONTROLBAR:ToolTipCargastCursedTreasure
 END
 
 CONTROLBAR:CargastSort
-"Sort des Tombes (&p)"
+"Sort des Tombes [&p]"
 END
 
 CONTROLBAR:ToolTipCargastSort
@@ -70444,7 +70445,7 @@ CONTROLBAR:ToolTipCargastSort
 END
 
 CONTROLBAR:CargastDarkAwakening
-"Noir Eveil (&k)"
+"Noir Eveil [&k]"
 END
 
 CONTROLBAR:ToolTipCargastDarkAwakening
@@ -70486,7 +70487,7 @@ CONTROLBAR:ToolTipGuldurSaenathraFeast
 END
 
 CONTROLBAR:GuldurSaenathraWebOfLies
-"Toile de Mensonge (&z)"
+"Toile de Mensonge [&z]"
 END
 
 CONTROLBAR:ToolTipGuldurSaenathraWebOfLies
@@ -70594,7 +70595,7 @@ CONTROLBAR:TooltipNecromancerShapelessMaliceUpgraded
 END
 
 CONTROLBAR:NecromancerWreathed
-"Enveloppé dans les Flammes (&z)" 
+"Enveloppé dans les Flammes [&z]" 
 END
 
 CONTROLBAR:ToolTipNecromancerWreathed
@@ -70730,7 +70731,7 @@ CONTROLBAR:ToolTipToxicBile
 END
 
 CONTROLBAR:UndeadTrollHooked
-"Attrapé! (&k)"
+"Attrapé! [&k]"
 END
 
 CONTROLBAR:ToolTipUndeadTrollHooked
@@ -70774,7 +70775,7 @@ CONTROLBAR:TooltipSummonGwanthaur
 End
 
 CONTROLBAR:RefreshSlaves
-"De Nouveaux Esclaves (&r)"
+"De Nouveaux Esclaves [&r]"
 END
 
 CONTROLBAR:ToolTipRefreshSlaves
@@ -70973,7 +70974,7 @@ CONTROLBAR:DwarvenThorinHelmRevive
 "Réssucite le héros déchu, Thorin III Heaume de Pierre"
 END
 CONTROLBAR:DwarvenThorinHelmHotkey
-"Thorin III Heaume de Pierre (&s)"
+"Thorin III Heaume de Pierre [&s]"
 END
 
 CONTROLBAR:EreborEraChoiceButton
@@ -71045,7 +71046,7 @@ CONTROLBAR:ToolTipShagratFierceRivalry
 END
 
 CONTROLBAR:GorbagMorgulCunning
-"La Ruse de Morgul (&C)"
+"La Ruse de Morgul [&c]"
 END
 
 CONTROLBAR:ToolTipGorbagMorgulCunning
@@ -71081,7 +71082,7 @@ CONTROLBAR:ShagratTowersCaptain
 END
 
 CONTROLBAR:ShagratTowersCaptainLevel3
-"Capitaine de la Tour(&z)"
+"Capitaine de la Tour [&z]"
 END
 
 CONTROLBAR:ToolTipShagratTowersCaptain
@@ -71105,7 +71106,7 @@ CONTROLBAR:ToolTipShagratCovetousUruk
 END
 
 CONTROLBAR:GothmogOrcSummon
-"Former les rangs(&k), Véreux!"
+"Former les rangs, Véreux! [&k]"
 END
 
 CONTROLBAR:ToolTipGothmogOrcSummon
@@ -71145,7 +71146,7 @@ CONTROLBAR:ToolTipSpecialAbilityGrishnakhTenacity
 END
 
 CONTROLBAR:GrishnakhWickedJab
-"Coup de Poing (&J)"
+"Coup de Poing [&j]"
 END
 
 CONTROLBAR:ToolTipGrishnakhWickedJab
@@ -71189,7 +71190,7 @@ CONTROLBAR:ToolTipGuldurSpireBlight
 END
 
 CONTROLBAR:GreaterBlight
-"Plus de corruption (&g)"
+"Plus de corruption [&g]"
 END
 
 CONTROLBAR:ToolTipGreaterBlight
@@ -71197,7 +71198,7 @@ CONTROLBAR:ToolTipGreaterBlight
 END
 
 CONTROLBAR:GwanthaurSoulTrap
-"Piège d'âme (&t)"
+"Piège d'âme [&t]"
 END
 
 CONTROLBAR:ToolTipGwanthaurSoulTrap
@@ -71205,7 +71206,7 @@ CONTROLBAR:ToolTipGwanthaurSoulTrap
 END
 
 CONTROLBAR:GwanthaurReclamation
-"Sombre Réclamation (&k)"
+"Sombre Réclamation ([&k]"
 END
 
 CONTROLBAR:ToolTipGwanthaurReclamation
@@ -71281,7 +71282,7 @@ CONTROLBAR:ToolTipBuildPlotSmallUmbarBallista
 END
 
 CONTROLBAR:PurchaseUpgradeSentryTowerHiddenSentry
-"Sentinelle cachée (&y)"
+"Sentinelle cachée [&y]"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeSentryTowerHiddenSentry
@@ -71297,7 +71298,7 @@ CONTROLBAR:ToolTipDolAmrothHealing
 END
 
 CONTROLBAR:SallyForth
-"En Avant! (&y)"
+"En Avant! [&y]"
 END
 
 CONTROLBAR:TooltipSallyForth
@@ -71313,7 +71314,7 @@ CONTROLBAR:ToolTipBlackUrukDespoiler
 END
 
 CONTROLBAR:BlackUrukBrawl
-"Bagarre (&z)"
+"Bagarre [&z]"
 END
 
 CONTROLBAR:ToolTipBlackUrukBrawl
@@ -71325,7 +71326,7 @@ CONTROLBAR:ToolTipBlackUrukBrawl_Inn
 END
 
 CONTROLBAR:UrukScoutHuntingArrows
-"Flèches du chasseur (&i)"
+"Flèches du chasseur [&i]"
 END
 
 CONTROLBAR:ToolTipUrukScoutHuntingArrows
@@ -71453,7 +71454,7 @@ CONTROLBAR:ToolTipTaurielSummon
 END
 
 CONTROLBAR:TaurielDecisiveStrike
-"Frappes décisive (&k)"
+"Frappes décisive [&k]"
 END
 
 CONTROLBAR:ToolTipTaurielDecisiveStrike
@@ -71471,7 +71472,7 @@ END
 //------------ Legolas ---------------
 
 CONTROLBAR:LegolasDwarfFriend
-"Ami-nain (&z)"
+"Ami-nain [&z]"
 END
 
 CONTROLBAR:TooltipLegolasDwarfFriend
@@ -71483,7 +71484,7 @@ END
 //---------------------------------------------------------------------------
 
 CONTROLBAR:ConstructMirkwoodHuntingLodge
-"Construire Pavillon de chasse (&R)"
+"Construire Pavillon de chasse [&r]"
 END
 
 CONTROLBAR:ToolTipMirkwoodHuntingLodge
