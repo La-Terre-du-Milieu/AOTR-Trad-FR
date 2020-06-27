@@ -21531,7 +21531,7 @@ End
 
 LW:DisplayNameIronHills
 // Region display name in the living world
-"Monts de Fer"
+"Monts du Fer"
 End
 
 LW:DisplayNameIsengard
@@ -27713,7 +27713,7 @@ CONTROLBAR:ToolTipConstructDwarvenSentryTower
 END
 
 CONTROLBAR:ConstructDwarvenBarracks
-"Construire un Salle des Guerriers"
+"Construire la Salle des Guerriers"
 END
 
 CONTROLBAR:ToolTipConstructDwarvenBarracks
@@ -27749,7 +27749,7 @@ CONTROLBAR:ToolTipConstructDwarvenHusbandry
 END
 
 CONTROLBAR:ToolTipConstructDwarvenHusbandryBlueMountains
-"Recrute des troupes des Monts de Fer et des Machines de Guerre \n Augmente la limite des Points de Commandement de 25"
+"Recrute des troupes des Monts du Fer et des Machines de Guerre \n Augmente la limite des Points de Commandement de 25"
 END
 
 CONTROLBAR:ConstructDwarvenWorkshop
@@ -27887,7 +27887,7 @@ CONTROLBAR:ToolTipPurchaseUpgradeDwarvenFortressMightyCatapult
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeDwarvenFortressMightyCatapult_WOTR
-"Donne une Armure Lourde aux Héros Nains \n Permet le recrutement des troupes des Monts de Fer \n et aux troupes d'Ered Luin "
+"Donne une Armure Lourde aux Héros Nains \n Permet le recrutement des troupes des Monts du Fer \n et aux troupes d'Ered Luin "
 END
 
 CONTROLBAR:PurchaseUpgradeDwarvenFortressOilCasks
@@ -28141,11 +28141,11 @@ CONTROLBAR:ToolTipBuildDwarvenCatapult
 END
 
 CONTROLBAR:UpgradeDwarvenBarracksLevel2
-"Améliore le Salle des Guerriers au niveau 2"
+"Améliore la Salle des Guerriers au niveau 2"
 END
 
 CONTROLBAR:UpgradeDwarvenBarracksLevel3
-"Améliore le Salle des Guerriers au niveau 3"
+"Améliore la Salle des Guerriers au niveau 3"
 END
 
 CONTROLBAR:ToolTipUpgradeDwarvenBarracksLevel3
@@ -32169,7 +32169,7 @@ CONTROLBAR:TooltipCommand_ElvenCastleWallHub_BeginWallSpan
 END
 
 CONTROLBAR:ConstructDwarvenHallExpansion
-"Extension Hall"
+"Extension Quartier"
 END
 
 CONTROLBAR:Citadel
@@ -46051,7 +46051,7 @@ TOOLTIP:LackMightyCatapultDwarvenStonework
 END
 
 TOOLTIP:LackMightyCatapultDwarvenStonework_WOTR
-"Requiert l'amélioration des Fortifications \n Permet le recrutement des troupes des Monts de Fer et d'Ered Luin."
+"Requiert l'amélioration des Fortifications \n Permet le recrutement des troupes des Monts du Fer et d'Ered Luin."
 END
 
 OBJECT:ArgonathStatues
@@ -55878,12 +55878,11 @@ CONTROLBAR:TooltipConstructDwarvenMineShaft
 END
 
 TOOLTIP:LackLevel2HallOfWarriors
-"Requiert : Salle des Guerriers niveau 2"
+"Requiert : La Salle des Guerriers niveau 2"
 END
 
 TOOLTIP:LackLevel3HallOfWarriors  
-//"Requiert : Salle des Guerriers niveau 2"
-"Requiert : Salle des Guerriers niveau 3"
+"Requiert : La Salle des Guerriers niveau 3"
 END
 
 CONTROLBAR:ToolTipBuildDwarvenArcheryRangeLevel2Upgrade
@@ -57452,7 +57451,6 @@ CONTROLBAR:LW_ToolTip_Treebeard
 END
 
 CONTROLBAR:LW_Structure_DwarvenHallOfWarriors
-//"Salle des Guerriers"
 "La Salle des Guerriers"
 END
 
@@ -63033,27 +63031,27 @@ CONTROLBAR:ToolTipPurchaseUpgradeDwarvenFireArrows
 END
 
 ToolTip:LackDwarvenFireArrows
-"Rechercher l'amélioration dans la Grande Forge pour activer cet équipement. Lorsqu'elle est équipée, ajoute des dégâts supplémentaires d'entaille aux flèches."
+"Rechercher l'amélioration dans la Grande Forge pour activer cet équipement.\n Lorsqu'elle est équipée, ajoute des dégâts supplémentaires d'entaille aux flèches."
 END
 
 TOOLTIP:LackDwarvenMithrilMail
-"Rechercher l'amélioration dans la Grande Forge pour activer cet équipement. Lorsqu'elle est équipée, réduit significativement les dégâts reçus."
+"Rechercher l'amélioration dans la Grande Forge pour activer cet équipement.\n Lorsqu'elle est équipée, réduit significativement les dégâts reçus."
 END
 
 TOOLTIP:LackDwarvenBasicTraining
-"Rechercher l'amélioration dans la Grande Forge pour activer cet équipement. Lorsqu'elle est équipée, passe le bataillon au niveau 2."
+"Rechercher l'amélioration dans la Grande Forge pour activer cet équipement.\n Lorsqu'elle est équipée, passe le bataillon au niveau 2."
 END
 
 TOOLTIP:LackDwarvenForgedBlades
-"Rechercher l'amélioration dans la Grande Forge pour activer cet équipement. Lorsqu'elle est équipée, augmente les dégâts des armes de mêlée."
+"Rechercher l'amélioration dans la Grande Forge pour activer cet équipement.\n Lorsqu'elle est équipée, augmente les dégâts des armes de mêlée."
 END
 
 TOOLTIP:LackDwarvenSiegeHammer
-"Rechercher l'amélioration dans la Grande Forge pour activer cet équipement. Lorsqu'elle est équipée, augmente les dégâts des armes de mêlée aux structures."
+"Rechercher l'amélioration dans la Grande Forge pour activer cet équipement.\n Lorsqu'elle est équipée, augmente les dégâts des armes de mêlée aux structures."
 END
 
 TOOLTIP:LackDwarvenHeavyArmor
-"Rechercher l'amélioration dans la Grande Forge pour activer cet équipement. Lorsqu'elle est équipée, réduit significativement les dégâts reçus."
+"Rechercher l'amélioration dans la Grande Forge pour activer cet équipement.\n Lorsqu'elle est équipée, réduit significativement les dégâts reçus."
 END
 
 UPGRADE:DwarvenFireArrowUpgrade
@@ -63527,7 +63525,7 @@ CONTROLBAR:LW_Unit_EredLuinTraderHorde
 END
 
 CONTROLBAR:ToolTipBuildEredLuinTraderHorde
-"Requiert : Salle des Guerriers niveau 2 et l'amélioration Arkenstone\nLes Nains des Montagnes Bleues sont connus pour leur culture industrieuse et mercantile. Ils voyagent à travers toute la Terre du Milieu pour vendre leurs marchandises principalement avec les Hommes d'Eriador, les Elfes du Lindon et bien sûr avec le peuple de Durin.\n\n Soutien d'infanterie, forts contre les piquiers."
+"Requiert : La Salle des Guerriers niveau 2 et l'amélioration Arkenstone\nLes Nains des Montagnes Bleues sont connus pour leur culture industrieuse et mercantile. Ils voyagent à travers toute la Terre du Milieu pour vendre leurs marchandises principalement avec les Hommes d'Eriador, les Elfes du Lindon et bien sûr avec le peuple de Durin.\n\n Soutien d'infanterie, forts contre les piquiers."
 END
 
 CONTROLBAR:ToolTipBuildEredLuinTraderHordeInn
@@ -63584,7 +63582,7 @@ CONTROLBAR:ToolTipTraderToymakers2
 "Faire exploser le feu d'artifice.\n\nClic gauche pour activer"
 End
 
-//------------ Monts de Fer Riders ---------------
+//------------ Monts du Fer Riders ---------------
 OBJECT:IronHillRider
 "Chevaucheur de Bélier des Monts du Fer"
 END
@@ -64222,7 +64220,7 @@ CONTROLBAR:LW_ToolTip_EreborVWHorde
 END
 
 CONTROLBAR:ToolTipBuildEreborVWHorde
-"Requiert : Salle des Guerriers niveau 2 \n Les guerriers les plus compétents se voient confier une mission périlleuse. Ils forment des équipes de Gardiens des Portes, des combattants des tunnels spécialisés dans le maniement de pavois et de longs épieux. Cet armement leur permet de repousser les multitudes d'ennemis qui se pressent dans les espaces confinés que forment les portes et les galeries d'Erebor. \n\n Unité spéciale, forts contre les cavaliers et les monstres."
+"Requiert : La Salle des Guerriers niveau 2 \n Les guerriers les plus compétents se voient confier une mission périlleuse. Ils forment des équipes de Gardiens des Portes, des combattants des tunnels spécialisés dans le maniement de pavois et de longs épieux. Cet armement leur permet de repousser les multitudes d'ennemis qui se pressent dans les espaces confinés que forment les portes et les galeries d'Erebor. \n\n Unité spéciale, forts contre les cavaliers et les monstres."
 END
 
 CONTROLBAR:LW_ToolTipBuild_EreborVWHorde
@@ -65562,11 +65560,11 @@ CONTROLBAR:LW_ToolTipBuild_DwarvenArcherDwarvenGuardianHorde
 END
 
 OBJECT:HordeIronHillsArcherDwarvenGuardianCombo
-"Bataillon Guerrier des Monts de Fer - Arbaletrier des Monts de Fer"
+"Bataillon Guerrier des Monts du Fer - Arbaletrier des Monts du Fer"
 END
 
 CONTROLBAR:LW_Unit_IronHillsArcherDwarvenGuardianHordePlural
-"Bataillons Guerriers des Monts de Fer - Arbaletriers des Monts de Fer"
+"Bataillons Guerriers des Monts du Fer - Arbaletriers des Monts du Fer"
 END
 
 CONTROLBAR:LW_ToolTipBuild_IronHillsArcherDwarvenGuardianHorde
@@ -67334,11 +67332,11 @@ CONTROLBAR:LW_Unit_ArnorBatteringRamPlural
 END
 
 CONTROLBAR:LW_Unit_DwarvenDemolisher
-"Démolisseur des Monts de Fer"
+"Démolisseur des Monts du Fer"
 END
 
 CONTROLBAR:LW_Unit_DwarvenDemolisherPlural
-"Démolisseurs des Monts de Fer"
+"Démolisseurs des Monts du Fer"
 END
 
 CONTROLBAR:LW_ToolTipBuild_DwarvenDemolisher
@@ -67378,19 +67376,19 @@ CONTROLBAR:LW_Unit_GondorLamedonFighterHordePlural
 END
 
 CONTROLBAR:LW_Unit_IronHillsCrossbowHordePlural
-"Bataillons d'Arbalétriers des Monts de Fer"
+"Bataillons d'Arbalétriers des Monts du Fer"
 END
 
 CONTROLBAR:LW_Unit_IronHillsWarriorCrossbowHorde
-"Guerriers des Monts de Fer - Bataillon d'Arbalétrier des Monts de Fer"
+"Guerriers des Monts du Fer - Bataillon d'Arbalétrier des Monts du Fer"
 END
 
 CONTROLBAR:LW_Unit_IronHillsWarriorCrossbowHordePlural
-"Guerriers des Monts de Fer - Bataillons d'Arbalétriers des Monts de Fer"
+"Guerriers des Monts du Fer - Bataillons d'Arbalétriers des Monts du Fer"
 END
 
 CONTROLBAR:LW_Unit_IronHillRiderHordePlural
-"Bataillons de Chevaucheurs des Monts de Fer"
+"Bataillons de Chevaucheurs des Monts du Fer"
 END
 
 CONTROLBAR:LW_Unit_MenofDaleSwordHordePlural
@@ -67398,11 +67396,11 @@ CONTROLBAR:LW_Unit_MenofDaleSwordHordePlural
 END
 
 CONTROLBAR:LW_Unit_IronHillsWarriorHorde
-"Bataillon de Guerriers des Monts de Fer"
+"Bataillon de Guerriers des Monts du Fer"
 End
 
 CONTROLBAR:LW_Unit_IronHillsWarriorHordePlural
-"Bataillons de Guerriers des Monts de Fer"
+"Bataillons de Guerriers des Monts du Fer"
 End
 
 CONTROLBAR:LW_ToolTipBuild_IronHillsWarriorHorde
@@ -67414,7 +67412,7 @@ CONTROLBAR:LW_ToolTip_IronHillsWarriorHorde
 END
 
 CONTROLBAR:LW_Unit_IronHillsCrossbowHorde
-"Bataillon d'Arbalétrier des Monts de Fer"
+"Bataillon d'Arbalétrier des Monts du Fer"
 END
 
 CONTROLBAR:LW_ToolTip_IronHillsCrossbowHorde
