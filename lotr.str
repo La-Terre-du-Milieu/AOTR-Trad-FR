@@ -10318,7 +10318,7 @@ OBJECT:IsengardUrukPit
 END
 
 OBJECT:IsengardWargPit
-"Fosse des Wargs"
+"Fosse à Wargs"
 END
 
 OBJECT:IsengardSiegeWorks
@@ -15156,7 +15156,7 @@ CONTROLBAR:ConstructMordorSiegeWorks
 END
 
 CONTROLBAR:ConstructMordorHaradrimPalace
-"Construire un Palais Oriental"
+"Construire un Palais Oriental [&D]"
 END
 
 CONTROLBAR:ConstructSlaughterHouse
@@ -15284,15 +15284,16 @@ CONTROLBAR:ConstructWildLumberMill
 END
 
 CONTROLBAR:ToolTipConstructWildLumberMill
-"Récolte des ressources avec les arbres alentour. Réduit le coût des bâtiments."
+"Récolte des ressources avec les arbres alentour \n Réduit le coût des bâtiments \n Augmente la limite de points de commandement de 25"
 END
 
 CONTROLBAR:ConstructWildGoblinCave
-"Construire une &Cave à Gobelins de la Moria"
+"Construire une &Cave à Gobelins"
 END
 
 CONTROLBAR:ToolTipConstructWildGoblinCave
-"Permet de recruter les Guerriers et les Archers Orques de la Moria, les Trolls des Cavernes et les Trolls lanceurs de pierres."
+"Permet de recruter des Guerriers de Gobelinville, des Guerriers et des Archers Orques de la Moria \n Augmente la limite de points de commandement de 25"
+//, les Trolls des Cavernes et les Trolls lanceurs de pierres."
 END
 
 CONTROLBAR:ConstructWildMountainLodge
@@ -15308,7 +15309,7 @@ CONTROLBAR:ConstructWildGoblinFissure
 END
 
 CONTROLBAR:ConstructWildWildSpiderPit
-"Construire une Fosse des Wargs"
+"Construire une Fosse à Wargs"
 END
 
 CONTROLBAR:ConstructWildFortress
@@ -15424,7 +15425,7 @@ CONTROLBAR:ToolTipScavenger
 END
 
 CONTROLBAR:ToolTipAOTRScavenger
-"Durant 60 secondes, tous les tués donnent des ressources supplémentaires \n Clic gauche pour activer"
+"Durant 60 secondes, toutes les unités tuées donnent des ressources supplémentaires \n Clic gauche pour activer"
 END
 
 CONTROLBAR:FreezingRain
@@ -16359,11 +16360,11 @@ CONTROLBAR:UpgradeWildFissureLevel3
 END
 
 CONTROLBAR:ConstructWildSpiderPitLevel2Upgrade
-"Améliorer la Fosse des Wargs au niveau 2"
+"Améliorer la Fosse à Wargs au niveau 2"
 END
 
 CONTROLBAR:ConstructWildSpiderPitLevel3Upgrade
-"Améliorer la Fosse des Wargs au niveau 3"
+"Améliorer la Fosse à Wargs au niveau 3"
 END
 
 CONTROLBAR:ConstructWildTreasureTroveLevel2Upgrade
@@ -16383,7 +16384,7 @@ CONTROLBAR:ConstructWildSpiderRiderHorde
 END
 
 CONTROLBAR:ToolTipBuildWildSpiderRiderHorde
-"Requiert : niveau 2 Fosse des Wargs\n Peut permuter entre Arc et Lance \n Forts contre les archers"
+"Requiert : niveau 2 Fosse à Araignées\n Peut permuter entre Arc et Lance \n Forts contre les archers"
 END
 
 CONTROLBAR:ConstructWildMountainGiant
@@ -16679,10 +16680,12 @@ CONTROLBAR:ToolTipBuildIsengardPikemen
 END
 
 CONTROLBAR:ToolTipBuildIsengardWargRider
-"Requiert : Fosse des Wargs niveau 2\n Les Wargs de la Terre du Milieu sont des loups géants malfaisants à l'apparence de hyènes, faisant néanmoins preuve d'une intelligence inattendue, si grands et si robustes que certains Orques s'en servent comme monture.\n\nForts contre les épéistes et les archers"
+"Requiert : Fosse à Wargs niveau 2\n Les Wargs de la Terre du Milieu sont des loups géants malfaisants à l'apparence de hyènes, faisant néanmoins preuve d'une intelligence inattendue, si grands et si robustes que certains Orques s'en servent comme monture.\n\nForts contre les épéistes et les archers"
 END
+
 CONTROLBAR:ToolTipBuildWildWargRider
-"Requiert : Niveau 2 Warg Cage\n Fort contre Epéiste and Archers \n \n For generations, Orques have ridden Wargs - not as masters, but as equals - to track and ambush the Free Peoples."
+//"Requiert : Fosse à Wargs niveau 2\n Fort contre Epéistes et Archers \n \n For generations, Orques have ridden Wargs - not as masters, but as equals - to track and ambush the Free Peoples."
+"Requiert : Fosse à Wargs niveau 2\n Fort contre Epéistes et Archers \n \n Depuis des générations, les Orques ont chevauché des Wargs - non pas en tant que maîtres, mais en tant qu'égaux - pour traquer et prendre en embuscade les Peuples Libres."
 END
 
 CONTROLBAR:ToolTipBuildIsengardSiegeBallista
@@ -19254,11 +19257,11 @@ APT:UnitCurrentLevel
 END
 
 APT:MissionEnemiesVanquished
-"Mission Enemies Vaincus"
+"Mission Ennemis Vaincus"
 END
 
 APT:CampaignEnemiesVanquished
-"Campagne Enemies Vaincus"
+"Campagne Ennemis Vaincus"
 END
 
 APT:MissionsCompleted
@@ -28372,7 +28375,7 @@ OBJECT:WildMineShaft
 END
 
 OBJECT:WildSpiderPit
-"Fosse des Wargs"
+"Fosse à Wargs"
 END
 
 OBJECT:WildSpiderPitDescription
@@ -33191,11 +33194,11 @@ CONTROLBAR:UpgradeIsengardUrukPitLevel3
 End
 
 CONTROLBAR:UpgradeIsengardWargPitLevel2
-"Améliore la Fosse des Wargs au niveau 2"
+"Améliore la Fosse à Wargs au niveau 2"
 End
 
 CONTROLBAR:UpgradeIsengardWargPitLevel3
-"Améliore la Fosse des Wargs au niveau 3"
+"Améliore la Fosse à Wargs au niveau 3"
 End
 
 CONTROLBAR:UpgradeMordorHaradrimPalaceLevel2
@@ -42126,7 +42129,7 @@ TOOLTIP:LackWildForgedBlades
 END
 
 TOOLTIP:LackVenomSacksTechnology
-"Recherchez l'amélioration à la Fosse des Wargs pour activer cet équipement. Lorsqu'elle est équipée, elle empoisonne les ennemis et inflige des dégâts progressifs."
+"Recherchez l'amélioration dans l'Antre des Araignées pour activer cet équipement. Lorsqu'elle est équipée, elle empoisonne les ennemis et inflige des dégâts progressifs."
 END
 
 TOOLTIP:IsengardForgedBlades
@@ -42378,11 +42381,11 @@ END
 
 
 Upgrade:IsengardWargPitLevel2
-"Fosse des Wargs niveau 2"
+"Fosse à Wargs niveau 2"
 END
 
 Upgrade:IsengardWargPitLevel3
-"Fosse des Wargs niveau 3"
+"Fosse à Wargs niveau 3"
 END
 
 Upgrade:IsengardArmoryLevel2
@@ -42454,11 +42457,11 @@ Upgrade:WildFissureLevel3
 END
 
 Upgrade:WildSpiderPitLevel2
-"Fosse des Wargs niveau 2"
+"Fosse à Wargs niveau 2"
 END
 
 Upgrade:WildSpiderPitLevel3
-"Fosse des Wargs niveau 3"
+"Fosse à Wargs niveau 3"
 END
 
 Upgrade:WildVenomSacs
@@ -54820,7 +54823,7 @@ End
 // New, currently unused tooltips
 
 TOOLTIP:LackLevel2SpiderPit
-"Requiert : Fosse des Wargs niveau 2"
+"Requiert : Fosse à Wargs niveau 2"
 END
 
 OBJECT:DolGuldurPrisonDescription
@@ -55164,7 +55167,7 @@ End
 CONTROLBAR:TooltipUntamedAllegiance
 //"Lancer le sort sur un antre pour prendre le contrôle\nde l'antre et de ses créatures.\n\nClic gauche sur l'icône puis clic gauche sur l'antre ciblé"
 //"Lancer le sort sur un antre pour prendre le contrôle de l'antre et de ses créatures.\n\nClic gauche sur l'icône puis clic gauche sur l'antre ciblé"
-"Lancer le sort sur un antre pour prendre le contrôle\n de l'antre et de ses créatures.\n Lancer le sort sur une Fosse des Wargs, une Cage à Trolls, une Fissure de Gundabad ou un Enclos à Mûmakil pour augmenter leur vitesse de production de 50% pendant une courte durée.\n\nClic gauche sur l'icône puis clic gauche sur un antre ou un bâtiment de production"
+"Lancer le sort sur un antre pour prendre le contrôle\n de l'antre et de ses créatures.\n Lancer le sort sur une Fosse à Wargs, une Cage à Trolls, une Fissure de Gundabad ou un Enclos à Mûmakil pour augmenter leur vitesse de production de 50% pendant une courte durée.\n\nClic gauche sur l'icône puis clic gauche sur un antre ou un bâtiment de production"
 END
 
 CONTROLBAR:ToolTipWhiteWinter
@@ -56163,7 +56166,7 @@ CONTROLBAR:ToolTipDominate
 //"Requiert : niveau 4\n Contrôle temporairement les ennemis ciblés.\n\nClic gauche sur l'icône puis clic gauche sur la cible enemies"
 //"Requiert : niveau 10\n Contrôle temporairement les ennemis ciblés.\n\nClic gauche sur l'icône puis clic gauche sur la cible enemies"
 //"Requiert : niveau 5\n Contrôle temporairement les ennemis ciblés.\n\nClic gauche sur l'icône puis clic gauche sur la cible enemies"
-"Requiert : niveau 10\nLa voix de Saroumane est une arme redoutable, il sait corrompre et retourner l'ennemi pour sa cause.\nIl contrôle de façon permanente les ennemis ciblés.\n\nClic gauche sur l'icône puis clic gauche sur les unités enemies ciblées"
+"Requiert : niveau 10\nLa voix de Saroumane est une arme redoutable, il sait corrompre et retourner l'ennemi pour sa cause.\nIl contrôle de façon permanente les ennemis ciblés.\n\nClic gauche sur l'icône puis clic gauche sur les unités ennemies ciblées"
 END
 
 
@@ -56690,15 +56693,19 @@ End
 CONTROLBAR:TooltipNecromancerDeathMask
 //"Requiert : niveau 4\n Les ennemis proches subissent -25% dégâts.\n\n Capacité passive."
 //"Requiert : niveau 4\n Réduit significativement les dégâts et l'armure des ennemis.\n\n Capacité passive"
-"Requiert : niveau 4 \n Type d'Action : Pénalité passive \n Les ennemis proches subissent -25% dégâts et -20% armure (Pénalité non cumulable). \n\n Capacité passive"
+"Requiert : niveau 4 \n Type d'Action : Pénalité passive \n Les ennemis proches subissent -25% dégâts et -20% armure \n non cumulable avec les autres pénalités \n\n Capacité passive"
+End
+
+CONTROLBAR:ToolTipBuildWildSnowTrollHorde
+"Requiert : Fissure de Gundabad niveau 2 \n Limité à 6 \n\n Forts contre les bâtiments et résistants aux archers \n\n Dans les régions plus civilisées de la Terre du Milieu, on considère souvent les Trolls des Neiges comme des créatures de conte de fées. Mais, ceux qui vivent dans le rude climat des Montagnes Brumeuses et au-delà les connaissent mieux. Ces trolls malfaisants sont maigres, d'une puissance trompeuse et possèdent un grand talent pour la cruauté"
 End
 
 CONTROLBAR:ToolTipBuildAngmarSnowTrollHorde
-"Requiert : niveau 2 Le Repaire de Troll et La Tanière de Loup \n Forts contre les épéistes et les archers"
+"Requiert : Repaire de Troll et Tanière de Loup niveau 2 \n Forts contre les épéistes et les archers"
 End
 
 CONTROLBAR:ToolTipBuildAngmarSnowTrollHorde
-"Requiert : Niveau 2 Le Repaire de Troll et La Tanière de Loup \n Fort contre les Epéistes et les Archers"
+"Requiert : Repaire de Troll et Tanière de Loup niveau 2 \n Fort contre les Epéistes et les Archers"
 End
 
 CONTROLBAR:ToolTipSpecialAbilityAngmarTrollChargeAttack
@@ -56707,7 +56714,7 @@ CONTROLBAR:ToolTipSpecialAbilityAngmarTrollChargeAttack
 END
 
 CONTROLBAR:ToolTipBuildAngmarHillTrollHorde
-"Requiert : niveau 3 Le Repaire de Troll et La Tanière de Loup. \n\n Forts contre les cavaliers"
+"Requiert : Repaire de Troll et Tanière de Loup niveau 3 \n\n Forts contre les cavaliers"
 End
 
 CONTROLBAR:ToolTipNecroWellOfSouls
@@ -56940,12 +56947,7 @@ END
 // Angmar Powers
 
 CONTROLBAR:TooltipFrozenLand
-//"Gèle une zone.\n Tous les alliés gagnent +50% dégâts et +50% armure.\n\nClic gauche sur l'icône puis clic gauche sur la zone cible.\n Ne peut pas s'utiliser avec d'autres bonus"
-//"Gèle une zone.\n Tous les alliés gagnent +50% dégâts et +50% armure.\n Ralentit les unités ennemies\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
-//"Gèle une zone.\n Tous les alliés gagnent +33% dégâts et +33% armure\n Ralentit les unités ennemies\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
-//"Gèle une zone.\n Tous les alliés gagnent +33% dégâts, +33% armure\n Ralentit les unités ennemies\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
-//"Type d'Action : Charisme et Sort\n Gèle temporairement une zone du terrain et éteint les feux : tous les alliés gagnent +33% dégâts, +33% armure et gagnent de l'expérience 50% plus rapidement.\nLes ennemis subissent -33% vitesse (bonus cumulable).\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
-"Type d'Action : Charisme et Sort\n Gèle temporairement une zone du terrain et éteint les feux : tous les alliés gagnent +33% dégâts, +33% armure et gagnent de l'expérience 50% plus rapidement (bonus cumulable).\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
+"Gèle temporairement une zone du terrain \n Type d'Action : Charisme et Sort\n Toutes les unités alliées gagnent +33% dégâts, +33% armure et gagne de l'expérience 50% plus rapidement \n Se cumule avec les Sorts et le Charisme \n Les unités ennemies perdent -33% de vitesse \n Éteint les feux \n Clic gauche sur l'icône puis clic gauche sur la zone cible"
 End
 
 CONTROLBAR:TooltipBlight
@@ -58116,7 +58118,7 @@ END
 
 CONTROLBAR:TooltipWkTerribleFury
 //"Requiert : niveau 8\n Causes fear in nearby enemies.\n\nClic gauche pour activer"
-"Requiert : niveau 6\n Causes fear in nearby enemies.\n\nClic gauche pour activer"
+"Requiert : niveau 6 \n Fait fuir de terreur les ennemis proches \n Clic gauche pour activer"
 END
 
 
@@ -58623,15 +58625,6 @@ CONTROLBAR:TooltipSunflare
 //"Embrase le champ de bataille d'un rayon de lumière solaire ardent : assomme toutes les créatures sensibles à la lumière.\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
 "Embrase le champ de bataille d'un rayon de lumière solaire ardent : assomme toutes les créatures sensibles à la lumière.\n Annule Pluie glacée et Ombre\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
 END
-
-CONTROLBAR:TooltipFrozenLand
-//"Gèle temporairement une zone du terrain : tous les alliés gagnent +50% dégâts et +50% armure.\n\nClic gauche sur l'icône puis clic gauche sur la zone cible.\n Ne peut pas s'utiliser avec d'autres bonus"
-//"Gèle temporairement une zone du terrain : tous les alliés gagnent +50% dégâts et +50% armure.\n Ralentit les unités ennemies\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
-//"Gèle temporairement une zone du terrain : tous les alliés gagnent +33% dégâts et +33% armure\n Ralentit les unités ennemies\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
-//"Gèle temporairement une zone du terrain : tous les alliés gagnent +33% dégâts, +33% armure\n Ralentit les unités ennemies\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
-//"Gèle temporairement une zone du terrain : tous les alliés gagnent +33% dégâts, +33% armure.\n earn experience 50% faster\n Ralentit les ennemis and extinguishes all fires\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
-"Freezes an area of terrain\n Type d'Action : Charisme et Sort\n All ally units gain +33% dégâts, +33% armure earn experience 50% faster\n Cumulable avec d'autres bonus de sort ou de charisme.\n Enemy units suffer -33% vitesse\n Extinguishes all fires\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
-End
 
 CONTROLBAR:TooltipNecroBlackIce
 //"La zone cible est couverte de glace : vitesse des unités ennemies -25%.\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
@@ -62952,7 +62945,7 @@ END
 // ---------- Goblin worker -----------
 
 CONTROLBAR:BuildWildWorker
-"Ouvrier Gobelin"
+"Ouvrier Gobe&lin"
 END
 
 OBJECT:WildWorker
@@ -62960,11 +62953,11 @@ OBJECT:WildWorker
 END
 
 CONTROLBAR:ToolTipBuildWildWorker
-"Récolte des ressources des scieries."
+"Récolte des ressources pour la scierie"
 END
 
 CONTROLBAR:BarricadeMuzgash
-"Barricade"
+"Ba&rricade"
 END
 
 CONTROLBAR:TooltipBarricadeMuzgash
@@ -67286,11 +67279,11 @@ BANNERUI:GondorLinhirSentries
 END
 
 BANNERUI:GoblinTownWarrior
-"Guerrier de Goblinville"
+"Guerrier de Gobelinville"
 END
 
 BANNERUI:GoblinTownWarriors
-"Guerriers de Goblinville"
+"Guerriers de Gobelinville"
 END
 
 LWScenario:WOTRWarInTheNorth
@@ -68988,7 +68981,7 @@ CONTROLBAR:AngmarCitadel
 END
 
 CONTROLBAR:TooltipAngmarCitadel
-"Invoque une Ruine désolé d'Angmar \n Limité à 2 \n La Ruine peut recruter des Morts d'Arnor et des Loups Blanc, \n et crée aussi une tempête de neige locale \n Clic gauche sur l'icône puis clic gauche sur la zone cible"
+"Invoque une Ruine désolée d'Angmar \n Limité à 2 \n La Ruine peut recruter des Morts d'Arnor et des Loups Blanc, \n et crée aussi une tempête de neige locale \n Clic gauche sur l'icône puis clic gauche sur la zone cible"
 END
 
 OBJECT:AngmarCitadel
@@ -71119,7 +71112,7 @@ CONTROLBAR:MordorShelobSummon
 END
 
 CONTROLBAR:TooltipMordorShelobSummon
-"Invoque Arachne et trois hordes de la progéniture d'Arachne \n Les unités ennemies dans le rayon sont ralenties \n Clic gauche on sélectionner Clic gauche sur la zone ciblé"
+"Invoque Arachne et trois hordes de la progéniture d'Arachne \n Les unités ennemies dans le rayon sont ralenties \n Clic gauche sur l'icône, puis clic gauche sur la zone ciblée"
 END
 
 OBJECT:ShelobBrood
