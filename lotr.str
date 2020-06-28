@@ -27525,6 +27525,10 @@ CONTROLBAR:ToolTipCommandSelectRevivablesMenFortress
 "Recruter et ranimer des Héros"
 END
 
+CONTROLBAR:ToolTipCommandSelectRevivablesMenFortress_WOTR
+"Recrute et ressuscite les Héros \n\n En Guerre de l'Anneau, vous pouvez recruter le Héros de l'Anneau mais seulement ressusciter les Héros qui sont morts durant cette bataille."
+END
+
 CONTROLBAR:ConstructMenTrebuchetExpansion
 "Extension de Trébuchet"
 END
@@ -35818,10 +35822,6 @@ CreateAHero:BlingName_Gurthang
 "Epée Gurthang"
 END
 
-CreateAHero:BlingName_Gurthang
-"Epée Gurthang"
-END
-
 CreateAHero:BlingName_MithlondBow
 "Arc de Mithlond"
 END
@@ -36196,6 +36196,10 @@ END
 
 OBJECT:ElrondsHouse
 "Maison d'Elrond"
+END
+
+OBJECT:CarasGaladhon
+"Caras Galadhon"
 END
 
 OBJECT:RivendellBattleTower
@@ -71327,7 +71331,7 @@ CONTROLBAR:MirkwoodGalionRecruit
 END
 
 CONTROLBAR:MirkwoodGalionRevive
-"Réssuscite l'héro déchu, Galion"
+"Réssuscite le héros déchu, Galion"
 END
 
 CONTROLBAR:MirkwoodGalionHotkey
@@ -71369,7 +71373,7 @@ CONTROLBAR:MirkwoodFerenRecruit
 END
 
 CONTROLBAR:MirkwoodFerenRevive
-"Réssuscite l'héro déchu, Feren"
+"Réssuscite le héros déchu, Feren"
 END
 
 CONTROLBAR:MirkwoodFerenHotkey
@@ -71395,7 +71399,7 @@ CONTROLBAR:MirkwoodGrimbeornRecruit
 END
 
 CONTROLBAR:MirkwoodGrimbeornRevive
-"Réssuscite l'héro déchu, Grimbeorn"
+"Réssuscite le héros déchu, Grimbeorn"
 END
 
 CONTROLBAR:MirkwoodGrimbeornHotkey
@@ -71483,19 +71487,19 @@ OBJECT:MirkwoodHuntingLodgeDescription
 END
 
 CONTROLBAR:ConstructMirkwoodVineyard
-"Build VertBois &Vignoble"
+"Construit un &Vignoble de VertBois"
 END
 
 OBJECT:MirkwoodVineyard
-"VertBois Vignoble"
+"Vignoble de VertBois"
 END
 
 OBJECT:MirkwoodVineyardDescription
-"Génère du vin comme ressource selon le terrain disponible \n Réduction du coût des unités VertBois \n Augmente la limite des points de comandemments de 50"
+"Génère du vin comme ressource selon le terrain disponible \n Réduction du coût des unités de VertBois \n Augmente la limite des points de comandemments de 50"
 END
 
 CONTROLBAR:ToolTipMirkwoodVineyard
-"Génère du vin comme ressource selon le terrain disponible \n Réduction du coût des unités VertBois \n Augmente la limite des points de comandemments de 50"
+"Génère du vin comme ressource selon le terrain disponible \n Réduction du coût des unités de VertBois \n Augmente la limite des points de comandemments de 50"
 END
 
 CONTROLBAR:ConstructMirkwoodTrainingGrounds
@@ -71791,7 +71795,7 @@ CONTROLBAR:ToolTipPurchaseUpgradeMirkwoodBasicTraining
 END
 
 CONTROLBAR:PurchaseTechnologyMirkwoodBasicTraining
-"Recherche de l'Ete&ndard VertBois"
+"Rechercher Éte&ndards de VertBois"
 END
 
 CONTROLBAR:ToolTipBuildMirkwoodBasicTraining
@@ -71831,7 +71835,7 @@ CONTROLBAR:ToolTipPurchaseUpgradeMirkwoodForgedBlades
 END
 
 UPGRADE:MirkwoodBasicTraining
-"Etendard VertBois"
+"Étendards de VertBois"
 END
 
 UPGRADE:MirkwoodForgedBlades
@@ -71843,7 +71847,7 @@ UPGRADE:MirkwoodFlamingArrows
 END
 
 TOOLTIP:MirkwoodBasicTraining
-"Etendard VertBois"
+"Étendards de VertBois"
 END
 
 TOOLTIP:MirkwoodForgedBlades
