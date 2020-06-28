@@ -207,7 +207,7 @@ GUI:RandomSide
 END
 
 GUI:BuddyAddReq
-"Un joueur de LSDA, L'Avènement du Roi-sorcier" veut vous ajouter à sa liste d'amis."
+"Un joueur de LSDA, L'Avènement du Roi-sorcier veut vous ajouter à sa liste d'amis."
 END
  
  
@@ -15192,7 +15192,7 @@ CONTROLBAR:DescriptionToolTipMordorHaradrimPalace
 END
 
 CONTROLBAR:ToolTipMordorMumakilPen
-"Les Haradrim viennent des contrées les plus au sud de la Terre du Milieu, où le paysage est dominé par les plaines et les déserts infestés de serpents. C'est une race d'Hommes cruels, leurs coeurs depuis longtemps alourdis par le poids de leur Histoire sanglante et leur destin irrévocablement lié à celui de Sauron.\nBien qu'ils ne soient pas sous son joug comme nombre de ses autres vassaux, les Haradrim ont choisi de combattre aux côtés de ses armées, car ils ont une profonde inimitié avec le Gondor.\n\nEntraîne les Archers Haradrim et les Mûmakil."
+"Requiert : L'amélioration de La Morsure du Serpent \n Entraîne les Archers Haradrim et les Mûmakil. \n\n Les Haradrims viennent des contrées les plus au sud de la Terre du Milieu, où le paysage est dominé par les plaines et les déserts infestés de serpents. C'est une race d'Hommes cruels, leurs coeurs depuis longtemps alourdis par le poids de leur Histoire sanglante et leur destin irrévocablement lié à celui de Sauron.\nBien qu'ils ne soient pas sous son joug comme nombre de ses autres vassaux, les Haradrim ont choisi de combattre aux côtés de ses armées, car ils ont une profonde inimitié avec le Gondor."
 END
 
 CONTROLBAR:ToolTipConstructLumberMill
@@ -16519,11 +16519,11 @@ END
 
 //MORDOR HEROES
 CONTROLBAR:ToolTipBuildWitchKing
-"Recrutez le Premier des Neuf, le chef des Nazgûl.\n Le Roi-sorcier est le plus puissant et le plus redouté des Nazgûl. Premier parmi les lieutenants de Sauron, c'est un stratège accompli ainsi qu'un mage redoutable, et sa silhouette encapuchonnée engoncée dans son armure sème la terreur partout où il se rend. Rares sont ceux à pouvoir se mesurer à lui sur le champ de bataille, et au cours des Âges, il a été l'instrument de la peur qu'inspire le Maître des Ténèbres.\n\n'Envoyez toutes les légions. N'arrêtez pas l'attaque tant que la cité n'est prise. Tuez-les tous.'"
+"Recrutez le Premier des Neuf, le chef des Nazgûl.\n Le Roi-sorcier est le plus puissant et le plus redouté des Nazgûl. Premier parmi les lieutenants de Sauron, c'est un stratège accompli ainsi qu'un mage redoutable, et sa silhouette encapuchonnée engoncée dans son armure sème la terreur partout où il se rend. Rares sont ceux à pouvoir se mesurer à lui sur le champ de bataille, et au cours des Âges, il a été l'instrument de la peur qu'inspire le Maître des Ténèbres.\n\n'Envoyez toutes les légions. Ne cessez l'assaut que lorsque la cité sera prise... Tuez-les tous.'"
 END
 
 CONTROLBAR:MordorWitchKingOnFellBeastRecruit
-"Recrutez le Premier des Neuf, le chef des Nazgûl.\n Le Roi-sorcier est le plus puissant et le plus redouté des Nazgûl. Premier parmi les lieutenants de Sauron, c'est un stratège accompli ainsi qu'un mage redoutable, et sa silhouette encapuchonnée engoncée dans son armure sème la terreur partout où il se rend. Rares sont ceux à pouvoir se mesurer à lui sur le champ de bataille, et au cours des Âges, il a été l'instrument de la peur qu'inspire le Maître des Ténèbres.\n\n'Envoyez toutes les légions. N'arrêtez pas l'attaque tant que la cité n'est prise. Tuez-les tous.'"
+"Recrutez le Premier des Neuf, le chef des Nazgûl.\n Le Roi-sorcier est le plus puissant et le plus redouté des Nazgûl. Premier parmi les lieutenants de Sauron, c'est un stratège accompli ainsi qu'un mage redoutable, et sa silhouette encapuchonnée engoncée dans son armure sème la terreur partout où il se rend. Rares sont ceux à pouvoir se mesurer à lui sur le champ de bataille, et au cours des Âges, il a été l'instrument de la peur qu'inspire le Maître des Ténèbres.\n\n'Envoyez toutes les légions. Ne cessez l'assaut que lorsque la cité sera prise... Tuez-les tous.'"
 END
 
 CONTROLBAR:MordorWitchKingOnFellBeastRevive
@@ -56263,15 +56263,12 @@ CONTROLBAR:TooltipUpgradeMordorHaradrimPalaceLevel3
 End
 
 OBJECT:MordorMumakilPen
-//"Enclos à Mûmakil"
 "Enclos à Mûmakil"
 END
 CONTROLBAR:UpgradeMordorMumakilPenLevel2
-//"Améliore l'Enclos à Mûmakil au niveau 2"
 "Améliore l'Enclos à Mûmakil au niveau 2"
 End
 CONTROLBAR:UpgradeMordorMumakilPenLevel3
-//"Améliore l'Enclos à Mûmakil au niveau 3"
 "Améliore l'Enclos à Mûmakil au niveau 3"
 End
 
@@ -60473,11 +60470,11 @@ CONTROLBAR:ToolTipBlackRiderDreadVisage
 END
 
 CONTROLBAR:ToolTipBlackRiderDreadVisageKhamul
-"Plus les Nazgûl sont proches les uns des autres, plus ils se renforcent : ils gagnent chacun +10% dégâts et +10% armure pour chaque autre Nazgûl proche.\n\nCapacité passive \n\n Requiert : niveau 2\nType d'Action : Pénalité passive \n Les unités ennemies proches de Khamûl subissent -25% dégâts et -20% armure (Bonus non cumulable).\n\nCapacité passive"
+"Plus les Nazgûl sont proches les uns des autres, plus ils se renforcent : ils gagnent chacun +10% dégâts et +10% armure pour chaque autre Nazgûl proche.\n Capacité passive \n\n Requiert : niveau 2 \n Type d'Action : Pénalité passive \n Les unités ennemies proches de Khamûl subissent -25% dégâts et -20% armure (Bonus non cumulable). \n\n Capacité passive"
 END
 
 CONTROLBAR:ToolTipWitchKingDreadWrath
-"Plus les Nazgûl sont proches les uns des autres, plus ils se renforcent : ils gagnent chacun +10% dégâts et +10% armure pour chaque autre Nazgûl proche.\n\nCapacité passive \n\n Requiert : niveau 2\n Type d'Action : Pénalité passive \nLes unités ennemies proches du Roi-Sorcier subissent -33% dégâts et -25% armure et les bonus de charisme des ennemis sont désactivés\n\n\nCapacité passive\n\n Requiert : niveau 8 \n Le Roi-Sorcier réinitialise les compteurs de compétences spéciales de ses cibles.\n Les ennemis proches du Roi-Sorcier subissent une peur incontrôlable.\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
+"Plus les Nazgûl sont proches les uns des autres, plus ils se renforcent : ils gagnent chacun +10% dégâts et +10% armure pour chaque autre Nazgûl proche.\nCapacité passive \n\n Requiert : niveau 2\n Type d'Action : Pénalité passive \n Les unités ennemies proches du Roi-Sorcier \n subissent -33% dégâts et -25% armure \n et les bonus de charisme des ennemis sont désactivés \n Capacité passive \n\n Requiert : niveau 8 \n Le Roi-Sorcier réinitialise les compteurs de compétences spéciales de ses cibles. \n Les ennemis proches du Roi-Sorcier subissent une peur incontrôlable. \n\n Clic gauche sur l'icône puis clic gauche sur la zone cible"
 End
 
 // -------------------------- Azanulbizar Stuff here ------------------------------
@@ -61142,7 +61139,7 @@ CONTROLBAR:ConstructMordorEasterlingSwordsmanHorde
 End
 
 CONTROLBAR:ToolTipBuildMordorEasterlingSwordsmanHorde
-"Requiert : Palais Oriental niveau 3 et l'amélioration Morsure du Serpent.\nFéroces et disciplinés, les Orientaux sont revêtus d'une armure ouvragée et équipés d'armes de facture supérieure.\nCes épéistes sont des combattants cruels dont l'entrainement perpétuel a élevé les aptitudes au combat au-delà de celles des hommes ordinaires, et leur lame aiguisée enchaîne parade et coups fatals plus vite que l'éclair.\n\nForts contre les piquiers."
+"Requiert : Palais Oriental niveau 3 et l'amélioration de La Morsure du Serpent.\nFéroces et disciplinés, les Orientaux sont revêtus d'une armure ouvragée et équipés d'armes de facture supérieure.\nCes épéistes sont des combattants cruels dont l'entrainement perpétuel a élevé les aptitudes au combat au-delà de celles des hommes ordinaires, et leur lame aiguisée enchaîne parade et coups fatals plus vite que l'éclair.\n\nForts contre les piquiers."
 End
 
 OBJECT:HordeMordorEasterlingSwordsman
@@ -61455,7 +61452,7 @@ CONTROLBAR:SummonWraith
 END
 
 CONTROLBAR:SummonHaradrimRaiders
-"Morsure du Serpent"
+"La Morsure du Serpent"
 END
 
 OBJECT:GreatGoblinTotem
@@ -61475,7 +61472,7 @@ CONTROLBAR:TooltipSummonWraith
 END
 
 CONTROLBAR:TooltipSummonHaradrimRaiders
-"Invoque trois bataillons de Pillards Haradrim sur le champ de bataille.\nLe seigneur d'Abrakhân du Harad, allié de Sauron, entretient ces brigands des tribus Haradrim. Il les paye au prix fort pour servir d'éclaireurs et lancer des raids aussi bien dans le désert que dans la savane.\nPermet de débloquer les Cataphractaires et les Epéistes Orientaux dans le Palais Oriental.\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
+"Invoque trois bataillons de Pillards Haradrim sur le champ de bataille.\nLe seigneur d'Abrakhân du Harad, allié de Sauron, entretient ces brigands des tribus Haradrim. Il les paye au prix fort pour servir d'éclaireurs et lancer des raids aussi bien dans le désert que dans la savane.\nPermet de débloquer les Cataphractaires et les Epéistes Orientaux dans le Palais Oriental.\n Permt la Construction de l'Enclos à Mûmakil \n\n Clic gauche sur l'icône puis clic gauche sur la zone cible"
 END
 
 OBJECT:SummonedFellBeast
@@ -61952,7 +61949,7 @@ CONTROLBAR:SorcerousSteel
 END
 
 CONTROLBAR:ToolTipSorcerousSteel
-"Chaque attaque de mêlée consécutive fait décroitre l'armure de l'ennemi de 5%\Cumulable 5 fois\n Capacité passive"
+"Chaque attaque de mêlée consécutive fait décroitre l'armure de l'ennemi de 5% Cumulable 5 fois\n Capacité passive"
 END
 
 OBJECT:MordorMorgulOrcPike
@@ -62902,7 +62899,7 @@ CONTROLBAR:LW_ToolTip_MordorEasterlingKataphractHorde
 END
 
 CONTROLBAR:ToolTipBuildMordorEasterlingKataphractHorde
-"Requiert : Palais Oriental niveau 3 et l'amélioration Morsure du Serpent.\nLes Cataphractaires Orientaux sont des machines à tuer inexorables qui vont au combat monté sur un destrier caparaçonné. Ils sont capables de balayer les rangs désemparés des fantassins ennemis comme un terrible ouragan d'acier.\nLes Cataphractaires sont souvent gardés en réserve puis envoyés là où ils pourront faire le plus de ravages.\n\nCavalerie d'élite, forts contre les archers."
+"Requiert : Le Palais Oriental niveau 3 et l'amélioration de La Morsure du Serpent.\nLes Cataphractaires Orientaux sont des machines à tuer inexorables qui vont au combat monté sur un destrier caparaçonné. Ils sont capables de balayer les rangs désemparés des fantassins ennemis comme un terrible ouragan d'acier.\nLes Cataphractaires sont souvent gardés en réserve puis envoyés là où ils pourront faire le plus de ravages.\n\nCavalerie d'élite, forts contre les archers."
 END
 
 CONTROLBAR:LW_ToolTipBuild_MordorEasterlingKataphractHorde
@@ -71085,7 +71082,7 @@ CONTROLBAR:ShagratLeadership
 END
 
 CONTROLBAR:ToolTipShagratLeadership
-"Requiert : Niveau 5\n Les Maraudeurs Noirs Uruk à proximité gagnent +25% d'armute \n Capacité Passive \n \n Peut être activé pour accorder temporairement +25% dégâts à proximité des Guerriers Orques des Maraudeurs Noir Uruk \n ainsi que les dégâts renversés à Shagrat \n Clic gauche pour activer"
+"Requiert : Niveau 5 \n Les Maraudeurs Noirs Uruk à proximité \n gagnent +25% d'armure \n Capacité Passive \n \n Peut être activé pour accorder temporairement +25% dégâts à proximité des Guerriers Orques des Maraudeurs Noir Uruk \n ainsi que les dégâts renversés à Shagrat \n Clic gauche pour activer"
 END
 
 CONTROLBAR:ShagratCovetousUruk
@@ -71093,7 +71090,7 @@ CONTROLBAR:ShagratCovetousUruk
 END
 
 CONTROLBAR:ToolTipShagratCovetousUruk
-"Requiert : Niveau 7\n Shagrat et les Maraudeurs Noirs Uruk à proximité volent des ressources \n aux ennemis tuées \n Capacité Passive"
+"Requiert : Niveau 7\n Shagrat et les Maraudeurs Noirs Uruk à proximité volent des ressources aux ennemis tuées \n Capacité Passive"
 END
 
 CONTROLBAR:GothmogOrcSummon
@@ -71101,7 +71098,7 @@ CONTROLBAR:GothmogOrcSummon
 END
 
 CONTROLBAR:ToolTipGothmogOrcSummon
-"Requiert : Niveau 3\n Invoque une horde de piquiers de Morgul autour de Gothmog \n Les piquiers de Morgul obtiennet une petite augmentation des dégâts \n à proximité des archers orques \n Au niveau 7, invoque une horde de piquiers de Morgul supplémentaire \n Clic gauche pour activer"
+"Requiert : Niveau 3 \n Invoque une horde de piquiers de Morgul autour de Gothmog \n Les piquiers de Morgul obtiennet une petite augmentation des dégâts à proximité des archers orques \n Au niveau 7 \n invoque une horde de piquiers de Morgul supplémentaire \n Clic gauche pour activer"
 END
 
 CONTROLBAR:ToolTipMorgulPikeBuff
@@ -71149,11 +71146,11 @@ CONTROLBAR:PurchaseUpgradeMordorFortressMorgulSpire
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeMordorFortressMorgulSpire
-"Requiert : La Sorcellerie de Morgul amélioré \n Ses Serviteurs Mortels :\n Donne passivement +33% de dégâts et 33% d'armure à tous les Nazgûl sur le champs de bataille \n Permet à la Forteresse d'utiliser le Flambeau de Morgul : \n Tous les orques sur le champs de bataille gagnet 15% de vitesse et 25% d'armure \n pour un court instant \n durant ce temps toutes les structures de ressources amies sont désactivées"
+"Requiert : La Sorcellerie de Morgul amélioré \n Ses Serviteurs Mortels :\n Donne passivement +33% de dégâts et 33% d'armure à tous les Nazgûl sur le champs de bataille \n Permet à la Forteresse d'utiliser le Flambeau de Morgul : \n Tous les orques sur le champs de bataille gagnent 15% de vitesse et 25% d'armure pour un court instant durant ce temps toutes les structures de ressources amies sont désactivées"
 END
 
 ToolTip:LackMorgulSorcery
-"Requiert : La Sorcellerie de Morgul amélioré \n Ses Serviteurs Mortels :\n Donne passivement +33% de dégâts et 33% d'armure à tous les Nazgûl sur le champs de bataille \n Permet à la Forteresse d'utiliser le Flambeau de Morgul : \n Tous les orques sur le champs de bataille gagnet 15% de vitesse et 25% d'armure \n pour un court instant \n durant ce temps toutes les structures de ressources amies sont désactivées"
+"Requiert : La Sorcellerie de Morgul amélioré \n Ses Serviteurs Mortels :\n Donne passivement +33% de dégâts et 33% d'armure à tous les Nazgûl sur le champs de bataille \n Permet à la Forteresse d'utiliser le Flambeau de Morgul : \n Tous les orques sur le champs de bataille gagnent 15% de vitesse et 25% d'armure pour un court instant durant ce temps toutes les structures de ressources amies sont désactivées"
 END
 
 CONTROLBAR:MordorFortressDeadliestServants
@@ -71169,7 +71166,7 @@ CONTROLBAR:MordorFortressMorgulSpire
 END
 
 CONTROLBAR:ToolTipMordorFortressMorgulSpire
-"Requiert : Flèche de Morgul amélioré \n Tous les orques sur le champs de bataille gagnent 15% de vitesse et 25% d'armure \n pour un court instant \n durant ce temps toutes les structures de ressources amies sont désactivées \n Clic gauche pour activer"
+"Requiert : Flèche de Morgul amélioré \n Tous les orques sur le champs de bataille gagnent 15% de vitesse et 25% d'armure pour un court instant \n durant ce temps toutes les structures de ressources amies sont désactivées \n Clic gauche pour activer"
 END
 
 CONTROLBAR:GuldurSpireBlight
