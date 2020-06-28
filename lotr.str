@@ -8196,6 +8196,10 @@ CONTROLBAR:TransportExit
 "Descendre"
 END
 
+CONTROLBAR:TransportExitTreebeard
+"Descendre de l'Arbre"
+END
+
 CONTROLBAR:SetRallyPoint
 "Point de ralliement"
 END
@@ -15512,6 +15516,11 @@ End
 CONTROLBAR:ToolTipSummonLurker
 "Invoque le Guetteur de l'Eau, un ancien mal d'un autre âge, une monstruosité tentaculaire cachée dans les profondeurs à l'affût d'une proie. La nature exacte de cette créature est auréolée de mystère.\n\nClic gauche sur une zone praticable"
 END
+
+CONTROLBAR:WhiteWinter
+"Hiver Blanc"
+END
+
 
 // Good Spells
 
@@ -42037,7 +42046,7 @@ ToolTip:LackElvenForgedBladesRohanInn
 END
 
 ToolTip:LackMirkwoodForgedBlades
-"Recherchez l'amélioration dans le trésor de Thranduil pour activer cet équipement \n Lorsqu'elle est équipée, les dégâts infligés par les armes de mêlée sont augmentés"
+"Recherchez l'amélioration dans le Trésor de Thranduil pour activer cet équipement \n Lorsqu'elle est équipée, les dégâts infligés par les armes de mêlée sont augmentés"
 END
 
 TOOLTIP:LacksTechnologyMirkwoodSilverthornArrows
@@ -42045,11 +42054,11 @@ TOOLTIP:LacksTechnologyMirkwoodSilverthornArrows
 END
 
 TOOLTIP:LacksTechnologyElvenSilverthornArrows
-"Recherchez l'amélioration dans l'Atelier des Âges pour activer cet équipement. Lorsqu'elle est équipée, les dégâts des flèches sont augmentés de manière significative."
+"Recherchez l'amélioration dans l'Atelier des Âges pour activer cet équipement. \n Lorsqu'elle est équipée, les dégâts des flèches sont augmentés de manière significative."
 END
 
 TOOLTIP:LacksTechnologyElvenSilverthornArrows_RohanInn
-"Recherchez l'amélioration flèches enflammées dans l'Archerie\npour activer cet équipement \n Lorsqu'elle est équipée, les dégâts des flèches sont augmentés de manière significative"
+"Recherchez l'amélioration Flèches Enflammées dans l'Archerie pour activer cet équipement \n Lorsqu'elle est équipée, les dégâts des flèches sont augmentés de manière significative"
 END
 
 TOOLTIP:LackElvenHeavyArmor
@@ -42057,7 +42066,7 @@ TOOLTIP:LackElvenHeavyArmor
 END
 
 TOOLTIP:LackElvenBasicTraining
-"Recherchez l'amélioration porte-étendard dans l'Atelier des Âges.\n Lorsqu'il est équipé, ce bataillon passe au niveau 2"
+"Recherchez l'amélioration Porte-étendard dans l'Atelier des Âges.\n Lorsqu'il est équipé, ce bataillon passe au niveau 2"
 END
 
 TOOLTIP:LackLorienBasicTraining
@@ -42065,7 +42074,7 @@ TOOLTIP:LackLorienBasicTraining
 END
 
 TOOLTIP:LackLorienBasicTrainingForElves
-"Recherchez l'amélioration dans la réserve du Bois Doré pour activer cet équipement \n Lorsqu'il est équipé, ce bataillon passe au niveau 2\net lui permet de regagner de la santé hors combat"
+"Recherchez l'amélioration dans la réserve du Bois Doré pour activer cet équipement \n Lorsqu'il est équipé, ce bataillon passe au niveau 2 \n et lui permet de regagner de la santé hors combat"
 END
 
 TOOLTIP:LackMirkwoodBasicTraining
@@ -42073,7 +42082,7 @@ TOOLTIP:LackMirkwoodBasicTraining
 END
 
 TOOLTIP:LackElderRacesBasicTraining
-"Recherchez l'amélioration porte-étendard dans l'Atelier des Âges.\n Lorsqu'il est équipé, ce bataillon passe au niveau 2"
+"Recherchez l'amélioration Porte-étendard dans l'Atelier des Âges.\n Lorsqu'il est équipé, ce bataillon passe au niveau 2"
 END
 
 ToolTip:LackMordorHeavyArmor
