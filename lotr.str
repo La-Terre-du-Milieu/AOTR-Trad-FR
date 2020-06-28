@@ -10377,7 +10377,7 @@ OBJECT:GoblinBuildingFoundation
 END
 
 OBJECT:GoblinCave
-"Cave Gobelins de la Moria"
+"Une Grotte de Gobelins de la Moria"
 END
 
 OBJECT:GoblinCampKeep
@@ -15284,7 +15284,7 @@ CONTROLBAR:ToolTipConstructWildLumberMill
 END
 
 CONTROLBAR:ConstructWildGoblinCave
-"Construire une &Cave Gobelins de la Moria"
+"Construire une Grotte de Gobelins de la Moria [&c]"
 END
 
 CONTROLBAR:ToolTipConstructWildGoblinCave
@@ -16276,7 +16276,7 @@ CONTROLBAR:ConstructGoblinArcherHorde
 END
 
 CONTROLBAR:ConstructGoblinCave
-"Construire une Cave Gobelins de la Moria"
+"Construire une Grotte de Gobelins de la Moria"
 END
 
 CONTROLBAR:ToolTipGoblinCave
@@ -31772,7 +31772,7 @@ CONTROLBAR:PurchaseUpgradeWildFortressFireArrows
 END
 
 CONTROLBAR:PurchaseUpgradeWildFortressGoblinTown
-"Allégeance: Gobelinville"
+"L'Allégeance à Gobelinville"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeWildFortressGoblinTown
@@ -31798,7 +31798,7 @@ CONTROLBAR:ToolTipPurchaseUpgradeWildFortressWebCocoonForMaps
 End
 
 CONTROLBAR:PurchaseUpgradeWildFortressNorthernWastes
-"allégeance: Immondices du Nord"
+"L'Allégeance aux Immondices du Nord"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeWildFortressNorthernWastes
@@ -55161,7 +55161,7 @@ END
 CONTROLBAR:ToolTipWhiteWinter
 //"Temporarily covers the map in rain \n All enemy units lose their leadership bonuses \n Clic gauche pour activer"
 //"Temporarily covers the map in rain\nReduces enemy armor and damage\nNullifies enemy Leadership\nClic gauche pour activer"
-"Couvre temporairement la carte dans une Tempête de neige qui fait rage \n Annule les Vents Occidentaux, Pluie Verglaçante, Avant que le Soleil ne se Lève, Bénédiction d'Ulmo, Bénédiction de Manwë, Le Jour de Durin, Hiver Blanc ou Sombre \n Type d'Action : Alteration Active \n Les unités ennemies subissent -25% De dégâts, -20% d'Armure, et -30% de porte de vision \n Annule le Charisme ennemi \n Ne s'accumule pas avec les autres altérations \n Clic gauche pour activer"
+"Couvre temporairement la carte dans une Tempête de neige qui fait rage \n Annule les Vents Occidentaux, Pluie Verglaçante, Avant que le Soleil ne se Lève, Bénédiction d'Ulmo, Bénédiction de Manwë, Le Jour de Durin, Hiver Blanc ou Sombre \n Type d'Action : Alteration Active \n Les unités ennemies subissent -25% De dégâts, -20% d'Armure, et -30% de porte de vision. Annule le Charisme ennemi \n Ne s'accumule pas avec les autres altérations \n Clic gauche pour activer"
 END
 
 CONTROLBAR:ToolTipFreezingRain
@@ -61330,15 +61330,15 @@ CONTROLBAR:SummonSpawnDenethor
 END
 
 CONTROLBAR:SummonSpawnTrebuchet
-"Ingénieurie numénoréenne"
+"L'Ingénieurie numénoréenne"
 END
 
 CONTROLBAR:SummonLossarnachAllies
-"Assistance de Lossarnach"
+"L'Assistance de Lossarnach"
 END
 
 CONTROLBAR:SwornAllegiance
-"Serment d'Allégeance"
+"Le Serment d'Allégeance"
 END
 
 CONTROLBAR:TooltipSwornAllegiance
@@ -61423,7 +61423,7 @@ CONTROLBAR:GreatGoblinLeadership
 END
 
 CONTROLBAR:ToolTipGreatGoblinLeadership
-"Requiert : niveau 3\n Type d'Action : Charisme\n Les Orques de la Moria et les Habitants de Gobelinville proches de lui gagnent +33% dégâts et +33% armure (bonus cumulable).\n\nCapacité passive\n\nAu niveau 6, le Roi Gobelin peut donner beaucoup d'expérience aux unités dans l'aire d'effet.\n\nClic gauche sur l'icône puis clic gauche sur les unités ciblées"
+"Requiert : niveau 3\n Type d'Action : Charisme\n Les Orques de la Moria et les Habitants de Gobelinville \n proches de lui gagnent +33% dégâts et +33% armure (bonus cumulable).\n\nCapacité passive\n\nAu niveau 6, le Roi Gobelin peut donner beaucoup d'expérience aux unités dans l'aire d'effet.\n\nClic gauche sur l'icône puis clic gauche sur les unités ciblées"
 END
 
 CONTROLBAR:GreatGoblinAntiquarian
@@ -61431,7 +61431,7 @@ CONTROLBAR:GreatGoblinAntiquarian
 END
 
 CONTROLBAR:ToolTipGreatGoblinAntiquarian
-"Requiert : niveau 7\n Le Grand Gobelin est un amateur d'antiquités précieuses qu'il récupère par des rapines ou des négoces crapuleux. Mais attention, certains trésors peuvent se révéler très dangereux ! Et gare au Mal du Dragon.\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
+"Requiert : niveau 7\n Le Grand Gobelin est un amateur d'antiquités précieuses qu'il récupère par des rapines ou des négoces crapuleux. \nMais attention, certains trésors peuvent se révéler très dangereux ! Et gare au Mal du Dragon.\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
 END
 
 CONTROLBAR:GreatGoblinAbominableSong
@@ -61439,7 +61439,7 @@ CONTROLBAR:GreatGoblinAbominableSong
 END
 
 CONTROLBAR:TooltipGreatGoblinAbominableSong
-"Type d'Action : sort et pénalité active\n Le Grand Gobelin entonne une ode grotesque en honneur à sa grandeur :\n* les alliés proches gagnent +33% dégâts et +33% armure (bonus cumulable).\n* Les ennemis proches subissent -25% dégâts et -20% armure et perdent leurs bonus de charisme (Pénalité non cumulable).\n\nClic gauche pour activer"
+"Type d'Action : sort et pénalité active\n Le Grand Gobelin entonne une ode grotesque\n en honneur à sa grandeur :\n* les alliés proches gagnent +33% dégâts et +33% armure (bonus cumulable).\n* Les ennemis proches subissent -25% dégâts et -20% armure et perdent leurs bonus de charisme (Pénalité non cumulable).\n\nClic gauche pour activer"
 END
 
 OBJECT:Antequaries
@@ -61824,7 +61824,7 @@ CONTROLBAR:ToolTipPurchaseUpgradeWildFortressDrumsInTheDeep
 END
 
 CONTROLBAR:SpecialAbilityDrumsInTheDeep
-"Tambours des Profondeurs"
+"Les Tambours des Profondeurs"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityDrumsInTheDeep
@@ -61832,11 +61832,11 @@ CONTROLBAR:ToolTipSpecialAbilityDrumsInTheDeep
 END
 
 CONTROLBAR:SpecialAbilitySummonWyrm
-"Petit dragon"
+"Petit Dragon"
 END
 
 CONTROLBAR:ToolTipSpecialAbilitySummonWyrm
-"Requiert l'allégeance: Immondices du nord \n Invoque temporairement un Wyrm de feu \n Clic gauche sur l'icone puis clic gauche sur la zone cible"
+"Requiert: L'Allégeance aux Une Immondices du nord \n Invoque temporairement un Wyrm de feu \n Clic gauche sur l'icone puis clic gauche sur la zone cible"
 END
 
 CONTROLBAR:PurchaseUpgradeDolFortressBanners
@@ -62748,7 +62748,7 @@ OBJECT:IsengardLonghouse
 END
 
 CONTROLBAR:Longhouse
-"Allégeance des Dunlandais"
+"L'Allégeance des Dunlandais"
 END
 
 CONTROLBAR:TooltipLonghouse
@@ -62936,7 +62936,7 @@ CONTROLBAR:LW_ToolTipBuild_WildGiantBat
 END
 
 CONTROLBAR:Vampirism
-"Vampire"
+"Vampirisme"
 END
 
 CONTROLBAR:ToolTipVampirism
@@ -68950,7 +68950,7 @@ CONTROLBAR:ThickSkull
 END
 
 CONTROLBAR:ToolTipThickSkull
-"Requiert : Niveau 2\n Pendant 15 secondes, le Troll gagne +100% dégâts contre les structures \n mais perd -15% Armure \n Clic gauche pour activer"
+"Requiert : Niveau 2\n Pendant 15 secondes, le Troll gagne +100% dégâts contre les structures mais perd -15% Armure \n Clic gauche pour activer"
 END
 
 OBJECT:WildLodge
@@ -69397,7 +69397,7 @@ CONTROLBAR:ConstructWildGundabadBerserkerHorde
 END
 
 CONTROLBAR:ToolTipBuildWildGundabadBerserkerHorde
-"Requiert : Niveau 2 La Hutte d'orque des Montagnes \n et de l'Allégeance : Gundabad améliorer \n Fort contre les Piquiers et la Cavalerie \n\n Le Mont Gundabad est occupé depuis longtemps par de grands orques féroces sous le commandement d'Azog son engeance."
+"Requiert : Niveau 2 La Hutte d'orque des Montagnes \n et de l'Allégeance à Gundabad améliorer \n Fort contre les Piquiers et la Cavalerie \n\n Le Mont Gundabad est occupé depuis longtemps par de grands orques féroces sous le commandement d'Azog son engeance."
 END
 
 OBJECT:WildGundabadBerserkerHorde
