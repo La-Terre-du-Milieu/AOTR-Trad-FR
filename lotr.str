@@ -10381,7 +10381,7 @@ OBJECT:GoblinBuildingFoundation
 END
 
 OBJECT:GoblinCave
-"Une Grotte de Gobelins de la Moria"
+"Une Cave à Gobelins de la Moria"
 END
 
 OBJECT:GoblinCampKeep
@@ -10416,7 +10416,7 @@ OBJECT:DwarvenStatue
 END
 
 OBJECT:DwarvenBarracks
-"Salle des Guerriers d'Erebor"
+"Hall des Guerriers d'Erebor"
 END
 
 OBJECT:DwarvenMineShaft
@@ -15288,7 +15288,7 @@ CONTROLBAR:ToolTipConstructWildLumberMill
 END
 
 CONTROLBAR:ConstructWildGoblinCave
-"Construire une Grotte de Gobelins de la Moria [&c]"
+"Construire une Cave à Gobelins de la Moria [&c]"
 END
 
 CONTROLBAR:ToolTipConstructWildGoblinCave
@@ -16285,7 +16285,7 @@ CONTROLBAR:ConstructGoblinArcherHorde
 END
 
 CONTROLBAR:ConstructGoblinCave
-"Construire une Grotte de Gobelins de la Moria"
+"Construire une Cave à Gobelins de la Moria"
 END
 
 CONTROLBAR:ToolTipGoblinCave
@@ -27722,7 +27722,7 @@ CONTROLBAR:ToolTipConstructDwarvenSentryTower
 END
 
 CONTROLBAR:ConstructDwarvenBarracks
-"Construire la Salle des Guerriers"
+"Construire la Hall des Guerriers"
 END
 
 CONTROLBAR:ToolTipConstructDwarvenBarracks
@@ -28150,11 +28150,11 @@ CONTROLBAR:ToolTipBuildDwarvenCatapult
 END
 
 CONTROLBAR:UpgradeDwarvenBarracksLevel2
-"Améliore la Salle des Guerriers au niveau 2"
+"Améliore la Hall des Guerriers au niveau 2"
 END
 
 CONTROLBAR:UpgradeDwarvenBarracksLevel3
-"Améliore la Salle des Guerriers au niveau 3"
+"Améliore la Hall des Guerriers au niveau 3"
 END
 
 CONTROLBAR:ToolTipUpgradeDwarvenBarracksLevel3
@@ -42631,11 +42631,11 @@ UPGRADE:DwarvenFlamingShot
 END
 
 UPGRADE:DwarvenBarracksLevel2
-"Salle des Guerriers niveau 2"
+"Hall des Guerriers niveau 2"
 END
 
 UPGRADE:DwarvenBarracksLevel3
-"Salle des Guerriers niveau 3"
+"Hall des Guerriers niveau 3"
 END
 
 UPGRADE:Upgrade_DwarvenWallHub
@@ -51046,8 +51046,8 @@ CONTROLBAR:ConstructDwarvenZerkerHorde
 END
 
 CONTROLBAR:ToolTipBuildDwarvenZerkerHorde
-//"Requiert : niveau 3 Salle des Guerriers\n Lorsque les Nains se rassemblent pour infliger leur terrible vengeance, leur avant-garde est souvent constituée de Mornes-martels. Ces guerriers Nains déterminés, engoncés des pieds à la tête dans une armure de plates et de mailles, progressent avec des intentions meurtrières.\n\n Fort contre toutes les troupes standards.\n Seulement 3 unités autorisées en même temps.Forts contre toutes les unités standards\n Requiert : niveau 3 Hall of Warriors\n Only 3 Units of Zealots sont autorisés en même temps."
-"Requiert : La Salle des Guerriers niveau 3\nSeuls les vétérans les plus redoutables et les plus intrépides peuvent se hisser au rang de Tueurs de Wyrms. Leur mission est de défendre les routes commerciales autour des forteresses contre tout ennemi y compris les féroces dragons de la Lande Desséchée, fonction qui ne leur laisse aucun repos.\nAinsi sont-ils devenus par nécessité des combattants austères et agressifs, redoutés pour leurs charges dévastatrices contre des ennemis bien plus nombreux mais qu'ils massacrent grâce à leurs glaives acérés.\nLimité à 3 bataillons.\n\nForts contre toutes les unités standards"
+//"Requiert : niveau 3 Hall des Guerriers\n Lorsque les Nains se rassemblent pour infliger leur terrible vengeance, leur avant-garde est souvent constituée de Mornes-martels. Ces guerriers Nains déterminés, engoncés des pieds à la tête dans une armure de plates et de mailles, progressent avec des intentions meurtrières.\n\n Fort contre toutes les troupes standards.\n Seulement 3 unités autorisées en même temps.Forts contre toutes les unités standards\n Requiert : niveau 3 Hall of Warriors\n Only 3 Units of Zealots sont autorisés en même temps."
+"Requiert : La Hall des Guerriers niveau 3\nSeuls les vétérans les plus redoutables et les plus intrépides peuvent se hisser au rang de Tueurs de Wyrms. Leur mission est de défendre les routes commerciales autour des forteresses contre tout ennemi y compris les féroces dragons de la Lande Desséchée, fonction qui ne leur laisse aucun repos.\nAinsi sont-ils devenus par nécessité des combattants austères et agressifs, redoutés pour leurs charges dévastatrices contre des ennemis bien plus nombreux mais qu'ils massacrent grâce à leurs glaives acérés.\nLimité à 3 bataillons.\n\nForts contre toutes les unités standards"
 END
 
 OBJECT:HordeDwarvenZerker
@@ -55887,11 +55887,11 @@ CONTROLBAR:TooltipConstructDwarvenMineShaft
 END
 
 TOOLTIP:LackLevel2HallOfWarriors
-"Requiert : La Salle des Guerriers niveau 2"
+"Requiert : La Hall des Guerriers niveau 2"
 END
 
 TOOLTIP:LackLevel3HallOfWarriors  
-"Requiert : La Salle des Guerriers niveau 3"
+"Requiert : La Hall des Guerriers niveau 3"
 END
 
 CONTROLBAR:ToolTipBuildDwarvenArcheryRangeLevel2Upgrade
@@ -57457,7 +57457,7 @@ CONTROLBAR:LW_ToolTip_Treebeard
 END
 
 CONTROLBAR:LW_Structure_DwarvenHallOfWarriors
-"La Salle des Guerriers"
+"La Hall des Guerriers"
 END
 
 CONTROLBAR:LW_Structure_DwarvenFortress
@@ -63531,7 +63531,7 @@ CONTROLBAR:LW_Unit_EredLuinTraderHorde
 END
 
 CONTROLBAR:ToolTipBuildEredLuinTraderHorde
-"Requiert : La Salle des Guerriers niveau 2 et l'amélioration Arkenstone\nLes Nains des Montagnes Bleues sont connus pour leur culture industrieuse et mercantile. Ils voyagent à travers toute la Terre du Milieu pour vendre leurs marchandises principalement avec les Hommes d'Eriador, les Elfes du Lindon et bien sûr avec le peuple de Durin.\n\n Soutien d'infanterie, forts contre les piquiers."
+"Requiert : La Hall des Guerriers niveau 2 et l'amélioration Arkenstone\nLes Nains des Montagnes Bleues sont connus pour leur culture industrieuse et mercantile. Ils voyagent à travers toute la Terre du Milieu pour vendre leurs marchandises principalement avec les Hommes d'Eriador, les Elfes du Lindon et bien sûr avec le peuple de Durin.\n\n Soutien d'infanterie, forts contre les piquiers."
 END
 
 CONTROLBAR:ToolTipBuildEredLuinTraderHordeInn
@@ -64226,7 +64226,7 @@ CONTROLBAR:LW_ToolTip_EreborVWHorde
 END
 
 CONTROLBAR:ToolTipBuildEreborVWHorde
-"Requiert : La Salle des Guerriers niveau 2 \n Les guerriers les plus compétents se voient confier une mission périlleuse. Ils forment des équipes de Gardiens des Portes, des combattants des tunnels spécialisés dans le maniement de pavois et de longs épieux. Cet armement leur permet de repousser les multitudes d'ennemis qui se pressent dans les espaces confinés que forment les portes et les galeries d'Erebor. \n\n Unité spéciale, forts contre les cavaliers et les monstres."
+"Requiert : La Hall des Guerriers niveau 2 \n Les guerriers les plus compétents se voient confier une mission périlleuse. Ils forment des équipes de Gardiens des Portes, des combattants des tunnels spécialisés dans le maniement de pavois et de longs épieux. Cet armement leur permet de repousser les multitudes d'ennemis qui se pressent dans les espaces confinés que forment les portes et les galeries d'Erebor. \n\n Unité spéciale, forts contre les cavaliers et les monstres."
 END
 
 CONTROLBAR:LW_ToolTipBuild_EreborVWHorde
