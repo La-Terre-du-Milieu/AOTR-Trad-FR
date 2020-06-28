@@ -15276,11 +15276,11 @@ END
 
 // Wild Buildings
 CONTROLBAR:ConstructWildMineShaft
-"Construire un tunnel"
+"Const&ruire un tunnel"
 END
 
 CONTROLBAR:ConstructWildLumberMill
-"Construire une Scierie"
+"Constr&uire une Scierie"
 END
 
 CONTROLBAR:ToolTipConstructWildLumberMill
@@ -15293,7 +15293,6 @@ END
 
 CONTROLBAR:ToolTipConstructWildGoblinCave
 "Permet de recruter des Guerriers de Gobelinville, des Guerriers et des Archers Orques de la Moria \n Augmente la limite de points de commandement de 25"
-//, les Trolls des Cavernes et les Trolls lanceurs de pierres."
 END
 
 CONTROLBAR:ConstructWildMountainLodge
@@ -15301,7 +15300,7 @@ CONTROLBAR:ConstructWildMountainLodge
 END
 
 CONTROLBAR:ToolTipConstructWildMountainLodge
-"Forme des Orques des Montagnes et des Orques de Gundabad \n Augmente la limite de Point de Commandement de 25"
+"Forme des Orques des Montagnes et des Orques de Gundabad \n Augmente la limite de points de commandement de 25"
 END
 
 CONTROLBAR:ConstructWildGoblinFissure
@@ -27761,7 +27760,7 @@ CONTROLBAR:ToolTipConstructDwarvenHusbandry
 END
 
 CONTROLBAR:ToolTipConstructDwarvenHusbandryBlueMountains
-"Recrute des troupes des Monts du Fer et des Machines de Guerre \n Augmente la limite des Points de Commandement de 25"
+"Recrute des troupes des Monts du Fer et des Machines de Guerre \n Augmente la limite de points de commandement de 25"
 END
 
 CONTROLBAR:ConstructDwarvenWorkshop
@@ -31810,7 +31809,7 @@ CONTROLBAR:ToolTipPurchaseUpgradeWildFortressWebCocoonForMaps
 End
 
 CONTROLBAR:PurchaseUpgradeWildFortressNorthernWastes
-"L'Allégeance aux Immondices du Nord"
+"Allégeance aux Immondices du Nord"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeWildFortressNorthernWastes
@@ -34326,7 +34325,7 @@ STRATEGICHUD:RegionAbsoluteBonus
 END
 
 STRATEGICHUD:RegionCommandPointBonusTooltip
-"Bonus de Point de Commandement "
+"Bonus de points de commandement "
 END
 
 STRATEGICHUD:RegionAttackBonusTooltip
@@ -34350,7 +34349,7 @@ STRATEGICHUD:RegionPowerPointBonusTooltip
 END
 
 STRATEGICHUD:ArmyCurrentOverMaxCommandPointsTooltip
-"Points de Commandement actuels de l'Armée / Points de Commandement Maximum"
+"Points de commandement actuels de l'Armée / Points de commandement Maximum"
 END
 
 STRATEGICHUD:ConstructionOneTurnRemaining
@@ -50031,7 +50030,7 @@ CONTROLBAR:ToolTipFireWeaponAngmarFortressSanctumFrostball
 END
 
 CONTROLBAR:TooltipAngmarMill
-"Augmente la limite du point de commandement mondial"
+"Augmente la limite du points de commandement mondial"
 End
 
 CONTROLBAR:ToolTipBuildAngmarThrallMaster
@@ -56425,24 +56424,23 @@ OBJECT:WildMineShaftDescription
 END
 
 CONTROLBAR:ToolTipBuildWildCaveLevel2Upgrade
-"Permet de recruter les Trolls des Cavernes.\n Vitesse de construction +10%"
+"Vitesse de construction +10%"
 END
 
 CONTROLBAR:ToolTipBuildWildCaveLevel3Upgrade
-"Permet de recruter les Trolls lanceurs de pierres.\nVitesse de construction +25%\n Ajoute une tour d'archers défensive."
+"Vitesse de construction +25% \n Ajoute une tour d'archers défensive"
 END
 
 CONTROLBAR:ToolTipConstructWildGoblinFissure
-//"Trains semi-Trolls maraudeurs, Half-Troll Epéiste, Trolls des Cavernes, Giants,\n and Couvée de Drakes de feu."
-"Permet de recruter les Orques et des Trolls de Gundabad."
+"Permet de recruter des Trolls et des Chauve-souris géantes \n Augmente la limite de points de commandements de 25"
 END
 
 CONTROLBAR:ToolTipBuildWildLodgeLevel2Upgrade
-"Permet l'entrainement des Eclaireurs orques des Montagnes et des berserkers de Gundabad\nvitesse de construction +10%"
+"Permet l'entrainement des Eclaireurs orques des Montagnes et des berserkers de Gundabad \n Vitesse de construction +10%"
 END
 
 CONTROLBAR:ToolTipBuildWildLodgeLevel3Upgrade
-"Permet l'entrainement des Monstruosités de Gram\n+vitesse de construction +25%"
+"Permet l'entrainement des Monstruosités de Gram \n Vitesse de construction +25%"
 END
 
 CONTROLBAR:ToolTipBuildWildLodgeLevel3Upgrade_WOTR
@@ -56450,14 +56448,12 @@ CONTROLBAR:ToolTipBuildWildLodgeLevel3Upgrade_WOTR
 END
 
 CONTROLBAR:ToolTipBuildWildFissureLevel2Upgrade
-//"Niveau 2 : vitesse de construction +10%\n Permet de recruter les Trolls des Cavernes and Half-troll Epéiste"
-//"Niveau 2 : vitesse de construction +10%\n Permet de recruter les Trolls des Cavernes"
-"Permet de recruter les Chasseurs de Gundabad \n Vitesse de construction +10%"
+"Permet de recruter les Trolls des neiges et les Chauve-souris géantes \n Vitesse de construction +10%"
 END
 
 CONTROLBAR:ToolTipBuildWildFissureLevel3Upgrade
 //"Niveau 3 : vitesse de construction +25%.\n Permet de recruter les Géant des Montagness and Couvée de Drakes de feu"
-"Permet de recruter les Olog-hai et des Semi-Ogres. \n Vitesse de construction +25%"
+"Permet de recruter les Trolls de Pierre de Gundabad \n Vitesse de construction +25%"
 END
 
 CONTROLBAR:ToolTipBuildWildFissureLevel3Upgrade_WOTR
@@ -56466,14 +56462,11 @@ CONTROLBAR:ToolTipBuildWildFissureLevel3Upgrade_WOTR
 END
 
 CONTROLBAR:ToolTipConstructWildWildSpiderPit
-//"Trains and upgrades Araignées sauvages and Chevaucheur d'araignées gobelins."
-"Permet de recruter les Meutes de Wargs et les Maraudeurs Wargs de Gundabad."
+"Permet de recruter des Meutes de Wargs et des Chevaucheurs de Wargs \n Augmente la limite de points de commandement de 25"
 END
 
 CONTROLBAR:ToolTipBuildWildSpiderPitLevel2Upgrade
-//"Niveau 2 : vitesse de construction +10%.\n Permet de recruter les Chevaucheur d'araignées gobelins"
-//"Permet de recruter les Chevaucheur d'Araignées gobelins.\n Vitesse de construction +10%"
-"Permet de recruter les Maraudeurs Wargs de Gundabad.\n Vitesse de construction +10%"
+"Permet de recruter des Chevaucheurs de Wargs \n Vitesse de construction +10%"
 END
 
 CONTROLBAR:ToolTipBuildWildSpiderPitLevel3Upgrade
@@ -56652,11 +56645,11 @@ CONTROLBAR:TooltipThrallMasterUpgradeWolfRiders_Fake
 End
 
 CONTROLBAR:TooltipThrallMasterUpgradeWolfRiders
-"Invoquez des Chevaucheurs de Loup pour vous servir \n Forts contre les épéistes et les archers\n Ajoute 20 Point de Commandement supplémentaire"
+"Invoquez des Chevaucheurs de Loup pour vous servir \n Forts contre les épéistes et les archers\n Ajoute 20 points de commandement supplémentaires"
 End
 
 CONTROLBAR:ToolTipThrallMasterUpgradeWolfRiders202Campaign
-"Invoquez des Chevaucheurs de Loup pour vous servir \n à proximité du Repaire de Troll et de La Tanière de Loup \n Forts contre les épéistes et les archers \n Ajoute 20 Point de Commandement supplémentaire"
+"Invoquez des Chevaucheurs de Loup pour vous servir \n à proximité du Repaire de Troll et de La Tanière de Loup \n Forts contre les épéistes et les archers \n Ajoute 20 points de commandement supplémentaires"
 End
 
 OBJECT:AngmarDarkDunedain
@@ -56668,7 +56661,7 @@ CONTROLBAR:ToolTipBuildAngmarDarkDunedainHorde
 End
 
 CONTROLBAR:ToolTipSpecialAbilityAngmarChargeAttack
-"Requiert : niveau 2 \n Ordonne aux Númenóréens Noirs de charger l'ennemis \n Type: Bonus \n Les Númenóréens Noirs gagnent +50% dégâts et +50% armure (bonus cumulable).\n Provoque d'énorme impact \n\n Clic gauche sur l'icône puis clic gauche sur la cible"
+"Requiert : niveau 2 \n Ordonne aux Númenóréens Noirs de charger l'ennemis \n Type: Bonus \n Les Númenóréens Noirs gagnent +50% dégâts et +50% armure (bonus cumulable).\n Provoque d'énormes impacts \n Clic gauche sur l'icône puis clic gauche sur la cible"
 END
 
 OBJECT:AngmarRanger
@@ -59789,7 +59782,7 @@ OBJECT:WyrmDrakeLair
 End
 
 OBJECT:FireWyrmLairDescription
-"Permet de recruter des Wyrms et des Chauve-souris géantes."
+"Permet de recruter des Wyrms"
 END
 
 CONTROLBAR:ConstructFireWyrmLair
@@ -59797,7 +59790,7 @@ CONTROLBAR:ConstructFireWyrmLair
 END
 
 CONTROLBAR:ToolTipConstructFireWyrmLair
-"Permet de recruter des Wyrms et des Chauve-souris géantes."
+"Requiert : Allégeance aux Immondices du Nord \n Permet de recruter et d'améliorer des Wyrms \n Augmente la limite de points de commandement de 25"
 END
 
 CONTROLBAR:UpgradeFireWyrmLairLevel2
@@ -61795,7 +61788,7 @@ CONTROLBAR:PurchaseTechnologyHardenedSkin
 END
 
 CONTROLBAR:ToolTipPurchaseTechnologyHardenedSkin
-"Permet aux Wyrms d'acheter l'amélioration Cuirasse de Wyrm. Lorsqu'elle est équipée, réduit les dégâts des flèches et des piques de -30%."
+"Permet aux Wyrms d'acheter l'amélioration Cuirasse de Wyrm. Lorsqu'elle est équipée, augmente l'armure contre les flèches et les piques de +30%"
 END
 
 TOOLTIP:LackLevel2FireWyrmLair
@@ -61803,15 +61796,15 @@ TOOLTIP:LackLevel2FireWyrmLair
 END
 
 CONTROLBAR:PurchaseUpgradeHardenedSkin
-"Cuirasse de Wyrm"
+"Cuirasse de W&yrm"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeHardenedSkin
-"Améliore le Wyrm avec une armure de cuir et d'acier : réduit les dégâts des flèches et des piques de -30%."
+"Améliore le Wyrm avec une armure de cuir et d'acier : augmente l'armure contre les flèches et les piques de +30%"
 END
 
 TOOLTIP:LackHardenedSkin
-"Recherchez l'amélioration dans le Repaire de Wyrms pour activer cet équipement. Lorsqu'elle est équipée, augmente l'armure contre les flèches et les piques de +30%."
+"Recherchez l'amélioration dans le Repaire de Wyrms pour activer cet équipement. Lorsqu'elle est équipée, augmente l'armure contre les flèches et les piques de +30%"
 END
 
 CONTROLBAR:PurchaseUpgradeWildFortressDrumsInTheDeep
@@ -61835,7 +61828,7 @@ CONTROLBAR:SpecialAbilitySummonWyrm
 END
 
 CONTROLBAR:ToolTipSpecialAbilitySummonWyrm
-"Requiert: L'Allégeance aux Une Immondices du nord \n Invoque temporairement un Wyrm de feu \n Clic gauche sur l'icone puis clic gauche sur la zone cible"
+"Requiert : Allégeance aux Immondices du Nord \n Invoque temporairement un Wyrm de feu \n Clic gauche sur l'icone puis clic gauche sur la zone cible"
 END
 
 CONTROLBAR:PurchaseUpgradeDolFortressBanners
@@ -69504,7 +69497,7 @@ CONTROLBAR:ConstructGuldurSlaveMill
 END
 
 CONTROLBAR:TooltipConstructGuldurSlaveMill
-"Produit de la Misère comme ressources, basé sur le terrain disponible \n Peut invoquer des hordes de Brisés \n Réduit le coût des Orques de base \n Augmente la limite de Points de Commandement de 50"
+"Produit de la Misère comme ressources, basé sur le terrain disponible \n Peut invoquer des hordes de Brisés \n Réduit le coût des Orques de base \n Augmente la limite de points de commandement de 50"
 END
 
 OBJECT:GuldurFountOfCorruption
@@ -69520,7 +69513,7 @@ CONTROLBAR:ConstructGuldurFountOfCorruption
 END
 
 CONTROLBAR:ToolTipConstructGuldurFountOfCorruption
-"Produit de la Corruption comme ressources, basé sur le terrain disponible \n Entraîne des Trappeurs Souillés et des Ents Corrompus \n Réduit le coût des araignées \n Augmente la limite de Points de Commandement de 50"
+"Produit de la Corruption comme ressources, basé sur le terrain disponible \n Entraîne des Trappeurs Souillés et des Ents Corrompus \n Réduit le coût des araignées \n Augmente la limite de points de commandement de 50"
 End
 
 OBJECT:GuldurWoodsmen
@@ -69809,7 +69802,7 @@ OBJECT:GuldurGaol
 END
 
 OBJECT:GuldurGaolDescription
-"Niveau 2 : +10% Vitesse de Construction \n Niveau 3: +25% Vitesse de Construction \n Augmente la limite de Points de Commandements 25"
+"Niveau 2 : +10% Vitesse de Construction \n Niveau 3: +25% Vitesse de Construction \n Augmente la limite de points de commandement de 25"
 END
 
 CONTROLBAR:ConstructGuldurGaol
@@ -69817,7 +69810,7 @@ CONTROLBAR:ConstructGuldurGaol
 END
 
 CONTROLBAR:ToolTipConstructGuldurGaol
-"Entraîner des Brisés et des unités Orques \n Augmente la limite de Points de Commandements de 25"
+"Entraîner des Brisés et des unités Orques \n Augmente la limite de points de commandement de 25"
 END
 
 CONTROLBAR:ConstructGuldurGaol2Upgrade
@@ -69849,7 +69842,7 @@ CONTROLBAR:ConstructGuldurSpiderLair
 END
 
 CONTROLBAR:ToolTipConstructGuldurSpiderLair
-"Entraîner et Améliorer les Araignées \n Augmente la limite de Points de Commandements de 25"
+"Entraîner et Améliorer les Araignées \n Augmente la limite de points de commandements de 25"
 END
 
 OBJECT:GuldurFellBrood
@@ -69929,7 +69922,7 @@ CONTROLBAR:ConstructGuldurRestlessBarrow
 END
 
 CONTROLBAR:ToolTipConstructGuldurRestlessBarrow
-"Des Unités défensives qui attaqueront les ennemis proches \n Augmente la limite de Points de Commandements de 25"
+"Des Unités défensives qui attaqueront les ennemis proches \n Augmente la limite de points de commandement de 25"
 END
 
 OBJECT:GuldurRestlessWarrior
@@ -69941,11 +69934,11 @@ CONTROLBAR:ConstructGuldurSorceryTower
 End
 
 CONTROLBAR:ToolTipConstructGuldurSorceryTower
-"Entrainer des unités d'élites \n Inflige des dégâts aux ennemis proches et les transforme en spectres à leur mort \n Débloque l'amélioration Nécromancie \n Augmente la limite de Points de Commandements de 25"
+"Entrainer des unités d'élites \n Inflige des dégâts aux ennemis proches et les transforme en spectres à leur mort \n Débloque l'amélioration Nécromancie \n Augmente la limite de points de commandement de 25"
 END
 
 CONTROLBAR:ToolTipConstructGuldurSorceryTower_WOTR
-"Entraîner des unités d'élites \n Inflige des dégâts aux ennemis proches et les transforme en spectres à leur mort \n Augmente la limite de Points de Commandements de 25"
+"Entraîner des unités d'élites \n Inflige des dégâts aux ennemis proches et les transforme en spectres à leur mort \n Augmente la limite de points de commandement de 25"
 END
 
 CONTROLBAR:HarbingerDeepRot
