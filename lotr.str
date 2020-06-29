@@ -16331,9 +16331,11 @@ END
 CONTROLBAR:ToggleSpiderRiderWeapons
 "Changer d'arme"
 END
+
 CONTROLBAR:ToolTipToggleSpiderRiderWeapons
 "Cliquez pour changer d'armes"
 END
+
 CONTROLBAR:ConstructWildCaveLevel2Upgrade
 "Améliorer la Cave des Gobelins au niveau 2"
 END
@@ -16611,7 +16613,7 @@ CONTROLBAR:ConstructIsengardUrukHai
 END
 
 CONTROLBAR:ConstructIsengardCrossbowmen
-"Arbalétriers Uruk" &C
+"Arbalétriers Uruk [&C]"
 END
 
 CONTROLBAR:ConstructIsengardPikemen
@@ -28899,15 +28901,15 @@ CONTROLBAR:LW_ToolTipBuild_GondorBarracks
 END
 
 CONTROLBAR:LW_ToolTipBuild_RohanBarracks
-"Structure Type: Barracks\nTrains Rohan units\n"
+"Structure Type: caserne \n Forme les unités du Rohan\n"
 END
 
 CONTROLBAR:LW_ToolTip_GondorBarracks
-"Type de structure : caserne\n Forme les unités des Hommes de l'Ouest"
+"Type de structure : caserne \n Forme les unités des Hommes de l'Ouest"
 END
 
 CONTROLBAR:LW_ToolTip_RohanBarracks
-"Structure Type: caserne\n Forme les unités du Rohan"
+"Structure Type: caserne \n Forme les unités du Rohan"
 END
 
 CONTROLBAR:LW_Structure_GondorBlackSmith
@@ -60312,7 +60314,7 @@ CONTROLBAR:ToolTipConstructGondorDolMAArmsHorde
 END
 
 CONTROLBAR:ToolTipConstructGondorDolMAArmsHorde_WOTR
-"Requiert : Niveau 2 Barracks and Dol Amroth Citadelle \n Fort contre les Piquiers \n \n Choosing to fight on foot rather than from horseback, these heavily armored soldiers are no less elite than their equestrian counterparts."
+"Requiert : Niveau 2 de la Caserne et de la Citadelle de Dol Amroth \n Fort contre les Piquiers \n \n Choisir de se battre à pied plutôt qu'à cheval, ces soldats lourdement blindés ne sont pas moins d'élite que leurs homologues équestres."
 END
 
 CONTROLBAR:LW_ToolTipBuild_GondorDolMAArmsHorde
@@ -60366,7 +60368,7 @@ CONTROLBAR:LW_Unit_GondorFountainGuardHorde
 END
 
 CONTROLBAR:LW_ToolTip_GondorFountainGuardHorde
-"\n Type d'unité : unité héroïque\n Forts contre la cavalerie"
+"Type d'unité : unité héroïque\n Forts contre la cavalerie"
 END
 
 CONTROLBAR:LW_ToolTip_GondorFountainGuardHorde_WOTR
@@ -60499,7 +60501,7 @@ CONTROLBAR:LW_Unit_WildBodyGuardHorde
 END
 
 CONTROLBAR:LW_ToolTip_WildBodyGuardHorde
-"\n Type d'unité : unité héroïque\n Forts contre toutes les unités standards"
+"Type d'unité : unité héroïque\n Forts contre toutes les unités standards"
 END
 
 CONTROLBAR:ToolTipBuildWildBodyGuardHorde
@@ -60614,7 +60616,7 @@ CONTROLBAR:SamwiseFrodoLeadership
 END
 
 CONTROLBAR:ToolTipSamwiseFrodoLeadership
-"Type d'Action : Charisme\n Sam s'est vu confier la tâche par Gandalf de protéger Frodon à tout prix : Frodon gagne +100% armure.\n\n Capacité passive"
+"Type d'Action : Charisme\n Sam s'est vu confier la tâche par Gandalf de protéger Frodon à tout prix : Frodon gagne +100% d'Armure.\n\n Capacité passive"
 END
 
 CONTROLBAR:SamwiseBladeMaster
@@ -60622,11 +60624,11 @@ CONTROLBAR:SamwiseBladeMaster
 END
 
 CONTROLBAR:TooltipSamwiseBladeMaster
-"Type d'Action : Bonus\n Dans un accès de colère, Sam gagne temporairement +100% dégâts et +100% armure.\n\nClic gauche pour activer"
+"Type d'Action : Bonus \n Dans un accès de colère, \n Sam gagne temporairement +100% de Dégâts et +100% d'Armure.\n\nClic gauche pour activer"
 END
 
 CONTROLBAR:TooltipSamwiseBladeMaster_Campaign
-"Requiert : Niveau 3 \n Type d'Action : Buff \n Sam temporarily gains\n+100% Damage, +100% Armor \n Clic gauche pour activer"
+"Requiert : Niveau 3 \n Type d'Action : Bonus \n Sam gagne temporairement \n +100% de Dégâts, +100% d'Armure \n Clic gauche pour activer"
 END
 
 UPGRADE:GondorBattleTowerGarrison
@@ -61171,7 +61173,7 @@ CONTROLBAR:LW_Unit_MordorEasterlingArcherHorde
 END
 
 CONTROLBAR:LW_ToolTip_MordorEasterlingArcherHorde
-"\n Type d'unité : archers d'élite\n Forts contre les archers"
+"Type d'unité : archers d'élite\n Forts contre les archers"
 END
 
 CONTROLBAR:ToolTipBuildMordorEasterlingArcherHorde
@@ -61201,7 +61203,7 @@ CONTROLBAR:LW_Unit_MordorVariagHorde
 END
 
 CONTROLBAR:LW_ToolTip_MordorVariagHorde
-"\n Type d'unité : unité d'élite\n Forts contre les piquiers"
+"Type d'unité : unité d'élite\n Forts contre les piquiers"
 END
 
 CONTROLBAR:ToolTipBuildMordorVariagHorde
