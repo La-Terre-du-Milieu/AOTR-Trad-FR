@@ -2801,7 +2801,6 @@ TOOLTIP:ScienceCost
 "Coût : %d"
 END
 
-
 TOOLTIP:AbilityCost
 // context: Tooltip part that's used to make up the command bar build tooltips rank required for a hero to use a power
 "Pouvoir de niveau : %d"
@@ -6572,29 +6571,36 @@ END
 TOOLTIP:OnlineShell/OnlineChat/Buttons_inframe/OnbttnAddIgnore/tooltipAddignore
 "To ignore a Player, Clic gauche on a name.\n and Clic gauche on the Ignore Player box.\n Ignored players or their messages will not be visible"
 END
+
 TOOLTIP:OnlineShell/OnlineChat/Buttons_inframe/OnbttnRemoveIgnore/tooltipRemoveIgnore
 "To remove a Player from the Ignore list,\n Clic gauche on a name and Clic gauche on the Remove Ignore button"
 END
+
 TOOLTIP:OnlineShell/OnlineChat/Buttons_inframe/OnbttnRemoveFriend/tooltipRemovefriend
 "To remove a Friend, Clic gauche on a name.\n and Clic gauche on the Remove Friend button"
 END
+
 TOOLTIP:OnlineShell/OnlineChat/Buttons_inframe/OnbttnAddFriend/tooltipAddfriend
 "To create a Friend, Clic gauche on\n a name in the Player list,\n then Clic gauche the Add Friend box"
 END
+
 TOOLTIP:OnlineShell/OnlineChat/Buttons_inframe/OnbttnEnterText/tooltipAddfriend
 "Enter the name of the player you would like to add"
 END
+
 Tooltip:OnlineShell/ONlineCustomMatch/Controls/buttonJoin
 "Select a game, then click the join button"
 END
+
 TOOLTIP:OnlineShell/OnlineChat/Buttons_inframe/OnbttnEnterText/tooltipChatEnter
 "Click here to enter your text"
 END
+
 TOOLTIP:OnlineShell/OnlineCustomMatch/tooltipGameHost
 "Name of player hosting this game"
 END
-///Options Screen
 
+///Options Screen
 
 TOOLTIP:Options/tooltipResolution
 "Adjust the video resolution display.\n This setting can only be changed\n from the Options in the Main Menu"
@@ -7046,7 +7052,6 @@ GUI:SaveView4
 "Set Bookmark 4"
 END
 
-
 GUI:SaveView4Description
 // context: help text for 'Set Bookmark X' command
 "Set view bookmark map position 4."
@@ -7056,17 +7061,14 @@ GUI:SaveView5
 "Set Bookmark 5"
 END
 
-
 GUI:SaveView5Description
 // context: help text for 'Set Bookmark X' command
 "Set view bookmark map position 5."
 END
 
-
 GUI:SaveView6
 "Set Bookmark 6"
 END
-
 
 GUI:SaveView6Description
 // context: help text for 'Set Bookmark X' command
@@ -7077,7 +7079,6 @@ GUI:SaveView7
 "Set Bookmark 7"
 END
 
-
 GUI:SaveView7Description
 // context: help text for 'Set Bookmark X' command
 "Set view bookmark map position 7."
@@ -7086,7 +7087,6 @@ END
 GUI:SaveView8
 "Set Bookmark 8"
 END
-
 
 GUI:SaveView8Description
 // context: help text for 'Set Bookmark X' command
@@ -7156,7 +7156,6 @@ GUI:ViewView7Description
 // context: help text for 'View Bookmark X' command
 "View bookmarked map position 7."
 END
-
 
 GUI:ViewView8
 "View Bookmark 8"
@@ -15895,7 +15894,7 @@ CONTROLBAR:ToolTipBuildGondorRangerHorde
 END
 
 CONTROLBAR:ToolTipBuildGondorRangerHorde_Osgiliath
-"Requiert : Niveau 2 Archerie \n Fort contre l'Infantrie and Monsters \n Stealth near trees \n Can fire Longshot arrow volleys\n \n The Rôdeurs are the descendants of the people who once dwelt in Ithilien, before it fell from Gondor's control."
+"Requiert : Niveau 2 Archerie \n Fort contre l'Infantrie et les Monstres \n Furtivité près des arbres \n Peut tirer des volées de flèches à longue portée \n\n Les Rôdeurs sont les descendants du peuple qui habitait jadis en Ithilien, avant qu'il ne tombe sous le contrôle du Gondor."
 END
 
 CONTROLBAR:ToolTipBuildGondorRangerHordeForGoodIthilien
@@ -32737,7 +32736,7 @@ CONTROLBAR:StonehelmLeadership
 End
 
 CONTROLBAR:ToolTipStonehelmLeadership
-"Type d'Action : Charisme \n Allies near Thorin III Heaume de Pierre gain +33% Damage, +33% Armor, and earn experience 50% faster \n S'accumule avec les Bonus et les Sorts \n Capacité passive"
+"Type d'Action : Charisme \n Les Alliés proches de Thorin III Heaume de Pierre gagnent +33% de Dégâts, +33% d'Armure, et gagnent 50% d'expérience plus vite \n S'accumule avec les Bonus et les Sorts \n Capacité passive"
 END
 
 CONTROLBAR:DominateTroll
@@ -32911,7 +32910,7 @@ CONTROLBAR:ToolTipBattleWagonUpgradeMenOfDale
 End
 
 CONTROLBAR:ToolTipBlackRiderMount
-"Mount and unmount the Nazgûl"
+"Montée ou Descendre le Nazgûl"
 End
 
 CONTROLBAR:ToolTipBuildCorsairShip
@@ -44386,17 +44385,17 @@ END
 
 CONTROLBAR:ToolTipCAH_DwarfCharge_L1
 //"Héros can crush enemies for a short duration"
-"Le héros peut écraser ses ennemis pour une courte durée.\n Il gagne +100% armure and +50% dégâts"
+"Le héros peut écraser ses ennemis pour une courte durée.\n Il gagne +100% d'Armure et +50% de Dégâts"
 End
 
 CONTROLBAR:ToolTipCAH_DwarfCharge_L2
 //"Héros can crush enemies for a medium duration"
-"Le héros peut écraser ses ennemis pour une durée moyenne\n Il gagne +100% armure and +100% dégâts"
+"Le héros peut écraser ses ennemis pour une durée moyenne\n Il gagne +100% d'Armure et +100% de Dégâts"
 End
 
 CONTROLBAR:ToolTipCAH_DwarfCharge_L3
 //"Héros can crush enemies and is immune to arrows for a long duration"
-"Le héros peut écraser ses ennemis et est insensible aux flèches pour une longue durée\n Il gagne +100% armure and +100% dégâts"
+"Le héros peut écraser ses ennemis et est insensible aux flèches pour une longue durée\n Il gagne +100% d'Armure et +100% de Dégâts"
 End
 
 CONTROLBAR:ToolTipCAH_AxeThrow_Level1
@@ -48187,7 +48186,7 @@ END
 //END
 
 CONTROLBAR:ToolTipConstructArnorPorter
-"Entraîner un bâtisseur d'Imladris\n Construit des structures"
+"Entraîne un bâtisseur d'Imladris \n Construit des structures"
 END
 
 CONTROLBAR:ConstructArnorFarm
@@ -48207,7 +48206,7 @@ CONTROLBAR:ConstructArnorArcheryRange
 END
 
 CONTROLBAR:ToolTipArnorArcheryRange
-"Entraîner des hommes de Bree"
+"Entraîne des hommes de Bree"
 END
 
 CONTROLBAR:ConstructArnorStable
@@ -48323,7 +48322,7 @@ CONTROLBAR:ToolTipBuildArnorArcheryRangeLevel2Upgrade
 END
 
 CONTROLBAR:ToolTipBuildArnorArcheryRangeLevel2Upgrade_WOTR
-"Niveau 2: +10% de vitesse de construction\n Permet la confection du bélier"
+"Niveau 2: +10% de vitesse de construction\n Permet la confection du Bélier"
 END
 
 CONTROLBAR:ConstructArnorArcheryRangeLevel3Upgrade
@@ -50387,7 +50386,7 @@ End
 LW:HeroKilledText
 // Context: shown as the title of a message box when a hero has no immediate retreat options and will be killed.
 // First arg is hero name
-"Your Armée de héros has been defeated in battle and has no available retreat locations.\n\n %ls was killed and must be rebuilt in a fortress."
+"Votre Armée de héros a été vaincue au combat et n'a aucun emplacement de retraite disponible. \n\n Ils ont été tués et doivent être reconstruits dans une forteresse."
 End
 
 OBJECT:OrcChieftain
@@ -54898,6 +54897,7 @@ GUI:LobbyRoom4
 //"5+ Player"
 "Unofficial 2.02"
 END
+
 GUI:LobbyRoom7
 //"Clans"
 "Age of the Ring"
@@ -54917,6 +54917,7 @@ GUI:OlderReplayVersion
 "This replay was probably created by a non-English game. However, it might have been played on a different patch, in which case it will not work properly.  Continue to load?"
 //"This replay was probably created by a non-English game. However, this game might have been played on a different patch, in which case it will not work properly.  Continue to load?"
 END
+
 APT:OlderReplayVersion
 // context: Message box message prompting the user that the reply that's selected is older then the version of the game.
 //"Once a patch has been applied, loading a Replay from a previous patch may no longer work. Continue to load?" 
@@ -54930,6 +54931,7 @@ END
 Map:MAPMPErech
 "Tournoi d'Erech"
 END
+
 Map:MAPMPErech/Desc
 "Un ancien site au pied des Montagnes Blanches au Gondor. Erech était fort célèbre pour son énorme pierre, on disait qu'elle était tombée du ciel, bien qu'en réalité elle ait été apporté en Terre du Milieu par Isildur."
 End
@@ -54938,6 +54940,7 @@ Map:MAPMPAnorien
 //"Anórien"
 "Anórien II"
 END
+
 Map:MAPMPAnorien/Desc
 "Le territoire nord-ouest du Gondor qui forme la frontière entre le Gondor et le Rohan."
 End
@@ -54945,6 +54948,7 @@ End
 Map:MAPMPFarHarad
 "Extrême-Harad"
 END
+
 Map:MAPMPFarHarad/Desc
 "Loin au sud de la Terre du Milieu, la région de l'Extrême-Harad est la patrie des sauvages Haradrim, fidèles serviteurs de Sauron."
 END
@@ -54952,6 +54956,7 @@ END
 Map:MAPMPTournamentMP202
 "Tournoi de l'Anórien"
 END
+
 Map:MAPMPTournamentMP202/Desc
 "Un champ de bataille forestier, petit mais ouvert, près de la frontière du Gondor avec le Rohan."
 End
@@ -54959,6 +54964,7 @@ End
 Map:MAPMPTournamentRohan
 "Tournoi du Rohan"
 END
+
 Map:MAPMPTournamentRohan/Desc
 //"Les plaines ouvertes du Rohan à l'est de la rivière Snawburna ont été défendues par Éomer, troisième maréchal du Riddermark."
 //[20:55] Thoon: Reference to character = nono
@@ -54969,6 +54975,7 @@ End
 Map:MAPMPShire4p
 "La Comté"
 END
+
 Map:MAPMPShire4p/Desc
 "Cette contrée verdoyante et paisible est le foyer des Hobbits de la Terre du Milieu."
 END
@@ -54977,6 +54984,7 @@ Map:MAPMPEmynArnen
 //"Emyn Arnen"
 "Emyn Arnen II"
 END
+
 Map:MAPMPEmynArnen/Desc
 //"Terres vertes et fertiles au centre du Gondor, au pied des montagnes qui séparent le Gondor du Mordor à l'est. \n Point de départ : Citadelle\n Points d'expansion : 1\n Colonies : 8\n Antres : Trolls et Gobelins"
 "Terres vertes et fertiles au centre du Gondor, au pied des montagnes qui séparent le Gondor du Mordor à l'est."
@@ -54985,6 +54993,7 @@ END
 Map:MAPMPTournamentBarrows
 "Tyrn Gorthad"
 END
+
 Map:MAPMPTournamentBarrows/Desc
 "Plus connus sous le nom de Coteaux des Tertres ou Hauts des Galgals, les anciens sites funèbres des rois d'Arnor ont été corrompus par des esprits maléfiques du Roi-Sorcier d'Angmar."
 END
@@ -55000,6 +55009,7 @@ END
 Map:MAPMPErynLaer
 "Lothlórien : Eryn Laer"
 END
+
 Map:MAPMPErynLaer/Desc
 "Les grands arbres d'Eryn Laer, la Forêt des Chansons, se tiennent dans le royaume de la Lothlórien, le coeur du royaume elfique dans la Terre du Milieu. Son nom est une référence aux nombreux Nandor qui viennent y chanter et jouer de la musique."
 END
@@ -55007,6 +55017,7 @@ END
 Map:MAPMPOldForest
 "La Vieille Forêt"
 END
+
 Map:MAPMPOldForest/Desc
 "Située entre les bords de Pays-de-Bouc et de Bree, La Vieille Forêt cache un grand mystère et des dangers sous sa sombre canopée."
 END
@@ -55733,8 +55744,7 @@ CONTROLBAR:PrinceMirkwood
 END
 
 CONTROLBAR:ToolTipFellowshipLegolasTrainArchers  
-//"Requiert : Niveau 3 \n Les archers ciblés gagnent un bon montant d'expérience \n Clic gauche sélectionner Clic gauche sur cible archers"
-"Requiert : Niveau 3 \n Les archers ciblés gagnent un bon montant d'expérience \n Clic gauche sélectionner Clic gauche sur cible archers \n \n Requiert : Niveau 6 \n Nearby friendly units gain fear immunity and +25% vision range \n Capacité passive"
+"Requiert : Niveau 3 \n Les archers ciblés gagnent une bonne quantité d'expérience \n Clic gauche sélectionner Clic gauche sur cible archers \n \n Requiert : Niveau 6 \n Les unités amies proches bénéficient d'une immunité contre la Peur et d'une portée de vision de +25% \n Capacité passive"
 END
 
 CONTROLBAR:ToolTipKnifeFighter
@@ -56680,6 +56690,7 @@ End
 CONTROLBAR:ToolTipBuildAngmarDarkRangerHorde_Inn  
 "Fort à distance"
 End
+
 CONTROLBAR:PurchaseUpgradeAngmarIceArrows
 "Flèches de Glace"
 End
@@ -56769,19 +56780,23 @@ CONTROLBAR:ToolTipBuildAngmarBarracksLevel3Upgrade
 End
 
 CONTROLBAR:ToolTipAngmarDen
-"Entraine d'Affreux Loups, Trolls des neiges,\n and Trolls des collines\n Requis pour invoquer les Chevaucheurs de Loup"
+"Entraine d'Affreux Loups, des Trolls des neiges,\n et des Trolls des collines\n Requis pour invoquer les Chevaucheurs de Loup"
 END
+
 CONTROLBAR:TooltipUpgradeAngmarDenLevel2
 //"Améliore Den au niveau 2"
 "Permet de recruter les Trolls des neiges \n Vitesse de construction +10%"
 End
+
 CONTROLBAR:TooltipUpgradeAngmarDenLevel3
 //"Améliore Den au niveau 3"
 "Permet de recruter les Trolls des collines \n Vitesse de construction +25%.\n Ajoute une tour d'archers défensive"
 End
+
 TOOLTIP:LackLevel2Den
 "Requiert : niveau 2 Le Repaire de Troll et La Tanière de Loup"
 End
+
 TOOLTIP:LackLevel3Den  
 "Requiert : niveau 3 Le Repaire de Troll et La Tanière de Loup"
 End
@@ -56892,12 +56907,12 @@ End
 CONTROLBAR:ToolTipHwaldarBrigandage
 //"Requiert : niveau 3\n Rhudaur Axe Throwers and Spearmen near the Héros steal resources whenever dealing damage to enemy units.\n\n Capacité passive"
 //"Requiert : niveau 3\n Nearby Rhudaur Spearmen and Axe Throwers gain resources for kills\n\n Capacité passive"
-"Requiert : niveau 3\n Nearby Rhudaur Spearmen, Axe Throwers and Hillmen gain resources for kills\n\nCapacité passive"
+"Requiert : niveau 3\n A proximité des Lanciers du Rhudaur, les Lanceurs de Hache et les Hommes des Collines obtiennent des ressources en tuant des unités \n\n Capacité passive"
 END
 
 CONTROLBAR:ToolTipHwaldarSummonHillmen1
-//"Requiert : niveau 5\n Invoque unordes of Hillsous votreight fôre you\n\nClic gauche sur l'icône puis clic gauche sur une zone praticable"
-"Requiert : niveau 5\n Invoque unhudaur Spearmsous votret for ôoeu\n\nClic gauche sur l'icône puis clic gauche sur une zone praticable"
+//"Requiert : niveau 5 \n Summons hordes of Hillmen to \n fight for you \n\nClic gauche sur l'icône puis clic gauche sur une zone praticable"
+"Requiert : niveau 5 \n Invoque des Lanciers du Rhudaur à se battre pour vous \n\n Clic gauche sur l'icône puis clic gauche sur une zone praticable"
 END
 
 CONTROLBAR:ToolTipMorgomirDreadVisage  
@@ -56925,6 +56940,7 @@ Controlbar:TooltipSpecialAbilityKarshBlink
 //"Requiert : niveau 7\n Karsh can teleport to a selected area\n\nClic gauche sur l'icône puis clic gauche sur une zone praticable"
 "Requiert : niveau 5 \n Karsh peut se téléporter dans une zone sélectionnée \n\n Clic gauche sur l'icône puis clic gauche sur une zone praticable"
 END
+
 CONTROLBAR:TooltipWhisperofDeath
 //"Requiert : niveau 8\n Inflicts massive damage on a non-undead\n unit.\n\nClic gauche sur l'icône puis clic gauche sur la cible unit"
 "Requiert : niveau 8 \n Inflige d'énormes dégâts à une unité non mort-vivante. \n\n Clic gauche sur l'icône puis clic gauche sur la cible unit"
@@ -57128,6 +57144,7 @@ CONTROLBAR:ToolTipCAH_BallLightning_L3
 //"Envoie un éclair qui inflige d'importants dégâts à une cible unique"
 "Envoie un éclair qui inflige d'importants dégâts"
 End
+
 CONTROLBAR:ToolTipCAH_BallLightning_L3_Palantir
 //"Envoie un éclair qui inflige d'importants dégâts à une cible unique.\n\nClic gauche sur l'icône puis clic gauche sur la cible"
 "Envoie un éclair qui inflige d'importants dégâts.\n\nClic gauche sur l'icône puis clic gauche sur la cible"
@@ -57137,38 +57154,47 @@ CONTROLBAR:ToolTipConvertEnemy_L1
 "Convertit définitivement les ennemis dans un étroit rayon"
 //"Convertit temporairement les ennemis dans un étroit rayon"
 End
+
 CONTROLBAR:ToolTipConvertEnemy_L1_Palantir
 "Convertit définitivement les ennemis dans un étroit rayon.\n\nClic gauche sur l'icône puis clic gauche sur la cible"
 //"Convertit temporairement les ennemis dans un étroit rayon.\n\nClic gauche sur l'icône puis clic gauche sur la cible"
 End
+
 CONTROLBAR:ToolTipConvertEnemy_L2
 "Convertit définitivement les ennemis dans un large rayon"
 //"Convertit temporairement les ennemis dans un large rayon"
 End
+
 CONTROLBAR:ToolTipConvertEnemy_L2_Palantir
 "Convertit définitivement les ennemis dans un large rayon\n\nClic gauche sur l'icône puis clic gauche sur la cible"
 //"Convertit temporairement les ennemis dans un large rayon\n\nClic gauche sur l'icône puis clic gauche sur la cible"
 End
+
 CONTROLBAR:ToolTipCAH_Coerce_Level1
 "Le héros peut convertir l'allégeance d'un bataillon ou d'une horde"
 //"Le héros peut temporairement convertir l'allégeance d'un bataillon ou d'une horde"
 End
+
 CONTROLBAR:ToolTipCAH_Coerce_Level1_Palantir
 "Le héros peut convertir l'allégeance d'un bataillon ou d'une horde.\n\nClic gauche sur l'icône puis clic gauche sur la cible"
 //"Le héros peut temporairement convertir l'allégeance d'un bataillon ou d'une horde.\n\nClic gauche sur l'icône puis clic gauche sur la cible"
 End
+
 CONTROLBAR:ToolTipCAH_Coerce_Level2
 "Le héros peut convertir l'allégeance des unités ennemies dans un étroit rayon"
 //"Le héros peut temporairement convertir l'allégeance des unités ennemies dans un étroit rayon"
 End
+
 CONTROLBAR:ToolTipCAH_Coerce_Level2_Palantir
 "Le héros peut convertir l'allégeance des unités ennemies dans un étroit rayon\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
 //"Le héros peut temporairement convertir l'allégeance des unités ennemies dans un étroit rayon\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
 End
+
 CONTROLBAR:ToolTipCAH_Coerce_Level3_Palantir
 "Le héros peut convertir l'allégeance des unités ennemies dans un large rayon\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
 //"Le héros peut temporairement convertir l'allégeance des unités ennemies dans un large rayon\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
 End
+
 CONTROLBAR:ToolTipCAH_Coerce_Level3
 "Le héros peut convertir l'allégeance des unités ennemies dans un large rayon"
 //"Le héros peut temporairement convertir l'allégeance des unités ennemies dans un large rayon"
@@ -57191,6 +57217,7 @@ CONTROLBAR:TooltipCAH_SummonFamiliar_Level1
 //"Le héros invoque une nuée d'oiseaux ayant une vision de portée moyenne et détectant la furtivité."
 "Le héros invoque une nuée d'oiseaux stationnaire qui révèle le brouillard de guerre et détecte les unités furtives."
 End
+
 CONTROLBAR:TooltipCAH_SummonFamiliar_Level1_Palantir
 //"Le héros invoque une nuée d'oiseaux ayant une vision de portée moyenne et détectant la furtivité.\n\nClic gauche sur l'icône puis clic gauche sur une zone praticable"
 "Le héros invoque une nuée d'oiseaux stationnaire qui révèle le brouillard de guerre et détecte les unités furtives.\n\nClic gauche sur l'icône puis clic gauche sur une zone praticable"
@@ -57200,6 +57227,7 @@ CONTROLBAR:TooltipCAH_SummonFamiliar_Level2
 //"Le héros invoque une nuée d'oiseaux ayant une vision de portée bonne et détectant la furtivité."
 "Le héros invoque une nuée d'oiseaux qui révèle le brouillard de guerre et détecte les unités furtives."
 End
+
 CONTROLBAR:TooltipCAH_SummonFamiliar_Level2_Palantir
 //"Le héros invoque une nuée d'oiseaux ayant une vision de portée bonne et détectant la furtivité.\n\nClic gauche sur l'icône puis clic gauche sur une zone praticable"
 "Le héros invoque une nuée d'oiseaux qui révèle le brouillard de guerre et détecte les unités furtives.\n\nClic gauche sur l'icône puis clic gauche sur une zone praticable"
@@ -57248,6 +57276,7 @@ CONTROLBAR:LW_ToolTipBuild_GondorSpearmenHorde
 //"Type d'unité : lanciers.\n\n Forts contre les cavaliers\n "
 "Type d'unité : piquiers d'élite.\n\n Forts contre les cavaliers\n "
 END
+
 CONTROLBAR:LW_ToolTip_GondorSpearmenHorde
 //"\n Type d'unité : lanciers.\n\n Forts contre les cavaliers"
 "Type d'unité : piquiers d'élite.\n\n Forts contre les cavaliers"
@@ -57282,6 +57311,7 @@ CONTROLBAR:LW_ToolTipBuild_GondorRangerHorde
 //"Type d'unité : archers d'élite\n Fort à distance\n "
 "Type d'unité : archers d'élite.\n\n Forts contre les épéistes\n "
 END
+
 CONTROLBAR:LW_ToolTip_GondorRangerHorde
 //"\n Type d'unité : archers d'élite\n Fort à distance"
 "Type d'unité : archers d'élite.\n\n Forts contre les épéistes"
@@ -57290,12 +57320,15 @@ END
 BANNERUI:DunedainRanger
 "Rôdeur Dúnedain"
 END
+
 BANNERUI:DunedainRangers
 "Rôdeurs Dúnedain"
 END
+
 CONTROLBAR:LW_Unit_GondorRangerHordeDunedain
 "Bataillon de Rôdeurs Dúnedain"
 END
+
 CONTROLBAR:LW_Unit_GondorRangerHordeDunedainPlural
 " Bataillons de Rôdeurs Dúnedain"
 END
@@ -57304,6 +57337,7 @@ CONTROLBAR:LW_ToolTipBuild_GondorTrebuchet
 //"Type d'unité : siège.\n\n Forts contre les structures\n "
 "Type d'unité : siège.\n\n Forts contre les structures et les archers\n "
 END
+
 CONTROLBAR:LW_ToolTip_GondorTrebuchet
 //"Type d'unité : siège.\n\n Forts contre les structures\n "
 "Type d'unité : siège.\n\n Forts contre les structures et les archers"
@@ -57353,23 +57387,26 @@ BANNERUI:ElvenLorienArcher
 //"Archer elfe de la Lórien"
 "Archer de la Lórien"
 End
+
 BANNERUI:ElvenLorienArchers
 // Plural name of the Elven Lórien Archer category displayed in the army summary for WotR
 //"Archers elfes de la Lórien"
 "Archers de la Lórien"
 End
+
 CONTROLBAR:LW_ToolTipBuild_ElvenLorienArcherHorde
 //"Type d'unité : archers standards\n Fort à distance\n "
-"Type d'unité : archers standards.\n\n Forts contre les épéistes\n "
+"Type d'unité : archers standards \n\n Forts contre les épéistes\n "
 END
+
 CONTROLBAR:LW_ToolTip_ElvenLorienArcherHorde
 //"\n Type d'unité : archers standards\n Fort à distance"
-"Type d'unité : archers standards.\n\n Forts contre les épéistes"
+"Type d'unité : archers standards \n\n Forts contre les épéistes"
 END
 
 CONTROLBAR:LW_ToolTip_ElvenLorienWardenArcherHorde
 //"\nType d'unité: Basic Archer\nStrong at Range"
-"Type d'unité: Basic Piquiers  and Basic Archer\n Fort contre la Cavalerie and Epéiste"
+"Type d'unité: Piquiers et Archers standards \n Fort contre la Cavalerie et les Epéistes"
 END
 
 BANNERUI:ElvenMithlondSentry
@@ -57377,6 +57414,7 @@ BANNERUI:ElvenMithlondSentry
 //"Sentinelle elfe de Mithlond"
 "Sentinelle de Mithlond"
 End
+
 BANNERUI:ElvenMithlondSentries
 // Plural name of the Lancier elfe d'Imladris category displayed in the army summary for WotR
 //"Sentinelles elfes de Mithlond"
@@ -57388,15 +57426,18 @@ BANNERUI:ElvenMirkwoodArcher
 //"Archer elfe de la Forêt Noire"
 "Archer de la Forêt Noire"
 End
+
 BANNERUI:ElvenMirkwoodArchers
 // Plural name of the Elven Mirkwood Archer category displayed in the army summary for WotR
 //"Archers elfes de la Forêt Noire"
 "Archers de la Forêt Noire"
 End
+
 CONTROLBAR:LW_ToolTipBuild_ElvenMirkwoodArcherHorde
 //"Type d'unité : archers d'élite\n Fort à distance\n "
 "Type d'unité : archers d'élite.\n\n Forts contre les épéistes\n "
 END
+
 CONTROLBAR:LW_ToolTip_ElvenMirkwoodArcherHorde
 //"\n Type d'unité : archers d'élite\n Fort à distance"
 "Type d'unité : archers d'élite.\n\n Forts contre les épéistes"
@@ -57405,20 +57446,24 @@ END
 BANNERUI:ElvenNoldorWarrior
 "Guerrier Ñoldor"
 END
+
 BANNERUI:ElvenNoldorWarriors
 "Guerriers Ñoldor"
 END
+
 CONTROLBAR:LW_Unit_ElvenNoldorWarriorHorde
 "Bataillon de Guerriers Ñoldor"
 END
+
 CONTROLBAR:LW_Unit_ElvenNoldorWarriorHordePlural
 "Bataillons de Guerriers Ñoldor"
 END
+
 CONTROLBAR:LW_ToolTip_NoldorWarriorHorde
-//"Type d'unité : infanterie héroïque.\n\n Fort contre tout"
 "Type d'unité : infanterie héroïque.\n\n Fort contre tout"
 // I don't think this tooltip is used.
 END
+
 CONTROLBAR:LW_ToolTip_ElvenNoldorWarriorHorde
 "Type d'unité : infanterie héroïque.\n\n Fort contre tout"
 END
@@ -57428,6 +57473,7 @@ BANNERUI:ElvenRivendellLancer
 //"Lancier elfe d'Imladris"
 "Lancier d'Imladris"
 End
+
 BANNERUI:ElvenRivendellLancers
 // Plural name of the Lancier elfe d'Imladris category displayed in the army summary for WotR
 //"Lanciers elfes d'Imladris"
@@ -57438,6 +57484,7 @@ CONTROLBAR:LW_ToolTipBuild_ElvenRivendellArcherHorde
 //"Type d'unité : Fast archers.\n\n Fort contre Soldiers\n "
 "Type d'unité : cavalerie standard.\n\n Forts contre les épéistes, Archers, et la cavalerie\n "
 END
+
 CONTROLBAR:LW_ToolTip_ElvenRivendellArcherHorde
 //"Fast Archers, Fort à distance"
 "Type d'unité : cavalerie standard.\n\n Forts contre les épéistes, les archers et la cavalerie"
@@ -57447,6 +57494,7 @@ CONTROLBAR:LW_ToolTipBuild_ElvenEnt
 //"Type d'unité : siège.\n\n Forts contre les structures\n "
 "Type d'unité : siège.\n\n Forts contre les épéistes, les archers, la cavalerie et les structures\n "
 END
+
 CONTROLBAR:LW_ToolTip_ElvenEnt
 //"Type d'unité : siège.\n\n Forts contre les structures\n "
 "Type d'unité : siège.\n\n Forts contre les épéistes, les archers, la cavalerie et les structures"
@@ -57470,15 +57518,18 @@ BANNERUI:DwarvenGuardian
 //"Gardien nain"
 "Guerrier d'Erebor"
 End
+
 BANNERUI:DwarvenGuardians
 // Plural name of the Dwarven Guardian category displayed in the army summary for WotR
 //"Gardiens nains"
 "Guerriers d'Erebor"
 End
+
 CONTROLBAR:LW_Unit_DwarvenGuardianHorde
 //"Bataillon de Gardiens nains"
 "Bataillon de Guerriers d'Erebor"
 END
+
 CONTROLBAR:LW_Unit_DwarvenGuardianHordePlural
 //"Bataillons de Gardiens nains"
 "Bataillons de Guerriers d'Erebor"
@@ -57489,41 +57540,48 @@ BANNERUI:DwarvenPhalanx
 //"Erebor Piquiers "
 "Phalange"
 End
+
 BANNERUI:PluralDwarvenPhalanx
 // Plural name of the Dwarven Phalange category displayed in the army summary for WotR
 //"Erebor Piquiers "
 "Phalange"
 End
+
 CONTROLBAR:LW_Unit_DwarvenPhalanxHorde
 //"Bataillon de Erebor Piquiers "
 "Bataillon de Phalange"
 END
 CONTROLBAR:LW_Unit_DwarvenPhalanxHordePlural
-//"Bataillons de Erebor Piquiers "
 "Bataillons de Piquiers d'Erebor"
 END
+
 CONTROLBAR:LW_ToolTipBuild_DwarvenPhalanxHorde
 //"Type d'unité : piquiers standards.\n\n Forts contre les cavaliers\n "
 "Type d'unité : piquiers d'élite.\n\n Forts contre les cavaliers\n "
 END
+
 CONTROLBAR:LW_ToolTip_DwarvenPhalanxHorde
 //"\n Type d'unité : piquiers standards.\n\n Forts contre les cavaliers"
-"\n Type d'unité : piquiers d'élite.\n\n Forts contre les cavaliers"
+"Type d'unité : piquiers d'élite.\n\n Forts contre les cavaliers"
 END
 
 BANNERUI:DwarvenZerker
 "Tueurs de Wyrms d'Erebor"
 END
+
 BANNERUI:DwarvenZerkers
 "Tueurs de Wyrms d'Erebor"
 END
+
 CONTROLBAR:LW_Unit_DwarvenZerkerHorde
 //"Dwarven Zealots"
 "Bataillon de Tueurs de Wyrms d'Erebor"
 END
+
 CONTROLBAR:LW_Unit_DwarvenZerkerHordePlural
 "Bataillons de Tueurs de Wyrms d'Erebor"
 END
+
 CONTROLBAR:LW_ToolTip_DwarvenZerkerHorde
 //"Type d'unité : infanterie héroïque.\n\n Fort contre tout"
 "Type d'unité : infanterie héroïque.\n\n Fort contre tout"
@@ -57538,23 +57596,28 @@ BANNERUI:DwarvenAxeThrower
 //"Lanceur de haches d'Erebor"
 "Lanceur de haches d'Erebor"
 End
+
 BANNERUI:DwarvenAxeThrowers
 // Plural name of the Dwarven Axe Thrower category displayed in the army summary for WotR
 //"Lanceurs de haches d'Erebor"
 "Lanceurs de haches d'Erebor"
 End
+
 CONTROLBAR:LW_Unit_DwarvenAxeThrowerHorde
 //"Bataillon de Lanceurs de haches d'Erebor"
 "Bataillon de Lanceurs de haches d'Erebor"
 END
+
 CONTROLBAR:LW_Unit_DwarvenAxeThrowerHordePlural
 //"Bataillons de Lanceurs de haches d'Erebor"
 "Bataillons de Lanceurs de haches d'Erebor"
 END
+
 CONTROLBAR:LW_ToolTipBuild_DwarvenAxeThrowerHorde
 //"Type d'unité : archers standards\n Fort à distance\n "
 "Type d'unité : archers standards.\n\n Forts contre les piquiers\n "
 END
+
 CONTROLBAR:LW_ToolTip_DwarvenAxeThrowerHorde
 //"\n Type d'unité : archers standards\n Fort à distance"
 "Type d'unité : archers standards.\n\n Forts contre les piquiers"
@@ -57564,6 +57627,7 @@ CONTROLBAR:LW_ToolTipBuild_DwarvenMenOfDaleHorde
 //"Type d'unité : archers d'élite\n Fort à distance\n "
 "Type d'unité : archers d'élite.\n\n Forts contre les épéistes\n "
 END
+
 CONTROLBAR:LW_ToolTip_DwarvenMenOfDaleHorde
 //"\n Type d'unité : archers d'élite\n Fort à distance"
 "Type d'unité : archers d'élite.\n\n Forts contre les épéistes"
@@ -57574,23 +57638,28 @@ BANNERUI:DwarvenBattleWagon
 //"Chariot de guerre des Monts du Fer"
 "Chariot de guerre des Monts du Fer"
 End
+
 BANNERUI:DwarvenBattleWagons
 // Plural name of the Dwarven Battle Wagon category displayed in the army summary for WotR
 //"Chariots de guerre des Monts du Fer"
 "Chariots de guerre des Monts du Fer"
 End
+
 CONTROLBAR:LW_Unit_DwarvenBattleWagon
 //"Chariot de guerre des Monts du Fer"
 "Chariot de guerre des Monts du Fer"
 END
+
 CONTROLBAR:LW_Unit_DwarvenBattleWagonPlural
 //"Chariots de guerre Nains"
 "Chariots de guerre des Monts du Fer"
 END
+
 CONTROLBAR:LW_ToolTipBuild_DwarvenBattleWagon
 //"Type d'unité : cavalerie standard.\n\n Forts contre les archers\n "
 "Type d'unité : cavalerie standard.\n\n Forts contre les archers et les épéistes\n "
 END
+
 CONTROLBAR:LW_ToolTip_DwarvenBattleWagon
 //"\n Type d'unité : cavalerie standard.\n\n Forts contre les archers"
 "Type d'unité : cavalerie standard.\n\n Forts contre les archers et les épéistes"
@@ -57600,6 +57669,7 @@ CONTROLBAR:LW_ToolTipBuild_DwarvenCatapult
 //"Type d'unité : siège.\n\n Forts contre les structures\n "
 "Type d'unité : siège.\n\n Forts contre les structures et les archers\n "
 END
+
 CONTROLBAR:LW_ToolTip_DwarvenCatapult
 //"Type d'unité : siège.\n\n Forts contre les structures\n "
 "Type d'unité : siège.\n\n Forts contre les structures et les archers"
@@ -57614,6 +57684,7 @@ CONTROLBAR:LW_Unit_IsengardFighterHorde
 //"Horde de Guerriers Uruk"
 "Horde d'Uruk-Haï"
 END
+
 CONTROLBAR:LW_Unit_IsengardFighterHordePlural
 //"Hordes de Guerriers Uruk"
 "Hordes d'Uruk-Haï"
@@ -57623,6 +57694,7 @@ CONTROLBAR:LW_ToolTipBuild_IsengardUrukCrossbowHorde
 //"Type d'unité : archers standards\n Fort à distance\n "
 "Type d'unité : archers d'élite.\n\n Forts contre les épéistes\n "
 END
+
 CONTROLBAR:LW_ToolTip_IsengardUrukCrossbowHorde
 //"\n Type d'unité : archers standards\n Fort à distance"
 "Type d'unité : archers d'élite.\n\n Forts contre les épéistes"
@@ -57660,6 +57732,7 @@ CONTROLBAR:LW_ToolTipBuild_IsengardBeserker
 //"Type d'unité : infanterie d'élite.\n\n Forts contre les piquiers\n "
 "Type d'unité : infanterie d'élite.\n\n Forts contre les épéistes\n "
 END
+
 CONTROLBAR:LW_ToolTip_IsengardBeserker
 //"\n Type d'unité : infanterie d'élite.\n\n Forts contre les piquiers"
 "Type d'unité : infanterie d'élite.\n\n Forts contre les épéistes"
@@ -57668,15 +57741,19 @@ END
 BANNERUI:IsengardFanatic
 "Eclaireur Uruk"
 END
+
 BANNERUI:IsengardFanatics
 "Eclaireurs Uruks"
 END
+
 CONTROLBAR:LW_Unit_IsengardFanaticHorde
 "Horde d'Eclaireurs Uruks"
 END
+
 CONTROLBAR:LW_Unit_IsengardFanaticHordePlural
 "Hordes d'Eclaireurs Uruks"
 END
+
 CONTROLBAR:LW_ToolTip_IsengardFanaticHorde
 "Type d'unité : infanterie d'élite.\n\n Fort contre tout"
 END
@@ -57689,9 +57766,7 @@ CONTROLBAR:LW_ToolTipBuild_IsengardWildmanHorde
 //"Type d'unité : infanterie d'élite.\n\n Forts contre les piquiers\n "
 "Type d'unité : infanterie standard.\n\n Forts contre les piquiers\n "
 END
-//CONTROLBAR:LW_ToolTip_IsengardWildmanHorde
-//"\n Type d'unité : infanterie d'élite.\n\n Forts contre les piquiers"
-//END
+
 CONTROLBAR:LW_ToolTip_IsengardWildmanHorde
 //"\n Type d'unité : épéistes standards.\n\n Forts contre les piquiers"
 "Type d'unité : infanterie standard.\n\n Forts contre les piquiers"
@@ -57701,9 +57776,10 @@ CONTROLBAR:LW_ToolTipBuild_IsengardWildmanAxeHorde
 //"Type d'unité : archers standards\n Fort à distance\n "
 "Type d'unité : archers standards.\n\n Forts contre les piquiers\n "
 END
+
 CONTROLBAR:LW_ToolTip_IsengardWildmanAxeHorde
 //"\n Type d'unité : archers standards.\n\n Forts contre les épéistes"
-"\n Type d'unité : archers standards.\n\n Forts contre les piquiers"
+"Type d'unité : archers standards.\n\n Forts contre les piquiers"
 END
 
 CONTROLBAR:LW_ToolTipBuild_IsengardWargPackHorde
@@ -57711,37 +57787,40 @@ CONTROLBAR:LW_ToolTipBuild_IsengardWargPackHorde
 //"Type d'unité : infanterie standard\n Faible contre les piquiers\n "
 "Type d'unité : cavalerie standard.\n\n Forts contre les épéistes\n "
 End
+
 CONTROLBAR:LW_ToolTip_IsengardWargPackHorde
 //"\n Type d'unité : cavalerie standard.\n\n Forts contre les épéistes et les archers"
 //"\n Type d'unité : cavalerie standard.\n\n Forts contre les archers"
 //"\n Type d'unité : infanterie standard\n Faible contre les piquiers"
-"\n Type d'unité : cavalerie standard.\n\n Forts contre les épéistes\n "
+"Type d'unité : cavalerie standard.\n\n Forts contre les épéistes\n "
 END
+
 BANNERUI:IsengardWargPacks
 "Meutes de Wargs"
 END
+
 CONTROLBAR:LW_Unit_IsengardWargPackHorde
-//"Meute de Wargs"
-"Meute de Wargs Horde"
+"Horde de Meute de Wargs"
 END
+
 CONTROLBAR:LW_Unit_IsengardWargPackHordePlural
-//"Meutes de Wargs"
-"Meute de Wargs Hordes"
+"Hordes de Meutes de Wargs"
 END
 
 BANNERUI:IsengardBallistaPlural
 // Singluar name of the Isengard Phalange category displayed in the army summary for WotR
-//"Balistes"
 "Baliste"
 End
+
 CONTROLBAR:LW_Unit_IsengardBallistaPlural
-//"Balistes"
 "Baliste"
 END
+
 CONTROLBAR:LW_ToolTip_IsengardBallista
 //"\n Type d'unité : siège.\n\n Forts contre les structures"
 "\n Type d'unité : siège.\n\n Forts contre les structures et les archers"
 END
+
 CONTROLBAR:LW_ToolTipBuild_IsengardBallista
 //"\n Type d'unité : siège.\n\n Forts contre les structures"
 "Type d'unité : siège.\n\n Forts contre les structures et les archers\n "
@@ -57751,14 +57830,15 @@ CONTROLBAR:LW_ToolTipBuild_MordorArcherHorde
 //"Type d'unité : archers standards\n Fort à distance\n "
 "Type d'unité : archers standards.\n\n Forts contre les épéistes\n "
 END
+
 CONTROLBAR:LW_ToolTip_MordorArcherHorde
 //"\n Type d'unité : archers standards\n Fort à distance"
-"\n Type d'unité : archers standards.\n\n Forts contre les épéistes"
+"Type d'unité : archers standards.\n\n Forts contre les épéistes"
 END
 
 CONTROLBAR:LW_ToolTip_MordorArcherPikeHorde
 //"\nType d'unité: Archers basiques\nForts à distance"
-"\nType d'unité: Archers basiques et piquiers basiques\nForts contre épéistes et cavalerie"
+"Type d'unité: Archers basiques et piquiers basiques\nForts contre épéistes et cavalerie"
 END
 
 BANNERUI:MordorBlackOrc
@@ -57778,12 +57858,11 @@ END
 
 BANNERUI:MordorCorsairsOfUmbar
 // Singluar name of the Mordor Corsaires d'Umbar category displayed in the army summary for WotR
-//"Corsaire d'Umbar"
 "Corsaire d'Umbar"
 End
+
 BANNERUI:PluralMordorCorsairsOfUmbar
 // Plural name of the Mordor Fighter category displayed in the army summary for WotR
-//"Corsaires d'Umbar"
 "Corsaires d'Umbar"
 End
 
@@ -57791,6 +57870,7 @@ CONTROLBAR:LW_ToolTipBuild_MordorHaradrimArcherHorde
 //"Type d'unité : archers d'élite\n Fort à distance\n "
 "Type d'unité : archers d'élite.\n\n Forts contre les épéistes\n "
 END
+
 CONTROLBAR:LW_ToolTip_MordorHaradrimArcherHorde
 //"\n Type d'unité : archers d'élite\n Fort à distance"
 "\n Type d'unité : archers d'élite.\n\n Forts contre les épéistes"
@@ -57800,6 +57880,7 @@ CONTROLBAR:LW_ToolTipBuild_MordorMountainTroll
 //"Type d'unité : cavalerie standard.\n\n Forts contre les archers\n "
 "Type d'unité : cavalerie standard.\n\n Forts contre les épéistes et la cavalerie\n "
 END
+
 CONTROLBAR:LW_ToolTip_MordorMountainTroll
 //"\n Type d'unité : cavalerie standard.\n\n Forts contre les archers"
 "\n Type d'unité : cavalerie standard.\n\n Forts contre les épéistes et la cavalerie"
@@ -57809,6 +57890,7 @@ CONTROLBAR:LW_ToolTipBuild_MordorDrummerTroll
 //"Type d'unité : unité de soutien.\n\n Forts contre les archers\n "
 "Type d'unité : unité de soutien\n Fournit un bonus de Charisme\n "
 END
+
 CONTROLBAR:LW_ToolTip_MordorDrummerTroll
 //"\n Type d'unité : unité de soutien.\n\n Forts contre les archers"
 "\n Type d'unité : unité de soutien\n Fournit un bonus de Charisme"
@@ -57818,6 +57900,7 @@ CONTROLBAR:LW_ToolTipBuild_MordorAttackTroll
 //"Type d'unité : cavalerie d'élite.\n\n Forts contre les archers\n "
 "Type d'unité : cavalerie d'élite.\n\n Forts contre les épéistes et la cavalerie\n "
 END
+
 CONTROLBAR:LW_ToolTip_MordorAttackTroll
 //"\n Type d'unité : cavalerie d'élite.\n\n Forts contre les archers"
 "\n Type d'unité : cavalerie d'élite.\n\n Forts contre les épéistes et la cavalerie"
@@ -57827,6 +57910,7 @@ CONTROLBAR:LW_ToolTipBuild_MordorCatapult
 //"\n Type d'unité : siège.\n\n Forts contre les structures"
 "Type d'unité : siège.\n\n Forts contre les structures et les archers\n "
 END
+
 CONTROLBAR:LW_ToolTip_MordorCatapult
 //"\n Type d'unité : siège.\n\n Forts contre les structures"
 "\n Type d'unité : siège.\n\n Forts contre les structures et les archers"
@@ -57840,7 +57924,7 @@ BANNERUI:MordorBlackRiders
 END
 CONTROLBAR:LW_Unit_MordorBlackRiderHorde
 //"Les Cavaliers Noirs"
-"Horde des Serviteurs de l'Anneau"
+"Horde de Serviteurs de l'Anneau"
 END
 CONTROLBAR:LW_Unit_MordorBlackRiderHordePlural
 "Hordes des Serviteurs de l'Anneau"
@@ -57852,28 +57936,28 @@ CONTROLBAR:LW_ToolTip_MordorBlackRiderHorde
 END
 
 CONTROLBAR:LW_Unit_MordorMumakil
-//"Mûmak"
 "Mûmak"
 END
 CONTROLBAR:LW_Unit_MordorMumakilPlural
-//"Mûmakil"
 "Mûmakil"
 END
+
 BANNERUI:Mumakil
 // Singluar name of the Mûmakil category displayed in the army summary from the banner ui
-//"Mumakil"
 "Mûmak"
 END
+
 BANNERUI:MordorMumakil
 // Singluar name of the Mordor Mûmakil category displayed in the army summary for WotR
-//"Mûmakil"
 "Mûmak"
 End
+
 CONTROLBAR:LW_ToolTipBuild_MordorMumakil
 //"Type d'unité : cavalerie d'élite.\n\n Forts contre les archers\n "
 //"Type d'unité : siège.\n\n Forts contre les épéistes, la cavalerie, les structures et les héros\n "
 "Type d'unité : cavalerie d'élite.\n\n Forts contre les épéistes, la cavalerie, les structures et les héros\n "
 END
+
 CONTROLBAR:LW_ToolTip_MordorMumakil
 //"\n Type d'unité : cavalerie d'élite.\n\n Forts contre les archers"
 //"\n Type d'unité : siège.\n\n Forts contre les épéistes, la cavalerie, les structures et les héros"
@@ -57887,13 +57971,11 @@ END
 
 BANNERUI:GoblinWarrior
 // Singluar name of the Guerrier Gobelin category displayed in the army summary for WotR
-//"Guerriers Gobelins"
 "Guerrier Gobelins de la Moria"
 End
 
 BANNERUI:GoblinArcher
 // Singluar name of the Archer Gobelin category displayed in the army summary for WotR
-//"Archers Gobelins"
 "Archer Gobelins de la Moria"
 End
 
@@ -57901,6 +57983,7 @@ CONTROLBAR:LW_ToolTipBuild_WildMarauderHorde
 //"Type d'unité : piquiers standards.\n\n Forts contre les cavaliers\n "
 "Type d'unité : piquiers d'élite.\n\n Forts contre les cavaliers\n "
 END
+
 CONTROLBAR:LW_ToolTip_WildMarauderHorde
 //"\n Type d'unité : piquiers standards.\n\n Forts contre les cavaliers"
 "\n Type d'unité : piquiers d'élite.\n\n Forts contre les cavaliers"
@@ -57910,6 +57993,7 @@ CONTROLBAR:LW_ToolTipBuild_GoblinCaveTroll
 //"Type d'unité : cavalerie standard.\n\n Forts contre les épéistes et les structures."
 "Type d'unité : cavalerie standard.\n\n Forts contre les épéistes et la cavalerie\n "
 END
+
 CONTROLBAR:LW_ToolTip_GoblinCaveTroll
 //"\n Type d'unité : cavalerie standard.\n\n Forts contre les épéistes et les structures."
 "\n Type d'unité : cavalerie standard.\n\n Forts contre les épéistes et la cavalerie"
@@ -57919,24 +58003,28 @@ CONTROLBAR:LW_ToolTipBuild_WildMountainGiant
 //"\n Type d'unité : siège.\n\n Forts contre les épéistes et les structures."
 "Type d'unité : siège.\n\n Forts contre les épéistes, la cavalerie, et les structures.\n "
 END
+
 CONTROLBAR:LW_ToolTip_WildMountainGiant
 //"Type d'unité : siège.\n\n Forts contre les épéistes et les structures.\n "
-"\n Type d'unité : siège.\n\n Forts contre les épéistes, la cavalerie, et les structures."
+"Type d'unité : siège.\n\n Forts contre les épéistes, la cavalerie, et les structures."
 END
 
 BANNERUI:WildBabyDrake
 "Couvée de Drakes de feu"
 END
+
 BANNERUI:WildBabyDrakes
 "Couvée de Drakes de feus"
 END
+
 CONTROLBAR:LW_Unit_WildBabyDrakeHorde
-//"Couvée de Drakes de feu"
-"Couvée de Drakes de feu Horde"
+"Horde de Couvée de Drakes de feu"
 END
+
 CONTROLBAR:LW_Unit_WildBabyDrakeHordePlural
-"Couvée de Drakes de feu Hordes"
+"Hordes de Couvées de Drakes de feu"
 END
+
 CONTROLBAR:LW_ToolTip_WildBabyDrakeHorde
 //"Type d'unité : héros Monsters.\n\n Fort contre tout"
 "Type d'unité : héros Support\n Weak contre Archers"
@@ -57946,17 +58034,17 @@ CONTROLBAR:LW_ToolTipBuild_WildSpiderlingHorde
 //"Type d'unité : cavalerie standard.\n\n Forts contre les épéistes"
 "Type d'unité : infanterie d'élite\n Faible contre les piquiers\n "
 END
+
 CONTROLBAR:LW_ToolTip_WildSpiderlingHorde
 //"\n Type d'unité : cavalerie standard.\n\n Forts contre les épéistes"
 "\n Type d'unité : infanterie d'élite\n Faible contre les piquiers"
 END
 
 CONTROLBAR:LW_Unit_GoblinSpiderRiderHorde
-//"Spider Rider Horde"
 "Horde de Chevaucheurs d'araignées gobelin"
 END
+
 CONTROLBAR:LW_Unit_GoblinSpiderRiderHordePlural
-//"Spider Rider Hordes"
 "Hordes de Chevaucheurs d'araignées gobelin"
 END
 
@@ -57974,6 +58062,7 @@ CONTROLBAR:LW_ToolTipBuild_AngmarThrallMaster
 //"Type d'unité : divers\n "
 "Type d'unité : Unité de soutien faible \n Polyvalente"
 END
+
 CONTROLBAR:LW_ToolTip_AngmarThrallMaster
 //"Type d'unité : divers\n "
 "Type d'unité : Unité de soutien faible \n Polyvalente"
@@ -57987,6 +58076,7 @@ CONTROLBAR:LW_ToolTipBuild_AngmarDarkRangerHorde
 //"Type d'unité : archers d'élite\n Fort à distance\n "
 "Type d'unité : archers d'élite.\n\n Forts contre les épéistes\n "
 END
+
 CONTROLBAR:LW_ToolTip_AngmarDarkRangerHorde
 //"Type d'unité : archers d'élite\n Fort à distance\n "
 "Type d'unité : archers d'élite.\n\n Forts contre les épéistes"
@@ -57995,9 +58085,11 @@ END
 CONTROLBAR:LW_Unit_AngmarDireWolfHorde
 "Horde d'Affreux Loups"
 END
+
 CONTROLBAR:LW_Unit_AngmarDireWolfHordePlural
 "Hordes d'Affreux Loups"
 END
+
 CONTROLBAR:LW_ToolTipBuild_AngmarDireWolfHorde
 //"Type d'unité : Fast Infantrie.\n\n Forts contre les archers et les piquiers\n "
 "Type d'unité : infanterie standard\n Très forts contre les piquiers\n "
@@ -58330,9 +58422,9 @@ END
 
 CONTROLBAR:ToolTipGothmogDayoftheOrc
 //"Requiert : Niveau 6 \n Orques near Gothmog gain \n +50% Damage, +50% Armor, \n Capacité passive       Does not stack"
-//"Requiert : Niveau 6 \n Orques near Gothmog gain \n +33% Damage, +33% Armor,\nand earn experience twice as fast\n Capacité passive"
-//"Requiert : Niveau 6 \n Orques near Gothmog gain \n +33% Damage, +33% Armor,\nand earn experience 50% faster\n Capacité passive"
-"Requiert : Niveau 5 \n Orques near Gothmog gain \n +33% Damage, +33% Armor,\nand earn experience 50% faster\n Capacité passive"
+//"Requiert : Niveau 6 \n Orques near Gothmog gain \n +33% Damage, +33% Armor,\n and earn experience twice as fast\n Capacité passive"
+//"Requiert : Niveau 6 \n Orques near Gothmog gain \n +33% Damage, +33% Armor,\n and earn experience 50% faster\n Capacité passive"
+"Requiert : Niveau 5 \n Les Orques à proximité de Gothmog gagnent \n +33% de Dégâts, +33% d'Armure,\n et gagnent 50% d'expérience plus vite \n Capacité passive"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityGothmogCarnage
@@ -60151,11 +60243,11 @@ CONTROLBAR:LW_ToolTip_GondorLinhirPikeHorde
 END
 
 CONTROLBAR:ToolTipBuildGondorLinhirPikeHorde
-"Linhir est une ville du Gondor se situant dans la région du Lebennin, au confluent du Gilrain et du Serni. Au cours des derniers jours de la Guerre de l'Anneau, les hommes de Linhir résistèrent vaillamment contre un assaut combiné de corsaires et d'Haradrim.\n\nPeuvent changer de formation pour améliorer leurs défenses.\n\nForts contre la cavalerie"
+"Linhir est une ville du Gondor se situant dans la région du Lebennin, au confluent du Gilrain et du Serni. Au cours des derniers jours de la Guerre de l'Anneau, les Hommes de Linhir résistèrent vaillamment contre un assaut combiné de Corsaires et d'Haradrim.\n\nPeuvent changer de formation pour améliorer leurs défenses.\n\nForts contre la cavalerie"
 END
 
 CONTROLBAR:ToolTipBuildGondorLinhirPikeHorde_SwornAllegiance
-"Fort contre la Cavalerie and Heroes \n Able to switch formation for improved defensive capabilities \n Come equipped with Armaments of the White City \n \n During the last days of the War of the Ring, the Men of Linhir stood valiantly against a combined assault of Corsairs and Haradrim."
+"Fort contre la Cavalerie et les Héros \n Capable de changer de formation pour de meilleures capacités défensives \n Ils se sont équipés des armements de la Cité Blanche \n\n Pendant les derniers jours de la Guerre de l'Anneau, les Hommes de Linhir ont vaillamment résisté à l'assaut combiné des Corsaires et du Haradrim."
 END
 
 CONTROLBAR:LW_ToolTipBuild_GondorLinhirPikeHorde
@@ -61757,7 +61849,7 @@ CONTROLBAR:ToolTipGolfimbulWargSummon
 END
 
 CONTROLBAR:GolfimbulHatred
-"Ennemis Jurés"
+"La Haine du Beau Peuple"
 END
 
 CONTROLBAR:TooltipGolfimbulHatred
@@ -62474,7 +62566,7 @@ CONTROLBAR:LW_ToolTip_ElvenNandorBlademasterHorde
 END
 
 CONTROLBAR:LW_ToolTip_ElvenNandorBlademasterHorde_WOTR
-"12 Nandor Hîr-Hathol\n\nType d'unité: Héros Unit \n Fort contre les Piquiers and Infantrie"
+"12 Nandor Hîr-Hathol \n\n Type d'unité: Unité Héroïque \n Fort contre les Piquiers et l'Infantrie"
 END
 
 CONTROLBAR:ToolTipBuildNandorBlademasterHorde
@@ -62494,7 +62586,7 @@ CONTROLBAR:NandorUnscathed
 END
 
 CONTROLBAR:ToolTipPalaceGUnscathed
-"Requiert : Niveau 2\n The Palace Guard temporarily gain +60% Armor and is resistant to knockback but lose 40% speed \n Clic gauche pour activer"
+"Requiert : Niveau 2 \n La Garde du Palais gagne temporairement +60% d'Armure et résiste aux renversements mais perd 40% de vitesse \n Clic gauche pour activer"
 END
 
 CONTROLBAR:PalaceGUnscathed
@@ -63109,7 +63201,7 @@ CONTROLBAR:RallyingCallRivendell
 END
 
 CONTROLBAR:TooltipRallyingCallRivendell
-"Type d'Action : Bonus \n Targeted allies gain +50% dégâts and +50% armure \n Se cumule avec les charismes et les sorts \n\nClic gauche sur l'icône puis clic gauche sur les unités ciblées"
+"Type d'Action : Bonus \n Les Alliés ciblés gagnent +50% de Dégâts et +50% d'Armure \n Se cumule avec les charismes et les sorts \n\n Clic gauche sur l'icône puis clic gauche sur les unités ciblées"
 END
 
 CONTROLBAR:OldKingdom
@@ -63306,7 +63398,7 @@ CONTROLBAR:OakenBird
 END
 
 CONTROLBAR:TooltipOakenBird
-"Requiert : niveau 2 \n Heals nearby friendly units \n\nClic gauche pour activer"
+"Requiert : niveau 2 \n Soigne les unités amies proches \n\n Clic gauche pour activer"
 END
 
 CONTROLBAR:ThrainSmash
@@ -63318,11 +63410,11 @@ CONTROLBAR:ToolTipThrainSmash
 END
 
 CONTROLBAR:ThrorLeadership
-"King of Durin's Folk"
+"Roi du Peuple de Durin"
 End
 
 CONTROLBAR:ToolTipThrorLeadership
-"Type d'Action : harisme \n Les alliés proches du Roi Thrór gagnent +50% dégâts, +75% armure, et gagnent de l'expérience 50% plus rapidement (bonus cumulable) \n\nCapacité passive"
+"Type d'Action : Charisme \n Les alliés proches du Roi Thrór gagnent +50% dégâts, +75% armure, et gagnent de l'expérience 50% plus rapidement (bonus cumulable) \n\nCapacité passive"
 END
 
 CONTROLBAR:YoungThorinLeadership
@@ -63848,11 +63940,11 @@ CONTROLBAR:ToolTipBuildDwalin
 END
 
 CONTROLBAR:DwalinRecruit
-"Recrutez le frère de Balin.\n\nDwalin combat aux côtés de Thorin Écu-de-Chêne depuis longtemps. Il est le plus grand Nain du groupe et c'est un guerrier redoutable qui a déjà affronté toutes sortes d'ennemis. Il sait manier toutes les armes, et sert souvent de point de ralliement à ses camarades au milieu de la mêlée.\n\n'Les terres sauvages ne sont fait faites pour les gens de bonne famille qui ne savent ni se battre ni se débrouiller seuls.'"
+"Recrutez le frère de Balin. \n\n Dwalin combat aux côtés de Thorin Écu-de-Chêne depuis longtemps. Il est le plus grand Nain du groupe et c'est un guerrier redoutable qui a déjà affronté toutes sortes d'ennemis. Il sait manier toutes les armes, et sert souvent de point de ralliement à ses camarades au milieu de la mêlée.\n\n'Les terres sauvages ne sont fait faites pour les gens de bonne famille qui ne savent ni se battre ni se débrouiller seuls.'"
 END
 
 CONTROLBAR:DwalinRevive
-"Rappelez Dwalin à la vie"
+"Réssucite le Héros Déchu, Dwalin"
 END
 
 CONTROLBAR:DwalinHotkey
@@ -64017,7 +64109,7 @@ CONTROLBAR:ToolTipGandalfGloriousCharge
 END
 
 CONTROLBAR:ToolTipRivendellGandalfGloriousCharge
-"Nearby archers gain +20% range and +15% damage \n Clic gauche pour activer"
+"Les Archers proches gagnent +20% de Portée et +15% de Dégâts \n Clic gauche pour activer"
 END
 
 CONTROLBAR:ToolTipFellowshipGandalfGloriousCharge
@@ -64857,7 +64949,7 @@ CONTROLBAR:LAVeteranManyWars
 End
 
 CONTROLBAR:ToolTipLAVeteranManyWars
-"Les Vétérans ont mené de nombreuses batailles et ont été témoins de grands triomphes et de défaites tragiques, \n and are learned in the art of war.\n\n Les troupes alliés proches +25% d'obtention d'expérience. \n Capacité passive"
+"Les Vétérans ont mené de nombreuses batailles et ont été témoins de grands triomphes, de défaites tragiques, \n et ont acquis un savoir dans l'art de la guerre. \n\n Les troupes alliés proches +25% d'obtention d'expérience. \n Capacité passive"
 End
 
 CONTROLBAR:LAVeteranEregion
@@ -65388,7 +65480,7 @@ CONTROLBAR:GilGaladLeadership
 END
 
 CONTROLBAR:ToolTipGilGaladLeadership
-"Après la destruction du Beleriand à la fin du premier Age, Ereinion Gil-galad alla à l'est à travers l'Ered Luin et forgea le royaume Noldorin au Lindon. De nombreux elfes se joignirent à eux, and for much of the second age, his realm was a place of beauty and wisdom, firmly arrayed against Sauron's slow encroachment. \n\n Les alliés proches de Gil-galad gagnent \n +33% de dégâts, +33% d'armure, \n et gagnent de l'expérience 50% plus rapidement.\n\n Capacité passive"
+"Après la destruction du Beleriand à la fin du Premier Âge, Ereinion Gil-galad alla à l'est à travers l'Ered Luin et forgea le royaume Noldorin au Lindon. De nombreux elfes se joignirent à eux, et pendant une grande partie du Deuxième Âge, son Royaume était un lieu de beauté et de sagesse, solidement ancrée contre le lent empiétement de Sauron. \n\n Les alliés proches de Gil-galad gagnent \n +33% de dégâts, +33% d'armure, \n et gagnent de l'expérience 50% plus rapidement.\n\n Capacité passive"
 END
 
 CONTROLBAR:GilGaladAeglosLance
@@ -67709,7 +67801,7 @@ CONTROLBAR:WestfoldHorn
 END
 
 CONTROLBAR:TooltipWestfoldHorn
-"Type d'Action : Bonus \n Les alliés ciblé gagnent +50% de Dégâts et +50% d'Armure \n S'accumule avec le Charisme et les Sorts \n Une fois utilisé, déverouille passivements Erkenbrand and les Ouestfoldes \n Clic gauche sélectionner Clic gauche sur unités ciblé "
+"Type d'Action : Bonus \n Les alliés ciblé gagnent +50% de Dégâts et +50% d'Armure \n S'accumule avec le Charisme et les Sorts \n Une fois utilisé, déverouille passivements Erkenbrand et les Ouestfoldes \n Clic gauche sélectionner Clic gauche sur unités ciblé "
 END
 
 CONTROLBAR:TooltipWestfoldHorn_WOTR
@@ -68058,7 +68150,7 @@ CONTROLBAR:TheodredPrinceRiddermark
 END
 
 CONTROLBAR:ToolTipTheodredPrinceRiddermark
-"Requiert : Niveau 5 \n Théodred équipe sa cape royale \n Type d'Action : Charisme \n Accorde +20% aux Armures and +10% aux Dégâts d'Attaques, vitesse de déplacement et régénération de santé \n pour Théoden, Éomer et Éowyn \n Les unités proches gagnent +35% de Dégâts \n S'accumule avec les Bonus et les Sorts \n Capacité passive"
+"Requiert : Niveau 5 \n Théodred équipe sa cape royale \n Type d'Action : Charisme \n Accorde +20% aux Armures et +10% aux Dégâts d'Attaques, vitesse de déplacement et régénération de santé \n pour Théoden, Éomer et Éowyn \n Les unités proches gagnent +35% de Dégâts \n S'accumule avec les Bonus et les Sorts \n Capacité passive"
 END
 
 CONTROLBAR:TheodredDetermination
@@ -68102,7 +68194,7 @@ CONTROLBAR:EowynLeadership
 END
 
 CONTROLBAR:ToolTipEowynLeadership
-"Type d'Action : Charisme \n Les paysans près de Eowyn obtiennent +25% d'Armure, and gagnent de l'expérience 100% plus vite \n S'accumule avec les Bonus et les Sorts \n Capacité passive"
+"Type d'Action : Charisme \n Les paysans près de Eowyn obtiennent +25% d'Armure, et gagnent de l'expérience 100% plus vite \n S'accumule avec les Bonus et les Sorts \n Capacité passive"
 END
 
 CONTROLBAR:EowynReadiness
