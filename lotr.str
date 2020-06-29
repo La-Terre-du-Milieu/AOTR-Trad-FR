@@ -28580,7 +28580,7 @@ CONTROLBAR:ToolTipElvenEntMoot
 END
 
 CONTROLBAR:ConstructEregionForge
-"Construire une Réserve de Bois Doré [&G]"
+"Construire une Réserve du Bois Doré [&G]"
 END
 
 CONTROLBAR:ToolTipEregionForge
@@ -28588,7 +28588,7 @@ CONTROLBAR:ToolTipEregionForge
 END
 
 CONTROLBAR:PurchaseUpgradeEregionForgeLevel2
-"Améliore l'Atelier des Âges au niveau 2"
+"Améliore la Réserve du Bois Doré au niveau 2"
 END
 
 CONTROLBAR:ToolTipBuildEregionForgeLevel2
@@ -28596,7 +28596,7 @@ CONTROLBAR:ToolTipBuildEregionForgeLevel2
 END
 
 CONTROLBAR:PurchaseUpgradeEregionForgeLevel3
-"Améliore l'Atelier des Âges au niveau 3"
+"Améliore la Réserve du Bois Doré au niveau 3"
 END
 
 CONTROLBAR:ToolTipGreenPasture
@@ -28802,7 +28802,7 @@ OBJECT:ElvenWellDescription
 END
 
 OBJECT:ErgionForge
-"Atelier des Âges"
+"La Réserve du Bois Doré"
 END
 
 OBJECT:ElvenFortress
@@ -29322,19 +29322,19 @@ CONTROLBAR:LW_ToolTip_ElvenFortress
 END
 
 CONTROLBAR:LW_Structure_ElvenBarracks
-"Caserne elfe"
+"Garnison du Bois Doré"
 END
 
 CONTROLBAR:LW_ToolTipBuild_ElvenBarracks
-"Type de structure : Caserne\n Entraîne les unités elfes\n "
+"Type de structure : Caserne \n Entraîne les unités elfes"
 END
 
 CONTROLBAR:LW_ToolTip_ElvenBarracks
-"Type de structure : Caserne\n Entraîne les unités elfes"
+"Type de structure : Caserne \n Entraîne les unités elfes"
 END
 
 CONTROLBAR:LW_Structure_ElvenEregionForge
-"Atelier des Âges"
+"La Réserve du Bois Doré"
 END
 
 CONTROLBAR:LW_ToolTipBuild_ElvenEregionForge
@@ -36279,7 +36279,7 @@ OBJECT:Wyrm
 END
 
 TOOLTIP:LackLevel2EregionForge
-"Requiert : Atelier des Âges niveau 2"
+"Requiert : La Réserve du Bois Doré niveau 2"
 END
 
 //TOOLTIP:LackLevel3ArcheryRange
@@ -36335,7 +36335,7 @@ TOOLTIP:LackArnorFireArrowsTechnology
 END
 
 TOOLTIP:LackSilverthornTechnology
-"Requiert : Atelier des Âges niveau 2"
+"Requiert : La Réserve du Bois Doré niveau 2"
 END
 
 ToolTip:LackMorgulSorcery
@@ -42044,7 +42044,7 @@ TOOLTIP:LackLevel2DwarvenWorkshop
 END
 
 ToolTip:LackElvenForgedBlades
-"Recherchez l'amélioration dans l'Atelier des Âges pour activer cet équipement \n Lorsqu'elle est équipée, les dégâts infligés par les armes de mêlée sont augmentés."
+"Recherchez l'amélioration dans la Réserve du Bois Doré pour activer cet équipement \n Lorsqu'elle est équipée, les dégâts infligés par les armes de mêlée sont augmentés."
 END
 
 ToolTip:LackElvenForgedBladesRohanInn
@@ -42060,7 +42060,7 @@ TOOLTIP:LacksTechnologyMirkwoodSilverthornArrows
 END
 
 TOOLTIP:LacksTechnologyElvenSilverthornArrows
-"Recherchez l'amélioration dans l'Atelier des Âges pour activer cet équipement. \n Lorsqu'elle est équipée, les dégâts des flèches sont augmentés de manière significative."
+"Recherchez l'amélioration dans la Réserve du Bois Doré pour activer cet équipement. \n Lorsqu'elle est équipée, les dégâts des flèches sont augmentés de manière significative."
 END
 
 TOOLTIP:LacksTechnologyElvenSilverthornArrows_RohanInn
@@ -42068,11 +42068,11 @@ TOOLTIP:LacksTechnologyElvenSilverthornArrows_RohanInn
 END
 
 TOOLTIP:LackElvenHeavyArmor
-"Recherchez l'amélioration dans l'Atelier des Âges. Lorsqu'elle est équipée, réduit significativement les dégâts reçus."
+"Recherchez l'amélioration dans la Réserve du Bois Doré. Lorsqu'elle est équipée, réduit significativement les dégâts reçus."
 END
 
 TOOLTIP:LackElvenBasicTraining
-"Recherchez l'amélioration Porte-étendard dans l'Atelier des Âges.\n Lorsqu'il est équipé, ce bataillon passe au niveau 2"
+"Recherchez l'amélioration Porte-étendard dans la Réserve du Bois Doré.\n Lorsqu'il est équipé, ce bataillon passe au niveau 2"
 END
 
 TOOLTIP:LackLorienBasicTraining
@@ -42088,7 +42088,7 @@ TOOLTIP:LackMirkwoodBasicTraining
 END
 
 TOOLTIP:LackElderRacesBasicTraining
-"Recherchez l'amélioration Porte-étendard dans l'Atelier des Âges.\n Lorsqu'il est équipé, ce bataillon passe au niveau 2"
+"Recherchez l'amélioration Porte-étendard dans la Réserve du Bois Doré.\n Lorsqu'il est équipé, ce bataillon passe au niveau 2"
 END
 
 ToolTip:LackMordorHeavyArmor
@@ -42742,11 +42742,11 @@ UPGRADE:ElvenBarracksLevel3
 END
 
 UPGRADE:EregionForgeLevel2
-"Atelier des Âges niveau 2"
+"la Réserve du Bois Doré niveau 2"
 END
 
 UPGRADE:EregionForgeLevel3
-"Atelier des Âges niveau 3"
+"la Réserve du Bois Doré niveau 3"
 END
 
 UPGRADE:ElvenGreenPastureLevel2
@@ -62606,7 +62606,7 @@ CONTROLBAR:ToolTipPurchaseUpgradeElvenFortressFlamingMunitions
 END
 
 CONTROLBAR:ConstructEregionForge
-"Construire un Atelier des Âges [&G]"
+"Construire La Réserve du Bois Doré [&G]"
 END
 
 CONTROLBAR:ToolTipEregionForge
