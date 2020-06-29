@@ -167,7 +167,7 @@ Team:4
 END
 
 Team:AI
-"CPU"
+"IA"
 END
 
 // context:
@@ -698,7 +698,7 @@ APT:LobbyGameTypeTiltle
 END
 
 APT:LobbyMapTiltle
-"Current Map"
+"Carte actuelle"
 END
 
 APT:Map
@@ -728,7 +728,7 @@ END
 
 APT:HeaderPlayers
 //Player List header in Clans and Chat in Multiplayer setup
-"Players"
+"Joueurs"
 END
 
 APT:HeaderClanName
@@ -2054,7 +2054,7 @@ END
 
 GUI:Play
 // context: Button to start a game
-"Play Game"
+"Jouer"
 END
 
 GUI:Stats
@@ -2104,7 +2104,7 @@ END
 
 GUI:PlayerObserver
 // context: in-game status of players in multiplayer games. The player is in the game
-"Observing"
+"Observateur"
 END
 
 GUI:PlayerObservingAll
@@ -2230,7 +2230,7 @@ END
 
 GUI:Start
 // context: Button to start a game
-"PLAY GAME"
+"JOUER"
 END
 
 GUI:Stop
@@ -4837,7 +4837,7 @@ END
 
 QM:STARTINGGAME
 // context: The match is starting
-"Starting the game..."
+"Lancement de la partie..."
 END
 
 QM:COULDNOTFINDBOT
@@ -5640,27 +5640,27 @@ END
 
 LAN:ErrorTimeout
 // context: Connection timed out before completion
-"Connection timed out."
+"Le délais de connexion est dépassé."
 END
 
 LAN:ErrorGameFull
 // context: the game you are trying to connect is full
-"This game is full."
+"La partie est complète."
 END
 
 LAN:ErrorDuplicateName
 // context: ther is another player in the game with the same name
-"Duplicate name already in game."
+"Ce nom est déjà utilisé par un autre joueur."
 END
 
 LAN:ErrorCRCMismatch
 // context: when a multiplayer game losses syncronization data between the different players this message is displayed on screen in a dialog box. (CRC is a checksum term frecuently used in computers)
-"Game has detected a mismatch. This means the multiplayer game has lost synchronization data between the players. It is possible that your opponent has modified their version of the game."
+"Le jeu a détecté une incompatibilité. La synchronisation entre les joueurs a été perdue. Il est possible que vos adversaires aient modifié la version de leur jeu."
 END
 
 LAN:ErrorGameStarted
 // context: the game you are trying to connect has already started
-"Sorry, this game has already started."
+"Désolé, cette partie a déjà commencée."
 END
 
 LAN:ErrorGameExists
@@ -5695,7 +5695,7 @@ END
 
 LAN:HostCanceledGame
 // Context : Host stops the countdown to start a game
-"The host has cancelled the countdown."
+"L'hôte a arrêté le compte à rebours."
 END
 
 LAN:NoMapSelected
@@ -5704,18 +5704,18 @@ LAN:NoMapSelected
 END
 
 LAN:HostCanceledGameBecausePlayerLeave
-"The countdown has stopped because a player has left the game."
+"Le compte à rebours s'est arrêté parce qu'un joueur à quitté la partie."
 END
 
 LAN:CountdownStoppedGeneric
-"The countdown has stopped because the game settings have changed."
+"Le compte à rebours s'est arrêté parce que les paramètres de la partie ont été modifiés."
 END
 
 // End LAN
 
 Network:PlayerLeft
 // context: Player %ls (player name) has exit the game
-"%ls left the game."
+"%ls a quitté la partie."
 END
 
 INI:MissingDisplayName
@@ -5730,7 +5730,7 @@ END
 
 INI:FactionObserver
 // context: Join a game not as a player but as an observer
-"Observer"
+"Observateur"
 END
 
 INI:FactionCivilian
@@ -48193,7 +48193,7 @@ CONTROLBAR:ConstructArnorFarm
 END
 
 CONTROLBAR:ConstructArnorBarracks
-"Construire un Quartier d'Imladris [&D]"
+"Construire un Quartier &d'Imladris"
 END
 
 CONTROLBAR:ToolTipConstructArnorBarracks
