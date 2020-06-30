@@ -598,7 +598,7 @@ END
 
 APT:PlayGame
 // context: "Play Game" button in quickmatch screen
-"PLAY GAME"
+"JOUER"
 END
 
 APT:Objectives
@@ -4914,7 +4914,7 @@ END
 
 GUI:SandboxMode
 // context: message shown when starting a multiplayer game with less than 2 teams
-"Entering sandbox mode..."
+"Vous entrez dans le mode jeu libre..."
 END
 
 GUI:NeedStartSpots
@@ -8050,7 +8050,7 @@ CONTROLBAR:TrollFindRock
 END
 
 CONTROLBAR:TrollFindTastyOrc
-"Trouver un Orque à manger [&I]"
+"Trouver un Orque à manger (&I)"
 END
 
 CONTROLBAR:TrollFindOrcToHold
@@ -8066,7 +8066,7 @@ CONTROLBAR:GrabAndEatPassenger
 END
 
 CONTROLBAR:SpecialAbilityIgnite
-"Embrasement [&I]"
+"Embrasement (&I)"
 END
 
 CONTROLBAR:SpecialAbilityFlamingSword
@@ -8196,7 +8196,7 @@ CONTROLBAR:TransportExit
 END
 
 CONTROLBAR:TransportExitTreebeard
-"Descendre de l'Arbre [&I]"
+"Descendre de l'Arbre (&I)"
 END
 
 CONTROLBAR:SetRallyPoint
@@ -11516,7 +11516,7 @@ SCRIPT:Objective_G01_05
 END
 
 SCRIPT:Objective_G01_06
-"Entrainez un bataillon de guerriers de la Lorien depuis votre Caserne."
+"Entraînez un bataillon de guerriers de la Lorien depuis votre Caserne."
 END
 
 SCRIPT:Complete_G01_06a
@@ -11609,7 +11609,7 @@ SCRIPT:Hint_G01_09
 END
 
 SCRIPT:Hint_G01_10
-"Vous pouvez dorénavant entrainer des archers de la Lorien depuis votre caserne." 
+"Vous pouvez dorénavant entraîner des archers de la Lorien depuis votre caserne." 
 END
 
 SCRIPT:Hint_G01_11
@@ -11733,7 +11733,7 @@ SCRIPT:OBJECTIVE_G02_01F
 End
 
 SCRIPT:ANNOUNCEMENT_G02_01F
-"Entrainez des Archers de la Lórien depuis la Caserne et des Lanciers d'Imladris depuis les Verts Paturages et nous pourrons nous aventurer dans le Col." 
+"Entraînez des Archers de la Lórien depuis la Caserne et des Lanciers d'Imladris depuis les Verts Paturages et nous pourrons nous aventurer dans le Col." 
 End
 
 SCRIPT:COMPLETED_G02_01F
@@ -12983,7 +12983,7 @@ SCRIPT:EvilLorienHintText_ObjectivesReminder
 END
 
 SCRIPT:EvilLorienHintText_BuildForces
-"N'oubliez pas d'entrainer plus de gobelins et de trolls depuis votre base\n pour être sur de conquérir la Lothlorien."
+"N'oubliez pas d'entraîner plus de gobelins et de trolls depuis votre base\n pour être sur de conquérir la Lothlorien."
 END
 
 SCRIPT:EvilLorienHintText_TrollsVsBuildings
@@ -13123,7 +13123,7 @@ SCRIPT:Complete_SPELorien_05
 END
 
 SCRIPT:OBJECTIVE_SPELorien_06
-"Entrainez un troll des cavernes depuis la fissure améliorée."
+"Entraînez un troll des cavernes depuis la fissure améliorée."
 END
 
 SCRIPT:Complete_SPELorien_06
@@ -14633,7 +14633,7 @@ CONTROLBAR:ConstructMenPorter
 END
 
 CONTROLBAR:ToolTipConstructMenPorter
-"Entraîner un bâtisseur\n Construit des structures"
+"Entraîne un bâtisseur\n Construit des structures"
 END
 
 CONTROLBAR:ConstructMenFarm
@@ -14926,7 +14926,7 @@ CONTROLBAR:ToolTipGondorKeep
 END
 
 CONTROLBAR:ToolTipGondorBuildStatue
-"Bonus de charisme aux troupes proches :\n +50% armure, +200% expérience de combat"
+"Bonus de Charisme aux troupes proches :\n +50% armure, +200% expérience de combat"
 END
 
 CONTROLBAR:ToolTipGondorBuildStoneMaker
@@ -15155,7 +15155,7 @@ CONTROLBAR:ConstructMordorSiegeWorks
 END
 
 CONTROLBAR:ConstructMordorHaradrimPalace
-"Construire un Palais Oriental [&D]"
+"Construire un Palais Oriental (&D)"
 END
 
 CONTROLBAR:ConstructSlaughterHouse
@@ -15315,15 +15315,15 @@ CONTROLBAR:ConstructWildFortress
 END
 
 CONTROLBAR:ConstructGuldurFortress
-"Invoque &Fortress"
+"Invoque une &Forteresse"
 END
 
 CONTROLBAR:ToolTipConstructWildFortress
-"Recrute des héros et des bâtisseurs.\n Peut recevoir des améliorations."
+"Recrute des héros et des bâtisseurs \n Peut recevoir des améliorations et des extensions\n Augmente la limite de points de commandement de 100"
 END
 
 CONTROLBAR:ConstructWildTreasureTrove
-"Construire un Trésor [&G]"
+"Construire un Trésor (&G)"
 END
 
 CONTROLBAR:ToolTipConstructWildTreasureTrove
@@ -15825,7 +15825,7 @@ CONTROLBAR:ConstructReinforcedGateUpgrade
 END
 
 CONTROLBAR:ConstructGrandHarvestUpgrade
-"Récolte abondante [&G]"
+"Récolte abondante (&G)"
 END
 
 CONTROLBAR:ConstructSiegeMaterialsUpgrade
@@ -16459,7 +16459,7 @@ CONTROLBAR:ToolTipBuildMordorCorsairHorde
 END
 
 CONTROLBAR:ToolTipBuildMordorEasterlingHorde
-"Requiert : Palais Oriental niveau 2\n Féroces et disciplinés, les Orientaux sont revêtus d'une armure ouvragée et équipés d'armes de facture supérieure.\nLes guerriers bénéficient d'un entrainement poussé qui leur permet de combattre en phalange, une formation protégée par un mur de boucliers impénétrable et hérissés de lames acérées.\n\nPeuvent changer de formation pour améliorer leurs défenses.\n\n Forts contre les cavaliers"
+"Requiert : Palais Oriental niveau 2\n Féroces et disciplinés, les Orientaux sont revêtus d'une armure ouvragée et équipés d'armes de facture supérieure.\nLes guerriers bénéficient d'un entraînement poussé qui leur permet de combattre en phalange, une formation protégée par un mur de boucliers impénétrable et hérissés de lames acérées.\n\nPeuvent changer de formation pour améliorer leurs défenses.\n\n Forts contre les cavaliers"
 END
 
 CONTROLBAR:ToolTipBuildMordorEasterlingHordeForInn
@@ -16554,7 +16554,7 @@ CONTROLBAR:MordorFellBeastRevive
 "Rappelez l'Ombre Ailée à la vie"						
 END
 CONTROLBAR:MordorFellBeastHotkey			
-"Ombre Ailée [&F]"						
+"Ombre Ailée (&F)"						
 END
 CONTROLBAR:MordorMouthofSauronHotkey
 "La Bouche de Sauron"
@@ -16612,7 +16612,7 @@ CONTROLBAR:ConstructIsengardUrukHai
 END
 
 CONTROLBAR:ConstructIsengardCrossbowmen
-"Arbalétriers Uruk [&C]"
+"Arbalétriers Uruk (&C)"
 END
 
 CONTROLBAR:ConstructIsengardPikemen
@@ -16892,7 +16892,7 @@ CONTROLBAR:SpecialAbilityDarkLordsLament
 END
 
 CONTROLBAR:SpecialAbilityCallPack
-"Appel de la meute [&C]"
+"Appel de la meute (&C)"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityDarkLordsLament
@@ -17038,7 +17038,7 @@ CONTROLBAR:ToolTipSpecialAbilityGrondPower
 END
 
 CONTROLBAR:ConstructMordorDrummerTrolls
-"Troll-tambour [&D]"
+"Troll-tambour (&D)"
 END
 
 CONTROLBAR:ConstructMordorBatteringRam
@@ -17278,7 +17278,7 @@ CONTROLBAR:ToolTipLastStand
 END
 
 CONTROLBAR:GenericMountTooltip
-"Clic gauche pour monter\n ou descendre de monture."
+"Clic gauche pour alterner entre monter et être à pieds"
 END
 
 CONTROLBAR:ToolTipSummonEntAllies
@@ -17448,7 +17448,7 @@ CONTROLBAR:ToolTipToggleLurtzWeapon
 END
 
 CONTROLBAR:SpecialAbilityLurtzCripple
-"Immobilisation [&C]"
+"Immobilisation (&C)"
 END
 
 CONTROLBAR:SpecialAbilityLurtzCarnage
@@ -17592,7 +17592,7 @@ CONTROLBAR:ToolTipPorterGiveUpgrade
 END
 
 CONTROLBAR:BannerGoCombine
-"Grouper [&C]"
+"Grouper (&C)"
 END
 
 CONTROLBAR:tooltipBannerGoCombine
@@ -17676,7 +17676,7 @@ CONTROLBAR:TheOneRing
 END
 
 CONTROLBAR:TheOneRing_Campaign
-"Un Lourd Fardeau [&b]"
+"Un Lourd Fardeau (&b)"
 END
 
 CONTROLBAR:ToolTipTheOneRing
@@ -27439,7 +27439,7 @@ APT:PlayerInLobby
 END
 
 APT:HeaderReady
-"Ready"
+"Prêt"
 END
 
 APT:ConnectionName
@@ -27543,7 +27543,7 @@ CONTROLBAR:ConstructMenArrowTowerExpansion
 END
 
 CONTROLBAR:ConstructMenDormitory
-"Extension d'un Quartiers [&D]"
+"Extension d'un Quartiers (&D)"
 END
 
 CONTROLBAR:ToolTipConstructMenArrowTowerExpansion
@@ -27567,7 +27567,7 @@ CONTROLBAR:ToolTipPurchaseUpgradeMenFortressNumenorStonework
 END
 
 CONTROLBAR:PurchaseUpgradeMenFortressFlamingMunitions
-"Munitions incendiaires [&F]"
+"Munitions incendiaires (&F)"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeMenFortressFlamingMunitions
@@ -27634,7 +27634,7 @@ CONTROLBAR:ToolTipCommand_MenWallUpgradeToHub
 END
 
 CONTROLBAR:Command_MenWallUpgradeToRegularGate
-"Porte [&G]"
+"Porte (&G)"
 END
 
 CONTROLBAR:ToolTipCommand_MenWallUpgradeToRegularGate
@@ -27924,7 +27924,7 @@ END
 
 
 CONTROLBAR:PurchaseUpgradeDwarvenHornsoftheGate
-"Cors de la Porte [&G]"
+"Cors de la Porte (&G)"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeDwarvenHornsoftheGate
@@ -27981,7 +27981,7 @@ CONTROLBAR:TooltipDwarvenWallBannersButton
 END
 
 CONTROLBAR:Command_DwarvenWallUpgradeToRegularGate
-"Porte [&G]"
+"Porte (&G)"
 END
 
 CONTROLBAR:TooltipCommand_DwarvenWallUpgradeToRegularGate
@@ -28013,7 +28013,7 @@ CONTROLBAR:Command_DwarvenWallUpgradeToCatapult
 END
 
 CONTROLBAR:Command_RohanWallUpgradeToCatapult
-"Onagre Rohirrique [&c]"
+"Onagre Rohirrique (&C)"
 END
 
 CONTROLBAR:TooltipCommand_DwarvenWallUpgradeToCatapult
@@ -28485,7 +28485,7 @@ CONTROLBAR:ToolTipConstructElvenFortress
 END
 
 CONTROLBAR:ConstructElvenWatchtowerExpansion
-"Extension Poste de guet [&F]"
+"Extension Poste de guet (&F)"
 END
 
 CONTROLBAR:ToolTipConstructElvenWatchtowerExpansion
@@ -28509,7 +28509,7 @@ CONTROLBAR:ToolTipConstructElvenVigilantEntExpansion
 END
 
 CONTROLBAR:ConstructElvenFloodgateExpansion
-"Vanne [&G]"
+"Vanne (&G)"
 END
 
 CONTROLBAR:ToolTipConstructElvenFloodgateExpansion
@@ -28581,7 +28581,7 @@ CONTROLBAR:ToolTipElvenEntMoot
 END
 
 CONTROLBAR:ConstructEregionForge
-"Construire une Réserve du Bois Doré [&G]"
+"Construire une Réserve du Bois Doré (&G)"
 END
 
 CONTROLBAR:ToolTipEregionForge
@@ -28689,7 +28689,7 @@ CONTROLBAR:TooltipCommand_ElvenWallUpgradeToHub
 END
 
 CONTROLBAR:Command_ElvenWallUpgradeToRegularGate
-"Améliorer en porte [&G]"
+"Améliorer en porte (&G)"
 END
 
 CONTROLBAR:TooltipCommand_ElvenWallUpgradeToRegularGate
@@ -28721,7 +28721,7 @@ END
 // Elven Units
 
 CONTROLBAR:ConstructElvenLindonWarriorHorde
-"Entraîner des Guerriers du Lindon"
+"Entraîne des Guerriers du Lindon"
 END
 
 CONTROLBAR:ToolTipBuildElvenLindonWarriorHordeWithNoPrerequisites
@@ -29754,7 +29754,7 @@ CONTROLBAR:LW_ToolTip_GuldurGaol
 END
 
 CONTROLBAR:LW_Structure_GuldurSpire
-"Flèche de la sorcellerie"
+"Tour de la Sorcellerie"
 END
 
 CONTROLBAR:LW_ToolTipBuild_GuldurSpire
@@ -29766,7 +29766,7 @@ CONTROLBAR:LW_ToolTip_GuldurSpire
 END
 
 CONTROLBAR:LW_Structure_GuldurMill
-"Moulin à esclave"
+"Moulin à esclaves"
 END
 
 CONTROLBAR:LW_ToolTipBuild_GuldurMill
@@ -29858,15 +29858,15 @@ CONTROLBAR:LW_ToolTipBuild_GuldurOrcArcherHorde
 END
 
 BANNERUI:GuldurFellBrood
-"Couvée féroce"
+"Vile Couvée"
 End
 
 CONTROLBAR:LW_Unit_GuldurFellBroodHorde
-"Bataillon de couvée féroce"
+"Bataillon de Vile Couvée"
 END
 
 CONTROLBAR:LW_Unit_GuldurFellBroodHordePlural
-"Bataillon de couvée féroce"
+"Bataillon de Vile Couvée"
 END
 
 CONTROLBAR:LW_ToolTip_GuldurFellBroodHorde
@@ -31900,7 +31900,7 @@ CONTROLBAR:ToolTipConstructIsengardWallHubExpansion
 END
 
 CONTROLBAR:PurchaseUpgradeIsengardFortressOrcfireMunitions
-"Munitions incendiaires Orques [&F]"
+"Munitions incendiaires Orques (&F)"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeIsengardFortressOrcfireMunitions
@@ -31952,7 +31952,7 @@ CONTROLBAR:TooltipCommand_IsengardWallUpgradeToHub
 END
 
 CONTROLBAR:Command_IsengardWallUpgradeToRegularGate
-"Améliorer en porte [&G]"
+"Améliorer en porte (&G)"
 END
 
 CONTROLBAR:TooltipCommand_IsengardWallUpgradeToRegularGate
@@ -32041,7 +32041,7 @@ CONTROLBAR:ConstructMordorGateWatchersExpansion
 END
 
 CONTROLBAR:PurchaseUpgradeMordorFortressFireArrows
-"Munitions incendiaires [&F]"
+"Munitions incendiaires (&F)"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeMordorFortressFireArrows
@@ -32276,7 +32276,7 @@ CONTROLBAR:ToolTipBlackRiderMorgulBlade
 END
 
 CONTROLBAR:Escape
-"Evasion [&C]"
+"Evasion (&C)"
 END
 
 CONTROLBAR:TooltipEscape
@@ -32393,7 +32393,7 @@ CONTROLBAR:GoblinKingPoisonedStinger
 END
 
 CONTROLBAR:GoblinKingSpawnFireDrakes
-"Appel des Profondeurs [&C]"
+"Appel des Profondeurs (&C)"
 END
 
 CONTROLBAR:TooltipGoblinKingSpawnFireDrakes
@@ -45196,11 +45196,11 @@ CONTROLBAR:CAH_HotW_Conquer
 END
 
 CONTROLBAR:SpecialAbilityHotWCrippleStrikeMelee_Level1
-"Attaque paralysante [&C]"
+"Attaque paralysante (&C)"
 END
 
 CONTROLBAR:SpecialAbilityHotWCrippleStrikeMelee_Level2
-"Attaque paralysante améliorée [&C]"
+"Attaque paralysante améliorée (&C)"
 END
 
 CONTROLBAR:CAH_HeroicCharge
@@ -45229,19 +45229,19 @@ CONTROLBAR:SpecialAbilityCreateAHeroArcherToggleWeapon
 END
 
 CONTROLBAR:SpecialAbilityCrippleStrikeRanged_Level1
-"Tir paralysant [&C]"
+"Tir paralysant (&C)"
 END
 
 CONTROLBAR:SpecialAbilityCrippleStrikeRanged_Level2
-"Tir paralysant amélioré [&C]"
+"Tir paralysant amélioré (&C)"
 END
 
 CONTROLBAR:SpecialAbilityCrippleStrikeRanged_Level3
-"Grand Tir paralysant [&C]"
+"Grand Tir paralysant (&C)"
 END
 
 CONTROLBAR:SpecialAbilityCrippleStrikeRanged_Level4
-"Tir paralysant supérieur [&C]"
+"Tir paralysant supérieur (&C)"
 END
 
 CONTROLBAR:CAH_RainOfArrows_Level1
@@ -45627,11 +45627,11 @@ CONTROLBAR:CAH_SpillOil_Level3
 END
 
 CONTROLBAR:SpecialAbilitySoSCrippleStrikeMelee_Level1
-"Attaque paralysante [&C]"
+"Attaque paralysante (&C)"
 END
 
 CONTROLBAR:SpecialAbilitySoSCrippleStrikeMelee_Level2
-"Attaque paralysante améliorée [&C]"
+"Attaque paralysante améliorée (&C)"
 END
 
 
@@ -45696,15 +45696,15 @@ CONTROLBAR:CAH_ClimbWalls
 END
 
 CONTROLBAR:CAH_Coerce_Level1
-"Manipulation [&C]"
+"Manipulation (&C)"
 END
 
 CONTROLBAR:CAH_Coerce_Level2
-"Manipulation améliorée [&C]"
+"Manipulation améliorée (&C)"
 END
 
 CONTROLBAR:CAH_Coerce_Level3
-"Grande manipulation [&C]"
+"Grande manipulation (&C)"
 END
 
 CONTROLBAR:CAH_Coerce_Level4
@@ -48238,7 +48238,7 @@ CONTROLBAR:ToolTipConstructArnorWell
 END
 
 CONTROLBAR:ToolTipConstructArnorStatue
-"Octroie un bonus de charisme aux troupes proches \n Réduit le cout des héros \n Augmente la limite de points de commandement de 10"
+"Octroie un bonus de Charisme aux troupes proches \n Réduit le cout des héros \n Augmente la limite de points de commandement de 10"
 END
 
 CONTROLBAR:ConstructArnorWallHub
@@ -48246,7 +48246,7 @@ CONTROLBAR:ConstructArnorWallHub
 END
 
 CONTROLBAR:ConstructArnorFortress
-"Citadelle d'Imladris [&F]"
+"Citadelle d'Imladris (&F)"
 END
 
 CONTROLBAR:ToolTipConstructArnorWallHub
@@ -48655,7 +48655,7 @@ CONTROLBAR:ToolTipPurchaseTechnologyArnorBasicTraining
 END
 
 CONTROLBAR:PurchaseUpgradeArnorBasicTraining
-"Amélioration Porte-Etendard [&C]"
+"Amélioration Porte-Etendard (&C)"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeArnorBasicTraining
@@ -48719,7 +48719,7 @@ CONTROLBAR:ConstructArnorArrowTowerExpansion
 END
 
 CONTROLBAR:ConstructArnorDormitory
-"Extension d'un Quartiers [&D]"
+"Extension d'un Quartiers (&D)"
 END
 
 CONTROLBAR:ToolTipConstructArnorDormitory
@@ -48807,7 +48807,7 @@ CONTROLBAR:ToolTipCommand_ArnorWallUpgradeToHub
 END
 
 CONTROLBAR:Command_ArnorWallUpgradeToRegularGate
-"Porte [&G]"
+"Porte (&G)"
 END
 
 CONTROLBAR:ToolTipCommand_ArnorWallUpgradeToRegularGate
@@ -49945,7 +49945,7 @@ CONTROLBAR:ConstructAngmarDen3Upgrade
 End
 
 CONTROLBAR:ConstructAngmarDireWolfHorde
-"Meute d'Affreux Loups [&D]"
+"Meute d'Affreux Loups (&D)"
 End
 
 CONTROLBAR:AngmarDireWolfHowl
@@ -50450,7 +50450,7 @@ CONTROLBAR:TooltipCommand_AngmarWallUpgradeToHub
 End
 
 CONTROLBAR:Command_AngmarWallUpgradeToRegularGate
-"Porte [&G]"
+"Porte (&G)"
 End
 
 CONTROLBAR:TooltipCommand_AngmarWallUpgradeToRegularGate
@@ -50763,7 +50763,7 @@ END
 
 CONTROLBAR:GuldurKhamulRecruit
 //"Recruit a Fellbeast"
-"Recruter l'ombre de l'Est \n \n Un jour, un grand roi des Terres de l'Est, Khamul a été pris au piège par Sauron via l'un de ses Grands Anneaux. Pendant de longs siècles, Khamul l'a servi, accomplissant des actes de grande terreur et de cruauté avec un dévouement solennel à son Maître."
+"Recruter l'ombre de l'Est \n \n Un jour, un grand roi des Terres de l'Est, Khamûl a été pris au piège par Sauron via l'un de ses Grands Anneaux. Pendant de longs siècles, Khamûl l'a servi, accomplissant des actes de grande terreur et de cruauté avec un dévouement solennel à son Maître."
 END
 
 CONTROLBAR:MordorKhamulRevive
@@ -50920,7 +50920,7 @@ TOOLTIP:LackLevel3HaradFireArrows
 END
 
 TOOLTIP:LackLevel3GuldurGaolFireArrows
-"Requiert : Niveau 3 Les Geôles de Dol Guldur"
+"Requiert : Geôles de Dol Guldur niveau 3"
 END
 
 CONTROLBAR:TooltipUpgradeMordorHaradrimPalaceLevel2
@@ -55195,7 +55195,7 @@ END
 CONTROLBAR:ToolTipFreezingRain
 //"Des nuages sombres s'amoncellent et recouvrent temporairement la carte d'une pluie drue et glacée : tous les ennemis perdent leurs bonus de Charisme.\n\nClic gauche pour activer"
 //"Des nuages sombres s'amoncellent et recouvrent temporairement la carte d'une pluie drue et glacée : tous les ennemis perdent leurs bonus de Charisme.\n Réduit l'armure et les dégâts des ennemis.\n\nClic gauche pour activer"
-"Type d'Action : Pénalité active\n Des nuages sombres s'amoncellent et recouvrent temporairement la carte d'une pluie drue et glacée : tous les ennemis perdent leurs bonus de Charisme et subissent -25% dégâts et -20% armure (Pénalité non cumulable).\n\nClic gauche pour activer"
+"Type d'Action : Pénalité active\n Des nuages sombres s'amoncellent et recouvrent temporairement la carte d'une pluie drue et glacée : tous les ennemis perdent leur bonus de Charisme et subissent -25% dégâts et -20% armure (Pénalité non cumulable).\n\nClic gauche pour activer"
 END
 
 CONTROLBAR:TooltipSummonWatcher
@@ -55345,7 +55345,7 @@ CONTROLBAR:ToolTipBuildGondorArcheryRangeLevel3Upgrade
 END
 
 CONTROLBAR:ToolTipBuildGondorArcheryRangeLevel2Upgrade_Osgiliath
-"Permet l'entrainement des Rodeurs de l'Ithilien\nVitesse de construction +10%"
+"Permet l'entraînement des Rodeurs de l'Ithilien\nVitesse de construction +10%"
 END
 CONTROLBAR:ToolTipBuildGondorArcheryRangeLevel3Upgrade_Osgiliath
 "Permet la recherche de l'amélioration Flèches enflammées\n+25% de vitesse de construction\nAjoute une tour d'archers défensive"
@@ -55382,7 +55382,7 @@ CONTROLBAR:ToolTipBuildGondorWorkshopLevel3Upgrade
 END
 CONTROLBAR:ToolTipBuildRohanWorkshopLevel2Upgrade
 //"Niveau 2: +10% vitesse de construction \n Permet de rechercher l'amélioration pierres de feu"
-"Permet d'entrainer des onagres rohirric \n Les machines de siège proches et endommagées se réparent \n +10% Vitesse de construction"
+"Permet d'entraîner des onagres rohirric \n Les machines de siège proches et endommagées se réparent \n +10% Vitesse de construction"
 END
 CONTROLBAR:ToolTipBuildRohanWorkshopLevel3Upgrade
 //"Niveau 3: +25% Vitesse de construction"
@@ -55643,7 +55643,7 @@ END
 CONTROLBAR:ToolTipBuildElvenBarracksLevel3
 //"Permet l'entraînement des Guerriers Ñoldor \n +25% Vitesse de construction\n Ajoute une tour d'archers défensive"
 //"Permet l'entraînement des Guerriers Ñoldor \n +25% Vitesse de construction\n Ajoute une tour d'archers défensive"
-"Permet l'entrainement des guerriers d'élite Nandor Hir-Hathol\n+25% Vitesse de construction\n Ajoute une tour d'archers défensive"
+"Permet l'entraînement des guerriers d'élite Nandor Hir-Hathol\n+25% Vitesse de construction\n Ajoute une tour d'archers défensive"
 END
 
 CONTROLBAR:ToolTipBuildElvenBarracksLevel3
@@ -56451,11 +56451,11 @@ CONTROLBAR:ToolTipConstructWildGoblinFissure
 END
 
 CONTROLBAR:ToolTipBuildWildLodgeLevel2Upgrade
-"Permet l'entrainement des Eclaireurs orques des Montagnes et des berserkers de Gundabad \n Vitesse de construction +10%"
+"Permet l'entraînement des Eclaireurs orques des Montagnes et des berserkers de Gundabad \n Vitesse de construction +10%"
 END
 
 CONTROLBAR:ToolTipBuildWildLodgeLevel3Upgrade
-"Permet l'entrainement des Monstruosités de Gram \n Vitesse de construction +25%"
+"Permet l'entraînement des Monstruosités de Gram \n Vitesse de construction +25%"
 END
 
 CONTROLBAR:ToolTipBuildWildLodgeLevel3Upgrade_WOTR
@@ -56577,11 +56577,11 @@ CONTROLBAR:ToolTipAzogCracktheWhip
 END
 
 CONTROLBAR:AzogDefiler
-"Le Profanateur [&I]"
+"Le Profanateur (&I)"
 END
 
 CONTROLBAR:ToolTipAzogDefiler
-"Requiert : niveau 4 \n Souille une zone du terrain autour d'Azog : les alliés proches gagnent des ressources supplémentaires pour chaque ennemi tué.\n\n Capacité passive\n\n Type d'Action : Pénalité active\n Les ennemis proches subissent -25% dégâts, -20% armure et leurs bonus de Charisme sont annulés (Pénalité non cumulable).\n\nClic gauche pour activer"
+"Requiert : niveau 4 \n Souille une zone du terrain autour d'Azog : les alliés proches gagnent des ressources supplémentaires pour chaque ennemi tué.\n\n Capacité passive\n\n Type d'Action : Pénalité active\n Les ennemis proches subissent -25% dégâts, -20% armure et perdent leur bonus de Charisme (Pénalité non cumulable).\n\nClic gauche pour activer"
 END
 
 CONTROLBAR:AzogHeadhunter
@@ -56753,7 +56753,7 @@ TOOLTIP:LackAngmarWellOfSouls
 End
 
 CONTROLBAR:PurchaseUpgradeAngmarIceShot
-"Tir de Glace [&C]"
+"Tir de Glace (&C)"
 END
 
 TOOLTIP:LackAngmarIceShot
@@ -56780,7 +56780,7 @@ CONTROLBAR:ToolTipBuildAngmarBarracksLevel3Upgrade
 End
 
 CONTROLBAR:ToolTipAngmarDen
-"Entraine d'Affreux Loups, des Trolls des neiges,\n et des Trolls des collines\n Requis pour invoquer les Chevaucheurs de Loup"
+"Entraîne d'Affreux Loups, des Trolls des neiges,\n et des Trolls des collines\n Requis pour invoquer les Chevaucheurs de Loup"
 END
 
 CONTROLBAR:TooltipUpgradeAngmarDenLevel2
@@ -57236,13 +57236,13 @@ End
 CONTROLBAR:TooltipCAH_SummonFamiliar_Level3
 //"Le héros invoque une nuée d'oiseaux ayant une vision de portée excellente et détectant la furtivité."
 //"Le héros invoque une nuée d'oiseaux qui réduit l'armure et les dégâts des ennemis et annule leur bonus de Charisme."
-"Le héros invoque une nuée d'oiseaux qui révèle le brouillard de guerre et détecte les unités furtives.\n Type d'Action : Pénalité active\n Les ennemis proches subissent -25% dégâts et -20% armure, et leur bonus de charisme sont annulés (Pénalité non cumulable)."
+"Le héros invoque une nuée d'oiseaux qui révèle le brouillard de guerre et détecte les unités furtives.\n Type d'Action : Pénalité active\n Les ennemis proches subissent -25% dégâts et -20% armure, et leur bonus de Charisme sont annulés (Pénalité non cumulable)."
 End
 
 CONTROLBAR:TooltipCAH_SummonFamiliar_Level3_Palantir
 //"Le héros invoque une nuée d'oiseaux ayant une vision de portée excellente et détectant la furtivité.\n\nClic gauche sur l'icône puis clic gauche sur une zone praticable"
 //"Le héros invoque une nuée d'oiseaux qui réduit l'armure et les dégâts des ennemis et annule leur bonus de Charisme.\n\nClic gauche sur l'icône puis clic gauche sur une zone praticable"
-"Le héros invoque une nuée d'oiseaux qui révèle le brouillard de guerre et détecte les unités furtives.\n Type d'Action : Pénalité active\n Les ennemis proches subissent -25% dégâts et -20% armure, et leur bonus de charisme sont annulés (Pénalité non cumulable)."
+"Le héros invoque une nuée d'oiseaux qui révèle le brouillard de guerre et détecte les unités furtives.\n Type d'Action : Pénalité active\n Les ennemis proches subissent -25% dégâts et -20% armure, et leur bonus de Charisme sont annulés (Pénalité non cumulable)."
 End
 
 CONTROLBAR:ToolTipCAH_A_TrueSight
@@ -58232,7 +58232,7 @@ CONTROLBAR:TooltipNecroFellStrength
 //"Drains Enemy units of Strength\n +25% dégâts, +25% attack speed bonus to friendly non-siege units.\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
 //"Drains enemy units of strength\n Nearby friendly units gain\n +50% dégâts, +50% armure.\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
 //"Drains enemy units of strength\n Targeted enemy units take slight damage\n Nearby friendly units gain\n +33% dégâts, +33% armure\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
-"Draine les unités de force ennemies \n Type d'Action : Sort et Pénalité active\n Les unités ennemies ciblées subissent de légers dégâts \n Les unités amies proches gagnent \n +33% dégâts et +33% armure\n Cumulable avec d'autres bonus de sort ou de charisme (Pénalité non cumulable).\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
+"Draine les unités de force ennemies \n Type d'Action : Sort et Pénalité active\n Les unités ennemies ciblées subissent de légers dégâts \n Les unités amies proches gagnent \n +33% dégâts et +33% armure\n Cumulable avec d'autres bonus de sort ou de Charisme (Pénalité non cumulable).\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
 End
 
 CONTROLBAR:ToolTipHourOfTheWitchKing
@@ -58351,10 +58351,10 @@ END
 
 CONTROLBAR:ToolTipMightyRage
 //"Requiert : niveau 4\n Soigne les unités ciblées, qui gagnent +50% dégâts et +50% armure.\n\nClic gauche sur l'icône puis clic gauche sur la cible.\n Ne peut pas s'utiliser avec d'autres bonus"
-//"Requiert : niveau 4\n Les alliés ciblés gagnent +50% dégâts, +50% armure.\n Bonuses stack with everything\n Reduces targeted enemies' Armor and Damage\n Tous les ennemis perdent leur bonus de charisme.\n\nClic gauche sur l'icône puis clic gauche sur les unités ciblées"
-//"Requiert : niveau 4\n Les alliés ciblés gagnent +33% dégâts, +33% armure\n Reduces targeted enemies' Armor and Damage\n Tous les ennemis perdent leur bonus de charisme.\n\nClic gauche sur l'icône puis clic gauche sur les unités ciblées"
-//"Requiert : niveau 5\n Les alliés ciblés gagnent +33% dégâts, +33% armure\n Reduces targeted enemies' Armor and Damage\n Tous les ennemis perdent leur bonus de charisme.\n\nClic gauche sur l'icône puis clic gauche sur les unités ciblées"
-"Requiert : niveau 5\n Type d'Action : Sort et Pénalité active\n Targeted friendly units gain +33% dégâts et +33% armure\n Les ennemis ciblés subissent -25% dégâts et -20% armure\n Nullifies enemy Leadership\n Cumulable avec d'autres bonus de sort ou de charisme (Pénalité non cumulable).\n\nClic gauche sur l'icône puis clic gauche sur les unités ciblées"
+//"Requiert : niveau 4\n Les alliés ciblés gagnent +50% dégâts, +50% armure.\n Bonuses stack with everything\n Reduces targeted enemies' Armor and Damage\n Tous les ennemis perdent leur bonus de Charisme.\n\nClic gauche sur l'icône puis clic gauche sur les unités ciblées"
+//"Requiert : niveau 4\n Les alliés ciblés gagnent +33% dégâts, +33% armure\n Reduces targeted enemies' Armor and Damage\n Tous les ennemis perdent leur bonus de Charisme.\n\nClic gauche sur l'icône puis clic gauche sur les unités ciblées"
+//"Requiert : niveau 5\n Les alliés ciblés gagnent +33% dégâts, +33% armure\n Reduces targeted enemies' Armor and Damage\n Tous les ennemis perdent leur bonus de Charisme.\n\nClic gauche sur l'icône puis clic gauche sur les unités ciblées"
+"Requiert : niveau 5\n Type d'Action : Sort et Pénalité active\n Targeted friendly units gain +33% dégâts et +33% armure\n Les ennemis ciblés subissent -25% dégâts et -20% armure\n Nullifies enemy Leadership\n Cumulable avec d'autres bonus de sort ou de Charisme (Pénalité non cumulable).\n\nClic gauche sur l'icône puis clic gauche sur les unités ciblées"
 END
 
 CONTROLBAR:ToolTipSummonRoyalGuard
@@ -58579,7 +58579,7 @@ END
 
 CONTROLBAR:TooltipConstructMordorDrummerTrolls
 //"Requiert : Cage à Trolls niveau 2\n Les armées du Mordor marchent au rythme des tambours de guerre, leur rôle est de battre frénétiquement la cadence pour les troupes lorsqu'elles avancent. Lorsque la charge est sonnée, les hordes se jettent au combat avec une ardeur décuplée.\n\n Les Trolls-tambour donnent un bonus de combat aux alliés proches."
-"Requiert : Cage à Trolls niveau 2\n Les armées du Mordor marchent au rythme des tambours de guerre, leur rôle est de battre frénétiquement la cadence pour les troupes lorsqu'elles avancent. Lorsque la charge est sonnée, les hordes se jettent au combat avec une ardeur décuplée.\n\n Les Trolls-tambour fournissent un bonus de charisme aux alliés proches."
+"Requiert : Cage à Trolls niveau 2\n Les armées du Mordor marchent au rythme des tambours de guerre, leur rôle est de battre frénétiquement la cadence pour les troupes lorsqu'elles avancent. Lorsque la charge est sonnée, les hordes se jettent au combat avec une ardeur décuplée.\n\n Les Trolls-tambour fournissent un bonus de Charisme aux alliés proches."
 END
 
 CONTROLBAR:TooltipUpgradeMordorOrcPitLevel3
@@ -58884,7 +58884,7 @@ CONTROLBAR:ToolTipCloudBreak
 END
 
 CONTROLBAR:TooltipCampaignCloudBreak
-"Etourdit les unités ennemis \n Soigne lentement les unités alliées à travers la carte \n Clic gauche pour activer"
+"Etourdit les unités ennemies \n Soigne lentement les unités alliées à travers la carte \n Clic gauche pour activer"
 END
 
 CONTROLBAR:ToolTipCloudBreakGondor
@@ -58926,8 +58926,8 @@ CONTROLBAR:ToolTipBuildDwarvenDemolisher
 END
 
 CONTROLBAR:ToolTipUpgradeDwarvenForgeWorksLevel2
-//"Permet de rechercher l'amélioration lame forgées.\n Permet l'entrainement des démolisseurs et des catapultes\n Vitesse de construction +10%"
-//"Permet de rechercher les améliorations lame forgées et marteaux de siège.\n Permet l'entrainement des démolisseurs et des catapultes\n Vitesse de construction +10%"
+//"Permet de rechercher l'amélioration lame forgées.\n Permet l'entraînement des démolisseurs et des catapultes\n Vitesse de construction +10%"
+//"Permet de rechercher les améliorations lame forgées et marteaux de siège.\n Permet l'entraînement des démolisseurs et des catapultes\n Vitesse de construction +10%"
 "Vitesse de construction +10%\n Permet de rechercher l'amélioration Flèches à pointes de Mithril."
 END
 
@@ -58937,8 +58937,8 @@ CONTROLBAR:ToolTipUpgradeDwarvenForgeWorksLevel3
 END
 
 CONTROLBAR:ToolTipUpgradeDwarvenWorkshopLevel2
-//"Permet de rechercher l'amélioration lame forgées.\n Permet l'entrainement des démolisseurs et des catapultes\n +10% vitesse de production"
-//"Permet de rechercher les améliorations lame forgées et marteaux de siège.\n Permet l'entrainement des démolisseurs et des catapultes\n +10% vitesse de production"
+//"Permet de rechercher l'amélioration lame forgées.\n Permet l'entraînement des démolisseurs et des catapultes\n +10% vitesse de production"
+//"Permet de rechercher les améliorations lame forgées et marteaux de siège.\n Permet l'entraînement des démolisseurs et des catapultes\n +10% vitesse de production"
 "Vitesse de construction +10%\n Permet de construire des Mangonneaux.\nRépare les engins de siège proches."
 END
 
@@ -59355,7 +59355,7 @@ CONTROLBAR:ChallengeofGondor
 END
 
 CONTROLBAR:ToolTipChallengeofGondor
-"Requiert : niveau 10\n Type d'Action : Pénalité active\n Les ennemis ciblés perdent leurs bonus de charisme et subissent -25% dégâts et -25% armure (Pénalité non cumulable).\n\nClic gauche sur l'icône puis clic gauche sur les unités ciblées"
+"Requiert : niveau 10\n Type d'Action : Pénalité active\n Les ennemis ciblés perdent leur bonus de Charisme et subissent -25% dégâts et -25% armure (Pénalité non cumulable).\n\nClic gauche sur l'icône puis clic gauche sur les unités ciblées"
 END
 
 OBJECT:DwarvenThror
@@ -59851,7 +59851,7 @@ CONTROLBAR:MuzgashSupremacy
 END
 
 CONTROLBAR:ToolTipMuzgashSupremacy
-"Requiert : Niveau 9 \n Muzgash présente à ses ennemis un symbole de ses victoires passées \n Les unités ennemies perdent tout bonus de charisme et perdent de la vitesse de mouvement \n Clic gauche on sélectionner Clic gauche sur cible"
+"Requiert : Niveau 9 \n Muzgash présente à ses ennemis un symbole de ses victoires passées \n Les unités ennemies perdent tout bonus de Charisme et perdent de la vitesse de mouvement \n Clic gauche on sélectionner Clic gauche sur cible"
 End
 
 //------- Callous
@@ -60025,7 +60025,7 @@ CONTROLBAR:LW_ToolTipBuild_LorienStalkerHorde
 END
 
 CONTROLBAR:LorienShadowstrike
-"Frappe dans l'Ombre [&I]"
+"Frappe dans l'Ombre (&I)"
 END
 
 CONTROLBAR:TooltipLorienShadowstrike
@@ -60186,7 +60186,7 @@ OBJECT:LothlorienFlet
 END
 
 CONTROLBAR:ConstructLothlorienFlet
-"Construire un Poste de guet de la Lothlórien [&F]"
+"Construire un Poste de guet de la Lothlórien (&F)"
 END
 
 OBJECT:LothlorienFletDescription
@@ -60491,7 +60491,7 @@ OBJECT:GondorImrahil
 END
 
 CONTROLBAR:GondorImrahilRecruit
-"Recrutez le Prince de Dol Amroth.\n\nIssu des nobles de Númenor, son port altier n'a d'égal que sa loyauté envers les dirigeants du Gondor, qu'il s'agisse de l'Intendant ou du Roi.\nBien qu'il possède des qualités martiales incomparables, c'est son charisme qui reste sa principale vertu, car il est capable de rallier ses soldats dans les circonstances les plus désespérées.\n\'Pendant un instant, je me tiens à la place de l'Intendant du Gondor, et c'est à moi de penser d'abord à tous ses gens.'"
+"Recrutez le Prince de Dol Amroth.\n\nIssu des nobles de Númenor, son port altier n'a d'égal que sa loyauté envers les dirigeants du Gondor, qu'il s'agisse de l'Intendant ou du Roi.\nBien qu'il possède des qualités martiales incomparables, c'est son Charisme qui reste sa principale vertu, car il est capable de rallier ses soldats dans les circonstances les plus désespérées.\n\'Pendant un instant, je me tiens à la place de l'Intendant du Gondor, et c'est à moi de penser d'abord à tous ses gens.'"
 END
 
 CONTROLBAR:GondorImrahilRevive
@@ -60550,11 +60550,11 @@ CONTROLBAR:SpecialAbilityNazgulNineServantsOfSauron
 END
 
 CONTROLBAR:ToolTipSpecialAbilityNazgulNineServantsOfSauron
-"Plus les Nazgûl sont proches les uns des autres, plus ils se renforcent : ils gagnent chacun +10% dégâts et +10% armure pour chaque autre Nazgûl proche.\n\nCapacité passive"
+"Plus les Nazgûl se rassemblent, plus ils se renforcent \n +10% de dégâts et +10% d'armure pour chaque Nazgûl proche \n Capacité passive"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityRingwraithServantsOfSauron
-"Plus les Nazgûl se rassemblent, plus leur force augmente \n +10% de dégats et +10% d'armure pour chaque Nazgûl proche \n Capacité passive"
+"Plus les Nazgûl se rassemblent, plus ils se renforcent \n +10% de dégats et +10% d'armure pour chaque Nazgûl proche \n Capacité passive"
 END
 
 CONTROLBAR:ToolTipBlackRiderDreadVisage
@@ -60562,11 +60562,11 @@ CONTROLBAR:ToolTipBlackRiderDreadVisage
 END
 
 CONTROLBAR:ToolTipBlackRiderDreadVisageKhamul
-"Plus les Nazgûl sont proches les uns des autres, plus ils se renforcent : ils gagnent chacun +10% dégâts et +10% armure pour chaque autre Nazgûl proche.\n Capacité passive \n\n Requiert : niveau 2 \n Type d'Action : Pénalité passive \n Les unités ennemies proches de Khamûl subissent -25% dégâts et -20% armure (Bonus non cumulable). \n\n Capacité passive"
+"Plus les Nazgûl se rassemblent, plus ils se renforcent \n +10% de dégats et +10% d'armure pour chaque Nazgûl proche \n Capacité passive \n\n Requiert : niveau 2 \n Type d'Action : Pénalité passive \n Les unités ennemies proches de Khamûl subissent -25% dégâts et -20% armure (Bonus non cumulable) \n Capacité passive"
 END
 
 CONTROLBAR:ToolTipWitchKingDreadWrath
-"Plus les Nazgûl sont proches les uns des autres, plus ils se renforcent : ils gagnent chacun +10% dégâts et +10% armure pour chaque autre Nazgûl proche.\nCapacité passive \n\n Requiert : niveau 2\n Type d'Action : Pénalité passive \n Les unités ennemies proches du Roi-Sorcier \n subissent -33% dégâts et -25% armure \n et les bonus de charisme des ennemis sont désactivés \n Capacité passive \n\n Requiert : niveau 8 \n Le Roi-Sorcier réinitialise les compteurs de compétences spéciales de ses cibles. \n Les ennemis proches du Roi-Sorcier subissent une peur incontrôlable. \n\n Clic gauche sur l'icône puis clic gauche sur la zone cible"
+"Plus les Nazgûl se rassemblent, plus ils se renforcent \n +10% de dégats et +10% d'armure pour chaque Nazgûl proche \n Capacité passive \n\n Requiert : niveau 2 \n Type d'Action : Pénalité passive \n Les unités ennemies proches du Roi-Sorcier subissent -33% dégâts et -25% armure \n Les bonus de Charisme des ennemis sont désactivés \n Capacité passive \n\n Requiert : niveau 8 \n Le Roi-Sorcier réinitialise les compteurs de compétences spéciales de ses cibles \n Les ennemis proches du Roi-Sorcier subissent une peur incontrôlable \n\n Clic gauche sur l'icône puis clic gauche sur la zone cible"
 End
 
 // -------------------------- Azanulbizar Stuff here ------------------------------
@@ -60880,7 +60880,7 @@ END
 CONTROLBAR:TooltipRadagastSummonFamiliar
 //"Héros summons a flock of birds that have an excellent view distance and detect stealth \n Clic gauche sur l'icône puis clic gauche sur une zone praticable"
 //"Héros summons a flock of birds that reduce enemy armor and damage and nullify enemy Charisme \n Clic gauche sur l'icône puis clic gauche sur une zone praticable"
-"Type d'Action : Pénalité active\nRadagast invoque une nuée d'oiseaux qui révèlent le brouillard de guerre et détecte les unités furtives.\nLes unités ennemies proches subissent -25% dégâts, -20% armure et leurs bonus de charisme sont annulés (Pénalité non cumulable)."
+"Type d'Action : Pénalité active\nRadagast invoque une nuée d'oiseaux qui révèlent le brouillard de guerre et détectent les unités furtives.\nLes unités ennemies proches subissent -25% dégâts, -20% armure et annule leur bonus de Charisme (Pénalité non cumulable)."
 End
 
 OBJECT:RadagastFamiliar
@@ -60975,7 +60975,7 @@ CONTROLBAR:TooltipCelebornAthelas
 END
 
 CONTROLBAR:SpecialPowerCelebornCunning
-"Ruse de Guerre [&C]"
+"Ruse de Guerre (&C)"
 END
 
 CONTROLBAR:ToolTipSpecialPowerCelebornCunning
@@ -61231,7 +61231,7 @@ CONTROLBAR:ConstructMordorEasterlingSwordsmanHorde
 End
 
 CONTROLBAR:ToolTipBuildMordorEasterlingSwordsmanHorde
-"Requiert : Palais Oriental niveau 3 et l'amélioration de La Morsure du Serpent.\nFéroces et disciplinés, les Orientaux sont revêtus d'une armure ouvragée et équipés d'armes de facture supérieure.\nCes épéistes sont des combattants cruels dont l'entrainement perpétuel a élevé les aptitudes au combat au-delà de celles des hommes ordinaires, et leur lame aiguisée enchaîne parade et coups fatals plus vite que l'éclair.\n\nForts contre les piquiers."
+"Requiert : Palais Oriental niveau 3 et l'amélioration de La Morsure du Serpent.\nFéroces et disciplinés, les Orientaux sont revêtus d'une armure ouvragée et équipés d'armes de facture supérieure.\nCes épéistes sont des combattants cruels dont l'entraînement perpétuel a élevé les aptitudes au combat au-delà de celles des hommes ordinaires, et leur lame aiguisée enchaîne parade et coups fatals plus vite que l'éclair.\n\nForts contre les piquiers."
 End
 
 OBJECT:HordeMordorEasterlingSwordsman
@@ -61307,7 +61307,7 @@ CONTROLBAR:LW_ToolTipBuild_MordorVariagHorde
 END
 
 CONTROLBAR:TooltipDenethorPalantir
-"Requiert : Niveau 3\nPeut être utilisé pour révéler le brouillard\nPeut aussi être utilisé sur les unités alliées et ennemies\nleur faisant perdre leur charisme\n\nType d'Action : Pénalité Active non cumulable\nClic gauche sur l'icône puis clic gauche sur l'icône puis Clic gauche sur l'icône puis clic gauche sur la zone cible"
+"Requiert : Niveau 3\nPeut être utilisé pour révéler le brouillard\nPeut aussi être utilisé sur les unités alliées et ennemies\nleur faisant perdre leur Charisme\n\nType d'Action : Pénalité Active non cumulable\nClic gauche sur l'icône puis clic gauche sur l'icône puis Clic gauche sur l'icône puis clic gauche sur la zone cible"
 END
 
 CONTROLBAR:DenethorPalantir
@@ -61323,7 +61323,7 @@ CONTROLBAR:ToolTipDenethorSummon
 END
 
 CONTROLBAR:ToolTipDenethorFailingRule
-"Type d'Action : Pénalité active\n Toutes les unités ciblées, alliées ou ennemies, perdent tout bonus de charisme (Pénalité non cumulable).\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
+"Type d'Action : Pénalité active\n Toutes les unités ciblées, alliées ou ennemies, perdent tout bonus de Charisme (Pénalité non cumulable).\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
 END
 
 CONTROLBAR:DenethorFailingRule
@@ -61343,11 +61343,11 @@ CONTROLBAR:DenethorSteward
 END
 
 CONTROLBAR:ToolTipStewardLvl3
-"Denethor est protégé par ses gardes \n Permet à Denethor de monter de niveau \n Clic gauche pour rechercher l'amélioration \n\n Type d'action: Charisme \n Rang 1: Les unités alliés proches de Denethor gagnent +50% d'expérience \n Faramir perd 33% d'armure et 33% de gain d'experience \n Rang 3: Les unités alliées proches de Denethor gagnent +33% d'armure \n Gandalf perd 33% d'armure et 33% de gain d'experience \n Rang 6: Les unités alliées proches de Denethor gagnent +33% de dégâts \n Elessar perd 33% d'armure \n Bonus cumulable \n Capacité passive"
+"Denethor est protégé par ses gardes \n Permet à Denethor de monter de niveau \n Clic gauche pour rechercher l'amélioration \n\n Type d'action: Charisme \n Rang 1: Les unités alliées proches de Denethor gagnent +50% d'expérience \n Faramir perd 33% d'armure et 33% de gain d'experience \n Rang 3: Les unités alliées proches de Denethor gagnent +33% d'armure \n Gandalf perd 33% d'armure et 33% de gain d'experience \n Rang 6: Les unités alliées proches de Denethor gagnent +33% de dégâts \n Elessar perd 33% d'armure \n Bonus cumulable \n Capacité passive"
 End
 
 CONTROLBAR:ToolTipStewardLvl10
-"Denethor est protégé par ses gardes \n\n Type d'action : Charisme \n Rang 1: Les unités alliés proches de Denethor gagnent +50% d'expérience \n Faramir perd 33% d'armure et 33% de gain d'experience \n Rang 3: Les unités alliées proches de Denethor gagnent +33% d'armure \n Gandalf perd 33% d'armure et 33% de gain d'experience \n Rang 6: Les unités alliées proches de Denethor gagnent +33% de dégâts \n Elessar perd 33% d'armure et 33% de gain d'experience\n Bonus cumulable \n Capacité passive"
+"Denethor est protégé par ses gardes \n\n Type d'action : Charisme \n Rang 1: Les unités alliées proches de Denethor gagnent +50% d'expérience \n Faramir perd 33% d'armure et 33% de gain d'experience \n Rang 3: Les unités alliées proches de Denethor gagnent +33% d'armure \n Gandalf perd 33% d'armure et 33% de gain d'experience \n Rang 6: Les unités alliées proches de Denethor gagnent +33% de dégâts \n Elessar perd 33% d'armure et 33% de gain d'experience\n Bonus cumulable \n Capacité passive"
 End
 
 CONTROLBAR:DenethorHighAuthority
@@ -61359,7 +61359,7 @@ CONTROLBAR:ToolTipDenethorHighAuthority
 END
 
 CONTROLBAR:DenethorContest
-"Lutte de volontés [&I]"
+"Lutte de volontés (&I)"
 END
 
 CONTROLBAR:ToolTipDenethorContest
@@ -61528,7 +61528,7 @@ CONTROLBAR:GreatGoblinAbominableSong
 END
 
 CONTROLBAR:TooltipGreatGoblinAbominableSong
-"Type d'Action : sort et pénalité active\n Le Grand Gobelin entonne une ode grotesque\n en honneur à sa grandeur :\n* les alliés proches gagnent +33% dégâts et +33% armure (bonus cumulable).\n* Les ennemis proches subissent -25% dégâts et -20% armure et perdent leurs bonus de charisme (Pénalité non cumulable).\n\nClic gauche pour activer"
+"Type d'Action : sort et pénalité active\n Le Grand Gobelin entonne une ode grotesque\n en honneur à sa grandeur :\n* les alliés proches gagnent +33% dégâts et +33% armure (bonus cumulable).\n* Les ennemis proches subissent -25% dégâts et -20% armure et perdent leur bonus de Charisme (Pénalité non cumulable).\n\nClic gauche pour activer"
 END
 
 OBJECT:Antequaries
@@ -61632,7 +61632,7 @@ CONTROLBAR:KhamulLieutnant
 END
 
 CONTROLBAR:ToolTipKhamulLieutnant
-"Requiert : niveau 7\n Khamûl devient Lieutenant de la forteresse de Dol Guldur et revêt son armure noire sinistre, dont l'aura de décrépitude affaiblit les mortels.\n\nLes ennemis proches de Khamûl subissent des dégâts lentement.\n\nCapacité passive"
+"Requiert : niveau 7\n Khamûl devient Lieutenant de la forteresse de Dol Guldur et revêt son armure noire sinistre, dont l'aura de décrépitude affaiblit les mortels.\n\nLes ennemis proches de Khamûl subissent lentement des dégâts.\n\nCapacité passive"
 END
 
 OBJECT:GuldurAncientEasterling
@@ -61905,7 +61905,7 @@ TOOLTIP:LackHardenedSkin
 END
 
 CONTROLBAR:PurchaseUpgradeWildFortressDrumsInTheDeep
-"Tambours des Profondeurs [&D]"
+"Tambours des Profondeurs (&D)"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeWildFortressDrumsInTheDeep
@@ -61913,7 +61913,7 @@ CONTROLBAR:ToolTipPurchaseUpgradeWildFortressDrumsInTheDeep
 END
 
 CONTROLBAR:SpecialAbilityDrumsInTheDeep
-"Tambours des Profondeurs [&D]"
+"Tambours des Profondeurs (&D)"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityDrumsInTheDeep
@@ -62000,7 +62000,7 @@ CONTROLBAR:ToolTipVanguardMorgulBlade
 END
 
 CONTROLBAR:ScreechVanguard
-"Âmes Damnées [&C]"
+"Âmes Damnées (&C)"
 END
 
 CONTROLBAR:TooltipScreechVanguard
@@ -62253,7 +62253,7 @@ OBJECT:WhiteWolfLairDescription
 END
 
 CONTROLBAR:ConstructWhiteWolf
-"Loup Blanc [&F]"
+"Loup Blanc (&F)"
 END
 
 CONTROLBAR:ToolTipBuildWhiteWolf
@@ -62470,7 +62470,7 @@ CONTROLBAR:EnshroudingMistLorien
 END
 
 CONTROLBAR:TooltipEnshroudingMistLorien
-"Type d'Action : Pénalité active \n Les unités alliées dans la brume deviennent furtives, tandis que les unités ennemies subissent des dégâts dans le temps, subissent -25% dégâts, -50% vitesse, -20% armure et leurs bonus de charisme sont annulés (Pénalité non cumulable). \n\n Clic gauche sur l'icône puis clic gauche sur la zone cible"
+"Type d'Action : Pénalité active \n Les unités alliées dans la brume deviennent furtives, tandis que les unités ennemies subissent des dégâts dans le temps, subissent -25% dégâts, -50% vitesse, -20% armure et leur bonus de Charisme sont annulés (Pénalité non cumulable). \n\n Clic gauche sur l'icône puis clic gauche sur la zone cible"
 END
 
 CONTROLBAR:ElvenWoodAdamant
@@ -62678,7 +62678,7 @@ CONTROLBAR:GiftofGaladriel
 End
 
 CONTROLBAR:TooltipGiftofGaladriel
-"Requiert : niveau 7 \n Type d'Action : Pénalité active\n Invoque un Mallorn entouré d'une brume mystérieuse : les unités alliées dans la brume sont furtives et les ennemis proches subissent -25% dégâts, -20% armure et leurs bonus de charisme sont annulés (Pénalité non cumulable).\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
+"Requiert : niveau 7 \n Type d'Action : Pénalité active\n Invoque un Mallorn entouré d'une brume mystérieuse : les unités alliées dans la brume sont furtives et les ennemis proches subissent -25% dégâts, -20% armure et perdent leur bonus de Charisme (Pénalité non cumulable).\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
 End
 
 CONTROLBAR:HasteoftheElves
@@ -62699,7 +62699,7 @@ CONTROLBAR:ToolTipPurchaseUpgradeElvenFortressFlamingMunitions
 END
 
 CONTROLBAR:ConstructEregionForge
-"Construire La Réserve du Bois Doré [&G]"
+"Construire La Réserve du Bois Doré (&G)"
 END
 
 CONTROLBAR:ToolTipEregionForge
@@ -62752,7 +62752,7 @@ CONTROLBAR:ToolTipBuildThingsthatAre
 END
 
 CONTROLBAR:CallofBelegaer
-"L'Appel de Belegaer [&c]"
+"L'Appel de Belegaer (&C)"
 END
 
 CONTROLBAR:ToolTipCallofBelegaer
@@ -62780,7 +62780,7 @@ CONTROLBAR:UrshakIntimidation
 END
 
 CONTROLBAR:ToolTipUrshakIntimidation
-"Type d'Action : Pénalité active\nUrshâk jette une malédiction sur ses ennemis : les unités ennemies ciblées subissent -33% vitesse et leurs bonus de charisme sont annulés (Pénalité non cumulable).\n\nClic gauche sur l'icône puis clic gauche sur la cible"
+"Type d'Action : Pénalité active\nUrshâk jette une malédiction sur ses ennemis : les unités ennemies ciblées subissent -33% vitesse et perdent leur bonus de Charisme (Pénalité non cumulable).\n\nClic gauche sur l'icône puis clic gauche sur la cible"
 END
 
 CONTROLBAR:UrshakShakeFoundation
@@ -63095,7 +63095,7 @@ CONTROLBAR:ToolTipBuildGondorTrebuchet
 END
 
 CONTROLBAR:HornoftheGate
-"Cors de la Porte [&G]"
+"Cors de la Porte (&G)"
 END
 
 CONTROLBAR:TooltipHornoftheGate
@@ -63201,7 +63201,7 @@ CONTROLBAR:RallyingCallRivendell
 END
 
 CONTROLBAR:TooltipRallyingCallRivendell
-"Type d'Action : Bonus \n Les Alliés ciblés gagnent +50% de Dégâts et +50% d'Armure \n Se cumule avec les charismes et les sorts \n\n Clic gauche sur l'icône puis clic gauche sur les unités ciblées"
+"Type d'Action : Bonus \n Les Alliés ciblés gagnent +50% de Dégâts et +50% d'Armure \n Se cumule avec le Charisme et les sorts \n\n Clic gauche sur l'icône puis clic gauche sur les unités ciblées"
 END
 
 CONTROLBAR:OldKingdom
@@ -63209,7 +63209,7 @@ CONTROLBAR:OldKingdom
 END
 
 CONTROLBAR:ToolTipOldKingdom
-"Invoque un avant-poste Anorien en ruines\n Type d'Action : Bonus \n Toutes les unités gagnent +50% dégâts, +50% armure et deviennent immunisée à la peur et à la terreur \n Ce cumule avec les charismes et les sorts \n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
+"Invoque un avant-poste Anorien en ruines\n Type d'Action : Bonus \n Toutes les unités gagnent +50% dégâts, +50% armure et deviennent immunisée à la peur et à la terreur \n Ce cumule avec le Charisme et les sorts \n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
 END
 
 CONTROLBAR:SummonHallOfFire
@@ -63298,7 +63298,7 @@ CONTROLBAR:ThorinResentment
 END
 
 CONTROLBAR:ToolTipThorinResentment
-"Requiert : niveau 5 \n Type d'Action : Pénalité active \n Les unités ennemies ciblées subissent -20% vitesse et -30% armure, et annule les bonus de charisme ennemis.\n\nClic gauche pour les unités ennemies"
+"Requiert : niveau 5 \n Type d'Action : Pénalité active \n Les unités ennemies ciblées subissent -20% vitesse et -30% armure, et annule les bonus de Charisme ennemis.\n\nClic gauche pour les unités ennemies"
 END
 
 CONTROLBAR:ThorinRestoration
@@ -63478,7 +63478,7 @@ CONTROLBAR:YoungDainRecklessAssault
 End
 
 CONTROLBAR:ToolTipYoungDainRecklessAssault
-"Requiert : niveau 3 \n Type d'Action : Sort et Pénalité active\n Les unités alliées ciblées gagnent +33% dégâts et +33% armure.\n Les unités ennemies ciblées subissent -25% dégâts et -20% armure.\nAnnule les bonus de charisme des ennemis (Bonus cumulable mais malus non cumulable).\n\nClic gauche sur l'icône puis clic gauche sur la cible"
+"Requiert : niveau 3 \n Type d'Action : Sort et Pénalité active\n Les unités alliées ciblées gagnent +33% dégâts et +33% armure.\n Les unités ennemies ciblées subissent -25% dégâts et -20% armure.\nAnnule les bonus de Charisme des ennemis (Bonus cumulable mais malus non cumulable).\n\nClic gauche sur l'icône puis clic gauche sur la cible"
 End
 
 CONTROLBAR:YoungBalinTactician
@@ -64198,7 +64198,7 @@ CONTROLBAR:EreborDainRecklessAssault
 End
 
 CONTROLBAR:ToolTipEreborDainRecklessAssault
-"Requiert : niveau 5 \n Type d'Action : Sort et Pénalité active\n Les unités alliées ciblées gagnent +33% dégâts et +33% armure. \n Les unités ennemies ciblées subissent -25% dégâts et -20% armure. \n Annule les bonus de charisme des ennemis (bonus cumulable mais malus non cumulable). \n\n Clic gauche sur l'icône puis clic gauche sur la cible"
+"Requiert : niveau 5 \n Type d'Action : Sort et Pénalité active\n Les unités alliées ciblées gagnent +33% dégâts et +33% armure. \n Les unités ennemies ciblées subissent -25% dégâts et -20% armure. \n Annule les bonus de Charisme des ennemis (bonus cumulable mais malus non cumulable). \n\n Clic gauche sur l'icône puis clic gauche sur la cible"
 End
 
 CONTROLBAR:EreborDainToTheKing
@@ -64229,7 +64229,7 @@ CONTROLBAR:ToolTipBrotherhoodKili
 END
 
 CONTROLBAR:FiliAxeThrow
-"Lame Cachée [&I]"
+"Lame Cachée (&I)"
 END
 
 CONTROLBAR:ToolTipFiliAxeThrow
@@ -64453,7 +64453,7 @@ CONTROLBAR:ToolTipElladanLeadership
 End
 
 CONTROLBAR:ElladanLeadership2
-"Haine des Orques [&C]"
+"Haine des Orques (&C)"
 End
 
 CONTROLBAR:ToolTipElladanLeadership2
@@ -64477,7 +64477,7 @@ CONTROLBAR:ToolTipElrohirLeadership
 End
 
 CONTROLBAR:ElrohirLeadership2
-"Haine des Orques [&C]"
+"Haine des Orques (&C)"
 End
 
 CONTROLBAR:ToolTipElrohirLeadership2
@@ -64981,7 +64981,7 @@ CONTROLBAR:ConstructNoldorVeteransHorde
 END
 
 CONTROLBAR:ConstructNoldorVeteransGilGaladHorde
-"La Chute de Gil-Galad [&F]"
+"La Chute de Gil-Galad (&F)"
 END
 
 CONTROLBAR:ToolTipBuildNoldorVeteransHorde
@@ -65112,7 +65112,7 @@ CONTROLBAR:GlorfindelWrath
 End
 
 CONTROLBAR:ToolTipGlorfindelWrath
-"Requiert : Niveau 3 \n Glorfindel gagne temporairement +100% de dégâts \n Clic gauche pour activer \n\n Type d'Action : Sort \n Glorfindel provoque la peur aux ennemis proches et aux Nazgûl. \n S'accumule avec les Sorts, les Bonus, et les Charismes \n Capacité passive"
+"Requiert : Niveau 3 \n Glorfindel gagne temporairement +100% de dégâts \n Clic gauche pour activer \n\n Type d'Action : Sort \n Glorfindel provoque la peur aux ennemis proches et aux Nazgûl. \n S'accumule avec les Sorts, les Bonus, et le Charisme \n Capacité passive"
 End
 
 CONTROLBAR:GlorfindelLight
@@ -65212,7 +65212,7 @@ OBJECT:HordeIronHillsCrossbow
 END
 
 CONTROLBAR:ConstructIronHillsCrossbowHorde
-"Arbalétriers des Monts du Fer [&C]"
+"Arbalétriers des Monts du Fer (&C)"
 END
 
 CONTROLBAR:ToolTipBuildIronHillsCrossbowHorde
@@ -65236,11 +65236,11 @@ CONTROLBAR:BTDurinBannerUpgraded
 END
 
 CONTROLBAR:ToolTipBTDurinBanner
-"Type d'Action : Sort \n Les alliés proches de la tour gagnent de l'expérience 15% plus rapidement \n S'accumule avec les Sorts, les Bonus, et les Charismes \n Capacité passive \n Clic gauche pour acheter"
+"Type d'Action : Sort \n Les alliés proches de la tour gagnent de l'expérience 15% plus rapidement \n S'accumule avec les Sorts, les Bonus, et le Charisme \n Capacité passive \n Clic gauche pour acheter"
 END
 
 CONTROLBAR:ToolTipBTDurinBannerUpgraded
-"Type d'Action : Sort \n Les alliés proches de la tour gagnent de l'expérience 15% plus rapidement \n S'accumule avec les Sorts, les Bonus, et les Charismes \n Capacité passive"
+"Type d'Action : Sort \n Les alliés proches de la tour gagnent de l'expérience 15% plus rapidement \n S'accumule avec les Sorts, les Bonus, et le Charisme \n Capacité passive"
 END
 
 UPGRADE:BTKhazadBanner
@@ -65256,11 +65256,11 @@ CONTROLBAR:BTKhazadBannerUpgraded
 END
 
 CONTROLBAR:ToolTipBTKhazadBanner
-"Type d'Action : Sort \n Les alliés proches de la tour deviennent insensibles à la Peur et à la Terreur \n S'accumule avec les Sorts, les Bonus, et les Charismes \n Capacité passive \n Clic gauche pour acheter"
+"Type d'Action : Sort \n Les alliés proches de la tour deviennent insensibles à la Peur et à la Terreur \n S'accumule avec les Sorts, les Bonus, et le Charisme \n Capacité passive \n Clic gauche pour acheter"
 END
 
 CONTROLBAR:ToolTipBTKhazadBannerUpgraded
-"Type d'Action : Sort \n Les alliés proches de la tour deviennent insensibles à la Peur et à la Terreur \n S'accumule avec les Sorts, les Bonus, et les Charismes \n Capacité passive"
+"Type d'Action : Sort \n Les alliés proches de la tour deviennent insensibles à la Peur et à la Terreur \n S'accumule avec les Sorts, les Bonus, et le Charisme \n Capacité passive"
 END
 
 UPGRADE:BTEredMithrimBanner
@@ -65276,11 +65276,11 @@ CONTROLBAR:BTEredMithrimBannerUpgraded
 END
 
 CONTROLBAR:ToolTipBTEredMithrimBanner
-"Type d'Action : Sort \n Augmente la portée de vision de la tour.\n Les alliés proches de la tour gagnent un bonus de +25% vision \n S'accumule avec les Sorts, les Bonus, et les Charismes \n Capacité passive \n Clic gauche pour acheter"
+"Type d'Action : Sort \n Augmente la portée de vision de la tour.\n Les alliés proches de la tour gagnent un bonus de +25% vision \n S'accumule avec les Sorts, les Bonus, et le Charisme \n Capacité passive \n Clic gauche pour acheter"
 END
 
 CONTROLBAR:ToolTipBTEredMithrimBannerUpgraded
-"Type d'Action : Sort \n Augmente la portée de vision de la tour.\n Les alliés proches de la tour gagnent un bonus de +25% vision \n S'accumule avec les Sorts, les Bonus, et les Charismes \n Capacité passive"
+"Type d'Action : Sort \n Augmente la portée de vision de la tour.\n Les alliés proches de la tour gagnent un bonus de +25% vision \n S'accumule avec les Sorts, les Bonus, et le Charisme \n Capacité passive"
 END
 
 UPGRADE:BTIronHillsBanner
@@ -65296,11 +65296,11 @@ CONTROLBAR:BTIronHillsBannerUpgraded
 END
 
 CONTROLBAR:ToolTipBTIronHillsBanner
-"Type d'Action : Sort \n Les alliés proches de la tour gagnent +15% dégâts \n S'accumule avec les Sorts, les Bonus, et les Charismes \n Capacité passive \n Clic gauche pour acheter"
+"Type d'Action : Sort \n Les alliés proches de la tour gagnent +15% dégâts \n S'accumule avec les Sorts, les Bonus, et le Charisme \n Capacité passive \n Clic gauche pour acheter"
 END
 
 CONTROLBAR:ToolTipBTIronHillsBannerUpgraded
-"Type d'Action : Sort \n Les alliés proches de la tour gagnent +15% dégâts \n S'accumule avec les Sorts, les Bonus, et les Charismes \n Capacité passive"
+"Type d'Action : Sort \n Les alliés proches de la tour gagnent +15% dégâts \n S'accumule avec les Sorts, les Bonus, et le Charisme \n Capacité passive"
 END
 
 UPGRADE:BTEredLuinBanner
@@ -65316,11 +65316,11 @@ CONTROLBAR:BTEredLuinBannerUpgraded
 END
 
 CONTROLBAR:ToolTipBTEredLuinBanner
-"Type d'Action : Sort \n Les alliés proches de la tour gagnent des ressources pour chaque ennemi tué \n S'accumule avec les Sorts, les Bonus, et les Charismes \n Capacité passive"
+"Type d'Action : Sort \n Les alliés proches de la tour gagnent des ressources pour chaque ennemi tué \n S'accumule avec les Sorts, les Bonus, et le Charisme \n Capacité passive"
 END
 
 CONTROLBAR:ToolTipBTEredLuinBannerUpgraded
-"Type d'Action : Sort \n Les alliés proches de la tour gagnent des ressources pour chaque ennemi tué \n S'accumule avec les Sorts, les Bonus, et les Charismes \n Capacité passive"
+"Type d'Action : Sort \n Les alliés proches de la tour gagnent des ressources pour chaque ennemi tué \n S'accumule avec les Sorts, les Bonus, et le Charisme \n Capacité passive"
 END
 
 OBJECT:DwarfBatteringRam
@@ -65736,7 +65736,7 @@ OBJECT:HordeGrimHammer
 END
 
 CONTROLBAR:ConstructGrimHammerHorde
-"Marteliers Sinistre d'Erebor [&H]"
+"Marteliers Sinistre d'Erebor (&H)"
 END
 
 CONTROLBAR:ToolTipBuildGrimHammerHorde
@@ -65798,15 +65798,15 @@ END
 //----- Dol Guldur --------
 
 OBJECT:GuldurCastellan
-"Le Châtelain de Dol Guldur"
+"Châtelain de Dol Guldur"
 END
 
 CONTROLBAR:ConstructGuldurCastellan
-"Le Châtelain de Dol Guldur"
+"Châtelain de Dol Guldur"
 END
 
 CONTROLBAR:ToolTipBuildGuldurCastellan
-"Anonymes, dépourvus de volonté propre et de personnalité, les Châtelains de Dol Guldur ne sont qu'un aspect de l'éternelle malfaisance de la tour. \n Ils sont dénués de forme physique à l'exception de celles que leur confèrent leurs lourdes armures, et arpentent les sentiers environnant Dol Guldur, tuant tous ceux qu'ils rencontrent. \n Ces gardiens sont tous entrés au service de Sauron d'une façon différente. Certains cherchaient en lui un maître pour apprendre la sorcellerie, d'autres ne sont que les restes immatériels de ceux qui ont connu l'agonie au fond de ses donjons. Tous lui sont irrémédiablement liés et le serviront de toute leur âme, ou de ce qu'il en reste. \n\n Forts contre les épéistes et les archers."
+"Requiert : Tour de la Sorcellerie niveau 3 \n Forts contre les épéistes et les archers \n Limité à 3 \n\n Anonymes, dépourvus de volonté propre et de personnalité, les Châtelains de Dol Guldur ne sont qu'un aspect de l'éternelle malfaisance de la tour. \n Ils sont dénués de forme physique à l'exception de celles que leur confèrent leurs lourdes armures, et arpentent les sentiers environnant Dol Guldur, tuant tous ceux qu'ils rencontrent. \n Ces gardiens sont tous entrés au service de Sauron d'une façon différente. Certains cherchaient en lui un maître pour apprendre la sorcellerie, d'autres ne sont que les restes immatériels de ceux qui ont connu l'agonie au fond de ses donjons. Tous lui sont irrémédiablement liés et le serviront de toute leur âme, ou de ce qu'il en reste."
 END
 
 OBJECT:DwarfTruesilverMine
@@ -66068,7 +66068,7 @@ OBJECT:HallOfFire
 END
 
 OBJECT:HallOfFireDescription
-"Asseyez-vous près du foyer et écoutez les contes d'autrefois. \n\nType d'Action : Charisme \n Les alliés proches de la Salle de feu gagnent +33% d'armure, gagnent 50% d'expérience plus rapidement, et deviennent immunisés contre la peur et la terreur \n S'aditionne avec les bonus et charismes \n Réapprovisionne la santé et les unités des bataillons proches\n La Salle de feu peut évoquer des images vivantes du passé qui inspirent la peur et causent des dégâts aux unités ennemies"
+"Asseyez-vous près du foyer et écoutez les contes d'autrefois. \n\nType d'Action : Charisme \n Les alliés proches de la Salle de feu gagnent +33% d'armure, gagnent 50% d'expérience plus rapidement, et deviennent immunisés contre la peur et la terreur \n S'aditionne avec les bonus et le Charisme \n Réapprovisionne la santé et les unités des bataillons proches\n La Salle de feu peut évoquer des images vivantes du passé qui inspirent la peur et causent des dégâts aux unités ennemies"
 END
 
 CONTROLBAR:HallOfFireSpawnGilGalad
@@ -66744,7 +66744,7 @@ CONTROLBAR:LW_Hero_Bolg
 END
 
 CONTROLBAR:LW_Hero_Thrain
-"Thráin Le Brisé"
+"Thráin le Brisé"
 END
 
 CONTROLBAR:LW_Unit_GondorLinhirPikeHordePlural
@@ -67869,19 +67869,19 @@ CONTROLBAR:ToolTipSummonStormcrow
 END
 
 CONTROLBAR:ToolTipBuildRohanBarracksLevel2Upgrade
-"Permet l'entrainement des Ouestfoldes et la recherche d'amélioration des Lames Forgée \n +10% de vitesse de construction"
+"Permet l'entraînement des Ouestfoldes et la recherche d'amélioration des Lames Forgée \n +10% de vitesse de construction"
 END
 
 CONTROLBAR:ToolTipBuildRohanBarracksLevel3Upgrade
-"Permet l'entrainement des Gardes Royaux d'Edoras, des Guerriers d'Helmingas \n et la recherche d'amélioration d'Armure Lourde  \n Au niveau 3 : +25% de vitesse de construction \n Ajoute une tour de flèche défensive"
+"Permet l'entraînement des Gardes Royaux d'Edoras, des Guerriers d'Helmingas \n et la recherche d'amélioration d'Armure Lourde  \n Au niveau 3 : +25% de vitesse de construction \n Ajoute une tour de flèche défensive"
 END
 
 CONTROLBAR:ToolTipBuildRohanBarracksLevel3Upgrade_WOTR
-"Permet l'entrainement des Gardes Royaux d'Edoras et la recherche d'amélioration d'Armure Lourde \n Au niveau 3 : +25% de vitesse de construction \n Ajoute une tour de flèche défensive"
+"Permet l'entraînement des Gardes Royaux d'Edoras et la recherche d'amélioration d'Armure Lourde \n Au niveau 3 : +25% de vitesse de construction \n Ajoute une tour de flèche défensive"
 END
 
 CONTROLBAR:ToolTipBuildRohanArcherRangeLevel2Upgrade
-"Permet l'entrainement des Gardiens d'Halifirien et la recherche d'amélioration des Flèches Enflammés \n +10% de vitesse de construction"
+"Permet l'entraînement des Gardiens d'Halifirien et la recherche d'amélioration des Flèches Enflammés \n +10% de vitesse de construction"
 END
 
 CONTROLBAR:ToolTipBuildRohanArcherRangeLevel3Upgrade
@@ -67889,11 +67889,11 @@ CONTROLBAR:ToolTipBuildRohanArcherRangeLevel3Upgrade
 END
 
 CONTROLBAR:ToolTipBuildRohanStablesLevel2Upgrade
-"Permet l'entrainement des Guerriers Rohirrim, des Archers Rohirrim, des Chevaucheurs du Snawburna et la recherche du Bouclier amélioré des Cavaliers \n  +10% de vitesse de construction"
+"Permet l'entraînement des Guerriers Rohirrim, des Archers Rohirrim, des Chevaucheurs du Snawburna et la recherche du Bouclier amélioré des Cavaliers \n  +10% de vitesse de construction"
 END
 
 CONTROLBAR:ToolTipBuildRohanStablesLevel3Upgrade
-"Permet l'entrainement de la Garde Royale monté \n Au niveau 3 : +25% de vitesse de construction \n Ajoute une tour de flèche défensive"
+"Permet l'entraînement de la Garde Royale monté \n Au niveau 3 : +25% de vitesse de construction \n Ajoute une tour de flèche défensive"
 END
 
 OBJECT:EverholtBoar
@@ -68058,7 +68058,7 @@ CONTROLBAR:ToolTipRohanPeasantHasDraft
 END
 
 CONTROLBAR:ErkenbrandHorn
-"Corne Dorée [&i]"
+"Corne Dorée (&I)"
 END
 
 CONTROLBAR:ToolTipErkenbrandHorn
@@ -68634,11 +68634,11 @@ BANNERUI:TookArchers
 END
 
 CONTROLBAR:LW_Unit_BreelandGuardHorde
-"Bataillon de Guardes de Bree"
+"Bataillon de Gardes de Bree"
 END
 
 CONTROLBAR:LW_Unit_BreelandGuardHordePlural
-"Bataillons de Guardes de Bree"
+"Bataillons de Gardes de Bree"
 END
 
 CONTROLBAR:LW_ToolTipBuild_BreelandGuardHorde
@@ -69002,7 +69002,7 @@ CONTROLBAR:SongForVictory
 END
 
 CONTROLBAR:ToolTipSongForVictoryGuards
-"Les Guerriers chevronnés chantent une chanson des victoires du passées \n Les Guardes d'Imladris gagnent temporairement +33% Dégâts \n Clic gauche pour activer"
+"Les Guerriers chevronnés chantent une chanson des victoires du passées \n Les Gardes d'Imladris gagnent temporairement +33% Dégâts \n Clic gauche pour activer"
 END
 
 CONTROLBAR:ToolTipSongForVictoryGlaivesmen
@@ -69062,7 +69062,7 @@ CONTROLBAR:ConstructWildMountainLodgeLevel3Upgrade
 END
 
 CONTROLBAR:ToolTipBuildWildMountainLodgeLevel3Upgrade
-"Permet l'Entrainement des Horreurs de Gram \n +25% Vitesse de Construction"
+"Permet l'entraînement des Horreurs de Gram \n +25% Vitesse de Construction"
 END
 
 CONTROLBAR:AngmarCitadel
@@ -69082,7 +69082,7 @@ CONTROLBAR:ChillofAngmar
 END
 
 CONTROLBAR:ToolTipChillofAngmar
-"Les unités ennemies proches sont ralentis et perdent tous leurs Charisme \n Capacité Passive"
+"Les unités ennemies proches sont ralentis et perdent leur Charisme \n Capacité Passive"
 END
 
 CONTROLBAR:HelmingasShieldCrush
@@ -69142,7 +69142,7 @@ CONTROLBAR:ToolTipSpecialAbilityGreatBeastHouda
 END
 
 CONTROLBAR:GreatBeastGrog
-"Donnez-leur du Grog ! [&i]"
+"Donnez-leur du Grog ! (&I)"
 END
 
 CONTROLBAR:TooltipSpecialAbilityGreatBeastGrog
@@ -69465,7 +69465,7 @@ CONTROLBAR:LoneScoutLeadership
 END
 
 CONTROLBAR:TooltipLoneScoutLeadership
-"Type d'Action : Bonus \n Le Cavalier accord aux unités proches +15% de vitesse \n S'accumule avec le charisme et les Sorts \n \n Capacité passive"
+"Type d'Action : Bonus \n Le Cavalier accord aux unités proches +15% de vitesse \n S'accumule avec le Charisme et les Sorts \n \n Capacité passive"
 END
 
 CONTROLBAR:FrodoMithrilShirt
@@ -69585,15 +69585,15 @@ OBJECT:GuldurSlaveMill
 End
 
 OBJECT:GuldurSlaveMillDescription
-"Produit de la Misère comme ressources, basé sur le terrain disponible \n Peut invoquer des hordes de Brisés \n Bonus de Misère - Réduit le coût des Orques de base \n 2 Moulins à Esclaves: 5% \n 3 Moulins à Esclaves: 10% \n 4 Moulins à Esclaves: 15% \n 5 Moulins à Esclaves: 20% \n 6+ Moulins à Esclaves: 25%"
+"Produit de la Misère comme ressource basée sur le terrain disponible \n Peut invoquer des hordes de Brisés \n Bonus de Misère - Réduit le coût des Orques de base \n 2 Moulins à Esclaves: 5% \n 3 Moulins à Esclaves: 10% \n 4 Moulins à Esclaves: 15% \n 5 Moulins à Esclaves: 20% \n 6+ Moulins à Esclaves: 25%"
 End
 
 CONTROLBAR:ConstructGuldurSlaveMill
-"Invoquer un Moulin à Esclaves [&r]"
+"Invoque&r un Moulin à esclaves"
 END
 
 CONTROLBAR:TooltipConstructGuldurSlaveMill
-"Produit de la Misère comme ressources, basé sur le terrain disponible \n Peut invoquer des hordes de Brisés \n Réduit le coût des Orques de base \n Augmente la limite de points de commandement de 50"
+"Produit de la Misère comme ressource basée sur le terrain disponible \n Peut invoquer des hordes de Brisés \n Réduit le coût des Orques de base \n Augmente la limite de points de commandement de 50"
 END
 
 OBJECT:GuldurFountOfCorruption
@@ -69601,7 +69601,7 @@ OBJECT:GuldurFountOfCorruption
 End
 
 OBJECT:GuldurFountOfCorruptionDescription
-"Produit de la Corruption comme reesources, basé sur le terrain disponible \n Entraîne des Trappeurs Souillés et des Ents Corrompus \n Bonus de Corruption - Réduit le coût des araignées \n 2 Sources: 5% \n 3 Sources: 10% \n 4 Sources: 15% \n 5 Sources: 20% \n 6+ Sources: 25%"
+"Produit de la Corruption comme ressource basée sur le terrain disponible \n Entraîne des Trappeurs Souillés et des Ents Corrompus \n Bonus de Corruption - Réduit le coût des araignées \n 2 Sources: 5% \n 3 Sources: 10% \n 4 Sources: 15% \n 5 Sources: 20% \n 6+ Sources: 25%"
 End
 
 CONTROLBAR:ConstructGuldurFountOfCorruption
@@ -69609,7 +69609,7 @@ CONTROLBAR:ConstructGuldurFountOfCorruption
 END
 
 CONTROLBAR:ToolTipConstructGuldurFountOfCorruption
-"Produit de la Corruption comme ressources, basé sur le terrain disponible \n Entraîne des Trappeurs Souillés et des Ents Corrompus \n Réduit le coût des araignées \n Augmente la limite de points de commandement de 50"
+"Produit de la Corruption comme ressource basée sur le terrain disponible \n Entraîne des Trappeurs Souillés et des Ents Corrompus \n Réduit le coût des araignées \n Augmente la limite de points de commandement de 50"
 End
 
 OBJECT:GuldurWoodsmen
@@ -69685,7 +69685,7 @@ CONTROLBAR:ToolTipBuildGuldurOrcArcherHorde
 END
 
 CONTROLBAR:BringItDown
-"Mettez-le à Terre ! [&i]"
+"Mettez-le à Terre ! (&I)"
 END
 
 CONTROLBAR:ToolTipBringItDown
@@ -69733,19 +69733,19 @@ CONTROLBAR:ToolTipAppetiteForDestruction
 END
 
 OBJECT:GuldurTombGuard
-"Guardien des Tombes"
+"Gardien des Tombeaux"
 END
 
 OBJECT:GuldurTombGuardHorde
-"Guardiens des Tombes"
+"Gardiens des Tombeaux"
 END
 
 CONTROLBAR:ConstructGuldurTombGuardHorde
-"Guardiens des To&mbes"
+"Gardiens des To&mbeaux"
 END
 
 CONTROLBAR:ToolTipBuildGuldurTombGuardHorde
-"Requiert : Niveau 3 Les Geôles de Dol Guldur \n Fort contre Cavalerie \n\n De nombreux tunnels et tombes sombres ont été creusés dans Amon Lanc pour abriter les serviteurs du Nécromancien et les garder à l'abri des regards indiscrets du Conseil Blanc. Ils étaient gardés par d'anciens orques d'esprit singulier, rongés et pourris."
+"Requiert : Geôles de Dol Guldur niveau 3 \n Fort contre Cavalerie \n\n De nombreux tunnels et tombes sombres ont été creusés dans Amon Lanc pour abriter les serviteurs du Nécromancien et les garder à l'abri des regards indiscrets du Conseil Blanc. Ils étaient gardés par d'anciens orques d'esprit singulier, rongés et pourris."
 END
 
 CONTROLBAR:GuldurHeavyDuty
@@ -69753,7 +69753,7 @@ CONTROLBAR:GuldurHeavyDuty
 END
 
 CONTROLBAR:ToolTipGuldurHeavyDuty
-"Requiert : Niveau 2 \n Quand un Guardien des Tombes meurt, Les Guardiens des Tombes proches gagnent temporairement +15% Armure \n Cumulable \n Capacité Passive"
+"Requiert : Niveau 2 \n Quand un Gardien des Tombeaux meurt, les Gardiens des Tombeaux proches gagnent temporairement +15% Armure \n Cumulable \n Capacité Passive"
 END
 
 OBJECT:GuldurHarbinger
@@ -69765,7 +69765,7 @@ OBJECT:HordeGuldurHarbinger
 END
 
 CONTROLBAR:ConstructGuldurRisenDeadHorde
-"Morts Réincarnés [&D]"
+"Morts Réincarnés (&D)"
 END
 
 CONTROLBAR:ToolTipBuildGuldurRisenDeadHorde
@@ -69777,11 +69777,11 @@ CONTROLBAR:ConstructGuldurHarbingerHorde
 END
 
 CONTROLBAR:ToolTipBuildGuldurHarbingerHorde
-"Unité d'élite \n Fort contre Héros,Infanterie et Structures \n Limité à 3 \n Pendant la longue retraite de Sauron dans les terres mystérieuses de l'Est, il a attiré un grand nombre de Sorciers et de Seigneur-Sorcier. \n Ces hommes pervers voulaient apprendre les arts sombres de Morgoth, se transformant avec le temps en Messagers des Ténèbres, \n à moitié vivants et suivant Sauron dans son voyage de retour dans les terres et les affaires de ses ennemis jurés."
+"Unité d'élite \n Fort contre Héros, Infanterie et Structures \n Limité à 3 \n\n Pendant la longue retraite de Sauron dans les terres mystérieuses de l'Est, il a attiré un grand nombre de Sorciers et de Seigneur-Sorcier. \n Ces hommes pervers voulaient apprendre les arts sombres de Morgoth, se transformant avec le temps en Messagers des Ténèbres, à moitié vivants et suivant Sauron dans son voyage de retour dans les terres et les affaires de ses ennemis jurés."
 END
 
 CONTROLBAR:DarkPresence
-"Noir Présence"
+"Présence Noire"
 END
 
 CONTROLBAR:ToolTipDarkPresence
@@ -69797,7 +69797,7 @@ CONTROLBAR:GuldurInfestation
 END
 
 CONTROLBAR:ToolTipGuldurInfestation
-"Requiert : Antre des Araignées \n Invoque temporairement une nuée d'araignées autour de la structure \n qui ralentissent la Vitesse d'Attaque et la Vitesse des ennemis proches \n et infligent de faibles dégâts \n Clic gauche pour activer"
+"Requiert : Antre des Araignées \n Invoque temporairement une nuée d'araignées autour de la structure qui ralentit la vitesse d'attaque et la vitesse des ennemis proches et infligent de faibles dégâts \n Clic gauche pour activer"
 END
 
 CONTROLBAR:SpiderLairInfestation
@@ -69805,7 +69805,7 @@ CONTROLBAR:SpiderLairInfestation
 END
 
 CONTROLBAR:ToolTipSpiderLairInfestation
-"Une fois construit, l'Antre à Araignées permet à plusieurs structures \n d'utiliser le pouvoir Infestation \n Invoque temporairement une nuée d'araignées autour de la structure \n qui ralentissent la Vitesse d'Attaque et la Vitesse des ennemis proches et infligent de faibles dégâts \n Capacité Passive"
+"Une fois construit, l'Antre à Araignées permet à plusieurs structures \n d'utiliser le pouvoir Infestation \n Invoque temporairement une nuée d'araignées autour de la structure \n qui ralentit la Vitesse d'Attaque et la Vitesse des ennemis proches et infligent de faibles dégâts \n Capacité Passive"
 END
 
 CONTROLBAR:GuldurDrain
@@ -69813,7 +69813,7 @@ CONTROLBAR:GuldurDrain
 END
 
 CONTROLBAR:ToolTipGuldurDrain
-"Les Unités souffrent d'un effet de base qui inflige des dégâts constant au cours du temps \n dûe à la magie du Nécromancien qui les draîne \n ainsi que leur environnement \n Noir Présence contre cet effet et Renforce les unités"
+"Les unités souffrent d'un effet de base qui inflige des dégâts constant au cours du temps \n dûe à la magie du Nécromancien qui les draîne \n ainsi que leur environnement \n Noir Présence contre cet effet et Renforce les unités"
 END
 
 CONTROLBAR:EternalServitude
@@ -69906,23 +69906,23 @@ CONTROLBAR:ConstructGuldurGaol
 END
 
 CONTROLBAR:ToolTipConstructGuldurGaol
-"Entraîner des Brisés et des unités Orques \n Augmente la limite de points de commandement de 25"
+"Entraîne des Brisés et des unités Orques \n Augmente la limite de points de commandement de 25"
 END
 
 CONTROLBAR:ConstructGuldurGaol2Upgrade
-"Amélioration Les Geôles de Dol G&uldur au Niveau 2"
+"Améliore les Geôles de Dol G&uldur au Niveau 2"
 End
 
 CONTROLBAR:ConstructGuldurGaol3Upgrade
-"Amélioration Les Geôles de Dol G&uldur au Niveau 3"
+"Améliore les Geôles de Dol G&uldur au Niveau 3"
 End
 
 CONTROLBAR:ToolTipBuildGuldurGaol2Upgrade
-"Permet l'Entrainement de Ravageurs Orques \n +10% Vitesse de Construction"
+"Permet l'entraînement de Ravageurs Orques \n +10% Vitesse de Construction"
 End
 
 CONTROLBAR:ToolTipBuildGuldurGaol3Upgrade
-"Permet l'Entraînement de Gardiens des Tombes \n +25% Vitesse de Construction \n Ajoute une tour d'Archer défensive"
+"Permet l'entraînement de Gardiens des Tombeaux \n +25% Vitesse de Construction \n Ajoute une tour d'Archer défensive"
 End
 
 OBJECT:GuldurSpiderLair
@@ -69934,15 +69934,15 @@ OBJECT:GuldurSpiderLairDescription
 END
 
 CONTROLBAR:ConstructGuldurSpiderLair
-"Invoquer une Antre à Araignées [&l]"
+"Invoquer une Antre à Araignées [&L]"
 END
 
 CONTROLBAR:ToolTipConstructGuldurSpiderLair
-"Entraîner et Améliorer les Araignées \n Augmente la limite de points de commandements de 25"
+"Entraîne et améliore les Araignées \n Augmente la limite de points de commandements de 25"
 END
 
 OBJECT:GuldurFellBrood
-"Couvée"
+"Vile Couvée"
 END
 
 OBJECT:GuldurFellBroodMatriarch
@@ -69950,11 +69950,11 @@ OBJECT:GuldurFellBroodMatriarch
 END
 
 CONTROLBAR:ConstructGuldurFellBroodHorde
-"Couvée [&f]"
+"Vile Couvée (&F)"
 END
 
 CONTROLBAR:ToolTipBuildGuldurFellBroodHorde
-"Fort contre Infanterie\nPeut renverser les unités ennemies \n\n Une horde de Grandes Araignées de Forêt Noire"
+"Fort contre Infanterie\nPeut renverser les unités ennemies \n\n Une horde de grandes Araignées de la Forêt Noire"
 END
 
 CONTROLBAR:FellBroodShriek
@@ -69970,7 +69970,7 @@ CONTROLBAR:ConstructGuldurGreatSpider
 END
 
 CONTROLBAR:ToolTipBuildGuldurGreatSpider
-"Requiert : Niveau 3 Antre à Araignées \n Fort contre Structures \n\n Une unique Araignée Géante qui renverse les unités ennemies et inflige de puissants dégâts de siège"
+"Requiert : Antre à Araignées niveau 3 \n Fort contre Structures \n\n Une unique Araignée Géante qui renverse les unités ennemies et inflige de puissants dégâts de siège"
 END
 
 OBJECT:GuldurGreatSpider
@@ -69990,7 +69990,7 @@ CONTROLBAR:EncasingWebs
 END
 
 CONTROLBAR:ToolTipEncasingWebs
-"Requiert : Niveau 3 \n Désactive les structures ennemis et inflige de légers dégâts au cours du temps \n Clic gauche sur l'icône puis clic gauche sur la cible"
+"Requiert : Niveau 3 \n Désactive les structures ennemies et inflige de légers dégâts au cours du temps \n Clic gauche sur l'icône puis clic gauche sur la cible"
 END
 
 CONTROLBAR:ConstructGuldurSpiderLairLevel2Upgrade
@@ -70006,11 +70006,11 @@ CONTROLBAR:ToolTipBuildGuldurSpiderLairLevel2Upgrade
 END
 
 CONTROLBAR:ToolTipBuildGuldurSpiderLairLevel3Upgrade
-"Permet l'Entraînement des Soeurs de Saenathra \n +25% Vitesse de Construction"
+"Permet l'entraînement des Soeurs de Saenathra \n +25% Vitesse de Construction"
 END
 
 OBJECT:GuldurRestlessBarrow
-"Un Tumulus"
+"Tumulus"
 END
 
 CONTROLBAR:ConstructGuldurRestlessBarrow
@@ -70018,7 +70018,7 @@ CONTROLBAR:ConstructGuldurRestlessBarrow
 END
 
 CONTROLBAR:ToolTipConstructGuldurRestlessBarrow
-"Des Unités défensives qui attaqueront les ennemis proches \n Augmente la limite de points de commandement de 25"
+"Des unités défensives qui attaqueront les ennemis proches \n Augmente la limite de points de commandement de 25"
 END
 
 OBJECT:GuldurRestlessWarrior
@@ -70030,11 +70030,11 @@ CONTROLBAR:ConstructGuldurSorceryTower
 End
 
 CONTROLBAR:ToolTipConstructGuldurSorceryTower
-"Entrainer des unités d'élites \n Inflige des dégâts aux ennemis proches et les transforme en spectres à leur mort \n Débloque l'amélioration Nécromancie \n Augmente la limite de points de commandement de 25"
+"Entraîne des unités d'élites \n Inflige des dégâts aux ennemis proches et les transforme en spectre à leur mort \n Débloque l'amélioration Nécromancie \n Augmente la limite de points de commandement de 25"
 END
 
 CONTROLBAR:ToolTipConstructGuldurSorceryTower_WOTR
-"Entraîner des unités d'élites \n Inflige des dégâts aux ennemis proches et les transforme en spectres à leur mort \n Augmente la limite de points de commandement de 25"
+"Entraîne des unités d'élites \n Inflige des dégâts aux ennemis proches et les transforme en spectre à leur mort \n Augmente la limite de points de commandement de 25"
 END
 
 CONTROLBAR:HarbingerDeepRot
@@ -70042,7 +70042,7 @@ CONTROLBAR:HarbingerDeepRot
 END
 
 CONTROLBAR:ToolTipHarbingerDeepRot
-"Peut être jeté sur une structure pour infliger des dégâts au fil du temps \n Au Niveau 3, invoque plusieurs spectres incontrôllables autour de la structure ciblée \n Ces spectres restent peu de temps mais peuvent transformer \n les unités ennemies en Spectres \n Clic gauche sur l'icône puis clic gauche sur le bâtiment cible"
+"Peut être utilisé sur une structure pour infliger des dégâts au fil du temps \n Au Niveau 3, invoque plusieurs spectres incontrôlables autour de la structure ciblée \n Ces spectres restent peu de temps mais peuvent transformer \n les unités ennemies en Spectres \n Clic gauche sur l'icône puis clic gauche sur le bâtiment cible"
 END
 
 CONTROLBAR:HarbingerColdSteel
@@ -70086,15 +70086,15 @@ OBJECT:GuldurStatueExpansion
 END
 
 OBJECT:GuldurStatueExpansionDescription
-"Les ennemis proches subbissent -25% Dégpats et -20% Armure \n Les unités ennemies fuient de peur et de terreur \n Peut invoquer une horde de Guerriers Squelettes parmis les unités ennemies et les engins de siège"
+"Les ennemis proches subissent -25% Dégâts et -20% Armure \n Les unités ennemies fuient de peur et de terreur \n Peut invoquer une horde de Guerriers Squelettes parmis les unités ennemies et les engins de siège"
 END
 
 CONTROLBAR:ConstructGuldurStatueExpansion
-"Extansion Statue Délaissée [&f]"
+"Extension Statue Délaissée (&F)"
 END
 
 CONTROLBAR:ToolTipConstructGuldurStatueExpansion
-"Les ennemis proches subbissent -25% Dégpats et -20% Armure \n Les unités ennemies fuient de peur et de terreur \n Permet l'achat de l'Amélioration D'Os Agités qui permet à la Statue Délaissée d'invoquer une horde de Guerriers Squelettes parmis les unités ennemies et les engins de siège"
+"Les ennemis proches subissent -25% Dégâts et -20% Armure \n Les unités ennemies fuient de peur et de terreur \n Permet l'achat de l'Amélioration D'Os Agités qui permet à la Statue Délaissée d'invoquer une horde de Guerriers Squelettes parmis les unités ennemies et les engins de siège"
 END
 
 CONTROLBAR:PurchaseGuldurRestlessBones
@@ -70154,19 +70154,19 @@ CONTROLBAR:ToolTipPurchaseUpgradeGuldurFortressFireArrows
 END
 
 CONTROLBAR:PurchaseUpgradeGuldurFortressBlight
-"Roui&lle"
+"F&léau"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeGuldurFortressBlight
-"Requiert : Colline de la Sorcellerie \n Les unités ennemies autour de la forteresse prennent des dégâts \n et sont transformés en Spectres à leur mort"
+"Nécessaire pour Colline de la Sorcellerie \n Les unités ennemies autour de la forteresse subissent des dégâts \n et sont transformés en Spectres à leur mort"
 END
 
 UPGRADE:FortressGuldurBlight
-"Corruption"
+"Fléau"
 END
 
 CONTROLBAR:PurchaseUpgradeGuldurFortressEncroachment
-"Les Sombr&es Cachots"
+"Sombr&es Cachots"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeGuldurFortressEncroachment
@@ -70174,7 +70174,7 @@ CONTROLBAR:ToolTipPurchaseUpgradeGuldurFortressEncroachment
 END
 
 CONTROLBAR:GuldurFortressEncroachment
-"Les Sombr&es Cachots"
+"Sombr&es Cachots"
 END
 
 CONTROLBAR:ToolTipGuldurFortressEncroachment
@@ -70190,7 +70190,7 @@ CONTROLBAR:PurchaseUpgradeGuldurFortressPalantir
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeGuldurFortressPalantir
-"Peut être jeté pour révéler une partie de la carte \n Les unités ennemies dans la zone subissent de légers dégâts au cours du temps"
+"Peut être utilisé pour révéler une partie de la carte \n Les unités ennemies dans la zone subissent de légers dégâts au cours du temps"
 END
 
 UPGRADE:FortressGuldurPalantir
@@ -70202,7 +70202,7 @@ CONTROLBAR:GuldurPalantir
 END
 
 CONTROLBAR:ToolTipGuldurPalantir
-"Requiert : l'Amélioration Palantir de Dol Guldur \n Peut être jeté pour révéler une partie de la carte \n Les unités ennemies dans la zone subissent de légers dégâts au cours du temps \n Clic gauche sur l'icône puis clic gauche sur la zone cible"
+"Requiert : l'Amélioration Palantir de Dol Guldur \n Peut être utilisé pour révéler une partie de la carte \n Les unités ennemies dans la zone subissent de légers dégâts au cours du temps \n Clic gauche sur l'icône puis clic gauche sur la zone cible"
 END
 
 CONTROLBAR:PurchaseUpgradeGuldurFortressSorcery
@@ -70210,7 +70210,7 @@ CONTROLBAR:PurchaseUpgradeGuldurFortressSorcery
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeGuldurFortressSorcery
-"Requiert : l'Amélioration Corruption \n Augmente l'Armure de la forteresse \n Permet l'utilisation de la capacité Embuscade \n Prend temporairement le contrôle des unités ennemies dans la zone \n Quand Embuscade prend fin, les ennemis qui étaient sous votre contrôle prennent des dégâts"
+"Requiert : Fléau \n Augmente l'Armure de la forteresse \n Permet l'utilisation de la capacité Embuscade \n Prend temporairement le contrôle des unités ennemies dans la zone \n Quand Embuscade prend fin, les ennemis qui étaient sous votre contrôle subissent des dégâts"
 END
 
 UPGRADE:FortressGuldurSorcery
@@ -70218,7 +70218,7 @@ UPGRADE:FortressGuldurSorcery
 END
 
 CONTROLBAR:GuldurSorcery
-"Colline de la Sorcellerie [&H]"
+"Colline de la Sorcellerie (&H)"
 END
 
 CONTROLBAR:TooltipGuldurSorcery
@@ -70230,7 +70230,7 @@ CONTROLBAR:GuldurEnsnare
 END
 
 CONTROLBAR:TooltipGuldurEnsnare
-"Requiert : l'Amélioration Colline de la Sorcellerie \n Prend temporairement le contrôle des unités ennemies dans la zone  \n Les ennemis embusqués sont invulnérable mais quand le sort prend fin, ils prennent des dégât \n Clic gauche sur l'icône puis clic gauche sur la cible"
+"Requiert : l'Amélioration Colline de la Sorcellerie \n Prend temporairement le contrôle des unités ennemies dans la zone  \n Les ennemis embusqués sont invulnérables mais quand le sort prend fin, ils subissent des dégâts \n Clic gauche sur l'icône puis clic gauche sur la cible"
 END
 
 OBJECT:DwarfStatue
@@ -70282,7 +70282,7 @@ CONTROLBAR:CaravanBanners
 END
 
 CONTROLBAR:ToolTipCaravanBanners
-"Les Unités proches de la Caravane peuvent être améliorées avec des Portes-Bannières \n Capacité Passive"
+"Les unités proches de la Caravane peuvent être améliorées avec des Portes-Bannières \n Capacité Passive"
 END
 
 CONTROLBAR:CaravanArmor
@@ -70376,19 +70376,19 @@ END
 //------------ Broken Thrain ---------------
 
 OBJECT:GuldurThrain
-"Thráin Le Brisé"
+"Thráin le Brisé"
 END
 
 CONTROLBAR:GuldurThrainRecruit
-"Recruter le nain Brisé \n Le fils autrefois fier de Thrór a été capturé près de la lisière de Forêt Noire lors de sa quête pour récupérer les richesses d'Erebor, \n il fut emmené dans les cachots de Dol Guldur et torturé pendant de longues décennies jusqu'à ce qu'il se casse enfin."
+"Recrutez le nain Brisé \n Le fils autrefois fier de Thrór a été capturé près de la lisière de Forêt Noire lors de sa quête pour récupérer les richesses d'Erebor. Il fut emmené dans les cachots de Dol Guldur et torturé pendant de longues décennies jusqu'à ce qu'il soit finalement brisé."
 END
 
 CONTROLBAR:GuldurThrainRevive
-"Rappeler Thráin à la vie"
+"Rappelez Thráin à la vie"
 END
 
 CONTROLBAR:GuldurThrainHotKey
-"&Thráin Le Brisé"
+"&Thráin le Brisé"
 END
 
 CONTROLBAR:ThrainDiminished
@@ -70422,7 +70422,7 @@ OBJECT:GuldurKrimpul
 END
 
 CONTROLBAR:GuldurKrimpulRecruit
-"Recruter un orc d'une cruauté exceptionnelle \n Krimpûl s'éleva impitoyablement dans les rangs de la garnison orque de Dol Guldur, \n jusqu'à ce que son lieutenant le remarque enfin et le mette au travail dans un endroit où ses talents pourraient être utiles."
+"Recruter un orc d'une cruauté exceptionnelle \n Krimpûl s'éleva impitoyablement dans les rangs de la garnison orque de Dol Guldur, jusqu'à ce que son lieutenant le remarque enfin et le mette au travail dans un endroit où ses talents pourraient être utiles."
 END
 
 CONTROLBAR:GuldurKrimpulRevive
@@ -70438,7 +70438,7 @@ CONTROLBAR:KrimpulOrcSummon
 END
 
 CONTROLBAR:ToolTipKrimpulOrcSummon
-"Invoque un bataillon de Géoliers Orques \n Au Niveau 3 : Ajoute une unité de Chasseur Orque \n Au Niveau 7 : Ajoute une unité de Ravageurs Orque \n Clic gauche pour activer"
+"Invoque un bataillon de Géoliers Orques \n Au Niveau 3 : Ajoute une unité de Chasseurs Orques \n Au Niveau 7 : Ajoute une unité de Ravageurs Orques \n Clic gauche pour activer"
 END
 
 CONTROLBAR:KrimpulCommand
@@ -70480,7 +70480,7 @@ OBJECT:GuldurCargast
 End
 
 CONTROLBAR:GuldurCargastRecruit
-"Recruter le Seigneur des Tombes \n Un Grand Roi du Rhovanion durant sa vie, Cargást a depuis longtemps oublié son véritable nom. \n Il a été parmi les premiers à se lever lorsque le Nécromancien a découvert les brouettes de ses proches \n et sert son maître avec une ferveur sombre."
+"Recruter le Seigneur des Tombeaux \n Un Grand Roi du Rhovanion durant sa vie, Cargást a depuis longtemps oublié son véritable nom. \n Il a été parmi les premiers à se lever lorsque le Nécromancien a découvert les brouettes de ses proches \n et sert son maître avec une ferveur sombre."
 END
 
 CONTROLBAR:GuldurCargastRevive
@@ -70492,11 +70492,11 @@ CONTROLBAR:GuldurCargastHotkey
 End
 
 CONTROLBAR:CargastBarrowLord
-"Seigneur des Tombes [&z]"
+"Seigneur des Tombeaux [&z]"
 End
 
 CONTROLBAR:ToolTipCargastBarrowLord
-"Les ennemis proches sont ralentis de 33% \n La zone d'effet augmente pour chaque Niveau \n Capacité Passive \n\n Peut être activé pour infliger une lourde frappe contre un ennemi ciblé,\n draînant sa vie et le renversant \n Clic gauche sur l'icône puis clic gauche sur la cible"
+"Les ennemis proches sont ralentis de 33% \n La zone d'effet augmente pour chaque Niveau \n Capacité Passive \n\n Peut être activé pour infliger une lourde frappe contre un ennemi ciblé, draînant sa vie et le renversant \n Clic gauche sur l'icône puis clic gauche sur la cible"
 END
 
 CONTROLBAR:CargastLeadership
@@ -70504,19 +70504,19 @@ CONTROLBAR:CargastLeadership
 End
 
 CONTROLBAR:ToolTipCargastLeadership
-"Requiert : Niveau 3 \n Les unités alliées Mort-Vivants proches gagnent +15% Vitesse et +33% Expérience \n Capacité Passive"
+"Requiert : Niveau 3 \n Les Mort-Vivants alliés proches gagnent +15% Vitesse et +33% Expérience \n Capacité Passive"
 END
 
 CONTROLBAR:CargastCursedTreasure
-"Trésor Maudit [&c]"
+"Trésor Maudit (&C)"
 END
 
 CONTROLBAR:ToolTipCargastCursedTreasure
-"Requiert : Niveau 5 \n La structure ciblée génère plus de ressources mais toutes les unités proches \n ont une Armure réduite \n Peut cibler les structures de ressources ennemis \n Clic gauche sur l'icône puis clic gauche sur la cible"
+"Requiert : Niveau 5 \n La structure ciblée génère plus de ressources mais toutes les unités proches ont une Armure réduite \n Peut cibler les structures de ressources ennemis \n Clic gauche sur l'icône puis clic gauche sur la cible"
 END
 
 CONTROLBAR:CargastSpell
-"Sort des Tombes [&p]"
+"Sortilège des Tombeaux [&p]"
 END
 
 CONTROLBAR:ToolTipCargastSpell
@@ -70524,11 +70524,11 @@ CONTROLBAR:ToolTipCargastSpell
 END
 
 CONTROLBAR:CargastDarkAwakening
-"Noir Eveil [&k]"
+"Eveil Noir [&k]"
 END
 
 CONTROLBAR:ToolTipCargastDarkAwakening
-"Requiert : Niveau 10 \n Cargást invoque lentement mais continuellement, \n un seul Guerrier Agité temporaire depuis le sol \n mais il ne peut pas bouger ou attaquer \n Clic gauche pour activer et désactiver"
+"Requiert : Niveau 10 \n Cargást invoque lentement mais continuellement, un unique Guerrier Agité temporaire depuis la terre \n mais il ne peut pas bouger ou attaquer \n Clic gauche pour activer et désactiver"
 END
 
 //------------ Saenathra ---------------
@@ -70558,11 +70558,11 @@ CONTROLBAR:ToolTipSpecialAbilityGuldurSaenathraTunnel
 END
 
 CONTROLBAR:GuldurSaenathraFeast
-"Fes&toyez, Mes Filles!"
+"Fes&toyez, mes Filles !"
 END
 
 CONTROLBAR:ToolTipGuldurSaenathraFeast
-"Requiert : Niveau 3\nLes unités ennemies dans la zone sont ralentis et subissent \n des dégâts supplémentaires des Araignées \n\n Au Niveau 6 : Invoque aussi une horde de sa Vile Couvée"
+"Requiert : Niveau 3\nLes unités ennemies dans la zone sont ralenties et subissent des dégâts supplémentaires des Araignées \n\n Au Niveau 6 : Invoque aussi une horde de Vile Couvée"
 END
 
 CONTROLBAR:GuldurSaenathraWebOfLies
@@ -70578,7 +70578,7 @@ CONTROLBAR:GuldurSaenathraEndlessHunger
 END
 
 CONTROLBAR:TooltipGuldurSaenathraEndlessHunger
-"Requiert : Niveau 8\n Comme Ungoliant, Saenathra possède une faim insatiable \n pour la chair et les objets précieux \n Saenathra peut maintenant Renverser, et voler des ressources quand elle inflige des dégâts aux unités et structures ennemis \n Capacité Passive \n\n Quand elle est activée, Saenathra récupère 30% Santé \n Clic gauche pour activer"
+"Requiert : Niveau 8\n Comme Ungoliant, Saenathra possède une faim insatiable pour la chair et les objets précieux \n Saenathra peut maintenant renverser et voler des ressources quand elle inflige des dégâts aux unités et structures ennemies \n Capacité Passive \n\n Quand elle est activée, Saenathra récupère 30% de sa santé \n Clic gauche pour activer"
 END
 
 //------------ Khamul ---------------
@@ -70650,15 +70650,15 @@ OBJECT:GuldurRingwraith
 END
 
 CONTROLBAR:NecromancerAbhorredDread
-"L'abomination effroyable"
+"Abomination effroyable"
 END
 
 CONTROLBAR:ToolTipNecromancerAbhorredDread
-"Requiert : Niveau 3 \n Le Nécromancien jete un sort nécromantique sur les ennemies \n dans la zone, inflige de lourds dégâts et réanime les morts \n en tant que Mort Réincarné sous le contrôle du joueur \n Au niveau 6 : augmente les dégâts \n Au niveau 8 : peut être jeté sur les Tombes agitées pour invoquer une horde de Guerriers agités - respecte la limite de points de commandements \n Au niveau 10 : augmente les dégâts \n Ne peut pas être utilisé pendant Malveillance Informe \n Clic gauche sur l'icône puis clic gauche sur les cibles ennemies"
+"Requiert : Niveau 3 \n Le Nécromancien jete un sort nécromantique sur les ennemies dans la zone, inflige de lourds dégâts et réanime les morts en tant que Morts Réincarnés sous le contrôle du joueur \n Au niveau 6 : augmente les dégâts \n Au niveau 8 : peut être utilisé sur les Tombes agitées pour invoquer une horde de Guerriers agités - respecte la limite de points de commandements \n Au niveau 10 : augmente les dégâts \n Ne peut pas être utilisé pendant Malveillance Informe \n Clic gauche sur l'icône puis clic gauche sur les cibles ennemies"
 END
 
 CONTROLBAR:ToolTipNecromancerAbhorredDreadUpgraded
-"Requiert : Niveau 3 \n Le Nécromancien jete un sort nécromantique sur les ennemies \n dans un large rayon, inflige de lourds dégâts et réanime les morts \n en tant que Mort Réincarné sous le contrôle du joueur \n peut être jeté sur les Tombes agitées pour invoquer une horde de Guerriers agités \n Ne peut pas être utilisé pendant Malveillance Informe \n Clic gauche sur l'icône puis clic gauche sur les cibles ennemies"
+"Requiert : Niveau 3 \n Le Nécromancien jete un sort nécromantique sur les ennemies dans un large rayon, inflige de lourds dégâts et réanime les morts en tant que Morts Réincarnés sous le contrôle du joueur \n Peut être utilisé sur les Tombes agitées pour invoquer une horde de Guerriers agités \n Ne peut pas être utilisé pendant Malveillance Informe \n Clic gauche sur l'icône puis clic gauche sur les cibles ennemies"
 END
 
 CONTROLBAR:NecromancerShapelessMalice
@@ -70678,11 +70678,11 @@ CONTROLBAR:NecromancerWreathed
 END
 
 CONTROLBAR:ToolTipNecromancerWreathed
-"Requiert : Niveau 8 \n Le Nécromancien s'entoure de flammes, repousse les ennemis autour de lui \n et enflamme la zone \n Ne peut pas être utilisé pendant Malveillance Informe \n Clic gauche pour activer"
+"Requiert : Niveau 8 \n Le Nécromancien s'entoure de flammes, repousse les ennemis autour de lui et enflamme la zone \n Ne peut pas être utilisé pendant Malveillance Informe \n Clic gauche pour activer"
 END
 
 CONTROLBAR:ToolTipNecromancerWreathedUpgraded
-"Requiert : Niveau 8 \n Le Nécromancien s'entoure de flammes, repousse les ennemis autour de lui \n et enflamme la zone \n Ne peut pas être utilisé pendant Malveillance Informe \n Temps de recharge réduit avec l'anneau Unique \n Clic gauche pour activer"
+"Requiert : Niveau 8 \n Le Nécromancien s'entoure de flammes, repousse les ennemis autour de lui  et enflamme la zone \n Ne peut pas être utilisé pendant Malveillance Informe \n Temps de recharge réduit avec l'anneau Unique \n Clic gauche pour activer"
 END
 
 OBJECT:GuldurGwanthaur
@@ -70710,7 +70710,7 @@ CONTROLBAR:GuldurCarnage
 End
 
 CONTROLBAR:ToolTipGuldurCarnage
-"Type d'Action : Bonus \n Les cibles alliées gagnent +100% Dégâts, mais ont -50% Armure \n Se cumule avec le charisme et les Sorts \n Clic gauche sur l'icône puis clic gauche sur les unités ciblées"
+"Type d'Action : Bonus \n Les alliés ciblés gagnent +100% Dégâts, mais ont -50% Armure \n Se cumule avec le Charisme et les Sorts \n Clic gauche sur l'icône puis clic gauche sur les unités ciblées"
 End
 
 CONTROLBAR:GuldurMarsh
@@ -70718,7 +70718,7 @@ CONTROLBAR:GuldurMarsh
 End
 
 CONTROLBAR:ToolTipGuldurMarsh
-"Invoque un marais fétide \n Type d'Action : Malus \n Toutes les unités dans la zone perdent le charisme et sont ralentis \n Clic gauche sur l'icône puis clic gauche sur la zone cible"
+"Invoque un marais fétide \n Type d'Action : Malus \n Toutes les unités dans la zone perdent le Charisme et sont ralentis \n Clic gauche sur l'icône puis clic gauche sur la zone cible"
 END
 
 CONTROLBAR:GuldurShadeDecoy
@@ -70734,7 +70734,7 @@ CONTROLBAR:DolGuldurChill
 End
 
 CONTROLBAR:TooltipDolGuldurChill
-"Les unités ennemies sont ralenties et prennent des dégâts au cours du temps \n Clic gauche sur l'icône puis clic gauche sur la cible"
+"Les unités ennemies sont ralenties et subissent des dégâts au cours du temps \n Clic gauche sur l'icône puis clic gauche sur la cible"
 End
 
 CONTROLBAR:GuldurForestOfFear
@@ -70742,7 +70742,7 @@ CONTROLBAR:GuldurForestOfFear
 END
 
 CONTROLBAR:ToolTipGuldurForestOfFear
-"Corrompt une zone de terrain \n Type d'Action : Bonus \n Toutes les unités alliées gagnent +50% Vision \nSe cumule avec le charisme et les Sorts \n Invoque un grand nombre d'araignées sauvages qui attaquent tout ce qui est en vue \n Les unités ennemies dans la zone cible perdent tous les Charisme, souffrent -20% Vitesse et sont terrifiés \n Clic gauche sur l'icône puis clic gauche sur la zone cible "
+"Corrompt une zone de terrain \n Type d'Action : Bonus \n Toutes les unités alliées gagnent +50% Vision \nSe cumule avec le Charisme et les Sorts \n Invoque un grand nombre d'araignées sauvages qui attaquent tout ce qui est en vue \n Les unités ennemies dans la zone cible perdent tous les Charisme, souffrent -20% Vitesse et sont terrifiés \n Clic gauche sur l'icône puis clic gauche sur la zone cible "
 END
 
 CONTROLBAR:GuldurConcealment
@@ -70750,11 +70750,11 @@ CONTROLBAR:GuldurConcealment
 END
 
 CONTROLBAR:TooltipGuldurConcealment
-"Les unités et structures alliées dans la zone deviennent camouflées \n Type d'Action : Malus actif \n Les unités ennemies proches souffrent -25% Dégâts et -20% Armure \n Annule le charisme ennemi \n Ne peut pas se cumuler avec les autres Malus \n Clic gauche sur l'icône puis clic gauche sur la zone cible"
+"Les unités et structures alliées dans la zone deviennent camouflées \n Type d'Action : Malus actif \n Les unités ennemies proches souffrent -25% Dégâts et -20% Armure \n Annule le Charisme ennemi \n Ne peut pas se cumuler avec les autres Malus \n Clic gauche sur l'icône puis clic gauche sur la zone cible"
 END
 
 CONTROLBAR:GuldurDarkHysteria
-"Hystérie Noir"
+"Hystérie Noire"
 END
 
 CONTROLBAR:ToolTipGuldurDarkHysteria
@@ -70806,7 +70806,7 @@ CONTROLBAR:ToxicBile
 END
 
 CONTROLBAR:ToolTipToxicBile
-"L'Abomination Mort-Vivante crache une boule de bile toxique \n dans la zone ciblée \n Les ennemis touchés subissent des dégâts modérés au fil du temps \n Clic gauche sur l'icône puis clic gauche sur la zone cible"
+"L'Abomination Mort-Vivante crache une boule de bile toxique dans la zone ciblée \n Les ennemis touchés subissent des dégâts modérés au fil du temps \n Clic gauche sur l'icône puis clic gauche sur la zone cible"
 END
 
 CONTROLBAR:UndeadTrollHooked
@@ -70822,7 +70822,7 @@ CONTROLBAR:CorpseExplosion
 END
 
 CONTROLBAR:ToolTipCorpseExplosion
-"L'Abomination Mort-Vivante explos si elle n'est pas tuée\navant la fin du temps restant\nL'explosion renverse les ennemis proches\net laisse un nuage empoisonné nCapacité Passive"
+"L'Abomination Mort-Vivante explose si elle n'est pas tuée avant la fin du temps restant\nL'explosion renverse les ennemis proches et laisse un nuage empoisonné \n Capacité Passive"
 END
 
 CONTROLBAR:GuldurWither
@@ -70838,7 +70838,7 @@ CONTROLBAR:GuldurGreenMist
 End
 
 CONTROLBAR:TooltipGuldurGreenMist
-"Invoque un brouillard vert tourbillonant contrôlable \n Toutes les unités, alliées et ennemis, prennent des dégâts et sont transformées en spectres à leur mort \n Clic gauche sur l'icône puis clic gauche sur une position valide"
+"Invoque un brouillard vert tourbillonant contrôlable \n Toutes les unités, alliées et ennemies, subissent des dégâts et sont transformées en spectres à leur mort \n Clic gauche sur l'icône puis clic gauche sur une position valide"
 END
 
 OBJECT:GuldurGreenMist
@@ -70854,7 +70854,7 @@ CONTROLBAR:TooltipSummonGwanthaur
 End
 
 CONTROLBAR:RefreshSlaves
-"De Nouveaux Esclaves [&r]"
+"De Nouveaux Esclaves [&R]"
 END
 
 CONTROLBAR:ToolTipRefreshSlaves
@@ -70862,7 +70862,7 @@ CONTROLBAR:ToolTipRefreshSlaves
 END
 
 OBJECT:GuldurPorter
-"L'Ombre enchaîné"
+"Ombre enchaînée"
 END
 
 CONTROLBAR:ConstructGuldurPorter
@@ -70978,7 +70978,7 @@ CONTROLBAR:ToolTipRDSickness_Individual
 END
 
 CONTROLBAR:CastellanLeadership
-"Le Châtelain de Dol Guldur"
+"Châtelain de Dol Guldur"
 END
 
 CONTROLBAR:ToolTipCastellanLeadership
@@ -71125,7 +71125,7 @@ CONTROLBAR:ToolTipShagratFierceRivalry
 END
 
 CONTROLBAR:GorbagMorgulCunning
-"La Ruse de Morgul [&c]"
+"La Ruse de Morgul (&C)"
 END
 
 CONTROLBAR:ToolTipGorbagMorgulCunning
@@ -71265,15 +71265,15 @@ CONTROLBAR:GuldurSpireBlight
 END
 
 CONTROLBAR:ToolTipGuldurSpireBlight
-"Requiert : Niveau 2 Flèche de la sorcellerie \n Les unités ennemies entourant la Flèche subissent des dégâts \n et se transforme en spectre en mourant \n Capacité Passive"
+"Requiert : Tour de la Sorcellerie niveau 2 \n Les unités ennemies entourant la Flèche subissent des dégâts et se transforment en spectre en mourant \n Capacité Passive"
 END
 
 CONTROLBAR:GreaterBlight
-"Plus de corruption [&g]"
+"&Grande Corruption"
 END
 
 CONTROLBAR:ToolTipGreaterBlight
-"Requiert : Niveau 3 Flèche de la sorcellerie \n Augmente sensiblement le rayon de corruption passive, qui endommage les ennemis proches et \n et les transforme en spectre en mourant"
+"Requiert : Tour de la Sorcellerie niveau 3 \n Augmente sensiblement le rayon de corruption passive, qui endommage les ennemis proches et les transforme en spectre à leur mort"
 END
 
 CONTROLBAR:GwanthaurSoulTrap
@@ -71285,11 +71285,11 @@ CONTROLBAR:ToolTipGwanthaurSoulTrap
 END
 
 CONTROLBAR:GwanthaurReclamation
-"Sombre Réclamation ([&k]"
+"Sombre Réclamation (&k)"
 END
 
 CONTROLBAR:ToolTipGwanthaurReclamation
-"La structure ciblé est détruite \n Des arbres tordus apparraissent à sa place \n N'affecte pas les Forteresses \n Clic gauche sélectionner Clic gauche sur cible structure"
+"La structure ciblée est détruite \n Des arbres tordus apparraissent à sa place \n N'affecte pas les Forteresses \n Clic gauche sélectionner Clic gauche sur cible structure"
 END
 
 GUI:SHADEDiscount
@@ -71303,7 +71303,7 @@ CONTROLBAR:Inoculation
 END
 
 CONTROLBAR:ToolTipInoculation
-"La lente décomposition de la magie du nécromancien n'affecte pas \n ceux qui sont déjà consommés par lui \n Capacité Passive"
+"La lente décomposition de la magie du nécromancien n'affecte pas ceux qui sont déjà consommés par lui \n Capacité Passive"
 END
 
 GUI:MISERY_DISCOUNT
@@ -71318,7 +71318,7 @@ CONTROLBAR:ChitteringSwarm
 END
 
 CONTROLBAR:ToolTipChitteringSwarm
-"Bonus Horde \n Type d'Action : Sort \n Tous les progénitures tombés gagnent +25% de dégâts et +25% d'armure lorsqu'ils sont rassemblés en nombre de 30 ou plus"
+"Bonus de Horde \n Type d'Action : Sort \n Toutes les Viles Couvées gagnent +25% de dégâts et +25% d'armure lorsqu'elles sont rassemblées en nombre de 30 ou plus"
 END
 
 CONTROLBAR:BTKhazadBannerUpgradedPillar
@@ -71405,7 +71405,7 @@ CONTROLBAR:ToolTipBlackUrukBrawl_Inn
 END
 
 CONTROLBAR:UrukScoutHuntingArrows
-"Flèches du chasseur [&i]"
+"Flèches du chasseur (&I)"
 END
 
 CONTROLBAR:ToolTipUrukScoutHuntingArrows
@@ -71435,7 +71435,7 @@ CONTROLBAR:GalionMiruvor
 END
 
 CONTROLBAR:ToolTipGalionMiruvor
-"Soigne modérément les unités alliés près de Galion \n Clic gauche pour activer"
+"Soigne modérément les unités alliées près de Galion \n Clic gauche pour activer"
 END
 
 CONTROLBAR:GalionDorwinionRed
@@ -71443,7 +71443,7 @@ CONTROLBAR:GalionDorwinionRed
 END
 
 CONTROLBAR:ToolTipGalionDorwinionRed
-"Requiert : Niveau 3 \n Les unités alliés dans le rayon gagnent +75% d'armure et perdent -25% de dégâts d'attaque \n Clic gauche sélectionner Clic gauche sur un bataillon ciblé"
+"Requiert : Niveau 3 \n Les unités alliées dans le rayon gagnent +75% d'armure et perdent -25% de dégâts d'attaque \n Clic gauche sélectionner Clic gauche sur un bataillon ciblé"
 END
 
 CONTROLBAR:GalionBadBatch
@@ -71595,7 +71595,7 @@ CONTROLBAR:ToolTipMirkwoodVineyard
 END
 
 CONTROLBAR:ConstructMirkwoodTrainingGrounds
-"Construire Clairière Sylvaine [&G]"
+"Construire Clairière Sylvaine (&G)"
 END
 
 CONTROLBAR:ToolTipConstructMirkwoodTrainingGrounds
@@ -71631,7 +71631,7 @@ CONTROLBAR:ConstructMirkwoodRoyalBarracks
 END
 
 CONTROLBAR:ToolTipConstructMirkwoodRoyalBarracks
-"Entraine les unités d'élites de VertBois \n Augmente la limite de points de commandement de 25"
+"Entraîne les unités d'élites de VertBois \n Augmente la limite de points de commandement de 25"
 END
 
 OBJECT:MirkwoodRoyalBarracks
@@ -71727,7 +71727,7 @@ CONTROLBAR:ConstructMirkwoodStatue
 END
 
 CONTROLBAR:MirkwoodHeroicStatueBuild
-"Confère un charisme bonus aux unités alliés proches \n Ce cumule avec les Buffs et les Sorts \n Réduit le coût des héros \n Augmente la limite des points de commandement de 10"
+"Confère un Charisme bonus aux unités alliés proches \n Se cumule avec les Buffs et les Sorts \n Réduit le coût des héros \n Augmente la limite des points de commandement de 10"
 END
 
 OBJECT:MirkwoodStatue
@@ -71739,11 +71739,11 @@ CONTROLBAR:PurchaseUpgradeMirkwoodFortressBanners
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeMirkwoodFortressBanners
-"Type d'Action : Charisme \n Les alliés près de la Forteresse gagnent +33% dégâts, +33% d'Armure, et gagnent de l'expérience 50% plus vite \n Ce cumule avec les bonus et les sorts \n\nRéduit le coût des héros de 10% \n Réduit le temps de recrutement des héros de 10% \n Réduit le coût des batisseurs de 20%"
+"Type d'Action : Charisme \n Les alliés près de la Forteresse gagnent +33% dégâts, +33% d'Armure, et gagnent de l'expérience 50% plus vite \n Se cumule avec les bonus et les sorts \n\nRéduit le coût des héros de 10% \n Réduit le temps de recrutement des héros de 10% \n Réduit le coût des batisseurs de 20%"
 END
 
 CONTROLBAR:PurchaseUpgradeMirkwoodFortressHouseOfHealing
-"Fête de la Lumière des étoiles [&G]"
+"Fête de la Lumière des étoiles (&G)"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeMirkwoodFortressHouseOfHealing
@@ -71771,7 +71771,7 @@ OBJECT:MirkwoodWatchtowerExpansion
 END
 
 CONTROLBAR:ConstructMirkwoodSilvanHunter
-"Chasseur Sylvain [&H]"
+"Chasseur Sylvain (&H)"
 END
 
 CONTROLBAR:ToolTipBuildMirkwoodSilvanHunter
@@ -71859,7 +71859,7 @@ CONTROLBAR:ToolTipBuildMirkwoodOutriderHorde
 END
 
 CONTROLBAR:SilvanEscape
-"Évasion [&C]"
+"Évasion (&C)"
 END
 
 CONTROLBAR:ToolTipSilvanEscape
@@ -71959,7 +71959,7 @@ CONTROLBAR:RallyingCallMirkwood
 END
 
 CONTROLBAR:TooltipRallyingCallMirkwood
-"Type d'Action : Buff \n Les alliés ciblés gagnent +50% de dégâts et +50% d'armure \n Se cumule avec les charismes et les sorts \nClic gauche sur l'îcone puis clic gauche sur les unités ciblés"
+"Type d'Action : Buff \n Les alliés ciblés gagnent +50% de dégâts et +50% d'armure \n Se cumule avec le Charisme et les sorts \nClic gauche sur l'îcone puis clic gauche sur les unités ciblées"
 END
 
 CONTROLBAR:FarsightMirkwood
@@ -71975,7 +71975,7 @@ CONTROLBAR:ElvenkingRoad
 END
 
 CONTROLBAR:TooltipElvenkingRoad
-"Type d'Action : Buff \nLes alliés ciblés gagnent +25% de vitesse de déplacement et de résistance aux attaques à distance\nCe cumule avec les charismes et les sorts\nClic gauche sur l'îcone puis clic gauche sur les unités ciblés"
+"Type d'Action : Buff \nLes alliés ciblés gagnent +25% de vitesse de déplacement et de résistance aux attaques à distance \n Se cumule avec le Charisme et les sorts\nClic gauche sur l'îcone puis clic gauche sur les unités ciblées"
 END
 
 CONTROLBAR:SummonEotheodAllies
@@ -72009,7 +72009,7 @@ CONTROLBAR:ToolTipShelobDarkDeterrent
 END
 
 CONTROLBAR:ShelobFellStinger
-"La Plongé du Dard [&I]"
+"La Plongé du Dard (&I)"
 END
 
 CONTROLBAR:ToolTipShelobFellStinger
