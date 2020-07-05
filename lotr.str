@@ -15620,7 +15620,7 @@ CONTROLBAR:ElvenWood
 End
 
 CONTROLBAR:CampaignElvenWood
-"Réfugiez-vous!"
+"Réfugiez-vous !"
 END
 
 CONTROLBAR:SummonEntAllies
@@ -15652,7 +15652,7 @@ CONTROLBAR:SummonEagleAllies
 End
 
 CONTROLBAR:CampaignSummonEagleAllies
-"Les Aigles Arrivent!"
+"Les Aigles Arrivent !"
 END
 
 CONTROLBAR:ToolTipSummonEagleAllies
@@ -15660,7 +15660,7 @@ CONTROLBAR:ToolTipSummonEagleAllies
 END
 
 CONTROLBAR:TooltipCampaignSummonEagleAllies
-"Invoque un Aigle Géant sous votre votre contrôle Clic gauche Sélectionner Clic gauche sur zone ciblé"
+"Invoque un Aigle Géant sous votre votre contrôle \n Clic gauche sur l'icône puis clic gauche sur la zone ciblée"
 END
 
 CONTROLBAR:SummonDunedainAllies
@@ -15728,7 +15728,7 @@ CONTROLBAR:CampaignArrowVolley
 END
 
 CONTROLBAR:TooltipCampaignArrowVolley
-"Lance une puissante Pluie de Flèches n'importe où sur la carte \n Clic gauche sélectionner Clic gauche sur zone ciblé"
+"Lance une puissante Pluie de Flèches n'importe où sur la carte \n Clic gauche sur l'icône puis clic gauche sur la zone ciblée"
 END
 
 CONTROLBAR:Bombard
@@ -17680,7 +17680,7 @@ CONTROLBAR:EnshroudingMist
 END
 
 CONTROLBAR:EnshroudingMistCampaign
-"Cachez-vous!???"
+"Cachez-vous !"
 END
 
 CONTROLBAR:TheOneRing
@@ -17765,11 +17765,11 @@ CONTROLBAR:ToolTipLightningSword
 END
 
 CONTROLBAR:ToolTipRivendellLightningSword
-"Lance des Eclaires de l'épée de Gandalf \n Clic gauche sélectionner Clic gauche sur cible"
+"Lance des éclairs de l'épée de Gandalf \n Clic gauche sur l'icône puis clic gauche sur la zone ciblée"
 END
 
 CONTROLBAR:ToolTipFellowshipLightningSword
-"Lance des Eclaires de l'épée de Gandalf \n Clic gauche sélectionner Clic gauche sur cible"
+"Lance des éclairs de l'épée de Gandalf \n Clic gauche sur l'icône puis clic gauche sur la zone ciblée"
 END
 
 CONTROLBAR:ThrowSpear
@@ -31747,7 +31747,7 @@ CONTROLBAR:CampaignFlood
 END
 
 CONTROLBAR:TooltipCampaignFlood
-"Invoque un Déluge puissant pour écrasser les unités ennemies \n Eteint les incendies \n Clic gauche sélectionner Clic gauche sur zone ciblé"
+"Invoque un Déluge puissant pour écrasser les unités ennemies \n Eteint les incendies \n Clic gauche sur l'icône puis clic gauche sur la zone ciblée"
 END
 
 CONTROLBAR:Sunflare
@@ -31924,7 +31924,7 @@ CONTROLBAR:PurchaseUpgradeIsengardFortressIronPlating
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeIsengardFortressIronPlating
-"Augmente l'armure de la forteresse et des murs.\n Requis pour l'amélioration Tour de Magicien."
+"Augmente l'armure de la forteresse et des murs.\n Requis pour l'amélioration Sagesse de Curunir."
 END
 
 CONTROLBAR:PurchaseUpgradeIsengardFortressBurningForges
@@ -33154,7 +33154,7 @@ CONTROLBAR:TooltipUpgradeIsengardUrukPitLevel2
 End
 
 CONTROLBAR:TooltipUpgradeIsengardWargPitLevel2
-"Permet de recruter les Chevaucheurs de Wargs.\n Vitesse de construction +10%"
+"Vitesse de construction +10%"
 End
 
 CONTROLBAR:TooltipUpgradeIsengardWargPitLevel3
@@ -42626,7 +42626,7 @@ END
 //////// Dwarven Stuff
 
 UPGRADE:DwarvenBasicTraining
-"Thrór’s Banners"
+"Bannières de Thrór"
 END
 
 UPGRADE:DwarvenSiegeHammer
@@ -45114,7 +45114,7 @@ CONTROLBAR:ToolTipCAH_StealMoney_Palantir
 End
 
 CONTROLBAR:ToolTipCAH_CM_Conquer_Palantir
-"Le héros peut capturer des bâtiments ennemis autres que les forteresses.\n\nClic gauche sur l'icône puis clic gauche sur la structure cible"
+"Le héros peut capturer des bâtiments ennemis autres que les forteresses.\n\nClic gauche sur l'icône puis clic gauche sur la structure ciblée"
 End
 
 
@@ -50219,7 +50219,7 @@ CONTROLBAR:PurchaseUpgradeCorpseRain
 End
 
 CONTROLBAR:ToolTipPurchaseUpgradeAngmarCorpseRain
-"Permet une spécialisation dans le pouvoir de la pluie de cadavres \n Cela appelle un barrage de cadavre sur la zone ciblé. \n Le Sorcier ne peut se spécialiser que dans un seul pouvoir."
+"Permet une spécialisation dans le pouvoir de la pluie de cadavres \n Cela appelle un barrage de cadavre sur la zone ciblée. \n Le Sorcier ne peut se spécialiser que dans un seul pouvoir."
 End
 
 TOOLTIP:AngmarCorpseRain
@@ -50617,7 +50617,7 @@ APT:BonusCampaign
 // context: button label to start Expansion Pack Bonus mission
 //"WAR OF THE RING CAMPAIGN"
 //"INDISPONIBLE"
-"La Campagne de la Guerre de l'Anneau"
+"LE SEIGNEUR DES ANNEAUX"
 END
 
 // Good and Evil campaigns above also have a GUI identifier in addition to an APT identifier. 
@@ -55158,12 +55158,12 @@ END
 
 CONTROLBAR:TooltipRebuild
 //"Les architectes du royaume ont conservé le savoir-faire des grands bâtisseurs de Númenor : les structures ciblées sont réparées immédiatement.\n\nClic gauche sur l'icône puis clic gauche sur les structures cibles"
-"Les architectes du royaume ont conservé le savoir-faire des grands bâtisseurs de Númenor : la structure ciblée est réparée immédiatement.\n\nClic gauche sur l'icône puis clic gauche sur la structure cible"
+"Les architectes du royaume ont conservé le savoir-faire des grands bâtisseurs de Númenor : la structure ciblée est réparée immédiatement.\n\nClic gauche sur l'icône puis clic gauche sur la structure ciblée"
 End
 
 CONTROLBAR:TooltipCampaignRebuild
-//"Heals structures \n Clic gauche sélectionner Clic gauche sur cible structures"
-"Répare les structures \n Clic gauche sélectionner Clic gauche sur cible structures"
+//"Heals structures \n Clic gauche sur l'icône puis clic gauche sur la structure ciblée"
+"Répare les structures \n Clic gauche sur l'icône puis clic gauche sur la structure ciblée"
 End
 
 CONTROLBAR:TooltipSummonHobbitAllies
@@ -55287,17 +55287,17 @@ CONTROLBAR:ToolTipMenLongShotAbility
 "Requiert : niveau 2\n Les Rôdeurs arrosent une zone de la carte d'une volée de flèches.\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
 End
 CONTROLBAR:ToolTipMirkwoodLongShotAbility
-"Requiert : Niveau 5\nLes rôdeurs bombardent une zone de la carte avec une volée de flèches\n Clic gauche sélectionner Clic gauche sur zone ciblé"
+"Requiert : Niveau 5\nLes rôdeurs bombardent une zone de la carte avec une volée de flèches\n Clic gauche sur l'icône puis clic gauche sur la zone ciblée"
 End
 CONTROLBAR:ToolTipFirienholtLongShotAbility
-//"Les rôdeurs bombardent une zone de la carte avec une volée de flèches \n Clic gauche sélectionner Clic gauche sur zone ciblé\n Requiert : Niveau 2"
-//"Requiert : Niveau 2\nLes rôdeurs bombardent une zone de la carte avec une volée de flèches \n Clic gauche sélectionner Clic gauche sur zone ciblé"
-"Requiert : Niveau 2\nLes Sentinelles bombardent une zone de la carte avec une volée de flèches \n Clic gauche sélectionner Clic gauche sur zone ciblé"
+//"Les rôdeurs bombardent une zone de la carte avec une volée de flèches \n Clic gauche sur l'icône puis clic gauche sur zone ciblé\n Requiert : Niveau 2"
+//"Requiert : Niveau 2\nLes rôdeurs bombardent une zone de la carte avec une volée de flèches \n Clic gauche sur l'icône puis clic gauche sur zone ciblé"
+"Requiert : Niveau 2\nLes Sentinelles bombardent une zone de la carte avec une volée de flèches \n Clic gauche sur l'icône puis clic gauche sur la zone ciblée"
 End
 CONTROLBAR:ToolTipFirienholtLongShotAbility_Summoned
-//"Les rôdeurs bombardent une zone de la carte avec une volée de flèches \n Clic gauche sélectionner Clic gauche sur zone ciblé\n Requiert : Niveau 2"
-//"Requiert : Niveau 2\nLes rôdeurs bombardent une zone de la carte avec une volée de flèches \n Clic gauche sélectionner Clic gauche sur zone ciblé"
-"Les sentinelles bombardent une zone de la carte avec une volée de flèches \n Clic gauche sélectionner Clic gauche sur zone ciblé"
+//"Les rôdeurs bombardent une zone de la carte avec une volée de flèches \n Clic gauche sur l'icône puis clic gauche sur zone ciblé\n Requiert : Niveau 2"
+//"Requiert : Niveau 2\nLes rôdeurs bombardent une zone de la carte avec une volée de flèches \n Clic gauche sur l'icône puis clic gauche sur zone ciblé"
+"Les sentinelles bombardent une zone de la carte avec une volée de flèches \n Clic gauche sur l'icône puis clic gauche sur la zone ciblée"
 End
 
 CONTROLBAR:ToggleIthilienWeapons
@@ -55752,7 +55752,7 @@ CONTROLBAR:PrinceMirkwood
 END
 
 CONTROLBAR:ToolTipFellowshipLegolasTrainArchers  
-"Requiert : Niveau 3 \n Les archers ciblés gagnent une bonne quantité d'expérience \n Clic gauche sélectionner Clic gauche sur cible archers \n \n Requiert : Niveau 6 \n Les unités amies proches bénéficient d'une immunité contre la Peur et d'une portée de vision de +25% \n Capacité passive"
+"Requiert : Niveau 3 \n Les archers ciblés gagnent une bonne quantité d'expérience \n Clic gauche sur l'icône puis clic gauche sur les archers ciblés\n \n Requiert : Niveau 6 \n Les unités amies proches bénéficient d'une immunité contre la Peur et d'une portée de vision de +25% \n Capacité passive"
 END
 
 CONTROLBAR:ToolTipKnifeFighter
@@ -55822,7 +55822,7 @@ CONTROLBAR:ToolTipElvenWood
 END
 
 CONTROLBAR:ToolTipCampaignElvenWood
-"Crée un terrain fertile \n Type d'Action : Bonus \n Tous les alliées proches gagnent +50% de Dégâts, +50% d'Armure et devient immuniqé à la Peur et la Terreur \n S'accumule avec le Charisme et les Sorts \n Clic gauche sélectionner Clic gauche sur zone ciblé"
+"Crée un terrain fertile \n Type d'Action : Bonus \n Tous les alliés proches gagnent +50% de Dégâts, +50% d'Armure et deviennent immunisés à la Peur et la Terreur \n S'accumule avec le Charisme et les Sorts \n Clic gauche sur l'icône puis clic gauche sur la zone ciblée"
 END
 
 CONTROLBAR:TooltipEnshroudingMist
@@ -56080,7 +56080,7 @@ CONTROLBAR:TooltipUpgradeIsengardSiegeWorksLevel2
 End
 
 CONTROLBAR:TooltipUpgradeIsengardSiegeWorksLevel3
-"Permet la construction de la Mine explosive.\n Réparation améliorée des machines de siège endommagées proches.\n Vitesse de construction +25%\n Ajoute une tour d'archers défensive"
+"Permet la construction de Mines explosives \n Réparation améliorée des machines de siège endommagées proches \n Vitesse de construction +25%\n Ajoute une tour d'archers défensive"
 End
 
 OBJECT:IsengardArmoryDescription
@@ -56107,11 +56107,11 @@ END
 CONTROLBAR:ToolTipPurchaseUpgradeIsengardFortressWizardsTower
 //"La tour de magicien peut tirer plusieurs éclairs dans une zone entourant la forteresse."
 //"Crée plusieurs éclairs dans une zone entourant la forteresse."
-"Fait s'abattre plusieurs éclairs dans une zone entourant la forteresse."
+"Donne accès au système de spécialisations"
 END
 
 ToolTip:LackIronPlating
-"Requiert : l'amélioration Blindage en fer. \n La Tour de Magicien peut créer plusieurs éclairs dans une zone entourant la forteresse."
+"Requiert : Blindage en fer \n Donne accès au système de spécialisations"
 END
 
 
@@ -56734,12 +56734,12 @@ End
 
 CONTROLBAR:ToolTipNecroWellOfSouls
 //"Enemy Units in target area suffer medium damage over time. Affected Units transform into Lesser Wights upon death. Nearby friendly units are healed slightly.\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
-"Les unités ennemies dans la zone ciblé subissent des dégâts moyens au fil du temps et deviennent des Créatures à leur mort. \n Soignent les unités amies à proximité. \n\n Clic gauche sur l'icône puis clic gauche sur la zone cible"
+"Les unités ennemies dans la zone ciblée subissent des dégâts moyens au fil du temps et deviennent des Créatures à leur mort. \n Soignent les unités amies à proximité. \n\n Clic gauche sur l'icône puis clic gauche sur la zone cible"
 End
 
 CONTROLBAR:ToolTipNecroCorpseRain
 //"Units in target area receive.\n Heavy Magic Damage."
-"Les unités dans la zone ciblé reçoivent de lourds dégâts et deviennent gravement empoisonnées \n\n Clic gauche sur l'icône puis clic gauche sur la zone cible"
+"Les unités dans la zone ciblée reçoivent de lourds dégâts et deviennent gravement empoisonnées \n\n Clic gauche sur l'icône puis clic gauche sur la zone cible"
 End
 
 CONTROLBAR:ToolTipPurchaseUpgradeAngmarWellOfSouls
@@ -56820,7 +56820,7 @@ CONTROLBAR:ToolTipPurchaseTechnologyAngmarWellOfSouls
 End
 
 CONTROLBAR:ToolTipPurchaseTechnologyAngmarCorpseRain
-"Permet aux Sorciers de se spécialiser dans la puissance des Pluies de Cadavres \n Cela appelle un barrage de cadavres sur la zone ciblé"
+"Permet aux Sorciers de se spécialiser dans la puissance des Pluies de Cadavres \n Cela appelle un barrage de cadavres sur la zone ciblée"
 End
 
 CONTROLBAR:ToolTipConstructAngmarForgeWorks
@@ -58565,13 +58565,13 @@ END
 CONTROLBAR:TooltipUpgradeIsengardUrukPitLevel3
 //"Permet de recruter les Gardes d'Orthanc Hordes\n Vitesse de construction +25%"
 //"Permet de recruter les Gardes d'Orthanc\n Ajoute une tour d'archers défensive.\n Vitesse de construction +25%"
-"Permet de recruter les Éventreurs Uruk.\n Vitesse de construction +25%"
+"Permet de recruter les Éventreurs Uruk \n Vitesse de construction +25%"
 End
 
 CONTROLBAR:TooltipUpgradeIsengardUrukPitLevel3_WOTR
 //"Allows training of Uruk Deathbringer Hordes \n +25% de vitesse de construction"
 //"Allows training of Uruk Deathbringers \n Adds defensive Arrow Tower \n +25% de vitesse de construction"
-"+25% de vitesse de construction"
+"Permet de recruter les Éventreurs Uruk \n Vitesse de construction +25%"
 End
 
 CONTROLBAR:ToolTipBloodthirstyMordorFighter
@@ -58722,6 +58722,10 @@ CONTROLBAR:TooltipSunflare
 "Embrase le champ de bataille d'un rayon de lumière solaire ardent : assomme toutes les créatures sensibles à la lumière.\n Annule Pluie glacée et Ombre\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
 END
 
+CONTROLBAR:TooltipCampaignSunflare
+"Embrase le champ de bataille d'un rayon de lumière solaire ardent : assomme toutes les créatures sensibles à la lumière \n\n Clic gauche sur l'icône puis clic gauche sur la zone cible"
+END
+
 CONTROLBAR:TooltipNecroBlackIce
 //"La zone cible est couverte de glace : vitesse des unités ennemies -25%.\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
 //"La zone cible est couverte de glace : vitesse des unités ennemies -33%.\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
@@ -58824,7 +58828,7 @@ CONTROLBAR:TooltipLoneTower
 END
 
 CONTROLBAR:ToolTipCampaignLoneTower
-"Invoque un avant poste en ruines pouvant être garni de troupes\n et qui tire des flèches \n Clic gauche sélectionner Clic gauche sur une surface disponible"
+"Invoque un avant poste en ruines pouvant être garni de troupes\n et qui tire des flèches \n Clic gauche sur l'icône puis clic gauche sur une surface disponible"
 END
 
 CONTROLBAR:TooltipLoneTowerGondor
@@ -61132,7 +61136,7 @@ CONTROLBAR:TooltipSummonMordorAllies
 End
 
 CONTROLBAR:TooltipSummonMordorAllies_WOTR
-"Invoque plusieurs hordes d'Orques du Mordor sous votre contrôle \n Clic gauche sélectionner Clic gauche un emplacement libre"
+"Invoque plusieurs hordes d'Orques du Mordor sous votre contrôle \n Clic gauche sur l'icône puis clic gauche sur un emplacement libre"
 End
 
 //---------------- Devastate -----------------
@@ -62326,9 +62330,9 @@ CONTROLBAR:ToolTipSarumanThunderBolt
 END
 
 CONTROLBAR:ToolTipSarumanThunderBoltFort
-//"Requiert : Niveau 10 \n Frappe d'un puissant coup d'éclair contre l'ennemi ciblé \n Clic gauche sélectionner Clic gauche sur cible"
-//"Requiert : Niveau 7 \n Frappe d'un puissant coup d'éclair contre les ennemis ciblés \n Clic gauche sélectionner Clic gauche sur cible"
-"Nécessite l'amélioration de l'Observatoire du Conseil Blanc \n\n Avant sa chute, Saroumane Le Blanc a utilisé son habileté considérable en magie au profit des Peuples Libres de la Terre du Milieu. \n\n Frappe d'un puissant coup d'éclair contre les ennemis ciblés \n Clic gauche sélectionner Clic gauche sur cible"
+//"Requiert : Niveau 10 \n Frappe d'un puissant coup d'éclair contre l'ennemi ciblé \n Clic gauche sur l'icône puis clic gauche sur la zone ciblée"
+//"Requiert : Niveau 7 \n Frappe d'un puissant coup d'éclair contre les ennemis ciblés \n Clic gauche sur l'icône puis clic gauche sur la zone ciblée"
+"Nécessite l'amélioration de l'Observatoire du Conseil Blanc \n\n Avant sa chute, Saroumane Le Blanc a utilisé son habileté considérable en magie au profit des Peuples Libres de la Terre du Milieu. \n\n Frappe d'un puissant coup d'éclair contre les ennemis ciblés \n Clic gauche sur l'icône puis clic gauche sur la zone ciblée"
 END
 
 CONTROLBAR:PurchaseUpgradeRivendellFortEagle
@@ -62427,11 +62431,11 @@ CONTROLBAR:IthilienGarden
 END
 
 CONTROLBAR:TooltipIthilienGarden
-"Invoque un Jardin Luxuriant sur le champ de bataille \n Type d'Action : Bonus \n Tous les alliés deviennent furtives \n Les unités ennemies perdent leur Charisme \n Le Jardin est habité par un certain nombre de Rôdeurs d'Ithilien \n Clic gauche sélectionner Clic gauche sur une zone ciblé"
+"Invoque un Jardin Luxuriant sur le champ de bataille \n Type d'Action : Bonus \n Tous les alliés deviennent furtives \n Les unités ennemies perdent leur Charisme \n Le Jardin est habité par un certain nombre de Rôdeurs d'Ithilien \n Clic gauche sur l'icône puis clic gauche sur une zone ciblé"
 END
 
 CONTROLBAR:SummonRadagast
-"Radagast Le Brun"
+"Radagast le Brun"
 END
 
 CONTROLBAR:SummonCampaignRadagast
@@ -62439,8 +62443,7 @@ CONTROLBAR:SummonCampaignRadagast
 END
 
 CONTROLBAR:TooltipSummonRadagast
-"Invoque Le Mage Radagast, l'Ami des Bêtes et des Plantes, à vos côtés. Membre du Conseil des Magiciens, c'est un subtil personnage dont la véritable sagesse est dissimulée derrière son apparence et ses manières excentriques. \n\n Clic gauche sur l'icône puis clic gauche sur une zone praticable"
-
+"Invoque le mage Radagast, l'ami des bêtes et des plantes, à vos côtés. Membre du Conseil des Magiciens, c'est un subtil personnage dont la véritable sagesse est dissimulée derrière son apparence et ses manières excentriques. \n\n Clic gauche sur l'icône puis clic gauche sur une zone praticable"
 END
 
 CONTROLBAR:SummonEagleAlliesLorien
@@ -63223,7 +63226,7 @@ CONTROLBAR:SummonHallOfFire
 END
 
 CONTROLBAR:TooltipSummonHallOfFire
-"Invoque le Hall de Feu.\n Type d'Action : Charisme \n Les alliés près de la Salle de feu ce soignent et gagnent +33% d'Armure, gagnent de l'expérience 5 \nClic gauche on sélectionner Clic gauche sur zone ciblé"
+"Invoque le Hall de Feu.\n Type d'Action : Charisme \n Les alliés près de la Salle de feu ce soignent et gagnent +33% d'Armure, gagnent de l'expérience 5 \nClic gauche on sélectionner Clic gauche sur la zone ciblée"
 END
 
 CONTROLBAR:SonsOfElrond
@@ -63502,7 +63505,7 @@ CONTROLBAR:YoungBalinCounselorOfKings
 END
 
 CONTROLBAR:ToolTipYoungBalinCounselorOfKings
-"Requiert : niveau 3 \n Type d'Action : Sort \n Balin donne temporairement du pouvoir à un héros ami, en lui accordant +50% d'armure, +50% de gain d'expérience et +75% de temps de recharge des pouvoirs \n S'accumule avec le Charisme et les Sorts \n\nClic gauche sur l'icône puis clic gauche sur la cible hero"
+"Requiert : niveau 3 \n Type d'Action : Sort \n Balin donne temporairement du pouvoir à un héros ami, en lui accordant +50% d'armure, +50% de gain d'expérience et +75% de temps de recharge des pouvoirs \n S'accumule avec le Charisme et les Sorts \n\nClic gauche sur l'icône puis clic gauche sur le héros ciblé"
 END
 
 
@@ -63760,11 +63763,11 @@ CONTROLBAR:TooltipThrorHoard
 END
 
 CONTROLBAR:CampaignHiddenCache
-"Cache dérobé"
+"Cache dérobée"
 END
 
 CONTROLBAR:TooltipCampaignHiddenCache
-"Invoque une cache de ressources \n Clic gauche sélectionner Clic gauche un emplacement libre"
+"Invoque une cache de ressources \n Clic gauche sur l'icône puis clic gauche un emplacement libre"
 END
 
 CONTROLBAR:BilboRecruit
@@ -63869,7 +63872,7 @@ END
 
 CONTROLBAR:TooltipRebuildErebor
 //"Heals structures \n\nClic gauche sur l'icône puis clic gauche sur la structure cibles"
-"Les Nains sont des architectes et des maçons hors pairs, leurs constructions résistent à l'usure du temps et aux assauts répétés de leurs ennemis.\nRépare une structure.\n\nClic gauche sur l'icône puis clic gauche sur la structure cible"
+"Les Nains sont des architectes et des maçons hors pairs, leurs constructions résistent à l'usure du temps et aux assauts répétés de leurs ennemis.\nRépare une structure.\n\nClic gauche sur l'icône puis clic gauche sur la structure ciblée"
 End
 
 CONTROLBAR:SummonRavens
@@ -65029,7 +65032,7 @@ CONTROLBAR:SongOfSpring
 End
 
 CONTROLBAR:ToolTipSongOfSpring
-"Lorsqu'il est lancé sur un Verger, augmente temporairement sa production de ressources de 50% \n Clic gauche sélectionner Clic gauche sur cible"
+"Lorsqu'il est lancé sur un Verger, augmente temporairement sa production de ressources de 50% \n Clic gauche sur l'icône puis clic gauche sur la cible"
 End
 
 CONTROLBAR:RevelersAkallabeth
@@ -65037,7 +65040,7 @@ CONTROLBAR:RevelersAkallabeth
 END
 
 CONTROLBAR:ToolTipRevelersAkallabeth
-"Les Ménestrels peuvent cibler des unités pour diminuer leur vitesse de 5% jusqu'à 25% et les bâtiments pour diminuer leur armure de 5% jusqu'à 25% \n Capacité passive \n Inflige des dégâts important au fil du temps aux structures \n Peut être lancé à grande distance \n Clic gauche sélectionner Clic gauche sur cible"
+"Les Ménestrels peuvent cibler des unités pour diminuer leur vitesse de 5% jusqu'à 25% et les bâtiments pour diminuer leur armure de 5% jusqu'à 25% \n Capacité passive \n Inflige des dégâts important au fil du temps aux structures \n Peut être lancé à grande distance \n Clic gauche sur l'icône puis clic gauche sur la cible"
 END
 
 //----------Arwen-------------------------------------
@@ -65081,7 +65084,7 @@ CONTROLBAR:ArwenEvenstar
 END
 
 CONTROLBAR:ToolTipArwenEvenstar
-"Requiert : Niveau 10 \n Les unité alliées dans le rayon acquièrent temporairement une immunité contre la Peur et sont soignées lorsqu'elles infligent des dégâts \n N'affecte pas les Héros, La Compagnie Grise ou les vétérans de la Dernière Alliance \n Les unités ennemies dans le rayon perdent tout leur Charisme \n Clic gauche sélectionner Clic gauche sur cible"
+"Requiert : Niveau 10 \n Les unité alliées dans le rayon acquièrent temporairement une immunité contre la Peur et sont soignées lorsqu'elles infligent des dégâts \n N'affecte pas les Héros, La Compagnie Grise ou les vétérans de la Dernière Alliance \n Les unités ennemies dans le rayon perdent tout leur Charisme \n Clic gauche sur l'icône puis clic gauche sur la zone ciblée"
 END
 
 CONTROLBAR:ArwenFlood
@@ -65089,11 +65092,11 @@ CONTROLBAR:ArwenFlood
 End
 
 CONTROLBAR:ToolTipArwenFlood
-"Requiert : Niveau 6 \n Invoque une inondation qui endommagera les ennemis \n et éteindra les incendies \n Clic gauche sélectionner Clic gauche sur cible"
+"Requiert : Niveau 6 \n Invoque une inondation qui endommagera les ennemis et éteindra les incendies \n Clic gauche sur l'icône puis clic gauche sur la zone ciblée"
 End
 
 CONTROLBAR:ToolTipArwenFloodCampaign
-"Requiert : Niveau 4 \n Invoque une inondation qui endommagera les ennemis \n et éteindra les incendies \n Clic gauche sélectionner Clic gauche sur cible"
+"Requiert : Niveau 4 \n Invoque une inondation qui endommagera les ennemis et éteindra les incendies \n Clic gauche sur l'icône puis clic gauche sur la zone ciblée"
 End
 
 CONTROLBAR:TinuvielBlessing
@@ -65101,7 +65104,7 @@ CONTROLBAR:TinuvielBlessing
 END
 
 CONTROLBAR:ToolTipTinuvielBlessing
-"Requiert : Niveau 6 \n Les unités ennemies dans le rayon sont assommées \n Clic gauche sélectionner Clic gauche sur cible"
+"Requiert : Niveau 6 \n Les unités ennemies dans le rayon sont assommées \n Clic gauche sur l'icône puis clic gauche sur la zone ciblée"
 END
 
 CONTROLBAR:ArwenImage
@@ -65109,7 +65112,7 @@ CONTROLBAR:ArwenImage
 End
 
 CONTROLBAR:ToolTipArwenImage
-"Requiert : Niveau 3 \n Les unitées et Héros ciblés deviennent temporairement invicible et reçoivent +25% de vitesse de mouvement \n Clic gauche sélectionner Clic gauche sur cible"
+"Requiert : Niveau 3 \n Les unitées et Héros ciblés deviennent temporairement invisibles et reçoivent +25% de vitesse de mouvement \n Clic gauche sur l'icône puis clic gauche sur la zone ciblée"
 End
 
 //==========================Glorfindel==============================
@@ -65358,7 +65361,7 @@ CONTROLBAR:TooltipWannaBoroMiKnife
 END
 
 CONTROLBAR:TooltipFellowshipWannaBoroMiKnife
-"Boromir lance son épée sur une unité ennemie, ce qui les repoussent et réduisent leur armure. \n Clic gauche sélectionner Clic gauche sur cible"
+"Boromir lance son épée sur une unité ennemie, ce qui la repousse et réduit son armure \n Clic gauche sur l'icône puis clic gauche sur la cible"
 END
 
 CONTROLBAR:ToolTipSongOfDurin
@@ -65446,7 +65449,7 @@ CONTROLBAR:OinRestoration
 END
 
 CONTROLBAR:ToolTipOinRestoration
-"Soigne les alliés proches \n Clic gauche sélectionner Clic gauche sur zone ciblé"
+"Soigne les alliés proches \n Clic gauche sur l'icône puis clic gauche sur la zone ciblée"
 END
 
 CONTROLBAR:ElendurRestoration
@@ -65454,7 +65457,7 @@ CONTROLBAR:ElendurRestoration
 END
 
 CONTROLBAR:ToolTipElendurRestoration
-"Soigne les alliés proches et réinitialise \n leurs compteurs de capactités spéciales \n Clic gauche sélectionner Clic gauche sur zone ciblé"
+"Soigne les alliés proches et réinitialise \n leurs compteurs de capactités spéciales \n Clic gauche sur l'icône puis clic gauche sur la zone ciblée"
 END
 
 CONTROLBAR:ElendilFear
@@ -65558,15 +65561,15 @@ CONTROLBAR:ConstructSecondAgeFighterHorde
 END
 
 CONTROLBAR:ToolTipBuildSecondAgeFighterHorde
-"Forts contre l'infanterie \n\n Les Soldats du Dúnedain d'Elendil étaient de stature intact et de sang non altéré - des guerriers legendaires, craint par les serviteurs du Seigneur des Ténèbres."
+"Forts contre l'infanterie \n\n Les Soldats Dúnedain d'Elendil étaient de stature intact et de sang non altéré - des guerriers legendaires, craint par les serviteurs du Seigneur des Ténèbres."
 END
 
 OBJECT:SecondAgeArcher
-"Archer du Dúnedain"
+"Archer Dúnedain"
 END
 
 OBJECT:HordeSecondAgeArcher
-"Archers du Dúnedain"
+"Archers Dúnedain"
 END
 
 CONTROLBAR:ConstructSecondAgeArcherHorde
@@ -67578,7 +67581,7 @@ CONTROLBAR:ElrondRingOfAir
 END
 
 CONTROLBAR:TooltipElrondRingOfAir
-"Requiert : Niveau 10 \n Type d'Action : Bonus \n Crée un sanctuaire circulaire dans lequel toutes les unités alliées gagnent +150% d'Armure, deviennent furtives, et immunisé contre la Peur et la Terreur dans la région \n S'accumule avec le Charisme et les Sorts \n\n Type d'Action : Altération Activé \n A proximité des unitées ennemies subissent -25% de Dégâts et -20% d'Armure \n Annule le Charisme ennemi \n Ne se cumule pas avec les autres altérations \n Clic gauche sélectionner Clic gauche sur zone ciblé"
+"Requiert : Niveau 10 \n Type d'Action : Bonus \n Crée un sanctuaire circulaire dans lequel toutes les unités alliées gagnent +150% d'Armure, deviennent furtives, et immunisé contre la Peur et la Terreur dans la région \n S'accumule avec le Charisme et les Sorts \n\n Type d'Action : Altération Activé \n A proximité des unitées ennemies subissent -25% de Dégâts et -20% d'Armure \n Annule le Charisme ennemi \n Ne se cumule pas avec les autres altérations \n Clic gauche sur l'icône puis clic gauche sur la zone ciblée"
 END
 
 CONTROLBAR:ElrondMountTooltip
@@ -67590,8 +67593,8 @@ CONTROLBAR:ElrondEarendilion
 END
 
 CONTROLBAR:ToolTipElrondEarendilion
-//"Requiert : Niveau 10 \n Soigne les alliés proches et réinitialise \n leurs compteurs de capacités spéciales \n Clic gauche sélectionner Clic gauche sur zone ciblé"
-"Requiert : Niveau 7 \n Soigne les alliés proches et réinitialise \n leurs compteurs de capacités spéciales \n Clic gauche sélectionner Clic gauche sur zone ciblé"
+//"Requiert : Niveau 10 \n Soigne les alliés proches et réinitialise \n leurs compteurs de capacités spéciales \n Clic gauche sur l'icône puis clic gauche sur zone ciblé"
+"Requiert : Niveau 7 \n Soigne les alliés proches et réinitialise \n leurs compteurs de capacités spéciales \n Clic gauche sur l'icône puis clic gauche sur la zone ciblée"
 END
 
 OBJECT:RohanElfhelm
@@ -67791,7 +67794,7 @@ CONTROLBAR:SummonLoneScout
 End
 
 CONTROLBAR:ToolTipSummonLoneScout
-"Invoque temporairement, un éclaireur Rohirrim invulnérable qui accordent +15% de vitesse aux unités alliées proches \n Clic gauche sélectionner Clic gauche un emplacement libre"
+"Invoque temporairement, un éclaireur Rohirrim invulnérable qui accordent +15% de vitesse aux unités alliées proches \n Clic gauche sur l'icône puis clic gauche sur un emplacement libre"
 END
 
 CONTROLBAR:SummonCirionOath
@@ -67799,7 +67802,7 @@ CONTROLBAR:SummonCirionOath
 END
 
 CONTROLBAR:TooltipSummonCirionOath
-"Invoque deux bataillons de lanciers et d'archers Anóriens. \n Clic gauche on sélectionner Clic gauche sur zone ciblé"
+"Invoque deux bataillons de lanciers et d'archers Anóriens. \n Clic gauche on sélectionner Clic gauche sur la zone ciblée"
 END
 
 CONTROLBAR:WestfoldHorn
@@ -67807,11 +67810,11 @@ CONTROLBAR:WestfoldHorn
 END
 
 CONTROLBAR:TooltipWestfoldHorn
-"Type d'Action : Bonus \n Les alliés ciblé gagnent +50% de Dégâts et +50% d'Armure \n S'accumule avec le Charisme et les Sorts \n Une fois utilisé, déverouille passivements Erkenbrand et les Ouestfoldes \n Clic gauche sélectionner Clic gauche sur unités ciblé "
+"Type d'Action : Bonus \n Les alliés ciblé gagnent +50% de Dégâts et +50% d'Armure \n S'accumule avec le Charisme et les Sorts \n Une fois utilisé, déverouille passivements Erkenbrand et les Ouestfoldes \n Clic gauche sur l'icône puis clic gauche sur unités ciblé "
 END
 
 CONTROLBAR:TooltipWestfoldHorn_WOTR
-"Type d'Action : Bonus \n Les alliés ciblé gagnent +50% de Dégâts et +50% d'Armure \n S'accumule avec le Charisme et les Sorts \n Une fois utilisé, déverouille passivement les Ouestfoldes \n Clic gauche sélectionner Clic gauche sur unités ciblé "
+"Type d'Action : Bonus \n Les alliés ciblé gagnent +50% de Dégâts et +50% d'Armure \n S'accumule avec le Charisme et les Sorts \n Une fois utilisé, déverouille passivement les Ouestfoldes \n Clic gauche sur l'icône puis clic gauche sur unités ciblé "
 END
 
 CONTROLBAR:PukelStatue
@@ -67819,7 +67822,7 @@ CONTROLBAR:PukelStatue
 END
 
 CONTROLBAR:TooltipPukelStatue
-"Invoque une statue d'Homme-Púkel abritant une magie étrange \n Clic gauche sélectionner Clic gauche un emplacement libre"
+"Invoque une statue d'Homme-Púkel abritant une magie étrange \n Clic gauche sur l'icône puis clic gauche un emplacement libre"
 END
 
 CONTROLBAR:MusterRohirrim
@@ -67835,7 +67838,7 @@ CONTROLBAR:BountifulHarvest
 END
 
 CONTROLBAR:TooltipBountifulHarvest
-//"La production de ressources de la structure sélectionée est augmentée en permanence à 300% \n Clic gauche sélectionner Clic gauche sur cible une structure de ressource "
+//"La production de ressources de la structure sélectionée est augmentée en permanence à 300% \n Clic gauche sur l'icône puis clic gauche sur cible une structure de ressource "
 //"+30% de ressources des mines Naines \n Pouvoir Passive"
 //"+25% de ressources des mines Naines \n Pouvoir Passive"
 //"+20% de ressources des mines Naines \n Pouvoir Passive"
@@ -67855,7 +67858,7 @@ CONTROLBAR:EverholtBoar
 End
 
 CONTROLBAR:ToolTipEverholtBoar
-"Invoque le Grand Sanglier d'Eoferholt \n Le sanglier piétine, inflige de bons dégâts de siège, affaiblit et attaque tout ce qui est en vue \n Clic gauche sélectionner Clic gauche sur une zone localisé"
+"Invoque le Grand Sanglier d'Eoferholt \n Le sanglier piétine, inflige de bons dégâts de siège, affaiblit et attaque tout ce qui est en vue \n Clic gauche sur l'icône puis clic gauche sur une zone localisé"
 END
 
 CONTROLBAR:SummonLastMarch
@@ -67863,7 +67866,7 @@ CONTROLBAR:SummonLastMarch
 End
 
 CONTROLBAR:TooltipSummonLastMarch
-"Invoque Sylvebarbe et de nombreux Ents sur le champs de bataille \n Clic gauche sélectionner Clic gauche sur une zone localisé"
+"Invoque Sylvebarbe et de nombreux Ents sur le champs de bataille \n Clic gauche sur l'icône puis clic gauche sur une zone localisé"
 END
 
 CONTROLBAR:SummonStormcrow
@@ -67871,7 +67874,7 @@ CONTROLBAR:SummonStormcrow
 End
 
 CONTROLBAR:ToolTipSummonStormcrow
-"Invoque Gandalf Le Blanc et les Trois Chasseurs \n Clic gauche sélectionner Clic gauche sur une zone localisé"
+"Invoque Gandalf Le Blanc et les Trois Chasseurs \n Clic gauche sur l'icône puis clic gauche sur une zone localisé"
 END
 
 CONTROLBAR:ToolTipBuildRohanBarracksLevel2Upgrade
@@ -68044,7 +68047,7 @@ CONTROLBAR:GamlingWhateverEnd
 END
 
 CONTROLBAR:ToolTipGamlingWhateverEnd
-"Type d'Action : Bonus \n Le Héros ciblé gagne temporairement +25% d'Armure \n Ne peut être utilisé que sur Théoden, Éomer, Eowyn ou Théodred \n S'accumule avec le Charisme et les Sorts \n Clic gauche sélectionner Clic gauche sur cible hero"
+"Type d'Action : Bonus \n Le Héros ciblé gagne temporairement +25% d'Armure \n Ne peut être utilisé que sur Théoden, Éomer, Eowyn ou Théodred \n S'accumule avec le Charisme et les Sorts \n Clic gauche sur l'icône puis clic gauche sur le héros ciblé"
 END
 
 CONTROLBAR:StrengthRemembered
@@ -68108,7 +68111,7 @@ CONTROLBAR:GrimboldProtection
 END
 
 CONTROLBAR:ToolTipGrimboldProtection
-"Requiert : Niveau 5 \n Les unités alliées ciblés gagnent +50% d'Armure pendant 30 secondes \n Clic gauche sélectionner Clic gauche sur unités ciblé"
+"Requiert : Niveau 5 \n Les unités alliées ciblés gagnent +50% d'Armure pendant 30 secondes \n Clic gauche sur l'icône puis clic gauche sur unités ciblé"
 END
 
 CONTROLBAR:GrimboldHeal
@@ -68208,7 +68211,7 @@ CONTROLBAR:EowynReadiness
 END
 
 CONTROLBAR:ToolTipEowynReadiness
-"Requiert : Niveau 3 \n La ferme ou le moulin ciblé produit temporairement des paysans \n Clic gauche sélectionner Clic gauche sur cible"
+"Requiert : Niveau 3 \n La ferme ou le moulin ciblé produit temporairement des paysans \n Clic gauche sur l'icône puis clic gauche sur la structure ciblée"
 END
 
 CONTROLBAR:ToggleEowynDernhelm
@@ -68232,7 +68235,7 @@ CONTROLBAR:EowynIthilienGarden
 END
 
 CONTROLBAR:ToolTipEowynIthilienGarden
-"Requiert : Niveau 8 \n Invoque un Jardin qui soigne les unités voisines et détecte la furtivité \n Clic gauche sélectionner Clic gauche sur une position ciblé"
+"Requiert : Niveau 8 \n Invoque un Jardin qui soigne les unités voisines et détecte la furtivité \n Clic gauche sur l'icône puis clic gauche sur une position ciblé"
 END
 
 CONTROLBAR:EowynCourage
@@ -68240,7 +68243,7 @@ CONTROLBAR:EowynCourage
 END
 
 CONTROLBAR:ToolTipEowynCourage
-"Requiert : Niveau 5 \n Eowyn inspire un Héros ciblé à accomplir de grande actions. \n\n Le Héros ciblé gagne temporairement +25% de dégâts et double obtention d'expérience \n Merry obtient +50% de dégâts et double l'obtention d'expérience \n\n Clic gauche sélectionner Clic gauche sur un Héros ciblé"
+"Requiert : Niveau 5 \n Eowyn inspire un Héros ciblé à accomplir de grande actions. \n\n Le Héros ciblé gagne temporairement +25% de dégâts et double obtention d'expérience \n Merry obtient +50% de dégâts et double l'obtention d'expérience \n\n Clic gauche sur l'icône puis clic gauche sur un Héros ciblé"
 END
 
 CONTROLBAR:ElfhelmQuickRescue
@@ -68256,7 +68259,7 @@ CONTROLBAR:ElfhelmPromotion
 END
 
 CONTROLBAR:ToolTipElfhelmPromotion
-"Requiert : Niveau 5 \n Sélectionnez un bataillon pour l'améliorer, lui accordant en permanence +25% de dégâts \n Ne peut pas être utilisé sur les Guerriers d'Helmingas Warriors \n Clic gauche sélectionner Clic gauche sur cible bataillon"
+"Requiert : Niveau 5 \n Sélectionnez un bataillon pour l'améliorer, lui accordant en permanence +25% de dégâts \n Ne peut pas être utilisé sur les Guerriers d'Helmingas Warriors \n Clic gauche sur l'icône puis clic gauche sur le bataillon ciblé"
 END
 
 CONTROLBAR:ElfhelmLeadership
@@ -68296,7 +68299,7 @@ CONTROLBAR:PukelMoveUnseen
 END
 
 CONTROLBAR:ToolTipPukelMoveUnseen
-"Les Drúedain connaissent des chemins que d'autres ont oubliés depuis longtemps \n Permet à tous les alliés ciblés de devenir temporairement furtifs \n Clic gauche sélectionner Clic gauche sur les unités ciblées"
+"Les Drúedain connaissent des chemins que d'autres ont oubliés depuis longtemps \n Permet à tous les alliés ciblés de devenir temporairement furtifs \n Clic gauche sur l'icône puis clic gauche sur les unités ciblées"
 END
 
 CONTROLBAR:PukelStoneSkin
@@ -68304,7 +68307,7 @@ CONTROLBAR:PukelStoneSkin
 END
 
 CONTROLBAR:ToolTipPukelStoneSkin
-"Les statues d'Hommes-Púkel auraient abrité des esprits bienveillants, capables de protéger leurs amis et de repousser les ennemis \n Les unités dans le rayon sont temporairement gelées et ne peuvent pas attaquer ou être attaquées \n Clic gauche sélectionner Clic gauche sur les unités ciblées"
+"Les statues d'Hommes-Púkel auraient abrité des esprits bienveillants, capables de protéger leurs amis et de repousser les ennemis \n Les unités dans le rayon sont temporairement gelées et ne peuvent pas attaquer ou être attaquées \n Clic gauche sur l'icône puis clic gauche sur les unités ciblées"
 END
 
 CONTROLBAR:PukelFaithfulStone
@@ -68312,7 +68315,7 @@ CONTROLBAR:PukelFaithfulStone
 END
 
 CONTROLBAR:ToolTipPukelFaithfulStone
-"Une histoire oubliée depuis longtemps raconte qu'un fidèle gardien de pierre prend vie pour garder la maison d'un ami \n Lorsqu'elle est lancée sur une structure, celle-ci est temporairement défendue par un mystérieux guerrier Drúedain \n Clic gauche sélectionner Clic gauche sur le bâtiment ciblé"
+"Une histoire oubliée depuis longtemps raconte qu'un fidèle gardien de pierre prend vie pour garder la maison d'un ami \n Lorsqu'elle est lancée sur une structure, celle-ci est temporairement défendue par un mystérieux guerrier Drúedain \n Clic gauche sur l'icône puis clic gauche sur le bâtiment ciblé"
 END
 
 OBJECT:DruedainWarrior
@@ -69311,15 +69314,15 @@ CONTROLBAR:CampaignSpawnTornado
 End
 
 CONTROLBAR:TooltipCampaignSpawnTornado
-"Invoque une Tornade destrucitve sur le champ de bataille pour une longue durée"
+"Invoque une Tornade destructive sur le champ de bataille pour une longue durée \n Clic gauche sur l'icône puis clic gauche sur la zone ciblée"
 End
 
 CONTROLBAR:CampaignGloriousCharge
-"Aujourd'hui nous Combattons!"
+"Aujourd'hui nous Combattons !"
 END
 
 CONTROLBAR:TooltipCampaignGloriousCharge
-"Type d'Action : Bonus \n Les Héros et la cavalerie obtiennent +100% de Dégâts et +300% d'Armure \n Aucune force ne peut ralentir cette charge \n S'accumule avec le Charisme et les Sorts \n Clic gauche sélectionner Clic gauche sur l'unité ciblé"
+"Type d'Action : Bonus \n Les Héros et la cavalerie obtiennent +100% de Dégâts et +300% d'Armure \n Aucune force ne peut ralentir cette charge \n S'accumule avec le Charisme et les Sorts \n Clic gauche sur l'icône puis clic gauche sur l'unité ciblé"
 END
 
 TOOLTIP:Mansblood
@@ -71143,7 +71146,7 @@ CONTROLBAR:GorbagDropkick
 END
 
 CONTROLBAR:ToolTipGorbagDropkick
-"Requiert : Niveau 3\n Etourdit et renverse les unités et les héros à proximité \n Peut être utilisé avec la Ruse de Morgul \n Clic gauche sélectionner Clic gauche sur cible"
+"Requiert : Niveau 3\n Etourdit et renverse les unités et les héros à proximité \n Peut être utilisé avec la Ruse de Morgul \n Clic gauche sur l'icône puis clic gauche sur la zone ciblée"
 END
 
 CONTROLBAR:GorbagBleedWeapon
@@ -71151,7 +71154,7 @@ CONTROLBAR:GorbagBleedWeapon
 END
 
 CONTROLBAR:ToolTipGorbagBleedWeapon
-"Requiert : Niveau 5\n L'énnemie héros ciblé subit de lourds dégâts au fil du temps \n Clic gauche sélectionner Clic gauche sur cible"
+"Requiert : Niveau 5\n L'énnemie héros ciblé subit de lourds dégâts au fil du temps \n Clic gauche sur l'icône puis clic gauche sur le héros ciblé"
 END
 
 CONTROLBAR:GorbagLoyaltyWeapon
@@ -71159,7 +71162,7 @@ CONTROLBAR:GorbagLoyaltyWeapon
 END
 
 CONTROLBAR:ToolTipGorbagLoyaltyWeapon
-"Requiert : Niveau 7 \n Gorbag gagne passivement +15% de vitessse \n Capacité Passive \n \n Le héros ennemi ciblé perd -50% d'armure pour un court instant \n tandis que Gorbag gagne +50% d'armure pendant cette durée \n Clic gauche sélectionner Clic gauche sur cible"
+"Requiert : Niveau 7 \n Gorbag gagne passivement +15% de vitessse \n Capacité Passive \n \n Le héros ennemi ciblé perd -50% d'armure pour un court instant \n tandis que Gorbag gagne +50% d'armure pendant cette durée \n Clic gauche sur l'icône puis clic gauche sur le héros ciblé"
 END
 
 CONTROLBAR:ShagratTowersCaptain
@@ -71171,7 +71174,7 @@ CONTROLBAR:ShagratTowersCaptainLevel3
 END
 
 CONTROLBAR:ToolTipShagratTowersCaptain
-"Les Tours du Mordor et les Archers Orques proche de Shagrat gagnent +15% de vision,\n +15% de distance, et +15% de dégâts \n Capacité Passive \n \n Au niveau 3, crée une horde temporaire de Maraudeurs noirs Uruk lorsqu'il est utilisé sur un bâtiment ami \n Clic gauche sélectionner Clic gauche sur un bâtiment ciblé"
+"Les Tours du Mordor et les Archers Orques proche de Shagrat gagnent +15% de vision,\n +15% de distance, et +15% de dégâts \n Capacité Passive \n \n Au niveau 3, crée une horde temporaire de Maraudeurs noirs Uruk lorsqu'il est utilisé sur un bâtiment ami \n Clic gauche sur l'icône puis clic gauche sur un bâtiment ciblé"
 END
 
 CONTROLBAR:ShagratLeadership
@@ -71235,7 +71238,7 @@ CONTROLBAR:GrishnakhWickedJab
 END
 
 CONTROLBAR:ToolTipGrishnakhWickedJab
-"L'ennemi ciblé est assommé, prend temporairement des dégâts au fil du temps \n et partage sa vision avec le joueur pour la durée \n Clic gauche sélectionner Clic gauche sur cible"
+"L'ennemi ciblé est assommé, prend temporairement des dégâts au fil du temps \n et partage sa vision avec le joueur pour la durée \n Clic gauche sur l'icône puis clic gauche sur la cible"
 END
 
 CONTROLBAR:PurchaseUpgradeMordorFortressMorgulSpire
@@ -71287,7 +71290,7 @@ CONTROLBAR:GwanthaurSoulTrap
 END
 
 CONTROLBAR:ToolTipGwanthaurSoulTrap
-"Les unités ennemies dans le rayon subissent des dégâts \n Si l'unité meurt, le Gwanthaur reçoit +5% d'armure et de dégâts pour un temps limité \n Clic gauche sélectionner Clic gauche sur une zone ciblé"
+"Les unités ennemies dans le rayon subissent des dégâts \n Si l'unité meurt, le Gwanthaur reçoit +5% d'armure et de dégâts pour un temps limité \n Clic gauche sur l'icône puis clic gauche sur une zone ciblé"
 END
 
 CONTROLBAR:GwanthaurReclamation
@@ -71295,7 +71298,7 @@ CONTROLBAR:GwanthaurReclamation
 END
 
 CONTROLBAR:ToolTipGwanthaurReclamation
-"La structure ciblée est détruite \n Des arbres tordus apparraissent à sa place \n N'affecte pas les Forteresses \n Clic gauche sélectionner Clic gauche sur cible structure"
+"La structure ciblée est détruite \n Des arbres tordus apparraissent à sa place \n N'affecte pas les Forteresses \n Clic gauche sur l'icône puis clic gauche sur la structure ciblée"
 END
 
 GUI:SHADEDiscount
@@ -71403,11 +71406,11 @@ CONTROLBAR:BlackUrukBrawl
 END
 
 CONTROLBAR:ToolTipBlackUrukBrawl
-"Requiert Shagrat \n Ordonner à cette unité de tuer des alliés Orques \n ou des Légions def Morgul pour gagner de l'expérience de combat \n Clic gauche sélectionner Clic gauche sur cible"
+"Requiert Shagrat \n Ordonner à cette unité de tuer des alliés Orques ou des Légions de Morgul pour gagner de l'expérience de combat \n Clic gauche sur l'icône puis clic gauche sur la cible"
 END
 
 CONTROLBAR:ToolTipBlackUrukBrawl_Inn
-"Ordonner à cette unité de tuer des alliés Orques de la Moria \n ou des guerriers de Gobelin ville pour gagner de l'expérience de combat \n Clic gauche sélectionner Clic gauche sur cible"
+"Ordonner à cette unité de tuer des alliés Orques de la Moria ou des guerriers de Gobelin ville pour gagner de l'expérience de combat \n Clic gauche sur l'icône puis clic gauche sur la cible"
 END
 
 CONTROLBAR:UrukScoutHuntingArrows
@@ -71449,7 +71452,7 @@ CONTROLBAR:GalionDorwinionRed
 END
 
 CONTROLBAR:ToolTipGalionDorwinionRed
-"Requiert : Niveau 3 \n Les unités alliées dans le rayon gagnent +75% d'armure et perdent -25% de dégâts d'attaque \n Clic gauche sélectionner Clic gauche sur un bataillon ciblé"
+"Requiert : Niveau 3 \n Les unités alliées dans le rayon gagnent +75% d'armure et perdent -25% de dégâts d'attaque \n Clic gauche sur l'icône puis clic gauche sur un bataillon ciblé"
 END
 
 CONTROLBAR:GalionBadBatch
@@ -71457,7 +71460,7 @@ CONTROLBAR:GalionBadBatch
 END
 
 CONTROLBAR:ToolTipGalionBadBatch
-"Requiert : Niveau 7 \n Provoque les unités ciblées à devenir hostiles entre elles \n Clic gauche sélectionner Clic gauche sur la zone ciblé"
+"Requiert : Niveau 7 \n Provoque les unités ciblées à devenir hostiles entre elles \n Clic gauche sur l'icône puis clic gauche sur la zone ciblée"
 END
 
 //------------ Feren ---------------
@@ -71483,7 +71486,7 @@ CONTROLBAR:FerenShieldBash
 END
 
 CONTROLBAR:ToolTipFerenShieldBash
-"Attaque puissante renversant les unités ennemies \n Au niveau 5, le rayon et les dégâts sont augmentés \n Clic gauche sélectionner Clic gauche sur cible"
+"Attaque puissante renversant les unités ennemies \n Au niveau 5, le rayon et les dégâts sont augmentés \n Clic gauche sur l'icône puis clic gauche sur la zone ciblée"
 END
 
 //------------ Grimbeorn ---------------
@@ -71535,7 +71538,7 @@ CONTROLBAR:TaurielSummon
 END
 
 CONTROLBAR:ToolTipTaurielSummon
-"Requiert : Niveau 3 \n Tauriel appelle un groupe immobile de Garde Silvain pour défendre une zone ciblée \n Ils sont immobiles, mais restent furtives quand ils n'attaquent pas \n Clic gauche sélectionner Clic gauche sur l'emplacement du chemin"
+"Requiert : Niveau 3 \n Tauriel appelle un groupe immobile de Gardes Silvain pour défendre une zone ciblée \n Ils sont immobiles, mais restent furtifs quand ils n'attaquent pas \n Clic gauche sur l'icône puis clic gauche sur l'emplacement du chemin"
 END
 
 CONTROLBAR:TaurielDecisiveStrike
@@ -71973,7 +71976,7 @@ CONTROLBAR:FarsightMirkwood
 End
 
 CONTROLBAR:TooltipFarsightMirkwood
-"Révèle la zone ciblée \n \n Type d'Action : Buff \n Donne un bonus de +15% de vitesse aux unités dans la zone ciblée \n S'accumule \n Clic gauche sur l'îcone puis clic gauche sur la zone ciblé"
+"Révèle la zone ciblée \n \n Type d'Action : Buff \n Donne un bonus de +15% de vitesse aux unités dans la zone ciblée \n S'accumule \n Clic gauche sur l'îcone puis clic gauche sur la zone ciblée"
 End
 
 CONTROLBAR:ElvenkingRoad
