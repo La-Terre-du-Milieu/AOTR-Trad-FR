@@ -10763,7 +10763,7 @@ OBJECT:FireWood
 END
 
 CampaignName:LastAlliance
-"The Last Alliance"
+"La Dernière Alliance"
 END
 
 CampaignName:Bree
@@ -70956,19 +70956,19 @@ END
 
 //------------ Thranduil ---------------
 CONTROLBAR:NoneMayEnter
-"None Ma&y Enter"
+"Personne ne peut entrer"
 END
 
 CONTROLBAR:ToolTipNoneMayEnter
-"Requires Level 4\n Targeted terrain becomes hostile to enemy units\nWhen passed over, enemy units are slowed by -25% and take damage over time\nLeft click icon then left click on pathable location"
+"Requiert: Niveau 4\n Le terrain visé deviens hostile aux unités ennemis\nQuand elles passent dessus, les unités ennemis sont ralenti de -25% et prennent des dégats avec le temps\nClic gauche sur l'icône puis clic gauche sur un endroit terrain autorisé"
 END
 
 CONTROLBAR:MemoryOfMordor
-"&Memory Of Mordor"
+"&Souvenirs Du Mordor"
 END
 
 CONTROLBAR:ToolTipMemoryOfMordor
-"Requires Level 10\nThranduil is surrounded by memories of the Black Land\nEnemy units are terrified, take damage,\n lose all leadership and deal -50% damage\nThranduil is invulnerable while the power is active but cannot move\nLeft click to activate"
+"Requiert: Niveau 10\nThranduil est encerclé par des souvenirs des Terres Sombres\nLes unités ennemis sont térrifiés, prennent des dégats,\n perdent tout les charismes et font -50% de dégats\nThranduil est invulnérable pendant que le pouvoir est actif mais ne peut pas bouger\nClic droit pour l'activer"
 END
 
 //------------ Frumgar ---------------
@@ -70978,72 +70978,72 @@ OBJECT:MirkwoodFrumgar
 END
 
 CONTROLBAR:MirkwoodFrumgarRecruit
-"Recruit Frumgar the Younger, son of Frumgar the Elder, Champion of the Anduin Vale. \n \n 'QUOTE'"
+"Recrute Frumgar le Cadet, fils de Frumgar l'Aîné, Champion de la Vallé de l'Anduin. \n \n 'QUOTE'"
 END
 CONTROLBAR:MirkwoodFrumgarRevive
-"Revive the fallen Hero, Frumgar"
+"Réssuscite le Hero tombé, Frumgar"
 END
 CONTROLBAR:MirkwoodFrumgarHotkey
 "&Frumgar"
 END
 
 CONTROLBAR:WrathoftheDragonSlayer
-"Wrath of the Dragon Slayer"
+"Colère du Tueur de Dragon"
 END
 
 CONTROLBAR:ToolTipWrathoftheDragonSlayer  
-"Modifier Type: Leadership\nAllies near Frumgar gain +33% damage, +33% armor, earn experience +50% faster and are immune to fear, terror and fire\nStacks with buffs and spells\nPassive ability"
+"Type de Modification: Charisme\nLes alliés près de Frumgar gagnent +33% de Dégâts, +33% d'Armure, gagnet de l'experience 50% plus vite et sont immunisé à la peur, la terreur et le feu\nSe cumule avec les bonus et les sorts\nabilité passive"
 END
 
 CONTROLBAR:OrcWarVeteran
-"Orc &War Veteran"
+"Vétéran de la Guerre contre les Orcs"
 End
 
 CONTROLBAR:ToolTipOrcWarVeteran
-"Frumgar tells of the day he slew Muzgash \n Targeted units gain experience \n Left click icon then left click on target units"
+"Frumgar raconte le jour où il tua Muzgash \n Les unités alliés gagnent de l'expérience \n Clic gauche sur l'icône puis clic gauche sur les unités ciblés"
 End
 
 CONTROLBAR:FeatofLegends
-"Feat of &Legends"
+"Exploit de Légende"
 END
 
 //-------------EOTHEOD WARRIORS---------------------------
 
 OBJECT:Eotheod
-"Éotheod Warrior"
+"Guerrier Éotheod"
 END
 
 OBJECT:HordeEotheod
-"Éotheod Warriors"
+"Guerriers Éotheod"
 END
 
 //------------ White Stag ---------------
 OBJECT:MirkwoodWhiteStag
-"White Stag"
+"Cerf Blanc"
 END
 
 CONTROLBAR:WhiteStagEthereal
-"Ethereal"
+"Éthéré"
 END
 
 CONTROLBAR:ToolTipWhiteStagEthereal
-"The White Stag is immune to all enemy attacks, but may trample enemy units\n Enemy units are terrified by the White Stag\n Passive ability"
+"Le Cerf Blanc est immunisé à toutes les attaques ennemis, mais peut piétiner les unités ennemies\n Les unités ennemeis sont terrifiées par le Cerf Blanc\n abilité passive"
 END
 
 CONTROLBAR:SGoodFortune
-"A Sign of Good Fortune"
+"Un signe de bonne fortune"
 End
 
 CONTROLBAR:ToolTipSGoodFortune
-"Nearby friendly units gain +300% armor and resistance to fear and terror"
+"Les unités alliées proches gagnent +300% d'Armure et de résistance à la peur et à la terreur"
 End
 
 CONTROLBAR:FeyWisdom
-"Fey &Wisdom"
+"Sagesse &Extralucide"
 End
 
 CONTROLBAR:ToolTipFeyWisdom
-"For 1 minute, nearby units and heroes gain 300% experience gain and immunity to magic and elemental damage\nLeft click to activate"
+"Pendant 1 minute, les unités alliées proches et les héros gagnet 300% d'expérience et gagnent l'immunité aux dégats magiques et élémentaires\nClic gauche pour activer"
 End
 
 //---------------------------------------------------------------------------
@@ -71263,7 +71263,7 @@ CONTROLBAR:PurchaseUpgradeMirkwoodFortressBanners
 END
 
 CONTROLBAR:PurchaseUpgradeMirkwoodFortressEnchantedRiver
-"&Enchanted River"
+"&Rivière enchantée"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeMirkwoodFortressBanners
@@ -71279,43 +71279,43 @@ CONTROLBAR:ToolTipPurchaseUpgradeMirkwoodFortressHouseOfHealing
 END
 
 CONTROLBAR:PurchaseUpgradeMirkwoodFortressEmperorProtection
-"Emperor's &Protection"
+"Protection de l'Empereur"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeElvenFortressEmperorProtection
-"Unlocks the Emperor's Protection ability, which when activated causes structures in a wide radius around the fortress to temporarily gain +150% armor against siege, fire and magic damage\nDoesn't affect summoned structures"
+"Débloque l'abilité de la Protection de l'Empereur, qui quand elle est activée donne temporairement aux batiments dans un large périmètre autour de la forteresse +150% d'Armure contre les dégats d'armes de siège, de feu et magique\nN'affecte pas les structures invoquées"
 END
 
 CONTROLBAR:EmperorProtection
-"Emperor's &Protection"
+"Protection de l'Empereur"
 END
 
 CONTROLBAR:TooltipEmperorProtection
-"Requires the Emperor's Protection upgrade\nStructures in a wide radius around the fortress temporarily gain +150% armor against siege, fire and magic damage\nLeft click to activate"
+"Requiert l'amélioration Protection de l'Empereur\nLes Structures gagnent temporairement dans un lage périmètre autour de la forteresse +150% d'Armure contre les dégats d'armes de siège, de feu et magique\nClic gauche pour activer"
 END
 
 CONTROLBAR:PurchaseUpgradeMirkwoodFortressGarrison
-"&Silvan Garrison"
+"&Garnison Sylvaine"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeElvenFortressGarrison
-"Prequisite to the Tribute to Oromë upgrade\nStations archers on the parapets"
+"Prérequis pour l'amélioration l’Hommage à Oromë\nStationne des Archers sur les parapets"
 END
 
 CONTROLBAR:PurchaseUpgradeMirkwoodFortressOromeTribute
-"&Tribute to Oromë"
+"&Hommage à Oromë"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeElvenFortressOromeTribute
-"Requires the Silvan Garrison upgrade\nNearby units gain +33% attack damage\nPassive ability\nUnlocks recruitment of Gilded Guard\nUnlocks the Horn of Tauron ability, which when activated causes enemies near the fortress to lose 50% armor and flee in terror"
+"Requiert L'amélioration Garnison Sylvaine\nLes unités proches gagnent +33% de dégâts d'attaques\nabilité passive\ndébloque le recrutement des Gards dorés\nDébloque l'abilité la Corne de Tauron, qui quand elle est activée cause aux ennemis proches de la forteresse la perte de 50% d'Armure et la fuite de terreur"
 END
 
 CONTROLBAR:HornOfTauron
-"Horn of &Tauron"
+"la Corne de Tauron"
 END
 
 CONTROLBAR:TooltipHornOfTauron
-"Requires the Tribute to Oromë upgrade\nCauses enemies near the fortress to lose 50% armor\nand flee in terror\nLeft click to activate"
+"Requiert l'amélioration l’Hommage à Oromë\nCause aux ennemis proches de la forteresse la perte de 50% d'Armure\net la fuite de terreur\nClic gauche pour activer"
 END
 
 CONTROLBAR:PurchaseUpgradeMirkwoodFortressRazorSpines
@@ -71647,7 +71647,7 @@ CONTROLBAR:ConstructGreenwoodWarriorHorde
 END
 
 CONTROLBAR:ToolTipBuildGreenwoodWarriorHorde
-"Sword-masters \n Strong vs. Pikemen \n \n After witnessing first-hand the terror of Mordor, Thranduil formed a standing army of richly equipped Elves to ward his realm against its inevitable return."
+"Maîtres-épéistes \n Fort contre Piquiers \n \n After witnessing first-hand the terror of Mordor, Thranduil formed a standing army of richly equipped Elves to ward his realm against its inevitable return."
 END
 
 CONTROLBAR:ConstructGreenwoodArcherHorde
