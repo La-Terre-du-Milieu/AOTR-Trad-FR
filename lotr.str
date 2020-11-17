@@ -71343,15 +71343,15 @@ CONTROLBAR:ConstructMirkwoodCaveEntranceExpansion
 END
 
 CONTROLBAR:ToolTipConstructMirkwoodCaveEntranceExpansion
-"Connects this Fortress to the tunnel system \n Increases command point limit"
+"Connecte cette forteresse au réseau de tunnels \n Augmente la limite de points de commandement"
 END
 
 OBJECT:MirkwoodFortressCaveEntranceExpansion
-"Cave Entrance"
+"Entrée de la grotte"
 END
 
 OBJECT:MirkwoodFortressCaveEntranceExpansionDescription
-"Allows access to the tunnel system \n Increases command point limit"
+"Autorise l'accès au réseau de tunnels \n Augmente la limite de points de commandement"
 END
 
 CONTROLBAR:ConstructMirkwoodSilvanHunter
@@ -71371,19 +71371,19 @@ CONTROLBAR:WoodlandAttire
 END
 
 CONTROLBAR:TooltipWoodlandAttire
-"Les Chasseurs Sylvain sont des unités de reconnaissance rapide qui gagnent des ressources\n en tuant des ennemis\n abilité passive\n\nQuand elle est activé, les Chasseurs deviennent furtifs pendant 30 secondes et ne peuvent être attaqué ni attaquer\n Clic gauche sur l'icône pour l'activer"
+"Les Chasseurs Sylvain sont des unités de reconnaissance rapide qui gagnent des ressources\n en tuant des ennemis\n abilité passive\n\nQuand elle est activé, les Chasseurs deviennent furtifs pendant 30 secondes et ne peuvent être attaqués ni attaquer\n Clic gauche sur l'icône pour l'activer"
 END
 
 CONTROLBAR:HuntingSnare
-"Hu&nting Snare"
+"Piège de chasse"
 END
 
 CONTROLBAR:ToolTipHuntingSnare
-"Requires Level 3 \n The Hunter lays a hunting snare which stuns nearby enemies for 5 seconds\nDoes not affect creeps\n Does not work on water\n\n Left click then left click target location"
+"Requiert niveau 3 \n Le chasseur pose un piège qui étourdit les ennemis proches pendant 5 secondes\n N'affecte pas les antres\n Ne fonctionne pas sur l'eau\n\n Clic gauche puis clic droit sur la zone cible"
 END
 
 OBJECT:HuntingSnare
-"Hunting Snare"
+"Piège de chasse"
 END
 
 OBJECT:GreenwoodArcher
@@ -71431,19 +71431,19 @@ OBJECT:GreenwoodSlayerDoubleHorde
 END
 
 CONTROLBAR:ElvenProwess
-"Elven Prowess"
+"Prouesse elfique"
 END
 
 CONTROLBAR:ToolTipElvenProwess
-"Requires Level 2 \n Consecutive attacks temporarily increase attack damage by 5% up to a maximum of 25% \n Passive ability"
+"Requiert niveau 2 \n Les attaques consécutives augmentent temporairement les dégâts infligés de 5% jusqu'à un maximum de 25% \n Habileté passive"
 END
 
 CONTROLBAR:SkinningKnives
-"Skinning Knives"
+"Couteaux d'équarissage"
 END
 
 CONTROLBAR:ToolTipSkinningKnives
-"Requires Level 3 \n Attacks deal a small amount of damage over time \n Passive ability"
+"Requiert niveau 3 \n Les attaques infligent de légers dégâts au fil du temps \n Habileté passive"
 END
 
 OBJECT:SindarNoble
@@ -71459,15 +71459,15 @@ OBJECT:SindarNobleHorde
 END
 
 CONTROLBAR:PurchaseUpgradeSindarNoblesShield
-"Purchase Sindar Sh&ields"
+"Rechercher les boucliers sindarins"
 End
 
 CONTROLBAR:ToolTipPurchaseUpgradeSindarNoblesShield
-"When equipped, reduces the amount of pike and archer damage taken by +25%"
+"Lorsqu'ils sont équipés, réduisent le montant des dégâts infligés par les armes des piquiers et archers de 25%"
 End
 
 TOOLTIP:LackSindarNoblesShield
-"Requires Amroth's Knights"
+"Requiert les Chevaliers d'Amroth"
 End
 
 OBJECT:GildedGuard
@@ -71483,11 +71483,11 @@ CONTROLBAR:ConstructGildedGuardHorde
 END
 
 CONTROLBAR:ToolTipBuildGildedGuardHorde
-"Gilded Guard of Lasgalen\nRequires the Tribute to Oromë upgrade\nLimited to 1\nStrong. vs Swordsmen and Archers\n\n Their order originating from the earliest origins of Silvan settlement of Greenwood the Great, the Gilded Guard have stood ever vigilant in defense of their forest home."
+"Gardes dorés de Lasgalen\nRequiert l'amélioration Tribut d'Orome\nLimité à 1\nFort contre épéistes et archers\n\n Leur ordre remontant aux prémices de l'installation sylvaine en Forêt Noire, les Gardes Dorés ont toujours mis un point d'honneur à protéger coûte que coûte leur patrie forestière."
 END
 
 CONTROLBAR:LW_ToolTip_GildedGuardHorde_WOTR
-"10 Tawartirion\n\nUnit Type: Hero Unit\nStrong vs. All"
+"10 Tawartirion\n\nUnit Type: Unités héroîques\nFort contre tous"
 END
 
 CONTROLBAR:CallOfTheWild
