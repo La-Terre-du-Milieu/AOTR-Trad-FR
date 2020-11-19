@@ -5759,7 +5759,7 @@ INI:FactionRohan
 END
 
 INI:FactionMirkwood
-"Forêt Noire"
+"Royaume des Forêts"
 END
 
 INI:FactionMordor
@@ -8648,20 +8648,20 @@ OBJECT:RohanElvenWarrior
 "Guerrier Elfe"
 END
 
-OBJECT:ElvenFondcombeWarriorHorde
-"Archersde Fondcombe"
+OBJECT:ElvenImladrisWarriorHorde
+"Quingar"
 END
 
-OBJECT:ElvenFondcombeWarrior
-"Archerde Fondcombe"
+OBJECT:ElvenImladrisWarrior
+"Quinga"
 END
 
-OBJECT:ElvenFondcombeWarriorHordeS
-"Soldat de la !garde de Fondcombe"
+OBJECT:ElvenImladrisWarriorHordeS
+"Macari"
 END
 
-OBJECT:ElvenFondcombeWarriorS
-"Garde de Fondcombe"
+OBJECT:ElvenImladrisWarriorS
+"Macar"
 END
 
 OBJECT:RohanEomer
@@ -8695,7 +8695,7 @@ OBJECT:ElvenWarriorArcherComboHorde
 END
 
 OBJECT:ElvenRivendellLancer
-"Lancier d'Imladris"
+"Roquentar"
 END
 
 OBJECT:ElvenBanner
@@ -8703,7 +8703,7 @@ OBJECT:ElvenBanner
 END
 
 OBJECT:HordeElvenRivendellLancer
-"Bataillon de Lanciers d'Imladris"
+"Roquentari"
 END
 
 
@@ -8873,15 +8873,15 @@ OBJECT:ElvenThranduil
 END
 
 OBJECT:ElvenThranduilNew
-"Roi Thranduil"
+"Thranduil"
 END
 
 OBJECT:ElvenLorienWarrior
-"Gardien de la Lórien"
+"Tawar-na-Eithor"
 END
 
 OBJECT:ElvenLorienArcher
-"Archer de la Lórien"
+"Tawar-na-Pengron"
 END
 
 OBJECT:ElvenElrond
@@ -8907,7 +8907,7 @@ OBJECT:ElvenLindonWarrior
 "Guerrier de Lindon"
 END
 
-OBJECT:ElvenFondcombeWarrior
+OBJECT:ElvenImladrisWarrior
 "Archer de Fondcombe"
 END
 
@@ -8978,7 +8978,7 @@ OBJECT:DaleBanner
 END
 
 OBJECT:DwarvenGuardian
-"Guerrier d'Erebor"
+"Âzagh-baruk"
 END
 
 OBJECT:DwarvenAxeThrower
@@ -8998,7 +8998,7 @@ OBJECT:DwarvenKingDain
 END
 
 OBJECT:DwarvenBatteringRam
-"Démolisseur des Monts du Fer"
+"Zirinmazn"
 END
 
 OBJECT:DwarvenCatapult
@@ -10427,7 +10427,7 @@ OBJECT:DwarvenAssembly
 END
 
 OBJECT:DwarvenForgeWorks
-"Fort des Monts du Fer"
+"Fort d'Erebor"
 END
 
 OBJECT:DwarvenHearth
@@ -15447,7 +15447,7 @@ CONTROLBAR:SpecialAbilitySarumanFireball
 END
 
 CONTROLBAR:ToolTipSpecialAbilitySarumanFireball
-"Requiert : niveau 2\n Saroumane invoque une sphère de feu au sommet de son bâton et la jette en direction de l'ennemi.\n\nClic gauche sur l'icône puis clic gauche sur la cible"
+"Requiert : niveau 3\n Saroumane invoque une sphère de feu au sommet de son bâton et la jette en direction de l'ennemi.\n\nClic gauche sur l'icône puis clic gauche sur la cible"
 END
 
 CONTROLBAR:FueltheFires
@@ -15958,11 +15958,11 @@ CONTROLBAR:ToolTipBuildGondorShieldGuardHorde
 END
 
 CONTROLBAR:ToolTipBuildGondorKnightHorde
-"Minas Tirith maintient une petite compagnie de cavalerie d'élite. Grands et altiers, montés sur de véloces coursiers, les Cavaliers de Minas Tirith sont la fine fleur du Gondor. Lorsque les armées de la Tour Blanche partent en guerre, ce sont eux qui se trouvent à la pointe des assauts, dispersent les formations ennemies et pourchassent les rares survivants.\n\nPeuvent changer de formation et combiner les bataillons pour améliorer leurs défenses.\n\nForts contre les épéistes et les archers"
+"Minas Tirith maintient une petite compagnie de cavalerie d'élite. Grands et altiers, montés sur de véloces coursiers, les Cavaliers de Minas Tirith sont la fine fleur du Gondor. Lorsque les armées de la Tour Blanche partent en guerre, ce sont eux qui se trouvent à la pointe des assauts, dispersent les formations ennemies et pourchassent les rares survivants.\n\nPeuvent changer de formation pour améliorer leurs défenses.\n\nForts contre les épéistes et les archers"
 END
 
 CONTROLBAR:ToolTipBuildGondorLancerHorde
-"Requiert : Ecurie niveau 2\n Minas Tirith maintient une petite compagnie de cavalerie d'élite. Grands et altiers, montés sur de véloces coursiers, les Cavaliers de Minas Tirith sont la fine fleur du Gondor. Lorsque les armées de la Tour Blanche partent en guerre, ce sont eux qui se trouvent à la pointe des assauts, dispersent les formations ennemies et pourchassent les rares survivants.\n\nPeuvent changer de formation et combiner les bataillons pour améliorer leurs défenses.\n\nForts contre les épéistes et les archers"
+"Requiert : Ecurie niveau 2\n Minas Tirith maintient une petite compagnie de cavalerie d'élite. Grands et altiers, montés sur de véloces coursiers, les Cavaliers de Minas Tirith sont la fine fleur du Gondor. Lorsque les armées de la Tour Blanche partent en guerre, ce sont eux qui se trouvent à la pointe des assauts, dispersent les formations ennemies et pourchassent les rares survivants.\n\nPeuvent changer de formation pour améliorer leurs défenses.\n\nForts contre les épéistes et les archers"
 END
 
 CONTROLBAR:ToolTipBuildGondor
@@ -16284,7 +16284,7 @@ CONTROLBAR:ToolTipBuildGimli
 END
 
 CONTROLBAR:RohanGimliRecruit
-"Recrutez le fils de Glóin.\n\n Comme tous les Nains, Gimli est austère, bourru et redoutable avec une hache. Ce combattant excelle d'ailleurs dans le maniement de cette arme comme en témoigne la multitude d'Orques tombés sous ses coups.\n D'une robustesse exceptionnelle, même pour un Nain, Gimli devient une implacable force de destruction lorsqu'on provoque sa colère ou que ses compagnons sont en danger."
+"Recrutez le fils de Glóin \n\n 'Il reste encore un Nain dans la Moria qui respire !' \n\n Comme tous les Nains, Gimli est austère, bourru et redoutable avec une hache. Ce combattant excelle d'ailleurs dans le maniement de cette arme comme en témoigne la multitude d'Orques tombés sous ses coups.\n D'une robustesse exceptionnelle, même pour un Nain, Gimli devient une implacable force de destruction lorsqu'on provoque sa colère ou que ses compagnons sont en danger."
 END
 
 CONTROLBAR:RohanGimliRevive
@@ -16312,11 +16312,11 @@ CONTROLBAR:RohanEomerHotkey
 END
 
 CONTROLBAR:ToolTipBuildLegolas
-"Recrutez le Prince des Elfes de la Forêt Noire."
+"Recrutez le Prince des Elfes du Royaume des Forêts."
 END
 
 CONTROLBAR:RohanLegolasRecruit
-"Recrutez le Prince des Elfes de la Forêt Noire.\n\n Fils de Thranduil et de ce fait, prince de la Forêt Noire, Legolas 'Feuille Verte' est un guerrier exceptionnel, même selon les standards elfiques. Il maîtrise toutes les disciplines martiales, ayant une préférence pour l'arc, avec lequel il peut lâcher une volée de flèches en un battement de cil, ou effectuer un tir d'une précision inégalable."
+"Recrutez le Prince des Elfes du Royaume des Forêts. \n\n 'Yet do not cast all hope away. Tomorrow is unknown. Rede oft is found at the rising of the sun.'  \n\n Fils de Thranduil et de ce fait, prince de la Forêt Noire, Legolas 'Feuille Verte' est un guerrier exceptionnel, même selon les standards elfiques. Il maîtrise toutes les disciplines martiales, ayant une préférence pour l'arc, avec lequel il peut lâcher une volée de flèches en un battement de cil, ou effectuer un tir d'une précision inégalable."
 END
 
 CONTROLBAR:RohanLegolasRevive
@@ -16637,7 +16637,7 @@ CONTROLBAR:ToolTipBuildThranduil
 "Recrutez le chef des Elfes de la Forêt Noire"
 END
 CONTROLBAR:ElvenThranduilRecruit
-"Recrutez le chef des Elfes de la Forêt Noire.\n\n Thranduil est le souverain de tous les Elfes qui vivent au nord de la route de la forêt. Bien que les peuples voisins le trouvent quelque peu intolérant, lui et ses sujets sont de fervents défenseurs du Conseil Blanc.\n Néanmoins, même si Thranduil reconnaît que les desseins de conquête de Sauron sont un danger pour tous les Peuples Libres, il ne se fie jamais totalement à ceux qui vivent au-delà de son enclave sylvestre. Pour lui, seule une menace partagée peut engendrer une cause commune."
+"Recruit the Elvenking \n\n 'Such is the nature of evil. Out there in the vast ignorance of the world it festers and spreads. A shadow that grows in the dark. A sleepless malice as black as the oncoming wall of night. So it ever was. So will it always be. In time all foul things come forth' \n\n Thranduil est le souverain de tous les Elfes qui vivent au nord de la route de la forêt. Bien que les peuples voisins le trouvent quelque peu intolérant, lui et ses sujets sont de fervents défenseurs du Conseil Blanc.\n Néanmoins, même si Thranduil reconnaît que les desseins de conquête de Sauron sont un danger pour tous les Peuples Libres, il ne se fie jamais totalement à ceux qui vivent au-delà de son enclave sylvestre. Pour lui, seule une menace partagée peut engendrer une cause commune."
 END
 CONTROLBAR:ElvenThranduilRevive
 "Rappelez Thranduil à la vie"
@@ -16724,15 +16724,15 @@ CONTROLBAR:ConstructIsengardFireArrowPorter
 END
 
 CONTROLBAR:ToolTipBuildIsengardUrukHai
-"Requiert : Puits à Uruk niveau 2\nLa majeure partie des forces d'Isengard est constituée de légions de guerriers Uruk, la plus dangereuse race d'Orques à dévaster la Terre du Milieu. Equipés grâce aux forges d'Isengard, ils manient des cimeterres affûtés en acier trempé et sont engoncés dans des armures en acier.\n\nPeuvent changer de formation et combiner les hordes pour améliorer leurs défenses.\n\nForts contre les piquiers."
+"Requiert : Puits à Uruk niveau 2\nLa majeure partie des forces d'Isengard est constituée de légions de guerriers Uruk, la plus dangereuse race d'Orques à dévaster la Terre du Milieu. Equipés grâce aux forges d'Isengard, ils manient des cimeterres affûtés en acier trempé et sont engoncés dans des armures en acier.\n\nPeuvent changer de formation pour améliorer leurs défenses.\n\nForts contre les piquiers."
 END
 
 CONTROLBAR:ToolTipBuildIsengardCrossbowmen
-"Requiert : Puits à Uruk niveau 2 \n La majeure partie des forces d'Isengard est constituée de légions de guerriers Uruk, la plus dangereuse race d'Orques à dévaster la Terre du Milieu.\nPour ses arbalétriers, Saroumane a mis au point de grands arcs à deux mains qui tirent des carreaux d'aciers, capables de transpercer les mailles des Rohirrim.\n\nPeuvent combiner les hordes pour améliorer leurs défenses.\n\nForts contre l'infanterie"
+"Requiert : Puits à Uruk niveau 2 \n La majeure partie des forces d'Isengard est constituée de légions de guerriers Uruk, la plus dangereuse race d'Orques à dévaster la Terre du Milieu.\nPour ses arbalétriers, Saroumane a mis au point de grands arcs à deux mains qui tirent des carreaux d'aciers, capables de transpercer les mailles des Rohirrim.\n\nForts contre l'infanterie"
 END
 
 CONTROLBAR:ToolTipBuildIsengardPikemen
-"Requiert : Puits à Uruk niveau 2\n La majeure partie des forces d'Isengard est constituée de légions de guerriers Uruk, la plus dangereuse race d'Orques à dévaster la Terre du Milieu.\n En prévision de l'anéantissement des seigneurs du Rohan, Saroumane a produit quantité de piquiers, équipés grâce aux forges d'Isengard de longues piques affûtées et d'armures en acier.\n\nPeuvent changer de formation et combiner les hordes pour améliorer leurs défenses.\n\nForts contre les cavaliers"
+"Requiert : Puits à Uruk niveau 2\n La majeure partie des forces d'Isengard est constituée de légions de guerriers Uruk, la plus dangereuse race d'Orques à dévaster la Terre du Milieu.\n En prévision de l'anéantissement des seigneurs du Rohan, Saroumane a produit quantité de piquiers, équipés grâce aux forges d'Isengard de longues piques affûtées et d'armures en acier.\n\nPeuvent changer de formation pour améliorer leurs défenses.\n\nForts contre les cavaliers"
 END
 
 CONTROLBAR:ToolTipBuildIsengardWargRider
@@ -16741,7 +16741,7 @@ END
 
 CONTROLBAR:ToolTipBuildWildWargRider
 //"Requiert : Fosse à Wargs niveau 2\n Fort contre Epéistes et Archers \n \n For generations, Orques have ridden Wargs - not as masters, but as equals - to track and ambush the Free Peoples."
-"Requiert : Fosse à Wargs niveau 2\n Fort contre Epéistes et Archers \n \n Depuis des générations, les Orques ont chevauché des Wargs - non pas en tant que maîtres, mais en tant qu'égaux - pour traquer et prendre en embuscade les Peuples Libres."
+"Requiert : Fosse à Wargs niveau 2 et l'Allégeance : Gundabad \n Fort contre Epéistes et Archers \n\n Depuis des générations, les Orques ont chevauché des Wargs - non pas en tant que maîtres, mais en tant qu'égaux - pour traquer et prendre en embuscade les Peuples Libres."
 END
 
 CONTROLBAR:ToolTipBuildIsengardSiegeBallista
@@ -17363,7 +17363,7 @@ END
 
 CONTROLBAR:ThranduilNewMountTooltip
 //"Passive: Provides +50% armor to nearby units \n Activate: Clic gauche to switch between \n mounted on Elk and on foot"
-"Type d'Action : Charisme \n Les alliés proches de Thranduil gagnent +50% Armure \n Se cumule avec les Bonus et les Sorts"
+"Type d'Action : Charisme \n Les alliés proches de Thranduil gagnent +50% Armure \n Se cumule avec les Bonus et les Sorts \n\n Left click to switch between mounted on Great Elk and on foot""
 END
 
 CONTROLBAR:ToolTipThranduilFavor_Campaign
@@ -17371,7 +17371,7 @@ CONTROLBAR:ToolTipThranduilFavor_Campaign
 END
 
 CONTROLBAR:ToolTipThranduilFavor
-"Requiert : Niveau 7 \nThranduil reçoit son armure d'argent et gagne de façon permanente +50% Armure\n\nAccorde l'Armure Sindarine aux unités dans le rayon \n Armure Sindarine : fournit +20% d'Armure supplémentaire aux unités \n Se cumulte avec le Charisme, les Bonus et les Sorts \n\n Clic gauche sur l'icône puis clic gauche sur les unités ciblées"
+"Requiert : Niveau 3 \n\nAccorde l'Armure Sindarine aux unités dans le rayon \n Armure Sindarine : fournit +20% d'Armure supplémentaire aux unités \n Le rayon d'action augmente aux niveaux 5, 7 et 10 \n Se cumulte avec le Charisme, les Bonus et les Sorts \n\n Clic gauche sur l'icône puis clic gauche sur les unités ciblées"
 END
 
 CONTROLBAR:ThranduilFavor
@@ -17680,7 +17680,7 @@ CONTROLBAR:WizardBlast
 END
 
 CONTROLBAR:ToolTipWizardBlast
-"Explosion de magie : attaque à courte portée qui repousse les ennemis\nPeut seulement être utilisé à pied\nClic gauche sur l'icône puis clic gauche sur la cible\n\n Type d'Action : Charisme\n Les alliés proches de Gandalf gagnent +33% dégâts, +33% armure, gagnent de l'expérience 50% plus rapidement et deviennent résistants à la peur et à la terreur (bonus cumulable).\n\n Capacité passive\n\n Bouclier Mystique : Gandalf gagne occasionnellement +300% armure et une résistance au renversement s'il est attaqué.\n\n Capacité passive mais peut être activée manuellement par le raccourci (U)"
+"A pied : Attaque à courte portée qui repousse les ennemis\nClic gauche sur l'icône puis clic gauche sur la cible \n\n En monture : Le héros ciblé est immobilisé et subit des dégâts \nClic gauche sur l'icône puis clic gauche sur la cible\n\n Type d'Action : Charisme\n Les alliés proches de Gandalf deviennt immunisés à la magie et aux dégâts élémentaires, gagnent de l'expérience 100% plus rapidement et deviennent immunisés à la peur et à la terreur (bonus cumulable).\n\n Capacité passive\n\n Bouclier Mystique : Gandalf gagne occasionnellement +300% armure et une résistance au renversement s'il est attaqué.\n\n Capacité passive mais peut être activée manuellement par le raccourci (U)"
 END
 
 CONTROLBAR:WordofPower
@@ -17817,7 +17817,7 @@ CONTROLBAR:GandalfPrepareForBattle
 END
 
 CONTROLBAR:ToolTipGandalfPrepareForBattle
-"Requiert : niveau 5 \n Type d'Action : Sort \n En prévision de la prochaine bataille, Gandalf encourage le recrutement des troupes : une structure gagne +75% vitesse de production (bonus cumulable).\n\nClic gauche sur l'icône puis clic gauche sur un bâtiment allié"
+"Requiert : niveau 3 \n Type d'Action : Sort \n En prévision de la prochaine bataille, Gandalf encourage le recrutement des troupes : une structure gagne +75% vitesse de production (bonus cumulable).\n\nClic gauche sur l'icône puis clic gauche sur un bâtiment allié"
 END
 
 CONTROLBAR:LightningSword
@@ -17862,7 +17862,7 @@ CONTROLBAR:FaramirSummonLeadership
 END
 
 CONTROLBAR:ToolTipFaramirSummonLeadership
-"Requiert : niveau 3 \n Faramir appelle Madril, son capitaine en second, et un groupe de Rôdeurs pour défendre la zone. Ils sont immobiles mais restent furtifs et attaquent tout ennemi proche.\n\nClic gauche sur l'icône puis clic gauche sur une zone praticable \n\n Type d'Action : Charisme\n Les alliés proches de Faramir gagnent +33% dégâts, +33% armure et gagnent de l'expérience 50% plus rapidement (bonus cumulable).\n\nCapacité passive"
+"Requiert : niveau 3 \n Faramir appelle un groupe de Rôdeurs pour défendre la zone. Ils sont immobiles mais restent furtifs et attaquent tout ennemi proche.\n\nClic gauche sur l'icône puis clic gauche sur une zone praticable \n\n Type d'Action : Charisme\n Les alliés proches de Faramir gagnent +33% dégâts, +33% armure et gagnent de l'expérience 50% plus rapidement (bonus cumulable).\n\nCapacité passive"
 END
 
 CONTROLBAR:ToolTipCampaignFaramirSummonLeadership
@@ -18010,7 +18010,7 @@ CONTROLBAR:ConstructRohanPeasant
 END
 
 CONTROLBAR:ToolTipBuildRohanPeasant
-"Répare les bâtiments"
+"Can be drafted \n\n Horde Bonus \n Modifier Type: Spell \n All Peasants gain +25% damage and +25% armor when gathered in numbers of 60 or more \n Stacks with buffs, Leadership and other spells\n\n The Riddermark depended on its peasants to work the fields - only in times of great need could they be levied to serve their king in battle."
 END
 
 CONTROLBAR:ToolTipBuildRohanPeasantDrafted
@@ -21388,7 +21388,7 @@ End
 
 LW:TerritoryRhun
 // Large world territory made up of multiple regions
-"Rhun"
+"Rhûn"
 End
 
 LW:TerritoryArnor
@@ -23656,7 +23656,7 @@ OBJECT:DwarvenArcheryRangeDescription
 END
 
 OBJECT:DwarvenForgeWorksDescription
-"Requiert : l'amélioration Arkenstone \nPermet de recruter les troupes des Monts du Fer et les machines de guerre."
+"Permet de recruter les troupes d'élite d'Erebor."
 END
 
 OBJECT:DwarvenHearthDescription
@@ -23900,7 +23900,7 @@ LWA:Dwarves
 End
 
 LWA:Mirkwood
-"Woodland Realm"
+"Royaume des Forêts"
 End
 
 LWA:CorruptedWild
@@ -24195,7 +24195,7 @@ OBJECT:HordeRohanRohirrim
 END
 
 OBJECT:HordeRohanRohirrimArchers
-"Archer Rohirrim"
+"Archers Rohirrim"
 END
 
 OBJECT:HordeRohanRohirrimPeasantCombo
@@ -24211,11 +24211,11 @@ OBJECT:HordeMenofDale
 END
 
 OBJECT:HordeMenofDaleG
-"Piquier de Dale"
+"Phalange de Dale"
 END
 
 OBJECT:HordeMenofDaleGHorde
-"Piquiers de Dale"
+"Phalanges de Dale"
 END
 
 OBJECT:HordeRohanPeasantArcherCombo
@@ -26996,11 +26996,11 @@ CONTROLBAR:ToolTipConstructDwarvenForgeWorks
 END
 
 CONTROLBAR:ConstructDwarvenHusbandry
-"Construire un Fort des Monts du Fer"
+"Construire un Fort d'Erebor"
 END
 
 CONTROLBAR:ToolTipConstructDwarvenHusbandry
-"Requiert : l'amélioration Arkenstone \n Permet de recruter les troupes et les machines de guerre des Monts du Fer \n Augmente la limite de points de commandement de 25"
+"Permet de recruter les unités spécialisés d'Erebor \n Augmente la limite de points de commandement de 25"
 END
 
 CONTROLBAR:ToolTipConstructDwarvenHusbandryBlueMountains
@@ -27122,7 +27122,7 @@ CONTROLBAR:PurchaseUpgradeDwarvenFortressDwarvenStonework
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeDwarvenFortressDwarvenStonework
-"Les Nains sont de grands bâtisseurs renommés : donne des points d'armure supplémentaires à la forteresse et aux murs.\n Requis pour l'amélioration Arkenstone."
+"Allows the Fortress to launch explosive oil casks\nLes Nains sont de grands bâtisseurs renommés : donne des points d'armure supplémentaires à la forteresse et aux murs.\n Requis pour l'amélioration Arkenstone."
 END
 
 CONTROLBAR:PurchaseUpgradeDwarvenFortressFlamingMunitions
@@ -27175,7 +27175,7 @@ CONTROLBAR:ToolTipPurchaseUpgradeDwarvenFortressArkenstoneLotREra_Monument
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeDwarvenFortressMightyCatapult_WOTR
-"Donne une Armure Lourde aux Héros Nains \n Permet le recrutement des troupes des Monts du Fer \n et aux troupes d'Ered Luin "
+"Decreases recruitment time for all Dwarven units by 20%\nIncreases movement for all Dwarven units by 10%\nDecreases cost of unit upgrades by 10%\nStacks with Steel Bonus discount"
 END
 
 CONTROLBAR:PurchaseUpgradeDwarvenFortressOilCasks
@@ -27191,9 +27191,8 @@ CONTROLBAR:FireWeaponDwarvenFortressOilCasks
 END
 
 CONTROLBAR:ToolTipFireWeaponDwarvenFortressOilCasks
-"Attaque les ennemis proches par des barils d'huile explosifs.\n\nClic gauche pour activer"
+"Requiert l'amélioration Fortifications \n Attaque les ennemis proches par des barils d'huile explosifs.\n\nClic gauche pour activer"
 END
-
 
 CONTROLBAR:PurchaseUpgradeDwarvenHornsoftheGate
 "Cors de la Porte (&G)"
@@ -27301,7 +27300,7 @@ CONTROLBAR:GloinHotkey
 END
 
 CONTROLBAR:GloinRecruit
-"Recrutez le père de Gimli.\n\n Glóin faisait partie des guerriers les plus doués et les plus expérimentés qui partirent reconquérir le Mont Solitaire avec Thorin Ecu-de-Chêne. Au cour de cette quête, il prouva sa force et sa valeur d'innombrables fois. Lorsque Dáin Pied-d'Acier succéda à Thorin sur le trône d'Erebor, nul ne fut plus fidèle au nouveau Roi que lui."
+"Recrutez le père de Gimli.\n\n 'The Shadow grows and draws nearer. Already war is gathering on our eastern borders...' \n\n Glóin faisait partie des guerriers les plus doués et les plus expérimentés qui partirent reconquérir le Mont Solitaire avec Thorin Ecu-de-Chêne. Au cour de cette quête, il prouva sa force et sa valeur d'innombrables fois. Lorsque Dáin Pied-d'Acier succéda à Thorin sur le trône d'Erebor, nul ne fut plus fidèle au nouveau Roi que lui."
 END
 
 CONTROLBAR:GloinRevive
@@ -27353,7 +27352,7 @@ OBJECT:Gloin
 END
 
 OBJECT:DwarvenBattleWagon
-"Chariot de guerre des Monts du Fer"
+"Ibsênab-azghakakâ"
 END
 
 OBJECT:DwarvenPorter
@@ -27373,7 +27372,7 @@ END
 /////////////////////////////////////////
 
 CONTROLBAR:ConstructDwarvenGuardianHorde
-"Guerriers d'Erebor"
+"Âz&agh-baruk"
 END
 
 CONTROLBAR:ToolTipBuildDwarvenGuardianHorde
@@ -27381,7 +27380,7 @@ CONTROLBAR:ToolTipBuildDwarvenGuardianHorde
 END
 
 CONTROLBAR:ConstructDwarvenPhalanxHorde
-"Piquiers d'&Erebor"
+"&Sigin-udrîg"
 END
 
 CONTROLBAR:ToolTipBuildDwarvenPhalanxHorde
@@ -27397,7 +27396,7 @@ CONTROLBAR:ToolTipBuildDwarvenAxeThrowerHorde
 END
 
 CONTROLBAR:ConstructDwarvenArcherHorde
-"Archers d'Erebor"
+"&Rakhâs-abzâg"
 END
 
 CONTROLBAR:ToolTipBuildDwarvenArcherHorde
@@ -27405,7 +27404,7 @@ CONTROLBAR:ToolTipBuildDwarvenArcherHorde
 END
 
 CONTROLBAR:ConstructDwarvenDemolisher
-"&Démolisseur des Monts du Fer"
+"Zirinmazn"
 END
 
 TOOLTIP:LackLevel2ForgeWorksDemolisher
@@ -27413,11 +27412,11 @@ TOOLTIP:LackLevel2ForgeWorksDemolisher
 END
 
 CONTROLBAR:ConstructDwarvenBattleWagon
-"Chariot de guerre des Monts du Fer"
+"Ibsênab-azgha&kakâ"
 END
 
 CONTROLBAR:ToolTipBuildDwarvenBattleWagon
-"Engins de mort tractés par de puissants béliers, les Chariots de guerre des Monts du Fer foncent vers la mêlée à une vitesse insensée. A l'impact, ils disloquent, piétinent et brisent les lignes ennemies dans un fracas assourdissant.\nPeut recevoir diverses améliorations.\n\nForts contre les épéistes et les archers."
+"Chariot de guerre \n Requiert : Atelier niveau 2 \n Engins de mort tractés par de puissants béliers, les Chariots de guerre des Monts du Fer foncent vers la mêlée à une vitesse insensée. A l'impact, ils disloquent, piétinent et brisent les lignes ennemies dans un fracas assourdissant.\nPeut recevoir diverses améliorations.\n\nForts contre les épéistes et les archers."
 END
 
 CONTROLBAR:ConstructDwarvenCatapult
@@ -27437,7 +27436,7 @@ CONTROLBAR:UpgradeDwarvenBarracksLevel3
 END
 
 CONTROLBAR:ToolTipUpgradeDwarvenBarracksLevel3
-"Vitesse de construction +25%.\n Permet de recruter les Tueurs de Wyrms d'Erebor.\n Ajoute plusieurs archers sur le toit."
+"Vitesse de construction +25%.\n Ajoute plusieurs archers sur le toit."
 END
 
 CONTROLBAR:ToolTipUpgradeDwarvenBarracksLevel3_WOTR
@@ -27449,15 +27448,15 @@ CONTROLBAR:ConstructDwarvenMenOfDale
 END
 
 CONTROLBAR:ToolTipBuildDwarvenMenOfDaleHorde
-"Requiert : Garnison de Dale niveau 2\n La prospérité de Dale, la Cité des Hommes, assure à ses soldats un équipement de la meilleure qualité, façonné par ses alliés d'Erebor.\nLorsqu'ils ne protègent pas leurs terres contre les prédations de leurs ennemis, ces soldats entraînés et disciplinés embarquent parfois sur des navires pour livrer des guerres lointaines.\n\nPeuvent tirer des Flèches Noires, forts contre l'infanterie et les monstres"
+"Requiert : Assemblée d'Erebor niveau 2\n La prospérité de Dale, la Cité des Hommes, assure à ses soldats un équipement de la meilleure qualité, façonné par ses alliés d'Erebor.\nLorsqu'ils ne protègent pas leurs terres contre les prédations de leurs ennemis, ces soldats entraînés et disciplinés embarquent parfois sur des navires pour livrer des guerres lointaines.\n\nPeuvent tirer des Flèches Noires, forts contre l'infanterie et les monstres"
 END
 
 CONTROLBAR:ConstructDwarvenDaleGuardHorde
-"Ho&mmes Piquiers de Dale"
+"&Phalanges de Dale"
 END
 
 CONTROLBAR:ToolTipBuildDwarvenDaleGuardHorde
-"Requiert : Garnison de Dale niveau 2\n Forts contre les cavaliers"
+"Basic Pikemen \n Strong vs. Cavalry and Heroes \n \n King Brand of Dale saw to the creation of a standing army: regiments of disciplined men equipped with spear and shield, waging war from a nigh-impenetrable phalanx formation."
 END
 
 CONTROLBAR:ToolTipBuildDwarvenMenOfDaleInnHorde
@@ -27481,11 +27480,11 @@ CONTROLBAR:ConstructDwarvenAssemblyLevel3Upgrade
 END
 
 CONTROLBAR:UpgradeDwarvenForgeWorksLevel2
-"Améliore la Forge au niveau 2"
+"Améliore le Fort d'Erebor au niveau 2"
 END
 
 CONTROLBAR:UpgradeDwarvenForgeWorksLevel3
-"Améliore la Forge au niveau 3"
+"Améliore le Fort d'Erebor au niveau 3"
 END
 
 CONTROLBAR:UpgradeDwarvenWorkshopLevel2
@@ -27837,7 +27836,7 @@ CONTROLBAR:PurchaseUpgradeElvenFortressEncasingVines
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeElvenFortressEncasingVines
-"Augmente l'armure et les murs de la forteresse.\n Prérequis pour l'amélioration Illumination d'Elbereth."
+"Augmente l'armure et les murs de la forteresse.\n Prérequis pour l'amélioration Guidance d'Eärendil."
 END
 
 CONTROLBAR:PurchaseUpgradeElvenFortressMysticFountains
@@ -27901,7 +27900,7 @@ CONTROLBAR:PurchaseUpgradeElvenBarracksLevel2
 END
 
 CONTROLBAR:ToolTipBuildElvenBarracksLevel2
-"Permet de recruter les Sentinelles de Cerin Amroth, les Forestiers et les Gardiens des Marches.\nVitesse de construction +10%"
+"Permet de recruter les Gwahaedhrim, Tawar-na-Thirrad et Edrain-na-Maethyr.\nVitesse de construction +10%"
 END
 
 CONTROLBAR:ConstructElvenStable
@@ -27997,7 +27996,7 @@ CONTROLBAR:PurchaseUpgradeMallornTreeLevel3
 END
 
 CONTROLBAR:ToolTipBuildMallornTreeLevel3
-"Augmente la production de ressource \n Permet de former des Sentinelles de l'Arbre d'Argent"
+"Augmente la production de ressource \n Permet de former des Celemegiliath"
 END
 
 
@@ -28013,7 +28012,7 @@ CONTROLBAR:ToolTipBuildElvenLindonWarriorHordeWithNoPrerequisites
 END
 
 CONTROLBAR:ToolTipBuildElvenLorienWarriorHordeWithNoPrerequisites
-"Rares sont les Elfes sylvestres qui n'ont pas été appelés à combattre à un moment ou un autre pour défendre leurs demeures en faisant usage de leurs talents à l'arc ou à la lance.\nAprés des siècles d'entraînement, ils savent manier leur longue lance avec une habileté presque surnaturelle.\nPeuvent se camoufler près des arbres.\n\nFort contre la cavalerie et les piquiers."
+"Gardiens de la Lórien \n Rares sont les Elfes sylvestres qui n'ont pas été appelés à combattre à un moment ou un autre pour défendre leurs demeures en faisant usage de leurs talents à l'arc ou à la lance.\nAprès des siècles d'entraînement, ils savent manier leur longue lance avec une habileté presque surnaturelle.\nPeuvent se camoufler près des arbres.\n\nFort contre la cavalerie et les piquiers."
 END
 
 CONTROLBAR:ToolTipBuildElvenMirkwoodArcherHorde
@@ -28025,7 +28024,7 @@ CONTROLBAR:ToolTipBuildElvenMithlondSentryHorde
 END
 
 CONTROLBAR:ToolTipBuildElvenRivendellLancers
-"Forts contre les archers"
+"Chevaliers du Rivendell \n Forts contre les archers"
 END
 
 CONTROLBAR:ConstructElvenPorter
@@ -28037,7 +28036,7 @@ CONTROLBAR:Tooltipconstructelvenporter
 END
 
 CONTROLBAR:ToolTipBuildElvenLorienArcherHordeWithNoPrerequisites
-"Rares sont les Elfes sylvestres qui n'ont pas été appelés à combattre à un moment ou un autre pour défendre leurs demeures en faisant usage de leurs talents à l'arc ou à la lance.\nEquipés de magnifiques arcs longs et forts de plusieurs siècles d'expérience, ces archers sylvains sont parmi les plus meurtriers de toute la Terre du Milieu.\nPeuvent se camoufler prés des arbres.\n\nFort contre l'infanterie."
+"Archers de la Lórien \n Rares sont les Elfes sylvestres qui n'ont pas été appelés à combattre à un moment ou un autre pour défendre leurs demeures en faisant usage de leurs talents à l'arc ou à la lance.\nEquipés de magnifiques arcs longs et forts de plusieurs siècles d'expérience, ces archers sylvains sont parmi les plus meurtriers de toute la Terre du Milieu.\nPeuvent se camoufler prés des arbres.\n\nFort contre l'infanterie."
 END
 
 
@@ -28168,19 +28167,19 @@ CONTROLBAR:LW_Structure_MenFortress
 END
 
 CONTROLBAR:LW_ToolTipBuild_MenFortress
-"Type de structure : forteresse\n Défend le territoire et recrute les héros\n "
+"Type de structure : Forteresse\n Défend le territoire \n Recrute les héros et les unités héroïques \n Accorde toutes les améliorations aux unités \n Augmente la trésorerie"
 END
 
 CONTROLBAR:LW_ToolTip_MenFortress
-"Type de structure : forteresse\n Défend le territoire et recrute les héros"
+"Type de structure : Forteresse\n Défend le territoire \n Recrute les héros et les unités héroïques \n Accorde toutes les améliorations aux unités \n Augmente la trésorerie"
 END
 
 CONTROLBAR:LW_Structure_GondorBarracks
-"Caserne"
+"Caserne du Gondor"
 END
 
 CONTROLBAR:LW_ToolTipBuild_GondorBarracks
-"Type de structure : caserne\n Forme les unités des Hommes de l'Ouest\n "
+"Battle Template: Gondor Barracks \n\nType de structure : Caserne basique\n Forme les unités basiques des Hommes de l'Ouest\n "
 END
 
 CONTROLBAR:LW_Structure_RohanBarracks
@@ -28188,31 +28187,31 @@ CONTROLBAR:LW_Structure_RohanBarracks
 END
 
 CONTROLBAR:LW_ToolTipBuild_RohanBarracks
-"Structure Type: caserne \n Forme les unités du Rohan\n"
+"Battle Template: Gondor Barracks \n\nType de structure : Caserne basique\n Forme les unités basiques du Rohan\n"
 END
 
 CONTROLBAR:LW_ToolTip_GondorBarracks
-"Type de structure : caserne \n Forme les unités des Hommes de l'Ouest"
+"Battle Template: Gondor Barracks \n\nType de structure : Caserne basique\n Forme les unités basiques des Hommes de l'Ouest"
 END
 
 CONTROLBAR:LW_ToolTip_RohanBarracks
-"Structure Type: caserne \n Forme les unités du Rohan"
+"Battle Template: Gondor Barracks \n\nType de structure : Caserne basique\n Forme les unités basiques du Rohan"
 END
 
 CONTROLBAR:LW_Structure_GondorBlackSmith
-"Forgeron"
+"Tower of the Guard"
 END
 
 CONTROLBAR:LW_Structure_RohanWorkshop
-"Atelier"
+"Mead Hall"
 END
 
 CONTROLBAR:LW_ToolTipBuild_GondorBlackSmith
-"Type de structure : armurerie\n Permet d'améliorer les unités\n "
+"Battle Template: Gondor Stables\n\nStructure Type: Elite Barracks\nTrains Gondor elite units\n"
 END
 
 CONTROLBAR:LW_ToolTip_GondorBlackSmith
-"Type de structure : armurerie\n Permet d'améliorer les unités"
+"Battle Template: Gondor Stables\n\nStructure Type: Elite Barracks\nTrains Gondor elite units"
 END
 
 CONTROLBAR:LW_ToolTipBuild_RohanStables
@@ -28693,14 +28692,13 @@ CONTROLBAR:LW_Unit_ElvenLindonWarriorHorde
 "Bataillon de guerriers du Lindon "
 END
 
-CONTROLBAR:LW_ToolTip_ElvenFondcombeWarriorHorde
+CONTROLBAR:LW_ToolTip_ElvenImladrisWarriorHorde
 "\n Type d'unité : archers d'élite\n Fort à distance"
 END
 
-CONTROLBAR:LW_Unit_ElvenFondcombeWarriorHorde
+CONTROLBAR:LW_Unit_ElvenImladrisWarriorHorde
 "Bataillon de Rivendell Archer"
 END
-
 
 CONTROLBAR:LW_Unit_ElvenLorienArcherHordePlural
 "Bataillons d'Archers de la Lórien"
@@ -65244,15 +65242,15 @@ CONTROLBAR:SunderingStrikes
 END
 
 CONTROLBAR:ToolTipSunderingStrikes
-"Chaque attaques de mêlé baissent de 10% l'armure des ennemis\nSe cumule au maximum 5 fois\nabilité passive"
+"Chaque attaque de mêlé réduit de 10% l'armure des ennemis\nSe cumule au maximum 5 fois\nabilité passive"
 END
 
 CONTROLBAR:PunchThrough
-"&Passez au travers!"
+"&Passez au travers !"
 END
 
 CONTROLBAR:ToolTipPunchThrough
-"Requiert: niveau 4\nRakhâs-abzâg renversent temporairement les unités ennemies.\n Clic droit pour activer"
+"Requiert : niveau 4\nRakhâs-abzâg renversent temporairement les unités ennemies.\n Clic droit pour activer"
 END
 
 CONTROLBAR:ToolTipKiliArrowDodge
@@ -66816,11 +66814,11 @@ BANNERUI:PluralDwarvenEredLuinRanger
 END
 
 CONTROLBAR:LW_Unit_EredLuinRangerHorde
-"Huruz-Khagal-zirak Battallion"
+"Batallion de Huruz-Khagal-zirak"
 END
 
 CONTROLBAR:LW_Unit_EredLuinRangerHordePlural
-"Huruz-Khagal-zirak Battallions"
+"Batallions de Huruz-Khagal-zirak"
 END
 
 CONTROLBAR:LW_ToolTip_EredLuinRangerHorde
@@ -69069,19 +69067,19 @@ OBJECT:HordeGuldurHarbinger
 END
 
 OBJECT:GuldurUnburiedWight
-"Créature Déttérée"
+"Créature Déterrée"
 END
 
 OBJECT:GuldurUnburiedWightHorde
-"Créatures Déttérées"
+"Créatures Déterrées"
 END
 
 CONTROLBAR:ConstructUnburiedWight
-"Créatures &Déttérées"
+"Créatures &Déterrées"
 END
 
 CONTROLBAR:ToolTipBuildGuldurUnburiedWight
-"Le nécromancien doit être recruter\n Unité spéciale\nForte contre les unités d'élites et les unités améliorées \n Limitée à 3 \n\n Dans les nuits brumeuses, de sombres choses chassent sur les collines et les bois de la Vallé de l'Anduin. Les Bûcherons disent qu'ils furent autre fois de nobles seigneurs du Rhovanion, mais que leurs os appartiennent désormais à la volonté du Nécromancien."
+"Le Nécromancien doit être recruté\n Unité spéciale\nForte contre les unités d'élites et les unités améliorées \n Limitée à 3 \n\n Dans les nuits brumeuses, de sombres choses chassent sur les collines et les bois de la Vallé de l'Anduin. Les Bûcherons disent qu'ils furent autre fois de nobles seigneurs du Rhovanion, mais que leurs os appartiennent désormais à la volonté du Nécromancien."
 END
 
 CONTROLBAR:ToolTipBuildGuldurUnburiedWight_WOTR
@@ -70200,15 +70198,15 @@ OBJECT:HordeMirkwoodPalaceGuard
 END
 
 OBJECT:HordeMirkwoodPalaceGuardDoubleHorde
-"Double battaillons de Tamastirnyr"
+"Double bataillon de Tamastirnyr"
 END
 
 OBJECT:HordeMirkwoodPalaceGuardWarriorComboHorde
-"Combo de battaillons Tamastirnyr-Megilherdir"
+"Combo de bataillons Tamastirnyr-Megilherdir"
 END
 
 OBJECT:HordeMirkwoodPalaceGuardSlayerComboHorde
-"Combo de battaillons Tamastirnyr-Theladagnyr"
+"Combo de bataillons Tamastirnyr-Theladagnyr"
 END
 
 CONTROLBAR:ConstructMirkwoodPalaceGuardHorde
@@ -70220,7 +70218,7 @@ CONTROLBAR:LW_Unit_MirkwoodPalaceGuardHorde
 END
 
 CONTROLBAR:LW_Unit_MirkwoodPalaceGuardHordePlural
-"Battallions de Tamastirnor"
+"Batallions de Tamastirnor"
 END
 
 CONTROLBAR:LW_Unit_MirkwoodPalaceGuardComboHorde
@@ -70706,7 +70704,7 @@ CONTROLBAR:MirkwoodGalionHotkey
 END
 
 CONTROLBAR:MasterofWines
-"L'alcool méchant"
+"Ivre en colère"
 END
 
 CONTROLBAR:ToolTipMasterofWines
@@ -70734,7 +70732,7 @@ CONTROLBAR:GalionBadBatch
 END
 
 CONTROLBAR:ToolTipGalionBadBatch
-"Requiert : Niveau 7 \n Oblige les unités ciblées à devenir hostiles entre elles \n Clic gauche sur l'icône puis clic gauche sur la zone ciblée"
+"Requiert : Niveau 7 \n Rend les unités ciblées hostiles entre elles \n Clic gauche sur l'icône puis clic gauche sur la zone ciblée"
 END
 
 //------------ Feren ---------------
@@ -70764,11 +70762,11 @@ CONTROLBAR:ToolTipFerenShieldBash
 END
 
 CONTROLBAR:FerenSoundAlarm
-"Sonne&z l'alarme!"
+"Sonne&z l'alarme !"
 END
 
 CONTROLBAR:ToolTipFerenSoundAlarm
-"Requiert:niveau 3\nFeren souffle dans sa corne\Peut être utilisé sur une structure pour temporairement baisser le temps de recrutement,\n sur des unités alliés pour temporairement augmenter leurs vitesse de 25%,\nou sur des unités ennemies pour temporairement baisser leurs vitesse de 25%\nClic gauche sur l'icône puis clic gauche sur la cible"
+"Requiert : niveau 3\nFeren souffle dans sa corne\Peut être utilisé sur une structure pour temporairement baisser le temps de recrutement,\n sur des unités alliés pour temporairement augmenter leurs vitesse de 25%,\nou sur des unités ennemies pour temporairement baisser leurs vitesse de 25%\nClic gauche sur l'icône puis clic gauche sur la cible"
 END
 
 CONTROLBAR:FerenBanishment
@@ -70776,7 +70774,7 @@ CONTROLBAR:FerenBanishment
 END
 
 CONTROLBAR:ToolTipFerenBanishment
-"Requiert: niveau 7\nLe héros ennemi ciblé est coincé et se voit infliger +33% de dégâts pour tout type d'attaques\nClic gauche sur l'icône puis clic gauche sur la cible"
+"Requiert : niveau 7\nLe héros ennemi ciblé est coincé et se voit infliger +33% de dégâts pour tout type d'attaques\nClic gauche sur l'icône puis clic gauche sur la cible"
 END
 
 //------------ Grimbeorn ---------------
