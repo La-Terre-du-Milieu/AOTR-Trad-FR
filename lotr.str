@@ -70710,7 +70710,7 @@ CONTROLBAR:MasterofWines
 END
 
 CONTROLBAR:ToolTipMasterofWines
-"Quand il est proche de Vignobles ou de puits de vin, Galion gagne +33% de dégâts\nabilité passive"
+"Quand il est proche d'un Vignoble ou d'une fontaine de vin, Galion gagne +33% de dégâts\nCapacité passive"
 END
 
 CONTROLBAR:GalionMiruvor
@@ -70726,7 +70726,7 @@ CONTROLBAR:GalionDorwinionRed
 END
 
 CONTROLBAR:ToolTipGalionDorwinionRed
-"Requiert : Niveau 3 \n Les unités alliées dans le rayon gagnent +75% d'armure et perdent -25% de dégâts d'attaque \n Clic gauche sur l'icône puis clic gauche sur un bataillon ciblé"
+"Requiert : Niveau 3 \n Les unités alliées dans le rayon gagnent +75% d'armure et perdent -25% de dégâts d'attaque \n Clic gauche sur l'icône puis clic gauche sur le bataillon ciblé"
 END
 
 CONTROLBAR:GalionBadBatch
@@ -70734,7 +70734,7 @@ CONTROLBAR:GalionBadBatch
 END
 
 CONTROLBAR:ToolTipGalionBadBatch
-"Requiert : Niveau 7 \n Provoque les unités ciblées à devenir hostiles entre elles \n Clic gauche sur l'icône puis clic gauche sur la zone ciblée"
+"Requiert : Niveau 7 \n Oblige les unités ciblées à devenir hostiles entre elles \n Clic gauche sur l'icône puis clic gauche sur la zone ciblée"
 END
 
 //------------ Feren ---------------
@@ -70748,7 +70748,7 @@ CONTROLBAR:MirkwoodFerenRecruit
 END
 
 CONTROLBAR:MirkwoodFerenRevive
-"Réssuscite le héros déchu, Feren"
+"Ressuscite le héros déchu, Feren"
 END
 
 CONTROLBAR:MirkwoodFerenHotkey
@@ -70768,7 +70768,7 @@ CONTROLBAR:FerenSoundAlarm
 END
 
 CONTROLBAR:ToolTipFerenSoundAlarm
-"Requiert:niveau 3\nFeren souffle dans sa corne\Peut être utulisé sur une structurepour temporairement baisser le temps de recrutement,\n sur des unités alliés pour temporairement augmenter leurs vitesse de 25%,\nou sur des unités ennemis pour temporairement baisser leurs vitesse de 25%\nClic gauche sur l'icône puis clic gauche sur la cible"
+"Requiert:niveau 3\nFeren souffle dans sa corne\Peut être utilisé sur une structure pour temporairement baisser le temps de recrutement,\n sur des unités alliés pour temporairement augmenter leurs vitesse de 25%,\nou sur des unités ennemies pour temporairement baisser leurs vitesse de 25%\nClic gauche sur l'icône puis clic gauche sur la cible"
 END
 
 CONTROLBAR:FerenBanishment
@@ -70776,7 +70776,7 @@ CONTROLBAR:FerenBanishment
 END
 
 CONTROLBAR:ToolTipFerenBanishment
-"Requiert: niveau 7\nLe héros ennemis ciblé est coincé et prends +33% de dégâts pour tout type d'attaques\nClic gauche sur l'icône puis clic gauche sur la cible"
+"Requiert: niveau 7\nLe héros ennemi ciblé est coincé et se voit infliger +33% de dégâts pour tout type d'attaques\nClic gauche sur l'icône puis clic gauche sur la cible"
 END
 
 //------------ Grimbeorn ---------------
@@ -70802,39 +70802,39 @@ CONTROLBAR:SonOfBeorn
 END
 
 CONTROLBAR:ToolTipSonOfBeorn
-"Modifier Type: Leadership\nProvides +33% armor to nearby Beornings\nPassive ability\n\nWhen activated, Grimbeorn instills fear into the hearts of all Orc and Warg units for 15 seconds\nLeft click to activate"
+"Modifier Type: Charisme\nConfère +33% d'armure aux Béornides proches\nCapacité passive\n\nA l'activation, Grimbeorn instille la peur dans le coeur des unités d'Orcs et de Wargs pendant 15 secondes\nClic gauche pour activer"
 END
 
 CONTROLBAR:GrimbeornStrongman
-"Stron&gman"
+"Homme fort"
 END
 
 CONTROLBAR:ToolTipGrimbeornStrongman
-"Grimbeorn powerfully swings his massive axe, dealing damage to everything around him\nGrows in strength as Grimbeorn ranks up\nLeft click to activate"
+"Grimbeorn balance puissamment son énorme hâche, causant des dégâts à tout ce qui l'entoure\nInflige plus de dégats au fur et à mesure de sa montée en puissance\nClic gauche pour activer"
 END
 
 CONTROLBAR:TollKeepers
-"Toll-&keepers"
+"Droit de passage"
 END
 
 CONTROLBAR:ToolTipTollKeepers
-"Requires Level 3\nCan be cast on any resource structure to spawn a chest of 850 resources\nPauses resource production for 30 seconds as a result\nLeft click icon then left click on target structure"
+"Requiert niveau 3\nPeut être projeté sur n'importe quel batiment de ressources pour exhumer un trésor de 850 de ressources\nCependant, mise en stand-by de la production de Ressources pendant 30 secondes\nClic gauche sur l'icône puis clic gauche sur la structure cible"
 END
 
 CONTROLBAR:GrimbeornBodyguard
-"Beorning Bod&yguard"
+"Gardes du corps Béornides"
 END
 
 CONTROLBAR:ToolTipGrimbeornBodyguard
-"Requires Level 6\n Grimbeorn summons three Beornings to guard an allied hero or structure for a short time \n Left click icon then left click on target hero or structure"
+"Requiert niveau 6\n Grimbeorn invoque 3 Béornides pour protéger un héros ou une structure durant un court instant \n Clic gauche sur l'icône puis clic gauche sur le héros ou la structure cible"
 END
 
 CONTROLBAR:SpecialAbilityUrsineSoul
-"&Ursine Soul"
+"Esprit des Ours"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityUrsineSoul
-"Required: Rank 10\n Grimbeorn permanently deals knockback damage \n Passive ability\n\nWhen activated, Grimbeorn transforms into a bear for 90 seconds to wreak havoc among the enemy\ngaining additional +25% damage and +50% armor\nCauses nearby enemies to flee in terror\nLeft click to activate"
+"Requiert : Niveau 10\n Grimbeorn inflige en permanence des dégats de renversement \n Capacité passive\n\nA l'activation, Grimbeorn se transforme en ours pendant 90 secondes pour faire des ravages chez l'ennemi\ngagnant +25% de dégâts et +50% d'armure\nLes ennemis fuient également de terreur\nClic gauche pour activer"
 END
 
 //------------ Radagast ---------------
@@ -70843,11 +70843,11 @@ OBJECT:MirkwoodRadagast
 END
 
 CONTROLBAR:MirkwoodRadagastRecruit
-"Recruit the Brown Wizard\n\n'Radagast is, of course, a worthy Wizard, a master of shapes and changes of hue; and he has much lore of herbs and beasts, and birds are especially his friends.'"
+"Recruter le Magicien Brun\n\n'Radagast est, bien sûr, un digne sorcier, un maître des formes et des changements de couleurs ; il a aussi grande connaissance des herbes et des bêtes, et les oiseaux sont particulièrement ses amis.'"
 END
 
 CONTROLBAR:MirkwoodRadagastRevive
-"Revive the fallen hero, Radagast"
+"Ressucite le héros déchu, Radagast"
 END
 
 CONTROLBAR:MirkwoodRadagastHotkey
@@ -70855,11 +70855,11 @@ CONTROLBAR:MirkwoodRadagastHotkey
 END
 
 CONTROLBAR:RadagastUnseen
-"&Master of Hues and Shapes"
+"&Maître des teintes et des formes"
 END
 
 CONTROLBAR:ToolTipRadagastUnseen
-"Radagast is invisible while standing still\nPassive ability\n\nAllows all targeted allies to become stealthed for 30 seconds\n Left click icon then left click on target units"
+"Radagast est invisible quand il reste immobile\nCapacité passivee\n\nPermet à toutes les unités alliés ciblées d'être invisibles pendant 30 secondes\n Clic gauche sur l'icône puis clic gauche sur les unités ciblées"
 END
 
 CONTROLBAR:RadagastAiwendil
@@ -70867,23 +70867,23 @@ CONTROLBAR:RadagastAiwendil
 END
 
 CONTROLBAR:ToolTipRadagastAiwendil
-"Nearby Woodmen and Beorning units gain +75% experience\nPassive ability\n\nTargeted enemy units are beset by a flock of birds,\ncausing them to lose 50% vision and 66% movement speed\nand take damage over time\nLeft click icon then left click on target"
+"Les chasseurs et les Béornides proches gagnent +75% d'experience\nCapacité passive\n\nLes unités ennemies ciblées sont assaillies par une volée d'oiseaux,\nLeur causant une perte de 50% de vision et une baisse de 66% de leur vitesse de mouvement\n et leur inflige des dommages au cours du temps\nClic gauche sur l'icône puis clic gauche sur la cible"
 END
 
 CONTROLBAR:RadagastGuardian
-"Faithf&ul Guardian"
+"Gardien fidèle"
 END
 
 CONTROLBAR:ToolTipRivendellRadagastGuardian
-"Requires Level 3\nRadagast slams his staff into the soil,\nstunning enemies before him for a brief moment\nAt rank 8, stun duration is increased\nLeft click to activate"
+"Requiert Niveau 3\nRadagast enfonce son baton dans le sol,\nétourdissant les ennemis pendant un court instant\nAu niveau 8, la durée de l'étourdissement est augmentée\nClic gauche pour activer"
 END
 
 CONTROLBAR:RadagastTransform
-"A Very Great &Wizard"
+"Un très grand Magicien"
 END
 
 CONTROLBAR:ToolTipRadagastTransform
-"Requires Level 10\nTurns enemy units within a large radius into wild animals\nthat subsequently disperse \n Does not work on heroic units\nLeft click icon then left click on target"
+"Requiert Niveau 10\nTransforme les unités ennemies dans un large rayon en animaux sauvages\nqui se dispersent ensuite \n Ne fonctionne pas sur les unités héroïques\nClic gauche sur l'icône puis clic gauche sur la cible"
 END
 
 //------------ Tauriel ---------------
@@ -70897,7 +70897,7 @@ CONTROLBAR:MirkwoodTaurielRecruit
 END
 
 CONTROLBAR:MirkwoodTaurielRevive
-"Réssuscite l'héroïne déchue, Tauriel"
+"Ressuscite l'héroïne déchue, Tauriel"
 END
 
 CONTROLBAR:MirkwoodTaurielHotkey
@@ -70909,7 +70909,7 @@ CONTROLBAR:TaurielLeadership
 END
 
 CONTROLBAR:ToolTipTaurielLeadership
-"Les unités Sylvains gagnent +25% de portée et d'expérience \n Capacité passive"
+"Les unités Sylvaines gagnent +25% de portée et d'expérience \n Capacité passive"
 END
 
 CONTROLBAR:TaurielSummon
@@ -70917,7 +70917,7 @@ CONTROLBAR:TaurielSummon
 END
 
 CONTROLBAR:ToolTipTaurielSummon
-"Requiert : Niveau 3 \n Tauriel appelle un groupe immobile de Gardes Silvain pour défendre une zone ciblée \n Ils sont immobiles, mais restent furtifs quand ils n'attaquent pas \n Clic gauche sur l'icône puis clic gauche sur l'emplacement du chemin"
+"Requiert : Niveau 3 \n Tauriel appelle un groupe immobile de Gardes Silvain pour défendre une zone ciblée \n Ils sont immobiles, mais restent furtifs quand ils n'attaquent pas \n Clic gauche sur l'icône puis clic gauche sur la zone cible"
 END
 
 CONTROLBAR:TaurielDecisiveStrike
@@ -70929,11 +70929,11 @@ CONTROLBAR:TaurielEscape
 END
 
 CONTROLBAR:TooltipTaurielEscape
-"Requires Level 8 \n Tauriel is able to disappear into the trees when she wishes \nTauriel teleports to target area \nLeft click icon then left click on pathable location"
+"Requiert : Niveau 8 \n Tauriel est capable de s'évanouir dans les arbres quand elle le désire \nTauriel se téléporte vers la zone ciblée \nClic gauche sur l'icône puis clic gauche sur la zone cible"
 END
 
 CONTROLBAR:ToolTipTaurielDecisiveStrike
-"Requiert : Niveau 5 \n Tauriel gagne temporairement +25% vitesse de mouvement \n et utilise ses couteaux pour infliger de lourd dégâts et étourdir les héros \n Clic gauche pour activer"
+"Requiert : Niveau 5 \n Tauriel gagne temporairement +25% vitesse de mouvement \n et utilise ses couteaux pour infliger de lourdes dégâts et étourdir les héros \n Clic gauche pour activer"
 END
 
 CONTROLBAR:TaurielFleetFooted
@@ -70941,7 +70941,7 @@ CONTROLBAR:TaurielFleetFooted
 END
 
 CONTROLBAR:ToolTipTaurielFleetFooted
-"Requiert : Niveau 8 \n Type d'Action : Sort \n L'infanterie proche gagne +33% vitesse de mouvement \n S'accumule avec le chef et les sorts \n Clic gauche pour activer"
+"Requiert : Niveau 8 \n Type d'Action : Sort \n L'infanterie proche gagne +33% vitesse de mouvement \n S'accumule avec le Charisme et les sorts \n Clic gauche pour activer"
 END
 
 //------------ Legolas ---------------
@@ -70951,7 +70951,7 @@ CONTROLBAR:LegolasDwarfFriend
 END
 
 CONTROLBAR:TooltipLegolasDwarfFriend
-"Requiert : Niveau 10 \n Invoquer Gimli fils de Glóin sur le champs de bataille \n Clic gauche pour activer"
+"Requiert : Niveau 10 \n Invoque Gimli fils de Glóin sur le champ de bataille \n Clic gauche pour activer"
 END
 
 //------------ Thranduil ---------------
@@ -70960,7 +70960,7 @@ CONTROLBAR:NoneMayEnter
 END
 
 CONTROLBAR:ToolTipNoneMayEnter
-"Requiert: Niveau 4\n Le terrain visé deviens hostile aux unités ennemis\nQuand elles passent dessus, les unités ennemis sont ralenti de -25% et prennent des dégats avec le temps\nClic gauche sur l'icône puis clic gauche sur un endroit terrain autorisé"
+"Requiert: Niveau 4\n Le terrain visé devient hostile aux unités ennemies\nQuand elles passent dessus, les unités ennemies sont ralenties de -25% et prennent des dégats avec le temps\nClic gauche sur l'icône puis clic gauche sur un endroit terrain autorisé"
 END
 
 CONTROLBAR:MemoryOfMordor
@@ -70968,7 +70968,7 @@ CONTROLBAR:MemoryOfMordor
 END
 
 CONTROLBAR:ToolTipMemoryOfMordor
-"Requiert: Niveau 10\nThranduil est encerclé par des souvenirs des Terres Sombres\nLes unités ennemis sont térrifiés, prennent des dégats,\n perdent tout les charismes et font -50% de dégats\nThranduil est invulnérable pendant que le pouvoir est actif mais ne peut pas bouger\nClic droit pour l'activer"
+"Requiert: Niveau 10\nThranduil est encerclé par des souvenirs des Terres Sombres\nLes unités ennemies sont terrifiées, prennent des dégats,\n perdent tous leur bonus de Charisme et font -50% de dégats\nThranduil est invulnérable pendant que le pouvoir est actif mais ne peut pas bouger\nClic droit pour l'activer"
 END
 
 //------------ Frumgar ---------------
@@ -70992,7 +70992,7 @@ CONTROLBAR:WrathoftheDragonSlayer
 END
 
 CONTROLBAR:ToolTipWrathoftheDragonSlayer  
-"Type de Modification: Charisme\nLes alliés près de Frumgar gagnent +33% de Dégâts, +33% d'Armure, gagnet de l'experience 50% plus vite et sont immunisé à la peur, la terreur et le feu\nSe cumule avec les bonus et les sorts\nabilité passive"
+"Type de Modification: Charisme\nLes alliés près de Frumgar gagnent +33% de Dégâts, +33% d'Armure, gagnent de l'experience 50% plus vite et sont immunisé à la peur, la terreur et le feu\nSe cumule avec les bonus et les sorts\nabilité passive"
 END
 
 CONTROLBAR:OrcWarVeteran
@@ -71027,7 +71027,7 @@ CONTROLBAR:WhiteStagEthereal
 END
 
 CONTROLBAR:ToolTipWhiteStagEthereal
-"Le Cerf Blanc est immunisé à toutes les attaques ennemis, mais peut piétiner les unités ennemies\n Les unités ennemeis sont terrifiées par le Cerf Blanc\n abilité passive"
+"Le Cerf Blanc est immunisé à toutes les attaques ennemis, mais peut piétiner les unités ennemies\n Les unités ennemis sont terrifiées par le Cerf Blanc\n Capacité passive"
 END
 
 CONTROLBAR:SGoodFortune
@@ -71195,39 +71195,39 @@ CONTROLBAR:ToolTipBuildMirkwoodBeorningCabinLevel3Upgrade
 END
 
 CONTROLBAR:ToolTipBuildMirkwoodBeorningCabinLevel3Upgrade_WOTR
-"Allows recruitment of Éotheod Warriors and Beorning Berserkers\n+25% Faster Build Speed"
+"Permet le recrutement des guerriers Eotheod et des Berserkers Béornides \n+25% de vitesse de construction"
 END
 
 OBJECT:MirkwoodCellarDoor
-"Cellar Door"
+"Portes du Cellier"
 END
 
 CONTROLBAR:ConstructMirkwoodCellarDoor
-"Build &Cellar Door"
+"Construire Portes du Cellier"
 END
 
 CONTROLBAR:ToolTipMirkwoodCellarDoor
-"An entryway into Thranduil's Halls \n Generates a small amount of resources based on available terrain \n Grants access to the tunnel system \n Stealthed near trees \n Increases command point limit by 25 \n Limited to 4"
+"Une entrée dans les halls du roi Thranduil \n Génère une petite quantité de ressources basées sur le terrain disponible \n Garantit l'accès au réseau de tunnels \n Invisible près des arbres \n Augmente la limite de points de commandement de 25 \n Limité à 4"
 END
 
 OBJECT:MirkwoodCellarDoorDescription
-"Generates a small amount of resources based on available terrain\n Grants access to the tunnel system \n \n Stealthed near trees \n Increases command point limit by 25"
+"Génère une petite quantité de ressources basées sur le terrain disponible \n Garantit l'accès au réseau de tunnels \n Invisible près des arbres \n Augmente la limite de points de commandement de 25"
 END
 
 CONTROLBAR:PurchasePrisonGuards
-"Purchase &Prison Guards"
+"Rechercher les Gardes de la prison"
 END
 
 CONTROLBAR:ToolTipCellarDoorPurchasePrisonGuards
-"Allows the Cellar Door to summon one battalion of Prison Guards"
+"Permet à la Porte du Cellier d'invoquer un bataillon de Gardes de la Prison"
 END
 
 CONTROLBAR:PrisonGuards
-"&Prison Guards"
+"Gardes de la prison"
 END
 
 CONTROLBAR:ToolTipCellarDoorPrisonGuards
-"Summons one battalion of Prison Guards to defend the Cellar Door"
+"Invoque un bataillon de Gardes de la Prison pour défendre la Porte du Cellier"
 END
 
 CONTROLBAR:ConstructMirkwoodBattleTower
@@ -71251,7 +71251,7 @@ CONTROLBAR:ConstructMirkwoodStatue
 END
 
 CONTROLBAR:MirkwoodHeroicStatueBuild
-"Confère un Charisme bonus aux unités alliés proches \n Se cumule avec les Buffs et les Sorts \n Réduit le coût des héros \n Augmente la limite de points de commandement de 10"
+"Confère un bonus de charisme aux unités alliés proches \n Se cumule avec les Buffs et les Sorts \n Réduit le coût des héros \n Augmente la limite de points de commandement de 10"
 END
 
 OBJECT:MirkwoodStatue
@@ -71339,7 +71339,7 @@ OBJECT:MirkwoodWatchtowerExpansion
 END
 
 CONTROLBAR:ConstructMirkwoodCaveEntranceExpansion
-"&Cave Entrance"
+"&Entrée de la grotte"
 END
 
 CONTROLBAR:ToolTipConstructMirkwoodCaveEntranceExpansion
@@ -72358,7 +72358,7 @@ CONTROLBAR:ConstructMirkwoodSiegeGroundsLevel2Upgrade
 "Améliorer l'atelier de siège au niveau 2"
 END
 CONTROLBAR:ConstructMirkwoodSiegeGroundsLevel3Upgrade
-"Améliorer l'atelier de siège au niveau  3"
+"Améliorer l'atelier de siège au niveau 3"
 END
 CONTROLBAR:ToolTipBuildMirkwoodSiegeGroundsLevel2Upgrade
 "Permet la constructions des Haehadron \n Répare les engins endommagés proches \n +10% de vitesse de constructions"
