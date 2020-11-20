@@ -14269,301 +14269,301 @@ END
 ///////////////////WEATHERTOP///////////////////
 
 SCRIPT:Objective01_Weathertop
-"Find tracks of Dúnedain presence near Weathertop."
+"Trouvez des traces de présence des Dunedains près des Monts Venteux."
 END
 
 SCRIPT:Objective02_Weathertop
-"Survive the attack by the Risen Dúnedain."
+"Survivez à l'attaque des Dunedains mort vivants."
 END
 
 SCRIPT:Objective03_Weathertop
-"Protect the Hobbits from the Ringwraiths."
+"Protégez les hobbits des Spectres de l'anneau."
 END
 
 SCRIPT:Objective04_Weathertop
-"Frodo is poisoned and will slowly lose health. Escape Weathertop and find medicine."
+"Frodon est empoisonné et perd de la vie peu à peu. Echappez vous des Monts Venteux et trouvez de quoi le guérir."
 END
 
 SCRIPT:Objective04-update_Weathertop
-"Find at least 5 bushels of Kingsfoil to slow Frodo's poisoning!"
+"Trouvez au moins 5 bosquets d'Athelas pour soulager l'empoisonnement de Frodon!"
 END
 
 SCRIPT:Objective04-update2_Weathertop
-"Use Aragorn's Athelas to heal Frodo"
+"Utilisez la capacité Athelas d'Aragorn pour soigner Frodon"
 END
 
 SCRIPT:Objective04counter_Weathertop
-"Athelas Bushels Found:"
+"Bosquet d'Athelas découverts:"
 END
 
 SCRIPT:Objective05_Weathertop
-"Defend the Ford of Bruinen"
+"Defendez le Gué de Bruinen"
 END
 
 SCRIPT:Objective05-update_Weathertop
-"Build a force to help defend the Bruinen!"
+"Entrainez des troupes pour vous aider à défendre le Bruinen!"
 END
 
 SCRIPT:Objective05Timer_Weathertop
-"Glorfindel will arrive in:"
+"Glorfindel arrive dans:"
 END
 
 SCRIPT:Objective05-update2_Weathertop
-"Defeat the next wave of orcs crossing the Bruinen"
+"Annihilez la prochaine vague d'orques traversant le Bruinen"
 END
 
 SCRIPT:Objective05GlorfindelArrives_Weathertop
-"Glorfindel, Aragorn and the Hobbits have arrived. Escort them across the ford."
+"Glorfindel, Aragorn et les Hobbits viennent d'arriver. Escortez les à travers le gué."
 END
 
 SCRIPT:Objective05Final_Weathertop
-"Defeat the final wave."
+"Annihilez la vague finale."
 END
 
 ////////////////ORTHANC/////////////////
 
 SCRIPT:Objective01_Orthanc
-"Defeat Saruman"
+"Battre Saroumane"
 END
 
 ////////////////COUNCIL OF ELROND/////////////////
 
 SCRIPT:Objective00_Council
-"Speak to heroes in the Hall of Fire"
+"Parlez aux héros dans le Hall du Feu"
 END
 
 SCRIPT:Objective00Boromir_Council
-"Speak to Boromir to learn of the struggles in Gondor"
+"Parlez à Boromir pour en apprendre plus sur les combats au Gondor"
 END
 
 SCRIPT:Objective00Elrond_Council
-"Speak to Elrond to hear the fate of Isildur"
+"Parlez à Elrond pour entendre le récit du destin d'Isildur"
 END
 
 SCRIPT:Objective00Bilbo_Council
-"Speak to Bilbo to hear a tale of riddles"
+"Parlez à Bilbon pour entendre une histoire d'énigmes"
 END
 
 SCRIPT:Objective01_Council
-"Explore the cave"
+"Explorez la caverne"
 END
 
 SCRIPT:Objective02_Council
-"Answer Gollum's riddles"
+"Répondez au énigmes de Gollum"
 END
 
 SCRIPT:Objective03_Council
-"Escape from Gollum's cave"
+"Echappez vous de la caverne de Gollum"
 END
 
 SCRIPT:Objective04_Council
-"Defeat the orc ambush"
+"Mettez en déroute l'embuscade orque"
 END
 
 SCRIPT:Objective05_Council
-"Stop orcs from advancing into the forest and finding Isildur"
+"Stoppez l'avancée des orques dans la forêt et trouvez Isildur"
 END
 
 SCRIPT:Objective06_Council
-"Defend Isildur"
+"Defendez Isildur"
 END
 
 SCRIPT:OsgiliathObjective01_Council
-"Reclaim all buildings on the Western bank before it is overrun"
+"Prenez possession de tous les bâtiments de la rive Ouest avant qu'elle ne soit envahie"
 End
 
 SCRIPT:OsgiliathObjective02_Council
-"Defended the bridges from enemy attacks"
+"Defendez les ponts des attaques ennemies"
 End
 
 SCRIPT:OsgiliathObjective03_Council
-"Clear the bridges of enemy forces"
+"Nettoyez les ponts de toutes les forces ennemies"
 End
 
 SCRIPT:OsgiliathBonus_Council
-"Kill the Nazgûl commander"
+"Tuez le chef des Nazguls"
 End
 
 ////////////////////REDHORN//////////////////////
 
 SCRIPT:Objective00_Redhorn
-"Guide the Fellowship South"
+"Guidez la Communauté vers le Sud"
 END
 
 SCRIPT:Objective01_Redhorn
-"Guide the Fellowship to the pass of Caradhras"
+"Guidez la Communauté à travers le Col de Caradhras"
 END
 
 SCRIPT:Objective02_Redhorn
-"Traverse the Caradhras"
+"Traversez le Caradhras"
 END
 
 SCRIPT:Objective02_Update_Redhorn
-"Guide the Fellowship towards the Walls of Moria"
+"Guidez la Communauté vers les murs de la Moria"
 END
 
 SCRIPT:Objective03_Redhorn
-"Survive the warg attack"
+"Survivez à l'attaque des Wargs"
 END
 
 SCRIPT:Objective04_Redhorn
-"Kill the Watcher in the water"
+"Tuez le Guetteur de l'eau"
 END
 
 SCRIPT:BonusObjective01_Redhorn
-"Find all hidden Noldorin treasures"
+"Trouvez tous les trésors cachés des Noldor"
 END
 
 SCRIPT:BonusObjective02_Redhorn
-"Destroy all Snow-troll lairs"
+"Détruisez toutes les antres de troll des neiges"
 END
 
 SCRIPT:BonusObjective03_Redhorn
-"Kill all flocks of Crebain"
+"Abattez toutes les nuées de crébains"
 END
 
 SCRIPT:BonusObjective04_Redhorn
-"Defeat Celebrimbor"
+"Battez Celebrimbor"
 END
 
 SCRIPT:CaradhrasHint_Redhorn
-"Avoid avalanches across the Caradhras"
+"Evitez l'avalanche à travers le Caradhras"
 END
 
 SCRIPT:CaradhrasHint2_Redhorn
-"Gather the Fellowship before proceeding"
+"Rassemblez la Communauté avant de procéder"
 END
 
 /////////////////////MORIA//////////////////////
 
 SCRIPT:Objective01_Moria
-"Reach the Great Hall"
+"Atteignez le Grand Hall"
 END
 
 SCRIPT:Objective02_Moria
-"All heroes must survive."
+"Tous les héros doivent survivre."
 END
 
 SCRIPT:Objective03_Moria
-"Reunite with the the Fellowship."
+"Réunissez la Communauté."
 END
 
 SCRIPT:Objective04_Moria
-"Kill the Watcher in the Water"
+"Tuez le Guetteur de l'eau"
 END
 
 SCRIPT:Objective05_Moria
-"Survive until Oin Arrives"
+"Survivez jusqu'à ce qu'Oin arrive"
 END
 
 SCRIPT:Objective06_Moria
-"Reach the Second Hall"
+"Atteignez le Second Hall"
 END
 
 SCRIPT:Objective07_Moria
-"Survive the goblin attacks"
+"Survivez à l'attaque des Gobelins"
 END
 
 SCRIPT:BonusObjective01_Moria
-"Find five Dwarven treasures."
+"Trouvez cinq trésors des Nains."
 END
 
 SCRIPT:BonusObjective02_Moria
-"Find Balin's Axe."
+"Trouvez la hache de Balin."
 END
 
 SCRIPT:BonusObjective03_Moria
-"Reach the Great Hall within 10 minutes."
+"Atteignez le grand Hall en moins de 10 minutes."
 END
 
 SCRIPT:BonusObjective04_Moria
-"Destroy the drums in the deep."
+"Détruisez les tambours dans les profondeurs."
 END
 
 //////////////////KHAZAD-DUM////////////////////
 
 SCRIPT:Objective01_Khazad
-"Escape Moria."
+"Echappez vous de la Moria."
 END
 
 SCRIPT:Objective02_Khazad
-"All heroes must survive."
+"Tous les héros doivent survivre."
 END
 
 SCRIPT:Objective03_Khazad
-"Find the Chamber of Mazarbul."
+"Trouvez la chambre de Mazarboul."
 END
 
 SCRIPT:Objective04_Khazad
-"Kill the Goblin Shamans to break the enchanment"
+"Tuez les chamans gobelins pour briser l'enchantement"
 END
 
 SCRIPT:Objective05_Khazad
-"Kill the Balrog"
+"Tuez le Balrog"
 END
 
 SCRIPT:Objective01Hint_Khazad
-"Cross the Great Hall towards the bridge of Khazad-dum"
+"Traversez le Grand Hall vers le Pont de Khazad-dum"
 END
 
 //////////////////LOTHLORIEN////////////////////
 
 SCRIPT:Objective01_Lothl
-"Reach the Marchwarden Forward Camp"
+"Atteindre la base avancée des elfes"
 END
 
 SCRIPT:Objective02_Lothl
-"Rescue the Fellowship"
+"Portez secours à la Communauté"
 END
 
 SCRIPT:Objective03_Lothl
-"Escort the Fellowship to Caras Galadhon"
+"Escortez la Communauté vers Caras Galadhon"
 END
 
 SCRIPT:Objective04_Lothl
-"Defend Lady Galadriel and the Hobbits against the goblin assault on Caras Galadhon"
+"Defendez Dame Galadriel et les Hobbits contre l'assaut gobelin sur Caras Galadhon"
 END
 
 SCRIPT:Objective05_Lothl
-"Destroy all Goblin camps"
+"Détruisez tous les camps des Gobelins"
 END
 
 SCRIPT:BonusObjective01_Lothl
-"Discover all hidden allies"
+"Découvrez tous les alliés cachés"
 END
 
 SCRIPT:BonusObjective02_Lothl
-"Advance all elven heroes to level 3"
+"Faites monter tous les héros elfes au niveau 3"
 END
 
 SCRIPT:BonusObjective01Hint_Lothl
-"Destroying goblin camps will diminish enemy reinforcements"
+"Détruire les camps gobelins permettra d'amoindrir leurs renforts"
 END
 
 //////////////////AMON HEN////////////////////
 
 SCRIPT:Objective01_Amon
-"Survive the summit attack"
+"Survivez à l'attaque au sommet"
 END
 
 SCRIPT:Objective02_Amon
-"Reach Boromir"
+"Atteignez Boromir"
 END
 
 SCRIPT:Objective03_Amon
-"Kill Lurtz"
+"Tuez Lurtz"
 END
 
 SCRIPT:Objective04_Amon
-"Reach the boats without being discovered"
+"Atteignez les bateaux avant d'être découvert"
 END
 
 SCRIPT:BonusObjective01_Amon
-"Keep Boromir alive"
+"Gardez Boromir en vie"
 END
 
 SCRIPT:Objective04Hint_Amon
-"Use Frodo's powers and hide amongst trees to avoid detection"
+"Utilisez les pouvoirs de Frodon et restez caché parmi les arbres pour éviter d'être détecté"
 END
 
 
