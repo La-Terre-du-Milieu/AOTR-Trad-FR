@@ -28610,35 +28610,35 @@ END
 //////// Elven Structures ////////
 
 CONTROLBAR:LW_ToolTipBuild_ElvenFortress
-"Type de structure : forteresse\n Défend le territoire et recrute les héros.\n "
+"Type de structure : forteresse\n Défend le territoire \n Recrute les héros et les unités héroïques \n Accorde toutes les améliorations aux unités \n Augmente la trésorerie"
 END
 
 CONTROLBAR:LW_ToolTip_ElvenFortress
-"Type de structure : forteresse\n Défend le territoire et recrute les héros.\n "
+"Type de structure : forteresse\n Défend le territoire \n Recrute les héros et les unités héroïques \n Accorde toutes les améliorations aux unités \n Augmente la trésorerie"
 END
 
 CONTROLBAR:LW_Structure_ElvenBarracks
-"Garnison du Bois Doré"
+"Golden Wood Talan"
 END
 
 CONTROLBAR:LW_ToolTipBuild_ElvenBarracks
-"Type de structure : Caserne \n Entraîne les unités elfes"
+"Battle Template: Golden Wood Garrison\n\nType de structure : Caserne basique \n Entraîne les unités elfes basiques"
 END
 
 CONTROLBAR:LW_ToolTip_ElvenBarracks
-"Type de structure : Caserne \n Entraîne les unités elfes"
+"Battle Template: Golden Wood Garrison\n\nType de structure : Caserne basique \n Entraîne les unités elfes basiques"
 END
 
 CONTROLBAR:LW_Structure_ElvenEregionForge
-"La Réserve du Bois Doré"
+"Hidden Sanctum"
 END
 
 CONTROLBAR:LW_ToolTipBuild_ElvenEregionForge
-"Type de structure : Armurerie\n Fournit toutes les améliorations aux unités\n "
+"Battle Template: Golden Wood Pasture\n\nStructure Type: Elite Barracks\nTrains elite Lothlórien units\n"
 END
 
 CONTROLBAR:LW_ToolTip_ElvenEregionForge
-"Type de structure : Armurerie\n Fournit toutes les améliorations aux unités"
+"Battle Template: Golden Wood Pasture\n\nStructure Type: Elite Barracks\nTrains elite Lothlórien units"
 END
 
 CONTROLBAR:LW_Structure_ElvenMallornTree
@@ -28657,15 +28657,15 @@ END
 ////////// Elven Units ///////////
 
 CONTROLBAR:LW_Unit_ElvenLorienWarriorHorde
-"Bataillon de Guerriers de la Lórien"
+"Bataillon de Tawar-na-Eithyr"
 END
 
 CONTROLBAR:LW_Unit_ElvenLorienWarriorHordePlural
-"Bataillons de Guerriers de la Lórien"
+"Bataillons de Tawar-na-Eithyr"
 END
 
 CONTROLBAR:LW_ToolTipBuild_ElvenLorienWarriorHorde
-"Type d'unité : infanterie standard.\n\n Fort contre la cavalerie\n "
+"Lórien Wardens \n Type d'unité : infanterie standard.\n\n Fort contre la cavalerie\n "
 END
 
 CONTROLBAR:LW_ToolTip_ElvenLorienWarriorHorde
@@ -28673,15 +28673,15 @@ CONTROLBAR:LW_ToolTip_ElvenLorienWarriorHorde
 END
 
 CONTROLBAR:LW_Unit_ElvenLorienArcherHorde
-"Bataillon d'Archers de la Lorien"
+"Bataillon de Tawar-na-Pengryn"
 END
 
 CONTROLBAR:LW_Unit_ElvenLorienWardenArcherHorde
-"Lórien Gardiens - Bataillon d'Archers de la Lorien"
+"Bataillon de Tawar-na-Eithyr - Tawar-na-Pengryn"
 END
 
 CONTROLBAR:LW_Unit_ElvenLorienWardenArcherHordePlural
-"Lórien Gardiens - Bataillons d'Archers de la Lorien"
+"Bataillons de Tawar-na-Eithyr - Tawar-na-Pengryn"
 END
 
 CONTROLBAR:LW_ToolTip_ElvenLindonWarriorHorde
@@ -28701,7 +28701,7 @@ CONTROLBAR:LW_Unit_ElvenImladrisWarriorHorde
 END
 
 CONTROLBAR:LW_Unit_ElvenLorienArcherHordePlural
-"Bataillons d'Archers de la Lórien"
+"Bataillons de Tawar-na-Pengryn"
 END
 
 CONTROLBAR:LW_Unit_ElvenMirkwoodArcherHorde
@@ -28869,27 +28869,27 @@ END
 
 //////// Rivendell Structures ////////
 CONTROLBAR:LW_Structure_RivendellBarracks
-"Dortoir"
+"Dúnedain Encampment"
 END
 
 CONTROLBAR:LW_ToolTipBuild_RivendellBarracks
-"Structure Type: Casernes\nEntraîne les unités d'Imladris\n"
+"Battle Template: Bree-land Encampment\n\nStructure Type: Basic Barracks\nTrains Rivendell basic units\n"
 END
 
 CONTROLBAR:LW_ToolTip_RivendellBarracks
-"Structure Type: Casernes\nEntraîne les unités d'Imladris"
+"Battle Template: Bree-land Encampment\n\nStructure Type: Basic Barracks\nTrains Rivendell basic units"
 END
 
 CONTROLBAR:LW_Structure_RivendellForge
-"Forge"
+"Rivendell Dormitory"
 END
 
 CONTROLBAR:LW_ToolTipBuild_RivendellForge
-"Structure Type: Armory\nFournit toutes les améliorations aux unités\n"
+"Battle Template: Rivendell Dormitory\n\nStructure Type: Elite Barracks\nTrains Rivendell elite units\n"
 END
 
 CONTROLBAR:LW_ToolTip_RivendellForge
-"Structure Type: Armory\nFournit toutes les améliorations aux unités"
+"Battle Template: Rivendell Dormitory\n\nStructure Type: Elite Barracks\nTrains Rivendell elite units"
 END
 
 CONTROLBAR:LW_Structure_RivendellOrchard
@@ -28907,19 +28907,19 @@ END
 /////// Dwarven Structures ///////
 
 CONTROLBAR:LW_ToolTipBuild_DwarvenFortress
-"Type de structure : forteresse\n Défend le territoire et recrute les héros.\n "
+"Type de structure : forteresse\n Défend le territoire \n Recrute les héros et les unités héroïques \n Accorde toutes les améliorations aux unités \n Augmente la trésorerie"
 END
 
 CONTROLBAR:LW_ToolTip_DwarvenFortress
-"Type de structure : forteresse\n Défend le territoire et recrute les héros.\n "
+"Type de structure : forteresse\n Défend le territoire \n Recrute les héros et les unités héroïques \n Accorde toutes les améliorations aux unités \n Augmente la trésorerie"
 END
 
 CONTROLBAR:LW_ToolTipBuild_DwarvenHallOfWarriors
-"Type de structure : Caserne\n Permet de recruter les unités naines.\n "
+"Battle Template: Hall of Warriors\n\nType de structure : Caserne\n Permet de recruter les unités basiques d'Erebor.\n "
 END
 
 CONTROLBAR:LW_ToolTip_DwarvenHallOfWarriors
-"Type de structure : Caserne\n Permet de recruter les unités naines."
+"Battle Template: Hall of Warriors\n\nType de structure : Caserne\n Permet de recruter les unités basiques d'Erebor.\n "
 END
 
 CONTROLBAR:LW_Structure_DwarvenForgeWorks
@@ -28927,11 +28927,11 @@ CONTROLBAR:LW_Structure_DwarvenForgeWorks
 END
 
 CONTROLBAR:LW_ToolTipBuild_DwarvenForgeWorks
-"Type de structure : Armurerie\n Fournit toutes les améliorations aux unités\n "
+"Structure Type: Elite Barracks\nTrains Erebor elite units and siege\n"
 END
 
 CONTROLBAR:LW_ToolTip_DwarvenForgeWorks
-"Type de structure : Armurerie\n Fournit toutes les améliorations aux unités"
+"Structure Type: Elite Barracks\nTrains Erebor elite units and siege"
 END
 
 CONTROLBAR:LW_Structure_DwarvenMineShaft
@@ -28951,11 +28951,11 @@ END
 
 
 CONTROLBAR:LW_ToolTipBuild_DwarvenGuardianHorde
-"Type d'unité : infanterie d'élite.\n\n Forts contre les piquiers\n "
+"Guerriers d'Erebor \n Type d'unité : infanterie d'élite.\n\n Forts contre les piquiers"
 END
 
 CONTROLBAR:LW_ToolTip_DwarvenGuardianHorde
-"\n Type d'unité : infanterie d'élite.\n\n Forts contre les piquiers"
+"Guerriers d'Erebor \n Type d'unité : infanterie d'élite.\n\n Forts contre les piquiers"
 END
 
 CONTROLBAR:LW_Unit_DwarvenMenOfDaleHorde
@@ -29342,34 +29342,33 @@ CONTROLBAR:LW_ToolTip_GildedGuardHorde
 END
 
 CONTROLBAR:LW_ToolTipBuild_GildedGuardHorde
-"Gardes Dorés de Lasgalen\nType d'unité: Unité héroïque\nForts contre l'infanterie et les archers
-\n"
+"Gardes Dorés de Lasgalen\nType d'unité: Unité héroïque\nForts contre l'infanterie et les archers"
 END
 
 /////// DG Structures ////////
 
 CONTROLBAR:LW_Structure_GuldurGaol
-"Geole de Dol Guldur"
+"Slave Quarters"
 END
 
 CONTROLBAR:LW_ToolTipBuild_GuldurGaol
-"Structure Type: Caserne\nEntraîne les unités de Dol Guldur\n"
+"Battle Template: Guldur Gaol\n\nStructure Type: Caserne basique\nEntraîne les unités basiques de Dol Guldur"
 END
 
 CONTROLBAR:LW_ToolTip_GuldurGaol
-"Structure Type: Caserne\nEntraîne les unités de Dol Guldur"
+"Battle Template: Guldur Gaol\n\nStructure Type: Caserne basique\nEntraîne les unités basiques de Dol Guldur"
 END
 
 CONTROLBAR:LW_Structure_GuldurSpire
-"Tour de la Sorcellerie"
+"Unquiet Undercroft"
 END
 
 CONTROLBAR:LW_ToolTipBuild_GuldurSpire
-"Structure Type: Armurerie\nFournit les améliorations aux unités\nEntraîne les unités de siège de Dol Guldur\n"
+"Battle Template: Spire of Sorcery\n\nStructure Type: Elite Barracks\nTrains Dol Guldur elite units"
 END
 
 CONTROLBAR:LW_ToolTip_GuldurSpire
-"Structure Type: Armurerie\nFournit les améliorations aux unités\nEntraîne les unités de siège de Dol Guldur"
+"Battle Template: Spire of Sorcery\n\nStructure Type: Elite Barracks\nTrains Dol Guldur elite units"
 END
 
 CONTROLBAR:LW_Structure_GuldurMill
@@ -29676,35 +29675,35 @@ CONTROLBAR:LW_Structure_MordorFortress
 END
 
 CONTROLBAR:LW_ToolTipBuild_MordorFortress
-"Type de structure : forteresse\n Défend le territoire et recrute les héros.\n "
+"Type de structure : forteresse\n Défend le territoire \n Recrute les héros et les unités héroïques \n Accorde toutes les améliorations aux unités \n Augmente la trésorerie"
 END
 
 CONTROLBAR:LW_ToolTip_MordorFortress
-"Type de structure : forteresse\n Défend le territoire et recrute les héros.\n "
+"Type de structure : forteresse\n Défend le territoire \n Recrute les héros et les unités héroïques \n Accorde toutes les améliorations aux unités \n Augmente la trésorerie"
 END
 
 CONTROLBAR:LW_Structure_MordorOrcPit
-"Bastion des Orques"
+"Camp Orque"
 END
 
 CONTROLBAR:LW_ToolTipBuild_MordorOrcPit
-"Type de structure : Caserne\n Entraîne les unités du Mordor\n "
+"Battle Template: Orc Barracks\n\nType de structure : Caserne basique\n Entraîne les unités basiques du Mordor"
 END
 
 CONTROLBAR:LW_ToolTip_MordorOrcPit
-"Type de structure : Caserne\n Entraîne les unités du Mordor"
+"Battle Template: Orc Barracks\n\nType de structure : Caserne basique\n Entraîne les unités basiques du Mordor"
 END
 
 CONTROLBAR:LW_Structure_MordorTrollCage
-"Cage à trolls"
+"Black Tower"
 END
 
 CONTROLBAR:LW_ToolTipBuild_MordorTrollCage
-"Structure Type: Caserne\nEntraîne les unités d'élite du Mordor\n"
+"Battle Template: Easterling Encampment\n\nStructure Type: Caserne d'élite\nEntraîne les unités d'élite du Mordor\n"
 END
 
 CONTROLBAR:LW_ToolTip_MordorTrollCage
-"Structure Type:  Caserne\nEntraîne les unités d'élite du Mordor"
+"Battle Template: Easterling Encampment\n\nStructure Type: Caserne d'élite\nEntraîne les unités d'élite du Mordor"
 END
 
 CONTROLBAR:LW_Structure_MordorTavern
@@ -29763,7 +29762,7 @@ CONTROLBAR:LW_ToolTip_MordorFighterArcherHorde
 END
 
 CONTROLBAR:LW_ToolTipBuild_MordorFighterHorde
-"Type d'unité : infanterie standard.\n\n Forts contre les piquiers\n "
+"Type d'unité : infanterie standard.\n\n Forts contre les piquiers\n Recrute deux hordes"
 END
 
 CONTROLBAR:LW_ToolTip_MordorFighterHorde
@@ -29981,35 +29980,35 @@ END
 /////// Isengard Structures //////
 
 CONTROLBAR:LW_ToolTipBuild_IsengardFortress
-"Type de structure : forteresse\n Défend le territoire et recrute les héros.\n "
+"Type de structure : forteresse\n Défend le territoire \n Recrute les héros et les unités héroïques \n Accorde toutes les améliorations aux unités \n Augmente la trésorerie"
 END
 
 CONTROLBAR:LW_ToolTip_IsengardFortress
-"Type de structure : forteresse\n Défend le territoire et recrute les héros.\n "
+"Type de structure : forteresse\n Défend le territoire \n Recrute les héros et les unités héroïques \n Accorde toutes les améliorations aux unités \n Augmente la trésorerie"
 END
 
 CONTROLBAR:LW_Structure_IsengardUrukPit
-"Puits à Uruk"
+"Dunland Roundhouse"
 END
 
 CONTROLBAR:LW_ToolTipBuild_IsengardUrukPit
-"Type de structure : Caserne\n Entraîne les unités de l'Isengard\n "
+"Battle Template: Clan Steading\n\nType de structure : Caserne basique\n Entraîne les unités basiques de l'Isengard\n "
 END
 
 CONTROLBAR:LW_ToolTip_IsengardUrukPit
-"Type de structure : Caserne\n Entraîne les unités de l'Isengard"
+"Battle Template: Clan Steading\n\nType de structure : Caserne basique\n Entraîne les unités basiques de l'Isengard"
 END
 
 CONTROLBAR:LW_Structure_IsengardArmory
-"Armurerie"
+"Puit à Uruk"
 END
 
 CONTROLBAR:LW_ToolTipBuild_IsengardArmory
-"Type de structure : Armurerie\n Fournit des améliorations aux unités\n "
+"Battle Template: Uruk-hai Pit\n\nStructure Type: Elite Barracks\nTrains Isengard elite units\n"
 END
 
 CONTROLBAR:LW_ToolTip_IsengardArmory
-"Type de structure : Armurerie\n Fournit des améliorations aux unités"
+"Battle Template: Uruk-hai Pit\n\nStructure Type: Elite Barracks\nTrains Isengard elite units"
 END
 
 CONTROLBAR:LW_Structure_IsengardFurnace
@@ -30173,35 +30172,35 @@ END
 //// Corrupted Wild Structures ///
 
 CONTROLBAR:LW_ToolTipBuild_WildFortress
-"Type de structure : forteresse\n Défend le territoire et recrute les héros.\n "
+"Type de structure : Forteresse \n Défend le territoire \n Recrute les héros et les unités héroïques \n Accorde toutes les améliorations aux unités \n Augmente la trésorerie"
 END
 
 CONTROLBAR:LW_ToolTip_WildFortress
-"Type de structure : forteresse\n Défend le territoire et recrute les héros.\n "
+"Type de structure : Forteresse \n Défend le territoire \n Recrute les héros et les unités héroïques \n Accorde toutes les améliorations aux unités \n Augmente la trésorerie"
 END
 
 CONTROLBAR:LW_Structure_WildCave
-"Cave"
+"Orc Warrens"
 END
 
 CONTROLBAR:LW_ToolTipBuild_WildCave
-"Type de structure : Caserne\n Entraîne les unités des gobelins\n "
+"Battle Template: Moria Orc Cave\n\nStructure Type: Basic Barracks\nTrains Misty Mountains basic units\n"
 END
 
 CONTROLBAR:LW_ToolTip_WildCave
-"Type de structure : Caserne\n Entraîne les unités des gobelins"
+"Battle Template: Moria Orc Cave\n\nStructure Type: Basic Barracks\nTrains Misty Mountains basic units"
 END
 
 CONTROLBAR:LW_Structure_WildTreasureTrove
-"Trésor"
+"Black Hollow"
 END
 
 CONTROLBAR:LW_ToolTipBuild_WildTreasureTrove
-"Type de structure : Armurerie\n Fournit les améliorations aux unités\n "
+"Battle Template: Troll Lair\n\nStructure Type: Elite Barracks\nTrains Misty Mountains elite units\n"
 END
 
 CONTROLBAR:LW_ToolTip_WildTreasureTrove
-"Type de structure : Armurerie\n Fournit les améliorations aux unités"
+"Battle Template: Troll Lair\n\nStructure Type: Elite Barracks\nTrains Misty Mountains elite units"
 END
 
 CONTROLBAR:LW_Structure_WildDefiledMineShaft
@@ -30228,7 +30227,7 @@ CONTROLBAR:LW_Unit_GoblinFighterHordePlural
 END
 
 CONTROLBAR:LW_ToolTipBuild_GoblinFighterHorde
-"Type d'unité : infanterie standard.\n\n Forts contre les piquiers"
+"Type d'unité : infanterie standard.\n\n Forts contre les piquiers \n Recrute deux hordes"
 END
 
 CONTROLBAR:LW_ToolTip_GoblinFighterHorde
@@ -30519,11 +30518,11 @@ STRATEGICHUD:FortressStructureArchetypeTooltip
 END
 
 STRATEGICHUD:BarracksStructureArchetypeTooltip
-"Type de structure : Caserne"
+"Type de structure : Caserne basique"
 END
 
 STRATEGICHUD:ArmoryStructureArchetypeTooltip
-"Type de structure : Armurerie"
+"Type de structure : Caserne d'élite"
 END
 
 STRATEGICHUD:FarmStructureArchetypeTooltip
@@ -31394,7 +31393,7 @@ CONTROLBAR:UntamedAllegiance
 END
 
 CONTROLBAR:AwakenWyrm
-"Mange-Terre"
+"Summon Were-worm"
 END
 
 CONTROLBAR:TooltipAwakenWyrm
@@ -31444,7 +31443,7 @@ END
 
 CONTROLBAR:ToolTipPurchaseUpgradeWildFortressWebCocoon
 // "Augmente l'armure de la forteresse. \n Requis pour le nid de dragons."
-"Augmente l'armure de la forteresse.\nPermet de recruter les Trolls Olog-hai, les Chauve-souris géantes et un second bataillon de Semi-Ogres."
+"Augmente l'armure de la forteresse.\nPermet de recruter les Chevaucheurs de loups de Gundabad, les Trolls Olog-hai, les Chauve-souris géantes et un second bataillon de Semi-Ogres."
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeWildFortressWebCocoonForMaps
@@ -31457,7 +31456,7 @@ CONTROLBAR:PurchaseUpgradeWildFortressNorthernWastes
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeWildFortressNorthernWastes
-"Débloque l'antre de Wyrm \n Permet à la forteresse d'invoquer temporairement un Wyrm"
+"Débloque les Géants des montagnes et l'antre de Wyrm \n Permet à la forteresse d'invoquer temporairement un Wyrm"
 End
 
 CONTROLBAR:ToolTipPurchaseUpgradeWildFortressNorthernWastesForMap
@@ -31972,7 +31971,7 @@ CONTROLBAR:GlorfindelBladeOfPurity
 END
 
 CONTROLBAR:GlorfindelWindRider
-"Chevaucheur du Vent"
+"&Noro lim, Asfaloth!"
 END
 
 CONTROLBAR:GlorfindelStarlight
@@ -32271,7 +32270,7 @@ CONTROLBAR:ConstructCorsairShip
 End
 
 CONTROLBAR:ConstructDwarvenBatteringRam
-"Démolisseur des Monts du Fer"
+"&Zirinmazn"
 End
 
 CONTROLBAR:ConstructDwarvenForgeWorksLevel2Upgrade
@@ -32859,7 +32858,7 @@ CONTROLBAR:TooltipUpgradeIsengardWargPitLevel2
 End
 
 CONTROLBAR:TooltipUpgradeIsengardWargPitLevel3
-"Vitesse de construction +25%"
+"Vitesse de construction +25%\nGrants an additional Warg to all Warg Sentries\nDoes not stack""
 End
 
 CONTROLBAR:TooltipUpgradeMordorMumakilPenLevel2
@@ -33275,7 +33274,7 @@ OBJECT:DwarvenGuard
 End
 
 OBJECT:DwarvenGuardian_C
-"Gardien Nain"
+"Âzagh-baruk"
 End
 
 OBJECT:DwarvenHallExpansion
@@ -36057,7 +36056,7 @@ ToolTip:LackMorgulSorcery
 END
 
 CONTROLBAR:ArcherBarrage
-"&Bombardement"
+"Bo&mbardement"
 END
 
 CONTROLBAR:ToolTipBuildFireDrake
@@ -40841,7 +40840,7 @@ CONTROLBAR:SauronConflagaration
 END
 
 CONTROLBAR:ToolTipSauronConflagaration
-"Des flammes ardentes jaillissent du héros ennemi ciblé, qui s'embrase et meurt carbonisé.\n (n'inflige que 25% des dégâts totaux à Gandalf, Saroumane, le Roi-Sorcier, Azog, Galadriel, Elrond, Thranduil, Thorin, le Nécromancien, le Roi Doré)\n\nClic gauche sur l'icône puis clic gauche sur un héros ennemi"
+"Des flammes ardentes jaillissent du héros ennemi ciblé, qui s'embrase et meurt carbonisé.\n (n'inflige que 25% des dégâts totaux à Gandalf, Elessar, Saroumane, le Roi-Sorcier, Azog, Galadriel, Elrond, Thranduil, Thorin, le Nécromancien, le Roi Doré)\n\nClic gauche sur l'icône puis clic gauche sur un héros ennemi"
 END
 
 CONTROLBAR:SauronDominate
@@ -41579,7 +41578,7 @@ CONTROLBAR:PurchaseTechnologyDwarvenFlamingShot
 End
 
 CONTROLBAR:ToolTipPurchaseTechnologyDwarvenFlamingShot
-"Permet aux catapultes d'acheter l'amélioration Trait incendiaire. Lorsqu'elle est équipée, augmente significativement les dégâts des catapultes."
+"Permet aux Sulûn-abanul d'acheter l'amélioration Trait incendiaire. Lorsqu'elle est équipée, augmente significativement les dégâts des Sulûn-abanul."
 End
 
 CONTROLBAR:PurchaseTechnologyDwarvenSiegeHammer
@@ -41635,11 +41634,11 @@ CONTROLBAR:ToolTipPurchaseUpgradeLaketownFireArrows
 End
 
 CONTROLBAR:ToolTipPurchaseUpgradeDwarvenFlamingShot
-"Améliore le mangonneau avec des projectiles incendiaires : augmente significativement les dégâts."
+"Améliore le Sulûn-abanul avec des projectiles incendiaires : augmente significativement les dégâts."
 End
 
 TOOLTIP:ToolTipPurchaseUpgradeDwarvenFlamingShot
-"Rechercher l'amélioration projectiles incendiaires à l'atelier pour activer cet équipement\nAccroit significativement les dégâts infligés par le mangonneau"
+"Rechercher l'amélioration projectiles incendiaires à l'atelier pour activer cet équipement\nAccroit significativement les dégâts infligés par le Sulûn-abanul"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeDwarvenTraining
@@ -41841,7 +41840,7 @@ TOOLTIP:LackElvenHeavyArmor
 "Recherchez l'amélioration dans la Réserve du Bois Doré. Lorsqu'elle est équipée, réduit significativement les dégâts reçus."
 END
 
-TOOLTIP:LackElvenBasicTraining
+TOOLTIP:LackLorienBasicTraining
 "Recherchez l'amélioration Porte-étendard dans la Réserve du Bois Doré.\n Lorsqu'il est équipé, ce bataillon passe au niveau 2"
 END
 
@@ -47540,27 +47539,27 @@ OBJECT:ArnorFighter
 END
 
 OBJECT:ElvenRivendellWarrior
-"Garde d'Imladris"
+"Macar"
 END
 
 OBJECT:ElvenRivendellArcher
-"Archer d'Imladris"
+"Quinga"
 END
 
 OBJECT:ArnorTowerShieldGuard
-"Epéiste d'Imladris"
+"Ehtyar"
 END
 
 OBJECT:HordeRivendellReveler
-"Ménestrels de Fondcombe"
+"Quentaroli"
 END
 
 OBJECT:RivendellReveler
-"Ménestrels de Fondcombe"
+"Quentaro"
 END
 
 OBJECT:ArnorRanger
-"Rôdeurs Dúnedain"
+"Rôdeur Dúnedain"
 END
 
 OBJECT:ArnorGreyCompany
@@ -47655,32 +47654,28 @@ OBJECT:ArnorBanner
 "Porte-étendard"
 END
 
-OBJECT:HordeArnorSoldier
-"Gardes du Pays de Bree"
-END
-
 OBJECT:HordeArnorTowerGuard
-"Epéistes d'Imladris"
+"Ehtyari"
 END
 
 OBJECT:HordeArnorTowerGuardCav
-"Gardes d'Imladris"
+"Roquentari"
 END
 
 OBJECT:HordeElvenRivendellWarrior
-"Guerriers d'Imladris"
+"Macari"
 END
 
 OBJECT:HordeElvenRivendellArcher
-"Archers d'Imladris"
+"Quingar"
 END
 
 OBJECT:HordeElvenRivendellSwordmenArcher
-"Guerriers et archers d'Imladris"
+"Macari - Quingar"
 END
 
 OBJECT:HordeElvenRivendellGlaivemenArcher
-"Hoplites et archers d'Imladris"
+"Ehtyari - Quingar"
 END
 
 OBJECT:HordeElvenRivendellGlaivemenSwordmen
@@ -47688,7 +47683,7 @@ OBJECT:HordeElvenRivendellGlaivemenSwordmen
 END
 
 OBJECT:HordeArnorArcher
-"Archers d'Imladris"
+"Quingar "
 END
 
 OBJECT:HordeArnorSoldierArcherCombo
@@ -48039,7 +48034,7 @@ CONTROLBAR:ConstructArnorBarracks2Upgrade
 END
 
 CONTROLBAR:ToolTipBuildArnorBarracksLevel2Upgrade
-"Niveau 2 : vitesse de construction +10%\n Permet le recrutement des archers d'Imladris et des chevaliers d'Imladris"
+"Niveau 2 : vitesse de construction +10%\n Permet le recrutement des Quingar et des Roquentari"
 END
 
 CONTROLBAR:ConstructArnorBarracksLevel3Upgrade
@@ -48063,7 +48058,7 @@ CONTROLBAR:ToolTipConstructRivendellBlacksmith
 END
 
 CONTROLBAR:ToolTipBuildArnorBarracksLevel3Upgrade
-"Niveau 3 : vitesse de construction +25%\n Permet de recruter les Vétérans de l'Ultime Alliance"
+"Niveau 3 : vitesse de construction +25%\n Permet de recruter les Laurëthelyn"
 END
 
 CONTROLBAR:ToolTipBuildArnorBarracksLevel3Upgrade_WOTR
@@ -48111,7 +48106,7 @@ End
 
 CONTROLBAR:ToolTipRivendellHobbitShirrif
 //"Recruits Hobbits to the battlefield"
-"Forts contre l'infanterie \n Gagne la furtivité près des arbres \nLes garde-frontières sont des gardiens de la paix qui patrouillent les routes, les chemins et les frontières du Comté, règlent les différends et surveillent les méchants et les étrangers. Pendant les derniers jours du troisième âge, leur nombre a été considérablement augmenté par le maire Will Piedblanc qui sentait que des problèmes se préparaient dans les terres sauvages au-delà du Comté."
+"Forts contre l'infanterie \n Gagne la furtivité près des arbres \n\nLes garde-frontières sont des gardiens de la paix qui patrouillent les routes, les chemins et les frontières du Comté, règlent les différends et surveillent les méchants et les étrangers. Pendant les derniers jours du troisième âge, leur nombre a été considérablement augmenté par le maire Will Piedblanc qui sentait que des problèmes se préparaient dans les terres sauvages au-delà du Comté."
 End
 
 CONTROLBAR:ConstructArnorArcherHorde
@@ -48131,23 +48126,23 @@ CONTROLBAR:ConstructArnorFighterHorde
 END
 
 CONTROLBAR:ConstructElvenImladrisWarriorHordeS
-"&Guerriers d'Imladris"
+"&Macari"
 END
 
 CONTROLBAR:ConstructElvenImladrisWarriorHorde
-"Ar&chers d'Imladris"
+"Quin&gar"
 END
 
 CONTROLBAR:ConstructArnorShieldGuardHorde
-"Hoplites d'I&mladris"
+"&Ehtyari"
 END
 
 CONTROLBAR:ConstructRivendellRevelerHorde
-"Ménest&rels de Fondcombe"
+"Quentaro&li"
 END
 
 CONTROLBAR:ConstructArnorKnightHorde
-"Chevaliers d'Imladris (&K)"
+"Roque&ntari"
 END
 
 CONTROLBAR:ConstructArnorTrebuchet
@@ -48204,11 +48199,11 @@ CONTROLBAR:ToolTipBuildArnorRangerHorde
 END
 
 CONTROLBAR:ToolTipBuildElvenImladrisWarriorHordeWithNoPrerequisitesS
-"Requiert : Caserne niveau 2\n Forts contre les piquiers"
+"Rivendell Guardsmen \n Strong vs. Pikemen and Siege \n\nThere is no Elf in Rivendell that has not been trained, at one point or another, to masterfully wield a longsword."
 END
 
 CONTROLBAR:ToolTipBuildElvenImladrisWarriorHordeWithNoPrerequisites
-"Requiert : Caserne niveau 2\n Forts à distance"
+"Rivendell Archers \n Requires Level 2 Dormitory \n Strong vs. Infantry, Monsters, and Siege \n\nThe Valley of Imladris is hidden largely thanks to Elrond's Ring, and in part thanks to these archers making sure no encroaching enemy lives to tell of its location."
 END
 
 CONTROLBAR:ToolTipBuildArnorRangerHordeForGoodIthilien
@@ -48216,11 +48211,11 @@ CONTROLBAR:ToolTipBuildArnorRangerHordeForGoodIthilien
 END
 
 CONTROLBAR:ToolTipBuildArnorShieldGuardHorde
-"Requiert : Caserne niveau 2\n Piquiers d'élite\n Forts contre les cavaliers"
+"Rivendell Glaivesmen \n Strong vs. Cavalry, Siege and Heroes \n\nThe elegant art of fighting with a long glaive is a time-honored and battle-tested Noldorin tradition."
 END
 
 CONTROLBAR:ToolTipBuildRivendellRevelerHorde
-"Nécessite l'amélioration Chanson et Félicité \n Une bande de Ménestrels elfes \n Limité à 5\n\nLa longue histoire des Elfes est souvent racontée à travers des chansons et des musiques, à la fois tristes et joyeuses."
+"Ménestrels de Rivendell \n Nécessite l'amélioration Chanson et Félicité \n Une bande de Ménestrels elfes \n Limité à 5\n\nLa longue histoire des Elfes est souvent racontée à travers des chansons et des musiques, à la fois tristes et joyeuses."
 END
 
 CONTROLBAR:ToolTipBuildArnorShieldGuardHordeCav
@@ -48264,7 +48259,7 @@ OBJECT:ArnorArcheryRangeDescription
 END
 
 OBJECT:ArnorStablesDescription
-"Niveau 2 : vitesse de construction +10%\n Niveau 3 : vitesse de construction +25%"
+"Trains Rangers of the Dúnedain"
 END
 
 OBJECT:ArnorWorkshopDescription
@@ -48889,7 +48884,7 @@ END
 CONTROLBAR:ToolTipMasterTrackerLeadership
 //"Requiert : niveau 4\n Les alliés proches de Aragorn gagnent\n +50% dégâts, +50% armure,\n et gagnent de l'expérience deux fois plus rapidement\n\nCapacité passive      Ne se cumule pas"
 //"Requiert : niveau 4\n Les alliés proches de Aragorn gagnent\n +33% dégâts, +33% armure,\n et gagnent de l'expérience deux fois plus rapidement\n\nCapacité passive"
-"Requiert : niveau 3\n Aragorn et les alliés proches\n +15% vitesse\n\n Quand il utilise son arc\n Aragorn gagne temporairement + 150% de champ de vision et + 25% de portée\n\nCapacité passive"
+"Requiert : niveau 3\n Aragorn et les alliés proches\n +15% vitesse de mouvement\n\n Quand il utilise son arc\n Aragorn gagne temporairement + 150% de champ de vision et + 25% de portée\n\nCapacité passive"
 END
 
 CONTROLBAR:ToolTipAragornIsildurLeadership
@@ -49221,7 +49216,7 @@ CONTROLBAR:LW_ToolTip_AngmarFortress
 END
 
 CONTROLBAR:PurchaseUpgradeAngmarFortressBanners
-"&Flammes des Ténèbres"
+"&Banners of the Eye"  
 END
 
 CONTROLBAR:LW_Structure_AngmarBarracks
@@ -49606,7 +49601,7 @@ CONTROLBAR:HwaldarSummonHillmen2
 END
 
 CONTROLBAR:ConstructAngmarMill
-"Construire un Moulin"
+"Build Bazaa&r"
 END
 
 CONTROLBAR:ConstructAngmarBattleTower
@@ -50025,7 +50020,7 @@ UPGRADE:AngmarIceMunitions
 End
 
 UPGRADE:AngmarFortressSpikes
-"Fosse à pointe"
+"&Umbarian Hegemony"  ;"Fosse à pointe"
 End
 
 UPGRADE:AngmarFortressSanctum
@@ -50755,20 +50750,20 @@ CONTROLBAR:ToolTipCaptDaleLeadership
 END
 
 CONTROLBAR:ZerkSlayer
-"Chanson d'Azaghâl"
+"&Immolation"
 END
 
 CONTROLBAR:ConstructDwarvenZerkerHorde
-"Tueurs de Wyrms"
+"Adâru&f-sulûkh"
 END
 
 CONTROLBAR:ToolTipBuildDwarvenZerkerHorde
 //"Requiert : niveau 3 Hall des Guerriers\n Lorsque les Nains se rassemblent pour infliger leur terrible vengeance, leur avant-garde est souvent constituée de Mornes-martels. Ces guerriers Nains déterminés, engoncés des pieds à la tête dans une armure de plates et de mailles, progressent avec des intentions meurtrières.\n\n Fort contre toutes les troupes standards.\n Seulement 3 unités autorisées en même temps.Forts contre toutes les unités standards\n Requiert : niveau 3 Hall of Warriors\n Only 3 Units of Zealots sont autorisés en même temps."
-"Requiert : Le Hall des Guerriers niveau 3\nSeuls les vétérans les plus redoutables et les plus intrépides peuvent se hisser au rang de Tueurs de Wyrms. Leur mission est de défendre les routes commerciales autour des forteresses contre tout ennemi y compris les féroces dragons de la Lande Desséchée, fonction qui ne leur laisse aucun repos.\nAinsi sont-ils devenus par nécessité des combattants austères et agressifs, redoutés pour leurs charges dévastatrices contre des ennemis bien plus nombreux mais qu'ils massacrent grâce à leurs glaives acérés.\nLimité à 3 bataillons.\n\nForts contre toutes les unités standards"
+"Tueurs de Wyrms \n Forts contre les Héros \n Requiert : Fort d'Erebor niveau 2\nSeuls les vétérans les plus redoutables et les plus intrépides peuvent se hisser au rang de Tueurs de Wyrms. Leur mission est de défendre les routes commerciales autour des forteresses contre tout ennemi y compris les féroces dragons de la Lande Desséchée, fonction qui ne leur laisse aucun repos.\nAinsi sont-ils devenus par nécessité des combattants austères et agressifs, redoutés pour leurs charges dévastatrices contre des ennemis bien plus nombreux mais qu'ils massacrent grâce à leurs glaives acérés.\nLimité à 3 bataillons.\n\nForts contre toutes les unités standards"
 END
 
 OBJECT:HordeDwarvenZerker
-"Tueurs de Wyrms d'Erebor"
+"Adâruf-sulûkh"
 END
 
 //------------Elven Additions for Expansion----------------
@@ -50803,11 +50798,11 @@ CONTROLBAR:ToolTipBuildElvenRivendellArchers
 END
 
 OBJECT:HordeElvenRivendellLancer
-"Lanciers d'Imladris"
+"Roquentari"
 END
 
 OBJECT:HordeElvenRivendellArcher
-"Chevaliers-archers du Lindon"
+"Quingar"
 END
 
 
@@ -50992,7 +50987,7 @@ BANNERUI:IsengardBallista
 End
 
 OBJECT:HordeDwarvenZerker
-"Tueurs de Wyrms d'Erebor"
+"Adâruf-sulûkh"
 END
 
 BANNERUI:WildMountainGiant
@@ -51046,13 +51041,13 @@ CONTROLBAR:LW_UNIT_ArnorArcherHordePlural
 End
 
 BANNERUI:ArnorKnight
-// Singluar name of the Arnor Phalange category displayed in the army summary for WotR
-"Chevalier d'Imladris"
+// Singluar name of the Arnor Phalanx category displayed in the army summary for WotR
+"Roquentar"
 End
 
 BANNERUI:ArnorKnights
-// Singluar name of the Arnor Phalange category displayed in the army summary for WotR
-"Chevaliers d'Imladris"
+// Singluar name of the Arnor Phalanx category displayed in the army summary for WotR
+"Roquentari"
 End
 
 CONTROLBAR:LW_Unit_ArnorKnightHorde
@@ -53913,7 +53908,7 @@ OBJECT:IsengardScout
 END
 
 OBJECT:HordeDwarvenZerker
-"Horde de Tueurs de Wyrms d'Erebor"
+"Adâruf-sulûkh"
 END
 
 UPGRADE:IsengardTavernLevel2
@@ -54530,7 +54525,7 @@ END
 
 CONTROLBAR:ToolTipZealotAxeThrow
 //"Requiert : niveau 2\n Puissante attaque à distance contre une cible unique.\n\nClic gauche sur la cible"
-"Requiert : niveau 3\n Les Tueurs de Wyrm lancent de petites bombes incendiaires constituées d'une dose de poudre à canon emprisonnée dans une sphère de fer et reliée à l'extérieur par une mèche courte.\n\nClic gauche sur l'icône puis clic gauche sur la cible"
+"Requiert : niveau 5\n Les Adâruf-sulûkh lancent de petites bombes incendiaires constituées d'une dose de poudre à canon emprisonnée dans une sphère de fer et reliée à l'extérieur par une mèche courte.\n\nClic gauche sur l'icône puis clic gauche sur la cible"
 END
 
 
@@ -54676,7 +54671,7 @@ CONTROLBAR:ToolTipToggleTowerGuardPorcupineToLineFormation
 End
 
 CONTROLBAR:ToolTipToggleTowerGuardLineToSpearWallFormation
-"L'unité forme un mur de lances : elle perd -40% vitesse, mais résiste au renversement, ralentit les piétinement et gagne +33% armure contre toutes les attaques, avec un bonus de +60% contre la cavalerie."
+"L'unité forme un mur de lances : elle perd 40% de vitesse, mais résiste au renversement, ralentit les piétinement et gagne +33% armure contre toutes les attaques, avec un bonus de +60% contre la cavalerie."
 End
 
 
@@ -54742,13 +54737,13 @@ END
 CONTROLBAR:ToolTipWhiteWinter
 //"Temporarily covers the map in rain \n All enemy units lose their leadership bonuses \n Clic gauche pour activer"
 //"Temporarily covers the map in rain\nReduces enemy armor and damage\nNullifies enemy Leadership\nClic gauche pour activer"
-"Couvre temporairement la carte dans une Tempête de neige qui fait rage \n Annule les Vents Occidentaux, Pluie Verglaçante, Avant que le Soleil ne se Lève, Bénédiction d'Ulmo, Bénédiction de Manwë, Le Jour de Durin, Hiver Blanc ou Sombre \n Type d'Action : Alteration Active \n Les unités ennemies subissent -25% De dégâts, -20% d'Armure, et -30% de porte de vision. Annule le Charisme ennemi \n Ne s'accumule pas avec les autres altérations \n Clic gauche pour activer"
+"Couvre temporairement la carte dans une Tempête de neige qui fait rage \n Annule les Vents Occidentaux, Pluie Verglaçante, Avant que le Soleil ne se Lève, Bénédiction d'Ulmo, Bénédiction de Manwë, Le Jour de Durin, Les Lumièrse s'Eteignent, Hiver Blanc et Sombre \n Type d'Action : Alteration Active \n Les unités ennemies subissent -25% De dégâts, -20% d'Armure, et -30% de porte de vision. Annule le Charisme ennemi \n Ne s'accumule pas avec les autres altérations \n Clic gauche pour activer"
 END
 
 CONTROLBAR:ToolTipFreezingRain
 //"Des nuages sombres s'amoncellent et recouvrent temporairement la carte d'une pluie drue et glacée : tous les ennemis perdent leurs bonus de Charisme.\n\nClic gauche pour activer"
 //"Des nuages sombres s'amoncellent et recouvrent temporairement la carte d'une pluie drue et glacée : tous les ennemis perdent leurs bonus de Charisme.\n Réduit l'armure et les dégâts des ennemis.\n\nClic gauche pour activer"
-"Type d'Action : Pénalité active\n Des nuages sombres s'amoncellent et recouvrent temporairement la carte d'une pluie drue et glacée : tous les ennemis perdent leur bonus de Charisme et subissent -25% dégâts et -20% armure (Pénalité non cumulable).\n\nClic gauche pour activer"
+"Type d'Action : Pénalité active\n Des nuages sombres s'amoncellent et recouvrent temporairement la carte d'une pluie drue et glacée : tous les ennemis perdent leur bonus de Charisme et subissent -25% dégâts et -20% armure (Pénalité non cumulable).\n Annule les Vents Occidentaux, Pluie Verglaçante, Avant que le Soleil ne se Lève, Bénédiction d'Ulmo, Bénédiction de Manwë, Le Jour de Durin, Les Lumièrse s'Eteignent, Hiver Blanc et Sombre \n\nClic gauche pour activer"
 END
 
 CONTROLBAR:TooltipSummonWatcher
@@ -54830,7 +54825,7 @@ End
 CONTROLBAR:ToolTipMenLongShotAbility
 //"Les Rôdeurs arrosent une zone de la carte d'une volée de flèches.\n\nClic gauche sur l'icône puis clic gauche sur la zone cible\n Requiert : niveau 2"
 //"Requiert : niveau 2\n Les Rôdeurs arrosent une zone de la carte d'une volée de flèches.\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
-"Requiert : niveau 2\n Les Rôdeurs arrosent une zone de la carte d'une volée de flèches.\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
+"Requiert : niveau 3\n Les Rôdeurs arrosent une zone de la carte d'une volée de flèches.\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
 End
 CONTROLBAR:ToolTipMirkwoodLongShotAbility
 "Requiert : Niveau 5\nLes rôdeurs bombardent une zone de la carte avec une volée de flèches\n Clic gauche sur l'icône puis clic gauche sur la zone ciblée"
@@ -54838,12 +54833,12 @@ End
 CONTROLBAR:ToolTipFirienholtLongShotAbility
 //"Les rôdeurs bombardent une zone de la carte avec une volée de flèches \n Clic gauche sur l'icône puis clic gauche sur zone ciblé\n Requiert : Niveau 2"
 //"Requiert : Niveau 2\nLes rôdeurs bombardent une zone de la carte avec une volée de flèches \n Clic gauche sur l'icône puis clic gauche sur zone ciblé"
-"Requiert : Niveau 2\nLes Sentinelles bombardent une zone de la carte avec une volée de flèches \n Clic gauche sur l'icône puis clic gauche sur la zone ciblée"
+"Requiert : Niveau 3\nLes Gardiens bombardent une zone de la carte avec une volée de flèches \n Clic gauche sur l'icône puis clic gauche sur la zone ciblée"
 End
 CONTROLBAR:ToolTipFirienholtLongShotAbility_Summoned
 //"Les rôdeurs bombardent une zone de la carte avec une volée de flèches \n Clic gauche sur l'icône puis clic gauche sur zone ciblé\n Requiert : Niveau 2"
 //"Requiert : Niveau 2\nLes rôdeurs bombardent une zone de la carte avec une volée de flèches \n Clic gauche sur l'icône puis clic gauche sur zone ciblé"
-"Les sentinelles bombardent une zone de la carte avec une volée de flèches \n Clic gauche sur l'icône puis clic gauche sur la zone ciblée"
+"Les Gardiens bombardent une zone de la carte avec une volée de flèches \n Clic gauche sur l'icône puis clic gauche sur la zone ciblée"
 End
 
 CONTROLBAR:ToggleIthilienWeapons
@@ -55118,7 +55113,7 @@ END
 
 CONTROLBAR:ToolTipShadowfax
 //"Requiert : niveau 5\n Clic gauche pour monter ou descendre de monture"
-"Requiert : niveau 4\nGandalf peut monter Gripoil, un cheval de la lignée la plus noble des Mearas que Théoden lui offrit.\n\nClic gauche pour monter ou descendre de Gripoil."
+"Requiert : niveau 5\nGandalf peut monter Gripoil, un cheval de la lignée la plus noble des Mearas que Théoden lui offrit.\n\nClic gauche pour monter ou descendre de Gripoil."
 END
 
 
@@ -55127,24 +55122,22 @@ END
 // Elves Units
 
 OBJECT:HordeLorienWarrior
-"Guerriers de la Lórien"
+"Tawar-na-Eithyr"
 END
-
 CONTROLBAR:ConstructElvenLorienWarriorHorde
-"Guerriers de la Lórien"
+"Tawar-na-&Eithyr"
 END
 
 OBJECT:HordeLorienArcher
-"Archers de la Lórien"
+"Tawar-na-Pengryn"
 END
-
 CONTROLBAR:ConstructElvenLorienArcherHorde
-//"Train Archers de la Lórien"
-"Archers de la Lórien"
+//"Tr&ain Lorien Archers"
+"Tawar-na-&Pengryn"
 END
 
 OBJECT:HordeLorienWardenArcherCombo
-"Guerriers de la Lórien - Archers de la Lórien"
+"Tawar-na-Eithyr - Tawar-na-Pengryn"
 END
 
 OBJECT:HordeMithlondSentry
@@ -55165,7 +55158,7 @@ END
 
 CONTROLBAR:BuildElvenRivendellLancers
 //"Train Lanciers d'Imladris"
-"Lanciers d'Im&ladris"
+"Roque&ntari"
 END
 
 CONTROLBAR:BuildElvenRivendellArchers
@@ -55188,7 +55181,7 @@ END
 
 OBJECT:MallornTreeDescription
 //"Génère des ressources selon le terrain disponible Augmente la limite de points de commandement de 50"
-"Génère des ressources selon le terrain disponible.\n Peut être amélioré avec Eaux bénies de la Nimrodel pour soigner les troupes proches.\nAugmente la portée de tir des archers et des héros proches."
+"Génère des ressources selon le terrain disponible.\n Peut être amélioré avec Eaux bénies de la Nimrodel pour soigner les troupes proches et avec Racines de Mallorn pour ralentir les ennemis proches \n Permet de recruter des Celemegiliath \n Augmente la portée de tir des archers et des héros proches."
 END
 
 CONTROLBAR:PurchaseUpgradeElvenBarracksLevel3
@@ -55265,7 +55258,7 @@ END
 CONTROLBAR:ToolTipTreeBeardLeadership  
 //"Les alliés Ents proches de Sylvebarbe gagnent +15% vitesse et +100% armure\n\n Capacité passive"
 //"Les alliés Ents proches de Sylvebarbe gagnent +15% vitesse, +20% de portée, et +100% armure\n\n Capacité passive"
-"Type d'Action : Sort\n Les Ents proches de Sylvebarbe gagnent +50% armure et +15% vitesse (bonus cumulable).\n\nCapacité passive"
+"Type d'Action : Sort\n Les Ents proches de Sylvebarbe gagnent +50% armure, +25% de vision et de portée et +25% de vitesse de mouvement (bonus cumulable).\n\nCapacité passive"
 END
 
 CONTROLBAR:ToolTipPersonalFlood
@@ -55285,7 +55278,7 @@ END
 
 CONTROLBAR:ToolTipGlorfindelWindRider
 //"Requiert : niveau 6\n Glorfindel gagne +60% vitesse and Double Armor when mounted\n\nClic gauche pour activer"
-"Requiert : niveau 6\n Glorfindel gagne +40% vitesse, +100% armure et glisse comme le vent au-delà des ennemis lorsqu'il est monté.\n\nClic gauche pour activer"
+"Requiert : niveau 5\n Glorfindel gagne +40% de vitesse, +100% d'armure et glisse comme le vent au-delà des ennemis lorsqu'il est monté \n Peut seulement être utilisé sur une monture \n Clic gauche pour activer"
 END
 
 CONTROLBAR:ToolTipLegolasTrainArchers  
@@ -55384,7 +55377,7 @@ END
 
 OBJECT:HordeDwarvenGuardian
 //"Guardian"
-"Gardiens d'Erebor"
+"Âzagh-baruk"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityDwarvenGuardianChargeAttack
@@ -55405,12 +55398,12 @@ END
 
 OBJECT:DwarvenPhalanx
 //"Phalanxes"
-"Piquier d'Erebor"
+"Sigin-udrîg"
 END
 
 OBJECT:HordeDwarvenPhalanx
 //"Phalanx"
-"Piquiers d'Erebor"
+"Sigin-udrîg"
 END
 
 OBJECT:DwarvenMenOfDale
@@ -55454,7 +55447,7 @@ End
 
 CONTROLBAR:TooltipConstructDwarvenMineShaft
 //"Génère des ressources selon le terrain disponible. Donne accès au réseau de tunnels\n\n Augmente la limite de points commandement de 50."
-"Génère des ressources selon le terrain disponible \n Donne accès au réseau de tunnels \n Fournit un bonus de Charisme aux Gardiens des Portes \n Augmente la limite de points de commandement de 50"
+"Génère des ressources selon le terrain disponible \n Donne accès au réseau de tunnels \n Fournit un bonus de Charisme aux Azaghâr-gundu \n Augmente la limite de points de commandement de 50"
 END
 
 TOOLTIP:LackLevel2HallOfWarriors
@@ -55533,7 +55526,7 @@ END
 
 OBJECT:DwarvenZerker
 //"Zealot"
-"Tueurs de Wyrms"
+"Adâruf-sulûkh"
 END
 
 CONTROLBAR:ToolTipTrainArchers
@@ -55550,7 +55543,7 @@ CONTROLBAR:ToolTipDainLeadership
 //"Les alliés proches du Roi Dáin gagnent +50% dégâts, +50% armure, et gagnent de l'expérience deux fois plus rapidement.\n\n Capacité passive       Ne peut pas s'utiliser avec d'autres bonus"
 //"Les alliés proches du Roi Dáin gagnent +33% dégâts, +33% armure, et gagnent de l'expérience deux fois plus rapidement.\n\n Capacité passive"
 //"Les alliés proches du Roi Dáin gagnent +33% dégâts, +33% armure, et gagnent de l'expérience 50% plus rapidement.\n\n Capacité passive"
-"Type d'Action : Charisme\n  Les alliés proches du Roi Dáin gagnent +33% dégâts, +33% armure et gagnent de l'expérience 50% plus rapidement (bonus cumulable).\n\n Capacité passive"
+"Type d'Action : Charisme\n  Les alliés proches du Roi Dáin gagnent +100% d'armure \n Dáin gagne +33% de dégâts lorsqu'il est proche du Roi Brand (bonus cumulable).\n\n Capacité passive"
 END
 
 CONTROLBAR:DainRestoration
@@ -55624,11 +55617,11 @@ END
 
 CONTROLBAR:TooltipWargRiderHowl
 //"Les Wargs gagnent +150% dégâts.\n\nClic gauche pour activer"
-"Type d'Action : Bonus\n  Les Wargs gagnent +50% dégâts et +50% armure (bonus cumulable).\n\nClic gauche pour activer"
+"Type d'Action : Bonus\n Les Wargs gagnent +50% dégâts et +50% armure (bonus cumulable).\n\nClic gauche pour activer"
 END
 
 CONTROLBAR:TooltipIsengardWargRiderHowl
-"Type d'Action : Bonus\n  Les Wargs gagnent +50% dégâts et +50% armure (bonus cumulable).\n\nClic gauche pour activer"
+"Type d'Action : Bonus\n Les Wargs gagnent +50% dégâts et +20% de vitesse (bonus cumulable).\n\nClic gauche pour activer"
 END
 
 CONTROLBAR:TooltipWhiteWolvesHowl
@@ -55728,7 +55721,7 @@ CONTROLBAR:ToolTipLurtzLeadership
 //"Requiert : niveau 5\n Les alliés proches de Lurtz gagnent +50% dégâts, +50% armure, et gagnent de l'expérience deux fois plus rapidement.\n\n Capacité passive       Ne peut pas s'utiliser avec d'autres bonus"
 //"Requiert : niveau 5\n Les alliés proches de Lurtz gagnent +33% dégâts, +33% armure, et gagnent de l'expérience deux fois plus rapidement.\n\n Capacité passive"
 //"Requiert : niveau 5\n Les alliés proches de Lurtz gagnent +33% dégâts, +33% armure, et gagnent de l'expérience 50% plus rapidement.\n\n Capacité passive"
-"Requiert : Niveau 5\n Type d'Action : Charisme\n Les alliés proches de Lurtz gagnent +33% dégâts, +33% armure et gagnent de l'expérience 50% plus rapidement (bonus cumulable).\n\n Capacité passive"
+"Requiert : Niveau 5\n Type d'Action : Charisme\n Les Uruk-hai proches de Lurtz gagnent +33% de dégâts et +33% d'armure (bonus cumulable).\n\n Capacité passive"
 END
 
 CONTROLBAR:ToolTipLurtzPillage
@@ -55753,20 +55746,20 @@ CONTROLBAR:ToolTipSpeechCraft
 //"Requiert : niveau 5\n Donne de l'expérience aux unités ciblées.\n\nClic gauche sur l'icône puis clic gauche sur la cible"
 //"Requiert : niveau 5\n Donne beaucoup d'expérience aux unités ciblées.\n\nClic gauche sur l'icône puis clic gauche sur la cible"
 //"Requiert : niveau 7\n Donne beaucoup d'expérience aux unités ciblées.\n\nClic gauche sur l'icône puis clic gauche sur la cible"
-"Requiert : Niveau 4\n Saroumane exalte ses légions : il donne énormément d'expérience aux unités ciblées.\n\nClic gauche sur l'icône puis clic gauche sur la cible"
+"Requiert : Niveau 5\n Saroumane exalte ses légions : il donne énormément d'expérience aux unités ciblées.\n\nClic gauche sur l'icône puis clic gauche sur la cible"
 END
 
 CONTROLBAR:ToolTipThunderBolt
 //"Requiert : niveau 10\n Frappe l'ennemi visé d'un puissant éclair.\n\nClic gauche sur l'icône puis clic gauche sur la cible"
 //"Requiert : niveau 7\n Frappe l'ennemi visé d'un puissant éclair.\n\nClic gauche sur l'icône puis clic gauche sur la cible"
-"Requiert : Niveau 6\n Frappe l'ennemi visé d'un puissant éclair.\n\nClic gauche sur l'icône puis clic gauche sur la cible"
+"Requiert : Niveau 7\n Frappe l'ennemi visé d'un puissant éclair.\n\nClic gauche sur l'icône puis clic gauche sur la cible"
 END
 
 CONTROLBAR:ToolTipDominate
 //"Requiert : niveau 4\n Contrôle temporairement les ennemis ciblés.\n\nClic gauche sur l'icône puis clic gauche sur la cible enemies"
 //"Requiert : niveau 10\n Contrôle temporairement les ennemis ciblés.\n\nClic gauche sur l'icône puis clic gauche sur la cible enemies"
 //"Requiert : niveau 5\n Contrôle temporairement les ennemis ciblés.\n\nClic gauche sur l'icône puis clic gauche sur la cible enemies"
-"Requiert : niveau 10\nLa voix de Saroumane est une arme redoutable, il sait corrompre et retourner l'ennemi pour sa cause.\nIl contrôle de façon permanente les ennemis ciblés.\n\nClic gauche sur l'icône puis clic gauche sur les unités ennemies ciblées"
+"Requiert : niveau 10\nLa voix de Saroumane est une arme redoutable, il sait corrompre et retourner l'ennemi pour sa cause.\nIl prend le contrôle de façon temporaire des ennemis ciblés.\n\nClic gauche sur l'icône puis clic gauche sur les unités ennemies ciblées"
 END
 
 
@@ -55986,7 +55979,8 @@ CONTROLBAR:ToolTipTrollfindgoblintothrow
 END
 
 CONTROLBAR:ToolTipBuildWildMountainGiant
-"Requiert : Fosse niveau 3 \n De puissantes créatures des Monts Brumeux qui lancent des rochers pour écraser les ennemis et détruire les structures, et particulièrement redoutables en combat rapproché. \n\n Forts contre les structures et les épéistes"
+//"Requiert : Fosse niveau 3 \n De puissantes créatures des Monts Brumeux qui lancent des rochers pour écraser les ennemis et détruire les structures, et particulièrement redoutables en combat rapproché. \n\n Forts contre les structures et les épéistes"
+"Requires Level 3 Troll Lair and the Allegiance: Northern Wastes upgrade \n Limited to 5 \n Strong vs. Structures and Swordsmen \n \n 'There they were sheltering under a hanging rock for the night, and Bilbo lay beneath a blanket and shook from head to toe. When he peeped out in the lightning-flashes, he saw that across the valley the stone-giants were out, and were hurling rocks at one another for a game, and catching them, and tossing them down into the darkness where they smashed among the trees far below, or splintered into little bits with a bang.'"
 END
 
 CONTROLBAR:ToolTipWildMountainGiantStomp
@@ -56028,15 +56022,15 @@ OBJECT:WerewormDescription
 END
 
 CONTROLBAR:ToolTipBuildWildCaveLevel2Upgrade
-"Vitesse de construction +10%"
+"Vitesse de construction +10%\nAdds two garrisoned Moria Orc Archers"
 END
 
 CONTROLBAR:ToolTipBuildWildCaveLevel3Upgrade
-"Vitesse de construction +25% \n Ajoute une tour d'archers défensive"
+"Vitesse de construction +25%"
 END
 
 CONTROLBAR:ToolTipConstructWildGoblinFissure
-"Permet de recruter des Trolls et des Chauve-souris géantes \n Augmente la limite de points de commandements de 25"
+"Permet de recruter des Trolls, des Chauve-souris géantes et des Géants des montagnes \n Augmente la limite de points de commandements de 25"
 END
 
 CONTROLBAR:ToolTipBuildWildLodgeLevel2Upgrade
@@ -56057,20 +56051,20 @@ END
 
 CONTROLBAR:ToolTipBuildWildFissureLevel3Upgrade
 //"Niveau 3 : vitesse de construction +25%.\n Permet de recruter les Géant des Montagness and Couvée de Drakes de feu"
-"Permet de recruter les Trolls de Pierre de Gundabad \n Vitesse de construction +25%"
+"Permet de recruter les Trolls de Pierre de Gundabad et les Géants des montagnes \n Vitesse de construction +25%"
 END
 
 CONTROLBAR:ToolTipBuildWildFissureLevel3Upgrade_WOTR
 //"Niveau 3: +25% de vitesse de construction \n Allows training of Mountain Giants and Fire Drake Brood"
-"Permet l'entraînement des Trolls d'attaque \n +25% de vitesse de construction"
+"Permet l'entraînement des Trolls d'attaque et des Géants des montagnes \n +25% de vitesse de construction"
 END
 
 CONTROLBAR:ToolTipConstructWildWildSpiderPit
-"Permet de recruter des Meutes de Wargs et des Chevaucheurs de Wargs \n Augmente la limite de points de commandement de 25"
+"Permet de recruter des Meutes de Wargs et des Chevaucheurs de loups de Gundabad \n Augmente la limite de points de commandement de 25"
 END
 
 CONTROLBAR:ToolTipBuildWildSpiderPitLevel2Upgrade
-"Vitesse de construction +10%"
+"Allows training of Gundabad Wolf-riders\n+10% Faster Build Speed"
 END
 
 CONTROLBAR:ToolTipBuildWildSpiderPitLevel3Upgrade
@@ -56170,7 +56164,7 @@ CONTROLBAR:AzogDefiler
 END
 
 CONTROLBAR:ToolTipAzogDefiler
-"Requiert : niveau 4 \n Souille une zone du terrain autour d'Azog : les alliés proches gagnent des ressources supplémentaires pour chaque ennemi tué.\n\n Capacité passive\n\n Type d'Action : Pénalité active\n Les ennemis proches subissent -25% dégâts, -20% armure et perdent leur bonus de Charisme (Pénalité non cumulable).\n\nClic gauche pour activer"
+"Requiert : niveau 4\n Type d'Action : Charisme \n Gundabad Berserkers near Azog gain +50% Armor and immunity to fear and terror\nPassive ability \n\n  Souille une zone du terrain autour d'Azog : les alliés proches de cette zone gagnent des ressources supplémentaires pour chaque ennemi tué \N\n Capacité passive\n\n Type d'Action : Pénalité active\n Les ennemis proches de cette zone subissent -25% dégâts, -20% armure et perdent leur bonus de Charisme (Pénalité non cumulable).\n\nClic gauche pour activer"
 END
 
 CONTROLBAR:AzogHeadhunter
@@ -56178,7 +56172,7 @@ CONTROLBAR:AzogHeadhunter
 END
 
 CONTROLBAR:ToolTipAzogHeadhunter
-"Requiert : niveau 2 \n Azog met un prix sur la tête d'un héros ennemi, réduisant considérablement son armure et sa vitesse.\n\nClic gauche sur l'icône puis clic gauche sur la cible"
+"Requiert : niveau 2 \n Azog met un prix sur la tête d'un héros ennemi, réduisant son armure et sa vitesse de 50%\n\nClic gauche sur l'icône puis clic gauche sur la cible"
 END
 
 CONTROLBAR:TooltipGoblinKingSkullTotem
@@ -56357,15 +56351,15 @@ CONTROLBAR:ToolTipConstructAngmarMill
 End
 
 CONTROLBAR:ToolTipConstructAngmarBarracks
-"Recrute des Maîtres des Esclaves, des Númenóréens Noirs,\n et des Rôdeurs Noirs"
+"Trains units from Harondor and Near Harad"
 End
 
 CONTROLBAR:ToolTipBuildAngmarBarracksLevel2Upgrade
-"Permet de recruter les Númenóréens Noirs et la recherche de Porte-étendards \n Vitesse de construction +10%"
+"Allows training of Haradrim Raiders, Haradrim Spearmen and Haradrim Archers \n+10% Faster Build Speed"
 End
 
 CONTROLBAR:ToolTipBuildAngmarBarracksLevel3Upgrade
-"Permet de recruter les Rôdeurs Noirs \n Vitesse de construction +25% \n Ajoute une tour d'archers défensive"
+"Allows training of Guards of the Serpent and the research of the Lies and Threats upgrade \n +25% Faster build speed \n Adds defensive Arrow Tower"
 End
 
 CONTROLBAR:ToolTipAngmarDen
@@ -56962,35 +56956,35 @@ END
 BANNERUI:ElvenLorienWarrior
 // Singluar name of the Elven Lórien Warrior category displayed in the army summary for WotR
 //"Guerrier elfe de la Lórien"
-"Gardien de la Lórien"
+"Tawar-na-Eithor"
 End
 
 BANNERUI:ElvenLorienWarriors
 // Plural name of the Elven Lórien Warrior category displayed in the army summary for WotR
 //"Guerriers elfes de la Lórien"
-"Guerriers de la Lórien"
+"Tawar-na-Pengryn"
 End
 
 BANNERUI:ElvenLorienArcher
 // Singluar name of the Elven Lórien Archer category displayed in the army summary for WotR
 //"Archer elfe de la Lórien"
-"Archer de la Lórien"
+"Tawar-na-Pengron"
 End
 
 BANNERUI:ElvenLorienArchers
 // Plural name of the Elven Lórien Archer category displayed in the army summary for WotR
 //"Archers elfes de la Lórien"
-"Archers de la Lórien"
+"Tawar-na-Pengryn"
 End
 
 CONTROLBAR:LW_ToolTipBuild_ElvenLorienArcherHorde
 //"Type d'unité : archers standards\n Fort à distance\n "
-"Type d'unité : archers standards \n\n Forts contre les épéistes\n "
+"Archers de la Lórien \n Type d'unité : archers standards \n\n Forts contre les épéistes\n "
 END
 
 CONTROLBAR:LW_ToolTip_ElvenLorienArcherHorde
 //"\n Type d'unité : archers standards\n Fort à distance"
-"Type d'unité : archers standards \n\n Forts contre les épéistes"
+"Archers de la Lórien \n Type d'unité : archers standards \n\n Forts contre les épéistes"
 END
 
 CONTROLBAR:LW_ToolTip_ElvenLorienWardenArcherHorde
@@ -57060,13 +57054,13 @@ END
 BANNERUI:ElvenRivendellLancer
 // Singluar name of the Lancier elfe d'Imladris category displayed in the army summary for WotR
 //"Lancier elfe d'Imladris"
-"Lancier d'Imladris"
+"Roquentar"
 End
 
 BANNERUI:ElvenRivendellLancers
 // Plural name of the Lancier elfe d'Imladris category displayed in the army summary for WotR
 //"Lanciers elfes d'Imladris"
-"Lanciers d'Imladris"
+"Roquentari"
 End
 
 CONTROLBAR:LW_ToolTipBuild_ElvenRivendellArcherHorde
