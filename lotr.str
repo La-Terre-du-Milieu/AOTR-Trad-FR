@@ -63238,7 +63238,7 @@ CONTROLBAR:SecretWays
 "Chemins secrets"
 END
 CONTROLBAR:TooltipSecretWays
-"Les Huruz-Khagal-zirak sont camouflés près des arbres\n Ils infligent des dommages doubles lorsqu'ils attaquent par le flanc et l'arrière \n Capacité passive \n \n Quand elle est activée, les Patrouilleurs gagnent +10% de vitesse et +50% d'armure contre les flèches\nClic gauche sur l'icône pour activer"
+"Les Huruz-Khagal-zirak sont camouflés près des arbres\n Ils infligent deux fois plus de dégâts lorsqu'ils attaquent par le flanc et l'arrière \n Capacité passive \n \n Quand elle est activée, les Patrouilleurs gagnent +10% de vitesse et +50% d'armure contre les flèches\nClic gauche sur l'icône pour activer"
 END
 CONTROLBAR:DwarvenWile
 "Nains rusés"
@@ -63277,17 +63277,17 @@ CONTROLBAR:TraderEredLuinCram
 END
 
 CONTROLBAR:ToolTipTraderEredLuinCram
-//"Requiert : niveau 2 \n Nearby allies earn resources per kill \n\nCapacité passive"
-//"Requiert : niveau 2 \n Nearby cavalry earn resources per kill \n\nCapacité passive"
-//"Requiert : niveau 5 \n Nearby allies earn resources per kill \n\nCapacité passive"
+//"Requiert : niveau 2 \n Les alliés proches gagnent des ressources à chaque ennemi tué \n\nCapacité passive"
+//"Requiert : niveau 2 \n Les cavaliers proches gagnent des ressources à chaque ennemi tué \n\nCapacité passive"
+//"Requiert : niveau 5 \n Les alliés proches gagnent des ressources à chaque ennemi tué \n\nCapacité passive"
 "A l'instar des Elfes qui utilisent le Lembas, Les Nains ont créé un pain de voyage avec leurs herboristes : les Marchands se soignent passivement hors combat.\n\nCapacité passive"
 END
 
 CONTROLBAR:ToolTipTraderEredLuinRangerCram
-//"Requires Level 2 \n Nearby allies earn resources per kill \n Passive ability"
-//"Requires Level 2 \n Nearby cavalry earn resources per kill \n Passive ability"
-//"Requires Level 5 \n Nearby allies earn resources per kill \n Passive ability"
-"The Rangers passively heal outside of combat \n Passive ability"
+//"Requiert : niveau 2 \nLes alliés proches gagnent des ressources à chaque ennemi tué \n Capacité passive"
+//"Requiert : niveau 2 \n Les cavaliers proches gagnent des ressources à chaque ennemi tué \n Capacité passive"
+//"Requiert : niveau 5 \n Les alliés proches gagnent des ressources à chaque ennemi tué \n Capacité passive"
+"Les Patrouilleurs peuvent se soigner en dehors des combats \n Capacité passive"
 END
 
 CONTROLBAR:TraderMerchantsLeadership
@@ -63363,11 +63363,11 @@ CONTROLBAR:LW_ToolTipBuild_IronHillRiderHorde
 END
 
 CONTROLBAR:RelentlessCharge
-"&Relentless Charge"
+"&Charge Impitoyable"
 END
 
 CONTROLBAR:ToolTipRelentlessCharge
-"Ukhrub-sharâhul temporarily lose -50% trample deceleration and gain +50% resistance to pikes \n Left click to activate"
+"Les Ukhrub-sharâhul perdent temporairement -50% de déceleration lorsqu'ils écrasent un ennemi et gagnent +50% de résistance face aux piquiers \n Clic gauche pour activer"
 END
 
 OBJECT:DwarfMangonel
@@ -63400,11 +63400,11 @@ OBJECT:HordeKhazadGuard
 END
 
 CONTROLBAR:MoriaLord
-"Lord of Moria"
+"Seigneur de la Moria"
 END
 
 CONTROLBAR:ToolTipMoriaLord
-"Âzugh-Khazad-dûm gain +25% armor while near Balin\nPassive ability"
+"Les Âzugh-Khazad-dûm gagnent +25% d'armure quand ils sont proches de Balin\nCapacité passive"
 END
 
 CONTROLBAR:KhazadAllies
@@ -63429,7 +63429,7 @@ End
 
 CONTROLBAR:TooltipThrorHoard
 //"Invoque unhe fire breatsous votren to tôee battlefield \n\nClic gauche sur l'icône puis clic gauche sur une zone praticable"
-"Invoque un tas de pièces d'or, de bijoux et de richesses accumulées par les Nains.\n Attention à votre avarice, elle peut vous jouer des tours !..."
+"Invoque un tas de pièces d'or, de bijoux et de richesses accumulés par les Nains.\n Attention à votre avarice, elle peut vous jouer des tours !..."
 END
 
 CONTROLBAR:CampaignHiddenCache
@@ -63469,7 +63469,7 @@ CONTROLBAR:BilboLeadership
 END
 
 CONTROLBAR:ToolTipBilboLeadership
-"Type d'Action : Sort \n Les alliés proches de Bilbon dans un large rayon gagnent +50% dégâts, +50% armure et gagnent de l'expérience deux fois plus rapidement.\n Réduit le temps de recharge des compétences des unités et des héros de 25% (bonus cumulable).\n\nCapacité passive"
+"Type d'Action : Sort \n Les alliés proches de Bilbon dans un large rayon gagnent +50% de dégâts, +50% d'armure et gagnent de l'expérience deux fois plus rapidement.\n Réduit le temps de recharge des compétences des unités et des héros de 25% (bonus cumulable).\n\nCapacité passive"
 END
 
 CONTROLBAR:BilboOldFriends
@@ -63503,7 +63503,7 @@ CONTROLBAR:SummonedWightDebuff
 END
 
 CONTROLBAR:ToolTipSummonedWightDebuff
-"Type d'Action : Pénalité passive \n Les unités ennemies proches subissent -25% dégâts, -30% vitesse et -20% armure (non cumulable avec d'autres pénalités).\n\nCapacité passive"
+"Type d'Action : Pénalité passive \n Les unités ennemies proches subissent -25% de dégâts, -30% de vitesse et -20% d'armure (non cumulable avec d'autres pénalités).\n\nCapacité passive"
 END
 
 OBJECT:FishBarrel
@@ -63519,11 +63519,11 @@ CONTROLBAR:ToolTipFishBarrel
 END
 
 CONTROLBAR:DalishSupremacy
-"Suprémacie de Dale"
+"Suprématie de Dale"
 End
 
 CONTROLBAR:InTheNameOf
-"In The Name of The &King"
+"Au nom du Roi"
 End
 
 CONTROLBAR:TooltipDalishSupremacy
@@ -63844,27 +63844,27 @@ CONTROLBAR:ToolTipShrugOff
 END
 
 CONTROLBAR:PrinceOfErebor
-"Prince of Erebor"
+"Prince d'Erebor"
 END
 
 CONTROLBAR:ToolTipPrinceOfErebor
-"Whenever Thorin attacks, nearby troops gain +5% stackable damage during 5 seconds\nPassive ability"
+"Chaque fois que Thorin attaque, les troupes à proximité subissent +5% de dommages cumulables pendant 5 secondes\nCapacité passive"
 END
 
 CONTROLBAR:DwarvenGrudge
-"Dwarven &Grudge"
+"Rancune naine"
 END
 
 CONTROLBAR:ToolTipDwarvenGrudge
-"Thorin knocks back enemy units and gains +50% attack speed for 15 seconds\nLeft click icon then left click on target\n\nAt rank 3, Thorin passively returns a percentage of damage dealt to him\nPassive ability"
+"Thorin renverse les unités ennemies et gagne +50% d'attaque pendant 15 secondes \nClic gauche sur l'icône pour activer\n\nAu niveau 3, Thorin retourne une partie des dégâts qui lui sont infligés\nCapacité passive"
 END
 
 CONTROLBAR:DurinsChosen
-"D&urin's Chosen"
+"Le Choix de Durin"
 END
 
 CONTROLBAR:ToolTipDurinsChosen
-"Requires Level 5 \n Thorin and nearby Dwarven units briefly gain resistance to knockback and +50% damage\nThorin can crush enemies\n Left click to activate"
+"Requiert niveau 5 \n Thorin et les unités naines proches gagnent brièvement la résistance au renversement et +50% de dégâts \nThorin peut renverser les ennemis\n Clic gauche pour activer"
 END
 
 CONTROLBAR:Stonehelm
@@ -63872,15 +63872,15 @@ CONTROLBAR:Stonehelm
 END
 
 CONTROLBAR:ToolTipStonehelm
-"Requires Level 8 \n Thorin exchanges his steel helmet for the Stonehelm and utters a terrifying shout. Enemies in his vicinity flee. Thorin's armor is temporarily increased by 50% \n Left click to activate"
+"Requiert niveau 8 \n Thorin échange son casque d'acier contre le Heaume de Pierre et pousse un cri terrifiant. Les ennemis dans son voisinage prennent la fuite. L'armure de Thorin est temporairement augmentée de 50% \n Clic gauche pour activer"
 END
 
 CONTROLBAR:KeenEye
-"&Keen Eye"
+"&Un Oeil Attentif"
 END
 
 CONTROLBAR:ToolTipKeenEye
-"Nearby structures receive +25% armor \n Nearby Mangonels gain +10% range \n Passive Ability \n At rank 3, can be cast on enemy structures to temporarily reduce their armor by 33% \n Left click icon then left click on target"
+"Les structures proches reçoivent +25% d'armure \n Les mangonneaux proches gagnent +10% de portée \n Capacité passive \n Au niveau 3, peut être lancé sur une structure ennemie pour réduire temporairement son armure de 33% \n Clic gauche sur l'icône puis clic gauche sur la cible"
 END
 
 CONTROLBAR:HadhodSabotage
@@ -63888,47 +63888,47 @@ CONTROLBAR:HadhodSabotage
 END
 
 CONTROLBAR:ToolTipHadhodSabotage
-"Requires Level 3\nTarget enemy building takes heavy damage\nand is temporarily disabled \n Automatically opens targeted gate \n Left click icon then left click on target"
+"Requiert niveau 3\nLes batiments ennemis ciblés subissent de lourds dommages\net sont temporairement désactivés \n Les portes ciblées s'ouvrent automatiquement \n Clic gauche sur l'icône puis clic gauche sur la cible"
 END
 
 CONTROLBAR:HadhodStoneHewer
-"Stone He&wer"
+"Mineur de pierres"
 END
 
 CONTROLBAR:ToolTipHadhodStoneHewer
-"Requires Level 6\nNearby Dwarven units deal +25% damage against structures\nPassive ability\n\nAt rank 8, can be cast to grant siege hammers upgrade to Guardians in radius\nLeft click icon then left click on target battalion"
+"Requiert niveau 6\nLes unités naines proches infligent +25% de dégâts aux structures\nCapacité passive\n\nAu niveau 8, peut être activé pour fournir des marteaux de siège aux Gardiens situés dans le rayon\nClic gauche sur l'icône puis clic gauche sur le bataillon ciblé"
 END
 
 CONTROLBAR:BondsofFriendship
-"Bo&nds of Friendship"
+"Liens d'amitié"
 END
 
 CONTROLBAR:TooltipBondsofFriendship
-"Requires Level 10\nSummons Elegost the Dúnadan to the battlefield\nLeft click to activate"
+"Requiert niveau 10\nInvoque Elegost le Dunedain sur le champ de bataille\nClic gauche pour activer"
 END
 
 CONTROLBAR:ElegostTrueShot
-"&True Shot"
+"&Tir Juste"
 END
 
 CONTROLBAR:ToolTipElegostTrueShot
-"A high damage attack that stuns enemy units\nLeft click icon then left click on target" 
+"Une attaque à forts dégâts qui paralyse les unités ennemies\nClic gauche sur l'icône puis clic gauche sur la cible" 
 END
 
 CONTROLBAR:ElegostHeal
-"Grace of &Kingsfoil"
+"Grâce de la feuille des rois"
 END
 
 CONTROLBAR:ToolTipElegostHeal
-"For 15 seconds, Elegost heals nearby units and heroes over time\nLeft click to activate"
+"Pendant 15 secondes, Elegost soigne les unités proches et les héros au cours du temps\nClic gauche pour activer"
 END
 
 CONTROLBAR:ElegostRangerCraft
-"&Ranger Craft"
+"&Art du Rôdeur"
 END
 
 CONTROLBAR:ToolTipElegostRangerCraft
-"Enemies in radius lose -50% vision range and -25% movement speed \n Left click then left click on target areas"
+"Les ennemis dans le rayon perdent -50% de portée de vision et -25% de vitesse de mouvement \n Clic gauche puis clic gauche sur la zone cible"
 END
 
 CONTROLBAR:ToolTipRivendellGandalfYouShallNotPass
@@ -64095,12 +64095,12 @@ OBJECT:DwarvenMoriaPillarDescription
 End
 
 CONTROLBAR:DwarvenTenacity
-"Dwarven Tenacity"
+"Ténacité naine"
 END
 
 CONTROLBAR:ToolTipDwarvenTenacity
-//"Requires Level 2 \n Erebor Warriors' regular attacks deal minor splash damage \n Passive ability"
-"Requires Level 4 \n For 15 seconds, Âzagh-baruk gain +10% armor per hit\nCan stack five times\nLeft click to activate"
+//"Requiert Niveau 2 \n Les attaques de base des Guerriers d'Erebor infligent des dégâts mineurs de zone \n Capacité passive"
+"Requiert Niveau 4 \n Pendant 15 secondes, les Âzagh-baruk gagnent +10% d'armure par frappe\nPeut se cumuler 5 fois\nClic gauche pour activer"
 END
 
 OBJECT:EreborRoac
@@ -64124,11 +64124,11 @@ OBJECT:EreborArcah
 END
 
 CONTROLBAR:EreborArcahRecruit
-"Recruit the Lady of the Ravens, Daughter of Roäc \n \n For centuries, the Dwarves of Erebor have maintained a close friendship to the ravens of the Lonely Mountain, employing them as messengers and heeding their wise counsel."
+"Recrutez la Dame des Corbeaux, Fille de Roäc \n \n Pendant des siècles, les Nains d'Erebor ont maintenu une étroite amitié avec les corbeaux de la Montagne Solitaire, les employant comme messagers et tenant compte de leurs sages conseils."
 END
 
 CONTROLBAR:EreborArcahRevive
-"Revive the fallen raven, Arcah"
+"Ressuscitez l'héroïne déchue, Arcah"
 END
 
 CONTROLBAR:EreborArcahHotkey
@@ -64160,27 +64160,27 @@ CONTROLBAR:ToolTipRoacLordofRavens
 End
 
 CONTROLBAR:PromoteArcahToLevel3
-"&Lady of Ravens"
+"&Dame des Corbeaux"
 End
 
 CONTROLBAR:ToolTipPromoteArcahToLevel3
-"Allows Arcah to grow in strength \n Left click to purchase upgrade \n\n Modifier Type: Leadership \n Rank 1: Allied units near Arcah gain +5% Speed\n Rank 3: Allied heroes near Arcah gain +10% experience gain\n Rank 5: Allied units near Arcah gain +10% Speed\n Stacks with Buffs and Spells \n Passive ability"
+"Permet à Arcah de renforcer ses pouvoirs \n Clic gauche pour acheter une amélioration \n\n Type d'action: Charisme \n Niveau 1: Les unités alliées proches d'Arcah gagnent +5% de vitesse\n Niveau 3: Les héors alliés près d'Arcah gagnent +10% d'expérience\n Niveau 5: Les unités alliées près d'Arcah gagnent +10% de vitesse\n Se cumule avec les renforcements et les sorts \n Capacité passive"
 End
 
 CONTROLBAR:PromoteArcahToLevel5
-"&Lady of Ravens"
+"&Dame des Corbeaux"
 End
 
 CONTROLBAR:ToolTipPromoteArcahToLevel5
-"Allows Arcah to grow in strength \n Left click to purchase upgrade\n\n Modifier Type: Leadership \n Rank 1: Allied units near Arcah gain +5% Speed\n Rank 3: Allied heroes near Arcah gain +10% experience gain\n Rank 5: Allied units near Arcah gain +10% Speed\n Stacks with Buffs and Spells \n Passive ability"
+"Permet à Arcah de renforcer ses pouvoirs \n Clic gauche pour acheter une amélioration \n\n Type d'action: Charisme \n Niveau 1: Les unités alliées proches d'Arcah gagnent +5% de vitesse\n Niveau 3: Les héors alliés près d'Arcah gagnent +10% d'expérience\n Niveau 5: Les unités alliées près d'Arcah gagnent +10% de vitesse\n Se cumule avec les renforcements et les sorts \n Capacité passive"
 End
 
 CONTROLBAR:ArcahLadyofRavens
-"Lady of Ravens"
+"Dame des Corbeaux"
 End
 
 CONTROLBAR:ToolTipArcahLadyofRavens
-"Modifier Type: Leadership \n Rank 1: Allied units near Arcah gain +5% Speed\n Rank 3: Allied heroes near Arcah gain +10% experience gain\n Rank 5: Allied units near Arcah gain +10% Speed\n Stacks with Buffs and Spells\n Passive ability"
+"Type d'action: Charisme \n Niveau 1: Les unités alliées proches d'Arcah gagnent +5% de vitesse\n Niveau 3: Les héors alliés près d'Arcah gagnent +10% d'expérience\n Niveau 5: Les unités alliées près d'Arcah gagnent +10% de vitesse\n Se cumule avec les renforcements et les sorts \n Capacité passive"
 End
 
 CONTROLBAR:RoacLeadership
@@ -64192,7 +64192,7 @@ CONTROLBAR:ToolTipRoacLeadership
 End
 
 CONTROLBAR:ToolTipArcahLeadership
-"Arcah becomes invisible while remaining still\n Arcah detects stealthed units \nPassive ability"
+"Arcah devient invisible tant qu'elle reste immobile\n Arcah détecte les unités furtives \nCapacité passive"
 End
 
 CONTROLBAR:RoacLeadership2
@@ -64204,7 +64204,7 @@ CONTROLBAR:ToolTipRoacLeadership2
 End
 
 CONTROLBAR:ToolTipArcahLeadership2
-"Requires Level 3 \n Modifier Type: Passive Debuff\n Enemies under Arcah lose -15% Speed\n Passive ability"
+"Requiert : niveau 3 \n Type d'Action : Pénalité passive\n Roäc perturbe les déplacements des ennemis des Nains : les ennemis situés sous elle perdent -15% vitesse\n Capacité passive"
 End
 
 CONTROLBAR:RoacWisdom
@@ -64224,7 +64224,7 @@ CONTROLBAR:ToolTipRoacMessenger
 END
 
 CONTROLBAR:ToolTipArcahMessenger
-"Requires Level 5 \n Summons a battalion of Barding Outriders \n Left click icon then left click on pathable location"
+"Requiert : niveau 5 \n Invoque un bataillon de cavaliers de Bard \n Clic gauche sur l'icône puis clic gauche sur une zone praticable"
 END
 
 UPGRADE:RoacLevel3
@@ -64232,7 +64232,7 @@ UPGRADE:RoacLevel3
 END
 
 TOOLTIP:RoacLevel3
-"Roäc Upgrade"
+"Roäc amélioré"
 END
 
 UPGRADE:RoacLevel5
@@ -64516,11 +64516,11 @@ CONTROLBAR:GildorExiles
 END
 
 CONTROLBAR:TooltipGildorExiles
-"Requiert : Niveau 3 \n Gildor summons a single group of Ñoldor Exiles to his side \n Clic gauche icon to activate \n\nRequiert : Niveau 8 \n Gildor summons three groups of Ñoldor Exiles to his side \n Clic gauche icon to activate"
+"Requiert : Niveau 3 \n Gildor invoque un bataillon de Noldors en exil à ses côtés \n Clic gauche sur l'icône pour activer \n\nRequiert : Niveau 8 \n Gildor invoque trois bataillons de Noldors en exil à ses côtés \n Clic gauche sur l'icône pour activer"
 END
 
 CONTROLBAR:TooltipGildorExiles_Campaign
-"Gildor summons a single group of Ñoldor Exiles to his side \n Clic gauche icon to activate \n\nRequiert : Niveau 8 \n Gildor summons three groups of Ñoldor Exiles to his side \n Clic gauche icon to activate"
+"Gildor invoque un bataillon de Noldors en exil à ses côtés \n Clic gauche sur l'icône pour activer \n\nRequiert : Niveau 8 \n Gildor invoque trois bataillons de Noldors en exil à ses côtés \n Clic gauche sur l'icône pour activer"
 END
 
 CONTROLBAR:GildorTelperion
@@ -64939,11 +64939,11 @@ CONTROLBAR:ToolTipArwenImage
 End
 
 CONTROLBAR:DaughterElrond
-"Daughter of Elrond"
+"Fille d'Elrond"
 END
 
 CONTROLBAR:ToolTipDaughterElrond
-"Arwen can target units to decrease their speed by 5% up to 25%\nand buildings to decrease their armor by 5% up to 25%\n Passive ability"
+"Arwen peut cibler les unités ennemies pour baisser leur vitesse de 5% jusqu'à un maximum de 25%\nainsi que les batiments pour réduire leur armure de 5% jusqu'à un maximum de 25%\n Capacité passive"
 END
 
 //==========================Glorfindel==============================
@@ -64989,15 +64989,15 @@ CONTROLBAR:DwarvenDainHotkey
 END
 
 CONTROLBAR:DwarvenKingDainRecruit
-"Recruit Dáin Ironfoot, King Under the Mountain \n \n 'I should call that a heavy loss, if it was not a wonder rather that in his great age he could still wield his axe as mightily as they say that he did, standing over the body of King Brand before the Gate of Erebor until the darkness fell.'"
+"Recrutez Dain Pied d'Acier, Roi sous la Montagne \n \n 'J'appellerais cela une lourde perte, si ce n'était pas plutôt un miracle qu'à son grand âge il puisse encore manier sa hache aussi puissamment qu'on le dit, se tenant au-dessus du corps du roi Brand devant la porte d'Erebor jusqu'à ce que l'obscurité tombe.'"
 END
 
 CONTROLBAR:DwarvenKingDainRevive
-"Revive the fallen Hero, King Dáin"
+"Ressuscitez le héros déchu, le Roi Dáin"
 END
 
 CONTROLBAR:DwarvenKingDainHotkey
-"King Dáin"
+"Roi Dain"
 END
 
 //////////////
@@ -67057,11 +67057,11 @@ CONTROLBAR:ConstructRohanWindmill
 END
 
 CONTROLBAR:ToolTipConstructRohanWindmill
-"Produit du Pain comme ressource selon le terrain disponible \n Réduit le coût de l'infantrie \n Augmente la limite de points de commandement de 50"
+"Produit du Pain comme ressource selon le terrain disponible \n Réduit le coût de l'infanterie \n Augmente la limite de points de commandement de 50"
 END
 
 CONTROLBAR:ToolTipDescriptionRohanWindmill
-"Génère des ressources selon le terrain disponible \n Bonus de Pain - Réduit le coût de l'infantrie \n 2 Moulin à Vent : 5% \n 3 Moulin à Vent : 10% \n 4 Moulin à Vent : 15% \n 5 Moulin à Vent : 20% \n 6+ Moulin à Vent : 25% \n Augmente la limite de points de commandement de 50"
+"Génère des ressources selon le terrain disponible \n Bonus de Pain - Réduit le coût de l'infanterie \n 2 Moulin à Vent : 5% \n 3 Moulin à Vent : 10% \n 4 Moulin à Vent : 15% \n 5 Moulin à Vent : 20% \n 6+ Moulin à Vent : 25% \n Augmente la limite de points de commandement de 50"
 END
 
 OBJECT:RohanStablesDescription
@@ -67381,7 +67381,7 @@ CONTROLBAR:ErkenbrandLeadership
 END
 
 CONTROLBAR:ToolTipErkenbrandLeadership
-"Requiert : Niveau 5 \n Type d'Action : Charisme \n Les Ouestfoldes proche d'Erkenbrand gagnent +33% d'Armoure \n S'accumule avec les Bonus et les Sorts \n Capacité passive"
+"Requiert : Niveau 5 \n Type d'Action : Charisme \n Les Guerriers du Ouestfolde proche d'Erkenbrand gagnent +33% d'Armure \n S'accumule avec les Bonus et les Sorts \n Capacité passive"
 END
 
 CONTROLBAR:ErkenbrandReinforcements
@@ -67397,7 +67397,7 @@ CONTROLBAR:GrimboldLeadership
 END
 
 CONTROLBAR:ToolTipGrimboldLeadership
-"Requiert : Niveau 5 \n Type d'Action : Charisme \n Les unités d'Infantrie à proximité gagnent +33% d'Armure et +33% de Dégâts \n S'accumule avec les Bonus et les Sorts \n Capacité passive"
+"Requiert : Niveau 5 \n Type d'Action : Charisme \n Les unités d'Infanterie à proximité gagnent +33% d'Armure et +33% de Dégâts \n S'accumule avec les Bonus et les Sorts \n Capacité passive"
 END
 
 CONTROLBAR:GrimboldProtection
@@ -68277,7 +68277,7 @@ CONTROLBAR:CarasGaladhonLeadership
 END
 
 CONTROLBAR:TooltipCarasGaladhonLeadership
-"Type d'Action : Charisme \n Les Sentinelles gagnent +15% Armure près des Structures \n et donnent aux Structures proches +50% Armure \n Se cumule avec les Bonus et les Sorts \n \n Capacité Passive"
+"Type d'Action : Charisme \n Les Sentinelles gagnent +15% d'armure près des Structures \n et donnent aux Structures proches +50% Armure \n Se cumule avec les Bonus et les Sorts \n \n Capacité Passive"
 END
 
 CONTROLBAR:PurchaseTunnelCollapse
@@ -68409,7 +68409,7 @@ CONTROLBAR:MarkOfFreca
 END
 
 CONTROLBAR:ToolTipMarkOfFreca
-"Requiert : Niveau 6 \n Les Helmingas donnent la Marque de Freca à une unité ennemi, \n ce qui la fait fuir de peur et elle perd -33% Armure \n Clic gauche sur l'icône puis clic gauche sur l'unité ciblée"
+"Requiert : Niveau 6 \n Les Helmingas donnent la Marque de Freca à une unité ennemie, \n ce qui la fait fuir de peur et elle perd -33% Armure \n Clic gauche sur l'icône puis clic gauche sur l'unité ciblée"
 END
 
 CONTROLBAR:SurrenderArms
@@ -68608,7 +68608,7 @@ CONTROLBAR:CampaignSpawnTornado
 End
 
 CONTROLBAR:TooltipCampaignSpawnTornado
-"Invoque une Tornade destructive sur le champ de bataille pour une longue durée \n Clic gauche sur l'icône puis clic gauche sur la zone ciblée"
+"Invoque une Tornade destructrice sur le champ de bataille pour une longue durée \n Clic gauche sur l'icône puis clic gauche sur la zone ciblée"
 End
 
 CONTROLBAR:CampaignGloriousCharge
@@ -68768,7 +68768,7 @@ CONTROLBAR:LoneScoutLeadership
 END
 
 CONTROLBAR:TooltipLoneScoutLeadership
-"Type d'Action : Bonus \n Le Cavalier accord aux unités proches +15% de vitesse \n S'accumule avec le Charisme et les Sorts \n \n Capacité passive"
+"Type d'Action : Bonus \n Le Cavalier accorde aux unités proches +15% de vitesse \n S'accumule avec le Charisme et les Sorts \n \n Capacité passive"
 END
 
 CONTROLBAR:FrodoMithrilShirt
@@ -69068,23 +69068,23 @@ OBJECT:HordeGuldurHarbinger
 END
 
 OBJECT:GuldurUnburiedWight
-"Créature Déterrée"
+"Fantôme d'Outre-Tombe"
 END
 
 OBJECT:GuldurUnburiedWightHorde
-"Créatures Déterrées"
+"Fantômes d'Outre-Tombe"
 END
 
 CONTROLBAR:ConstructUnburiedWight
-"Créatures &Déterrées"
+"Fantômes d'Outre-Tombe"
 END
 
 CONTROLBAR:ToolTipBuildGuldurUnburiedWight
-"Le Nécromancien doit être recruté\n Unité spéciale\nForte contre les unités d'élites et les unités améliorées \n Limitée à 3 \n\n Dans les nuits brumeuses, de sombres choses chassent sur les collines et les bois de la Vallé de l'Anduin. Les Bûcherons disent qu'ils furent autre fois de nobles seigneurs du Rhovanion, mais que leurs os appartiennent désormais à la volonté du Nécromancien."
+"Le Nécromancien doit être recruté\n Unité spéciale\nForte contre les unités d'élites et les unités améliorées \n Limitée à 3 \n\n Dans les nuits brumeuses, de sombres choses chassent sur les collines et les bois de la Vallée de l'Anduin. Les Bûcherons disent qu'ils furent autrefois de nobles seigneurs du Rhovanion, mais que leurs os appartiennent désormais à la volonté du Nécromancien."
 END
 
 CONTROLBAR:ToolTipBuildGuldurUnburiedWight_WOTR
-"Unité spéciale\nForte contre les unités d'élites et les unités améliorées \n Limitée à 3 \n\n Dans les nuits brumeuses, de sombres choses chassent sur les collines et les bois de la Vallé de l'Anduin. Les Bûcherons disent qu'ils furent autre fois de nobles seigneurs du Rhovanion, mais que leurs os appartiennent désormais à la volonté du Nécromancien."
+"Unité spéciale\nForte contre les unités d'élites et les unités améliorées \n Limitée à 3 \n\n Dans les nuits brumeuses, de sombres choses chassent sur les collines et les bois de la Vallée de l'Anduin. Les Bûcherons disent qu'ils furent autrefois de nobles seigneurs du Rhovanion, mais que leurs os appartiennent désormais à la volonté du Nécromancien."
 END
 
 CONTROLBAR:ConstructGuldurRisenDeadHorde
@@ -70507,7 +70507,7 @@ CONTROLBAR:MordorFortressMorgulSpire
 END
 
 CONTROLBAR:ToolTipMordorFortressMorgulSpire
-"Requiert : Flèche de Morgul amélioré \n Tous les orques sur le champs de bataille gagnent 15% de vitesse et 25% d'armure pour un court instant \n durant ce temps toutes les structures de ressources amies sont désactivées \n Clic gauche pour activer"
+"Requiert : Flèche de Morgul amélioré \n Tous les orques sur le champ de bataille gagnent 15% de vitesse et 25% d'armure pour un court instant \n durant ce temps toutes les structures de ressources amies sont désactivées \n Clic gauche pour activer"
 END
 
 CONTROLBAR:GuldurSpireBlight
@@ -70572,42 +70572,42 @@ CONTROLBAR:ToolTipChitteringSwarm
 END
 
 CONTROLBAR:BitingCold
-"Biting Cold"
+"Froid mordant"
 END
 
 CONTROLBAR:ToolTipBitingCold
-"Nearby enemy units suffer -10% armor and damage\n Debuff increases by 10% with every time Unburied Wights gain a level\nPassive ability"
+"Les unités ennemies proches se voient infliger -10% d'armure et de dégâts\n Ce malus augmente de 10% chaque fois que les Fantômes d'Outre-Tombe montent de niveau\nCapacité passive"
 END
 
 CONTROLBAR:RavenousHunger
-"Ravenous Hunger"
+"Une Faim de loup"
 END
 
 CONTROLBAR:ToolTipRavenousHunger
-"Requires Level 2 \n Attacks against living units restore health to the Unburied Wights\nPassive ability"
+"Requiert niveau 2 \n Chaque attaque portée contre des unités vivantes restaure la santé des Fantômes d'Outre-Tombe\nCapacité passive"
 END
 
 CONTROLBAR:BlackWinds
-"Black &Winds"
+"Vents Ténébreux"
 END
 
 CONTROLBAR:ToolTipBlackWinds
-"Requires Level 3\nFor 10 seconds, the Unburied Wights gain\n+300% armor, +200% damage, +50% speed and fear immunity\nAfter 10 seconds, the Unburied Wights battalion\nis destroyed\nNearby enemies take damage\nand temporarily lose -15% damage and armour\nLeft click to activate"
+"Requiert niveau 3\nPendant 10 secondes, Les Fantômes d'Outre-Tombe gagnent\n+300% d'armure, +200% de dégâts, +50% de vitesse et sont immunisés à la peur\nAprès 10 secondes, Le bataillon de Fantômes d'Outre-Tombe \nest détruit\nLes unités proches se voient infliger des dégâts\net perdent temporairement -15% d'attaque et d'armure\nClic gauche pour activer"
 END
 
 CONTROLBAR:BTKhazadBannerUpgradedPillar
-"Maison Ancestral"
+"Maison Ancestrale"
 END
 
 CONTROLBAR:ToolTipBTKhazadBannerUpgradedPillar
-"Type d'Action : Sort \n Les alliés près du pilier deviennet immunisés contre la peur et la terreur \n S'accumule avec les sorts, les avantages, les dirigeants \n Capacité Passive"
+"Type d'Action : Sort \n Les alliés près du pilier deviennent immunisés contre la peur et la terreur \n S'accumule avec les sorts, les renforcements et le Charisme \n Capacité Passive"
 END
 CONTROLBAR:PurchaseUpgradeFountofCorruptionLevel2
 "Améliore la So&urce de Corruption au niveau 2"
 END
 
 CONTROLBAR:ToolTipBuildFountofCorruptionLevel2
-"Augmente la production de ressource \n Permet la formation des trappeurs compromis"
+"Augmente la production de ressources \n Permet la formation des trappeurs compromis"
 END
 
 CONTROLBAR:PurchaseUpgradeFountofCorruptionLevel3
@@ -70619,19 +70619,19 @@ CONTROLBAR:ToolTipBuildFountofCorruptionLevel3
 END
 
 CONTROLBAR:BuildPlotLargeUmbarBallista
-"Construire une baliste Umbarien"
+"Construire une baliste Umbarienne"
 END
 
 CONTROLBAR:ToolTipBuildPlotLargeUmbarBallista
-"Construire une baliste Umbarien sur la plate-forme"
+"Construire une baliste Umbarienne sur la plate-forme"
 END
 
 CONTROLBAR:BuildPlotSmallUmbarBallista
-"Construire une petite baliste Umbarien"
+"Construire une petite baliste Umbarienne"
 END
 
 CONTROLBAR:ToolTipBuildPlotSmallUmbarBallista
-"Construire une petite baliste Umbarien sur la plate-forme"
+"Construire une petite baliste Umbarienne sur la plate-forme"
 END
 
 CONTROLBAR:PurchaseUpgradeSentryTowerHiddenSentry
@@ -71282,7 +71282,7 @@ CONTROLBAR:PurchaseUpgradeMirkwoodFortressEmperorProtection
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeElvenFortressEmperorProtection
-"Débloque l'abilité de la Protection de l'Empereur, qui quand elle est activée donne temporairement aux batiments dans un large périmètre autour de la forteresse +150% d'Armure contre les dégats d'armes de siège, de feu et magique\nN'affecte pas les structures invoquées"
+"Débloque l'habileté Protection de l'Empereur, qui quand elle est activée donne temporairement aux batiments dans un large périmètre autour de la forteresse +150% d'Armure contre les dégats d'armes de siège, de feu et magique\nN'affecte pas les structures invoquées"
 END
 
 CONTROLBAR:EmperorProtection
@@ -71370,7 +71370,7 @@ CONTROLBAR:WoodlandAttire
 END
 
 CONTROLBAR:TooltipWoodlandAttire
-"Les Chasseurs Sylvain sont des unités de reconnaissance rapide qui gagnent des ressources\n en tuant des ennemis\n abilité passive\n\nQuand elle est activé, les Chasseurs deviennent furtifs pendant 30 secondes et ne peuvent être attaqués ni attaquer\n Clic gauche sur l'icône pour l'activer"
+"Les Chasseurs Sylvain sont des unités de reconnaissance rapides qui gagnent des ressources\n en tuant des ennemis\n abilité passive\n\nQuand elle est activé, les Chasseurs deviennent furtifs pendant 30 secondes et ne peuvent être attaqués ni attaquer\n Clic gauche sur l'icône pour l'activer"
 END
 
 CONTROLBAR:HuntingSnare
@@ -71622,7 +71622,7 @@ CONTROLBAR:ConstructMirkwoodSpearHorde
 END
 
 CONTROLBAR:ToolTipBuildMirkwoodSpearHorde
-"Requiert : Niveau 2 Clairière Sylvaine \nThe lamaethyr - Lances-guerriers\nFort contre Cavalerie & Monstres \n Peut se camoufler près des arbres"
+"Requiert : Niveau 2 Clairière Sylvaine \nThe lamaethyr - guerriers à lances\nFort contre Cavalerie & Monstres \n Peut se camoufler près des arbres"
 END
 
 OBJECT:MirkwoodOutrider
