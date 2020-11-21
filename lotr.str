@@ -60174,7 +60174,7 @@ CONTROLBAR:ToolTipSpecialAbilitySmeagolWring
 END
 
 CONTROLBAR:SmeagolTenacious
-"Creature tenace"
+"Créature tenace"
 END
 
 CONTROLBAR:TooltipSmeagolTenacious
@@ -60271,7 +60271,7 @@ CONTROLBAR:HaldirLeadership
 END
 
 CONTROLBAR:ToolTipHaldirLeadership
-//"Requiert : niveau 3\n Nearby Sindarin Warriors and Sentinals of Cerin Armoth gain +33% dégâts et +33% armure\n\n Capacité passive"
+//"Requiert : niveau 3\n Les guerrierd Sindar et les Sentinelles de Cerin Amroth proches gagnent +33% dégâts et +33% armure\n\n Capacité passive"
 "Requiert : niveau 6\n Type d'Action : Niveau et Charisme\n Haldir porte son armure lourde de bataille et gagne +50% armure de façon permanente, et les alliés proches de lui gagnent +33% dégâts et +33% armure (bonus cumulable).\n\n Capacité passive"
 END
 
@@ -60348,11 +60348,11 @@ CONTROLBAR:RadagastSiphonLeadership
 END
 
 CONTROLBAR:ToolTipRadagastSiphonLeadership
-"Requiert : niveau 5 \n Radagast soigne de façon continue les unités et héros alliés proches.\n\n Capacité passive"
+"Requiert : Niveau 5 \n Radagast soigne de façon continue les unités et héros alliés proches.\n\n Capacité passive"
 END
 
 CONTROLBAR:ToolTipRadagastSiphonWitchcraft
-"Required: Rank 6 \n Radagast continously heals nearby friendly heroes and units \n Passive ability"
+"Requiert: Niveau 6 \n Radagast soigne de façon continue les unités et héros alliés proches \n Capacité passive"
 END
 
 CONTROLBAR:RadagastSummonFamiliar
@@ -62806,19 +62806,19 @@ CONTROLBAR:ToolTipBardLeadership
 END
 
 CONTROLBAR:BrandSlamArrow
-"Black A&rrow of Dale"
+"Flèche Noire de Dale"
 END
 
 CONTROLBAR:ToolTipBrandSlamArrowNew
-"Requires Level 2 \nA precise arrow shot that does increased damage \n At level 5, knocks targeted units back \n At level 8, targeted units and heroes lose -33% Armor \n Left click icon then left click on target unit"
+"Requiert Niveau 2 \nUn tir de flèche précis qui augmente les dégâts \n Au niveau 5, les unités ennemies sont repoussées en arrière \n Au niveau 8, Les héros et unités ciblés perdent -33% d'armure \n Clic gauche sur l'icône puis clic gauche sur la cible"
 End
 
 CONTROLBAR:BrandPommelStrike
-"&Pommel Strike"
+"Frappe désarçonnante"
 END
 
 CONTROLBAR:ToolTipBrandPommelStrike
-"Requires Level 2\n A strike that deals increased damage \n At level 5, knocks targeted units back \n At level 8, targeted enemy unit or hero is temporarily crippled \n Left click icon then left click on target"
+"Requiert niveau 2\n Un tir puissant qui accroît les dommages \n Au niveau 5, repoussent en arrière les unités ciblées \n Au niveau 8, les héros et unités ciblés sont temporairement paralysés \n Clic gauche sur l'icône puis clic gauche sur la cible"
 END
 
 CONTROLBAR:BrandDeadEye
@@ -62862,15 +62862,15 @@ CONTROLBAR:ToolTipBalinCounselorOfKings
 END
 
 CONTROLBAR:BalinFlag
-"Ba&lin's Expedition"
+"Expédition de Balin"
 END
 
 CONTROLBAR:TooltipBalinFlag
-"Requires Level 5 \n Balin plants a banner of Durin. \n Nearby troops gain +50% experience gain, +25% armor, +33% damage and are partially healed. \n At level 10, affected units are immune to knockback and are healed by a larger amount."
+"Requiert niveau 5 \n Balin plante une bannière de Durin. \n Les troupes proches gagnent +50% d'expérience, +25% d'armure, +33% de dégâts et sont partiellement soignées. \n Au niveau 10, les unités alliées sont immunisées au renversement et sont bien mieux soignées."
 END
 
 OBJECT:BalinBanner
-"Banner of Durin"
+"Bannière de Durin"
 END
 
 CONTROLBAR:FlashFlame
@@ -63080,7 +63080,7 @@ CONTROLBAR:LW_Unit_MenofDaleSwordComboHordePlural
 END
 
 CONTROLBAR:LW_ToolTip_MenofDaleSwordHorde
-"\nType d'unité : Elite Infantrie\nForts contre les piquiers"
+"\nType d'unité : Infanterie d'élite\nForts contre les piquiers"
 END
 
 CONTROLBAR:ToolTipBuildMenofDaleSwordHorde
@@ -63093,55 +63093,55 @@ END
 
 //------------ Barding Cavalry ---------------
 OBJECT:BardingCavalry
-"Barding Outrider"
+"Cavaliers de Bard"
 END
 
 OBJECT:HordeBardingCavalry
-"Barding Outriders"
+"Cavaliers de Bard"
 END
 
 CONTROLBAR:LW_Unit_BardingCavalryHorde
-"Barding Outrider Battalion"
+"Bataillon de Cavaliers de Bard"
 END
 
 CONTROLBAR:LW_ToolTip_BardingCavalryHorde
-"\nUnit Type: Elite Cavalry\nStrong vs. Archer"
+"\nType d'unité: Cavalerie d'élite\nForts contre les archers"
 END
 
 //------------ Laketown Bowmen ---------------
 OBJECT:LaketownBowman
-"Laketown Bowman"
+"Archers de Lacville"
 END
 
 OBJECT:LaketownBowmenHorde
-"Laketown Bowmen"
+"Archers de Lacville"
 END
 
 CONTROLBAR:ConstructDwarvenLaketownBowmenHorde
-"Laketown Bo&wmen"
+"Archers de Lacville"
 END
 
 CONTROLBAR:ToolTipBuildDwarvenLaketownBowmenHorde
-"Basic Fast-moving Archers \n Strong vs. Infantry \n\n Horde Bonus \n Modifier Type: Spell \n All Laketown Watchmen and Laketown Bowmen gain +25% damage and armour when gathered in numbers of 80 or more \n Stacks with buffs, Leadership and other spells \n \n With their long bows and tall helmets, the bowmen of Esgaroth keep alive the old Dalish tradition of keen marksmanship."
+"Archers basiques mais très mobiles \n Forts contre l'infanterie \n\n Bonus de horde \n Modifier Type: Sort \n Tous les piquiers et archers de Lacville gagnent +25% de dommages et d'armure lorsqu'ils sont rassemblés en nombre de 80 ou plus \n Se cumule avec les renforcements, Charisme et autres sorts \n \n Avec leurs longs arcs et leurs grands casques, les archers d'Esgaroth font prospérer la vieille tradition des tireurs d'élite de Dale."
 END
 //------------ Laketown Guards ---------------
 OBJECT:LaketownGuard
-"Guard of the Master"
+"Garde du Maître"
 END
 OBJECT:LaketownGuardHorde
-"Guards of the Master"
+"Gardes du Maître"
 END
 CONTROLBAR:ConstructLaketownGuardHorde
-"Guard&s of the Master"
+"Gard&e du Maître"
 END
 CONTROLBAR:ToolTipBuildLaketownGuardHorde
-"Requires Level 2 Erebor Assembly \n Strong vs. Pikemen \n \n Tasked with the special protection of the Master of Laketown, these privileged sentries are granted authority and luxury that few civilians can afford."
+"Requiert niveau 2 Assemblée d'Erebor \n Forts contre les piquiers \n \n Chargés de la protection spéciale du Maître de Lacville, ces sentinelles privilégiées bénéficient d'une autorité et d'un luxe que peu de civils peuvent s'offrir."
 END
 CONTROLBAR:SearchWarrant
-"Search War&rant"
+"Rechercher le Mandat"
 END
 CONTROLBAR:ToolTipSearchWarrant
-"Requires Level 3\nDisables enemy structures and deals minor damage over time\n Left click icon then left click on target"
+"Requiert niveau 3\nDésactive les structures ennemies et leur inflige des dégâts mineurs au cours du temps\n Clic gauche sur l'icône puis clic gauche sur la cible"
 END
 
 //------------ Zirak-burkûn ---------------
@@ -63154,15 +63154,15 @@ CONTROLBAR:ConstructZirakBurkun
 END
 
 CONTROLBAR:ToolTipBuildZirakBurkun
-"Support single unit \n Provides leadership to nearby Dwarves \n \n NEEDS LORE ENTRY"
+"Unité de soutien individuelle \n Fournit du charisme aux unités proches \n \n NEEDS LORE ENTRY"
 END
 
 CONTROLBAR:VeteranWarrior
-"Veteran Warrior"
+"Guerrier vétéran"
 END
 
 CONTROLBAR:ToolTipVeteranWarrior
-"Nearby Dwarves receive +10% damage, +10% experience, and +5% increased range. \n Increases by 5% each time the Zirak-burkûn ranks up. \n Passive ability"
+"Les Nains à proximité reçoivent +10% de dégâts, +10% d'experience, et +5% de portée d'attaque. \n Cela s'accroît de 5% chaque fois qu'un Zirak-burkûn gagne un niveau. \n Capacité passive"
 END
 
 //------------ Khazâd-uzbadul ---------------
@@ -63179,27 +63179,27 @@ CONTROLBAR:ConstructKhazadUzbadulHorde
 END
 
 CONTROLBAR:ToolTipBuildKhazadUzbadulHorde
-"Dwarves of the Lord \n Requires Level 3 Erebor Redoubt \n Limited to 3 \n Powerful slow-moving elite infantry \nStrong vs. Infantry \n \n Battle-hardened and unyielding, the Khazad Guard are royal wardens of the Throne of Erebor, tasked with keeping safe the Dwarf-lords under the Mountain."
+"Nains du Seigneur \n Requiert Niveau 3 Redoute d'Erebor \n Limité à 3 \n Puissante et lente infanterie d'élite \nForts contre l'infanterie \n \n Aguerris et inébranlables, les Gardes de Khazad sont les gardiens royaux du Trône d'Erebor, chargés de protéger les Seigneurs Nains sous la Montagne."
 END
 
 CONTROLBAR:ToolTipToggleKhazadUzbadulFormation
-"Khazâd-uzbadul form up into a schiltron formation \n +20% Attack Damage, +30% Armour, -40% Speed"
+"Les Khazâd-uzbadul mettent en place une formation Schiltron \n +20% de dégâts, +30% d'armure, -40% de vitesse"
 END
 
 CONTROLBAR:RisingAnger
-"Rising Anger"
+"Colère Grandissante"
 END
 
 CONTROLBAR:ToolTipRisingAnger
-"Consecutive attacks temporarily increase attack damage by 5% up to a maximum of 25% \n Passive ability"
+"Les attaques consécutives accroissent temporairement les dégâts d'attaque jusqu'à un maximum de 25% \n Capacité passive"
 END
 
 CONTROLBAR:SpecialAbilityStaunchDefender
-"Sta&unch Defenders"
+"Défenseurs acharnés"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityStaunchDefender
-"Heroes nearby the Khazâd-uzbadul are granted +5% armour and damage \n Passive ability \n \n At level 3 can be activated to pull enemies nearby the Khazâd-uzbadul towards them \n Left click to activate"
+"Les héros proches des Khazâd-uzbadul gagnent +5% d'armure et de dégâts \n Capacité passive \n \n Au niveau 3, peut être activé pour attirer les ennemis proches des Khazâd-uzbadul vers eux  \n Clic gauche pour activer"
 END
 
 //------------ Armed Miners ---------------
@@ -63213,13 +63213,13 @@ CONTROLBAR:ConstructDwarvenMinerHorde
 "U&thâk"
 END
 CONTROLBAR:ToolTipBuildDwarvenMiner
-"Armed Miners \n\n Horde Bonus \n Modifier Type: Spell \n All Miners gain +25% damage and +25% armor when gathered in numbers of 30 or more \n Stacks with buffs, Leadership and other spells\n\n NEEDS LORE ENTRY"
+"Mineurs armés \n\n Horde Bonus \n Modifier Type: Sort \n Tous les mineurs gagnent +25% de dégâts et +25% d'armure quand ils sont rassemblés en nombre de 30 ou plus \n Cumule avec les renforcements, Charisme et autres sorts\n\n NEEDS LORE ENTRY"
 END
 CONTROLBAR:DwarvenProspectors
-"Prospectors"
+"Prospecteurs"
 END
 CONTROLBAR:ToolTipDwarvenProspectors
-"Requires Level 2 \n Nearby Dwarven Mines generate +3% resources \n Passive ability"
+"Requiert niveau 2 \n Les mines naines proches génèrent +3% de ressources \n Capacité passive"
 END
 //------------ Ered Luin Rangers ---------------
 OBJECT:EredLuinRanger
@@ -63232,19 +63232,19 @@ CONTROLBAR:ConstructEredLuinRangerHorde
 "Huruz-&Khagal-zirak"
 END
 CONTROLBAR:ToolTipBuildEredLuinRangerHorde
-"Ered Luin Rangers \n Requires Level 2 Erebor Assembly \n Fast Moving, Hard Hitting Infantry \nStrong vs. Archers\n Can Stealth Near Trees \n \n The sprawling forests that covered the long foothills of the Blue Mountains were kept safe by keen-eyed Dwarven rangers."
+"Patrouilleurs de l'Ered Luin \n Requiert Niveau Assemblée d'Erebor \n Une infanterie qui se déplace vite et qui frappe fort \nForts contre les archers\n Peuvent se camoufler près des arbres\n \n Les forêts tentaculaires qui couvraient les longs contreforts des Montagnes Bleues étaient protégées par des patrouilleurs nains aux yeux perçants."
 END
 CONTROLBAR:SecretWays
-"Secret Ways"
+"Chemins secrets"
 END
 CONTROLBAR:TooltipSecretWays
-"Huruz-Khagal-zirak are stealthed near trees\n They deal double damage when flanking and attacking from behind \n Passive ability \n \n When activated, Rangers gain +10% speed and 50% armour against arrows\nLeft click icon to activate"
+"Les Huruz-Khagal-zirak sont camouflés près des arbres\n Ils infligent des dommages doubles lorsqu'ils attaquent par le flanc et l'arrière \n Capacité passive \n \n Quand elle est activée, les Patrouilleurs gagnent +10% de vitesse et +50% d'armure contre les flèches\nClic gauche sur l'icône pour activer"
 END
 CONTROLBAR:DwarvenWile
-"Dwar&ven Wile"
+"Nains rusés"
 END
 CONTROLBAR:ToolTipDwarvenWile
-"Requires Level 5 \n Huruz-Khagal-zirak lay down an assortment of tripwires, caltrops and pitfalls.\n Enemies that walk across are temporarily stunned \n Does not affect creeps\n Does not work on water\n\n Left click then left click target location"
+"Requiert niveau 5 \n Huruz-Khagal-zirak installent un assortiment de fils de détente, chausses-trappe et de pièges.\n Les ennemies qui marchent dessus sont instantanément paralysés \n N'affecte pas les antres\n Ne fonctionne pas sur l'eau\n\n Clic gauche puis clic gauche sur la zone cible"
 END
 
 //------------ Ered Luin Traders ---------------
