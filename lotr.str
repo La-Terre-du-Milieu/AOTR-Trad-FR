@@ -66645,11 +66645,11 @@ CONTROLBAR:LW_Structure_DwarvenWorkshop
 END
 
 CONTROLBAR:LW_ToolTipBuild_DwarvenWorkshop
-"Type de Structure: Armurie \n Accorde toutes les améliorations aux unités \n Permer la constructions des engins de siège"
+"Type de Structure: Armurerie \n Accorde toutes les améliorations aux unités \n Permet la constructions des engins de siège"
 END
 
 CONTROLBAR:LW_ToolTip_DwarvenWorkshop
-"Type de Structure:  Armurie \n Accorde toutes les améliorations aux unités \n Permer la constructions des engins de sièges"
+"Type de Structure:  Armurerie \n Accorde toutes les améliorations aux unités \n Permet la constructions des engins de siège"
 END
 
 CONTROLBAR:LW_Unit_DwarvenBatteringRam
@@ -67106,11 +67106,11 @@ CONTROLBAR:BountifulHarvest
 END
 
 CONTROLBAR:TooltipBountifulHarvest
-//"La production de ressources de la structure sélectionée est augmentée en permanence à 300% \n Clic gauche sur l'icône puis clic gauche sur cible une structure de ressource "
-//"+30% de ressources des mines Naines \n Pouvoir Passive"
-//"+25% de ressources des mines Naines \n Pouvoir Passive"
-//"+20% de ressources des mines Naines \n Pouvoir Passive"
-"+25% de ressources des fermes et des moulins à vent \n Pouvoir Passive"
+//"La production de ressources de la structure sélectionnée est augmentée en permanence à 300% \n Clic gauche sur l'icône puis clic gauche sur cible une structure de ressource "
+//"+30% de ressources des mines Naines \n Capacité passive"
+//"+25% de ressources des mines Naines \n Capacité passive"
+//"+20% de ressources des mines Naines \n Capacité passive"
+"+25% de ressources des fermes et des moulins à vent \n Capacité passive"
 END
 
 CONTROLBAR:RohanCloudBreak
@@ -67146,19 +67146,19 @@ CONTROLBAR:ToolTipSummonStormcrow
 END
 
 CONTROLBAR:ToolTipBuildRohanBarracksLevel2Upgrade
-"Permet l'entraînement des Ouestfoldes et la recherche d'amélioration des Lames Forgée \n +10% de vitesse de construction"
+"Permet l'entraînement des Guerrier du Ouestfolde et la recherche d'amélioration des Lames Forgée \n +10% de vitesse de construction"
 END
 
 CONTROLBAR:ToolTipBuildRohanBarracksLevel3Upgrade
-"Permet l'entraînement des Gardes Royaux d'Edoras, des Guerriers d'Helmingas \n et la recherche d'amélioration d'Armure Lourde  \n Au niveau 3 : +25% de vitesse de construction \n Ajoute une tour de flèche défensive"
+"Permet l'entraînement des Gardes Royaux d'Edoras, des Guerriers d'Helmingas \n et la recherche de l'amélioration Armure Lourde  \n Au niveau 3 : +25% de vitesse de construction \n Ajoute une tour de flèche défensive"
 END
 
 CONTROLBAR:ToolTipBuildRohanBarracksLevel3Upgrade_WOTR
-"Permet l'entraînement des Gardes Royaux d'Edoras et la recherche d'amélioration d'Armure Lourde \n Au niveau 3 : +25% de vitesse de construction \n Ajoute une tour de flèche défensive"
+"Permet l'entraînement des Gardes Royaux d'Edoras et la recherche de l'amélioration d'Armure Lourde \n Au niveau 3 : +25% de vitesse de construction \n Ajoute une tour de flèche défensive"
 END
 
 CONTROLBAR:ToolTipBuildRohanArcherRangeLevel2Upgrade
-"Permet l'entraînement des Gardiens d'Halifirien et la recherche d'amélioration des Flèches Enflammés \n +10% de vitesse de construction"
+"Permet l'entraînement des Gardiens d'Halifirien et la recherche de l'amélioration Flèches Enflammés \n +10% de vitesse de construction"
 END
 
 CONTROLBAR:ToolTipBuildRohanArcherRangeLevel3Upgrade
@@ -67635,11 +67635,11 @@ CONTROLBAR:ImladrisDunedainGarrison
 END
 
 CONTROLBAR:ToolTipImladrisDunedainGarrison
-"Stationne des sentinelles du Dúnedain permanentes à l'intérieur de la tour. \n Clic gauche to purchase"
+"Stationne des sentinelles du Dúnedain permanentes à l'intérieur de la tour. \n Clic gauche pour rechercher"
 END
 
 CONTROLBAR:ToolTipBuildImladrisBatteringRam
-"Requiert : Niveau 2 Campement \n Détruit les portes du château et les structures ennemies \n \n Un Bélier est un outil de base pour la guerre de siège. Facile à faire, et simple d'utilisation. La Simplicité, tout comme les hommes de Bree."
+"Requiert : Niveau 2 Campement \n Détruit les portes de château et les structures ennemies \n \n Un Bélier est un outil de base pour la guerre de siège. Facile à faire, et simple d'utilisation. La Simplicité, tout comme les hommes de Bree."
 END
 
 CONTROLBAR:ConstructRohanHelmingasWardenHorde
@@ -68570,11 +68570,11 @@ CONTROLBAR:ToolTipBuildWildMountainOrcScoutHorde
 END
 
 CONTROLBAR:ToolTipConstructGenericSentryTower
-"Tour défensive qui tire des flèches sur les ennemis proches \n Peut acceuillir des Archers pour augmenter les dégâts infligés"
+"Tour défensive qui tire des flèches sur les ennemis proches \n Peut accueillir des Archers pour augmenter les dégâts infligés"
 END
 
 OBJECT:GenericSentryTowerDescription
-"Tour défensive qui tire des flèches sur les ennemis proches \n Peut acceuillir des Archers pour augmenter les dégâts infligés"
+"Tour défensive qui tire des flèches sur les ennemis proches \n Peut accueillir des Archers pour augmenter les dégâts infligés"
 END
 
 CONTROLBAR:CampaignSpawnTornado
@@ -68706,19 +68706,19 @@ CONTROLBAR:LW_Unit_MountainOrcScoutHordePlural
 END
 
 CONTROLBAR:LW_ToolTipBuild_MountainOrcBruteHorde
-"Type d'unité : Piquier Basic \n Fort contre la Cavalerie"
+"Type d'unité : Piquier Basique \n Fort contre la Cavalerie"
 END
 
 CONTROLBAR:LW_ToolTip_MountainOrcBruteHorde
-"Type d'unité : Piquier Basic \n Fort contre la Cavalerie"
+"Type d'unité : Piquier Basique \n Fort contre la Cavalerie"
 END
 
 BANNERUI:MountainOrcBrute
-"Orque des Montagnes Brute"
+"Brute Orque des Montagnes"
 END
 
 BANNERUI:MountainOrcBrutes
-"Orque des Montagnes Brutes"
+"Brutes Orque des Montagnes"
 End
 
 CONTROLBAR:LW_ToolTipBuild_MountainOrcScoutHorde
@@ -69110,7 +69110,7 @@ CONTROLBAR:GuldurDrain
 END
 
 CONTROLBAR:ToolTipGuldurDrain
-"Les unités souffrent d'un effet de base qui inflige des dégâts constant au cours du temps \n dûe à la magie du Nécromancien qui les draîne \n ainsi que leur environnement \n Noir Présence contre cet effet et Renforce les unités"
+"Les unités souffrent d'un effet de base qui inflige des dégâts constants au cours du temps \n dûe à la magie du Nécromancien qui les draîne \n ainsi que leur environnement \n Noir Présence contre cet effet et Renforce les unités"
 END
 
 CONTROLBAR:EternalServitude
@@ -70131,11 +70131,11 @@ CONTROLBAR:RDSickness
 END
 
 CONTROLBAR:ToolTipRDSickness
-"Requiert : Niveau 5 \n Les ennemis tués par les Morts Réincarnés ont une petite chance d'être temporairament réanimé du coté du joueur \n Capacité Passive"
+"Requiert : Niveau 5 \n Les ennemis tués par les Morts Réincarnés ont une petite chance d'être temporairament réanimés du coté du joueur \n Capacité Passive"
 END
 
 CONTROLBAR:ToolTipRDSickness_Individual
-"Requiert : Niveau 5 \n Les ennemis tués par le Mort Réincarné ont une petite chance d'être temporairament réanimé du coté du joueur \n Capacité Passive"
+"Requiert : Niveau 5 \n Les ennemis tués par le Mort Réincarné ont une petite chance d'être temporairament réanimés du coté du joueur \n Capacité Passive"
 END
 
 CONTROLBAR:CastellanLeadership
@@ -70461,11 +70461,11 @@ CONTROLBAR:PurchaseUpgradeMordorFortressMorgulSpire
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeMordorFortressMorgulSpire
-"Requiert : La Sorcellerie de Morgul amélioré \n Ses Serviteurs Mortels :\n Donne passivement +33% de dégâts et 33% d'armure à tous les Nazgûl sur le champs de bataille \n Permet à la Forteresse d'utiliser le Flambeau de Morgul : \n Tous les orques sur le champs de bataille gagnent 15% de vitesse et 25% d'armure pour un court instant durant ce temps toutes les structures de ressources amies sont désactivées"
+"Requiert : La Sorcellerie de Morgul amélioré \n Ses Serviteurs Mortels :\n Confère de manière passive +33% de dégâts et 33% d'armure à tous les Nazgûl sur le champs de bataille \n Permet à la Forteresse d'utiliser le Flambeau de Morgul : \n Tous les orques sur le champs de bataille gagnent 15% de vitesse et 25% d'armure pour un court instant durant ce temps toutes les structures de ressources amies sont désactivées"
 END
 
 ToolTip:LackMorgulSorcery
-"Requiert : La Sorcellerie de Morgul amélioré \n Ses Serviteurs Mortels :\n Donne passivement +33% de dégâts et 33% d'armure à tous les Nazgûl sur le champs de bataille \n Permet à la Forteresse d'utiliser le Flambeau de Morgul : \n Tous les orques sur le champs de bataille gagnent 15% de vitesse et 25% d'armure pour un court instant durant ce temps toutes les structures de ressources amies sont désactivées"
+"Requiert : La Sorcellerie de Morgul amélioré \n Ses Serviteurs Mortels :\n Confère de manière passive +33% de dégâts et 33% d'armure à tous les Nazgûl sur le champs de bataille \n Permet à la Forteresse d'utiliser le Flambeau de Morgul : \n Tous les orques sur le champs de bataille gagnent 15% de vitesse et 25% d'armure pour un court instant durant ce temps toutes les structures de ressources amies sont désactivées"
 END
 
 CONTROLBAR:MordorFortressDeadliestServants
@@ -70473,7 +70473,7 @@ CONTROLBAR:MordorFortressDeadliestServants
 END
 
 CONTROLBAR:ToolTipMordorFortressDeadliestServants
-"Requiert : Flèche de Morgul amélioré \n Donne +33% de dégâts et 33% d'armure \n à tous les Nazgûl sur le champs de bataille \n Capacité Passive"
+"Requiert : Flèche de Morgul amélioré \n Octroie +33% de dégâts et 33% d'armure \n à tous les Nazgûl sur le champs de bataille \n Capacité Passive"
 END
 
 CONTROLBAR:MordorFortressMorgulSpire
@@ -73256,133 +73256,133 @@ END
 /////BFME EVIL CAMPAIGN/////
 
 Map:MAPSPevillorien
-"Campaign: Evil I - Lórien"
+"Campagne : Mal I - Lórien"
 End
 
 Map:MAPSPevillorien/Desc
-"Mission I - Led by Sauron's envoy, a host from Dol Guldur invades the golden forest of Lothlórien and lays siege to the elven city of Caras Galadhon.\n Recommended Faction: Dol Guldur"
+"Mission I - Menée par l'un des des émissaires de Sauron, une armée de Dol Guldur envahit la forêt dorée de Lothlórien et assiège la ville elfique de Caras Galadhon.\n Faction recommandée : Dol Guldur"
 End
 
 Map:MAPSPevilgreyhavens
-"Campaign: Evil II - Grey Havens"
+"Campagne : Mal II - Les Havres Gris "
 End
 
 Map:MAPSPevilgreyhavens/Desc
-"Mission II - In alliance with the Corsairs of Umbar, the goblin chief Muzgash seeks to assault the key elven port of the Grey Havens. \n Recommended Faction: Misty Mountains"
+"Mission II - Allié aux Corsaires d'Umbar, le chef gobelin Muzgash cherche à assaillir une base clé des Elfes : le port des Havres Gris. \n Faction recommandée : Monts Brumeux"
 End
 
 Map:MAPSPevilshire
-"Campaign: Evil III - Shire"
+"Campagne : Mal III - La Comté"
 End
 
 Map:MAPSPevilshire/Desc
-"Mission III - Goblins arrive at the outskirts of the Shire, where Golfimbul hopes to avenge his fallen ancestors.\n Recommended Faction: Misty Mountains"
+"Mission III - Les Gobelins arrivent aux frontières de la Comté, là ou Golfimbul espère venger ses ancêtres tombés au combat.\n Faction recommandée : Monts Brumeux"
 End
 
 Map:MAPSPevilfornost
-"Campaign: Evil IV - Fornost"
+"Campagne : Mal IV - Fornost"
 End
 
 Map:MAPSPevilfornost/Desc
-"Mission IV - To weaken the defences in the North and strengthen Sauron's grip over Eriador, the Goblins plan an attack on the ancient Arnorian capital of Fornost.\n Recommended Faction: Misty Mountains"
+"Mission IV - Afin d'affaiblir les défenses du Nord et ainsi renforcer l'emprise de Sauron sur l'Eriador, les Gobelins projettent d'attaquer Fornost l'ancienne capitale du royaume d'Arnor.\n Faction recommandée : Monts Brumeux"
 End
 
 Map:MAPSPevilmirkwood
-"Campaign: Evil V - Mirkwood"
+"Campagne : Mal V - La Forêt Noire"
 End
 
 Map:MAPSPevilMirkwood/Desc
-"Mission V - The Mouth of Sauron commands the forces of Dol Guldur in an attempt to take control of the Old Forest road, a key strategic point for elves of Mirkwood.\n Recommended Faction: Dol Guldur"
+"Mission V - La Bouche de Sauron commandent les forces de Dol Guldur pour prendre le contrôle de la route de la Vieille Forêt; un endroit stratégique pour les elfes de la forêt noire.\n Faction recommandée : Dol Guldur"
 End
 
 Map:MAPSPevilwitheredheath
-"Campaign: Evil VI - Withered Heath"
+"Campagne : Mal - Brande Desséchée"
 End
 
 Map:MAPSPevilwitheredheath/Desc
-"Mission VI - Sauron sends his envoy to forge an alliance with the dragons of the Withered Heath and gain their support in the war against the forces of Eriador.\n Recommended Faction: Misty Mountains"
+"Mission VI - Sauron envoie ses sbires forger une alliance avec les dragons de la Brande Desséchée afin de s'assurer de leur soutien dans sa lutte contre les forces de l'Eriador .\n Faction recommandée : Monts Brumeux"
 End
 
 Map:MAPSPevilerebor
-"Campaign: Evil VII - Erebor"
+"Campagne : Mal VII - Erebor"
 End
 
 Map:MAPSPevilerebor/Desc
-"Mission VII - The forces of Mordor launch a mighty assault to destroy the city of Dale and the great dwarf kingdom of Erebor. \n Recommended Faction: Mordor"
+"Mission VII - Les forces du Mordor lancent un puissant assaut pour détruire la ville de Dale et le grand royaume nain d'Erebor. \n Faction recommandée : Mordor"
 End
 
 Map:MAPSPevilrivendell
-"Campaign: Evil VIII - Rivendell"
+"Campagne : Mal VIII - Fondcombe"
 End
 
 Map:MAPSPevilrivendell/Desc
-"Mission VIII - The combined forces of evil gather in the valley of Imladris to destroy Rivendell, along with the last remnant of the Eldar still residing in Middle-Earth. \n Recommended Faction: Misty Mountains"
+"Mission VIII - Les forces combinées du mal se rassemblent dans la vallée d'Imladris pour détruire Fondcombe, ainsi que les derniers vestiges des Eldar résidant encore en Terre du Milieu. \n Faction recommandée : Monts Brumeux"
 End
 
 /////BFME GOOD CAMPAIGN/////
 
 Map:MAPSPgoodbluemountains
-"Campaign: Good IV - Blue Mountains"
+"Campagne: Bien IV - Montagnes Bleues"
 End
 
 Map:MAPSPgoodbluemountains/Desc
-"Mission IV - Gloin and Glorfindel arrive at the Blue Mountains to help the Dwarves reclaim their halls from a brooding dragon.\n Recommended Faction: Erebor"
+"Mission IV - Gloin et Glorfindel arrivent dans les Montagnes Bleues pour aider les Nains à récupérer leurs possessions auprès d'un sombre dragon.\n Faction recommandée: Erebor"
 End
 
 Map:MAPSPgoodcelduin
-"Campaign: Good VI - Celduin"
+"Campagne: Bien VI - Celduin"
 End
 
 Map:MAPSPgoodcelduin/Desc
-"Mission VI - Dáin leads the Dwarves of Erebor and the people of Celduin in a desparate attempt to defend the settlement against a Mordor host.\n Recommended Faction: Erebor"
+"Mission VI - Dáin dirige les Nains d'Erebor et les habitants de Celduin dans une tentative désespérée de défendre la base contre une armée du Mordor.\n Faction recommandée: Erebor"
 End
 
 Map:MAPSPgooddolguldur
-"Campaign: Good VIII - Dol Guldur"
+"Campagne: Bien VIII - Dol Guldur"
 End
 
 Map:MAPSPgooddolguldur/Desc
-"Mission VIII - The Elves and Dwarves launch a final assault against Sauron's fortress of Dol Guldur.\n Recommended Faction: Rivendell"
+"Mission VIII - Les Elfes et les Nains lancent un dernier assaut contre la forteresse de Sauron à Dol Guldur.\n Faction recommandée: Fondcombe"
 End
 
 Map:MAPSPgooderebor
-"Campaign: Good VII - Erebor"
+"Campagne: Bien VII - Erebor"
 End
 
 Map:MAPSPgooderebor/Desc
-"Mission VII - The Dwarves of Erebor make one final stand against the overwhelming forces of Mordor.\n Recommended Faction: Erebor"
+"Mission VII - Les Nains d'Erebor se défendent contre l'assaut final des forces écrasantes du Mordor.\n Faction recommandée: Erebor"
 End
 
 Map:MAPSPgoodettenmoors
-"Campaign: Good III - Ettenmoors"
+"Campagne: Bien III - Les Landes d'Etten"
 End
 
 Map:MAPSPgoodettenmoors/Desc
-"Mission III - The Elves must remove the Goblin threat from the North by striking at its heart.\n Recommended Faction: Rivendell"
+"Mission III - Les Elfes doivent éliminer la menace des gobelins du Nord en frappant leur centre névralgique en plein coeur.\n Faction recommandée: Fondcombe"
 End
 
 Map:MAPSPgoodgreyhavens
-"Campaign: Good V - Grey Havens"
+"Campagne: Bien V - les Havres Gris"
 End
 
 Map:MAPSPgoodgreyhavens/Desc
-"Mission V - The Elves and Dwarves must repel an invasion of this key elven port  by the Corsairs of Umbar and the Southrons.\n Recommended Faction: Rivendell"
+"Mission V - Les Elfes et les Nains doivent repousser une invasion de leur port clé par les Corsaires d'Umbar et les Suderons.\n Faction recommandée: Fondcombe"
 End
 
 Map:MAPSPgoodhighpass
-"Campaign: Good II - High Pass"
+"Campagne: Bien II - High Pass"
 End
 
 Map:MAPSPgoodhighpass/Desc
-"Mission II - Glorfindel and Gloin arrive to retake the High Pass from the Goblins.\n Recommended Faction: Rivendell"
+"Mission II - Glorfindel and Gloin se battent pour reprendre le Haut Col aux Gobelins.\n Faction recommandée: Fondcombe"
 End
 
 Map:MAPSPgoodrivendell
-"Campaign: Good I - Rivendell"
+"Campagne: Bien I - Fondcombe"
 End
 
 Map:MAPSPgoodrivendell/Desc
-"Mission I - Glorfindel discovers a Goblin force which has been sent to destroy Imladris.\n Recommended Faction: Rivendell"
+"Mission I - Glorfindel découvre une force de Gobelins envoyée pour détruire Fondcombe.\n Faction recommandée: Fondcombe"
 End
 
 
