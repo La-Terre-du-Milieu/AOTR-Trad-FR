@@ -61293,7 +61293,7 @@ CONTROLBAR:GolfimbulLeadership
 END
 
 CONTROLBAR:TooltipGolfimbulLeadership
-"Type d'Action : Charisme\n Les Wargs et les Maraudeurs Wargs proches de Golfimbul gagnent +33% armure et gagnent de l'expérience 50% plus rapidement (bonus cumulable).\n\nCapacité passive"
+"Type d'Action : Charisme\n Les Wargs et la cavalerie proches de Golfimbul gagnent +25% de dégâts, +15% de vitesse et gagnent de l'expérience 50% plus rapidement (bonus cumulable).\n\nCapacité passive"
 END
 
 CONTROLBAR:GolfimbulWargSummon
@@ -61309,7 +61309,7 @@ CONTROLBAR:GolfimbulHatred
 END
 
 CONTROLBAR:TooltipGolfimbulHatred
-"Requiert : niveau 8\n Type d'Action : Sort\n Golfimbul brûle d'envie de venger son ancêtre contre les petites gens de la Comté et les Peuples Libres de la Terre du Milieu.\n Golfimbul et les Loups, Wargs et Maraudeurs Wargs proches de lui gagnent +100% dégâts et +300% armure (bonus cumulable).\n\nClic gauche pour activer"
+"Requiert : niveau 8\n Type d'Action : Sort\n Golfimbul brûle d'envie de venger son ancêtre contre les petites gens de la Comté et les Peuples Libres de la Terre du Milieu.\n Golfimbul et les Loups, Wargs et les Chevaucheurs de loups proches de lui gagnent +100% dégâts et +300% armure (bonus cumulable).\n\nClic gauche pour activer"
 END
 
 CONTROLBAR:AzogSpawnOfTheDefiler
@@ -61341,7 +61341,7 @@ CONTROLBAR:PurchaseTechnologyHardenedSkin
 END
 
 CONTROLBAR:ToolTipPurchaseTechnologyHardenedSkin
-"Permet aux Wyrms d'acheter l'amélioration Cuirasse de Wyrm. Lorsqu'elle est équipée, augmente l'armure contre les flèches et les piques de +30%"
+"Permet aux Wyrms d'acheter l'amélioration Cuirasse de Wyrm. Lorsqu'elle est équipée, augmente l'armure contre les flèches et les piques"
 END
 
 TOOLTIP:LackLevel2FireWyrmLair
@@ -61485,7 +61485,7 @@ CONTROLBAR:LW_ToolTip_MordorMorgulOrcHorde
 END
 
 CONTROLBAR:ToolTipBuildMordorMorgulOrcHorde
-"Requiert : Sorcellerie de Morgul\n Aprés des années de guerre avec le Gondor, les Orques de la Cité Morte rassemblent les plus terribles lignées au service de Sauron. Ils sont plus forts que les autres Orques, ils portent des boucliers et leurs armures sont épaisses et solides, ce qui en fait des troupes de choc idéales pour anéantir toute résistance.\n\nInfanterie d'élite, forts contre les piquiers."
+"Requiert : Sorcellerie de Morgul\n Aprés des années de guerre avec le Gondor, les Orques de la Cité Morte rassemblent les plus terribles lignées au service de Sauron. Ils sont plus forts que les autres Orques, ils portent des boucliers et leurs armures sont épaisses et solides, ce qui en fait des troupes de choc idéales pour anéantir toute résistance.\n\nInfanterie d'élite, forts contre les piquiers \n\n Bonus de Horde \n Type d'action : Sort \n Tous les Guerriers Orques, Piquiers Orques, Archers Orques, Légions de Morgul et Uruks Noirs gagnent +50% de dégâts lorqu'ils sont rassemblés en nombre de 100 ou plus \n Cumulable avec les Bonus, Charisme et les autres Sorts"
 END
 
 CONTROLBAR:LW_ToolTipBuild_MordorMorgulOrcHorde
@@ -61601,7 +61601,7 @@ CONTROLBAR:BeregondFierceLoyalty
 END
 
 CONTROLBAR:ToolTipBeregondFierceLoyalty
-"Requiert : niveau 5\n Type d'Action : Sort\n Faramir, Boromir et Pippin gagnent +33% dégâts et +33% armure lorsqu'ils sont proches de Beregond (bonus cumulable).\n\n Capacité passive"
+"Requiert : niveau 7\n Type d'Action : Sort\n Faramir, Boromir et Pippin gagnent +33% dégâts et +33% armure lorsqu'ils sont proches de Beregond (bonus cumulable).\n\n Capacité passive"
 END
 
 CONTROLBAR:BeregondGuardoftheCitadel
@@ -61609,7 +61609,7 @@ CONTROLBAR:BeregondGuardoftheCitadel
 END
 
 CONTROLBAR:ToolTipBeregondGuardoftheCitadel
-"Requiert : niveau 7\n Type d'Action : Sort\n Les structures proches de Beregond gagnent +30% armure (bonus cumulable).\n\nCapacité passive"
+"Requiert : niveau 5\n Type d'Action : Sort\n Les structures proches de Beregond gagnent +30% armure (bonus cumulable).\n\nCapacité passive"
 END
 
 CONTROLBAR:DefenderoftheWhiteCity
@@ -61772,7 +61772,7 @@ END
 CONTROLBAR:ToolTipSarumanThunderBolt
 //"Requiert : niveau 10 \n Frappe d'un puissant coup d'éclair contre l'ennemi ciblé \n\n Clic gauche sur l'icône puis clic gauche sur la cible"
 //"Requiert : niveau 7 \n Frappe d'un puissant coup d'éclair contre les ennemis ciblés \n\n Clic gauche sur l'icône puis clic gauche sur la cible"
-"Requiert : niveau 6 \n Dans un coup de tonnerre assourdissant, Saroumane invoque un puissant éclair qu'il jette sur l'ennemi. \n\n Clic gauche sur l'icône puis clic gauche sur la cible"
+"Requiert : niveau 7 \n Dans un coup de tonnerre assourdissant, Saroumane invoque un puissant éclair qu'il jette sur l'ennemi. \n\n Clic gauche sur l'icône puis clic gauche sur la cible"
 END
 
 CONTROLBAR:ToolTipSarumanThunderBoltFort
@@ -61799,7 +61799,7 @@ CONTROLBAR:SarumanWizardBlast
 END
 
 CONTROLBAR:ToolTipSarumanWizardBlast
-"Saroumane invoque un souffle secret à courte portée qui repousse les ennemis. \n\n Clic gauche sur l'icône puis clic gauche sur la cible"
+"Saroumane invoque un souffle secret à courte portée qui repousse les ennemis. \n\n Clic gauche sur l'icône puis clic gauche sur la cible \n\n Modifier Type: Leadership \n Allies near Saruman gain immunity to magic and elemental damage, earn experience 100% faster and become immune to Fear and Terror \n Stacks with Buffs and Spells \n Passive ability"
 END
 
 
@@ -61836,7 +61836,7 @@ CONTROLBAR:AmrothKnights
 End
 
 CONTROLBAR:ToolTipAmrothKnights
-"Permet de recruter les formidables Chevaliers d'Amroth dans les Pâturages du Bois Doré.\n\n Capacité passive"
+"Permet de recruter les formidables Amroth-na-Erphin dans les Pâturages du Bois Doré.\n\n Capacité passive"
 END
 
 CONTROLBAR:SilvanAllies
@@ -61892,7 +61892,7 @@ CONTROLBAR:ToolTipCloudBreakLorien
 //"Cancels Pluie Verglaçante or Darkness \n Stuns enemy units \n\nClic gauche pour activer"
 //"Cancels Pluie Verglaçante or Darkness \n Etourdit les unités ennemies \n\nClic gauche pour activer"
 //"Le soleil perce le ciel et illumine le champ de bataille de sa clarté resplendissante. Annule Pluie glacée et Linceul d'Ombre.\nEtourdit les ennemis et soigne lentement les alliés sur la carte.\n\nClic gauche pour activer"
-"Annules, les Vents Occidentaux, la Pluie Verglaçante, Avant que le Soleil ne se lève, Bénédiction d'Ulmo, Bénédiction de Manwë, Le Jour de Durin, Hiver Blanc ou Sombre \n Etourdit les unités ennemies \n Soigne lentement les unités alliées sur la carte \n Clic gauche pour activer"
+"Annules, les Vents Occidentaux, la Pluie Verglaçante, Avant que le Soleil ne se lève, Bénédiction d'Ulmo, Bénédiction de Manwë, Le Jour de Durin, Les Lumières s'Éteignent, Hiver Blanc et Ombre \n Etourdit les unités ennemies \n Soigne lentement les unités alliées sur la carte \n Clic gauche pour activer"
 END
 
 CONTROLBAR:CastDown
@@ -61920,33 +61920,32 @@ CONTROLBAR:ToolTipElvenWoodAdamant
 END
 
 //------------ Amroth Knights ---------------
-
 OBJECT:ElvenAmrothKnight
-"Chevalier d'Amroth"
+"Amroth-na-Arphen"
 END
 
 OBJECT:HordeElvenAmrothKnight
-"Les Chevaliers d'Amroth"
+"Amroth-na-Erphin"
 END
 
 CONTROLBAR:ConstructElvenAmrothKnightHorde
-"Les Chevaliers d'Amroth Amdirion (&K)"
+"Amroth-na-Er&phin"
 END
 
 CONTROLBAR:LW_Unit_ElvenAmrothKnightHorde
-"Les Chevaliers d'Amroth"
+"Bataillon de Amroth-na-Erphin"
 END
 
 CONTROLBAR:LW_ToolTip_ElvenAmrothKnightHorde
-"Type d'unité : cavalerie d'élite \n Fort contre les archers"
+"Chevaliers d'Amroth \n Type d'unité : cavalerie d'élite \n Fort contre les archers"
 END
 
 CONTROLBAR:ToolTipBuildElvenAmrothKnightHorde
-"Requiert : Chevaliers d'Amroth \n De tous les cavaliers elfiques, ce sont les Chevaliers d'Amroth qui incarnent le mieux la grâce martiale et la valeur auxquelles chaque jeune Elfe aspire. Leurs cavaliers sont recrutés parmi les familles de sang noble, et rares sont les aristocrates qui s'exposent au déshonneur en refusant d'accomplir leur devoir. \n Bien que leur roi ait disparu depuis longtemps, ces nobles Sindarin continuent à tenir leurs serments et à se battre pour défendre la Lórien en tant que garde de la maison d'Amroth. \n\n Cavalerie d'élite, Fort contre les archers."
+"Chevaliers d'Amroth \n Requiert : Chevaliers d'Amroth \n De tous les cavaliers elfiques, ce sont les Chevaliers d'Amroth qui incarnent le mieux la grâce martiale et la valeur auxquelles chaque jeune Elfe aspire. Leurs cavaliers sont recrutés parmi les familles de sang noble, et rares sont les aristocrates qui s'exposent au déshonneur en refusant d'accomplir leur devoir. \n Bien que leur roi ait disparu depuis longtemps, ces nobles Sindarin continuent à tenir leurs serments et à se battre pour défendre la Lórien en tant que garde de la maison d'Amroth. \n\n Cavalerie d'élite, Fort contre les archers."
 END
 
 CONTROLBAR:LW_ToolTipBuild_ElvenAmrothKnightHorde
-"Type d'unité : Cavalerie d'élite \n Fort contre les archers"
+"Chevaliers d'Amroth \n Type d'unité : Cavalerie d'élite \n Fort contre les archers"
 END
 
 //------------- Amroth Knight shield upgrade (is an overwrite to the Angmar spiked collars since they are abandoned) -------------------
@@ -62108,7 +62107,7 @@ CONTROLBAR:CleanseShadow
 END
 
 CONTROLBAR:TooltipCleanseShadow
-"Requiert : niveau 3 \n Type d'Action : Sort\nLes alliés proches sont soignés modérément et sont immunisés à la peur et à la terreur (bonus cumulable).\n\nClic gauche pour activer"
+"Requiert : niveau 3 \n Type d'Action : Charisme \n Nearby Sindar Pathstalkers gain +33% damage and +33% armor \n Stacks with Buffs and Spells \n Capacité passive \n\n Les alliés proches sont soignés modérément et sont immunisés à la peur et à la terreur \n Cumulable avec le Charisme et les Sorts \n Clic gauche pour activer"
 END
 
 CONTROLBAR:GiftofGaladriel
@@ -62133,7 +62132,7 @@ END
 
 CONTROLBAR:ToolTipPurchaseUpgradeElvenFortressFlamingMunitions
 //"Places Lórien Archers upgraded with Mallorn Bows onto Fortress \n Upgrades attached Flet archers with Mallorn Bows"
-"Place des Archers de la Lórien équipés d'Arcs en bois de Mallorn dans la forteresse."
+"Place desTawar-na-Pengryn équipés d'Arcs en bois de Mallorn dans la forteresse."
 END
 
 CONTROLBAR:ConstructEregionForge
@@ -62174,7 +62173,7 @@ CONTROLBAR:ThingsthatWere
 END
 
 CONTROLBAR:ToolTipBuildThingsthatWere
-"Réduit le coût des Chevaliers d'Amroth et des Nandor Hîr-Hathol. \n Le joueur doit posséder un Miroir pour bénéficier de cette amélioration."
+"Réduit le coût des Amroth-na-Erphin et des Nandor Hîr-Hathol. \n Le joueur doit posséder un Miroir pour bénéficier de cette amélioration."
 END
 
 UPGRADE:ThingsthatAre
@@ -62186,7 +62185,7 @@ CONTROLBAR:ThingsthatAre
 END
 
 CONTROLBAR:ToolTipBuildThingsthatAre
-"Augmente la vitesse de production des Guerriers et Archers de la Lórien, des Sentinelles de Cerin Amroth et des Gardiens des Marches pendant une courte durée."
+"Augmente la vitesse de production des Tawar-na-Pengryn, Tawar-na-Eithyr, Tawar-na-Thirrad, Gwahaedhrim, et Edrain-na-Maethyr pendant une courte durée."
 END
 
 CONTROLBAR:CallofBelegaer
@@ -62218,7 +62217,8 @@ CONTROLBAR:UrshakIntimidation
 END
 
 CONTROLBAR:ToolTipUrshakIntimidation
-"Type d'Action : Pénalité active\nUrshâk jette une malédiction sur ses ennemis : les unités ennemies ciblées subissent -33% vitesse et perdent leur bonus de Charisme (Pénalité non cumulable).\n\nClic gauche sur l'icône puis clic gauche sur la cible"
+//"Type d'Action : Pénalité active\nUrshâk jette une malédiction sur ses ennemis : les unités ennemies ciblées subissent -33% vitesse et perdent leur bonus de Charisme (Pénalité non cumulable).\n\nClic gauche sur l'icône puis clic gauche sur la cible"
+"Modifier Type: Leadership \n Trolls, Bats and Giants near Urshak gain\n+15% speed, vision and shroud clearing\nPassive ability \n\n Modifier Type: Passive Debuff \n Nearby enemy units suffer -25% Damage and Armour and -20% Speed \n Does not stack with other Debuffs \nPassive ability \n\n At level 5, bewitches targeted units, causing them to become hostile towards each other \n Left click icon then left click on target area"
 END
 
 CONTROLBAR:UrshakShakeFoundation
@@ -62234,7 +62234,7 @@ CONTROLBAR:UrshakSoulFreeze
 End
 
 CONTROLBAR:ToolTipUrshakSoulFreeze
-"Requiert : niveau 7\nToutes les unités dans l'aire d'effet, alliées ou ennemies, sont pétrifiées par un froid hivernal : elles ne peuvent plus bouger, ni attaquer, ni recevoir d'amélioration.\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
+"Requiert : niveau 6\nToutes les unités dans l'aire d'effet, alliées ou ennemies, sont pétrifiées par un froid hivernal : elles ne peuvent plus bouger, ni attaquer, ni recevoir d'amélioration.\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
 End
 
 CONTROLBAR:UrshakWellOfSouls
@@ -62242,7 +62242,7 @@ CONTROLBAR:UrshakWellOfSouls
 End
 
 CONTROLBAR:ToolTipUrshakWellOfSouls
-"Requiert : niveau 10\nUrshâk invoque la puissance destructrice du Balrog réfugié dans les entrailles des Monts Brumeux, au fond des puits de la Moria.\n\nLes unités ennemies dans l'aire d'effet sont brulées et subissent des dégâts progressifs, tandis que les alliés sont soignés.\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
+"Requiert : niveau 8\nUrshâk invoque la puissance destructrice du Balrog réfugié dans les entrailles des Monts Brumeux, au fond des puits de la Moria.\n\nLes unités ennemies dans l'aire d'effet sont brulées et subissent des dégâts progressifs, tandis que les alliés sont soignés.\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
 End
 
 CONTROLBAR:GothmogToggleMounted
@@ -62557,7 +62557,7 @@ CONTROLBAR:ToolTipPurchaseUpgradeDwarvenFireArrows
 END
 
 ToolTip:LackDwarvenFireArrows
-"Rechercher l'amélioration dans la Grande Forge pour activer cet équipement.\n Lorsqu'elle est équipée, ajoute des dégâts supplémentaires d'entaille aux flèches."
+"Rechercher l'amélioration dans la Grande Forge pour activer cet équipement.\n Lorsqu'elle est équipée, ajoute des dégâts supplémentaires d'entaille et de feu aux flèches."
 END
 
 TOOLTIP:LackDwarvenMithrilMail
@@ -62594,23 +62594,23 @@ END
 
 //------------ Dwarven Archers ---------------
 OBJECT:EreborArcher
-"Archers d'Erebor"
+"Rakhâs-abzâg"
 END
 
 OBJECT:HordeEreborArcher
-"Archers d'Erebor"
+"Rakhâs-abzâg"
 END
 
 CONTROLBAR:LW_Unit_EreborArcherHorde
-"Archers d'Erebor"
+"Bataillon de Rakhâs-abzâg Battalion"
 END
 
 CONTROLBAR:LW_ToolTip_EreborArcherHorde
-"Type d'unité : archers standards\nForts contre l'infanterie"
+"Archers d'Erebor \n Type d'unité : archers standards\nForts contre l'infanterie"
 END
 
 CONTROLBAR:LW_ToolTipBuild_EreborArcherHorde
-"Type d'unité : archers standards\nForts contre l'infanterie"
+"Archers d'Erebor \n Type d'unité : archers standards\nForts contre l'infanterie"
 END
 
 //---------------------------------------------------------------------------
@@ -62655,7 +62655,7 @@ CONTROLBAR:SummonHallOfFire
 END
 
 CONTROLBAR:TooltipSummonHallOfFire
-"Invoque le Hall de Feu.\n Type d'Action : Charisme \n Les alliés près de la Salle de feu ce soignent et gagnent +33% d'Armure, gagnent de l'expérience 5 \nClic gauche on sélectionner Clic gauche sur la zone ciblée"
+"Invoque le Hall de Feu.\n Type d'Action : Charisme \n Les alliés près de la Salle de feu ce soignent et gagnent +33% d'Armure, gagnent de l'expérience 50 plus rapidement et deviennent immunisés à la peur et à la terreur \n Nearby Quentaroli's power recharge timers are decreased \n Stacks with Buffs and Spells \n The Hall of Fire may call forth vivid images of the past that inspire fear and deal damage to enemy units \n Clic gauche sur l'icône puis clic gauche sur la zone ciblée"
 END
 
 CONTROLBAR:SonsOfElrond
@@ -62688,7 +62688,7 @@ End
 
 CONTROLBAR:ToolTipBlessingofUlmo
 //"Temporarily covers the map in rain \n Type d'Action : Pénalité active \n Enemy units suffer -25% dégâts and -20% armure\nNullifies enemy Charisme \n (Bonus non cumulable)\n\nClic gauche pour activer"
-"Couvre temporaiement la carte d'une averse de pluie \n Annule les Vents Occidentaux, Pluie Verglaçante, Avant que le Soleil ne se Lève, Bénédiction d'Ulmo, Bénédiction de Manwë, Le Jour de Durin, Hiver Blanc ou Sombre \n Toutes les unités amies acquièrent l'immunité contre la Peur, la Terreur et sont lentement guéries \n Les Vergers génèrent +30% de ressources supplémentaire et gagnent +25% d'Armure \n Bénéficie à tous les alliés de Fondcombe \n\n Clic gauche pour activer"
+"Couvre temporaiement la carte d'une averse de pluie \n Annule les Vents Occidentaux, Pluie Verglaçante, Avant que le Soleil ne se Lève, Bénédiction d'Ulmo, Bénédiction de Manwë, Le Jour de Durin, Les Lumières s'Éteignent, Hiver Blanc et Ombre \n Toutes les unités amies acquièrent l'immunité contre la Peur, la Terreur et sont lentement guéries \n Les Vergers génèrent +30% de ressources supplémentaire et gagnent +25% d'Armure \n Bénéficie à tous les alliés de Fondcombe \n\n Clic gauche pour activer"
 END
 
 CONTROLBAR:Relics
@@ -62704,7 +62704,7 @@ CONTROLBAR:ThorinLeadership
 End
 
 CONTROLBAR:ToolTipThorinLeadership
-"Type d'Action : Charisme \n Les alliés proches du roi Thorin gagnent +33% dégâts, +33% armure et gagnent de l'expérience 50% plus rapidement (bonus cumulable).\n\nCapacité passive"
+"Type d'Action : Charisme \n Les Nains proches du roi Thorin gagnent +25% d'armure, deviennent résistant à la peur et à la terreur et gagnent de l'expérience 75% plus rapidement \n Cumulable avec les Bonus et les Sorts \n Capacité passive"
 END
 
 CONTROLBAR:ThorinOrcrist
@@ -62712,7 +62712,7 @@ CONTROLBAR:ThorinOrcrist
 End
 
 CONTROLBAR:TooltipThorinOrcrist
-"Requiert : niveau 3 \n La Pourfendeuse de Gobelins, surnommée « Mordeuse » par ces derniers, est le nom de l'épée-soeur de Glamdring, également forgée à Gondolin.\nAvec son épée, Thorin gagne temporairement +75% dégâts magiques et +100% armure.\n\nClic gauche pour activer"
+"Requiert : niveau 5 \n La Pourfendeuse de Gobelins, surnommée « Mordeuse » par ces derniers, est le nom de l'épée-soeur de Glamdring, également forgée à Gondolin.\nAvec son épée, Thorin gagne temporairement +75% dégâts magiques et +100% armure.\n\nClic gauche pour activer"
 END
 
 CONTROLBAR:ThorinLeadership2
@@ -62728,7 +62728,7 @@ CONTROLBAR:ThorinDuBekar
 END
 
 CONTROLBAR:ToolTipThorinDuBekar
-"Requiert : niveau 10 \n Type d'Action : Sort \nThorin et les alliés proches sont résistants au renversement et gagnent +75% armure, +20% vitesse et écrase les ennemis pendant une courte durée (bonus cumulable).\n\nClic gauche pour activer"
+"Requiert : niveau 10 \n Type d'Action : Sort \nThorin et les alliés proches sont résistants au renversement et gagnent +75% d'armure et +20% pendant une courte durée \n Thorin peut écraser les ennemis \n Cumulable avec le CHarisme et les Sorts \n Clic gauche pour activer"
 END
 
 CONTROLBAR:ThorinResentment
@@ -62736,7 +62736,7 @@ CONTROLBAR:ThorinResentment
 END
 
 CONTROLBAR:ToolTipThorinResentment
-"Requiert : niveau 5 \n Type d'Action : Pénalité active \n Les unités ennemies ciblées subissent -20% vitesse et -30% armure, et annule les bonus de Charisme ennemis.\n\nClic gauche pour les unités ennemies"
+"Requiert : niveau 3 \n Type d'Action : Pénalité active \n Les unités ennemies ciblées subissent -20% vitesse et -30% armure, et annule les bonus de Charisme ennemis.\n\nClic gauche pour les unités ennemies"
 END
 
 CONTROLBAR:ThorinRestoration
@@ -62768,7 +62768,7 @@ CONTROLBAR:BardRabbleRouser
 END
 
 CONTROLBAR:ToolTipBardRabbleRouser
-"Requiert : niveau 3 \n Les unités ciblées gagnent de l'expérience modérément.\nN'affecte que les Gardes de Lac-ville et les unités de Dale.\n\nClic gauche sur l'icône puis clic gauche sur la cible"
+"Requiert : niveau 5 \n Les unités ciblées gagnent de l'expérience modérément.\nN'affecte que les Gardes de Lac-ville\n\nClic gauche sur l'icône puis clic gauche sur la cible"
 END
 
 CONTROLBAR:BardLeadership
@@ -62776,7 +62776,7 @@ CONTROLBAR:BardLeadership
 End
 
 CONTROLBAR:ToolTipBardLeadership
-"Requiert : niveau 8 \n Type d'Action : Charisme \n Les archers proches de Bard gagnent +33% dégâts et gagnent de l'expérience 50% plus rapidement (bonus cumulable).\n\nCapacité passive"
+"Requiert : niveau 8 \n Type d'Action : Charisme \n Les archers proches de Bard gagnent +33% d'armure, +33% de vision et +15% de portée d'attaque \n Cumulable avec les Bonus et les Sorts \n\nCapacité passive"
 END
 
 CONTROLBAR:BrandSlamArrow
@@ -62808,7 +62808,7 @@ CONTROLBAR:BalinLeadership
 End
 
 CONTROLBAR:ToolTipBalinLeadership
-"Type d'Action : Charisme \n Les alliés proches de Balin gain +15% vitesse (bonus cumulable). \n\nCapacité passive"
+"Type d'Action : Charisme \n Les alliés proches de Balin gain +15% de vitesse de mouvement \n Cumulable avec les Bonus et les Sorts \n\nCapacité passive"
 END
 
 CONTROLBAR:BalinLookout
@@ -62816,7 +62816,8 @@ CONTROLBAR:BalinLookout
 End
 
 CONTROLBAR:TooltipBalinLookout
-"Requiert : niveau 3 \n L'âge vénérable de Balin va de pair avec une sagesse tout aussi grande.\nBalin gagne temporairement +150% portée de vision.\n\nClic gauche pour activer"
+//"Requiert : niveau 3 \n L'âge vénérable de Balin va de pair avec une sagesse tout aussi grande.\nBalin gagne temporairement +150% portée de vision.\n\nClic gauche pour activer"
+"Modifier Type: Leadership \n Allies near Balin gain +15% Speed \n Stacks with Buffs and Spells \n Passive ability \n Left click to temporarily grant Balin +150% vision range"
 END
 
 CONTROLBAR:BalinDwarvenWisdom
@@ -62824,7 +62825,7 @@ CONTROLBAR:BalinDwarvenWisdom
 End
 
 CONTROLBAR:ToolTipBalinDwarvenWisdom
-"Requiert : niveau 5 \n Balin prodigue de précieuses suggestions pour l'administration des richesses du royaume : il augmente temporairement de +250% la production d'une structure.\n\nClic gauche sur l'icône puis clic gauche sur une structure de ressources"
+"Requiert : niveau 3 \n Balin prodigue de précieuses suggestions pour l'administration des richesses du royaume : il augmente temporairement de +175% la production d'une structure.\n\nClic gauche sur l'icône puis clic gauche sur une structure de ressources"
 END
 
 CONTROLBAR:BalinCounselorOfKings
@@ -62832,7 +62833,7 @@ CONTROLBAR:BalinCounselorOfKings
 END
 
 CONTROLBAR:ToolTipBalinCounselorOfKings
-"Requiert : niveau 8 \n Type d'Action : Sort\n Grâce à sa riche expérience dans l'art de la guerre, Balin renforce temporairement un héros allié, qui gagne +50% armure, gagne de l'expérience 50% plus rapidement et ses capacités spéciales se rechargent 75% plus rapidement (bonus cumulable).\n\nClic gauche sur l'icône puis clic gauche sur un héros allié"
+"Requiert : niveau 9 \n Type d'Action : Sort\n Grâce à sa riche expérience dans l'art de la guerre, Balin renforce temporairement un héros allié, qui gagne +50% armure, gagne de l'expérience 50% plus rapidement et ses capacités spéciales se rechargent 75% plus rapidement (bonus cumulable).\n\nClic gauche sur l'icône puis clic gauche sur un héros allié"
 END
 
 CONTROLBAR:BalinFlag
@@ -62856,7 +62857,7 @@ CONTROLBAR:Unburnt
 End
 
 CONTROLBAR:ToolTipUnburnt
-"Habitués à combattre les Dragons, les Tueurs de Wyrm sont totalement insensibles aux dégâts de feu.\n\nCapacité passive"
+"Habitués à combattre les Dragons, les Adâruf-sulûkh sont totalement insensibles aux dégâts de feu.\n\nCapacité passive"
 END
 
 CONTROLBAR:OakenBird
@@ -62892,7 +62893,7 @@ CONTROLBAR:ToolTipYoungThorinLeadership
 END
 
 CONTROLBAR:YoungThorinOakenshield
-"Ecu-de-Chêne (&K)"
+"Ecu-de-Chêne (&O)"
 End
 
 CONTROLBAR:TooltipYoungThorinOakenshield
@@ -62988,7 +62989,8 @@ CONTROLBAR:LW_ToolTip_LaketownMilitaHorde
 END
 
 CONTROLBAR:ToolTipBuildLaketownMilitaHorde
-"Les Gardes de Lac-ville surveillent les intrus et protègent les Lac-villois contre leurs ennemis. Outre l'activité de sentinelle et de patrouilleur, les Gardes de Lac-ville sont également les garants du maintien de l'ordre au nom du Maître de Lac-ville.\n\nForts contre les cavaliers"
+//"Les Gardes de Lac-ville surveillent les intrus et protègent les Lac-villois contre leurs ennemis. Outre l'activité de sentinelle et de patrouilleur, les Gardes de Lac-ville sont également les garants du maintien de l'ordre au nom du Maître de Lac-ville.\n\nForts contre les cavaliers"
+"Basic Pikemen \nStrong vs. Cavalry and Heroes \n\n Horde Bonus \n Modifier Type: Spell \n All Laketown Watchmen and Laketown Bowmen gain +25% damage and armour when gathered in numbers of 80 or more \n Stacks with buffs, Leadership and other spells \n\n Of old, the Master of Esgaroth has armed and maintained a small regiment of townsguard, tasked with upholding law and order upon the Long Lake."
 END
 
 CONTROLBAR:LW_ToolTipBuild_LaketownMilitaHorde
@@ -63058,7 +63060,7 @@ CONTROLBAR:LW_ToolTip_MenofDaleSwordHorde
 END
 
 CONTROLBAR:ToolTipBuildMenofDaleSwordHorde
-"Requiert : Garnison de Dale niveau 2\n La prospérité de Dale, la Cité des Hommes, assure à ses soldats un équipement de la meilleure qualité, façonné par ses alliés d'Erebor.\nLorsqu'ils ne protègent pas leurs terres contre les prédations de leurs ennemis, ces soldats entraînés et disciplinés embarquent parfois sur des navires pour livrer des guerres lointaines.\n\nInfanterie d'élite, forts contre les piquiers"
+"Infanterie d'élite \n Forts contre les piquiers \n\n La prospérité de Dale, la Cité des Hommes, assure à ses soldats un équipement de la meilleure qualité, façonné par ses alliés d'Erebor.\nLorsqu'ils ne protègent pas leurs terres contre les prédations de leurs ennemis, ces soldats entraînés et disciplinés embarquent parfois sur des navires pour livrer des guerres lointaines."
 END
 
 CONTROLBAR:LW_ToolTipBuild_MenofDaleSwordHorde
@@ -63223,27 +63225,27 @@ END
 
 //------------ Ered Luin Traders ---------------
 OBJECT:EredLuinTrader
-"Marchand des Ered Luin"
+"Usjur-Khagal-zirak"
 END
 
 OBJECT:HordeEredLuinTraders
-"Marchands des Ered Luin"
+"Usjur-Khagal-zirak"
 END
 
 CONTROLBAR:ConstructEredLuinTraderHorde
-"Marchands des Ered Luin"
+"Us&jur-Khagal-zirak"
 END
 
 CONTROLBAR:LW_Unit_EredLuinTraderHorde
-"Marchands des Ered Luin"
+"Bataillon de Usjur-Khagal-zirak"
 END
 
 CONTROLBAR:ToolTipBuildEredLuinTraderHorde
-"Requiert : Hall des Guerriers niveau 2 et l'amélioration Arkenstone\nLes Nains des Montagnes Bleues sont connus pour leur culture industrieuse et mercantile. Ils voyagent à travers toute la Terre du Milieu pour vendre leurs marchandises principalement avec les Hommes d'Eriador, les Elfes du Lindon et bien sûr avec le peuple de Durin.\n\n Soutien d'infanterie, forts contre les piquiers."
+"Marchands des Ered Luin \n Requiert : Hall des Guerriers niveau 2 et l'amélioration Arkenstone\nLes Nains des Montagnes Bleues sont connus pour leur culture industrieuse et mercantile. Ils voyagent à travers toute la Terre du Milieu pour vendre leurs marchandises principalement avec les Hommes d'Eriador, les Elfes du Lindon et bien sûr avec le peuple de Durin.\n\n Soutien d'infanterie, forts contre les piquiers."
 END
 
 CONTROLBAR:ToolTipBuildEredLuinTraderHordeInn
-"Infanterie de soutien \n Fort contre les Piquiers \n \n Les Nains des Montagnes Bleues sont connus pour leur culture industrieuse et mercantile. Ils voyagent à travers toute la Terre du Milieu pour vendre leurs marchandises."
+"Marchands des Ered Luin \n Infanterie de soutien \n Fort contre les Piquiers \n \n Les Nains des Montagnes Bleues sont connus pour leur culture industrieuse et mercantile. Ils voyagent à travers toute la Terre du Milieu pour vendre leurs marchandises."
 END
 
 CONTROLBAR:TraderEredLuinCram
@@ -63296,7 +63298,7 @@ CONTROLBAR:TraderToymakers2
 END
 
 CONTROLBAR:ToolTipTraderToymakers1
-"Requiert : niveau 4\nLes Marchands peuvent déposer une caisse de feux d'artifice explosifs : clic gauche pour la déployer, puis clic sur l'icône Explosion pour la faire détoner !"
+"Requiert : niveau 4\nLes Marchands peuvent déposer des feux d'artifice explosifs : clic gauche pour la déployer, puis clic sur l'icône Explosion pour la faire détoner !"
 End
 
 CONTROLBAR:ToolTipTraderToymakers2
@@ -63309,31 +63311,31 @@ END
 
 //------------ Monts du Fer Riders ---------------
 OBJECT:IronHillRider
-"Chevaucheur de Bélier des Monts du Fer"
+"Ukhrub-sharâhul"
 END
 
 OBJECT:HordeIronHillRider
-"Chevaucheurs de Béliers des Monts du Fer"
+"Ukhrub-sharâhul"
 END
 
 CONTROLBAR:ConstructIronHillRiderHorde
-"Chevaucheurs de Béliers des Monts du Fer"
+"&Ukhrub-sharâhul"
 END
 
 CONTROLBAR:LW_Unit_IronHillRiderHorde
-"Chevaucheurs de Béliers des Monts du Fer"
+"Bataillon d'Ukhrub-sharâhul"
 END
 
 CONTROLBAR:LW_ToolTip_IronHillRiderHorde
-"Type d'unité : cavalerie d'élite\nForts contre les archers"
+"Chevaucheurs de Béliers des Monts du Fer \n Type d'unité : cavalerie d'élite\nForts contre les archers"
 END
 
 CONTROLBAR:ToolTipBuildIronHillRiderHorde
-"Requiert : l'amélioration Arkenstone\nLes béliers sont les montures favorites des Nains. Les Monts du Fer sont peuplées d'un grand nombre de ces animaux, mais seuls les plus forts et résistants sont sélectionnés pour le dressage en tant que monture.\n\nCavalerie d'élite, forts contre les archers"
+"Chevaucheurs de Béliers des Monts du Fer \n Requiert : Assemblée d'Erebor niveau 3\nLes béliers sont les montures favorites des Nains. Les Monts du Fer sont peuplées d'un grand nombre de ces animaux, mais seuls les plus forts et résistants sont sélectionnés pour le dressage en tant que monture.\n\nCavalerie d'élite, forts contre les archers"
 END
 
 CONTROLBAR:LW_ToolTipBuild_IronHillRiderHorde
-"Type d'unité : cavalerie d'élite\nForts contre les archers"
+"Chevaucheurs de Béliers des Monts du Fer \n Type d'unité : cavalerie d'élite\nForts contre les archers"
 END
 
 CONTROLBAR:RelentlessCharge
@@ -63345,15 +63347,15 @@ CONTROLBAR:ToolTipRelentlessCharge
 END
 
 OBJECT:DwarfMangonel
-"Mangonneau nain"
+"Sulûn-abanul"
 END
 
 CONTROLBAR:ConstructDwarfMangonel
-"Mangonneau nain"
+"&Sulûn-abanul"
 END
 
 CONTROLBAR:ToolTipBuildDwarfMangonel
-"Requiert : Atelier de siège niveau 2 \nL'ingéniosité des Nains permet à ce mangonneau de recharger très rapidement et de cibler avec précision des cibles à grandes distances.\nPeut changer de munitions pour être plus efficace contre l'infanterie.\nLimité à 6 mangonneaux\n\nForts contre les structures."
+"Mangonneau \n Requiert : Atelier de siège niveau 2 \nL'ingéniosité des Nains permet à ce mangonneau de recharger très rapidement et de cibler avec précision des cibles à grandes distances.\nPeut changer de munitions pour être plus efficace contre l'infanterie.\nLimité à 6 mangonneaux\n\nForts contre les structures."
 END
 
 CONTROLBAR:DwarfToggleMangonelWeapons
@@ -63366,11 +63368,11 @@ END
 
 //------------ Khazad Dum Stuff ---------------
 OBJECT:KhazadGuard
-"Vétéran de Khazad-dûm"
+"Âzugh-Khazad-dûm"
 END
 
 OBJECT:HordeKhazadGuard
-"Vétérans de Khazad-dûm"
+"Âzugh-Khazad-dûm"
 END
 
 CONTROLBAR:MoriaLord
@@ -63386,7 +63388,7 @@ CONTROLBAR:KhazadAllies
 End
 
 CONTROLBAR:TooltipKhazadAllies
-"Invoque un pilier de Cavenain entouré de 3 bataillons de Vétérans de Khazad-dûm.\n\nClic gauche sur l'icône puis clic gauche sur une zone praticable"
+"Invoque un pilier de Cavenain entouré de 3 bataillons de Âzugh-Khazad-dûm \n Units in the vicinity of the pillar become immune to Fear and Terror \n Clic gauche sur l'icône puis clic gauche sur une zone praticable"
 END
 
 CONTROLBAR:ThrorHoard
@@ -63423,7 +63425,7 @@ CONTROLBAR:BilboRevive
 END
 
 CONTROLBAR:ElvenBilboHotkey
-"Bilb&on"
+"B&ilbon"
 END
 
 OBJECT:Bilbo
@@ -63489,7 +63491,7 @@ CONTROLBAR:FishBarrel
 END
 
 CONTROLBAR:ToolTipFishBarrel
-"Requiert : niveau 5 \n Bard livre plusieurs tonneaux de poissons qui soigne les alliés proches.\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
+"Requiert : niveau 3 \n Bard livre plusieurs tonneaux de poissons qui soigne les alliés proches.\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
 END
 
 CONTROLBAR:DalishSupremacy
@@ -63576,7 +63578,7 @@ CONTROLBAR:ToolTipCloudBreakErebor
 //"Cancels Pluie Verglaçante or Darkness \n Stuns enemy units \n\nClic gauche pour activer"
 //"Cancels Pluie Verglaçante or Darkness \n Etourdit les unités ennemies \n\nClic gauche pour activer"
 //"Lorsque la dernière lune d'automne et le premier soleil d'hiver sont visibles dans le ciel, la nouvelle année pour les Nains commence : annule Pluie Glacée ou Linceul d'Ombre et étourdit les unités ennemies.\nSoigne lentement les unités alliées sur toute la carte.\n\nClic gauche pour activer"
-"Annule les Vents Occidentaux, Pluie Verglaçante, Avant que le Soleil ne se Lève, Bénédiction d'Ulmo, Bénédiction de Manwë, Le Jour de Durin, Hiver Blanc ou Sombre \n Etourdit les unités ennemies \n Soigne lentement les unités alliées sur la carte \n Clic gauche pour activer"
+"Annule les Vents Occidentaux, Pluie Verglaçante, Avant que le Soleil ne se Lève, Bénédiction d'Ulmo, Bénédiction de Manwë, Le Jour de Durin, Les Lumières s'Éteignent, Hiver Blanc et Ombre \n Etourdit les unités ennemies \n Soigne lentement les unités alliées sur la carte \n Clic gauche pour activer"
 END
 
 CONTROLBAR:Twirlys
@@ -63959,7 +63961,7 @@ CONTROLBAR:EreborDainToTheKingMounted
 End
 
 CONTROLBAR:ToolTipEreborDainToTheKingMounted
-"Requiert : niveau 10 \n A pied : Dáin invoque à ses côtés 3 bataillons de piquiers des Monts du Fer. \n Sur son sanglier : Dáin invoque à ses côtés 3 bataillons de Chevaucheurs de béliers des Monts du Fer. \n\n Clic gauche sur l'icône puis clic gauche sur une zone praticable"
+"Requiert : niveau 10 \n A pied : Dáin invoque à ses côtés 3 bataillons de Baruk-sharâhul. \n Sur son sanglier : Dáin invoque à ses côtés 3 bataillons de Ukhrub-sharâhul. \n\n Clic gauche sur l'icône puis clic gauche sur une zone praticable"
 End
 
 CONTROLBAR:BrotherhoodLeadership
@@ -63995,7 +63997,7 @@ CONTROLBAR:FiliLeadership
 End
 
 CONTROLBAR:ToolTipFiliLeadership
-"Requiert : niveau 8 \n Type d'Action : Charisme \n Les alliés proches de Fíli gagnent +33% dégâts et +33% armure (bonus cumulable). \n\n Capacité passive"
+"Requiert : niveau 8 \n Type d'Action : Charisme \n Les Nains standars d'Erebor et les Nains des Ered Luin proches de Fíli gagnent +33% dégâts et +25% armure \n Cumulable avec les Bonus et les Sorts. \n\n Capacité passive"
 END
 
 CONTROLBAR:KiliQuickshot
@@ -64020,7 +64022,7 @@ End
 
 CONTROLBAR:ToolTipToggleVWLineToPorcupineFormation
 //"Drastically increases armor, but disables movement\n Wardens are also immune to knockback attacks while in this formation"
-"Augmente significativement l'armure au détriment de la vitesse de mouvement. \n Rend les Gardiens des Portes insensibles au renversement et aux effets de piétinement."
+"Augmente significativement l'armure au détriment de la vitesse de mouvement. \n Rend les Azaghâr-gundu insensibles au renversement et aux effets de piétinement."
 End
 
 CONTROLBAR:VWLeadership
@@ -64033,31 +64035,31 @@ END
 
 //------------ Vault Warden ---------------
 OBJECT:EreborVW
-"Gardien des Portes d'Erebor"
+"Azaghâr-gundu"
 END
 
 OBJECT:HordeEreborVW
-"Gardiens des Portes d'Erebor"
+"Azaghâr-gundu"
 END
 
 CONTROLBAR:ConstructEreborVWHorde
-"Gardiens des Portes d'Erebor"
+"Aza&ghâr-gundu"
 END
 
 CONTROLBAR:LW_Unit_EreborVWHorde
-"Gardiens des Portes d'Erebor"
+"Bataillon d'Azaghâr-gundu"
 END
 
 CONTROLBAR:LW_ToolTip_EreborVWHorde
-"Type d'unité : unité spéciale \n Forts contre les cavaliers et les monstres"
+"Gardien des Portes d'Erebor \n Type d'unité : unité spéciale \n Forts contre les cavaliers et les monstres"
 END
 
 CONTROLBAR:ToolTipBuildEreborVWHorde
-"Requiert : Hall des Guerriers niveau 2 \n Les guerriers les plus compétents se voient confier une mission périlleuse. Ils forment des équipes de Gardiens des Portes, des combattants des tunnels spécialisés dans le maniement de pavois et de longs épieux. Cet armement leur permet de repousser les multitudes d'ennemis qui se pressent dans les espaces confinés que forment les portes et les galeries d'Erebor. \n\n Unité spéciale, forts contre les cavaliers et les monstres."
+"Gardien des Portes d'Erebor \n Requiert : Hall des Guerriers niveau 2 \n Les guerriers les plus compétents se voient confier une mission périlleuse. Ils forment des équipes de Gardiens des Portes, des combattants des tunnels spécialisés dans le maniement de pavois et de longs épieux. Cet armement leur permet de repousser les multitudes d'ennemis qui se pressent dans les espaces confinés que forment les portes et les galeries d'Erebor. \n\n Unité spéciale, forts contre les cavaliers et les monstres."
 END
 
 CONTROLBAR:LW_ToolTipBuild_EreborVWHorde
-"Type d'unité : unité spéciale \n Forts contre les cavaliers et les monstres"
+"Gardien des Portes d'Erebor \n Type d'unité : unité spéciale \n Forts contre les cavaliers et les monstres"
 END
 
 OBJECT:DwarvenMoriaPillar
@@ -64114,7 +64116,7 @@ CONTROLBAR:PromoteRoacToLevel3
 End
 
 CONTROLBAR:ToolTipPromoteRoacToLevel3
-"Permet à Roäc de renforcer ses pouvoirs. \n Plus il gagne des niveaux, plus les niveaux suivants sont chers. \n Clic gauche pour acheter une amélioration \n\n Type d'Action : Charisme \n Niveau 1 : les unités alliées proches de Roäc gagnent +5% vitesse. \n Niveau 3 : les héros alliés proches de Roäc gagnent +10% experience. \n Niveau 5 : les unités alliées proches de Roäc gagnent +10% vitesse. (bonus cumulable) \n\n Capacité passive"
+"Permet à Roäc de renforcer ses pouvoirs. \n Clic gauche pour acheter une amélioration \n\n Type d'Action : Charisme \n Niveau 1 : les unités alliées proches de Roäc gagnent +5% vitesse. \n Niveau 3 : les héros alliés proches de Roäc gagnent +10% experience. \n Niveau 5 : les unités alliées proches de Roäc gagnent +10% vitesse. (bonus cumulable) \n\n Capacité passive"
 End
 
 CONTROLBAR:PromoteRoacToLevel5
@@ -64122,11 +64124,11 @@ CONTROLBAR:PromoteRoacToLevel5
 End
 
 CONTROLBAR:ToolTipPromoteRoacToLevel5
-"Permet à Roäc de renforcer ses pouvoirs. \n Plus il gagne des niveaux, plus les niveaux suivants sont chers. \n Clic gauche pour acheter une amélioration \n\n Type d'Action : Charisme \n Niveau 1 : les unités alliées proches de Roäc gagnent +5% vitesse. \n Niveau 3 : les héros alliés proches de Roäc gagnent +10% experience. \n Niveau 5 : les unités alliées proches de Roäc gagnent +10% vitesse. (bonus cumulable) \n\n Capacité passive"
+"Permet à Roäc de renforcer ses pouvoirs. \n Clic gauche pour acheter une amélioration \n\n Type d'Action : Charisme \n Niveau 1 : les unités alliées proches de Roäc gagnent +5% vitesse. \n Niveau 3 : les héros alliés proches de Roäc gagnent +10% experience. \n Niveau 5 : les unités alliées proches de Roäc gagnent +10% vitesse. (bonus cumulable) \n\n Capacité passive"
 End
 
 CONTROLBAR:RoacLordofRavens
-"Seigneur des Corbeaux (&L)"
+"Seigneur des Corbeaux"
 End
 
 CONTROLBAR:ToolTipRoacLordofRavens
@@ -64194,7 +64196,7 @@ CONTROLBAR:RoacMessenger
 END
 
 CONTROLBAR:ToolTipRoacMessenger
-"Requiert : niveau 5 \n Roäc envoie des émissaires de son peuple pour demander à Dáin et à ses troupes d'accourir. \n Invoque un bataillon de Guerriers des Monts du Fer. \n\n Clic gauche sur l'icône puis clic gauche sur une zone praticable"
+"Requiert : niveau 5 \n Roäc envoie des émissaires de son peuple pour demander à Dáin et à ses troupes d'accourir. \n Invoque un bataillon de Ukhrub-sharâhul \n\n Clic gauche sur l'icône puis clic gauche sur une zone praticable"
 END
 
 CONTROLBAR:ToolTipArcahMessenger
@@ -64247,7 +64249,7 @@ CONTROLBAR:ElrohirRevive
 END
 
 CONTROLBAR:ElrohirHotkey
-"Elro&hir"
+"E&lrohir"
 END
 
 CONTROLBAR:ElladanLeadership
@@ -64304,11 +64306,11 @@ CONTROLBAR:TwinsHeroesLeadership
 End
 
 CONTROLBAR:ToolTipTwinsHeroesLeadershipElladan
-"Type d'Action : Charisme \n Garantit 50% de gain d'experience et 25% d'armure aux hommes de Bree proches, Dúnedain et Elfes \n Au niveau 5, reduit le temps de recharge des capacités des héros proches de 25% et \n accroit leurs capacités d'auto-réslience de 25%\n N'affecte pas son frère \n S'accumule avec les Bonus et les Sorts \n Capacité passive"
+"Type d'Action : Charisme \n Garantit 33% de gain d'experience et 25% d'armure aux hommes de Bree proches, Dúnedain et Elfes \n Au niveau 5, reduit le temps de recharge des capacités des héros proches de 25% et \n accroit leurs capacités d'auto-réslience de 25%\n N'affecte pas son frère \n S'accumule avec les Bonus et les Sorts \n Capacité passive"
 End
 
 CONTROLBAR:ToolTipTwinsHeroesLeadershipElrohir
-"Type d'Action : Charisme \n Garantit 50% de gain d'experience et 25% d'armure aux hommes de Bree proches, Dúnedain et Elfes \n Au niveau 5, reduit le temps de recharge des capacités des héros proches de 25% et \n accroit leurs capacités d'auto-réslience de 25%\n N'affecte pas son frère \n S'accumule avec les Bonus et les Sorts \n Capacité passive"
+"Type d'Action : Charisme \n Garantit 33% de gain d'experience et 25% d'armure aux hommes de Bree proches, Dúnedain et Elfes \n Au niveau 5, reduit le temps de recharge des capacités des héros proches de 25% et \n accroit leurs capacités d'auto-réslience de 25%\n N'affecte pas son frère \n S'accumule avec les Bonus et les Sorts \n Capacité passive"
 End
 
 //------------ New Rivendell Stuff ---------------
@@ -64362,7 +64364,7 @@ CONTROLBAR:PurchaseUpgradeRivendellFortressMerriment
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeRivendellFortressMerriment
-"Permet le recrutement des Ménestrels de Fondconbe du Conservatoire"
+"Permet le recrutement des Quentaroli du Conservatoire"
 END
 
 UPGRADE:RivendellMedicine
@@ -64422,7 +64424,7 @@ CONTROLBAR:PurchaseTechnologyRivendellMalice
 END
 
 CONTROLBAR:ToolTipPurchaseTechnologyRivendellMalice
-"Un appel passionné à la vigilance et une mise en garde contre l'inertie en temps de paix apparente, écrit par le roi Thranduil. \n\n Fait stationner de façon permanente des gardes Noldorins près des structures"
+"Un appel passionné à la vigilance et une mise en garde contre l'inertie en temps de paix apparente, écrit par le roi Thranduil. \n\n Fait stationner de façon permanente des Laurëthalion près des structures"
 END
 
 CONTROLBAR:PurchaseTechnologyRivendellDagorlad
@@ -64430,7 +64432,7 @@ CONTROLBAR:PurchaseTechnologyRivendellDagorlad
 END
 
 CONTROLBAR:ToolTipPurchaseTechnologyRivendellDagorlad
-"Une collection d'écrits sur la bataille de Dagorlad. Chronologies, plans de bataille et poèmes, rassemblés par Valandil, fils d'Isildur. \n\n Permet de recruter un bataillon supplémentaire de vétérans de la Dernière Alliance à partir du Dortoir ! La chute de Sauron a coûté cher. Avec la mort de Gil-galad, de nombreux vétérans elfes choisirent de s'attarder à Imladris, maison de leur défunt héraut du Roi."
+"Une collection d'écrits sur la bataille de Dagorlad. Chronologies, plans de bataille et poèmes, rassemblés par Valandil, fils d'Isildur. \n\n Permet de recruter un bataillon supplémentaire de Laurëthelyn à partir du Dortoir ! La chute de Sauron a coûté cher. Avec la mort de Gil-galad, de nombreux vétérans elfes choisirent de s'attarder à Imladris, maison de leur défunt héraut du Roi."
 END
 
 UPGRADE:RivendellAnduril
@@ -64743,11 +64745,11 @@ END
 
 //------------ Vétérans de l'Ultime Alliance aka Ñoldor La Chute de Gil-Galad ---------------
 OBJECT:NoldorVeterans
-"Vétéran Ñoldor"
+"Laurëthalion"
 END
 
 OBJECT:HordeNoldorVeterans
-"Les Vétérans de l'Ultime Alliance"
+"Laurëthelyn"
 END
 
 CONTROLBAR:LAVeteranManyWars
@@ -64783,7 +64785,7 @@ CONTROLBAR:ToolTipLAVeteranFallOfAngmar
 End
 
 CONTROLBAR:ConstructNoldorVeteransHorde
-"Les Vétérans de l'Ultime Alliance"
+"&Laurëthelyn"
 END
 
 CONTROLBAR:ConstructNoldorVeteransGilGaladHorde
@@ -64791,11 +64793,11 @@ CONTROLBAR:ConstructNoldorVeteransGilGaladHorde
 END
 
 CONTROLBAR:ToolTipBuildNoldorVeteransHorde
-"Requiert : Niveau 3 Dortoir \n Unité Héroïque. Limité à 1 \n Fort contre Tous Type d'unités \n\n La Chute de Sauron a coûté cher. Avec Gil-galad tué, de nombreux Vétérans Elfes ont choisi de s'attarder à Fondcombe, la Maison de leur défunt Héraut du Roi."
+"Vétérans de l'Ultime Alliance \n Requiert : Niveau 3 Dortoir \n Unité Héroïque. Limité à 1 \n Fort contre Tous Type d'unités \n\n La Chute de Sauron a coûté cher. Avec Gil-galad tué, de nombreux Vétérans Elfes ont choisi de s'attarder à Fondcombe, la Maison de leur défunt Héraut du Roi."
 END
 
 CONTROLBAR:ToolTipBuildNoldorVeteransGilGaladHorde
-"Requiert : Niveau 3 Dortoir \n Unité Héroïque. Limité à 2 \n Fort contre Tous Type d'unités \n\n La Chute de Sauron a coûté cher. Avec Gil-galad tué, de nombreux Vétérans Elfes ont choisi de s'attarder à Fondcombe, la Maison de leur défunt Héraut du Roi."
+"Vétérans de l'Ultime Alliance \n Requiert : Niveau 3 Dortoir \n Unité Héroïque. Limité à 2 \n Fort contre Tous Type d'unités \n\n La Chute de Sauron a coûté cher. Avec Gil-galad tué, de nombreux Vétérans Elfes ont choisi de s'attarder à Fondcombe, la Maison de leur défunt Héraut du Roi."
 END
 
 //----------Revelers----------------------------------
@@ -64813,7 +64815,7 @@ CONTROLBAR:RevelerWeapon
 END
 
 CONTROLBAR:ToolTipRevelerWeapon
-"Les Ménestrels n'infligent pas de dégâts mais peuvent attaquer les unités en réduissant leur vitesse de déplacement de 10% \n et structures réduissant leur armure de 5% tout en la ciblant \n Peu s'accumuler avec les autres Ménestrels \n Capacité passive"
+"Les Quentaroli n'infligent pas de dégâts mais peuvent attaquer les unités en réduissant leur vitesse de déplacement de 10% \n et structures réduissant leur armure de 5% tout en la ciblant \n Peu s'accumuler avec les autres Ménestrels \n Capacité passive"
 END
 
 CONTROLBAR:StayAWhileAndListen
@@ -64837,7 +64839,7 @@ CONTROLBAR:RevelersAkallabeth
 END
 
 CONTROLBAR:ToolTipRevelersAkallabeth
-"Les Ménestrels peuvent cibler des unités pour diminuer leur vitesse de 5% jusqu'à 25% et les bâtiments pour diminuer leur armure de 5% jusqu'à 25% \n Capacité passive \n Inflige des dégâts important au fil du temps aux structures \n Peut être lancé à grande distance \n Clic gauche sur l'icône puis clic gauche sur la cible"
+"Les Quentaroli peuvent cibler des unités pour diminuer leur vitesse de 5% jusqu'à 25% et les bâtiments pour diminuer leur armure de 5% jusqu'à 25% \n Capacité passive \n Inflige des dégâts important au fil du temps aux structures \n Peut être lancé à grande distance \n Clic gauche sur l'icône puis clic gauche sur la cible"
 END
 
 //----------Arwen-------------------------------------
@@ -64881,7 +64883,7 @@ CONTROLBAR:ArwenEvenstar
 END
 
 CONTROLBAR:ToolTipArwenEvenstar
-"Requiert : Niveau 10 \n Les unité alliées dans le rayon acquièrent temporairement une immunité contre la Peur et sont soignées lorsqu'elles infligent des dégâts \n N'affecte pas les Héros, La Compagnie Grise ou les vétérans de la Dernière Alliance \n Les unités ennemies dans le rayon perdent tout leur Charisme \n Clic gauche sur l'icône puis clic gauche sur la zone ciblée"
+"Requiert : Niveau 10 \n Les unité alliées dans le rayon acquièrent temporairement une immunité contre la Peur et sont soignées lorsqu'elles infligent des dégâts \n N'affecte pas les Héros, La Compagnie Grise ou les Laurëthelyn \n Les unités ennemies dans le rayon perdent tout leur Charisme \n Clic gauche sur l'icône puis clic gauche sur la zone ciblée"
 END
 
 CONTROLBAR:ArwenFlood
@@ -65021,35 +65023,37 @@ OBJECT:IronHillsGuard
 END
 
 OBJECT:IronHillsWarrior
-"Guerrier des Monts du Fer"
+"Baruk-sharâhul"
 END
 
 OBJECT:HordeIronHillsWarrior
-"Guerriers des Monts du Fer"
+//"Guardian"
+"Baruk-sharâhul"
 END
 
 CONTROLBAR:ConstructIronHillsWarriorHorde
-"Guerriers des Monts du Fer"
+"Baru&k-sharâhul"
 END
 
 CONTROLBAR:ToolTipBuildIronHillsWarriorHorde
-"Requiert : l'amélioration Arkenstone \n Les Nains des Monts du Fer sont robustes et fiers, leur caractère trempé par les affrontements constants contre les Orques et les Gobelins qui infestent les Monts Brumeux. \n Leurs Gardiens sont réputés pour leur remarquable ténacité face à l'ennemi et sont équipés de lourds boucliers formant un rempart impénétrable. \n\n Forts contre les piquiers."
+"Guerriers des Monts du Fer \n Requiert : Assemblée d'Erebor niveau 3 \n Les Nains des Monts du Fer sont robustes et fiers, leur caractère trempé par les affrontements constants contre les Orques et les Gobelins qui infestent les Monts Brumeux. \n Leurs Gardiens sont réputés pour leur remarquable ténacité face à l'ennemi et sont équipés de lourds boucliers formant un rempart impénétrable. \n\n Forts contre les piquiers."
 END
 
 OBJECT:IronHillsCrossbow
-"Arbalétrier des Monts du Fer"
+"Azaghâr-sharâhul"
 END
 
 OBJECT:HordeIronHillsCrossbow
-"Arbalétriers des Monts du Fer"
+//"Guardian"
+"Azaghâr-sharâhul"
 END
 
 CONTROLBAR:ConstructIronHillsCrossbowHorde
-"Arbalétriers des Monts du Fer (&C)"
+"&Azaghâr-sharâhul"
 END
 
 CONTROLBAR:ToolTipBuildIronHillsCrossbowHorde
-"Requiert : l'amélioration Arkenstone \n Les Nains des Monts du Fer sont robustes et fiers, leur caractère trempé par les affrontements constants contre les Orques et les Gobelins qui infestent les Monts Brumeux. \n Comme leurs utilisateurs, les arbalètes des Monts du Fer sont courtes et robustes. \n\n Forts contre l'infanterie."
+"Arbalétriers des Monts du Fer \n Requiert : Assemblée d'Erebor niveau 3 \n Les Nains des Monts du Fer sont robustes et fiers, leur caractère trempé par les affrontements constants contre les Orques et les Gobelins qui infestent les Monts Brumeux. \n Comme leurs utilisateurs, les arbalètes des Monts du Fer sont courtes et robustes. \n\n Forts contre l'infanterie."
 END
 
 ///////////////////////////
@@ -65157,15 +65161,15 @@ CONTROLBAR:ToolTipBTEredLuinBannerUpgraded
 END
 
 OBJECT:DwarfBatteringRam
-"Bélier"
+"Urkhas-felak"
 END
 
 CONTROLBAR:ConstructDwarfBatteringRam
-"Bélier"
+"Urkhas-&felak"
 END
 
 CONTROLBAR:ToolTipBuildDwarfBatteringRam
-"Capables de porter un grand poids sur de grandes distances, les Nains d'Erebor forgent et sculptent leurs béliers dans leurs salles, plutôt que d'utiliser des arbres abattus du champ de bataille. \n\n Forts contre les portes des forteresses et les structures ennemies."
+"Bélier \n Capables de porter un grand poids sur de grandes distances, les Nains d'Erebor forgent et sculptent leurs béliers dans leurs salles, plutôt que d'utiliser des arbres abattus du champ de bataille. \n\n Forts contre les portes des forteresses et les structures ennemies."
 END
 
 OBJECT:DwarfSiegeCrew
@@ -65209,7 +65213,7 @@ CONTROLBAR:KnottedStrings
 END
 
 CONTROLBAR:ToolTipKnottedStrings
-"Requiert : niveau 2 \n En tendant les cordes au maximum, les arbalétriers augmentent la force des tirs : ils renversent temporairement leurs ennemis à chaque tir. \n\n Clic gauche pour activer"
+"Requiert : niveau 3 \n En tendant les cordes au maximum, les Azaghâr-sharâhul ignorent temporairement l'armure de leur ennemis \n\n Clic gauche pour activer"
 END
 
 CONTROLBAR:SunderingStrikes
@@ -65229,7 +65233,7 @@ CONTROLBAR:ToolTipPunchThrough
 END
 
 CONTROLBAR:ToolTipKiliArrowDodge
-"Kíli gagne de façon permanente un bonus d'esquive contre les attaques à distance. \n\n Capacité passive"
+"Kíli gagne de façon permanente un bonus d'esquive contre les attaques à distance. \n Au niveau 5, Kili obtient une résistance au renversement \n Capacité passive"
 END
 
 CONTROLBAR:KiliArrowDodge
@@ -65349,7 +65353,7 @@ CONTROLBAR:ToolTipElrondLALeadership
 END
 
 CONTROLBAR:ElrondArrowVolleyAbility
-"Leit&hio I Philinn !"
+"&Leithio I Philinn !"
 END
 
 CONTROLBAR:ToolTipElrondArrowVolleyAbility
@@ -65457,19 +65461,19 @@ CONTROLBAR:VWMineLeadership
 End
 
 CONTROLBAR:ToolTipVWMineLeadership
-"Type d'Action : Charisme \n Lorsqu'ils sont proches d'une mine alliée, les Gardiens des Portes gagnent +25% dégâts et +50% armure et gagnent de l'expérience 50% plus rapidement (bonus cumulable). \n\n Capacité passive"
+"Type d'Action : Charisme \n Lorsqu'ils sont proches d'une mine alliée, les Azaghâr-gundu gagnent +25% dégâts et +50% armure et gagnent de l'expérience 50% plus rapidement (bonus cumulable). \n\n Capacité passive"
 End
 
 OBJECT:HordeDwarvenArcherDwarvenPhalanxCombo
-"Bataillons Piquiers - Archers d'Erebor"
+"Sigin-udrîg - Archers d'Erebor"
 END
 
 CONTROLBAR:LW_Unit_DwarvenArcherDwarvenPhalanxHorde
-"Bataillons Phalanges - Archers d'Erebor"
+"Bataillon de Sigin-udrîg - Archers d'Erebor"
 END
 
 CONTROLBAR:LW_Unit_DwarvenArcherDwarvenPhalanxHordePlural
-"Bataillons Piquiers - Archers d'Erebor"
+"Bataillons de Sigin-udrîg - Archers d'Erebor"
 END
 
 CONTROLBAR:LW_ToolTipBuild_DwarvenArcherDwarvenPhalanxHorde
@@ -65481,15 +65485,15 @@ CONTROLBAR:LW_ToolTip_DwarvenArcherDwarvenPhalanxHorde
 END
 
 OBJECT:HordeDwarvenArcherDwarvenGuardianCombo
-"Bataillon Gardien - Archer d'Erebor"
+"Âzagh-baruk - Rakhâs-abzâg"
 END
 
 CONTROLBAR:LW_Unit_DwarvenArcherDwarvenGuardianHorde
-"Bataillons Gardiens - Archers d'Erebor"
+"Bataillon d'Âzagh-baruk - Rakhâs-abzâg"
 END
 
 CONTROLBAR:LW_Unit_DwarvenArcherDwarvenGuardianHordePlural
-"Bataillons Gardiens - Archers d'Erebor"
+"Bataillons d'Âzagh-baruk - Rakhâs-abzâg"
 END
 
 CONTROLBAR:LW_ToolTipBuild_DwarvenArcherDwarvenGuardianHorde
@@ -65497,11 +65501,11 @@ CONTROLBAR:LW_ToolTipBuild_DwarvenArcherDwarvenGuardianHorde
 END
 
 OBJECT:HordeIronHillsArcherDwarvenGuardianCombo
-"Bataillon Guerrier des Monts du Fer - Arbaletrier des Monts du Fer"
+"Baruk-sharâhul - Azaghâr-sharâhul"
 END
 
 CONTROLBAR:LW_Unit_IronHillsArcherDwarvenGuardianHordePlural
-"Bataillons Guerriers des Monts du Fer - Arbaletriers des Monts du Fer"
+"Bataillons de Baruk-sharâhul - Azaghâr-sharâhul"
 END
 
 CONTROLBAR:LW_ToolTipBuild_IronHillsArcherDwarvenGuardianHorde
@@ -65509,15 +65513,15 @@ CONTROLBAR:LW_ToolTipBuild_IronHillsArcherDwarvenGuardianHorde
 END
 
 OBJECT:HordeDwarvenPhalanxDwarvenGuardianCombo
-"Bataillons Gardiens - Piquiers d'Erebor"
+"Bataillon d'Âzagh-baruk - Sigin-udrîg"
 END
 
 CONTROLBAR:LW_Unit_DwarvenPhalanxDwarvenGuardianHorde
-"Bataillons Gardiens - Phalanges d'Erebor"
+"Bataillon d'Âzagh-baruk - Sigin-udrîg"
 END
 
 CONTROLBAR:LW_Unit_DwarvenPhalanxDwarvenGuardianHordePlural
-"Bataillons Gardiens - Piquiers d'Erebor"
+"Bataillons d'Âzagh-baruk - Sigin-udrîg"
 END
 
 CONTROLBAR:LW_ToolTipBuild_DwarvenPhalanxDwarvenGuardianHorde
