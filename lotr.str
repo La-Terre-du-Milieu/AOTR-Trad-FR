@@ -15512,7 +15512,7 @@ CONTROLBAR:EyeofSauron
 End
 
 CONTROLBAR:Darkness
-"Linceul d'Ombre"
+"Ombre"
 End
 
 CONTROLBAR:MordorCalltheHorde
@@ -29143,10 +29143,6 @@ END
 
 CONTROLBAR:LW_Unit_MirkwoodSpearHordePlural
 "Bataillons de Thelamaethor"
-END
-
-OBJECT:MirkwoodSpears
-"Thelamaethyr"
 END
 
 CONTROLBAR:LW_ToolTipBuild_MirkwoodSpearHorde
@@ -54737,13 +54733,13 @@ END
 CONTROLBAR:ToolTipWhiteWinter
 //"Temporarily covers the map in rain \n All enemy units lose their leadership bonuses \n Clic gauche pour activer"
 //"Temporarily covers the map in rain\nReduces enemy armor and damage\nNullifies enemy Leadership\nClic gauche pour activer"
-"Couvre temporairement la carte dans une Tempête de neige qui fait rage \n Annule les Vents Occidentaux, Pluie Verglaçante, Avant que le Soleil ne se Lève, Bénédiction d'Ulmo, Bénédiction de Manwë, Le Jour de Durin, Les Lumièrse s'Eteignent, Hiver Blanc et Sombre \n Type d'Action : Alteration Active \n Les unités ennemies subissent -25% De dégâts, -20% d'Armure, et -30% de porte de vision. Annule le Charisme ennemi \n Ne s'accumule pas avec les autres altérations \n Clic gauche pour activer"
+"Couvre temporairement la carte dans une Tempête de neige qui fait rage \n Annule les Vents Occidentaux, Pluie Verglaçante, Avant que le Soleil ne se Lève, Bénédiction d'Ulmo, Bénédiction de Manwë, Le Jour de Durin, Extinction des Feux, Hiver Blanc et Ombre \n Type d'Action : Alteration Active \n Les unités ennemies subissent -25% De dégâts, -20% d'Armure, et -30% de porte de vision. Annule le Charisme ennemi \n Ne s'accumule pas avec les autres altérations \n Clic gauche pour activer"
 END
 
 CONTROLBAR:ToolTipFreezingRain
 //"Des nuages sombres s'amoncellent et recouvrent temporairement la carte d'une pluie drue et glacée : tous les ennemis perdent leurs bonus de Charisme.\n\nClic gauche pour activer"
 //"Des nuages sombres s'amoncellent et recouvrent temporairement la carte d'une pluie drue et glacée : tous les ennemis perdent leurs bonus de Charisme.\n Réduit l'armure et les dégâts des ennemis.\n\nClic gauche pour activer"
-"Type d'Action : Pénalité active\n Des nuages sombres s'amoncellent et recouvrent temporairement la carte d'une pluie drue et glacée : tous les ennemis perdent leur bonus de Charisme et subissent -25% dégâts et -20% armure (Pénalité non cumulable).\n Annule les Vents Occidentaux, Pluie Verglaçante, Avant que le Soleil ne se Lève, Bénédiction d'Ulmo, Bénédiction de Manwë, Le Jour de Durin, Les Lumièrse s'Eteignent, Hiver Blanc et Sombre \n\nClic gauche pour activer"
+"Type d'Action : Pénalité active\n Des nuages sombres s'amoncellent et recouvrent temporairement la carte d'une pluie drue et glacée : tous les ennemis perdent leur bonus de Charisme et subissent -25% dégâts et -20% armure (Pénalité non cumulable).\n Annule les Vents Occidentaux, Pluie Verglaçante, Avant que le Soleil ne se Lève, Bénédiction d'Ulmo, Bénédiction de Manwë, Le Jour de Durin, Extinction des Feux, Hiver Blanc et Ombre \n\nClic gauche pour activer"
 END
 
 CONTROLBAR:TooltipSummonWatcher
@@ -57810,7 +57806,7 @@ CONTROLBAR:ToolTipDarkness
 //"Chasse la lumière du champ de bataille qui se trouve plongé dans les ténèbres : tous les alliés gagnent +50% dégâts et +50% armure.\n\nClic gauche pour activer"
 //"Chasse la lumière du champ de bataille qui se trouve plongé dans les ténèbres : tous les alliés gagnent +33% dégâts et +33% armure.\n\nClic gauche pour activer"
 //"Type d'Action : Sort\n Chasse temporairement la lumière du champ de bataille qui se trouve plongé dans les ténèbres.\nTous les alliés gagnent +33% dégâts et +33% armure (bonus cumulable).\n\nClic gauche pour activer"
-"Chasse temporairement la lumière du champ de bataille qui se trouve plongé dans les ténèbres \n Annule les Vents Occidentaux, Pluie Verglaçante, Avant que le Soleil ne se Lève, Bénédiction d'Ulmo, Bénédiction de Manwë, Le Jour de Durin, Les Lumières s'Éteignent, Hiver Blanc et Ombre \n Type d'Action : Sort \n Tous les alliés gagnent +33% dégâts et +33% armure (bonus cumulable) \n Clic gauche pour activer"
+"Chasse temporairement la lumière du champ de bataille qui se trouve plongé dans les ténèbres \n Annule les Vents Occidentaux, Pluie Verglaçante, Avant que le Soleil ne se Lève, Bénédiction d'Ulmo, Bénédiction de Manwë, Le Jour de Durin, Extinction des feux, Hiver Blanc et Ombre \n Type d'Action : Sort \n Tous les alliés gagnent +33% dégâts et +33% armure (bonus cumulable) \n Clic gauche pour activer"
 END
 
 CONTROLBAR:ToolTipWitchkingMorgulCorruption
@@ -58455,7 +58451,7 @@ CONTROLBAR:ToolTipCloudBreak
 //"Annule Pluie glacée et Ombre.\n Etourdit les unités ennemies.\n\nClic gauche pour activer"
 //"Annule Pluie glacée et Ombre.\n Etourdit les unités ennemies.\n\nClic gauche pour activer"
 //"Le soleil perce le ciel et illumine le champ de bataille de sa clarté resplendissante. Annule Pluie glacée et Linceul d'Ombre.\nEtourdit les ennemis et soigne lentement les alliés sur la carte.\n\nClic gauche pour activer"
-"Annule les Vents Occidentaux, Pluie Verglaçante, Avant que le Soleil ne se Lève, Bénédiction d'Ulmo, Bénédiction de Manwë, Le Jour de Durin, Les Lumières s'Éteignent, Hiver Blanc et Ombre \n Etourdit les unités ennemies \n Soigne lentement les unités alliées sur la carte \n Clic gauche pour activer"
+"Annule les Vents Occidentaux, Pluie Verglaçante, Avant que le Soleil ne se Lève, Bénédiction d'Ulmo, Bénédiction de Manwë, Le Jour de Durin, Extinction des feux, Hiver Blanc et Ombre \n Etourdit les unités ennemies \n Soigne lentement les unités alliées sur la carte \n Clic gauche pour activer"
 END
 
 CONTROLBAR:TooltipCampaignCloudBreak
@@ -58465,7 +58461,7 @@ END
 CONTROLBAR:ToolTipCloudBreakGondor
 //"Annule pluie glacée ou Ténébres \n Etourdit les unités ennemies \n Clic gauche pour activer"
 //"Annule pluie glacée ou Ténébres \n Etourdit les unités ennemies\n Clic gauche pour activer"
-"Annule les Vents Occidentaux, Pluie Verglaçante, Avant que le Soleil ne se Lève, Bénédiction d'Ulmo, Bénédiction de Manwë, Le Jour de Durin, Les Lumières s'Éteignent, Hiver Blanc et Ombre \n Etourdit les unités ennemies \n Octroie +33% de bonus de vitesse aux unités alliées sur la carte \n Clic gauche pour activer"
+"Annule les Vents Occidentaux, Pluie Verglaçante, Avant que le Soleil ne se Lève, Bénédiction d'Ulmo, Bénédiction de Manwë, Le Jour de Durin, Extinction des feux, Hiver Blanc et Ombre \n Etourdit les unités ennemies \n Octroie +33% de bonus de vitesse aux unités alliées sur la carte \n Clic gauche pour activer"
 END
 
 CONTROLBAR:SpecialAbilityHumanHeads
@@ -61892,7 +61888,7 @@ CONTROLBAR:ToolTipCloudBreakLorien
 //"Cancels Pluie Verglaçante or Darkness \n Stuns enemy units \n\nClic gauche pour activer"
 //"Cancels Pluie Verglaçante or Darkness \n Etourdit les unités ennemies \n\nClic gauche pour activer"
 //"Le soleil perce le ciel et illumine le champ de bataille de sa clarté resplendissante. Annule Pluie glacée et Linceul d'Ombre.\nEtourdit les ennemis et soigne lentement les alliés sur la carte.\n\nClic gauche pour activer"
-"Annules, les Vents Occidentaux, la Pluie Verglaçante, Avant que le Soleil ne se lève, Bénédiction d'Ulmo, Bénédiction de Manwë, Le Jour de Durin, Les Lumières s'Éteignent, Hiver Blanc et Ombre \n Etourdit les unités ennemies \n Soigne lentement les unités alliées sur la carte \n Clic gauche pour activer"
+"Annule, les Vents Occidentaux, la Pluie Verglaçante, Avant que le Soleil ne se lève, Bénédiction d'Ulmo, Bénédiction de Manwë, Le Jour de Durin, Extinction des feux, Hiver Blanc et Ombre \n Etourdit les unités ennemies \n Soigne lentement les unités alliées sur la carte \n Clic gauche pour activer"
 END
 
 CONTROLBAR:CastDown
@@ -62688,7 +62684,7 @@ End
 
 CONTROLBAR:ToolTipBlessingofUlmo
 //"Temporarily covers the map in rain \n Type d'Action : Pénalité active \n Enemy units suffer -25% dégâts and -20% armure\nNullifies enemy Charisme \n (Bonus non cumulable)\n\nClic gauche pour activer"
-"Couvre temporaiement la carte d'une averse de pluie \n Annule les Vents Occidentaux, Pluie Verglaçante, Avant que le Soleil ne se Lève, Bénédiction d'Ulmo, Bénédiction de Manwë, Le Jour de Durin, Les Lumières s'Éteignent, Hiver Blanc et Ombre \n Toutes les unités amies acquièrent l'immunité contre la Peur, la Terreur et sont lentement guéries \n Les Vergers génèrent +30% de ressources supplémentaire et gagnent +25% d'Armure \n Bénéficie à tous les alliés de Fondcombe \n\n Clic gauche pour activer"
+"Couvre temporaiement la carte d'une averse de pluie \n Annule les Vents Occidentaux, Pluie Verglaçante, Avant que le Soleil ne se Lève, Bénédiction d'Ulmo, Bénédiction de Manwë, Le Jour de Durin, Extinction des feux, Hiver Blanc et Ombre \n Toutes les unités amies acquièrent l'immunité contre la Peur, la Terreur et sont lentement guéries \n Les Vergers génèrent +30% de ressources supplémentaire et gagnent +25% d'Armure \n Bénéficie à tous les alliés de Fondcombe \n\n Clic gauche pour activer"
 END
 
 CONTROLBAR:Relics
@@ -63578,7 +63574,7 @@ CONTROLBAR:ToolTipCloudBreakErebor
 //"Cancels Pluie Verglaçante or Darkness \n Stuns enemy units \n\nClic gauche pour activer"
 //"Cancels Pluie Verglaçante or Darkness \n Etourdit les unités ennemies \n\nClic gauche pour activer"
 //"Lorsque la dernière lune d'automne et le premier soleil d'hiver sont visibles dans le ciel, la nouvelle année pour les Nains commence : annule Pluie Glacée ou Linceul d'Ombre et étourdit les unités ennemies.\nSoigne lentement les unités alliées sur toute la carte.\n\nClic gauche pour activer"
-"Annule les Vents Occidentaux, Pluie Verglaçante, Avant que le Soleil ne se Lève, Bénédiction d'Ulmo, Bénédiction de Manwë, Le Jour de Durin, Les Lumières s'Éteignent, Hiver Blanc et Ombre \n Etourdit les unités ennemies \n Soigne lentement les unités alliées sur la carte \n Clic gauche pour activer"
+"Annule les Vents Occidentaux, Pluie Verglaçante, Avant que le Soleil ne se Lève, Bénédiction d'Ulmo, Bénédiction de Manwë, Le Jour de Durin, Extinction des feux, Hiver Blanc et Ombre \n Etourdit les unités ennemies \n Soigne lentement les unités alliées sur la carte \n Clic gauche pour activer"
 END
 
 CONTROLBAR:Twirlys
@@ -65529,15 +65525,15 @@ CONTROLBAR:LW_ToolTipBuild_DwarvenPhalanxDwarvenGuardianHorde
 END
 
 OBJECT:HordeDwarvenHammerDwarvenGuardianCombo
-"Bataillons Gardiens d'Erebor - Marteliers Sinistre"
+"Âzagh-baruk - Sulkhâ-bekhâz"
 END
 
 CONTROLBAR:LW_Unit_DwarvenHammerDwarvenGuardianHorde
-"Bataillon Gardien d'Erebor - Martelier Sinistre"
+"Bataillon de Âzagh-baruk - Sulkhâ-bekhâz"
 END
 
 CONTROLBAR:LW_Unit_DwarvenHammerDwarvenGuardianHordePlural
-"Bataillons Gardiens d'Erebor - Marteliers Sinistre"
+"Bataillons de Âzagh-baruk - Sulkhâ-bekhâz"
 END
 
 CONTROLBAR:LW_ToolTipBuild_DwarvenHammerDwarvenGuardianHorde
@@ -65549,11 +65545,11 @@ CONTROLBAR:LW_ToolTip_DwarvenHammerDwarvenGuardianHorde
 END
 
 OBJECT:HordeDwarvenHammerDwarvenHammerCombo
-"Bataillon de Marteliers Sinistre d'Erebor combiné"
+"Bataillon de Sulkhâ-bekhâz combiné"
 END
 
 CONTROLBAR:LW_Unit_DwarvenHammerDwarvenHammerHordePlural
-"Bataillon de Marteliers Sinistre d'Erebor combiné"
+"Bataillons de Sulkhâ-bekhâz combiné"
 END
 
 CONTROLBAR:LW_ToolTipBuild_DwarvenHammerDwarvenHammerHorde
@@ -65561,15 +65557,15 @@ CONTROLBAR:LW_ToolTipBuild_DwarvenHammerDwarvenHammerHorde
 END
 
 OBJECT:HordeDwarvenPhalanxDwarvenHammerCombo
-"Bataillon Marteliers Sinistre - Piquiers d'Erebor"
+"Sulkhâ-bekhâz - Sigin-udrîg"
 END
 
 CONTROLBAR:LW_Unit_DwarvenPhalanxDwarvenHammerHorde
-"Bataillon Marteliers Sinistre - Phalange d'Erebor"
+"Bataillon Sulkhâ-bekhâz - Sigin-udrîg"
 END
 
 CONTROLBAR:LW_Unit_DwarvenPhalanxDwarvenHammerHordePlural
-"Bataillons de Marteliers Sinistre - Piquiers d'Erebor"
+"Bataillons Sulkhâ-bekhâz - Sigin-udrîg"
 END
 
 CONTROLBAR:LW_ToolTipBuild_DwarvenPhalanxDwarvenHammerHorde
@@ -65581,19 +65577,19 @@ CONTROLBAR:LW_ToolTip_DwarvenPhalanxDwarvenHammerHorde
 END
 
 OBJECT:GrimHammer
-"Martelier Sinistre d'Erebor"
+"Sulkhâ-bekhâz"
 END
 
 OBJECT:HordeGrimHammer
-"Marteliers Sinistre d'Erebor"
+"Sulkhâ-bekhâz"
 END
 
 CONTROLBAR:ConstructGrimHammerHorde
-"Marteliers Sinistre d'Erebor (&H)"
+"Sulkhâ-be&khâz"
 END
 
 CONTROLBAR:ToolTipBuildGrimHammerHorde
-"Lorsque les Nains se rassemblent pour infliger leur terrible vengeance, leur avant-garde est souvent constituée de Mornes-martels. Ces guerriers Nains déterminés, engoncés des pieds à la tête dans une armure de plates et de mailles, progressent avec des intentions meurtrières. \n\n Forts contre les piquiers."
+"Marteliers Sinistre d'Erebor \n Lorsque les Nains se rassemblent pour infliger leur terrible vengeance, leur avant-garde est souvent constituée de Mornes-martels. Ces guerriers Nains déterminés, engoncés des pieds à la tête dans une armure de plates et de mailles, progressent avec des intentions meurtrières. \n\n Forts contre les piquiers."
 END
 
 CONTROLBAR:GrimIntimidate
@@ -65629,7 +65625,7 @@ CONTROLBAR:DwarvenWagonButon1
 END
 
 CONTROLBAR:TooltipDwarvenWagonButon1
-"Requiert : niveau 3 \n Ajoute plusieurs arbalétriers au chariot de guerre."
+"Requiert : niveau 5 \n Ajoute plusieurs arbalétriers au chariot de guerre."
 END
 
 CONTROLBAR:DwarvenWagonButon2
@@ -65645,7 +65641,7 @@ CONTROLBAR:DwarvenWagonButon3
 END
 
 CONTROLBAR:TooltipDwarvenWagonButon3
-"Requiert : niveau 5 \n Le chariot et son équipage se soignent en dehors des combats."
+"Requiert : niveau 3 \n Le chariot et son équipage se soignent en dehors des combats."
 END
 
 //----- Dol Guldur --------
@@ -65921,7 +65917,7 @@ OBJECT:HallOfFire
 END
 
 OBJECT:HallOfFireDescription
-"Asseyez-vous près du foyer et écoutez les contes d'autrefois. \n\nType d'Action : Charisme \n Les alliés proches de la Salle de feu gagnent +33% d'armure, gagnent 50% d'expérience plus rapidement, et deviennent immunisés contre la peur et la terreur \n S'aditionne avec les bonus et le Charisme \n Réapprovisionne la santé et les unités des bataillons proches\n La Salle de feu peut évoquer des images vivantes du passé qui inspirent la peur et causent des dégâts aux unités ennemies"
+"Asseyez-vous près du foyer et écoutez les contes d'autrefois. \n\nType d'Action : Charisme \n Les alliés proches de la Salle de feu gagnent +33% d'armure, gagnent 50% d'expérience plus rapidement, et deviennent immunisés contre la peur et la terreur \n Le temps de recharge des pouvoirs des Quentaroli proches est diminué \n S'aditionne avec les bonus et le Charisme \n Réapprovisionne la santé et les unités des bataillons proches\n La Salle de feu peut évoquer des images vivantes du passé qui inspirent la peur et causent des dégâts aux unités ennemies"
 END
 
 CONTROLBAR:HallOfFireSpawnGilGalad
@@ -66013,7 +66009,7 @@ CONTROLBAR:LW_Unit_GoblinTownFighterHordePlural
 END
 
 CONTROLBAR:LW_ToolTipBuild_GoblinTownFighterHorde
-"Type d'unité : Infanterie Basique \n Fort contre les Piquiers"
+"Type d'unité : Infanterie Basique \n Fort contre les Piquiers \n Recrute deux hordes"
 END
 
 LWA:RivendellGarrison
@@ -66105,11 +66101,11 @@ CONTROLBAR:LW_ToolTip_Orophin
 END
 
 BANNERUI:ElvenLorienSentry
-"Gardien du Lórien"
+"Tawar-na-Eithor"
 END
 
 BANNERUI:ElvenLorienSentries
-"Les Gardiens du Lórien"
+"Tawar-na-Eithyr"
 END
 
 CONTROLBAR:LW_ToolTip_Galadriel
@@ -66117,63 +66113,63 @@ CONTROLBAR:LW_ToolTip_Galadriel
 END
 
 CONTROLBAR:LW_Unit_CerinAmrothSentinelHordePlural
-"Bataillons de Sentinelles du Cerin Amroth "
+"Batallions de Gwahaedhrim"
 END
 
 BANNERUI:CerinAmrothSentinel
-"Sentinelle du Cerin Amroth"
+"Gwahaedir"
 END
 
 BANNERUI:CerinAmrothSentinels
-"Les Sentinelles du Cerin Amroth"
+"Gwahaedhrim"
 END
 
 CONTROLBAR:LW_Unit_LorienStalkerHordePlural
-"Bataillons des Traqueurs du Chemin des Sindar"
+"Batallions de Tawar-na-Thirrad"
 END
 
 BANNERUI:LorienStalker
-"Traqueur du Chemin des Sindar"
+"Tawar-na-Thirrad"
 END
 
 BANNERUI:LorienStalkers
-"Les Traqueurs du Chemin des Sindar"
+"Tawar-na-Thirrad"
 END
 
 CONTROLBAR:LW_Unit_ElvenGaladhrimWarriorHordePlural
-"Bataillons de Gardiens de la Marche"
+"Batallions de Edrain-na-Maethyr"
 END
 
 BANNERUI:GaladhrimWarrior
-"Les Gardiens de la Marche"
+"Edrain-na-Maethor"
 END
 
 BANNERUI:GaladhrimWarriors
-"Les Gardiens de la Marche"
+"Edrain-na-Maethyr"
 END
 
 CONTROLBAR:LW_Unit_NimrodelHordePlural
-"Bataillons Éclaireurs de Nimrodel"
+"Bataillons de Nimrodel-na-Lethril"
 END
 
 BANNERUI:NimrodelScout
-"Éclaireur de Nimrodel"
+"Nimrodel-na-Lethril"
 END
 
 BANNERUI:NimrodelScouts
-"Éclaireurs de Nimrodel"
+"Nimrodel-na-Lethril"
 END
 
 CONTROLBAR:LW_Unit_ElvenAmrothKnightHordePlural
-"Bataillons de Chevaliers d'Amroth"
+"Bataillons d'Amroth-na-Erphin"
 END
 
 BANNERUI:AmrothKnight
-"Les Chevaliers d'Amroth"
+"Amroth-na-Arphen"
 END
 
 BANNERUI:AmrothKnights
-"Les Chevaliers d'Amroth"
+"Amroth-na-Erphin"
 END
 
 CONTROLBAR:LW_Unit_ElvenNandorBlademasterHordePlural
@@ -66233,7 +66229,7 @@ CONTROLBAR:LW_Hero_Balin
 END
 
 CONTROLBAR:LW_Unit_EreborArcherHordePlural
-"Bataillons d'Archers d'Erebor"
+"Bataillons de Rakhâs-abzâg"
 END
 
 CONTROLBAR:LW_Hero_Wulfgar
@@ -66517,35 +66513,35 @@ BANNERUI:PluralMenofDaleSword
 END
 
 BANNERUI:IronHillRider
-"Chevaucheur des Monts du Fer"
+"Ukhrub-sharâhul"
 END
 
 BANNERUI:PluralIronHillRider
-"Chevaucheurs des Monts du Fer"
+"Ukhrub-sharâhul"
 END
 
 BANNERUI:IronHillsCrossbow
-"Arbalétrier des Monts du Fer"
+"Azaghâr-sharâhul"
 END
 
 BANNERUI:PluralIronHillsCrossbow
-"Arbalétriers des Monts du Fer"
+"Azaghâr-sharâhul"
 END
 
 BANNERUI:IronHillsWarrior
-"Guerrier des Monts du Fer"
+"Baruk-sharâhul"
 END
 
 BANNERUI:PluralIronHillsWarrior
-"Guerriers des Monts du Fer"
+"Baruk-sharâhul"
 END
 
 BANNERUI:DwarvenEredLuinTrader
-"Commerçant d'Ered Luin"
+"Usjur-Khagal-zirak"
 END
 
 BANNERUI:PluralDwarvenEredLuinTrader
-"Commerçants d'Ered Luin"
+"Usjur-Khagal-zirak"
 END
 
 CONTROLBAR:LW_ToolTipBuild_Imrahil
@@ -66565,27 +66561,27 @@ BANNERUI:PluralLaketownSpearmen
 END
 
 BANNERUI:DwarvenVaultWarden
-"Gardien de la Chambre Forte d'Erebor"
+"Azaghâr-gundu"
 END
 
 BANNERUI:PluralDwarvenVaultWarden
-"Gardiens de la Chambre Forte d'Erebor"
+"Azaghâr-gundu"
 END
 
 BANNERUI:DwarvenArchers
-"Archers d'Erebor"
+"Rakhâs-abzâg"
 END
 
 BANNERUI:PluralDwarvenArchers
-"Archers d'Erebor"
+"Rakhâs-abzâg"
 END
 
 BANNERUI:DwarvenZerker
-"Tueur de Wyrm d'Erebor"
+"Adâruf-sulûkh"
 END
 
 BANNERUI:DwarvenZerkers
-"Tueurs de Wyrm d'Erebor"
+"Adâruf-sulûkh"
 END
 
 BANNERUI:DwarvenBatteringRam
@@ -66597,27 +66593,27 @@ BANNERUI:DwarvenBatteringRams
 End
 
 BANNERUI:DwarvenDemolisher
-"Demoliseur des Monts du Fer"
+"Zirinmazn"
 End
 
 BANNERUI:DwarvenDemolishers
-"Demoliseurs des Monts du Fer"
+"Zirinmazn"
 End
 
 BANNERUI:DwarvenMangonel
-"Mangonneau"
+"Sulûn-abanul"
 End
 
 BANNERUI:DwarvenMangonels
-"Mangonneaux"
+"Sulûn-abanul"
 End
 
 BANNERUI:DwarvenGrimHammer
-"Marteliers Sinistre"
+"Sulkhâ-bekhâz"
 End
 
 BANNERUI:DwarvenGrimHammers
-"Marteliers Sinistre"
+"Sulkhâ-bekhâz"
 END
 
 BANNERUI:GondorLinhirSentry
@@ -66645,31 +66641,31 @@ LWScenario:WOTRWarInTheNorthDescription
 END
 
 CONTROLBAR:LW_Structure_DwarvenWorkshop
-"Atelier"
+"Erebor Redoubt"
 END
 
 CONTROLBAR:LW_ToolTipBuild_DwarvenWorkshop
-"Type de Structure: Armurerie \n Accorde toutes les améliorations aux unités \n Permet la constructions des engins de siège"
+"Battle Template: Erebor Redoubt\n\nStructure Type: Elite Barracks\nTrains Erebor elite units\n"
 END
 
 CONTROLBAR:LW_ToolTip_DwarvenWorkshop
-"Type de Structure:  Armurerie \n Accorde toutes les améliorations aux unités \n Permet la constructions des engins de siège"
+"Battle Template: Erebor Redoubt\n\nStructure Type: Elite Barracks\nTrains Erebor elite units"
 END
 
 CONTROLBAR:LW_Unit_DwarvenBatteringRam
-"Bélier d'Erebor"
+"Urkhas-felak"
 END
 
 CONTROLBAR:LW_Unit_DwarvenBatteringRamPlural
-"Béliers d'Erebor"
+"Urkhas-felak"
 END
 
 CONTROLBAR:LW_ToolTipBuild_DwarvenBatteringRam
-"Type d'unité : Siège \n Fort contre les Structures"
+"Béliers d'Erebor \n Type d'unité : Siège \n Fort contre les Structures"
 END
 
 CONTROLBAR:LW_ToolTip_DwarvenBatteringRam
-"Type d'unité : Siège \n Fort contre les Structures"
+"Béliers d'Erebor \n Type d'unité : Siège \n Fort contre les Structures"
 END
 
 CONTROLBAR:LW_Unit_ArnorBatteringRam
@@ -66681,35 +66677,35 @@ CONTROLBAR:LW_Unit_ArnorBatteringRamPlural
 END
 
 CONTROLBAR:LW_Unit_DwarvenDemolisher
-"Démolisseur des Monts du Fer"
+"Zirinmazn"
 END
 
 CONTROLBAR:LW_Unit_DwarvenDemolisherPlural
-"Démolisseurs des Monts du Fer"
+"Zirinmazn"
 END
 
 CONTROLBAR:LW_ToolTipBuild_DwarvenDemolisher
-"Type d'unité : Siège \n Fort contre les Structures"
+"Démolisseur \n Type d'unité : Siège \n Fort contre les Structures"
 END
 
 CONTROLBAR:LW_ToolTip_DwarvenDemolisher
-"Type d'unité : Siège \n Fort contre les Structures"
+"Démolisseur \n Type d'unité : Siège \n Fort contre les Structures"
 END
 
 CONTROLBAR:LW_Unit_DwarvenMangonel
-"Mangonneau d'Erebor"
+"Sulûn-abanul"
 END
 
 CONTROLBAR:LW_Unit_DwarvenMangonelPlural
-"Mangonneaux d'Erebor"
+"Sulûn-abanul"
 END
 
 CONTROLBAR:LW_ToolTipBuild_DwarvenMangonel
-"Type d'unité : Siège \n Fort contre les Structures"
+"Mangonneau \n Type d'unité : Siège \n Fort contre les Structures"
 END
 
 CONTROLBAR:LW_ToolTip_DwarvenMangonel
-"Type d'unité : Siège \n Fort contre les Structures"
+"Mangonneau \n Type d'unité : Siège \n Fort contre les Structures"
 END
 
 CONTROLBAR:LW_Unit_GondorPinnathGelinHordePlural
@@ -66725,63 +66721,63 @@ CONTROLBAR:LW_Unit_GondorLamedonFighterHordePlural
 END
 
 CONTROLBAR:LW_Unit_IronHillsCrossbowHordePlural
-"Bataillons d'Arbalétriers des Monts du Fer"
+"Bataillons d'Azaghâr-sharâhul"
 END
 
 CONTROLBAR:LW_Unit_IronHillsWarriorCrossbowHorde
-"Guerriers des Monts du Fer - Bataillon d'Arbalétrier des Monts du Fer"
+"Bataillon de Baruk-sharâhul - Azaghâr-sharâhul"
 END
 
 CONTROLBAR:LW_Unit_IronHillsWarriorCrossbowHordePlural
-"Guerriers des Monts du Fer - Bataillons d'Arbalétriers des Monts du Fer"
+"Bataillons de Baruk-sharâhul - Azaghâr-sharâhul"
 END
 
 CONTROLBAR:LW_Unit_IronHillRiderHordePlural
-"Bataillons de Chevaucheurs des Monts du Fer"
+"Batallions de Ukhrub-sharâhul"
 END
 
 CONTROLBAR:LW_Unit_MenofDaleSwordHordePlural
-"Epéiste Bardeur Batalions"
+"Batallions de Barding Swordsman"
 END
 
 CONTROLBAR:LW_Unit_IronHillsWarriorHorde
-"Bataillon de Guerriers des Monts du Fer"
+"Batallion de Baruk-sharâhul"
 End
 
 CONTROLBAR:LW_Unit_IronHillsWarriorHordePlural
-"Bataillons de Guerriers des Monts du Fer"
+"Batallions de Baruk-sharâhul"
 End
 
 CONTROLBAR:LW_ToolTipBuild_IronHillsWarriorHorde
-"Type d'unité : Infanterie d'Elite \n Fort contre les Piquiers"
+"Guerriers des Monts du Fer \n Type d'unité : Infanterie d'Elite \n Fort contre les Piquiers"
 END
 
 CONTROLBAR:LW_ToolTip_IronHillsWarriorHorde
-"Type d'unité : Infanterie d'Elite \n Fort contre les Piquiers"
+"Guerriers des Monts du Fer \n Type d'unité : Infanterie d'Elite \n Fort contre les Piquiers"
 END
 
 CONTROLBAR:LW_Unit_IronHillsCrossbowHorde
-"Bataillon d'Arbalétrier des Monts du Fer"
+"Bataillon d'Azaghâr-sharâhul"
 END
 
 CONTROLBAR:LW_ToolTip_IronHillsCrossbowHorde
-"Type d'unité : Archer d'Elite \n Fort contre l'Infanterie"
+"Arbalétrier des Monts du Fer \n Type d'unité : Archer d'Elite \n Fort contre l'Infanterie"
 END
 
 CONTROLBAR:LW_ToolTipBuild_IronHillsCrossbowHorde
-"Type d'unité : Archer d'Elite \n Fort contre l'Infanterie"
+"Arbalétrier des Monts du Fer \n Type d'unité : Archer d'Elite \n Fort contre l'Infanterie"
 END
 
 CONTROLBAR:LW_Unit_EredLuinTraderHordePlural
-"Bataillons de Commerçants d'Ered Luin"
+"Bataillons de Usjur-Khagal-zirak"
 END
 
 CONTROLBAR:LW_ToolTipBuild_EredLuinTraderHorde
-"Type d'unité : Unité de Soutien \n Fort contre les Piquiers"
+"Commerçants d'Ered Luin \n Type d'unité : Unité de Soutien \n Fort contre les Piquiers"
 END
 
 CONTROLBAR:LW_ToolTip_EredLuinTraderHorde
-"Type d'unité : Unité de Soutien \n Fort contre les Piquiers"
+"Commerçants d'Ered Luin \n Type d'unité : Unité de Soutien \n Fort contre les Piquiers"
 END
 
 BANNERUI:DwarvenEredLuinRanger
@@ -66809,23 +66805,23 @@ CONTROLBAR:LW_ToolTipBuild_EredLuinRangerHorde
 END
 
 CONTROLBAR:LW_Unit_GrimHammerHorde
-"Bataillon de Marteliers Sinistre"
+"Bataillon de Sulkhâ-bekhâz"
 END
 
 CONTROLBAR:LW_Unit_GrimHammerHordePlural
-"Bataillons des Marteliers Sinistres"
+"Bataillons de Sulkhâ-bekhâz"
 END
 
 CONTROLBAR:LW_ToolTipBuild_GrimHammerHorde
-"Type d'unité : Infanterie d'Anti-Charge \n Fort contre les Piquiers"
+"Marteliers Sinistre \n Type d'unité : Infanterie d'Anti-Charge \n Fort contre les Piquiers"
 END
 
 CONTROLBAR:LW_ToolTip_GrimHammerHorde
-"Type d'unité : Infanterie d'Anti-Charge \n Fort contre les Piquiers"
+"Marteliers Sinistre \n Type d'unité : Infanterie d'Anti-Charge \n Fort contre les Piquiers"
 END
 
 CONTROLBAR:LW_Unit_EreborVWHordePlural
-"Bataillons de Gardiens de la Chambre Forte d'Erebor"
+"Bataillons de Azaghâr-gundu"
 END
 
 CONTROLBAR:LW_Unit_LaketownMilitaHordePlural
@@ -66853,7 +66849,7 @@ CONTROLBAR:ElrondRingOfAir
 END
 
 CONTROLBAR:TooltipElrondRingOfAir
-"Requiert : Niveau 10 \n Type d'Action : Bonus \n Crée un sanctuaire circulaire dans lequel toutes les unités alliées gagnent +150% d'Armure, deviennent furtives, et immunisé contre la Peur et la Terreur dans la région \n S'accumule avec le Charisme et les Sorts \n\n Type d'Action : Altération Activé \n A proximité des unitées ennemies subissent -25% de Dégâts et -20% d'Armure \n Annule le Charisme ennemi \n Ne se cumule pas avec les autres altérations \n Clic gauche sur l'icône puis clic gauche sur la zone ciblée"
+"Requiert : Niveau 8 \n Type d'Action : Bonus \n Crée un sanctuaire circulaire dans lequel toutes les unités alliées gagnent +150% d'Armure, deviennent furtives, et immunisé contre la Peur et la Terreur dans la région \n S'accumule avec le Charisme et les Sorts \n\n Type d'Action : Altération Activé \n A proximité des unitées ennemies subissent -25% de Dégâts et -20% d'Armure \n Annule le Charisme ennemi \n Ne se cumule pas avec les autres altérations \n Clic gauche sur l'icône puis clic gauche sur la zone ciblée"
 END
 
 CONTROLBAR:ElrondMountTooltip
@@ -66866,7 +66862,7 @@ END
 
 CONTROLBAR:ToolTipElrondEarendilion
 //"Requiert : Niveau 10 \n Soigne les alliés proches et réinitialise \n leurs compteurs de capacités spéciales \n Clic gauche sur l'icône puis clic gauche sur zone ciblé"
-"Requiert : Niveau 7 \n Soigne les alliés proches et réinitialise \n leurs compteurs de capacités spéciales \n Clic gauche sur l'icône puis clic gauche sur la zone ciblée"
+"Requiert : Niveau 10 \n Soigne les alliés proches et réinitialise \n leurs compteurs de capacités spéciales \n Clic gauche sur l'icône puis clic gauche sur la zone ciblée"
 END
 
 OBJECT:RohanElfhelm
@@ -66898,7 +66894,7 @@ CONTROLBAR:RohanHamaRevive
 END
 
 CONTROLBAR:RohanHamaHotkey
-"&Háma"
+"H&áma"
 END
 
 OBJECT:RohanErkenbrand
@@ -66950,7 +66946,7 @@ CONTROLBAR:ConstructRohanWestfolderHorde
 END
 
 CONTROLBAR:ToolTipBuildRohanWestfolderHorde
-"Requiert : Caserne Niveau 2 et le pouvoir du Cor Du Ouestfolde pour être utilisé \n Forts contre Piquiers \n Capables de changer de formation et de fusionner avec une autre horde de Guerriers Du Ouestfolde \n\n Ces hommes très disciplinés comptaient parmi les meilleurs guerriers du Riddermark. Leur mur de bouclier était craint parmi les ennemies du Ouestfolde, particulièrement par les hommes du Pays de Dun."
+"Requiert : Caserne Niveau 2 et le pouvoir du Cor Du Ouestfolde pour être utilisé \n Forts contre Piquiers \n Capables de changer de formation \n\n Ces hommes très disciplinés comptaient parmi les meilleurs guerriers du Riddermark. Leur mur de bouclier était craint parmi les ennemies du Ouestfolde, particulièrement par les hommes du Pays de Dun."
 END
 
 CONTROLBAR:ToolTipToggleWestfolderBlockToLineFormationElite
@@ -67019,11 +67015,11 @@ CONTROLBAR:ToolTipBuildRohanDoorWardenHorde
 END
 
 CONTROLBAR:ToolTipConstructRohanFarm
-"Cultive un champ comme ressource selon le terrain disponible \n Réduit le coût de la Cavalerie \n Augmente la limite de points de commandement de 50"
+"Cultive un champ comme ressource selon le terrain disponible \n Réduit le coût de la Cavalerie \n Donne +15% de dégâts et d'armure aux Paysans proches \n Augmente la limite de points de commandement de 50"
 END
 
 CONTROLBAR:ToolTipDescriptionRohanFarm
-"Génère des ressources selon le terrain disponible \n Bonus de Terrain - Réduit le coût de la Cavalerie \n 2 Farms: 5% \n 3 Farms: 10% \n 4 Farms: 15% \n 5 Farms: 20% \n 6+ Farms: 25% \n Augmente la limite de points de commandement de 50"
+"Génère des ressources selon le terrain disponible \n Bonus de Terrain - Réduit le coût de la Cavalerie \n 2 Farms: 5% \n 3 Farms: 10% \n 4 Farms: 15% \n 5 Farms: 20% \n 6+ Farms: 25% \n\n Les Paysants proches gagnent +15% de dégâts et d'armure"
 END
 
 OBJECT:RohanWindmill
@@ -67035,11 +67031,11 @@ CONTROLBAR:ConstructRohanWindmill
 END
 
 CONTROLBAR:ToolTipConstructRohanWindmill
-"Produit du Pain comme ressource selon le terrain disponible \n Réduit le coût de l'infanterie \n Augmente la limite de points de commandement de 50"
+"Produit du Pain comme ressource selon le terrain disponible \n Réduit le coût de l'infanterie \n Donne +15% de dégâts et d'armure aux Paysans proches \n Augmente la limite de points de commandement de 50"
 END
 
 CONTROLBAR:ToolTipDescriptionRohanWindmill
-"Génère des ressources selon le terrain disponible \n Bonus de Pain - Réduit le coût de l'infanterie \n 2 Moulin à Vent : 5% \n 3 Moulin à Vent : 10% \n 4 Moulin à Vent : 15% \n 5 Moulin à Vent : 20% \n 6+ Moulin à Vent : 25% \n Augmente la limite de points de commandement de 50"
+"Génère des ressources selon le terrain disponible \n Bonus de Pain - Réduit le coût de l'infanterie \n 2 Moulin à Vent : 5% \n 3 Moulin à Vent : 10% \n 4 Moulin à Vent : 15% \n 5 Moulin à Vent : 20% \n 6+ Moulin à Vent : 25% \n\n Les Paysants proches gagnent +15% de dégâts et d'armure"
 END
 
 OBJECT:RohanStablesDescription
@@ -67066,7 +67062,7 @@ CONTROLBAR:SummonLoneScout
 End
 
 CONTROLBAR:ToolTipSummonLoneScout
-"Invoque temporairement, un éclaireur Rohirrim invulnérable qui accordent +15% de vitesse aux unités alliées proches \n Clic gauche sur l'icône puis clic gauche sur un emplacement libre"
+"Invoque temporairement, un éclaireur Rohirrim qui accorde +15% de vitesse, +25% d'arùure et +25% de dégâts aux unités alliées proches \n Clic gauche sur l'icône puis clic gauche sur un emplacement libre"
 END
 
 CONTROLBAR:SummonCirionOath
@@ -67094,7 +67090,7 @@ CONTROLBAR:PukelStatue
 END
 
 CONTROLBAR:TooltipPukelStatue
-"Invoque une statue d'Homme-Púkel abritant une magie étrange \n Clic gauche sur l'icône puis clic gauche un emplacement libre"
+"Invoque une statue d'Homme-Púkel abritant une magie étrange \n Limité à 3 \n Clic gauche sur l'icône puis clic gauche un emplacement libre"
 END
 
 CONTROLBAR:MusterRohirrim
@@ -67122,7 +67118,7 @@ CONTROLBAR:RohanCloudBreak
 END
 
 CONTROLBAR:ToolTipRohanCloudBreak
-"Annule les Vents Occidentaux, Pluie Verglaçante, Avant le Lever du Soleil, Bénédiction d'Ulmo, Bénédiction de Manwë, Le Jour de Durin, L'Hiver Blanc ou L'Obscurité \n Etourdit les Unité ennemies \n Soigne lentement les unités alliées sur la carte \n Clic gauche pour activer"
+"Annule les Vents Occidentaux, Pluie Verglaçante, Avant le Lever du Soleil, Bénédiction d'Ulmo, Bénédiction de Manwë, Le Jour de Durin, Extinction des feux, L'Hiver Blanc et L'Obscurité \n Etourdit les Unité ennemies \n Soigne lentement les unités alliées sur la carte \n Clic gauche pour activer"
 END
 
 CONTROLBAR:EverholtBoar
@@ -67343,7 +67339,7 @@ CONTROLBAR:ErkenbrandHorn
 END
 
 CONTROLBAR:ToolTipErkenbrandHorn
-"L'infanterie proche gagne temporairement +10% de bonus de vitesses et de résistance aux renversements"
+"L'infanterie proche gagne temporairement +20% de bonus de vitesse et de la résistance à la peur, au renversement et au piétinement"
 END
 
 CONTROLBAR:ErkenbrandShieldCrush
@@ -67539,7 +67535,7 @@ CONTROLBAR:ElfhelmLeadership
 END
 
 CONTROLBAR:ToolTipElfhelmLeadership
-"Requiert : Niveau 9 \n Type d'Action : Charisme \n Les Cavaliers de Snawburna, les Gardiens d'Halifirien, les Archers Alleutier et les Archers Rohirrims près d'Elfhelm gagnent +15% de Portée et +50% d'armure \n S'accumules avec les Bonus et les Sorts \n Capacité passive"
+"Requiert : Niveau 9 \n Type d'Action : Charisme \n Les Cavaliers de Snawburna, les Gardiens d'Halifirien, les Archers Alleutier et les Archers Rohirrims près d'Elfhelm gagnent +15% de Portée d'attaque et +50% d'armure \n S'accumules avec les Bonus et les Sorts \n Capacité passive"
 END
 
 CONTROLBAR:MerryLeadership
@@ -67651,7 +67647,7 @@ CONTROLBAR:ConstructRohanHelmingasWardenHorde
 END
 
 CONTROLBAR:ToolTipBuildRohanHelmingasWardenHorde
-"Requiert : Niveau 3 Casernes \n et les Cornes de Mainmarteau amélioré \n Unité Héroique. Limité à 1. \n Fort contre l'Infanterie et Structures \n Capable de basculer entre monté et à pied \n \n Le Gouffre de Helm abritait une garnison de guerriers vétérans. Gardant vivante l'image des prouesses martiales d'Helm Mainmarteau, ils ont gardé le principal refuge du Rohan ouvert et protégé contre les attaques surprise."
+"Requiert : Niveau 3 Casernes \n et les Cornes de Mainmarteau amélioré \n Unité Héroique. \n Fort contre l'Infanterie et Structures \n Capable de basculer entre monté et à pied \n \n Le Gouffre de Helm abritait une garnison de guerriers vétérans. Gardant vivante l'image des prouesses martiales d'Helm Mainmarteau, ils ont gardé le principal refuge du Rohan ouvert et protégé contre les attaques surprise."
 END
 
 OBJECT:HordeRohanHelmingasWarden
@@ -67767,7 +67763,7 @@ CONTROLBAR:DwarvenOinRevive
 END
 
 CONTROLBAR:DwarvenOinHotkey
-"&Oin"
+"O&in"
 END
 
 CONTROLBAR:ForlongLeadership
@@ -67783,7 +67779,7 @@ CONTROLBAR:ForlongVitality
 END
 
 CONTROLBAR:TooltipForlongVitality
-"Requiert : Niveau 3 \n Forlong gagne temporairement \n +50% Dégâts et +25% Vitesse \n Clic gauche pour activer"
+"Requiert : Niveau 3 \n Forlong renverse temporairement les ennemis et gagne +50% Dégâts et +25% Vitesse \n Clic gauche pour activer"
 END
 
 CONTROLBAR:ForlongTrueHeartTrueFriend
@@ -67867,27 +67863,27 @@ BANNERUI:HobbitBounders
 END
 
 CONTROLBAR:LW_Unit_RivendellRevelerHorde
-"Bataillon de Ménestrels"
+"Bataillon de Quentaroli"
 END
 
 CONTROLBAR:LW_Unit_RivendellRevelerHordePlural
-"Bataillons de Ménestrels"
+"Bataillons de Quentaroli"
 END
 
 CONTROLBAR:LW_ToolTip_RivendellRevelerHorde
-"Type d'Unité : Support d'Unités \n Fort contre Structures"
+"Ménestrels \n Type d'Unité : Support d'Unités \n Fort contre Structures"
 END
 
 CONTROLBAR:LW_ToolTipBuild_RivendellRevelerHorde
-"Type d'Unité : Support d'Unités \n Fort contre Structures"
+"Ménestrels \n Type d'Unité : Support d'Unités \n Fort contre Structures"
 END
 
 BANNERUI:Reveler
-"Ménestrels"
+"Quentaro"
 END
 
 BANNERUI:Revelers
-"Ménestrels"
+"Quentaroli"
 END
 
 CONTROLBAR:LW_Unit_TookArcherHorde
@@ -68019,7 +68015,7 @@ CONTROLBAR:LW_Unit_GreyCompanyHordePlural
 END
 
 CONTROLBAR:LW_ToolTipBuild_GreyCompanyHorde
-"Type d'Unité : Unité Héroïque \n Limité à 1 \n Fort contre Tout"
+"Type d'Unité : Unité Héroïque \n Fort contre Tout"
 END
 
 CONTROLBAR:LW_ToolTip_GreyCompanyHorde
@@ -68039,63 +68035,63 @@ BANNERUI:GreyCompanyMembers
 END
 
 CONTROLBAR:LW_Unit_RivendellGlaivemenHorde
-"Bataillon d'Hoplites d'Imladris"
+"Bataillon d'Ehtyari"
 END
 
 CONTROLBAR:LW_Unit_RivendellGlaivemenHordePlural
-"Bataillons d'Hoplites d'Imladris"
+"Bataillons d'Ehtyari"
 END
 
 CONTROLBAR:LW_Unit_RivendellGlaivemenComboHorde
-"Combinaison de Bataillon d'Hoplites d'Imladris"
+"Bataillon d'Ehtyari combiné"
 END
 
 CONTROLBAR:LW_Unit_RivendellGlaivemenComboHordePlural
-"Combinaison de Bataillons d'Hoplites d'Imladris"
+"Bataillons d'Ehtyari combiné"
 END
 
 CONTROLBAR:LW_ToolTipBuild_RivendellGlaivemenHorde
-"Type d'Unité : Piquiers d'Elite \n Fort contre Cavalerie\n"
+"Hoplites d'Imladris \n Type d'Unité : Piquiers d'Elite \n Fort contre Cavalerie\n"
 END
 
 CONTROLBAR:LW_ToolTip_RivendellGlaivemenHorde
-"Type d'Unité : Piquiers d'Elite \n Fort contre Cavalerie"
+"Hoplites d'Imladris \n Type d'Unité : Piquiers d'Elite \n Fort contre Cavalerie"
 END
 
 BANNERUI:RivendellGlaiveman
-"Hoplite d'Imladris"
+"Ehtyar"
 END
 
 BANNERUI:RivendellGlaivemen
-"Hoplites d'Imladris"
+"Ehtyari"
 END
 
 CONTROLBAR:LW_Unit_RivendellSwordmenHorde
-"Bataillon d'Epéistes d'Imladris"
+"Bataillon de Macari"
 END
 
 CONTROLBAR:LW_Unit_RivendellSwordmenHordePlural
-"Bataillons d'Epéistes d'Imladris"
+"Bataillons de Macari"
 END
 
 CONTROLBAR:LW_Unit_RivendellSwordmenDoubleHorde
-"Combinaison de Bataillon d'Epéistes d'Imladris"
+"Bataillon de Macari combiné"
 END
 
 CONTROLBAR:LW_Unit_RivendellSwordmenGlaivemenHorde
-"Bataillon d'Hoplites d'Imladris - Epéistes d'Imladris"
+"Bataillon de Macari - Ehtyari"
 END
 
 CONTROLBAR:LW_Unit_RivendellSwordmenGlaivemenHordePlural
-"Bataillons d'Hoplites d'Imladris - Epéistes d'Imladris"
+"Bataillons de Macari - Ehtyari"
 END
 
 CONTROLBAR:LW_Unit_RivendellSwordmenArcherHorde
-"Bataillon d'Archers d'Imladris - Epéistes d'Imladris"
+"Bataillon Macari - Quingar"
 END
 
 CONTROLBAR:LW_Unit_RivendellSwordmenArcherHordePlural
-"Bataillon d'Archers d'Imladris - Epéistes d'Imladris"
+"Bataillons Macari - Quingar"
 END
 
 CONTROLBAR:LW_ToolTip_RivendellSwordmenArcherHorde
@@ -68107,15 +68103,15 @@ CONTROLBAR:LW_ToolTip_RivendellSwordmenGlaivemenHorde
 END
 
 CONTROLBAR:LW_Unit_RivendellSwordmenDoubleHordePlural
-"Combinaison de Bataillons d'Epéistes d'Imladris"
+"Bataillons de Macari combiné"
 END
 
 CONTROLBAR:LW_Unit_RivendellGlaivemenArcherHorde
-"Bataillon d'Archers d'Imladris - Hoplites d'Imladris"
+"Bataillon d'Ehtyari - Quingar"
 END
 
 CONTROLBAR:LW_Unit_RivendellGlaivemenArcherHordePlural
-"Bataillon d'Archers d'Imladris - Hoplites d'Imladris"
+"Bataillons d'Ehtyari - Quingar"
 END
 
 CONTROLBAR:LW_ToolTip_RivendellGlaivemenArcherHorde
@@ -68123,7 +68119,7 @@ CONTROLBAR:LW_ToolTip_RivendellGlaivemenArcherHorde
 END
 
 CONTROLBAR:LW_ToolTipBuild_RivendellSwordmenHorde
-"Type d'Unité : Infanterie d'Elite \n Fort contre Piquiers"
+"Gardes de Rivendell \n Type d'Unité : Infanterie d'Elite \n Fort contre Piquiers"
 END
 
 CONTROLBAR:LW_ToolTip_RivendellSwordmenHorde
@@ -68131,79 +68127,79 @@ CONTROLBAR:LW_ToolTip_RivendellSwordmenHorde
 END
 
 BANNERUI:RivendellSwordman
-"Epéiste d'Imladris"
+"Macar"
 END
 
 BANNERUI:RivendellSwordmen
-"Epéistes d'Imladris"
+"Macari"
 END
 
 CONTROLBAR:LW_Unit_RivendellArcherHorde
-"Bataillon d'Archers d'Imladris"
+"Bataillon de Quingar"
 END
 
 CONTROLBAR:LW_Unit_RivendellArcherHordePlural
-"Bataillons d'Archers d'Imladris"
+"Bataillons de Quingar"
 END
 
 CONTROLBAR:LW_Unit_RivendellArcherComboHorde
-"Combinaison de Bataillon d'Archers d'Imladris"
+"Bataillon de Quingar combiné"
 END
 
 CONTROLBAR:LW_Unit_RivendellArcherComboHordePlural
-"Combinaison de Bataillons d'Archers d'Imladris"
+"Bataillons de Quingar combiné"
 END
 
 CONTROLBAR:LW_ToolTipBuild_RivendellArcherHorde
-"Type d'Unité : Archers d'Elite \n Fort contre Infanterie"
+"Archers de Rivendell \n Type d'Unité : Archers d'Elite \n Fort contre Infanterie"
 END
 
 CONTROLBAR:LW_ToolTip_RivendellArcherHorde
-"Type d'Unité : Archers d'Elite \n Fort contre Infanterie"
+"Archers de Rivendell \n Type d'Unité : Archers d'Elite \n Fort contre Infanterie"
 END
 
 BANNERUI:RivendellArcher
-"Archer d'Imladris"
+"Quinga"
 END
 
 BANNERUI:RivendellArchers
-"Archers d'Imladris"
+"Quingar"
 END
 
 CONTROLBAR:LW_Unit_RivendellKnightHorde
-"Bataillon de Chevaliers d'Imladris"
+"Bataillon de Roquentari"
 END
 
 CONTROLBAR:LW_Unit_RivendellKnightHordePlural
-"Bataillons de Chevaliers d'Imladris"
+"Bataillons de Roquentari"
 END
 
 CONTROLBAR:LW_ToolTipBuild_RivendellKnightHorde
-"Type d'Unité : Cavalerie d'Elite \n Fort contre Infanterie"
+"Chevaliers d'Imladris \n Type d'Unité : Cavalerie d'Elite \n Fort contre Infanterie"
 END
 
 CONTROLBAR:LW_ToolTip_RivendellKnightHorde
-"Type d'Unité : Cavalerie d'Elite \n Fort contre Infanterie"
+"Chevaliers d'Imladris \n Type d'Unité : Cavalerie d'Elite \n Fort contre Infanterie"
 END
 
 BANNERUI:RivendellKnight
-"Chevalier d'Imladris"
+"Roquentar"
 END
 
 BANNERUI:RivendellKnights
-"Chevaliers d'Imladris"
+"Roquentari"
 END
 
 CONTROLBAR:LW_Unit_NoldorVeteransHorde
-"Bataillon de Vétérans de la Dernière Alliance"
+"Bataillon de Laurëthelyn"
 END
 
 CONTROLBAR:LW_Unit_NoldorVeteransHordePlural
-"Bataillons de Vétérans de la Dernière Alliance"
+"Bataillons de Laurëthelyn"
 END
 
 CONTROLBAR:LW_ToolTip_NoldorVeteransHorde
-"Type d'unité : Unité héroïque \n Forts contre Tout"
+"Vétérans de la Dernière Alliance \n Type d'unité : Unité héroïque \n Forts contre Tout"
 END
 
 CONTROLBAR:LW_ToolTip_NoldorVeteransHorde_WOTR
@@ -68211,15 +68207,15 @@ CONTROLBAR:LW_ToolTip_NoldorVeteransHorde_WOTR
 END
 
 CONTROLBAR:LW_ToolTipBuild_NoldorVeteransHorde
-"Type d'unité : Unité héroïque \n Forts contre Tout "
+"Vétérans de la Dernière Alliance \n Type d'unité : Unité héroïque \n Forts contre Tout "
 END
 
 BANNERUI:NoldorVeteran
-"Vétéran de la Dernière Alliance"
+"Laurëthalion"
 END
 
 BANNERUI:NoldorVeterans
-"Vétérans de la Dernière Alliance"
+"Laurëthelyn"
 END
 
 OBJECT:DurinDoors
@@ -68263,7 +68259,7 @@ CONTROLBAR:PurchaseTunnelCollapse
 END
 
 CONTROLBAR:ToolTipPurchaseTunnelCollapse
-"Permet aux Mines Naines d'étourdir les attaquants ennemis et de les blesser\n mais réduit la production de ressources de 50% pendant 60 secondes"
+"Permet aux Mines Naines de blesser et d'étourdir les unités proches\n mais réduit la production de ressources de 50% pendant 60 secondes"
 END
 
 CONTROLBAR:TunnelCollaspe
@@ -68271,7 +68267,7 @@ CONTROLBAR:TunnelCollaspe
 END
 
 CONTROLBAR:ToolTipTunnelCollaspe
-"Etourdis les attaquants ennemis et inflige des Dégâts \n mais réduit la production de ressources de 50% pendant 60 secondes"
+"Etourdis et inflige des dégâts aux unités proches \n mais réduit la production de ressources de 50% pendant 60 secondes"
 END
 
 UPGRADE:ToolTipTunnelCollapse
@@ -68283,19 +68279,19 @@ CONTROLBAR:SongForVictory
 END
 
 CONTROLBAR:ToolTipSongForVictoryGuards
-"Les Guerriers chevronnés chantent une chanson des victoires du passées \n Les Gardes d'Imladris gagnent temporairement +33% Dégâts \n Clic gauche pour activer"
+"Les Guerriers chevronnés chantent une chanson des victoires du passées \n Les Macari gagnent temporairement +33% Dégâts \n Clic gauche pour activer"
 END
 
 CONTROLBAR:ToolTipSongForVictoryGlaivesmen
-"Les Guerriers chevronnés chantent une chanson des victoires du passées \n Les Hoplites d'Imladris gagnent temporairement +33% Armure \n Clic gauche pour activer"
+"Les Guerriers chevronnés chantent une chanson des victoires du passées \n Les Ehtyari gagnent temporairement +33% Armure \n Clic gauche pour activer"
 END
 
 CONTROLBAR:ToolTipSongForVictoryArchers
-"Les Guerriers chevronnés chantent une chanson des victoires du passées \n Les Archers d'Imladris gagnent temporairement une Vitesse d'Attaque accrue \n Clic gauche pour activer"
+"Les Guerriers chevronnés chantent une chanson des victoires du passées \n Les Quingar gagnent temporairement une Vitesse d'Attaque accrue \n Clic gauche pour activer"
 END
 
 CONTROLBAR:ToolTipSongForVictoryKnights
-"Les Guerriers chevronnés chantent une chanson des victoires du passées \n Les Chevaliers d'Imladris gagnent temporairement une décélération de renversement réduite \n Clic gauche pour activer"
+"Les Guerriers chevronnés chantent une chanson des victoires du passées \n Les Roquentari gagnent temporairement une décélération de renversement réduite \n Clic gauche pour activer"
 END
 
 CONTROLBAR:EyesoftheCrow
@@ -68303,7 +68299,7 @@ CONTROLBAR:EyesoftheCrow
 END
 
 CONTROLBAR:ToolTipEyesoftheCrow
-"Requiert : Niveau 2 \n Les Archers Longs gagnent temporairement une portée accrue et \n +25% de Dégâts, mais perdent -25% de Vitesse d'Attaque"
+"Requiert : Niveau 2 \n Les Archers Longs gagnent temporairement +25% de portée et \n +25% de Dégâts, mais perdent -25% de Vitesse d'Attaque"
 END
 
 CONTROLBAR:WildCharge
@@ -68610,7 +68606,7 @@ CONTROLBAR:PurchaseUpgradeMansblood
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeMansblood
-"Trempe ce berserker dans le sang de ses ennemis \n Chaque attaque consécutive augmente légèrement les dégâts du berserker"
+"Trempe ce berserker dans le sang de ses ennemis \n Chaque attaque consécutive augmente de +10% les dégâts du berserker"
 END
 
 TOOLTIP:ThickSkin
@@ -68746,7 +68742,7 @@ CONTROLBAR:LoneScoutLeadership
 END
 
 CONTROLBAR:TooltipLoneScoutLeadership
-"Type d'Action : Bonus \n Le Cavalier accorde aux unités proches +15% de vitesse \n S'accumule avec le Charisme et les Sorts \n \n Capacité passive"
+"Type d'Action : Bonus \n Le Cavalier accorde aux unités proches +15% de vitesse, +25% d'armure et +25% de dégâts \n S'accumule avec le Charisme et les Sorts \n \n Capacité passive"
 END
 
 CONTROLBAR:FrodoMithrilShirt
@@ -69078,7 +69074,7 @@ CONTROLBAR:ConstructGuldurHarbingerHorde
 END
 
 CONTROLBAR:ToolTipBuildGuldurHarbingerHorde
-"Unité d'élite \n Fort contre Héros, Infanterie et Structures \n Limité à 3 \n\n Pendant la longue retraite de Sauron dans les terres mystérieuses de l'Est, il a attiré un grand nombre de Sorciers et de Seigneur-Sorcier. \n Ces hommes pervers voulaient apprendre les arts sombres de Morgoth, se transformant avec le temps en Messagers des Ténèbres, à moitié vivants et suivant Sauron dans son voyage de retour dans les terres et les affaires de ses ennemis jurés."
+"Requiert : Tour de la Sorcellerie niveau 2 \n Unité d'élite \n Fort contre Héros, Infanterie et Structures \n Limité à 3 \n\n Pendant la longue retraite de Sauron dans les terres mystérieuses de l'Est, il a attiré un grand nombre de Sorciers et de Seigneur-Sorcier. \n Ces hommes pervers voulaient apprendre les arts sombres de Morgoth, se transformant avec le temps en Messagers des Ténèbres, à moitié vivants et suivant Sauron dans son voyage de retour dans les terres et les affaires de ses ennemis jurés."
 END
 
 CONTROLBAR:DarkPresence
@@ -69086,11 +69082,11 @@ CONTROLBAR:DarkPresence
 END
 
 CONTROLBAR:ToolTipDarkPresence
-"Renforce les unités de Dol Guldur proches \n Annule Lent Pourissement et Augmente l'Armure et les Dégâts de 15% \n Capacité Passive"
+"Renforce les unités de Dol Guldur proches \n Annule Lent Pourissement et augmente de 15% l'Armure et les Dégâts des Brisés, des Geoliers et des Chasseurs proches \n Capacité Passive"
 END
 
 CONTROLBAR:ToolTipDarkPresenceWithRing
-"Renforce les unités de Dol Guldur proches \n Annule Lent Pourissement et Augmente l'Armure et les Dégâts de 15% \n Inflige des Dégâts aux unités ennemies \n Capacité Passive"
+"Renforce les unités de Dol Guldur proches \n Annule Lent Pourissement et augmente de 15% l'Armure et les Dégâts des Brisés, des Geoliers et des Chasseurs proches \n Inflige des Dégâts aux unités ennemies \n Capacité Passive"
 END
 
 CONTROLBAR:GuldurInfestation
@@ -69319,7 +69315,7 @@ CONTROLBAR:ConstructGuldurRestlessBarrow
 END
 
 CONTROLBAR:ToolTipConstructGuldurRestlessBarrow
-"Des unités défensives qui attaqueront les ennemis proches \n Augmente la limite de points de commandement de 25"
+"Des unités défensives qui attaqueront les ennemis proches \n Déterre les Fantômes d'Outre-Tombe \n Augmente la limite de points de commandement de 25"
 END
 
 OBJECT:GuldurRestlessWarrior
@@ -69519,7 +69515,7 @@ UPGRADE:FortressGuldurSorcery
 END
 
 CONTROLBAR:GuldurSorcery
-"Colline de la Sorcellerie (&H)"
+"Coll&ine de la Sorcellerie"
 END
 
 CONTROLBAR:TooltipGuldurSorcery
@@ -69569,7 +69565,7 @@ CONTROLBAR:ThrainLeadership
 End
 
 CONTROLBAR:ToolTipThrainLeadership
-"Requiert : Niveau 2 \n Les Brisés près de Thráin gagnent \n +33% Expérience et +33% Armure \n Au Niveau 6 ils gagnent +50% Expérience et +50% Armure \n Capacité Passive"
+"Requiert : Niveau 2 \n Les Brisés près de Thráin gagnent \n +50% Expérience et +50% Armure \n Capacité passive \n Au Niveau 7, les Brisés ciblés gagnent beaucoup d'expérience \n Clic gauche puis clic gauche sur les unités ciblées"
 END
 
 CONTROLBAR:ThrainNoEscape
@@ -69899,7 +69895,7 @@ CONTROLBAR:DolGuldurChill
 End
 
 CONTROLBAR:TooltipDolGuldurChill
-"Les unités ennemies sont ralenties et subissent des dégâts au cours du temps \n Clic gauche sur l'icône puis clic gauche sur la cible"
+"Les unités ennemies sont ralenties de 50% et subissent des dégâts au cours du temps \n Clic gauche sur l'icône puis clic gauche sur la cible"
 End
 
 CONTROLBAR:GuldurForestOfFear
@@ -70103,7 +70099,7 @@ CONTROLBAR:ConstructGuldurSorceryTowerLevel3Upgrade
 End
 
 CONTROLBAR:ToolTipBuildGuldurSorceryTowerLevel2Upgrade
-"Permet l'utilisation de Corruption \n Vitesse de Construction +10%"
+"Permet l'utilisation de Corruption et l'entrainement des Messagers des Ténèbres \n Vitesse de Construction +10%"
 End
 
 CONTROLBAR:TooltipBuildGuldurSorceryTowerLevel3Upgrade
@@ -70189,11 +70185,11 @@ OBJECT:HordeMirkwoodPalaceGuardSlayerComboHorde
 END
 
 CONTROLBAR:ConstructMirkwoodPalaceGuardHorde
-"Les &Gardes du Palais"
+"Tamastirn&yr"
 END
 
 CONTROLBAR:LW_Unit_MirkwoodPalaceGuardHorde
-"Bataillon de Tamastirnyr"
+"Bataillon de Tamastirnor"
 END
 
 CONTROLBAR:LW_Unit_MirkwoodPalaceGuardHordePlural
@@ -70209,15 +70205,15 @@ CONTROLBAR:LW_Unit_MirkwoodPalaceGuardComboHordePlural
 END
 
 CONTROLBAR:LW_ToolTip_MirkwoodPalaceGuardHorde
-"Type d'unité: Piquier d'élite \n Fort contre la Cavalerie"
+"Guetteurs du Hall \n Type d'unité: Piquier d'élite \n Fort contre la Cavalerie"
 END
 
 CONTROLBAR:ToolTipBuildMirkwoodPalaceGuardHorde
-"Requiert : Niveau 2 Casernes \n Fort contre la Cavalerie et les Héros \n \n Chargé avec la protection de la Salle du Roi Elfique, la Garde du Palais est un groupe de guerriers elfes qualifiés."
+"Guetteurs du Hall \n Requiert : Niveau 2 Casernes \n Fort contre la Cavalerie et les Héros \n \n Chargé avec la protection de la Salle du Roi Elfique, la Garde du Palais est un groupe de guerriers elfes qualifiés."
 END
 
 CONTROLBAR:LW_ToolTipBuild_MirkwoodPalaceGuardHorde
-"Type d'unité: Piquier d'élite \n Fort contre la cavalerie"
+"Guetteurs du Hall \n Type d'unité: Piquier d'élite \n Fort contre la cavalerie"
 END
 
 OBJECT:DwarvenThorinHelm
@@ -70228,7 +70224,7 @@ CONTROLBAR:ToolTipBuildDwarvenThorinHelm
 "Recrute le Prince d'Erebor"
 END
 CONTROLBAR:DwarvenThorinHelmRecruit
-"Recrute Thorin III Heaume de Pierre, Prince d'Erebor"
+"Recrute Thorin III Heaume de Pierre, Prince d'Erebor \n\n When news of Sauron's defeat reached the Easterling host that lay siege to Erebor, they were filled with dismay. It was at this moment that Thorin Stonehelm, Prince of Erebor, led a brazen counterattack that broke the siege and routed the enemy."
 END
 CONTROLBAR:DwarvenThorinHelmRevive
 "Réssucite le héros déchu, Thorin III Heaume de Pierre"
@@ -70277,7 +70273,7 @@ CONTROLBAR:ToolTipPurchaseUpgradeDwarvenFortressHobbitEra
 END
 
 CONTROLBAR:PurchaseUpgradeDwarvenFortressLotREra
-"Le règne de &Pied d'Acier"
+"Règne de &Pied d'Acier"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeDwarvenFortressLotREra
@@ -70293,19 +70289,19 @@ CONTROLBAR:ToolTipEreborEraChoiceButton
 END
 
 CONTROLBAR:HobbitEraChoiceButton
-"L'ère des Hobbits"
+"Règne d'Écu-de-Chêne"
 END
 
 CONTROLBAR:ToolTipHobbitEraChoiceButton
-"L'ère des Hobbits Choisie"
+"Vous avez choisi le Règne d'Écu-de-Chêne"
 END
 
 CONTROLBAR:LotREraChoiceButton
-"L'ère du Seigneur des Anneaux"
+"Règne de Pied d'Acier"
 END
 
 CONTROLBAR:ToolTipLotREraChoiceButton
-"L'ère du Seigneur des Anneaux Choisie"
+"Vous avez choisi le Règne de Pied d'Acier"
 END
 
 OBJECT:MordorGorbag
@@ -70457,7 +70453,7 @@ CONTROLBAR:GrishnakhWickedJab
 END
 
 CONTROLBAR:ToolTipGrishnakhWickedJab
-"L'ennemi ciblé est assommé, prend temporairement des dégâts au fil du temps \n et partage sa vision avec le joueur pour la durée \n Clic gauche sur l'icône puis clic gauche sur la cible"
+"L'ennemi ciblé est assommé pendant 20 secondes et prend temporairement des dégâts au fil du temps \n et partage sa vision avec le joueur pour la durée \n Clic gauche sur l'icône puis clic gauche sur la cible"
 END
 
 CONTROLBAR:PurchaseUpgradeMordorFortressMorgulSpire
@@ -70671,7 +70667,7 @@ OBJECT:MirkwoodGalion
 END
 
 CONTROLBAR:MirkwoodGalionRecruit
-"Recrute le Maître des Vins, Galion \n \n Connaissance Requise"
+"Recrute le Maître des Vins, Galion \n \n 'Say what you like about our ill-tempered King - he has excellent taste in wine...'"
 END
 
 CONTROLBAR:MirkwoodGalionRevive
@@ -70683,7 +70679,7 @@ CONTROLBAR:MirkwoodGalionHotkey
 END
 
 CONTROLBAR:MasterofWines
-"Ivre en colère"
+"Ivrogne en colère"
 END
 
 CONTROLBAR:ToolTipMasterofWines
@@ -70695,7 +70691,7 @@ CONTROLBAR:GalionMiruvor
 END
 
 CONTROLBAR:ToolTipGalionMiruvor
-"Soigne modérément les unités alliées près de Galion \n Clic gauche pour activer"
+"Soigne modérément les unités alliées près de Galion \n Le soin devient plus puissant aux niveaux 6 et 9 \n Clic gauche pour activer"
 END
 
 CONTROLBAR:GalionDorwinionRed
@@ -70703,7 +70699,7 @@ CONTROLBAR:GalionDorwinionRed
 END
 
 CONTROLBAR:ToolTipGalionDorwinionRed
-"Requiert : Niveau 3 \n Les unités alliées dans le rayon gagnent +75% d'armure et perdent -25% de dégâts d'attaque \n Clic gauche sur l'icône puis clic gauche sur le bataillon ciblé"
+"Requiert : Niveau 3 \n Les unités alliées dans le rayon gagnent +75% d'armure et perdent -25% de dégâts d'attaque \n La zone d'action augmente aux niveaux 5 et 7 \n Clic gauche sur l'icône puis clic gauche sur le bataillon ciblé"
 END
 
 CONTROLBAR:GalionBadBatch
@@ -70721,7 +70717,7 @@ OBJECT:MirkwoodFeren
 END
 
 CONTROLBAR:MirkwoodFerenRecruit
-"Recrute le Garde Royal, Feren \n \n Connaissance Requise"
+"Recrute le Garde Royal, Feren \n \n Loyal and severe in character, Feren spent the majority of his long years in solemn duty to the Elvenking, keeping safe the borders of the Greenwood."
 END
 
 CONTROLBAR:MirkwoodFerenRevive
@@ -70763,7 +70759,7 @@ OBJECT:MirkwoodGrimbeorn
 END
 
 CONTROLBAR:MirkwoodGrimbeornRecruit
-"Requiert : niveau 3 du Pavillon de Beorn \n Recrute le fils de Beorn \n \n Connaissance Requise"
+"Requiert : niveau 3 du Pavillon de Beorn \n Recrute le fils de Beorn \n \n Grimbeorn the Old, son of Beorn, was now the lord of many sturdy men, and to their land between the Mountains and Mirkwood neither orc nor wolf dared to go."
 END
 
 CONTROLBAR:MirkwoodGrimbeornRevive
@@ -70870,7 +70866,7 @@ OBJECT:MirkwoodTauriel
 END
 
 CONTROLBAR:MirkwoodTaurielRecruit
-"Recrute le Capitaine de la Garde \n \n Connaissance Requise"
+"Recrute le Capitaine de la Garde \n \n 'When did we allow evil to become stronger than us?'"
 END
 
 CONTROLBAR:MirkwoodTaurielRevive
@@ -70886,7 +70882,7 @@ CONTROLBAR:TaurielLeadership
 END
 
 CONTROLBAR:ToolTipTaurielLeadership
-"Les unités Sylvaines gagnent +25% de portée et d'expérience \n Capacité passive"
+"Les unités Sylvaines gagnent +25% de vision et de portée d'attaque et de gain d'expérience \n At Level 3, nearby Silvan units ability cooldown times are reduced by 25% \n Capacité passive"
 END
 
 CONTROLBAR:TaurielSummon
@@ -70894,11 +70890,11 @@ CONTROLBAR:TaurielSummon
 END
 
 CONTROLBAR:ToolTipTaurielSummon
-"Requiert : Niveau 3 \n Tauriel appelle un groupe immobile de Gardes Silvain pour défendre une zone ciblée \n Ils sont immobiles, mais restent furtifs quand ils n'attaquent pas \n Clic gauche sur l'icône puis clic gauche sur la zone cible"
+"Requiert : Niveau 3 \n Tauriel appelle un groupe immobile de Taurdrim pour défendre une zone ciblée \n Ils sont immobiles, mais restent furtifs quand ils n'attaquent pas \n Clic gauche sur l'icône puis clic gauche sur la zone cible"
 END
 
 CONTROLBAR:TaurielDecisiveStrike
-"Frappes décisives (&K)"
+"&Close Quarter Combat"
 END
 
 CONTROLBAR:TaurielEscape
@@ -70910,7 +70906,7 @@ CONTROLBAR:TooltipTaurielEscape
 END
 
 CONTROLBAR:ToolTipTaurielDecisiveStrike
-"Requiert : Niveau 5 \n Tauriel gagne temporairement +25% vitesse de mouvement \n et utilise ses couteaux pour infliger de lourdes dégâts et étourdir les héros \n Clic gauche pour activer"
+"Requiert : Niveau 5 \n Tauriel temporarily uses her twin daggers\nIncreases attack damage by +33% and deals splash damage \n Clic gauche pour activer"
 END
 
 CONTROLBAR:TaurielFleetFooted
@@ -70918,7 +70914,7 @@ CONTROLBAR:TaurielFleetFooted
 END
 
 CONTROLBAR:ToolTipTaurielFleetFooted
-"Requiert : Niveau 8 \n Type d'Action : Sort \n L'infanterie proche gagne +33% vitesse de mouvement \n S'accumule avec le Charisme et les sorts \n Clic gauche pour activer"
+"Requiert : Niveau 4 \n Type d'Action : Sort \n L'infanterie proche gagne +20% vitesse de mouvement \n S'accumule avec le Charisme et les sorts \n Clic gauche pour activer"
 END
 
 //------------ Legolas ---------------
@@ -71028,19 +71024,19 @@ End
 //---------------------------------------------------------------------------
 
 CONTROLBAR:ConstructMirkwoodHuntingLodge
-"Construire Pavillon de chasse (&R)"
+"Construire Sanctuai&re de la Chasse"
 END
 
 CONTROLBAR:ToolTipMirkwoodHuntingLodge
-"Génère des ressources selon le terrain disponible \n Réduction du coût des unités Sylvain \n Augmente la limite de points de commandement de 50"
+"Génère des ressources selon le terrain disponible \n Réduction du coût des unités d'infanterie Sylvaines \n Permet de recruter Feredir \n Augmente la limite de points de commandement de 50"
 END
 
 OBJECT:MirkwoodHuntingLodge
-"Pavillon de chasse"
+"Sanctuaire de la Chasse"
 END
 
 OBJECT:MirkwoodHuntingLodgeDescription
-"Génère des ressources selon le terrain disponible \n Réduction du coût des unités Sylvain \n Augmente la limite de points de commandement de 50"
+"Génère des ressources selon le terrain disponible \n Réduction du coût des unités d'infanterie Sylvaines \n Permet de recruter Feredir \n 2 Sanctuaires : 5% \n 3 Sanctuaires : 10% \n 4 Sanctuaires : 15% \n 5 Sanctuaires : 20% \n 6+ Sanctuaires : 25%"
 END
 
 CONTROLBAR:ConstructMirkwoodVineyard
@@ -71052,7 +71048,7 @@ OBJECT:MirkwoodVineyard
 END
 
 OBJECT:MirkwoodVineyardDescription
-"Génère du vin comme ressource selon le terrain disponible \n Réduction du coût des unités de VertBois \n Augmente la limite de points de commandement de 50"
+"Génère du vin comme ressource selon le terrain disponible \n Réduction du coût des unités de VertBois \n 2 Vignobles : 5% \n 3 Vignobles : 10% \n 4 Vignobles : 15% \n 5 Vignobles : 20% \n 6+ Vignobles : 25%"
 END
 
 CONTROLBAR:ToolTipMirkwoodVineyard
@@ -71080,7 +71076,7 @@ CONTROLBAR:ConstructMirkwoodTrainingGrounds2Upgrade
 END
 
 CONTROLBAR:ToolTipBuildMirkwoodTrainingGroundsLevel2Upgrade
-"Permet le recrutement des Lanciers Sylvain et éclaireurs Sylvain\n Recrutement plus rapide de 10%"
+"Permet le recrutement des Thelamaethyr\n Recrutement plus rapide de 10%"
 END
 
 CONTROLBAR:ConstructMirkwoodTrainingGroundsLevel3Upgrade
@@ -71088,7 +71084,7 @@ CONTROLBAR:ConstructMirkwoodTrainingGroundsLevel3Upgrade
 END
 
 CONTROLBAR:ToolTipBuildMirkwoodTrainingGroundsLevel3Upgrade
-"recrutement plus rapide de 25%"
+"permet de recruter les Gwairochyn\n Recrutement plus rapide de 25%"
 END
 
 CONTROLBAR:ConstructMirkwoodRoyalBarracks
@@ -71112,7 +71108,7 @@ CONTROLBAR:ConstructMirkwoodRoyalBarracks2Upgrade
 END
 
 CONTROLBAR:ToolTipBuildMirkwoodRoyalBarracksLevel2Upgrade
-"Permet le recrutement des Gardes du Palace \n Recrutement plus rapide de 10%"
+"Permet le recrutement des Cúmaethyr et des Tamastirnyr \n Recrutement plus rapide de 10%"
 END
 
 CONTROLBAR:ConstructMirkwoodRoyalBarracksLevel3Upgrade
@@ -71120,7 +71116,7 @@ CONTROLBAR:ConstructMirkwoodRoyalBarracksLevel3Upgrade
 END
 
 CONTROLBAR:ToolTipBuildMirkwoodRoyalBarracksLevel3Upgrade
-"recrutement plus rapide de 25%"
+"Permet de recruter les Faenrochyn\n Recrutement plus rapide de 25%"
 END
 
 CONTROLBAR:ConstructMirkwoodTreasury
@@ -71136,11 +71132,11 @@ OBJECT:MirkwoodTreasury
 END
 
 OBJECT:MirkwoodTreasuryDescription
-"Produit des ressources à partir du terrain disponible"
+"Researches Woodland Realm unit upgrades"
 END
 
 CONTROLBAR:ConstructMirkwoodBeorningCabin
-"&Construit une Cabane Beornide"
+"Construit un Pavi&llon Beornide"
 END
 
 CONTROLBAR:ToolTipMirkwoodBeorningCabin
@@ -71148,7 +71144,7 @@ CONTROLBAR:ToolTipMirkwoodBeorningCabin
 END
 
 OBJECT:MirkwoodBeorningCabin
-"Cabane Beornide"
+"Pavillon Beornide"
 END
 
 OBJECT:MirkwoodBeorningCabinDescription
@@ -71160,7 +71156,7 @@ CONTROLBAR:ConstructMirkwoodBeorningCabinLevel2Upgrade
 END
 
 CONTROLBAR:ToolTipBuildMirkwoodBeorningCabinLevel2Upgrade
-"Permet le recrutement des Berserkers Beornides \n V% "
+"Permet le recrutement des Druides de l'Ordre du Chêne \n V% "
 END
 
 CONTROLBAR:ConstructMirkwoodBeorningCabinLevel3Upgrade
@@ -71168,7 +71164,7 @@ CONTROLBAR:ConstructMirkwoodBeorningCabinLevel3Upgrade
 END
 
 CONTROLBAR:ToolTipBuildMirkwoodBeorningCabinLevel3Upgrade
-"Recrutement plus rapide de 25%"
+"Permet le recrutement des Berserkers Béornides \n Recrutement plus rapide de 25%"
 END
 
 CONTROLBAR:ToolTipBuildMirkwoodBeorningCabinLevel3Upgrade_WOTR
@@ -71240,11 +71236,11 @@ CONTROLBAR:PurchaseUpgradeMirkwoodFortressBanners
 END
 
 CONTROLBAR:PurchaseUpgradeMirkwoodFortressEnchantedRiver
-"&Rivière enchantée"
+"Rivière &Enchantée"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeMirkwoodFortressBanners
-"Type d'Action : Charisme \n Les alliés près de la Forteresse gagnent +33% dégâts, +33% d'Armure, et gagnent de l'expérience 50% plus vite \n Se cumule avec les bonus et les sorts \n\nRéduit le coût des héros de 10% \n Réduit le temps de recrutement des héros de 10% \n Réduit le coût des bâtisseurs de 20%"
+"Type d'Action : Charisme \n Les alliés près de la Forteresse gagnent +33% dégâts, +25% d'Armure, et gagnent de l'expérience 50% plus vite \n Se cumule avec les bonus et les sorts \n\nRéduit le coût des héros de 15% \n Réduit le temps de recrutement des héros de 15% \n Réduit le coût des bâtisseurs de 20%"
 END
 
 CONTROLBAR:PurchaseUpgradeMirkwoodFortressHouseOfHealing
@@ -71256,7 +71252,7 @@ CONTROLBAR:ToolTipPurchaseUpgradeMirkwoodFortressHouseOfHealing
 END
 
 CONTROLBAR:PurchaseUpgradeMirkwoodFortressEmperorProtection
-"Protection de l'Empereur"
+"&Protection de l'Empereur"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeElvenFortressEmperorProtection
@@ -71295,16 +71291,8 @@ CONTROLBAR:TooltipHornOfTauron
 "Requiert l'amélioration l’Hommage à Oromë\nCause aux ennemis proches de la forteresse la perte de 50% d'Armure\net la fuite de terreur\nClic gauche pour activer"
 END
 
-CONTROLBAR:PurchaseUpgradeMirkwoodFortressRazorSpines
-"Épines &Malveilantes"
-END
-
-CONTROLBAR:ToolTipPurchaseUpgradeMirkwoodFortressRazorSpines
-"Inflige des dégâts aux unités ennemies proches de la Forteresse"
-END
-
 CONTROLBAR:ConstructMirkwoodWatchtowerExpansion
-"Tour de guet (&K)"
+"Tour de guet (&W)"
 END
 
 CONTROLBAR:ToolTipConstructMirkwoodWatchtowerExpansion
@@ -71316,7 +71304,7 @@ OBJECT:MirkwoodWatchtowerExpansion
 END
 
 CONTROLBAR:ConstructMirkwoodCaveEntranceExpansion
-"&Entrée de la grotte"
+"Entrée de la grotte (&C)"
 END
 
 CONTROLBAR:ToolTipConstructMirkwoodCaveEntranceExpansion
@@ -71332,15 +71320,15 @@ OBJECT:MirkwoodFortressCaveEntranceExpansionDescription
 END
 
 CONTROLBAR:ConstructMirkwoodSilvanHunter
-"Chasseur Sylvain (&H)"
+"&Feredir"
 END
 
 CONTROLBAR:ToolTipBuildMirkwoodSilvanHunter
-"Larmo - reconnaissance \n peut bouger en étant invisible"
+"Hunter \n Can move while stealthed \n Limited to 5. \n\n The Elves of the Greenwood were highly adept hunters that could stalk their quarry at close distance without ever alerting their prey. Few could enter the Greenwood without their movements going unnoticed, for the Feredir were numerous and kept a close watch on the Elvenking's Road."
 END
 
 OBJECT:MirkwoodSilvanHunter
-"Chasseurs Sylvain"
+"Feredir"
 END
 
 CONTROLBAR:WoodlandAttire
@@ -71348,7 +71336,7 @@ CONTROLBAR:WoodlandAttire
 END
 
 CONTROLBAR:TooltipWoodlandAttire
-"Les Chasseurs Sylvain sont des unités de reconnaissance rapides qui gagnent des ressources\n en tuant des ennemis\n abilité passive\n\nQuand elle est activé, les Chasseurs deviennent furtifs pendant 30 secondes et ne peuvent être attaqués ni attaquer\n Clic gauche sur l'icône pour l'activer"
+"Les Chasseurs Sylvain sont des unités de reconnaissance rapides qui gagnent des ressources\n en tuant des ennemis\n abilité passive\n\nQuand elle est activé, les Chasseurs deviennent furtifs pendant 30 secondes mais perdent leur furtivité s'ils attaquent\n Clic gauche sur l'icône pour l'activer"
 END
 
 CONTROLBAR:HuntingSnare
@@ -71548,15 +71536,15 @@ CONTROLBAR:ToolTipBuildMirkwoodEotheodHorde
 END
 
 CONTROLBAR:ConstructMirkwoodRangerHorde
-"&Rôdeurs Sylvain"
+"Taurd&rim"
 END
 
 CONTROLBAR:ToolTipBuildMirkwoodRangerHorde
-"Feredir - Chasseur \n Fort contre Infanterie \n Peut se camoufler près des arbres"
+"Forest-folk \n Fort contre Infanterie \n Peut se camoufler près des arbres"
 END
 
 OBJECT:MirkwoodRanger
-"Rôdeurs Sylvains"
+"Taurdron"
 END
 
 OBJECT:MirkwoodRangers
@@ -71568,55 +71556,55 @@ OBJECT:MirkwoodRangerBanner
 END
 
 OBJECT:MirkwoodRangerHorde
-"Rôdeurs Sylvains"
+"Taurdrim"
 END
 
 OBJECT:MirkwoodWarden
-"Gardiens Sylvains"
+"Sigilmaethor"
 END
 
 OBJECT:HordeMirkwoodWarden
-"Gardiens Sylvains"
+"Sigilmaethyr"
 END
 
 CONTROLBAR:ConstructMirkwoodWardenHorde
-"Gardiens Sylvains"
+"Sigil&maethyr"
 END
 
 CONTROLBAR:ToolTipBuildMirkwoodWardenHorde
-"Sigilmaethyr – assassins-guerriers \n Forts contre Piquiers \n Peuvent se camoufler près des arbres"
+"Assassins-Guerriers \n Forts contre Piquiers \n Peuvent se camoufler près des arbres \n\n The close boughs of the Greenwood were ill-suited for the swinging of longswords, leading many Elves to fight using twin daggers."
 END
 
 OBJECT:MirkwoodSpear
-"Lancier Sylvain"
+"Thelamaethor"
 END
 
 OBJECT:HordeMirkwoodSpear
-"Lanciers Sylvain"
+"Thelamaethyr"
 END
 
 CONTROLBAR:ConstructMirkwoodSpearHorde
-"Lancier Sylvain (&P)"
+"Thelamae&thyr"
 END
 
 CONTROLBAR:ToolTipBuildMirkwoodSpearHorde
-"Requiert : Niveau 2 Clairière Sylvaine \nThe lamaethyr - guerriers à lances\nFort contre Cavalerie & Monstres \n Peut se camoufler près des arbres"
+"Requiert : Clairière Sylvaine Niveau 2 \n Thelamaethyr - Guerriers-Lanciers\nFort contre Cavalerie & Monstres \n Peut se camoufler près des arbres \n\n While many Elves hunted their quarry from afar, some preferred to stalk and skewer them from a closer range."
 END
 
 OBJECT:MirkwoodOutrider
-"Cavalier Sylvain"
+"Gwairochir"
 END
 
 OBJECT:HordeMirkwoodOutrider
-"Cavaliers Sylvain"
+"Gwairochyn"
 END
 
 CONTROLBAR:ConstructMirkwoodOutriderHorde
-"Cavaliers Sylvain"
+"Gwa&irochyn"
 END
 
 CONTROLBAR:ToolTipBuildMirkwoodOutriderHorde
-"Requiert : Niveau 2 Clairière Silvaine \nGwairochyn – Chevaucheur sauvage\nFort contre Archers"
+"Requiert : Clairière Silvaine Niveau 3 \n Chevaucheurs sauvages\nFort contre Archers \n\n The Woodland Realm was vast, and Thranduil employed swift and nimble riders to carry messages and orders between its various Elven-homes."
 END
 
 CONTROLBAR:ConstructGreenwoodWarriorHorde
@@ -71652,11 +71640,11 @@ CONTROLBAR:ToolTipBuildSindarNoblesHorde
 END
 
 CONTROLBAR:SilvanEscape
-"Évasion (&C)"
+"É&vasion"
 END
 
 CONTROLBAR:ToolTipSilvanEscape
-"Requiert : Niveau 2\nLes unités sylvaines gagnent temporairement un bonus d'armure\net une résistance au renversement\nClic gauche pour l'activer"
+"Requiert : Niveau 2\nLes unités sylvaines gagnent temporairement +25% d'armure, +25% de vitesse et une résistance au renversement\nClic gauche pour l'activer"
 END
 
 CONTROLBAR:ToolTipBuildMirkwoodWarriorHorde
@@ -71664,7 +71652,7 @@ CONTROLBAR:ToolTipBuildMirkwoodWarriorHorde
 END
 
 CONTROLBAR:PurchaseUpgradeBeekeeping
-"Rechercher l'amélioration Ruche"
+"Rechercher l'amélioration Apiculture"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeBeekeeping
@@ -71672,23 +71660,23 @@ CONTROLBAR:ToolTipPurchaseUpgradeBeekeeping
 END
 
 CONTROLBAR:ToolTipBeekeeping
-"La Cabane des Beornides produit une grande quantité de ressources"
+"Le Pavillon des Beornides produit une grande quantité de ressources"
 END
 
 CONTROLBAR:Beekeeping
-"Ruche"
+"Apiculture"
 END
 
 TOOLTIP:Beekeeping
-"Ruche"
+"Apiculture"
 END
 
 TOOLTIP:LackLevel3BeorningLodgeBeekeeping
-"Requiert : niveau 3 Maison des Béornides"
+"Requiert : Maison des Béornides niveau 3"
 END
 
 OBJECT:WoodlandFeast
-"Festin du royaume des forêts"
+"Festin du Royaume des Forêts"
 END
 
 OBJECT:WoodlandFeastDescription
@@ -71800,7 +71788,7 @@ CONTROLBAR:FarsightMirkwood
 End
 
 CONTROLBAR:TooltipFarsightMirkwood
-"Révèle la zone ciblée \n \n Type d'Action : Buff \n Donne un bonus de +15% de vitesse aux unités dans la zone ciblée \n S'accumule \n Clic gauche sur l'îcone puis clic gauche sur la zone ciblée"
+"Révèle la zone et invoque trois Chasseurs Sylvain dans la zone ciblée \n Clic gauche sur l'îcone puis clic gauche sur la zone ciblée"
 End
 
 CONTROLBAR:TheElvesAwokeThemMirkwood
@@ -71816,7 +71804,7 @@ CONTROLBAR:ElvenkingRoad
 END
 
 CONTROLBAR:TooltipElvenkingRoad
-"Type d'Action : Buff \nLes alliés ciblés gagnent +25% de vitesse de déplacement et de résistance aux attaques à distance \n Se cumule avec le Charisme et les sorts\nClic gauche sur l'îcone puis clic gauche sur les unités ciblées"
+"Summons an Elven Waystone\n Limited to 1 \n The Waystone may teleport targeted units to its location\nLeft click icon then left click on target area"
 END
 
 OBJECT:MirkwoodWaystone
@@ -71872,11 +71860,11 @@ CONTROLBAR:SummonEotheodAllies
 End
 
 CONTROLBAR:ToolTipSummonEotheodAllies
-"Invoque une armée d'Eotheod commandée par Frumgar, fils de Frumgar\n Clic gauche sur l'icône puis clic gauche sur la zone cible"
+"Invoque une armée d'Éotheod commandée par Frumgar, fils de Frumgar\n Clic gauche sur l'icône puis clic gauche sur la zone cible"
 END
 
 CONTROLBAR:ToolTipSummonEotheodAllies_WOTR
-"Invoque une armée d'Eotheod\n Clic gauche sur l'icône puis clic gauche sur la zone cible"
+"Invoque une armée d'Éotheod\n Clic gauche sur l'icône puis clic gauche sur la zone cible"
 END
 
 CONTROLBAR:MirkwoodDarkness
@@ -71926,7 +71914,7 @@ CONTROLBAR:ShelobDarkDeterrent
 END
 
 CONTROLBAR:ToolTipShelobDarkDeterrent
-"Les ennemis dans le rayon sont étourdis et reçoivent des dégâts de poison\nClic gauche sur l'icône puis clic gauche sur la zone cible"
+"Les ennemis dans le rayon sont étourdis pendant 5 secondes et reçoivent des dégâts de poison\nClic gauche sur l'icône puis clic gauche sur la zone cible"
 END
 
 CONTROLBAR:ShelobFellStinger
