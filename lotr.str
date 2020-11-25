@@ -17424,7 +17424,7 @@ CONTROLBAR:Leap
 END
 
 CONTROLBAR:ToolTipLeap
-"Requiert : Niveau 2\n Gimli effectue un saut à la position choisie infligeant des dégâtes de zone \n Clic gauche sur l'icône puis clic gauche sur la zone cible"
+"Requiert : Niveau 2\n Gimli effectue un saut à la position choisie infligeant des dégâts de zone \n Clic gauche sur l'icône puis clic gauche sur la zone cible"
 END
 
 CONTROLBAR:FellowshipLeap
@@ -17432,7 +17432,7 @@ CONTROLBAR:FellowshipLeap
 END
 
 CONTROLBAR:ToolTipFellowshipLeap
-"Requiert Niveau 3 \n Gimli effectue un saut à la position choisie infligeant des dégâtes de zone \n Clic gauche sur l'icône puis clic gauche sur la zone cible"
+"Requiert Niveau 3 \n Gimli effectue un saut à la position choisie infligeant des dégâts de zone \n Clic gauche sur l'icône puis clic gauche sur la zone cible"
 END
 
 CONTROLBAR:Leap_Summoned
@@ -24079,7 +24079,7 @@ CONTROLBAR:LW_Unit_GondorSpearmenHordeComboPlural
 END
 
 CONTROLBAR:LW_ToolTip_GondorSpearmenHordeCombo
-"Type d'unité: Elite Piquiers \n Fort contre la Cavalerie\n"
+"Type d'unité: Piquiers d'élite \n Fort contre la Cavalerie\n"
 END
 
 OBJECT:HordeGondorArcherCombo
@@ -24095,7 +24095,7 @@ CONTROLBAR:LW_Unit_GondorArcherHordeComboPlural
 END
 
 CONTROLBAR:LW_ToolTip_GondorArcherHordeCombo
-"Type d'unité: Elite Archer\n Fort contre l'infanterie\n"
+"Type d'unité: Archers d'élite\n Fort contre l'infanterie\n"
 END
 
 OBJECT:HordeGondorSoldierArcherCombo
@@ -25787,11 +25787,11 @@ TOOLTIP:LackLevel2BlacksmithForgedBlades
 END
 
 TOOLTIP:LackLevel3BarracksHeavyArmor
-"Requiert : Niveau 3 Barracks"
+"Requiert : Caserne Niveau 3"
 END
 
 TOOLTIP:LackLevel2BarracksForgedBlades
-"Requiert : Niveau 2 Barracks"
+"Requiert : Caserne Niveau 2"
 END
 
 TOOLTIP:LackLevel2ForbiddenPool
@@ -27057,11 +27057,11 @@ CONTROLBAR:TooltipConstructDwarvenArcheryRange
 END
 
 CONTROLBAR:ConstructDwarvenAssembly
-"Build Erebor Assembl&y"
+"Construire une Assemblée d'Erebor"
 END
 
 CONTROLBAR:TooltipConstructDwarvenAssembly
-"Recruits allies from the world of Men, Blue Mountains, and the Iron Hills \n Increases command point limit by 25"
+"Recruite des alliés du monde des Hommes, des Montagnes Bleues et des Monts du Fer \n Augmente la limite de points de commandement de 25"
 END
 
 CONTROLBAR:ConstructDwarvenWallHub
@@ -27150,32 +27150,32 @@ TOOLTIP:LackMightyCatapultDwarvenStonework
 END
 
 TOOLTIP:LackMightyCatapultDwarvenStonework_WOTR
-"Requires the Fortifications upgrade \Decreases recruitment time for all Dwarven units by 20%\nIncreases movement for all Dwarven units by 10%\nDecreases cost of unit upgrades by 10%\nStacks with Steel Bonus discount"
+"Requiert l'amélioration fortifications \Fait décroitre le temps de recrutement des unités naines de 20%\nAccroit la vitesse de mouvement des unités naines de 10%\nFait décroitre le cout des améliorations d'unités de 10%\nCumulable avec les autres bonus"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeDwarvenFortressMightyCatapult
-"Decreases recruitment time for all Dwarven units by 20%\nIncreases movement for all Dwarven units by 10%\nDecreases cost of unit upgrades by 10%\nStacks with Steel Bonus discount"
+"Fait décroitre le temps de recrutement des unités naines de 20%\nAccroit la vitesse de mouvement des unités naines de 10%\nFait décroitre le cout des améliorations d'unités de 10%\nCumulable avec les autres bonus"
 //"Grants heavy armor to Dwarf heroes \nEnables the recruitment of Iron Hills troops \n and Ered Luin troops"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeDwarvenFortressArkenstoneHobbitEra
-"Requires the Fortifications upgrade\nDecreases recruitment time for all Dwarven units by 20%\nIncreases movement for all Dwarven units by 10%\nDecreases cost of unit upgrades by 10%\nStacks with Steel Bonus discount\nGrants heavy armor to heroes"
+"Requiert l'amélioration fortifications \Fait décroitre le temps de recrutement des unités naines de 20%\nAccroit la vitesse de mouvement des unités naines de 10%\nFait décroitre le cout des améliorations d'unités de 10%\nCumulable avec les autres bonus\nOctroie un bonus d'armure aux héros"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeDwarvenFortressArkenstoneHobbitEra_Monument
-"Decreases recruitment time for all Dwarven units by 20%\nIncreases movement for all Dwarven units by 10%\nDecreases cost of unit upgrades by 10%\nStacks with Steel Bonus discount\nGrants heavy armor to heroes"
+"Fait décroitre le temps de recrutement des unités naines de 20%\nAccroit la vitesse de mouvement des unités naines de 10%\nFait décroitre le cout des améliorations d'unités de 10%\nCumulable avec les autres bonus\nOctroie un bonus d'armure aux héros"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeDwarvenFortressArkenstoneLotREra
-"Requires the Fortifications upgrade\nDecreases recruitment time for all Dwarven units by 20%\nIncreases movement for all Dwarven units by 10%\nDecreases cost of unit upgrades by 10%\nStacks with Steel Bonus discount"
+"Requiert l'amélioration fortifications \Fait décroitre le temps de recrutement des unités naines de 20%\nAccroit la vitesse de mouvement des unités naines de 10%\nFait décroitre le cout des améliorations d'unités de 10%\nCumulable avec les autres bonus"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeDwarvenFortressArkenstoneLotREra_Monument
-"Decreases recruitment time for all Dwarven units by 20%\nIncreases movement for all Dwarven units by 10%\nDecreases cost of unit upgrades by 10%\nStacks with Steel Bonus discount"
+"Fait décroitre le temps de recrutement des unités naines de 20%\nAccroit la vitesse de mouvement des unités naines de 10%\nFait décroitre le cout des améliorations d'unités de 10%\nCumulable avec les autres bonus"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeDwarvenFortressMightyCatapult_WOTR
-"Decreases recruitment time for all Dwarven units by 20%\nIncreases movement for all Dwarven units by 10%\nDecreases cost of unit upgrades by 10%\nStacks with Steel Bonus discount"
+"Fait décroitre le temps de recrutement des unités naines de 20%\nAccroit la vitesse de mouvement des unités naines de 10%\nFait décroitre le cout des améliorations d'unités de 10%\nCumulable avec les autres bonus"
 END
 
 CONTROLBAR:PurchaseUpgradeDwarvenFortressOilCasks
@@ -27300,7 +27300,7 @@ CONTROLBAR:GloinHotkey
 END
 
 CONTROLBAR:GloinRecruit
-"Recrutez le père de Gimli.\n\n 'The Shadow grows and draws nearer. Already war is gathering on our eastern borders...' \n\n Glóin faisait partie des guerriers les plus doués et les plus expérimentés qui partirent reconquérir le Mont Solitaire avec Thorin Ecu-de-Chêne. Au cour de cette quête, il prouva sa force et sa valeur d'innombrables fois. Lorsque Dáin Pied-d'Acier succéda à Thorin sur le trône d'Erebor, nul ne fut plus fidèle au nouveau Roi que lui."
+"Recrutez le père de Gimli.\n\n 'L'Ombre grandit et se rapproche. Déjà, la guerre se prépare sur nos frontières de l'Est...' \n\n Glóin faisait partie des guerriers les plus doués et les plus expérimentés qui partirent reconquérir le Mont Solitaire avec Thorin Ecu-de-Chêne. Au cour de cette quête, il prouva sa force et sa valeur d'innombrables fois. Lorsque Dáin Pied-d'Acier succéda à Thorin sur le trône d'Erebor, nul ne fut plus fidèle au nouveau Roi que lui."
 END
 
 CONTROLBAR:GloinRevive
@@ -28179,47 +28179,47 @@ CONTROLBAR:LW_Structure_GondorBarracks
 END
 
 CONTROLBAR:LW_ToolTipBuild_GondorBarracks
-"Battle Template: Gondor Barracks \n\nType de structure : Caserne standard\n Forme les unités standards des Hommes de l'Ouest\n "
+"Type de structure: Caserne du Gondor \n\nType de structure : Caserne standard\n Forme les unités standards des Hommes de l'Ouest\n "
 END
 
 CONTROLBAR:LW_Structure_RohanBarracks
-"Mustering Field"
+"Champ de Rassemblement"
 END
 
 CONTROLBAR:LW_ToolTipBuild_RohanBarracks
-"Battle Template: Gondor Barracks \n\nType de structure : Caserne standard\n Forme les unités standards du Rohan\n"
+"Type de structure: Caserne du Gondor \n\nType de structure : Caserne standard\n Forme les unités standards du Rohan\n"
 END
 
 CONTROLBAR:LW_ToolTip_GondorBarracks
-"Battle Template: Gondor Barracks \n\nType de structure : Caserne standard\n Forme les unités standards des Hommes de l'Ouest"
+"Type de structure: Caserne du Gondor \n\nType de structure : Caserne standard\n Forme les unités standards des Hommes de l'Ouest"
 END
 
 CONTROLBAR:LW_ToolTip_RohanBarracks
-"Battle Template: Gondor Barracks \n\nType de structure : Caserne standard\n Forme les unités standards du Rohan"
+"Type de structure: Caserne du Rohan \n\nType de structure : Caserne standard\n Forme les unités standards du Rohan"
 END
 
 CONTROLBAR:LW_Structure_GondorBlackSmith
-"Tower of the Guard"
+"Tour de Garde"
 END
 
 CONTROLBAR:LW_Structure_RohanWorkshop
-"Mead Hall"
+"Salle d'hydromel"
 END
 
 CONTROLBAR:LW_ToolTipBuild_GondorBlackSmith
-"Battle Template: Gondor Stables\n\nStructure Type: Elite Barracks\nTrains Gondor elite units\n"
+"Type de structure: Ecurie du Gondor\n\nStructure Type: Caserne d'élite\nEntraîne les unités d'élite du Gondor\n"
 END
 
 CONTROLBAR:LW_ToolTip_GondorBlackSmith
-"Battle Template: Gondor Stables\n\nStructure Type: Elite Barracks\nTrains Gondor elite units"
+"Type de structure: Ecurie du Gondor\n\nStructure Type: Caserne d'élite\nEntraîne les unités d'élite du Gondor"
 END
 
 CONTROLBAR:LW_ToolTipBuild_RohanStables
-"Battle Template: Rohan Stables\n\nStructure Type: Elite Barracks\nTrains Rohan elite units\n"
+"Type de structure: Ecurie du Rohan\n\nStructure Type: Caserne d'élite\nEntraîne les unités d'élite du Gondor\n"
 END
 
 CONTROLBAR:LW_ToolTip_RohanStables
-"Battle Template: Rohan Stables\n\nStructure Type: Elite Barracks\nTrains Rohan elite units"
+"Type de structure: Ecurie du Rohan\n\nStructure Type: Caserne d'élite\nEntraîne les unités d'élite du Gondor"
 END
 
 CONTROLBAR:LW_Structure_GondorFarm
@@ -28513,11 +28513,11 @@ CONTROLBAR:LW_Hero_Faramir
 END
 
 CONTROLBAR:LW_ToolTipBuild_Faramir
-"Type d'unité : Héros Army Leader\n "
+"Type d'unité : héros commandant une armée\n "
 END
 
 CONTROLBAR:LW_ToolTip_Faramir
-"Type d'unité : Héros Army Leader"
+"Type d'unité : héros commandant une armée"
 END
 
 CONTROLBAR:LW_Hero_Eomer
@@ -30004,11 +30004,11 @@ CONTROLBAR:LW_Structure_IsengardArmory
 END
 
 CONTROLBAR:LW_ToolTipBuild_IsengardArmory
-"Type de structure: Puit à Ourouks\n\nType de structure: Caserne d'élite\nEntraîne les unités d"élite de l'Isengard\n"
+"Type de structure: Puit à Ourouks\n\nType de structure: Caserne d'élite\nEntraîne les unités d'élite de l'Isengard\n"
 END
 
 CONTROLBAR:LW_ToolTip_IsengardArmory
-"Type de structure: Uruk-hai Pit\n\nType de structure: Caserne d'élite\nEntraîne les unités d"élite de l'Isengard"
+"Type de structure: Uruk-hai Pit\n\nType de structure: Caserne d'élite\nEntraîne les unités d'élite de l'Isengard"
 END
 
 CONTROLBAR:LW_Structure_IsengardFurnace
@@ -30180,15 +30180,15 @@ CONTROLBAR:LW_ToolTip_WildFortress
 END
 
 CONTROLBAR:LW_Structure_WildCave
-"Orc Warrens"
+"Dédale orque"
 END
 
 CONTROLBAR:LW_ToolTipBuild_WildCave
-"Battle Template: Moria Orc Cave\n\nStructure Type: Basic Barracks\nTrains Misty Mountains basic units\n"
+"Type de structure: Cave orque de la Moria\n\nStructure Type: Caserne standard\nEntraîne les unités basiques des Monts Brumeux\n"
 END
 
 CONTROLBAR:LW_ToolTip_WildCave
-"Battle Template: Moria Orc Cave\n\nStructure Type: Basic Barracks\nTrains Misty Mountains basic units"
+"Type de structure:Cave orque de la Moria\n\nStructure Type: Caserne standard\nEntraîne les unités basiques des Monts Brumeux"
 END
 
 CONTROLBAR:LW_Structure_WildTreasureTrove
@@ -30196,11 +30196,11 @@ CONTROLBAR:LW_Structure_WildTreasureTrove
 END
 
 CONTROLBAR:LW_ToolTipBuild_WildTreasureTrove
-"Battle Template: Troll Lair\n\nStructure Type: Elite Barracks\nTrains Misty Mountains elite units\n"
+"Type de structure: Antre de trolls\n\nStructure Type: Caserne d'élite\nEntraîne les unités d'élite des Monts Brumeux\n"
 END
 
 CONTROLBAR:LW_ToolTip_WildTreasureTrove
-"Battle Template: Troll Lair\n\nStructure Type: Elite Barracks\nTrains Misty Mountains elite units"
+"Type de structure: Antre de trolls\n\nStructure Type: Caserne standard\nEntraîne les unités d'élite des Monts Brumeux"
 END
 
 CONTROLBAR:LW_Structure_WildDefiledMineShaft
