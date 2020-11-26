@@ -32382,7 +32382,7 @@ CONTROLBAR:GloinHeal
 END
 
 CONTROLBAR:ToolTipGloinHeal
-"Soigne les unités proches\nAun iveau 3, fournit +15% d'armure\nClic gauche pour activer"
+"Soigne les unités proches\nAu niveau 3, fournit +15% d'armure\nClic gauche pour activer"
 END
 
 CONTROLBAR:ProudFather
@@ -32436,7 +32436,7 @@ CONTROLBAR:LaketownCallGuard
 "&Appel à la Garde!"
 END
 CONTROLBAR:ToolTipLaketownCallGuard
-"Requiert Niveau 3\nInvoque un bataillon de Gardes du Maitre sur le champ de bataille et qui y restent jusqu'à ce qu'ils soient vaincus \n Aun iveau 6, invoque deux bataillons \n Respecte la limite de points de commandement \n Clic gauche sur l'icône puis clic gauche sur la zone cible"
+"Requiert Niveau 3\nInvoque un bataillon de Gardes du Maitre sur le champ de bataille qui y restent jusqu'à ce qu'ils soient vaincus \n Au niveau 6, invoque deux bataillons \n Respecte la limite de points de commandement \n Clic gauche sur l'icône puis clic gauche sur la zone cible"
 END
 
 CONTROLBAR:AncientStatute
@@ -63467,7 +63467,7 @@ CONTROLBAR:SummonGenericMordorSpy
 END
 
 CONTROLBAR:ToolTipSummonGenericMordorSpy
-"Invoque des Spectres, des formes squelettiques de guerriers morts sur des champs de bataille oubliés, servants de réceptacles physiques à des esprits maléfiques soumis par la magie du Roi-Sorcier.\nIls sont rapides, révèlent une grande partie du brouillard de guerre, pénalisent les unités ennemies et révèlent les unités furtives.\n\nClic gauche sur l'icône puis clic gauche sur une zone praticable"
+"Invoque des Spectres, des formes squelettiques de guerriers morts sur des champs de bataille oubliés, servant de réceptacles physiques à des esprits maléfiques soumis par la magie du Roi-Sorcier.\nIls sont rapides, révèlent une grande partie du brouillard de guerre, pénalisent les unités ennemies et révèlent les unités furtives.\n\nClic gauche sur l'icône puis clic gauche sur une zone praticable"
 END
 
 CONTROLBAR:SummonedWightDebuff
@@ -65181,7 +65181,7 @@ CONTROLBAR:WannaBoroMiKnife
 END
 
 CONTROLBAR:TooltipWannaBoroMiKnife
-"Requiert : niveau 3 \n Boromir lance son épée sur une unité ennemie, ce qui les repoussent et réduisent leur armure. \n\n Clic gauche sur l'icône puis clic gauche sur la cible"
+"Requiert : niveau 3 \n Boromir lance son épée sur une unité ennemie, cela la repousse et réduit son armure. \n\n Clic gauche sur l'icône puis clic gauche sur la cible"
 END
 
 CONTROLBAR:TooltipFellowshipWannaBoroMiKnife
@@ -65209,7 +65209,7 @@ CONTROLBAR:KnottedStrings
 END
 
 CONTROLBAR:ToolTipKnottedStrings
-"Requiert : niveau 3 \n En tendant les cordes au maximum, les Azaghâr-sharâhul ignorent temporairement l'armure de leur ennemis \n\n Clic gauche pour activer"
+"Requiert : niveau 3 \n En tendant les cordes au maximum, les Azaghâr-sharâhul ignorent temporairement l'armure de leurs ennemis \n\n Clic gauche pour activer"
 END
 
 CONTROLBAR:SunderingStrikes
@@ -65217,7 +65217,7 @@ CONTROLBAR:SunderingStrikes
 END
 
 CONTROLBAR:ToolTipSunderingStrikes
-"Chaque attaque de mêlé réduit de 10% l'armure des ennemis\nSe cumule au maximum 5 fois\nabilité passive"
+"Chaque attaque de mêlée réduit de 10% l'armure des ennemis\nSe cumule au maximum 5 fois\nabilité passive"
 END
 
 CONTROLBAR:PunchThrough
@@ -65337,7 +65337,7 @@ CONTROLBAR:GilGaladAeglosLance
 END
 
 CONTROLBAR:ToolTipGilGaladAeglosLance
-"Renverse et marque le Héros ciblé \n Les unités normales sont renversées et endommagées \n Clic gauche then right click sur cible"
+"Renverse et marque le Héros ciblé \n Les unités normales sont renversées et endommagées \n Clic gauche puis clic droit sur la cible"
 END
 
 CONTROLBAR:ElrondLALeadership
@@ -65401,7 +65401,7 @@ CONTROLBAR:ConstructSecondAgeFighterHorde
 END
 
 CONTROLBAR:ToolTipBuildSecondAgeFighterHorde
-"Forts contre l'infanterie \n\n Les Soldats Dúnedain d'Elendil étaient de stature intact et de sang non altéré - des guerriers legendaires, craint par les serviteurs du Seigneur des Ténèbres."
+"Forts contre l'infanterie \n\n Les Soldats Dúnedain d'Elendil étaient de stature intact et de sang non altéré - des guerriers legendaires, craints par les serviteurs du Seigneur des Ténèbres."
 END
 
 OBJECT:SecondAgeArcher
@@ -65561,11 +65561,11 @@ OBJECT:HordeDwarvenPhalanxDwarvenHammerCombo
 END
 
 CONTROLBAR:LW_Unit_DwarvenPhalanxDwarvenHammerHorde
-"Bataillon Sulkhâ-bekhâz - Sigin-udrîg"
+"Bataillon de Sulkhâ-bekhâz - Sigin-udrîg"
 END
 
 CONTROLBAR:LW_Unit_DwarvenPhalanxDwarvenHammerHordePlural
-"Bataillons Sulkhâ-bekhâz - Sigin-udrîg"
+"Bataillons de Sulkhâ-bekhâz - Sigin-udrîg"
 END
 
 CONTROLBAR:LW_ToolTipBuild_DwarvenPhalanxDwarvenHammerHorde
@@ -65589,7 +65589,7 @@ CONTROLBAR:ConstructGrimHammerHorde
 END
 
 CONTROLBAR:ToolTipBuildGrimHammerHorde
-"Marteliers Sinistre d'Erebor \n Lorsque les Nains se rassemblent pour infliger leur terrible vengeance, leur avant-garde est souvent constituée de Mornes-martels. Ces guerriers Nains déterminés, engoncés des pieds à la tête dans une armure de plates et de mailles, progressent avec des intentions meurtrières. \n\n Forts contre les piquiers."
+"Marteliers Sinistre d'Erebor \n Lorsque les Nains se rassemblent pour infliger leur terrible vengeance, leur avant-garde est souvent constituée de Marteliers-Sinistres. Ces guerriers Nains déterminés, engoncés des pieds à la tête dans une armure de plates et de mailles, progressent avec des intentions meurtrières. \n\n Forts contre les piquiers."
 END
 
 CONTROLBAR:GrimIntimidate
@@ -65785,7 +65785,7 @@ CONTROLBAR:PurchaseUpgradeRohanFortressMeadHall
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeRohanFortressMeadHall
-"Soigne les alliés à proximité de la forteresse et dans les salles \n Permet l'invocation d'une unité de la Garde Royal portant des lances"
+"Soigne les alliés à proximité de la forteresse et dans les salles \n Permet l'invocation d'une unité de la Garde Royale portant des lances"
 END
 
 TOOLTIP:LackRohanFortressMeadHall
@@ -66033,23 +66033,23 @@ BANNERUI:GondorSpearmen
 End
 
 BANNERUI:GondorDolFighter
-"Homme Armé du Dol Amroth"
+"Homme d'armes de Dol Amroth"
 END
 
 BANNERUI:GondorDolFighters
-"Des Hommes Armés du Dol Amroth"
+"Hommes d'armes de Dol Amroth"
 END
 
 CONTROLBAR:LW_Unit_GondorDolMAArmsHordePlural
-"Bataillons d'Hommes Armés du Dol Amroth"
+"Bataillons d'Hommes d'armes de Dol Amroth"
 END
 
 CONTROLBAR:LW_ToolTipBuild_GondorKnightsofDolHorde
-"Type d'unité : Cavalerie d'Héros \n Fort contre l'Infanterie"
+"Type d'unité : Cavalerie héroïque \n Fort contre l'Infanterie"
 END
 
 CONTROLBAR:LW_Unit_GondorFountainGuardHordePlural
-"Bataillons des Gardes de la Fontaine"
+"Bataillons de Gardes de la Fontaine"
 END
 
 BANNERUI:GondorFountainGuard
@@ -66113,7 +66113,7 @@ CONTROLBAR:LW_ToolTip_Galadriel
 END
 
 CONTROLBAR:LW_Unit_CerinAmrothSentinelHordePlural
-"Batallions de Gwahaedhrim"
+"Bataillons de Gwahaedhrim"
 END
 
 BANNERUI:CerinAmrothSentinel
@@ -66125,7 +66125,7 @@ BANNERUI:CerinAmrothSentinels
 END
 
 CONTROLBAR:LW_Unit_LorienStalkerHordePlural
-"Batallions de Tawar-na-Thirrad"
+"Bataillons de Tawar-na-Thirrad"
 END
 
 BANNERUI:LorienStalker
@@ -66137,7 +66137,7 @@ BANNERUI:LorienStalkers
 END
 
 CONTROLBAR:LW_Unit_ElvenGaladhrimWarriorHordePlural
-"Batallions de Edrain-na-Maethyr"
+"Bataillon de Edrain-na-Maethyr"
 END
 
 BANNERUI:GaladhrimWarrior
@@ -66173,7 +66173,7 @@ BANNERUI:AmrothKnights
 END
 
 CONTROLBAR:LW_Unit_ElvenNandorBlademasterHordePlural
-"Bataillons du Nandor d'Hîr-Hathol"
+"Bataillons de Nandor d'Hîr-Hathol"
 END
 
 BANNERUI:NandorBlademaster
@@ -66257,7 +66257,7 @@ CONTROLBAR:LW_Unit_IsengardWildmenSpearHordePlural
 END
 
 BANNERUI:IsengardWildmanSpear
-"Lancier d'Homme sauvages"
+"Lancier des Hommes sauvages"
 END
 
 BANNERUI:IsengardWildmenSpear
@@ -66265,27 +66265,27 @@ BANNERUI:IsengardWildmenSpear
 END
 
 CONTROLBAR:LW_Unit_IsengardDunlandArcherHordePlural
-"Hordes d'Archers Arc Long du Dúnedains"
+"Hordes d'Archers à Arc Long Dunlandais"
 END
 
 BANNERUI:IsengardDunlandArcher
-"Archer Arc Long du Dúnedains"
+"Archer à Arc Long Dunlandais "
 END
 
 BANNERUI:IsengardDunlandArchers
-"Archers Arc Long du Dúnedains"
+"Archers à Arc Long Dunlandais"
 END
 
 CONTROLBAR:LW_Unit_IsengardDunlandRiderHordePlural
-"Hordes de Cavaliers du Dúnedain"
+"Hordes de Cavaliers Dunlandais"
 END
 
 BANNERUI:IsengardDunlandRider
-"Cavalier du Dúnedain"
+"Cavalier Dunlandais"
 END
 
 BANNERUI:IsengardDunlandRiders
-"Cavaliers du Dúnedain"
+"Cavaliers Dunlandais"
 END
 
 CONTROLBAR:LW_Unit_IsengardManSlayerHordePlural
@@ -66493,11 +66493,11 @@ BANNERUI:GondorPinnathGelinRiders
 END
 
 BANNERUI:BlackrootValeArcher
-"Archer de la Vallée de Racine Noire"
+"Archer de la Vallée de la Racine Noire"
 END
 
 BANNERUI:BlackrootValeArchers
-"Archers de la Vallée de Racine Noire"
+"Archers de la Vallée de la Racine Noire"
 END
 
 CONTROLBAR:LW_Hero_Imrahil
@@ -66505,11 +66505,11 @@ CONTROLBAR:LW_Hero_Imrahil
 END
 
 BANNERUI:MenofDaleSword
-"Bardeur Épéiste"
+"Épéiste Bardien"
 END
 
 BANNERUI:PluralMenofDaleSword
-"Bardeurs Épéistes"
+"Épéistes Bardiens"
 END
 
 BANNERUI:IronHillRider
@@ -66545,11 +66545,11 @@ BANNERUI:PluralDwarvenEredLuinTrader
 END
 
 CONTROLBAR:LW_ToolTipBuild_Imrahil
-"Type d'unité: Chef des armés"
+"Type d'unité: Chef des armées"
 END
 
 CONTROLBAR:LW_ToolTip_Imrahil
-"Type d'unité: Chef des armés"
+"Type d'unité: Chef des armées"
 END
 
 BANNERUI:LaketownSpearmen
@@ -66617,11 +66617,11 @@ BANNERUI:DwarvenGrimHammers
 END
 
 BANNERUI:GondorLinhirSentry
-"Lancier du Linhir"
+"Lancier de Linhir"
 END
 
 BANNERUI:GondorLinhirSentries
-"Lanciers du Linhir"
+"Lanciers de Linhir"
 END
 
 BANNERUI:GoblinTownWarrior
@@ -66641,15 +66641,15 @@ LWScenario:WOTRWarInTheNorthDescription
 END
 
 CONTROLBAR:LW_Structure_DwarvenWorkshop
-"Erebor Redoubt"
+"Redoute d'Erebor"
 END
 
 CONTROLBAR:LW_ToolTipBuild_DwarvenWorkshop
-"Battle Template: Erebor Redoubt\n\nStructure Type: Elite Barracks\nTrains Erebor elite units\n"
+"Modèle de combat: Redoute d'Erebor\n\nStructure Type: Caserne d'élite\nEntraîne les unités d'élite d'Erebor\n"
 END
 
 CONTROLBAR:LW_ToolTip_DwarvenWorkshop
-"Battle Template: Erebor Redoubt\n\nStructure Type: Elite Barracks\nTrains Erebor elite units"
+"Modèle de combat: Redoute d'Erebor\n\nStructure Type: Caserne d'élite\nEntraîne les unités d'élite d'Erebor"
 END
 
 CONTROLBAR:LW_Unit_DwarvenBatteringRam
@@ -66733,19 +66733,19 @@ CONTROLBAR:LW_Unit_IronHillsWarriorCrossbowHordePlural
 END
 
 CONTROLBAR:LW_Unit_IronHillRiderHordePlural
-"Batallions de Ukhrub-sharâhul"
+"Bataillons de Ukhrub-sharâhul"
 END
 
 CONTROLBAR:LW_Unit_MenofDaleSwordHordePlural
-"Batallions de Barding Swordsman"
+"Bataillon d'épeiste Bardiens"
 END
 
 CONTROLBAR:LW_Unit_IronHillsWarriorHorde
-"Batallion de Baruk-sharâhul"
+"Bataillon de Baruk-sharâhul"
 End
 
 CONTROLBAR:LW_Unit_IronHillsWarriorHordePlural
-"Batallions de Baruk-sharâhul"
+"Bataillon de Baruk-sharâhul"
 End
 
 CONTROLBAR:LW_ToolTipBuild_IronHillsWarriorHorde
@@ -66789,11 +66789,11 @@ BANNERUI:PluralDwarvenEredLuinRanger
 END
 
 CONTROLBAR:LW_Unit_EredLuinRangerHorde
-"Batallion de Huruz-Khagal-zirak"
+"Bataillon de Huruz-Khagal-zirak"
 END
 
 CONTROLBAR:LW_Unit_EredLuinRangerHordePlural
-"Batallions de Huruz-Khagal-zirak"
+"Bataillons de Huruz-Khagal-zirak"
 END
 
 CONTROLBAR:LW_ToolTip_EredLuinRangerHorde
@@ -66902,7 +66902,7 @@ OBJECT:RohanErkenbrand
 END
 
 CONTROLBAR:RohanErkenbrandRecruit
-"Nécessite l'utilisation du pouvoir Le Cor Du Ouestfolde \n Recrute le Seigneur du Ouestfold \n\n Au milieux d'eux marchait un homme grand et fort. Son Bouclier était rouge. Alors qu'il arrivait au bord de la Vallée, il a mis à ses lèvres une grande corne noire et a fait retentir une sonnerie. 'Erkenbrand!' Crièrent les Cavaliers. 'Erkenbrand!'"
+"Nécessite l'utilisation du pouvoir Le Cor Du Ouestfolde \n Recrute le Seigneur du Ouestfolde \n\n Au milieu d'eux marchait un homme grand et fort. Son Bouclier était rouge. Alors qu'il arrivait au bord de la Vallée, il porta à ses lèvres une grande corne noire et fit retentir une sonnerie. 'Erkenbrand!' Crièrent les Cavaliers. 'Erkenbrand!'"
 END
 
 CONTROLBAR:RohanErkenbrandRevive
@@ -68119,7 +68119,7 @@ CONTROLBAR:LW_ToolTip_RivendellGlaivemenArcherHorde
 END
 
 CONTROLBAR:LW_ToolTipBuild_RivendellSwordmenHorde
-"Gardes de Rivendell \n Type d'Unité : Infanterie d'Elite \n Fort contre Piquiers"
+"Gardes d'Imladris' \n Type d'Unité : Infanterie d'Elite \n Fort contre Piquiers"
 END
 
 CONTROLBAR:LW_ToolTip_RivendellSwordmenHorde
@@ -68151,11 +68151,11 @@ CONTROLBAR:LW_Unit_RivendellArcherComboHordePlural
 END
 
 CONTROLBAR:LW_ToolTipBuild_RivendellArcherHorde
-"Archers de Rivendell \n Type d'Unité : Archers d'Elite \n Fort contre Infanterie"
+"Archers d'Imladris' \n Type d'Unité : Archers d'Elite \n Fort contre Infanterie"
 END
 
 CONTROLBAR:LW_ToolTip_RivendellArcherHorde
-"Archers de Rivendell \n Type d'Unité : Archers d'Elite \n Fort contre Infanterie"
+"Archers d'Imladris \n Type d'Unité : Archers d'Elite \n Fort contre Infanterie"
 END
 
 BANNERUI:RivendellArcher
@@ -69903,7 +69903,7 @@ CONTROLBAR:GuldurForestOfFear
 END
 
 CONTROLBAR:ToolTipGuldurForestOfFear
-"Corrompt une zone de terrain \n Type d'Action : Bonus \n Toutes les unités alliées gagnent +50% Vision \nSe cumule avec le Charisme et les Sorts \n Invoque un grand nombre d'araignées sauvages qui attaquent tout ce qui est en vue \n Les unités ennemies dans la zone cible perdent tous les Charisme, souffrent -20% Vitesse et sont terrifiés \n Clic gauche sur l'icône puis clic gauche sur la zone cible "
+"Corrompt une zone de terrain \n Type d'Action : Bonus \n Toutes les unités alliées gagnent +50% Vision \nSe cumule avec le Charisme et les Sorts \n Invoque un grand nombre d'araignées sauvages qui attaquent tout ce qui est en vue \n Les unités ennemies dans la zone cible perdent tous les bonus de charisme, souffrent -20% Vitesse et sont terrifiés \n Clic gauche sur l'icône puis clic gauche sur la zone cible "
 END
 
 CONTROLBAR:GuldurConcealment
@@ -70645,7 +70645,7 @@ CONTROLBAR:BlackUrukBrawl
 END
 
 CONTROLBAR:ToolTipBlackUrukBrawl
-"Requiert Shagrat \n Ordonner à cette unité de tuer des alliés Orques ou des Légions de Morgul pour gagner de l'expérience de combat \n Clic gauche sur l'icône puis clic gauche sur la cible"
+"Requiert : Shagrat \n Ordonner à cette unité de tuer des alliés Orques ou des Légions de Morgul pour gagner de l'expérience de combat \n Clic gauche sur l'icône puis clic gauche sur la cible"
 END
 
 CONTROLBAR:ToolTipBlackUrukBrawl_Inn
@@ -70657,7 +70657,7 @@ CONTROLBAR:UrukScoutHuntingArrows
 END
 
 CONTROLBAR:ToolTipUrukScoutHuntingArrows
-"Requiert Lurtz et le niveau 4 \n Les Éclaireurs Uruk-Haï ralentissent temporairement les cibles de 33% \n Clic gauche pour activer"
+"Requiert : Lurtz et le niveau 4 \n Les Éclaireurs Uruk-Haï ralentissent temporairement les cibles de 33% \n Clic gauche pour activer"
 END
 
 //------------ Galion ---------------
@@ -70667,7 +70667,7 @@ OBJECT:MirkwoodGalion
 END
 
 CONTROLBAR:MirkwoodGalionRecruit
-"Recrute le Maître des Vins, Galion \n \n 'Say what you like about our ill-tempered King - he has excellent taste in wine...'"
+"Recrute le Maître des Vins, Galion \n \n 'Dites ce que vous voulez sur notre roi au mauvais caractère - il a un excellent goût en matière de vin...'"
 END
 
 CONTROLBAR:MirkwoodGalionRevive
@@ -70717,7 +70717,7 @@ OBJECT:MirkwoodFeren
 END
 
 CONTROLBAR:MirkwoodFerenRecruit
-"Recrute le Garde Royal, Feren \n \n Loyal and severe in character, Feren spent the majority of his long years in solemn duty to the Elvenking, keeping safe the borders of the Greenwood."
+"Recrute le Garde Royal, Feren \n \n Loyal et sévère de caractère, Feren a passé la majorité de ses longues années de service solennel auprès des rois elfiques, à garder en sécurité les frontières de la Forêt Noire."
 END
 
 CONTROLBAR:MirkwoodFerenRevive
@@ -70759,7 +70759,7 @@ OBJECT:MirkwoodGrimbeorn
 END
 
 CONTROLBAR:MirkwoodGrimbeornRecruit
-"Requiert : niveau 3 du Pavillon de Beorn \n Recrute le fils de Beorn \n \n Grimbeorn the Old, son of Beorn, was now the lord of many sturdy men, and to their land between the Mountains and Mirkwood neither orc nor wolf dared to go."
+"Requiert : niveau 3 du Pavillon de Beorn \n Recrute le fils de Beorn \n \n Grimbeorn le Vieux, fils de Beorn, était désormais le seigneur de nombreux hommes robustes, et dans leur pays entre les Montagnes et la Forêt Noire, ni orque ni loup n'osaient s'aventurer."
 END
 
 CONTROLBAR:MirkwoodGrimbeornRevive
@@ -70771,11 +70771,11 @@ CONTROLBAR:MirkwoodGrimbeornHotkey
 END
 
 CONTROLBAR:SonOfBeorn
-"Son of Beo&rn"
+"Fils de Beo&rn"
 END
 
 CONTROLBAR:ToolTipSonOfBeorn
-"Modifier Type: Charisme\nConfère +33% d'armure aux Béornides proches\nCapacité passive\n\nA l'activation, Grimbeorn instille la peur dans le coeur des unités d'Orcs et de Wargs pendant 15 secondes\nClic gauche pour activer"
+"Type d'action: Charisme\nConfère +33% d'armure aux Béornides proches\nCapacité passive\n\nA l'activation, Grimbeorn instille la peur dans le coeur des unités d'Orcs et de Wargs pendant 15 secondes\nClic gauche pour activer"
 END
 
 CONTROLBAR:GrimbeornStrongman
@@ -70791,7 +70791,7 @@ CONTROLBAR:TollKeepers
 END
 
 CONTROLBAR:ToolTipTollKeepers
-"Requiert niveau 3\nPeut être projeté sur n'importe quel batiment de ressources pour exhumer un trésor de 850 de ressources\nCependant, mise en stand-by de la production de Ressources pendant 30 secondes\nClic gauche sur l'icône puis clic gauche sur la structure cible"
+"Requiert : niveau 3\nPeut être projeté sur n'importe quel batiment de ressources pour exhumer un trésor de 850 de ressources\nCependant, mise en stand-by de la production de Ressources pendant 30 secondes\nClic gauche sur l'icône puis clic gauche sur la structure cible"
 END
 
 CONTROLBAR:GrimbeornBodyguard
@@ -70799,7 +70799,7 @@ CONTROLBAR:GrimbeornBodyguard
 END
 
 CONTROLBAR:ToolTipGrimbeornBodyguard
-"Requiert niveau 6\n Grimbeorn invoque 3 Béornides pour protéger un héros ou une structure durant un court instant \n Clic gauche sur l'icône puis clic gauche sur le héros ou la structure cible"
+"Requiert : niveau 6\n Grimbeorn invoque 3 Béornides pour protéger un héros ou une structure durant un court instant \n Clic gauche sur l'icône puis clic gauche sur le héros ou la structure cible"
 END
 
 CONTROLBAR:SpecialAbilityUrsineSoul
@@ -70848,7 +70848,7 @@ CONTROLBAR:RadagastGuardian
 END
 
 CONTROLBAR:ToolTipRivendellRadagastGuardian
-"Requiert Niveau 3\nRadagast enfonce son baton dans le sol,\nétourdissant les ennemis pendant un court instant\nAu niveau 8, la durée de l'étourdissement est augmentée\nClic gauche pour activer"
+"Requiert : Niveau 3\nRadagast enfonce son baton dans le sol,\nétourdissant les ennemis pendant un court instant\nAu niveau 8, la durée de l'étourdissement est augmentée\nClic gauche pour activer"
 END
 
 CONTROLBAR:RadagastTransform
@@ -70856,7 +70856,7 @@ CONTROLBAR:RadagastTransform
 END
 
 CONTROLBAR:ToolTipRadagastTransform
-"Requiert Niveau 10\nTransforme les unités ennemies dans un large rayon en animaux sauvages\nqui se dispersent ensuite \n Ne fonctionne pas sur les unités héroïques\nClic gauche sur l'icône puis clic gauche sur la cible"
+"Requiert : Niveau 10\nTransforme les unités ennemies dans un large rayon en animaux sauvages\nqui se dispersent ensuite \n Ne fonctionne pas sur les unités héroïques\nClic gauche sur l'icône puis clic gauche sur la cible"
 END
 
 //------------ Tauriel ---------------
@@ -70866,7 +70866,7 @@ OBJECT:MirkwoodTauriel
 END
 
 CONTROLBAR:MirkwoodTaurielRecruit
-"Recrute le Capitaine de la Garde \n \n 'When did we allow evil to become stronger than us?'"
+"Recrute le Capitaine de la Garde \n \n 'Quand avons-nous laissé le mal devenir plus fort que nous?'"
 END
 
 CONTROLBAR:MirkwoodTaurielRevive
@@ -70882,7 +70882,7 @@ CONTROLBAR:TaurielLeadership
 END
 
 CONTROLBAR:ToolTipTaurielLeadership
-"Les unités Sylvaines gagnent +25% de vision et de portée d'attaque et de gain d'expérience \n At Level 3, nearby Silvan units ability cooldown times are reduced by 25% \n Capacité passive"
+"Les unités Sylvaines gagnent +25% de vision et de portée d'attaque et de gain d'expérience \nAu niveau 3, le temps de rechargement des capacités des unités sylvains proches est réduit de 25% \n Capacité passive"
 END
 
 CONTROLBAR:TaurielSummon
@@ -70894,11 +70894,11 @@ CONTROLBAR:ToolTipTaurielSummon
 END
 
 CONTROLBAR:TaurielDecisiveStrike
-"&Close Quarter Combat"
+"&Combat Rapproché"
 END
 
 CONTROLBAR:TaurielEscape
-"Daugh&ter of the Forest"
+"Fille de la Forêt"
 END
 
 CONTROLBAR:TooltipTaurielEscape
@@ -70906,7 +70906,7 @@ CONTROLBAR:TooltipTaurielEscape
 END
 
 CONTROLBAR:ToolTipTaurielDecisiveStrike
-"Requiert : Niveau 5 \n Tauriel temporarily uses her twin daggers\nIncreases attack damage by +33% and deals splash damage \n Clic gauche pour activer"
+"Requiert : Niveau 5 \n Tauriel utilise temporairement ses deux dagues\nAccroit les dégats d'attaque de +33% et inflige des dégâts de zone \n Clic gauche pour activer"
 END
 
 CONTROLBAR:TaurielFleetFooted
@@ -71072,7 +71072,7 @@ OBJECT:MirkwoodTrainingGroundsDescription
 END
 
 CONTROLBAR:ConstructMirkwoodTrainingGrounds2Upgrade
-"&Augmente la Clairière Sylvaine au Niveau 2"
+"&Fait passer la Clairière Sylvaine au Niveau 2"
 END
 
 CONTROLBAR:ToolTipBuildMirkwoodTrainingGroundsLevel2Upgrade
@@ -71080,7 +71080,7 @@ CONTROLBAR:ToolTipBuildMirkwoodTrainingGroundsLevel2Upgrade
 END
 
 CONTROLBAR:ConstructMirkwoodTrainingGroundsLevel3Upgrade
-"&Augmente la Clairière Sylvaine au Niveau 3"
+"&Fait passer la Clairière Sylvaine au Niveau 3"
 END
 
 CONTROLBAR:ToolTipBuildMirkwoodTrainingGroundsLevel3Upgrade
@@ -71104,7 +71104,7 @@ OBJECT:MirkwoodRoyalBarracksDescription
 END
 
 CONTROLBAR:ConstructMirkwoodRoyalBarracks2Upgrade
-"&Augmente la Caserne Royale au Niveau 2"
+"&Fait passer la Caserne Royale au Niveau 2"
 END
 
 CONTROLBAR:ToolTipBuildMirkwoodRoyalBarracksLevel2Upgrade
@@ -71112,7 +71112,7 @@ CONTROLBAR:ToolTipBuildMirkwoodRoyalBarracksLevel2Upgrade
 END
 
 CONTROLBAR:ConstructMirkwoodRoyalBarracksLevel3Upgrade
-"&Augmente la Caserne Royale au Niveau 3"
+"&Fait passer la Caserne Royale au Niveau 3"
 END
 
 CONTROLBAR:ToolTipBuildMirkwoodRoyalBarracksLevel3Upgrade
@@ -71132,7 +71132,7 @@ OBJECT:MirkwoodTreasury
 END
 
 OBJECT:MirkwoodTreasuryDescription
-"Researches Woodland Realm unit upgrades"
+"Recherche les améliorations d'unité du Royaume des Forêts"
 END
 
 CONTROLBAR:ConstructMirkwoodBeorningCabin
@@ -71264,7 +71264,7 @@ CONTROLBAR:EmperorProtection
 END
 
 CONTROLBAR:TooltipEmperorProtection
-"Requiert l'amélioration Protection de l'Empereur\nLes Structures gagnent temporairement dans un lage périmètre autour de la forteresse +150% d'Armure contre les dégats d'armes de siège, de feu et magique\nClic gauche pour activer"
+"Requiert l'amélioration Protection de l'Empereur\nLes Structures gagnent temporairement dans un large périmètre autour de la forteresse +150% d'Armure contre les dégats d'armes de siège, de feu et magique\nClic gauche pour activer"
 END
 
 CONTROLBAR:PurchaseUpgradeMirkwoodFortressGarrison
@@ -71324,7 +71324,7 @@ CONTROLBAR:ConstructMirkwoodSilvanHunter
 END
 
 CONTROLBAR:ToolTipBuildMirkwoodSilvanHunter
-"Hunter \n Can move while stealthed \n Limited to 5. \n\n The Elves of the Greenwood were highly adept hunters that could stalk their quarry at close distance without ever alerting their prey. Few could enter the Greenwood without their movements going unnoticed, for the Feredir were numerous and kept a close watch on the Elvenking's Road."
+"Chasseur \n Peuvent se déplacer quand ils sont camouflés\n Limité à 5. \n\n Les Elfes de la Forêt Noire étaient des chasseurs très habiles qui pouvaient traquer leur proie à courte distance sans jamais l'alerter. Peu d'entre eux pouvaient pénétrer dans la forêt sans que leurs mouvements passent inaperçus, car les Feredir étaient nombreux et surveillaient de près la route du roi des Elfes."
 END
 
 OBJECT:MirkwoodSilvanHunter
@@ -71804,7 +71804,7 @@ CONTROLBAR:ElvenkingRoad
 END
 
 CONTROLBAR:TooltipElvenkingRoad
-"Summons an Elven Waystone\n Limited to 1 \n The Waystone may teleport targeted units to its location\nLeft click icon then left click on target area"
+"Invoque un obélisque elfique\n Limité à 1 \n L'obélisque téléporte les unités alliées jusqu'à son emplacement\nLClic gauche sur l'icône puis clic gauche sur la zone cible"
 END
 
 OBJECT:MirkwoodWaystone
@@ -76744,7 +76744,7 @@ LW:DisplayNameValesCelduin
 End
 
 MAP:mapworValesofCelduin/Desc
-"Le Celduin s'étend au sud d'Erebor, reliant le royaume de Thranduil aux hommes du nord de Dale et Esgaroth, et les royaumes au sud."
+"Le Celduin s'étend au sud d'Erebor, reliant le royaume de Thranduil aux hommes du nord de Dale et d'Esgaroth, et les royaumes au sud."
 END
 
 /////Region Weather_Hills
@@ -76784,7 +76784,7 @@ LW:DisplayNameWestfold
 End
 
 MAP:mapworWestfold/Desc
-"La partie ouest du Rohan, près des Montagnes Blanches et entre la rivière Isen et le Folde. Après la deuxième bataille des gués de l'Isen, les forces d'Erkenbrand se sont dispersées et l'armée de Saroumane a marché à travers l'Ouest vers le Gouffre de Helm."
+"La partie ouest du Rohan, près des Montagnes Blanches entre la rivière Isen et le Folde. Après la deuxième bataille des gués de l'Isen, les forces d'Erkenbrand se sont dispersées et l'armée de Saroumane a marché à travers l'Ouest vers le Gouffre de Helm."
 END
 
 /////Region Withered_Heath
