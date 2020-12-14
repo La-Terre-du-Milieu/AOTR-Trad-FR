@@ -58666,7 +58666,8 @@ Version:Format2
 //"Age of the Ring Version 4.1"
 //"Age of the Ring Version 5.0"
 //"Age of the Ring Version 5.1"
-"Age of the Ring Version 6.0"
+//"Age of the Ring Version 6.0"
+"Age of the Ring Version 6.1"
 END
 
 Version:Format3
@@ -72234,6 +72235,10 @@ END
 
 CONTROLBAR:ToolTipMarkofBema
 "Durant 30 secondes, Les héros et unités ciblés sont marqués par les chasseurs \n Les cibles se voient infliger +50% de dégats supplémentaires par les Chasseurs \n Clic gauche puis clic gauche sur les unités ciblées"
+END
+
+CONTROLBAR:ToggleWoodmenWeapons
+"Passer à la hache ou à l'arc"
 END
 
 CONTROLBAR:ToggleWoodmenWeaponsAxe
