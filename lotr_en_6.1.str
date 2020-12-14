@@ -17474,7 +17474,7 @@ CONTROLBAR:GimliElfFriend
 END
 
 CONTROLBAR:TooltipGimliElfFriend
-"Requires Level 10\nSummons Legolas Greeleaf to the battlefield\nLeft click to activate"
+"Requires Level 10\nSummons Legolas Greenleaf to the battlefield\nLeft click to activate"
 END
 
 CONTROLBAR:ToggleFaramirWeapons
@@ -27288,11 +27288,11 @@ CONTROLBAR:ToolTipPurchaseUpgradeDwarvenFortressMightyCatapult
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeDwarvenFortressArkenstoneHobbitEra
-"Requires the Fortifications upgrade\nDecreases recruitment time for all Dwarven units by 20%\nIncreases movement for all Dwarven units by 10%\nDecreases cost of unit upgrades by 10%\nStacks with Steel Bonus discount\nGrants heavy armor to heroes"
+"Requires the Fortifications upgrade\nDecreases recruitment time for all Dwarven units by 20%\nIncreases movement for all Dwarven units by 10%\nDecreases cost of unit upgrades by 10%\nStacks with Steel Bonus discount"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeDwarvenFortressArkenstoneHobbitEra_Monument
-"Decreases recruitment time for all Dwarven units by 20%\nIncreases movement for all Dwarven units by 10%\nDecreases cost of unit upgrades by 10%\nStacks with Steel Bonus discount\nGrants heavy armor to heroes"
+"Decreases recruitment time for all Dwarven units by 20%\nIncreases movement for all Dwarven units by 10%\nDecreases cost of unit upgrades by 10%\nStacks with Steel Bonus discount"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeDwarvenFortressArkenstoneLotREra
@@ -32577,7 +32577,7 @@ CONTROLBAR:LaketownCallGuard
 "&Call the Guard!"
 END
 CONTROLBAR:ToolTipLaketownCallGuard
-"Requires Level 3\nSummons a battalion of Guards of the Master that stay on the field until killed \n At rank 6, summons two battalions \n Respects commandpoint limit \n Left click icon then left click on target area"
+"Requires Level 3\nSummons a battalion of Guards of the Master that stay on the field until killed \n At rank 6, summons two battalions \n Respects command point limit \n Left click icon then left click on target area"
 END
 
 CONTROLBAR:AncientStatute
@@ -41081,7 +41081,7 @@ CONTROLBAR:SauronConflagaration
 END
 
 CONTROLBAR:ToolTipSauronConflagaration
-"Destroys targeted enemy hero \n (only deals 25% of total damage to Gandalf, Elessar, Saruman, Witch-king, Azog, Galadriel, Elrond, Glorfindel, Thranduil, Thorin, Necromancer, Golden King)"
+"Destroys targeted enemy hero \n (only deals 25% of total damage to Gandalf, Elessar, Saruman, Witch-king, Azog, Galadriel, Elrond, Glorfindel, Thranduil, Théoden, Thorin, Necromancer, King Dáin, Golden King)"
 END
 
 CONTROLBAR:SauronDominate
@@ -58057,7 +58057,7 @@ END
 
 
 CONTROLBAR:ToolTipDainSlayer
-"Requires Level 10 \n Dáin gains +50% armor and deals splash damage \n -45% speed for the duration of the power \n Left click to activate"
+"Requires Level 10 \n Dáin gains +75% armor and deals splash and knockback damage \n -45% speed for the duration of the power \n Left click to activate"
 END
 
 CONTROLBAR:DainStand
@@ -58070,7 +58070,7 @@ CONTROLBAR:FellowshipSlayer
 END
 
 CONTROLBAR:ToolTipFellowshipSlayer
-"Requires Level 6 \n Gimli gains +33% Armor and +33% speed \n Left click to activate"
+"Requires Level 6 \n Gimli gains +50% Armor and +33% speed \n Left click to activate"
 END
 
 CONTROLBAR:FellowshipLegolasSlayer
@@ -58809,7 +58809,8 @@ Version:Format2
 //"Age of the Ring Version 4.1"
 //"Age of the Ring Version 5.0"
 //"Age of the Ring Version 5.1"
-"Age of the Ring Version 6.0"
+//"Age of the Ring Version 6.0"
+"Age of the Ring Version 6.1"
 END
 
 Version:Format3
@@ -60756,7 +60757,7 @@ CONTROLBAR:IsengardUglukHuntfortheRing
 END
 
 CONTROLBAR:TooltipIsengardUglukHuntfortheRing
-"Requires Level 3 \n Modifier Type: Spell \n Nearby units gain a 15% speed bonus and a 50% Experience bonus \n Stacks with Buffs, Leadership, and Spells \n Left click to activate"
+"Requires Level 3 \n Modifier Type: Spell \n Nearby infantry and heroes gain a 15% speed bonus and a 50% Experience bonus \n Stacks with Buffs, Leadership, and Spells \n Left click to activate"
 END
 
 CONTROLBAR:IsengardUglukHeadhunter
@@ -62724,7 +62725,7 @@ CONTROLBAR:SummonHallOfFire
 END
 
 CONTROLBAR:TooltipSummonHallOfFire
-"Summons the Hall of Fire \nModifier Type: Leadership \n Allies near the Hall of Fire heal and gain +33% Armor, earn experience 50% faster, and become immune to Fear and Terror \n Nearby Quentaroli's power recharge timers are decreased \n Stacks with Buffs and Spells \n The Hall of Fire may call forth vivid images of the past that inspire fear and deal damage to enemy units \n Left click on icon then left click on target area"
+"Summons the Hall of Fire \nModifier Type: Leadership \n Allies near the Hall of Fire heal and gain +33% Armor, earn experience 50% faster, and become immune to Fear and Terror \n Nearby Quentaroli's power recharge timers are decreased \n Stacks with Buffs and Spells \n The Hall of Fire may call forth vivid images of the past that inspire fear and deal damage to enemy units \n Limited to 3 \n Left click on icon then left click on target area"
 END
 
 CONTROLBAR:SonsOfElrond
@@ -63888,7 +63889,7 @@ CONTROLBAR:PrinceOfErebor
 END
 
 CONTROLBAR:ToolTipPrinceOfErebor
-"Whenever Thorin attacks, nearby troops gain +5% stackable damage during 5 seconds\nPassive ability"
+"Whenever Thorin attacks, nearby troops gain +5% stackable damage for 5 seconds\nPassive ability"
 END
 
 CONTROLBAR:DwarvenGrudge
@@ -63936,7 +63937,7 @@ CONTROLBAR:HadhodStoneHewer
 END
 
 CONTROLBAR:ToolTipHadhodStoneHewer
-"Requires Level 6\nNearby Dwarven units deal +25% damage against structures\nPassive ability\n\nAt rank 8, can be cast to grant siege hammers upgrade to Guardians in radius\nLeft click icon then left click on target battalion"
+"Requires Level 6\nNearby Dwarven units deal +25% damage against structures\nPassive ability\n\nAt rank 8, can be cast to grant siege hammers upgrade to Âzagh-baruk in radius\nLeft click icon then left click on target battalion"
 END
 
 CONTROLBAR:BondsofFriendship
@@ -63968,7 +63969,7 @@ CONTROLBAR:ElegostRangerCraft
 END
 
 CONTROLBAR:ToolTipElegostRangerCraft
-"Enemies in radius lose -50% vision range and -25% movement speed \n Left click then left click on target areas"
+"Enemies in radius lose -50% vision range and -25% movement speed \n Left click then left click on target area"
 END
 
 CONTROLBAR:ToolTipRivendellGandalfYouShallNotPass
@@ -65970,7 +65971,7 @@ OBJECT:HallOfFire
 END
 
 OBJECT:HallOfFireDescription
-"Take a seat near the hearth and listen to the tales of old. \n\nModifier Type: Leadership \n Allies near the Hall of Fire gain +33% Armor, earn experience 50% faster, and become immune to Fear and Terror \n Nearby Quentaroli's power recharge timers are decreased \n Stacks with Buffs and Spells \n Replenishes health and units in nearby battalions\n The Hall of Fire may call forth vivid images of the past that inspire fear and deal damage to enemy units"
+"Take a seat near the hearth and listen to the tales of old. \n\nModifier Type: Leadership \n Allies near the Hall of Fire gain +33% Armor, earn experience 50% faster, and become immune to Fear and Terror \n Nearby Quentaroli's power recharge timers are decreased \n Stacks with Buffs and Spells \n Replenishes health and units in nearby battalions\n The Hall of Fire may call forth vivid images of the past that inspire fear and deal damage to enemy units \n Limited to 3"
 END
 
 CONTROLBAR:HallOfFireSpawnGilGalad
@@ -70900,7 +70901,7 @@ CONTROLBAR:RadagastTransform
 END
 
 CONTROLBAR:ToolTipRadagastTransform
-"Requires Level 10\nTurns enemy units within a large radius into wild animals\nthat subsequently disperse \n Does not work on heroic units\nLeft click icon then left click on target"
+"Requires Level 10\nTurns enemy units within a radius into wild animals\nthat subsequently disperse \n Does not work on heroic units\nLeft click icon then left click on target"
 End
 
 //------------ Tauriel ---------------
@@ -72286,6 +72287,10 @@ CONTROLBAR:ToggleWoodmenWeaponsBow
 "Swi&tch to Bow"
 END
 
+CONTROLBAR:ToggleWoodmenWeapons
+"Swi&tch Weapon"
+END
+
 CONTROLBAR:ToolTipToggleWoodmenWeapons
 "Left click to switch weapons\n\n Bows strong vs. normal infantry and monsters \n Axes strong vs. buildings"
 END
@@ -73284,7 +73289,7 @@ END
 /////MAP NAMES and DESCRIPTIONS/////
 ////////////////////////////////////
 
-////â á é ó û ú
+////â á é í ó û ú
 ////Rhûn, Dúnedain, Amon Sûl, Lórien, Ringló, Khazad-dûm, Barad-dûr, Dáin, Carn Dûm, Nazgûl, Númenor, Théoden, Éomer, Ghân-buri-Ghân, Drúedain, Mûmakil, Annúminas, Thrór, Núrn, palantír
 
 /////BFME EVIL CAMPAIGN/////
@@ -73889,7 +73894,7 @@ Map:MAPMPdolguldur
 End
 
 Map:MAPMPdolguldur/Desc
-"Sauron's hilltop stronghold in Mirkwood, now led by his Ringwraiths. \n Capturable: \n Creeps: \n Hazards: \n Region: Rhovanion"
+"Sauron's hilltop stronghold in Mirkwood, now led by his Ringwraiths. \n Capturable: Signal Fire \n Creeps: Spider \n Region: Rhovanion"
 End
 
 /////
@@ -74598,7 +74603,7 @@ Map:MAPMPgreymountains
 End
 
 Map:MAPMPgreymountains/Desc
-"A northern range of mountains where goblins and dwarves have battled for many ages.  \n Capturable: Signal Fire, Outpost \n Creeps: Fire Drake, Goblin \n Region: Misty Mountains"
+"A northern range of mountains where goblins and dwarves have battled for many ages.  \n Capturable: Signal Fire, Outpost \n Creeps: Fire Drake, Goblin \n Region: Rhovanion"
 End
 
 /////
@@ -75478,7 +75483,7 @@ Map:MAPMPtaurnafaroth
 End
 
 Map:MAPMPtaurnafaroth/Desc
-"The 'Forest of Hunters' in Sindarin, a sacred hunting ground often frequented by the Wood-elves of the Woodland Realm. \n Capturable: Signal Fire \n Creeps: Goblin, Spider \n Hazards: Fog \n Region: Rhovanion"
+"The 'Forest of Hunters' in Sindarin, a sacred hunting ground often frequented by the Wood-elves of the Woodland Realm. \n Creeps: Goblin, Spider \n Hazards: Fog \n Region: Rhovanion"
 End
 
 /////
