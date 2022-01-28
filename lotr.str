@@ -28,7 +28,7 @@ END
 //			>> 1.1	CARACTÈRES ASSIGÉS
 //			>> 1.2	DATE / TIME
 //			>> 1.3	DÉTERMINATION DES COULEURS
-//			>> 1.4	NUMÉRO ?QUIPES
+//			>> 1.4	NUMÉRO ÉQUIPES
 //			>> 1.5 	MESSAGES TEST
 //			>> 1.6 	INSTALLATION
 //			>> 1.7 	TEXTES GÉNÉRAUX
@@ -40,7 +40,7 @@ END
 //	#04 - REDIFFUSIONS
 //	#05 - OPTIONS DU JEU
 //			>> 5.1	PARAMÈTRES
-//			>> 5.2	PARAMÈTRES PERSONNALIS?S
+//			>> 5.2	PARAMÈTRES PERSONNALISÉS
 //	#06 - GÉNÉRIQUES
 //	#07 - CRÉER UN HÉROS
 //			>> 7.1	FENÈTRE EXPLICATIF
@@ -76,7 +76,7 @@ END
 //			>> 10.6		MENU CHARGER/SAUVEGARDER
 //	#11 - ESCARMOUCHES
 //			>> 11.1		CONFIGURATION DU JEU
-//			>> 11.2		ONGLET R?GLES
+//			>> 11.2		ONGLET RÈGLES
 //			>> 11.3		TEXTES BOUTTON PROFIL
 //			>> 11.4		NOUVEAU PROFIL
 //			>> 11.5		CHARGER PROFIL
@@ -362,7 +362,7 @@ END
 
 
 
-//=============== 1.4 NUMÉRO ?QUIPES ==========================
+//=============== 1.4 NUMÉRO ÉQUIPES ==========================
 
 Team:0
 "-"
@@ -581,11 +581,11 @@ END
 
 
 APT:Select
-"S?LECTIONNER"
+"SÉLECTIONNER"
 END
 
 APT:StrategicRegionAwardSelectButtonText
-"S?LECTIONNER"
+"SÉLECTIONNER"
 END
 
 APT:SelectHeroClass
@@ -649,7 +649,7 @@ END
 
 
 APT:RandomBttn
-"AL?ATOIRE"
+"ALÉATOIRE"
 END
 
 APT:RandomHero
@@ -778,7 +778,7 @@ ToolTip:OpeningMenu/CreditsButton
 END
 
 APT:AdvancedSettings
-"PARAMÈTRES PERSONNALIS?S"
+"PARAMÈTRES PERSONNALISÉS"
 END
 
 ToolTip:OpeningMenu/CustomSettingsButton
@@ -962,7 +962,7 @@ APT:ShroudSettings
 END
 
 APT:Status
-"?tat"
+"État"
 END
 
 APT:PlayerName
@@ -1178,7 +1178,7 @@ GUI:ESRB_Bottom
 END
 
 GUI:EstablishingConnectionPaths
-"?TABLISSEMENT DES CHEMINEMENTS DE CONNEXION"
+"ÉTABLISSEMENT DES CHEMINEMENTS DE CONNEXION"
 END
 
 GUI:MinSpecFailedTitle
@@ -1746,7 +1746,7 @@ APT:WaitingConnection
 END
 
 APT:ConnectionLegend
-"L?GENDE"
+"LÉGENDE"
 END
 
 APT:ConnectionInstructions
@@ -1975,7 +1975,7 @@ END
 
 
 
-//=============== 5.2 PARAMÈTRES PERSONNALIS?S ================
+//=============== 5.2 PARAMÈTRES PERSONNALISÉS ================
 
 /////////////
 // Valeurs //
@@ -3126,7 +3126,7 @@ CREDITS:Testing
 END
 
 CREDITS:MarketingPRSupportSubHead
-"?QUIPES MARKETING, RP ET SUPPORT"
+"ÉQUIPES MARKETING, RP ET SUPPORT"
 END
 
 CREDITS:ConceptArtists
@@ -3190,7 +3190,7 @@ CREDITS:StoryboardArtists
 END
 
 CREDITS:AdditionalEditing
-"?dition supplémentaire"
+"Édition supplémentaire"
 END
 
 CREDITS:EpoxySupport 
@@ -3214,7 +3214,7 @@ CREDITS:AdditionalQAEngineering
 END
 
 CREDITS:EuropeanLocalizationandIntegration
-"LOCALISATION ET INTÉGRATION EUROP?ENNE"
+"LOCALISATION ET INTÉGRATION EUROPÉENNE"
 END
 
 CREDITS:LocalizationProduction
@@ -3230,7 +3230,7 @@ CREDITS:LocalizationProgramming
 END
 
 CREDITS:LocalizationTeam 
-"?quipe de localisation"
+"Équipe de localisation"
 END
 
 CREDITS:AsianLocalizationandIntegration
@@ -3270,7 +3270,7 @@ CREDITS:MotionCaptureEditor
 END
 
 CREDITS:MarketingPRSupport
-"?quipes de marketing, de relations publiques et de support"
+"Équipes de marketing, de relations publiques et de support"
 END
 
 CREDITS:MarketingPR
@@ -3330,11 +3330,11 @@ CREDITS:EALAMastering
 END
 
 CREDITS:HRTeam
-"?quipe des ressources humaines"
+"Équipe des ressources humaines"
 END
 
 CREDITS:Recruiting
-"?quipe de recrutement"
+"Équipe de recrutement"
 END
 
 CREDITS:AR
@@ -3342,15 +3342,15 @@ CREDITS:AR
 END
 
 CREDITS:Finance
-"?quipe des finances"
+"Équipe des finances"
 END
 
 CREDITS:EALAFacilities
-"?quipe des installations de l'EALA"
+"Équipe des installations de l'EALA"
 END
 
 CREDITS:EALAIT
-"?quipe informatique EALA Studio"
+"Équipe informatique EALA Studio"
 END
 
 CREDITS:EALAAdmins
@@ -3725,7 +3725,7 @@ END
 //=============== 7.2 TEXTES DE CRÉATIONS =====================
 
 APT:MyHeroSubTitle
-"S?LECTIONNER un HÉROS"
+"SÉLECTIONNER un HÉROS"
 END
 
 GUI:SelectHeroDescription
@@ -4710,7 +4710,7 @@ CAH:HelmetMenuDesc
 END
 
 CAH:ShouldersMenuLabel
-"?paules"
+"Épaules"
 END
 
 CAH:ShouldersMenuDesc
@@ -4776,7 +4776,7 @@ END
 
 
 ////////////////////////////////////////
-// ?quipements de Capitaine du Gondor //
+// Équipements de Capitaine du Gondor //
 ////////////////////////////////////////
 
 CreateAHero:BlingDesc_CaptainOfGondor_CHG01
@@ -4862,7 +4862,7 @@ End
 
 
 ///////////////////////////////////////////
-// ?quipements de Damoiselle Protectrice //
+// Équipements de Damoiselle Protectrice //
 ///////////////////////////////////////////
 
 CreateAHero:BlingName_SM_CHBOD01
@@ -4894,11 +4894,11 @@ CreateAHero:BlingName_ShieldMaiden_CHB02
 END
 
 CreateAHero:BlingName_ShieldMaiden_CHSP01
-"?paulettes de Damoiselle Protectrice 1"
+"Épaulettes de Damoiselle Protectrice 1"
 END
 
 CreateAHero:BlingName_ShieldMaiden_CHSP02
-"?paulettes de Damoiselle Protectrice 2"
+"Épaulettes de Damoiselle Protectrice 2"
 END
 
 CreateAHero:BlingName_ShieldMaiden_CHH01
@@ -4912,7 +4912,7 @@ END
 
 
 /////////////////////////////////
-// ?quipements d'archers elfes //
+// Équipements d'archers elfes //
 /////////////////////////////////
 
 CreateAHero:BlingName_ElfArcher_CHH01
@@ -4924,11 +4924,11 @@ CreateAHero:BlingName_ElfArcher_CHH02
 END
 
 CreateAHero:BlingName_ElfArcher_CHSP01
-"?paulettes d'archer 1"
+"Épaulettes d'archer 1"
 END
 
 CreateAHero:BlingName_ElfArcher_CHSP02
-"?paulettes d'archer 2"
+"Épaulettes d'archer 2"
 END
 
 CreateAHero:BlingName_ElfArcher_CHG01
@@ -4950,7 +4950,7 @@ END
 
 
 //////////////////////////////////
-// ?quipements d'archères elfes //
+// Équipements d'archères elfes //
 //////////////////////////////////
 
 CreateAHero:BlingName_FemaleElvenArcher_CHH01
@@ -4962,11 +4962,11 @@ CreateAHero:BlingName_FemaleElvenArcher_CHH02
 END
 
 CreateAHero:BlingName_FemaleElvenArcher_CHSP01
-"?paulettes d'archère 1"
+"Épaulettes d'archère 1"
 END
 
 CreateAHero:BlingName_FemaleElvenArcher_CHSP02
-"?paulettes d'archère 2"
+"Épaulettes d'archère 2"
 END
 
 CreateAHero:BlingName_EA_CHBOD01
@@ -5000,7 +5000,7 @@ END
 
 
 //////////////////////////////////////////////////////////////////////
-// ?quipements de Magiciens - Idem pour Nomades / Avatars / Ermites //
+// Équipements de Magiciens - Idem pour Nomades / Avatars / Ermites //
 //////////////////////////////////////////////////////////////////////
 
 CreateAHero:BlingName_Wizard_CHH01
@@ -5070,7 +5070,7 @@ END
 
 
 ////////////////////////////////////
-// ?quipements de Nains guerriers //
+// Équipements de Nains guerriers //
 ////////////////////////////////////
 
 CreateAHero:BlingName_DwarfAxe_01
@@ -5104,7 +5104,7 @@ End
 
 
 ////////////////////////////////
-// ?quipements de sages Nains //
+// Équipements de sages Nains //
 ////////////////////////////////
 
 CreateAHero:BlingName_DwarfSage_CHH01
@@ -5116,21 +5116,21 @@ CreateAHero:BlingName_DwarfSage_CHH02
 END
 
 CreateAHero:BlingName_DwarfSage_CHSP01
-"?paulettes de sage 1"
+"Épaulettes de sage 1"
 END
 
 CreateAHero:BlingName_DwarfSage_CHSP02
-"?paulettes de sage 2"
+"Épaulettes de sage 2"
 END
 
 CreateAHero:BlingName_DwarfSage_CHSP03
-"?paulettes de sage 3"
+"Épaulettes de sage 3"
 END
 
 
 
 ////////////////////////////////////////
-// ?quipements de détrousseurs Orques //
+// Équipements de détrousseurs Orques //
 ////////////////////////////////////////
 
 CreateAHero:BlingName_ORC_CHBOD01
@@ -5148,7 +5148,7 @@ End
 
 
 /////////////////////////
-// ?quipements d'Uruks //
+// Équipements d'Uruks //
 /////////////////////////
 
 CreateAHero:BlingName_Uruk_CHB01
@@ -5200,15 +5200,15 @@ CreateAHero:BlingName_Uruk_CHS04
 End
 
 CreateAHero:BlingName_Uruk_CHSP01
-"?paules 1"
+"Épaules 1"
 End
 
 CreateAHero:BlingName_Uruk_CHSP02
-"?paules 2"
+"Épaules 2"
 End
 
 CreateAHero:BlingName_Uruk_CHSP03
-"?paules 3"
+"Épaules 3"
 End
 
 CreateAHero:BlingName_Uruk_Sword_01
@@ -5282,7 +5282,7 @@ END
 
 
 ///////////////////////////
-// ?quipements Orientaux //
+// Équipements Orientaux //
 ///////////////////////////
 
 CreateAHero:BlingName_CorruptedMan_1_CHB01
@@ -5356,7 +5356,7 @@ END
 
 
 ///////////////////////////
-// ?quipements Haradrims //
+// Équipements Haradrims //
 ///////////////////////////
 
 CreateAHero:BlingName_CM02_CHBOD01
@@ -5430,7 +5430,7 @@ END
 
 
 ///////////////////////////
-// ?quipements de Trolls //
+// Équipements de Trolls //
 ///////////////////////////
 
 CreateAHero:BlingName_TrollTree
@@ -8563,7 +8563,7 @@ END
 
 
 ///////////////////
-// ONGLET R?GLES //
+// ONGLET RÈGLES //
 ///////////////////
 
 RULE:StrategicPhaseTimer
@@ -8631,7 +8631,7 @@ RULE:VictoryType
 END
 
 //VALUE:Elimination
-//"?limination"
+//"Élimination"
 //END
 
 //VALUE:CapitalAssault
@@ -8758,7 +8758,7 @@ END
 /////
 
 LWScenario:WOTRGameType002
-"?limination"
+"Élimination"
 END
 
 LWScenario:WOTRObjectives002
@@ -8920,7 +8920,7 @@ LWScenario:WOTRScenario012
 END
 
 LWScenario:WOTRScenario012Description
-"Type de partie : ?limination. \nNombre de joueurs : 2-6. \nObjectif : éliminer les joueurs ennemis en prenant tous leurs territoires. \nC'est une partie libre avec aucun prérequis de position de départ ou de réclamation de territoire."
+"Type de partie : Élimination. \nNombre de joueurs : 2-6. \nObjectif : éliminer les joueurs ennemis en prenant tous leurs territoires. \nC'est une partie libre avec aucun prérequis de position de départ ou de réclamation de territoire."
 END
 
 LWScenario:WOTRScenario013
@@ -8928,7 +8928,7 @@ LWScenario:WOTRScenario013
 END
 
 LWScenario:WOTRScenario013Description
-"Type de partie : ?limination. \nNombre de joueurs : 6. \nObjectif : éliminer les joueurs ennemis en prenant tous leurs territoires. \nChaque joueur a une position de départ requise."
+"Type de partie : Élimination. \nNombre de joueurs : 6. \nObjectif : éliminer les joueurs ennemis en prenant tous leurs territoires. \nChaque joueur a une position de départ requise."
 END
 
 LWScenario:WOTRScenario014
@@ -8936,7 +8936,7 @@ LWScenario:WOTRScenario014
 END
 
 LWScenario:WOTRScenario014Description
-"Type de partie : ?limination. \nNombre de joueurs : 5. \nObjectif : éliminer les joueurs ennemis en prenant tous leurs territoires. \nChaque joueur a une position de départ requise."
+"Type de partie : Élimination. \nNombre de joueurs : 5. \nObjectif : éliminer les joueurs ennemis en prenant tous leurs territoires. \nChaque joueur a une position de départ requise."
 END
 
 LWScenario:WOTRScenario015
@@ -8944,7 +8944,7 @@ LWScenario:WOTRScenario015
 END
 
 LWScenario:WOTRScenario015Description
-"Type de partie : ?limination. \nNombre de joueurs : 4. \nObjectif : éliminer les joueurs ennemis en prenant tous leurs territoires. \nChaque joueur a une position de départ requise."
+"Type de partie : Élimination. \nNombre de joueurs : 4. \nObjectif : éliminer les joueurs ennemis en prenant tous leurs territoires. \nChaque joueur a une position de départ requise."
 END
 
 LWScenario:WOTRScenario016
@@ -8952,7 +8952,7 @@ LWScenario:WOTRScenario016
 END
 
 LWScenario:WOTRScenario016Description
-"Type de partie : ?limination. \nNombre de joueurs : 3. \nObjectif : éliminer les joueurs ennemis en prenant tous leurs territoires. \nChaque joueur a une position de départ requise."
+"Type de partie : Élimination. \nNombre de joueurs : 3. \nObjectif : éliminer les joueurs ennemis en prenant tous leurs territoires. \nChaque joueur a une position de départ requise."
 END
 
 LWScenario:WOTRScenario017
@@ -8960,7 +8960,7 @@ LWScenario:WOTRScenario017
 END
 
 LWScenario:WOTRScenario017Description
-"Type de partie : ?limination. \nNombre de joueurs : 2. \nObjectif : éliminer les joueurs ennemis en prenant tous leurs territoires. \nChaque joueur a une position de départ requise."
+"Type de partie : Élimination. \nNombre de joueurs : 2. \nObjectif : éliminer les joueurs ennemis en prenant tous leurs territoires. \nChaque joueur a une position de départ requise."
 END
 
 LWScenario:WOTRScenario018
@@ -8968,7 +8968,7 @@ LWScenario:WOTRScenario018
 END
 
 LWScenario:WOTRScenario018Description
-"Type de partie : ?limination. \nNombre de joueurs : 6. \nObjectif : éliminer les joueurs ennemis en prenant tous leurs territoires. \nChaque joueur a une position de départ requise et un nombre de territoires."
+"Type de partie : Élimination. \nNombre de joueurs : 6. \nObjectif : éliminer les joueurs ennemis en prenant tous leurs territoires. \nChaque joueur a une position de départ requise et un nombre de territoires."
 END
 
 LWScenario:WOTRScenario019
@@ -8976,7 +8976,7 @@ LWScenario:WOTRScenario019
 END
 
 LWScenario:WOTRScenario019Description
-"Type de partie : ?limination. \nNombre de joueurs : 5. \nObjectif : éliminer les joueurs ennemis en prenant tous leurs territoires. \nChaque joueur a une position de départ requise et un nombre de territoires."
+"Type de partie : Élimination. \nNombre de joueurs : 5. \nObjectif : éliminer les joueurs ennemis en prenant tous leurs territoires. \nChaque joueur a une position de départ requise et un nombre de territoires."
 END
 
 LWScenario:WOTRScenario020
@@ -8984,7 +8984,7 @@ LWScenario:WOTRScenario020
 END
 
 LWScenario:WOTRScenario020Description
-"Type de partie : ?limination. \nNombre de joueurs : 4. \nObjectif : éliminer les joueurs ennemis en prenant tous leurs territoires. \nChaque joueur a une position de départ requise et un nombre de territoires."
+"Type de partie : Élimination. \nNombre de joueurs : 4. \nObjectif : éliminer les joueurs ennemis en prenant tous leurs territoires. \nChaque joueur a une position de départ requise et un nombre de territoires."
 END
 
 LWScenario:WOTRScenario021
@@ -8992,7 +8992,7 @@ LWScenario:WOTRScenario021
 END
 
 LWScenario:WOTRScenario021Description
-"Type de partie : ?limination. \nNombre de joueurs : 3. \nObjectif : éliminer les joueurs ennemis en prenant tous leurs territoires. \nChaque joueur a une position de départ requise et un nombre de territoires."
+"Type de partie : Élimination. \nNombre de joueurs : 3. \nObjectif : éliminer les joueurs ennemis en prenant tous leurs territoires. \nChaque joueur a une position de départ requise et un nombre de territoires."
 END
 
 LWScenario:WOTRScenario022
@@ -9000,7 +9000,7 @@ LWScenario:WOTRScenario022
 END
 
 LWScenario:WOTRScenario022Description
-"Type de partie : ?limination. \nNombre de joueurs : 2. \nObjectif : éliminer les joueurs ennemis en prenant tous leurs territoires. \nChaque joueur a une position de départ requise et un nombre de territoires."
+"Type de partie : Élimination. \nNombre de joueurs : 2. \nObjectif : éliminer les joueurs ennemis en prenant tous leurs territoires. \nChaque joueur a une position de départ requise et un nombre de territoires."
 END
 
 LWScenario:WOTRScenario0023
@@ -9935,7 +9935,7 @@ LW:DisplayNameFramsburg
 End
 
 MAP:MAPWorFramsburg/Desc
-"L'Anduin commence avec deux ruisseaux différents, là o? les Monts Brumeux rencontrent les Montagnes Grises, appelées la Lanquevelle et le Rugris par les ?othéodes lorsqu'ils vivaient dans le triangle de terre qu'ils ont formé. Leur ancienne capitale, Framsburg, a été construite à la confluence de ces deux ruisseaux, là o? l'Anduin proprement dit a commencé."
+"L'Anduin commence avec deux ruisseaux différents, là o? les Monts Brumeux rencontrent les Montagnes Grises, appelées la Lanquevelle et le Rugris par les Éothéodes lorsqu'ils vivaient dans le triangle de terre qu'ils ont formé. Leur ancienne capitale, Framsburg, a été construite à la confluence de ces deux ruisseaux, là o? l'Anduin proprement dit a commencé."
 END
 
 
@@ -11145,7 +11145,7 @@ CONTROLBAR:CampaignFlood
 END
 
 CONTROLBAR:TooltipCampaignFlood
-"Invoque un Déluge puissant pour écrasser les unités ennemies. \n ?teint les incendies. \n\n Clic gauche sur l'icône puis clic gauche sur la zone ciblée."
+"Invoque un Déluge puissant pour écrasser les unités ennemies. \n Éteint les incendies. \n\n Clic gauche sur l'icône puis clic gauche sur la zone ciblée."
 END
 
 
@@ -11161,7 +11161,7 @@ CONTROLBAR:TooltipSunflare
 END
 
 CONTROLBAR:TooltipCampaignSunflare
-"Appelle un rayon de soleil ardent pour embraser le champ de bataille. \n ?tourdit les créatures sensibles à la lumière. \n\n Cliquez sur l'icône puis cliquez sur la zone cible."
+"Appelle un rayon de soleil ardent pour embraser le champ de bataille. \n Étourdit les créatures sensibles à la lumière. \n\n Cliquez sur l'icône puis cliquez sur la zone cible."
 END
 
 
@@ -11523,7 +11523,7 @@ SCRIPT:BonusObjective04_Redhorn
 END
 
 SCRIPT:CaradhrasHint_Redhorn
-"?vitez l'avalanche à travers le Caradhras."
+"Évitez l'avalanche à travers le Caradhras."
 END
 
 SCRIPT:CaradhrasHint2_Redhorn
@@ -11817,7 +11817,7 @@ SCRIPT:BonusObjective03_Eaves
 END
 
 SCRIPT:BonusObjective04_Eaves
-"?viter votre détection dans la forêt de Fangorn."
+"Éviter votre détection dans la forêt de Fangorn."
 END
 
 SCRIPT:BonusObjective05_Eaves
@@ -11841,7 +11841,7 @@ END
 /////////////////////////////////////
 
 SCRIPT:Objective01_Ithilien
-"?liminez toutes les patrouilles du Mordor avant qu'elles ne découvrent l'étang interdit."
+"Éliminez toutes les patrouilles du Mordor avant qu'elles ne découvrent l'étang interdit."
 END
 
 SCRIPT:Objective02/3_Ithilien_PROMPT
@@ -11973,7 +11973,7 @@ SCRIPT:Objective_GC_Shire_01
 END
 
 SCRIPT:Objective_GC_Shire_02
-"?teignez tous les incendies dans les champs du fermier Maggot."
+"Éteignez tous les incendies dans les champs du fermier Maggot."
 END
 
 SCRIPT:Objective_GC_Shire_03
@@ -12087,7 +12087,7 @@ SCRIPT:Objective05_Osgiliath
 END
 
 SCRIPT:Objective06_Osgiliath
-"?vadez-vous par les égouts de la périphérie de la ville."
+"Évadez-vous par les égouts de la périphérie de la ville."
 END
 
 SCRIPT:BonusObjective01_Osgiliath
@@ -12974,7 +12974,7 @@ APT:TributeScreenTitle
 END
 
 APT:StatusTab
-"?tat"
+"État"
 END
 
 APT:TributeTab
@@ -13010,7 +13010,7 @@ APT:HeaderFactionCaps
 END
 
 APT:HeaderTeam
-"?quipe"
+"Équipe"
 END
 
 APT:HeaderStatus
@@ -13169,7 +13169,7 @@ INI:FactionGuldur
 END
 
 GUI:Team
-"?quipe"
+"Équipe"
 END
 
 APT:Color
@@ -13182,10 +13182,10 @@ END
 
 
 
-//=============== 11.2 ONGLET R?GLES ==========================
+//=============== 11.2 ONGLET RÈGLES ==========================
 
 APT:TabRules
-"R?GLES"
+"RÈGLES"
 END
 
 RULE:InitialResources
@@ -13445,7 +13445,7 @@ GUI:PlayerName
 END
 
 GUI:TeamNumber
-"?quipe"
+"Équipe"
 End
 
 GUI:ArmyName
@@ -13621,7 +13621,7 @@ Map:MAPMPadventureblackrootvale
 End
 
 Map:MAPMPadventureblackrootvale/Desc
-"?mergeant des Chemins des Morts, Aragorn et la Compagnie Grise se sont précipités à travers les terres du sud du Gondor vers Minas Tirith, arrivant d'abord à la rivière Morthond et à la Vallée de la Racine Noire. \n\n Carte d'aventure solo. \n Joueur humain : Position de départ à gauche, Gondor. \n IA : Position de départ à droite, Mordor. \n"
+"Émergeant des Chemins des Morts, Aragorn et la Compagnie Grise se sont précipités à travers les terres du sud du Gondor vers Minas Tirith, arrivant d'abord à la rivière Morthond et à la Vallée de la Racine Noire. \n\n Carte d'aventure solo. \n Joueur humain : Position de départ à gauche, Gondor. \n IA : Position de départ à droite, Mordor. \n"
 End
 
 ///////////////////////
@@ -13811,7 +13811,7 @@ End
 ///////////////////////
 
 Map:MAPMPbesiegeedoras
-"Siège: ?doras*"
+"Siège: Édoras*"
 End
 
 Map:MAPMPbesiegeedoras/Desc
@@ -14671,11 +14671,11 @@ End
 ///////////////////////
 
 Map:MAPMPfortressedoras
-"Forteresse: ?doras*"
+"Forteresse: Édoras*"
 End
 
 Map:MAPMPfortressedoras/Desc
-"?doras est la capitale du Rohan, encerclée de murs et avec la Salle d'Or de Meduseld au sommet de son grand monticule. ? l'extérieur de la ville, les tombes des anciens souverains du Rohan étaient disposées dans des tertres, couvertes de Simbelmyne en fleurs. \n\n Antres : Trolls des cavernes, Wargs. \n Région : Rohan. \n"
+"Édoras est la capitale du Rohan, encerclée de murs et avec la Salle d'Or de Meduseld au sommet de son grand monticule. ? l'extérieur de la ville, les tombes des anciens souverains du Rohan étaient disposées dans des tertres, couvertes de Simbelmyne en fleurs. \n\n Antres : Trolls des cavernes, Wargs. \n Région : Rohan. \n"
 End
 
 ///////////////////////
@@ -14705,7 +14705,7 @@ Map:MAPMPfortressframsburg
 End
 
 Map:MAPMPfortressframsburg/Desc
-"La maison ancestrale récupérée des ?othéod a été fondée au confluent des rivières Rugris et Langwell, dans les vallées montagneuses d'o? coule l'Anduin vers le Sud. \n\n Capturables : Feu d'alarme, Avant-Poste. \n Antres : Trolls des collines, Spectres des Galgals, Wargs. \n Dangers : Brouillard. \n Région : Rhovanion. \n"
+"La maison ancestrale récupérée des Éothéod a été fondée au confluent des rivières Rugris et Langwell, dans les vallées montagneuses d'o? coule l'Anduin vers le Sud. \n\n Capturables : Feu d'alarme, Avant-Poste. \n Antres : Trolls des collines, Spectres des Galgals, Wargs. \n Dangers : Brouillard. \n Région : Rhovanion. \n"
 End
 
 ///////////////////////
@@ -15795,7 +15795,7 @@ Map:MAPMPsnowbourn
 End
 
 Map:MAPMPsnowbourn/Desc
-"Cette rivière du Rohan commence sous le Starkhorn dans les Montagnes Blanches et coule vers le Nord, avant de passer par ?doras pour rejoindre la rivière Entalluve. \n\n Capturables : Avant-Poste. \n Antres : Trolls des Cavernes, Gobelins. \n Région : Rohan. \n"
+"Cette rivière du Rohan commence sous le Starkhorn dans les Montagnes Blanches et coule vers le Nord, avant de passer par Édoras pour rejoindre la rivière Entalluve. \n\n Capturables : Avant-Poste. \n Antres : Trolls des Cavernes, Gobelins. \n Région : Rohan. \n"
 End
 
 ///////////////////////
@@ -15955,7 +15955,7 @@ Map:MAPMPthefolde
 End
 
 Map:MAPMPthefolde/Desc
-"Le Fold est une région ancienne et historique du Rohan, proche de la capitale d'?doras, et abritait à l'origine le siège du roi dans la ville d'Aldburg. C'est la patrie ancestrale de la lignée royale du Rohan. \n\n Capturables : Auberge. \n Antres : Wargs. \n Région : Rohan. \n"
+"Le Fold est une région ancienne et historique du Rohan, proche de la capitale d'Édoras, et abritait à l'origine le siège du roi dans la ville d'Aldburg. C'est la patrie ancestrale de la lignée royale du Rohan. \n\n Capturables : Auberge. \n Antres : Wargs. \n Région : Rohan. \n"
 End
 
 ///////////////////////
@@ -16245,7 +16245,7 @@ END
 ////////////////////////////////////
 
 CONTROLBAR:PurchaseUpgradeMenFortressBanners
-"?tendards de l'Arbre Blanc (&W)"
+"Étendards de l'Arbre Blanc (&W)"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeMenFortressBanners
@@ -16467,7 +16467,7 @@ END
 //=============== 12.2 HÉROS DU GONDOR ========================
 
 ////////////////////////////
-// CAPITAINE PERSONNALIS? //
+// CAPITAINE PERSONNALISÉ //
 ////////////////////////////
 
 CONTROLBAR:GenericRecruitHero
@@ -18114,7 +18114,7 @@ OBJECT:DolAmrothBarracks
 END
 
 CONTROLBAR:PurchaseUpgradeDolFortressBanners
-"?tendards de Dol Amroth (&R)"
+"Étendards de Dol Amroth (&R)"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeDolFortressBanners
@@ -18938,11 +18938,11 @@ CONTROLBAR:ToolTipCommandStop
 END
 
 CONTROLBAR:PorterExtinguishFire
-"?teindre le feu"
+"Éteindre le feu"
 END
 
 CONTROLBAR:ToolTipPorterExtinguishFire
-"?teint les feux proches pour préserver les structures."
+"Éteint les feux proches pour préserver les structures."
 END
 
 CONTROLBAR:ToolTipConstructMenFortress
@@ -19321,7 +19321,7 @@ CONTROLBAR:CloudBreak
 End
 
 CONTROLBAR:ToolTipCloudBreakGondor
-"Annule les Vents Occidentaux, Pluie Vergla?ante, Avant que le Soleil ne se Lève, Bénédiction d'Ulmo, Bénédiction de Manw?, Le Jour de Durin, Extinction des feux, Hiver Blanc et Ombre. \n ?tourdit les unités ennemies pendant 5 secondes. \n Octroie +33% de bonus de vitesse aux unités alliées sur la carte pendant 15 secondes. \n\n Clic gauche pour l'activer."
+"Annule les Vents Occidentaux, Pluie Vergla?ante, Avant que le Soleil ne se Lève, Bénédiction d'Ulmo, Bénédiction de Manw?, Le Jour de Durin, Extinction des feux, Hiver Blanc et Ombre. \n Étourdit les unités ennemies pendant 5 secondes. \n Octroie +33% de bonus de vitesse aux unités alliées sur la carte pendant 15 secondes. \n\n Clic gauche pour l'activer."
 END
 
 
@@ -19667,27 +19667,27 @@ END
 
 
 ////////////////
-// DAME ?OWYN //
+// DAME ÉOWYN //
 ////////////////
 
 CONTROLBAR:RohanEowynHotkey
-"Dame ?owyn (&E)"
+"Dame Éowyn (&E)"
 END
 
 OBJECT:RohanEowyn
-"Dame ?owyn"
+"Dame Éowyn"
 END
 
 CONTROLBAR:RohanEowynRecruit
-"Recrutez la Damoiselle Protectrice du Rohan. \n\n ?owyn est la soeur d'?omer et nièce du roi Théoden, et tout comme eux c'est une combattante née, fière et obstinée. \n Refusant de rester en arrière lorsque les ténèbres menacent de submerger sa terre natale, elle se déguise en homme pour rejoindre l'armée des Rohirrims. \n\n Lors de la bataille des Champs du Pelennor, elle fait face au Roi-Sorcier d'Angmar au moment o? celui-ci est sur le point de porter le coup de grâce à Théoden. La Vierge au Bouclier réussit alors l'impensable : vaincre en duel le plus puissant des héros du Mal de la Terre du Milieu. \n\n 'Tous tes mots ne sont que toi pour dire : tu es une femme et ta part est dans la maison. Mais quand les hommes sont morts au combat et dans l'honneur, tu as la permission d'être brûlée dans la maison, car les hommes n'auront plus besoin de toi. Mais je suis de la Maison d'Eorl et pas une servante. Je peux monter et manier la lame, et je ne crains ni la douleur ni la mort.'"
+"Recrutez la Damoiselle Protectrice du Rohan. \n\n Éowyn est la soeur d'Éomer et nièce du roi Théoden, et tout comme eux c'est une combattante née, fière et obstinée. \n Refusant de rester en arrière lorsque les ténèbres menacent de submerger sa terre natale, elle se déguise en homme pour rejoindre l'armée des Rohirrims. \n\n Lors de la bataille des Champs du Pelennor, elle fait face au Roi-Sorcier d'Angmar au moment o? celui-ci est sur le point de porter le coup de grâce à Théoden. La Vierge au Bouclier réussit alors l'impensable : vaincre en duel le plus puissant des héros du Mal de la Terre du Milieu. \n\n 'Tous tes mots ne sont que toi pour dire : tu es une femme et ta part est dans la maison. Mais quand les hommes sont morts au combat et dans l'honneur, tu as la permission d'être brûlée dans la maison, car les hommes n'auront plus besoin de toi. Mais je suis de la Maison d'Eorl et pas une servante. Je peux monter et manier la lame, et je ne crains ni la douleur ni la mort.'"
 END
 
 CONTROLBAR:ToolTipBuildEowyn
-"Recrutez la Damoiselle Protectrice du Rohan. \n\n ?owyn est la soeur d'?omer et nièce du roi Théoden, et tout comme eux c'est une combattante née, fière et obstinée. \n Refusant de rester en arrière lorsque les ténèbres menacent de submerger sa terre natale, elle se déguise en homme pour rejoindre l'armée des Rohirrims. \n\n Lors de la bataille des Champs du Pelennor, elle fait face au Roi-Sorcier d'Angmar au moment o? celui-ci est sur le point de porter le coup de grâce à Théoden. La Vierge au Bouclier réussit alors l'impensable : vaincre en duel le plus puissant des héros du Mal de la Terre du Milieu. \n\n 'Tous tes mots ne sont que toi pour dire : tu es une femme et ta part est dans la maison. Mais quand les hommes sont morts au combat et dans l'honneur, tu as la permission d'être brûlée dans la maison, car les hommes n'auront plus besoin de toi. Mais je suis de la Maison d'Eorl et pas une servante. Je peux monter et manier la lame, et je ne crains ni la douleur ni la mort.'"
+"Recrutez la Damoiselle Protectrice du Rohan. \n\n Éowyn est la soeur d'Éomer et nièce du roi Théoden, et tout comme eux c'est une combattante née, fière et obstinée. \n Refusant de rester en arrière lorsque les ténèbres menacent de submerger sa terre natale, elle se déguise en homme pour rejoindre l'armée des Rohirrims. \n\n Lors de la bataille des Champs du Pelennor, elle fait face au Roi-Sorcier d'Angmar au moment o? celui-ci est sur le point de porter le coup de grâce à Théoden. La Vierge au Bouclier réussit alors l'impensable : vaincre en duel le plus puissant des héros du Mal de la Terre du Milieu. \n\n 'Tous tes mots ne sont que toi pour dire : tu es une femme et ta part est dans la maison. Mais quand les hommes sont morts au combat et dans l'honneur, tu as la permission d'être brûlée dans la maison, car les hommes n'auront plus besoin de toi. Mais je suis de la Maison d'Eorl et pas une servante. Je peux monter et manier la lame, et je ne crains ni la douleur ni la mort.'"
 END
 
 CONTROLBAR:RohanEowynRevive
-"Rappelez Dame ?owyn à la vie"
+"Rappelez Dame Éowyn à la vie"
 END
 
 
@@ -19763,19 +19763,19 @@ END
 
 
 ///////////
-// ?OMER //
+// ÉOMER //
 ///////////
 
 CONTROLBAR:RohanEomerHotkey
-"?omer (&D)"
+"Éomer (&D)"
 END
 
 OBJECT:RohanEomer
-"?omer"
+"Éomer"
 END
 
 OBJECT:RohanEomerCavalry
-"?omer"
+"Éomer"
 END
 
 CONTROLBAR:ToolTipBuildEomer
@@ -19783,11 +19783,11 @@ CONTROLBAR:ToolTipBuildEomer
 END
 
 CONTROLBAR:RohanEomerRecruit
-"Recrutez le chef des Rohirrims exilés. \n\n ?omer, fils d'?omund, est le neveu du roi Théoden et un des meilleurs guerriers du Rohan. \n Tandis que les armées de l'Isengard convergent vers le Rohan, ?omer risque l'exil afin de protéger les paysans et les simples gens des déprédations des Uruk-Ha?, des Wargs et pire encore. \n\n 'ROHIRRIMS ! POUR LE ROI !!'"
+"Recrutez le chef des Rohirrims exilés. \n\n Éomer, fils d'Éomund, est le neveu du roi Théoden et un des meilleurs guerriers du Rohan. \n Tandis que les armées de l'Isengard convergent vers le Rohan, Éomer risque l'exil afin de protéger les paysans et les simples gens des déprédations des Uruk-Ha?, des Wargs et pire encore. \n\n 'ROHIRRIMS ! POUR LE ROI !!'"
 END
 
 CONTROLBAR:RohanEomerRevive
-"Rappelez ?omer à la vie"
+"Rappelez Éomer à la vie"
 END
 
 
@@ -19962,7 +19962,7 @@ CONTROLBAR:MerryLeadership
 END
 
 CONTROLBAR:ToolTipMerryLeadership
-"Requiert : Niveau 5 \n Type d'Action : Charisme. \n Merry obtient +25 d'armure et +25% de dégâts à proximité d'?owyn. \n Les Héros à proximité gagnent de l'expérience +50% plus vite. \n\n S'accumule avec les Bonus et les Sorts. \n La Santé de Merry est augmentée. \n Capacité passive."
+"Requiert : Niveau 5 \n Type d'Action : Charisme. \n Merry obtient +25 d'armure et +25% de dégâts à proximité d'Éowyn. \n Les Héros à proximité gagnent de l'expérience +50% plus vite. \n\n S'accumule avec les Bonus et les Sorts. \n La Santé de Merry est augmentée. \n Capacité passive."
 END
 
 CONTROLBAR:MerryBlade
@@ -19976,7 +19976,7 @@ End
 
 
 ////////////////
-// DAME ?OWYN //
+// DAME ÉOWYN //
 ////////////////
 
 CONTROLBAR:EowynLeadership
@@ -19984,7 +19984,7 @@ CONTROLBAR:EowynLeadership
 END
 
 CONTROLBAR:ToolTipEowynLeadership
-"Type d'Action : Charisme. \n Les paysans près d'?owyn obtiennent +25% d'armure, et gagnent de l'expérience 100% plus vite. \n\n S'accumule avec les Bonus et les Sorts. \n Capacité passive."
+"Type d'Action : Charisme. \n Les paysans près d'Éowyn obtiennent +25% d'armure, et gagnent de l'expérience 100% plus vite. \n\n S'accumule avec les Bonus et les Sorts. \n Capacité passive."
 END
 
 CONTROLBAR:EowynReadiness
@@ -20000,7 +20000,7 @@ CONTROLBAR:ToggleEowynDernhelm
 END
 
 CONTROLBAR:ToolTipToggleEowynDernhelm
-"Requiert : Niveau 5 \n ?owyn revêt l'Armure de Dernhelm. \n\n Basculer entre la Dame Blanche et l'armure de Dernhelm."
+"Requiert : Niveau 5 \n Éowyn revêt l'Armure de Dernhelm. \n\n Basculer entre la Dame Blanche et l'armure de Dernhelm."
 END
 
 CONTROLBAR:ToggleEowynLady
@@ -20008,7 +20008,7 @@ CONTROLBAR:ToggleEowynLady
 END
 
 CONTROLBAR:ToolTipToggleEowynLady
-"Requiert : Niveau 5 \n ?owyn revêt sa robe. \n\n Basculer entre la Dame Blanche et l'armure de Dernhelm."
+"Requiert : Niveau 5 \n Éowyn revêt sa robe. \n\n Basculer entre la Dame Blanche et l'armure de Dernhelm."
 END
 
 CONTROLBAR:EowynIthilienGarden
@@ -20024,7 +20024,7 @@ CONTROLBAR:EowynCourage
 END
 
 CONTROLBAR:ToolTipEowynCourage
-"Requiert : Niveau 5 \n ?owyn inspire un Héros ciblé à accomplir de grande actions. \n\n Le Héros ciblé gagne +25% de dégâts et gagne deux fois plus d'expériences pendant 30 secondes. \n Merry obtient +50% de dégâts et double l'obtention d'expérience pendant 30 secondes. \n\n Clic gauche sur l'icône puis clic gauche sur un Héros ciblé."
+"Requiert : Niveau 5 \n Éowyn inspire un Héros ciblé à accomplir de grande actions. \n\n Le Héros ciblé gagne +25% de dégâts et gagne deux fois plus d'expériences pendant 30 secondes. \n Merry obtient +50% de dégâts et double l'obtention d'expérience pendant 30 secondes. \n\n Clic gauche sur l'icône puis clic gauche sur un Héros ciblé."
 END
 
 
@@ -20160,7 +20160,7 @@ END
 
 
 ///////////
-// ?OMER //
+// ÉOMER //
 ///////////
 
 CONTROLBAR:HorseLordLeadership
@@ -20168,7 +20168,7 @@ CONTROLBAR:HorseLordLeadership
 END
 
 CONTROLBAR:ToolTipEomerLeadership
-"Type d'Action : Charisme. \n Les Cavaliers proche d'?omer gagnent +33% de dégâts, +33% d'armure, et gagnent de l'expérience 50% plus rapidement (bonus cumulable). \n\n Capacité passive."
+"Type d'Action : Charisme. \n Les Cavaliers proche d'Éomer gagnent +33% de dégâts, +33% d'armure, et gagnent de l'expérience 50% plus rapidement (bonus cumulable). \n\n Capacité passive."
 END
 
 CONTROLBAR:ThrowSpear
@@ -20200,7 +20200,7 @@ CONTROLBAR:EomerBlademaster
 END
 
 CONTROLBAR:TooltipEomerBlademaster
-"Requiert : Niveau 5 \n ?omer gagne temporairement +100% de dégâts. \n\n Clic gauche pour l'activer."
+"Requiert : Niveau 5 \n Éomer gagne temporairement +100% de dégâts. \n\n Clic gauche pour l'activer."
 END
 
 CONTROLBAR:EomerStandGround
@@ -20290,7 +20290,7 @@ CONTROLBAR:GamlingWhateverEnd
 END
 
 CONTROLBAR:ToolTipGamlingWhateverEnd
-"Type d'Action : Bonus. \n Le Héros ciblé gagne temporairement +25% d'armure. \n Ne peut être utilisé que sur Théoden, ?omer, ?owyn ou Théodred. \n S'accumule avec le Charisme et les Sorts. \n Clic gauche sur l'icône puis clic gauche sur le héros ciblé."
+"Type d'Action : Bonus. \n Le Héros ciblé gagne temporairement +25% d'armure. \n Ne peut être utilisé que sur Théoden, Éomer, Éowyn ou Théodred. \n S'accumule avec le Charisme et les Sorts. \n Clic gauche sur l'icône puis clic gauche sur le héros ciblé."
 END
 
 CONTROLBAR:ToolTipGamlingWhateverEndCampaign
@@ -20948,7 +20948,7 @@ CONTROLBAR:ToolTipDraftTowerOathFirienholt
 END
 
 CONTROLBAR:PurchaseDraftTowerRohirrim
-"Le Serment d'?ored (&T)"
+"Le Serment d'Éored (&T)"
 END
 
 CONTROLBAR:ToolTipPurchaseDraftTowerRohirrim
@@ -20956,7 +20956,7 @@ CONTROLBAR:ToolTipPurchaseDraftTowerRohirrim
 END
 
 UPGRADE:DraftTowerEored
-"Le Serment d'?ored (&W)"
+"Le Serment d'Éored (&W)"
 END
 
 CONTROLBAR:ToolTipDraftTowerOathRohirrim
@@ -21177,11 +21177,11 @@ CONTROLBAR:LW_Unit_RohanWestfolderComboHordePlural
 END
 
 CONTROLBAR:LW_ToolTip_RohanWestfolderHorde
-"Type d'Unité : Infanterie d'?lite. \n Forts contre les Archers."
+"Type d'Unité : Infanterie d'Élite. \n Forts contre les Archers."
 END
 
 CONTROLBAR:LW_ToolTipBuild_RohanWestfolderHorde
-"Type d'Unité : Infanterie d'?lite. \n Forts contre les Archers."
+"Type d'Unité : Infanterie d'Élite. \n Forts contre les Archers."
 END
 
 
@@ -21195,7 +21195,7 @@ CONTROLBAR:ConstructRohanDoorWardenHorde
 END
 
 CONTROLBAR:ToolTipBuildRohanDoorWardenHorde
-"Requiert : Caserne niveau 3 \n Fort contre les Piquiers. \n\n Autrement appelés les Gardiens de la Porte, ces Guerriers ont été triés sur le volet par le Roi et sont chargés de la sécurité de Meduseld. En Temps de Guerre, ils menèrent chacun, une petite partie de l'armée du grand ?ored."
+"Requiert : Caserne niveau 3 \n Fort contre les Piquiers. \n\n Autrement appelés les Gardiens de la Porte, ces Guerriers ont été triés sur le volet par le Roi et sont chargés de la sécurité de Meduseld. En Temps de Guerre, ils menèrent chacun, une petite partie de l'armée du grand Éored."
 END
 
 OBJECT:RohanDoorWarden
@@ -21946,7 +21946,7 @@ CONTROLBAR:Rebuild
 End
 
 CONTROLBAR:RohanRebuild
-"?tayer"
+"Étayer"
 End
 
 
@@ -22022,7 +22022,7 @@ CONTROLBAR:RohanCloudBreak
 END
 
 CONTROLBAR:ToolTipRohanCloudBreak
-"Annule les Vents Occidentaux, Pluie Vergla?ante, Avant le Lever du Soleil, Bénédiction d'Ulmo, Bénédiction de Manw?, Le Jour de Durin, Extinction des feux, L'Hiver Blanc et L'Obscurité. \n ?tourdit les unités ennemies pendant 5 secondes. \n Soigne lentement les unités alliées sur la carte. \n\n Clic gauche pour l'activer."
+"Annule les Vents Occidentaux, Pluie Vergla?ante, Avant le Lever du Soleil, Bénédiction d'Ulmo, Bénédiction de Manw?, Le Jour de Durin, Extinction des feux, L'Hiver Blanc et L'Obscurité. \n Étourdit les unités ennemies pendant 5 secondes. \n Soigne lentement les unités alliées sur la carte. \n\n Clic gauche pour l'activer."
 END
 
 
@@ -22490,11 +22490,11 @@ OBJECT:DwarvenKili
 END
 
 CONTROLBAR:ToolTipBuildKili
-"Recrutez le jeune Prince d'Erebor. \n Kíli est le petit frère de Fíli et le neveu de Thorin. Il aime s'amuser et rien n'entame sa bonne humeur. C'est un combattant doué et un archer expert qui s'est entra?né à manier les armes depuis son plus jeune âge. \n ?tant l'un des plus jeunes membres de la Compagnie des Nains, Kíli est déterminé à laisser sa marque et à prouver sa valeur. \n\n 'Je ne me cacherai pas derrière un mur de pierres pendant que d'autres mènent nos batailles à notre place !'"
+"Recrutez le jeune Prince d'Erebor. \n Kíli est le petit frère de Fíli et le neveu de Thorin. Il aime s'amuser et rien n'entame sa bonne humeur. C'est un combattant doué et un archer expert qui s'est entra?né à manier les armes depuis son plus jeune âge. \n Étant l'un des plus jeunes membres de la Compagnie des Nains, Kíli est déterminé à laisser sa marque et à prouver sa valeur. \n\n 'Je ne me cacherai pas derrière un mur de pierres pendant que d'autres mènent nos batailles à notre place !'"
 END
 
 CONTROLBAR:DwarvenKiliRecruit
-"Recrutez le jeune Prince d'Erebor. \n Kíli est le petit frère de Fíli et le neveu de Thorin. Il aime s'amuser et rien n'entame sa bonne humeur. C'est un combattant doué et un archer expert qui s'est entra?né à manier les armes depuis son plus jeune âge. \n ?tant l'un des plus jeunes membres de la Compagnie des Nains, Kíli est déterminé à laisser sa marque et à prouver sa valeur. \n\n 'Je ne me cacherai pas derrière un mur de pierres pendant que d'autres mènent nos batailles à notre place !'"
+"Recrutez le jeune Prince d'Erebor. \n Kíli est le petit frère de Fíli et le neveu de Thorin. Il aime s'amuser et rien n'entame sa bonne humeur. C'est un combattant doué et un archer expert qui s'est entra?né à manier les armes depuis son plus jeune âge. \n Étant l'un des plus jeunes membres de la Compagnie des Nains, Kíli est déterminé à laisser sa marque et à prouver sa valeur. \n\n 'Je ne me cacherai pas derrière un mur de pierres pendant que d'autres mènent nos batailles à notre place !'"
 END
 
 CONTROLBAR:DwarvenKiliRevive
@@ -23019,7 +23019,7 @@ CONTROLBAR:TooltipBalinLookout
 END
 
 CONTROLBAR:BalinDwarvenWisdom
-"?rudition (&R)"
+"Érudition (&R)"
 End
 
 CONTROLBAR:ToolTipBalinDwarvenWisdom
@@ -23837,7 +23837,7 @@ CONTROLBAR:TunnelCollaspe
 END
 
 CONTROLBAR:ToolTipTunnelCollaspe
-"?tourdis et inflige des dégâts aux unités proches mais réduit la production de ressources de 50% pendant 60 secondes."
+"Étourdis et inflige des dégâts aux unités proches mais réduit la production de ressources de 50% pendant 60 secondes."
 END
 
 UPGRADE:ToolTipTunnelCollapse
@@ -23845,11 +23845,11 @@ UPGRADE:ToolTipTunnelCollapse
 END
 
 CONTROLBAR:Evacuate
-"?vacuer"
+"Évacuer"
 End
 
 CONTROLBAR:TransportEvacuate
-"?vacuer"
+"Évacuer"
 END
 
 CONTROLBAR:ToolTipGarrisonEvacuate
@@ -24413,11 +24413,11 @@ CONTROLBAR:ToolTipBTEredLuinBannerUpgraded
 END
 
 OBJECT:DwarfSiegeCrew
-"?quipe de Siège des Nains"
+"Équipe de Siège des Nains"
 END
 
 OBJECT:RohanSiegeCrew
-"?quipe de Siège du Rohan"
+"Équipe de Siège du Rohan"
 END
 
 
@@ -25055,31 +25055,31 @@ END
 
 
 //////////////////////
-// ?P?ISTES DE DALE //
+// ÉPÉISTES DE DALE //
 //////////////////////
 
 CONTROLBAR:ConstructMenofDaleSwordHorde
-"?péistes de Dale (&R)"
+"Épéistes de Dale (&R)"
 END
 
 OBJECT:MenofDaleSword
-"?péiste de Dale"
+"Épéiste de Dale"
 END
 
 OBJECT:HordeMenofDaleSwordMilita
-"?péistes de Dale"
+"Épéistes de Dale"
 END
 
 CONTROLBAR:LW_Unit_MenofDaleSwordHorde
-"Bataillon d'?péistes de Dale"
+"Bataillon d'Épéistes de Dale"
 END
 
 CONTROLBAR:LW_Unit_MenofDaleSwordComboHorde
-"Bataillon d'?péistes de Dale"
+"Bataillon d'Épéistes de Dale"
 END
 
 CONTROLBAR:LW_Unit_MenofDaleSwordComboHordePlural
-"Bataillons d'?péistes de Dale"
+"Bataillons d'Épéistes de Dale"
 END
 
 CONTROLBAR:LW_ToolTip_MenofDaleSwordHorde
@@ -25593,7 +25593,7 @@ END
 
 
 ///////////////////////////////
-// L?GIONNAIRES DU DORWINION //
+// LÉGIONNAIRES DU DORWINION //
 ///////////////////////////////
 
 CONTROLBAR:ConstructDorwinionFighterHorde
@@ -26387,7 +26387,7 @@ CONTROLBAR:CloudBreakErebor
 End
 
 CONTROLBAR:ToolTipCloudBreakErebor
-"Annule les Vents Occidentaux, Pluie Vergla?ante, Avant que le Soleil ne se Lève, Bénédiction d'Ulmo, Bénédiction de Manw?, Le Jour de Durin, Extinction des feux, Hiver Blanc et Ombre. \n ?tourdit les unités ennemies. \n Soigne lentement les unités alliées sur la carte. \n\n Clic gauche pour l'activer."
+"Annule les Vents Occidentaux, Pluie Vergla?ante, Avant que le Soleil ne se Lève, Bénédiction d'Ulmo, Bénédiction de Manw?, Le Jour de Durin, Extinction des feux, Hiver Blanc et Ombre. \n Étourdit les unités ennemies. \n Soigne lentement les unités alliées sur la carte. \n\n Clic gauche pour l'activer."
 END
 
 
@@ -26524,7 +26524,7 @@ End
 ////////////////////////////////////
 
 CONTROLBAR:PurchaseUpgradeLothlorienFortressBanners
-"?tendards du Bois d'Or (&W)"
+"Étendards du Bois d'Or (&W)"
 END
 
 CONTROLBAR:PurchaseUpgradeElvenFortressBlessedMist
@@ -26568,7 +26568,7 @@ CONTROLBAR:ToolTipPurchaseUpgradeElvenFortressEncasingVines
 END
 
 CONTROLBAR:PurchaseUpgradeElvenFortressEnchantedAnvil
-"?tendards des Sindar"
+"Étendards des Sindar"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeElvenFortressEnchantedAnvil
@@ -28372,7 +28372,7 @@ CONTROLBAR:CloudBreakLorien
 End
 
 CONTROLBAR:ToolTipCloudBreakLorien
-"Annule, les Vents Occidentaux, la Pluie Vergla?ante, Avant que le Soleil ne se lève, Bénédiction d'Ulmo, Bénédiction de Manw?, Le Jour de Durin, Extinction des feux, Hiver Blanc et Ombre. \n ?tourdit les unités ennemies. \n Soigne lentement les unités alliées sur la carte. \n Clic gauche pour l'activer."
+"Annule, les Vents Occidentaux, la Pluie Vergla?ante, Avant que le Soleil ne se lève, Bénédiction d'Ulmo, Bénédiction de Manw?, Le Jour de Durin, Extinction des feux, Hiver Blanc et Ombre. \n Étourdit les unités ennemies. \n Soigne lentement les unités alliées sur la carte. \n Clic gauche pour l'activer."
 END
 
 
@@ -28380,7 +28380,7 @@ END
 
 
 CONTROLBAR:CastDown
-"Colère des ?léments"
+"Colère des Éléments"
 End
 
 CONTROLBAR:ToolTipCastDown
@@ -28509,7 +28509,7 @@ END
 ////////////////////////////////////
 
 CONTROLBAR:PurchaseUpgradeRivendellFortressBanners
-"?tendards de Gil-Galad (&W)"
+"Étendards de Gil-Galad (&W)"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeRivendellFortressBanners
@@ -28721,7 +28721,7 @@ OBJECT:ElvenArwen
 END
 
 CONTROLBAR:ArwenRecruit
-"Recrutez la fille d'Elrond. \n\n Arwen est la fille d'Elrond et de Celebrían, petite-fille de Galadriel, et fait partie des Peredhil, les Semi-Elfes. En raison de sa grande beauté, elle est souvent comparée à Lúthien et est surnommée Undómiel (?toile du Soir). \n Tout comme son père, Arwen est une elfe courageuse et de grand pouvoir. Immortelle, elle est vouée à quitter la Terre du Milieu pour les Havres Gris, mais son amour pour Aragorn la retient dans ce royaume mortel. \n\n 'Je préfère partager une existence humaine avec vous, qu'affronter tous les âges de ce monde toute seule. Je choisis une vie mortelle.'"
+"Recrutez la fille d'Elrond. \n\n Arwen est la fille d'Elrond et de Celebrían, petite-fille de Galadriel, et fait partie des Peredhil, les Semi-Elfes. En raison de sa grande beauté, elle est souvent comparée à Lúthien et est surnommée Undómiel (Étoile du Soir). \n Tout comme son père, Arwen est une elfe courageuse et de grand pouvoir. Immortelle, elle est vouée à quitter la Terre du Milieu pour les Havres Gris, mais son amour pour Aragorn la retient dans ce royaume mortel. \n\n 'Je préfère partager une existence humaine avec vous, qu'affronter tous les âges de ce monde toute seule. Je choisis une vie mortelle.'"
 END
 
 CONTROLBAR:ArwenRevive
@@ -28769,11 +28769,11 @@ OBJECT:ArnorHalbarad
 END
 
 CONTROLBAR:ToolTipBuildHalbarad
-"Recrutez le capitaine des Dúnedains. \n\n Halbarad était un capitaine des Dúnedain qui a loyalement servi son chef Aragorn à la fin du troisième âge. Il partit avec la Compagnie Grise et les Fils d'Elrond pour aider l'Héritier d'Isildur dans son voyage à travers les Chemins des Morts et la libération de Pelargir. Tout au long de cette tâche, Halbarad portait la Bannière de l'?toile de l'?vénement, forgée par Arwen Undómiel, qui inspira l'espoir au Peuple libre lors de la bataille des champs du Pelennor. \n\n 'C'est une porte maléfique, et ma mort se trouve au-delà. J'oserai néanmoins la franchir.'"
+"Recrutez le capitaine des Dúnedains. \n\n Halbarad était un capitaine des Dúnedain qui a loyalement servi son chef Aragorn à la fin du troisième âge. Il partit avec la Compagnie Grise et les Fils d'Elrond pour aider l'Héritier d'Isildur dans son voyage à travers les Chemins des Morts et la libération de Pelargir. Tout au long de cette tâche, Halbarad portait la Bannière de l'Étoile de l'Événement, forgée par Arwen Undómiel, qui inspira l'espoir au Peuple libre lors de la bataille des champs du Pelennor. \n\n 'C'est une porte maléfique, et ma mort se trouve au-delà. J'oserai néanmoins la franchir.'"
 END
 
 CONTROLBAR:GondorHalbaradRecruit
-"Recrutez le capitaine des Dúnedains. \n\n Halbarad était un capitaine des Dúnedain qui a loyalement servi son chef Aragorn à la fin du troisième âge. Il partit avec la Compagnie Grise et les Fils d'Elrond pour aider l'Héritier d'Isildur dans son voyage à travers les Chemins des Morts et la libération de Pelargir. Tout au long de cette tâche, Halbarad portait la Bannière de l'?toile de l'?vénement, forgée par Arwen Undómiel, qui inspira l'espoir au Peuple libre lors de la bataille des champs du Pelennor. \n\n 'C'est une porte maléfique, et ma mort se trouve au-delà. J'oserai néanmoins la franchir.'"
+"Recrutez le capitaine des Dúnedains. \n\n Halbarad était un capitaine des Dúnedain qui a loyalement servi son chef Aragorn à la fin du troisième âge. Il partit avec la Compagnie Grise et les Fils d'Elrond pour aider l'Héritier d'Isildur dans son voyage à travers les Chemins des Morts et la libération de Pelargir. Tout au long de cette tâche, Halbarad portait la Bannière de l'Étoile de l'Événement, forgée par Arwen Undómiel, qui inspira l'espoir au Peuple libre lors de la bataille des champs du Pelennor. \n\n 'C'est une porte maléfique, et ma mort se trouve au-delà. J'oserai néanmoins la franchir.'"
 END
 
 CONTROLBAR:GondorHalbaradRevive
@@ -28855,7 +28855,7 @@ OBJECT:ElvenElrond
 END
 
 CONTROLBAR:ElrondRecruit
-"Recrutez le ma?tre d'Imladris. \n\n Le Semi-Elfe Elrond est le ma?tre de la Dernière Maison Simple, un Haut Elfe de noble lignée et un membre éminent du Conseil Blanc. \n Elrond est très âgé, même pour un Elfe immortel. Il a combattu Sauron au cours de l'Ultime Alliance des Hommes et des Elfes et était présent lorsqu'Isildur a tranché le doigt qui portait l'Anneau Unique. Il craint depuis longtemps que la perte de l'Anneau par Isildur revienne hanter les Peuples Libres, et il semble bien qu'il ait raison. \n\n '?trangers venus de terres lointaines, amis de toujours. Vous vous êtes rassemblés ici afin de répondre à la menace du Mordor. La Terre du Milieu est au bord de la destruction. Nul ne peut y échapper. Vous vous unirez ou vous serez vaincus.'"
+"Recrutez le ma?tre d'Imladris. \n\n Le Semi-Elfe Elrond est le ma?tre de la Dernière Maison Simple, un Haut Elfe de noble lignée et un membre éminent du Conseil Blanc. \n Elrond est très âgé, même pour un Elfe immortel. Il a combattu Sauron au cours de l'Ultime Alliance des Hommes et des Elfes et était présent lorsqu'Isildur a tranché le doigt qui portait l'Anneau Unique. Il craint depuis longtemps que la perte de l'Anneau par Isildur revienne hanter les Peuples Libres, et il semble bien qu'il ait raison. \n\n 'Étrangers venus de terres lointaines, amis de toujours. Vous vous êtes rassemblés ici afin de répondre à la menace du Mordor. La Terre du Milieu est au bord de la destruction. Nul ne peut y échapper. Vous vous unirez ou vous serez vaincus.'"
 END
 
 CONTROLBAR:ElrondRevive
@@ -28915,7 +28915,7 @@ OBJECT:ArnorMaggotsHoundHorde
 END
 
 CONTROLBAR:ArnorFarmerMaggotRecruit
-"Requiert Niveau 3 du Campement. \n Recrutez le courageux fermier Hobbit. \n\n Le fermier Maggot était un fermier hobbit qui vivait aux confins de la Comté. Il était connu pour chasser les intrus avec ses trois chiens : ?tau, Croc et Loup. \n\n 'Sortez de mon champ !'"
+"Requiert Niveau 3 du Campement. \n Recrutez le courageux fermier Hobbit. \n\n Le fermier Maggot était un fermier hobbit qui vivait aux confins de la Comté. Il était connu pour chasser les intrus avec ses trois chiens : Étau, Croc et Loup. \n\n 'Sortez de mon champ !'"
 END
 
 CONTROLBAR:ArnorFarmerMaggotRevive
@@ -29069,7 +29069,7 @@ CONTROLBAR:ToolTipTinuvielBlessing
 END
 
 CONTROLBAR:ArwenEvenstar
-"Pouvoir de l'?toile du Soir (&V)"
+"Pouvoir de l'Étoile du Soir (&V)"
 END
 
 CONTROLBAR:ToolTipArwenEvenstar
@@ -29165,7 +29165,7 @@ CONTROLBAR:TooltipHalbaradBannerOfArwen
 END
 
 OBJECT:BannerofArwen
-"?tendard d'Arwen Undómiel"
+"Étendard d'Arwen Undómiel"
 END
 
 
@@ -29403,7 +29403,7 @@ CONTROLBAR:MaggotsHoundsLeadership
 END
 
 CONTROLBAR:ToolTipMaggotsHoundsLeadership
-"?tau, Croc, et Loup protègent le fermier Maggotte. \n\n Capacité passive."
+"Étau, Croc, et Loup protègent le fermier Maggotte. \n\n Capacité passive."
 END
 
 CONTROLBAR:MaggotsFarm
@@ -29571,15 +29571,15 @@ CONTROLBAR:GandalfYouShallNotPassCampaign
 END
 
 CONTROLBAR:ToolTipGandalfYouShallNotPass
-"Requiert : Niveau 10 \n ?tourdit les unités ennemies dans un large rayon autour de Gandalf. \n\n Clic gauche pour l'activer."
+"Requiert : Niveau 10 \n Étourdit les unités ennemies dans un large rayon autour de Gandalf. \n\n Clic gauche pour l'activer."
 END
 
 CONTROLBAR:ToolTipRivendellGandalfYouShallNotPass
-"?tourdit les unités ennemies dans un large rayon autour de Gandalf. \n\n Clic gauche pour l'activer."
+"Étourdit les unités ennemies dans un large rayon autour de Gandalf. \n\n Clic gauche pour l'activer."
 END
 
 CONTROLBAR:ToolTipFellowshipGandalfYouShallNotPass
-"Requiert : Niveau 3 \n ?tourdit les unités ennemies dans un large rayon autour de Gandalf. \n\n Clic gauche pour l'activer."
+"Requiert : Niveau 3 \n Étourdit les unités ennemies dans un large rayon autour de Gandalf. \n\n Clic gauche pour l'activer."
 END
 
 
@@ -30776,7 +30776,7 @@ END
 
 
 ////////////
-// B?LIER //
+// BÉLIER //
 ////////////
 
 CONTROLBAR:ConstructArnorBatteringRam
@@ -31098,7 +31098,7 @@ CONTROLBAR:LW_ToolTip_RivendellGlaivemenHorde
 END
 
 CONTROLBAR:ToolTipBuildArnorShieldGuardHorde
-"?peistes d'Imladris. \n Forts contre la cavalerie, les engins de siège et les héros. \n\n L'art élégant du combat avec un long glaive est une tradition Noldorine qui a fait ses preuves."
+"Épeistes d'Imladris. \n Forts contre la cavalerie, les engins de siège et les héros. \n\n L'art élégant du combat avec un long glaive est une tradition Noldorine qui a fait ses preuves."
 END
 
 
@@ -31386,7 +31386,7 @@ END
 
 
 //////////////////
-// EXIL? NOLDOR //
+// EXILÉ NOLDOR //
 //////////////////
 
 OBJECT:NoldorExile
@@ -31520,7 +31520,7 @@ CONTROLBAR:PurchaseUpgradeDunedainSpears
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeDunedainSpears
-"?quipe les rôdeurs de fa?on permanente avec des lances. \n Accroit les dégâts infligés à la cavalerie et aux héros. \n Seule une amélioration peut être active à la fois. \n\n Clic gauche pour améliorer cette unité."
+"Équipe les rôdeurs de fa?on permanente avec des lances. \n Accroit les dégâts infligés à la cavalerie et aux héros. \n Seule une amélioration peut être active à la fois. \n\n Clic gauche pour améliorer cette unité."
 END
 
 UPGRADE:DunedainSpear
@@ -31544,19 +31544,19 @@ CONTROLBAR:PurchaseUpgradeDunedainSwords
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeDunedainSwords
-"?quipe les rôdeurs de fa?on permanente avec des épées. \n Accroit les dégâts infligés à l'infanterie et augmente légèrement l'armure. \n Seule une amélioration peut être active à la fois. \n\n Clic gauche pour améliorer cette unité."
+"Équipe les rôdeurs de fa?on permanente avec des épées. \n Accroit les dégâts infligés à l'infanterie et augmente légèrement l'armure. \n Seule une amélioration peut être active à la fois. \n\n Clic gauche pour améliorer cette unité."
 END
 
 UPGRADE:DunedainSword
-"?pées équipées"
+"Épées équipées"
 END
 
 TOOLTIP:DunedainSword
-"?pées équipées"
+"Épées équipées"
 END
 
 CONTROLBAR:UpgradeDunedainSwords
-"?pées équipées"
+"Épées équipées"
 END
 
 CONTROLBAR:ToolTipUpgradeDunedainSwords
@@ -31704,7 +31704,7 @@ End
 
 
 //////////////////
-// EXIL? NOLDOR //
+// EXILÉ NOLDOR //
 //////////////////
 
 CONTROLBAR:SongToElbereth
@@ -31870,7 +31870,7 @@ CONTROLBAR:Flood
 END
 
 CONTROLBAR:TooltipFlood
-"Invoque un Déluge puissant pour écraser les unités ennemies. \n ?teint les incendies. \n\n Clic gauche sur l'icône puis clic gauche sur la zone cible."
+"Invoque un Déluge puissant pour écraser les unités ennemies. \n Éteint les incendies. \n\n Clic gauche sur l'icône puis clic gauche sur la zone cible."
 END
 
 
@@ -32871,7 +32871,7 @@ CONTROLBAR:ThranduilNewMount
 END
 
 CONTROLBAR:ThranduilNewMountTooltip
-"Type d'Action : Charisme. \n Les alliés proches de Thranduil gagnent +50% d'armure. \n Se cumule avec les Bonus et les Sorts. \n\n Clic gauche pour basculer entre monter sur le Grand ?lan et être à pied."
+"Type d'Action : Charisme. \n Les alliés proches de Thranduil gagnent +50% d'armure. \n Se cumule avec les Bonus et les Sorts. \n\n Clic gauche pour basculer entre monter sur le Grand Élan et être à pied."
 END
 
 CONTROLBAR:ThranduilFavor
@@ -32943,7 +32943,7 @@ END
 ////////////////
 
 CONTROLBAR:WhiteStagEthereal
-"?théré"
+"Éthéré"
 END
 
 CONTROLBAR:ToolTipWhiteStagEthereal
@@ -33220,7 +33220,7 @@ CONTROLBAR:ToolTipPurchaseUpgradeMirkwoodBasicTraining
 END
 
 CONTROLBAR:PurchaseTechnologyMirkwoodBasicTraining
-"Rechercher ?tendards de VertBois (&W)"
+"Rechercher Étendards de VertBois (&W)"
 END
 
 CONTROLBAR:ToolTipBuildMirkwoodBasicTraining
@@ -33276,7 +33276,7 @@ CONTROLBAR:ToolTipPurchaseUpgradeMirkwoodForgedBladesWoodmen
 END
 
 UPGRADE:MirkwoodBasicTraining
-"?tendards de VertBois"
+"Étendards de VertBois"
 END
 
 UPGRADE:MirkwoodForgedBlades
@@ -33288,7 +33288,7 @@ UPGRADE:MirkwoodFlamingArrows
 END
 
 TOOLTIP:MirkwoodBasicTraining
-"?tendards de VertBois"
+"Étendards de VertBois"
 END
 
 TOOLTIP:MirkwoodForgedBlades
@@ -33540,7 +33540,7 @@ OBJECT:ElvenWarriorArcherComboHorde
 END
 
 OBJECT:ElvenBanner
-"?tendard elfique"
+"Étendard elfique"
 END
 
 CONTROLBAR:LW_Unit_ElvenMirkwoodArcherHorde
@@ -33756,7 +33756,7 @@ END
 
 
 //////////////////////////
-// BERSERKERS B?ORNIDES //
+// BERSERKERS BÉORNIDES //
 //////////////////////////
 
 CONTROLBAR:ConstructBeorningBerserker
@@ -33810,15 +33810,15 @@ OBJECT:HordeEotheod
 END
 
 CONTROLBAR:ToolTipBuildMirkwoodEotheodHorde
-"Requiert Pavillon des Béornides Niveau 3 \n Forts contre les archers. \n\n C'est après la bataille des Plaines que les ?othéod, vestiges des hommes du Nord, sont devenus un peuple distinct, habitant les vallées d'Anduin entre le Carrock et les Champs aux Iris."
+"Requiert Pavillon des Béornides Niveau 3 \n Forts contre les archers. \n\n C'est après la bataille des Plaines que les Éothéod, vestiges des hommes du Nord, sont devenus un peuple distinct, habitant les vallées d'Anduin entre le Carrock et les Champs aux Iris."
 END
 
 CONTROLBAR:LW_Unit_MirkwoodEotheodHorde
-"Bataillon de Guerriers ?otheod"
+"Bataillon de Guerriers Éotheod"
 END
 
 CONTROLBAR:LW_Unit_MirkwoodEotheodHordePlural
-"Bataillons de Guerriers ?otheod"
+"Bataillons de Guerriers Éotheod"
 END
 
 CONTROLBAR:LW_ToolTipBuild_MirkwoodEotheodHorde
@@ -33880,7 +33880,7 @@ CONTROLBAR:LW_ToolTip_MirkwoodWarriorHorde
 END
 
 CONTROLBAR:ToolTipBuildMirkwoodWarriorHordeInn
-"Maitres-épéistes. \n Forts contre l'infanterie. \n ?quipés d'armure lourde. \n Pendant la guerre de l'Anneau, les Galadhrim se joignirent aux Elfes de Thranduil pour chasser l'Ennemi de la Forêt Noire, connu par la suite sous le nom d'Eryn Lasgalen. \n Bien qu'on les aper?oive rarement au-delà des limites de leur domaine forestier, les Guerriers de la Forêt Noire forment un important remparts contre les forces du Mal."
+"Maitres-épéistes. \n Forts contre l'infanterie. \n Équipés d'armure lourde. \n Pendant la guerre de l'Anneau, les Galadhrim se joignirent aux Elfes de Thranduil pour chasser l'Ennemi de la Forêt Noire, connu par la suite sous le nom d'Eryn Lasgalen. \n Bien qu'on les aper?oive rarement au-delà des limites de leur domaine forestier, les Guerriers de la Forêt Noire forment un important remparts contre les forces du Mal."
 END
 
 CONTROLBAR:LW_ToolTipBuild_MirkwoodWarriorHorde
@@ -34082,7 +34082,7 @@ END
 
 
 /////////////////////
-// B?LIER B?ORNIDE //
+// BÉLIER BÉORNIDE //
 /////////////////////
 
 CONTROLBAR:ConstructMirkwoodBatteringRam
@@ -34220,7 +34220,7 @@ CONTROLBAR:ToolTipElvenHealGreenwood
 END
 
 CONTROLBAR:SilvanEscape
-"?vasion (&R)"
+"Évasion (&R)"
 END
 
 CONTROLBAR:ToolTipSilvanEscape
@@ -34232,7 +34232,7 @@ CONTROLBAR:ThornedBarbs
 END
 
 CONTROLBAR:ToolTipThornedBarbs
-"Requiert : Niveau 3 \n ?tourdit brièvement les unités ennemies. \n\n Clic gauche sur l'icône puis clic gauche sur la cible."
+"Requiert : Niveau 3 \n Étourdit brièvement les unités ennemies. \n\n Clic gauche sur l'icône puis clic gauche sur la cible."
 End
 
 
@@ -34438,7 +34438,7 @@ END
 
 
 //////////////////////////
-// BERSERKERS B?ORNIDES //
+// BERSERKERS BÉORNIDES //
 //////////////////////////
 
 CONTROLBAR:UrsineBlood
@@ -34704,11 +34704,11 @@ CONTROLBAR:SummonEotheodAllies
 End
 
 CONTROLBAR:ToolTipSummonEotheodAllies
-"Invoque une armée d'?otheod commandée par Frumgar, fils de Frumgar. \n\n Clic gauche sur l'icône puis clic gauche sur la zone cible."
+"Invoque une armée d'Éotheod commandée par Frumgar, fils de Frumgar. \n\n Clic gauche sur l'icône puis clic gauche sur la zone cible."
 END
 
 CONTROLBAR:ToolTipSummonEotheodAllies_WOTR
-"Invoque une armée d'?otheod. \n\n Clic gauche sur l'icône puis clic gauche sur la zone cible."
+"Invoque une armée d'Éotheod. \n\n Clic gauche sur l'icône puis clic gauche sur la zone cible."
 END
 
 
@@ -35427,7 +35427,7 @@ END
 
 
 /////////////////
-// OMBRE AIL?E //
+// OMBRE AILÉE //
 /////////////////
 
 CONTROLBAR:MordorFellBeastHotkey			
@@ -35511,7 +35511,7 @@ CONTROLBAR:GorbagDropkick
 END
 
 CONTROLBAR:ToolTipGorbagDropkick
-"Requiert : Niveau 3 \n ?tourdit et renverse les unités et les héros à proximité. \n Peut être utilisé avec la Ruse de Morgul. \n\n Clic gauche sur l'icône puis clic gauche sur la zone ciblée."
+"Requiert : Niveau 3 \n Étourdit et renverse les unités et les héros à proximité. \n Peut être utilisé avec la Ruse de Morgul. \n\n Clic gauche sur l'icône puis clic gauche sur la zone ciblée."
 END
 
 CONTROLBAR:GorbagBleedWeapon
@@ -35867,7 +35867,7 @@ END
 
 
 /////////////////
-// OMBRE AIL?E //
+// OMBRE AILÉE //
 /////////////////
 
 CONTROLBAR:ScreechSummonedFellbeasts
@@ -36394,7 +36394,7 @@ END
 
 
 ///////////////////////
-// L?GIONS DE MORGUL //
+// LÉGIONS DE MORGUL //
 ///////////////////////
 
 OBJECT:MordorMorgulOrc
@@ -36988,11 +36988,11 @@ CONTROLBAR:LW_Unit_MordorEasterlingSwordsmanPlural
 END
 
 CONTROLBAR:LW_ToolTip_MordorEasterlingSwordsman
-"\n Type d'unité : Infanterie d'?lite. \n Forts contre les piquiers."
+"\n Type d'unité : Infanterie d'Élite. \n Forts contre les piquiers."
 End
 
 CONTROLBAR:LW_ToolTipBuild_MordorEasterlingSwordsman
-"Type d'unité : Infanterie d'?lite. \n Forts contre les piquiers. \n"
+"Type d'unité : Infanterie d'Élite. \n Forts contre les piquiers. \n"
 End
 
 BANNERUI:MordorEasterlingSwordsman
@@ -37136,7 +37136,7 @@ END
 
 
 ////////////
-// B?LIER //
+// BÉLIER //
 ////////////
 
 CONTROLBAR:ConstructMordorBatteringRam
@@ -37342,7 +37342,7 @@ END
 //=============== 18.6 POUVOIRS DES UNITÉS DU MORDOR ==========
 
 ///////////////////////
-// L?GIONS DE MORGUL //
+// LÉGIONS DE MORGUL //
 ///////////////////////
 
 CONTROLBAR:Bloodthirsty
@@ -37664,7 +37664,7 @@ CONTROLBAR:SummonHaradrimRaiders
 END
 
 CONTROLBAR:TooltipSummonHaradrimRaiders
-"Invoque trois bataillons de Pillards Haradrim sur le champ de bataille. \n Le seigneur d'Abrakhân du Harad, allié de Sauron, entretient ces brigands des tribus Haradrim. Il les paye au prix fort pour servir d'éclaireurs et lancer des raids aussi bien dans le désert que dans la savane. \n Permet de débloquer l'enclôt à Mûmakil, les Cataphractaires et les ?péistes Orientaux dans le Palais Oriental. \n\n Clic gauche sur l'icône puis clic gauche sur la zone cible."
+"Invoque trois bataillons de Pillards Haradrim sur le champ de bataille. \n Le seigneur d'Abrakhân du Harad, allié de Sauron, entretient ces brigands des tribus Haradrim. Il les paye au prix fort pour servir d'éclaireurs et lancer des raids aussi bien dans le désert que dans la savane. \n Permet de débloquer l'enclôt à Mûmakil, les Cataphractaires et les Épéistes Orientaux dans le Palais Oriental. \n\n Clic gauche sur l'icône puis clic gauche sur la zone cible."
 END
 
 
@@ -37904,7 +37904,7 @@ OBJECT:HordeMordorEasterlingEasterlingCombo
 END
 
 OBJECT:HordeMordorEasterlingEasterlingCombo3
-"Phalanges Orientaux - ?péistes Orientaux"
+"Phalanges Orientaux - Épéistes Orientaux"
 END
 
 OBJECT:HordeMordorEasterlingEasterlingCombo2
@@ -37920,11 +37920,11 @@ CONTROLBAR:LW_ToolTip_MordorEasterlingEasterlingHorde
 END
 
 CONTROLBAR:LW_Unit_MordorEasterlingEasterlingSwordHorde
-"Piquiers Orientaux - ?péistes Orientaux"
+"Piquiers Orientaux - Épéistes Orientaux"
 END
 
 CONTROLBAR:LW_Unit_MordorEasterlingEasterlingSwordHordePlural
-"Piquiers Orientaux - ?péistes Orientaux"
+"Piquiers Orientaux - Épéistes Orientaux"
 END
 
 CONTROLBAR:LW_ToolTip_MordorEasterlingEasterlingSwordHorde
@@ -37932,11 +37932,11 @@ CONTROLBAR:LW_ToolTip_MordorEasterlingEasterlingSwordHorde
 END
 
 CONTROLBAR:LW_Unit_MordorEasterlingArcherEasterlingSwordHorde
-"Archers Orientaux - ?péistes Orientaux"
+"Archers Orientaux - Épéistes Orientaux"
 END
 
 CONTROLBAR:LW_Unit_MordorEasterlingArcherEasterlingSwordHordePlural
-"Archers Orientaux - ?péistes Orientaux"
+"Archers Orientaux - Épéistes Orientaux"
 END
 
 CONTROLBAR:LW_ToolTip_EasterlingArcherEasterlingSwordHorde
@@ -38464,7 +38464,7 @@ Upgrade:FortressOrcfireMunitions
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeIsengardFortressOrcfireMunitions
-"?quipe les tours défensives de Flèches enflammées."
+"Équipe les tours défensives de Flèches enflammées."
 END
 
 CONTROLBAR:PurchaseUpgradeIsengardFortressIronPlating
@@ -38546,7 +38546,7 @@ CONTROLBAR:SpecialAbilityIsengardFocusSiege
 END
 
 CONTROLBAR:ToolTipSpecialAbilityIsengardFocusSiege
-"Sélectionner pour l'activer. \n Donne un bonus aux ?quipements de Siège de +30% de dégâts et +5% de vitesse. \n Réduit le coût de recrutement de 15%."
+"Sélectionner pour l'activer. \n Donne un bonus aux Équipements de Siège de +30% de dégâts et +5% de vitesse. \n Réduit le coût de recrutement de 15%."
 END
 
 CONTROLBAR:SpecialAbilityIsengardFocusForge
@@ -38824,7 +38824,7 @@ END
 ///////////////////////
 
 CONTROLBAR:Escape
-"?vasion (&W)"
+"Évasion (&W)"
 END
 
 CONTROLBAR:TooltipEscape
@@ -39098,7 +39098,7 @@ CONTROLBAR:ToolTipSpecialAbilitySarumanFireball
 END
 
 CONTROLBAR:SpeechCraft
-"?loquence (&T)"
+"Éloquence (&T)"
 END
 
 CONTROLBAR:ToolTipSpeechCraft
@@ -39463,7 +39463,7 @@ CONTROLBAR:TooltipUpgradeIsengardUrukPitLevel2
 End
 
 CONTROLBAR:TooltipUpgradeIsengardUrukPitLevel3
-"Permet de recruter les ?ventreurs Uruk. \n Vitesse de construction +25%."
+"Permet de recruter les Éventreurs Uruk. \n Vitesse de construction +25%."
 End
 
 CONTROLBAR:TooltipUpgradeIsengardUrukPitLevel3_WOTR
@@ -39837,7 +39837,7 @@ CONTROLBAR:ConstructIsengardUrukHai
 END
 
 CONTROLBAR:ToolTipBuildIsengardUrukHai
-"Requiert : Puits à Uruk Niveau 2 \n La majeure partie des forces de l'Isengard est constituée de légions de Guerriers Uruk-Ha?, la plus dangereuse race d'Orques à dévaster la Terre du Milieu. ?quipés grâce aux forges de l'Isengard, ils manient des cimeterres affûtés en acier trempé et sont engoncés dans des armures en acier. \n\n Peuvent changer de formation pour améliorer leurs défenses. \n\n Forts contre les piquiers."
+"Requiert : Puits à Uruk Niveau 2 \n La majeure partie des forces de l'Isengard est constituée de légions de Guerriers Uruk-Ha?, la plus dangereuse race d'Orques à dévaster la Terre du Milieu. Équipés grâce aux forges de l'Isengard, ils manient des cimeterres affûtés en acier trempé et sont engoncés dans des armures en acier. \n\n Peuvent changer de formation pour améliorer leurs défenses. \n\n Forts contre les piquiers."
 END
 
 OBJECT:IsengardFighter
@@ -39875,7 +39875,7 @@ END
 
 
 ///////////////////////
-// ARBAL?TRIERS URUK //
+// ARBALÉTRIERS URUK //
 ///////////////////////
 
 CONTROLBAR:ConstructIsengardCrossbowmen
@@ -40077,11 +40077,11 @@ END
 
 
 /////////////////////
-// ?VENTREURS URUK //
+// ÉVENTREURS URUK //
 /////////////////////
 
 CONTROLBAR:ConstructIsengardManSlayerHorde
-"?ventreurs Uruk (&G)"
+"Éventreurs Uruk (&G)"
 END
 
 CONTROLBAR:ToolTipBuildIsengardManSlayerHorde
@@ -40089,19 +40089,19 @@ CONTROLBAR:ToolTipBuildIsengardManSlayerHorde
 END
 
 OBJECT:IsengardManSlayer
-"?ventreur Uruk"
+"Éventreur Uruk"
 END
 
 OBJECT:HordeIsengardManSlayer
-"?ventreurs Uruk"
+"Éventreurs Uruk"
 END
 
 CONTROLBAR:LW_Unit_IsengardManSlayerHorde
-"Bataillon d'?ventreurs Uruk"
+"Bataillon d'Éventreurs Uruk"
 END
 
 CONTROLBAR:LW_Unit_IsengardManSlayerHordePlural
-"Bataillons d'?ventreurs Uruk"
+"Bataillons d'Éventreurs Uruk"
 END
 
 CONTROLBAR:LW_ToolTip_IsengardManSlayerHorde
@@ -40491,7 +40491,7 @@ END
 
 
 ////////////
-// B?LIER //
+// BÉLIER //
 ////////////
 
 CONTROLBAR:ConstructIsengardBatteringRam
@@ -40649,11 +40649,11 @@ CONTROLBAR:ToolTipLightTorch
 END
 
 CONTROLBAR:ExtinguishTorch
-"?teindre la torche (&W)"
+"Éteindre la torche (&W)"
 END
 
 CONTROLBAR:ToolTipExtinguishTorch
-"?teint la torche. \n\n Clic gauche pour l'activer."
+"Éteint la torche. \n\n Clic gauche pour l'activer."
 END
 
 TOOLTIP:Mansblood
@@ -40673,19 +40673,19 @@ CONTROLBAR:ToolTipPurchaseUpgradeMansblood
 END
 
 TOOLTIP:ThickSkin
-"Peau ?paisse"
+"Peau Épaisse"
 END
 
 UPGRADE:ThickSkin
-"Peau ?paisse"
+"Peau Épaisse"
 END
 
 CONTROLBAR:PurchaseUpgradeThickSkin
-"Acheter Peau ?paisse (&T)"
+"Acheter Peau Épaisse (&T)"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeThickSkin
-"Une longue exposition au châtiment entra?ne une Peau ?paisse. \n Octroie +33% d'armure au Berserker Uruk."
+"Une longue exposition au châtiment entra?ne une Peau Épaisse. \n Octroie +33% d'armure au Berserker Uruk."
 END
 
 TOOLTIP:IronFist
@@ -40707,7 +40707,7 @@ END
 
 
 /////////////////////
-// ?VENTREURS URUK //
+// ÉVENTREURS URUK //
 /////////////////////
 
 CONTROLBAR:FanaticStoneWall
@@ -40715,7 +40715,7 @@ CONTROLBAR:FanaticStoneWall
 END
 
 CONTROLBAR:ToolTipFanaticStoneWall
-"Prêts à faire face aux charges de la cavalerie, les ?ventreurs Uruk sont résistants au renversement. \n\n Capacité passive."
+"Prêts à faire face aux charges de la cavalerie, les Éventreurs Uruk sont résistants au renversement. \n\n Capacité passive."
 END
 
 CONTROLBAR:FanaticDeathWish
@@ -40723,7 +40723,7 @@ CONTROLBAR:FanaticDeathWish
 END
 
 CONTROLBAR:ToolTipFanaticDeathWish
-"Requiert : Niveau 4 \n ?xaltés par l'odeur du sang et de la chair humaine, les ?ventreurs Uruk redoublent de fureur dans la bataille, au péril de leur propre sécurité. \n Les ?ventreurs gagnent +150% de dégâts mais subissent -33% d'armure. \n\n Clic gauche pour l'activer."
+"Requiert : Niveau 4 \n Éxaltés par l'odeur du sang et de la chair humaine, les Éventreurs Uruk redoublent de fureur dans la bataille, au péril de leur propre sécurité. \n Les Éventreurs gagnent +150% de dégâts mais subissent -33% d'armure. \n\n Clic gauche pour l'activer."
 END
 
 CONTROLBAR:ScourgeofMan
@@ -40731,7 +40731,7 @@ CONTROLBAR:ScourgeofMan
 END
 
 CONTROLBAR:ToolTipScourgeofMan
-"Requiert : Niveau 7 \n Beaucoup plus voraces que les autres Uruks, les ?ventreurs sont des machines à dévorer dégénérées qui se complaisent dans les tueries et la dégustation de leurs victimes. \n Les ?ventreurs gagnent autant de santé que de dégâts infligés à leurs ennemis ainsi +33% de vitesse de déplacement. \n\n Capacité passive. \n Lorsqu'il est activé, les tueurs d'hommes gagnent temporairement +33% de vitesse de déplacement. \n Clic gauche pour l'activer."
+"Requiert : Niveau 7 \n Beaucoup plus voraces que les autres Uruks, les Éventreurs sont des machines à dévorer dégénérées qui se complaisent dans les tueries et la dégustation de leurs victimes. \n Les Éventreurs gagnent autant de santé que de dégâts infligés à leurs ennemis ainsi +33% de vitesse de déplacement. \n\n Capacité passive. \n Lorsqu'il est activé, les tueurs d'hommes gagnent temporairement +33% de vitesse de déplacement. \n Clic gauche pour l'activer."
 END
 
 
@@ -43536,7 +43536,7 @@ END
 
 
 ////////////////////
-// DRAGON INVOQU? //
+// DRAGON INVOQUÉ //
 ////////////////////
 
 OBJECT:SummonedDragon
@@ -43920,7 +43920,7 @@ END
 
 
 ////////////////////
-// DRAGON INVOQU? //
+// DRAGON INVOQUÉ //
 ////////////////////
 
 CONTROLBAR:SpecialAbilitySummonedDragonReposition
@@ -43952,11 +43952,11 @@ CONTROLBAR:FROZENLAND
 End
 
 CONTROLBAR:TooltipFrozenLand
-"Gèle temporairement une zone du terrain. \n Type d'Action: Charisme et Sort. \n Toutes les unités alliées gagnent +33% de dégâts, +33% d'armure et gagnent de l'expérience 50% plus rapidement (bonus cumulable). \n Les unités ennemies subissent -33% de vitesse. \n ?teint tous les incendies. \n Clic gauche sur l'icône puis clic gauche sur la zone cible."
+"Gèle temporairement une zone du terrain. \n Type d'Action: Charisme et Sort. \n Toutes les unités alliées gagnent +33% de dégâts, +33% d'armure et gagnent de l'expérience 50% plus rapidement (bonus cumulable). \n Les unités ennemies subissent -33% de vitesse. \n Éteint tous les incendies. \n Clic gauche sur l'icône puis clic gauche sur la zone cible."
 End
 
 CONTROLBAR:TooltipFrozenLandAotR
-"Gèle temporairement une zone du terrain. \n Type d'Action: Charisme et Sort. \n Toutes les unités alliées gagnent +25% de dégâts, +25% d'armure et gagnent de l'expérience 50% plus rapidement (bonus cumulable). \n Les unités ennemies subissent -25% de vitesse. \n ?teint tous les incendies. \n Clic gauche sur l'icône puis clic gauche sur la zone cible."
+"Gèle temporairement une zone du terrain. \n Type d'Action: Charisme et Sort. \n Toutes les unités alliées gagnent +25% de dégâts, +25% d'armure et gagnent de l'expérience 50% plus rapidement (bonus cumulable). \n Les unités ennemies subissent -25% de vitesse. \n Éteint tous les incendies. \n Clic gauche sur l'icône puis clic gauche sur la zone cible."
 End
 
 
@@ -44343,7 +44343,7 @@ END
 //=============== 21.2 HÉROS DE DOL GULDUR ====================
 
 /////////////////////
-// THRAIN LE BRIS? //
+// THRAIN LE BRISÉ //
 /////////////////////
 
 CONTROLBAR:GuldurThrainHotKey
@@ -44493,7 +44493,7 @@ END
 //=============== 21.3 POUVOIRS DES HÉROS DE DOL GULDUR =======
 
 /////////////////////
-// THRAIN LE BRIS? //
+// THRAIN LE BRISÉ //
 /////////////////////
 
 CONTROLBAR:ThrainDiminished
@@ -44609,7 +44609,7 @@ CONTROLBAR:ToolTipCargastSpell
 END
 
 CONTROLBAR:CargastDarkAwakening
-"?veil Noir (&V)"
+"Éveil Noir (&V)"
 END
 
 CONTROLBAR:ToolTipCargastDarkAwakening
@@ -44705,7 +44705,7 @@ CONTROLBAR:BlackEasterling
 END
 
 CONTROLBAR:ToolTipBlackEasterling
-"Requiert : Niveau 5 \n Invoque deux unités de Niveau 2 d'Orientaux ?péistes."
+"Requiert : Niveau 5 \n Invoque deux unités de Niveau 2 d'Orientaux Épéistes."
 END
 
 
@@ -45197,7 +45197,7 @@ END
 
 
 ////////////////////////
-// TRAPPEURS SOUILL?S //
+// TRAPPEURS SOUILLÉS //
 ////////////////////////
 
 CONTROLBAR:ConstructGuldurWoodsmenHorde
@@ -45277,7 +45277,7 @@ END
 
 
 ////////////
-// BRIS?S //
+// BRISÉS //
 ////////////
 
 OBJECT:GuldurBrokenRabble
@@ -45503,7 +45503,7 @@ END
 
 
 /////////////////
-// VILE COUV?E //
+// VILE COUVÉE //
 /////////////////
 
 CONTROLBAR:ConstructGuldurFellBroodHorde
@@ -45787,7 +45787,7 @@ END
 
 
 ////////////////////////
-// TRAPPEURS SOUILL?S //
+// TRAPPEURS SOUILLÉS //
 ////////////////////////
 
 CONTROLBAR:Inoculation
@@ -45807,7 +45807,7 @@ CONTROLBAR:ToolTipGuldurNoxiousDarts
 End
 
 CONTROLBAR:GuldurParasiticEmbrace
-"?treinte Parasite (&T)"
+"Étreinte Parasite (&T)"
 END
 
 CONTROLBAR:ToolTipGuldurParasiticEmbrace
@@ -45835,7 +45835,7 @@ END
 
 
 ////////////
-// BRIS?S //
+// BRISÉS //
 ////////////
 
 CONTROLBAR:GuldurDrain
@@ -45847,7 +45847,7 @@ CONTROLBAR:ToolTipGuldurDrain
 END
 
 CONTROLBAR:EternalServitude
-"Servitude ?ternelle"
+"Servitude Éternelle"
 END
 
 CONTROLBAR:ToolTipEternalServitude
@@ -45929,7 +45929,7 @@ END
 
 
 /////////////////
-// VILE COUV?E //
+// VILE COUVÉE //
 /////////////////
 
 CONTROLBAR:ChitteringSwarm
@@ -46449,7 +46449,7 @@ CONTROLBAR:BurningSands
 End
 
 CONTROLBAR:TooltipBurningSands
-"Appelle un rayon de soleil ardent pour brûler le \nchamp de bataille. ?tourdit les créatures sensibles à la lumière. \n Clic gauche sur l'icône puis clic gauche sur la zone cible"
+"Appelle un rayon de soleil ardent pour brûler le \nchamp de bataille. Étourdit les créatures sensibles à la lumière. \n Clic gauche sur l'icône puis clic gauche sur la zone cible"
 END
 
 CONTROLBAR:Aicanaroc
@@ -48401,12 +48401,12 @@ APT:MultiplayerMaps
 END
 
 APT:GameMode
-// Contexte : ?tiquette "Mode de jeu" dans l'écran Quickmatch
+// Contexte : Étiquette "Mode de jeu" dans l'écran Quickmatch
 "GAME MODE"
 END
 
 APT:MapType
-// Contexte : ?tiquette dans l'écran de jeu hôte
+// Contexte : Étiquette dans l'écran de jeu hôte
 "MAP TYPE"
 END
 
@@ -49476,7 +49476,7 @@ END
 
 GUI:LocaleSelect
 // Contexte : Bo?te de dialogue contextuelle de sélection de paramètres régionaux en ligne. (Locale au sens de Pays)
-"S?LECTIONNEZ VOTRE PAYS"
+"SÉLECTIONNEZ VOTRE PAYS"
 END
 
 GUI:Command&ConquerGenerals
@@ -50342,7 +50342,7 @@ GUI:InsertCDMessage
 END
 
 GUI:Credits
-// Contexte : ?tiquette de bouton sur l'écran principal qui amène l'utilisateur au générique
+// Contexte : Étiquette de bouton sur l'écran principal qui amène l'utilisateur au générique
 "CREDITS"
 END
 
@@ -50397,7 +50397,7 @@ GUI:Progress
 END
 
 GUI:Rank
-// Contexte : ?tiquette pour l'icône de rang
+// Contexte : Étiquette pour l'icône de rang
 "Rang"
 END
 
@@ -50408,7 +50408,7 @@ END
 
 
 GUI:TotalBuddys
-// Contexte : ?tiquette pour le total des copains
+// Contexte : Étiquette pour le total des copains
 "Total amis"
 END
 
@@ -50433,27 +50433,27 @@ GUI:BuildingsLostStat
 END
 
 GUI:TotalBuilt
-// Contexte : ?tiquette pour le nombre total de constructions
+// Contexte : Étiquette pour le nombre total de constructions
 "Total constructions"
 END
 
 GUI:TotalDeaths
-// Contexte : ?tiquette pour le nombre total de morts
+// Contexte : Étiquette pour le nombre total de morts
 "Total morts"
 END
 
 GUI:TotalKills
-// Contexte : ?tiquette pour le nombre total de victimes
+// Contexte : Étiquette pour le nombre total de victimes
 "Total de victimes"
 END
 
 GUI:FavoriteUnit
-// Contexte : ?tiquette de l'unité préférée du joueur
+// Contexte : Étiquette de l'unité préférée du joueur
 "Unitée préférée"
 END
 
 GUI:FavoriteSide
-// Contexte : ?tiquette pour l'armée favorite que le joueur utilise
+// Contexte : Étiquette pour l'armée favorite que le joueur utilise
 "Camp préféré"
 END
 
@@ -50627,7 +50627,7 @@ END
 
 GUI:WidenSearch
 // Contexte : Match rapide - Le serveur de match rapide effectue une recherche plus large d'adversaires.
-"?LARGIR LA RECHERCHE"
+"ÉLARGIR LA RECHERCHE"
 END
 
 GUI:QMAborted
@@ -51856,7 +51856,7 @@ END
 
 QM:WIDENINGSEARCH
 // Contexte : le bots match rapide fait une recherche plus large de joueurs
-"?largir la recherche d'adversaires les plus proches de vos préférences..."
+"Élargir la recherche d'adversaires les plus proches de vos préférences..."
 END
 
 QM:MATCHED
@@ -53060,7 +53060,7 @@ TOOLTIP:playersonline
 END
 
 TOOLTIP:WidenSearch
-// Contexte : ?largit la recherche QM.
+// Contexte : Élargit la recherche QM.
 "Cliquez pour élargir les critères de recherche de votre adversaire. Plus vos critères sont précis, plus il peut être difficile de trouver un adversaire"
 END
 
@@ -54810,7 +54810,7 @@ END
 
 CONTROLBAR:ObsPlayerLabel
 // Contexte : nom du joueur/texte de l'équipe sur la barre de contrôle de l'observateur
-"%ls (?quipe %ls)"
+"%ls (Équipe %ls)"
 END
 
 CONTROLBAR:ObserveNextPlayer
@@ -56627,7 +56627,7 @@ SCRIPT:MBTutorial_Objective02
 End
 
 SCRIPT:MBTutorial_Objective03
-"?liminez tous les gobelins dans les camps restants."
+"Éliminez tous les gobelins dans les camps restants."
 End
 
 SCRIPT:MBTutorial_Objective04
@@ -56982,7 +56982,7 @@ SCRIPT:MATutorial_Objective01
 End
 
 SCRIPT:MATutorial_Objective02
-"?mettre un ordre de prévisualisation de formation à une armée."
+"Émettre un ordre de prévisualisation de formation à une armée."
 End
 
 SCRIPT:MATutorial_Objective03
@@ -59924,7 +59924,7 @@ CONTROLBAR:PosternGateUpgrade
 END
 
 CONTROLBAR:FlagsUpgrade
-"Construire amélioration ?tendards"
+"Construire amélioration Étendards"
 END
 
 CONTROLBAR:ToolTipFlagsUpgrade
@@ -60451,7 +60451,7 @@ END
 // UNITES ELFES
 
 CONTROLBAR:ToolTipBuildElvenWarriorHorde
-"Requiert : Archerie niveau 2\n Forts à l'Arc et à l'?pée"
+"Requiert : Archerie niveau 2\n Forts à l'Arc et à l'Épée"
 END
 
 CONTROLBAR:ToolTipToggleEMirkwoodArcherLineToAmbushFormation
@@ -61001,7 +61001,7 @@ CONTROLBAR:ToolTipBuildGondorBattleTower
 END
 
 CONTROLBAR:DarkEloquence
-"?loquence Sombre (&T)"
+"Éloquence Sombre (&T)"
 END
 
 CONTROLBAR:Disguise
@@ -62670,7 +62670,7 @@ LW:Good_Lothlorien
 END
 
 LW:Good_Rohan_One
-"Sélectionnez l'armée d'?omer et défendez une région du Rohan."
+"Sélectionnez l'armée d'Éomer et défendez une région du Rohan."
 END
 
 LW:Good_Amon_Hen
@@ -62678,11 +62678,11 @@ LW:Good_Amon_Hen
 END
 
 LW:Good_Rohan_Two
-"Sélectionnez l'armée d'?omer et défendez une région du Rohan."
+"Sélectionnez l'armée d'Éomer et défendez une région du Rohan."
 END
 
 LW:Good_Rohan_Three
-"Ordonnez à l'armée d'?omer d'attaquer."
+"Ordonnez à l'armée d'Éomer d'attaquer."
 END
 
 LW:Good_Fangorn
@@ -62690,7 +62690,7 @@ LW:Good_Fangorn
 END
 
 LW:Good_Rohan
-"Ordonnez à l'armée d'?omer d'attaquer."
+"Ordonnez à l'armée d'Éomer d'attaquer."
 END
 
 LW:Good_Helms_Deep
@@ -62821,7 +62821,7 @@ LW:AttackRepelledItemText
 End
 
 LW:AllyDefeatedTitle
-"JOUEUR ALLI? ?LIMIÉ !"
+"JOUEUR ALLIÉ ÉLIMIÉ !"
 End
 
 LW:AllyDefeatedText
@@ -62829,7 +62829,7 @@ LW:AllyDefeatedText
 End
 
 LW:EnemyDefeatedTitle
-"JOUEUR ENNEMI ?LIMIÉ !"
+"JOUEUR ENNEMI ÉLIMIÉ !"
 End
 
 LW:EnemyDefeatedText
@@ -62837,7 +62837,7 @@ LW:EnemyDefeatedText
 End
 
 LW:UnifiedRegionTitle
-"RÉGION UNIFI?E !"
+"RÉGION UNIFIÉE !"
 End
 
 LW:UnifiedRegionText
@@ -62845,7 +62845,7 @@ LW:UnifiedRegionText
 End
 
 LW:HeroCutOffTitle
-"ARMÉE HÉROS ÉcHOU?E !"
+"ARMÉE HÉROS ÉcHOUÉE !"
 End
 
 LW:HeroCutOffTextNearest
@@ -63316,7 +63316,7 @@ WOTRSCRIPT:WOTR_Tutorial096subtitle
 END
 
 WOTRSCRIPT:WOTR_Tutorial098subtitle
-"?tant donné qu'une de vos armées de Héros a été vaincue au combat, vous devez retirer cette armée vers un territoire ami pour récupérer. Seuls les chefs de l'armée Héros survivent à une bataille perdue et ont la capacité de battre en retraite."
+"Étant donné qu'une de vos armées de Héros a été vaincue au combat, vous devez retirer cette armée vers un territoire ami pour récupérer. Seuls les chefs de l'armée Héros survivent à une bataille perdue et ont la capacité de battre en retraite."
 END
 
 WOTRSCRIPT:WOTR_Tutorial100subtitle
@@ -64109,7 +64109,7 @@ CONTROLBAR:LW_Unit_GondorFighterArcherHordePlural
 END
 
 CONTROLBAR:LW_ToolTip_GondorFighterArcherHorde
-"Type d'unité : Infanterie d'?lite et Archers d'?lite\n Fort contre les piquiers et l'infanterie\n"
+"Type d'unité : Infanterie d'Élite et Archers d'Élite\n Fort contre les piquiers et l'infanterie\n"
 END
 
 OBJECT:HordeGondorSpearmenArcherCombo
@@ -64304,39 +64304,39 @@ BONUSROUND:YEOMANARCHERS4
 END
 
 BONUSROUND:EOMER2
-"Bonus : faites passer ?omer au niveau 2."
+"Bonus : faites passer Éomer au niveau 2."
 END
 
 BONUSROUND:EOMER3
-"Bonus : faites passer ?omer au niveau 3."
+"Bonus : faites passer Éomer au niveau 3."
 END
 
 BONUSROUND:EOMER4
-"Bonus : faites passer ?omer au niveau 4."
+"Bonus : faites passer Éomer au niveau 4."
 END
 
 BONUSROUND:EOMER5
-"Bonus : faites passer ?omer au niveau 5."
+"Bonus : faites passer Éomer au niveau 5."
 END
 
 BONUSROUND:EOMER6
-"Bonus : faites passer ?omer au niveau 6."
+"Bonus : faites passer Éomer au niveau 6."
 END
 
 BONUSROUND:EOMER7
-"Bonus : faites passer ?omer au niveau 7."
+"Bonus : faites passer Éomer au niveau 7."
 END
 
 BONUSROUND:EOMER8
-"Bonus : faites passer ?omer au niveau 8."
+"Bonus : faites passer Éomer au niveau 8."
 END
 
 BONUSROUND:EOMER9
-"Bonus : faites passer ?omer au niveau 9."
+"Bonus : faites passer Éomer au niveau 9."
 END
 
 BONUSROUND:EOMER10
-"Bonus : faites passer ?omer au niveau 10."
+"Bonus : faites passer Éomer au niveau 10."
 END
 
 BONUSROUND:URUKHAIBATTALIONS2
@@ -64931,7 +64931,7 @@ BONUSROUND:SPSEVILFANGORNGATHER
 END
 
 
-//TROU?E DU ROHAN
+//TROUÉE DU ROHAN
 BONUSROUND:SPSEVILGAPOFROHANDESTORY
 "Bonus : Détruisez les camps de réfugiés."
 END
@@ -65942,7 +65942,7 @@ CONTROLBAR:LW_ToolTip_Faramir
 END
 
 CONTROLBAR:LW_Hero_Eomer
-"?omer"
+"Éomer"
 END
 
 CONTROLBAR:LW_ToolTipBuild_Eomer
@@ -66498,7 +66498,7 @@ APT:StrategicBattlePromptYourTeam
 END
 
 APT:StrategicBattlePromptEnemyTeam
-"?quipe ennemie"
+"Équipe ennemie"
 END
 
 APT:StrategicBattlePromptPrompt
@@ -66545,7 +66545,7 @@ APT:StrategicDynamicAutoResolvePlayerSurvived
 END
 
 APT:StrategicDynamicAutoResolvePlayerEliminated
-"?liminé"
+"Éliminé"
 END
 
 APT:StrategicDynamicAutoResolveReinforcements
@@ -66711,7 +66711,7 @@ APT:PlayerStatusYourTeam
 END
 
 APT:PlayerStatusEnemyTeam
-"?quipe ennemie"
+"Équipe ennemie"
 END
 
 APT:Allies
@@ -66759,7 +66759,7 @@ APT:ScenarioFiction
 END
 
 
-////// WOTR ?léments de la liste de contrôle //////
+////// WOTR Éléments de la liste de contrôle //////
 
 STRATEGICHUD:ResolveBattleChecklistItem
 "Combattez dans %s."
@@ -67720,7 +67720,7 @@ OBJECT:Bagend
 End
 
 OBJECT:Banner
-"?tendard"
+"Étendard"
 End
 
 OBJECT:HoleGun
@@ -70402,7 +70402,7 @@ DIALOGEVENT:MEShire_Hobb004subtitle
 END
 
 DIALOGEVENT:MEShire_OffG003subtitle
-"*Ah, les constructeurs sont là. ?levons cette forteresse !"
+"*Ah, les constructeurs sont là. Élevons cette forteresse !"
 END
 
 DIALOGEVENT:MEShire_OffG004subtitle
@@ -77284,7 +77284,7 @@ OBJECT:ForBuilding
 END
 
 OBJECT:ForGov
-"?difice du gouvernement"
+"Édifice du gouvernement"
 END
 
 OBJECT:ForSpire
@@ -79765,7 +79765,7 @@ CONTROLBAR:LW_Unit_RohanWArcherHordePlural
 END
 
 CONTROLBAR:LW_ToolTip_RohanWArcherHorde
-"Type d'Unité : Archers standards et Infanterie d'?lite \n Forts contre l'Infanterie et les Archers"
+"Type d'Unité : Archers standards et Infanterie d'Élite \n Forts contre l'Infanterie et les Archers"
 END
 
 BANNERUI:RohanWestfolder
