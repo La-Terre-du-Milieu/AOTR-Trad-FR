@@ -24,14 +24,14 @@ END
 //=============================================================
 //=============================================================
 
-//	#01 - CONFIGURATIONS G?N?RALES
-//			>> 1.1	CARACTû?RES ASSIGN?S
+//	#01 - CONFIGURATIONS GÉNÉRALES
+//			>> 1.1	CARACTÈRES ASSIGÉS
 //			>> 1.2	DATE / TIME
-//			>> 1.3	D?TERMINATION DES COULEURS
-//			>> 1.4	NUM?RO ?QUIPES
+//			>> 1.3	DÉTERMINATION DES COULEURS
+//			>> 1.4	NUMÉRO ?QUIPES
 //			>> 1.5 	MESSAGES TEST
 //			>> 1.6 	INSTALLATION
-//			>> 1.7 	TEXTES G?N?RAUX
+//			>> 1.7 	TEXTES GÉNÉRAUX
 //	#02 - MENUS DU JEU
 //			>> 2.1	MENU PRINCIPAL
 //			>> 2.2	MENU / PAUSE LORS D'UNE PARTIE
@@ -39,11 +39,11 @@ END
 //	#03 - MULTIJOUEUR
 //	#04 - REDIFFUSIONS
 //	#05 - OPTIONS DU JEU
-//			>> 5.1	PARAM?TRES
-//			>> 5.2	PARAM?TRES PERSONNALIS?S
-//	#06 - G?N?RIQUES
+//			>> 5.1	PARAMÈTRES
+//			>> 5.2	PARAMÈTRES PERSONNALIS?S
+//	#06 - GÉNÉRIQUES
 //	#07 - CR?ER UN HÉROS
-//			>> 7.1	FEN?TRE EXPLICATIF
+//			>> 7.1	FENÈTRE EXPLICATIF
 //			>> 7.2	TEXTES DE CR?ATIONS
 //			>> 7.3	STATISTIQUES DU HÉROS
 //			>> 7.4	RÉcOMPENSES DU HÉROS
@@ -54,7 +54,7 @@ END
 //			>> 7.9	TRADUCTIONS POUVOIRS IN GAME
 //			>> 7.10	RACCOURCIS POUVOIRS IN GAME
 //	#08 - GUERRE DE L'ANNEAU
-//			>> 8.1	FEN?TRE EXPLICATIF
+//			>> 8.1	FENÈTRE EXPLICATIF
 //			>> 8.2	TEXTES WOTR
 //			>> 8.3	SC?NARIOS WOTR
 //			>> 8.4	R?GIONS WOTR
@@ -68,7 +68,7 @@ END
 //			>> 9.6	OBJECTIFS DES CAMPAGNES DU HOBBIT
 //			>> 9.7	OBJETS DES CAMPAGNES DU HOBBIT
 //	#10 - TRADUCTIONS DU JEU
-//			>> 10.1		ANGLES DE CAM?RAS
+//			>> 10.1		ANGLES DE CAMÉRAS
 //			>> 10.2		RACCOURCIS
 //			>> 10.3		MENU PAUSE
 //			>> 10.4		MENU DES POUVOIRS
@@ -194,13 +194,13 @@ END
 //=============================================================
 //=============================================================
 //=====													  =====
-//=====		    #01 - CONFIGURATIONS G?N?RALES			  =====
+//=====		    #01 - CONFIGURATIONS GÉNÉRALES			  =====
 //=====													  =====
 //=============================================================
 //=============================================================
 
 
-//=============== 1.1 CARACTû?RES ASSIGN?S =====================
+//=============== 1.1 CARACTÈRES ASSIGÉS =====================
 
 // Contexte :  NE PAS TRADUIRE
 
@@ -307,7 +307,7 @@ END
 
 
 
-//=============== 1.3 D?TERMINATION DES COULEURS ==============
+//=============== 1.3 DÉTERMINATION DES COULEURS ==============
 
 // Contexte : Liste déroulante lors d'une partie multijoueur ou escarmouche pour choisir 
 // la couleur des factions
@@ -362,7 +362,7 @@ END
 
 
 
-//=============== 1.4 NUM?RO ?QUIPES ==========================
+//=============== 1.4 NUMÉRO ?QUIPES ==========================
 
 Team:0
 "-"
@@ -412,7 +412,7 @@ END
 
 
 
-//=============== 1.7 TEXTES G?N?RAUX =========================
+//=============== 1.7 TEXTES GÉNÉRAUX =========================
 
 APT:ConfirmationOk
 "OK"
@@ -563,7 +563,7 @@ END
 
 
 APT:DONE
-"TERMIN?"
+"TERMIÉ"
 END
 
 GUI:CloseExpScreen
@@ -770,7 +770,7 @@ APT:Options
 END
 
 APT:Settings
-"PARAM?TRES"
+"PARAMÈTRES"
 END
 
 ToolTip:OpeningMenu/CreditsButton
@@ -778,7 +778,7 @@ ToolTip:OpeningMenu/CreditsButton
 END
 
 APT:AdvancedSettings
-"PARAM?TRES PERSONNALIS?S"
+"PARAMÈTRES PERSONNALIS?S"
 END
 
 ToolTip:OpeningMenu/CustomSettingsButton
@@ -786,7 +786,7 @@ ToolTip:OpeningMenu/CustomSettingsButton
 END
 
 APT:Credits
-"G?N?RIQUE"
+"GÉNÉRIQUE"
 END
 
 ToolTip:OpeningMenu/SettingsButton
@@ -1782,7 +1782,7 @@ END
 //=============================================================
 
 
-//=============== 5.1 PARAM?TRES ==============================
+//=============== 5.1 PARAMÈTRES ==============================
 
 APT:DisplayOptions
 "Options d'affichage"
@@ -1975,7 +1975,7 @@ END
 
 
 
-//=============== 5.2 PARAM?TRES PERSONNALIS?S ================
+//=============== 5.2 PARAMÈTRES PERSONNALIS?S ================
 
 /////////////
 // Valeurs //
@@ -2246,7 +2246,7 @@ END
 //=============================================================
 //=============================================================
 //=====													  =====
-//=====		    #06 - G?N?RIQUES						  =====
+//=====		    #06 - GÉNÉRIQUES						  =====
 //=====													  =====
 //=============================================================
 //=============================================================
@@ -3114,7 +3114,7 @@ CREDITS:Design
 END
 
 CREDITS:Engineering
-"ING?NIERIE"
+"INGÉNNIERIE"
 END
 
 CREDITS:Art
@@ -3654,7 +3654,7 @@ END
 //=============================================================
 
 
-//=============== 7.1 FEN?TRE EXPLICATIF ======================
+//=============== 7.1 FENÈTRE EXPLICATIF ======================
 
 APT:NewCAHIntroHeading
 "NOUVELLES CARACT?RISTIQUES"
@@ -5526,7 +5526,7 @@ APT:Reset
 END
 
 APT:Recommend
-"RECOMMAND?"
+"RECOMMANDÉ"
 END
 
 
@@ -8446,7 +8446,7 @@ END
 //=============================================================
 
 
-//=============== 8.1 FEN?TRE EXPLICATIF ======================
+//=============== 8.1 FENÈTRE EXPLICATIF ======================
 
 APT:NewWOTRIntroHeading
 "NOUVELLES CARACT?RISTIQUES"
@@ -9331,7 +9331,7 @@ End
 //// Region Anorien //
 
 LW:DisplayNameAnorien
-"An?rien"
+"Anórien"
 End
 
 Map:MAPWORanorien/Desc
@@ -9863,7 +9863,7 @@ LW:DisplayNameFieldCelebrant
 End
 
 Map:MAPWORfieldofcelebrant/Desc
-"Le Champ du Celebrant se trouve entre l'Anduin et la Limeclaire, au Sud-Est de la Lothl?rien. Au Troisième ?ge, c'est là que se déroula la bataille des Champs du Celebrant, o? Eorl le Jeune chevaucha du Nord au secours du Gondor."
+"Le Champ du Celebrant se trouve entre l'Anduin et la Limeclaire, au Sud-Est de la Lothlórien. Au Troisième ?ge, c'est là que se déroula la bataille des Champs du Celebrant, o? Eorl le Jeune chevaucha du Nord au secours du Gondor."
 End
 
 
@@ -10103,7 +10103,7 @@ LW:DisplayNameLamedon
 End
 
 Map:MAPWORlamedon/Desc
-"Une série de vallées au travers desquelles les rivières Ringl? et Ciril coulent vers le Sud. Le Lamedon est l'un des fiefs les plus densément peuplés du Gondor."
+"Une série de vallées au travers desquelles les rivières Ringló et Ciril coulent vers le Sud. Le Lamedon est l'un des fiefs les plus densément peuplés du Gondor."
 End
 
 
@@ -12295,7 +12295,7 @@ CONTROLBAR:ElendilLeadership
 END
 
 CONTROLBAR:ToolTipElendilLeadership
-"Elendil, fils d'Amandil, était le meneur des fidèles Núménoréens, avant qu'Eru Ilúvatar ne noit la nation insulaire de Núménor comme punition pour l'arrogance d'Ar-Pharazôn, leurs dernier roi. Elendil s'échappa avec ses deux fils et fonda le Royaume Númen?réens en Terre du Milieu. Ses places fortes étaient à Annúminas, en Arnor, pendant que son fils règnait en sont nom depuis Minas Anor et Minas Ithil, en Gondor. \n\n Les alliés proches de Elendil gagne +33% de dégâts, +33% d'armure, et gagnent de l'expérience 50% plus rapidement. \n\n Capacité passive."
+"Elendil, fils d'Amandil, était le meneur des fidèles Núménoréens, avant qu'Eru Ilúvatar ne noit la nation insulaire de Núménor comme punition pour l'arrogance d'Ar-Pharazôn, leurs dernier roi. Elendil s'échappa avec ses deux fils et fonda le Royaume Númenóréens en Terre du Milieu. Ses places fortes étaient à Annúminas, en Arnor, pendant que son fils règnait en sont nom depuis Minas Anor et Minas Ithil, en Gondor. \n\n Les alliés proches de Elendil gagne +33% de dégâts, +33% d'armure, et gagnent de l'expérience 50% plus rapidement. \n\n Capacité passive."
 END
 
 CONTROLBAR:ElendilRestoration
@@ -12411,7 +12411,7 @@ CONTROLBAR:ConstructSecondAgeArcherHorde
 END
 
 CONTROLBAR:ToolTipBuildSecondAgeArcherHorde
-"Forts contre l'infanterie. \n\n Les Dúnedains selon Elendil utilisaient toujours des arcs creux en acier Númen?réens et envoyaient devant eux un grand nuage de flèches, comme si la pluie se transformait en serpents."
+"Forts contre l'infanterie. \n\n Les Dúnedains selon Elendil utilisaient toujours des arcs creux en acier Númenóréens et envoyaient devant eux un grand nuage de flèches, comme si la pluie se transformait en serpents."
 END
 
 
@@ -12617,7 +12617,7 @@ END
 //=============================================================
 
 
-//=============== 10.1 ANGLES DE CAM?RA =======================
+//=============== 10.1 ANGLES DE CAMÉRA =======================
 
 CONTROLBAR:ChangeAngle0
 "Vue aérienne"
@@ -13006,7 +13006,7 @@ APT:HeaderPlayerName
 END
 
 APT:HeaderFactionCaps
-"ARM?E"
+"ARMÉE"
 END
 
 APT:HeaderTeam
@@ -13141,7 +13141,7 @@ INI:FactionDwarves
 END
 
 INI:FactionElves
-"Lothl?rien"
+"Lothlórien"
 END
 
 INI:FactionArnor
@@ -13465,11 +13465,11 @@ End
 ///// BFME CAMPAGNE DU MAL /////
 
 Map:MAPSPevillorien
-"Campagne: Mal I - L?rien*"
+"Campagne: Mal I - Lórien*"
 End
 
 Map:MAPSPevillorien/Desc
-"Mission I - Menée par l'un des des émissaires de Sauron, une armée de Dol Guldur envahit la forêt dorée de Lothl?rien et assiège la ville elfique de Caras Galadhon. \n\n Faction recommandée : Dol Guldur."
+"Mission I - Menée par l'un des des émissaires de Sauron, une armée de Dol Guldur envahit la forêt dorée de Lothlórien et assiège la ville elfique de Caras Galadhon. \n\n Faction recommandée : Dol Guldur."
 End
 
 Map:MAPSPevilgreyhavens
@@ -13731,7 +13731,7 @@ End
 ///////////////////////
 
 Map:MAPMPanorien
-"An?rien*"
+"Anórien*"
 End
 
 Map:MAPMPanorien/Desc
@@ -14251,11 +14251,11 @@ End
 ///////////////////////
 
 Map:MAPMPeasternlorien
-"L?rien Est*"
+"Lórien Est*"
 End
 
 Map:MAPMPeasternlorien/Desc
-"Les frontières orientales de la L?rien, o? la Forêt rencontre les vastes terres de la vallée d'Anduin. \n\n Capturables : Auberge, Arbres de lumière. \n Antres : Trolls de pierre, Wargs, Gobelins. \n Région : Rhovanion. \n"
+"Les frontières orientales de la Lórien, o? la Forêt rencontre les vastes terres de la vallée d'Anduin. \n\n Capturables : Auberge, Arbres de lumière. \n Antres : Trolls de pierre, Wargs, Gobelins. \n Région : Rhovanion. \n"
 End
 
 ///////////////////////
@@ -14285,7 +14285,7 @@ Map:MAPMPeastfold
 End
 
 Map:MAPMPeastfold/Desc
-"L'Eastfold est traversé par la Grande Route de l'Ouest qui est parallèle aux Montagnes Blanches et qui mène vers l'Est jusqu'à l'An?rien et le Gondor. \n\n Capturables : Feu d'alarme, Avant-Poste. \n Antres : Gobelins, Trolls des Cavernes. \n Région : Rohan. \n"
+"L'Eastfold est traversé par la Grande Route de l'Ouest qui est parallèle aux Montagnes Blanches et qui mène vers l'Est jusqu'à l'Anórien et le Gondor. \n\n Capturables : Feu d'alarme, Avant-Poste. \n Antres : Gobelins, Trolls des Cavernes. \n Région : Rohan. \n"
 End
 
 ///////////////////////
@@ -14405,7 +14405,7 @@ Map:MAPMPerynlaer
 End
 
 Map:MAPMPerynlaer/Desc
-"Les grands arbres d'Eryn Laer, les Bois de la Chanson, se dressent au plus profond du Royaume de la Lothl?rien, le coeur du Royaume Elfe en Terre du Milieu. \n\n Capturables : Feu d'alarme. \n Antres : Trolls des cavernes, Wargs. \n Région : Rhovanion. \n"
+"Les grands arbres d'Eryn Laer, les Bois de la Chanson, se dressent au plus profond du Royaume de la Lothlórien, le coeur du Royaume Elfe en Terre du Milieu. \n\n Capturables : Feu d'alarme. \n Antres : Trolls des cavernes, Wargs. \n Région : Rhovanion. \n"
 End
 
 ///////////////////////
@@ -14415,7 +14415,7 @@ Map:MAPMPethring
 End
 
 Map:MAPMPethring/Desc
-"Ethring était un important point de passage de la rivière Ringl?, le long de la route principale d'Erech à Pelargir. Aragorn et les briseurs de serment ont traversé la rivière à cet endroit pendant la guerre de l'Anneau. \n\n Capturables : Avant-Poste, Auberge. \n Antres : Wargs, Gobelins. \n Région : Gondor. \n"
+"Ethring était un important point de passage de la rivière Ringló, le long de la route principale d'Erech à Pelargir. Aragorn et les briseurs de serment ont traversé la rivière à cet endroit pendant la guerre de l'Anneau. \n\n Capturables : Avant-Poste, Auberge. \n Antres : Wargs, Gobelins. \n Région : Gondor. \n"
 End
 
 ///////////////////////
@@ -14465,7 +14465,7 @@ Map:MAPMPfieldofcelebrant
 End
 
 Map:MAPMPfieldofcelebrant/Desc
-"Le Champ du Celebrant se trouve entre l'Anduin et la Limeclaire, au Sud-Est de la Lothl?rien. Au cours du troisième âge, Eorl le Jeune est venu au secours du Gondor lors de la bataille du Champ du Célébrant. \n\n Capturables : Feu d'alarme. \n Antres : Gobelins. \n Région : Rhovanion. \n"
+"Le Champ du Celebrant se trouve entre l'Anduin et la Limeclaire, au Sud-Est de la Lothlórien. Au cours du troisième âge, Eorl le Jeune est venu au secours du Gondor lors de la bataille du Champ du Célébrant. \n\n Capturables : Feu d'alarme. \n Antres : Gobelins. \n Région : Rhovanion. \n"
 End
 
 ///////////////////////
@@ -14625,7 +14625,7 @@ Map:MAPMPfortresscerinamroth
 End
 
 Map:MAPMPfortresscerinamroth/Desc
-"C'était autrefois la demeure d'Amroth Amdirion, le dernier Roi de la région de la L?rien. C'est aujourd'hui un lieu vénéré d'une sublime beauté forestière. \n\n Région : Rhovanion. \n"
+"C'était autrefois la demeure d'Amroth Amdirion, le dernier Roi de la région de la Lórien. C'est aujourd'hui un lieu vénéré d'une sublime beauté forestière. \n\n Région : Rhovanion. \n"
 End
 
 ///////////////////////
@@ -14885,7 +14885,7 @@ Map:MAPMPgardensoflorien
 End
 
 Map:MAPMPgardensoflorien/Desc
-"Dans les bois de la Lothl?rien se trouvent de nombreux jardins o? sont cultivées les récoltes des elfes. \n\n Capturables: Avant-Poste, Auberge. \n Antres : Trolls des Cavernes, Wargs. \n Région : Rhovanion. \n"
+"Dans les bois de la Lothlórien se trouvent de nombreux jardins o? sont cultivées les récoltes des elfes. \n\n Capturables: Avant-Poste, Auberge. \n Antres : Trolls des Cavernes, Wargs. \n Région : Rhovanion. \n"
 End
 
 ///////////////////////
@@ -14975,7 +14975,7 @@ Map:MAPMPhalifirien
 End
 
 Map:MAPMPhalifirien/Desc
-"Une montagne sacrée qui se dresse à la frontière du Rohan et de l'An?rien. C'est le plus haut et le plus occidental des sept feux d'alarme du Gondor, séparé des Montagnes Blanches environnantes par une profonde échancrure. \n\n Capturables : Feu d'alarme. \n Antres : Wargs. \n Région : Gondor. \n"
+"Une montagne sacrée qui se dresse à la frontière du Rohan et de l'Anórien. C'est le plus haut et le plus occidental des sept feux d'alarme du Gondor, séparé des Montagnes Blanches environnantes par une profonde échancrure. \n\n Capturables : Feu d'alarme. \n Antres : Wargs. \n Région : Gondor. \n"
 End
 
 ///////////////////////
@@ -15205,7 +15205,7 @@ Map:MAPMPlamedon
 End
 
 Map:MAPMPlamedon/Desc
-"Une série de vallées au travers desquelles les rivières Ringl? et Ciril coulent vers le Sud. Le Lamedon est l'un des fiefs les plus densément peuplés du Gondor. \n\n Antres : Trolls des Collines, Wargs, Gobelins. \n Région : Gondor. \n"
+"Une série de vallées au travers desquelles les rivières Ringló et Ciril coulent vers le Sud. Le Lamedon est l'un des fiefs les plus densément peuplés du Gondor. \n\n Antres : Trolls des Collines, Wargs, Gobelins. \n Région : Gondor. \n"
 End
 
 ///////////////////////
@@ -15251,7 +15251,7 @@ End
 ///////////////////////
 
 Map:MAPMPlorien
-"L?rien*"
+"Lórien*"
 End
 
 Map:MAPMPlorien/Desc
@@ -15425,7 +15425,7 @@ Map:MAPMPnimrodel
 End
 
 Map:MAPMPnimrodel/Desc
-"Rivière de la Lothl?rien, le Nimrodel descend les Monts Brumeux avant de rejoindre la Celebrant. On dit que ses eaux guérissent la lassitude. \n\n Capturables : Feu d'alarme. \n Antres : Gobelins. \n Région : Rhovanion. \n"
+"Rivière de la Lothlórien, le Nimrodel descend les Monts Brumeux avant de rejoindre la Celebrant. On dit que ses eaux guérissent la lassitude. \n\n Capturables : Feu d'alarme. \n Antres : Gobelins. \n Région : Rhovanion. \n"
 End
 
 ///////////////////////
@@ -15815,7 +15815,7 @@ Map:MAPMPsouthundeep
 End
 
 Map:MAPMPsouthundeep/Desc
-"Au-delà de la L?rien, le haut-fond d'Anduin et son cours s'étend en deux larges boucles vers l'Ouest, les Méandres. \n\n Capturables : Feu d'alarme, Avant-Poste, Auberge. \n Antres : Gobelins, Araignées. \n Région : Rhovanion. \n"
+"Au-delà de la Lórien, le haut-fond d'Anduin et son cours s'étend en deux larges boucles vers l'Ouest, les Méandres. \n\n Capturables : Feu d'alarme, Avant-Poste, Auberge. \n Antres : Gobelins, Araignées. \n Région : Rhovanion. \n"
 End
 
 ///////////////////////
@@ -15835,7 +15835,7 @@ Map:MAPMPspringofcelduin
 End
 
 Map:MAPMPspringofcelduin/Desc
-"De vastes couloirs s'étendent entre la Grande Chambre de Thr?r et la Porte d'entrée d'Erebor. D'un gouffre sombre dans la roche jaillit la rivière Celduin. \n\n Capturables : Foyer, Statue. \n Antres : Nains turbulents. \n Région : Erebor. \n"
+"De vastes couloirs s'étendent entre la Grande Chambre de Thrór et la Porte d'entrée d'Erebor. D'un gouffre sombre dans la roche jaillit la rivière Celduin. \n\n Capturables : Foyer, Statue. \n Antres : Nains turbulents. \n Région : Erebor. \n"
 End
 
 ///////////////////////
@@ -15895,7 +15895,7 @@ Map:MAPMPtarnost
 End
 
 Map:MAPMPtarnost/Desc
-"Ces contreforts herbeux se situent au Sud de la rivière Ringl? dans le Gondor, entre la rivière Gilrain à l'Est et Dol Amroth à l'Ouest. \n\n Capturables : Feu d'alarme, Auberge. \n Antres : Trolls des Collines, Wargs. \n Région : Gondor. \n"
+"Ces contreforts herbeux se situent au Sud de la rivière Ringló dans le Gondor, entre la rivière Gilrain à l'Est et Dol Amroth à l'Ouest. \n\n Capturables : Feu d'alarme, Auberge. \n Antres : Trolls des Collines, Wargs. \n Région : Gondor. \n"
 End
 
 ///////////////////////
@@ -17620,11 +17620,11 @@ CONTROLBAR:ConstructGondorBarracks2Upgrade
 END
 
 CONTROLBAR:ToolTipBuildGondorBarracksLevel2Upgrade
-"Permet de recruter les Soldats et Lanciers de l'An?rien. \n Vitesse de construction +10%."
+"Permet de recruter les Soldats et Lanciers de l'Anórien. \n Vitesse de construction +10%."
 END
 
 CONTROLBAR:ToolTipBuildGondorBarracksLevel2Upgrade_Osgiliath
-"Permet de recruter les Soldats et Lanciers de l'An?rien. \n Vitesse de construction +10%."
+"Permet de recruter les Soldats et Lanciers de l'Anórien. \n Vitesse de construction +10%."
 END
 
 CONTROLBAR:ConstructGondorBarracksLevel3Upgrade
@@ -17672,7 +17672,7 @@ CONTROLBAR:ConstructGondorArcheryRangeLevel2Upgrade
 END
 
 CONTROLBAR:ToolTipBuildGondorArcheryRangeLevel2Upgrade
-"Permet de recruter les Archers de l'An?rien. \n Vitesse de construction +10%."
+"Permet de recruter les Archers de l'Anórien. \n Vitesse de construction +10%."
 END
 
 CONTROLBAR:ToolTipBuildGondorArcheryRangeLevel2Upgrade_Osgiliath
@@ -17740,7 +17740,7 @@ CONTROLBAR:ConstructGondorStable2Upgrade
 END
 
 CONTROLBAR:ToolTipBuildGondorStableLevel2Upgrade
-"Permet de recruter les Chevaliers de l'An?rien. \n Vitesse de construction +10%."
+"Permet de recruter les Chevaliers de l'Anórien. \n Vitesse de construction +10%."
 END
 
 CONTROLBAR:ConstructGondorStableLevel3Upgrade
@@ -17876,11 +17876,11 @@ CONTROLBAR:ToolTipTransportExit
 END
 
 UPGRADE:GondorBattleTowerGarrison
-"Sentinelles de l'An?rien"
+"Sentinelles de l'Anórien"
 END
 
 CONTROLBAR:GondorBattleTowerGarrison
-"Sentinelles de l'An?rien (&W)"
+"Sentinelles de l'Anórien (&W)"
 END
 
 CONTROLBAR:ToolTipGondorBattleTowerGarrison
@@ -18394,11 +18394,11 @@ END
 
 
 //////////////////////////
-// Soldats de l'An?rien //
+// Soldats de l'Anórien //
 //////////////////////////
 
 CONTROLBAR:ConstructGondorFighterHorde
-"Soldats de l'An?rien (&T)"
+"Soldats de l'Anórien (&T)"
 END
 
 CONTROLBAR:ToolTipBuildGondorFighterHorde
@@ -18414,23 +18414,23 @@ CONTROLBAR:ToolTipBuildGondorFighterHordeOld
 END
 
 OBJECT:GondorFighter
-"Soldat de l'An?rien"
+"Soldat de l'Anórien"
 END
 
 CONTROLBAR:ConstructGondorManAtArms
-"Soldat de l'An?rien"
+"Soldat de l'Anórien"
 END
 
 CONTROLBAR:ToolTipBuildGondorManAtArms
-"Crée des Soldats de l'An?rien."
+"Crée des Soldats de l'Anórien."
 END
 
 CONTROLBAR:LW_Unit_GondorFighterHorde
-"Bataillon de soldats de l'An?rien"
+"Bataillon de soldats de l'Anórien"
 END
 
 CONTROLBAR:LW_Unit_GondorFighterHordePlural
-"Bataillons de soldats de l'An?rien"
+"Bataillons de soldats de l'Anórien"
 END
 
 CONTROLBAR:LW_ToolTip_GondorFighterHorde
@@ -18444,47 +18444,47 @@ END
 
 
 ///////////////////////////
-// Lanciers de l'An?rien //
+// Lanciers de l'Anórien //
 ///////////////////////////
 
 CONTROLBAR:ConstructGondorSpearmenHorde
-"Lanciers de l'An?rien (&S)"
+"Lanciers de l'Anórien (&S)"
 END
 
 CONTROLBAR:ToolTipBuildGondorSpearmenHorde
-"Requiert : Caserne niveau 2. \n Chaque guerrier de l'armée de Minas Tirith est entra?né à manier une grande variété d'armes, qu'il s'agisse d'un simple arc, d'une humble épée ou bien d'une redoutable lance. \n Le maintien d'un large régiment de lanciers s'est révélé inestimable pendant les guerres de l'An?rien \n contre les cavaliers Haradrim. \n\n Forts contre les cavaliers."
+"Requiert : Caserne niveau 2. \n Chaque guerrier de l'armée de Minas Tirith est entra?né à manier une grande variété d'armes, qu'il s'agisse d'un simple arc, d'une humble épée ou bien d'une redoutable lance. \n Le maintien d'un large régiment de lanciers s'est révélé inestimable pendant les guerres de l'Anórien \n contre les cavaliers Haradrim. \n\n Forts contre les cavaliers."
 END
 
 OBJECT:GondorLancer
-"Lanciers de l'An?rien"
+"Lanciers de l'Anórien"
 End
 
 OBJECT:HordeGondorLancer
-"Lanciers de l'An?rien"
+"Lanciers de l'Anórien"
 END
 
 OBJECT:GondorSpearmen
-"Lanciers de l'An?rien"
+"Lanciers de l'Anórien"
 END
 
 OBJECT:HordeGondorSpearmen
-"Lanciers de l'An?rien"
+"Lanciers de l'Anórien"
 END
 
 BANNERUI:PluralGondorSpearmen
-"Lanciers de l'An?rien"
+"Lanciers de l'Anórien"
 END
 
 OBJECT:HordeGondorSpearmenCombo
-"Lanciers de l'An?rien"
+"Lanciers de l'Anórien"
 END
 
 CONTROLBAR:LW_Unit_GondorSpearmenHordeCombo
-"Bataillon combiné de Lanciers de l'An?rien"
+"Bataillon combiné de Lanciers de l'Anórien"
 END
 
 CONTROLBAR:LW_Unit_GondorSpearmenHordeComboPlural
-"Bataillons combiné de Lanciers de l'An?rien"
+"Bataillons combiné de Lanciers de l'Anórien"
 END
 
 CONTROLBAR:LW_ToolTip_GondorSpearmenHordeCombo
@@ -18544,15 +18544,15 @@ END
 
 
 //////////////////////////
-// Archers de l'An?rien //
+// Archers de l'Anórien //
 //////////////////////////
 
 CONTROLBAR:ConstructGondorArcherHorde
-"Archers de l'An?rien (&E)"
+"Archers de l'Anórien (&E)"
 END
 
 CONTROLBAR:ToolTipBuildGondorArcherHorde
-"Requiert : Archerie niveau 2 \n Chaque guerrier de l'armée de Minas Tirith est entra?né à manier une grande variété d'armes, qu'il s'agisse d'un simple arc, d'une humble épée ou bien d'une redoutable lance. \n Equipés de grands arcs taillés dans le coeur du bois, les archers de l'An?rien jouent un rôle essentiel dans la défense de la Cité Blanche. \n\n Peuvent combiner les bataillons pour améliorer leurs défenses. \n\n Forts contre l'infanterie et les monstres."
+"Requiert : Archerie niveau 2 \n Chaque guerrier de l'armée de Minas Tirith est entra?né à manier une grande variété d'armes, qu'il s'agisse d'un simple arc, d'une humble épée ou bien d'une redoutable lance. \n Equipés de grands arcs taillés dans le coeur du bois, les archers de l'Anórien jouent un rôle essentiel dans la défense de la Cité Blanche. \n\n Peuvent combiner les bataillons pour améliorer leurs défenses. \n\n Forts contre l'infanterie et les monstres."
 END
 
 CONTROLBAR:ToolTipBuildGondorArcherHorde_Osgiliath
@@ -18560,27 +18560,27 @@ CONTROLBAR:ToolTipBuildGondorArcherHorde_Osgiliath
 END
 
 OBJECT:GondorArcher
-"Archer de l'An?rien"
+"Archer de l'Anórien"
 END
 
 OBJECT:HordeGondorArcher
-"Archers de l'An?rien"
+"Archers de l'Anórien"
 END
 
 CONTROLBAR:ConstructGondorArcher
-"Archers de l'An?rien"
+"Archers de l'Anórien"
 END
 
 OBJECT:HordeGondorArcherCombo
-"Archers de l'An?rien"
+"Archers de l'Anórien"
 END
 
 CONTROLBAR:LW_Unit_GondorArcherHorde
-"Bataillon d'archers de l'An?rien"
+"Bataillon d'archers de l'Anórien"
 END
 
 CONTROLBAR:LW_Unit_GondorArcherHordePlural
-"Bataillons d'archers de l'An?rien"
+"Bataillons d'archers de l'Anórien"
 END
 
 CONTROLBAR:LW_ToolTip_GondorArcherHorde
@@ -18678,15 +18678,15 @@ END
 
 
 /////////////////////////////
-// Chevaliers de l'An?rien //
+// Chevaliers de l'Anórien //
 /////////////////////////////
 
 CONTROLBAR:ConstructGondorKnightHorde
-"Chevaliers de l'An?rien (&E)"
+"Chevaliers de l'Anórien (&E)"
 END
 
 CONTROLBAR:ConstructGondorLancerHorde
-"Chevaliers de l'An?rien (&E)"
+"Chevaliers de l'Anórien (&E)"
 END
 
 CONTROLBAR:ToolTipBuildGondorKnightHorde
@@ -18694,15 +18694,15 @@ CONTROLBAR:ToolTipBuildGondorKnightHorde
 END
 
 OBJECT:GondorCavalry
-"Chevalier de l'An?rien"
+"Chevalier de l'Anórien"
 END
 
 OBJECT:GondorKnights
-"Chevaliers de l'An?rien"
+"Chevaliers de l'Anórien"
 End
 
 OBJECT:HordeGondorKnight
-"Chevaliers de l'An?rien"
+"Chevaliers de l'Anórien"
 END
 
 OBJECT:GondorCavalryRiderless
@@ -18710,19 +18710,19 @@ OBJECT:GondorCavalryRiderless
 END
 
 OBJECT:GondorCavalryCINE
-"Chevaliers de l'An?rien"
+"Chevaliers de l'Anórien"
 END
 
 CONTROLBAR:ConstructGondorCavalry
-"Chevaliers de l'An?rien"
+"Chevaliers de l'Anórien"
 END
 
 CONTROLBAR:LW_Unit_GondorKnightHorde
-"Bataillon de Chevaliers de l'An?rien"
+"Bataillon de Chevaliers de l'Anórien"
 END
 
 CONTROLBAR:LW_Unit_GondorKnightHordePlural
-"Bataillons de Chevaliers de l'An?rien"
+"Bataillons de Chevaliers de l'Anórien"
 END
 
 CONTROLBAR:LW_ToolTipBuild_GondorKnightHorde
@@ -18995,7 +18995,7 @@ END
 
 
 //////////////////////////
-// Soldats de l'An?rien //
+// Soldats de l'Anórien //
 //////////////////////////
 
 CONTROLBAR:ToolTipSpecialAbilityGondorChargeAttack
@@ -19029,7 +19029,7 @@ END
 
 
 ///////////////////////////
-// Lanciers de l'An?rien //
+// Lanciers de l'Anórien //
 ///////////////////////////
 
 CONTROLBAR:ToggleSpearWallFormation
@@ -19047,7 +19047,7 @@ End
 
 
 //////////////////////////////////////////////////
-// Soldats de l'An?rien - Lanciers de l'An?rien //
+// Soldats de l'Anórien - Lanciers de l'Anórien //
 //////////////////////////////////////////////////
 
 CONTROLBAR:ToggleAnorienLineFormation
@@ -19145,7 +19145,7 @@ END
 
 
 /////////////////////////////
-// Chevaliers de l'An?rien //
+// Chevaliers de l'Anórien //
 /////////////////////////////
 
 CONTROLBAR:ToggleWedgeFormation
@@ -19914,7 +19914,7 @@ CONTROLBAR:ToolTipBuildGimli
 END
 
 CONTROLBAR:RohanGimliRecruit
-"Recrutez le fils de Gl?in. \n Comme tous les Nains, Gimli est austère, bourru et redoutable avec une hache. Ce combattant excelle d'ailleurs dans le maniement de cette arme comme en témoigne la multitude d'Orques tombés sous ses coups.\n D'une robustesse exceptionnelle, même pour un Nain, Gimli devient une implacable force de destruction lorsqu'on provoque sa colère ou que ses compagnons sont en danger. \n\n 'Il reste encore un Nain dans la Moria qui respire !'"
+"Recrutez le fils de Glóin. \n Comme tous les Nains, Gimli est austère, bourru et redoutable avec une hache. Ce combattant excelle d'ailleurs dans le maniement de cette arme comme en témoigne la multitude d'Orques tombés sous ses coups.\n D'une robustesse exceptionnelle, même pour un Nain, Gimli devient une implacable force de destruction lorsqu'on provoque sa colère ou que ses compagnons sont en danger. \n\n 'Il reste encore un Nain dans la Moria qui respire !'"
 END
 
 CONTROLBAR:RohanGimliRevive
@@ -21998,7 +21998,7 @@ CONTROLBAR:SummonCirionOath
 END
 
 CONTROLBAR:TooltipSummonCirionOath
-"Invoque deux bataillons de lanciers et d'archers An?riens. \n\n Clic gauche sur l'icône puis clic gauche sur la zone ciblée."
+"Invoque deux bataillons de lanciers et d'archers Anóriens. \n\n Clic gauche sur l'icône puis clic gauche sur la zone ciblée."
 END
 
 
@@ -22687,19 +22687,19 @@ END
 ///////////
 
 CONTROLBAR:GloinHotkey
-"Gl?in (&E)"
+"Glóin (&E)"
 END
 
 OBJECT:Gloin
-"Gl?in"
+"Glóin"
 END
 
 CONTROLBAR:GloinRecruit
-"Recrutez le père de Gimli. \n Gl?in faisait partie des guerriers les plus doués et les plus expérimentés qui partirent reconquérir le Mont Solitaire avec Thorin Écu-de-Chêne. Au cour de cette quête, il prouva sa force et sa valeur d'innombrables fois. Lorsque le Roi Dáin II Pied-d'Acier succéda à Thorin sur le trône d'Erebor, nul ne fut plus fidèle au nouveau Roi que lui. \n\n 'L'Ombre grandit et se rapproche déjà. La guerre se prépare sur nos frontières de l'Est...'"
+"Recrutez le père de Gimli. \n Glóin faisait partie des guerriers les plus doués et les plus expérimentés qui partirent reconquérir le Mont Solitaire avec Thorin Écu-de-Chêne. Au cour de cette quête, il prouva sa force et sa valeur d'innombrables fois. Lorsque le Roi Dáin II Pied-d'Acier succéda à Thorin sur le trône d'Erebor, nul ne fut plus fidèle au nouveau Roi que lui. \n\n 'L'Ombre grandit et se rapproche déjà. La guerre se prépare sur nos frontières de l'Est...'"
 END
 
 CONTROLBAR:GloinRevive
-"Rappelez Gl?in à la vie"
+"Rappelez Glóin à la vie"
 END
 
 
@@ -22791,7 +22791,7 @@ CONTROLBAR:DwarvenKingDainHotkey
 END
 
 CONTROLBAR:DwarvenKingDainRecruit
-"Recrutez le Roi Dáin II Pied-d'Acier, Roi sous la Montagne. \n\n Après la mort de son cousin Thorin, Dáin Pied-d'Acier a été couronné Roi sous la montagne. Pendant son règne, Erebor et Dale ont prospéré, et les Nains ont maintenu un lien étroit avec les Hommes de Dale, qui étaient gouvernés par le Roi Brand. Durant la Guerre de l'Anneau, Dáin a refusé de discuter avec les messagers du Mordor qui voulaient des informations sur Bilbo Sacquet et l'Anneau Unique. Ainsi Erebor est devenu l'une des nombreuses cibles de Sauron en Terre du Milieu. Dáin envoya Gl?in et son fils Gimli au Conseil d'Elrond pour le représenter et demander conseil sur la menace du Mordor. \n\n 'J'appellerais cela une lourde perte, si ce n'était pas plutôt un miracle qu'à son grand âge il puisse encore manier sa hache aussi puissamment qu'on le dit, se tenant au-dessus du corps du Roi Brand devant la porte d'Erebor jusqu'à ce que l'obscurité tombe.'"
+"Recrutez le Roi Dáin II Pied-d'Acier, Roi sous la Montagne. \n\n Après la mort de son cousin Thorin, Dáin Pied-d'Acier a été couronné Roi sous la montagne. Pendant son règne, Erebor et Dale ont prospéré, et les Nains ont maintenu un lien étroit avec les Hommes de Dale, qui étaient gouvernés par le Roi Brand. Durant la Guerre de l'Anneau, Dáin a refusé de discuter avec les messagers du Mordor qui voulaient des informations sur Bilbo Sacquet et l'Anneau Unique. Ainsi Erebor est devenu l'une des nombreuses cibles de Sauron en Terre du Milieu. Dáin envoya Glóin et son fils Gimli au Conseil d'Elrond pour le représenter et demander conseil sur la menace du Mordor. \n\n 'J'appellerais cela une lourde perte, si ce n'était pas plutôt un miracle qu'à son grand âge il puisse encore manier sa hache aussi puissamment qu'on le dit, se tenant au-dessus du corps du Roi Brand devant la porte d'Erebor jusqu'à ce que l'obscurité tombe.'"
 END
 
 CONTROLBAR:DwarvenKingDainRevive
@@ -23335,11 +23335,11 @@ CONTROLBAR:TooltipThorinOrcrist
 END
 
 CONTROLBAR:ThorinLeadership2
-"Armure de Thr?r"
+"Armure de Thrór"
 End
 
 CONTROLBAR:ToolTipThorinLeadership2
-"Thorin porte l'armure de son grand-père le Roi Thr?r, augmentant de fa?on permanente son armure. \n\n Capacité passive."
+"Thorin porte l'armure de son grand-père le Roi Thrór, augmentant de fa?on permanente son armure. \n\n Capacité passive."
 END
 
 CONTROLBAR:ThorinRestoration
@@ -23427,7 +23427,7 @@ CONTROLBAR:ProudFather
 END
 
 CONTROLBAR:ToolTipProudFather
-"Gl?in gagne +33% d'armure et de dégâts aux côtés de Gimli. \n\n Capacité passive."
+"Glóin gagne +33% d'armure et de dégâts aux côtés de Gimli. \n\n Capacité passive."
 END
 
 CONTROLBAR:GloinGloriousCharge
@@ -23451,7 +23451,7 @@ CONTROLBAR:GloinSecretWays
 END
 
 CONTROLBAR:TooltipGloinSecretWays
-"Requiert Niveau 8. \n Gl?in conna?t des routes inconnues des jeunes Nains. \n Téléporte les unités ciblées vers la zone cible. \n Ne peut être utilisée sur les engins de siège. \n\n Clic gauche sur l'icône, puis clic gauche sur les unités ciblées, puis clic gauche sur la zone désirée."
+"Requiert Niveau 8. \n Glóin conna?t des routes inconnues des jeunes Nains. \n Téléporte les unités ciblées vers la zone cible. \n Ne peut être utilisée sur les engins de siège. \n\n Clic gauche sur l'icône, puis clic gauche sur les unités ciblées, puis clic gauche sur la zone désirée."
 End
 
 CONTROLBAR:GloinSlam
@@ -23913,7 +23913,7 @@ CONTROLBAR:ConstructEreborForge
 END
 
 CONTROLBAR:PurchaseTechnologyDwarvenBasicTraining
-"Rechercher Bannières de Thr?r (&W)"
+"Rechercher Bannières de Thrór (&W)"
 END
 
 CONTROLBAR:ToolTipPurchaseTechnologyDwarvenBasicTraining
@@ -24037,7 +24037,7 @@ TOOLTIP:LackLevel3ForgeWorks
 END
 
 UPGRADE:DwarvenBasicTraining
-"Bannières de Thr?r"
+"Bannières de Thrór"
 END
 
 UPGRADE:DwarvenSiegeHammer
@@ -25769,7 +25769,7 @@ CONTROLBAR:ToolTipDwarvenTenacity
 END
 
 CONTROLBAR:PurchaseUpgradeDwarvenBasicTraining
-"Bannières de Thr?r (&V)"
+"Bannières de Thrór (&V)"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeDwarvenBasicTraining
@@ -26407,11 +26407,11 @@ END
 
 
 CONTROLBAR:ThrorHoard
-"Trésor de Thr?r"
+"Trésor de Thrór"
 END
 
 OBJECT:ThrorsHoard
-"Trésor de Thr?r"
+"Trésor de Thrór"
 End
 
 CONTROLBAR:TooltipThrorHoard
@@ -26647,11 +26647,11 @@ OBJECT:ElvenRumil
 END
 
 CONTROLBAR:ToolTipBuildElvenRumil
-"Recrutez le frère d'Haldir et d'Orophin. \n\n Rúmil est, comme ses frères, un inlassable protecteur de la L?rien. Cet intrépide guerrier est réputé pour ses prouesses avec un arc, grâce à une vision per?ante et des réflexes foudroyants qui ont forgé le respect des autres Elfes, eux-mêmes pourtant dotés d'une vivacité surnaturelle. \n Rúmil est un archer expert, chargé de diriger un groupe de Gardiens des Marches pour surveiller les rives du Nimrodel, o? les incursions Orques se sont multipliées. \n\n 'Mais alors même qu'il se balan?ait là pendant un moment, une voix parla soudainement de l'ombre des arbres au-dessus de lui. 'Daro!', dit-elle d'un ton autoritaire, et Legolas retomba sur terre de surprise et de peur. Il se rétrécit contre le fût de l'arbre. 'Ne bougez pas et ne parlez pas !', murmura-t-il aux autres.'"
+"Recrutez le frère d'Haldir et d'Orophin. \n\n Rúmil est, comme ses frères, un inlassable protecteur de la Lórien. Cet intrépide guerrier est réputé pour ses prouesses avec un arc, grâce à une vision per?ante et des réflexes foudroyants qui ont forgé le respect des autres Elfes, eux-mêmes pourtant dotés d'une vivacité surnaturelle. \n Rúmil est un archer expert, chargé de diriger un groupe de Gardiens des Marches pour surveiller les rives du Nimrodel, o? les incursions Orques se sont multipliées. \n\n 'Mais alors même qu'il se balan?ait là pendant un moment, une voix parla soudainement de l'ombre des arbres au-dessus de lui. 'Daro!', dit-elle d'un ton autoritaire, et Legolas retomba sur terre de surprise et de peur. Il se rétrécit contre le fût de l'arbre. 'Ne bougez pas et ne parlez pas !', murmura-t-il aux autres.'"
 END
 
 CONTROLBAR:ElvenRumilRecruit
-"Recrutez le frère d'Haldir et d'Orophin. \n\n Rúmil est, comme ses frères, un inlassable protecteur de la L?rien. Cet intrépide guerrier est réputé pour ses prouesses avec un arc, grâce à une vision per?ante et des réflexes foudroyants qui ont forgé le respect des autres Elfes, eux-mêmes pourtant dotés d'une vivacité surnaturelle. \n Rúmil est un archer expert, chargé de diriger un groupe de Gardiens des Marches pour surveiller les rives du Nimrodel, o? les incursions Orques se sont multipliées. \n\n 'Mais alors même qu'il se balan?ait là pendant un moment, une voix parla soudainement de l'ombre des arbres au-dessus de lui. 'Daro!', dit-elle d'un ton autoritaire, et Legolas retomba sur terre de surprise et de peur. Il se rétrécit contre le fût de l'arbre. 'Ne bougez pas et ne parlez pas !', murmura-t-il aux autres.'"
+"Recrutez le frère d'Haldir et d'Orophin. \n\n Rúmil est, comme ses frères, un inlassable protecteur de la Lórien. Cet intrépide guerrier est réputé pour ses prouesses avec un arc, grâce à une vision per?ante et des réflexes foudroyants qui ont forgé le respect des autres Elfes, eux-mêmes pourtant dotés d'une vivacité surnaturelle. \n Rúmil est un archer expert, chargé de diriger un groupe de Gardiens des Marches pour surveiller les rives du Nimrodel, o? les incursions Orques se sont multipliées. \n\n 'Mais alors même qu'il se balan?ait là pendant un moment, une voix parla soudainement de l'ombre des arbres au-dessus de lui. 'Daro!', dit-elle d'un ton autoritaire, et Legolas retomba sur terre de surprise et de peur. Il se rétrécit contre le fût de l'arbre. 'Ne bougez pas et ne parlez pas !', murmura-t-il aux autres.'"
 END
 
 CONTROLBAR:ElvenRumilRevive
@@ -26673,11 +26673,11 @@ OBJECT:ElvenOrophin
 END
 
 CONTROLBAR:ToolTipBuildElvenOrophin
-"Recrutez le frère d'Haldir et de Rúmil. \n\n Orophin est, comme ses frères, un inlassable protecteur de la L?rien. Cet intrépide guerrier est réputé pour ses prouesses avec une lame elfique, grâce à une extrême agilité et des réflexes foudroyants qui ont forgé le respect des autres Elfes, eux-mêmes pourtant dotés d'une vivacité surnaturelle. \n Orophin commande une force de Gardiens des Marches pour surveiller la frontière sud de la Lothl?rien. \n\n 'Ils étaient vêtus de gris ombre et ne pouvaient pas être vus parmi les tiges des arbres, à moins qu'ils ne bougent soudainement.'"
+"Recrutez le frère d'Haldir et de Rúmil. \n\n Orophin est, comme ses frères, un inlassable protecteur de la Lórien. Cet intrépide guerrier est réputé pour ses prouesses avec une lame elfique, grâce à une extrême agilité et des réflexes foudroyants qui ont forgé le respect des autres Elfes, eux-mêmes pourtant dotés d'une vivacité surnaturelle. \n Orophin commande une force de Gardiens des Marches pour surveiller la frontière sud de la Lothlórien. \n\n 'Ils étaient vêtus de gris ombre et ne pouvaient pas être vus parmi les tiges des arbres, à moins qu'ils ne bougent soudainement.'"
 END
 
 CONTROLBAR:ElvenOrophinRecruit
-"Recrutez le frère d'Haldir et de Rúmil. \n\n Orophin est, comme ses frères, un inlassable protecteur de la L?rien. Cet intrépide guerrier est réputé pour ses prouesses avec une lame elfique, grâce à une extrême agilité et des réflexes foudroyants qui ont forgé le respect des autres Elfes, eux-mêmes pourtant dotés d'une vivacité surnaturelle. \n Orophin commande une force de Gardiens des Marches pour surveiller la frontière sud de la Lothl?rien. \n\n 'Ils étaient vêtus de gris ombre et ne pouvaient pas être vus parmi les tiges des arbres, à moins qu'ils ne bougent soudainement.'"
+"Recrutez le frère d'Haldir et de Rúmil. \n\n Orophin est, comme ses frères, un inlassable protecteur de la Lórien. Cet intrépide guerrier est réputé pour ses prouesses avec une lame elfique, grâce à une extrême agilité et des réflexes foudroyants qui ont forgé le respect des autres Elfes, eux-mêmes pourtant dotés d'une vivacité surnaturelle. \n Orophin commande une force de Gardiens des Marches pour surveiller la frontière sud de la Lothlórien. \n\n 'Ils étaient vêtus de gris ombre et ne pouvaient pas être vus parmi les tiges des arbres, à moins qu'ils ne bougent soudainement.'"
 END
 
 CONTROLBAR:ElvenOrophinRevive
@@ -26699,7 +26699,7 @@ OBJECT:ElvenIdrial
 END
 
 CONTROLBAR:IdrialRecruit
-"Recrutez Idrial, la fidèle servante de Galadriel. \n\n Idrial est au service de Dame Galadriel depuis des centaines d'années, en toutes circonstances. Après avoir sauvé Berethor du Gondor de l'attaque des Nazgûls au sud d'Imladris, elle s'est jointe à lui afin d'essayer de rejoindre la Lothl?rien lors d'un long périple. Il lui faudra affronter les terrifiants périls de la Moria pour avertir les Elfes des dangers qui les guettent sur le chemin des Havres Gris. \n\n 'Le monde est en effet plein de périls, et en lui il y a beaucoup d'endroits sombres ; mais il y a encore beaucoup de choses qui sont justes, et bien que dans tous les pays l'amour soit maintenant mêlé à la douleur, il grandit peut-être davantage.'"
+"Recrutez Idrial, la fidèle servante de Galadriel. \n\n Idrial est au service de Dame Galadriel depuis des centaines d'années, en toutes circonstances. Après avoir sauvé Berethor du Gondor de l'attaque des Nazgûls au sud d'Imladris, elle s'est jointe à lui afin d'essayer de rejoindre la Lothlórien lors d'un long périple. Il lui faudra affronter les terrifiants périls de la Moria pour avertir les Elfes des dangers qui les guettent sur le chemin des Havres Gris. \n\n 'Le monde est en effet plein de périls, et en lui il y a beaucoup d'endroits sombres ; mais il y a encore beaucoup de choses qui sont justes, et bien que dans tous les pays l'amour soit maintenant mêlé à la douleur, il grandit peut-être davantage.'"
 END
 
 CONTROLBAR:IdrialRevive
@@ -26721,7 +26721,7 @@ OBJECT:ElvenHaldir
 END
 
 CONTROLBAR:HaldirRecruit
-"Recrutez le Capitaine des Gardiens des Marches de la L?rien et Chef des Galadhrim. \n\n Haldir est le guerrier elfe vigilant qui garde les frontières de la Lothl?rien et empêche les Orques de s'introduire dans le royaume de Celeborn et Galadriel. \n Contrairement aux autres Elfes, Haldir possède une foi inébranlable en l'alliance qui avait existé autrefois entre les Hommes et les Elfes, et est convaincu que Sauron et ses serviteurs ne pourront être défaits que si les deux races combattent côte à côte. \n\n 'J'apporte la parole d'Elrond de Fondcombe. Autrefois une alliance existait entre les Elfes et les Hommes. A cet époque, nous avons combattu et périt ensemble. Nous sommes venu honorés cette allégeance.'"
+"Recrutez le Capitaine des Gardiens des Marches de la Lórien et Chef des Galadhrim. \n\n Haldir est le guerrier elfe vigilant qui garde les frontières de la Lothlórien et empêche les Orques de s'introduire dans le royaume de Celeborn et Galadriel. \n Contrairement aux autres Elfes, Haldir possède une foi inébranlable en l'alliance qui avait existé autrefois entre les Hommes et les Elfes, et est convaincu que Sauron et ses serviteurs ne pourront être défaits que si les deux races combattent côte à côte. \n\n 'J'apporte la parole d'Elrond de Fondcombe. Autrefois une alliance existait entre les Elfes et les Hommes. A cet époque, nous avons combattu et périt ensemble. Nous sommes venu honorés cette allégeance.'"
 END
 
 CONTROLBAR:HaldirRevive
@@ -26747,7 +26747,7 @@ OBJECT:ElvenLorienCeleborn
 END
 
 CONTROLBAR:ElvenLorienCelebornRecruit
-"Recrutez Celeborn, Seigneur de la Lothl?rien. \n\n Celeborn est l'un des plus anciens immortels vivant encore en Terre du Milieu. Il règne sur la Lothl?rien avec son épouse Galadriel. \n C'est un seigneur Elfe de grand prestige et d'une immense perspicacité, et ses avertissements se sont souvent révélés précieux lors des conseils des Sages depuis l'Ultime Alliance. \n Au fil des siècles, il s'est opposé sans relâche au Seigneur des Ténèbres, faisant tout ce qui est en son pouvoir pour contrer les intrigues de Sauron. \n\n 'Ils étaient entièrement vêtus de blanc ; et les cheveux de la Dame étaient d'un or profond, et les cheveux du Seigneur Celeborn étaient d'argent long et brillant ; mais aucun signe de l'âge n'était sur eux, à moins que ce ne soit au fond de leurs yeux ; car ceux-ci étaient aiguisés comme des lances à la lumière des étoiles, et pourtant profonds, les puits de la mémoire profonde.'"
+"Recrutez Celeborn, Seigneur de la Lothlórien. \n\n Celeborn est l'un des plus anciens immortels vivant encore en Terre du Milieu. Il règne sur la Lothlórien avec son épouse Galadriel. \n C'est un seigneur Elfe de grand prestige et d'une immense perspicacité, et ses avertissements se sont souvent révélés précieux lors des conseils des Sages depuis l'Ultime Alliance. \n Au fil des siècles, il s'est opposé sans relâche au Seigneur des Ténèbres, faisant tout ce qui est en son pouvoir pour contrer les intrigues de Sauron. \n\n 'Ils étaient entièrement vêtus de blanc ; et les cheveux de la Dame étaient d'un or profond, et les cheveux du Seigneur Celeborn étaient d'argent long et brillant ; mais aucun signe de l'âge n'était sur eux, à moins que ce ne soit au fond de leurs yeux ; car ceux-ci étaient aiguisés comme des lances à la lumière des étoiles, et pourtant profonds, les puits de la mémoire profonde.'"
 END
 
 CONTROLBAR:ElvenLorienCelebornRevive
@@ -26769,7 +26769,7 @@ OBJECT:ElvenGaladriel
 END
 
 CONTROLBAR:ElvenGaladrielRecruit
-"Recrutez Galadriel, la Reine des Elfes Sylvestres de la Lothl?rien. \n\n Galadriel figure parmi les plus puissants des Elfes. C'est une grande magicienne, à la fois redoutable et terrifiante. Elle inspire respect et terreur aux mortels. Ils considèrent ses pouvoirs avec admiration mais les terres de la Lothl?rien leur sont fermées par la magie de Nenya, l'anneau adamantin de Mithril. C'est également grâce à lui que la Lothl?rien est protégée des ravages du temps et des attaques des forces du Mal. \n\n 'Même la plus petite personne peut changer le cours des choses.'"
+"Recrutez Galadriel, la Reine des Elfes Sylvestres de la Lothlórien. \n\n Galadriel figure parmi les plus puissants des Elfes. C'est une grande magicienne, à la fois redoutable et terrifiante. Elle inspire respect et terreur aux mortels. Ils considèrent ses pouvoirs avec admiration mais les terres de la Lothlórien leur sont fermées par la magie de Nenya, l'anneau adamantin de Mithril. C'est également grâce à lui que la Lothlórien est protégée des ravages du temps et des attaques des forces du Mal. \n\n 'Même la plus petite personne peut changer le cours des choses.'"
 END
 
 CONTROLBAR:ElvenGaladrielRevive
@@ -26820,7 +26820,7 @@ CONTROLBAR:RumilLeadership
 END
 
 CONTROLBAR:ToolTipRumilLeadership
-"Requiert : Niveau 6 \n Type d'Action : Charisme. \n Les archers de la L?rien, archers de la L?rien et les Gardiens des Marches proches de Rúmil gagnent +50% de vision et les archers gagnent + 15% de portée d'attaque (bonus cumulable). \n Rúmil gagne +50% d'armure. \n\n Capacité passive."
+"Requiert : Niveau 6 \n Type d'Action : Charisme. \n Les archers de la Lórien, archers de la Lórien et les Gardiens des Marches proches de Rúmil gagnent +50% de vision et les archers gagnent + 15% de portée d'attaque (bonus cumulable). \n Rúmil gagne +50% d'armure. \n\n Capacité passive."
 END
 
 CONTROLBAR:RumilSummon
@@ -26828,7 +26828,7 @@ CONTROLBAR:RumilSummon
 END
 
 CONTROLBAR:ToolTipRumilSummon
-"Requiert : Niveau 8 \n Invoque une illusion d'archers de la L?rien à l'emplacement cible. \n Les archers d'illusion n'infligent aucun dégât avec leurs attaques et diminuent à la place la vitesse, l'armure et les dégâts de l'ennemi de -25%. \n\n Cliquez sur l'icône puis cliquez sur la zone cible."
+"Requiert : Niveau 8 \n Invoque une illusion d'archers de la Lórien à l'emplacement cible. \n Les archers d'illusion n'infligent aucun dégât avec leurs attaques et diminuent à la place la vitesse, l'armure et les dégâts de l'ennemi de -25%. \n\n Cliquez sur l'icône puis cliquez sur la zone cible."
 END
 
 
@@ -26922,7 +26922,7 @@ CONTROLBAR:ToolTipToggleElvenWarriorWeapons
 END
 
 CONTROLBAR:HaldirTeleport
-"Gardien de la Lothl?rien (&T)"
+"Gardien de la Lothlórien (&T)"
 END
 
 CONTROLBAR:TooltipHaldirTeleport
@@ -26934,7 +26934,7 @@ CONTROLBAR:HaldirLeadership
 END
 
 CONTROLBAR:ToolTipHaldirLeadership
-"Requiert : Niveau 6 \n Type d'Action : Charisme. \n Haldir porte son armure lourde de bataille et gagne +50% d'armure de fa?on permanente. \n Les gardiens de la L?rien à proximité, les archers de la L?rien, les sentinelles de Cerin Amroth, les traqueurs de Sindar et les gardiens de la marche gagnent +33% de dégâts et +33% d'armure (bonus cumulable). \n\n Capacité passive."
+"Requiert : Niveau 6 \n Type d'Action : Charisme. \n Haldir porte son armure lourde de bataille et gagne +50% d'armure de fa?on permanente. \n Les gardiens de la Lórien à proximité, les archers de la Lórien, les sentinelles de Cerin Amroth, les traqueurs de Sindar et les gardiens de la marche gagnent +33% de dégâts et +33% d'armure (bonus cumulable). \n\n Capacité passive."
 END
 
 CONTROLBAR:HaldirArmor
@@ -27022,7 +27022,7 @@ CONTROLBAR:TooltipGaladrielForesight
 End
 
 CONTROLBAR:GaladrielLeadership
-"La Dame de la Lothl?rien"
+"La Dame de la Lothlórien"
 END
 
 CONTROLBAR:ToolTipGaladrielLeadership
@@ -27132,7 +27132,7 @@ CONTROLBAR:NimrodelWaters
 END
 
 CONTROLBAR:ToolTipNimrodelWaters
-"Le Mallorn est baigné des eaux de la Nimrodel, un affluent de la rivière Celebrant qui na?t dans les Monts Brumeux et traverse la Lothl?rien. \n Les alliés proches du Mallorn sont soignés."
+"Le Mallorn est baigné des eaux de la Nimrodel, un affluent de la rivière Celebrant qui na?t dans les Monts Brumeux et traverse la Lothlórien. \n Les alliés proches du Mallorn sont soignés."
 END
 
 CONTROLBAR:MallornRoots
@@ -27152,7 +27152,7 @@ CONTROLBAR:ConstructEregionForge
 END
 
 CONTROLBAR:ToolTipEregionForge
-"Génère des ressources en nourritures et artefacts selon le terrain disponible. \n Permet de rechercher les améliorations des unités de le Lothl?rien. \n Réduit le coût des améliorations. \n Augmente la limite de points de commandement de 50."
+"Génère des ressources en nourritures et artefacts selon le terrain disponible. \n Permet de rechercher les améliorations des unités de le Lothlórien. \n Réduit le coût des améliorations. \n Augmente la limite de points de commandement de 50."
 END
 
 CONTROLBAR:PurchaseUpgradeEregionForgeLevel2
@@ -27176,11 +27176,11 @@ CONTROLBAR:LW_Structure_ElvenEregionForge
 END
 
 CONTROLBAR:LW_ToolTipBuild_ElvenEregionForge
-"Type de structure : Caserne d'élite. \n Forme des unités d'élite de la Lothl?rien. \n"
+"Type de structure : Caserne d'élite. \n Forme des unités d'élite de la Lothlórien. \n"
 END
 
 CONTROLBAR:LW_ToolTip_ElvenEregionForge
-"Type de structure : Caserne d'élite. \n Forme des unités d'élite de la Lothl?rien."
+"Type de structure : Caserne d'élite. \n Forme des unités d'élite de la Lothlórien."
 END
 
 TOOLTIP:LackLevel2EregionForge
@@ -27380,7 +27380,7 @@ OBJECT:ElvenBarracks
 END
 
 CONTROLBAR:ToolTipElvenBarracks
-"Permet de recruter les unités d'infanterie de la Lothl?rien. \n Augmente la limite de points de commandement de 25."
+"Permet de recruter les unités d'infanterie de la Lothlórien. \n Augmente la limite de points de commandement de 25."
 END
 
 CONTROLBAR:PurchaseUpgradeElvenBarracksLevel2
@@ -27396,11 +27396,11 @@ END
 //END
 
 CONTROLBAR:LW_ToolTipBuild_ElvenBarracks
-"Type de structure : Caserne. \n Forme les unités de base de la Lothl?rien. \n"
+"Type de structure : Caserne. \n Forme les unités de base de la Lothlórien. \n"
 END
 
 CONTROLBAR:LW_ToolTip_ElvenBarracks
-"Type de structure : Caserne. \n Forme les unités de base de la Lothl?rien."
+"Type de structure : Caserne. \n Forme les unités de base de la Lothlórien."
 END
 
 OBJECT:ElvenBarracksDescription
@@ -27436,7 +27436,7 @@ CONTROLBAR:ConstructElvenStable
 END
 
 CONTROLBAR:ToolTipGreenPasture
-"Permet de recruter la cavalerie de la Lothl?rien. \n Augmente la limite de points de commandement de 25."
+"Permet de recruter la cavalerie de la Lothlórien. \n Augmente la limite de points de commandement de 25."
 END
 
 CONTROLBAR:ConstructElvenGreenPastureLevel2Upgrade
@@ -27536,7 +27536,7 @@ OBJECT:GaladrielsWell
 END
 
 OBJECT:GMirrorDescription
-"Permet de rechercher des améliorations spéciales pour la L?rien. \n Détecte les unités furtives. \n Limité à 1 miroir seulement. \n Augmente la limite de points de commandement de 25." 
+"Permet de rechercher des améliorations spéciales pour la Lórien. \n Détecte les unités furtives. \n Limité à 1 miroir seulement. \n Augmente la limite de points de commandement de 25." 
 END
 
 CONTROLBAR:ToolTipConstructGaladrielMirror_Disabled
@@ -27556,11 +27556,11 @@ OBJECT:ElvenWellDescription
 END
 
 UPGRADE:ThingsthatAre
-"Défense de la L?rien"
+"Défense de la Lórien"
 END
 
 CONTROLBAR:ThingsthatAre
-"Défense de la L?rien (&W)"
+"Défense de la Lórien (&W)"
 END
 
 CONTROLBAR:ToolTipBuildThingsthatAre
@@ -27744,7 +27744,7 @@ BANNERUI:ElvenLorienWarriors
 End
 
 CONTROLBAR:ToolTipBuildElvenLorienWarriorHordeWithNoPrerequisites
-"Gardiens de la L?rien. \n Rares sont les Elfes sylvestres qui n'ont pas été appelés à combattre à un moment ou un autre pour défendre leurs demeures en faisant usage de leurs talents à l'arc ou à la lance. \n Après des siècles d'entra?nement, ils savent manier leurs longues lances avec une habileté presque surnaturelle. \n Peuvent se camoufler près des arbres. \n\n Fort contre la cavalerie et les piquiers."
+"Gardiens de la Lórien. \n Rares sont les Elfes sylvestres qui n'ont pas été appelés à combattre à un moment ou un autre pour défendre leurs demeures en faisant usage de leurs talents à l'arc ou à la lance. \n Après des siècles d'entra?nement, ils savent manier leurs longues lances avec une habileté presque surnaturelle. \n Peuvent se camoufler près des arbres. \n\n Fort contre la cavalerie et les piquiers."
 END
 
 CONTROLBAR:LW_Unit_ElvenLorienWarriorHorde
@@ -27756,11 +27756,11 @@ CONTROLBAR:LW_Unit_ElvenLorienWarriorHordePlural
 END
 
 CONTROLBAR:LW_ToolTipBuild_ElvenLorienWarriorHorde
-"Gardiens de la L?rien. \n Type d'unité : Infanterie standard. \n\n Fort contre la cavalerie. \n"
+"Gardiens de la Lórien. \n Type d'unité : Infanterie standard. \n\n Fort contre la cavalerie. \n"
 END
 
 CONTROLBAR:LW_ToolTip_ElvenLorienWarriorHorde
-"\n Gardiens de la L?rien. \n Type d'unité : Infanterie standard. \n\n Fort contre la cavalerie."
+"\n Gardiens de la Lórien. \n Type d'unité : Infanterie standard. \n\n Fort contre la cavalerie."
 END
 
 
@@ -27798,15 +27798,15 @@ CONTROLBAR:LW_Unit_ElvenLorienArcherHordePlural
 END
 
 CONTROLBAR:LW_ToolTipBuild_ElvenLorienArcherHorde
-"Archers de la L?rien. \n Type d'unité : Archers standards. \n\n Forts contre les épéistes. \n"
+"Archers de la Lórien. \n Type d'unité : Archers standards. \n\n Forts contre les épéistes. \n"
 END
 
 CONTROLBAR:LW_ToolTip_ElvenLorienArcherHorde
-"Archers de la L?rien. \n Type d'unité : Archers standards. \n\n Forts contre les épéistes."
+"Archers de la Lórien. \n Type d'unité : Archers standards. \n\n Forts contre les épéistes."
 END
 
 CONTROLBAR:ToolTipBuildElvenLorienArcherHordeWithNoPrerequisites
-"Archers de la L?rien. \n Rares sont les Elfes sylvestres qui n'ont pas été appelés à combattre à un moment ou un autre pour défendre leurs demeures en faisant usage de leurs talents à l'arc ou à la lance. \n Equipés de magnifiques arcs longs et forts de plusieurs siècles d'expérience, ces archers sylvestres sont parmi les plus meurtriers de toute la Terre du Milieu. \n Peuvent se camoufler prés des arbres. \n\n Fort contre l'infanterie."
+"Archers de la Lórien. \n Rares sont les Elfes sylvestres qui n'ont pas été appelés à combattre à un moment ou un autre pour défendre leurs demeures en faisant usage de leurs talents à l'arc ou à la lance. \n Equipés de magnifiques arcs longs et forts de plusieurs siècles d'expérience, ces archers sylvestres sont parmi les plus meurtriers de toute la Terre du Milieu. \n Peuvent se camoufler prés des arbres. \n\n Fort contre l'infanterie."
 END
 
 
@@ -27852,7 +27852,7 @@ CONTROLBAR:LW_Unit_CerinAmrothSentinelComboHordePlural
 END
 
 CONTROLBAR:ToolTipBuildCerinAmrothSentinelHorde
-"Sentinelles de Cerin Amroth. \n Requiert : Garnison des Galadhrims niveau 2. \n La surveillance des sites les plus précieux du royaume sylvestre est confiée aux Sentinelles de Cerin Amroth. Chacun de ces guerriers est un Elfe de sang noble, issu d'une lignée de la race des Nandor remontant aux premiers jours de la Terre du Milieu, et dont le gloire et les exploits sont la trame des légendes. \n Ces guerriers d'élite sont chargés de sauvegarder la colline vénérée d'Amroth, autrefois la maison d'Amroth Amdirion, le dernier roi de la L?rien. \n\n Forts contre la cavalerie."
+"Sentinelles de Cerin Amroth. \n Requiert : Garnison des Galadhrims niveau 2. \n La surveillance des sites les plus précieux du royaume sylvestre est confiée aux Sentinelles de Cerin Amroth. Chacun de ces guerriers est un Elfe de sang noble, issu d'une lignée de la race des Nandor remontant aux premiers jours de la Terre du Milieu, et dont le gloire et les exploits sont la trame des légendes. \n Ces guerriers d'élite sont chargés de sauvegarder la colline vénérée d'Amroth, autrefois la maison d'Amroth Amdirion, le dernier roi de la Lórien. \n\n Forts contre la cavalerie."
 END
 
 CONTROLBAR:LW_ToolTip_CerinAmrothSentinelHorde
@@ -27898,7 +27898,7 @@ CONTROLBAR:LW_Unit_LorienStalkerHordePlural
 END
 
 CONTROLBAR:ToolTipBuildLorienStalkerHorde
-"Traqueur des sentiers Sindar. \n Requiert : Garnison des Galadhrim niveau 2. \n Silencieux et aussi redoutables que la mort elle-même, les Forestiers sont les sentinelles qui protègent les voies menant en Lothl?rien. Ces ma?tres de la dissimulation sont entra?nés à rester immobiles pendant des jours entiers en attendant le moment propice pour frapper leur malheureuse victime. \n Ce sont des assassins experts qui font partie des guerriers les plus loyaux de Galadriel. \n\n Forts contre l'infanterie."
+"Traqueur des sentiers Sindar. \n Requiert : Garnison des Galadhrim niveau 2. \n Silencieux et aussi redoutables que la mort elle-même, les Forestiers sont les sentinelles qui protègent les voies menant en Lothlórien. Ces ma?tres de la dissimulation sont entra?nés à rester immobiles pendant des jours entiers en attendant le moment propice pour frapper leur malheureuse victime. \n Ce sont des assassins experts qui font partie des guerriers les plus loyaux de Galadriel. \n\n Forts contre l'infanterie."
 END
 
 CONTROLBAR:LW_ToolTip_LorienStalkerHorde
@@ -27960,11 +27960,11 @@ CONTROLBAR:LW_ToolTip_ElvenGaladhrimWarriorHorde
 END
 
 CONTROLBAR:ToolTipBuildGaladhrimWarriorInnHorde
-"Gardien des Marches. \n Fort contre l'infanterie. \n\n Les Gardiens des Marches sont la seule véritable unité militaire de la Lothl?rien, et seuls les meilleurs guerriers elfes peuvent espérer en faire partie. Ils sont chargés de garder les frontières de la L?rien et font leurs rapports au Seigneur Celeborn lui-même."
+"Gardien des Marches. \n Fort contre l'infanterie. \n\n Les Gardiens des Marches sont la seule véritable unité militaire de la Lothlórien, et seuls les meilleurs guerriers elfes peuvent espérer en faire partie. Ils sont chargés de garder les frontières de la Lórien et font leurs rapports au Seigneur Celeborn lui-même."
 END
 
 CONTROLBAR:ToolTipBuildGaladhrimWarriorHorde
-"Gardien des Marches. \n Requiert : Garnison des Galadhrim niveau 2. \n Fort contre l'infanterie. \n\n Les Gardiens des Marches sont la seule véritable unité militaire de la Lothl?rien, et seuls les meilleurs guerriers elfes peuvent espérer en faire partie. Ils sont chargés de garder les frontières de la L?rien et font leurs rapports au Seigneur Celeborn lui-même."
+"Gardien des Marches. \n Requiert : Garnison des Galadhrim niveau 2. \n Fort contre l'infanterie. \n\n Les Gardiens des Marches sont la seule véritable unité militaire de la Lothlórien, et seuls les meilleurs guerriers elfes peuvent espérer en faire partie. Ils sont chargés de garder les frontières de la Lórien et font leurs rapports au Seigneur Celeborn lui-même."
 END
 
 CONTROLBAR:LW_ToolTipBuild_ElvenGaladhrimWarriorHorde
@@ -28010,7 +28010,7 @@ CONTROLBAR:LW_ToolTip_ElvenNandorBlademasterHorde_WOTR
 END
 
 CONTROLBAR:ToolTipBuildNandorBlademasterHorde
-"Requiert : Garnison des Galadhrim niveau 3. \n Avant l'arrivée des Galadhrims, ces elfes Telerin vivaient déjà en L?rien depuis des millénaires. Ce sont les premiers défenseurs du royaume sylvestre, des combattants éternels aux prouesses martiales exceptionnels qui ont parfait leurs compétences militaires au cours de nombreux conflits. \n Ce sont des ma?tres d'arme grâce à qui la Lothl?rien a pu repousser les forces des Ténèbres pendant de nombreux siècles. \n Unité héro?que, limitées à 2 bataillons seulement. \n\n Forts contre les piquiers et l'infanterie."
+"Requiert : Garnison des Galadhrim niveau 3. \n Avant l'arrivée des Galadhrims, ces elfes Telerin vivaient déjà en Lórien depuis des millénaires. Ce sont les premiers défenseurs du royaume sylvestre, des combattants éternels aux prouesses martiales exceptionnels qui ont parfait leurs compétences militaires au cours de nombreux conflits. \n Ce sont des ma?tres d'arme grâce à qui la Lothlórien a pu repousser les forces des Ténèbres pendant de nombreux siècles. \n Unité héro?que, limitées à 2 bataillons seulement. \n\n Forts contre les piquiers et l'infanterie."
 END
 
 CONTROLBAR:LW_ToolTipBuild_ElvenNandorBlademasterHorde
@@ -28098,7 +28098,7 @@ CONTROLBAR:LW_Unit_ElvenAmrothKnightHordePlural
 END
 
 CONTROLBAR:ToolTipBuildElvenAmrothKnightHorde
-"Chevaliers d'Amroth. \n Requiert le pouvoir Chevaliers d'Amroth. \n De tous les cavaliers elfiques, ce sont les Chevaliers d'Amroth qui incarnent le mieux la grâce martiale et la valeur auxquelles chaque jeune Elfe aspire. Leurs cavaliers sont recrutés parmi les familles de sang noble, et rares sont les aristocrates qui s'exposent au déshonneur en refusant d'accomplir leur devoir. \n Bien que leur roi ait disparu depuis longtemps, ces nobles Sindarin continuent à tenir leurs serments et à se battre pour défendre la L?rien en tant que garde de la maison d'Amroth. \n\n Cavalerie d'élite, Fort contre les archers."
+"Chevaliers d'Amroth. \n Requiert le pouvoir Chevaliers d'Amroth. \n De tous les cavaliers elfiques, ce sont les Chevaliers d'Amroth qui incarnent le mieux la grâce martiale et la valeur auxquelles chaque jeune Elfe aspire. Leurs cavaliers sont recrutés parmi les familles de sang noble, et rares sont les aristocrates qui s'exposent au déshonneur en refusant d'accomplir leur devoir. \n Bien que leur roi ait disparu depuis longtemps, ces nobles Sindarin continuent à tenir leurs serments et à se battre pour défendre la Lórien en tant que garde de la maison d'Amroth. \n\n Cavalerie d'élite, Fort contre les archers."
 END
 
 CONTROLBAR:LW_ToolTip_ElvenAmrothKnightHorde
@@ -28250,7 +28250,7 @@ CONTROLBAR:ToolTipNandorTreasure
 END
 
 CONTROLBAR:NandorUnscathed
-"Pour L?rinand ! (&T)"
+"Pour Lórinand ! (&T)"
 END
 
 CONTROLBAR:ToolTipNandorUnscathed
@@ -28276,7 +28276,7 @@ CONTROLBAR:RallyingCallElves
 END
 
 CONTROLBAR:TooltipRallyingCallElves
-"Type d'Action : Bonus. \n Le son des cors de la L?rien exalte les troupes : les alliés ciblés gagnent +50% de dégâts et +50% d'armure (bonus cumulable). \n\n Clic gauche sur l'icône puis clic gauche sur la cible."
+"Type d'Action : Bonus. \n Le son des cors de la Lórien exalte les troupes : les alliés ciblés gagnent +50% de dégâts et +50% d'armure (bonus cumulable). \n\n Clic gauche sur l'icône puis clic gauche sur la cible."
 END
 
 
@@ -28284,7 +28284,7 @@ END
 
 
 CONTROLBAR:LorienTrap
-"Les Défenseurs de la L?rien"
+"Les Défenseurs de la Lórien"
 End
 
 CONTROLBAR:ToolTipLorienTrap
@@ -28384,7 +28384,7 @@ CONTROLBAR:CastDown
 End
 
 CONTROLBAR:ToolTipCastDown
-"La Dame de la Lothl?rien invoque une tempête rugissante sur une zone du terrain, causant de gros dégâts aux structures et des dégâts modérés aux unités. \n\n Clic gauche sur l'icône puis clic gauche sur la zone cible."
+"La Dame de la Lothlórien invoque une tempête rugissante sur une zone du terrain, causant de gros dégâts aux structures et des dégâts modérés aux unités. \n\n Clic gauche sur l'icône puis clic gauche sur la zone cible."
 END
 
 
@@ -28713,15 +28713,15 @@ END
 ///////////
 
 CONTROLBAR:ElvenArwenHotkey
-"Arwen Und?miel(&W)"
+"Arwen Undómiel(&W)"
 END
 
 OBJECT:ElvenArwen
-"Arwen Und?miel"
+"Arwen Undómiel"
 END
 
 CONTROLBAR:ArwenRecruit
-"Recrutez la fille d'Elrond. \n\n Arwen est la fille d'Elrond et de Celebrían, petite-fille de Galadriel, et fait partie des Peredhil, les Semi-Elfes. En raison de sa grande beauté, elle est souvent comparée à Lúthien et est surnommée Und?miel (?toile du Soir). \n Tout comme son père, Arwen est une elfe courageuse et de grand pouvoir. Immortelle, elle est vouée à quitter la Terre du Milieu pour les Havres Gris, mais son amour pour Aragorn la retient dans ce royaume mortel. \n\n 'Je préfère partager une existence humaine avec vous, qu'affronter tous les âges de ce monde toute seule. Je choisis une vie mortelle.'"
+"Recrutez la fille d'Elrond. \n\n Arwen est la fille d'Elrond et de Celebrían, petite-fille de Galadriel, et fait partie des Peredhil, les Semi-Elfes. En raison de sa grande beauté, elle est souvent comparée à Lúthien et est surnommée Undómiel (?toile du Soir). \n Tout comme son père, Arwen est une elfe courageuse et de grand pouvoir. Immortelle, elle est vouée à quitter la Terre du Milieu pour les Havres Gris, mais son amour pour Aragorn la retient dans ce royaume mortel. \n\n 'Je préfère partager une existence humaine avec vous, qu'affronter tous les âges de ce monde toute seule. Je choisis une vie mortelle.'"
 END
 
 CONTROLBAR:ArwenRevive
@@ -28769,11 +28769,11 @@ OBJECT:ArnorHalbarad
 END
 
 CONTROLBAR:ToolTipBuildHalbarad
-"Recrutez le capitaine des Dúnedains. \n\n Halbarad était un capitaine des Dúnedain qui a loyalement servi son chef Aragorn à la fin du troisième âge. Il partit avec la Compagnie Grise et les Fils d'Elrond pour aider l'Héritier d'Isildur dans son voyage à travers les Chemins des Morts et la libération de Pelargir. Tout au long de cette tâche, Halbarad portait la Bannière de l'?toile de l'?vénement, forgée par Arwen Und?miel, qui inspira l'espoir au Peuple libre lors de la bataille des champs du Pelennor. \n\n 'C'est une porte maléfique, et ma mort se trouve au-delà. J'oserai néanmoins la franchir.'"
+"Recrutez le capitaine des Dúnedains. \n\n Halbarad était un capitaine des Dúnedain qui a loyalement servi son chef Aragorn à la fin du troisième âge. Il partit avec la Compagnie Grise et les Fils d'Elrond pour aider l'Héritier d'Isildur dans son voyage à travers les Chemins des Morts et la libération de Pelargir. Tout au long de cette tâche, Halbarad portait la Bannière de l'?toile de l'?vénement, forgée par Arwen Undómiel, qui inspira l'espoir au Peuple libre lors de la bataille des champs du Pelennor. \n\n 'C'est une porte maléfique, et ma mort se trouve au-delà. J'oserai néanmoins la franchir.'"
 END
 
 CONTROLBAR:GondorHalbaradRecruit
-"Recrutez le capitaine des Dúnedains. \n\n Halbarad était un capitaine des Dúnedain qui a loyalement servi son chef Aragorn à la fin du troisième âge. Il partit avec la Compagnie Grise et les Fils d'Elrond pour aider l'Héritier d'Isildur dans son voyage à travers les Chemins des Morts et la libération de Pelargir. Tout au long de cette tâche, Halbarad portait la Bannière de l'?toile de l'?vénement, forgée par Arwen Und?miel, qui inspira l'espoir au Peuple libre lors de la bataille des champs du Pelennor. \n\n 'C'est une porte maléfique, et ma mort se trouve au-delà. J'oserai néanmoins la franchir.'"
+"Recrutez le capitaine des Dúnedains. \n\n Halbarad était un capitaine des Dúnedain qui a loyalement servi son chef Aragorn à la fin du troisième âge. Il partit avec la Compagnie Grise et les Fils d'Elrond pour aider l'Héritier d'Isildur dans son voyage à travers les Chemins des Morts et la libération de Pelargir. Tout au long de cette tâche, Halbarad portait la Bannière de l'?toile de l'?vénement, forgée par Arwen Undómiel, qui inspira l'espoir au Peuple libre lors de la bataille des champs du Pelennor. \n\n 'C'est une porte maléfique, et ma mort se trouve au-delà. J'oserai néanmoins la franchir.'"
 END
 
 CONTROLBAR:GondorHalbaradRevive
@@ -29009,7 +29009,7 @@ CONTROLBAR:ToolTipDaughterElrond
 END
 
 CONTROLBAR:UndomielLeadership
-"Und?miel"
+"Undómiel"
 END
 
 CONTROLBAR:TooltipUndomielLeadership
@@ -29017,7 +29017,7 @@ CONTROLBAR:TooltipUndomielLeadership
 END
 
 CONTROLBAR:SpecialPowerUndomiel
-"Und?miel (&R)"
+"Undómiel (&R)"
 END
 
 CONTROLBAR:ToolTipSpecialPowerUndomiel
@@ -29025,7 +29025,7 @@ CONTROLBAR:ToolTipSpecialPowerUndomiel
 End
 
 CONTROLBAR:SpecialPowerUndomielFinal
-"Und?miel"
+"Undómiel"
 END
 
 CONTROLBAR:ToolTipSpecialPowerUndomielFinal
@@ -29161,11 +29161,11 @@ CONTROLBAR:HalbaradBannerOfArwen
 END
 
 CONTROLBAR:TooltipHalbaradBannerOfArwen
-"Requiert : Niveau 10 \n Halbarad déploie la bannière d'Arwen Und?miel. \n Les unités alliées et les héros dans un grand rayon gagnent temporairement +50% de dégâts et +200% d'expérience. \n Les unités et héros ennemis perdent -33% de dégâts, -50% de gain d'expérience et ont une résistance à la peur réduite. \n La bannière est sur le terrain pendant 60 secondes. La bannière peut être détruite par l'ennemi pendant ce temps. \n\n Clic gauche sur l'icone pour l'activer."
+"Requiert : Niveau 10 \n Halbarad déploie la bannière d'Arwen Undómiel. \n Les unités alliées et les héros dans un grand rayon gagnent temporairement +50% de dégâts et +200% d'expérience. \n Les unités et héros ennemis perdent -33% de dégâts, -50% de gain d'expérience et ont une résistance à la peur réduite. \n La bannière est sur le terrain pendant 60 secondes. La bannière peut être détruite par l'ennemi pendant ce temps. \n\n Clic gauche sur l'icone pour l'activer."
 END
 
 OBJECT:BannerofArwen
-"?tendard d'Arwen Und?miel"
+"?tendard d'Arwen Undómiel"
 END
 
 
@@ -32857,7 +32857,7 @@ CONTROLBAR:LegolasDwarfFriend
 END
 
 CONTROLBAR:TooltipLegolasDwarfFriend
-"Requiert : Niveau 10 \n Invoque Gimli, fils de Gl?in sur le champ de bataille. \n\n Clic gauche pour l'activer."
+"Requiert : Niveau 10 \n Invoque Gimli, fils de Glóin sur le champ de bataille. \n\n Clic gauche pour l'activer."
 END
 
 
@@ -34867,11 +34867,11 @@ CONTROLBAR:ConstructMordorVangaurdHorde
 END
 
 CONTROLBAR:ToolTipBuildMordorVangaurdHorde
-"Requiert l'amélioration Sorcellerie de Morgul. \n L'Avant-garde de Morgul incarnent toute la cruauté et la fourberie du Mordor. Comme la Bouche de Sauron, ce sont des Númen?réens Noirs, des Hommes qui ont scellé une alliance avec Sauron il y a bien des siècles. On prétend que ces tra?tres ont re?u l'immortalité pour prix de leur vassalité. \n Montés sur de sombres coursiers capara?onnés et maniant leurs épées avec une dextérité surnaturelle, ils forment l'élite des armées des Ténèbres. \n Limité à 1 bataillon seulement. \n\n Unité héro?que, forts contre l'infanterie et les héros."
+"Requiert l'amélioration Sorcellerie de Morgul. \n L'Avant-garde de Morgul incarnent toute la cruauté et la fourberie du Mordor. Comme la Bouche de Sauron, ce sont des Númenóréens Noirs, des Hommes qui ont scellé une alliance avec Sauron il y a bien des siècles. On prétend que ces tra?tres ont re?u l'immortalité pour prix de leur vassalité. \n Montés sur de sombres coursiers capara?onnés et maniant leurs épées avec une dextérité surnaturelle, ils forment l'élite des armées des Ténèbres. \n Limité à 1 bataillon seulement. \n\n Unité héro?que, forts contre l'infanterie et les héros."
 END
 
 CONTROLBAR:ToolTipBuildMordorVangaurdHordeFortress
-"Requiert l'amélioration Sorcellerie de Morgul. \n Limité à 1 bataillon seulement. \n Unité héro?que, forts contre l'infanterie et les héros. \n\n L'Avant-garde de Morgul incarnent toute la cruauté et la fourberie du Mordor. Comme la Bouche de Sauron, ce sont des Númen?réens Noirs, des Hommes qui ont scellé une alliance avec Sauron il y a bien des siècles. On prétend que ces tra?tres ont re?u l'immortalité pour prix de leur vassalité. \n Montés sur de sombres coursiers capara?onnés et maniant leurs épées avec une dextérité surnaturelle, ils forment l'élite des armées des Ténèbres."
+"Requiert l'amélioration Sorcellerie de Morgul. \n Limité à 1 bataillon seulement. \n Unité héro?que, forts contre l'infanterie et les héros. \n\n L'Avant-garde de Morgul incarnent toute la cruauté et la fourberie du Mordor. Comme la Bouche de Sauron, ce sont des Númenóréens Noirs, des Hommes qui ont scellé une alliance avec Sauron il y a bien des siècles. On prétend que ces tra?tres ont re?u l'immortalité pour prix de leur vassalité. \n Montés sur de sombres coursiers capara?onnés et maniant leurs épées avec une dextérité surnaturelle, ils forment l'élite des armées des Ténèbres."
 END
 
 CONTROLBAR:MordorFortressMorgulSpire
@@ -41712,7 +41712,7 @@ OBJECT:WildAzog
 END
 
 CONTROLBAR:WildAzogRecruit
-"Recrutez le Profanateur de Gundabad. \n\n Azog est un Orque pilleur de tombes et le puissant chef des Gobelins de la Moria, qu'ils occupèrent après que les Nains l'eut abandonné. Il participa à la Grande Guerre des Nains et des Orques lorsque Thr?r tenta de reprendre Khazâd-Dûm. Il est finalement tué par Dáin Pied-d'Acier lors de la Bataille d'Azanulbizar, puis son nom sombra dans l'oubli. \n Mais de récentes rumeurs font état d'un Orque pâle correspondant à sa description et chevauchant un Warg blanc... \n\n 'Nuzdigid? Nuzdi gast...'"
+"Recrutez le Profanateur de Gundabad. \n\n Azog est un Orque pilleur de tombes et le puissant chef des Gobelins de la Moria, qu'ils occupèrent après que les Nains l'eut abandonné. Il participa à la Grande Guerre des Nains et des Orques lorsque Thrór tenta de reprendre Khazâd-Dûm. Il est finalement tué par Dáin Pied-d'Acier lors de la Bataille d'Azanulbizar, puis son nom sombra dans l'oubli. \n Mais de récentes rumeurs font état d'un Orque pâle correspondant à sa description et chevauchant un Warg blanc... \n\n 'Nuzdigid? Nuzdi gast...'"
 END
 
 CONTROLBAR:WildAzogRevive
@@ -42102,7 +42102,7 @@ CONTROLBAR:AzogBrigandage
 END
 
 CONTROLBAR:ToolTipAzogBrigandage
-"Requiert : Niveau 2 \n Type d'Action: Charisme. \n A la Bataille d'Azanulbizar, Azog décapita Thr?r, Roi du Peuple de Durin et assura sa position de ma?tre incontesté parmi les siens. \n Les alliés proches d'Azog gagnent +50% de dégâts et sont résistants face à la peur (bonus cumulable). \n\n Capacité passive."
+"Requiert : Niveau 2 \n Type d'Action: Charisme. \n A la Bataille d'Azanulbizar, Azog décapita Thrór, Roi du Peuple de Durin et assura sa position de ma?tre incontesté parmi les siens. \n Les alliés proches d'Azog gagnent +50% de dégâts et sont résistants face à la peur (bonus cumulable). \n\n Capacité passive."
 END
 
 CONTROLBAR:ToolTipAzogHeadhunter
@@ -43268,7 +43268,7 @@ END
 
 
 //////////////////////////
-// CHAUVE-SOURIS G?ANTE //
+// CHAUVE-SOURIS GÉNANTE //
 //////////////////////////
 
 CONTROLBAR:ConstructWildGiantBat
@@ -43336,7 +43336,7 @@ End
 
 
 /////////////////////////
-// G?ANT DES MONTAGNES //
+// GÉNANT DES MONTAGNES //
 /////////////////////////
 
 CONTROLBAR:ConstructWildMountainGiant
@@ -43698,7 +43698,7 @@ END
 
 
 //////////////////////////
-// CHAUVE-SOURIS G?ANTE //
+// CHAUVE-SOURIS GÉNANTE //
 //////////////////////////
 
 CONTROLBAR:Vampirism
@@ -43774,7 +43774,7 @@ END
 
 
 /////////////////////////
-// G?ANT DES MONTAGNES //
+// GÉNANT DES MONTAGNES //
 /////////////////////////
 
 CONTROLBAR:WildMountainGiantGrab
@@ -44355,7 +44355,7 @@ OBJECT:GuldurThrain
 END
 
 CONTROLBAR:GuldurThrainRecruit
-"Recrutez le nain Brisé. \n Le fils autrefois fier de Thr?r a été capturé près de la lisière de la Forêt Noire lors de sa quête pour récupérer les richesses d'Erebor. Il fut emmené dans les cachots de Dol Guldur et torturé pendant de longues décennies jusqu'à ce qu'il soit finalement brisé. \n\n 'On ne peut pas en sortir ! Ils vous en empêcheront !'"
+"Recrutez le nain Brisé. \n Le fils autrefois fier de Thrór a été capturé près de la lisière de la Forêt Noire lors de sa quête pour récupérer les richesses d'Erebor. Il fut emmené dans les cachots de Dol Guldur et torturé pendant de longues décennies jusqu'à ce qu'il soit finalement brisé. \n\n 'On ne peut pas en sortir ! Ils vous en empêcheront !'"
 END
 
 CONTROLBAR:GuldurThrainRevive
@@ -45723,7 +45723,7 @@ END
 //=============== 21.6 POUVOIRS DES UNIT?S DE DOL GULDUR ======
 
 /////////////////////
-// OMBRE ENCHA?N?E //
+// OMBRE ENCHA?ÉE //
 /////////////////////
 
 CONTROLBAR:GuldurShade
@@ -46510,10 +46510,10 @@ CONTROLBAR:HaradSuladanHotkey
 "Sûladan (&R)"
 END
 CONTROLBAR:ToolTipBuildCassimir
-"Recruit the leader of the Black Númen?reans of Umbar"
+"Recruit the leader of the Black Númenóreans of Umbar"
 END
 CONTROLBAR:HaradCassimirRecruit
-"Recruit the leader of the Black Númen?reans of Umbar \n \n One of the two rivaling sons of Kathuphazgân, the last Black Lord of Umbar. Câssimir is a harsh, cruel man that commands the loyalty of the Black Númenorean nobility that still live in Umbar."
+"Recruit the leader of the Black Númenóreans of Umbar \n \n One of the two rivaling sons of Kathuphazgân, the last Black Lord of Umbar. Câssimir is a harsh, cruel man that commands the loyalty of the Black Númenorean nobility that still live in Umbar."
 END
 CONTROLBAR:HaradCassimirRevive
 "Revive the fallen Hero, Câssimir"
@@ -46537,7 +46537,7 @@ CONTROLBAR:ToolTipBuildBeruthiel
 "Recruit the Black Queen of Umbar"
 END
 CONTROLBAR:HaradBeruthielRecruit
-"Recruit the Black Queen of Umbar \n \n Concubine to both Câssimir and Burôdapân, the Black Queen stole her name from an ancient Black Númen?rean Queen. Berúthiel's spies are many, and her influence runs deep."
+"Recruit the Black Queen of Umbar \n \n Concubine to both Câssimir and Burôdapân, the Black Queen stole her name from an ancient Black Númenórean Queen. Berúthiel's spies are many, and her influence runs deep."
 END
 CONTROLBAR:HaradBeruthielRevive
 "Revive the fallen Hero, Berúthiel"
@@ -46662,7 +46662,7 @@ CONTROLBAR:LordofStones
 "Lord of Stones"
 END
 CONTROLBAR:ToolTipLordofStones
-"Modifier Type: Leadership \n Nearby Black Númen?rean units gain +15% Armor and Damage and +50% Experience"
+"Modifier Type: Leadership \n Nearby Black Númenórean units gain +15% Armor and Damage and +50% Experience"
 END
 CONTROLBAR:RuleoftheKingsMen
 "Rule of the King's Men (&T)"
@@ -46725,7 +46725,7 @@ CONTROLBAR:BeruthielEscort
 "Queen's Escort (&C)"
 END
 CONTROLBAR:ToolTipBeruthielEscort
-"Requires Level 8 \n The Black Queen summons two fully armed battalions of Black Númen?rean Warriors\nLeft click to activate"
+"Requires Level 8 \n The Black Queen summons two fully armed battalions of Black Númenórean Warriors\nLeft click to activate"
 END
 CONTROLBAR:MadChieftain
 "Mad Chieftain"
@@ -47218,26 +47218,26 @@ CONTROLBAR:ConstructUmbarianCitadel3Upgrade
 End
 
 CONTROLBAR:ToolTipBuildUmbarianCitadelLevel2Upgrade
-"Allows training of Black Númen?rean units\n +10% Faster Build Speed"
+"Allows training of Black Númenórean units\n +10% Faster Build Speed"
 End
 CONTROLBAR:TooltipBuildUmbarianCitadelLevel3Upgrade
 "Allows training of Watchers of Kârna \n +25% Build Speed"
 End
 
 OBJECT:HordeHaradBlackNumenoreans
-"Black Númen?rean Warriors"
+"Black Númenórean Warriors"
 END
 
 OBJECT:HordeHaradBlackNumenorean
-"Black Númen?rean Warrior"
+"Black Númenórean Warrior"
 END
 
 OBJECT:HaradwaithNumenoreanVanguard
-"Black Númen?rean Vanguard"
+"Black Númenórean Vanguard"
 END
 
 CONTROLBAR:ConstructHaradwaithNumenoreanVanguard
-"Black Númen?rean Vanguard (&R)"
+"Black Númenórean Vanguard (&R)"
 End
 
 CONTROLBAR:ToolTipBuildHaradwaithNumenoreanVanguard
@@ -48176,7 +48176,7 @@ CONTROLBAR:TooltipOakenBird
 END
 
 CONTROLBAR:ThrainSmash
-"Son of Th&r?r"
+"Son of Th&rór"
 END
 
 CONTROLBAR:ToolTipThrainSmash
@@ -48188,7 +48188,7 @@ CONTROLBAR:ThrorLeadership
 End
 
 CONTROLBAR:ToolTipThrorLeadership
-"Modifier Type: Leadership \n Allies near King Thr?r gain +50% Damage, +75% Armor, and earn experience 50% faster \n Stacks with Buffs and Spells \n Passive ability"
+"Modifier Type: Leadership \n Allies near King Thrór gain +50% Damage, +75% Armor, and earn experience 50% faster \n Stacks with Buffs and Spells \n Passive ability"
 END
 
 
@@ -52765,7 +52765,7 @@ SIDE:Men
 END
 
 SIDE:Elves
-"Lothl?rien"
+"Lothlórien"
 END
 
 SIDE:Dwarves
@@ -57275,15 +57275,15 @@ SCRIPT:Objective_G01_06
 END
 
 SCRIPT:Complete_G01_06a
-"Les guerriers de la L?rien ont été entrainés dans la caserne."
+"Les guerriers de la Lórien ont été entrainés dans la caserne."
 END
 
 SCRIPT:Objective_G01_07
-"Gl?in doit atteindre le niveau 2."
+"Glóin doit atteindre le niveau 2."
 END
 
 SCRIPT:Complete_G01_07a
-"Gl?in a atteint le niveau 2."
+"Glóin a atteint le niveau 2."
 END
 
 SCRIPT:Announcement_G01_01
@@ -57484,11 +57484,11 @@ SCRIPT:COMPLETED_G02_01E
 End
 
 SCRIPT:OBJECTIVE_G02_01F
-"Entra?nez des Archers de la L?rien et des Lanciers d'Imladris." 
+"Entra?nez des Archers de la Lórien et des Lanciers d'Imladris." 
 End
 
 SCRIPT:ANNOUNCEMENT_G02_01F
-"Entra?nez des Archers de la L?rien depuis la Caserne et des Lanciers d'Imladris depuis les Verts Paturages et nous pourrons nous aventurer dans le Col." 
+"Entra?nez des Archers de la Lórien depuis la Caserne et des Lanciers d'Imladris depuis les Verts Paturages et nous pourrons nous aventurer dans le Col." 
 End
 
 SCRIPT:COMPLETED_G02_01F
@@ -58624,7 +58624,7 @@ END
 ///////// A single line of text should be no longer than this one. /////////////
 
 SCRIPT:EvilLorienOpenText
-"Construisez une base et levez une armée pour détruire la Lothl?rien."
+"Construisez une base et levez une armée pour détruire la Lothlórien."
 END
 
 SCRIPT:EvilLorienHintText_BuildCave
@@ -60000,7 +60000,7 @@ END
 
 
 OBJECT:LBBRIDGE
-"Pont de la Lothl?rien"
+"Pont de la Lothlórien"
 END
 
 OBJECT:LBTREEHOUSE
@@ -60102,7 +60102,7 @@ CONTROLBAR:SummonElvenAllies
 End
 
 CONTROLBAR:ToolTipSummonElvenAllies
-"Appelle un groupe de Guerriers de la L?rien.\n\nClic gauche sur une zone praticable"
+"Appelle un groupe de Guerriers de la Lórien.\n\nClic gauche sur une zone praticable"
 END
 
 CONTROLBAR:GandalftheWhite
@@ -60146,7 +60146,7 @@ CONTROLBAR:SummonDunedainAllies
 End
 
 CONTROLBAR:ToolTipSummonDunedainAllies
-"Invoque un groupe de 4 bataillons de Rôdeurs Dúnedain, les descendants Númen?réens établis dans le royaume d'Arnor. Désormais errants et secrets, ils continuent de défendre l'Eriador contre les créatures du Mal.\n\nClic gauche sur une zone praticable" 
+"Invoque un groupe de 4 bataillons de Rôdeurs Dúnedain, les descendants Númenóréens établis dans le royaume d'Arnor. Désormais errants et secrets, ils continuent de défendre l'Eriador contre les créatures du Mal.\n\nClic gauche sur une zone praticable" 
 END
 
 CONTROLBAR:MenOfDaleAllies
@@ -60281,7 +60281,7 @@ CONTROLBAR:ToolTipBuildGondorRangerSpearHorde
 END
 
 CONTROLBAR:ToolTipBuildGondorShieldGuardHorde
-"Requiert : Caserne niveau 2\n Le maintien d'un grand régiment de piquiers s'est révélé inestimable pendant les guerres d'An?rien contre l'Haradrim équestre\n\n Fort contre la cavalerie"
+"Requiert : Caserne niveau 2\n Le maintien d'un grand régiment de piquiers s'est révélé inestimable pendant les guerres d'Anórien contre l'Haradrim équestre\n\n Fort contre la cavalerie"
 END
 
 CONTROLBAR:ToolTipBuildGondorLancerHorde
@@ -60553,15 +60553,15 @@ CONTROLBAR:ToolTipBuildGondorKeep
 END
 
 CONTROLBAR:ToolTipBuildGondorArcher
-"Crée archers de l'An?rien"
+"Crée archers de l'Anórien"
 END
 
 CONTROLBAR:ConstructGondorGondorFighterHorde
-"Unite de Combattants de l'An?rien"
+"Unite de Combattants de l'Anórien"
 END
 
 CONTROLBAR:ToolTipBuildGondorCavalry
-"Crée des cavaliers de l'An?rien"
+"Crée des cavaliers de l'Anórien"
 END
 
 CONTROLBAR:ToolTipFireMordorOliphantKnockbackAttack
@@ -62798,7 +62798,7 @@ LW:DefeatedMissionTextEvil
 END
 
 
-// G?N?RAL texte Monde vivant
+// GÉNÉRAL texte Monde vivant
 
 LW:ListSeparator
 ", "
@@ -62821,7 +62821,7 @@ LW:AttackRepelledItemText
 End
 
 LW:AllyDefeatedTitle
-"JOUEUR ALLI? ?LIMIN? !"
+"JOUEUR ALLI? ?LIMIÉ !"
 End
 
 LW:AllyDefeatedText
@@ -62829,7 +62829,7 @@ LW:AllyDefeatedText
 End
 
 LW:EnemyDefeatedTitle
-"JOUEUR ENNEMI ?LIMIN? !"
+"JOUEUR ENNEMI ?LIMIÉ !"
 End
 
 LW:EnemyDefeatedText
@@ -62845,7 +62845,7 @@ LW:UnifiedRegionText
 End
 
 LW:HeroCutOffTitle
-"ARM?E HÉROS ÉcHOU?E !"
+"ARMÉE HÉROS ÉcHOU?E !"
 End
 
 LW:HeroCutOffTextNearest
@@ -62872,7 +62872,7 @@ LWA:FellowshipArmy
 END
 
 LWA:Elves
-"Armée de la Lothl?rien"
+"Armée de la Lothlórien"
 END
 
 LWA:EntsArmy
@@ -62928,7 +62928,7 @@ LWA:RivendellArmy
 END
 
 LWA:LothlorienArmy
-"La Lothl?rien"
+"La Lothlórien"
 END
 
 LWA:MoriaArmy
@@ -63595,19 +63595,19 @@ BANNERUI:BlackrootValeArchers
 End
 
 BANNERUI:GondorFighter
-"Soldat de l'An?rien"
+"Soldat de l'Anórien"
 End
 
 BANNERUI:GondorFighters
-"Soldats de l'An?rien"
+"Soldats de l'Anórien"
 End
 
 BANNERUI:GondorArcher
-"Archer de l'An?rien"
+"Archer de l'Anórien"
 End
 
 BANNERUI:GondorArchers
-"Archers de l'An?rien"
+"Archers de l'Anórien"
 End
 
 BANNERUI:GondorRanger
@@ -63619,19 +63619,19 @@ BANNERUI:GondorRangers
 End
 
 BANNERUI:GondorKnight
-"Cavalier de l'An?rien"
+"Cavalier de l'Anórien"
 End
 
 BANNERUI:GondorKnights
-"Cavaliers de l'An?rien"
+"Cavaliers de l'Anórien"
 End
 
 BANNERUI:GondorLancer
-"Chevalier de l'An?rien"
+"Chevalier de l'Anórien"
 End
 
 BANNERUI:GondorLancers
-"Chevaliers de l'An?rien"
+"Chevaliers de l'Anórien"
 End
 
 BANNERUI:Rohirrim
@@ -63863,7 +63863,7 @@ LWA:Rivendell
 END
 
 LWA:Lothlorien
-"La L?rien"
+"La Lórien"
 END
 
 LWA:Moria
@@ -64061,7 +64061,7 @@ OBJECT:HordeBlackrootValeArcher
 END
 
 OBJECT:HordeGondorSoldier
-"Soldats de l'An?rien"
+"Soldats de l'Anórien"
 END
 
 OBJECT:HordeGondorTowerGuard
@@ -64069,15 +64069,15 @@ OBJECT:HordeGondorTowerGuard
 END
 
 OBJECT:HordeGondorSoldierCombo
-"Soldats de l'An?rien"
+"Soldats de l'Anórien"
 END
 
 CONTROLBAR:LW_Unit_GondorFighterHordeCombo
-"Bataillon combiné de soldats de l'An?rien"
+"Bataillon combiné de soldats de l'Anórien"
 END
 
 CONTROLBAR:LW_Unit_GondorFighterHordeComboPlural
-"Bataillons combiné de soldats de l'An?rien"
+"Bataillons combiné de soldats de l'Anórien"
 END
 
 CONTROLBAR:LW_ToolTip_GondorFighterHordeCombo
@@ -64085,11 +64085,11 @@ CONTROLBAR:LW_ToolTip_GondorFighterHordeCombo
 END
 
 CONTROLBAR:LW_Unit_GondorArcherHordeCombo
-"Bataillon combiné d'archers de l'An?rien"
+"Bataillon combiné d'archers de l'Anórien"
 END
 
 CONTROLBAR:LW_Unit_GondorArcherHordeComboPlural
-"Bataillons combiné d'archers de l'An?rien"
+"Bataillons combiné d'archers de l'Anórien"
 END
 
 CONTROLBAR:LW_ToolTip_GondorArcherHordeCombo
@@ -64097,15 +64097,15 @@ CONTROLBAR:LW_ToolTip_GondorArcherHordeCombo
 END
 
 OBJECT:HordeGondorSoldierArcherCombo
-"Soldat de l'An?rien - Archers de l'An?rien"
+"Soldat de l'Anórien - Archers de l'Anórien"
 END
 
 CONTROLBAR:LW_Unit_GondorFighterArcherHorde
-"Soldat de l'An?rien - Bataillon d'Archers de l'An?rien"
+"Soldat de l'Anórien - Bataillon d'Archers de l'Anórien"
 END
 
 CONTROLBAR:LW_Unit_GondorFighterArcherHordePlural
-"Soldat de l'An?rien - Bataillons d'Archers de l'An?rien"
+"Soldat de l'Anórien - Bataillons d'Archers de l'Anórien"
 END
 
 CONTROLBAR:LW_ToolTip_GondorFighterArcherHorde
@@ -64113,15 +64113,15 @@ CONTROLBAR:LW_ToolTip_GondorFighterArcherHorde
 END
 
 OBJECT:HordeGondorSpearmenArcherCombo
-"Piquiers de l'An?rien - Archers de l'An?rien"
+"Piquiers de l'Anórien - Archers de l'Anórien"
 END
 
 CONTROLBAR:LW_Unit_GondorFighterSpearmenHorde
-"Piquiers de l'An?rien - Bataillon d'Archers de l'An?rien Horde"
+"Piquiers de l'Anórien - Bataillon d'Archers de l'Anórien Horde"
 END
 
 CONTROLBAR:LW_Unit_GondorFighterSpearmenHordePlural
-"Piquiers de l'An?rien - Bataillons d'Archers de l'An?rien Horde"
+"Piquiers de l'Anórien - Bataillons d'Archers de l'Anórien Horde"
 END
 
 CONTROLBAR:LW_ToolTip_GondorFighterSpearmenHorde
@@ -64129,19 +64129,19 @@ CONTROLBAR:LW_ToolTip_GondorFighterSpearmenHorde
 END
 
 OBJECT:HordeGondorSpearmenRangerCombo
-"Piquiers de l'An?rien - Horde de Rôdeurs Ithilien"
+"Piquiers de l'Anórien - Horde de Rôdeurs Ithilien"
 END
 
 OBJECT:HordeGondorFighterDoubleCombo
-"Soldats de l'An?rien - Piquiers de l'An?rien"
+"Soldats de l'Anórien - Piquiers de l'Anórien"
 END
 
 CONTROLBAR:LW_Unit_GondorFighterDoubleCombo
-"Soldats de l'An?rien - Bataillon Piquiers de l'An?rien"
+"Soldats de l'Anórien - Bataillon Piquiers de l'Anórien"
 END
 
 CONTROLBAR:LW_Unit_GondorFighterDoubleComboPlural
-"Soldats de l'An?rien - Bataillons Piquiers de l'An?rien"
+"Soldats de l'Anórien - Bataillons Piquiers de l'Anórien"
 END
 
 CONTROLBAR:LW_ToolTip_GondorFighterDoubleCombo
@@ -64149,15 +64149,15 @@ CONTROLBAR:LW_ToolTip_GondorFighterDoubleCombo
 END
 
 OBJECT:HordeGondorSoldierPikemenCombo
-"Soldats de l'An?rien - Piquiers de l'An?rien"
+"Soldats de l'Anórien - Piquiers de l'Anórien"
 END
 
 OBJECT:HordeGondorSoldierRangerCombo
-"Soldats de l'An?rien - Horde de Rôdeurs Ithilien"
+"Soldats de l'Anórien - Horde de Rôdeurs Ithilien"
 END
 
 OBJECT:HordeGondorSoldierTrebuchetCombo
-"Soldats de l'An?rien - Horde de Trébuchet"
+"Soldats de l'Anórien - Horde de Trébuchet"
 END
 
 OBJECT:HordeGondorTowerGuardTrebuchetCombo
@@ -64165,15 +64165,15 @@ OBJECT:HordeGondorTowerGuardTrebuchetCombo
 END
 
 OBJECT:HordeGondorSoldierKnightCombo
-"Soldats de l'An?rien - Cavaliers de l'An?rien"
+"Soldats de l'Anórien - Cavaliers de l'Anórien"
 END
 
 OBJECT:HordeGondorTowerGuardKnightCombo
-"Bataillon de Gardes de la Citadelle - Cavaliers de l'An?rien"
+"Bataillon de Gardes de la Citadelle - Cavaliers de l'Anórien"
 END
 
 OBJECT:HordeGondorTowerGuardArcherCombo
-"Garde de la Citadelle de Minas Tirith - Horde d'Archers de l'An?rien"
+"Garde de la Citadelle de Minas Tirith - Horde d'Archers de l'Anórien"
 END
 
 OBJECT:HordeGondorTowerGuardRangerCombo
@@ -64197,11 +64197,11 @@ OBJECT:HordeRohanPeasant
 END
 
 OBJECT:HordeRohanElves
-"Guerriers de la L?rien"
+"Guerriers de la Lórien"
 END
 
 OBJECT:HordeRohanElvesCombo
-"Guerriers de la L?rien"
+"Guerriers de la Lórien"
 END
 
 OBJECT:HordeWildMenOfDunland
@@ -65748,7 +65748,7 @@ CONTROLBAR:LW_Unit_LamedonClansmenHorde
 END
 
 CONTROLBAR:LW_Unit_LamedonClansmenHordePlural
-"Bataillons de Soldats de l'An?rien"
+"Bataillons de Soldats de l'Anórien"
 END
 
 CONTROLBAR:LW_ToolTipBuild_LamedonClansmenHorde
@@ -65776,11 +65776,11 @@ CONTROLBAR:LW_ToolTip_BlackrootValeArcherHorde
 END
 
 CONTROLBAR:LW_Unit_GondorFighterDoubleHorde
-"Bataillon de Piquiers d'An?rien"
+"Bataillon de Piquiers d'Anórien"
 END
 
 CONTROLBAR:LW_Unit_GondorFighterDoubleHordePlural
-"Bataillons de Piquiers d'An?rien"
+"Bataillons de Piquiers d'Anórien"
 END
 
 CONTROLBAR:LW_ToolTipBuild_GondorFighterDoubleHorde
@@ -65819,11 +65819,11 @@ END
 
 
 CONTROLBAR:LW_Unit_GondorTowerGuardHorde
-"Bataillon Garde de la Citadelle de l'An?rien"
+"Bataillon Garde de la Citadelle de l'Anórien"
 END
 
 CONTROLBAR:LW_Unit_GondorTowerGuardHordePlural
-"Bataillons Garde de la Citadelle de l'An?rien"
+"Bataillons Garde de la Citadelle de l'Anórien"
 END
 
 CONTROLBAR:LW_ToolTipBuild_GondorTowerGuardHorde
@@ -65835,11 +65835,11 @@ CONTROLBAR:LW_ToolTip_GondorTowerGuardHorde
 END
 
 CONTROLBAR:LW_Unit_GondorLancerHorde
-"Bataillon de Lanciers de l'An?rien"
+"Bataillon de Lanciers de l'Anórien"
 END
 
 CONTROLBAR:LW_Unit_GondorLancerHordePlural
-"Bataillons de Lanciers de l'An?rien"
+"Bataillons de Lanciers de l'Anórien"
 END
 
 CONTROLBAR:LW_ToolTipBuild_GondorLancerHorde
@@ -66188,7 +66188,7 @@ CONTROLBAR:LW_Hero_KingDain
 END
 
 CONTROLBAR:LW_Hero_Gloin
-"Gl?in"
+"Glóin"
 END
 
 CONTROLBAR:LW_ToolTipBuild_Gloin
@@ -67078,7 +67078,7 @@ APT:RegionDetailsTerritoryTab
 END
 
 APT:RegionDetailsArmiesTab
-"ARM?ES"
+"ARMÉES"
 END
 
 APT:RegionDetailsStructuresTab
@@ -67456,7 +67456,7 @@ CONTROLBAR:ConstructElvenWallHub
 End
 
 CONTROLBAR:ConstructElvenWarriorHorde
-"Guerriers de la L?rien"
+"Guerriers de la Lórien"
 End
 
 CONTROLBAR:ConstructEvilBombardShip
@@ -75964,7 +75964,7 @@ OBJECT:AngmarBanner
 END
 
 OBJECT:HordeAngmarDarkDunedain
-"Númen?réens Noirs"
+"Númenóréens Noirs"
 END
 
 OBJECT:HordeAngmarRanger
@@ -76051,11 +76051,11 @@ End
 //// Unités d'Angmar ////
 
 CONTROLBAR:LW_Unit_AngmarDarkDunedainHorde
-"Horde de Númen?réens noirs"
+"Horde de Númenóréens noirs"
 END
 
 CONTROLBAR:LW_Unit_AngmarDarkDunedainHordePlural
-"Hordes de Númen?réens noirs"
+"Hordes de Númenóréens noirs"
 END
 
 CONTROLBAR:LW_ToolTipBuild_AngmarDarkDunedainHorde
@@ -76645,7 +76645,7 @@ CONTROLBAR:ConstructAngmarThrallMaster
 End
 
 CONTROLBAR:ConstructAngmarDarkDunedainHorde
-"Númen?réens Noirs (&E)"
+"Númenóréens Noirs (&E)"
 End
 
 CONTROLBAR:ConstructAngmarDarkRangerHorde
@@ -77527,11 +77527,11 @@ BANNERUI:PluralDwarvenCatapult
 End
 
 BANNERUI:AngmarDarkDunedain
-"Númen?réen Noir"
+"Númenóréen Noir"
 End
 
 BANNERUI:AngmarDarkDunedains
-"Númen?réens Noirs"
+"Númenóréens Noirs"
 End
 
 BANNERUI:AngmarDarkRanger
@@ -79697,11 +79697,11 @@ CONTROLBAR:DaleBeastSlayerArrow
 END
 
 CONTROLBAR:LW_Unit_GondorSpearmenHorde
-"Bataillon de Lanciers de l'An?rien"
+"Bataillon de Lanciers de l'Anórien"
 END
 
 CONTROLBAR:LW_Unit_GondorSpearmenHordePlural
-"Bataillons de Lanciers de l'An?rien"
+"Bataillons de Lanciers de l'Anórien"
 END
 
 CONTROLBAR:LW_Unit_RohanPeasantHorde
@@ -80261,7 +80261,7 @@ SUBTITLE:BAM7O_03
 END
 
 SUBTITLE:BAM7O_04
-"Now, the Elves of Lindon, Rivendell and even L?rien march against Angmar."
+"Now, the Elves of Lindon, Rivendell and even Lórien march against Angmar."
 END
 
 SUBTITLE:BAM7O_05
@@ -80492,7 +80492,7 @@ CONTROLBAR:HeroicStatueBuild
 END
 
 CONTROLBAR:ElvenHeroicStatueBuild
-"Fournit un bonus de Charisme aux alliés proches (bonus cumulable) \n Réduit le coût des héros et des troupes d'infanterie de base de la L?rien \n Augmente la limite de points de commandement de 10"
+"Fournit un bonus de Charisme aux alliés proches (bonus cumulable) \n Réduit le coût des héros et des troupes d'infanterie de base de la Lórien \n Augmente la limite de points de commandement de 10"
 END
 
 OBJECT:HeroicStatueDescription
@@ -80510,7 +80510,7 @@ OBJECT:RohanHeroicStatueDescription
 END
 
 OBJECT:ElvenHeroicStatueDescription
-"Type d'Action : Charisme\nLes alliés proches de la statue gagnent +33% dégâts, +33% armure, gagnent de l'expérience 50% plus rapidement et sont insensibles à la peur et à la terreur (bonus cumulable).\nBonus de culture - Réduit le coût des héros et des unités d'infanterie de base de la L?rien :\n 1 statue : -5% \n 2 statues : -10% \n 3 statues : -15% \n 4 statues : -20% \n 5+ statues : -25%."
+"Type d'Action : Charisme\nLes alliés proches de la statue gagnent +33% dégâts, +33% armure, gagnent de l'expérience 50% plus rapidement et sont insensibles à la peur et à la terreur (bonus cumulable).\nBonus de culture - Réduit le coût des héros et des unités d'infanterie de base de la Lórien :\n 1 statue : -5% \n 2 statues : -10% \n 3 statues : -15% \n 4 statues : -20% \n 5+ statues : -25%."
 END
 
 CONTROLBAR:ToolTipBuildEvilBombardShip
@@ -80905,7 +80905,7 @@ CONTROLBAR:ToolTipThrallMasterUpgradeWolfRiders202Campaign
 End
 
 OBJECT:AngmarDarkDunedain
-"Númen?réen Noir"
+"Númenóréen Noir"
 END
 
 CONTROLBAR:ToolTipBuildAngmarDarkDunedainHorde
@@ -80913,7 +80913,7 @@ CONTROLBAR:ToolTipBuildAngmarDarkDunedainHorde
 End
 
 CONTROLBAR:ToolTipSpecialAbilityAngmarChargeAttack
-"Requiert : niveau 2 \n Ordonne aux Númen?réens Noirs de charger l'ennemis \n Type: Bonus \n Les Númen?réens Noirs gagnent +50% dégâts et +50% armure (bonus cumulable).\n Provoque d'énormes impacts \n Clic gauche sur l'icône puis clic gauche sur la cible"
+"Requiert : niveau 2 \n Ordonne aux Númenóréens Noirs de charger l'ennemis \n Type: Bonus \n Les Númenóréens Noirs gagnent +50% dégâts et +50% armure (bonus cumulable).\n Provoque d'énormes impacts \n Clic gauche sur l'icône puis clic gauche sur la cible"
 END
 
 OBJECT:AngmarRanger
@@ -81176,7 +81176,7 @@ END
 
 BANNERUI:GondorSpearmen
 //"Gondor Pikemen"
-"An?rien Pikemen"
+"Anórien Pikemen"
 END
 CONTROLBAR:LW_ToolTip_GondorSpearmenHorde
 //"\nUnit Type: Spearmen\nStrong vs. Cavalry"
@@ -81798,7 +81798,7 @@ CONTROLBAR:ToolTipBuildAngmarHallofTwilightLevel2Upgrade
 //"Allows Well of Souls\n +10% Faster Build Speed"
 //"Allows Corpse Rain\n +10% Faster Build Speed"
 //"Allows Well of Souls\n +10% Faster Build Speed"
-"Allows training of Black Númen?rean units\n +10% Faster Build Speed"
+"Allows training of Black Númenórean units\n +10% Faster Build Speed"
 End
 CONTROLBAR:TooltipBuildAngmarHallofTwilightLevel3Upgrade
 //"Allows Corpse Rain \n Adds a defensive arrow tower \n +25% Build Speed"
@@ -82101,7 +82101,7 @@ CONTROLBAR:GondorArcherBonus
 END
 
 CONTROLBAR:ToolTipGondorArcherBonus
-"Requires Level 5\n Modifier Type: Spell \n An?rien Archers gain +15% Range and +20% Vision \n Stacks with Leadership, Buffs, and Spells \n Passive ability"
+"Requires Level 5\n Modifier Type: Spell \n Anórien Archers gain +15% Range and +20% Vision \n Stacks with Leadership, Buffs, and Spells \n Passive ability"
 END
 
 //------------ Gundabad Archer ---------------
@@ -82543,7 +82543,7 @@ CONTROLBAR:ConstructAOTRJungleTroll
 END
 
 CONTROLBAR:ToolTipBuildAOTRJungleTrollLair
-"Strong vs. Swordsmen and Structures \n\n Under the far-stretching canopy of the jungles of Far Harad, there lived a unique breed of Trolls: their skin turned green and stony over the course of sunny generations, and their arms lengthened to accomodate the climbing of enormous trees. It took several centuries before these Jungle-trolls reentered the stories of Men - which they did fearsomely, destroying several Númen?rean expeditions and their camps"
+"Strong vs. Swordsmen and Structures \n\n Under the far-stretching canopy of the jungles of Far Harad, there lived a unique breed of Trolls: their skin turned green and stony over the course of sunny generations, and their arms lengthened to accomodate the climbing of enormous trees. It took several centuries before these Jungle-trolls reentered the stories of Men - which they did fearsomely, destroying several Númenórean expeditions and their camps"
 END
 
 CONTROLBAR:ConstructAOTRStoneTroll
@@ -82829,11 +82829,11 @@ LWA:RivendellHeroArmy
 End
 
 BANNERUI:GondorSpearman
-"An?rien Spearman"
+"Anórien Spearman"
 End
 
 BANNERUI:GondorSpearmen
-"An?rien Spearmen"
+"Anórien Spearmen"
 End
 
 BANNERUI:GondorDolFighter
