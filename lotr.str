@@ -42,14 +42,14 @@ END
 //			>> 5.1	PARAM?TRES
 //			>> 5.2	PARAM?TRES PERSONNALIS?S
 //	#06 - G?N?RIQUES
-//	#07 - CR?ER UN H?ROS
+//	#07 - CR?ER UN HÉROS
 //			>> 7.1	FEN?TRE EXPLICATIF
 //			>> 7.2	TEXTES DE CR?ATIONS
-//			>> 7.3	STATISTIQUES DU H?ROS
-//			>> 7.4	RÉcOMPENSES DU H?ROS
-//			>> 7.5	CLASSES ET TYPES DU H?ROS
+//			>> 7.3	STATISTIQUES DU HÉROS
+//			>> 7.4	RÉcOMPENSES DU HÉROS
+//			>> 7.5	CLASSES ET TYPES DU HÉROS
 //			>> 7.6	PERSONNALISATION APPARENCE
-//			>> 7.7	ATTRIBUTS DU H?ROS
+//			>> 7.7	ATTRIBUTS DU HÉROS
 //			>> 7.8	PERSONNALISATION POUVOIRS
 //			>> 7.9	TRADUCTIONS POUVOIRS IN GAME
 //			>> 7.10	RACCOURCIS POUVOIRS IN GAME
@@ -86,106 +86,106 @@ END
 //			>> 11.9		CARTES ESCARMOUCHES
 //	#12 - FACTION DU GONDOR
 //			>> 12.1		FORTERESSE DU GONDOR
-//			>> 12.2		H?ROS DU GONDOR
-//			>> 12.3		POUVOIRS DES H?ROS DU GONDOR
-//			>> 12.4		B?TIMENTS DU GONDOR
+//			>> 12.2		HÉROS DU GONDOR
+//			>> 12.3		POUVOIRS DES HÉROS DU GONDOR
+//			>> 12.4		BÂTIMENTS DU GONDOR
 //			>> 12.5		UNIT?S DU GONDOR
 //			>> 12.6		POUVOIRS DES UNIT?S DU GONDOR
 //			>> 12.7		POUVOIRS DU GONDOR
 //			>> 12.8		OBJETS DIVERS DU GONDOR
 //	#13 - FACTION DU ROHAN
 //			>> 13.1		FORTERESSE DU ROHAN
-//			>> 13.2		H?ROS DU ROHAN
-//			>> 13.3		POUVOIRS DES H?ROS DU ROHAN
-//			>> 13.4		B?TIMENTS DU ROHAN
+//			>> 13.2		HÉROS DU ROHAN
+//			>> 13.3		POUVOIRS DES HÉROS DU ROHAN
+//			>> 13.4		BÂTIMENTS DU ROHAN
 //			>> 13.5		UNIT?S DU ROHAN
 //			>> 13.6		POUVOIRS DES UNIT?S DU ROHAN
 //			>> 13.7		POUVOIRS DU ROHAN
 //			>> 13.8		OBJETS DIVERS DU ROHAN
 //	#14 - FACTION D'EREBOR
 //			>> 14.1		FORTERESSE D'EREBOR
-//			>> 14.2		H?ROS D'EREBOR
-//			>> 14.3		POUVOIRS DES H?ROS D'EREBOR
-//			>> 14.4		B?TIMENTS D'EREBOR
+//			>> 14.2		HÉROS D'EREBOR
+//			>> 14.3		POUVOIRS DES HÉROS D'EREBOR
+//			>> 14.4		BÂTIMENTS D'EREBOR
 //			>> 14.5		UNIT?S D'EREBOR
 //			>> 14.6		POUVOIRS DES UNIT?S D'EREBOR
 //			>> 14.7		POUVOIRS D'EREBOR
 //			>> 14.8		OBJETS DIVERS D'EREBOR
 //	#15 - FACTION DE LA LOTHLORIEN
 //			>> 15.1		FORTERESSE DE LA LOTHLORIEN
-//			>> 15.2		H?ROS DE LA LOTHLORIEN
-//			>> 15.3		POUVOIRS DES H?ROS DE LA LOTHLORIEN
-//			>> 15.4		B?TIMENTS DE LA LOTHLORIEN
+//			>> 15.2		HÉROS DE LA LOTHLORIEN
+//			>> 15.3		POUVOIRS DES HÉROS DE LA LOTHLORIEN
+//			>> 15.4		BÂTIMENTS DE LA LOTHLORIEN
 //			>> 15.5		UNIT?S DE LA LOTHLORIEN
 //			>> 15.6		POUVOIRS DES UNIT?S DE LA LOTHLORIEN
 //			>> 15.7		POUVOIRS DE LA LOTHLORIEN
 //			>> 15.8		OBJETS DIVERS DE LA LOTHLORIEN
 //	#16 - FACTION DE FONDCOMBE
 //			>> 16.1		FORTERESSE DE FONDCOMBE
-//			>> 16.2		H?ROS DE FONDCOMBE
-//			>> 16.3		POUVOIRS DES H?ROS DE FONDCOMBE
-//			>> 16.4		B?TIMENTS DE FONDCOMBE
+//			>> 16.2		HÉROS DE FONDCOMBE
+//			>> 16.3		POUVOIRS DES HÉROS DE FONDCOMBE
+//			>> 16.4		BÂTIMENTS DE FONDCOMBE
 //			>> 16.5		UNIT?S DE FONDCOMBE
 //			>> 16.6		POUVOIRS DES UNIT?S DE FONDCOMBE
 //			>> 16.7		POUVOIRS DE FONDCOMBE
 //			>> 16.8		OBJETS DIVERS DE FONDCOMBE
 //	#17 - FACTION DU ROYAUME DES FOR?TS
 //			>> 17.1		FORTERESSE DU ROYAUME DES FOR?TS
-//			>> 17.2		H?ROS DU ROYAUME DES FOR?TS
-//			>> 17.3		POUVOIRS DES H?ROS DU ROYAUME DES FOR?TS
-//			>> 17.4		B?TIMENTS DU ROYAUME DES FOR?TS
+//			>> 17.2		HÉROS DU ROYAUME DES FOR?TS
+//			>> 17.3		POUVOIRS DES HÉROS DU ROYAUME DES FOR?TS
+//			>> 17.4		BÂTIMENTS DU ROYAUME DES FOR?TS
 //			>> 17.5		UNIT?S DU ROYAUME DES FOR?TS
 //			>> 17.6		POUVOIRS DES UNIT?S DU ROYAUME DES FOR?TS
 //			>> 17.7		POUVOIRS DU ROYAUME DES FOR?TS
 //			>> 17.8		OBJETS DIVERS DU ROYAUME DES FOR?TS
 //	#18 - FACTION DU MORDOR
 //			>> 18.1		FORTERESSE DU MORDOR
-//			>> 18.2		H?ROS DU MORDOR
-//			>> 18.3		POUVOIRS DES H?ROS DU MORDOR
-//			>> 18.4		B?TIMENTS DU MORDOR
+//			>> 18.2		HÉROS DU MORDOR
+//			>> 18.3		POUVOIRS DES HÉROS DU MORDOR
+//			>> 18.4		BÂTIMENTS DU MORDOR
 //			>> 18.5		UNIT?S DU MORDOR
 //			>> 18.6		POUVOIRS DES UNIT?S DU MORDOR
 //			>> 18.7		POUVOIRS DU MORDOR
 //			>> 18.8		OBJETS DIVERS DU MORDOR
 //	#19 - FACTION DE L'ISENGARD
 //			>> 19.1		FORTERESSE DE L'ISENGARD
-//			>> 19.2		H?ROS DE L'ISENGARD
-//			>> 19.3		POUVOIRS DES H?ROS DE L'ISENGARD
-//			>> 19.4		B?TIMENTS DE L'ISENGARD
+//			>> 19.2		HÉROS DE L'ISENGARD
+//			>> 19.3		POUVOIRS DES HÉROS DE L'ISENGARD
+//			>> 19.4		BÂTIMENTS DE L'ISENGARD
 //			>> 19.5		UNIT?S DE L'ISENGARD
 //			>> 19.6		POUVOIRS DES UNIT?S DE L'ISENGARD
 //			>> 19.7		POUVOIRS DE L'ISENGARD
 //			>> 19.8		OBJETS DIVERS DE L'ISENGARD
 //	#20 - FACTION DES MONTS BRUMEUX
 //			>> 20.1		FORTERESSE DES MONTS BRUMEUX
-//			>> 20.2		H?ROS DES MONTS BRUMEUX
-//			>> 20.3		POUVOIRS DES H?ROS DES MONTS BRUMEUX
-//			>> 20.4		B?TIMENTS DES MONTS BRUMEUX
+//			>> 20.2		HÉROS DES MONTS BRUMEUX
+//			>> 20.3		POUVOIRS DES HÉROS DES MONTS BRUMEUX
+//			>> 20.4		BÂTIMENTS DES MONTS BRUMEUX
 //			>> 20.5		UNIT?S DES MONTS BRUMEUX
 //			>> 20.6		POUVOIRS DES UNIT?S DES MONTS BRUMEUX
 //			>> 20.7		POUVOIRS DES MONTS BRUMEUX
 //			>> 20.8		OBJETS DIVERS DES MONTS BRUMEUX
 //	#21 - FACTION DE DOL GULDUR
 //			>> 21.1		FORTERESSE DE DOL GULDUR
-//			>> 21.2		H?ROS DE DOL GULDUR
-//			>> 21.3		POUVOIRS DES H?ROS DE DOL GULDUR
-//			>> 21.4		B?TIMENTS DE DOL GULDUR
+//			>> 21.2		HÉROS DE DOL GULDUR
+//			>> 21.3		POUVOIRS DES HÉROS DE DOL GULDUR
+//			>> 21.4		BÂTIMENTS DE DOL GULDUR
 //			>> 21.5		UNIT?S DE DOL GULDUR
 //			>> 21.6		POUVOIRS DES UNIT?S DE DOL GULDUR
 //			>> 21.7		POUVOIRS DE DOL GULDUR
 //			>> 21.8		OBJETS DIVERS DE DOL GULDUR
 //	#22 - FACTION DES HARADRIMS
 //			>> 22.1		FORTERESSE DES HARADRIMS
-//			>> 22.2		H?ROS DES HARADRIMS
-//			>> 22.3		POUVOIRS DES H?ROS DES HARADRIMS
-//			>> 22.4		B?TIMENTS DES HARADRIMS
+//			>> 22.2		HÉROS DES HARADRIMS
+//			>> 22.3		POUVOIRS DES HÉROS DES HARADRIMS
+//			>> 22.4		BÂTIMENTS DES HARADRIMS
 //			>> 22.5		UNIT?S DES HARADRIMS
 //			>> 22.6		POUVOIRS DES UNIT?S DES HARADRIMS
 //			>> 22.7		POUVOIRS DES HARADRIMS
 //			>> 22.8		OBJETS DIVERS DES HARADRIMS
-//	#23 - H?ROS DE L'ANNEAU
-//			>> 23.1		H?ROS DE L'ANNEAU
-//			>> 23.2		POUVOIRS DES H?ROS DE L'ANNEAU
+//	#23 - HÉROS DE L'ANNEAU
+//			>> 23.1		HÉROS DE L'ANNEAU
+//			>> 23.2		POUVOIRS DES HÉROS DE L'ANNEAU
 
 
 
@@ -3648,7 +3648,7 @@ END
 //=============================================================
 //=============================================================
 //=====													  =====
-//=====		    #07 - CR?ER UN H?ROS					  =====
+//=====		    #07 - CR?ER UN HÉROS					  =====
 //=====													  =====
 //=============================================================
 //=============================================================
@@ -3725,7 +3725,7 @@ END
 //=============== 7.2 TEXTES DE CR?ATIONS =====================
 
 APT:MyHeroSubTitle
-"S?LECTIONNER un H?ROS"
+"S?LECTIONNER un HÉROS"
 END
 
 GUI:SelectHeroDescription
@@ -3910,7 +3910,7 @@ END
 
 
 
-//=============== 7.3 STATISTIQUES DU H?ROS ===================
+//=============== 7.3 STATISTIQUES DU HÉROS ===================
 
 Stat:Killed_Shelob_Count_Name
 "Arachnes tués"
@@ -4214,7 +4214,7 @@ END
 
 
 
-//=============== 7.4 RÉcOMPENSES DU H?ROS ====================
+//=============== 7.4 RÉcOMPENSES DU HÉROS ====================
 
 Award:LegendofMiddleEarth_Name
 "Légende de la Terre du Milieu"
@@ -4449,7 +4449,7 @@ END
 
 
 
-//=============== 7.5 CLASSES ET TYPES DU H?ROS ===============
+//=============== 7.5 CLASSES ET TYPES DU HÉROS ===============
 
 APT:SelectHeroClassTitle
 "CLASSE ET TYPE DU CAPITAINE"
@@ -5511,7 +5511,7 @@ END
 
 
 
-//=============== 7.7 ATTRIBUTS DU H?ROS ===============
+//=============== 7.7 ATTRIBUTS DU HÉROS ===============
 
 APT:HeroAttributesTitle
 "PERSONNALISER ATTRIBUTS"
@@ -16464,7 +16464,7 @@ END
 
 
 
-//=============== 12.2 H?ROS DU GONDOR ========================
+//=============== 12.2 HÉROS DU GONDOR ========================
 
 ////////////////////////////
 // CAPITAINE PERSONNALIS? //
@@ -16919,7 +16919,7 @@ END
 
 
 
-//=============== 12.3 POUVOIRS DES H?ROS DU GONDOR ===========
+//=============== 12.3 POUVOIRS DES HÉROS DU GONDOR ===========
 
 ////////////
 // PIPPIN //
@@ -17457,7 +17457,7 @@ END
 
 
 
-//=============== 12.4 B?TIMENTS DU GONDOR ====================
+//=============== 12.4 BÂTIMENTS DU GONDOR ====================
 
 CONTROLBAR:ConstructGondorFarm
 "Construire une Ferme"
@@ -19642,7 +19642,7 @@ END
 
 
 
-//=============== 13.2 H?ROS DU ROHAN =========================
+//=============== 13.2 HÉROS DU ROHAN =========================
 
 ///////////
 // MERRY //
@@ -19741,7 +19741,7 @@ END
 
 
 /////////////////////
-// PRINCE TH?ODRED //
+// PRINCE THÉODRED //
 /////////////////////
 
 CONTROLBAR:RohanTheodredHotkey
@@ -19793,7 +19793,7 @@ END
 
 
 /////////////////
-// ROI TH?ODEN //
+// ROI THÉODEN //
 /////////////////
 
 CONTROLBAR:RohanTheodenHotkey
@@ -19951,7 +19951,7 @@ END
 
 
 
-//=============== 13.3 POUVOIRS DES H?ROS DU ROHAN ============
+//=============== 13.3 POUVOIRS DES HÉROS DU ROHAN ============
 
 ///////////
 // MERRY //
@@ -20110,7 +20110,7 @@ END
 
 
 /////////////////////
-// PRINCE TH?ODRED //
+// PRINCE THÉODRED //
 /////////////////////
 
 CONTROLBAR:TheodredNewMount
@@ -20214,7 +20214,7 @@ END
 
 
 /////////////////
-// ROI TH?ODEN //
+// ROI THÉODEN //
 /////////////////
 
 CONTROLBAR:TheodenLeadership
@@ -20485,7 +20485,7 @@ END
 
 
 
-//=============== 13.4 B?TIMENTS DU ROHAN =====================
+//=============== 13.4 BÂTIMENTS DU ROHAN =====================
 
 CONTROLBAR:ConstructMenFarm
 "Construire une Ferme (&W)"
@@ -22428,7 +22428,7 @@ END
 
 
 
-//=============== 14.2 H?ROS D'EREBOR =========================
+//=============== 14.2 HÉROS D'EREBOR =========================
 
 
 // ===================================
@@ -22800,7 +22800,7 @@ END
 
 
 
-//=============== 14.3 POUVOIRS DES H?ROS D'EREBOR ============
+//=============== 14.3 POUVOIRS DES HÉROS D'EREBOR ============
 
 //////////
 // ROAC //
@@ -23786,7 +23786,7 @@ END
 
 
 
-//=============== 14.4 B?TIMENTS D'EREBOR =====================
+//=============== 14.4 BÂTIMENTS D'EREBOR =====================
 
 CONTROLBAR:ConstructDwarvenMineShaft
 "Construire une Mine (&W)"
@@ -24602,7 +24602,7 @@ END
 
 
 //////////////////////
-// AUTRES B?TIMENTS //
+// AUTRES BÂTIMENTS //
 //////////////////////
 
 CONTROLBAR:ConstructDwarvenHearth
@@ -24671,7 +24671,7 @@ END
 
 
 ///////////////
-// B?TISSEUR //
+// BÂTISSEUR //
 ///////////////
 
 OBJECT:DwarvenPorter
@@ -26631,7 +26631,7 @@ END
 
 
 
-//=============== 15.2 H?ROS DE LA LOTHLORIEN =================
+//=============== 15.2 HÉROS DE LA LOTHLORIEN =================
 
 
 ///////////
@@ -26792,7 +26792,7 @@ END
 
 
 
-//=============== 15.3 POUVOIRS DES H?ROS DE LA LOTHLORIEN ====
+//=============== 15.3 POUVOIRS DES HÉROS DE LA LOTHLORIEN ====
 
 
 ///////////
@@ -27069,7 +27069,7 @@ END
 
 
 
-//=============== 15.4 B?TIMENTS DE LA LOTHLORIEN =============
+//=============== 15.4 BÂTIMENTS DE LA LOTHLORIEN =============
 
 CONTROLBAR:ConstructElvenMallornTree
 "Construire un Mallorn (&W)"
@@ -28706,7 +28706,7 @@ END
 
 
 
-//=============== 16.2 H?ROS DE FONDCOMBE =====================
+//=============== 16.2 HÉROS DE FONDCOMBE =====================
 
 ///////////
 // ARWEN //
@@ -28977,7 +28977,7 @@ END
 
 
 //////////////////////////////
-// H?ROS DE LA SALLE DE FEU //
+// HÉROS DE LA SALLE DE FEU //
 //////////////////////////////
 
 OBJECT:TurinTurambar
@@ -28994,7 +28994,7 @@ END
 
 
 
-//=============== 16.3 POUVOIRS DES H?ROS DE FONDCOMBE ========
+//=============== 16.3 POUVOIRS DES HÉROS DE FONDCOMBE ========
 
 ///////////
 // ARWEN //
@@ -29497,7 +29497,7 @@ End
 
 
 //////////////////////////////
-// H?ROS DE LA SALLE DE FEU //
+// HÉROS DE LA SALLE DE FEU //
 //////////////////////////////
 
 CONTROLBAR:GilGaladHOFLeadership
@@ -29630,7 +29630,7 @@ END
 
 
 
-//=============== 16.4 B?TIMENTS DE FONDCOMBE =================
+//=============== 16.4 BÂTIMENTS DE FONDCOMBE =================
 
 CONTROLBAR:ConstructArnorFarm
 "Construire un Verger d'Imladris (&W)"
@@ -30562,7 +30562,7 @@ END
 //=============== 16.5 UNIT?S DE FONDCOMBE ====================
 
 ///////////////
-// B?TISSEUR //
+// BÂTISSEUR //
 ///////////////
 
 CONTROLBAR:ConstructArnorPorter
@@ -32354,7 +32354,7 @@ END
 
 
 
-//=============== 17.2 H?ROS DU ROYAUME DES FOR?TS ============
+//=============== 17.2 HÉROS DU ROYAUME DES FOR?TS ============
 
 /////////////
 // TAURIEL //
@@ -32568,7 +32568,7 @@ END
 
 
 
-//=============== 17.3 POUVOIRS DES H?ROS DU ROYAUME ==========
+//=============== 17.3 POUVOIRS DES HÉROS DU ROYAUME ==========
 
 /////////////
 // TAURIEL //
@@ -32968,7 +32968,7 @@ End
 
 
 
-//=============== 17.4 B?TIMENTS DU ROYAUME DES FOR?TS ========
+//=============== 17.4 BÂTIMENTS DU ROYAUME DES FOR?TS ========
 
 CONTROLBAR:ConstructMirkwoodHuntingLodge
 "Construire un Sanctuaire de la Chasse (&W)"
@@ -35044,7 +35044,7 @@ End
 
 
 
-//=============== 18.2 H?ROS DU MORDOR ========================
+//=============== 18.2 HÉROS DU MORDOR ========================
 
 ////////////
 // GORBAG //
@@ -35484,7 +35484,7 @@ END
 
 
 
-//=============== 18.3 POUVOIRS DES H?ROS DU MORDOR ===========
+//=============== 18.3 POUVOIRS DES HÉROS DU MORDOR ===========
 
 ////////////
 // GORBAG //
@@ -35876,7 +35876,7 @@ END
 
 
 
-//=============== 18.4 B?TIMENTS DU MORDOR ====================
+//=============== 18.4 BÂTIMENTS DU MORDOR ====================
 
 CONTROLBAR:ConstructSlaughterHouse
 "Construire un Abattoir (&W)"
@@ -36384,7 +36384,7 @@ End
 //=============== 18.5 UNIT?S DU MORDOR =======================
 
 ///////////////
-// B?TISSEUR //
+// BÂTISSEUR //
 ///////////////
 
 OBJECT:MordorPorter
@@ -38046,7 +38046,7 @@ END
 
 
 ////////////////////////////////
-// AUTRES B?TIMENTS DU MORDOR //
+// AUTRES BÂTIMENTS DU MORDOR //
 ////////////////////////////////
 
 CONTROLBAR:ConstructMordorOrcFletcher
@@ -38597,7 +38597,7 @@ END
 
 
 
-//=============== 19.2 H?ROS DE L'ISENGARD ====================
+//=============== 19.2 HÉROS DE L'ISENGARD ====================
 
 ///////////////////////
 // LANGUE-DE-SERPENT //
@@ -38817,7 +38817,7 @@ END
 
 
 
-//=============== 19.3 POUVOIRS DES H?ROS DE L'ISENGARD =======
+//=============== 19.3 POUVOIRS DES HÉROS DE L'ISENGARD =======
 
 ///////////////////////
 // LANGUE-DE-SERPENT //
@@ -39184,7 +39184,7 @@ END
 
 
 
-//=============== 19.4 B?TIMENTS DE L'ISENGARD ================
+//=============== 19.4 BÂTIMENTS DE L'ISENGARD ================
 
 CONTROLBAR:ConstructFurnace
 "Construire une Fournaise (&W)"
@@ -39759,7 +39759,7 @@ End
 //=============== 19.5 UNIT?S DE L'ISENGARD ===================
 
 ///////////////
-// B?TISSEUR //
+// BÂTISSEUR //
 ///////////////
 
 OBJECT:IsengardPorter
@@ -41515,7 +41515,7 @@ End
 
 
 
-//=============== 20.2 H?ROS DES MONTS BRUMEUX ================
+//=============== 20.2 HÉROS DES MONTS BRUMEUX ================
 
 /////////////
 // MûZGASH //
@@ -41733,7 +41733,7 @@ END
 
 
 
-//=============== 20.3 POUVOIRS DES H?ROS DES MONTS BRUMEUX ===
+//=============== 20.3 POUVOIRS DES HÉROS DES MONTS BRUMEUX ===
 
 /////////////
 // MûZGASH //
@@ -42151,7 +42151,7 @@ END
 
 
 
-//=============== 20.4 B?TIMENTS DES MONTS BRUMEUX ============
+//=============== 20.4 BÂTIMENTS DES MONTS BRUMEUX ============
 
 CONTROLBAR:ConstructWildMineShaft
 "Construire un tunnel (&W)"
@@ -42662,7 +42662,7 @@ END
 //=============== 20.5 UNIT?S DES MONTS BRUMEUX ===============
 
 ///////////////
-// B?TISSEUR //
+// BÂTISSEUR //
 ///////////////
 
 OBJECT:WildPorter
@@ -42882,7 +42882,7 @@ END
 
 
 ///////////////////////////////
-// GARDES RAPPROCH?S DE BOLG //
+// GARDES RAPPROCHÉS DE BOLG //
 ///////////////////////////////
 
 CONTROLBAR:ConstructWildBodyGuardHorde
@@ -43590,7 +43590,7 @@ END
 
 
 ///////////////////////////////
-// GARDES RAPPROCH?S DE BOLG //
+// GARDES RAPPROCHÉS DE BOLG //
 ///////////////////////////////
 
 CONTROLBAR:Intimidation
@@ -44340,7 +44340,7 @@ END
 
 
 
-//=============== 21.2 H?ROS DE DOL GULDUR ====================
+//=============== 21.2 HÉROS DE DOL GULDUR ====================
 
 /////////////////////
 // THRAIN LE BRIS? //
@@ -44490,7 +44490,7 @@ END
 
 
 
-//=============== 21.3 POUVOIRS DES H?ROS DE DOL GULDUR =======
+//=============== 21.3 POUVOIRS DES HÉROS DE DOL GULDUR =======
 
 /////////////////////
 // THRAIN LE BRIS? //
@@ -44768,7 +44768,7 @@ END
 
 
 
-//=============== 21.4 B?TIMENTS DE DOL GULDUR ================
+//=============== 21.4 BÂTIMENTS DE DOL GULDUR ================
 
 CONTROLBAR:ConstructGuldurSlaveMill
 "Invoquer un Moulin à esclaves (&W)"
@@ -45625,7 +45625,7 @@ END
 
 
 /////////////////////////////
-// CH?TELAIN DE DOL GULDUR //
+// CHÂTELAIN DE DOL GULDUR //
 /////////////////////////////
 
 CONTROLBAR:ConstructGuldurCastellan
@@ -46019,7 +46019,7 @@ END
 
 
 /////////////////////////////
-// CH?TELAIN DE DOL GULDUR //
+// CHÂTELAIN DE DOL GULDUR //
 /////////////////////////////
 
 CONTROLBAR:CastellanLeadership
@@ -46329,15 +46329,15 @@ END
 
 
 
-//=============== 22.2 H?ROS DES HARADRIMS ====================
+//=============== 22.2 HÉROS DES HARADRIMS ====================
 
 
 
-//=============== 22.3 POUVOIRS DES H?ROS DES HARADRIMS =======
+//=============== 22.3 POUVOIRS DES HÉROS DES HARADRIMS =======
 
 
 
-//=============== 22.4 B?TIMENTS DES HARADRIMS ================
+//=============== 22.4 BÂTIMENTS DES HARADRIMS ================
 
 
 
@@ -47644,13 +47644,13 @@ END
 //=============================================================
 //=============================================================
 //=====													  =====
-//=====		    #23 - H?ROS DE L'ANNEAU					  =====
+//=====		    #23 - HÉROS DE L'ANNEAU					  =====
 //=====													  =====
 //=============================================================
 //=============================================================
 
 
-//=============== 23.1 H?ROS DE L'ANNEAU ======================
+//=============== 23.1 HÉROS DE L'ANNEAU ======================
 
 
 //////////////////////////////////////
@@ -47799,7 +47799,7 @@ END
 
 
 
-//=============== 23.2 POUVOIRS DES H?ROS DE L'ANNEAU =========
+//=============== 23.2 POUVOIRS DES HÉROS DE L'ANNEAU =========
 
 
 ////////////////////////
@@ -62845,7 +62845,7 @@ LW:UnifiedRegionText
 End
 
 LW:HeroCutOffTitle
-"ARM?E H?ROS ÉcHOU?E !"
+"ARM?E HÉROS ÉcHOU?E !"
 End
 
 LW:HeroCutOffTextNearest
