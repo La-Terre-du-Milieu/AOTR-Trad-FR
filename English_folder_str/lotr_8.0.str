@@ -8596,111 +8596,111 @@ END
 
 
 UPGRADE:FireArrowUpgrade
-"Fire Arrows"
+"Flèches de feu"
 END
 
 UPGRADE:ElfStealthUpgrade
-"Elven Stealth Upgrades"
+"Furtivité elfique améliorée"
 END
 
 UPGRADE:RohanHorseShield
-"Horseman Shields"
+"Boucliers cavaliers"
 END
 
 UPGRADE:MarketplaceUpgradeIronOre
-"Steel of Westernesse"
+"Acier de l'Ouistrenesse"
 END
 
 UPGRADE:MarketplaceUpgradeGrandHarvest
-"Grand Harvest"
+"Moisson Abondante"
 END
 
 UPGRADE:MarketplaceUpgradeDefiance
-"Siege Materials"
+"Matériels de siège"
 END
 
 ENDUPGRADE:RohanHorseBow
-"Horse Bows"
+"Arcs à Cheval"
 END
 
 UPGRADE:RohanHorseLance
-"Horse Lances"
+"Lances à cheval"
 END
 
 UPGRADE:RohanHornsOfTheRohirrim
-"Horns of the Rohirrim Upgrades"
+"Cors des Rohirrims améliorés"
 END
 
 UPGRADE:HeavyArmor
-"Heavy Armour"
+"Armure Lourde"
 END
 
 TOOLTIP:HeavyArmor
-"Heavy Armour"
+"Armure Lourde"
 END
 
 UPGRADE:ForgedBlades
-"Forged Blades"
+"Lames Forgées"
 END
 
 UPGRADE:ElvenAllies
-"Elven Allies"
+"Alliés elfiques"
 END
 
 UPGRADE:DunedainAllies
-"Grey Company"
+"Compagnie Grise"
 END
 
 UPGRADE:MenOfDaleAllies
-"Men of Dale Allies"
+"Hommes de Dale Alliés"
 END
 
 UPGRADE:EntAllies
-"Ent Allies"
+"Ent Alliés"
 END
 
 UPGRADE:GondorCounterweights
-"Counterweights"
+"Contrepoids"
 END
 
 UPGRADE:GondorFireStones
-"Fire Stones"
+"Pierres de feu"
 END
 
 UPGRADE:IsengardForgedBlades
-"Cruel Blades"
+"Lames Cruelles"
 END
 
 UPGRADE:IsengardHeavyArmor
-"Blackened Plate"
+"Plaque noircie"
 END
 
 UPGRADE:SwordsUpgrade
-"Forged Blades"
+"Lames Forgées"
 END
 
 TOOLTIP:SwordsUpgrade
-"Forged Blades"
+"Lames Forgées"
 END
 
 UPGRADE:HeavyArmorUpgrade
-"Heavy Armour"
+"Armure Lourde"
 END
 
 UPGRADE:StoneworkerUpgradeReinforcedGate
-"Reinforced Gate"
+"Porte Renforcée"
 END
 
 UPGRADE:StoneworkerUpgradeNumenorStonework
-"Númenórean Stonework"
+"Pierres numénoréennes"
 END
  
 UPGRADE:StoneworkerUpgradeToUseFireArrows
-"Battle Tower and Keep Archers"
+"Tour de guerre avec flèches enflammées"
 END
 
 UPGRADE:KnightShield
-"Horseman Shields"
+"Boucliers Cavaliers"
 END
 
 // context:
@@ -8714,7 +8714,7 @@ OBJECT:Prop
 "."
 END
 OBJECT:OutpostFlag
-"Outpost"
+"Avant-Poste"
 END
 
 OBJECT:CampFlag
@@ -8722,85 +8722,85 @@ OBJECT:CampFlag
 END
 
 OBJECT:CastleFlag
-"Castle"
+"Chateau"
 END
 
 OBJECT:EconomyFlag
-"Settlement"
+"Colonie"
 END
 
 OBJECT:DogwoodTree
-"Dogwood"
+"Cornouiller"
 End
 
 OBJECT:TreeStump
-"Tree Stump"
+"Souche d'arbre"
 End
 
 OBJECT:CornStalk
-"Corn Stalk"
+"Tige de maïs"
 End
 
 OBJECT:Tree
-"Tree"
+"Arbre"
 End
 
 OBJECT:Fish
-"Fish"
+"Poisson"
 END
 
 OBJECT:Egret
-"Egret"
+"Aigrette"
 END
 
 OBJECT:Wolf
-"Wolf"
+"Loup"
 END
 
 OBJECT:Dog
-"Dog"
+"Chien"
 END
 
 OBJECT:Deer
-"Deer"
+"Cerf"
 END
 
 OBJECT:Rabbit
-"Rabbit"
+"Lapin"
 END
 
 OBJECT:Pig
-"Pig"
+"Cochon"
 END
 
 OBJECT:Bear
-"Bear"
+"Ours"
 END
 
 OBJECT:Elk
-"Elk"
+"Elan"
 END
 
 OBJECT:Chicken
-"Chicken"
+"Poulet"
 END
 
 OBJECT:Ruins
-"Ruins"
+"Ruines"
 END
 
 OBJECT:ElvenBridge
-"Elven Bridge"
+"Pont elfique"
 END
 
 OBJECT:LavaBridge
-"Lava Bridge"
+"Pont de lave"
 END
 
 // End hardcoded strings
 
 OBJECT:CivilianBattleTower
-"Keep"
+"Donjon"
 END
 
 OBJECT:NeutralGollum
@@ -8819,52 +8819,52 @@ END
 // Rohan units
 
 OBJECT:RohanForgedBladesPorter
-"Rohan Forged Blades Porter"
+"Porteurs de lames forgées du Rohan"
 END
 
 TOOLTIP:RohanForgedBlades
-"Mundburg Steel Blades"
+"Lames en acier de Mundburg"
 END
 
 
 OBJECT:RohanHorseShieldPorter
-"Rohan Horse Shields Porter"
+"Porteur de boucliers cavaliers du Rohan"
 END
 
 OBJECT:RohanHorseBowPorter
-"Rohan Horse Bow Porter"
+"Cavalier archer du Rohan"
 END
 
 OBJECT:RohanFlamingArrowPorter
-"Rohan Fire Arrows Porter"
+"Porteur de flèches enflammées du Rohan"
 END
 
 OBJECT:RohanHeavyArmorPorter
-"Rohan Heavy Armour Porter"
+"Porteur d'armure lourde du Rohan"
 END
 
 OBJECT:RohanPeasant
-"Peasant"
+"Paysan"
 END
 
 OBJECT:RohanWorker
-"Peasant"
+"Paysan"
 END
 
 OBJECT:RohanFighter
-"Rohan Militia"
+"Milice du Rohan"
 END
 
 OBJECT:RohanArcher
-"Yeoman Archer"
+"Archer yeoman"
 END
 
 OBJECT:RohanSpearThrower
-"Yeoman Spear Thrower"
+"Lanceur de javelot du Rohan"
 END
 
 OBJECT:RohanSpearThrowerHorde
-"Yeoman Spear Throwers"
+"Lanceurs de javelot du Rohan"
 END
 
 OBJECT:RohanTheoden
@@ -8872,7 +8872,7 @@ OBJECT:RohanTheoden
 END
 
 OBJECT:RohanTheodenMounted
-"Théoden Mounted"
+"Théoden monté"
 END
 
 OBJECT:RohanEnt
@@ -8880,7 +8880,7 @@ OBJECT:RohanEnt
 END
 
 OBJECT:RohanTreeBeard
-"Treebeard"
+"Sylvebarbe"
 END
 
 OBJECT:ElvenHuorn
@@ -8888,7 +8888,7 @@ OBJECT:ElvenHuorn
 END
 
 OBJECT:RohanElvenWarrior
-"Elven Warriors"
+"Guerriers elfes"
 END
 
 OBJECT:ElvenImladrisWarriorHorde
@@ -8914,7 +8914,7 @@ OBJECT:RohanEomer
 END
 
 OBJECT:RohanGamling
-"Gamling"
+"Gamelin"
 END
 
 OBJECT:RohanEomerCavalry
@@ -8926,17 +8926,17 @@ OBJECT:RohanEowyn
 END
 
 OBJECT:RohanPorter
-"Rohan Porter"
+"Gardien du Rohan"
 END
 
 // Elven Units
 
 OBJECT:ElvenMirkwoodArcher
-"Mirkwood Archer"
+"Archer de la Forêt Noire"
 END
 
 OBJECT:ElvenWarriorArcherComboHorde
-"Elven Warriors and Archers"
+"Archers et guerriers elfes"
 END
 
 OBJECT:ElvenRivendellLancer
@@ -8944,31 +8944,31 @@ OBJECT:ElvenRivendellLancer
 END
 
 OBJECT:EregionKnights
-"Eregion Knights"
+"Chevaliers d'Eregion"
 END
 
 OBJECT:EregionKnight
-"Eregion Knight"
+"Chevalier d'Eregion"
 END
 
 OBJECT:EregionSpearman
-"Eregion Spear-elf"
+"Lancier elfe d'Eregion"
 END
 
 OBJECT:EregionSpearmen
-"Eregion Spears"
+"Lanciers elfe d'Eregion"
 END
 
 OBJECT:EregionWarrior
-"Eregion Warrior"
+"Guerrier d'Eregion"
 END
 
 OBJECT:EregionWarriors
-"Eregion Warriors"
+"Guerriers d'Eregion"
 END
 
 OBJECT:ElvenBanner
-"Elven Banner"
+"Bannière elfique"
 END
 
 OBJECT:HordeElvenRivendellLancer
@@ -8978,102 +8978,102 @@ END
 
 // Men of the West units
 OBJECT:GondorWorker
-"Builder"
+"Batisseur"
 END
 
 OBJECT:RohanRohirrimBannerRider
-"Rohirrim Banner Rider"
+"Porte-Etendard Rohirrim"
 END
 
 OBJECT:RohanBanner
-"Banner Carrier"
+"Porte-Etendard"
 END
 
 OBJECT:RohanCavalry
-"Rohirrim Warriors"
+"Guerriers Rohirrim"
 END
 
 OBJECT:RohanRohirrimArcherHorde
-"Rohirrim Archers"
+"Archers Rohirrim"
 END
 
 OBJECT:RohanRohirrimArcher
-"Rohirrim Archer"
+"Archer Rohirrim"
 END
 
 OBJECT:RohanRohirrim
-"Rohirrim Warrior"
+"Guerrier Rohirrim"
 END
 
 OBJECT:RohanSnowbournRider
-"Rider of Snowbourn"
+"Cavalier du Snowbourn"
 END
 
 OBJECT:HordeRohanSnowbournRider
-"Riders of Snowbourn"
+"Cavaliers du Snowbourn"
 END
 
 UPGRADE:UpgradeMundburgMasonry
-"Mundburg Masonry"
+"Maçonnerie de Mundburg"
 End
 
 CONTROLBAR:MundburgMasonry
-"Mundburg Masonry (&R)"
+"Maçonnerie de Mundburg (&R)"
 End
 
 CONTROLBAR:ToolTipMundburgMasonry
-"Requires level 2 Workshop\nStructures gain a 33% boost in armour\nDoes not affect Fortress\nPlayer must maintain a Workshop to benefit from this upgrade"
+"Requiert Atelier niveau 2\nLes structures gagnent +33% d'armure\nN'affecte pas la forteresse\nLe joueur doit posséder un atelier en état pour maintenir cette amélioration"
 End
 
 OBJECT:GondorTownsman
-"Townsmen"
+"Citoyens"
 END
 
 OBJECT:GondorPeasant
-"Peasant"
+"Paysan"
 END
 
 OBJECT:GondorPorter
-"Builder"
+"Batisseur"
 END
 
 OBJECT:GondorPorterSwords
-"Gondor Forged Blades Porter"
+"Porteur de lames forgées du Gondor"
 END
 
 OBJECT:GondorPorterHeavyArmor
-"Gondor Heavy Armour Porter"
+"Porteur d'armure lourde du Gondor"
 END
 
 OBJECT:GondorPorterShield
-"Gondor Knight Shield Porter"
+"Porteur de bouclier de chevalier du Gondor"
 END
 
 OBJECT:GondorPorterFireStone
-"Gondor Fire Stones Porter"
+"Porteur de pierres enflammées du Gondor"
 END
 
 OBJECT:GondorPorterFireArrow
-"Gondor Fire Arrows Porter"
+"Porteur de flèches enflammées du Gondor"
 END
 
 OBJECT:GondorTowerShieldGuard
-"Guard of the Citadel"
+"Garde de la Citadelle"
 END
 
 OBJECT:VeteranofOsgiliath
-"Veteran of Osgiliath"
+"Vétéran d'Osgiliath"
 END
 
 OBJECT:VeteranofOsgiliathHorde
-"Veterans of Osgiliath"
+"Vétérans d'Osgiliath"
 END
 
 CONTROLBAR:ConstructVeteransOsgiliathHorde
-"Veterans of Osgiliath (&W)"
+"Vétérans d'Osgiliath (&W)"
 END
 CONTROLBAR:ToolTipBuildVeteransOsgiliathHorde
-"Strong vs. Pikemen\n \n Long has Gondor kept the forces of Mordor at bay. By the blood of these warriors are the lands of the West kept safe."
+"Fort contre Piquiers\n \n Depuis longtemps, le Gondor tient à distance les forces du Mordor. C'est par le sang de ces guerriers que les terres de l'Ouest sont gardées en sécurité."
 END
 
 CONTROLBAR:VeteransLoyal
@@ -9081,32 +9081,32 @@ CONTROLBAR:VeteransLoyal
 END
 
 CONTROLBAR:ToolTipVeteransLoyal
-"Modifier Type: Leadership\nVeterans of Osgiliath gain +10% armour and resistance to fear and terror when nearby Boromir or Faramir\nPassive ability"
+"Modifier Type: Leadership\nLes Vétérans d'Osgiliath gagnent +10% d'armure et de resistance à la peur et la terreur quand ils sont proches de Boromir ou Faramir\nHabileté passive"
 END
 
 CONTROLBAR:OnsetofDoom
-"Onset of Doom"
+"L'Apocalypse guette"
 END
 
 CONTROLBAR:ToolTipOnsetofDoom
-"Requires Level 3\nNearby enemies lose -15% armour and damage and have reduced fear resistance\n When a Veteran dies, nearby Veterans temporarily gain +15% armour and +15% damage\n Passive ability"
+"Requiert niveau 3\nLes ennemis proches perdent -15% d'armure et -15% de dégâts et leur résistance à la peur est réduite\n Quand un vétéran trépasse,les vétérans proches gagnent temporairement +15% d'armure et +15% de dégâts\n Habileté passive"
 END
 
 CONTROLBAR:VetsForGondor
-"Sally Forth (&R)"
+"Faire une sortie (&R)"
 END
 
 CONTROLBAR:TooltipVetsForGondor
-"Requires Level 2 \n Veterans and nearby allied units gain\n+25% damage and resistance to knockback for 15 seconds\nLeft click to activate"
+"Requiert niveau 2 \n Les vétérans et les unités alliées gagnent\n+25% de dégâts et de résistance au renversement durant 15 secondes\nClic gauche pour activer"
 END
 
 
 OBJECT:GondorRanger
-"Ithilien Ranger"
+"Rodeur de l'ithilien"
 END
 
 OBJECT:GondorRangerSpear
-"Ithilien Sentinel"
+"Sentinelle de l'Ithilien"
 END
 
 OBJECT:GondorFaramir
@@ -9118,11 +9118,11 @@ OBJECT:GondorBoromir
 END
 
 OBJECT:BoromirShield
-"Boromir's shield"
+"Bouclier de Boromir"
 END
 
 OBJECT:BilboandLindir
-"Bilbo & Lindir"
+"Bilbon & Lindir"
 END
 
 OBJECT:GondorBerethor
@@ -9174,7 +9174,7 @@ OBJECT:EreborElegost
 END
 
 OBJECT:CaptainCarthaen
-"Captain Carthaen"
+"Capitaine Carthaen"
 END
 
 OBJECT:CampaignToradan
@@ -9214,7 +9214,7 @@ OBJECT:ElvenLorienArcher
 END
 
 OBJECT:ElvenElrond
-"Lord Elrond"
+"Seigneur Elrond"
 END
 
 OBJECT:ElvenCirdan
@@ -9234,11 +9234,11 @@ OBJECT:ElvenHaldir
 END
 
 OBJECT:ElvenLindonWarrior
-"Lindon Warrior"
+"Guerrier du Lindon"
 END
 
 OBJECT:ElvenImladrisWarrior
-"Rivendell Archer"
+"Archer de Fondcombe"
 END
 
 OBJECT:Gwaihir
@@ -9246,7 +9246,7 @@ OBJECT:Gwaihir
 END
 
 OBJECT:GondorGwiegher
-"Giant Eagle"
+"Aigle Géant"
 END
 
 OBJECT:RohanGimli
@@ -9254,7 +9254,7 @@ OBJECT:RohanGimli
 END
 
 OBJECT:RohanFrodo
-"Frodo"
+"Frodon"
 END
 
 OBJECT:RohanMerry
@@ -9274,19 +9274,19 @@ OBJECT:RohanLegolas
 END
 
 OBJECT:GondorArcher
-"Archer of Minas Tirith"
+"Archer de Minas Tirith"
 END
 
 OBJECT:GondorCavalry
-"Knight of Minas Tirith"
+"Chevalier de Minas Tirith"
 END
 
 OBJECT:GondorCavalryRiderless
-"Riderless Horse"
+"Cheval sans cavalier"
 END
 
 OBJECT:GondorCavalryCINE
-"Knight of Minas Tirith"
+"Chevalier de Minas Tirith"
 END
 
 OBJECT:GondorTrebuchet
@@ -9298,13 +9298,13 @@ OBJECT:GandalfTheWhite
 END
 
 OBJECT:GondorBanner
-"Banner Carrier"
+"Porte-Etendard"
 END
 
 // Dwarven Units
 
 OBJECT:DaleBanner
-"Dale Captain"
+"Capitaine de Dale"
 END
 
 OBJECT:DwarvenGuardian
@@ -9312,23 +9312,23 @@ OBJECT:DwarvenGuardian
 END
 
 OBJECT:DwarvenAxeThrower
-"Erebor Axe Thrower"
+"Lanceur de haches d'Erebor"
 END
 
 OBJECT:DwarvenBanner
-"Erebor Banner Carrier"
+"Porte-Etendard d'Erebor"
 END
 
 OBJECT:EredLuinBanner
-"Ered Luin Venturer"
+"Aventurier de l'Ered Luin"
 END
 
 OBJECT:DwarvenDain
-"Lord Dáin II Ironfoot"
+"Seigneur Dáin II Pied d'Acier"
 END
 
 OBJECT:DwarvenKingDain
-"King Dáin"
+"Roi Dáin"
 END
 
 OBJECT:DwarvenBatteringRam
@@ -9336,26 +9336,26 @@ OBJECT:DwarvenBatteringRam
 END
 
 OBJECT:DwarvenCatapult
-"Iron Hills Catapult"
+"Catapulte des Monts du Fer"
 END
 
 // Isengard units
 
 
 OBJECT:IsengardSaruman
-"Saruman"
+"Saroumane"
 END
 
 OBJECT:IsengardSarumanRingHero
-"Saruman of Many Colours"
+"Saroumane aux Multiples Couleurs"
 END
 
 OBJECT:IsengardSharku
-"Sharku"
+"Sharcoux"
 END
 
 OBJECT:IsengardWildman
-"Wildman of Dunland"
+"Homme sauvage du Pays de Dun"
 END
 
 OBJECT:Ruffian
@@ -9371,15 +9371,15 @@ CONTROLBAR:ConstructRuffian
 END
 
 CONTROLBAR:ToolTipBuildRuffianHorde
-"Strong vs. Pikemen \n\n Rejects and vagabonds, cheats and liars: Saruman welcomed all in his bid to conquer and control the Shire."
+"Forts contre Piquiers \n\n Des laissés pour compte et des vagabonds, des tricheurs et des menteurs : Saroumane les a tous accueillis dans sa tentative de conquête et de contrôle de la Comté."
 END
 
 CONTROLBAR:PutTheminChains
-"Put 'em in Chains!"
+"Enchainez les !"
 END
 
 CONTROLBAR:ToolTipPutTheminChains
-"Requires Level 3 \n Melee attacks decrease enemy armour by 15% for 5 seconds\nDebuff does not stack with itself\nPassive ability"
+"Requiert niveau 3 \n Les attaques de mêlée réduisent l'armure ennemie de 15% pendant 5 secondes\nNe se cumule pas avec d'autres affaiblissements\nHabileté passive"
 END
 
 CONTROLBAR:Pickpockets
@@ -9387,99 +9387,99 @@ CONTROLBAR:Pickpockets
 END
 
 CONTROLBAR:ToolTipPickpockets
-"Requires Level 2 \n Ruffians steal resources from slain enemies\nPassive ability"
+"Requiert Niveau 2 \n Les ruffians pillent les ressources des ennemis tués\nHabileté passive"
 END
 
 CONTROLBAR:LightEmUp
-"Light 'em Up! (&T)"
+"Allumez les ! (&T)"
 END
 
 CONTROLBAR:ToolTipLightEmUp
-"Requires Level 2 \n The Ruffians throw flaming bottles at the target \n Left click icon then left click on target"
+"Requiert Niveau 2 \n Les Ruffians envoient des bouteilles enflammées sur la cible \n Clic gauche sur l'icône puis clic gauche sur la cible"
 END
 
 CONTROLBAR:SharkeysRuffians
-"Sharkey's Ruffians"
+"Ruffians de Sharcoux"
 END
 
 CONTROLBAR:ToolTipSharkeysRuffians
-"Modifier Type: Leadership\nRuffians gain +25% damage when near Saruman\nPassive ability"
+"Modifier Type: Leadership\nLes Ruffians gagnent +25% de dégâts lorsqu'ils sont proches de Saroumane\nHabileté passive"
 END
 
 
 //------------ Ruffian Bows ---------------
 OBJECT:RuffianBows
-"Ruffian Bow"
+"Archer Ruffian"
 END
 
 OBJECT:RuffianBowsHorde
-"Ruffian Bows"
+"Archers Ruffian"
 END
 
 CONTROLBAR:ConstructRuffianBows
-"Ruffian Bows (&W)"
+"Archers Ruffian (&W)"
 END
 
 CONTROLBAR:ToolTipBuildRuffianBowsHorde
-"Strong vs. Infantry \n\n Rejects and vagabonds, cheats and liars: Saruman welcomed all in his bid to conquer and control the Shire."
+"Forts contre l'infanterie \n\n Des laissés pour compte et des vagabonds, des tricheurs et des menteurs : Saroumane les a tous accueillis dans sa tentative de conquête et de contrôle de la Comté."
 END
 
 //-----------
 
 OBJECT:IsengardWildmanGuard
-"Guard of Orthanc"
+"Garde d'Orthanc"
 END
 
 OBJECT:IsengardWildmanRhudaur
-"Rhudaur Hillman"
+"Homme des collines du Rhudaur"
 END
 
 OBJECT:IsengardGrima
-"Wormtongue"
+"Langue de Serpent"
 END
 
 OBJECT:IsengardWorker
-"Orc Laborer"
+"Ouvrier Orque"
 END
 
 OBJECT:IsengardBatteringRam
-"Battering Ram"
+"Bélier"
 END
 
 OBJECT:IsengardFighter
-"Fighting Uruk-hai"
+"Combattant Uruk-hai"
 END
 
 OBJECT:IsengardBanner
-"Banner Carrier"
+"Porte-Etendard"
 END
 
 OBJECT:IsengardWargRider
-"Warg Rider"
+"Chavaucheur de Ouargues"
 END
 
 OBJECT:IsengardBeserker
-"Uruk-hai Berserker"
+"Berserker Uruk-hai"
 END
 
 OBJECT:IsengardBerserker
-"Uruk-hai Berserker"
+"Berserker Uruk-hai"
 END
 
 OBJECT:IsengardSiegeLadder
-"Siege Ladder"
+"Echelle de siège"
 END
 
 OBJECT:IsengardBallista
-"Ballista"
+"Balliste"
 END
 
 OBJECT:IsengardExplosiveMine
-"Explosive Mine"
+"Mine Explosive"
 END
 
 OBJECT:IsengardOrcOverseer
-"Orc Laborer"
+"Ouvrier Orque"
 END
 
 OBJECT:IsengardLurtz
@@ -9487,53 +9487,53 @@ OBJECT:IsengardLurtz
 END
 
 OBJECT:IsengardPorter
-"Builder"
+"Batisseur"
 END
 
 OBJECT:IsengardPorterFlamingArrows
-"Isengard Fire Arrows Porter"
+"Porteur de flèches enflammées d'Isengard"
 END
 
 OBJECT:IsengardPorterForgedBlades
-"Isengard Forged Blades Porter"
+"Porteur de lames forgées d'Isengard"
 END
 
 OBJECT:IsengardPorterHeavyArmor
-"Isengard Heavy Armour Porter"
+"Porteur d'armure lourde d'Isengard"
 END
 
 
 // Mordor units
 OBJECT:MordorBatteringRam
-"Battering Ram"
+"Bélier"
 END
 
 OBJECT:MordorWitchKing
-"The Witch-king of Angmar"
+"Le Roi-Sorcier d'Angmar"
 END
 
 OBJECT:MordorHaradrimArcher
-"Haradrim Archer"
+"Archer Haradrim"
 END
 
 OBJECT:MordorHaradrimSpr
-"Haradrim Spearman"
+"Lancier Haradrim"
 END
 
 OBJECT:MordorHaradrimLancer
-"Haradrim Raider"
+"Cavalier Haradrim"
 END
 
 OBJECT:MordorCorsair
-"Corsair of Umbar"
+"Corsaire d'Umbar"
 END
 
 OBJECT:MordorPorter
-"Builder"
+"Batisseur"
 END
 
 OBJECT:MordorRingWraith
-"Ringwraith"
+"Spectre de l'anneau"
 END
 
 OBJECT:MordorGothmog
@@ -9541,19 +9541,19 @@ OBJECT:MordorGothmog
 END
 
 OBJECT:DeathCage
-"Death Cage"
+"Cage de la mort"
 END
 
 OBJECT:SHOULDNOTSEE
-"You should not see this string!"
+"Vous ne devriez pas voir cette chaîne !"
 END
 
 OBJECT:Throne
-"Throne"
+"Trône"
 END
 
 OBJECT:DwarfThroneofErebor
-"Throne"
+"Trône"
 END
 
 OBJECT:AotROsgiliathGrate
