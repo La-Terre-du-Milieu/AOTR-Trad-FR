@@ -7978,7 +7978,7 @@ End
 //--------------------------------------------------------------------------------
 // End of Science Strings
 //--------------------------------------------------------------------------------
-CONTROLBAR:ToolTipToggleWargSkirmishToLineFormation
+CONTROLBAR:ToolTipToggleOuargueskirmishToLineFormation
 "+25% armour, -50% damage"
 END
 
@@ -10805,7 +10805,7 @@ OBJECT:IsengardCastleGate
 "Gate"
 END
 
-OBJECT:IsengardWargSentry
+OBJECT:IsengardOuarguesentry
 "Warg Sentry"
 END
 
@@ -14546,7 +14546,7 @@ SCRIPT:Complete_MEWitheredHeath_MissionObjective05
 END
 
 SCRIPT:MEWitheredHeath_SpidersFlanking
-"ORC OFFICER: More Wargs are coming out of the hills!"
+"ORC OFFICER: More Ouargues are coming out of the hills!"
 End
 
 SCRIPT:MEWitheredHeath_MissionHint01
@@ -17967,10 +17967,10 @@ CONTROLBAR:ToolTipBuildIsengardShieldBearer
 "Requires Level 2 Uruk Pit \n Heavily armoured support unit \n Able to switch formation for improved defensive capabilities \n \n 'This is no rabble of mindless orcs. These are Uruk-hai. Their armour is thick and their shields broad.'"
 END
 CONTROLBAR:ToolTipBuildIsengardWargRider
-"Strong vs. Swordsmen and Archers \n \n For generations, Orcs have ridden Wargs - not as masters, but as equals - to track and ambush the Free Peoples."
+"Strong vs. Swordsmen and Archers \n \n For generations, Orcs have ridden Ouargues - not as masters, but as equals - to track and ambush the Free Peoples."
 END
 CONTROLBAR:ToolTipBuildWildWargRider
-"Requires Level 2 Wolf Cairn\n Strong vs. Swordsmen and Archers \n \n For generations, Orcs have ridden Wargs and Wolves - not as masters, but as equals - to track and ambush the Free Peoples."
+"Requires Level 2 Wolf Cairn\n Strong vs. Swordsmen and Archers \n \n For generations, Orcs have ridden Ouargues and Wolves - not as masters, but as equals - to track and ambush the Free Peoples."
 END
 CONTROLBAR:ToolTipBuildIsengardSiegeBallista
 "Requires Level 2 Siege Works \n Strong vs. Structures and Siege Equipment \n\nRelatively simple to use and aim, Saruman's ballistae serve to wipe out clusters of enemy troops and weaken their structures."
@@ -27055,7 +27055,7 @@ END
 
 //WEST EMNET
 BONUSROUND:SPSEVILWESTEMNETDESTROY
-"Bonus: Recruit all the wild wargs in this region."
+"Bonus: Recruit all the wild Ouargues in this region."
 END
 BONUSROUND:SPSEVILWESTEMNETUPGRADE
 "Bonus: Upgrade 5 hordes with heavy armour."
@@ -34165,12 +34165,12 @@ CONTROLBAR:ToolTipConstructIsengardLumberMill
 "Harvests resources from nearby trees \n Reduces cost of Buildings\n 2 Lumber Mills: 10%\n 3 Lumber Mills: 20%\n 4 Lumber Mills: 30% \n Increases command point limit by 25"
 END
 
-CONTROLBAR:ConstructIsengardWargSentry
+CONTROLBAR:ConstructIsengardOuarguesentry
 "Build Warg Sentry (&F)"
 END
 
-CONTROLBAR:ToolTipConstructIsengardWargSentry
-"Defensive wargs that will attack nearby enemies"
+CONTROLBAR:ToolTipConstructIsengardOuarguesentry
+"Defensive Ouargues that will attack nearby enemies"
 END
 
 CONTROLBAR:ConstructIsengardFortress
@@ -34359,12 +34359,12 @@ CONTROLBAR:TameTheBeast
 "&Tame the Beast"
 END
 
-CONTROLBAR:SendIntheWargs
-"Send in the Wargs (&R)"
+CONTROLBAR:SendIntheOuargues
+"Send in the Ouargues (&R)"
 END
 
-CONTROLBAR:ToolTipSendintheWargs
-"Requires Level 3\n Summons a wave of charging Wargs to crush the enemy \n Left click icon then left click on target"
+CONTROLBAR:ToolTipSendintheOuargues
+"Requires Level 3\n Summons a wave of charging Ouargues to crush the enemy \n Left click icon then left click on target"
 End
 
 CONTROLBAR:BloodHunt
@@ -34970,7 +34970,7 @@ CONTROLBAR:GondorCastleWallHub
 "Build Wall Hub (&A)"
 End
 
-CONTROLBAR:IsengardWargSentryUnleash
+CONTROLBAR:IsengardOuarguesentryUnleash
 "Un&leash Warg"
 End
 
@@ -35026,7 +35026,7 @@ CONTROLBAR:PoisonArrows
 "Poison Arrows (&R)"
 End
 
-CONTROLBAR:PurchaseIsengardWargSentry
+CONTROLBAR:PurchaseIsengardOuarguesentry
 "Build &Warg Sentries"
 End
 
@@ -35282,7 +35282,7 @@ CONTROLBAR:ToolTipGoblinKingMount
 "Requires Level 3 \n Mount and unmount the Golfimbul's warg"
 End
 
-CONTROLBAR:ToolTipIsengardWargSentryUnleash
+CONTROLBAR:ToolTipIsengardOuarguesentryUnleash
 "Releases the warg to attack freely"
 End
 
@@ -35302,8 +35302,8 @@ CONTROLBAR:ToolTipPoisonArrows
 "Poison tipped arrows that cause damage over time for 15 seconds \nPoison arrows deal +50% additional damage against monsters\nLeft click icon then left click on target"
 End
 
-CONTROLBAR:ToolTipPurchaseIsengardWargSentry
-"Short range defensive wargs"
+CONTROLBAR:ToolTipPurchaseIsengardOuarguesentry
+"Short range defensive Ouargues"
 End
 
 CONTROLBAR:ToolTipSharkuWargMount
@@ -37226,7 +37226,7 @@ OBJECT:VictimWebs
 "Webbed Victims"
 End
 
-OBJECT:WargSentry
+OBJECT:Ouarguesentry
 "Isengard Warg Sentry"
 End
 
@@ -40607,7 +40607,7 @@ DIALOGEVENT:MEWithe_OffM002subtitle
 END
 
 DIALOGEVENT:MEWithe_Orc001subtitle
-"*More wargs are coming out of the hills! "
+"*More Ouargues are coming out of the hills! "
 END
 
 DIALOGEVENT:MEWithe_OffM003subtitle
@@ -45620,7 +45620,7 @@ Upgrade:ReplacementWeapon
 "Replacement Weapon"
 END
 
-Upgrade:WargSentry
+Upgrade:Ouarguesentry
 "Warg Sentry"
 END
 
@@ -45633,7 +45633,7 @@ Stat:Balrogs_Killed_Name
 "Balrogs Killed"
 END
 
-Stat:Creeps_Killed_Name
+Stat:Antres_Killed_Name
 "Lairs Destroyed"
 END
 
@@ -45857,8 +45857,8 @@ Stat:Trolls_Killed_Name
 "Trolls Killed"
 END
 
-Stat:Wargs_Killed_Name
-"Wargs Killed"
+Stat:Ouargues_Killed_Name
+"Ouargues Killed"
 END
 
 Stat:Won_WOTR_Campaign_Name
@@ -46025,7 +46025,7 @@ Award:Monsterslayer_Name
 END
 
 Award:Monsterslayer_Desc
-"Hero has killed 1000 of any combination of Trolls, Mûmakil, Giants, Wargs, Fellbeasts, and Spiderlings"
+"Hero has killed 1000 of any combination of Trolls, Mûmakil, Giants, Ouargues, Fellbeasts, and Spiderlings"
 END
 
 Award:SiegeMaster_Name
@@ -54062,7 +54062,7 @@ CONTROLBAR:LW_ToolTipBuild_MordorWargHorde
 END
 
 CONTROLBAR:ConstructMordorWargHorde
-"Create a Pack of Wargs"
+"Create a Pack of Ouargues"
 End
 
 CONTROLBAR:ToolTipBuildMordorWargHorde
@@ -54289,11 +54289,11 @@ CONTROLBAR:ConstructIsengardWargPack
 END
 
 CONTROLBAR:ConstructJungleWargPack
-"Jungle Wargs (&W)"
+"Jungle Ouargues (&W)"
 END
 
 CONTROLBAR:ToolTipBuildIsengardWargPack
-"Strong vs. Swordsmen and Archers \n \n Fast-moving and ferocious, packs of Wargs have oft been the bane of unwary travelers."
+"Strong vs. Swordsmen and Archers \n \n Fast-moving and ferocious, packs of Ouargues have oft been the bane of unwary travelers."
 END
 
 CONTROLBAR:ConstructWhiteWargPack
@@ -58164,7 +58164,7 @@ CONTROLBAR:EvacuateAll
 End
 
 OBJECT:WargLairDescription
-//"Allows training of Wargs"
+//"Allows training of Ouargues"
 "Allows training of Warg Packs"
 END
 
@@ -59269,13 +59269,13 @@ OBJECT:IsengardWildmanAxeHorde
 END
 
 CONTROLBAR:TooltipWargRiderHowl
-//"Wargs gain +150% damage \n Left click to activate"
-//"Wargs gain\n+50% damage, +50% armour \n Left click to activate"
-"Modifier Type: Buff \n Wargs gain +25% damage and +25% armour for 45 seconds\nLeft click to activate"
+//"Ouargues gain +150% damage \n Left click to activate"
+//"Ouargues gain\n+50% damage, +50% armour \n Left click to activate"
+"Modifier Type: Buff \n Ouargues gain +25% damage and +25% armour for 45 seconds\nLeft click to activate"
 END
 
 CONTROLBAR:TooltipIsengardWargRiderHowl
-"Modifier Type: Buff \n Wargs gain +50% damage and +20% speed for 20 seconds\nLeft click to activate"
+"Modifier Type: Buff \n Ouargues gain +50% damage and +20% speed for 20 seconds\nLeft click to activate"
 END
 
 CONTROLBAR:TooltipWhiteWolvesHowl
@@ -61151,7 +61151,7 @@ CONTROLBAR:LW_ToolTip_IsengardWargPackHorde
 "\nUnit Type: Basic Cavalry\nStrong vs. Swordsmen"
 END
 BANNERUI:IsengardWargPacks
-"Wargs"
+"Ouargues"
 END
 CONTROLBAR:LW_Unit_IsengardWargPackHorde
 //"Warg Pack"
@@ -61758,15 +61758,15 @@ CONTROLBAR:ToolTipUpgradeDwarvenBarracksLevel2
 END
 
 CONTROLBAR:ToolTipTameTheBeast
-//"Requires Level 2 \n Target wargs or warg riders come under Sharku's control \n Left click icon then left click on target"
+//"Requires Level 2 \n Target Ouargues or warg riders come under Sharku's control \n Left click icon then left click on target"
 //"Requires Level 5 \n Target monster or cavalry battalion comes under Sharku's control \n Left click icon then left click on target"
 //"Requires Level 9 \n Target monster or cavalry battalion comes under Sharku's control \n Left click icon then left click on target"
-//"Target Wargs or Warg Riders come under Sharku's control \n Left click icon then left click on target"
-"Requires Level 5 \n Target Wargs or Warg Riders come under Sharku's control \n Left click icon then left click on target"
+//"Target Ouargues or Warg Riders come under Sharku's control \n Left click icon then left click on target"
+"Requires Level 5 \n Target Ouargues or Warg Riders come under Sharku's control \n Left click icon then left click on target"
 END
 
 CONTROLBAR:ToolTipTameTheBeast
-"Requires Level 3 \n Summons a wave of charging Wargs to crush the enemy \n Left click icon then left click on target area"
+"Requires Level 3 \n Summons a wave of charging Ouargues to crush the enemy \n Left click icon then left click on target area"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityChargeAttack
@@ -62812,17 +62812,17 @@ CONTROLBAR:CorsairChargeHarad
 END
 
 CONTROLBAR:TooltipCorsairCharge
-//"Wargs gain +150% damage \n Left click to activate"
+//"Ouargues gain +150% damage \n Left click to activate"
 "Modifier Type: Buff \n Corsairs temporarily gain experience 50% faster\n Left click to activate"
 END
 
 CONTROLBAR:TooltipCorsairCharge
-//"Wargs gain +150% damage \n Left click to activate"
+//"Ouargues gain +150% damage \n Left click to activate"
 "Modifier Type: Buff \n Corsairs temporarily gain experience 50% faster\n Left click to activate"
 END
 
 CONTROLBAR:TooltipCorsairChargeHarad
-//"Wargs gain +150% damage \n Left click to activate"
+//"Ouargues gain +150% damage \n Left click to activate"
 "Modifier Type: Spell\nCorsairs of Umbar gain +5% damage for every nearby Corsair horde, up to a maximum of +35% damage\n\nCorsairs steal resources from enemy structures with knives equipped\nPassive ability"
 END
 
@@ -62831,7 +62831,7 @@ CONTROLBAR:FellPursuit
 END
 
 CONTROLBAR:TooltipFellPursuit
-//"Wargs gain +150% damage \n Left click to activate"
+//"Ouargues gain +150% damage \n Left click to activate"
 "Requires Level 6\n Nazgûl gain +20% movement speed and +33% armour for 30 seconds\n Can only be used when mounted \nLeft click to activate"
 END
 
@@ -63077,7 +63077,7 @@ CONTROLBAR:ToolTipBuildBolgNew
 "Recruit Bolg of the North"
 END
 CONTROLBAR:BolgRecruitNew
-"Recruit the Scourge of the Misty Mountains \n \n 'The Goblins are upon you! Bolg of the North is coming. O Dain! whose father you slew in Moria. \n Behold! the bats are above his army like a sea of locusts. They ride upon wolves and Wargs are in their train!'"
+"Recruit the Scourge of the Misty Mountains \n \n 'The Goblins are upon you! Bolg of the North is coming. O Dain! whose father you slew in Moria. \n Behold! the bats are above his army like a sea of locusts. They ride upon wolves and Ouargues are in their train!'"
 END
 CONTROLBAR:BolgReviveNew
 "Revive the fallen Hero, Bolg"
@@ -63107,7 +63107,7 @@ CONTROLBAR:BolgLeadership
 "Wild Overlord"
 END
 CONTROLBAR:ToolTipBolgLeadership
-"Modifier Type: Leadership\nNearby Orcs, Wargs and Giant Bats receive +50% armour, experience and resistance to fear and terror\nPassive ability"
+"Modifier Type: Leadership\nNearby Orcs, Ouargues and Giant Bats receive +50% armour, experience and resistance to fear and terror\nPassive ability"
 END
 CONTROLBAR:BolgGrowingHatred
 "Growing Hatred (&R)"
@@ -66237,14 +66237,14 @@ CONTROLBAR:GolfimbulLeadership
 END
 
 CONTROLBAR:TooltipGolfimbulLeadership
-"Modifier Type: Leadership \nNearby Wargs and Cavalry gains\n +25% damage, +15% speed and earn experience 50% faster\n Passive ability"
+"Modifier Type: Leadership \nNearby Ouargues and Cavalry gains\n +25% damage, +15% speed and earn experience 50% faster\n Passive ability"
 END
 
-CONTROLBAR:GolfimbulWargSummon
+CONTROLBAR:GolfimbulOuarguesummon
 "White Wolves of Forochel (&R)"
 END
 
-CONTROLBAR:ToolTipGolfimbulWargSummon
+CONTROLBAR:ToolTipGolfimbulOuarguesummon
 "Requires Level 3 \n Golfimbul summons 6 White Wolves at the target area. \n Left click on icon then left click on target area"
 END
 
@@ -66253,7 +66253,7 @@ CONTROLBAR:GolfimbulHatred
 END
 
 CONTROLBAR:TooltipGolfimbulHatred
-"Requires Level 8 \n Modifier Type: Spell \n Golfimbul seeks to exact his revenge upon the Fair-folk\n Golfimbul and nearby Wolves, Wargs, and Wolf-Riders gain\n+100% damage, +100% armour and -50% trample deceleration for 20 seconds\n Left click to activate"
+"Requires Level 8 \n Modifier Type: Spell \n Golfimbul seeks to exact his revenge upon the Fair-folk\n Golfimbul and nearby Wolves, Ouargues, and Wolf-Riders gain\n+100% damage, +100% armour and -50% trample deceleration for 20 seconds\n Left click to activate"
 END
 
 CONTROLBAR:AzogSpawnOfTheDefiler
@@ -68858,7 +68858,7 @@ CONTROLBAR:DwarvenWile
 "Dwarven Wile (&T)"
 END
 CONTROLBAR:ToolTipDwarvenWile
-"Requires Level 3 \n Ered Luin Rangers lay down an assortment of tripwires, caltrops and pitfalls.\n Enemies that walk across are stunned for 5 seconds\n Does not affect creeps\n\n Left click then left click target location"
+"Requires Level 3 \n Ered Luin Rangers lay down an assortment of tripwires, caltrops and pitfalls.\n Enemies that walk across are stunned for 5 seconds\n Does not affect Antres\n\n Left click then left click target location"
 END
 //------------ Ered Luin Guards ---------------
 OBJECT:EredLuinGuard
@@ -69512,7 +69512,7 @@ CONTROLBAR:LossothTrap
 "Hunting Trap (&T)"
 END
 CONTROLBAR:ToolTipLossothTrap
-"Requires Level 2 \n The Lossoth set a hunting trap on the ground\n Enemies that walk across the trap are damaged and suffer -15% speed for 15 seconds\n Does not affect creeps\n\n Left click to activate"
+"Requires Level 2 \n The Lossoth set a hunting trap on the ground\n Enemies that walk across the trap are damaged and suffer -15% speed for 15 seconds\n Does not affect Antres\n\n Left click to activate"
 END
 
 CONTROLBAR:PurchaseUpgradeLoyalCompanionsLossoth
@@ -70806,7 +70806,7 @@ CONTROLBAR:BearTrap
 "Bear Trap (&R)"
 END
 CONTROLBAR:ToolTipBearTrap
-"Requires Level 2 \n The Hunters lay down a bear trap\n Enemies that walk across the trap are damaged on impact and suffer damage over time for 10 seconds\n Does not affect creeps\n\n Left click to activate"
+"Requires Level 2 \n The Hunters lay down a bear trap\n Enemies that walk across the trap are damaged on impact and suffer damage over time for 10 seconds\n Does not affect Antres\n\n Left click to activate"
 END
 
 //-----------
@@ -76868,7 +76868,7 @@ CONTROLBAR:GuldurBlackWarg
 END
 
 CONTROLBAR:ToolTipGuldurBlackWarg
-"Summons two hordes of Black Wargs lead by their Great Alpha\nLeft click icon then left click on target area"
+"Summons two hordes of Black Ouargues lead by their Great Alpha\nLeft click icon then left click on target area"
 END
 
 OBJECT:BlackWarg
@@ -76880,7 +76880,7 @@ OBJECT:BlackWargAlpha
 END
 
 OBJECT:HordeGuldurBlackWarg
-"Black Wargs"
+"Black Ouargues"
 END
 
 OBJECT:GuldurUndeadTroll
@@ -77980,7 +77980,7 @@ CONTROLBAR:HatredofOrcsBeorn
 END
 
 CONTROLBAR:ToolTipHatredofOrcsBeorn
-"Modifier Type: Passive Nullifier Debuff \n Nearby enemy Orcs and Wargs suffer -33% damage and -25% armour \nNullifies enemy leadership \n Takes precedence over other Debuffs\nPassive ability"
+"Modifier Type: Passive Nullifier Debuff \n Nearby enemy Orcs and Ouargues suffer -33% damage and -25% armour \nNullifies enemy leadership \n Takes precedence over other Debuffs\nPassive ability"
 END
 
 //------------ Radagast ---------------
@@ -78590,7 +78590,7 @@ CONTROLBAR:HuntingSnare
 END
 
 CONTROLBAR:ToolTipHuntingSnare
-"Requires Level 3 \n The Hunter lays a hunting snare which stuns nearby enemies for 5 seconds\nDoes not affect creeps\n\n Left click then left click target location"
+"Requires Level 3 \n The Hunter lays a hunting snare which stuns nearby enemies for 5 seconds\nDoes not affect Antres\n\n Left click then left click target location"
 END
 
 OBJECT:HuntingSnare
@@ -81229,7 +81229,7 @@ CONTROLBAR:ConstructHaradBeastmaster
 END
 
 CONTROLBAR:ToolTipBuildHaradBeastmaster
-"Requires Level 2 Pavilion of the Golden King\nSingle ranged unit guarded by Jungle Wargs\n Strong at range \n Limited to 5 \n \n Amongst tribes of the Nâfarati there are those that have learned to command the creatures of the dark jungle. Wargs follow in their train, and no predator dares cross them."
+"Requires Level 2 Pavilion of the Golden King\nSingle ranged unit guarded by Jungle Ouargues\n Strong at range \n Limited to 5 \n \n Amongst tribes of the Nâfarati there are those that have learned to command the creatures of the dark jungle. Ouargues follow in their train, and no predator dares cross them."
 END
 
 OBJECT:HaradBeastmaster
@@ -81281,7 +81281,7 @@ CONTROLBAR:BeastmasterWargTamer
 End
 
 CONTROLBAR:ToolTipBeastmasterWargTamer
-"Requires Level 3\nThe Beastmaster temporarily summons a pack of Jungle Wargs to protect him\nJungle Wargs partially ignore enemy armour and are resistant to fear and terror effects\nLeft click to activate"
+"Requires Level 3\nThe Beastmaster temporarily summons a pack of Jungle Ouargues to protect him\nJungle Ouargues partially ignore enemy armour and are resistant to fear and terror effects\nLeft click to activate"
 END
 
 OBJECT:HaradJungleWarg
@@ -81289,7 +81289,7 @@ OBJECT:HaradJungleWarg
 END
 
 OBJECT:HaradJungleWargHorde
-"Jungle Wargs"
+"Jungle Ouargues"
 END
 
 OBJECT:HaradVulture
@@ -85010,7 +85010,7 @@ Map:MAPSPevilfornost/Desc
 End
 
 Map:MAPSPevilMirkwood/Desc
-"Une armée redoutable dégueule des ruines de Dol Guldur et cherche à prendre le contrôle de l'ancienne route forestière, coupant ainsi le roi Elfe de tout renfort allié qui pourrait empêcher la destruction du royaume sylvestre."
+"Une redoutable armée dégueule des ruines de Dol Guldur et cherche à prendre le contrôle de l'ancienne route forestière, coupant ainsi le roi Elfe de tout renfort allié qui pourrait empêcher la destruction du royaume sylvestre."
 End
 
 Map:MAPSPevilwitheredheath/Desc
@@ -85028,162 +85028,162 @@ End
 /////BFME GOOD CAMPAIGN/////
 
 Map:MAPSPgoodrivendell/Desc
-"A surprise orc attack on Rivendell causes the Elf-lord Glorfindel to forge an unlikely alliance with Glóin the Dwarf."
+"Une attaque surprise des orques sur Fondcombe pousse le seigneur elfe Glorfindel à forger une alliance improbable avec Glóin le nain."
 End
 
 Map:MAPSPgoodhighpass/Desc
-"Glorfindel and Glóin travel to the High Pass, seeking to keep its passage open and free from an orcish infestation."
+"Glorfindel et Glóin se rendent au Haut-Col, cherchant à garder le passage ouvert et libre d'une infestation d'orques."
 End
 
 
 Map:MAPSPgoodettenmoors/Desc
-"In order to subdue the Orcs of the Misty Mountains, Glorfindel and Glóin rally a force of arms and strike at the heart of the orcish presence in the region."
+"Afin de soumettre les Orques des Monts Brumeux, Glorfindel et Glóin rallient une puissante force armée et frappent au cœur de la présence orque dans la région."
 End
 
 Map:MAPSPgoodbluemountains/Desc
-"The Dwarves of the Blue Mountains seek the help of Glorfindel and Glóin in reclaiming their halls from the clutches of a fire-breathing dragon."
+"Les nains des Montagnes Bleues demandent l'aide de Glorfindel et Glóin pour reprendre leurs salles des griffes d'un dragon cracheur de feu."
 End
 
 Map:MAPSPgoodgreyhavens/Desc
-"The ancient havens of Mithlond are under attack by a force of Haradrim. Glorfindel and Glóin arrive to assist Cirdan the Shipwright repel this vile incursion."
+"Les anciens refuges de Mithlond sont attaqués par une force de Haradrim. Glorfindel et Glóin arrivent pour aider Cirdan le charpentier à repousser cette vile incursion."
 End
 
 Map:MAPSPgoodcelduin/Desc
-"Dáin Ironfoot, the warrior-king of Erebor, personally leads his forces into Laketown to defend it from a sudden Easterling attack."
+"Dáin Pied - d'Acier, le roi guerrier d'Erebor, mène personnellement ses forces à Lacville pour la défendre d'une attaque soudaine des Orientaux."
 End
 
 Map:MAPSPgooderebor/Desc
-"The Dwarves of Erebor and the Men of Dale organise a desperate defence against the besieging legions of Rhûn."
+"Les nains d'Erebor et les hommes de Dale organisent une défense désespérée contre les assiégeants de Rhûn."
 End
 
 Map:MAPSPgooddolguldur/Desc
-"The White Council and its allies launch a final assault against Sauron’s stronghold of Dol Guldur, seeking to cast down its dark walls and bare its wicked pits in order to finally cleanse Mirkwood of its corruption."
+"Le Conseil Blanc et ses alliés lancent un assaut final contre le bastion de Sauron, Dol Guldur, cherchant à abattre ses murs sombres et à mettre à nu ses fosses maléfiques afin de purifier enfin la Forêt Noire de sa corruption."
 End
 
 
 /////SINGEPLAYER MISSIONS/////
 
 Map:MAPSPbalinsexpedition
-"Tales of Middle-earth: Balin's Expedition*"
+"Contes de la Terre du Milieu : L'expédition de Balin*"
 End
 
 Map:MAPSPbalinsexpedition/Desc
-"In T.A. 2989 after the Kingdom of the Lonely Mountain had been restored, Balin and his company set out to reclaim the great ancestral halls of the Dwarves, Khazad-dûm. \n Singleplayer Mission \n Player Faction: Erebor \n Recommended on High settings or above. \n Save your progress often."
+"En l'an 2989, après la restauration du royaume de la Montagne solitaire, Balin et sa compagnie entreprennent la reconquête des grandes salles ancestrales des Nains, Khazad-dûm. \NMission solo \NFaction du joueur : Erebor \NRecommandé avec les paramètres élevés ou supérieurs. \Sauvegardez souvent votre progression."
 END
 
 /////ADVENTURE MAPS/////
 
 Map:MAPMPadventureangmar
-"Adventure: Angmar*"
+"Aventure: Angmar*"
 End
 
 Map:MAPMPadventureangmar/Desc
-"Having emerged from hiding, the Lord of the Nazgûl established the kingdom of Angmar and set out to destroy the Dúnedain of the North whilst they were vulnerable from political strife.\n Singleplayer Adventure Map \n Human Player: Dol Guldur"
+"Sorti de sa cachette, le Seigneur des Nazgûl établit le royaume d'Angmar et entreprend de détruire les Dúnedain du Nord alors vulnérables à cause des conflits politiques.\N- Carte d'aventure en mode solo.\N- Joueur humain : Dol Guldur"
 End
 
 /////
 
 Map:MAPMPadventureangmarwars
-"Adventure: The Angmar Wars*"
+"Aventure: Les guerres d'Angmar*"
 End
 
 Map:MAPMPadventureangmarwars/Desc
-"The ancient conflict that saw Arnor and its successor realms destroyed by the evil realm of Angmar lasted for generations. Despite their eventual defeat, the armies of the Dúnedain achieved many victories against the Witch-king.\n Multiplayer Adventure Map \n Human Players: Dol Guldur and Gondor"
+"L'ancien conflit qui a vu Arnor et les royaumes qui lui ont succédé détruits par le royaume maléfique d'Angmar a duré des générations. Malgré leur défaite, les armées des Dúnedain ont remporté de nombreuses victoires contre le Roi-Sorcier. \n Carte d'aventure multijoueur \n Joueurs humains : Dol Guldur et Gondor"
 End
 
 /////
 
 Map:MAPMPadventurearthedain
-"Adventure: Arthedain*"
+"Aventure: Arthedain*"
 End
 
 Map:MAPMPadventurearthedain/Desc
-"The last remnant of the North Kingdom, Arthedain valiantly attempts to stem the tide of evil washing out of fell Angmar. King Arvedui, scion of Westernesse, fields his steel-clad armies, glittering beneath the sun as it sets on his kingdom.\nSingleplayer Adventure Map \n Human Player: Gondor"
+"Dernier vestige du Royaume du Nord, l'Arthedain tente vaillamment d'endiguer la marée du mal qui déferle sur l'Angmar déchu. Le roi Arvedui, descendant de Numenor, déploie ses armées bardées d'acier et scintillantes sous le soleil qui se couche sur son royaume.\NCarte d'aventure en solo.\NJoueur humain : Gondor"
 End
 
 /////
 
 Map:MAPMPadventurebattleofthefivearmies
-"Adventure: Battle of the Five Armies*"
+"Aventure: Bataille des Cinq Armées*"
 End
 
 Map:MAPMPadventurebattleofthefivearmies/Desc
-"'... in all the mountains there was a forging and an arming. Then they marched... until around and beneath the great mountain Gundabad of the North, where was their capital, a vast host was assembled ready to sweep down in time of storm unawares upon the South.'\n Singleplayer Adventure Map \n Human Player: Erebor"
+"'... au coeur des montagnes orques, les forges s'activent et on s'arme jusqu'aux dents. Puis ils se mirent en branle... jusqu'à ce qu'aux alentours et en dessous des Monts Gundabad, ou se trouvait leur capitale, une vaste armée fut rassemblée, prête à déferler à l'improviste sur le Sud en cas de tempête. \N- Carte d'aventure en solo \N- Joueur humain : Erebor"
 END
 
 /////
 
 Map:MAPMPadventuredorwinion
-"Adventure: Dorwinion*"
+"Aventure: Dorwinion*"
 End
 
 Map:MAPMPadventuredorwinion/Desc
-"Sent as emissaries of the Valar, the Ithryn Luin scoured the far East in search of the Enemy and to kindle dissension among his servants, thus hindering their efforts to overwhelm Dorwinion. \n Singleplayer Adventure Map \n Human Player: Woodland Realm"
+"Envoyés comme émissaires des Valar, les Ithryn Luin parcoururent l'extrême Est à la recherche de l'Ennemi. Ils semèrent la discorde parmi ses serviteurs, entravant ainsi leurs efforts pour submerger Dorwinion. \n Carte d'aventure en solo\n Joueur humain : Royaume des forêts."
 END
 
 /////
 
 Map:MAPMPadventuredurinsfolk
-"Adventure: Durin's Folk*"
+"Aventure: le Peuple de Durin*"
 End
 
 Map:MAPMPadventuredurinsfolk/Desc
-"Though many Dwarves emigrated to the newly founded Kingdom of Erebor after the death of Smaug, some remained in the Iron Hills, mining its ferrous mineral, and forming settlements of hardy Dwarves whose martial skill is undeniable.\n Singleplayer Adventure Map \n Human Player: Erebor"
+"Bien que de nombreux Nains aient émigré vers le nouveau royaume d'Erebor après la mort de Smaug, certains sont restés dans les collines de fer, exploitant le minerai ferreux et formant des colonies de Nains robustes dont les compétences martiales sont indéniables.\n Carte d'aventure en solo \n Joueur humain : Erebor"
 END
 
 
 /////
 
 Map:MAPMPadventuregreycompany
-"Adventure: Grey Company*"
+"Aventure: Compagnie Grise*"
 End
 
 Map:MAPMPadventuregreycompany/Desc
-"Emerging from the Paths of the Dead, Aragorn and the Grey Company hastened through the southern lands of Gondor towards Minas Tirith, arriving first at the river Morthond and the Blackroot Vale. \n Singleplayer Adventure Map \n Human Player: Gondor"
+"Émergeant des Chemins des Morts, Aragorn et la Compagnie Grise se hâtèrent à travers les terres du sud du Gondor en direction de Minas Tirith, arrivant d'abord à la rivière Morthond et à la Vallée de la Racine Noire. \n Carte d'aventure en solo \n Joueur humain : Gondor"
 End
 
 /////
 
 Map:MAPMPadventureithilien
-"Adventure: Ithilien*"
+"Aventure: Ithilien*"
 End
 
 Map:MAPMPadventureithilien/Desc
-"The Enemy moves against Gondor: Orcs and Uruks despoil the verdant forests of Ithilien, legions of Southrons march to the Black Lands unchecked. Faramir, Captain of Gondor, and his Rangers are tasked with waylaying these foes before their numbers overwhelm the White City.\n Singleplayer Adventure Map \n Human Player: Gondor"
+"L'ennemi s'attaque au Gondor : Les orques et les uruks saccagent les forêts verdoyantes d'Ithilien, les légions de Suderons marchent vers les Terres Noires sans être réfrénées . Faramir, capitaine du Gondor, et ses Rôdeurs ont pour mission d'arrêter ces ennemis avant qu'ils ne submergent la Cité Blanche.\n Carte d'aventure en solo.\n Joueur humain : Gondor"
 End
 
 /////
 
 Map:MAPMPadventurerhun
-"Adventure: Rhûn*"
+"Aventure: Rhûn*"
 End
 
 Map:MAPMPadventurerhun/Desc
-"The Easterlings were among the most fanatical and devoted of the Dark Lord's servants among men. Hailing from the vast land of Rhûn, they were renowned for their martial prowess and fearlessness in battle. \n Singleplayer Adventure Map \n Human Player: Mordor"
+"Les Orientaux comptaient parmi les serviteurs les plus fanatiques et les plus dévoués au Seigneur des Ténèbres. Originaires des vastes terres du Rhûn, ils étaient réputés pour leurs prouesses martiales et leur intrépidité au combat. \n Carte d'aventure en solo \n Joueur humain : Mordor"
 End
 
 /////
 
 
 Map:MAPMPadventureshadowandflame
-"Adventure: Shadow and Flame*"
+"Aventure: l'Ombre et la Flamme*"
 End
 
 Map:MAPMPadventureshadowandflame/Desc
-"Khazad-dûm, the once great Dwarven kingdom, was desecrated by Orcs that swarmed the now abandoned halls. Yet, there are older and fouler things than Orcs that dwell in the deep places of the world.\n Singleplayer Adventure Map \n Human Player: Misty Mountains"
+"Khazad-dûm, l'ancien grand royaume nain, a été profané par les Orques qui ont désormais envahi les salles abandonnées. Pourtant, il existe des choses plus anciennes et plus répugnantes que les orques tapies dans les profondeurs du monde.\n Carte d'aventure en solo \n Joueur humain : Monts Brumeux"
 End
 
 
 /////
 
-/////SKIRMISH/////
+/////ESCARMOUCHE/////
 
 Map:MAPMPadornriver
-"Adorn River"
+"Rivière Adorn"
 End
 
 Map:MAPMPadornriver/Desc
-"The Adorn River flows into the River Isen and helps form the western border of Rohan. \n Capturable: Signal Fire, Inn \n Region: Rohan"
+"La rivière Adorn se jette dans la rivière Isen et contribue à former la frontière occidentale du Rohan. \n Capturable: Feu d'alarme, Auberge \n Region: Rohan"
 End
 
 /////
@@ -85193,7 +85193,7 @@ Map:MAPMPamathafa
 End
 
 Map:MAPMPamathafa/Desc
-"The wide plains of Haradwaith are interspersed by grassy savannahs that spring to life during the wet seasons, bringing abundant birds and wildlife to seasonal water holes. Here live the tribal Mahûd, amongst herds of wild Mûmakil. \n Creeps: Warg \n Region: Haradwaith"
+"Les vastes plaines de Haradwaith sont parsemées de savanes herbeuses qui s'animent pendant la saison des pluies, amenant une abondance d'oiseaux et d'animaux sauvages aux points d'eau saisonniers. C'est ici que vivent les tribus Mahûd, au milieu des troupeaux de Mûmakil sauvages. \n Antres: Ouargues \n Region: Haradwaith"
 End
 
 
@@ -85204,7 +85204,7 @@ Map:MAPMPamathuna
 End
 
 Map:MAPMPamathuna/Desc
-"At the centre of this sacred site of the Mahûd lies an enormous Mûmak graveyard; its field of giant bones encircled by forgotten ancient structures carved into the surrounding cliffs. \n Creeps: Mahûd, Warg \n Region: Haradwaith"
+"Au centre de ce site sacré des Mahûd se trouve un énorme cimetière de Mûmak, dont le champ d'os géants est encerclé par d'anciennes structures oubliées, creusées dans les falaises environnantes. \n Antres: Mahûd, Ouargues \n Region: Haradwaith"
 End
 
 /////
@@ -85215,7 +85215,7 @@ Map:MAPMPamonhen
 End
 
 Map:MAPMPamonhen/Desc
-"The Hill of Sight, Amon Hen, lies on the western bank of Nen Hithoel. The remnants of an ancient path winds through the surrounding woodland to the Seat of Seeing at its summit. \n Capturable: Seat of Seeing \n Creeps: Warg \n Region: Rhovanion"
+"La colline de la vue, Amon Hen, se trouve sur la rive ouest de Nen Hithoel. Les vestiges d'un ancien sentier serpentent à travers les bois environnants jusqu'au siège de la vision, situé à son sommet. \n Capturable: Siège de la Vision \n Antres: Ouargues \n Region: Rhovanion"
 End 
 
 /////
@@ -85225,7 +85225,7 @@ Map:MAPMPandrast
 End
 
 Map:MAPMPandrast/Desc
-"Andrast is a long cape in the south-west of Gondor, between the Bay of Belfalas and the Great Sea, populated by scattered settlements. \n Capturable: Inn \n Creeps: Warg \n Region: Gondor"
+"Andrast est un long cap situé au sud-ouest du Gondor, entre la baie de Belfalas et la Grande Mer, peuplé d'habitations éparses. \n Capturable: Auberge \n Antres: Ouargues \n Region: Gondor"
 End
 
 /////
@@ -85235,7 +85235,7 @@ Map:MAPMPanduin
 End
 
 Map:MAPMPanduin/Desc
-"The Old Forest Road crosses the River Anduin, the Great River, at the Old Ford. In an age past, there was a bridge, but that has long since eroded away. \n Capturable: Signal Fire, Inn \n Creeps: Warg \n Region: Rhovanion"
+"La vieille route forestière traverse l'Anduin, le Grand Fleuve, au niveau du Vieux Gué. Autrefois, il y avait un pont, mais il a été érodé depuis longtemps. \n Capturable: Feu d'Alarme, Auberge \n Antres: Ouargues \n Region: Rhovanion"
 End
 
 /////
@@ -85245,7 +85245,7 @@ Map:MAPMPanfalas
 End
 
 Map:MAPMPanfalas/Desc
-"The western coastal region of Gondor south of Pinnath Gelin. During the War of the Ring, Lord Golasgil led a force from Anfalas to the Battle of the Pelennor Fields. \n Capturable: Inn \n Creeps: Cave Troll, Warg \n Region: Gondor"
+"Région côtière occidentale du Gondor, au sud de Pinnath Gelin. Pendant la Guerre de l'Anneau, le Seigneur Golasgil a conduit une force d'Anfalas à la Bataille des Champs du Pelennor. \n Capturable: Auberge \n Antres: Troll des Cavernes, Ouargues \n Region: Gondor"
 End
 
 /////
@@ -85255,7 +85255,7 @@ Map:MAPMPangmar
 End
 
 Map:MAPMPangmar/Desc
-"The icy region and kingdom founded during the Third Age in the far north of the Misty Mountains by the Lord of the Ringwraiths, the Witch-king of Angmar. \n Capturable: Inn \n Creeps: Snow Troll \n Region: Misty Mountains"
+"Région et royaume glacés fondés au cours du Troisième Âge à l'extrême nord des Monts Brumeux par le Seigneur des Spectres de l'Anneau, le Roi-Sorcier d'Angmar. \n Capturable: Auberge \n Antres: Troll des Neiges \n Region: Monts Brumeux"
 End
 
 /////
@@ -85265,7 +85265,7 @@ Map:MAPMPannuminas
 End
 
 Map:MAPMPannuminas/Desc
-"On the southern shores of Lake Evendim stand the ancient ruins of Annúminas, once seat of the Kings of Arnor. Its fair ruins and surrounding foothills are inhabited by the Dúnedain, led by Halbarad their captain. \n Capturable: Inn \n Region: Arnor"
+"Sur la rive sud du lac Evendim se dressent les anciennes ruines d'Annúminas, autrefois capitale des rois d'Arnor. Ses belles ruines et les contreforts environnants sont habités par les Dúnedain, menés par Halbarad, leur capitaine. \n Capturable: Auberge \n Region: Arnor"
 End
 
 /////
@@ -85275,7 +85275,7 @@ Map:MAPMPannunlos
 End
 
 Map:MAPMPannunlos/Desc
-"A vast territory marked by broken remnants of the lost realm of Rhudaur. The slopes of the north eventually lead into the Weather Hills. \n Capturable: Signal Fire, Inn \n Creeps: Dúnedain (Good), Wolf (Evil), Warg \n Region: Arnor"
+"Un vaste territoire marqué par les vestiges brisés du royaume perdu du Rhudaur. Les pentes du nord débouchent sur les collines du Temps. \n Capturable: Feu d'Alarme, Auberge \n Antres: Dúnedain (Bien), Wolf (Mal), Ouargues \n Region: Arnor"
 End
 
 /////
@@ -85285,7 +85285,7 @@ Map:MAPMPanorien
 End
 
 Map:MAPMPanorien/Desc
-"This northwestern fiefdom of Gondor forms the border between Gondor and Rohan, north of the White Mountains. \n Capturable: Inn  \n Creeps: Warg, Cave Troll  \n Region: Gondor"
+"Ce fief situé au nord-ouest du Gondor forme la frontière entre le Gondor et le Rohan, au nord des Montagnes Blanches. \n Capturable: Auberge  \n Antres: Ouargue, Troll des Cavernes  \n Region: Gondor"
 End
 
 /////
@@ -85295,7 +85295,7 @@ Map:MAPMParchet
 End
 
 Map:MAPMParchet/Desc
-"Archet is the most remote of the settlements of the Bree-land, set among the trees on the northern edge of the Chetwood. A few hobbits live there, but the inhabitants were predominantly Big Folk. \n Capturable: Inn \n Creeps: Barrow Wight, Hill Troll \n Region: Arnor"
+"Archet est l'une des colonies les plus isolées du pays de Bree et est située parmi les arbres à la lisière nord du Bois de Chet. Quelques hobbits y vivent, mais les habitants sont essentiellement des Grandes Gens. \n Capturable: Auberge \n Antres: Spectre des Galgals, Troll des Collines \n Region: Arnor"
 End
 
 /////
@@ -85305,7 +85305,7 @@ Map:MAPMParnor
 End
 
 Map:MAPMParnor/Desc
-"Arnor, the Northern Kingdom, was one of two great realms of the Númenóreans, together with Gondor to the South. Its eventual destruction in the early Third Age has left this a barren, snowy region. \n Capturable: Signal Fire, Inn \n Creeps: Snow Troll \n Region: Arnor"
+"Arnor, le Royaume du Nord, était l'un des deux grands royaumes des Númenóréens, avec le Gondor au sud. Sa destruction au début du Troisième Âge en a fait une région stérile et enneigée. \n Capturable: Feu d'Alarme, Auberge \n Antres: Troll des Neiges \n Region: Arnor"
 End
 
 /////
@@ -85315,7 +85315,7 @@ Map:MAPMParthobel
 End
 
 Map:MAPMParthobel/Desc
-"Weathered mountain trails lead through the ruins of this forgotten Númenórean landmark, beyond the mountainous hills that border Lake Evendim. \n Capturable: Signal Fire, Inn \n Creeps: Barrow Wight, Warg \n Region: Arnor"
+"Des sentiers de montagne usés par les intempéries mènent à travers les ruines de ce site númenóréen oublié, au-delà des collines montagneuses qui bordent le lac Evendim. \n Capturable: Feu d'Alarme, Auberge \n Antres: Spectres des Galgals, Ouargues \n Region: Arnor"
 End
 
 /////
@@ -85326,17 +85326,17 @@ Map:MAPMPayanathiri
 End
 
 Map:MAPMPayanathiri/Desc
-"The dense jungles surrounding the Nâfarat River are home to many warring tribes, the greatest of which inhabits the territory of Aya Nathiri, the chiefdom of Caran Lambar. \n Capturable: Inn \n Creeps: Karadd \n Region: Haradwaith"
+"Les jungles denses qui entourent la rivière Nâfarat abritent de nombreuses tribus en guerre, dont la plus importante habite le territoire d'Aya Nathiri, la chefferie de Caran Lambar. \n Capturable: Auberge \n Antres: Karadd \n Region: Haradwaith"
 End
 
 /////
 
 Map:MAPMPbakhalforest
-"Bakhâl Forest*"
+"Forêt de Bakhâl*"
 End
 
 Map:MAPMPbakhalforest/Desc
-"The 'Strong-wood' in the native tongue of Rhûn borders the inland Sea of Rhûn; its tall conifers towering above the old forest growth, amid the shores of wide, gentle lakes. \n Creeps: Warg \n Region: Rhûn"
+"Le "bois Dur", dans la langue maternelle du Rhûn, borde la mer intérieure du Rhûn ; ses grands conifères s'élèvent au-dessus de l'ancienne forêt, au milieu des rives de lacs larges et paisibles. \n Antres: Ouargues \n Region: Rhûn"
 End
 
 /////
@@ -85347,29 +85347,29 @@ Map:MAPMPbarhurin
 End
 
 Map:MAPMPbarhurin/Desc
-"The remains of the settlement of Bâr Húrin can be found within the area of South Ithilien in Eastern Gondor, near to Emyn Arnen. \n Capturable: Inn \n Creeps: Hill Troll, Goblin \n Region: Gondor"
+"Les vestiges du village de Bâr Húrin se trouvent dans la région de l'Ithilien du Sud, dans l'est du Gondor, près d'Emyn Arnen. \n Capturable: Auberge \n Antres: Trolls des Collines, Gobelins \n Region: Gondor"
 End
 
 /////
 
 
 Map:MAPMPbarrowdowns
-"Barrow Downs"
+"Hauts des Galgals"
 End
 
 Map:MAPMPbarrowdowns/Desc
-"Ancient burial grounds of Arnor lie southwest of Bree. After the fall of Rhudaur the Witch-king sent barrow-wights to haunt the hills. \n Capturable: Inn \n Creeps: Barrow Wight \n Region: Arnor"
+"Les anciens cimetières d'Arnor se trouvent au sud-ouest de Bree. Après la chute du Rhudaur, le Roi-Sorcier envoya des spectres des Galgals hanter les collines. \n Capturable: Auberge \n Antres: Spectres des Galgals \n Region: Arnor"
 End
 
 /////
 
 
 Map:MAPMPbelegaerabyss
-"Belegaer Abyss*"
+"Abysses de Belegaer*"
 End
 
 Map:MAPMPbelegaerabyss/Desc
-"Deep beneath the waves of Belegaer, the Great Sea, remnants of past civilisations remain forever lost to the watery abyss and the passing of the ages. \n Capturable: Inn \n Creeps: Barrow Wight \n Region: Lindon"
+"Sous les vagues de Belegaer, la Grande Mer, les vestiges des civilisations passées restent à jamais perdus dans les abysses aquatiques et le passage des âges. \n Capturable: Auberge \n Antres: Spectres des Galgals \n Region: Lindon"
 End
 
 /////
@@ -85380,7 +85380,7 @@ Map:MAPMPbelfalas
 End
 
 Map:MAPMPbelfalas/Desc
-"This coastal region in southern Gondor stretches from the mouth of the Anduin to Dol Amroth, forming a large peninsula that juts out into the Bay of Belfalas. \n Capturable: Signal Fire, Inn, Dock \n Creeps: Goblin \n Region: Gondor"
+"Cette région côtière du sud du Gondor s'étend de l'embouchure de l'Anduin à Dol Amroth, formant une grande péninsule qui s'avance dans la baie de Belfalas. \n Capturable: Feu d'Alarme, Auberge, Dock \n Antres: Gobelins \n Region: Gondor"
 End
 
 /////
@@ -85390,7 +85390,7 @@ Map:MAPMPberennyn
 End
 
 Map:MAPMPberennyn/Desc
-"Part of the Old Brown Lands, this area was once home of the Entwives until they were driven away when Sauron desolated the land in defence of Mordor, during the War of the Last Alliance. \n Capturable: Inn \n Creeps: Goblin, Barrow Wight \n Region: Rhovanion"
+"Faisant partie des Vieilles Terres Brunes, cette région était autrefois le foyer des Ent-Femmes jusqu'à ce qu'elles soient chassées lorsque Sauron a saccagé leurs terres pour défendre le Mordor, pendant la Guerre de la Dernière Alliance. \n Capturable: Auberge \n Antres: Gobelins, Spectres des Galgals \n Region: Rhovanion"
 End
 
 /////
@@ -85400,7 +85400,7 @@ Map:MAPMPbesiegedolguldur
 End
 
 Map:MAPMPbesiegedolguldur/Desc
-"A dark and tortured ruin on Amon Lanc, inhabited by a Necromancer whose influence causes sickness and death to fall over Greenwood. \n Creeps: Spider \n Region: Rhovanion"
+"Une ruine sombre et torturée sur Amon Lanc, habitée par un Nécromancien dont l'influence provoque la maladie et la mort dans la Forêt Noire. \n Antres: Araignées \n Region: Rhovanion"
 End
 
 /////
@@ -85411,7 +85411,7 @@ Map:MAPMPbesiegedurthang
 End
 
 Map:MAPMPbesiegedurthang/Desc
-"Durthang stands upon the northern passes of Ephel Dúath near the Black Gate. Originally a Gondorian fortress, it is now one of several orc strongholds that guards Mordor's western flank. \n Capturable: Inn \n Creeps: Goblin \n Region: Mordor"
+"Durthang se dresse sur les cols nord d'Ephel Dúath, près de la Porte Noire. Forteresse gondorienne à l'origine, elle est aujourd'hui l'une des nombreuses forteresses orques qui gardent le flanc ouest du Mordor. \n Capturable: Auberge \n Antres: Gobelins \n Region: Mordor"
 End
 
 /////
@@ -85423,7 +85423,7 @@ Map:MAPMPbesiegeedoras
 End
 
 Map:MAPMPbesiegeedoras/Desc
-"Edoras is the capital of Rohan, encircled by walls and with the Golden Hall of Meduseld at the summit of its great mound. Outside the city, the tombs of past rulers of Rohan are arrayed in barrows, covered with flowering Simbelmyne. \n Capturable: Inn \n Creeps: Warg \n Region: Rohan"
+"Edoras est la capitale du Rohan. Elle est entourée de murailles et la salle d'or de Meduseld se trouve au sommet de son grand tertre. À l'extérieur de la ville, les tombes des anciens souverains du Rohan sont disposées dans des tumulus, recouverts de Simbelmyne en fleurs. \n Capturable: Auberge \n Antres: Ouargues \n Region: Rohan"
 End
 
 /////
@@ -85433,7 +85433,7 @@ Map:MAPMPbesiegeesgaroth
 End
 
 Map:MAPMPbesiegeesgaroth/Desc
-"Esgaroth, or Lake-town, lies south of Erebor and east of Mirkwood, built upon wooden stilts sunk deep into the Long Lake. Its hardy people have a long history of trade with the Woodland Realm, and the Kingdoms of Erebor and Dale. \n Capturable: Signal Fire, Inn, Dock \n Region: Erebor"
+"Esgaroth, ou LacVille, se trouve au sud d'Erebor et à l'est de la Forêt Noire. Elle est construite sur des pilotis en bois enfoncés dans le Long Lac. Ses robustes habitants ont une longue histoire de commerce avec le Royaume des Forêts et les royaumes d'Erebor et de Dale. \n Capturable: Feu d'Alarme, Auberge, Dock \n Region: Erebor"
 End
 
 /////
@@ -85444,7 +85444,7 @@ Map:MAPMPbesiegegundabad
 End
 
 Map:MAPMPbesiegegundabad/Desc
-"Gundabad is a mountain in the northern reaches of the Misty Mountains, sacred to the Dwarves as the place of their ancestral awakening. It has long since been overrun by orcs of the Misty Mountains led by Bolg, to the everlasting hatred of Durin's Folk. \n Creeps: Snow Troll, Mountain Giant \n Region: Misty Mountains"
+"Gundabad est une montagne située au nord des Monts Brumeux. Sacralisée par les Nains qui la considèrent comme le lieu de leur éveil ancestral. Elle a depuis longtemps été envahie par les orcs des Monts Brumeux menés par Bolg, ce qui suscite la haine éternelle du peuple de Durin. \n Antres: Troll des Neiges, Géant des Montagnes \n Region: Monts Brumeux"
 End
 
 /////
@@ -85455,7 +85455,7 @@ Map:MAPMPbesiegehallsoftheelvenking
 End
 
 Map:MAPMPbesiegehallsoftheelvenking/Desc
-"In Northern Mirkwood lie the Halls of the Elvenking, hidden stronghold of Thranduil and the elves of the Woodland Realm. Its many streams lead through cavernous halls carved into the living rock, out past the wine cellars, and eventually east towards the Long Lake. \n Creeps: Spider \n Region: Rhovanion"
+"In Northern Mirkwood lie the Halls of the Elvenking, hidden stronghold of Thranduil and the elves of the Woodland Realm. Its many streams lead through cavernous halls carved into the living rock, out past the wine cellars, and eventually east towards the Long Lake. \n Antres: Spider \n Region: Rhovanion"
 End
 
 /////
@@ -85476,7 +85476,7 @@ Map:MAPMPbesiegehidar
 End
 
 Map:MAPMPbesiegehidar/Desc
-"Built upon a desert oasis by Númenóreans long ago, the city of Hîdar has since changed hands many times. Many seek to claim it, for holding Hîdar means holding sway over all of Near Harad. \n Capturable: Signal Fire, Inn \n Creeps: Scorpion \n Hazards: Dehydration \n Region: Haradwaith"
+"Built upon a desert oasis by Númenóreans long ago, the city of Hîdar has since changed hands many times. Many seek to claim it, for holding Hîdar means holding sway over all of Near Harad. \n Capturable: Feu d'Alarme, Inn \n Antres: Scorpion \n Hazards: Dehydration \n Region: Haradwaith"
 End
 
 /////
@@ -85496,7 +85496,7 @@ Map:MAPMPbesiegeisengard
 End
 
 Map:MAPMPbesiegeisengard/Desc
-"Isengard is a great fortress located at the southern end of the Misty Mountains, near the Gap of Rohan. In the centre of the Ring of Isengard stands the stone tower of Orthanc, entrusted to Saruman the White. \n Creeps: Warg \n Region: Rohan"
+"Isengard is a great fortress located at the southern end of the Misty Mountains, near the Gap of Rohan. In the centre of the Ring of Isengard stands the stone tower of Orthanc, entrusted to Saruman the White. \n Antres: Warg \n Region: Rohan"
 End
 
 /////
@@ -85516,7 +85516,7 @@ Map:MAPMPbesiegeminastirith
 End
 
 Map:MAPMPbesiegeminastirith/Desc
-"The White City of Minas Tirith sits on seven levels against Mount Mindolluin, and is ruled over by the Stewards of Gondor. \n Capturable: Signal Fire, Inn \n Region: Gondor"
+"The White City of Minas Tirith sits on seven levels against Mount Mindolluin, and is ruled over by the Stewards of Gondor. \n Capturable: Feu d'Alarme, Inn \n Region: Gondor"
 End
 
 /////
@@ -85526,7 +85526,7 @@ Map:MAPMPbesiegepelargir
 End
 
 Map:MAPMPbesiegepelargir/Desc
-"This ancient port city of Gondor lies at the mouth of the Anduin. Its heavy fortifications protect Gondor's maritime interests from frequent raids by the Corsairs of Umbar. \n Capturable: Signal Fire, Outpost, Inn, Dock \n Creeps: Warg, Goblin, Corsair \n Region: Gondor"
+"This ancient port city of Gondor lies at the mouth of the Anduin. Its heavy fortifications protect Gondor's maritime interests from frequent raids by the Corsairs of Umbar. \n Capturable: Feu d'Alarme, Outpost, Inn, Dock \n Antres: Warg, Goblin, Corsair \n Region: Gondor"
 End
 
 /////
@@ -85537,7 +85537,7 @@ Map:MAPMPbesiegeumbar
 End
 
 Map:MAPMPbesiegeumbar/Desc
-"Umbar lies to the distant south, where a great cape forms a natural harbour upon which the city was first built. Now, its Black Númenóreans descendants rule over a population of native people and corsairs, raiding Gondor's coastline until the past glory of Umbar may one day be reclaimed. \n Capturable: Signal Fire, Outpost, Inn, Dock \n Region: Haradwaith"
+"Umbar lies to the distant south, where a great cape forms a natural harbour upon which the city was first built. Now, its Black Númenóreans descendants rule over a population of native people and corsairs, raiding Gondor's coastline until the past glory of Umbar may one day be reclaimed. \n Capturable: Feu d'Alarme, Outpost, Inn, Dock \n Region: Haradwaith"
 End
 
 /////
@@ -85548,7 +85548,7 @@ Map:MAPMPbesiegewulfborg
 End
 
 Map:MAPMPbesiegewulfborg/Desc
-"Wulfborg is the capital of Frecalund, a Dunlending realm under the banner of King Wulfgar. Saruman the White is known to visit, stirring its folk with speeches of injustice and retribution against their foes. \n Capturable: Inn \n Creeps: Warg \n Region: Enedwaith"
+"Wulfborg is the capital of Frecalund, a Dunlending realm under the banner of King Wulfgar. Saruman the White is known to visit, stirring its folk with speeches of injustice and retribution against their foes. \n Capturable: Inn \n Antres: Warg \n Region: Enedwaith"
 End
 
 /////
@@ -85568,7 +85568,7 @@ Map:MAPMPblackgate
 End
 
 Map:MAPMPblackgate/Desc
-"The Black Gate of Mordor was built by Sauron to guard the Pass of Cirith Gorgor, the gap between the Ered Lithui and the Ephel Dúath, and entrance to the lands of Mordor. \n Creeps: Stone Troll, Goblin \n Region: Mordor"
+"The Black Gate of Mordor was built by Sauron to guard the Pass of Cirith Gorgor, the gap between the Ered Lithui and the Ephel Dúath, and entrance to the lands of Mordor. \n Antres: Stone Troll, Goblin \n Region: Mordor"
 End
 
 /////
@@ -85578,7 +85578,7 @@ Map:MAPMPblackrootvale
 End
 
 Map:MAPMPblackrootvale/Desc
-"The Blackroot Vale is a dark valley in the shadows of the White Mountains, through which flows the River Blackroot, or Morthond. \n Capturable: Inn \n Creeps: Goblin \n Region: Gondor"
+"The Blackroot Vale is a dark valley in the shadows of the White Mountains, through which flows the River Blackroot, or Morthond. \n Capturable: Inn \n Antres: Goblin \n Region: Gondor"
 End
 
 /////
@@ -85588,7 +85588,7 @@ Map:MAPMPbordersofkhand
 End
 
 Map:MAPMPbordersofkhand/Desc
-"The easternmost reaches of distant Harad border the vast region of Khand. Very few have ever ventured so far, and fewer still have returned to tell of these mysterious lands. \n Capturable: Inn \n Creeps: Jungle Troll \n Region: Haradwaith"
+"The easternmost reaches of distant Harad border the vast region of Khand. Very few have ever ventured so far, and fewer still have returned to tell of these mysterious lands. \n Capturable: Inn \n Antres: Jungle Troll \n Region: Haradwaith"
 End
 
 /////
@@ -85598,7 +85598,7 @@ Map:MAPMPbrangobel
 End
 
 Map:MAPMPbrangobel/Desc
-"Brangobel is a secluded landmark within the forested region of Southern Ithilien in eastern Gondor. \n Capturable: Inn \n Creeps: Goblin \n Region: Gondor"
+"Brangobel is a secluded landmark within the forested region of Southern Ithilien in eastern Gondor. \n Capturable: Inn \n Antres: Goblin \n Region: Gondor"
 End
 
 /////
@@ -85608,7 +85608,7 @@ Map:MAPMPbree
 End
 
 Map:MAPMPbree/Desc
-"Bree is a village of Men and Hobbits, east of the Shire and south of Fornost in Eriador. Home to the Prancing Pony Inn, the town offeres shelter for many travellers as they travel the Great East Road. \n Capturable: Outpost, Inn \n Creeps: Barrow Wight \n Region: Arnor"
+"Bree is a village of Men and Hobbits, east of the Shire and south of Fornost in Eriador. Home to the Prancing Pony Inn, the town offeres shelter for many travellers as they travel the Great East Road. \n Capturable: Outpost, Inn \n Antres: Barrow Wight \n Region: Arnor"
 End
 
 /////
@@ -85618,7 +85618,7 @@ Map:MAPMPbruinengorges
 End
 
 Map:MAPMPbruinengorges/Desc
-"Densely wooded valleys surround the River Bruinen and the hidden route towards Rivendell. The area is known for its towering rock formations, autumnal forests, and dangerous troll lairs. \n Creeps: Cave Troll \n Capturable: Inn \n Region: Eriador"
+"Densely wooded valleys surround the River Bruinen and the hidden route towards Rivendell. The area is known for its towering rock formations, autumnal forests, and dangerous troll lairs. \n Antres: Cave Troll \n Capturable: Inn \n Region: Eriador"
 End
 
 /////
@@ -85629,7 +85629,7 @@ Map:MAPMPbuckland
 End
 
 Map:MAPMPbuckland/Desc
-"Buckland is a small but densely populated sliver of land between the Old Forest and the east bank of the Brandywine river, inhabited by Hobbits from the Shire, including the Brandybuck family. \n Capturable: Signal Fire, Inn \n Creeps: Cave Troll, Barrow Wight \n Region: Arnor"
+"Buckland is a small but densely populated sliver of land between the Old Forest and the east bank of the Brandywine river, inhabited by Hobbits from the Shire, including the Brandybuck family. \n Capturable: Feu d'Alarme, Inn \n Antres: Cave Troll, Barrow Wight \n Region: Arnor"
 End
 
 /////
@@ -85639,7 +85639,7 @@ Map:MAPMPcairandros
 End
 
 Map:MAPMPcairandros/Desc
-"Cair Andros is an island fortress on the Anduin, north of Osgiliath. Together, the two locations guard the vulnerable crossing-points of the Anduin into the lands of Gondor to the west. \n Capturable: Signal Fire, Inn \n Creeps: Warg, Barrow Wight \n Region: Gondor"
+"Cair Andros is an island fortress on the Anduin, north of Osgiliath. Together, the two locations guard the vulnerable crossing-points of the Anduin into the lands of Gondor to the west. \n Capturable: Feu d'Alarme, Inn \n Antres: Warg, Barrow Wight \n Region: Gondor"
 End
 
 /////
@@ -85649,7 +85649,7 @@ Map:MAPMPcapeofforlond
 End
 
 Map:MAPMPcapeofforlond/Desc
-"Forlond is a harbour that lay on the northern shore of the Gulf of Lune, in the Elvish land of Forlindon. \n Capturable: Signal Fire, Outpost, Dock \n Creeps: Hill Troll, Warg, Goblin \n Region: Lindon"
+"Forlond is a harbour that lay on the northern shore of the Gulf of Lune, in the Elvish land of Forlindon. \n Capturable: Feu d'Alarme, Outpost, Dock \n Antres: Hill Troll, Warg, Goblin \n Region: Lindon"
 End
 
 /////
@@ -85659,7 +85659,7 @@ Map:MAPMPcapeofmardruak
 End
 
 Map:MAPMPcapeofmardruak/Desc
-"The Cape of Mardrûak is located in the south of Umbar. Rocky coastal cliffs separate the more verdant mainland from long sandy beaches. \n Creeps: Jungle Troll \n Region: Haradwaith"
+"The Cape of Mardrûak is located in the south of Umbar. Rocky coastal cliffs separate the more verdant mainland from long sandy beaches. \n Antres: Jungle Troll \n Region: Haradwaith"
 End
 
 /////
@@ -85669,7 +85669,7 @@ Map:MAPMPcardolan
 End
 
 Map:MAPMPcardolan/Desc
-"One of the lost realms of Arnor, Cardolan lies between the rivers Brandywine and Greyflood, and remains unpopulated even still. \n Capturable: Signal Fire, Inn \n Creeps: Barrow Wight, Warg \n Hazards: Fog \n Region: Eriador"
+"One of the lost realms of Arnor, Cardolan lies between the rivers Brandywine and Greyflood, and remains unpopulated even still. \n Capturable: Feu d'Alarme, Inn \n Antres: Barrow Wight, Warg \n Hazards: Fog \n Region: Eriador"
 End
 
 /////
@@ -85679,7 +85679,7 @@ Map:MAPMPcarnen
 End
 
 Map:MAPMPcarnen/Desc
-"The Carnen flows south from the Iron Hills. It is known as the Redwater, because the iron from the mountains gives it a red tinge. \n Capturable: Signal Fire, Inn \n Creeps: Warg, Goblin \n Region: Erebor"
+"The Carnen flows south from the Iron Hills. It is known as the Redwater, because the iron from the mountains gives it a red tinge. \n Capturable: Feu d'Alarme, Inn \n Antres: Warg, Goblin \n Region: Erebor"
 End
 
 /////
@@ -85689,7 +85689,7 @@ Map:MAPMPcarrock
 End
 
 Map:MAPMPcarrock/Desc
-"Narrow steps were carved by Beorn into the very cliff face of the Carrock, a stony eyot and ford of stones in the upper reaches of the Anduin. \n Creeps: Warg \n Region: Rhovanion"
+"Narrow steps were carved by Beorn into the very cliff face of the Carrock, a stony eyot and ford of stones in the upper reaches of the Anduin. \n Antres: Warg \n Region: Rhovanion"
 End
 
 /////
@@ -85699,7 +85699,7 @@ Map:MAPMPcelduin
 End
 
 Map:MAPMPcelduin/Desc
-"Scattered settlements span the Celduin, which flows south past Esgaroth, eventually turning towards the Sea of Rhûn. \n Capturable: Signal Fire, Inn, Outpost, Dock \n Creeps: Cave Troll, Barrow Wight \n Region: Erebor"
+"Scattered settlements span the Celduin, which flows south past Esgaroth, eventually turning towards the Sea of Rhûn. \n Capturable: Feu d'Alarme, Inn, Outpost, Dock \n Antres: Cave Troll, Barrow Wight \n Region: Erebor"
 End
 
 /////
@@ -85709,7 +85709,7 @@ Map:MAPMPcentralithilien
 End
 
 Map:MAPMPcentralithilien/Desc
-"This forested region in eastern Gondor borders the Ephel Dúath that separate Gondor from Mordor. \n Capturable: Inn \n Creeps: Cave Troll, Barrow Wight \n Region: Gondor"
+"This forested region in eastern Gondor borders the Ephel Dúath that separate Gondor from Mordor. \n Capturable: Inn \n Antres: Cave Troll, Barrow Wight \n Region: Gondor"
 End
 
 /////
@@ -85719,7 +85719,7 @@ Map:MAPMPcirithungol
 End
 
 Map:MAPMPcirithungol/Desc
-"Cirith Ungol is located on the north shoulder of the Morgul Pass. During the War of the Ring, Frodo and Samwise were led through the pass by Gollum to the lair of the giant spider Shelob, who dwelt there. \n Capturable: Outpost \n Creeps: Spider, Goblin \n Region: Mordor"
+"Cirith Ungol is located on the north shoulder of the Morgul Pass. During the War of the Ring, Frodo and Samwise were led through the pass by Gollum to the lair of the giant spider Shelob, who dwelt there. \n Capturable: Outpost \n Antres: Spider, Goblin \n Region: Mordor"
 End
 
 /////
@@ -85729,7 +85729,7 @@ Map:MAPMPcisternofmoria
 End
 
 Map:MAPMPcisternofmoria/Desc
-"By accessing deep springs, the Dwarves of Moria created basins of fresh water that by elevated waterways were once distributed throughout their underground realm. \n Capturable: Outpost \n Creeps: Goblin \n Region: Misty Mountains"
+"By accessing deep springs, the Dwarves of Moria created basins of fresh water that by elevated waterways were once distributed throughout their underground realm. \n Capturable: Outpost \n Antres: Goblin \n Region: Misty Mountains"
 End
 
 /////
@@ -85740,7 +85740,7 @@ Map:MAPMPcoastofardumir
 End
 
 Map:MAPMPcoastofardumir/Desc
-"Dramatic white cliffs and sandy bays form this archipelago near the Umbarian coastline, a shelter for smugglers and raiding corsair pirates. \n Capturable: Signal Fire, Inn, Dock \n Creeps: Corsair \n Region: Haradwaith"
+"Dramatic white cliffs and sandy bays form this archipelago near the Umbarian coastline, a shelter for smugglers and raiding corsair pirates. \n Capturable: Feu d'Alarme, Inn, Dock \n Antres: Corsair \n Region: Haradwaith"
 End
 
 /////
@@ -85751,7 +85751,7 @@ Map:MAPMPcoldfells
 End
 
 Map:MAPMPcoldfells/Desc
-"This snowy wilderness north of Rhudaur is marked by scattered ruins of the lost realm of Arnor, uninhabited by all save the Dúnedain. \n Capturable: Signal Fire, Inn \n Creeps: Snow Troll, Goblin \n Region: Misty Mountains"
+"This snowy wilderness north of Rhudaur is marked by scattered ruins of the lost realm of Arnor, uninhabited by all save the Dúnedain. \n Capturable: Feu d'Alarme, Inn \n Antres: Snow Troll, Goblin \n Region: Misty Mountains"
 End
 
 /////
@@ -85761,7 +85761,7 @@ Map:MAPMPcrossingofporos
 End
 
 Map:MAPMPcrossingofporos/Desc
-"The Crossing of Poros marks the point where the Harad Road passes over the river Poros, where Gondor's southern lands lead into the lush wooded region of Ithilien. \n Capturable: Signal Fire, Inn \n Creeps: Goblin \n Region: Gondor"
+"The Crossing of Poros marks the point where the Harad Road passes over the river Poros, where Gondor's southern lands lead into the lush wooded region of Ithilien. \n Capturable: Feu d'Alarme, Inn \n Antres: Goblin \n Region: Gondor"
 End
 
 /////
@@ -85771,7 +85771,7 @@ Map:MAPMPcrossroads
 End
 
 Map:MAPMPcrossroads/Desc
-"The place where the ancient Gondor road between Minas Tirith and Minas Morgul crosses the Harad road. \n Capturable: Signal Fire, Inn \n Creeps: Cave Troll, Goblin \n Region: Gondor"
+"The place where the ancient Gondor road between Minas Tirith and Minas Morgul crosses the Harad road. \n Capturable: Feu d'Alarme, Inn \n Antres: Cave Troll, Goblin \n Region: Gondor"
 End
 
 /////
@@ -85781,7 +85781,7 @@ Map:MAPMPdaergil
 End
 
 Map:MAPMPdaergil/Desc
-"This secluded passage through the foothills connects the Trollshaws and the scattered ruins of Eregion. \n Capturable: Inn \n Creeps: Cave Troll, Goblin \n Region: Eriador"
+"This secluded passage through the foothills connects the Trollshaws and the scattered ruins of Eregion. \n Capturable: Inn \n Antres: Cave Troll, Goblin \n Region: Eriador"
 End
 
 /////
@@ -85791,7 +85791,7 @@ Map:MAPMPdagorlad
 End
 
 Map:MAPMPdagorlad/Desc
-"A dusty plain northwest of Mordor and the site of Sauron's defeat in the Second Age, and the Battle of the Morannon during the Third Age. \n Capturable: Signal Fire, Inn \n Creeps: Stone Troll, Goblin \n Region: Mordor"
+"A dusty plain northwest of Mordor and the site of Sauron's defeat in the Second Age, and the Battle of the Morannon during the Third Age. \n Capturable: Feu d'Alarme, Inn \n Antres: Stone Troll, Goblin \n Region: Mordor"
 End
 
 /////
@@ -85801,7 +85801,7 @@ Map:MAPMPdeadmarshes
 End
 
 Map:MAPMPdeadmarshes/Desc
-"Reeking wetlands and endless mires lie northwest of the Dagorlad. In the dark waters could be seen the dead from battles of long past. \n Capturable: Signal Fire \n Creeps: Barrow Wight, Goblin \n Region: Mordor"
+"Reeking wetlands and endless mires lie northwest of the Dagorlad. In the dark waters could be seen the dead from battles of long past. \n Capturable: Feu d'Alarme \n Antres: Barrow Wight, Goblin \n Region: Mordor"
 End
 
 /////
@@ -85811,7 +85811,7 @@ Map:MAPMPdeadmansdike
 End
 
 Map:MAPMPdeadmansdike/Desc
-"Destroyed by the Witch-king of Angmar centuries ago, the ruins of Fornost are a ruined and desolate place, now more commonly known as Deadman's Dike. \n Capturable: Signal Fire, Inn \n Creeps: Barrow Wight \n Region: Arnor"
+"Destroyed by the Witch-king of Angmar centuries ago, the ruins of Fornost are a ruined and desolate place, now more commonly known as Deadman's Dike. \n Capturable: Feu d'Alarme, Inn \n Antres: Barrow Wight \n Region: Arnor"
 End
 
 /////
@@ -85821,7 +85821,7 @@ Map:MAPMPdepthsofdolguldur
 End
 
 Map:MAPMPdepthsofdolguldur/Desc
-"Beneath the shadowy spires of Dol Guldur, the stench of fetid ponds and forest decay clings to the damp air, seeping between twisting corridors and rusted iron bars of long-forgotten prison cells. \n Capturable: Inn \n Creeps: Barrow Wight, Spider\n Region: Rhovanion"
+"Beneath the shadowy spires of Dol Guldur, the stench of fetid ponds and forest decay clings to the damp air, seeping between twisting corridors and rusted iron bars of long-forgotten prison cells. \n Capturable: Inn \n Antres: Barrow Wight, Spider\n Region: Rhovanion"
 End
 
 /////
@@ -85831,7 +85831,7 @@ Map:MAPMPdimrilldale
 End
 
 Map:MAPMPdimrilldale/Desc
-"A valley on the east side of the Misty Mountains, the Dimrill Dale is formed beneath the peaks of Redhorn, Silvertine, and Cloudyhead. At its southeast lies the Mirrormere, a sacred lake of Durin's Folk. \n Capturable: Signal Fire \n Creeps: Goblin \n Region: Misty Mountains"
+"A valley on the east side of the Misty Mountains, the Dimrill Dale is formed beneath the peaks of Redhorn, Silvertine, and Cloudyhead. At its southeast lies the Mirrormere, a sacred lake of Durin's Folk. \n Capturable: Feu d'Alarme \n Antres: Goblin \n Region: Misty Mountains"
 End
 
 /////
@@ -85841,7 +85841,7 @@ Map:MAPMPdirenfirel
 End
 
 Map:MAPMPdirenfirel/Desc
-"A small village located in Western Rohan at the edges of the Entwash near Fangorn. \n Capturable: Inn \n Creeps: Warg \n Region: Rohan"
+"A small village located in Western Rohan at the edges of the Entwash near Fangorn. \n Capturable: Inn \n Antres: Warg \n Region: Rohan"
 End
 
 /////
@@ -85851,7 +85851,7 @@ Map:MAPMPdolguldur
 End
 
 Map:MAPMPdolguldur/Desc
-"Sauron's hilltop stronghold in Mirkwood, now led by his Ringwraiths. \n Capturable: Signal Fire \n Creeps: Spider \n Region: Rhovanion"
+"Sauron's hilltop stronghold in Mirkwood, now led by his Ringwraiths. \n Capturable: Feu d'Alarme \n Antres: Spider \n Region: Rhovanion"
 End
 
 /////
@@ -85861,7 +85861,7 @@ Map:MAPMPdoramarth
 End
 
 Map:MAPMPdoramarth/Desc
-"Dor Amarth is an area within the Plateau of Gorgoroth. It lies between Orodruin, Mount Doom, to the south and the Ered Lithui, the Ash Mountains, to the north. \n Capturable: Signal Fire, Outpost \n Creeps: Cave Troll \n Region: Mordor"
+"Dor Amarth is an area within the Plateau of Gorgoroth. It lies between Orodruin, Mount Doom, to the south and the Ered Lithui, the Ash Mountains, to the north. \n Capturable: Feu d'Alarme, Outpost \n Antres: Cave Troll \n Region: Mordor"
 End
 
 /////
@@ -85881,7 +85881,7 @@ Map:MAPMPdruadanforest
 End
 
 Map:MAPMPdruadanforest/Desc
-"A pine forest in northern Gondor, thought to be inhabited by a strange folk of men known as the Drúedain, the Wild Men of the Woods or Wood Woses. \n Capturable: Signal Fire \n Creeps: Hill Troll, Warg \n Region: Gondor"
+"A pine forest in northern Gondor, thought to be inhabited by a strange folk of men known as the Drúedain, the Wild Men of the Woods or Wood Woses. \n Capturable: Feu d'Alarme \n Antres: Hill Troll, Warg \n Region: Gondor"
 End
 
 /////
@@ -85892,7 +85892,7 @@ Map:MAPMPdruwaithiaur
 End
 
 Map:MAPMPdruwaithiaur/Desc
-"Drúwaith Iaur or Old Púkel land is a dark, forested region to the west of Gondor. It lies between the river Isen and the western edge of the Ered Nimrais, and is the original home of the Drúedain.\n Capturable: Inn \n Creeps: Spider \n Region: Enedwaith"
+"Drúwaith Iaur or Old Púkel land is a dark, forested region to the west of Gondor. It lies between the river Isen and the western edge of the Ered Nimrais, and is the original home of the Drúedain.\n Capturable: Inn \n Antres: Spider \n Region: Enedwaith"
 End
 
 
@@ -85903,7 +85903,7 @@ Map:MAPMPdunfearn
 End
 
 Map:MAPMPdunfearn/Desc
-"West of the Misty Mountains lies the small region of Dunfearn, a hilly landscape whose warlike people are under the dark influence of Isengard. \n Capturable: Inn \n Creeps: Warg \n Region: Enedwaith"
+"West of the Misty Mountains lies the small region of Dunfearn, a hilly landscape whose warlike people are under the dark influence of Isengard. \n Capturable: Inn \n Antres: Warg \n Region: Enedwaith"
 End
 
 /////
@@ -85913,7 +85913,7 @@ Map:MAPMPdunharrow
 End
 
 Map:MAPMPdunharrow/Desc
-"A gathering point for the people of Rohan, located at the foot of the White Mountains. Large carved stones mark the entrance to the Dimholt, and the Paths of the Dead. \n Capturable: Signal Fire, Inn \n Creeps: Warg \n Region: Rohan"
+"A gathering point for the people of Rohan, located at the foot of the White Mountains. Large carved stones mark the entrance to the Dimholt, and the Paths of the Dead. \n Capturable: Feu d'Alarme, Inn \n Antres: Warg \n Region: Rohan"
 End
 
 /////
@@ -85923,7 +85923,7 @@ Map:MAPMPdunland
 End
 
 Map:MAPMPdunland/Desc
-"A sparsely populated foothill region on the western slopes of Misty Mountains, Dunland is inhabited by the warlike hillmen known as the Dunlendings. \n Capturable: Inn \n Creeps: Warg, Goblin \n Region: Enedwaith"
+"A sparsely populated foothill region on the western slopes of Misty Mountains, Dunland is inhabited by the warlike hillmen known as the Dunlendings. \n Capturable: Inn \n Antres: Warg, Goblin \n Region: Enedwaith"
 End
 
 /////
@@ -85933,7 +85933,7 @@ Map:MAPMPdusalan
 End
 
 Map:MAPMPdusalan/Desc
-"Towering rock formations and narrow gorges shape this vast canyon to the west of Far Harad. Among the red cliffs reside bands of desert raiders and the ruins of ancient tribes of men. \n Capturable: Signal Fire \n Creeps: Bandits \n Region: Haradwaith"
+"Towering rock formations and narrow gorges shape this vast canyon to the west of Far Harad. Among the red cliffs reside bands of desert raiders and the ruins of ancient tribes of men. \n Capturable: Feu d'Alarme \n Antres: Bandits \n Region: Haradwaith"
 End
 
 /////
@@ -85943,7 +85943,7 @@ Map:MAPMPdwarrowdelf
 End
 
 Map:MAPMPdwarrowdelf/Desc
-"Greatest of all the mansions of the Dwarves was Khazad-dûm, the Dwarrowdelf, Hadhodrond in the Elvish tongue, that was afterwards in the days of its darkness called Moria. \n Creeps: Goblin \n Region: Misty Mountains"
+"Greatest of all the mansions of the Dwarves was Khazad-dûm, the Dwarrowdelf, Hadhodrond in the Elvish tongue, that was afterwards in the days of its darkness called Moria. \n Antres: Goblin \n Region: Misty Mountains"
 End
 
 /////
@@ -85953,7 +85953,7 @@ Map:MAPMPeastbight
 End
 
 Map:MAPMPeastbight/Desc
-"This great indentation in the eastern edge of Mirkwood is a treeless region resulting from generations of forestry by the Northmen who historically occupied the lands east of the Forest. \n Capturable: Inn \n Creeps: Goblin \n Region: Rhovanion"
+"This great indentation in the eastern edge of Mirkwood is a treeless region resulting from generations of forestry by the Northmen who historically occupied the lands east of the Forest. \n Capturable: Inn \n Antres: Goblin \n Region: Rhovanion"
 End
 
 /////
@@ -85963,7 +85963,7 @@ Map:MAPMPeastemnet
 End
 
 Map:MAPMPeastemnet/Desc
-"East emnet is the wide land of Rohan east of the River Entwash until the Anduin. There are few fixed settlements here, with many nomadic herdsmen driving their herds across the grasslands. \n Capturable: Signal Fire, Inn \n Creeps: Cave Troll, Warg \n Region: Rohan"
+"East emnet is the wide land of Rohan east of the River Entwash until the Anduin. There are few fixed settlements here, with many nomadic herdsmen driving their herds across the grasslands. \n Capturable: Feu d'Alarme, Inn \n Antres: Cave Troll, Warg \n Region: Rohan"
 End
 
 /////
@@ -85973,7 +85973,7 @@ Map:MAPMPeasternlorien
 End
 
 Map:MAPMPeasternlorien/Desc
-"The eastern borders of Lórien, where the forest meets the wide lands of the Anduin Vale. \n Capturable: Inn \n Creeps: Stone Troll, Warg, Goblin \n Region: Rhovanion"
+"The eastern borders of Lórien, where the forest meets the wide lands of the Anduin Vale. \n Capturable: Inn \n Antres: Stone Troll, Warg, Goblin \n Region: Rhovanion"
 End
 
 /////
@@ -85983,7 +85983,7 @@ Map:MAPMPeasternrohan
 End
 
 Map:MAPMPeasternrohan/Desc
-"The most significant feature of Rohan's geography is the river Entwash, which divided the country between Eastemnet and Westemnet. The eastern borders of Rohan are the Mouths of Entwash. \n Capturable: Signal Fire, Inn \n Creeps: Warg \n Region: Rohan"
+"The most significant feature of Rohan's geography is the river Entwash, which divided the country between Eastemnet and Westemnet. The eastern borders of Rohan are the Mouths of Entwash. \n Capturable: Feu d'Alarme, Inn \n Antres: Warg \n Region: Rohan"
 End
 
 /////
@@ -85993,7 +85993,7 @@ Map:MAPMPeasternwastes
 End
 
 Map:MAPMPeasternwastes/Desc
-"These easternmost parts of Rhovanion have remained abandoned and desolate since they were left in desolation by Smaug. \n Capturable: Signal Fire \n Creeps: Goblin, Warg \n Region: Erebor"
+"These easternmost parts of Rhovanion have remained abandoned and desolate since they were left in desolation by Smaug. \n Capturable: Feu d'Alarme \n Antres: Goblin, Warg \n Region: Erebor"
 End
 
 /////
@@ -86003,7 +86003,7 @@ Map:MAPMPeastfold
 End
 
 Map:MAPMPeastfold/Desc
-"The Eastfold is traversed by the Great West Road that runs parallel to the White Mountains, leading eastward to Anórien and Gondor. \n Capturable: Signal Fire, Inn \n Creeps: Goblin, Cave Troll \n Region: Rohan"
+"The Eastfold is traversed by the Great West Road that runs parallel to the White Mountains, leading eastward to Anórien and Gondor. \n Capturable: Feu d'Alarme, Inn \n Antres: Goblin, Cave Troll \n Region: Rohan"
 End
 
 /////
@@ -86013,7 +86013,7 @@ Map:MAPMPeavesoffangorn
 End
 
 Map:MAPMPeavesoffangorn/Desc
-"At the end of the Third Age, Saruman started fortifying Isengard and eventually harvesting Fangorn to fuel his armies. During the War of the Ring, Eomer's Eored routed a band of Uruk-hai under the eaves of the forest. \n Creeps: Cave Troll \n Region: Rohan"
+"At the end of the Third Age, Saruman started fortifying Isengard and eventually harvesting Fangorn to fuel his armies. During the War of the Ring, Eomer's Eored routed a band of Uruk-hai under the eaves of the forest. \n Antres: Cave Troll \n Region: Rohan"
 End
 
 /////
@@ -86023,7 +86023,7 @@ Map:MAPMPemynarnen
 End
 
 Map:MAPMPemynarnen/Desc
-"The Emyn Arnen are a cluster of hills in South Ithilien, south of Osgiliath, on the east bank of the Anduin. \n Capturable: Inn \n Creeps: Hill Troll, Goblin \n Region: Gondor"
+"The Emyn Arnen are a cluster of hills in South Ithilien, south of Osgiliath, on the east bank of the Anduin. \n Capturable: Inn \n Antres: Hill Troll, Goblin \n Region: Gondor"
 End
 
 /////
@@ -86033,7 +86033,7 @@ Map:MAPMPemynernil
 End
 
 Map:MAPMPemynernil/Desc
-"These mountainous hills in western Gondor surround Dol Amroth and the region of Belfalas. \n Capturable: Signal Fire, Outpost \n Creeps: Hill Troll, Goblin \n Region: Gondor"
+"These mountainous hills in western Gondor surround Dol Amroth and the region of Belfalas. \n Capturable: Feu d'Alarme, Outpost \n Antres: Hill Troll, Goblin \n Region: Gondor"
 End
 
 /////
@@ -86043,7 +86043,7 @@ Map:MAPMPemynmuil
 End
 
 Map:MAPMPemynmuil/Desc
-"Dark, rocky labyrinthine hills east of the Anduin. Gollum led Frodo and Sam through the treacherous terrain on their way to Mordor. \n Creeps: Stone Troll \n Region: Rhovanion"
+"Dark, rocky labyrinthine hills east of the Anduin. Gollum led Frodo and Sam through the treacherous terrain on their way to Mordor. \n Antres: Stone Troll \n Region: Rhovanion"
 End
 
 /////
@@ -86053,7 +86053,7 @@ Map:MAPMPenedwaith
 End
 
 Map:MAPMPenedwaith/Desc
-"Enedwaith was once deeply forested until the arrival of the timber-seeking Númenóreans during the Second Age left the landscape devastated and barren. \n Capturable: Inn \n Creeps: Hill Troll, Goblin \n Region: Enedwaith"
+"Enedwaith was once deeply forested until the arrival of the timber-seeking Númenóreans during the Second Age left the landscape devastated and barren. \n Capturable: Inn \n Antres: Hill Troll, Goblin \n Region: Enedwaith"
 End
 
 /////
@@ -86063,7 +86063,7 @@ Map:MAPMPentwash
 End
 
 Map:MAPMPentwash/Desc
-"The Entwash river originates in Fangorn flowing southeast across Rohan. It is fed by many streams and rivers of Rohan on its eastward journey towards the Anduin. \n Capturable: Signal Fire, Inn \n Creeps: Warg, Goblin \n Region: Rohan"
+"The Entwash river originates in Fangorn flowing southeast across Rohan. It is fed by many streams and rivers of Rohan on its eastward journey towards the Anduin. \n Capturable: Feu d'Alarme, Inn \n Antres: Warg, Goblin \n Region: Rohan"
 End
 
 /////
@@ -86073,7 +86073,7 @@ Map:MAPMPerebor
 End
 
 Map:MAPMPerebor/Desc
-"This Dwarven fortress within the mountain Erebor is the proud domain of King Dáin II Ironfoot. \n Capturable: Signal Fire, Inn \n Creeps: Warg \n Region: Erebor"
+"This Dwarven fortress within the mountain Erebor is the proud domain of King Dáin II Ironfoot. \n Capturable: Feu d'Alarme, Inn \n Antres: Warg \n Region: Erebor"
 End
 
 /////
@@ -86083,7 +86083,7 @@ Map:MAPMPerech
 End
 
 Map:MAPMPerech/Desc
-"A hill west of Minas Tirith, near to the Paths of the Dead, where in ages past the faithless King of the Mountains swore an oath of fealty to Isildur. Upon the summit stands a smooth black globe, the Stone of Erech. \n Capturable: Inn \n Creeps: Cave Troll, Barrow Wight \n Region: Gondor"
+"A hill west of Minas Tirith, near to the Paths of the Dead, where in ages past the faithless King of the Mountains swore an oath of fealty to Isildur. Upon the summit stands a smooth black globe, the Stone of Erech. \n Capturable: Inn \n Antres: Cave Troll, Barrow Wight \n Region: Gondor"
 End
 
 /////
@@ -86093,7 +86093,7 @@ Map:MAPMPeredlithui
 End
 
 Map:MAPMPeredlithui/Desc
-"A rugged and forbidding mountain range, composed of broken peaks and barren ridges on the northern border of Mordor. \n Capturable: Signal Fire, Inn \n Creeps: Cave Troll, Goblin \n Region: Mordor"
+"A rugged and forbidding mountain range, composed of broken peaks and barren ridges on the northern border of Mordor. \n Capturable: Feu d'Alarme, Inn \n Antres: Cave Troll, Goblin \n Region: Mordor"
 End
 
 /////
@@ -86103,7 +86103,7 @@ Map:MAPMPeredluinhighlands
 End
 
 Map:MAPMPeredluinhighlands/Desc
-"Between the arms of the Ered Luin lie wide stretches of highlands, often used by the Dwarves for hunting. \n Capturable: Inn \n Creeps: Hill Troll, Goblin \n Region: Lindon"
+"Between the arms of the Ered Luin lie wide stretches of highlands, often used by the Dwarves for hunting. \n Capturable: Inn \n Antres: Hill Troll, Goblin \n Region: Lindon"
 End
 
 /////
@@ -86113,7 +86113,7 @@ Map:MAPMPeregion
 End
 
 Map:MAPMPeregion/Desc
-"During the Second Age, Celebrimbor and the elven smiths of Eregion were enticed by Annatar, the "Lord of Gifts," to create the Rings of Power, to their eventual ruin. \n Capturable: Inn \n Creeps: Warg \n Region: Eriador"
+"During the Second Age, Celebrimbor and the elven smiths of Eregion were enticed by Annatar, the "Lord of Gifts," to create the Rings of Power, to their eventual ruin. \n Capturable: Inn \n Antres: Warg \n Region: Eriador"
 End
 
 /////
@@ -86123,7 +86123,7 @@ Map:MAPMPerynlaer
 End
 
 Map:MAPMPerynlaer/Desc
-"The tall trees of Eryn Laer, the Woods of Song, stand deep in the realm of Lothlórien, the heart of Elvendom in Middle-earth. \n Capturable: Inn \n Creeps: Cave Troll, Warg \n Region: Rhovanion"
+"The tall trees of Eryn Laer, the Woods of Song, stand deep in the realm of Lothlórien, the heart of Elvendom in Middle-earth. \n Capturable: Inn \n Antres: Cave Troll, Warg \n Region: Rhovanion"
 End
 
 
@@ -86134,7 +86134,7 @@ Map:MAPMPerynvorn
 End
 
 Map:MAPMPerynvorn/Desc
-"Eryn Vorn is a wooded region of dark pine trees on the coast of Minhiriath in Eriador. The last remnant of vast forests that once covered Eriador until their deforestation by the Númenóreans, the forest is now home only to scattered hunter-folk.\n Capturable: Signal Fire \n Creeps: Hill Troll, Warg \n Region: Eriador"
+"Eryn Vorn is a wooded region of dark pine trees on the coast of Minhiriath in Eriador. The last remnant of vast forests that once covered Eriador until their deforestation by the Númenóreans, the forest is now home only to scattered hunter-folk.\n Capturable: Feu d'Alarme \n Antres: Hill Troll, Warg \n Region: Eriador"
 End
 
 
@@ -86145,7 +86145,7 @@ Map:MAPMPethiranduin
 End
 
 Map:MAPMPethiranduin/Desc
-"This lush, fertile river delta stretches across the lands north of Harondor, where the mighty Anduin finally meets the sea. Its farmlands and fishing settlements endure ongoing skirmishes from Gondor and Harad. \n Capturable: Inn \n Creeps: Corsair \n Region: Haradwaith"
+"This lush, fertile river delta stretches across the lands north of Harondor, where the mighty Anduin finally meets the sea. Its farmlands and fishing settlements endure ongoing skirmishes from Gondor and Harad. \n Capturable: Inn \n Antres: Corsair \n Region: Haradwaith"
 End
 
 /////
@@ -86156,7 +86156,7 @@ Map:MAPMPethring
 End
 
 Map:MAPMPethring/Desc
-"Ethring is a major crossing point of the river Ringló, along the main road from Erech to Pelargir. Aragorn and the Oathbreakers crossed the river here during the War of the Ring. \n Capturable: Inn \n Creeps: Warg, Goblin \n Region: Gondor"
+"Ethring is a major crossing point of the river Ringló, along the main road from Erech to Pelargir. Aragorn and the Oathbreakers crossed the river here during the War of the Ring. \n Capturable: Inn \n Antres: Warg, Goblin \n Region: Gondor"
 End
 
 /////
@@ -86166,7 +86166,7 @@ Map:MAPMPettenmoors
 End
 
 Map:MAPMPettenmoors/Desc
-"A mountainous, wild land north of Rivendell, consisting of rocky valleys reaching into the foothills of the Misty Mountains. \n Capturable: Inn \n Creeps: Goblin, Barrow Wight \n Region: Misty Mountains"
+"A mountainous, wild land north of Rivendell, consisting of rocky valleys reaching into the foothills of the Misty Mountains. \n Capturable: Inn \n Antres: Goblin, Barrow Wight \n Region: Misty Mountains"
 End
 
 /////
@@ -86176,7 +86176,7 @@ Map:MAPMPevendim
 End
 
 Map:MAPMPevendim/Desc
-"Lake Evendim is a large lake in northern Eriador. After the fall of Númenor, Elendil established the capital of Arnor, Annúminas, on the southern shore of the lake. \n Capturable: Signal Fire, Inn, Dock \n Creeps: Barrow Wight, Goblin \n Region: Arnor"
+"Lake Evendim is a large lake in northern Eriador. After the fall of Númenor, Elendil established the capital of Arnor, Annúminas, on the southern shore of the lake. \n Capturable: Feu d'Alarme, Inn, Dock \n Antres: Barrow Wight, Goblin \n Region: Arnor"
 End
 
 /////
@@ -86197,7 +86197,7 @@ Map:MAPMPfangorn
 End
 
 Map:MAPMPfangorn/Desc
-"Fangorn Forest is a deep, dark woodland that grows beneath the southern Misty Mountains, under the eastern flanks of that range. The habitat of the Ents in the Third Age, the forest is named after the oldest Ent, Fangorn. \n Creeps: Warg, Goblin \n Region: Rhovanion"
+"Fangorn Forest is a deep, dark woodland that grows beneath the southern Misty Mountains, under the eastern flanks of that range. The habitat of the Ents in the Third Age, the forest is named after the oldest Ent, Fangorn. \n Antres: Warg, Goblin \n Region: Rhovanion"
 End
 
 /////
@@ -86207,7 +86207,7 @@ Map:MAPMPfarharad
 End
 
 Map:MAPMPfarharad/Desc
-"Far Harad, a part of the larger region known as Harad, is a distant, unknown land far to the south of Gondor, where dense jungles line the rivers that stretch through the arid deserts of Harad into the sea. \n Capturable: Signal Fire, Inn \n Creeps: Giant Scorpion, Scorpion \n Region: Haradwaith"
+"Far Harad, a part of the larger region known as Harad, is a distant, unknown land far to the south of Gondor, where dense jungles line the rivers that stretch through the arid deserts of Harad into the sea. \n Capturable: Feu d'Alarme, Inn \n Antres: Giant Scorpion, Scorpion \n Region: Haradwaith"
 End
 
 /////
@@ -86217,7 +86217,7 @@ Map:MAPMPfieldofcelebrant
 End
 
 Map:MAPMPfieldofcelebrant/Desc
-"The Field of Celebrant lies between the Anduin and Limlight, southeast of Lothlórien. During the Third Age, Eorl the Young rode to the aid of Gondor at the Battle of the Field of Celebrant. \n Capturable: Inn \n Creeps: Goblin \n Region: Rhovanion"
+"The Field of Celebrant lies between the Anduin and Limlight, southeast of Lothlórien. During the Third Age, Eorl the Young rode to the aid of Gondor at the Battle of the Field of Celebrant. \n Capturable: Inn \n Antres: Goblin \n Region: Rhovanion"
 End
 
 /////
@@ -86227,7 +86227,7 @@ Map:MAPMPfieldofcormallen
 End
 
 Map:MAPMPfieldofcormallen/Desc
-"The Field of Cormallen is a lush field in North Ithilien, near Henneth Annûn. It is told that the tree culumalda, having yellow flowers, is especially abundant in Cormallen. \n Capturable: Inn \n Creeps: Hill Troll, Goblin \n Region: Gondor"
+"The Field of Cormallen is a lush field in North Ithilien, near Henneth Annûn. It is told that the tree culumalda, having yellow flowers, is especially abundant in Cormallen. \n Capturable: Inn \n Antres: Hill Troll, Goblin \n Region: Gondor"
 End
 
 
@@ -86236,7 +86236,7 @@ Map:MAPMPfirienholt
 End
 
 Map:MAPMPfirienholt/Desc
-"A small forest of oaks that borders Rohan and Gondor, upon the slopes of Halifirien. The Mering Stream rises from the cleft between Halifirien and the rest of the White Mountains. \n Capturable: Signal Fire, Inn \n Creeps: Warg \n Region: Rohan"
+"A small forest of oaks that borders Rohan and Gondor, upon the slopes of Halifirien. The Mering Stream rises from the cleft between Halifirien and the rest of the White Mountains. \n Capturable: Feu d'Alarme, Inn \n Antres: Warg \n Region: Rohan"
 End
 
 /////
@@ -86246,7 +86246,7 @@ Map:MAPMPfordirith
 End
 
 Map:MAPMPfordirith/Desc
-"Fordirith is an area in the north of Eriador at the border of Eregion. The vast terrain is accentuated by scattered bluffs and cliffs, and narrow windswept valleys. \n Capturable: Outpost, Inn \n Creeps: Cave Troll, Warg \n Region: Eriador"
+"Fordirith is an area in the north of Eriador at the border of Eregion. The vast terrain is accentuated by scattered bluffs and cliffs, and narrow windswept valleys. \n Capturable: Outpost, Inn \n Antres: Cave Troll, Warg \n Region: Eriador"
 End
 
 /////
@@ -86256,7 +86256,7 @@ Map:MAPMPfordsofbruinen
 End
 
 Map:MAPMPfordsofbruinen/Desc
-"The River Bruinen flows down from the Misty Mountains and surrounds the Elven haven of Rivendell. The crossing point at its ford is under the power and protection of Elrond and his ring Vilya. \n Creeps: Cave Troll, Goblin \n Region: Eriador"
+"The River Bruinen flows down from the Misty Mountains and surrounds the Elven haven of Rivendell. The crossing point at its ford is under the power and protection of Elrond and his ring Vilya. \n Antres: Cave Troll, Goblin \n Region: Eriador"
 End
 
 /////
@@ -86266,7 +86266,7 @@ Map:MAPMPfordsofcarnen
 End
 
 Map:MAPMPfordsofcarnen/Desc
-"The Carnen flows red from the Iron Hills through jagged terrain, forming natural crossings where it meets the Celduin. Settlements of Northmen prospered in the surrounding lands, until the area was depopulated after the arrival of Smaug.  \n Creeps: Cave Troll, Goblin \n Region: Erebor"
+"The Carnen flows red from the Iron Hills through jagged terrain, forming natural crossings where it meets the Celduin. Settlements of Northmen prospered in the surrounding lands, until the area was depopulated after the arrival of Smaug.  \n Antres: Cave Troll, Goblin \n Region: Erebor"
 End
 
 /////
@@ -86276,7 +86276,7 @@ Map:MAPMPfordsofglanduin
 End
 
 Map:MAPMPfordsofglanduin/Desc
-"The Glanduin flows from the Misty Mountains, south of Moria, and borders the regions of Dunland and Eregion. \n Capturable: Inn \n Creeps: Cave Troll, Warg \n Region: Eriador"
+"The Glanduin flows from the Misty Mountains, south of Moria, and borders the regions of Dunland and Eregion. \n Capturable: Inn \n Antres: Cave Troll, Warg \n Region: Eriador"
 End
 
 /////
@@ -86286,7 +86286,7 @@ Map:MAPMPfordsofisen
 End
 
 Map:MAPMPfordsofisen/Desc
-"The Fords of Isen are guarded by the Rohirrim, being the only crossing point of the mighty river between Isengard and Rohan. A raised eyot lies at its centre, where twice the Fords were assaulted during the War of the Ring, during the First and Second Battle of the Fords of Isen. \n Creeps: Warg \n Region: Rohan"
+"The Fords of Isen are guarded by the Rohirrim, being the only crossing point of the mighty river between Isengard and Rohan. A raised eyot lies at its centre, where twice the Fords were assaulted during the War of the Ring, during the First and Second Battle of the Fords of Isen. \n Antres: Warg \n Region: Rohan"
 End
 
 /////
@@ -86297,7 +86297,7 @@ Map:MAPMPfordsoftheloudwater
 End
 
 Map:MAPMPfordsoftheloudwater/Desc
-"The Bruinen, also known as the Loudwater, flows down from the Misty Mountains and surrounds the Elven haven of Rivendell. The crossing point at its ford is under the power and protection of Elrond and his ring Vilya. \n Creeps: Cave Troll, Goblin \n Region: Eriador"
+"The Bruinen, also known as the Loudwater, flows down from the Misty Mountains and surrounds the Elven haven of Rivendell. The crossing point at its ford is under the power and protection of Elrond and his ring Vilya. \n Antres: Cave Troll, Goblin \n Region: Eriador"
 End
 
 /////
@@ -86309,7 +86309,7 @@ Map:MAPMPforestgate
 End
 
 Map:MAPMPforestgate/Desc
-"The Forest Gate is the western entrance to the Elf-path that led across Mirkwood to the Elvenking's Halls. Here Thorin's Company entered Mirkwood in their quest to reclaim Erebor. \n Creeps: Warg, Spider \n Region: Rhovanion"
+"The Forest Gate is the western entrance to the Elf-path that led across Mirkwood to the Elvenking's Halls. Here Thorin's Company entered Mirkwood in their quest to reclaim Erebor. \n Antres: Warg, Spider \n Region: Rhovanion"
 End
 
 /////
@@ -86319,7 +86319,7 @@ Map:MAPMPforlindon
 End
 
 Map:MAPMPforlindon/Desc
-"Forlindon is the name of the northern part of Lindon, north of the Gulf of Lune and west of the Blue Mountains. \n Capturable: Signal Fire, Inn, Dock \n Creeps: Goblin, Warg, \n Region: Lindon"
+"Forlindon is the name of the northern part of Lindon, north of the Gulf of Lune and west of the Blue Mountains. \n Capturable: Feu d'Alarme, Inn, Dock \n Antres: Goblin, Warg, \n Region: Lindon"
 End
 
 /////
@@ -86329,7 +86329,7 @@ Map:MAPMPforochel
 End
 
 Map:MAPMPforochel/Desc
-"Forochel is the name given to the frozen and icy tundra in the northern parts of Middle-earth, and especially of the great icebay and the lands surrounding it. \n Capturable: Signal Fire, Inn \n Creeps: Snow Troll, Warg \n Region: Forodwaith"
+"Forochel is the name given to the frozen and icy tundra in the northern parts of Middle-earth, and especially of the great icebay and the lands surrounding it. \n Capturable: Feu d'Alarme, Inn \n Antres: Snow Troll, Warg \n Region: Forodwaith"
 End
 
 /////
@@ -86339,7 +86339,7 @@ Map:MAPMPforodwaith
 End
 
 Map:MAPMPforodwaith/Desc
-"A vast region of ice and snow in the frozen far north of Middle-earth, beyond the Misty Mountains. \n Capturable: Signal Fire, Inn \n Creeps: Goblin, Snow Troll \n Region: Forodwaith"
+"A vast region of ice and snow in the frozen far north of Middle-earth, beyond the Misty Mountains. \n Capturable: Feu d'Alarme, Inn \n Antres: Goblin, Snow Troll \n Region: Forodwaith"
 End
 
 /////
@@ -86349,7 +86349,7 @@ Map:MAPMPfortressabrakhan
 End
 
 Map:MAPMPfortressabrakhan/Desc
-"The ancient city of Abrakhân ruled this once-fertile valley in ages past, under the rule of its cruel and despotic warlord. These deserted ruins now stir, bringing whispers of a long-forgotten name: Hoarmûrath, the Golden King. \n Capturable: Inn \n Creeps: Scorpion \n Region: Haradwaith"
+"The ancient city of Abrakhân ruled this once-fertile valley in ages past, under the rule of its cruel and despotic warlord. These deserted ruins now stir, bringing whispers of a long-forgotten name: Hoarmûrath, the Golden King. \n Capturable: Inn \n Antres: Scorpion \n Region: Haradwaith"
 End
 
 /////
@@ -86360,7 +86360,7 @@ Map:MAPMPfortressamonsul
 End
 
 Map:MAPMPfortressamonsul/Desc
-"The fortress on the windy hill of Amon Sûl housed a palantír until the fortress was destroyed by the Witch-king's army. Later it came to be known as Weathertop. \n Capturable: Signal Fire, Outpost \n Region: Arnor"
+"The fortress on the windy hill of Amon Sûl housed a palantír until the fortress was destroyed by the Witch-king's army. Later it came to be known as Weathertop. \n Capturable: Feu d'Alarme, Outpost \n Region: Arnor"
 End
 
 /////
@@ -86371,7 +86371,7 @@ Map:MAPMPfortressbarrowofcargast
 End
 
 Map:MAPMPfortressbarrowofcargast/Desc
-"This is the ancient resting place of a great warrior-king, corrupted by foul necromancy. The restless dead now congregate near it under the leadership of Cárgast, the Lord of Bones. \n Creeps: Warg, Spider \n Region: Rhovanion"
+"This is the ancient resting place of a great warrior-king, corrupted by foul necromancy. The restless dead now congregate near it under the leadership of Cárgast, the Lord of Bones. \n Antres: Warg, Spider \n Region: Rhovanion"
 End
 
 /////
@@ -86403,7 +86403,7 @@ Map:MAPMPfortressdimrillgate
 End
 
 Map:MAPMPfortressdimrillgate/Desc
-"The East-gate of Moria is the original entrance into Khazad-dûm in the Dimrill Dale, where Durin had his vision in the Kheled-zâram. \n Capturable: Signal Fire, Outpost \n Creeps: Goblin \n Region: Misty Mountains"
+"The East-gate of Moria is the original entrance into Khazad-dûm in the Dimrill Dale, where Durin had his vision in the Kheled-zâram. \n Capturable: Feu d'Alarme, Outpost \n Antres: Goblin \n Region: Misty Mountains"
 End
 
 /////
@@ -86413,7 +86413,7 @@ Map:MAPMPfortressdolamroth
 End
 
 Map:MAPMPfortressdolamroth/Desc
-"Chief city and port in the fiefdom of Belfalas in southern Gondor. Dol Amroth is located on the coast of the Bay of Belfalas on a high promontory overlooking the inlet called Cobas Haven. \n Capturable: Outpost, Inn, Dock \n Creeps: Barrow Wight \n Region: Gondor"
+"Chief city and port in the fiefdom of Belfalas in southern Gondor. Dol Amroth is located on the coast of the Bay of Belfalas on a high promontory overlooking the inlet called Cobas Haven. \n Capturable: Outpost, Inn, Dock \n Antres: Barrow Wight \n Region: Gondor"
 End
 
 /////
@@ -86423,7 +86423,7 @@ Map:MAPMPfortressdolguldur
 End
 
 Map:MAPMPfortressdolguldur/Desc
-"A dark and tortured ruin on Amon Lanc, inhabited by a Necromancer whose influence causes sickness and death to fall over Greenwood. \n Creeps: Spider \n Region: Rhovanion"
+"A dark and tortured ruin on Amon Lanc, inhabited by a Necromancer whose influence causes sickness and death to fall over Greenwood. \n Antres: Spider \n Region: Rhovanion"
 End
 
 /////
@@ -86434,7 +86434,7 @@ Map:MAPMPfortressdurthang
 End
 
 Map:MAPMPfortressdurthang/Desc
-"Durthang stands upon the northern passes of Ephel Dúath near the Black Gate. Originally a Gondorian fortress, it is now one of several orc strongholds that guards Mordor's western flank. \n Capturable: Inn \n Creeps: Goblin \n Region: Mordor"
+"Durthang stands upon the northern passes of Ephel Dúath near the Black Gate. Originally a Gondorian fortress, it is now one of several orc strongholds that guards Mordor's western flank. \n Capturable: Inn \n Antres: Goblin \n Region: Mordor"
 End
 
 /////
@@ -86445,7 +86445,7 @@ Map:MAPMPfortressedennogrod
 End
 
 Map:MAPMPfortressedennogrod/Desc
-"Edennogrod (New Nogrod) lies in the Blue Mountains, a mountain range at the far west of Eriador. It became the new home for many of Durin's Folk who were exiled from their halls in Erebor by Smaug the Dragon. \n Capturable: Signal Fire, Outpost, Inn \n Creeps: Fire Drake, Goblin \n Region: Lindon"
+"Edennogrod (New Nogrod) lies in the Blue Mountains, a mountain range at the far west of Eriador. It became the new home for many of Durin's Folk who were exiled from their halls in Erebor by Smaug the Dragon. \n Capturable: Feu d'Alarme, Outpost, Inn \n Antres: Fire Drake, Goblin \n Region: Lindon"
 End
 
 /////
@@ -86455,7 +86455,7 @@ Map:MAPMPfortressedoras
 End
 
 Map:MAPMPfortressedoras/Desc
-"Edoras is the capital of Rohan, encircled by walls and with the Golden Hall of Meduseld at the summit of its great mound. Outside the city, the tombs of past rulers of Rohan are arrayed in barrows, covered with flowering Simbelmyne. \n Capturable: Inn \n Creeps: Warg \n Region: Rohan"
+"Edoras is the capital of Rohan, encircled by walls and with the Golden Hall of Meduseld at the summit of its great mound. Outside the city, the tombs of past rulers of Rohan are arrayed in barrows, covered with flowering Simbelmyne. \n Capturable: Inn \n Antres: Warg \n Region: Rohan"
 End
 
 /////
@@ -86465,7 +86465,7 @@ Map:MAPMPfortressesgaroth
 End
 
 Map:MAPMPfortressesgaroth/Desc
-"Esgaroth, or Lake-town, lies south of Erebor and east of Mirkwood, built upon wooden stilts sunk deep into the Long Lake. Its hardy people have a long history of trade with the Woodland Realm, and the Kingdoms of Erebor and Dale. \n Capturable: Signal Fire, Inn, Dock \n Region: Erebor"
+"Esgaroth, or Lake-town, lies south of Erebor and east of Mirkwood, built upon wooden stilts sunk deep into the Long Lake. Its hardy people have a long history of trade with the Woodland Realm, and the Kingdoms of Erebor and Dale. \n Capturable: Feu d'Alarme, Inn, Dock \n Region: Erebor"
 End
 
 /////
@@ -86475,7 +86475,7 @@ Map:MAPMPfortressfornost
 End
 
 Map:MAPMPfortressfornost/Desc
-"Fornost, Norbury of the Kings, stood at the south end of North Downs, and was a second capital of Arnor and seat of kings of Arthedain. \n Capturable: Signal Fire, Inn \n Region: Arnor"
+"Fornost, Norbury of the Kings, stood at the south end of North Downs, and was a second capital of Arnor and seat of kings of Arthedain. \n Capturable: Feu d'Alarme, Inn \n Region: Arnor"
 End
 
 /////
@@ -86485,7 +86485,7 @@ Map:MAPMPfortressframsburg
 End
 
 Map:MAPMPfortressframsburg/Desc
-"The reclaimed ancestral home of the Éothéod was founded at the confluence of the Greylin and Langwell rivers, in the mountainous valleys from which the Anduin flows south. \n Capturable: Signal Fire, Outpost \n Creeps: Hill Troll, Barrow Wight, Warg \n Region: Rhovanion"
+"The reclaimed ancestral home of the Éothéod was founded at the confluence of the Greylin and Langwell rivers, in the mountainous valleys from which the Anduin flows south. \n Capturable: Feu d'Alarme, Outpost \n Antres: Hill Troll, Barrow Wight, Warg \n Region: Rhovanion"
 End
 
 /////
@@ -86496,7 +86496,7 @@ Map:MAPMPfortressgundabad
 End
 
 Map:MAPMPfortressgundabad/Desc
-"Gundabad is a mountain in the northern reaches of the Misty Mountains, sacred to the Dwarves as the place of their ancestral awakening. It has long since been overrun by orcs of the Misty Mountains led by Bolg, to the everlasting hatred of Durin's Folk. \n Creeps: Snow Troll, Mountain Giant \n Region: Misty Mountains"
+"Gundabad is a mountain in the northern reaches of the Misty Mountains, sacred to the Dwarves as the place of their ancestral awakening. It has long since been overrun by orcs of the Misty Mountains led by Bolg, to the everlasting hatred of Durin's Folk. \n Antres: Snow Troll, Mountain Giant \n Region: Misty Mountains"
 End
 
 /////
@@ -86509,7 +86509,7 @@ Map:MAPMPfortresshallsoftheelvenking
 End
 
 Map:MAPMPfortresshallsoftheelvenking/Desc
-"In Northern Mirkwood lie the Halls of the Elvenking, hidden stronghold of Thranduil and the elves of the Woodland Realm. Its many streams lead through cavernous halls carved into the living rock, out past the wine cellars, and eventually east towards the Long Lake. \n Creeps: Spider \n Region: Rhovanion"
+"In Northern Mirkwood lie the Halls of the Elvenking, hidden stronghold of Thranduil and the elves of the Woodland Realm. Its many streams lead through cavernous halls carved into the living rock, out past the wine cellars, and eventually east towards the Long Lake. \n Antres: Spider \n Region: Rhovanion"
 End
 
 /////
@@ -86520,7 +86520,7 @@ Map:MAPMPfortresshidar
 End
 
 Map:MAPMPfortresshidar/Desc
-"Built upon a desert oasis by Númenóreans long ago, the city of Hîdar has since changed hands many times. Many seek to claim it, for holding Hîdar means holding sway over all of Near Harad. \n Capturable: Signal Fire, Inn \n Creeps: Scorpion \n Hazards: Dehydration \n Region: Haradwaith"
+"Built upon a desert oasis by Númenóreans long ago, the city of Hîdar has since changed hands many times. Many seek to claim it, for holding Hîdar means holding sway over all of Near Harad. \n Capturable: Feu d'Alarme, Inn \n Antres: Scorpion \n Hazards: Dehydration \n Region: Haradwaith"
 End
 
 
@@ -86552,7 +86552,7 @@ Map:MAPMPfortressironfootshalls
 End
 
 Map:MAPMPfortressironfootshalls/Desc
-"Deep within the jagged red rocks of the Iron Hills lie the heavily fortified halls Dáin II Ironfoot and hardy warriors of Durin's folk, close kin of the Dwarves of Erebor. \n Capturable: Outpost \n Creeps: Warg \n Region: Erebor"
+"Deep within the jagged red rocks of the Iron Hills lie the heavily fortified halls Dáin II Ironfoot and hardy warriors of Durin's folk, close kin of the Dwarves of Erebor. \n Capturable: Outpost \n Antres: Warg \n Region: Erebor"
 End
 
 /////
@@ -86562,7 +86562,7 @@ Map:MAPMPfortressisengard
 End
 
 Map:MAPMPfortressisengard/Desc
-"Isengard is a great fortress located at the southern end of the Misty Mountains, near the Gap of Rohan. In the centre of the Ring of Isengard stands the stone tower of Orthanc, entrusted to Saruman the White. \n Creeps: Warg \n Region: Rohan"
+"Isengard is a great fortress located at the southern end of the Misty Mountains, near the Gap of Rohan. In the centre of the Ring of Isengard stands the stone tower of Orthanc, entrusted to Saruman the White. \n Antres: Warg \n Region: Rohan"
 End
 
 /////
@@ -86593,7 +86593,7 @@ Map:MAPMPfortressminasmorgul
 End
 
 Map:MAPMPfortressminasmorgul/Desc
-"Also known as the Tower of Sorcery, this dark fortress is now held by the the leader of the Ringwraiths, the Witch-king. \n Capturable: Signal Fire, Outpost, Inn \n Creeps: Goblin \n Region: Mordor"
+"Also known as the Tower of Sorcery, this dark fortress is now held by the the leader of the Ringwraiths, the Witch-king. \n Capturable: Feu d'Alarme, Outpost, Inn \n Antres: Goblin \n Region: Mordor"
 End
 
 /////
@@ -86603,7 +86603,7 @@ Map:MAPMPfortressminastirith
 End
 
 Map:MAPMPfortressminastirith/Desc
-"The White City of Minas Tirith sits on seven levels against Mount Mindolluin, and is ruled over by the Stewards of Gondor. \n Capturable: Signal Fire, Inn \n Region: Gondor"
+"The White City of Minas Tirith sits on seven levels against Mount Mindolluin, and is ruled over by the Stewards of Gondor. \n Capturable: Feu d'Alarme, Inn \n Region: Gondor"
 End
 
 /////
@@ -86613,7 +86613,7 @@ Map:MAPMPfortresspelargir
 End
 
 Map:MAPMPfortresspelargir/Desc
-"This ancient port city of Gondor lies at the mouth of the Anduin. Its heavy fortifications protect Gondor's maritime interests from frequent raids by the Corsairs of Umbar. \n Capturable: Signal Fire, Outpost, Inn, Dock \n Creeps: Warg, Goblin, Corsair \n Region: Gondor"
+"This ancient port city of Gondor lies at the mouth of the Anduin. Its heavy fortifications protect Gondor's maritime interests from frequent raids by the Corsairs of Umbar. \n Capturable: Feu d'Alarme, Outpost, Inn, Dock \n Antres: Warg, Goblin, Corsair \n Region: Gondor"
 End
 
 /////
@@ -86624,7 +86624,7 @@ Map:MAPMPfortresstheangle
 End
 
 Map:MAPMPfortresstheangle/Desc
-"'The Angle' is the name given to the wedge of land between the rivers Hoarwell and Loudwater, south of the Trollshaws. After the Fall of Arnor, the Angle became inhabited by the scattered remaining Dúnedain. \n Capturable: Inn \n Creeps: Cave Troll, Warg, Goblin \n Region: Eriador"
+"'The Angle' is the name given to the wedge of land between the rivers Hoarwell and Loudwater, south of the Trollshaws. After the Fall of Arnor, the Angle became inhabited by the scattered remaining Dúnedain. \n Capturable: Inn \n Antres: Cave Troll, Warg, Goblin \n Region: Eriador"
 End
 
 
@@ -86636,7 +86636,7 @@ Map:MAPMPfortressthedwarfhold
 End
 
 Map:MAPMPfortressthedwarfhold/Desc
-"This ancient Dwarf-hold was hewn out of the living rock by a team of legendary craftsmen. \n Capturable: Inn \n Creeps: Warg \n Region: Erebor"
+"This ancient Dwarf-hold was hewn out of the living rock by a team of legendary craftsmen. \n Capturable: Inn \n Antres: Warg \n Region: Erebor"
 End
 
 /////
@@ -86646,7 +86646,7 @@ Map:MAPMPfortressthorinshalls
 End
 
 Map:MAPMPfortressthorinshalls/Desc
-"Many of Durin's Folk led by Thorin Oakenshield settled in the Blue Mountains at the far west of Eriador, following their flight from Erebor and the destruction brought by Smaug the Dragon. \n Capturable: Outpost, Inn \n Creeps: Cave Troll \n Region: Lindon"
+"Many of Durin's Folk led by Thorin Oakenshield settled in the Blue Mountains at the far west of Eriador, following their flight from Erebor and the destruction brought by Smaug the Dragon. \n Capturable: Outpost, Inn \n Antres: Cave Troll \n Region: Lindon"
 End
 
 /////
@@ -86656,7 +86656,7 @@ Map:MAPMPfortressumbar
 End
 
 Map:MAPMPfortressumbar/Desc
-"Umbar lies to the distant south, where a great cape forms a natural harbour upon which the city was first built. Now, its Black Númenóreans descendants rule over a population of native people and corsairs, raiding Gondor's coastline until the past glory of Umbar may one day be reclaimed. \n Capturable: Signal Fire, Outpost, Inn, Dock \n Region: Haradwaith"
+"Umbar lies to the distant south, where a great cape forms a natural harbour upon which the city was first built. Now, its Black Númenóreans descendants rule over a population of native people and corsairs, raiding Gondor's coastline until the past glory of Umbar may one day be reclaimed. \n Capturable: Feu d'Alarme, Outpost, Inn, Dock \n Region: Haradwaith"
 End
 
 
@@ -86665,7 +86665,7 @@ Map:MAPMPfortresswulfborg
 End
 
 Map:MAPMPfortresswulfborg/Desc
-"Wulfborg is the capital of Frecalund, a Dunlending realm under the banner of King Wulfgar. Saruman the White is known to visit, stirring its folk with speeches of injustice and retribution against their foes. \n Capturable: Inn \n Creeps: Warg \n Region: Enedwaith"
+"Wulfborg is the capital of Frecalund, a Dunlending realm under the banner of King Wulfgar. Saruman the White is known to visit, stirring its folk with speeches of injustice and retribution against their foes. \n Capturable: Inn \n Antres: Warg \n Region: Enedwaith"
 End
 
 /////
@@ -86675,7 +86675,7 @@ Map:MAPMPfoundationsofstone
 End
 
 Map:mapmpfoundationsofstone/Desc
-"This deepest region of Moria is a shadowy abyss, a chilling, vast, and strange place made of twisted stones, woeful waters, and creeping fog. \n Creeps: Goblin, Fire Wyrm, Nameless Things \n Region: Misty Mountains"
+"This deepest region of Moria is a shadowy abyss, a chilling, vast, and strange place made of twisted stones, woeful waters, and creeping fog. \n Antres: Goblin, Fire Wyrm, Nameless Things \n Region: Misty Mountains"
 End
 
 /////
@@ -86685,7 +86685,7 @@ Map:MAPMPgapofrohan
 End
 
 Map:MAPMPgapofrohan/Desc
-"Between the Misty Mountains and the White Mountains flows the river Isen, which forms the western boundary of Rohan. Access through the Gap is guarded by the fortress of Isengard, controlled by Saruman. \n Capturable: Inn \n Creeps: Warg, Goblin \n Region: Rohan"
+"Between the Misty Mountains and the White Mountains flows the river Isen, which forms the western boundary of Rohan. Access through the Gap is guarded by the fortress of Isengard, controlled by Saruman. \n Capturable: Inn \n Antres: Warg, Goblin \n Region: Rohan"
 End
 
 /////
@@ -86695,7 +86695,7 @@ Map:MAPMPgardensoflorien
 End
 
 Map:MAPMPgardensoflorien/Desc
-"Within the woods of Lothlórien are plentiful gardens where the crops of the elves are grown. \n Capturable: Inn \n Creeps: Cave Troll, Warg \n Region: Rhovanion"
+"Within the woods of Lothlórien are plentiful gardens where the crops of the elves are grown. \n Capturable: Inn \n Antres: Cave Troll, Warg \n Region: Rhovanion"
 End
 
 /////
@@ -86705,7 +86705,7 @@ Map:MAPMPgladdenfields
 End
 
 Map:MAPMPgladdenfields/Desc
-"This marshland along the Anduin is the location where High King Isildur was slain by a party of Orcs and the One Ring was lost for centuries. \n Creeps: Warg, Goblin \n Region: Rhovanion"
+"This marshland along the Anduin is the location where High King Isildur was slain by a party of Orcs and the One Ring was lost for centuries. \n Antres: Warg, Goblin \n Region: Rhovanion"
 End
 
 /////
@@ -86715,7 +86715,7 @@ Map:MAPMPgladesofithilien
 End
 
 Map:MAPMPgladesofithilien/Desc
-"In Ithilien lie small woods of resinous trees, with wide glades among them, and everywhere there is a wealth of sweet-smelling herbs and shrubs. \n Capturable: Inn \n Creeps: Cave Troll, Warg \n Region: Gondor"
+"In Ithilien lie small woods of resinous trees, with wide glades among them, and everywhere there is a wealth of sweet-smelling herbs and shrubs. \n Capturable: Inn \n Antres: Cave Troll, Warg \n Region: Gondor"
 End
 
 /////
@@ -86726,7 +86726,7 @@ Map:MAPMPgoblintown
 End
 
 Map:MAPMPgoblintown/Desc
-"Far beneath the Misty Mountains, the Great Goblin rules the disfigured hordes of his domain. Elaborate traps are set in the High Pass to take travellers down, down to Goblin Town. \n Capturable: Outpost, Inn \n Creeps: Cave Troll, Goblin \n Region: Misty Mountains"
+"Far beneath the Misty Mountains, the Great Goblin rules the disfigured hordes of his domain. Elaborate traps are set in the High Pass to take travellers down, down to Goblin Town. \n Capturable: Outpost, Inn \n Antres: Cave Troll, Goblin \n Region: Misty Mountains"
 End
 
 /////
@@ -86736,7 +86736,7 @@ Map:MAPMPgreenway
 End
 
 Map:MAPMPgreenway/Desc
-"An ancient road, the Greenway traverses much of Eriador. Beginning in Fornost, it leads southward toward Tharbad, where it joins the Old South Road. \n Capturable: Inn \n Creeps: Barrow Wight, Warg \n Region: Eriador"
+"An ancient road, the Greenway traverses much of Eriador. Beginning in Fornost, it leads southward toward Tharbad, where it joins the Old South Road. \n Capturable: Inn \n Antres: Barrow Wight, Warg \n Region: Eriador"
 End
 
 /////
@@ -86756,7 +86756,7 @@ Map:MAPMPgreymountains
 End
 
 Map:MAPMPgreymountains/Desc
-"A northern range of mountains where goblins and dwarves have battled for many ages.  \n Capturable: Signal Fire, Inn \n Creeps: Fire Drake, Goblin \n Region: Misty Mountains"
+"A northern range of mountains where goblins and dwarves have battled for many ages.  \n Capturable: Feu d'Alarme, Inn \n Antres: Fire Drake, Goblin \n Region: Misty Mountains"
 End
 
 /////
@@ -86766,7 +86766,7 @@ Map:MAPMPgreyflood
 End
 
 Map:MAPMPgreyflood/Desc
-"A river on the southern border of Minhiriath, the Greyflood is formed by the confluence of the River Hoarwell, and the marshy lower course of the River Glanduin. \n Capturable: Inn \n Creeps: Warg \n Region: Enedwaith"
+"A river on the southern border of Minhiriath, the Greyflood is formed by the confluence of the River Hoarwell, and the marshy lower course of the River Glanduin. \n Capturable: Inn \n Antres: Warg \n Region: Enedwaith"
 End
 
 /////
@@ -86776,7 +86776,7 @@ Map:MAPMPgreylin
 End
 
 Map:MAPMPgreylin/Desc
-"A great branching river that flows south from the Grey Mountains, eventually joining the Anduin near its source. \n Creeps: Warg, Goblin \n Region: Misty Mountains"
+"A great branching river that flows south from the Grey Mountains, eventually joining the Anduin near its source. \n Antres: Warg, Goblin \n Region: Misty Mountains"
 End
 
 /////
@@ -86786,7 +86786,7 @@ Map:MAPMPgulfoflune
 End
 
 Map:MAPMPgulfoflune/Desc
-"The River Lhûn empties into the wide Gulf of Lune, dividing the region of Lindon into Forlindon and Harlindon. \n Capturable: Signal Fire, Inn \n Creeps: Cave Troll, Warg \n Region: Lindon"
+"The River Lhûn empties into the wide Gulf of Lune, dividing the region of Lindon into Forlindon and Harlindon. \n Capturable: Feu d'Alarme, Inn \n Antres: Cave Troll, Warg \n Region: Lindon"
 End
 
 /////
@@ -86796,7 +86796,7 @@ Map:MAPMPgulfofthesurubeki
 End
 
 Map:MAPMPgulfofthesurubeki/Desc
-"The southern shores of the Sea of Rhûn receive sparse rainfall yet rivers from the Ered Lithui support these otherwise dry lands. \n Capturable: Inn \n Creeps: Cave Troll \n Region: Rhûn"
+"The southern shores of the Sea of Rhûn receive sparse rainfall yet rivers from the Ered Lithui support these otherwise dry lands. \n Capturable: Inn \n Antres: Cave Troll \n Region: Rhûn"
 End
 
 /////
@@ -86806,7 +86806,7 @@ Map:MAPMPhalifirien
 End
 
 Map:MAPMPhalifirien/Desc
-"A hallowed mountain that stands over the border of Rohan and Anórien. It is highest and westernmost of the seven beacons of Gondor, separated from the surrounding White Mountains by a deep cleft. \n Capturable: Inn \n Creeps: Warg \n Region: Gondor"
+"A hallowed mountain that stands over the border of Rohan and Anórien. It is highest and westernmost of the seven beacons of Gondor, separated from the surrounding White Mountains by a deep cleft. \n Capturable: Inn \n Antres: Warg \n Region: Gondor"
 End
 
 /////
@@ -86816,7 +86816,7 @@ Map:MAPMPhallofoak
 End
 
 Map:MAPMPhallofoak/Desc
-"The sacred place of gathering of the woodmen Druids lies deep within the forest, a lush clearing and altar encircled by ancient oaks. \n Capturable: Altar (Signal Fire + Heal) \n Creeps: Warg, Spider \n Region: Rhovanion"
+"The sacred place of gathering of the woodmen Druids lies deep within the forest, a lush clearing and altar encircled by ancient oaks. \n Capturable: Altar (Feu d'Alarme + Heal) \n Antres: Warg, Spider \n Region: Rhovanion"
 End
 
 /////
@@ -86826,7 +86826,7 @@ Map:MAPMPharadcoast
 End
 
 Map:MAPMPharadcoast/Desc
-"Tropical jungles grow dense along the rivers where the arid deserts of Harad meet the sea. Wild Mûmakil are often seen basking in the pools, escaping the burning sun. \n Capturable: Inn, Dock \n Creeps: Jungle Troll \n Region: Haradwaith"
+"Tropical jungles grow dense along the rivers where the arid deserts of Harad meet the sea. Wild Mûmakil are often seen basking in the pools, escaping the burning sun. \n Capturable: Inn, Dock \n Antres: Jungle Troll \n Region: Haradwaith"
 End
 
 /////
@@ -86836,7 +86836,7 @@ Map:MAPMPharadoasis
 End
 
 Map:MAPMPharadoasis/Desc
-"A region deep within Far Harad, where precious pools of water offer refuge from the inhospitable landscape. \n Capturable: Inn \n Creeps: Cave Troll, Goblin \n Region: Haradwaith"
+"A region deep within Far Harad, where precious pools of water offer refuge from the inhospitable landscape. \n Capturable: Inn \n Antres: Cave Troll, Goblin \n Region: Haradwaith"
 End
 
 /////
@@ -86847,7 +86847,7 @@ Map:MAPMPharadroad
 End
 
 Map:MAPMPharadroad/Desc
-"The ancient Harad Road leads south from Ithilien, eventually crossing the Harnen River and into the vast arid lands of Haradwaith. Bustling caravans and scattered markets line this vital trade route where merchants, slavers and travellers meet.\n Capturable: Signal Fire, Inn \n Creeps: Warg\n Region: Haradwaith"
+"The ancient Harad Road leads south from Ithilien, eventually crossing the Harnen River and into the vast arid lands of Haradwaith. Bustling caravans and scattered markets line this vital trade route where merchants, slavers and travellers meet.\n Capturable: Feu d'Alarme, Inn \n Antres: Warg\n Region: Haradwaith"
 End
 
 /////
@@ -86857,7 +86857,7 @@ Map:MAPMPharfalas
 End
 
 Map:MAPMPharfalas/Desc
-"The headlands of this rocky Harondor coastline were once watched over by an old Gondorian outpost. Now, its ruins only serve as the hideout of smugglers and outlaws. \n Capturable: Inn, Dock \n Creeps: Corsair, Hill Troll \n Region: Haradwaith"
+"The headlands of this rocky Harondor coastline were once watched over by an old Gondorian outpost. Now, its ruins only serve as the hideout of smugglers and outlaws. \n Capturable: Inn, Dock \n Antres: Corsair, Hill Troll \n Region: Haradwaith"
 End
 
 /////
@@ -86867,7 +86867,7 @@ Map:MAPMPharlindon
 End
 
 Map:MAPMPharlindon/Desc
-"Harlindon is a green and fair elvish land, located west of the Blue Mountains and south of the Gulf of Lune, which divided Lindon into the northern Forlindon and Harlindon to the south.  \n Capturable: Signal Fire, Inn, Dock \n Creeps: Goblin \n Region: Lindon"
+"Harlindon is a green and fair elvish land, located west of the Blue Mountains and south of the Gulf of Lune, which divided Lindon into the northern Forlindon and Harlindon to the south.  \n Capturable: Feu d'Alarme, Inn, Dock \n Antres: Goblin \n Region: Lindon"
 End
 
 /////
@@ -86877,7 +86877,7 @@ Map:MAPMPharlond
 End
 
 Map:MAPMPharlond/Desc
-"The port of Minas Tirith, located south of the city beyond the Rammas Echor. During the War of the Ring, Aragorn and his company landed at Harlond and swept north into the Battle of the Pelennor Fields. \n Capturable: Inn \n Creeps: Warg, Goblin \n Region: Gondor"
+"The port of Minas Tirith, located south of the city beyond the Rammas Echor. During the War of the Ring, Aragorn and his company landed at Harlond and swept north into the Battle of the Pelennor Fields. \n Capturable: Inn \n Antres: Warg, Goblin \n Region: Gondor"
 End
 
 /////
@@ -86888,7 +86888,7 @@ Map:MAPMPharnen
 End
 
 Map:MAPMPharnen/Desc
-"The river Harnen lies to the south of the disputed region of Harondor, and is crossed by the Harad Road before it flows west into the sea. The river marks the northern border of Near Harad and the strange lands of Haradwaith beyond. \n Capturable: Inn \n Creeps: Scorpion \n Region: Haradwaith"
+"The river Harnen lies to the south of the disputed region of Harondor, and is crossed by the Harad Road before it flows west into the sea. The river marks the northern border of Near Harad and the strange lands of Haradwaith beyond. \n Capturable: Inn \n Antres: Scorpion \n Region: Haradwaith"
 End
 
 /////
@@ -86899,7 +86899,7 @@ Map:MAPMPharondor
 End
 
 Map:MAPMPharondor/Desc
-"Harondor is a disputed region south of Ithilien, between the rivers Poros and Harnen. Ongoing wars have led to the region's downfall, which is now a deserted land. \n Creeps: Warg, Goblin \n Region: Haradwaith"
+"Harondor is a disputed region south of Ithilien, between the rivers Poros and Harnen. Ongoing wars have led to the region's downfall, which is now a deserted land. \n Antres: Warg, Goblin \n Region: Haradwaith"
 End
 
 /////
@@ -86909,7 +86909,7 @@ Map:MAPMPharrowdale
 End
 
 Map:MAPMPharrowdale/Desc
-"Harrowdale is the name given to the deep north-south valley cut into the White Mountains by the Snowbourn River. To the south lies Dunharrow, a refuge point of the Rohirrim. \n Capturable: Inn \n Creeps: Cave Troll, Warg \n Region: Rohan"
+"Harrowdale is the name given to the deep north-south valley cut into the White Mountains by the Snowbourn River. To the south lies Dunharrow, a refuge point of the Rohirrim. \n Capturable: Inn \n Antres: Cave Troll, Warg \n Region: Rohan"
 End
 
 /////
@@ -86919,7 +86919,7 @@ Map:MAPMPhighlandsoffrecalund
 End
 
 Map:MAPMPhighlandsoffrecalund/Desc
-"The highlands of Frecalund are home to King Freca's descendants and lie under the protection of nearby Wulfborg. \n Capturable: Inn \n Creeps: Warg \n Region: Enedwaith"
+"The highlands of Frecalund are home to King Freca's descendants and lie under the protection of nearby Wulfborg. \n Capturable: Inn \n Antres: Warg \n Region: Enedwaith"
 End
 
 /////
@@ -86929,7 +86929,7 @@ Map:MAPMPhighcrag
 End
 
 Map:MAPMPhighcrag/Desc
-"The High Crag lies between steep ridges of the Misty Mountains. Wild goblins occupy its narrow passes and numerous deep dead-end valleys. \n Capturable: Inn \n Creeps: Goblin \n Region: Misty Mountains"
+"The High Crag lies between steep ridges of the Misty Mountains. Wild goblins occupy its narrow passes and numerous deep dead-end valleys. \n Capturable: Inn \n Antres: Goblin \n Region: Misty Mountains"
 End
 
 /////
@@ -86939,7 +86939,7 @@ Map:MAPMPhighmoor
 End
 
 Map:MAPMPhighmoor/Desc
-"Westwards from the River Bruinen lies the barren High Moor, a rough, rocky highland that borders the Trollshaws. \n Capturable: Signal Fire, Inn \n Creeps: Hill Troll \n Region: Eriador"
+"Westwards from the River Bruinen lies the barren High Moor, a rough, rocky highland that borders the Trollshaws. \n Capturable: Feu d'Alarme, Inn \n Antres: Hill Troll \n Region: Eriador"
 End
 
 /////
@@ -86949,7 +86949,7 @@ Map:MAPMPhighpass
 End
 
 Map:MAPMPhighpass/Desc
-"One of two passes over the Misty Mountains, most travellers use the high pass, as the lower is frequented by orcs and goblins. \n Capturable: Signal Fire \n Creeps: Goblin \n Region: Misty Mountains"
+"One of two passes over the Misty Mountains, most travellers use the high pass, as the lower is frequented by orcs and goblins. \n Capturable: Feu d'Alarme \n Antres: Goblin \n Region: Misty Mountains"
 End
 
 /////
@@ -86959,7 +86959,7 @@ Map:MAPMPhillsofevendim
 End
 
 Map:MAPMPhillsofevendim/Desc
-"A series of hills in northern Eriador, north of the Shire. At its southern end lie the ruins of Annúminas, the first capital of Arnor, at Lake Evendim. \n Capturable: Inn \n Creeps: Goblin \n Region: Arnor"
+"A series of hills in northern Eriador, north of the Shire. At its southern end lie the ruins of Annúminas, the first capital of Arnor, at Lake Evendim. \n Capturable: Inn \n Antres: Goblin \n Region: Arnor"
 End
 
 /////
@@ -86969,7 +86969,7 @@ Map:MAPMPhollin
 End
 
 Map:MAPMPhollin/Desc
-"Hollin was once home to the famed Elvish jewel-smiths of Eregion, the forgers of the great rings of power. But now the ruins of their great cities stand in silence among the stones. \n Capturable: Inn \n Creeps: Cave Troll, Warg \n Region: Eriador"
+"Hollin was once home to the famed Elvish jewel-smiths of Eregion, the forgers of the great rings of power. But now the ruins of their great cities stand in silence among the stones. \n Capturable: Inn \n Antres: Cave Troll, Warg \n Region: Eriador"
 End
 
 /////
@@ -86979,7 +86979,7 @@ Map:MAPMPhonksvalley
 End
 
 Map:MAPMPhonksvalley/Desc
-"This icy valley in the far north contains many treacherous ravines, and is named after Honk, a troll-king of remarkably low intelligence. \n Capturable: Signal Fire, Inn \n Creeps: Snow Troll \n Region: Forodwaith"
+"This icy valley in the far north contains many treacherous ravines, and is named after Honk, a troll-king of remarkably low intelligence. \n Capturable: Feu d'Alarme, Inn \n Antres: Snow Troll \n Region: Forodwaith"
 End
 
 
@@ -86991,7 +86991,7 @@ Map:MAPMPicebayofforochel
 End
 
 Map:MAPMPicebayofforochel/Desc
-"These icy northern wastelands surround the distant Ice Bay of Forochel, and a popular fishing spot of the Lossoth. \n Capturable: Inn, Dock \n Creeps: Snow Troll \n Region: Forodwaith"
+"These icy northern wastelands surround the distant Ice Bay of Forochel, and a popular fishing spot of the Lossoth. \n Capturable: Inn, Dock \n Antres: Snow Troll \n Region: Forodwaith"
 End
 
 /////
@@ -87002,7 +87002,7 @@ Map:MAPMPifaalafa
 End
 
 Map:MAPMPifaalafa/Desc
-"According to ancient Mahûddi beliefs, the desolate Ifaa-lafa, or 'Bright Lands' are the realm of mysterious, sleeping pale spirits. Few that enter ever return, and none do so unchanged. \n Creeps: Goblin \n Region: Haradwaith"
+"According to ancient Mahûddi beliefs, the desolate Ifaa-lafa, or 'Bright Lands' are the realm of mysterious, sleeping pale spirits. Few that enter ever return, and none do so unchanged. \n Antres: Goblin \n Region: Haradwaith"
 End
 
 /////
@@ -87012,7 +87012,7 @@ Map:MAPMPimlothmelui
 End
 
 Map:MAPMPimlothmelui/Desc
-"A valley in the province of Lossarnach in Gondor, known for its numerous roses and fields of wildflowers. \n Capturable: Inn \n Creeps: Cave Troll, Goblin \n Region: Gondor"
+"A valley in the province of Lossarnach in Gondor, known for its numerous roses and fields of wildflowers. \n Capturable: Inn \n Antres: Cave Troll, Goblin \n Region: Gondor"
 End
 
 /////
@@ -87022,7 +87022,7 @@ Map:MAPMPironfoothills
 End
 
 Map:MAPMPironfoothills/Desc
-"The Redwater flows south from the mountainous lands of the Iron Hills, bordering the eastern land of Rhûn. \n Capturable: Inn \n Creeps: Hill Troll, Goblin \n Region: Erebor"
+"The Redwater flows south from the mountainous lands of the Iron Hills, bordering the eastern land of Rhûn. \n Capturable: Inn \n Antres: Hill Troll, Goblin \n Region: Erebor"
 End
 
 /////
@@ -87032,7 +87032,7 @@ Map:MAPMPironhills
 End
 
 Map:MAPMPironhills/Desc
-"The Iron Hills are a range of great hills in the north-east of Wilderland, and the source of the river Carnen, rich in iron. It is home to a Dwarf-realm of the Longbeards. \n Capturable: Inn \n Creeps: Cave Troll, Goblin \n Region: Erebor"
+"The Iron Hills are a range of great hills in the north-east of Wilderland, and the source of the river Carnen, rich in iron. It is home to a Dwarf-realm of the Longbeards. \n Capturable: Inn \n Antres: Cave Troll, Goblin \n Region: Erebor"
 End
 
 /////
@@ -87042,7 +87042,7 @@ Map:MAPMPisendale
 End
 
 Map:MAPMPisendale/Desc
-"The River Isen runs west from Isengard and the Gap of Rohan, forming shallow crossings in the lands before it empties into the Sea of Belegaer.\n Capturable: Inn \n Creeps: Stone Troll, Goblin \n Region: Enedwaith"
+"The River Isen runs west from Isengard and the Gap of Rohan, forming shallow crossings in the lands before it empties into the Sea of Belegaer.\n Capturable: Inn \n Antres: Stone Troll, Goblin \n Region: Enedwaith"
 End
 
 /////
@@ -87052,7 +87052,7 @@ Map:MAPMPitama
 End
 
 Map:MAPMPitama/Desc
-"Strange stone formations lie amongst the ancient trees of Itä-mâ, ‘East Land’ in the speech of the native Lossoth. This dense forested region borders the Bay of Forochel and the unmapped wilderness of Forodwaith further inland. \n Capturable: Inn \n Creeps: Snow Troll \n Region: Forodwaith"
+"Strange stone formations lie amongst the ancient trees of Itä-mâ, ‘East Land’ in the speech of the native Lossoth. This dense forested region borders the Bay of Forochel and the unmapped wilderness of Forodwaith further inland. \n Capturable: Inn \n Antres: Snow Troll \n Region: Forodwaith"
 End
 
 /////
@@ -87062,7 +87062,7 @@ Map:MAPMPitakhkhand
 End
 
 Map:MAPMPitakhkhand/Desc
-"These rocky grasslands and rolling foothills on the southern border of Khand are watered by seasonal streams that flow from  mountains in the distant east, known only to the Variag tribes who inhabit its vast plains. \n Capturable: Signal Fire \n Creeps: Warg \n Region: Haradwaith"
+"These rocky grasslands and rolling foothills on the southern border of Khand are watered by seasonal streams that flow from  mountains in the distant east, known only to the Variag tribes who inhabit its vast plains. \n Capturable: Feu d'Alarme \n Antres: Warg \n Region: Haradwaith"
 End
 
 /////
@@ -87073,7 +87073,7 @@ Map:MAPMPithiliant
 End
 
 Map:MAPMPithiliant/Desc
-"A small range of hills in South Ithilien, an eastern province of Gondor \n Capturable: Signal Fire, Inn \n Creeps: Stone Troll, Warg \n Region: Gondor"
+"A small range of hills in South Ithilien, an eastern province of Gondor \n Capturable: Feu d'Alarme, Inn \n Antres: Stone Troll, Warg \n Region: Gondor"
 End
 
 /////
@@ -87084,7 +87084,7 @@ Map:MAPMPjakuru
 End
 
 Map:mapmpjakuru/Desc
-"Narrow passages lead through the deep icy ravines of Jä-kuru, 'Canyon of Ice' in the tongue of the Lossoth tribes that inhabit this inhospitable region. \n Capturable: Signal Fire, Inn \n Creeps: Warg \n Region: Forodwaith"
+"Narrow passages lead through the deep icy ravines of Jä-kuru, 'Canyon of Ice' in the tongue of the Lossoth tribes that inhabit this inhospitable region. \n Capturable: Feu d'Alarme, Inn \n Antres: Warg \n Region: Forodwaith"
 End
 
 /////
@@ -87094,7 +87094,7 @@ Map:MAPMPjarannit
 End
 
 Map:MAPMPjarannit/Desc
-"Lossoth for 'Ice Coast', the frozen coastline of Jä-rannit borders the dense forests of Itä-mâ, with its great cape forming one end of the Ice Bay of Forochel. \n Capturable: Inn \n Creeps: Warg \n Region: Forodwaith"
+"Lossoth for 'Ice Coast', the frozen coastline of Jä-rannit borders the dense forests of Itä-mâ, with its great cape forming one end of the Ice Bay of Forochel. \n Capturable: Inn \n Antres: Warg \n Region: Forodwaith"
 End
 
 
@@ -87120,7 +87120,7 @@ Map:MAPMPjollyhollin
 End
 
 Map:mapmpjollyhollin/Desc
-"Galion, Master of Wines cordially requests the pleasure of your company at a winter party in honour of his own good self! Be there, or be forever square. \n Galion's Christmas Cup 2021 \n Capturable: Inn \n Creeps: Cave Troll, Warg \n Region: Eriador"
+"Galion, Master of Wines cordially requests the pleasure of your company at a winter party in honour of his own good self! Be there, or be forever square. \n Galion's Christmas Cup 2021 \n Capturable: Inn \n Antres: Cave Troll, Warg \n Region: Eriador"
 End
 
 /////
@@ -87131,7 +87131,7 @@ Map:MAPMPkasalan
 End
 
 Map:MAPMPkasalan/Desc
-"This uninhabited mountain pass in the west of Far Harad springs to life as seasonal rains create numerous streams, cascading waterfalls and shallow pools amongst the otherwise arid landscape. \n Creeps: Jungle Troll, Goblin \n Region: Haradwaith"
+"This uninhabited mountain pass in the west of Far Harad springs to life as seasonal rains create numerous streams, cascading waterfalls and shallow pools amongst the otherwise arid landscape. \n Antres: Jungle Troll, Goblin \n Region: Haradwaith"
 End
 
 /////
@@ -87153,7 +87153,7 @@ Map:MAPMPkinefieldsofrhun
 End
 
 Map:MAPMPkinefieldsofrhun/Desc
-"The Kine of Araw are a species of hardy oxen that inhabit the vast fields surrounding the Sea of Rhûn in the distant East. The Horn of Gondor was fashioned from a horn of one of these great beasts.\n Capturable: Signal Fire \n Region: Rhûn"
+"The Kine of Araw are a species of hardy oxen that inhabit the vast fields surrounding the Sea of Rhûn in the distant East. The Horn of Gondor was fashioned from a horn of one of these great beasts.\n Capturable: Feu d'Alarme \n Region: Rhûn"
 End
 
 /////
@@ -87165,7 +87165,7 @@ Map:MAPMPkunin
 End
 
 Map:MAPMPkunin/Desc
-"Kûnin is the ancient name given to this sunlit valley in the mysterious tongue of distant Rhûn. The name now belongs to the fortress that inhabits the rocky hilltop and surrounding farmland, ruled over by its fierce and warlike Khân. \n Capturable: Signal Fire, Inn \n Region: Rhûn"
+"Kûnin is the ancient name given to this sunlit valley in the mysterious tongue of distant Rhûn. The name now belongs to the fortress that inhabits the rocky hilltop and surrounding farmland, ruled over by its fierce and warlike Khân. \n Capturable: Feu d'Alarme, Inn \n Region: Rhûn"
 End
 
 /////
@@ -87176,7 +87176,7 @@ Map:MAPMPlamedon
 End
 
 Map:MAPMPlamedon/Desc
-"A series of valleys through which the Ringló and Ciril rivers flowed south. Lamedon is one of the most densely populated fiefdoms of Gondor. \n Capturable: Inn \n Creeps: Hill Troll, Warg, Goblin \n Region: Gondor"
+"A series of valleys through which the Ringló and Ciril rivers flowed south. Lamedon is one of the most densely populated fiefdoms of Gondor. \n Capturable: Inn \n Antres: Hill Troll, Warg, Goblin \n Region: Gondor"
 End
 
 /////
@@ -87186,7 +87186,7 @@ Map:MAPMPlamedonhighlands
 End
 
 Map:MAPMPlamedonhighlands/Desc
-"The valleys and moors of Lamedon are filled with small towns. The people are under Angbor, Lord of Lamedon. \n Capturable: Inn \n Creeps: Barrow Wight \n Region: Gondor"
+"The valleys and moors of Lamedon are filled with small towns. The people are under Angbor, Lord of Lamedon. \n Capturable: Inn \n Antres: Barrow Wight \n Region: Gondor"
 End
 
 /////
@@ -87196,7 +87196,7 @@ Map:MAPMPlebennin
 End
 
 Map:MAPMPlebennin/Desc
-"A region in southern Gondor south of the White Mountains, Lebennin is largely populated by men descended from the forgotten 'Men of the Mountains' that dwealt in there during the Second Age. \n Capturable: Inn \n Creeps: Warg, Goblin \n Region: Gondor"
+"A region in southern Gondor south of the White Mountains, Lebennin is largely populated by men descended from the forgotten 'Men of the Mountains' that dwealt in there during the Second Age. \n Capturable: Inn \n Antres: Warg, Goblin \n Region: Gondor"
 End
 
 /////
@@ -87206,7 +87206,7 @@ Map:MAPMPlithlad
 End
 
 Map:MAPMPlithlad/Desc
-"A great ashy plain that lies to the east of Barad-dûr in Mordor. \n Capturable: Inn \n Creeps: Cave Troll \n Region: Mordor"
+"A great ashy plain that lies to the east of Barad-dûr in Mordor. \n Capturable: Inn \n Antres: Cave Troll \n Region: Mordor"
 End
 
 /////
@@ -87216,7 +87216,7 @@ Map:MAPMPlongmarshes
 End
 
 Map:MAPMPlongmarshes/Desc
-"Marshes and shallow surround both sides of the Forest River, extending from the eastern edge of Mirkwood nearly to the shores of the Long Lake. Only a few safe paths lead through its numerous winding river courses. \n Creeps: Barrow Wight \n Region: Erebor"
+"Marshes and shallow surround both sides of the Forest River, extending from the eastern edge of Mirkwood nearly to the shores of the Long Lake. Only a few safe paths lead through its numerous winding river courses. \n Antres: Barrow Wight \n Region: Erebor"
 End
 
 /////
@@ -87226,7 +87226,7 @@ Map:MAPMPlorien
 End
 
 Map:MAPMPlorien/Desc
-"This forest, also known as the Golden Wood for its Mallorn Trees, is the home of Galadriel and Celeborn of the Elves. \n Capturable: Inn \n Creeps: Goblin \n Region: Rhovanion"
+"This forest, also known as the Golden Wood for its Mallorn Trees, is the home of Galadriel and Celeborn of the Elves. \n Capturable: Inn \n Antres: Goblin \n Region: Rhovanion"
 End
 
 /////
@@ -87236,7 +87236,7 @@ Map:MAPMPlossarnach
 End
 
 Map:MAPMPlossarnach/Desc
-"One of Gondor’s southern fiefdoms, Lossarnach lies within the vales of the White Mountains. Its lush grasslands are filled with flowers. \n Capturable: Signal Fire, Inn  \n Creeps: Goblin \n Region: Gondor"
+"One of Gondor’s southern fiefdoms, Lossarnach lies within the vales of the White Mountains. Its lush grasslands are filled with flowers. \n Capturable: Feu d'Alarme, Inn  \n Antres: Goblin \n Region: Gondor"
 End
 
 /////
@@ -87246,7 +87246,7 @@ Map:MAPMPlostladen
 End
 
 Map:MAPMPlostladen/Desc
-"The desert of Lostladen stretches across the north of Near Harad, where red sands meet the black volcanic rock of Ephel Dúath south of Mordor. Not much is known of this land; the harsh landscape has prevented any attempts of settlement by both man and orc.\n Creeps: Great Scorpion \n Region: Haradwaith"
+"The desert of Lostladen stretches across the north of Near Harad, where red sands meet the black volcanic rock of Ephel Dúath south of Mordor. Not much is known of this land; the harsh landscape has prevented any attempts of settlement by both man and orc.\n Antres: Great Scorpion \n Region: Haradwaith"
 End
 
 /////
@@ -87257,7 +87257,7 @@ Map:MAPMPlugland
 End
 
 Map:mapmplugland/Desc
-"'Oi, mate. Just wanted to let ya know: there's a price on your head. Now, I could collect - quite easily, in fact - but instead we're gonna play a little game. Oh, and bring a friend.' ~Lug the Luscious \n Lug's Slugfest Cup 2022 \n Capturable: Signal Fire \n Creeps: Cave Troll, Barrow Wight \n Region: Misty Mountains"
+"'Oi, mate. Just wanted to let ya know: there's a price on your head. Now, I could collect - quite easily, in fact - but instead we're gonna play a little game. Oh, and bring a friend.' ~Lug the Luscious \n Lug's Slugfest Cup 2022 \n Capturable: Feu d'Alarme \n Antres: Cave Troll, Barrow Wight \n Region: Misty Mountains"
 End
 
 /////
@@ -87268,7 +87268,7 @@ Map:MAPMPmaros
 End
 
 Map:MAPMPmaros/Desc
-"Ancient ruins crafted in ages long past still line the streets of this Umbarian port town, situated on a rocky cape west of Umbar. \n Capturable: Outpost, Inn, Dock \n Creeps: Goblin \n Region: Haradwaith"
+"Ancient ruins crafted in ages long past still line the streets of this Umbarian port town, situated on a rocky cape west of Umbar. \n Capturable: Outpost, Inn, Dock \n Antres: Goblin \n Region: Haradwaith"
 End
 
 /////
@@ -87278,7 +87278,7 @@ Map:MAPMPmethedras
 End
 
 Map:MAPMPmethedras/Desc
-"A tall and prominent peak at the southern end of the Misty Mountains. Hardy wildmen villages can be found amongst its wide foothills that stretch towards Dunland in the west and Isengard to the south. \n Capturable: Inn \n Creeps: Wildmen, Warg \n Region: Misty Mountains"
+"A tall and prominent peak at the southern end of the Misty Mountains. Hardy wildmen villages can be found amongst its wide foothills that stretch towards Dunland in the west and Isengard to the south. \n Capturable: Inn \n Antres: Wildmen, Warg \n Region: Misty Mountains"
 End
 
 /////
@@ -87289,7 +87289,7 @@ Map:MAPMPmidgewatermarshes
 End
 
 Map:MAPMPmidgewatermarshes/Desc
-"A fly-infested region of marshland bordering the Weather Hills, where a morass of shifting pools and swarms of midges fill the air. \n Capturable: Signal Fire \n Creeps: Cave Troll, Goblin \n Region: Arnor"
+"A fly-infested region of marshland bordering the Weather Hills, where a morass of shifting pools and swarms of midges fill the air. \n Capturable: Feu d'Alarme \n Antres: Cave Troll, Goblin \n Region: Arnor"
 End
 
 /////
@@ -87299,7 +87299,7 @@ Map:MAPMPminhiriath
 End
 
 Map:MAPMPminhiriath/Desc
-"Although still forested in parts, this once lush region is now barren, and bears the scars of long ages of felling, burning and war. \n Capturable: Signal Fire, Inn \n Creeps: Barrow Wight \n Region: Eriador"
+"Although still forested in parts, this once lush region is now barren, and bears the scars of long ages of felling, burning and war. \n Capturable: Feu d'Alarme, Inn \n Antres: Barrow Wight \n Region: Eriador"
 End
 
 /////
@@ -87309,7 +87309,7 @@ Map:MAPMPmirkwoodeaves
 End
 
 Map:MAPMPmirkwoodeaves/Desc
-"The western eaves of Mirkwood lie near Thranduil's Halls. It is a dark and contested area between the Greenwood Elves and the encroaching minions of the Necromancer. \n Capturable: Signal Fire, Inn \n Creeps: Spider \n Region: Rhovanion"
+"The western eaves of Mirkwood lie near Thranduil's Halls. It is a dark and contested area between the Greenwood Elves and the encroaching minions of the Necromancer. \n Capturable: Feu d'Alarme, Inn \n Antres: Spider \n Region: Rhovanion"
 End
 
 /////
@@ -87319,7 +87319,7 @@ Map:MAPMPmithlond
 End
 
 Map:MAPMPmithlond/Desc
-"The Grey Havens, also known as Mithlond, is a seaport on the Gulf of Lune from which the elves undertake their journey into the West. \n Capturable: Inn, Dock \n Creeps: Hill Troll \n Region: Lindon"
+"The Grey Havens, also known as Mithlond, is a seaport on the Gulf of Lune from which the elves undertake their journey into the West. \n Capturable: Inn, Dock \n Antres: Hill Troll \n Region: Lindon"
 End
 
 /////
@@ -87330,7 +87330,7 @@ Map:MAPMPmorgulduin
 End
 
 Map:MAPMPmorgulduin/Desc
-"The Morgulduin springs from the Morgul Vale in the Ephel Dúath, and runs westward until it reaches the Cross-roads in Ithilien. There its course turns southwest until it enters the Anduin just south of Osgiliath. North of the stream lies the road from Osgiliath to Minas Morgul. \n Capturable: Inn \n Creeps: Cave Troll, Barrow Wight \n Region: Gondor"
+"The Morgulduin springs from the Morgul Vale in the Ephel Dúath, and runs westward until it reaches the Cross-roads in Ithilien. There its course turns southwest until it enters the Anduin just south of Osgiliath. North of the stream lies the road from Osgiliath to Minas Morgul. \n Capturable: Inn \n Antres: Cave Troll, Barrow Wight \n Region: Gondor"
 End
 
 /////
@@ -87341,7 +87341,7 @@ Map:MAPMPmountdoom
 End
 
 Map:MAPMPmountdoom/Desc
-"Mount Doom, or Orodruin, is a volcano in Mordor within which Sauron willed the heart of the earth into his dark sorceries and forging of the One Ring. \n Capturable: Inn \n Creeps: Stone Troll, Goblin \n Region: Mordor"
+"Mount Doom, or Orodruin, is a volcano in Mordor within which Sauron willed the heart of the earth into his dark sorceries and forging of the One Ring. \n Capturable: Inn \n Antres: Stone Troll, Goblin \n Region: Mordor"
 End
 
 /////
@@ -87351,7 +87351,7 @@ Map:MAPMPmountgram
 End
 
 Map:MAPMPmountgram/Desc
-"A mountain at the northern end of the Misty Mountains and the breeding ground of orcs. \n Capturable: Signal Fire, Inn \n Creeps: Snow Troll, Goblin \n Region: Misty Mountains"
+"A mountain at the northern end of the Misty Mountains and the breeding ground of orcs. \n Capturable: Feu d'Alarme, Inn \n Antres: Snow Troll, Goblin \n Region: Misty Mountains"
 End
 
 /////
@@ -87361,7 +87361,7 @@ Map:MAPMPmountainsofmirkwood
 End
 
 Map:MAPMPmountainsofmirkwood/Desc
-"When the Old Forest Road became unusable, a second path through the Mirkwood was made to the north. Between the two paths lay the Mountains of Mirkwood. \n Capturable: Inn \n Creeps: Spider \n Region: Rhovanion"
+"When the Old Forest Road became unusable, a second path through the Mirkwood was made to the north. Between the two paths lay the Mountains of Mirkwood. \n Capturable: Inn \n Antres: Spider \n Region: Rhovanion"
 End
 
 /////
@@ -87371,7 +87371,7 @@ Map:MAPMPmouthsoftheentwash
 End
 
 Map:MAPMPmouthsoftheentwash/Desc
-"The Mouths of Entwash form a mighty delta where the River Entwash meets the Anduin. The delta measured a hundred miles from the splitting of the river to the marshy lands at its end. \n Creeps: Warg \n Region: Gondor"
+"The Mouths of Entwash form a mighty delta where the River Entwash meets the Anduin. The delta measured a hundred miles from the splitting of the river to the marshy lands at its end. \n Antres: Warg \n Region: Gondor"
 End
 
 /////
@@ -87381,7 +87381,7 @@ Map:MAPMPnafarcrossing
 End
 
 Map:MAPMPnafarcrossing/Desc
-"Far Harad is known not only for its deserts, but also the vast primordial forests that surround the Nâfarat River, likened to those that once covered most of Middle-earth. \n Capturable: Signal Fire \n Creeps: Karadd, Jungle Warg \n Hazards: Fog \n Region: Haradwaith"
+"Far Harad is known not only for its deserts, but also the vast primordial forests that surround the Nâfarat River, likened to those that once covered most of Middle-earth. \n Capturable: Feu d'Alarme \n Antres: Karadd, Jungle Warg \n Hazards: Fog \n Region: Haradwaith"
 End
 
 /////
@@ -87392,7 +87392,7 @@ Map:MAPMPnafaratdelta
 End
 
 Map:MAPMPnafaratdelta/Desc
-"The Nâfarat River journeys through the jungles of Nâfarat and Far Harad before it meets the Sea in a wide, marshy delta of many streams and islets. The dense surrounding jungle and long grasses are the home of much birdlife. \n Capturable: Inn, Dock \n Creeps: Karadd \n Region: Haradwaith"
+"The Nâfarat River journeys through the jungles of Nâfarat and Far Harad before it meets the Sea in a wide, marshy delta of many streams and islets. The dense surrounding jungle and long grasses are the home of much birdlife. \n Capturable: Inn, Dock \n Antres: Karadd \n Region: Haradwaith"
 End
 
 /////
@@ -87403,7 +87403,7 @@ Map:MAPMPnafaratriver
 End
 
 Map:MAPMPnafaratriver/Desc
-"Within the desert of Harad, the Nâfarat River is seen by many as a refuge from the burning sun. Those who have traveled there and lived to tell the tale, beg to differ. \n Capturable: Inn \n Creeps: Karadd \n Region: Haradwaith"
+"Within the desert of Harad, the Nâfarat River is seen by many as a refuge from the burning sun. Those who have traveled there and lived to tell the tale, beg to differ. \n Capturable: Inn \n Antres: Karadd \n Region: Haradwaith"
 End
 
 /////
@@ -87413,7 +87413,7 @@ Map:MAPMPnainenidh
 End
 
 Map:MAPMPnainenidh/Desc
-"Nain Enidh is Sindarin for 'Centre Valleys', a barren and hilly landscape along the Great East Road nearby Weathertop. \n Capturable: Signal Fire, Outpost \n Creeps: Warg \n Region: Arnor"
+"Nain Enidh is Sindarin for 'Centre Valleys', a barren and hilly landscape along the Great East Road nearby Weathertop. \n Capturable: Feu d'Alarme, Outpost \n Antres: Warg \n Region: Arnor"
 End
 
 /////
@@ -87423,7 +87423,7 @@ Map:MAPMPnancelebrant
 End
 
 Map:MAPMPnancelebrant/Desc
-"The Galadhrim keep watch over the river Celebrant, ensuring no incursions beyond the misty waters and into the southern woodlands of Lórien.\n Creeps: Goblin \n Region: Rhovanion"
+"The Galadhrim keep watch over the river Celebrant, ensuring no incursions beyond the misty waters and into the southern woodlands of Lórien.\n Antres: Goblin \n Region: Rhovanion"
 End
 
 /////
@@ -87433,7 +87433,7 @@ Map:MAPMPnantornaeth
 End
 
 Map:MAPMPnantornaeth/Desc
-"Nan Tornaeth is an area near the Trollshaws in Eriador, home to deep gorges and towering cliffs. There are many strange ruins around this area, a reminder of the destruction and the last remnants of the Kingdom of Rhudaur. \n Capturable: Signal Fire, Outpost, Inn \n Creeps: Hill Troll \n Region: Eriador"
+"Nan Tornaeth is an area near the Trollshaws in Eriador, home to deep gorges and towering cliffs. There are many strange ruins around this area, a reminder of the destruction and the last remnants of the Kingdom of Rhudaur. \n Capturable: Feu d'Alarme, Outpost, Inn \n Antres: Hill Troll \n Region: Eriador"
 End
 
 /////
@@ -87443,7 +87443,7 @@ Map:MAPMPnearharad
 End
 
 Map:MAPMPnearharad/Desc
-"An inhospitable region to the south of Gondor and Mordor, beyond the River Harnen. The Haradrim that inhabit the land are long-standing enemies of Gondor. \n Capturable: Inn \n Creeps: Scorpion \n Region: Haradwaith"
+"An inhospitable region to the south of Gondor and Mordor, beyond the River Harnen. The Haradrim that inhabit the land are long-standing enemies of Gondor. \n Capturable: Inn \n Antres: Scorpion \n Region: Haradwaith"
 End
 
 /////
@@ -87453,7 +87453,7 @@ Map:MAPMPnimrodel
 End
 
 Map:MAPMPnimrodel/Desc
-"A river of Lothlórien, the Nimrodel flows down from the Misty Mountains before joining the Silverlode. Its waters are said to heal weariness. \n Capturable: Inn \n Creeps: Goblin \n Region: Rhovanion"
+"A river of Lothlórien, the Nimrodel flows down from the Misty Mountains before joining the Silverlode. Its waters are said to heal weariness. \n Capturable: Inn \n Antres: Goblin \n Region: Rhovanion"
 End
 
 /////
@@ -87463,7 +87463,7 @@ Map:MAPMPnindalf
 End
 
 Map:MAPMPnindalf/Desc
-"A marshland at the mouth of the Entwash, the Nindalf is a wide region of fens making up the southern portion of the Dead Marshes. \n Creeps: Barrow Wight, Goblin \n Region: Gondor"
+"A marshland at the mouth of the Entwash, the Nindalf is a wide region of fens making up the southern portion of the Dead Marshes. \n Antres: Barrow Wight, Goblin \n Region: Gondor"
 End
 
 /////
@@ -87473,7 +87473,7 @@ Map:MAPMPnorthdowns
 End
 
 Map:MAPMPnorthdowns/Desc
-"A range of rolling foothills east of the hills of Evendim and north of the Weather Hills. Other than the Dúnedain, the North Downs remain uninhabited. \n Capturable: Signal Fire, Inn \n Creeps: Hill Troll \n Region: Arnor"
+"A range of rolling foothills east of the hills of Evendim and north of the Weather Hills. Other than the Dúnedain, the North Downs remain uninhabited. \n Capturable: Feu d'Alarme, Inn \n Antres: Hill Troll \n Region: Arnor"
 End
 
 /////
@@ -87483,7 +87483,7 @@ Map:MAPMPnorthundeep
 End
 
 Map:MAPMPnorthundeep/Desc
-"The Undeeps were two bends in the Anduin between the Wold and Brown Lands. The shallow regions offered a great crossing point for armies. \n Creeps: Goblin \n Capturable: Outpost, Inn \n Region: Rhovanion"
+"The Undeeps were two bends in the Anduin between the Wold and Brown Lands. The shallow regions offered a great crossing point for armies. \n Antres: Goblin \n Capturable: Outpost, Inn \n Region: Rhovanion"
 End
 
 /////
@@ -87493,7 +87493,7 @@ Map:MAPMPnorthernithilien
 End
 
 Map:MAPMPnorthernithilien/Desc
-"The northern lands of Gondor, where Faramir first encountered Frodo and Sam, on their journey to Mordor.\n Capturable: Inn \n Creeps: Cave Troll, Goblin \n Region: Gondor"
+"The northern lands of Gondor, where Faramir first encountered Frodo and Sam, on their journey to Mordor.\n Capturable: Inn \n Antres: Cave Troll, Goblin \n Region: Gondor"
 End
 
 /////
@@ -87503,7 +87503,7 @@ Map:MAPMPnorthtarn
 End
 
 Map:MAPMPnorthtarn/Desc
-"This icy lake north of the Misty Mountains offers an unpredictable route through the frozen plains of Forodwaith. \n Capturable: Inn \n Creeps: Snow Troll, Goblin \n Region: Forodwaith"
+"This icy lake north of the Misty Mountains offers an unpredictable route through the frozen plains of Forodwaith. \n Capturable: Inn \n Antres: Snow Troll, Goblin \n Region: Forodwaith"
 End
 
 /////
@@ -87513,7 +87513,7 @@ Map:MAPMPnurn
 End
 
 Map:MAPMPnurn/Desc
-"These southern fertile lands of Mordor surround the great inland Sea of Núrnen. \n Capturable: Signal Fire, Inn \n Creeps: Goblin \n Region: Mordor"
+"These southern fertile lands of Mordor surround the great inland Sea of Núrnen. \n Capturable: Feu d'Alarme, Inn \n Antres: Goblin \n Region: Mordor"
 End
 
 /////
@@ -87523,7 +87523,7 @@ Map:MAPMPofstipel
 End
 
 Map:MAPMPofstipel/Desc
-"Overgrown ruins are all that remain of the fortress and tower that once guarded this river crossing of the Anduin vale. \n Creeps: Barrow Wights, Wargs \n Capturable: Inn \n Region: Rhovanion"
+"Overgrown ruins are all that remain of the fortress and tower that once guarded this river crossing of the Anduin vale. \n Antres: Barrow Wights, Ouargues \n Capturable: Inn \n Region: Rhovanion"
 End
 
 
@@ -87534,7 +87534,7 @@ Map:MAPMPoldbrownlands
 End
 
 Map:MAPMPoldbrownlands/Desc
-"The Brown Lands are a vast region east of the Anduin, between Mirkwood and the Emyn Muil. The area was once home to the Entwives, but they were driven away when Sauron blighted the land in defense of Mordor during the War of the Last Alliance in the Second Age. \n Creeps: Goblin \n Region: Rhovanion"
+"The Brown Lands are a vast region east of the Anduin, between Mirkwood and the Emyn Muil. The area was once home to the Entwives, but they were driven away when Sauron blighted the land in defense of Mordor during the War of the Last Alliance in the Second Age. \n Antres: Goblin \n Region: Rhovanion"
 End
 
 /////
@@ -87544,7 +87544,7 @@ Map:MAPMPoldfordofanduin
 End
 
 Map:MAPMPoldfordofanduin/Desc
-"The Anduin flows south between the Misty Mountains and Mirkwood. The Old Forest Road leads from the High Pass and crosses the river at the Old Ford of Anduin.  \n Capturable: Outpost \n Creeps: Goblin \n Region: Rhovanion"
+"The Anduin flows south between the Misty Mountains and Mirkwood. The Old Forest Road leads from the High Pass and crosses the river at the Old Ford of Anduin.  \n Capturable: Outpost \n Antres: Goblin \n Region: Rhovanion"
 End
 
 /////
@@ -87554,7 +87554,7 @@ Map:MAPMPoldforestroad
 End
 
 Map:MAPMPoldforestroad/Desc
-"The Old Forest Road traverses Mirkwood, from the High Pass to the River Running on the eastern side of the forest. Bilbo Baggins and a company of dwarves once travelled this way. \n Creeps: Spider \n Region: Rhovanion"
+"The Old Forest Road traverses Mirkwood, from the High Pass to the River Running on the eastern side of the forest. Bilbo Baggins and a company of dwarves once travelled this way. \n Antres: Spider \n Region: Rhovanion"
 End
 
 /////
@@ -87564,7 +87564,7 @@ Map:MAPMPorocarni
 End
 
 Map:MAPMPorocarni/Desc
-"The Orocarni, also known as the Red Mountains, are a mountain range in the distant and mysterious north-east of Middle-earth, first raised by the Valar during early ages in the forming of the world. \n Capturable: Inn \n Creeps: Cave Troll \n Region: Rhûn"
+"The Orocarni, also known as the Red Mountains, are a mountain range in the distant and mysterious north-east of Middle-earth, first raised by the Valar during early ages in the forming of the world. \n Capturable: Inn \n Antres: Cave Troll \n Region: Rhûn"
 End
 
 /////
@@ -87594,7 +87594,7 @@ Map:MAPMPpitsofisengard
 End
 
 Map:MAPMPpitsofisengard/Desc
-"Isengard is scarred by many deep pits, delved into the earth for the breeding of Uruk-hai and Wargs, and forging weapons of war. \n Capturable: Work Pit \n Creeps: Warg \n Region: Rohan"
+"Isengard is scarred by many deep pits, delved into the earth for the breeding of Uruk-hai and Ouargues, and forging weapons of war. \n Capturable: Work Pit \n Antres: Warg \n Region: Rohan"
 End
 
 /////
@@ -87604,7 +87604,7 @@ Map:MAPMPplainsofgorgoroth
 End
 
 Map:MAPMPplainsofgorgoroth/Desc
-"A barren wasteland surrounding Mount Doom. An inhospitable land marred with pits, ash, and poisonous fumes. \n Creeps: Goblin \n Region: Mordor"
+"A barren wasteland surrounding Mount Doom. An inhospitable land marred with pits, ash, and poisonous fumes. \n Antres: Goblin \n Region: Mordor"
 End
 
 /////
@@ -87614,7 +87614,7 @@ Map:MAPMPreddesertofkahir
 End
 
 Map:MAPMPreddesertofkahir/Desc
-"Outlandish rock formations emerge from the otherwise barren desert landscape of the Red Desert of Kâhir, located deep within the little-known region of Haradwaith. \n Capturable: Signal Fire, Inn \n Creeps: Great Scorpion \n Region: Haradwaith"
+"Outlandish rock formations emerge from the otherwise barren desert landscape of the Red Desert of Kâhir, located deep within the little-known region of Haradwaith. \n Capturable: Feu d'Alarme, Inn \n Antres: Great Scorpion \n Region: Haradwaith"
 End
 
 /////
@@ -87624,7 +87624,7 @@ Map:MAPMPredhornpass
 End
 
 Map:MAPMPredhornpass/Desc
-"Caradhras is the tallest peak of the Misty Mountains, under which realm of Khazad-dûm was built. \n Capturable: Signal Fire, Inn \n Creeps: Snow Troll, Goblin \n Region: Misty Mountains"
+"Caradhras is the tallest peak of the Misty Mountains, under which realm of Khazad-dûm was built. \n Capturable: Feu d'Alarme, Inn \n Antres: Snow Troll, Goblin \n Region: Misty Mountains"
 End
 
 /////
@@ -87634,7 +87634,7 @@ Map:MAPMPregnfells
 End
 
 Map:MAPMPregnfells/Desc
-"Many seasonal streams course through this rocky valley in the Dunnish foothills, once spring arrives and winter snows begin to melt.\n Creeps: Warg \n Region: Enedwaith"
+"Many seasonal streams course through this rocky valley in the Dunnish foothills, once spring arrives and winter snows begin to melt.\n Antres: Warg \n Region: Enedwaith"
 End
 
 /////
@@ -87644,7 +87644,7 @@ Map:MAPMPrhosgobel
 End
 
 Map:MAPMPrhosgobel/Desc
-"Rhosgobel is the home of Radagast the Brown, and is located between the Carrock and the Old Forest Road on Mirkwood's western borders. \n Capturable: Inn \n Creeps: Spider \n Region: Rhovanion"
+"Rhosgobel is the home of Radagast the Brown, and is located between the Carrock and the Old Forest Road on Mirkwood's western borders. \n Capturable: Inn \n Antres: Spider \n Region: Rhovanion"
 End
 
 
@@ -87655,7 +87655,7 @@ Map:MAPMPrhovaniontraderoute
 End
 
 Map:MAPMPrhovaniontraderoute/Desc
-"One of the old trading routes connecting the realm of Rhovanion with the eastern lands of Dorwinion and Rhûn. \n Capturable: Signal Fire, Outpost \n Creeps: Warg \n Region: Rhovanion"
+"One of the old trading routes connecting the realm of Rhovanion with the eastern lands of Dorwinion and Rhûn. \n Capturable: Feu d'Alarme, Outpost \n Antres: Warg \n Region: Rhovanion"
 End
 
 /////
@@ -87665,7 +87665,7 @@ Map:MAPMPrhudaur
 End
 
 Map:MAPMPrhudaur/Desc
-"Rhudaur was the smallest of the three kingdoms that originated from the breaking of the kingdom of Arnor and was later held by Angmar, until its eventual defeat at the Battle of Fornost. \n Capturable: Inn \n Creeps: Hill Troll \n Region: Eriador"
+"Rhudaur was the smallest of the three kingdoms that originated from the breaking of the kingdom of Arnor and was later held by Angmar, until its eventual defeat at the Battle of Fornost. \n Capturable: Inn \n Antres: Hill Troll \n Region: Eriador"
 End
 
 /////
@@ -87676,7 +87676,7 @@ Map:MAPMPrivendell
 End
 
 Map:MAPMPrivendell/Desc
-"Rivendell is the hidden sanctuary for the Elves of Eriador. The centrepiece of this city is the House of Elrond. \n Capturable: Inn \n Creeps: Warg \n Region: Eriador"
+"Rivendell is the hidden sanctuary for the Elves of Eriador. The centrepiece of this city is the House of Elrond. \n Capturable: Inn \n Antres: Warg \n Region: Eriador"
 End
 
 /////
@@ -87686,7 +87686,7 @@ Map:MAPMPriverisen
 End
 
 Map:MAPMPriverisen/Desc
-"The river Isen passes between Isengard and Helm's Deep. Many travellers journeying to and from the Gap of Rohan cross the mighty river at this shallow point. \n Capturable: Inn \n Creeps: Cave Troll, Warg \n Region: Rohan"
+"The river Isen passes between Isengard and Helm's Deep. Many travellers journeying to and from the Gap of Rohan cross the mighty river at this shallow point. \n Capturable: Inn \n Antres: Cave Troll, Warg \n Region: Rohan"
 End
 
 /////
@@ -87697,7 +87697,7 @@ Map:MAPMPriversernui
 End
 
 Map:MAPMPriversernui/Desc
-"The River Sernui, or Serni, is a short river in southern Gondor; rising beneath the White Mountains and flowing southwest through Lebennin. Its name comes from the Sindarin 'sarn', referring to its stony riverbed. \n Creeps: Warg, Goblin \n Region: Gondor"
+"The River Sernui, or Serni, is a short river in southern Gondor; rising beneath the White Mountains and flowing southwest through Lebennin. Its name comes from the Sindarin 'sarn', referring to its stony riverbed. \n Antres: Warg, Goblin \n Region: Gondor"
 End
 
 /////
@@ -87707,7 +87707,7 @@ Map:MAPMProhan
 End
 
 Map:MAPMProhan/Desc
-"Rohan is the kingdom and territory of the Rohirrim, a people of herdsmen and farmers. Well-known for their horses and cavalry, they are Gondor's most important ally. \n Capturable: Inn \n Creeps: Warg \n Region: Rohan"
+"Rohan is the kingdom and territory of the Rohirrim, a people of herdsmen and farmers. Well-known for their horses and cavalry, they are Gondor's most important ally. \n Capturable: Inn \n Antres: Warg \n Region: Rohan"
 End
 
 /////
@@ -87717,7 +87717,7 @@ Map:MAPMPruinsofbelegost
 End
 
 Map:MAPMPruinsofbelegost/Desc
-"Once a mighty fortress during the First Age, broken ramparts and deep crevasses are all that remain of the ruined halls of Belegost. It has long been forgotten, lost amongst the snowy peaks of the Ered Luin. \n Creeps: Warg, Snow Troll \n Region: Lindon"
+"Once a mighty fortress during the First Age, broken ramparts and deep crevasses are all that remain of the ruined halls of Belegost. It has long been forgotten, lost amongst the snowy peaks of the Ered Luin. \n Antres: Warg, Snow Troll \n Region: Lindon"
 End
 
 /////
@@ -87728,7 +87728,7 @@ Map:MAPMPruinsofcarndum
 End
 
 Map:MAPMPruinsofcarndum/Desc
-"Once great fortress of the Witch-king of Angmar, Carn Dûm is now a ruin overtaken by wilderness and inhabited only by scattered bands of goblins. \n Capturable: Outpost, Inn \n Creeps: Goblin, Barrow Wight \n Region: Misty Mountains"
+"Once great fortress of the Witch-king of Angmar, Carn Dûm is now a ruin overtaken by wilderness and inhabited only by scattered bands of goblins. \n Capturable: Outpost, Inn \n Antres: Goblin, Barrow Wight \n Region: Misty Mountains"
 End
 
 /////
@@ -87738,7 +87738,7 @@ Map:MAPMPruinsoflindon
 End
 
 Map:MAPMPruinsoflindon/Desc
-"These ancient ruins of the Noldor lie deep within the old forests of Lindon, left abandoned in the turmoil of Ages past and long since forgotten. \n Capturable: Well, Signal Fire, Outpost \n Creeps: Barrow Wight, Warg \n Region: Lindon"
+"These ancient ruins of the Noldor lie deep within the old forests of Lindon, left abandoned in the turmoil of Ages past and long since forgotten. \n Capturable: Well, Feu d'Alarme, Outpost \n Antres: Barrow Wight, Warg \n Region: Lindon"
 
 End
 
@@ -87751,7 +87751,7 @@ Map:mapmpruinsofost-in-edhil
 End
 
 Map:mapmpruinsofost-in-edhil/Desc
-"Stony pillars and stony cliffs now sing quietly of the ruin of Ost-in-Edhil, once great fortress of the Noldor. Long ago, Celebrimbor dwelt here, and alongside Annatar, forged the rings of power. \n Capturable: Signal Fire, Inn \n Creeps: Spider \n Region: Eriador"
+"Stony pillars and stony cliffs now sing quietly of the ruin of Ost-in-Edhil, once great fortress of the Noldor. Long ago, Celebrimbor dwelt here, and alongside Annatar, forged the rings of power. \n Capturable: Feu d'Alarme, Inn \n Antres: Spider \n Region: Eriador"
 End
 
 
@@ -87762,7 +87762,7 @@ Map:MAPMPsarikhgorge
 End
 
 Map:MAPMPsarikhgorge/Desc
-"Treacherous canyon bridges and tamed Mûmakil have enabled hardy nomadic tribes to forge a perilous existence at the top of these steep rocky mesas, which punctuate the arid landscape of southern Far Harad. \n Capturable: Outpost\n Creeps: Hill Troll, Warg\n Region: Haradwaith"
+"Treacherous canyon bridges and tamed Mûmakil have enabled hardy nomadic tribes to forge a perilous existence at the top of these steep rocky mesas, which punctuate the arid landscape of southern Far Harad. \n Capturable: Outpost\n Antres: Hill Troll, Warg\n Region: Haradwaith"
 End
 
 /////
@@ -87773,7 +87773,7 @@ Map:MAPMPsandsofazkahar
 End
 
 Map:MAPMPsandsofazkahar/Desc
-"Ancient structures still linger within the vast Azkâhar Desert surrounding Abrakhân in distant Far Harad. Their relics are now lost to desert beasts and an ocean of sand beneath the unrelenting sun.\n Capturable: Signal Fire \n Creeps: Great Scorpion, Scorpion \n Hazards: Desert Wind, Dehydration \n Region: Haradwaith"
+"Ancient structures still linger within the vast Azkâhar Desert surrounding Abrakhân in distant Far Harad. Their relics are now lost to desert beasts and an ocean of sand beneath the unrelenting sun.\n Capturable: Feu d'Alarme \n Antres: Great Scorpion, Scorpion \n Hazards: Desert Wind, Dehydration \n Region: Haradwaith"
 End
 
 /////
@@ -87783,7 +87783,7 @@ Map:MAPMPsarnford
 End
 
 Map:MAPMPsarnford/Desc
-"This stone ford on the Brandywine marks the entrance to the southfarthing of the Shire, guarded by the watchful eyes of the Dúnedain that protect the Smallfolk from any harm. \n Capturable: Signal Fire \n Creeps: Warg \n Region: Arnor"
+"This stone ford on the Brandywine marks the entrance to the southfarthing of the Shire, guarded by the watchful eyes of the Dúnedain that protect the Smallfolk from any harm. \n Capturable: Feu d'Alarme \n Antres: Warg \n Region: Arnor"
 End
 
 /////
@@ -87793,7 +87793,7 @@ Map:MAPMPseaofnurnen
 End
 
 Map:MAPMPseaofnurnen/Desc
-"The Sea of Núrnen is a large inland lake in southeast Mordor. Fed by rivers flowing from the Ephel Dúath and Ash Mountains, it separates the volcanic plateau of Gorgoroth from the fertile plains of Núrn. \n Capturable: Dock, Inn \n Creeps: Cave Troll \n Region: Mordor"
+"The Sea of Núrnen is a large inland lake in southeast Mordor. Fed by rivers flowing from the Ephel Dúath and Ash Mountains, it separates the volcanic plateau of Gorgoroth from the fertile plains of Núrn. \n Capturable: Dock, Inn \n Antres: Cave Troll \n Region: Mordor"
 End
 
 
@@ -87815,7 +87815,7 @@ Map:MAPMPsecondhall
 End
 
 Map:MAPMPsecondhall/Desc
-"The ancient realm of Khazad-dûm was built during the First Age, but has fallen into decay and darkness. Within its dark chambers lies the Second Hall, and the Bridge of Khazad-dûm over a vast chasm. \n Capturable: Outpost \n Creeps: Cave Troll, Goblin \n Region: Misty Mountains"
+"The ancient realm of Khazad-dûm was built during the First Age, but has fallen into decay and darkness. Within its dark chambers lies the Second Hall, and the Bridge of Khazad-dûm over a vast chasm. \n Capturable: Outpost \n Antres: Cave Troll, Goblin \n Region: Misty Mountains"
 End
 
 /////
@@ -87825,7 +87825,7 @@ Map:MAPMPseventhdeep
 End
 
 Map:MAPMPseventhdeep/Desc
-"Vast untold chasms reach deep beneath the ancient halls of the Seventh Deep, the lowest of Khazad-dûm's fourteen levels. \n Capturable: Outpost \n Creeps: Cave Troll, Goblin \n Region: Misty Mountains"
+"Vast untold chasms reach deep beneath the ancient halls of the Seventh Deep, the lowest of Khazad-dûm's fourteen levels. \n Capturable: Outpost \n Antres: Cave Troll, Goblin \n Region: Misty Mountains"
 End
 
 /////
@@ -87845,7 +87845,7 @@ Map:MAPMPsilvertinelodes
 End
 
 Map:MAPMPsilvertinelodes/Desc
-"Beneath the shivering peak of the Silvertine lies the abundant wealth of Moria. Not gold, or jewels, but lodes of Mithril and other precious ores. \n Capturable: Outpost \n Creeps: Cave Troll, Goblin \n Region: Misty Mountains"
+"Beneath the shivering peak of the Silvertine lies the abundant wealth of Moria. Not gold, or jewels, but lodes of Mithril and other precious ores. \n Capturable: Outpost \n Antres: Cave Troll, Goblin \n Region: Misty Mountains"
 End
 
 /////
@@ -87855,7 +87855,7 @@ Map:MAPMPslavefieldsofnurn
 End
 
 Map:MAPMPslavefieldsofnurn/Desc
-"Inhabited by those enslaved by Mordor, the fertile lands of Núrn are fertile enough to feed Sauron's endless hordes. Covered in fields of grain, the soil is enriched by ash from Orodruin and watered by the Sea of Núrnen. \n Creeps: Warg \n Capturable: Inn \n Region: Mordor"
+"Inhabited by those enslaved by Mordor, the fertile lands of Núrn are fertile enough to feed Sauron's endless hordes. Covered in fields of grain, the soil is enriched by ash from Orodruin and watered by the Sea of Núrnen. \n Antres: Warg \n Capturable: Inn \n Region: Mordor"
 End
 
 /////
@@ -87865,7 +87865,7 @@ Map:MAPMPsnowbourn
 End
 
 Map:MAPMPsnowbourn/Desc
-"This river in Rohan begins under the Starkhorn in the White Mountains and flows north, before turning past Edoras to meet the River Entwash. \n Capturable: Inn \n Creeps: Cave Troll, Goblin \n Region: Rohan"
+"This river in Rohan begins under the Starkhorn in the White Mountains and flows north, before turning past Edoras to meet the River Entwash. \n Capturable: Inn \n Antres: Cave Troll, Goblin \n Region: Rohan"
 End
 
 
@@ -87876,7 +87876,7 @@ Map:MAPMPsouthrhun
 End
 
 Map:MAPMPsouthrhun/Desc
-"Little is known of the vast lands to the east of Rhovanion, south of the great Sea of Rhûn. \n Capturable: Inn \n Creeps: Warg \n Region: Rhûn"
+"Little is known of the vast lands to the east of Rhovanion, south of the great Sea of Rhûn. \n Capturable: Inn \n Antres: Warg \n Region: Rhûn"
 End
 
 /////
@@ -87886,7 +87886,7 @@ Map:MAPMPsouthundeep
 End
 
 Map:MAPMPsouthundeep/Desc
-"Beyond Lórien the Anduin shallows and its course swings out into two wide westward loops, the Undeeps. \n Capturable: Signal Fire, Outpost, Inn \n Creeps: Goblin, Spider \n Region: Rhovanion"
+"Beyond Lórien the Anduin shallows and its course swings out into two wide westward loops, the Undeeps. \n Capturable: Feu d'Alarme, Outpost, Inn \n Antres: Goblin, Spider \n Region: Rhovanion"
 End
 
 /////
@@ -87896,7 +87896,7 @@ Map:MAPMPsouthernithilien
 End
 
 Map:MAPMPsouthernithilien/Desc
-"These fertile, wooded lands in southern Gondor are guarded by Ithilien Rangers led by their captain, Faramir. \n Capturable: Inn \n Creeps: Goblin \n Region: Gondor"
+"These fertile, wooded lands in southern Gondor are guarded by Ithilien Rangers led by their captain, Faramir. \n Capturable: Inn \n Antres: Goblin \n Region: Gondor"
 End
 
 /////
@@ -87907,7 +87907,7 @@ Map:MAPMPspringofcelduin
 End
 
 Map:MAPMPspringofcelduin/Desc
-"Vast corridors lie between the Great Chamber of Thrór and the Front Gate of Erebor. From a dark chasm in the rock springs the River Running. \n Capturable: Hearth, Statue \n Creeps: Rowdy Tub-dwarves \n Region: Erebor"
+"Vast corridors lie between the Great Chamber of Thrór and the Front Gate of Erebor. From a dark chasm in the rock springs the River Running. \n Capturable: Hearth, Statue \n Antres: Rowdy Tub-dwarves \n Region: Erebor"
 End
 
 /////
@@ -87918,7 +87918,7 @@ Map:MAPMPspookyisen
 End
 
 Map:MAPMPspookyisen/Desc
-"Mr Bones stands before you...\n Bones a-rattling, skull a-clattering, spine a-shivering, ribs a-rustling, pelvis a-thrusting... \n 'It's time', he says. 'Time to show me what you got!' \n Mr Bones' Spooktacular Cup 2021 \n Capturable: Inn \n Creeps: Cave Troll, Warg \n Region: Rhovanion"
+"Mr Bones stands before you...\n Bones a-rattling, skull a-clattering, spine a-shivering, ribs a-rustling, pelvis a-thrusting... \n 'It's time', he says. 'Time to show me what you got!' \n Mr Bones' Spooktacular Cup 2021 \n Capturable: Inn \n Antres: Cave Troll, Warg \n Region: Rhovanion"
 End
 
 /////
@@ -87929,7 +87929,7 @@ Map:MAPMPsteppesofsarakhax
 End
 
 Map:MAPMPsteppesofsarakhax/Desc
-"In the distant east of Rhûn, the rising sun bathes the endless swaying grasslands of the 'Golden Fields' in gentle morning light. The vast steppes are inhabited by hardy folk who have forged a nomadic existence amongst the rolling plains. \n Capturable: Signal Fire \n Region: Rhûn"
+"In the distant east of Rhûn, the rising sun bathes the endless swaying grasslands of the 'Golden Fields' in gentle morning light. The vast steppes are inhabited by hardy folk who have forged a nomadic existence amongst the rolling plains. \n Capturable: Feu d'Alarme \n Region: Rhûn"
 End
 
 /////
@@ -87939,7 +87939,7 @@ Map:MAPMPstonemere
 End
 
 Map:MAPMPstonemere/Desc
-"Treacherous paths lead through the stony outcrops and rough moors of the Stonemere, a highland to the east of the Trollshaws dotted with rocks, shrubs, and trees. \n Creeps: Hill Troll, Stone Troll \n Region: Eriador"
+"Treacherous paths lead through the stony outcrops and rough moors of the Stonemere, a highland to the east of the Trollshaws dotted with rocks, shrubs, and trees. \n Antres: Hill Troll, Stone Troll \n Region: Eriador"
 End
 
 /////
@@ -87959,7 +87959,7 @@ Map:MAPMPsummerhall
 End
 
 Map:MAPMPsummerhall/Desc
-"Frumgar Frumgarsson, Chieftain of the Éothéod, has earned both glory and great hoard throughout the lands of Rhovanion. So too shall glory await the winner of this great tournament! \n Frumgar's Finest Midsummer Cup 2022 \n Capturable: Inn \n Creeps: Hill Troll, Barrow Wight \n Region: Rhovanion"
+"Frumgar Frumgarsson, Chieftain of the Éothéod, has earned both glory and great hoard throughout the lands of Rhovanion. So too shall glory await the winner of this great tournament! \n Frumgar's Finest Midsummer Cup 2022 \n Capturable: Inn \n Antres: Hill Troll, Barrow Wight \n Region: Rhovanion"
 End
 
 /////
@@ -87970,7 +87970,7 @@ Map:MAPMPswanfleet
 End
 
 Map:MAPMPswanfleet/Desc
-"The Swanfleet is an inland delta in eastern Eriador through which the lower reaches of the Glanduin flow, before joining the Hoarwell. The area is known for its countless bevies of swans. \n Capturable: Signal Fire, Inn \n Region: Eriador"
+"The Swanfleet is an inland delta in eastern Eriador through which the lower reaches of the Glanduin flow, before joining the Hoarwell. The area is known for its countless bevies of swans. \n Capturable: Feu d'Alarme, Inn \n Region: Eriador"
 End
 
 /////
@@ -87980,7 +87980,7 @@ Map:MAPMPtalathanor
 End
 
 Map:MAPMPtalathanor/Desc
-"The plains of Talath Anor lie beyond the Rammas Echor, the outer wall that surrounds the Pelennor Fields.  \n Capturable: Signal Fire, Outpost \n Creeps: Warg, Goblin \n Region: Gondor"
+"The plains of Talath Anor lie beyond the Rammas Echor, the outer wall that surrounds the Pelennor Fields.  \n Capturable: Feu d'Alarme, Outpost \n Antres: Warg, Goblin \n Region: Gondor"
 End
 
 /////
@@ -87990,7 +87990,7 @@ Map:MAPMPtargulquarry
 End
 
 Map:MAPMPtargulquarry/Desc
-"A large deep pit carved into the hills that lie between the dwarven kingdoms of Erebor and the Iron Hills. \n Capturable: Signal Fire, Inn \n Creeps: Goblin \n Region: Erebor"
+"A large deep pit carved into the hills that lie between the dwarven kingdoms of Erebor and the Iron Hills. \n Capturable: Feu d'Alarme, Inn \n Antres: Goblin \n Region: Erebor"
 End
 
 /////
@@ -88000,7 +88000,7 @@ Map:MAPMPtarlangsneck
 End
 
 Map:MAPMPtarlangsneck/Desc
-"A local Gondorian legend tells of a giant named Tarlang who tripped and broke his neck. His body became a part of the land, forming the pass of Tarlang's Neck. \n Capturable: Inn \n Creeps: Warg, Goblin \n Region: Gondor"
+"A local Gondorian legend tells of a giant named Tarlang who tripped and broke his neck. His body became a part of the land, forming the pass of Tarlang's Neck. \n Capturable: Inn \n Antres: Warg, Goblin \n Region: Gondor"
 End
 
 /////
@@ -88010,7 +88010,7 @@ Map:MAPMPtarnost
 End
 
 Map:MAPMPtarnost/Desc
-"These grassy foothills lie south of the River Ringló in Gondor, between the river Gilrain to the east and Dol Amroth to the west. \n Capturable: Inn \n Creeps: Hill Troll, Warg \n Region: Gondor"
+"These grassy foothills lie south of the River Ringló in Gondor, between the river Gilrain to the east and Dol Amroth to the west. \n Capturable: Inn \n Antres: Hill Troll, Warg \n Region: Gondor"
 End
 
 /////
@@ -88020,7 +88020,7 @@ Map:MAPMPtaurenmorvith
 End
 
 Map:MAPMPtaurenmorvith/Desc
-"The serene 'Forest of Mist' dwells deep within the borders of Thranduil's realm. Many Silvan elves make their homes here. \n Capturable: Signal Fire, Inn \n Creeps: Spider \n Hazards: Fog \n Region: Rhovanion"
+"The serene 'Forest of Mist' dwells deep within the borders of Thranduil's realm. Many Silvan elves make their homes here. \n Capturable: Feu d'Alarme, Inn \n Antres: Spider \n Hazards: Fog \n Region: Rhovanion"
 End
 
 /////
@@ -88041,7 +88041,7 @@ Map:MAPMPtaurenungolath
 End
 
 Map:MAPMPtaurenungolath/Desc
-"Amongst the deepest, darkest glades of Mirkwood lurks the 'Forest of Spiders', the lair of Saenathra and her many children. \n Capturable: Signal Fire, Inn \n Creeps: Spider \n Region: Rhovanion"
+"Amongst the deepest, darkest glades of Mirkwood lurks the 'Forest of Spiders', the lair of Saenathra and her many children. \n Capturable: Feu d'Alarme, Inn \n Antres: Spider \n Region: Rhovanion"
 End
 
 /////
@@ -88051,7 +88051,7 @@ Map:MAPMPtaurnafaroth
 End
 
 Map:MAPMPtaurnafaroth/Desc
-"The 'Forest of Hunters' in Sindarin, a sacred hunting ground often frequented by the Wood-elves of the Woodland Realm. \n Creeps: Goblin, Spider \n Region: Rhovanion"
+"The 'Forest of Hunters' in Sindarin, a sacred hunting ground often frequented by the Wood-elves of the Woodland Realm. \n Antres: Goblin, Spider \n Region: Rhovanion"
 End
 
 /////
@@ -88073,7 +88073,7 @@ Map:MAPMPtempleofkarna
 End
 
 Map:MAPMPtempleofkarna/Desc
-"The Nâfarati whisper of a sunken temple deep in the jungle and a nameless evil within. Fiercely guarded by the Watchers the ruins remain quiet, seemingly appeased by a mysterious Horn and by human sacrifice cast into the shadowy depths. \n Capturable: Horn of Kârna, Inn \n Creeps: Watchers of Kârna \n Region: Haradwaith"
+"The Nâfarati whisper of a sunken temple deep in the jungle and a nameless evil within. Fiercely guarded by the Watchers the ruins remain quiet, seemingly appeased by a mysterious Horn and by human sacrifice cast into the shadowy depths. \n Capturable: Horn of Kârna, Inn \n Antres: Watchers of Kârna \n Region: Haradwaith"
 End
 
 
@@ -88085,7 +88085,7 @@ Map:MAPMPtharbad
 End
 
 Map:MAPMPtharbad/Desc
-"The Old South Road passes through the ruined city of Tharbad. Desolate and long abandoned, its only crossing point is a dangerous ford formed by the ruins of its once great bridge. \n Capturable: Signal Fire, Inn \n Creeps: Goblin \n Region: Eriador"
+"The Old South Road passes through the ruined city of Tharbad. Desolate and long abandoned, its only crossing point is a dangerous ford formed by the ruins of its once great bridge. \n Capturable: Feu d'Alarme, Inn \n Antres: Goblin \n Region: Eriador"
 End
 
 /////
@@ -88095,7 +88095,7 @@ Map:MAPMPtheenchantedstream
 End
 
 Map:MAPMPtheenchantedstream/Desc
-"The Enchanted Stream runs north from the Mountains of Mirkwood. It was crossed by Thorin's Company, but not before the stream lay its curse on Bombur, sending him into a deep sleep. \n Capturable: Inn \n Creeps: Spider, Goblin \n Region: Rhovanion"
+"The Enchanted Stream runs north from the Mountains of Mirkwood. It was crossed by Thorin's Company, but not before the stream lay its curse on Bombur, sending him into a deep sleep. \n Capturable: Inn \n Antres: Spider, Goblin \n Region: Rhovanion"
 End
 
 /////
@@ -88105,7 +88105,7 @@ Map:MAPMPthefolde
 End
 
 Map:MAPMPthefolde/Desc
-"The Folde is an ancient and historic region of Rohan, close to the capital of Edoras, and originally home to the King's seat at the town of Aldburg. It is the ancestral homeland of Rohan's royal line. \n Capturable: Inn \n Creeps: Warg \n Region: Rohan"
+"The Folde is an ancient and historic region of Rohan, close to the capital of Edoras, and originally home to the King's seat at the town of Aldburg. It is the ancestral homeland of Rohan's royal line. \n Capturable: Inn \n Antres: Warg \n Region: Rohan"
 End
 
 /////
@@ -88116,7 +88116,7 @@ Map:MAPMPtheoldforest
 End
 
 Map:MAPMPtheoldforest/Desc
-"One of the few remnants of vast ancient forests that once covered Eriador before the Second Age. Angered by long ages of felling and destruction, the forest is known to ensnare unwary travellers. \n Capturable: Inn \n Creeps: Barrow Wight, Spider \n Region: Arnor"
+"One of the few remnants of vast ancient forests that once covered Eriador before the Second Age. Angered by long ages of felling and destruction, the forest is known to ensnare unwary travellers. \n Capturable: Inn \n Antres: Barrow Wight, Spider \n Region: Arnor"
 End
 
 /////
@@ -88126,7 +88126,7 @@ Map:MAPMPthewold
 End
 
 Map:MAPMPthewold/Desc
-"The Wold is the northernmost and least populated part of Rohan, a grassy upland plain lying between Fangorn and the Anduin. Its hardy and nomadic inhabitants use the land to graze cattle. \n Capturable: Inn \n Creeps: Warg \n Region: Rhovanion"
+"The Wold is the northernmost and least populated part of Rohan, a grassy upland plain lying between Fangorn and the Anduin. Its hardy and nomadic inhabitants use the land to graze cattle. \n Capturable: Inn \n Antres: Warg \n Region: Rhovanion"
 End
 
 /////
@@ -88137,7 +88137,7 @@ Map:MAPMPtolfalas
 End
 
 Map:MAPMPtolfalas/Desc
-"A large island in the Bay of Belfalas beyond the mouth of Anduin. Its sharp southern cape has traditionally been considered as the southernmost point of Gondor. \n Capturable: Signal Fire, Inn, Dock \n Region: Gondor"
+"A large island in the Bay of Belfalas beyond the mouth of Anduin. Its sharp southern cape has traditionally been considered as the southernmost point of Gondor. \n Capturable: Feu d'Alarme, Inn, Dock \n Region: Gondor"
 End
 
 /////
@@ -88158,7 +88158,7 @@ Map:MAPMPtombsofabrakhan
 End
 
 Map:MAPMPtombsofabrakhan/Desc
-"The sprawling grave site of the rulers of Abrakhân has long been buried under sand and forgotten... until the recent return of an ancient evil unearthed its secrets. \n Capturable: Signal Fire, Outpost \n Creeps: Great Scorpion, Scorpion \n Region: Haradwaith"
+"The sprawling grave site of the rulers of Abrakhân has long been buried under sand and forgotten... until the recent return of an ancient evil unearthed its secrets. \n Capturable: Feu d'Alarme, Outpost \n Antres: Great Scorpion, Scorpion \n Region: Haradwaith"
 End
 
 /////
@@ -88168,7 +88168,7 @@ Map:MAPMPtowerhills
 End
 
 Map:MAPMPtowerhills/Desc
-"A range of hills in west Eriador, home to three tall Elven towers, the White Towers. The highest of these is named Elostirion, which houses a palantír. \n Capturable: Signal Fire, Inn \n Creeps: Goblin \n Region: Lindon"
+"A range of hills in west Eriador, home to three tall Elven towers, the White Towers. The highest of these is named Elostirion, which houses a palantír. \n Capturable: Feu d'Alarme, Inn \n Antres: Goblin \n Region: Lindon"
 End
 
 /////
@@ -88178,7 +88178,7 @@ Map:MAPMPtrollshaws
 End
 
 Map:MAPMPtrollshaws/Desc
-"The Trollshaws are the upland woods that lie west of Rivendell, between the Rivers Hoarwell and Loudwater. In the wild hills are found shallow caves, wild trolls, and scattered ruins. \n Capturable: Signal Fire \n Creeps: Stone Troll, Goblin \n Region: Eriador"
+"The Trollshaws are the upland woods that lie west of Rivendell, between the Rivers Hoarwell and Loudwater. In the wild hills are found shallow caves, wild trolls, and scattered ruins. \n Capturable: Feu d'Alarme \n Antres: Stone Troll, Goblin \n Region: Eriador"
 End
 
 /////
@@ -88199,7 +88199,7 @@ Map:MAPMPtulima
 End
 
 Map:MAPMPtulima/Desc
-"Beyond the northern borders of Eriador stretches the vast rocky tundra of Tûli-mâ, or 'Windy Land' in the native Lossoth tongue. Glacial streams course through this hilly area, home to large herds of migrating wildlife. \n Creeps: Warg \n Region: Forodwaith"
+"Beyond the northern borders of Eriador stretches the vast rocky tundra of Tûli-mâ, or 'Windy Land' in the native Lossoth tongue. Glacial streams course through this hilly area, home to large herds of migrating wildlife. \n Antres: Warg \n Region: Forodwaith"
 End
 
 /////
@@ -88210,7 +88210,7 @@ Map:MAPMPudun
 End
 
 Map:MAPMPudun/Desc
-"The lands behind the Black Gate known as Udûn take the name of the underworld due to the volcanic ash and noxious fumes that cover them. \n Capturable: Signal Fire \n Hazards: Poisonous Funes \n Region: Mordor"
+"The lands behind the Black Gate known as Udûn take the name of the underworld due to the volcanic ash and noxious fumes that cover them. \n Capturable: Feu d'Alarme \n Hazards: Poisonous Funes \n Region: Mordor"
 End
 
 /////
@@ -88220,7 +88220,7 @@ Map:MAPMPultala
 End
 
 Map:MAPMPultala/Desc
-"The rolling hills of Ul-tâla, the 'Great Steppe', lie to the far east in distant Rhûn. These flowering grasslands are largely uninhabited save for fortified outposts that guard strategic trade routes and nearby nomadic tribes. \n Creeps: Warg \n Region: Rhûn"
+"The rolling hills of Ul-tâla, the 'Great Steppe', lie to the far east in distant Rhûn. These flowering grasslands are largely uninhabited save for fortified outposts that guard strategic trade routes and nearby nomadic tribes. \n Antres: Warg \n Region: Rhûn"
 End
 
 
@@ -88231,7 +88231,7 @@ Map:MAPMPumbarcove
 End
 
 Map:MAPMPumbarcove/Desc
-"The coastline of Umbar contains many sheltered coves and bays that offer haven from exiles and enemies of the realm of Gondor. \n Capturable: Signal Fire, Dock, Inn \n Creeps: Goblin, Corsair \n Region: Haradwaith"
+"The coastline of Umbar contains many sheltered coves and bays that offer haven from exiles and enemies of the realm of Gondor. \n Capturable: Feu d'Alarme, Dock, Inn \n Antres: Goblin, Corsair \n Region: Haradwaith"
 End
 
 /////
@@ -88241,7 +88241,7 @@ Map:MAPMPvalesofcelduin
 End
 
 Map:MAPMPvalesofcelduin/Desc
-"The Celduin runs south from Erebor, connecting Thranduil's kingdom with the northmen of Dale and Esgaroth, and the realms to the south. \n Capturable: Inn \n Creeps: Warg, Goblin \n Region: Erebor"
+"The Celduin runs south from Erebor, connecting Thranduil's kingdom with the northmen of Dale and Esgaroth, and the realms to the south. \n Capturable: Inn \n Antres: Warg, Goblin \n Region: Erebor"
 End
 
 /////
@@ -88251,7 +88251,7 @@ Map:MAPMPwallsofmoria
 End
 
 Map:MAPMPwallsofmoria/Desc
-"The Doors of Durin are hidden within the surface of the Walls of Moria, the sheer cliffs at the base of the Misty Mountains. Its secret doorway was crafted by the smiths of Khazad-dûm and Eregion. \n Creeps: Goblin \n Hazards: Watcher \n Region: Misty Mountains"
+"The Doors of Durin are hidden within the surface of the Walls of Moria, the sheer cliffs at the base of the Misty Mountains. Its secret doorway was crafted by the smiths of Khazad-dûm and Eregion. \n Antres: Goblin \n Hazards: Watcher \n Region: Misty Mountains"
 End
 
 /////
@@ -88261,7 +88261,7 @@ Map:MAPMPweathertop
 End
 
 Map:MAPMPweathertop/Desc
-"The ancient tower of Amon Sûl once held one of the palantíri of Arnor. Destroyed by the forces of the Witch-king of Angmar long ago, now all that remains is a ring of broken stonework. \n Capturable: Signal Fire, Inn \n Creeps: Stone Troll \n Region: Arnor"
+"The ancient tower of Amon Sûl once held one of the palantíri of Arnor. Destroyed by the forces of the Witch-king of Angmar long ago, now all that remains is a ring of broken stonework. \n Capturable: Feu d'Alarme, Inn \n Antres: Stone Troll \n Region: Arnor"
 End
 
 /////
@@ -88271,7 +88271,7 @@ Map:MAPMPwestemnet
 End
 
 Map:MAPMPwestemnet/Desc
-"The westernmost grasslands of Rohan beyond the Entwash. The most important of Rohan's fortifications lie to the south, where the White Mountains rise from the surrounding plains. \n Capturable: Signal Fire, Inn \n Creeps: Cave Troll, Warg \n Region: Rohan"
+"The westernmost grasslands of Rohan beyond the Entwash. The most important of Rohan's fortifications lie to the south, where the White Mountains rise from the surrounding plains. \n Capturable: Feu d'Alarme, Inn \n Antres: Cave Troll, Warg \n Region: Rohan"
 End
 
 /////
@@ -88281,7 +88281,7 @@ Map:MAPMPwestfold
 End
 
 Map:MAPMPwestfold/Desc
-"The western part of Rohan between the river Isen and the Folde. Following the second Battle of the Fords of Isen, Erkenbrand's forces were scattered and Saruman's host marched through the Westfold towards Helm's Deep. \n Capturable: Signal Fire, Inn \n Creeps: Warg, Goblin \n Region: Rohan"
+"The western part of Rohan between the river Isen and the Folde. Following the second Battle of the Fords of Isen, Erkenbrand's forces were scattered and Saruman's host marched through the Westfold towards Helm's Deep. \n Capturable: Feu d'Alarme, Inn \n Antres: Warg, Goblin \n Region: Rohan"
 End
 
 /////
@@ -88291,7 +88291,7 @@ Map:MAPMPwestmarch
 End
 
 Map:MAPMPwestmarch/Desc
-"A land of meadows and rises, between the Tower Hills and the Shire. \n Capturable: Signal Fire, Inn \n Creeps: Stone Troll \n Region: Arnor"
+"A land of meadows and rises, between the Tower Hills and the Shire. \n Capturable: Feu d'Alarme, Inn \n Antres: Stone Troll \n Region: Arnor"
 End
 
 /////
@@ -88301,7 +88301,7 @@ Map:MAPMPwhitcleft
 End
 
 Map:MAPMPwhitcleft/Desc
-"This narrow cleft in the Misty Mountains is a treacherous mountain pass, now occupied by a handful of goblins. \n Capturable: Inn \n Creeps: Goblin \n Region: Misty Mountains"
+"This narrow cleft in the Misty Mountains is a treacherous mountain pass, now occupied by a handful of goblins. \n Capturable: Inn \n Antres: Goblin \n Region: Misty Mountains"
 End
 
 /////
@@ -88311,7 +88311,7 @@ Map:MAPMPwhitemountainpass
 End
 
 Map:MAPMPwhitemountainpass/Desc
-"One of the few passes that lead through the White Mountains, this small valley is inhabited only by the hardiest of mountain folk and wild creatures. \n Capturable: Signal Fire \n Creeps: Stone Troll, Wolf \n Region: Gondor"
+"One of the few passes that lead through the White Mountains, this small valley is inhabited only by the hardiest of mountain folk and wild creatures. \n Capturable: Feu d'Alarme \n Antres: Stone Troll, Wolf \n Region: Gondor"
 End
 
 /////
@@ -88321,7 +88321,7 @@ Map:MAPMPwhitepillar
 End
 
 Map:MAPMPwhitepillar/Desc
-"The White Pillar once stood upon the coastline overlooking Umbar, a monument to the landing of the Númenórean fleet and humbling of Sauron during the Second Age. It was later cast down during Sauron's dominion over Umbar. \n Capturable: Inn, Dock \n Creeps: Warg \n Region: Haradwaith"
+"The White Pillar once stood upon the coastline overlooking Umbar, a monument to the landing of the Númenórean fleet and humbling of Sauron during the Second Age. It was later cast down during Sauron's dominion over Umbar. \n Capturable: Inn, Dock \n Antres: Warg \n Region: Haradwaith"
 End
 
 /////
@@ -88331,7 +88331,7 @@ Map:MAPMPwildsofforochel
 End
 
 Map:MAPMPwildsofforochel/Desc
-"This wild and icy region of Forochel is sparsely inhabited by hardy Lossoth ice-fishing tribes that dwell beside its large frozen lakes. \n Capturable: Signal Fire \n Creeps: Warg \n Region: Forodwaith"
+"This wild and icy region of Forochel is sparsely inhabited by hardy Lossoth ice-fishing tribes that dwell beside its large frozen lakes. \n Capturable: Feu d'Alarme \n Antres: Warg \n Region: Forodwaith"
 End
 
 /////
@@ -88341,7 +88341,7 @@ Map:MAPMPwitheredheath
 End
 
 Map:MAPMPwitheredheath/Desc
-"A long narrow valley between the eastern ranges of the Grey Mountains forms this burned and desolate heath, the breeding-ground of dragons and lesser wyrms. \n Capturable: Signal Fire, Inn \n Creeps: Fire Drake, Goblin \n Region: Misty Mountains"
+"A long narrow valley between the eastern ranges of the Grey Mountains forms this burned and desolate heath, the breeding-ground of dragons and lesser wyrms. \n Capturable: Feu d'Alarme, Inn \n Antres: Fire Drake, Goblin \n Region: Misty Mountains"
 End
 
 /////
@@ -88351,7 +88351,7 @@ Map:MAPMPwoodsedge
 End
 
 Map:MAPMPwoodsedge/Desc
-"The Woodsedge is an area in the central part of the Vales of Anduin, south of the Beorning-lands and bordered by the Anduin, home to scattered wild folk. \n Capturable: Signal Fire, Inn \n Creeps: Warg \n Region: Rhovanion"
+"The Woodsedge is an area in the central part of the Vales of Anduin, south of the Beorning-lands and bordered by the Anduin, home to scattered wild folk. \n Capturable: Feu d'Alarme, Auberge \n Antres: Warg \n Region: Rhovanion"
 End
 
 
@@ -88424,7 +88424,7 @@ LW:DisplayNameBree
 End
 
 Map:MAPWORBree/Desc
-"Bree is a village of Men and Hobbits, east of the Shire and south of Fornost in Eriador. Home to the Prancing Pony Inn, the town offeres shelter for many travellers as they travel the Great East Road. \n Subregion: Bree-land (+10% Def) \n Region: Arnor (50% Hero Discount)"
+"Bree is a village of Men and Hobbits, east of the Shire and south of Fornost in Eriador. Home to the Prancing Pony Auberge, the town offeres shelter for many travellers as they travel the Great East Road. \n Subregion: Bree-land (+10% Def) \n Region: Arnor (50% Hero Discount)"
 End
 
 
@@ -89018,7 +89018,7 @@ LW:DisplayNameAnfalas
 End
 
 Map:MAPWORAnfalas/Desc
-"The western coastal region of Gondor south of Pinnath Gelin. During the War of the Ring, Lord Golasgil led a force from Anfalas to the Battle of the Pelennor Fields. \n Subregion: Southern Gondor (+10% Res,+15 PP,+10% Atk)  \n Region: Gondor (+5 PP,+5% Def, -50% Hero Discount)"
+"The western coastal region of Gondor south of PAubergeath Gelin. During the War of the Ring, Lord Golasgil led a force from Anfalas to the Battle of the Pelennor Fields. \n Subregion: Southern Gondor (+10% Res,+15 PP,+10% Atk)  \n Region: Gondor (+5 PP,+5% Def, -50% Hero Discount)"
 End
 
 
@@ -89986,7 +89986,7 @@ LW:DisplayNameMirkwood
 End
 
 Map:MAPWORMirkwood/Desc
-"At the beginning of the Third Age Thranduil replaced Oropher as king of the Woodland Realm. The arrival of the Necromancer has caused a darkening of Greenwood, now known as Mirkwood. \n Subregion: Woodland Realm (+5 PP,+5% Atk,+5% Def) \n Region: Rhovanion (+10 PP,+5% Exp,-100 Unit Discount) "
+"At the begAubergeing of the Third Age Thranduil replaced Oropher as king of the Woodland Realm. The arrival of the Necromancer has caused a darkening of Greenwood, now known as Mirkwood. \n Subregion: Woodland Realm (+5 PP,+5% Atk,+5% Def) \n Region: Rhovanion (+10 PP,+5% Exp,-100 Unit Discount) "
 End
 
 
