@@ -91180,15 +91180,15 @@ End
 /////
 
 Map:MAPWORFoundationsofStone
-"Foundations of Stone"
+"Fondations de Pierre"
 End
 
 LW:DisplayNameFoundations
-"Foundations of Stone"
+"Fondations de Pierre"
 End
 
 Map:MAPWORFoundationsofStone/Desc
-"The deepest routes that lie beneath the Misty Mountains lead through vast and strange chasms made of twisted stones, shadowy waters, and the dark mountain abyss. \n Subregion: High Pass (+5 PP)  \n Region: Misty Mountains (+5 PP,+5% Def,-200 Building Discount) "
+"Les routes les plus profondes se trouvant sous les Monts Brumeux mènent à travers de vastes et étranges gouffres faits de pierres tordues, d'eaux sombres et de l'abîme sombre de la montagne. \n Sous-Région: Haut Col (+5 PP)  \n Region: Monts Brumeux (+5 PP,+5% Def,-200 Remise sur les bâtiments) "
 End
 
 /////
@@ -91202,7 +91202,7 @@ LW:DisplayNameSilvertine
 End
 
 Map:MAPWORSilvertine/Desc
-"Beneath the Silvertine lies the abundant wealth of Moria, where seams of Mithril and other precious ores run deep beneath the Misty Mountains, under which realm of Khazad-dûm was built. \n Subregion: Moria (+10% Res,+5 PP)  \n Region: Misty Mountains (+5 PP,+5% Def,-200 Building Discount) "
+"Sous le Silvertine se trouve les richesses abondantes de la Moria, où des filons de Mithril et d'autres minerais précieux courent profondément sous les Montagnes Brumeuses, sous lesquelles le royaume de Khazad-dûm a été érigé. \n Sous-Région: Moria (+10% Res,+5 PP)  \n Region: Monts Brumeux (+5 PP,+5% Def,-200 Remise sur les bâtiments) "
 End
 
 
@@ -91212,283 +91212,283 @@ End
 ///////////////////////////
 
 SCRIPT:1Newintro0
-"In T.A. 2989. Óin and a company of Dwarves lay siege to the Dimrill Dale ..."
+"En 2989 du Tiers Age. Óin et une compagnie de Nains assiègent la Vallée des Rigoles Sombres..."
 End
 
 SCRIPT:1Newintro1
-"... They were the precedents to a great expedition, led by Balin, who had set out with a Dwarf-host from Erebor ..."
+"... Ils ont précédé une grande expédition menée par Balin, qui était parti d'Erebor avec un groupe de nains..."
 End
 
 SCRIPT:1Newintro2
-"... To reclaim Khazad-dûm, the ancient halls of their ancestors ..."
+"... Pour reconquérir Khazad-dûm, les anciennes salles de leurs ancêtres..."
 End
 
 SCRIPT:1Newintro3
-"... Ere Durin's Bane had been unleashed from its deep slumber ..."
+"... Avant que le fléau de Durin ne sorte de son profond sommeil..."
 End
 
 SCRIPT:1Newintro4
-"Balin: Óin is in need of a hand! We must make haste and clear them out from the dale!"
+"Balin: Óin a besoin d'un coup de main ! Nous devons nous hâter de les chasser du vallon!"
 End
 
 SCRIPT:1Newintro5
-"Balin: Onwards, Dwarves! To victory, in Thorin's name! For Dáin! For Erebor!"
+"Balin: En avant, Nains ! Vers la victoire, au nom de Thorin ! Pour Dáin ! Pour Erebor !"
 End
 
 SCRIPT:1OBJECTIVE0
-"Slay Muzgash."
+"Abattre Muzgash."
 End
 
 SCRIPT:1OBJECTIVE2
-"Reclaim the East Gate"
+"Reconquérir la porte de l'Est"
 End
 
 SCRIPT:1OBJECTIVE3
-"Reclaim The Kingdom of Khazad-dûm"
+"Reconquérir le royaume de Khazad-dûm"
 End
 
 SCRIPT:1OBJECTIVE6
-"Defend Khazad-dûm"
+"Defendre Khazad-dûm"
 End
 
 SCRIPT:1OBJECTIVE5
-"Scavenge and Reclaim the Western Mines"
+"Récupérer les mines de l'Ouest"
 End
 
 SCRIPT:1OBJECTIVE4
-"Find the two Keys to open the Gate"
+"Trouvez les deux clés pour ouvrir la porte"
 End
 
 SCRIPT:1OBJECTIVE45
-"Defend the Dwarven base against the Orcish counterattack"
+"Défendre la base naine contre la contre-attaque orque"
 End
 
 SCRIPT:1OBJECTIVEBONUS1
-"Capture the Beacon"
+"Capturer le Feu d'Alarme"
 End
 
 SCRIPT:1OBJECTIVE_INTERFACE2
-"Orcish structures remaining:"
+"Structures orques restantes:"
 End
 
 SCRIPT:1OBJECTIVE_INTERFACE3
-"Keys Found:"
+"Clés trouvées:"
 End
 
 SCRIPT:1OBJECTIVE_INTERFACE4
-"Relics Found:"
+"Reliques trouvées:"
 End
 
 SCRIPT:RELICFOUND1
-"There in the rubble, a truesilver helmet was found!"
+"Dans les décombres, un casque en argent véritable a été trouvé !"
 End
 
 SCRIPT:RELICFOUND2
-"Within these barrels of weapons, the mighty axe of Durin was found!"
+"Dans ces barils d'armes, la puissante hache de Durin a été trouvée !"
 End
 
 SCRIPT:1OBJREMINDERVET
-"All Heroes must survive the reclamation of the Dwarrowdelf, or all will be lost."
+"Tous les héros doivent survivre à la reconquête du Royaume, ou tout sera perdu."
 End
 
 SCRIPT:SAVEPLYR
-"We recommend saving often to avoid losing progress during this long mission which contains several acts and cinematic sequences. You may experience memory crashes due to its length."
+"Nous vous recommandons de sauvegarder souvent pour éviter de perdre votre progression au cours de cette longue mission qui comporte plusieurs actes et séquences cinématiques. La longueur de la mission peut entraîner des pannes de mémoire."
 End
 
 SCRIPT:1nNOACCESS
-"We must first clear the rest of the enemy forces from the dale before we aid Óin, or our flank will be unprotected!"
+"Nous devons d'abord éliminer le reste des forces ennemies du vallon avant d'aider Óin, sinon notre flanc ne sera pas protégé !"
 End
 
 SCRIPT:1nACCESS
-"An opening in the skirmish, aid Óin before he is overwhelmed!"
+"Une ouverture dans l'escarmouche, aidez Óin avant qu'il ne soit submergé !"
 End
 
 SCRIPT:1nOINRESCUE
-"Óin: Come on cousin! Let us remove this fiend from the Gate of Durin!"
+"Óin : Allez cousin ! Éloignons ce démon de la porte de Durin !"
 End
 
 SCRIPT:1BALININTROEND
-"Balin: That should be the last of them! The Dimrill Gate has been reclaimed! This is but the first of many victories that await us."
+"Balin : Ce devrait être le dernier ! La porte des Rigoles Sombres a été reconquise ! Ce n'est que la première des nombreuses victoires qui nous attendent."
 End
 
 SCRIPT:1INTROVER1
-"Balin has reclaimed the Dimrill Gate for Erebor! But his story has just begun ..."
+"Balin a récupéré la porte des Rigoles Sombres pour Erebor ! Mais son histoire ne fait que commencer..."
 End
 
 SCRIPT:1INTROVER2
-"... Into the black pit of Moria we must go to rekindle the great braziers of our folk, and reclaim what was lost."
+"... Nous devons aller dans la fosse noire de la Moria pour rallumer les grands brasiers de notre peuple et reconquérir ce qui a été perdu."
 End
 
 SCRIPT:1ACT2OIN1
-"Óin: We have secured the First Hall! Now we will take back our ancient Kingdom and slay the foul enemy within!"
+"Óin : Nous avons sécurisé la Première Salle ! Nous allons maintenant reprendre notre ancien royaume et tuer l'immonde ennemi qui s'y trouve !"
 End
 
 SCRIPT:1MORIADIAL2
-"Balin: Stay alert. These dark halls might be home to more than just orcs..."
+"Balin : Restez vigilants. Ces sombres couloirs pourraient abriter bien plus que des orcs..."
 End
 
 SCRIPT:1MORIADIAL3
-"Óin: Let's settle down here for now and gather strength. We will send word to Dáin once we have secured a point of defence."
+"Óin : Installons-nous ici pour l'instant et prenons des forces. Nous enverrons un message à Dáin une fois que nous aurons sécurisé un point de défense."
 End
 
 SCRIPT:1MORIADIAL4
-"Balin: The gate is locked tight. We must find a Key to open it and continue onwards."
+"Balin : La porte est bien fermée. Nous devons trouver une clé pour l'ouvrir et continuer."
 End
 
 SCRIPT:1MORIAKEY1
-"Balin: The Chamber of Records is locked. There should be a key to enter within."
+"Balin : La chambre des archives est fermée. Il devrait y avoir une clé pour entrer à l'intérieur."
 End
 
 SCRIPT:1MORIACHAMBERUNSURE
-"Óin: The Chamber smells foul, there must be goblins inside."
+"Óin : La chambre sent mauvais, il doit y avoir des gobelins à l'intérieur."
 End
 
 SCRIPT:1MORIAKEY2
-"Balin: This key does not fit the keyhole of this gate. We must find another."
+"Balin : Cette clé n'entre pas dans le trou de cette porte. Nous devons en trouver une autre."
 End
 
 SCRIPT:1MORIADIAL5
-"Balin: Keep your blades to hand! \n Do you hear it?"
+"Balin : Gardez vos lames à portée de main ! \n Vous entendez ?"
 End
 
 SCRIPT:1MORIADIAL6
-"Balin: Goblins! They mean to ambush us!"
+"Balin : Gobelins ! Ils veulent nous tendre une embuscade !"
 End
 
 SCRIPT:1MORIADIAL7
-"Dwarf: By my dear mother's beard! \n What do we do!?"
+"Nain : Par la barbe de ma chère mère ! \Qu'est-ce qu'on fait ?"
 End
 
 SCRIPT:1MORIADIAL8
-"Balin: Steady! We will not be driven out so easily!"
+"Balin : Du calme ! Nous ne nous laisserons pas chasser si facilement !"
 End
 
 SCRIPT:1MORIADIAL9
-"Balin: Drums! If it is to be war, then let us be ferocious! Teach them who the true masters of these hills are!"
+"Balin : Les tambours ! Si c'est la guerre, soyons féroces ! Apprenez-leur qui sont les vrais maîtres de ces collines !"
 End
 
 SCRIPT:1MORIADIAL10
-"Dwarf: That will teach them! None may stand before the Longbeards of Erebor, the Heirs of Oakenshield!"
+"Nain : Cela leur apprendra ! Personne ne peut se tenir devant les Longues Barbes d'Erebor, les héritiers d'Ecu de Chêne!"
 End
 
 SCRIPT:1MORIAMINESDIAL2
-"Dwarf: Whatever lurks beneath these waters, we must keep going!"
+"Nain : Quoi qu'il se cache sous ces eaux, nous devons continuer !"
 End
 
 SCRIPT:1MORIAMINESE2DIAL0
-"Óin: We cannot go on much further, cousin. Many are wounded. \n We must etablish a foothold now, so that in time we may venture further."
+"Óin : Nous ne pouvons pas aller plus loin, cousin. Beaucoup sont blessés. \n Nous devons mettre pied à terre maintenant, afin de pouvoir nous aventurer plus loin à l'avenir."
 End
 
 SCRIPT:1MORIAMINESE2DIAL1
-"Balin: Agreed. We will fortify ourselves within the Twenty-first Hall. You, Óin, are in charge of treating the wounded. \n Send word to King Dáin. He will be expecting a report."
+"Balin : D'accord. Nous allons nous remettre d'aplomb dans la vingt-et-unième salle. Toi, Óin, tu seras chargé de soigner les blessés. \Envoyez un message au roi Dáin. Il attendra un rapport."
 End
 
 SCRIPT:1MORIAMINESE2DIAL2
-"Colony: All hail Balin, son of Fundin! Lord of Khazad-dûm! \n Hurrah! Hurrah for Balin!"
+"Colonie : Tous saluent Balin, fils de Fundin ! Seigneur de Khazad-dûm ! \n Hourra ! Hourra pour Balin !"
 End
 
 SCRIPT:1PART3INTRO1
-"Soon afterwards The Dwarves recovered their strength and settled the Twenty-first Hall. \n Balin mustered his kin to begin clear out the western mines and halls of the vile orcish usurpers ..."
+"Peu après, les nains reprirent des forces et s'installèrent dans la vingt-et-unième salle. \n Balin rassembla ses proches pour commencer à nettoyer les mines et les salles de l'ouest des vils usurpateurs orques..."
 End
 
 SCRIPT:1PART3INTRO2
-"Many wondrous artifacts were recovered. The Dwarves of Balin's Colony donned the armour of their forebears, hard and tough like a dragon's hide. \n Scores of orcs were killed, cut down relentlessly by the fury of the Dwarves ..."
+"De nombreux artefacts merveilleux ont été récupérés. Les nains de la colonie de Balin revêtirent l'armure de leurs ancêtres, dure et résistante comme la peau d'un dragon. \n Des dizaines d'orcs ont été tués, abattus sans relâche par la fureur des nains..."
 End
 
 SCRIPT:1PART3INTRO3
-"Balin's Colony grew. The Dwarves began to venture deep within their ancient halls, driving the orcs before them wherever they were found... \n Until at last they reached the West-gate, known as the Doors of Durin ..."
+"La colonie de Balin s'agrandit. Les Nains commencèrent à s'aventurer dans les profondeurs de leurs anciennes salles, chassant les orcs devant eux partout où ils se trouvaient... \n Jusqu'à ce qu'ils atteignent enfin la porte Ouest, connue sous le nom de Portes de Durin..."
 End
 
 SCRIPT:1PART3INTRO4
-"The Lord of Moria discovered ancient treasures: Durin's Axe, and a truesilver helmet of untold age ..."
+"Le Seigneur de la Moria a découvert d'anciens trésors : la hache de Durin et un casque en argent véritable d'un âge incalculable..."
 End
 
 SCRIPT:1PART3INTRO5
-"Every find was catalogued in the Book of Mazarbul. For five years they fought and ventured, slowly gaining ground... \n Until, during the fifth year, their luck had run out."
+"Chaque découverte est répertoriée dans le Livre de Mazarbul. Pendant cinq ans, ils se sont battus et aventurés, gagnant lentement du terrain... \n Jusqu'à ce que, au cours de la cinquième année, la chance les abandonne."
 End
 
 SCRIPT:1PART3INTRO6
-"Lord Balin wrote a stack of letters, to be sent to Longbeard strongholds across Middle-earth:\n Khazad-dûm had been reclaimed, and would remain secure if more settlers were to arrive."
+"Le Seigneur Balin rédigea une pile de lettres à envoyer aux forteresses des Barbes Longues à travers la Terre du Milieu : \n Khazad-dûm avait été récupéré et resterait en sécurité si d'autres colons arrivaient."
 End
 
 SCRIPT:1PART3INTROEND
-"Ere he sent out this request, Balin traveled to the Mirrormere to quietly reflect upon his quest."
+"Avant d'envoyer cette demande, Balin s'est rendu au Lac du Miroir pour réfléchir tranquillement à sa quête."
 End
 
 SCRIPT:BALINMIRRORMERE
-"Balin: Ah ... the sun still shines in gold and silver upon the stones of the Dimrill Dale, as it did in the days of Durin..."
+"Balin : Ah ... le soleil brille toujours d'or et d'argent sur les pierres de la Vallées des Rigoles Sombres, comme il le faisait à l'époque de Durin..."
 End
 
 SCRIPT:1THEFALL0
-"He looked into the waters, saw Durin's Crown above ... \n And then he saw no more."
+"Il scruta les eaux, vit la couronne de Durin au-dessus ... \n Et puis plus rien."
 End
 
 SCRIPT:1THEFALL01
-"A lone goblin scout killed Balin with a single arrow. Balin, son of Fundin, was slain."
+"Un éclaireur gobelin solitaire tua Balin d'une seule flèche. Balin, fils de Fundin, trépassa."
 End
 
 SCRIPT:1THEFALL02
-"Nothing could be done. \n 'Leaderless!', the goblin scout reported. 'The Dwarves are leaderless!'"
+"Il n'y avait plus rien à faire. \n L'éclaireur gobelin déclara : "Sans chef ! Les nains sont sans chef !'"
 End
 
 SCRIPT:1THEFALL03
-"Soon an army of orcs appeared at the Dimrill Gate. There were many Trolls amongst their numbers. The assault upon Balin's Colony soon began ..."
+"Bientôt, une armée d'orcs apparut à la porte de la Vallée des Rigoles Sombres. Il y avait de nombreux trolls parmi eux. L'assaut contre la colonie de Balin commença sous peu..."
 End
 
 SCRIPT:1THEFALL04
-"The Dwarves, armed with steel and furious grief, resolved to avenge their lord \n Each Dwarf fought with the strength of three, and stopped the orcs in their tracks. But the orcs kept coming ..."
+"Les Nains, armés d'acier et fous de chagrin, décidèrent de venger leur seigneur. Chaque Nain se battit avec la force de trois, et arrêta les orcs dans leur course. Mais les orques continuèrent à affluer ..."
 End
 
 SCRIPT:1THEFALL05
-"The orcish horde breached the barricade and stormed the First Hall. Many Dwarves lay dead in their wake. \n Balin's corpse was recovered, and was set into a tomb in the Chamber of Mazarbul."
+"La horde orque a franchi la barricade et pris d'assaut la première salle. De nombreux nains sont morts dans leur sillage. \n Le corps de Balin fut retrouvé et placé dans un tombeau dans la Chambre de Mazarbul."
 End
 
 SCRIPT:1OINFALLBE1
-"Dwarf Officer: Óin, you have arrived in time! \n They have breached our defences! They are coming for us in great number!"
+"Officier nain : Óin, vous arrivez à temps ! \Ils ont franchi nos défenses ! Ils viennent vers nous en grand nombre !"
 End
 
 SCRIPT:1OINFALLBE2
-"Óin: This colony must not be lost! Khazâd ai-mênu!"
+"Óin : Cette colonie ne doit pas être perdue ! Khazâd ai-mênu !"
 End
 
 SCRIPT:1OINFALLBE3
-"Óin: We cannot hold them here! \n Fall back to the Chamber of Mazarbul!"
+"Óin : Nous ne pouvons pas les retenir ici ! \n Retournez à la Chambre de Mazarbul !"
 End
 
 SCRIPT:1OINFALLBE4
-"Ori: We will fortify the Chamber of Mazarbul and wait. Go swiftly Lord Óin!"
+"Ori : Nous allons fortifier la Chambre de Mazarbul et attendre. Allez vite Seigneur Óin !"
 End
 
 SCRIPT:BALROGNOTICE
-"Dwarf: It is Durin's Bane! It comes for us! Flee for your lives!"
+"Nain : C'est le Fléau de Durin ! Il vient pour nous ! Fuyez pour sauver vos vies !"
 End
 
 SCRIPT:1OINFALLOBJ1
-"Escape to the Chamber of Mazarbul"
+"S'échapper vers la Chambre de Mazarbul"
 End
 
 SCRIPT:1OINFALLDE1
-"Óin: The water... it has risen high in our absence..."
+"Óin : L'eau... elle est montée très haut en notre absence..."
 End
 
 SCRIPT:1OINFALLDE2
-"Dwarf Officer: Óin! There is movement in the water! Watch out!"
+"Officier nain : Óin ! Il y a du mouvement dans l'eau ! Attention !"
 End
 
 SCRIPT:1OINFALLDE3
-"Óin: Grasping arms! Death lies inside the waters! We cannot flee! We must slay this beast and find a way forward!"
+"Óin : Des bras qui s'agrippent ! La mort se trouve dans les eaux ! Nous ne pouvons pas fuir ! Nous devons tuer cette bête et trouver un moyen d'avancer !"
 End
 
 SCRIPT:1OINFALLDE4
-"Dwarf: No! It has slain Óin! we must flee back to the Chamber of Mazarbul! The end of days is upon us!"
+"Nain : Non ! Il a tué Óin ! Nous devons fuir vers la Chambre de Mazarbul ! La fin des temps est sur nous !"
 End
 
 SCRIPT:1ORICHAMBERFAL2
-"Dwarf: My lord Ori, the hammer of our doom has struck! Óin is dead!"
+"Nain : Mon seigneur Ori, le marteau de notre malheur a frappé ! Óin est mort !"
 End
 
 SCRIPT:THEENDCREDITS
-"In T.A. 2994, Balin's Colony was destroyed. No word reached Dáin Ironfoot.\n It would be yet another 30 years before the Company of the Ring passed through and discovered their fate..."
+"En l'an 2994, la colonie de Balin fut détruite. Aucune nouvelle ne parvint à Dáin Pied d'Acier. \n Il fallut attendre encore 30 ans avant que la Compagnie de l'Anneau ne passe par là et ne découvre leur sort...."
 End
 
 ///////////////
