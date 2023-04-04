@@ -80040,193 +80040,193 @@ CONTROLBAR:ToolTipGlisteningDown
 "L'Aicanaroc laisse périodiquement tomber des plumes scintillantes\nLes unités Haradwaith peuvent ramasser ces plumes pour gagner en permanence +25% de santé et une résistance à la peur et à la terreur.\nHabileté passive"
 END
 CONTROLBAR:SpecialAbilityAicanarocStun
-"Astonishing Plumage (&T)"
+"Stupéfiant Plumage (&T)"
 End
 CONTROLBAR:ToolTipSpecialAbilityAicanarocStun
-"Pins enemy hero in place for a short time\nLeft click icon then left click on target"
+"Immobilise le héros ennemi pendant une courte période.\nClic gauche sur l'icône puis clic gauche sur la cible"
 END
 CONTROLBAR:HighPriest
-"High Priest of Melkor"
+"Grand Prêtre de Melkor"
 END
 CONTROLBAR:ToolTipHighPriest
-"Modifier Type: Nullifier \n Nearby enemy units lose -50% armour, -15% movement speed\n and take damage over time\nPassive ability"
+"Modifier Type: Nullifier \n Les unités ennemies proches perdent -50% d'armure, -15% de vitesse de déplacement\n et subissent des dégâts au cours du temps\nHabileté passive"
 END
 CONTROLBAR:SacrificialRites
-"Sacrificial Rites (&R)"
+"Rites Sacrificiels (&R)"
 END
 CONTROLBAR:ToolTipSacrificialRites
-"Enemy units within the radius take damage over time for 30 seconds\nIf a unit dies, Zigûr receives +5% armour and damage for 8 seconds\nStacks up to 25% armour and damage\nLeft click icon then left click on target area"
+"Les unités ennemies situées dans le rayon subissent des dégâts sur la durée pendant 30 secondes.\nSi une unité meurt, Zigûr reçoit +5% d'armure et de dégâts pendant 8 secondes\nCumul possible jusqu'à 25 % d'armure et de dégâts\nClic gauche sur l'icône puis clic gauche sur la zone cible"
 END
 CONTROLBAR:FellWhispers
-"Fell Whispers (&T)"
+"Murmures insidieux (&T)"
 END
 CONTROLBAR:ToolTipFellWhispers
-"Causes targeted units and monsters to become hostile towards each other for 45 seconds\n Left click icon then left click on target area"
+"Les unités et les monstres ciblés deviennent hostiles les uns envers les autres pendant 45 secondes.\n Clic gauche sur l'icône puis clic gauche sur la zone cible"
 END
 CONTROLBAR:DreadTyrant
-"Dread Tyrant (&C)"
+"Tyran Effrayant (&C)"
 END
 CONTROLBAR:ToolTipDreadTyrant
-"Cancels all leadership effects across the map for 30 seconds\n Nearby allied and enemy units are frozen in fear for 5 seconds\nLeft click to activate"
+"Annule tous les effets de leadership sur la carte pendant 30 secondes.\n Les unités alliées et ennemies proches sont figées par la peur pendant 5 secondes.\nClic gauche pour activer"
 END
 CONTROLBAR:FirePillar
 "Pillar of Flames (&V)"
 END
 CONTROLBAR:TooltipFirePillar
-//"Targeted enemy units burst into flames \n Sets fire to surrounding terrain\n Left click icon then left click on target area"
-"Summons a controllable Fire Whirlwind \n The Whirlwind sucks in units and sets fire to surrounding terrain\n Left click icon then left click on target area"
+//"Les unités ennemies ciblés s'embrasent \n Incendie également le terrain alentour\n Clic gauche sur l'icône puis clic gauche sur la zone cible"
+"Invoque un tourbillon de feu contrôlable \n Le tourbillon aspire les unités et embrase le terrain environnant.\n Clic gauche sur l'icône puis clic gauche sur la zone cible"
 END
 OBJECT:FirePillarObject
-"Pillar of Flames"
+"Pillier de Flammes"
 END
 CONTROLBAR:LordofWaves
-"Lord of Waves"
+"Seigneur des Vagues"
 END
 CONTROLBAR:ToolTipLordofWaves
-"Modifier Type: Leadership \n Nearby Corsairs gain +33% armour and damage and +50% experience\nAt level 5, Burôdapân and nearby Corsairs earn resources per kill\nPassive ability"
+"Modifier Type: Leadership \n Les Corsaires proches gagnent +33% d'armure et de dégâts et +50% d'expérience.\nAu niveau 5, Burôdapân et les Corsaires proches gagnent des ressources à chaque meurtre.\nHabileté passive"
 END
 CONTROLBAR:TakeAllYouCan
-"Take All You Can (&R)"
+"Pillez tous azimuts (&R)"
 END
 CONTROLBAR:ToolTipDominateBurod
-"Requires Level 3 \n Takes control of single enemy battalion for 30 seconds\n Cannot be used on heroic units \n Left click icon then left click on target enemies"
+"Requiert niveau 3 \n Prend le contrôle d'un seul bataillon ennemi pendant 30 secondes\n Ne peut être utilisé sur les unités héroïques \n Clic gauche sur l'icône puis clic gauche sur les unités ennemies"
 END
 CONTROLBAR:SpecialAbilityGiveNothingBack
-"Give Nothing Back (&T)"
+"Ne rien donner en retour (&T)"
 END
 CONTROLBAR:ToolTipSpecialAbilityGiveNothingBack
-"Requires Level 6\nSet fire to selected area, dealing heavy damage to units and structures \n Left click icon then left click on target area"
+"Requiert niveau 6\nMet le feu à la zone sélectionnée, en infligeant de lourds dégâts aux unités et aux structures. \n Clic gauche sur l'icône puis clic gauche sur la zone cible"
 END
 CONTROLBAR:HornofKarna
-"Horn of Kârna (&V)"
+"Cor de Kârna (&V)"
 END
 CONTROLBAR:ToolTipHornofKarnaSummon
-"Requires Level 10\nBurôdapân summons the Horn of Kârna\nWhen sounded, the Horn invokes the Fury of the Deep, which causes nearby units to fight amongst themselves for 30 seconds\nHorn of Kârna is limited to 1\nLeft click icon then left click on target area"
+"Requiert niveau 10\nBurôdapân invoque le Cor de Kârna\nLorsqu'il retentit, le Cor invoque la fureur des profondeurs, qui pousse les unités voisines à se battre entre elles pendant 30 secondes.\nLe Cor de Karna est limité à 1 1\nClic gauche sur l'icône puis clic gauche sur la zone cible"
 END
 OBJECT:HornofKarna
-"Horn of Kârna"
+"Cor de Kârna"
 END
 OBJECT:HornofKarnaDescription
-"When sounded, the Horn invokes the Fury of the Deep, which causes nearby units to fight amongst themselves\nLimited to 1"
+"Lorsqu'il retentit, le Cor invoque la fureur des profondeurs, qui pousse les unités voisines à se battre entre elles\nLimité à 1"
 END
 CONTROLBAR:SoundHornofKarna
-"Sound the Horn of Kârna (&W)"
+"Sonnez le Cor de Karna (&W)"
 END
 CONTROLBAR:TooltipSoundHornofKarna
-"When sounded, the Horn invokes the Fury of the Deep, which causes nearby units to fight amongst themselves for 30 seconds\n Affects both enemy and allied units\n Left click, then left click on target area"
+"Lorsqu'il retentit, le Cor invoque la fureur des profondeurs, qui pousse les unités voisines à se battre entre elles pendant 30 seconds\n Affecte à la fois les unités alliées et ennemies\n Clic gauche puis clic gauche sur la zone cible"
 END
 CONTROLBAR:SoundHornofKarnaShip
-"Sound the Horn of Kârna (&T)"
+"Sonnez le Cor de Karna (&T)"
 END
 CONTROLBAR:TooltipSoundHornofKarnaShip
-"When sounded, the Horn invokes the Fury of the Deep\n Affects both enemy and allied ships\n Left click, then left click on target ships"
+"Lorsqu'il retentit, le Cor invoque la fureur des profondeurs\n Affecte à la fois les bateaux alliés et ennemis\n Clic gauche puis clic gauche sur le bateau cible"
 END
 OBJECT:KarnaMonster
 "Fury of the Deep"
 END
 CONTROLBAR:WateryGraves
-"Watery Graves (&C)"
+"Sépultures Aquatiques (&C)"
 END
 CONTROLBAR:ToolTipWateryGraves
-"Requires Level 8\nDeals significant damage over time to structures for 15 seconds \n Can be cast from a large distance \n Left click icon then left click on target"
+"Requiert niveau 8\nInflige des dégâts importants sur la durée aux structures pendant 15 secondes \n Peut être lancé à grande distance \n Clic gauche puis clic gauche sur la cible"
 END
 CONTROLBAR:LordofStones
-"Lord of Stones (&W)"
+"Seigneur des Pierres (&W)"
 END
 CONTROLBAR:ToolTipLordofStones
-"Modifier Type: Leadership\nNearby Black Númenórean units gain +33% armour and damage and +50% experience\nPassive ability\n\n Requires Level 8\nModifier Type: Spell\n All nearby friendly units +50% armour for 30 seconds\nLeft click to activate"
+"Modifier Type: Leadership\nLes Numénoréens Noirs proches gagnent +33% d'armure et de dégâts et +50% d'expérience.\nHabileté passive\n\n Requiert nivau 8\nModifier Type: Sort\n Toutes les unités alliés proches +50% d'armure pendant 30 secondes\nClic gauche pour activer"
 END
 CONTROLBAR:RuleoftheKingsMen
-"Rule of the King's Men (&T)"
+"Règle des Hommes du Roi (&T)"
 END
 CONTROLBAR:TooltipRuleoftheKingsMen
-"Requires Level 3\nCâssimir plants the Banner of the King's Men\nNearby units gain resistance to fear, terror and knockback\n Nearby battalions will replenish fallen units\nBanner lasts for 60 seconds\nLeft click to activate"
+"Requiert niveau 3\nCâssimir plante la bannière des Hommes du Roi\nLes unités proches gagnent une résistance à la peur, à la terreur et au renversement.\n Les bataillons voisins reconstituent les unités tombées au combat\nLa bannière reste en place 60 secondes\nClic gauche pour activer"
 END
 OBJECT:CassmirsBanner
-"Banner of the King's Men"
+"Bannière des Hommes du Roi"
 END
 OBJECT:SuladanBanner
-"Banner of the Black Serpent"
+"Bannière du Serpent Noir"
 END
 CONTROLBAR:ColdJudgement
-"Cold Judgement (&C)"
+"Jugement glacé (&C)"
 END
 CONTROLBAR:ToolTipColdJudgement
-"Requires Level 5 \n Enemy units within the radius are stunned for 5 seconds and have -33% armour for 10 seconds\n Left click icon then left click on target"
+"Requiert niveau 5 \n Les unités ennemies dans le rayon sont étourdies pendant 5 secondes et perdent -33% d'armure pendant 10 secondes.\n Clic gauche sur l'icône puis clic gauche sur la cible"
 END
 CONTROLBAR:HewerofRanks
-"Hewer of Ranks (&V)"
+"Bête noire des hauts gradés (&V)"
 END
 CONTROLBAR:ToolTipHewerofRanks
-"Required: Rank 10 \n Câssimir knocks down and pins target hero for 15 seconds\n Normal units are knocked down and damaged \n Subsequently, Câssimir's damage and armour are increased by 50% for 30 seconds\n left click then click on target"
+"Requiert: niveau 10 \n Câssimir renverse et immobilise le héros ciblé pendant 15 secondes.\n Les unités normales subissent de gros dégâts \n De plus, les dégâts et l'armure de Câssimir sont augmentés de 50 % pendant 30 secondes.\n Clic gauche puis clic gauche sur la cible"
 END
 CONTROLBAR:SouthronConquest
-"Lands Retaken (&C)"
+"Terres Reconquises (&C)"
 END
 CONTROLBAR:ToolTipSouthronConquest
-"Requires Level 5\nSummons the Banner of the Black Serpent, defended by various single Harondor infantry\nNearby enemy structures lose -33% armour\nNearby enemy farms produce fewer resources\nBanner lasts for 90 seconds\nLeft click then left click target area"
+"Requiert niveau 5\nInvoque la Bannière du Serpent Noir, défendue par divers fantassins d'Harondor isolés\nLes structures ennemies proches perdent -33% d'armure\nLes fermes ennemies proches produisent moins de ressources\nLa Bannière reste en place 90 secondes\nClic gauche puis clic gauche sur la zone cible"
 END
 CONTROLBAR:BladeoftheSerpentLord
-"Serpent Lord's Gaze"
+"Regard du Seigneur Serpent"
 END
 CONTROLBAR:ToolTipBladeoftheSerpentLord
-"Requires Level 3\nModifier Type: Debuff\nNearby enemy units suffer -15% speed\nPassive ability"
+"Requiert niveau 3\nModifier Type: Debuff\nLes unités ennemies proches subissent une perte de vitesse de 15 %.\nHabileté passive"
 END
 CONTROLBAR:ToolTipBladeoftheSerpentLordSummoned
-"Modifier Type: Debuff\nNearby enemy units suffer -15% speed\nPassive ability"
+"Modifier Type: Debuff\nLes unités ennemies proches subissent une perte de vitesse de 15 %\nHabileté passive"
 END
 CONTROLBAR:Onslaught
-"Onslaught (&V)"
+"L'Assaut (&V)"
 END
 CONTROLBAR:ToolTipOnslaught
-"Requires Level 8 \n Requires Sûladan to be mounted \n Modifier Type: Spell \n Sûladan and nearby cavalry gain +50% armour and -100% trample deceleration for 20 seconds\nLeft click to activate"
+"Requiert niveau 8 \n Sûladan doit être sur sa monture \n Modifier Type: Sort \n Sûladan et la cavalerie proche gagnent +50% d'armure et -100% de décélération du piétinement pendant 20 secondes.\nClic gauche pour activer"
 END
 CONTROLBAR:SpecialPowerRiseToPower
-"Rise To Power (&W)"
+"Ascension au Pouvoir (&W)"
 END
 CONTROLBAR:ToolTipSpecialPowerRiseToPower
-"Berúthiel manipulates her way into the higher echelons of Black Númenórean society \n Allows Berúthiel to rank up.\n Becomes more expensive the higher Berúthiel ranks up \n Left click to purchase upgrade"
+"Berúthiel se fraye un chemin dans les hautes sphères de la société des Numénoréens Noirs. \n Permet à Berúthiel de monter de niveau.\n Le prix augmente au fur et à mesure que Berúthiel monte en grade. \n Clic gauche pour acheter"
 End
 
 CONTROLBAR:SpecialPowerRiseToPowerFinal
-"Rise to Power"
+"Ascension au Pouvoir"
 END
 
 CONTROLBAR:ToolTipSpecialPowerRiseToPowerFinal
-"Queen Berúthiel has manipulated her way to the upper echelons of Black Númenórean society \n Berúthiel can not be ranked up any further \n Passive ability"
+"Berúthiel se fraye un chemin dans les hautes sphères de la société des Numénoréens Noirs \n Berúthiel ne peut plus monter en niveau \n Habileté passive"
 END
 
 CONTROLBAR:BeruthielCat
-"Eyes and Ears (&R)"
+"Les Yeux et les Oreilles (&R)"
 END
 CONTROLBAR:ToolTipBeruthielCat
-"The Black Queen summons one of her cats to spy upon the enemy\n Limited to 3 \n Left click to activate"
+"La Reine Noire convoque l'un de ses chats pour espionner l'ennemi.\n Limité à 3 \n Clic gauche pour activer"
 END
 
 CONTROLBAR:Disdain
-"Disdain (&T)"
+"Mépris (&T)"
 END
 CONTROLBAR:ToolTipDisdain
-"Requires Level 3\nModifier Type: Active Debuff\nTargeted enemy units suffer -25% damage and cannot gain experience for 30 seconds\nLeft click icon then left click on target units"
+"Requiert niveau 3\nModifier Type: Debuff Actif\nLes unités ennemies ciblées subissent -25% de dégâts et ne peuvent pas gagner d'expérience pendant 30 secondes.\nClic gauche sur l'icône puis clic gauche sur les unités ciblées"
 End
 
 CONTROLBAR:FeignedHysteria
-"Feigned Hysteria (&C)"
+"Hysterie Feinte (&C)"
 END
 CONTROLBAR:ToolTipFeignedHysteria
-"Requires Level 6 \n Modifier Type: Debuff \n Nearby enemy units lose all leadership and -25% armour for 30 seconds\nBerúthiel becomes invisible for 30 seconds, allowing her to escape\nLeft click to activate"
+"Requiert niveau 6 \n Modifier Type: Debuff \n Les unités ennemies proches perdent tout leur leadership et perdent 25 % d'armure pendant 30 secondes. Berúthiel devient invisible pendant 30 secondes, ce qui lui permet de s'échapper.\nClic gauche pour activer"
 END
 CONTROLBAR:BeruthielEscort
-"Queen's Escort (&V)"
+"Escorte de la Reine (&V)"
 END
 CONTROLBAR:ToolTipBeruthielEscort
-"Requires Level 10 \n The Black Queen summons a fully armed battalion of Wardens of Umbar \nLeft click icon then left click on target area"
+"Requiert niveau 10 \n La Reine noire convoque un bataillon armé de Gardiens d'Umbar. \nClic gauche sur l'icône puis clic gauche sur la zone cible"
 END
 CONTROLBAR:AlleyCatScratch
-"Alley Cat Scratch"
+"Griffure de Chat de Gouttière"
 END
 CONTROLBAR:ToolTipAlleyCatScratch
-"Attacking an enemy unit causes the cat to leap at them and inflict area-effect damage. \nAttacking causes the cat to be removed from play \nPassive ability"
+"En attaquant une unité ennemie, le chat bondit sur elle et lui inflige des dégâts à effet de zone. \nL'attaque entraîne le retrait du chat du jeu. \nHabileté passive"
 END
 CONTROLBAR:MadChieftain
 "Mad Chieftain"
