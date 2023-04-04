@@ -79729,104 +79729,104 @@ END
 //                  HARAD SPELLBOOK
 //---------------------------------------------
 OBJECT:HaradSentryTower
-"Sentry Tower"
+"Tour de Guet"
 END
 OBJECT:HaradKhanofRhun
 "Vârakh-bórax"
 END
 OBJECT:HaradChariot
-"Khandish Chariot"
+"Chariot de Khand"
 END
 CONTROLBAR:ConstructKhandishChariot
-"Khandish Chariot (&W)"
+"Chariot de Khand (&W)"
 END
 CONTROLBAR:ToolTipBuildKhandishChariot
-"Strong vs. Swordsmen and Archers"
+"Fort vs. Epéistes et Archers"
 END
 OBJECT:HaradAicanaroc
 "Aicanaroc"
 END
 OBJECT:HaradMumakilMatriarch
-"The Black Matriarch"
+"La Sombre Matriarche"
 END
 CONTROLBAR:HaradMumakilMatriarchMightyStomp
-"Mighty Stomp (&W)"
+"Puissant Piétinement (&W)"
 END
 CONTROLBAR:ToolTipHaradMumakilMatriarchMightyStomp
-"The Black Matriarch stomps down sending a shockwave\n that knocks down and damages enemy units and structures in front of her\nLeft click to activate"
+"La Sombre Matriarche piétine le sol et envoie une puissante onde de choc\nqui renverse et inflige des dégâts aux ennemis et aux structures face à elle\nClic gauche pour activer"
 END
 CONTROLBAR:HaradMumakilMatriarchDeafeningTrumpet
-"Deafening Trumpet (&R)"
+"Trompette Assourdissante (&R)"
 END
 CONTROLBAR:ToolTipHaradMumakilMatriarchDeafeningTrumpet
-"The Black Matriarch sounds an ear-splitting trumpeting, stunning surrounding enemies in fear for 15 seconds\nLeft click to activate"
+"La Sombre Matriarche émet un barissement à couper le souffle qui étourdit les ennemis environnants pendant 15 secondes.\nClic gauche pour activer"
 END
 CONTROLBAR:HaradMumakilMatriarchSingleMindedCharge
-"Single-Minded Charge (&T)"
+"Charge Aveuglante (&T)"
 END
 CONTROLBAR:ToolTipHaradMumakilMatriarchSingleMindedCharge
-"The Black Matriarch gores target enemy hero or structure with her tusks, dealing significant damage\nLeft click on icon then left click on target"
+"La Sombre Matriarche éventre le héros ou la structure ennemie ciblée avec ses défenses, ce qui lui inflige des dégâts importants.\nClic gauche sur l'icône puis clic gauche sur la cible"
 END
 CONTROLBAR:HaradMumakilMatriarchGloriousCharge
-"Black Matriarch (&C)"
+"Sombre Matriarche (&C)"
 END
 CONTROLBAR:ToolTipHaradMumakilMatriarchGloriousCharge
-"Nearby War and Siege Mûmakil are granted +20% speed and +33% armour for 20 seconds \nLeft click to activate"
+"Les Mûmakil de guerre et de siège proches bénéficient de +20% de vitesse et +33% d'armure pendant 20 secondes. \nClic gauche pour activer"
 END
 CONTROLBAR:HaradWarChant
-"Horn of the Serpent Lord"
+"Cor du Seigneur Serpent"
 End
 CONTROLBAR:DRYSPELL
-"Dry Spell"
+"Vague de Sécheresse"
 End
 CONTROLBAR:TooltipDrySpell
-"Reduces production of any resource structure within the area of effect for 150 seconds \nResource production is decreased by -75% \nLeft click icon then left click on target area"
+"Réduit la production de toute structure de ressources dans la zone d'effet pendant 150 secondes. \nLa production de ressources décroit de -75% \nClic gauche sur l'icône puis clic gauche sur la zone cible"
 End
 OBJECT:TribalCamp
-"Tribal Camp"
+"Campement Tribal"
 END
 CONTROLBAR:HaradSentry
-"Southron Sentry"
+"Tour de Guet"
 End
 CONTROLBAR:TooltipHaradSentry
-"Summons a Sentry Tower, providing strong line of sight and detecting stealth \n Limited to 4 \n \n Left click icon then left click on target area"
+"Invoque une Tour de Guet qui accroit le champ de vision et détecte la furtivité \n Limité à 4 \n Clic gauche sur l'icône puis clic gauche sur la zone cible"
 End
 CONTROLBAR:ForthMenDarkness
-"Forth, Men of Darkness"
+"A l'assaut, Hommes des Ténèbres"
 End
 CONTROLBAR:TooltipForthMenDarkness
-"Summons two battalions of heavy-armoured Great Khân's Phalanx led by a Great Khân's Acolyte\n\n Left click icon then left click on target area"
+"Invoque deux bataillons de Phalanges du Grand Khân lourdement armés, dirigés par un Acolyte du Grand Khân.\n Clic gauche sur l'icône puis clic gauche sur la zone cible"
 End
 CONTROLBAR:CurseWindDemon
-"Curse of the Wind Demon"
+"Malédiction du Démon du Vent"
 End
 CONTROLBAR:TooltipCurseWindDemon
-"All units within the radius are scattered and suffer damage \n \n Left click icon then left click on target area"
+"Toutes les unités dans le rayon sont dispersées et subissent des dégâts \n Clic gauche sur l'icône puis clic gauche sur la zone cible"
 End
 CONTROLBAR:ThreatofMordor
-//"Threat of Mordor"
-"March to War"
+//"Menace du Mordor"
+"Marche à la Guerre"
 End
 CONTROLBAR:TooltipThreatofMordor
-"For 60 seconds, all Haradwaith units gain +15% damage and armour and are immune to debuffs \n Left click to activate"
+"Pendant 60 secondes, toutes les unités Haradwaith gagnent +15% de dégâts et d'armure et sont immunisées contre les affaiblissements. \n Clic gauche pour activer"
 End
 CONTROLBAR:TribesofHarad
-"Tribes of Harad"
+"Tribus du Harad"
 End
 CONTROLBAR:TooltipTribesofHarad
-"Summons a Tribal Camp \n Limited to 2 \n  The Tribal Camp may temporarily summon Tribal Axemen, Bowmen, and Spearmen \n When Subjugation: Near Harad is researched, the Tribal Camp may temporarily summon Harondor Spearmen, Archers and Raiders \n\n Left click icon then left click on target area"
+"Invoque un Campement Tribal \n Limité à 2 \n  Le Campement Tribal peut temporairement invoquer Hommes d'Armes, Archers et Lancier \n Quand Asservissement: Le Proche Harad est recherché, le Campement tribal peut invoquer temporairement des Lanciers, des Archers et des Cavaliers de Harondor \n\n Clic gauche sur l'icône puis clic gauche sur la zone cible"
 End
 CONTROLBAR:KhandishCharioteers
-"Khandish Charioteers"
+"Gens-des-Chariots de Khand"
 End
 CONTROLBAR:TooltipKhandishCharioteers
-"Summons three Khandish Chariots\n\n Left click icon then left click on target area"
+"Invoque trois chariots de Khand\n\n Clic gauche sur l'icône puis clic gauche sur la cible"
 End
 CONTROLBAR:UnrelentingSun
-"Unrelenting Sun"
+"Soleil Implacable"
 End
 CONTROLBAR:TooltipUnrelentingSun
-"Cancels Freezing Rain, Blessing of Ulmo, Lights Go Out, White Winter and Darkness\n Enemy units across the map are slowed by -33% and take damage over time for 15 seconds\n Modifier Type: Buff \n Haradwaith units gain +20% movement speed for 15 seconds\n\nLeft click to activate"
+"Annule Pluie Verglaçante, Bénédiction d'Ulmo, Lumière Crépusculaire, Hiver Blanc et Ténèbres.\n Les unités ennemies sur la carte sont ralenties de -33% et subissent des dégâts sur la durée pendant 15 secondes.\n Modifier Type: Buff \n Les unités Haradwaith gagnent +20% de vitesse de déplacement pendant 15 secondes.\n\nClic gauche pour activer"
 End
 OBJECT:HaradOasis
 "Oasis"
@@ -79835,27 +79835,27 @@ CONTROLBAR:HaradOasis
 "Oasis"
 End
 CONTROLBAR:TooltipHaradOasis
-"Summons a palm tree surrounded by a natural moat of clear water \n Nearby units are passively healed and can be fortified by the Oasis' cleansing waters\n Limited to 2 \n \n Left click icon then left click on target area"
+"Invoque un palmier entouré d'une mare naturelle d'eau claire. \n Les unités proches sont passivement soignées et peuvent être fortifiées par les eaux purificatrices de l'oasis.\n Limité à 2 \n \n Clic gauche sur l'icône puis clic gauche sur la zone cible"
 End
 
 CONTROLBAR:CleansingWaters
-"Cleansing Waters (&W)"
+"Eaux Purifiantes (&W)"
 END
 
 CONTROLBAR:ToolTipCleansingWaters
-"Instantly heals units for a moderate amount \n Affected units gain +50% armour and resistance to fear and terror for 60 seconds\n Left click icon then left click on target area"
+"Soigne instantanément les unités de façon modérée \n Les unités affectées gagnent +50% d'armure et de résistance à la peur et à la terreur pendant 60 secondes.\n Clic gauche sur l'icône puis clic gauche sur la zone cible"
 END
 CONTROLBAR:BurningSands
-"Burning Sands"
+"Sables Ardents"
 End
 CONTROLBAR:TooltipBurningSands
-"Calls a fiery beam of sunlight to scorch the \nbattlefield. Stuns light-sensitive creatures. \n Left click icon then left click on target area"
+"Appelle un rayon de soleil ardent pour brûler le \nchamp de bataille. Etourdit les créatures sensibles à la lumière. \n Clic gauche sur l'icône puis clic gauche sur la zone cible"
 END
 CONTROLBAR:BlackMatriarch
-"The Black Matriarch"
+"La Sombre Matriarche"
 End
 CONTROLBAR:TooltipBlackMatriarch
-"Summons the Black Matriarch, an ancient, towering Mûmak, black of skin with fiery red eyes. A heavily armoured, nigh unstoppable beast of destruction \n \n Left click icon then left click on target area"
+"Invoque la Sombre Matriarche, un Mûmak ancien et imposant, à la peau noire et aux yeux rouges ardents. Une bête de destruction lourdement blindée et presque inarrêtable \n \n Clic gauche sur l'icône puis clic gauche sur la zone cible"
 End
 //----------------------------------------------
 //                  HARAD HEROES
@@ -79864,13 +79864,13 @@ OBJECT:HaradZigur
 "Zigûr"
 END
 CONTROLBAR:HaradZigurRevive
-"Revive the fallen Hero, Zigûr"
+"Ranimer le héros déchu, Zigûr"
 END
 CONTROLBAR:HaradZigurHotkey
 "Zigûr (&A)"
 END
 CONTROLBAR:HaradZigurRecruit
-"Use the One Ring to summon the High Priest of Melkor. \n \n Zigûr is one of Sauron's many guises. Presenting himself as the High Priest of Melkor, the Great One that can provide salvation in exchange for veneration, he has corrupted the hearts of many of the Haradrim tribes."
+"Utilisez l'Anneau Unique pour invoquer le Grand Prêtre de Melkor. \n \n Zigûr est l'un des nombreux sbires de Sauron. Se présentant comme le Grand Prêtre de Melkor, le Plus Grand, qui peut apporter le salut en échange de la vénération, il a corrompu le cœur de nombreuses tribus Haradrim."
 END
 OBJECT:HaradSuladan
 "Sûladan"
@@ -79885,7 +79885,7 @@ OBJECT:HaradBeruthiel
 "Berúthiel"
 END
 OBJECT:BeruthielsCat
-"Berúthiel's Cat"
+"Chat de Berúthiel"
 END
 OBJECT:HaradCaranLambar
 "Caran-Lambar"
@@ -79894,19 +79894,19 @@ OBJECT:HaradSyarRhul
 "Syâr-Rhul"
 END
 OBJECT:HaradGoldenKing
-"The Golden King"
+"Le Roi Doré"
 END
 OBJECT:HaradHoarmurath
-"Hoarmûrath, Third of the Nine"
+"Hoarmûrath, Troisième des Neuf"
 END
 CONTROLBAR:ToolTipBuildSuladan
-"Recruit the Serpent Lord"
+"Recruter le Seigneur Serpent"
 END
 CONTROLBAR:HaradSuladanRecruit
-"Recruit the Serpent Lord \n \n A powerful warlord from the wartorn lands of Harondor, Sûladan has won renown throughout his many skirmishes with the Gondorian oppressors, clearing them out of Harondor to claim it for his own people."
+"Recruter le Seigneur Serpent \n \n Sûladan est un puissant seigneur de guerre originaire des terres déchirées d'Harondor. Il s'est fait connaître via ses nombreuses escarmouches avec les oppresseurs gondoriens, qu'il a chassés d'Harondor pour le revendiquer pour son propre peuple."
 END
 CONTROLBAR:HaradSuladanRevive
-"Revive the fallen Hero, Sûladan"
+"Ranimer le héros déchu, Sûladan"
 END
 CONTROLBAR:HaradSuladanHotkey
 "Sûladan (&R)"
@@ -79915,16 +79915,16 @@ CONTROLBAR:LW_Hero_Suladan
 "Sûladan"
 END
 CONTROLBAR:LW_ToolTipBuild_Suladan
-"Unit Type: Hero Army Leader\n"
+"Type d'unité: Chef d'Armée Héroïque\n"
 END
 CONTROLBAR:ToolTipBuildCassimir
-"Recruit the leader of the Black Númenóreans of Umbar"
+"Recruter le chef des Numénoréens Noirs d'Umbar"
 END
 CONTROLBAR:HaradCassimirRecruit
-"Recruit the leader of the Black Númenóreans of Umbar \n \n One of the two rivaling sons of Kathuphazgân, the last Black Lord of Umbar. Câssimir is a harsh, cruel man that commands the loyalty of the Black Númenórean nobility that still live in Umbar."
+"Recruter le chef des Numénoréens Noirs d'Umbar \n \n L'un des deux fils rivaux de Kathuphazgân, le dernier Seigneur Noir d'Umbar. Câssimir est un homme dur et cruel qui a acquis par la force la loyauté des Numénoréens Noirs d'Umbar."
 END
 CONTROLBAR:HaradCassimirRevive
-"Revive the fallen Hero, Câssimir"
+"Ranimer le héros déchu, Câssimir"
 END
 CONTROLBAR:HaradCassimirHotkey
 "Câssimir (&S)"
@@ -79933,16 +79933,16 @@ CONTROLBAR:LW_Hero_Cassimir
 "Câssimir"
 END
 CONTROLBAR:LW_ToolTipBuild_Cassimir
-"Unit Type: Hero Army Leader\n"
+"Type d'unité: Chef d'Armée Héroïque\n"
 END
 CONTROLBAR:ToolTipBuildBurodapan
-"Recruit the Corsair-lord of Umbar"
+"Recruter le Seigneur des Corsaires d'Umbar"
 END
 CONTROLBAR:HaradBurodapanRecruit
-"Recruit the Corsair-lord of Umbar \n \n One of the two rivaling sons of Kathuphazgân, the last Black Lord of Umbar. Burôdapân is a fierce corsair-lord, demanding tribute and taxes from a vast majority of Umbar's raiding fleet."
+"Recruter le Seigneur des Corsaires d'Umbar \n \n L'un des deux fils rivaux de Kathuphazgân, le dernier seigneur noir d'Umbar. Burôdapân est un seigneur corsaire féroce, qui exige des tributs et des taxes de la plupart des flottes d'Umbar."
 END
 CONTROLBAR:HaradBurodapanRevive
-"Revive the fallen Hero, Burôdapân"
+"Ranimer le héros déchu, Burôdapân"
 END
 CONTROLBAR:HaradBurodapanHotkey
 "Burôdapân (&T)"
@@ -79951,16 +79951,16 @@ CONTROLBAR:LW_Hero_Burodapan
 "Burôdapân"
 END
 CONTROLBAR:LW_ToolTipBuild_Burodapan
-"Unit Type: Hero Army Leader\n"
+"Type d'unité: Chef d'Armée Héroïque\n"
 END
 CONTROLBAR:ToolTipBuildBeruthiel
-"Recruit the Black Queen of Umbar"
+"Recruter la Reine Noire d'Umbar"
 END
 CONTROLBAR:HaradBeruthielRecruit
-"Recruit the Black Queen of Umbar \n \n Concubine to both Câssimir and Burôdapân, the Black Queen stole her name from an ancient Black Númenórean Queen. Berúthiel's spies are many, and her influence runs deep."
+"Recruter la Reine Noire d'Umbar \n \n Concubine à la fois de Câssimir et Burôdapân, la Reine Noire a volé son nom à une ancienne Reine Noire Númenóréenne. Les espions de Berúthiel sont nombreux et son influence profonde."
 END
 CONTROLBAR:HaradBeruthielRevive
-"Revive the fallen Hero, Berúthiel"
+"Ranimer l'héroïne déchue, Berúthiel"
 END
 CONTROLBAR:HaradBeruthielHotkey
 "Berúthiel (&W)"
@@ -79969,16 +79969,16 @@ CONTROLBAR:LW_Hero_Beruthiel
 "Berúthiel"
 END
 CONTROLBAR:LW_ToolTipBuild_Beruthiel
-"Unit Type: Hero\n"
+"Type d'unité: Héros\n"
 END
 CONTROLBAR:ToolTipBuildCaranLambar
-"Recruit the Chieftain of the Nâfarati"
+"Recruter le Chef des Nâfarati"
 END
 CONTROLBAR:HaradCaranLambarRecruit
-"Recruit the Chieftain of the Nâfarati \n \n Once a respected chief of a prominent Nâfarati tribe, Caran-Lambar was ensnared by the Golden King, and through dark magic has been transformed into a brutal champion to his cause."
+"Recruter le Chef des Nâfarati \n \n Autrefois chef respecté d'une importante tribu Nâfarati, Caran-Lambar a été piégé par le Roi Doré et, grâce à la magie noire, s'est transformé en un brutal champion de sa cause."
 END
 CONTROLBAR:HaradCaranLambarRevive
-"Revive the fallen Hero, Caran-Lambar"
+"Ranimer le héros déchu, Caran-Lambar"
 END
 CONTROLBAR:HaradCaranLambarHotkey
 "Caran-Lambar (&D)"
@@ -79987,16 +79987,16 @@ CONTROLBAR:LW_Hero_CaranLambar
 "Caran-Lambar"
 END
 CONTROLBAR:LW_ToolTipBuild_CaranLambar
-"Unit Type: Hero\n"
+"Type d'unité: Héros\n"
 END
 CONTROLBAR:ToolTipBuildSyarRhul
-"Recruit the Black Vizier"
+"Recruter le Noir Vizir"
 END
 CONTROLBAR:HaradSyarRhulRecruit
-"Recruit the Black Vizier \n \n The chief advisor to the Golden King in all matters, but particularly those related to the subjugation of the Haradrim and their enslavement to Sauron's will."
+"Recruter le Noir Vizir \n \n Le principal conseiller du Roi Doré dans tous les domaines, mais en particulier ceux liés à l'assujettissement des Haradrim et à leur asservissement à la volonté de Sauron."
 END
 CONTROLBAR:HaradSyarRhulRevive
-"Revive the fallen Hero, Syâr-Rhul"
+"Ranimer le héros déchu, Syâr-Rhul" 
 END
 CONTROLBAR:HaradSyarRhulHotkey
 "Syâr-Rhul (&E)"
@@ -80005,39 +80005,39 @@ CONTROLBAR:LW_Hero_SyarRhul
 "Syâr-Rhul"
 END
 CONTROLBAR:LW_ToolTipBuild_SyarRhul
-"Unit Type: Hero\n"
+"Type d'unité: Héros\n"
 END
 CONTROLBAR:ToolTipBuildGoldenKing
-"Recruit the mysterious Sorcerer-king"
+"Recruter le mystérieux Roi-Sorcier"
 END
 CONTROLBAR:HaradGoldenKingRecruit
-"Recruit the mysterious Sorcerer-king \n \n The ancient, immensely cruel king of legendary Abrakhân. Recently returned, he has rebuilt his former might and seeks to subjugate all of Haradwaith beneath his black banner."
+"Recruter le mystérieux Roi-Sorcier \n \n L'ancien roi extrêmement cruel du légendaire Abrakhân. Récemment revenu, il a reconstruit sa puissance d'antan et cherche à soumettre tout Haradwaith sous sa bannière noire."
 END
 CONTROLBAR:HaradGoldenKingRevive
-"Revive the fallen Hero, the Golden King of Abrakhân"
+"Ranimer le héros déchu, le Roi Doré d'Abrakhân"
 END
 CONTROLBAR:HaradGoldenKingHotkey
-"The Golden King of Abrakhân (&F)"
+"Le Roi Doré d'Abrakhân (&F)"
 END
 CONTROLBAR:LW_Hero_GoldenKing
-"The Golden King of Abrakhân"
+"Le Roi Doré d'Abrakhân"
 END
 CONTROLBAR:LW_ToolTipBuild_GoldenKing
-"Unit Type: Hero Army Leader\n"
+"Type d'unité: Chef d'Armée Héroïque\n"
 END
 
 
 CONTROLBAR:MonstrousShadow
-"Monstrous Shadow"
+"Ombre Monstrueuse"
 END
 CONTROLBAR:ToolTipMonstrousShadow
-"Modifier Type: Spell \n Nearby friendly units gain +300% armour against magic and elemental damage\nPassive ability"
+"Modifier Type: Sort \n Les unités alliées proches gagnent +300% d'armure contre les dégâts magiques et élémentaires\nHabileté passive"
 END
 CONTROLBAR:GlisteningDown
-"Glistening Down"
+"Duvet Scintillant"
 END
 CONTROLBAR:ToolTipGlisteningDown
-"The Aicanaroc periodically drops glistening feathers\nHaradwaith units can pick up these feathers to permanently gain +25% health and resistance to fear and terror\nPassive ability"
+"L'Aicanaroc laisse périodiquement tomber des plumes scintillantes\nLes unités Haradwaith peuvent ramasser ces plumes pour gagner en permanence +25% de santé et une résistance à la peur et à la terreur.\nHabileté passive"
 END
 CONTROLBAR:SpecialAbilityAicanarocStun
 "Astonishing Plumage (&T)"
