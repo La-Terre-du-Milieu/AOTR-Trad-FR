@@ -9081,7 +9081,7 @@ CONTROLBAR:VeteransLoyal
 END
 
 CONTROLBAR:ToolTipVeteransLoyal
-"Modifier Type: Leadership\nLes Vétérans d'Osgiliath gagnent +10% d'armure et de resistance à la peur et la terreur quand ils sont proches de Boromir ou Faramir\nHabileté passive"
+"Modifier Type: Leadership\nLes Vétérans d'Osgiliath gagnent +10% d'armure et de resistance à la peur et la terreur quand ils sont proches de Boromir ou Faramir\nCapacité passive"
 END
 
 CONTROLBAR:OnsetofDoom
@@ -9089,7 +9089,7 @@ CONTROLBAR:OnsetofDoom
 END
 
 CONTROLBAR:ToolTipOnsetofDoom
-"Requiert niveau 3\nLes ennemis proches perdent -15% d'armure et -15% de dégâts et leur résistance à la peur est réduite\n Quand un vétéran trépasse,les vétérans proches gagnent temporairement +15% d'armure et +15% de dégâts\n Habileté passive"
+"Requiert niveau 3\nLes ennemis proches perdent -15% d'armure et -15% de dégâts et leur résistance à la peur est réduite\n Quand un vétéran trépasse,les vétérans proches gagnent temporairement +15% d'armure et +15% de dégâts\n Capacité passive"
 END
 
 CONTROLBAR:VetsForGondor
@@ -9379,7 +9379,7 @@ CONTROLBAR:PutTheminChains
 END
 
 CONTROLBAR:ToolTipPutTheminChains
-"Requiert niveau 3 \n Les attaques de mêlée réduisent l'armure ennemie de 15% pendant 5 secondes\nNe se cumule pas avec d'autres affaiblissements\nHabileté passive"
+"Requiert niveau 3 \n Les attaques de mêlée réduisent l'armure ennemie de 15% pendant 5 secondes\nNe se cumule pas avec d'autres affaiblissements\nCapacité passive"
 END
 
 CONTROLBAR:Pickpockets
@@ -9387,7 +9387,7 @@ CONTROLBAR:Pickpockets
 END
 
 CONTROLBAR:ToolTipPickpockets
-"Requiert Niveau 2 \n Les ruffians pillent les ressources des ennemis tués\nHabileté passive"
+"Requiert Niveau 2 \n Les ruffians pillent les ressources des ennemis tués\nCapacité passive"
 END
 
 CONTROLBAR:LightEmUp
@@ -9403,7 +9403,7 @@ CONTROLBAR:SharkeysRuffians
 END
 
 CONTROLBAR:ToolTipSharkeysRuffians
-"Modifier Type: Leadership\nLes Ruffians gagnent +25% de dégâts lorsqu'ils sont proches de Saroumane\nHabileté passive"
+"Modifier Type: Leadership\nLes Ruffians gagnent +25% de dégâts lorsqu'ils sont proches de Saroumane\nCapacité passive"
 END
 
 
@@ -80031,13 +80031,13 @@ CONTROLBAR:MonstrousShadow
 "Ombre Monstrueuse"
 END
 CONTROLBAR:ToolTipMonstrousShadow
-"Modifier Type: Sort \n Les unités alliées proches gagnent +300% d'armure contre les dégâts magiques et élémentaires\nHabileté passive"
+"Modifier Type: Sort \n Les unités alliées proches gagnent +300% d'armure contre les dégâts magiques et élémentaires\nCapacité passive"
 END
 CONTROLBAR:GlisteningDown
 "Duvet Scintillant"
 END
 CONTROLBAR:ToolTipGlisteningDown
-"L'Aicanaroc laisse périodiquement tomber des plumes scintillantes\nLes unités Haradwaith peuvent ramasser ces plumes pour gagner en permanence +25% de santé et une résistance à la peur et à la terreur.\nHabileté passive"
+"L'Aicanaroc laisse périodiquement tomber des plumes scintillantes\nLes unités Haradwaith peuvent ramasser ces plumes pour gagner en permanence +25% de santé et une résistance à la peur et à la terreur.\nCapacité passive"
 END
 CONTROLBAR:SpecialAbilityAicanarocStun
 "Stupéfiant Plumage (&T)"
@@ -80049,7 +80049,7 @@ CONTROLBAR:HighPriest
 "Grand Prêtre de Melkor"
 END
 CONTROLBAR:ToolTipHighPriest
-"Modifier Type: Nullifier \n Les unités ennemies proches perdent -50% d'armure, -15% de vitesse de déplacement\n et subissent des dégâts au cours du temps\nHabileté passive"
+"Modifier Type: Nullifier \n Les unités ennemies proches perdent -50% d'armure, -15% de vitesse de déplacement\n et subissent des dégâts au cours du temps\nCapacité passive"
 END
 CONTROLBAR:SacrificialRites
 "Rites Sacrificiels (&R)"
@@ -80083,7 +80083,7 @@ CONTROLBAR:LordofWaves
 "Seigneur des Vagues"
 END
 CONTROLBAR:ToolTipLordofWaves
-"Modifier Type: Leadership \n Les Corsaires proches gagnent +33% d'armure et de dégâts et +50% d'expérience.\nAu niveau 5, Burôdapân et les Corsaires proches gagnent des ressources à chaque meurtre.\nHabileté passive"
+"Modifier Type: Leadership \n Les Corsaires proches gagnent +33% d'armure et de dégâts et +50% d'expérience.\nAu niveau 5, Burôdapân et les Corsaires proches gagnent des ressources à chaque meurtre.\nCapacité passive"
 END
 CONTROLBAR:TakeAllYouCan
 "Pillez tous azimuts (&R)"
@@ -80134,7 +80134,7 @@ CONTROLBAR:LordofStones
 "Seigneur des Pierres (&W)"
 END
 CONTROLBAR:ToolTipLordofStones
-"Modifier Type: Leadership\nLes Numénoréens Noirs proches gagnent +33% d'armure et de dégâts et +50% d'expérience.\nHabileté passive\n\n Requiert nivau 8\nModifier Type: Sort\n Toutes les unités alliés proches +50% d'armure pendant 30 secondes\nClic gauche pour activer"
+"Modifier Type: Leadership\nLes Numénoréens Noirs proches gagnent +33% d'armure et de dégâts et +50% d'expérience.\nCapacité passive\n\n Requiert nivau 8\nModifier Type: Sort\n Toutes les unités alliés proches +50% d'armure pendant 30 secondes\nClic gauche pour activer"
 END
 CONTROLBAR:RuleoftheKingsMen
 "Règle des Hommes du Roi (&T)"
@@ -80170,10 +80170,10 @@ CONTROLBAR:BladeoftheSerpentLord
 "Regard du Seigneur Serpent"
 END
 CONTROLBAR:ToolTipBladeoftheSerpentLord
-"Requiert niveau 3\nModifier Type: Debuff\nLes unités ennemies proches subissent une perte de vitesse de 15 %.\nHabileté passive"
+"Requiert niveau 3\nModifier Type: Debuff\nLes unités ennemies proches subissent une perte de vitesse de 15 %.\nCapacité passive"
 END
 CONTROLBAR:ToolTipBladeoftheSerpentLordSummoned
-"Modifier Type: Debuff\nLes unités ennemies proches subissent une perte de vitesse de 15 %\nHabileté passive"
+"Modifier Type: Debuff\nLes unités ennemies proches subissent une perte de vitesse de 15 %\nCapacité passive"
 END
 CONTROLBAR:Onslaught
 "L'Assaut (&V)"
@@ -80193,7 +80193,7 @@ CONTROLBAR:SpecialPowerRiseToPowerFinal
 END
 
 CONTROLBAR:ToolTipSpecialPowerRiseToPowerFinal
-"Berúthiel se fraye un chemin dans les hautes sphères de la société des Numénoréens Noirs \n Berúthiel ne peut plus monter en niveau \n Habileté passive"
+"Berúthiel se fraye un chemin dans les hautes sphères de la société des Numénoréens Noirs \n Berúthiel ne peut plus monter en niveau \n Capacité passive"
 END
 
 CONTROLBAR:BeruthielCat
@@ -80226,13 +80226,13 @@ CONTROLBAR:AlleyCatScratch
 "Griffure de Chat de Gouttière"
 END
 CONTROLBAR:ToolTipAlleyCatScratch
-"En attaquant une unité ennemie, le chat bondit sur elle et lui inflige des dégâts à effet de zone. \nL'attaque entraîne le retrait du chat du jeu. \nHabileté passive"
+"En attaquant une unité ennemie, le chat bondit sur elle et lui inflige des dégâts à effet de zone. \nL'attaque entraîne le retrait du chat du jeu. \nCapacité passive"
 END
 CONTROLBAR:MadChieftain
 "Chef Fou"
 END
 CONTROLBAR:ToolTipMadcheiftain
-"Pour chaque tranche de 15 unités alliées Haradwaith à proximité, Caran-Lambar gagne\n+5% de dégâts et de vitesse de déplacement jusqu'à un maximum de 25%. \n Habileté passive"
+"Pour chaque tranche de 15 unités alliées Haradwaith à proximité, Caran-Lambar gagne\n+5% de dégâts et de vitesse de déplacement jusqu'à un maximum de 25%. \n Capacité passive"
 End
 CONTROLBAR:BreakerofStone
 "Briseur de Pierres (&R)"
@@ -80244,13 +80244,13 @@ CONTROLBAR:Derangement
 "Derangement (&T)"
 END
 CONTROLBAR:ToolTipDerangement
-"Requiert niveau 5 \n Modifier Type: Leadership \n Les unités amies proches gagnent une résistance à la peur et à la terreur \nHabileté passive \n\nModifier Type: Debuff\nLorsqu'il est activé, Caran-Lambar s'inflige des dégâts à lui-même.  \n Les unités ennemies proches perdent -50% de dégâts d'attaque et de vitesse d'attaque pendant 30 secondes.\n Clic gauche pour activer"
+"Requiert niveau 5 \n Modifier Type: Leadership \n Les unités amies proches gagnent une résistance à la peur et à la terreur \nCapacité passive \n\nModifier Type: Debuff\nLorsqu'il est activé, Caran-Lambar s'inflige des dégâts à lui-même.  \n Les unités ennemies proches perdent -50% de dégâts d'attaque et de vitesse d'attaque pendant 30 secondes.\n Clic gauche pour activer"
 END
 CONTROLBAR:DireStraits
 "Situation Désespérée"
 END
 CONTROLBAR:ToolTipDireStraits
-"Requiert niveau 8 \n Lorsque la santé de Caran-Lambar est inférieure à 25 %, il entre dans une rage terrifiante, infligeant 150 % de dégâts supplémentaires et regagnant des points de vie à chaque coup pendant 15 secondes.\nNe peut être déclenché à nouveau pendant 60 secondes\nHabileté passive"
+"Requiert niveau 8 \n Lorsque la santé de Caran-Lambar est inférieure à 25 %, il entre dans une rage terrifiante, infligeant 150 % de dégâts supplémentaires et regagnant des points de vie à chaque coup pendant 15 secondes.\nNe peut être déclenché à nouveau pendant 60 secondes\nCapacité passive"
 End
 CONTROLBAR:SpecialAbilityCaranLambarPull
 "Rage Ensorcelée (&V)"
@@ -80265,13 +80265,13 @@ CONTROLBAR:PersonalGuard
 "Garde d'Abrakhân (&W)"
 END
 CONTROLBAR:ToolTipPersonalGuard
-"Le Roi Doré est toujours accompagné de trois féroces guerriers \n Habileté passive \n\n Lorsqu'il est activé, les gardes sont sacrifiés pour invoquer une horde de spectres pendant 60 secondes.\nLes spectres ignorent l'armure ennemie et regagnent des points de vie à chaque coup.\nLes unités ennemies proches des spectres perdent -20% d'armure et -25% de dégâts.\nClic gauche pour activer"
+"Le Roi Doré est toujours accompagné de trois féroces guerriers \n Capacité passive \n\n Lorsqu'il est activé, les gardes sont sacrifiés pour invoquer une horde de spectres pendant 60 secondes.\nLes spectres ignorent l'armure ennemie et regagnent des points de vie à chaque coup.\nLes unités ennemies proches des spectres perdent -20% d'armure et -25% de dégâts.\nClic gauche pour activer"
 End
 CONTROLBAR:TheGoldenKingLeadership
 "Le Roi Doré (&R)"
 END
 CONTROLBAR:ToolTipTheGoldenKingLeadership
-"Modifier Type: Leadership \n Les capacités de charisme des ennemis proches sont annulées. \n Lorsqu'il est près du Noir Vizir, le Roi Doré gagne +25% d'armure. \n Habileté passive \n\n Au rang 5, invoque deux bataillons de guerriers d'Abrakhân lorsqu'il est activé \n Clic gauche pour activer"
+"Modifier Type: Leadership \n Les capacités de charisme des ennemis proches sont annulées. \n Lorsqu'il est près du Noir Vizir, le Roi Doré gagne +25% d'armure. \n Capacité passive \n\n Au rang 5, invoque deux bataillons de guerriers d'Abrakhân lorsqu'il est activé \n Clic gauche pour activer"
 End
 CONTROLBAR:LordofAbrakhan
 "Seigneur d'Abrakhân (&T)"
@@ -80303,7 +80303,7 @@ CONTROLBAR:GoldenKingVizierLeadership
 "Vizir du Roi Doré"
 END
 CONTROLBAR:ToolTipGoldenKingVizierLeadership
-"Modifier Type: Leadership\nLes unités tribales et d'Harondor gagnent +15% d'expérience, +15% d'armure et +15% de dégâts.\nRang 3 : le charisme s'étend aux unités du Mahûd \nRang 6 : le charisme s'étend aux unités du Sanctuaire de Zigûr \nRang 10 : le charisme s'étend aux unités des Numénoréens Noirs \n Quand il est proche du Roi Doré, le Noir Vizir gagne +50% d'armure\n Habileté passive"
+"Modifier Type: Leadership\nLes unités tribales et d'Harondor gagnent +15% d'expérience, +15% d'armure et +15% de dégâts.\nRang 3 : le charisme s'étend aux unités du Mahûd \nRang 6 : le charisme s'étend aux unités du Sanctuaire de Zigûr \nRang 10 : le charisme s'étend aux unités des Numénoréens Noirs \n Quand il est proche du Roi Doré, le Noir Vizir gagne +50% d'armure\n Capacité passive"
 End
 CONTROLBAR:VizierEnforcer
 "Exécuteur (&R)"
@@ -80340,397 +80340,397 @@ CONTROLBAR:ToolTipSyarRhulKingsFavor
 END
 
 OBJECT:HaradPorter
-"Architect"
+"Architecte"
 End
 OBJECT:HaradPorterHorde
-"Architect"
+"Architecte"
 End
 
 CONTROLBAR:MumakUpgrades
-"Mahûddin Warcraft (&R)"
+"Art de la Guerre Mahûddin (&R)"
 END
 CONTROLBAR:MumakUpgradesBack
-"Back (&W)"
+"Retour en arrière (&W)"
 END
 CONTROLBAR:ToolTipMumakUpgrades
-"Purchase upgrades for the War Mûmak"
+"Rechercher des améliorations pour le Mumak de Guerre"
 END
 CONTROLBAR:PurchaseUpgradeMahudDriver
-"Mahûd Mastery (&R)"
+"Maîtrise Mahûd (&R)"
 END
 CONTROLBAR:PurchaseUpgradeMahudDriverSiege
-"Mahûd Mastery (&V)"
+"Maîtrise Mahûd (&V)"
 END
 CONTROLBAR:ToolTipPurchaseUpgradeMahudDriver
-"Upgrades this Mûmak with Mahûd Mastery \n The Mûmak and nearby Mûmakil permanently gain +35% damage"
+"Améliore ce Mûmak avec la Maîtrise Mahûd \n Le Mûmak et les Mûmakil proches gagnent en permanence +35% de dégâts."
 END
 CONTROLBAR:PurchaseUpgradeArmoredTusks
-"Purchase Armoured Tusks (&C)"
+"Acheter les Défenses Blindées (&C)"
 END
 CONTROLBAR:PurchaseUpgradeArmoredTusksSiege
-"Purchase Armoured Tusks (&C)"
+"Acheter les Défenses Blindées (&C)"
 END
 CONTROLBAR:ToolTipPurchaseUpgradeArmoredTusks
-"Upgrades this Mûmak with Armoured Tusks \n Significantly increases resistance to damage from pikemen"
+"Améliore ce Mumak avec les Défenses Blindées \n Augmente considérablement la résistance aux dégâts des piquiers"
 END
 CONTROLBAR:PurchaseUpgradeWarPaint
-"Purchase War Paint (&T)"
+"Acheter Peinture de Guerre (&T)"
 End
 CONTROLBAR:PurchaseUpgradeWarPaintSiege
-"Purchase War Paint (&T)"
+"Acheter Peinture de Guerre (&T)"
 End
 CONTROLBAR:ToolTipPurchaseUpgradeWarPaint
-"Upgrades this Mûmak with War Paint \n Significantly increases resistance to ranged damage"
+"Améliore ce Mumak avec des Peintures de Guerre \n Augmente considérablement la résistance aux dégâts à distance"
 End
 CONTROLBAR:MahudHeadhuntersRedSerpentsVenom
-"Red Serpent's Venom (&T)"
+"Venin du Serpent Rouge (&T)"
 END
 CONTROLBAR:ToolTipMahudHeadhuntersRedSerpentsVenom
-"Requires Level 5\n The Headhunters dip their darts in the Red Serpent's venom\nFor 20 seconds, their attacks stun targeted infantry units for 5 seconds\nLeft click to activate"
+"Requiert Niveau 5\n Les Chasseurs de Têtes trempent leurs fléchettes dans le venin du Serpent Rouge\nPendant 20 secondes, leurs attaques étourdissent les unités d'infanterie ciblées pendant 5 secondes.\nClic gauche pour activer"
 END
 CONTROLBAR:MahudHeadhuntersTwilightsMistress
-"Twilight's Mistress (&R)"
+"Maitresse du Crépuscule (&R)"
 END
 CONTROLBAR:ToolTipMahudHeadhuntersTwilightsMistress
-"Requires Level 2\n The Headhunters dip their darts in the poison of the Twilight's Mistress, causing poison damage to enemy units for 20 seconds\nLeft click to activate"
+"Requiert niveau 2\n Les Chasseurs de Têtes trempent leurs fléchettes dans le poison de la Maîtresse du Crépuscule, infligeant des dégâts de poison aux unités ennemies pendant 20 secondes.\nClic gauche pour activer"
 END
 CONTROLBAR:MahudWarchant
 "Warchant (&W)"
 END
 CONTROLBAR:TooltipMahudWarchant
-"Requires Level 3\n Modifier Type: Weapon \n Mahûd Warriors gain +25% damage for 20 seconds\nLeft click to activate"
+"Requiert niveau 3\n Modifier Type: Arme\n Les Guerriers Mahûd gagnent +25% de dégâts pendant 20 secondes.\nClic gauche pour activer"
 END
 
 CONTROLBAR:TooltipMahudSpearWarchant
-"Requires Level 3\n Modifier Type: Weapon \n Mahûd Spears gain +25% armour for 20 seconds\nLeft click to activate"
+"Requires Level 3\n Modifier Type: Weapon \n Mahûd Spears gain +25% armour for 20 seconds\nClic gauche pour activer"
 END
 
 CONTROLBAR:MahudChiefLeadership
-"Chieftain's Banner"
+"Bannière du Chef"
 END
 CONTROLBAR:ToolTipMahudChiefLeadership
-"Each Mahûd Chieftain on the field decreases the cost of War and Siege Mûmakil by 5%, up to a maximum of 20%\n\n Modifier Type: Spell \nWhenever the Chieftain attacks,\n Mahûd troops gain +33% armour for 6 seconds \nAt rank 3, Mahûd troops also receive +33% damage\nPassive ability"
+"Chaque Chef Mahûd sur le terrain diminue le coût des Mûmakil de guerre et de siège de 5%, jusqu'à un maximum de 20% \n\n Modifier Type: Sort \nLorsque le chef attaque,\nles troupes Mahûd gagnent +33% d'armure pendant 6 secondes \nAu rang 3, les troupes Mahûd reçoivent également +33% de dégâts \nCapacité passive"
 END
 CONTROLBAR:PurchaseChiefTametheBeast
-"Purchase Tame the Beast (&R)"
+"Acheter Dompter la Bête (&R)"
 End
 CONTROLBAR:ToolTipPurchaseChiefTametheBeast
-"Once purchased, can be cast on a creep lair to convert it to the player's side"
+"Une fois achetée, peut être lancée sur une antre de monstres pour la faire passer du côté du joueur."
 End
 CONTROLBAR:ChiefTametheBeast
-"Tame the Beast (&R)"
+"Acheter Dompter la Bête (&R)"
 End
 CONTROLBAR:ToolTipChiefTametheBeast
-"Can be cast on a creep lair to convert it to the player's side\n Left click, then left click on target"
+"Peut être lancée sur une antre de monstres pour la faire passer du côté du joueur\n Clic gauche puis clic gauche sur la cible"
 End
 CONTROLBAR:ShamblingMenace
-"Shambling Menace (&R)"
+"Menace Ambulante (&R)"
 END
 CONTROLBAR:ToolTipShamblingMenace
-"Risen Carrion are extremely resilient to ranged attacks \n Can be activated to temporarily increase their movement speed by 50% \n Left click to activate"
+"Les Charognes ressuscitées sont extrêmement résistantes aux attaques à distance. \n Peut être activé pour augmenter temporairement sa vitesse de déplacement de 50% \n Clic gauche pour activer"
 END
 CONTROLBAR:TouchofCarrion
-"Touch of Carrion (&W)"
+"Toucher de Charogne (&W)"
 END
 CONTROLBAR:ToolTipTouchofCarrion
-"Requires Level 3 \n For 20 seconds, enemy targets hit by Risen Carrion lose -10% armour \n Units killed by the Risen Carrion will rise as skeletal Risen Carrion\nLeft click to activate"
+"Requiert niveau 3 \n Pendant 20 secondes, les cibles ennemies touchées par les Charognes ressuscitées perdent -10% d'armure. \n Les unités tuées par la Charogne ressuscitent sous la forme de Charognes également. \nClic gauche pour activer"
 END
 CONTROLBAR:HasharinSubtlety
-"Blades of Syâr-Rhul (&R)"
+"Lames de Syâr-Rhul (&R)"
 END
 CONTROLBAR:TooltipHasharinSubtlety
-"Hasharin Blades deal strong damage vs enemy heroes and heroic units\nPassive ability\n\n When activated, Hasharin Blades become stealthed for 20 seconds\nDuring this time, their attacks deal damage over time to enemy heroes and heroic units\n\n Left click icon to activate"
+"Les lames d'Hasharin infligent des dégâts importants aux héros ennemis et aux unités héroïques.\nCapacité passive\n\n Lorsqu'elles sont activées, les Lames de Hasharin deviennent stellaires pendant 20 secondes. \nPendant ce temps, leurs attaques infligent des dégâts sur la durée aux héros ennemis et aux unités héroïques.\n\n Clic gauche pour activer"
 END
 CONTROLBAR:EyesofSyarRhul
 "Eyes of Syâr-Rhul (&W)"
 END
 CONTROLBAR:TooltipEyesofSyarRhul
-"When damaging enemy heroes, the enemy hero becomes Marked by Syâr-Rhul, allowing the player to track the hero's movements for 60 seconds\nPassive ability\n\n When activated, can be cast on enemy unit to take on its appearance\n While disguised, the Hasharin cannot attack or be attacked, but can use certain powers \n \n Left click icon to activate  \n Hasharin autoheal at rank 2 \n Passive ability"
+"Lorsqu'il endommage un héros ennemi, celui-ci devient marqué par Syâr-Rhul, ce qui permet au joueur de suivre les mouvements du héros pendant 60 secondes. \nCapacité passive\n Lorsqu'elle est activée, elle peut être lancée sur une unité ennemie pour prendre son apparence. Lorsqu'il est déguisé, le Hasharin ne peut ni attaquer ni être attaqué, mais il peut utiliser certains de ses pouvoirs.\n \n Clic gauche sur l'icône pour activer \n Hasharin s'auto-soigne au rang 2 \Capacité passive"
 END
 CONTROLBAR:HasharinDispatch
-"Dispatch (&R)"
+"Répartition (&R)"
 END
 CONTROLBAR:ToolTipHasharinDispatch
-"Deals heavy melee damage to enemy heroes \n Left click icon then left click on target"
+"Inflige de lourds dégâts de mêlée aux héros ennemis \n Clic gauche sur l'icône puis clic gauche sur la cible"
 END
 CONTROLBAR:WickedMirage
-"Wicked Mirage (&T)"
+"Mirage Diabolique (&T)"
 END
 CONTROLBAR:ToolTipWickedMirage
-"Summons two mirages identical to the Hasharin \n Mirages deal no damage\nLeft click to activate"
+"Invoque deux mirages identiques aux Hasharin. \n Les mirages n'infligent aucun dégât. \nClic gauche pour activer."
 END
 CONTROLBAR:CorrosiveVial
 "Poisoned Well (&C)"
 End
 CONTROLBAR:ToolTipCorrosiveVial
-//"Requires Level 3 \n Disables an enemy structure\n Deals damage over time to enemies nearby the structure in a wide radius\nEffect lasts 45 seconds\nLeft click icon then left click on target"
-"Disables an enemy structure\n Deals damage over time to enemies nearby the structure in a wide radius\nEffect lasts 45 seconds\nLeft click icon then left click on target"
+//"Nécessite le niveau 3 \n Désactive une structure ennemie  \nInflige des dégâts au fil du temps aux ennemis proches de la structure dans un large rayon \n L'effet dure 45 secondes \n Clic gauche sur l'icône puis clic gauche sur la cible"
+"Désactive une structure ennemie  \nInflige des dégâts au fil du temps aux ennemis proches de la structure dans un large rayon \n L'effet dure 45 secondes \n Clic gauche sur l'icône puis clic gauche sur la cible"
 END
 CONTROLBAR:SmokeBomb
-"Smoke Bomb (&V)"
+"Bombes fumigènes (&V)"
 End
 CONTROLBAR:ToolTipSmokeBomb
-//"Requires Level 3 \n Disables defensive structures within the radius\nEnemies caught within the smoke suffer -90% vision range\n Left click icon then left click on target"
-"Requires Level 2 \n Disables defensive structures within the radius\nEnemies caught within the smoke suffer -90% vision range\n Lasts 30 seconds \n Left click icon then left click on target"
+//"Nécessite le niveau 3 \n Désactive les structures défensives dans le rayon d'action \n Les ennemis pris dans la fumée ont une portée de vision de -90% \n Clic gauche sur l'icône puis clic gauche sur la cible."
+"Nécessite le niveau 2 \n Désactive les structures défensives dans le rayon d'action\n Les ennemis pris dans la fumée ont une portée de vision de -90%\n Dure 30 secondes \nClic gauche sur l'icône puis clic gauche sur la cible"
 END
 CONTROLBAR:HasharinFanOfKnives
-"Fan of Knives (&V)"
+"Fan de Couteaux (&V)"
 END
 
 CONTROLBAR:ToolTipHasharinFanOfKnives
-//"Requires Level 3\n Hasharin teleports to targeted enemy unit, dealing area of effect damage upon impact\nLeft click icon then left click on target area"
-"Hasharin teleports to targeted enemy unit, dealing area of effect damage upon impact\nLeft click icon then left click on target area"
+//"Niveau 3 requis \n L'Hasharin se téléporte sur l'unité ennemie ciblée, infligeant des dégâts à zone d'effet au moment de l'impact.\nClic gauche puis clic gauche sur la zone cible"
+"L'Hasharin se téléporte sur l'unité ennemie ciblée, infligeant des dégâts à zone d'effet au moment de l'impact.\nClic gauche puis clic gauche sur la zone cible"
 END
 
 CONTROLBAR:ToolTipHasharinMarkedForDeath
-//"Requires Level 3\n Hasharin throws a poisoned knife at an enemy unit, dealing strong damage over time and slowing the target by 50%\nEffect lasts for 30 seconds\nLeft click icon then left click on target enemy unit"
-"Requires Level 3\n Hasharin throws a poisoned knife at an enemy unit, dealing strong damage over time and slowing the target by 50%\nEffect lasts for 10 seconds\nLeft click icon then left click on target enemy unit"
+//"Niveau 3 requis \n Hasharin lance un couteau empoisonné sur une unité ennemie, infligeant des dégâts importants sur la durée et ralentissant la cible de 50 %. \nL'effet dure 30 secondes. \nClic gauche sur l'icône puis clic gauche sur l'unité ennemie ciblée."
+"Niveau 3 requis \n Hasharin lance un couteau empoisonné sur une unité ennemie, infligeant des dégâts importants sur la durée et ralentissant la cible de 50 %. \nL'effet dure 30 secondes. \nClic gauche sur l'icône puis clic gauche sur l'unité ennemie ciblée"
 END
 
 CONTROLBAR:HasharinMarkedForDeath
-"Marked For Death (&V)"
+"Marqué à Mort (&V)"
 END
 
 OBJECT:HaradBazaar
-"Bazaar"
+"Bazar"
 END
 
 CONTROLBAR:SpecialAbilityHaradCaravanDeploy
-"Deploy Caravan (&W)"
+"Deployer Caravane (&W)"
 End
 
 CONTROLBAR:SpecialAbilityHaradCaravanUnDeploy
-"Pack up (&W)"
+"Plier bagage (&W)"
 End
 
 CONTROLBAR:SpecialAbilityHaradNomadDeploy
-"Make Camp (&W)"
+"Etablir le Camp (&W)"
 End
 
 CONTROLBAR:TooltipSpecialAbilityHaradNomadDeploy
-"Âmazhir Caravan deploys to become Âmazhir Camp \n Âmazhir Camp passively grants various buffs and can replenish units with Blackest of Teas \n Left click to activate"
+"La caravane d'Âmazhir se déploie pour devenir le camp d'Âmazhir \n Le camp d'Amazhir accorde divers buffs de manière passive et peut réapprovisionner les unités avec le Plus Noir des Thés.\n Clic gauche pour activer"
 End
 
 CONTROLBAR:TooltipSpecialAbilityHaradNomadUnDeploy
-"Âmazhir Caravan may move again but doesn't provide any buffs \n Left click to activate"
+"La caravane d'Âmazhir peut se déplacer à nouveau mais n'apporte pas de buffs \n Clic gauche pour activer"
 End
 
 OBJECT:HaradNomad
-"Âmazhir Caravan"
+" Caravane d'Âmazhir"
 END
 
 OBJECT:HaradNomadDeployed
-"Âmazhir Camp"
+"Camp d'Âmazhir "
 END
 
 CONTROLBAR:SpecialAbilityNomadHeal
-"Blackest of Teas (&R)"
+"Le Plus Noir des Thés (&R)"
 END
 
 CONTROLBAR:TooltipSpecialAbilityNomadHeal
-"Caravan must be deployed \n Replenishes one fallen unit in nearby battalions \n Left click to activate"
+"La Caravane doit être déployée \n Reconstitue une unité tombée au combat dans les bataillons voisins. \n Clic gauche pour activer"
 END
 
 CONTROLBAR:NomadArmor
-"Blessing of Mâhan"
+"Bénédiction de Mâhan"
 END
 
 CONTROLBAR:ToolTipNomadArmor
-"Caravan must be deployed \n Modifier Type: Leadership \n Allies near the Camp gain +33% armour\nPassive ability"
+"La Caravane doit être déployée \n Modifier Type: Charisme \n Les alliés proches du camp gagnent +33% d'armure\nCapacité passive"
 End
 
 CONTROLBAR:NomadDamage
-"Blessing of Shâhad"
+"Bénédiction de Shâhad"
 END
 
 CONTROLBAR:ToolTipNomadDamage
-"Caravan must be deployed \n Modifier Type: Leadership \n Allies near the Camp gain +33% damage\nPassive ability"
+"La Caravane doit être déployée \n Modifier Type: Charisme \n Les alliés proches du camp gagnent +33% de dégâts\nCapacité passive"
 End
 
 CONTROLBAR:NomadFear
-"Wind Demon's Favour"
+"Faveur du Démon du Vent"
 END
 
 CONTROLBAR:ToolTipNomadFear
-"Caravan must be deployed \n Modifier Type: Leadership \n Allies near the Camp earn experience 50% faster\nPassive ability"
+"La Caravane doit être déployée \n Modifier Type: Charisme \n Les Alliés proches du camp gagnent de l'expérience 50% plus vite\nCapacité passive"
 End
 
 CONTROLBAR:TooltipSpecialAbilityHaradCaravanDeploy
-"Caravan becomes immobile and produces resources\nLeft click to activate"
+"La caravane s'immobilise et produit des ressources\nClic gauche pour activer"
 End
 
 CONTROLBAR:TooltipSpecialAbilityHaradCaravanUnDeploy
-"Caravan can move again but ceases resource production\nLeft click to activate"
+"La caravane peut à nouveau se déplacer mais cesse de produire des ressources.\nClic gauche pour activer"
 End
 
 CONTROLBAR:CaravanDebuff
-"Fierce Competition"
+"Concurrence Féroce"
 End
 
 CONTROLBAR:ToolTipCaravanDebuff
-"When nearby Haradwaith structures and allied Trade Caravans \n Caravans lose -75% resource production \n Summoned structures are excluded \n Passive ability"
+"Lorsque des structures Haradwaith et des caravanes commerciales alliées se trouvent à proximité \n Les caravanes perdent 75 % de leur production de ressources \n Les structures invoquées sont exclues \n Capacité passive"
 End
 
 OBJECT:TradeCaravan
-"Southron Trade Caravan"
+"Caravane Commerciale Suderonne"
 END
 
 OBJECT:TradeCaravanDescription
-"Capitalist Bonus - Reduces cost of upgrades when deployed \n 2 Caravans: 5% \n 3 Caravans: 10% \n 4 Caravans: 15% \n 5 Caravans: 20% \n 6+ Caravans: 25%"
+"Bonus capitaliste - Réduit le coût des améliorations lors du déploiement \n 2 Caravanes: 5% \n 3 Caravanes: 10% \n 4 Caravanes: 15% \n 5 Caravanes: 20% \n 6+ Caravanes: 25%"
 END
 
 CONTROLBAR:ConstructTradeCaravan
-"Southron Trade Caravan (&W)"
+"Caravane Commerciale Suderonne (&W)"
 END
 
 OBJECT:HaradTrader
-"Trader"
+"Négociant"
 END
 
 OBJECT:HaradAmazhirNomad
-"Âmazhir Nomad"
+"Nomade d'Âmazhir"
 END
 
 CONTROLBAR:ConstructHaradNomad
-"Âmazhir Caravan (&E)"
+"Caravane d'Âmazhir  (&E)"
 END
 
 CONTROLBAR:ToolTipBuildHaradNomad
-"Mobile support structure \n Can deploy to grant nearby friendly units additional armour, damage and experience gain\n\n The Âmazhir are an ancient tribe of nomads. None are more intimately familiar with the vast South-lands of Middle-earth, or more privy to its many secrets."
+"Structure d'appui mobile \n Peut se déployer pour accorder aux unités amies proches des gains d'armure, de dégâts et d'expérience supplémentaires. Les Âmazhir sont une ancienne tribu de nomades. Nul n'est plus familier des vastes terres du sud de la Terre du Milieu, ni plus au fait de ses nombreux secrets.."
 END
 
 CONTROLBAR:ToolTipBuildTradeCaravan
-"Mobile economy structure\nCan deploy to produce resources and gain experience\n Can provide nearby units with upgrades\nReduces cost of unit upgrades when deployed\n\n Many well-worn trade routes connect the often distant and disparate places of habitation of Haradwaith. Merchants and traders are of great import, bringing with them the means of survival and news of the wide world beyond."
+"Structure d'appui mobile\nPeut se déployer pour produire des ressources et gagner de l'expérience.\n Peut fournir des améliorations aux unités voisines.\n Réduit le coût des améliorations des unités lorsqu'il est déployé.\n\n De nombreuses routes commerciales bien entretenues relient les lieux d'habitation souvent éloignés et disparates d'Haradwaith. Les marchands et les négociants sont d'une grande importance, apportant avec eux les moyens de survie et des nouvelles du vaste monde qui les entoure."
 END
 
 CONTROLBAR:CaravanBlades
-"Trade: Steel-forged Blades"
+"Commerce : Lames forgées en acier"
 END
 
 CONTROLBAR:ToolTipCaravanBlades
-"Requires Level 2 \n The Caravan trades with Khand for Steel-forged Blades. \n Units nearby the Caravan can be upgraded with Steel-forged Blades \n Once unlocked, all other caravans may trade this upgrade. \n Also upgrades building patrols \n Passive ability"
+"Requiert niveau 2 \n La Caravane échange avec Khand des lames forgées en acier. \n Les unités proches de la caravane peuvent être améliorées avec des lames forgées en acier.\n Une fois débloquée, toutes les autres caravanes peuvent échanger cette amélioration. \nAméliore également les patrouilles des bâtiments.\n Capacité passive"
 END
 
 CONTROLBAR:PurchaseUpgradeAngmarBasicTraining
 //"Purchase Ban&ner Carrier"
-"Purchase Silken Banners (&V)"
+"Acheter des Bannières en Soie (&V)"
 END
 
 CONTROLBAR:PurchaseUpgradeAngmarBasicTrainingMahud
 //"Purchase Ban&ner Carrier"
-"Purchase Indunâ (&V)"
+"Acheter Indunâ (&V)"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeAngmarBasicTraining
-"Increases this battalion to Level 2 \n Can only be equipped at Level 1"
+"Fait passer ce bataillon au niveau 2 \n Peut être équipé seulement au niveau 1"
 END
 
 CONTROLBAR:PurchaseUpgradeAngmarBasicTrainingCorsairs
 //"Purchase Ban&ner Carrier"
-"Purchase Oathsworn (&V)"
+"Acheter Prestation de Serment (&V)"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeAngmarBasicTrainingCorsairs
-"Increases this battalion to Level 2 \n Requires Burôdapân to have been recruited\n Can only be equipped at Level 1"
+"Fait passer ce bataillon au niveau 2 \n Burodapant doit avoir été recruté\n Peut être équipé seulement au niveau 1"
 END
 
 TOOLTIP:LackAngmarBasicTrainingCorsairs
-//"Research upgrade at Hall of King's Men to enable this equipment \n When equipped, increases the horde to Level 2"
-"Burôdapân must have been recruited to enable this equipment \n When equipped, increases the horde to Level 2"
+//"Recherche l'amélioration au Hall des Hommes du Roi pour activer cet équipement. \n Lorsqu'elle est équipée, la horde passe au niveau 2."
+"Burôdapân doit avoir été recruté pour activer cet équipement.\n Lorsqu'il est équipé, la horde passe au niveau 2."
 END
 
 CONTROLBAR:CaravanBanners
-"Trade: Silken Banners"
+"Commerce : Bannières en soie"
 END
 
 CONTROLBAR:ToolTipCaravanBanners
-"Units nearby the Caravan can be upgraded with Silken Banners\nPassive ability"
+"Les unités proches de la Caravane peuvent être améliorées avec des bannières en soie\n Capacité passive"
 END
 
 CONTROLBAR:CaravanArmor
-"Trade: Bronze Cuirasses"
+"Commerce : Cuirasses de bronze"
 END
 
 CONTROLBAR:ToolTipCaravanArmor
-"Requires Level 2 \n The Caravan trades with Rhûn for Bronze Cuirasses. \n Units nearby the Caravan can be upgraded with Bronze Cuirasses \n Once unlocked, all other caravans may trade this upgrade. \n Also upgrades building patrols \n Passive ability"
+"Requiert niveau 2 \n La Caravane échange avec Rhûn des cuirasses en bronze. \n Les unités proches de la Caravane peuvent être améliorées avec des cuirasses de bronze.\n Une fois débloquée, toutes les autres caravanes peuvent échanger cette amélioration. \n Améliore également les patrouilles de bâtiments \n Capacité passive"
 END
 
 CONTROLBAR:CaravanArrows
-"Trade: Oil-tipped Arrows"
+"Commerce : Flèches à pointe d'huile"
 END
 
 CONTROLBAR:ToolTipCaravanArrows
-"Requires Level 3 \n The Caravan trades with Umbar for Oil-tipped Arrows. \n Units nearby the Caravan can be upgraded with Oil-tipped Arrows \n Once unlocked, all other caravans may trade this upgrade. \n Also upgrades building patrols \n Passive ability"
+"Requiert niveau 3 \n La Caravane échange avec Umbar des flèches à pointe d'huile. \n Les unités proches de la caravane peuvent être améliorées avec des flèches à pointe d'huile. \n Une fois débloquée, toutes les autres caravanes peuvent échanger cette amélioration. \n Améliore également les patrouilles de bâtiment \n Capacité passive"
 END
 
 OBJECT:HaradWarlord
-"Harondor Warlord"
+"Seigneur de guerre d'Harondor"
 END
 
 CONTROLBAR:ConstructHaradWarlord
-"Harondor Warlord (&W)"
+"Seigneur de guerre d'Harondor (&W)"
 End
 
 CONTROLBAR:ToolTipBuildHaradWarlord
-"Capable of summoning a variety of Tribesmen units to serve him \n \n Messengers from Mordor stirred up great unrest in the vast tribal lands of Haradwaith. Those chiefs that bowed the deepest were elevated to powerful warlords, subjugating tribes and driving them to their doom in the northern wars."
+"Capable d'invoquer une variété d'unités tribales pour le servir. \n \n Les messagers du Mordor ont semé le trouble dans les vastes terres tribales d'Haradwaith. Les chefs qui s'inclinèrent le plus profondément furent élevés au rang de puissants seigneurs de guerre, soumettant les tribus et les conduisant à leur perte dans les guerres du Nord."
 End
 
 CONTROLBAR:LW_Unit_HaradWarlord
-"Harondor Warlord"
+"Seigneur de guerre d'Harondor"
 END
 
 CONTROLBAR:LW_Unit_HaradWarlordPlural
-"Harondor Warlords"
+"Seigneurs de guerre d'Harondor"
 END
 
 CONTROLBAR:LW_ToolTipBuild_HaradWarlord
-"Unit Type: Weak Support Unit\nVersatile\n"
+"Type d'unité: Unité de soutien faible\nVersatile\n"
 END
 
 BANNERUI:HaradWarlord
 // Singluar name of the Angmar Guardian category displayed in the army summary for WotR
-"Harondor Warlord"
+"Seigneur de guerre d'Harondor"
 End
 
 BANNERUI:HaradWarlords
 // Plural name of the Angmar Guardian category displayed in the army summary for WotR
-"Harondor Warlords"
+"Seigneurs de guerre d'Harondor"
 End
 
 OBJECT:TribalSpearmen
-"Tribal Spearman"
+"Lancier Tribal"
 End
 
 OBJECT:TribalSpearmenHorde
-"Tribal Spearmen"
+"Lanciers Tribal"
 End
 
 OBJECT:TribalJavelineers
-"Tribal Bowman"
+"Archer Tribal"
 END
 
 OBJECT:TribalJavelineersHorde
-"Tribal Bowmen"
+"Archer Tribal"
 END
 
 OBJECT:TribalAxeman
-"Tribal Axeman"
+"Porteur de hache Tribal"
 END
 
 OBJECT:TribalAxemenHorde
-"Tribal Axemen"
+"Porteurs de hache Tribal"
 END
 
 OBJECT:GuardoftheSerpent
-"Guard of the Serpent"
+"Garde du Serpent"
 END
 
 OBJECT:GuardsoftheSerpentHorde
-"Guards of the Serpent"
+"Gardes du Serpent"
 END
 
 CONTROLBAR:ConstructGuardoftheSerpentHorde
-"Guards of the Serpent (&D)"
+"Gardes du Serpent (&D)"
 End
 
 CONTROLBAR:ToolTipBuildGuardoftheSerpentHorde
@@ -80738,149 +80738,149 @@ CONTROLBAR:ToolTipBuildGuardoftheSerpentHorde
 End
 
 OBJECT:HarondorArcher
-"Harondor Archer"
+"Archer d'Harondor"
 END
 
 OBJECT:HarondorArcherHorde
-"Harondor Archers"
+"Archers d'Harondor"
 END
 
 CONTROLBAR:ConstructHarondorArcherHorde
-"Harondor Archers (&S)"
+"Archers d'Harondor (&S)"
 End
 
 CONTROLBAR:ToolTipBuildHarondorArcherHorde
-"Requires Level 3 Harondor Outpost \n Strong vs. Infantry \n\n The archers in Sûladan's ranks were well-trained and plentifully equipped, raining down great barrages of arrows upon their unsuspecting foes"
+"Requiert Avant Poste d'Harondor niveau 3\n Fort vs. Infanterie\n\n Les archers des rangs de Sûladan étaient bien entraînés et bien équipés, et faisaient pleuvoir de grandes volées de flèches sur leurs ennemis qui ne se doutaient de rien"
 End
 
 CONTROLBAR:LW_Unit_HaradHarondorArcherHorde
-"Harondor Archer Horde"
+"Horde d'Archers d'Harondor"
 END
 
 CONTROLBAR:LW_Unit_HaradHarondorArcherHordePlural
-"Harondor Archer Battalions"
+"Bataillons d'Archers d'Harondor"
 END
 
 BANNERUI:HarondorArcher
 // Singluar name of the Mordor Haradrim Archer category displayed in the army summary for WotR
-"Harondor Archer"
+"Archer d'Harondor"
 End
 
 BANNERUI:HarondorArchers
 // Plural name of the Mordor Haradrim Archer category displayed in the army summary for WotR
-"Harondor Archers"
+"Archers d'Harondor"
 End
 
 CONTROLBAR:LW_ToolTipBuild_HaradHarondorArcherHorde
-"Strong vs. Infantry \n\n The archers in Sûladan's ranks were well-trained and plentifully equipped, raining down great barrages of arrows upon their unsuspecting foes"
+"Fort vs. Infanterie \n\n Les archers des rangs de Sûladan étaient bien entraînés et bien équipés, et faisaient pleuvoir de grandes volées de flèches sur leurs ennemis qui ne se doutaient de rien"
 End
 
 OBJECT:HaradHarondorSwords
-"Harondor Swordsman"
+"Epéiste d'Harondor"
 END
 
 OBJECT:HaradHarondorSwordsHorde
-"Harondor Swords"
+"Epéistes d'Harondor"
 END
 
 CONTROLBAR:ConstructHaradHarondorSwordsHorde
-"Harondor Swords (&W)"
+"Epéistes d'Harondor (&W)"
 End
 
 CONTROLBAR:ToolTipBuildaradHaradrimSwordsHorde
-"Strong vs. Pikemen \n \n Carrying cruel swords that were curved like a fell lash, Sûladan's warriors were an unwelcome sight upon the southern horizon."
+"Fort vs. Piquiers \n \n Portant des épées cruelles, courbées comme un fouet, les guerriers de Sûladan étaient une attraction indésirable à l'horizon du sud."
 End
 
 OBJECT:HaradHarondorSpearmen
-"Harondor Spearman"
+"Lancier d'Harondor"
 END
 
 OBJECT:HaradHarondorSpearmenHorde
-"Harondor Spearmen"
+"Lanciers d'Harondor"
 END
 
 CONTROLBAR:ConstructHaradHarondorSpearmenHorde
-"Harondor Spearmen (&T)"
+"Lanciers d'Harondor (&T)"
 End
 
 CONTROLBAR:ToolTipBuildaradHaradrimSpearmenHorde
-"Requires Level 2 Harondor Outpost \n Strong vs. Cavalry and Heroes \n \n The brunt of Sûladan's forces was made up of spear-warriors capable of marching across vast distances at great speed."
+"Requiert Avant Poste d'Harondor niveau 2 \n Fort vs. Cavalerie et Héros \n \n Le gros des forces de Sûladan était constitué de guerriers armés de lances capables de parcourir de vastes distances à grande vitesse."
 End
 
 CONTROLBAR:LW_Unit_HaradHarondorSpearmenHorde
-"Harondor Spearmen Horde"
+"Horde de lanciers d'Harondor"
 END
 
 CONTROLBAR:LW_Unit_HaradHarondorSpearmenHordePlural
-"Harondor Spearmen Hordes"
+"Hordes de lanciers d'Harondor"
 END
 
 CONTROLBAR:LW_ToolTipBuild_HaradHarondorSpearmenHorde
-"Unit Type: Elite Pikemen\nStrong vs. Cavalry"
+"Type d'unité: Piquiers d'Elite\nFort vs. Cavalerie"
 End
 
 CONTROLBAR:LW_ToolTip_HaradHarondorSpearmenHorde
-"Unit Type: Elite Pikemen\nStrong vs. Cavalry"
+"Type d'unité: Piquiers d'Elite\nFort vs. Cavalerie"
 END
 
 BANNERUI:HarondorSpearman
-"Harondor Spearman"
+"Lancier d'Harondor"
 END
 
 BANNERUI:HarondorSpearmen
-"Harondor Spearmen"
+"Lancier d'Harondor"
 END
 
 OBJECT:HaradwaithHarondorRaider
-"Harondor Raider"
+"Chevalier d'Harondor"
 END
 
 OBJECT:HaradwaithHarondorRaiderHorde
-"Harondor Raiders"
+"Chevaliers d'Harondor"
 END
 
 CONTROLBAR:LW_Unit_HarondorRaiderHorde
-"Harondor Raiders Horde"
+"Horde de Chevaliers d'Harondor"
 End
 
 CONTROLBAR:LW_Unit_HarondorRaiderHordePlural
-"Harondor Raiders Hordes"
+"Hordes de Chevaliers d'Harondor"
 End
 
 BANNERUI:HarondorRaider
-"Harondor Raider"
+"Chevalier d'Harondor"
 End
 
 BANNERUI:HarondorRaiders
-"Harondor Raiders"
+"Chevaliers d'Harondor"
 End
 
 CONTROLBAR:LW_ToolTip_HarondorRaiderHorde
-"Unit Type: Basic Cavalry\nStrong vs. Archers"
+"Type d'unité: Cavalerie de base\nFort vs. Archers"
 End
 
 CONTROLBAR:ConstructHaradwaithHarondorRaidersHorde
-"Harondor Raiders (&R)"
+"Chevaliers d'Harondor (&R)"
 End
 
 CONTROLBAR:ConstructHaradwaithHarondorRaidersHordeWotR
-"Harondor Raiders (&W)"
+"Chevaliers d'Harondor (&W)"
 End
 
 CONTROLBAR:ToolTipBuildHaradwaithHarondorRaidersHorde
-"Requires Level 2 Harondor Outpost \n Strong vs. Archers and Swordsmen \n\n These raiders were known in Gondor for striking hard and fast, then retreating ere any retaliation could be organised."
+"Requiert Avant Poste d'Harondor niveau 2 \n Fort vs. Archers et Epéistes \n\n Ces Chevaliers étaient connus dans le Gondor pour frapper fort et rapidement, puis pour se retirer avant que des représailles ne puissent être organisées."
 End
 
 CONTROLBAR:ToolTipBuildHaradwaithHarondorRaidersHordeWotRRealTime
-"Strong vs. Archers and Swordsmen \n\n These raiders were known in Gondor for striking hard and fast, then retreating ere any retaliation could be organised."
+"Fort vs. Archers et Epéistes \n\n Ces Chevaliers étaient connus dans le Gondor pour frapper fort et rapidement, puis pour se retirer avant que des représailles ne puissent être organisées."
 End
 
 CONTROLBAR:LW_Unit_HaradwaithHarondorRaidersHorde
-"Harondor Raiders"
+"Chevaliers d'Harondor"
 END
 
 CONTROLBAR:LW_ToolTipBuild_HaradwaithHarondorRaidersHorde
-"Unit Type: Basic Cavalry\nStrong vs. Archers\n"
+"Type d'unité: Cavalerie basique\nFort vs. Archers\n"
 End
 
 
