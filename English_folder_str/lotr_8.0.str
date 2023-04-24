@@ -81417,7 +81417,7 @@ CONTROLBAR:ConstructHaradwaithNumenoreanVanguard
 End
 
 CONTROLBAR:ToolTipBuildHaradwaithNumenoreanVanguard
-"Requiert Citadelle d'Umbar niveau 3 \n  Fort contre Infanterie \n \n Caparaçonnée sur de grands chevaux cuirassés, la noblesse montée d'Umbar est connue pour avoir écrasé des insurrections tribales même lorsqu'elle était en infériorité numérique."
+"Requiert Citadelle d'Umbar Niveau 3 \n  Fort contre Infanterie \n \n Caparaçonnée sur de grands chevaux cuirassés, la noblesse montée d'Umbar est connue pour avoir écrasé des insurrections tribales même lorsqu'elle était en infériorité numérique."
 End
 
 CONTROLBAR:LW_Unit_HaradwaithNumenoreanVanguard
@@ -81517,43 +81517,43 @@ CONTROLBAR:ToolTipBuildHaradwaithHarondorRaiderHordeCamp
 End
 
 OBJECT:HaradScorpionExpansion
-"Den of Scorpions Expansion"
+"Extension Tanière des Scorpions"
 End
 
 OBJECT:ScorpionLair
-"Den of Scorpions"
+"Tanière des Scorpions"
 End
 
 OBJECT:HaradCatapultExpansion
-"Catapult Expansion"
+"Extension de Catapulte"
 End
 
 OBJECT:HaradSandstoneTowerExpansion
-"Domed Spire Expansion"
+"Extension de Dôme en forme de flèche"
 END
 
 CONTROLBAR:ConstructHaradCatapultExpansion
-"Catapult Expansion (&R)"
+"Extension de Catapulte (&R)"
 END
 
 CONTROLBAR:ToolTipConstructHaradCatapultExpansion
-"Long range defensive weapon"
+"Arme défensive à longue portée"
 END
 
 CONTROLBAR:ConstructHaradSandstoneTowerExpansion
-"Domed Spire Expansion (&W)"
+"Extension de Dôme en forme de flèche (&W)"
 END
 
 CONTROLBAR:ToolTipConstructHaradSandstoneTowerExpansion
-"Short Range Defensive Tower"
+"Tour Défensive à courte portée"
 END
 
 CONTROLBAR:ConstructHaradScorpionPitExpansion
-"Den of Scorpions Expansion (&E)"
+"Extension Tanière des Scorpions (&E)"
 END
 
 CONTROLBAR:ToolTipConstructHaradScorpionPitExpansion
-"Guarded by scorpions that attack nearby enemies"
+"Gardée par des scorpions qui attaquent les ennemis proches"
 END
 
 CONTROLBAR:ScorpionCamouflage
@@ -81561,15 +81561,15 @@ CONTROLBAR:ScorpionCamouflage
 END
 
 CONTROLBAR:ToolTipScorpionCamouflage
-"Requires Level 2 \n Becomes stealthed when standing still for 20 seconds \n Left click to activate"
+"Requiert niveau 2 \n Deviennent invisibles lorsqu'immobiles pendant 20s \n Clic gauche pour activer"
 END
 
 CONTROLBAR:GiantScorpionPoisonedStinger
-"Engorged Stinger"
+"Dard Empoisonné"
 END
 
 CONTROLBAR:ToolTipGiantScorpionPoisonedStinger
-"The Great Scorpion will periodically attack heroes with its stinger, dealing heavy initial damage, then poisoning its target for 10 seconds\n Passive ability"
+"Le Grand Scorpion attaque de temps en temps les héros avec son dard, infligeant de lourds dégâts de base, puis empoisonnant la cible pendant 10 secondes.\n Capacité passive"
 END
 
 CONTROLBAR:VenomSpray
@@ -81577,233 +81577,233 @@ CONTROLBAR:VenomSpray
 END
 
 CONTROLBAR:ToolTipVenomSpray
-"Requires Level 3 \n Target enemy structure is sprayed by the Great Scorpion's corrosive venom, causing it to take strong damage over time and lose -20% armour for 30 seconds\nLeft click icon then left click on target structure"
+"Requiert Niveau 3 \n La structure ennemie ciblée est aspergée par le venin corrosif du Grand Scorpion, ce qui lui inflige des dégâts importants sur la durée et lui fait perdre -20% d'armure pendant 30 secondes.\nClic gauche sur l'icône puis clic gauche sur la structure cible"
 END
 
 CONTROLBAR:HardenedCarapace
-"Hardened Carapace"
+"Carapace renforcée"
 END
 
 CONTROLBAR:ToolTipHardenedCarapace
-"Requires Level 5 \nArmour is permanently increased by 25%\nArmour against structural damage is permanently increased by 50%\nPassive ability"
+"Requiert Niveau 5 \nL'armure est aumgmentée de 25% de façon permanente\nL'armure contre les dégâts structurels est augmentée en permanence de 50 %.\nCapacité passive"
 END
 
 CONTROLBAR:DreadMask
-/////"Dread Mask"
-"Stern Gaze"
+/////"Masque d'épouvante"
+"Regard Sévère"
 End
 
 CONTROLBAR:TooltipDreadMask
-"Modifier Type: Passive Debuff \n Nearby enemy units suffer -10% armour \nPassive ability"
+"Modifier Type: Debuff passif\n Les ennemis proches voient leur armure réduite de 10% \nCapacité passive"
 End
 
 CONTROLBAR:RisenCarrionDebuff
-/////"Dread Mask"
+/////"Masque d'épouvante"
 "TBD"
 End
 
 TooltipRisenCarrionDebuff
-"Modifier Type: Passive Debuff \n Nearby enemy units suffer -25% damage and speed \nPassive ability"
+"Modifier Type: Debuff passif \n Les unités ennemies proches suffer se voient infliger -25% de dégâts et de vitesse \nCapacité passive"
 End
 
 CONTROLBAR:SpecialAbilityWarriorsReach
-"Quaking Hearts (&R)"
+"Coeurs Tremblants (&R)"
 End
 
 CONTROLBAR:ToolTipSpecialAbilityWarriorsReach
-"Requires Level 3 \n Modifier type: Debuff \n For 20 seconds, struck enemies inflict -25% damage \n Left click to activate"
+"Requiert Niveau 3 \n Modifier type: Debuff \n Pendant 20 secondes, les ennemis touchés infligent -25% de dégâts \nClic gauche pour activer"
 End
 
 CONTROLBAR:ArmouredCharge
-"Armoured Charge (&R)"
+"Charge Blindée (&R)"
 END
 
 CONTROLBAR:ToolTipArmouredCharge
-"Requires Level 3 \n For 15 seconds, the Vanguard deals -25% melee damage but has a -50% reduction in crush deceleration\nLeft click to activate"
+"Requiert Niveau 3 \n Pendant 15 secondes, l'Avant-Garde inflige -25% de dégâts en mêlée mais bénéficie d'une réduction de -50% de la décélération de l'écrasement.\nClic gauche pour activer"
 END
 
 CONTROLBAR:SerpentsSting
-"Serpent's Sting (&R)"
+"Aiguillon du Serpent (&R)"
 END
 
 CONTROLBAR:ToolTipSerpentsSting
-"Requires Level 3 \n Poisons targeted enemies causing damage over time for 15 seconds \n Left click to activate"
+"Requiert Niveau 3 \n Empoisonne les ennemis ciblés en leur infligeant des dégâts sur la durée pendant 15 secondes. \n Clic gauche pour activer"
 END
 
 CONTROLBAR:BlackSerpentBanner
-"Unbending Charge (&T)"
+"Charge Inflexible (&T)"
 END
 
 CONTROLBAR:ToolTipBlackSerpentBanner
-"Requires Level 5 \n Nearby Harondor Raiders, Black Númenórean Vanguard, and Sûladan all gain +100% armour against specialist damage for 20 seconds\nCan only be cast when mounted\n Left click to activate"
+"Requiert Niveau 5 \n Les Chevaliers d'Harondor proches, l'Avant-Garde des Numénoréens Noirs et Sûladan gagnent tous +100% d'armure contre les dégâts des spécialistes pendant 20 secondes\nPeut seulement être lancé quand monté\n Clic gauche pour activer"
 END
 
 CONTROLBAR:BlackenedBlood
-"Blackened Blood (&W)"
+"Sang Noirci (&W)"
 END
 
 CONTROLBAR:ToolTipBlackenedBlood
-"Marauders heal quickly once out of combat, are immune to knockback and trample\n Passive ability \n At rank 3, can be activated to cause attacks to drain health from enemy units for 20 seconds\nLeft click to activate"
+"Les Maraudeurs se soignent rapidement une fois hors combat et sont immunisés contre les coups et les piétinements.\n Capacité Passive \n Au rang 3, peut être activée pour que les attaques drainent la santé des unités ennemies pendant 20 secondes\nClic gauche pour activer"
 END
 
 CONTROLBAR:AccursedBastion
-"Accursed Bastion (&R)"
+"Bastion Maudit (&R)"
 END
 
 CONTROLBAR:ToolTipAccursedBastion
-"Requires Rank 4 \n For 15 seconds, Nâfarati Marauders gain +50% armour and +50% damage, but lose -33% speed\n When Accursed Bastion ends, all nearby enemies are moderately knocked back\n Left click to activate"
+"Requiert Niveau 4 \n Pendant 15 secondes, les Maraudeurs Nâfarati gagnent +50% d'armure et +50% de dégâts, mais perdent -33% de vitesse. Quand "Bastion Maudit" se termine, tous les ennemis proches sont modérément repoussés.\n Clic gauche pour activer"
 END
 
 CONTROLBAR:ToolTipToggleWatchersofKarnaWeapons
-"Left click to toggle between bow and staff \n Modifier Type: Debuff \n  Melee attacks slow enemy units by 10% \n Passive ability"
+"Clic gauche pour alterner entre l'arc et le bâton \n Modifier Type: Debuff \n  Les attaques de mêlée ralentissent les unités ennemies de 10% \n Capacité Passive"
 END
 
 CONTROLBAR:RitualofSacrifice
-"Ritual of Sacrifice (&R)"
+"Rituel du Sacrifice (&R)"
 END
 
 CONTROLBAR:ToolTipRitualofSacrifice
-"Modifier Type: Spell\nWatchers of Kârna can select enemy battalion or hero for a sacrifice to appease the ancient evil that lies within the temples of Nâfarat\n For 30 seconds Watchers of Kârna gain +100% experience and +33% damage when near chosen enemy\n\n Left click then left click target enemy unit"
+"Modifier Type: Sort\nLes Guetteurs de Kârna peuvent choisir un bataillon ou un héros ennemi pour le sacrifier afin d'apaiser le mal ancien qui se trouve dans les temples de Nâfarat \n Pendant 30 secondes, les Guetteurs de Kârna gagnent +100% d'expérience et +33% de dégâts lorsqu'ils se trouvent à proximité de l'ennemi choisi.\n\n Clic gauche puis clic gauche sur l'unité ennemie ciblée"
 END
 
 CONTROLBAR:AncientGuardians
-"Ancient Guardians"
+"Anciens Gardiens"
 END
 
 CONTROLBAR:TooltipAncientGuardians
-"Requires Level 4\nWatchers of Kârna grant nearby friendly structures +50% armour\nPassive ability"
+"Requiert Niveau 4\nLes Guetteurs de Kârna accordent aux structures alliées proches +50% d'armure.\nCapacité Passive"
 END
 
 CONTROLBAR:Predictable
-"Chant of the Deeps (&C)"
+"Chant des Profondeurs (&C)"
 END
 
 CONTROLBAR:ToolTipPredictable
-"Requires Level 7\nModifier Type: Buff and Active Debuff\nNearby friendly units gain knockback resistance and +15% movement speed for 20 seconds\nNearby enemy units lose -50% armour for 20 seconds\nLeft click to activate"
+"Requiert Niveau 7\nModifier Type: Buff et Debuff Actifs\nLes unités alliées proches gagnent une résistance aux coups et +15% de vitesse de déplacement pendant 20 secondes. Les unités ennemies proches perdent -50% d'armure pendant 20 secondes.\nClic gauche pour activer"
 END
 
 CONTROLBAR:Submit
-"Submit! (&R)"
+"Soumettez vous! (&R)"
 END
 
 CONTROLBAR:ToolTipSubmit
-"Requires Lies and Threats upgrade \n Harondor Warlords can sacrifice members of their hordes for +10% speed and +15% damage \n Lasts 30 seconds \nLeft click to activate"
+"Requiert l'amélioration Mensonges et Menaces \n Les seigneurs de guerre d'Harondor peuvent sacrifier des membres de leur horde pour obtenir +10% de vitesse et +15% de dégâts. \n Dure 30 seconds \nClic gauche pour activer"
 END
 
 CONTROLBAR:PurchaseHaradLiesandThreats
-"Research Lies and Threats (&E)"
+"Rechercher Mensonges et Menaces (&E)"
 END
 
 CONTROLBAR:ToolTipPurchaseHaradLiesandThreats
-"Increases Harondor Warlords' armour\n Unlocks the "Submit!" ability for tribal hordes"
+"Améliore l'armure des Seigneurs de Guerre d'Harondor\n Débloque la capacité "Soumettez Vous !" pour les hordes tribales"
 END
 
 TOOLTIP:LackLevel3HaradLiesandThreats
-"Requires Level 1 Harondor Outpost"
+"Requiert Avant-Poste d'Harondor Niveau 1"
 END
 
 CONTROLBAR:LiesandThreatsFake
-"Lies and Threats"
+"Mensonges et Menaces"
 END
 
 CONTROLBAR:ToolTipLiesandThreatsFake
-"Requires Lies and Threats upgrade \n Harondor Warlords have increased armour \n Passive ability"
+"Requiert l'amélioration Mensonges et Menaces \n Les Seigneurs de Guerre d'Harondor voient leur armure s'accroître \n Capacité Passive"
 END
 
 CONTROLBAR:PurchaseUpgradeHaradFortressBanners
-"Threat of Mordor (&W)"  
+"Menace du Mordor (&W)"  
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeHaradFortressBanners
-"Modifier Type: Passive Debuff\nNearby enemies suffer -25% damage and -20% armour\n\nReduces Hero cost by 10%\n Reduces Hero recruit time by 10%\nReduces cost of builders by 20%"
+"Modifier Type: Debuff Passif\nLes ennemis proches subissent -25% de dégâts et -20% d'armure.\n\nReduit le coût des Héros de 10%\n Réduit le temps de recrutement des Héros de 10%\nRéduit le coût des Bâtisseurs de 20%"
 END
 
 CONTROLBAR:PurchaseUpgradeHaradFortressHarondor
-"Subjugation: Near Harad (&R)"  
+"Asservissement: Proche Harad (&R)"  
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeHaradFortressHarondor
-"Permanently decreases build time of Harondor units by 20% \n Allows Tribal Camps to summon Harondor units \n Adds fire damage to all attached towers"
+"Diminue de façon permanente le temps de construction des unités Harondor de 20 %. \n Permet aux camps tribaux d'invoquer des unités Harondor \n Ajoute des dégâts de feu à toutes les tours reliées"
 END
 
 CONTROLBAR:PurchaseUpgradeHaradFortressNafarat
-"Subjugation: Nâfarat (&E)"  
+"Asservissement: Nâfarat (&E)"  
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeHaradFortressNafarat
-"Provides healing to nearby troops"
+"Soigne les troupes à proximité"
 END
 
 CONTROLBAR:PurchaseUpgradeHaradFortressMahud
-"Subjugation: Mahûd (&T)"  
+"Asservissment: Mahûd (&T)"  
 END
 
 CONTROLBAR:SpecialAbilitySummonOliphaunt
-"Summon Oliphaunt (&T)"
+"Invoque un Oliphant (&T)"
 End
 
 CONTROLBAR:ToolTipSpecialAbilitySummonOliphaunt
-"Requires the Subjugation: Mahûd upgrade\n Temporarily summons an Oliphaunt\n Left click on icon then left click on target area"
+"Requiert l'Asservissement: Amélioration Mahûd\n Invoque temporairement un Oliphant\n Clic gauche sur l'icône puis clic gauche sur la zone cible"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeHaradFortressMahud
-"Prerequisite to the Hegemony upgrade\nPermanently decreases cost and build time of Mûmakil units by 20% \n Allows the Fortress to temporarily summon an Oliphaunt"
+"Pré-requis à l'amélioration Hégémonie\nDiminue en permanence le coût et le temps de construction des Mûmakil de 20%. \n Permet à la Forteresse d'invoquer temporairement un Oliphant."
 END
 
 CONTROLBAR:PurchaseUpgradeHaradFortressHegemony
-"Hegemony (&S)"  
+"Hégémonie (&S)"  
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeHaradFortressHegemony
-"Requires the Subjugation: Mahûd upgrade\nIncreases fortress armour by 65%\nReduces recruitment cost of Corsairs and Black Númenórean units by 15%\nUnlocks Sauron's Reward"
+"Requiert l'Asservissement : Amélioration Mahûd\nAméliore l'armure de la Forteresse de 65%\nRéduit le coût de recrutement des Corsaires et des unités de Numénoréens Noirs de 15%.\nDéverrouille la Récompense de Sauron"
 END
 
 CONTROLBAR:SauronsReward
-"Sauron's Reward (&S)"  
+"Récompense de Sauron (&S)"  
 END
 
 CONTROLBAR:ToolTipSauronsReward
-"Requires the Hegemony upgrade\nPermanently empowers targeted hero with +33% armour and +33% damage \n Does not work on the Golden King or Zigûr\nDoes not stack\nLeft click on icon, then left click on target hero"
+"Requiert l'amélioration Hégémonie\nConfère en permanence au héros ciblé +33% d'armure et +33% de dégâts. \n Ne fonctionne pas sur le Roi Doré ou Zigûr\nNe se cumule pas\nClic gauche sur l'icône puis clic gauche sur le héros cible"
 END
 
 CONTROLBAR:ConstructSanctumofZigur
-"Build Sanctum of Zigûr (&V)"
+"Construire Sanctuaire de Zigûr (&V)"
 End
 
 CONTROLBAR:ToolTipConstructSanctumofZigur
-"Trains Zigûr Cultists and Hasharin Blades\nLimited to 1\n\n Zigûr-worship is an ancient practice among those initiated few that remember it. Under the Golden King's terrible reign, it has once again risen to prominence."
+"Entraîne les Fanatiques de Zigûr et les Lames Hasharin\nLimité à 1\n\n Le culte de Zigûr est une pratique ancienne parmi les quelques initiés qui s'en souviennent. Sous le terrible règne du Roi Doré, elle a repris de l'importance."
 End
 
 OBJECT:SanctumofZigur
-"Sanctum of Zigûr"
+"Sanctuaire de Zigûr"
 END
 
 OBJECT:SanctumofZigurDescription
-"Level 2: +10% faster build speed\n Level 3: +25% faster build speed"
+"Niveau 2: +10% de vitesse de construction\n Niveau 3: +25% de vitesse de construction"
 END
 
 CONTROLBAR:ToolTipBuildSanctumofZigurLevel2Upgrade
-"Allows training of Hasharin Blades and researching Spirit of Zigûr\n+10% faster build speed"
+"Permet l'entraînement des Lames d'Hasharin et la recherche de l'Esprit de Zigûr\n+10% de vitesse de construction"
 End
 
 CONTROLBAR:ConstructSanctumofZigur2Upgrade
-"Upgrade Sanctum of Zigûr to Level 2 (&A)"
+"Améliorer le Sanctuaire de Zigûr au niveau 2 (&A)"
 End
 
 CONTROLBAR:ConstructSanctumofZigurLevel3Upgrade
-"Upgrade Sanctum of Zigûr to Level 3 (&A)"
+"Améliorer le Sanctuaire de Zigûr au niveau 3 (&A)"
 End
 
 CONTROLBAR:ConstructZigurCultistsHorde
-"Zigûr Cultists (&W)"
+"Fanatiques de Zigûr (&W)"
 End
 
 CONTROLBAR:TooltipBuildZigurCultistsHorde
-"Battlefield Support Unit \n \n Learned in the ancient rites and customs of the Cult of Zigûr, these fanatical cultists seek to gain the Dark Lord's favor and wield some of his power through the sacrifice of living Men."
+"Unité de soutien \n \n Instruits des anciens rites et coutumes du culte de Zigûr, ces fanatiques cherchent à gagner les faveurs du Seigneur des Ténèbres et à exercer une partie de son pouvoir par le sacrifice d'hommes vivants."
 End
 
 OBJECT:HordeZigurCultists
-"Zigûr Cultists"
+"Fanatiques de Zigûr"
 End
 
 OBJECT:ZigurCultistAcolyte
@@ -81811,68 +81811,68 @@ OBJECT:ZigurCultistAcolyte
 End
 
 OBJECT:ZigurCultistBanner
-"Zigûr Cultist"
+"Fanatique de Zigûr"
 End
 
 CONTROLBAR:LW_Unit_ZigurCultistsHorde
-"Zigûr Cultist Horde"
+"Horde de Fanatique de Zigûr"
 END
 
 CONTROLBAR:LW_Unit_ZigurCultistsHordePlural
-"Zigûr Cultist Hordes"
+"Hordes de Fanatique de Zigûr"
 END
 
 BANNERUI:ZigurCultist
-"Zigûr Cultist"
+"Fanatique de Zigûr"
 End
 
 BANNERUI:ZigurCultists
-"Zigûr Cultists"
+"Fanatiques de Zigûr"
 End
 
 CONTROLBAR:LW_ToolTipBuild_ZigurCultistsHorde
-"Unit Type: Support Unit\nWeak vs. Archers and Cavalry\n"
+"Unit Type: Unité de Soutien\nFaible vs. Archers et Cavalerie\n"
 End
 
 CONTROLBAR:ConstructZigurArbitersHorde
-"Arbiters of Zigûr"
+"Arbitres de Zigûr"
 End
 
 CONTROLBAR:TooltipBuildZigurArbitersHorde
-"Strong vs Pikemen\n\nUtterly corrupted by Zigûr's dark sorcery, these unfeeling Men delight in meting out cold judgement upon those that dare resist the word of the Golden King or his Black Vizier."
+"Fort vs Piquiers\n\nTotalement corrompus par la sombre sorcellerie de Zigûr, ces hommes insensibles se plaisent à juger froidement ceux qui osent résister à la parole du Roi Doré ou de son Noir Vizir."
 END
 
 OBJECT:ArbiterofZigur
-"Arbiter of Zigûr"
+"Arbitre de Zigûr"
 End
 
 OBJECT:ArbiterofZigurHorde
-"Arbiters of Zigûr"
+"Arbitres de Zigûr"
 End
 
 CONTROLBAR:LW_Unit_ArbiterofZigurHorde
-"Arbiters of Zigûr Horde"
+"Horde d'Arbitres de Zigûr"
 End
 
 CONTROLBAR:LW_Unit_ArbiterofZigurHordePlural
-"Arbiters of Zigûr Hordes"
+"Hordes d'Arbitres de Zigûr"
 End
 
 BANNERUI:ArbiterofZigur
-"Arbiter of Zigûr"
+"Arbitre de Zigûr"
 End
 
 BANNERUI:ArbitersofZigur
-"Arbiters of Zigûr"
+"Arbitres de Zigûr"
 End
 
 
 CONTROLBAR:ArbitersSpiritOfZigur
-"Spirit of Zigûr (&T)"
+"Esprit de Zigûr (&T)"
 End
 
 CONTROLBAR:ArbitersZealotry
-"Zealotry (&R)"
+"Zélotisme (&R)"
 End
 
 CONTROLBAR:CultistsDesolation
@@ -81880,7 +81880,7 @@ CONTROLBAR:CultistsDesolation
 End
 
 CONTROLBAR:TooltipCultistsDesolation
-"Target area is covered in blistering heat for 30 seconds \nEnemy units that enter the area lose -33% movement speed \n Left click icon then left click on target area"
+"La zone ciblée est emplie d'une chaleur étouffante pendant 30 secondes. \nLes unités ennemies qui entrent dans la zone perdent -33% de vitesse de déplacement. \n Clic gauche sur l'icône puis clic gauche sur la zone cible"
 End
 
 CONTROLBAR:CultistsMorgothsPillar
