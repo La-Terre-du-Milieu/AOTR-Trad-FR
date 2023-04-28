@@ -65,68 +65,68 @@ END
 // comment:
 
 TIME:Days
-"%d Days"
+"%d jours"
 END
 
 TIME:Day
-"1 Day"
+"1 jour"
 END
 
 TIME:Hours
-"%d Hours"
+"%d heures"
 END
 
 TIME:Hour
-"1 Hour"
+"1 heure"
 END
 
 TIME:Minutes
-"%d Minutes"
+"%d minutes"
 END
 
 TIME:Minute
-"1 Minute"
+"1 minute"
 END
 
 TIME:Seconds
-"%d Seconds"
+"%d secondes"
 END
 
 TIME:Second
-"1 Second"
+"1 seconde"
 END 
 
 // context: Color names. They are used in a drop list where the player can select the house color for his side in a multiplayer game, so the player can identify his units.
 Color:Gold
-"Gold"
+"Or"
 END
 
 Color:Red
-"Red"
+"Rouge"
 END
 
 Color:MordorRed
-"Mordor Red"
+"Rouge Mordor"
 END
 
 Color:Blue
-"Blue"
+"Bleu"
 END
 
 Color:GondorBlue
-"Gondor Blue"
+"Bleu Gondor"
 END
 
 Color:Green
-"Green"
+"Vert"
 END
 
 Color:RohanGreen
-"Elven Green"
+"Vert Rohan"
 END
 
 Color:Black
-"Sauron Black"
+"Noir Sauron"
 END
 
 Color:Orange
@@ -138,11 +138,11 @@ Color:SkyBlue
 END
 
 Color:Purple
-"Purple"
+"Violet"
 END
 
 Color:Pink
-"Fairy Pink"
+"Rose Féerique"
 END
 
 // context: Team names. They are used in a drop list where the player can select his team for a multiplayer game
@@ -167,7 +167,7 @@ Team:4
 END
 
 Team:AI
-"CPU"
+"IA"
 END
 
 // context:
@@ -183,7 +183,7 @@ END
 //context:
 
 GUI:MustHaveAdminRights
-"You must have administrative rights to install a patch."
+"Vous devez disposer des droits d'administrateur pour installer le patch correctif."
 END
 
 GUI:Age
@@ -538,7 +538,7 @@ END
 
 APT:ConfirmationCancel
 // context: Cancel button text for confirmation dialog (message box)
-"CANCEL"
+"ANNULER"
 END
 
 APT:MainMenuLoadGame
@@ -2112,8 +2112,7 @@ GUI:Ok
 END
 
 GUI:Yes
-// context: Confirmation Button
-"YES"
+"OUI"
 END
 
 GUI:No
@@ -2123,7 +2122,7 @@ END
 
 GUI:Cancel
 // context: Button to abort an action
-"CANCEL"
+"ANNULER"
 END
 
 GUI:Back
@@ -2143,7 +2142,7 @@ END
 
 GUI:CancelMapSelect
 // context: Button to cancel the selection of a map
-"CANCEL"
+"ANNULER"
 END
 
 GUI:Accept
@@ -9805,51 +9804,51 @@ OBJECT:BrokenDoor
 END
 
 OBJECT:Bench
-"Bench"
+"Banc"
 END
 
 OBJECT:Beams
-"Beams"
+"Poutres"
 END
 
 OBJECT:TimberPile
-"Timber Pile"
+"Pile de bois"
 END
 
 OBJECT:VineBarricade
-"Vine Barricade"
+"Barricade de Vigne"
 END
 
 OBJECT:Urn
-"Urn"
+"Urne"
 END
 
 OBJECT:LogBlock
-"Log Block"
+"Bloc de Journal"
 END
 
 OBJECT:Wench
-"Wench"
+"Servante"
 END
 
 OBJECT:Spike
-"Spike"
+"Pointe"
 END
 
 OBJECT:SpikePatch
-"Spike Patch"
+"Pièce de pointe"
 END
 
 OBJECT:SpikeTripod
-"Spike Tripod"
+"Trépied à pointes"
 END
 
 OBJECT:CrateBombs
-"Crate Bombs"
+"Caisse de Bombes"
 END
 
 OBJECT:BombsStack
-"Bomb Stack"
+"Amas de Bombe"
 END
 
 OBJECT:Barricade
@@ -9857,39 +9856,39 @@ OBJECT:Barricade
 END
 
 OBJECT:BrokenFurniture
-"Broken Furniture"
+"Meubles cassés"
 END
 
 OBJECT:Sword
-"Sword"
+"Epée"
 END
 
 OBJECT:Spear
-"Spear"
+"Lance"
 END
 
 OBJECT:Shield
-"Shield"
+"Bouclier"
 END
 
 OBJECT:Corner
-"Corner"
+"Coin"
 END
 
 OBJECT:WaterRipples
-"Water Ripples"
+"Ondulations de l'eau"
 END
 
 OBJECT:Sparkles
-"Sparkles"
+"Scintillements"
 END
 
 OBJECT:Sparks
-"Sparks"
+"Etincelles"
 END
 
 OBJECT:Flood
-"Flood"
+"Inonder"
 END
 
 OBJECT:Devastation
@@ -9897,47 +9896,47 @@ OBJECT:Devastation
 END
 
 OBJECT:Footprints
-"Footprints"
+"Empreintes"
 END
 
 OBJECT:IthilienSupplies
-"Supplies"
+"Provisions"
 END
 
 OBJECT:Pylon
-"Pylon"
+"Pylône"
 END
 
 OBJECT:LUGalMirror
-"Galadriel's Mirror"
+"Miroir de Galadriel"
 END
 
 OBJECT:Well
-"Well"
+"Fontaine"
 END
 
 OBJECT:Corpse
-"Corpse"
+"Cadavre"
 END
 
 OBJECT:Bridge
-"Bridge"
+"Pont"
 END
 
 OBJECT:Dock
-"Dock"
+"Quai"
 END
 
 OBJECT:Beacon
-"Beacon"
+"Flambeau"
 END
 
 OBJECT:WargLair
-"Warg Lair"
+"Repaire de Warg"
 END
 
 OBJECT:JungleWargLair
-"Jungle Warg Lair"
+"Repaire de Warg dans la Jungle"
 END
 
 OBJECT:WARG
@@ -9945,235 +9944,235 @@ OBJECT:WARG
 END
 
 OBJECT:RuinedTower
-"Ruined Tower"
+"Tour en ruines"
 END
 
 OBJECT:GoblinLair
-"Goblin Lair"
+"Antre Gobelin"
 END
 
 OBJECT:CaveTrollLair
-"Cave Troll Lair"
+"Antre de Troll des Cavernes"
 END
 
 OBJECT:SnowTrollLair
-"Snow-troll Lair"
+"Repaire de Troll des neiges"
 END
 
 OBJECT:HillTrollLair
-"Hill Troll Lair"
+"Repaire de Trolls des collines"
 END
 
 OBJECT:StoneTrollLair
-"Stone-troll Lair"
+"Repaire de Troll des Cavernes"
 END
 
 OBJECT:BarrowWightLair
-"Wight Lair"
+"Repaire de Créature"
 END
 
 OBJECT:BarrowWight
-"Wight"
+"Créature"
 END
 
 OBJECT:BarrowWightHorde
-"Wights"
+"Créatures"
 END
 
 OBJECT:GenericCaveTroll
-"Cave Troll"
+"Troll des Cavernes"
 END
 
 OBJECT:GenericSnowTroll
-"Snow-troll"
+"Troll des neiges"
 END
 
 OBJECT:GenericHillTroll
-"Hill Troll"
+"Troll des Collines"
 END
   
 OBJECT:GenericWargRider
-"Warg Rider"
+"Chevaucheur de Warg"
 END
   
 OBJECT:GenericGoblinSwordsman
-"Moria Orc Swordsman"
+"Epéiste Gobelins de la Moria"
 END
   
 OBJECT:GenericGoblinArcher
-"Moria Orc Archers"
+"Archer Gobelins de la Moria"
 END
 
 OBJECT:WildWargRider
-"Gundabad Wolf-rider"
+"Chevaucheur de Wargs de Gundabad"
 END
 OBJECT:GenericMountainTroll
-"Mountain Troll"
+"Troll des Montagnes"
 END
 
 CONTROLBAR:TrollFindTree
-"Find a Tree (&C)"
+"Trouver un arbre (&C)"
 END
 
 CONTROLBAR:ConstructWarg
-"&Warg"
+"Warg"
 END
 
 CONTROLBAR:ToolTipBuildWarg
-"Strong vs. Archers"
+"Forts contre les archers"
 END
 
 CONTROLBAR:ConstructSpider
-"Spiderling (&W)"
+"Araignée (&W)"
 END
 
 CONTROLBAR:ToolTipBuildSpider
-"Strong vs. Swordsmen"
+"Forts contre les épéistes"
 END
 
 CONTROLBAR:ConstructBarrowWight
-"Wight (&W)"
+"Spectre des Galgals (&W)"
 END
 
 CONTROLBAR:ToolTipBuildBarrowWight
-"Recruit a Wight to fight for your side"
+"Recruter un Spectre pour qu'il combatte à vos côtés."
 END
 
 CONTROLBAR:NimrodelWaters
-"Blessed Waters (&E)"
+"Eaux bénies de Nimrodel (&W)"
 END
 
 CONTROLBAR:ToolTipNimrodelWaters
-"The Mallorn Tree is bathed in blessed waters. Nearby units are healed in its presence."
+"Le Mallorn est baigné des eaux de la Nimrodel, un affluent de la rivière Celebrant qui naît dans les Monts Brumeux et traverse la Lothlórien. \n Les alliés proches du Mallorn sont soignés."
 END
 
 CONTROLBAR:MallornRoots
-"Mallorn Roots (&R)"
+"Racine de Mallorn (&E)"
 END
 
 CONTROLBAR:ToolTipMallornRoots
 //"Requires Level 2 Mallorn Tree \n Nearby enemies are slowed"
-"Modifier Type: Debuff\nNearby enemies are slowed and suffer minor damage over time\n Mallorn Tree receives +33% armour"
+"Type de modificateur Débuff : les ennemis proches sont ralentis et subissent des dégâts mineurs sur la durée. Le Mallorn reçoit +33% d'armure"
 END
 
 OBJECT:Obsolete
-"Obsolete"
+"Obsolète"
 END
 
 OBJECT:Fire
-"Fire"
+"Feu"
 END
 
 OBJECT:Bonfire
-"Bonfire"
+"Feu de joie"
 END
 
 OBJECT:CampFire
-"Camp Fire"
+"Feu de camp"
 END
 
 OBJECT:CastFloor
-"Castle Floor"
+"Sol du château"
 END
 
 OBJECT:CampFloor
-"Camp Floor"
+"Sol du camp"
 END
 
 OBJECT:Fireworks
-"Fireworks"
+"Feux d'artifice"
 END
 
 OBJECT:Lightning
-"Lightning"
+"Eclair"
 END
 
 OBJECT:WaterTestPlane
-"Test Plane.."
+"Platane d'essai.."
 END
 
 OBJECT:Fern
-"Fern"
+"Fougère"
 END
 
 OBJECT:TrainGuide
-"Train Guide"
+"Guide de Cortège"
 END
 
 OBJECT:IU_Banr
-"Isengard Banner"
+"Etendard de l'Isengard"
 END
 
 OBJECT:MU_Banr
-"Mordor Banner"
+"Etendard du Mordor"
 END
 
 OBJECT:MordorEyeOfSauron
-"Eye of Sauron"
+"Oeil de Sauron"
 END
 
 OBJECT:TaintedLand
-"Tainted Land"
+"Terrain Souillé"
 END
 
 OBJECT:Taint
-"Tainted Land"
+"Terrain Souillé"
 END
 
 OBJECT:MordorWorker
-"Orc Laborer"
+"Ouvrier Orque"
 END
 
 OBJECT:Balrog
-"Durin's Bane"
+"Balrog"
 END
 
 OBJECT:Oathbreaker
-"Oathbreaker"
+"Parjure"
 END
 
 OBJECT:MordorFighter
-"Orc Warrior"
+"Guerrier Orque"
 END
 
 OBJECT:MordorArcher
-"Orc Archer"
+"Archer Orque"
 END
 
 OBJECT:MordorCavalry
-"Haradrim Raider"
+"Pillard Haradrim"
 END
 
 OBJECT:MordorCatapult
-"Catapult"
+"Catapulte"
 END
 
 OBJECT:MordorMountainTroll
-"Mountain Troll"
+"Troll des Montagnes"
 END
 
 OBJECT:MordorCaveTroll
-"Cave Troll"
+"Troll des Cavernes"
 END
 
 OBJECT:MordorHaradrimOverlord
-"Haradrim Overlord"
+"Suzerain Haradrim"
 END
 
 OBJECT:GoblinSwordsman
-"Moria Orc Swordsman"
+"Epéiste Gobelins de la Moria"
 END
 
 OBJECT:MordorGoblinArcher
-"Moria Orc Archers"
+"Archer Gobelin de la Moria"
 END
 
 OBJECT:RohanTreeBerd
-"Treebeard"
+"Sylvebarbes"
 END
 
 OBJECT:RohanFlag
-"Rohan Flag"
+"Drapeau du Rohan"
 END
 
 OBJECT:MordorNazgul
@@ -10181,7 +10180,7 @@ OBJECT:MordorNazgul
 END
 
 OBJECT:MordorSiegeTower
-"Siege Tower"
+"Tour de siège"
 END
 
 OBJECT:MordorGrond
@@ -10193,31 +10192,31 @@ OBJECT:MordorSauron
 END
 
 OBJECT:MordorDrummerTroll
-"Drummer Troll"
+"Troll-tambour"
 END
 
 CONTROLBAR:DrumsofWar
-"Drums of War"
+"Tambour de guerre"
 END
 
 OBJECT:MordorPike
-"Orc Warrior"
+"Piquier Orque"
 END
 
 OBJECT:MordorPikeChant
-"Orc Warrior"
+"Guerrier Orque"
 END
 
 OBJECT:MordorBanner
-"Banner Carrier"
+"Porte-étendard"
 END
 
 OBJECT:MordorBannerEye
-"Orc Warrior"
+"Guerrier Orque"
 END
 
 OBJECT:MordorOrcTorch
-"Orc Warrior"
+"Guerrier Orque"
 END
 
 OBJECT:MordorFellBeast			
@@ -10226,15 +10225,15 @@ OBJECT:MordorFellBeast
 END
 
 OBJECT:MordorWitchKingOnFellBeast
-"The Witch-king of Angmar"
+"Le Roi-Sorcier d'Angmar"
 END
 
 OBJECT:Crebain
-"Crebain"
+"Crébains"
 END
 
 OBJECT:Ravens
-"Ravens"
+"Corbeaux"
 END
 
 OBJECT:EvilMenBlackRider
@@ -10250,36 +10249,36 @@ END
 //////////////////////
 
 OBJECT:GondorPosternGate
-"Postern Gate"
+"Poterne"
 END
 
 OBJECT:GondorTrebuchetOutcropping
-"Trebuchet Rampart"
+"Trébuchet Rempart"
 END
 
 OBJECT:GBMgatedoor
-"Castle Gate"
+"Porte du Château"
 END
 
 OBJECT:BreeGate
-"Bree Gate"
+"Porte de Bree"
 END
 
 OBJECT:BreeWall
-"Bree Wall"
+"Mur de Bree"
 END
 
 OBJECT:BreeTower
-"Bree Tower"
+"Tour de Bree"
 END
 
 OBJECT:GondorBuildingFoundation
 //"Click here to build a structure"		//This is seen by everyone.
-"Building Foundation"
+"Fondation de bâtiment"
 END
 
 OBJECT:GondorCastleWallUpgrade
-"Castle Wall"
+"Mur du château"
 END
 
 OBJECT:GondorBaseDefenseFoundation
@@ -10288,107 +10287,107 @@ OBJECT:GondorBaseDefenseFoundation
 END
 
 OBJECT:GondorWallFoundation
-"Wall Foundation"
+"Fondation de murs"
 END
 
 OBJECT:GondorArcherRange
-"Archery Range"
+"Archerie"
 END
 
 OBJECT:GondorStable
-"Stables"
+"Écurie"
 END
 
 OBJECT:GondorBarracks
-"Barracks"
+"Caserne"
 END
 
 OBJECT:GondorWorkshop
-"Siege Works"
+"Atelier de siège"
 END
 
 OBJECT:RohanWorkshop
-"Workshop"
+"Atelier de siège"
 END
 
 OBJECT:GondorFarm
-"Farm"
+"Ferme"
 END
 
 OBJECT:GondorBlackSmith
-"Blacksmith"
+"Forge"
 END
 
 OBJECT:GondorMarket
-"Marketplace"
+"Marché"
 END
 
 OBJECT:GondorHeroStatue
-"Heroic Statue"
+"Statue héroïque"
 END
 
 OBJECT:GondorStoneMaker
-"Stoneworker"
+"Tailleur de pierre"
 END
 
 OBJECT:GondorGate
-"Gate"
+"Porte"
 END
 
 OBJECT:GondorWall
-"Wall"
+"Mur"
 END
 
 OBJECT:GondorGateTower
-"Gate Tower"
+"Porte de la Tour"
 END
 
 OBJECT:GondorBaseTower
-"Tower"
+"Tour"
 END
 
 OBJECT:GondorBaseWall
-"Wall"
+"Mur"
 END
 
 OBJECT:GondorBaseWallTreb
-"Trebuchet"
+"Trébuchet"
 END
 
 OBJECT:GondorWatchTower
-"Arrow Tower" 
+"Tour d'Archer" 
 END
 
 OBJECT:GondorBattleTower
-"Battle Tower" 
+"Tour de guerre"
 END
 
 OBJECT:GondorCastleWall
-"Wall" 
+"Mur" 
 END
 
 OBJECT:GondorCastleWallPosternGate
-"Postern Gate"
+"Poterne"
 END
 
 OBJECT:GondorCastleGate
-"Castle Gate" 
+"Porte du Château" 
 END
 
 OBJECT:GondorCastleElevator
-"Castle Stairs" 
+"Escalier du Château" 
 END
 
 OBJECT:GondorWhiteTower
-"White Tower" 
+"Tour Blanche" 
 END
 
 OBJECT:GondorStatue
-"Heroic Statue"
+"Statue héroïque"
 END
 
 OBJECT:GondorKeep
-"Battle Tower"
+"Tour de guerre" 
 END
 
 OBJECT:GondorCampKeep
@@ -10397,7 +10396,7 @@ OBJECT:GondorCampKeep
 END
 
 OBJECT:WotROutpost
-"Outpost"
+"Avant-poste"
 END
 
 OBJECT:GondorCastleBaseKeep
@@ -10405,205 +10404,205 @@ OBJECT:GondorCastleBaseKeep
 END
 
 OBJECT:GBCampWall
-"Camp Wall"
+"Mur du Camp"
 END
 
 OBJECT:OsgiliathRuin10
-"Ruin"
+"Ruines d'Osgiliath"
 END
 
 OBJECT:OsgiliathRuin15
-"Ruin"
+"Ruines d'Osgiliath"
 END
 
 OBJECT:OsgiliathRuin11
-"Ruin"
+"Ruines d'Osgiliath"
 END
 
 OBJECT:Tower_FromZeroHourThatCanTopple
-"Destroyable Tower"
+"Tour destructible"
 END
 
 OBJECT:OsgiliathRuin07
-"Ruin"
+"Ruines d'Osgiliath"
 END
 
 ////Helm's Deep Structures
 
 OBJECT:RohanHelmsDeepKeep
-"Helm's Deep Keep"
+"Donjon du Gouffre de Helm"
 END
 
 OBJECT:NBHDMainWall
-"Helm's Deep Main Wall"
+"Mur principal du Gouffre de Helm"
 END
 
 OBJECT:NBHDRamp
-"Helm's Deep Ramp"
+"Rampe du Gouffre de Helm"
 END
 
 OBJECT:NBHDDeepingW
-"Helm's Deep Deeping Wall"
+"Mur Intérieur du Gouffre de Helm"
 END
 
 OBJECT:HelmsDeepCauseway
-"Helm's Deep Causeway"
+"Chaussée du Gouffre de Helm"
 END
 
 OBJECT:RBHelmsDeepGateDoorBig
-"Helm's Deep Gate"
+"Porte du Gouffre de Helm"
 END
 
 OBJECT:HelmsDeepdiWall
-"Helm's Deep Wall"
+"Mur du Gouffre de Helm"
 END
 
 OBJECT:HelmsDeepTower
-"Helm's Deep Tower"
+"Tour du Gouffre de Helm"
 END
 
 OBJECT:RBHelmsDeepGateDoorSmall
-"Helm's Deep Gate Door"
+"Porte d'entrée du Gouffre de Helm"
 END
 
 OBJECT:HelmsDeepGatehouseLeft
-"Helm's Deep Gatehouse"
+"Corps de Garde du Gouffre de Helm"
 END
 
 OBJECT:HelmsDeepGatehouseRight
-"Helm's Deep Gatehouse"
+"Corps de Garde du Gouffre de Helm"
 END
 
 OBJECT:HelmsDeepdoSectionA2
-"Helm's Deep Outer Wall"
+"Mur Extérieur du Gouffre de Helm"
 END
 
 OBJECT:HelmsDeepdoSectionB1
-"Helm's Deep Outer Wall"
+"Mur Extérieur du Gouffre de Helm"
 END
 
 OBJECT:HelmsDeepdoSectionD
-"Helm's Deep Outer Wall"
+"Mur Extérieur du Gouffre de Helm"
 END
 
 OBJECT:HelmsDeepdiStair1
-"Helm's Deep Inner Ramp"
+"Rampe interne du Gouffre de Helm"
 END
 
 OBJECT:HelmsDeepRampart03
-"Helm's Deep Rampart"
+"Rempart du Gouffre de Helm"
 END
 
 OBJECT:HelmsDeepdiSectionB
-"Helm's Deep Inner Wall"
+"Mur Intérieur du Gouffre de Helm"
 END
 
 OBJECT:HelmsDeepdiSectionA8
-"Helm's Deep Inner Wall"
+"Mur Intérieur du Gouffre de Helm"
 END
 
 OBJECT:HelmsDeepdoStairsA1
-"Helm's Deep Stairs"
+"Escaliers du Gouffre de Helm"
 END
 
 OBJECT:HelmsDeepRampart02
-"Helm's Deep Rampart"
+"Rempart du Gouffre de Helm"
 END
 
 OBJECT:HelmsDeepdiSectionA7
-"Helm's Deep Inner Wall"
+"Mur Intérieur du Gouffre de Helm"
 END
 
 OBJECT:HelmsDeepdiSectionA6
-"Helm's Deep Inner Wall"
+"Mur Intérieur du Gouffre de Helm"
 END
 
 OBJECT:HelmsDeepdiSectionA5
-"Helm's Deep Inner Wall"
+"Mur Intérieur du Gouffre de Helm"
 END
 
 OBJECT:HelmsDeepRampart04
-"Helm's Deep Rampart"
+"Rempart du Gouffre de Helm"
 END
 
 OBJECT:HelmsDeepRampart05
-"Helm's Deep Rampart"
+"Rempart du Gouffre de Helm"
 END
 
 OBJECT:HelmsDeepdiSectionA3
-"Helm's Deep Inner Wall"
+"Mur Intérieur du Gouffre de Helm"
 END
 
 OBJECT:HelmsDeepdoBridge1
-"Helm's Deep Outer Ramp"
+"Rampe Extérieure du Gouffre de Helm"
 END
 
 OBJECT:HelmsDeepdoSectionA5
-"Helm's Deep Outer Wall"
+"Mur Extérieur du Gouffre de Helm"
 END
 
 OBJECT:HelmsDeepdoStairsA4
-"Helm's Deep Stairs"
+"Escaliers du Gouffre de Helm"
 END
 
 OBJECT:HelmsDeepdoStairsA5
-"Helm's Deep Stairs"
+"Escaliers du Gouffre de Helm"
 END
 
 OBJECT:HelmsDeepSectionC
-"Helm's Deep Deeping Wall"
+"Mur Intérieur du Gouffre de Helm"
 END
 
 OBJECT:HelmsDeepSectionB
-"Helm's Deep Deeping Wall"
+"Mur Intérieur du Gouffre de Helm"
 END
 
 OBJECT:HelmsDeepdwStairsA1
-"Helm's Deep Stairs"
+"Escaliers du Gouffre de Helm"
 END
 
 OBJECT:HelmsDeepCulvert
-"Helm's Deep Culvert"
+"Ponceau du Gouffre de Helm"
 END
 
 OBJECT:HelmsDeepSectionAi
-"Helm's Deep Deeping Wall"
+"Mur Intérieur du Gouffre de Helm"
 END
 
 OBJECT:HelmsDeepdwStairsA2
-"Helm's Deep Stairs"
+"Escaliers du Gouffre de Helm"
 END
 
 OBJECT:HelmsDeepArcade
-"Helm's Deep Keep"
+"Donjon du Gouffre de Helm"
 END
 
 OBJECT:HelmsDeepdiStep1
-"Helm's Deep Stairs"
+"Escalier du Gouffre de Helm"
 END
 
 OBJECT:HelmsDeepdiStep2
-"Helm's Deep Stairs"
+"Escalier du Gouffre de Helm"
 END
 
 OBJECT:IsengardBattleTower
-"Lookout Tower"
+"Tour d'observation"
 END
 
 OBJECT:IsengardTent
-"Tent"
+"Tente"
 END
 
 OBJECT:IsengardTent2
-"Large Tent"
+"Large Tente"
 END
 
 OBJECT:IsengardFence
-"Fence"
+"Barrière"
 END
 
 OBJECT:IsengardOrthancDoor
-"Orthanc Door"
+"Porte d'Orthanc"
 END
 
 OBJECT:IsengardOrthanc
@@ -10624,40 +10623,39 @@ OBJECT:BaradDur
 END
 
 OBJECT:EvilSentryTower
-"Sentry Tower"
+"Tour de garde"
 END
 
 OBJECT:MordorBaseDefenseFoundation
-//"Click here to build a defensive structure"	//Everyone sees this.
-"Defensive Foundation"
+"Fondation Défensive"
 END
 
 OBJECT:MordorBlackGate
-"The Black Gate"
+"La Porte Noire"
 END
 
 OBJECT:MBCastFloor
-"Castle Floor"
+"Sol du camp"
 END
 
 OBJECT:MBCampFloor
-"Camp Floor"
+"Sol du camp"
 END
 
 OBJECT:CINETrollCave
-"Cave Troll Lair"
+"Antre de Troll des Cavernes"
 END
 
 OBJECT:Ashfall
-"Ash Fall"
+"Chute de Cendre"
 END
 
 OBJECT:MountDoom
-"Mount Doom"
+"Montagne du Destin"
 END
 
 OBJECT:MordorBaseFoundation
-"Base Foundation"
+"Fondation"
 END
 
 OBJECT:CirithUngol
@@ -10666,16 +10664,15 @@ END
 
 OBJECT:MordorCampKeep
 //"Click here to build/revive Heroes"  //This is seen by all players.
-"Citadel"
+"Citadelle"
 END
 
 OBJECT:MordorBuildingFoundation
-//"Click here to build a structure"  //This is seen by all players.
-"Building Foundation"
+"Fondation de bâtiment"
 END
 
 OBJECT:MordorWallFoundation
-"Wall Foundation"
+"Fondation de Mur"
 END
 
 OBJECT:MordorBase
@@ -10683,64 +10680,64 @@ OBJECT:MordorBase
 END
 
 OBJECT:MordorTent
-"Tent"
+"Tente"
 END
 
 OBJECT:MordorOrcPit
-"Orcish Stronghold"
+"Bastion des Orques"
 END
 
 OBJECT:MordorOrcFletcher
-"Orc Fletcher"
+"Orque Flèchier"
 END
 
 OBJECT:MordorTrollCage
-"Troll Cage"
+"Cage à Trolls"
 END
 
 OBJECT:MordorSiegeWorks
-"Great Siege Works"
+"Grand Atelier de siège"
 END
 
 OBJECT:MordorHaradrimPalace
-"Easterling Garrison"
+"Palais Oriental"
 END
 
 CONTROLBAR:TooltipUpgradeMordorHaradrimPalaceLevel2Rhun
-"Allows training of Great Khân's Swordsmen and Great Khân's Phalanx\n +10% faster build speed"
+"Permet l'entraînement des épéistes du Grand Khân et Phalange du Grand Khân \n+10% de vitesse de production"
 End
 
 CONTROLBAR:TooltipUpgradeMordorHaradrimPalaceLevel3Rhun
-"Allows training of Golden Axemen and Dragon Knights\nAdds defensive arrow tower \n +25% faster build speed"
+"Permet l'entraînement des chevaliers d'or et des chevaliers dragons\nAjoute une tour défensive\n+25% de vitesse de production"
 End
 
 //------------ Rhûn Archery Range ---------------
 OBJECT:MordorRhunArcherRange
-"Rhûn Archery Range"
+"Archerie du Rhûn"
 END
 
 CONTROLBAR:ConstructRhunArcheryRange
-"Build Rhûn Archery Range (&C)"
+"Contruire une Archerie du Rhûn"
 END
 
 CONTROLBAR:ToolTipRhunArcheryRange
-"Trains archers of Rhûn"
+"Recruter des archers du Rhûn"
 END
 
 CONTROLBAR:ConstructRhunArcheryRangeLevel2Upgrade
-"Upgrade Rhûn Archery Range to Level 2 (&A)"
+"Améliorer l'Archerie au niveau 2"
 END
 CONTROLBAR:ConstructRhunArcheryRangeLevel3Upgrade
-"Upgrade Rhûn Archery Range to Level 3 (&A)"
+"Améliorer l'Archerie au niveau 3 (&A)"
 END
 
 CONTROLBAR:ToolTipBuildRhunArcheryRangeLevel2Upgrade
 //"Level 2: +10% faster build speed \n Allows training of Ithilien Rangers"
-"Allows training of Great Khân's Archers\n+10% faster build speed"
+"Permet l'entraînement des Archers du Grand Khân\n+10% de vitesse de production"
 END
 CONTROLBAR:ToolTipBuildRhunArcheryRangeLevel3Upgrade
 //"Level 3: +25% faster build speed \n Allows purchase of the Fire Arrow Upgrade"
-"+25% faster build speed\nAdds defensive arrow tower"
+"+25% de vitesse de production\nAjoute une tour défensives"
 END
 //------------ Horsemaster's Campground ---------------
 OBJECT:MordorRhunStable
@@ -10772,7 +10769,7 @@ END
 //----------------------------------------------
 
 OBJECT:MordorTavern
-"Tavern"
+"Taverne"
 END
 
 OBJECT:MordorBarracks
@@ -10785,70 +10782,69 @@ END
 ////////////////////////
 
 OBJECT:IsengardDam
-"Isengard Dam"
+"Barrage de l'Isengard"
 END
 
 OBJECT:HaradBuildingFoundation
-"Haradrim Building Foundation"
+"Fondation de bâtiment Haradrim"
 END
 
 OBJECT:IsengardBaseDefenseFoundation
-//"Click here to build a defensive structure"	//Everyone sees this.
-"Isengard Defensive Foundation"
+//"Cliquez ici pour construire une structure défensive"
+"Fondation de défense d'Isengard"
 END
 
 OBJECT:HaradCampKeep
-"Haradrim Camp Keep"
+"Donjon de camp Haradrim"
 END
 
 OBJECT:IsengardCastleGate
-"Gate"
+"Porte"
 END
 
 OBJECT:IsengardWargSentry
-"Warg Sentry"
+"Sentinelle Warg"
 END
 
-OBJECT:IBCastFloor
-"Castle Floor"
+"Sol du camp"
 END
 
 OBJECT:IBCampFloor
-"Camp Floor"
+"Sol du camp"
 END
 
 OBJECT:IsengardCastleWall
-"Wall"
+"Mur"
 END
 
 OBJECT:IsengardCampKeep
-//"Click here to build/revive Heroes"  //This is seen by all players.
-"Citadel"
+//"Cliquez ici pour engager/faire revivre des héros"
+"Citadelle"
 END
 
 OBJECT:IsengardBuildingFoundation
-//"Click here to build a structure"		//This is seen by eveyone.
-"Building Foundation"
+//"Cliquez ici pour construire une structure"
+"Fondation de bâtiment"
 END
 
 OBJECT:IsengardWallFoundation
-"Wall Foundation"
+"Fondation de mur"
 END
 
 OBJECT:IsengardUrukPit
-"Uruk Pit"
+"Puits à Uruk"
 END
 
 OBJECT:IsengardWargPit
-"Warg Pit"
+"Fosse à Wargs"
 END
 
 OBJECT:IsengardSiegeWorks
-"Siege Works"
+"Atelier de siège"
 END
 
 OBJECT:IsengardArmory
-"Armoury"
+"Armurerie"
 END
 
 /////////////////////
@@ -10856,48 +10852,48 @@ END
 /////////////////////
 
 OBJECT:EBCampFence
-"Camp Fence"
+"Camp Barrière"
 END
 
 OBJECT:ElvenCastleBaseKeep
-"Citadel"
+"Citadelle"
 END
 
 OBJECT:ElvenCampKeep
-//"Click here to build/revive Heroes"  //This is seen by all players.
-"Citadel"
+//"Cliquez ici pour engager/faire revivre des héros"
+"Citadelle"
 END
 
 OBJECT:ElvenBuildingFoundation
-"Building Foundation"
+"Fondation de bâtiment"
 END
 
 OBJECT:ElvenOrchard
-"Orchard"
+"Verger"
 END
 
 OBJECT:ElvenBarracks
-"Galadhrim Garrison"
+"Garnison des Galadhrim"
 END
 
 OBJECT:ElvenMallornTree
-"Mallorn Tree"
+"Mallorn"
 END
 
 OBJECT:GaladrielsWell
-"Mirror of Galadriel"
+"Miroir de Galadriel"
 END
 
 OBJECT:ElvenBattleTower
-"Battle Tower"
+"Tour de guet"
 END
 
 OBJECT:HiddenSanctum
-"Hidden Sanctum"
+"Sanctuaire caché"
 END
 
 OBJECT:HiddenSanctumDescription
-"Level 2: +10% faster build speed\n Level 3: +25% faster build speed"
+"Niveau 2 : +10% de vitesse de construction\n Niveau 3 : +25% de vitesse de construction"
 END
 
 
@@ -10906,70 +10902,70 @@ END
 /////////////////////
 
 OBJECT:GoblinBuildingFoundation
-"Building Foundation"
+"Fondation de bâtiment"
 END
 
 OBJECT:GoblinCave
-"Moria Orc Cave"
+"Cave à Orque de la Moria"
 END
 
 OBJECT:GoblinCampKeep
-"Citadel"
+"Citadelle"
 END
 
 OBJECT:GoblinCastleBaseKeep
-"Citadel"
+"Citadelle"
 END
 
 ////////////////////////
 // Dwarven buildings  //
 ////////////////////////
 OBJECT:DwarvenArcheryRange
-"Dale Garrison"
+"Garnison de Dale"
 END
 
 OBJECT:DwarvenAssembly
-"Erebor Assembly"
+"Assemblée d'Erebor"
 END
 
 OBJECT:DwarvenForgeWorks
-"Erebor Redoubt"
+"Fort d'Erebor"
 END
 
 OBJECT:IronHillsRedoubt
-"Iron Hills Redoubt"
+"Fort des Monts du Fer"
 END
 
 OBJECT:DwarvenHearth
-"Erebor Hearth"
+"Foyer d'Erebor"
 END
 
 OBJECT:DwarvenWell
-"Erebor Well"
+"Puit d'Erebor"
 END
 
 OBJECT:DwarvenStatue
-"Erebor Heroic Statue"
+"Statue héroïque d'Erebor"
 END
 
 OBJECT:DwarvenBarracks
-"Erebor Hall of Warriors"
+"Hall des Guerriers d'Erebor"
 END
 
 OBJECT:DwarvenMineShaft
-"Dwarven Mine"
+"Mine d'Erebor"
 END
 
 OBJECT:DwarvenFortress
-"Erebor Fortress"
+"Forteresse d'Erebor"
 END
 
 OBJECT:DwarvenFortressDescription
-"Recruits Heroes and Builders \n Can be upgraded with improvements and expansions"
+"Recrute les héros et les bâtisseurs d'Erebor, et peut recevoir des améliorations."
 END
 
 OBJECT:DwarvenSentryTower
-"Erebor Guard Tower"
+"Tour de garde d'Erebor"
 END
 
 
@@ -10978,66 +10974,66 @@ END
 ////////////////////
 
 OBJECT:EntBuildingFoundation
-"Ent Foundation"
+"Fondation Ent"
 END
 
 OBJECT:EntsMoot
-"Entmoot"
+"Racine d'Ent"
 END
 
 ///////////////////
 // Misc. objects //
 ///////////////////
 OBJECT:EconomyBuildingFoundation
-"Settlement Foundation"
+"Fondation d'établissement"
 END
 
 OBJECT:LumberMill
-"Lumber Mill"
+"Scierie"
 END
 
 OBJECT:MordorLumberMill
-"Lumber Mill"
+"Scierie"
 END
 
 OBJECT:IsengardLumberMill
-"Lumber Mill"
+"Scierie"
 END
 
 OBJECT:WildLumberMill
-"Lumber Mill"
+"Scierie"
 END
 
 OBJECT:MordorSlaughterHouse
-"Slave Farm"
+"Ferme d'esclave"
 END
 
 OBJECT:Furnace
-"Furnace"
+"Fournaise"
 END
 
 OBJECT:WreckedCatapult
-"Catapult"
+"Catapulte"
 END
 
 OBJECT:RopeCoil
-"Rope"
+"Corde"
 END
 
 OBJECT:WoodBeams
-"Wood"
+"Bois"
 END
 
 OBJECT:WineVat
-"Wine Vat"
+"Cuve à Vin"
 END
 
 OBJECT:Barrel
-"Barrel"
+"Baril"
 END
 
 OBJECT:Tent
-"Tent"
+"Tente"
 END
 
 OBJECT:Table
@@ -11045,7 +11041,7 @@ OBJECT:Table
 END
 
 OBJECT:Stool
-"Stool"
+"Selle"
 END
 
 OBJECT:Statue
@@ -11053,27 +11049,27 @@ OBJECT:Statue
 END
 
 OBJECT:BatteringRam
-"Battering Ram"
+"Bélier"
 END
 
 OBJECT:Torch
-"Torch"
+"Torche"
 END
 
 OBJECT:Lamp
-"Lamp"
+"Lampe"
 END
 
 OBJECT:WeaponRack
-"Weapon Rack"
+"Ratellier d'armes"
 END
 
 OBJECT:GondorArmorRack
-"Armour Rack"
+"Ratellier d'armes"
 END
 
 OBJECT:Flag
-"Flag"
+"Drapeau"
 END
 
 OBJECT:Monument
@@ -11081,147 +11077,147 @@ OBJECT:Monument
 END
 
 OBJECT:OrcTent
-"Orc Tent"
+"Tente d'Orque"
 END
 
 OBJECT:Rocks
-"Rock"
+"Pierre"
 END
 
 OBJECT:Grass
-"Grass"
+"Herbe"
 END
 
 OBJECT:RockArch
-"Rock Arch"
+"Arche de Pierre"
 END
 
 OBJECT:RockColumn
-"Rock Column"
+"Colonne de Pierre"
 END
 
 OBJECT:Bones
-"Bones"
+"Os"
 END
 
 OBJECT:Remains
-"Remains"
+"Vestiges"
 END
 
 OBJECT:Cocoon
-"Cocoon"
+"Cocon"
 END
 
 OBJECT:ThickWebs
-"Thick Webs"
+"Toile épaisse"
 END
 
 OBJECT:SpiderWebs
-"Spider Webs"
+"Toile d'araignées"
 END
 
 OBJECT:Root
-"Root"
+"Racine"
 END
 
 OBJECT:Smoke
-"Smoke"
+"Fumée"
 END
 
 OBJECT:Bush
-"Bush"
+"Buisson"
 END
 
 OBJECT:Cloud
-"Cloud"
+"Nuage"
 END
 
 OBJECT:Dust
-"Dust"
+"Poussière"
 END
 
 OBJECT:WaterfallHaze
-"Waterfall Haze"
+"Brume de Cascade"
 END
 
 OBJECT:Waterfall
-"Waterfall"
+"Chute d'Eau"
 END
 
 OBJECT:Wall
-"Wall"
+"Mur"
 END
 
 OBJECT:RohirrimBannerRider
-"Rohan Banner Rider"
+"Bannière de Chevaucheur du Rohan"
 END
 
 OBJECT:MTMountain
-"Minas Tirith Mountain"
+"Montagne de Minas Tirith"
 END
 
 OBJECT:MTGround
-"Minas Tirith Ground"
+"Terrain de Minas Tirith"
 END
 
 OBJECT:MinasTirithBattleTower
-"Minas Tirith Battle Tower"
+"Tour de guerre de Minas Tirith"
 END
 
 OBJECT:MinasTirithTrebuchetOutcropping
-"Minas Tirith Trebuchet Rampart"
+"Trébuchet Rampart de Minas Tirith"
 END
 
 OBJECT:MinasTirithPosternGate
-"Minas Tirith Postern Gate"
+"Poterne de Minas Tirith"
 END
 
 OBJECT:MTWall
-"Minas Tirith Wall"
+"Mur de Minas Tirith"
 END
 
 OBJECT:MTGate
-"Minas Tirith Gate"
+"Porte de Minas Tirith"
 END
 
 OBJECT:MTDoor
-"Minas Tirith Door"
+"Porte de Minas Tirith"
 END
 
 OBJECT:MTBridge
-"Minas Tirith Bridge"
+"Pont de Minas Tirith"
 END
 
 OBJECT:MTTop
-"Minas Tirith Building"
+"Bâtiment de Minas Tirith"
 END
 
 OBJECT:MTBuilding
-"Minas Tirith Building"
+"Bâtiment de Minas Tirith"
 END
 
 OBJECT:Horse
-"Horse"
+"Cheval"
 END
 
 OBJECT:HorseGrazing
-"Horse"
+"Cheval"
 END
 
 OBJECT:RohanHeroStatue
-"Heroic Statue"
+"Statue héroïque"
 END
 
 OBJECT:RohirrimRoyalGuard
-"Rohirrim Royal Guard"
+"Gardes royaux Rohirrim"
 END
 
 OBJECT:NeutralShelob
-"Shelob"
+"Arachne"
 END
 
 OBJECT:Spider
-"Spider"
+"Araignée"
 END
 
 //////////////////////////////////
@@ -11231,72 +11227,75 @@ END
 //////////CAMPAIGN OBJECTS/////////////
 
 OBJECT:GamlingRoyalBanner
-"Banner of Eorl"
+"Bannière d'Eorl"
 END
+
 OBJECT:GamlingRoyalBannerDescription
-"The Royal Standard of Rohan"
+"L'Etalon Royal du Rohan"
 END
+
 CONTROLBAR:SpecialAbilityGamlingFLAL
-"For Lord and Land"
+"Pour le Seigneur et les Terres"
 END
+
 CONTROLBAR:ToolTipSpecialAbilityGamlingFLAL
-"+50% damage, +50% experience Gain, -20% recharge time\n Replensishes nearby hordes \n Passive ability"
+"+50% de Dégâts, +50% d'obtention d'Expérience, -20% Temps de Recharge \n Reconstitue les hordes proches \n Capacité passive"
 END
 
 CONTROLBAR:BFMEBuildNoldorExileHorde
-"strong vs. cavalry and siege \n\nExiles of Noldor carry long spears to defend themselves on their journey back to Valinor."
+"Fort contre la Cavalerie et les Sièges \n\n Les Exilés de Noldor portent de longues lances pouur se défendre lors de leur retour à Valinor."
 END
 
 OBJECT:CampaignStrider
-"Strider"
+"Rôdeur"
 END
 
 OBJECT:CampaignRingwraith
-"Ringwraith"
+"Spectre de l'Anneau"
 END
 
 OBJECT:CampaignBlackRider
-"Black Rider"
+"Cavaliers noirs"
 END
 
 OBJECT:CampaignBreeBuilding
-"Bree Building"
+"Bâtiment de Bree"
 END
 
 OBJECT:CampaignBreePony
-"Prancing Pony"
+"Auberge du Poney Fringant"
 END
 
 OBJECT:CampaignAthelas
-"Athelas Bushel"
+"Boisseau d'Athelas"
 END
 
 OBJECT:BalinsAxe
-"Balin's Axe"
+"Hache de Balin"
 END
 
 OBJECT:FireWood
-"Firewood"
+"Bois à brûler"
 END
 
 OBJECT:DunedainSword
-"Dúnedain Sword"
+"Epée Dunedain"
 END
 
 OBJECT:CampaignBrooch
-"Brooch"
+"Broche"
 END
 
 OBJECT:CampaignBelt
-"Hobbit Belt"
+"Ceinture de Hobbit"
 END
 
 OBJECT:CampaignUrukArmour
-"Abandoned Armour"
+"Armure abandonnée"
 END
 
 OBJECT:BoromirShieldRohan
-"Rohan shield"
+"Bouclier du Rohan"
 END
 
 OBJECT:CampaignGorg
@@ -11308,11 +11307,11 @@ OBJECT:CampaignGrog
 END
 
 OBJECT:CampaignBooks
-"Books"
+"Livres"
 END
 
 OBJECT:CampaignWaystone
-"Waystone"
+"Chemin de pierres"
 END
 
 OBJECT:CampaignMog
@@ -11320,11 +11319,11 @@ OBJECT:CampaignMog
 END
 
 OBJECT:GarrisonableBush
-"Hiding Spot"
+"Cachette"
 END
 
 OBJECT:CollapsingRockColumn
-"Rocks"
+"Rochers"
 END
 
 OBJECT:Shane
@@ -11536,7 +11535,7 @@ END
 
 Network:PacketRouterTimeout
 // context: Text label for a timer that counts down a time out while waiting for a new packet router to take over.
-"Packet Router Timeout"
+"Délai d'expiration du routeur de paquets"
 END
 
 // Audio options
@@ -11636,549 +11635,550 @@ SCRIPT:MBTutorial_MissionText04
 End
 
 SCRIPT:MBTutorial_MissionText05
-"To select the soldiers left click on them with your cursor."
+"Pour sélectionner les soldats, cliquez dessus avec votre curseur."
 End
 
 SCRIPT:MBTutorial_MissionText06
-"Move the soldiers into the camp by right clicking on the ground in the spotlight up ahead."
+"Déplacez les soldats dans le camp en faisant un clic droit sur le sol dans le projecteur devant vous."
 End
 
 SCRIPT:MBTutorial_MissionText07
-"Spotlights will help guide you through this mission."
+"Des projecteurs vous guideront tout au long de cette mission."
 End
 
 SCRIPT:MBTutorial_MissionText08
-"Goblins have been raiding these camps. Lead the soldiers into battle against the goblins."
+"Les gobelins ont pillé ces camps. Menez les soldats au combat contre les gobelins."
 End
 
 SCRIPT:MBTutorial_MissionText09
-"Next you'll need to know how to select an army."
+"Ensuite, vous devrez savoir comment sélectionner une armée."
 End
 
 SCRIPT:MBTutorial_MissionText10
-"In order to select multiple battalions quickly, click and hold the left mouse button down on empty space and drag your mouse over the units you wish to select."
+"Afin de sélectionner plusieurs bataillons rapidement, cliquez et maintenez le bouton gauche de la souris enfoncé sur un espace vide et faites glisser votre souris sur les unités que vous souhaitez sélectionner."
 End
 
 SCRIPT:MBTutorial_MissionText11
-"Try selecting the battalions in those spotlights by using the selection box method."
+"Essayez de sélectionner les bataillons dans ces projecteurs en utilisant la méthode de la boùte de sélection."
 End
 
 SCRIPT:MBTutorial_MissionText12
-"Move those units up to the spotlight ahead by right clicking on the ground with them selected."
+"Déplacez ces unités vers le projecteur en cliquant avec le bouton droit sur le sol en les sélectionnant."
 End
 
 SCRIPT:MBTutorial_MissionText13
-"Select your army again using the selection box method."
+"Sélectionnez à nouveau votre armée en utilisant la méthode de la boùte de sélection."
 End
 
 SCRIPT:MBTutorial_MissionText14
-"Now issue them an attack command by right clicking on the Goblins. The red attack cursor will indicate which units are enemy to you."
+"Maintenant, donnez-leur une commande d'attaque en faisant un clic droit sur les gobelins. Le curseur d'attaque rouge indiquera quelles unités vous sont ennemies."
 End
 
 SCRIPT:MBTutorial_MissionText15
-"Issue your attack order by selecting your units and right clicking on the enemy goblins."
+"Donnez votre ordre d'attaque en sélectionnant vos unités et en faisant un clic droit sur les gobelins ennemis."
 End
 
 SCRIPT:MBTutorial_MissionText16
-"Other camps are being attacked and need support."
+"D'autres camps sont attaqués et ont besoin de soutien."
 End
 
 SCRIPT:MBTutorial_MissionText17
-"The Palantir is that object located at the bottom left of your screen. It has a variety of useful buttons and information such as the mini-map."
+"Le Palantir est cet objet situé en bas à gauche de votre écran. Il dispose d'une variété de boutons et d'informations utiles tels que la mini-carte."
 End
 
 SCRIPT:MBTutorial_MissionText18
-"The Mini-Map is an overhead view of the entire map. Currently the mini-map is being flashed with the two camps you need to help."
+"La mini-carte est une vue aérienne de l'ensemble de la carte. Actuellement, la mini-carte est en train d'être flashée avec les deux camps que vous devez aider."
 End
 
 SCRIPT:MBTutorial_MissionText19
-"White flashes inform you of objective locations. While a red flash would indicate where your forces are being attacked."
+"Des flashs blancs vous informent des emplacements des objectifs. Alors qu'un flash rouge indiquerait où vos forces sont attaquées."
 End
 
 SCRIPT:MBTutorial_MissionText20
-"On the Palantir is the Objectives Menu. Click on the Objective button now to see what your current objective is."
+"Sur le Palantir se trouve le menu Objectifs. Cliquez maintenant sur le bouton Objectif pour voir quel est votre objectif actuel."
 End
 
 SCRIPT:MBTutorial_MissionText21
-"There are two types of Objectives, Main Objectives and Bonus Objectives. Main Objectives appear in white text and need to be accomplished in order to complete a mission."
+"Il existe deux types d'objectifs, les objectifs principaux et les objectifs bonus. Les objectifs principaux apparaissent en texte blanc et doivent être accomplis pour terminer une mission."
 End
 
 SCRIPT:MBTutorial_MissionText22
-"Bonus Objectives appear in green text. You may choose to complete them, but they won't count against you if you don't."
+"Les objectifs bonus apparaissent en texte vert. Vous pouvez choisir de les compléter, mais ils ne compteront pas contre vous si vous ne le faites pas."
 End
 
 SCRIPT:MBTutorial_MissionText23
-"An Objective with a check mark in its box is an objective you've completed."
+"Un objectif avec une coche dans sa case est un objectif que vous avez atteint."
 End
 
 SCRIPT:MBTutorial_MissionText24
-"To exit the Objectives Screen, click on the Resume Game button at the bottom."
+"Pour quitter l'écran des objectifs, cliquez sur le bouton Reprendre le jeu en bas."
 End
 
 SCRIPT:MBTutorial_MissionText25
-"Now, move your army to those camps and help eliminate the goblins."
+"Maintenant, déplacez votre armée dans ces camps et aidez à éliminer les gobelins."
 End
 
 SCRIPT:MBTutorial_MissionText26
-"The other camp is still under attack."
+"L'autre camp est toujours attaqué."
 End
 
 SCRIPT:MBTutorial_MissionText27
-"All the camps are now secure and the road between them is safe."
+"Tous les camps sont désormais sécurisés et la route entre eux est sûre."
 End
 
 SCRIPT:MBTutorial_MissionText28
-"We need to set up a larger camp, but we'll need a great deal of land with which to do so."
+"Nous devons installer un camp plus grand, mais nous aurons besoin de beaucoup de terres pour le faire."
 End
 
 SCRIPT:MBTutorial_MissionText29
-"Up ahead is such an expanse of land, but it is held by Spider Lairs."
+"Devant, il y a une telle étendue de terre, mais elle est détenue par des repaires à araignées."
 End
 
 SCRIPT:MBTutorial_MissionText30
-"Destroy those lairs and we should be able to establish a new camp here."
+"Détruisez ces repaires et nous devrions pouvoir y établir un nouveau camp."
 End
 
 SCRIPT:MBTutorial_MissionText31
-"When a lair is destroyed, it will leave behind rubble. You will also need to destroy the rubble or else the lair will rebuild itself."
+"Lorsqu'un repaire est détruit, il laisse des décombres. Vous devrez également détruire les décombres, sinon le repaire se reconstruira."
 End
 
 SCRIPT:MBTutorial_MissionText32
-"You may have noticed that after you destroyed the lairs, they left some treasure behind for you to collect."
+"Vous avez peut-être remarqué qu'après avoir détruit les repaires, ils ont laissé des trésors à récupérer."
 End
 
 SCRIPT:MBTutorial_MissionText33
-"To capture this outpost, select a battalion and right click on the flag next to the outpost."
+"Pour capturer cet avant-poste, sélectionnez un bataillon et faites un clic droit sur le drapeau à côté de l'avant-poste."
 End
 
 SCRIPT:MBTutorial_MissionText34
-"While the building is being captured its current flag will lower and our flag will rise in its place."
+"Pendant que le bâtiment est capturé, son drapeau actuel s'abaissera et notre drapeau se lèvera à sa place."
 End
 
 SCRIPT:MBTutorial_MissionText35
-"The outpost will now provide further resources for our army."
+"L'avant-poste fournira désormais des ressources supplémentaires à notre armée."
 End
 
 SCRIPT:MBTutorial_MissionText36
-"We sent a builder your way to construct our new camp."
+"Nous avons envoyé un constructeur à votre façon pour construire notre nouveau camp."
 End
 
 SCRIPT:MBTutorial_MissionText37
-"Select a Builder by left clicking on it."
+"Sélectionnez un constructeur en cliquant dessus avec le bouton gauche de la souris."
 End
 
 SCRIPT:MBTutorial_MissionText38
-"You'll notice that a menu appears on the right hand side of the screen. This menu contains all the buildings that are currently available to build."
+"Vous remarquerez qu'un menu apparaît sur le côté droit de l'écran. Ce menu contient tous les bâtiments actuellement disponibles pour la construction."
 End
 
 SCRIPT:MBTutorial_MissionText39
-"We'll need a fortress. To build a fortress left click on the fortress button which is flashing now."
+"Nous aurons besoin d'une forteresse. Pour construire une forteresse, cliquez avec le bouton gauche de la souris sur le bouton de la forteresse qui clignote maintenant."
 End
 
 SCRIPT:MBTutorial_MissionText40
-"In order to place down a building, left click anywhere on the land. For the purposes of this camp, place your fortress on the spotlight."
+"Pour placer un bâtiment, faites un clic gauche n'importe où sur le terrain. Pour les besoins de ce camp, placez votre forteresse sous les projecteurs."
 End
 
 SCRIPT:MBTutorial_MissionText41
-"Fortresses can produce more builders should the need arise. Fortresses can also build Heroes, such as our Lord Boromir."
+"Les forteresses peuvent produire plus de constructeurs si le besoin s'en fait sentir. Les forteresses peuvent également construire des héros, comme notre seigneur Boromir."
 End
 
 SCRIPT:MBTutorial_MissionText42
-"They also have upgrades available to them, but we'll get to that another time."
+"Ils ont également des mises à niveau à leur disposition, mais nous y reviendrons une autre fois."
 End
 
 SCRIPT:MBTutorial_MissionText43
-"Now that we have a fortress built, we'll need an economy to fund our base."
+"Maintenant que nous avons construit une forteresse, nous aurons besoin d'une économie pour financer notre base."
 End
 
 SCRIPT:MBTutorial_MissionText44
-"Select a builder and have it build a farm on the spotlight in the upper left. You'll notice that as you're placing the farm it has a percentage attached to it. This percentage will tell you how productive it will be given its current placement on land."
+"Sélectionnez un constructeur et faites-lui construire une ferme sous les projecteurs en haut à gauche. Vous remarquerez que lorsque vous placez la ferme, un pourcentage lui est attaché. Ce pourcentage vous dira à quel point il sera productif compte tenu de son emplacement actuel sur la terre."
 End
 
 SCRIPT:MBTutorial_MissionText45
-"Mountains, oceans, rivers, or other impassable areas will take away from the productivity of a farm. The resources our farms produce can be tracked by the number at the bottom left of the Palantir."
+"Les montagnes, les océans, les rivières ou d'autres zones infranchissables réduiront la productivité d'une ferme. Les ressources produites par nos fermes peuvent être suivies par le numéro en bas à gauche du Palantir."
 End
 
 SCRIPT:MBTutorial_MissionText46
-"Farms contribute to your army's command point limit. So the more farms you build, the more battalions you can command."
+"Les fermes contribuent à la limite de points de commandement de votre armée. Ainsi, plus vous construisez de fermes, plus vous pouvez commander de bataillons."
 End
 
 SCRIPT:MBTutorial_MissionText47
-"Command Points are tracked by the number at the bottom right of the Palantir."
+"Les points de commandement sont suivis par le numéro en bas à droite du Palantir."
 End
 
 SCRIPT:MBTutorial_MissionText48
-"Select the builder again and build a barracks on the next spotlight."
+"Sélectionnez à nouveau le constructeur et construisez une caserne sur le prochain projecteur."
 End
 
 SCRIPT:MBTutorial_MissionText49
-"The barracks will be able to produce soldiers and tower guard."
+"La caserne pourra produire des soldats et des gardes de la tour."
 End
 
 SCRIPT:MBTutorial_MissionText50
-"Build an archery range on the other spotlight."
+"Construisez une archerie sur l'autre projecteur."
 End
 
 SCRIPT:MBTutorial_MissionText51
-"The archery range will be able to produce archers and Ithilien rangers."
+"L'archerie pourra produire des archers et des rangers ithiliens."
 End
 
 SCRIPT:MBTutorial_MissionText52
-"Now our base will need fortifications."
+"Maintenant, notre base aura besoin de fortifications."
 End
 
 SCRIPT:MBTutorial_MissionText53
-"In order to fortify our base, we'll need to set up wall spans. Wall spans begin with wall hubs, which can be built from either our fortress or from our builders."
+"Afin de fortifier notre base, nous devrons aménager des travées murales. Les travées murales commencent par des moyeux muraux, qui peuvent être construits à partir de notre forteresse ou de nos constructeurs."
 End
 
 SCRIPT:MBTutorial_MissionText54
-"In order to build them from the fortress, click on the build plot highlighted."
+"Afin de les construire à partir de la forteresse, cliquez sur le tracé de construction mis en évidence."
 End
 
 SCRIPT:MBTutorial_MissionText55
-"Click on the wall hub button to begin building it now."
+"Cliquez sur le bouton du hub mural pour commencer à le construire maintenant."
 End
 
 SCRIPT:MBTutorial_MissionText56
-"Select the wall hub to bring up a build wall button."
+"Sélectionnez le hub mural pour afficher un bouton de construction de mur."
 End
 
 SCRIPT:MBTutorial_MissionText57
-"Click that button and move your cursor to the spotlight to the right. As you move your mouse you'll see a see-through wall. This is how your wall will look when you've finished building it."
+"Cliquez sur ce bouton et déplacez votre curseur vers le projecteur à droite. Lorsque vous déplacez votre souris, vous verrez un mur transparent. Voici à quoi ressemblera votre mur lorsque vous aurez fini de le construire."
 End
 
 SCRIPT:MBTutorial_MissionText58
-"To build it, left click on the ground at the spotlight."
+"Pour le construire, faites un clic gauche sur le sol au projecteur."
 End
 
 SCRIPT:MBTutorial_MissionText59
-"Click on the wall hub you just built in the spotlight and build another wall off to the south. Another spotlight is set up showing you where your wall should end."
+"Cliquez sur le mur que vous venez de construire sous les projecteurs et construisez un autre mur au sud. Un autre projecteur est installé pour vous montrer où votre mur doit se terminer."
 End
 
 SCRIPT:MBTutorial_MissionText60
-"Select the next build plot highlighted on the fortress and build a wall span to the spotlight to the right. Then build to the next spotlight in the north."
+"Sélectionnez le prochain terrain de construction mis en évidence sur la forteresse et construisez une travée de mur au projecteur à droite. Ensuite, construisez jusqu'au prochain projecteur dans le nord."
 End
 
 SCRIPT:MBTutorial_MissionText61
-"Next we will need to build wall defenses."
+"Ensuite, nous devrons construire des défenses murales."
 End
 
 SCRIPT:MBTutorial_MissionText62
-"You may upgrade a wall with structures such as arrow towers, trebuchets, gates or wall hubs."
+"Vous pouvez améliorer un mur avec des structures telles que des tours défensives, des trébuchets, des portes ou des poternes mureaux."
 End
 
 SCRIPT:MBTutorial_MissionText63
-"What we really need right now are the trebuchets. Select any wall segment and build a trebuchet upgrade on it."
+"Ce dont nous avons vraiment besoin en ce moment, ce sont les trébuchets. Sélectionnez n'importe quel segment de mur et construisez une amélioration de trébuchet dessus."
 End
 
 SCRIPT:MBTutorial_MissionText64
-"Build 2 battalions of Gondor soldiers from the barracks."
+"Construisez 2 bataillons de soldats du Gondor à partir de la caserne."
 End
 
 SCRIPT:MBTutorial_MissionText65
-"Now build two battalions of Gondor archers from the archery range."
+"Construisez maintenant deux bataillons d'archers du Gondor à partir de l'archerie."
 End
 
 SCRIPT:MBTutorial_MissionText66
-"We'll need a Hero to lead our troops. Heroes can be purchased from the fortress. If your Heroes should fall in battle, they can be revived from the fortress as well."
+"Nous aurons besoin d'un héros pour diriger nos troupes. Les héros peuvent être achetés dans la forteresse. Si vos héros tombent au combat, ils peuvent également être réanimés depuis la forteresse."
 End
 
 SCRIPT:MBTutorial_MissionText67
-"To summon a Hero, select your fortress and click on the Heroes button. This will bring up a menu of all the current Heroes you're allowed to build. Right now Boromir is residing in our fortress."
+"Pour invoquer un héros, sélectionnez votre forteresse et cliquez sur le bouton Héros. Cela fera apparaître un menu de tous les héros actuels que vous êtes autorisé à construire. En ce moment Boromir réside dans notre forteresse."
 End
 
 SCRIPT:MBTutorial_MissionText68
-"Click on his portrait to summon him."
+"Cliquez sur son portrait pour l'invoquer."
 End
 
 SCRIPT:MBTutorial_MissionText69
-"Heroes in general have an array of special powers and abilites that make them unique and vital for a strong army. Select Boromir now."
+"Les héros en général ont un éventail de pouvoirs et de capacités spéciaux qui les rendent uniques et vitaux pour une armée forte. Sélectionnez Boromir maintenant."
 End
 
 SCRIPT:MBTutorial_MissionText70
-"You will find a Hero's abilities on the palantir. Some are passive abilities which are always enabled such as Boromir's leadership ability."
+"Vous trouverez les capacités d'un héros sur le palantir. Certaines sont des capacités passives qui sont toujours activées, telles que la capacité de leadership de Boromir."
 End
 
 SCRIPT:MBTutorial_MissionText71
-"Other powers can be set to autocast by right clicking its button in the palantir. You will see its outline sparkle when this is enabled."
+"D'autres pouvoirs peuvent être configurés pour être diffusés automatiquement en cliquant avec le bouton droit de la souris sur son bouton dans le palantir. Vous verrez son contour briller lorsque cela est activé."
 End
 
 SCRIPT:MBTutorial_MissionText72
-"Right click on Boromir's Horn of Gondor ability to set it to autocast."
+"Faites un clic droit sur la capacité Corne du Gondor de Boromir pour la mettre en autodiffusion."
 End
 
 SCRIPT:MBTutorial_MissionText73
-"Our army is built and Gondor's new fortress is complete. You've learned all the basics of building and controlling a base and an army."
+"Notre armée est constituée et la nouvelle forteresse du Gondor est terminée. Vous avez appris toutes les bases de la construction et du contrôle d'une base et d'une armée."
 End
 
 SCRIPT:MBTutorial_MissionText74
-"SCOUT: The goblins, they're here! A large force has gathered and is moving towards this very spot."
+"ECLAIREUR : Les gobelins, ils arrivent ! Une grande force s'est rassemblée et se dirige vers nous."
 End
 
 SCRIPT:MBTutorial_MissionText75
-"You will have to defend this base as you've done before with the camps."
+"Vous devrez défendre cette base comme vous l'avez fait auparavant avec les camps."
 End
 
 SCRIPT:MBTutorial_MissionText76
-"Remember, select your army and right click on the enemy units to issue attack orders. You can select one battalion at a time and issue them attack orders to specific enemy battalions."
+"N'oubliez pas, sélectionnez votre armée et faites un clic droit sur les unités ennemies pour donner des ordres d'attaque. Vous pouvez sélectionner un bataillon à la fois et donner des ordres d'attaque à des bataillons ennemis spécifiques."
 End
 
 SCRIPT:MBTutorial_MissionText77
-"Victory is ours! Great job my lord! That ought to send those Goblins back to their caves."
+"La victoire est à nous ! Excellent travail mon seigneur ! Cela devrait renvoyer ces gobelins dans leurs grottes."
 End
 
 SCRIPT:MBTutorial_MissionText78
-"Come back when you're ready to finish them off by playing through the Advanced Tutorial."
+"Revenez lorsque vous êtes prêt à les terminer en jouant à travers le didacticiel avancé."
 End
 
 ///////////////////////////// Advanced Tutorial ////////////////////////////////
 //"A single line of text should be no longer than this one." ///////////////////
 
 SCRIPT:MATutorial_Objective01
-"Learn stances."
+"Apprendre des positions."
 End
 
 SCRIPT:MATutorial_Objective02
-"Issue a formation preview order to an army."
+"Émettre un ordre de prévisualisation de formation à une armée."
 End
 
 SCRIPT:MATutorial_Objective03
-"Capture the shipwright."
+"Capturez le port."
 End
 
 SCRIPT:MATutorial_Objective04
-"Build a transport and garrison it."
+"Construisez un bâteau et installez-y une garnison."
 End
 
 SCRIPT:MATutorial_Objective05
-"Attack-move on the enemy camp."
+"Attaque-mouvement sur le camp ennemi."
 End
 
 SCRIPT:MATutorial_Objective06
-"Use powers to kill the goblins and move past the wall."
+"Utilisez des pouvoirs pour tuer les gobelins et passer le mur."
 End
 
 SCRIPT:MATutorial_Objective07
-"Use fire to destroy the enemy camp."
+"Utilisez le feu pour détruire le camp ennemi."
 End
 
 SCRIPT:MATutorial_Objective08
-"Destroy the goblin base."
+"Détruisez la base des gobelins."
 End
 
 SCRIPT:MATutorial_MissionText01
-"Welcome back to the White Mountains. As you can see we've been very busy here, \n but the goblin attacks have yet to stop."
+"Bienvenue dans les Montagnes Blanches. Comme vous pouvez le voir, nous avons été très occupés ici, \n mais les attaques des gobelins n'ont pas encore cessé."
 End
 
 SCRIPT:MATutorial_MissionText02
-"The goblins seem to be coming from across the river. I suggest \n we take the fight to their base!"
+"Les gobelins semblent venir de l'autre côté de la rivière. Je suggère \n que nous menions le combat jusqu'à leur base !"
 End
 
 SCRIPT:MATutorial_MissionText03
-"Before we move forward, I would like to teach you some \n of the tactics that our battalions have been working on."
+"Avant d'aller de l'avant, j'aimerais vous apprendre quelques \n tactiques sur lesquelles nos bataillons ont travaillé."
 End
 
 SCRIPT:MATutorial_MissionText04
-"Each battalion can enter a particular attack mode, or what we refer to as stances. These stances can boost their power or defense. Click on the Gondor soldier battalion in the spotlight."
+"Chaque bataillon peut entrer dans un mode d'attaque particulier, ou ce que nous appelons des positions. Ces positions peuvent augmenter leur puissance ou leur défense. Cliquez sur le bataillon de soldats du Gondor sous les projecteurs."
 End
 
 SCRIPT:MATutorial_MissionText05
-"The stances button is located on the palantir. If you click on it, it will bring up a menu with 3 stances to choose from."
+"Le bouton formation est situé sur le palantir. Si vous cliquez dessus, il fera apparaître un menu avec 3 positions au choix."
 End
 
 SCRIPT:MATutorial_MissionText06
-"The Battle Stance is the default stance for all units and renders no bonuses or penalties to a unit's abilities."
+"La posture de combat est la posture par défaut pour toutes les unités et n'apporte aucun bonus ni pénalité aux capacités d'une unité."
 End
 
 SCRIPT:MATutorial_MissionText07
-"The Aggressive Stance will increase a unit's offensive capabilities while decreasing their defensive capabilities."
+"La posture agressive augmentera les capacités offensives d'une unité tout en diminuant ses capacités défensives."
 End
 
 SCRIPT:MATutorial_MissionText08
-"The Hold Ground Stance will greatly increase a unit's defensive capabilities while decreasing their offensive capabilities."
+"La position de maintien au sol augmentera considérablement les capacités défensives d'une unité tout en diminuant ses capacités offensives."
 End
 
 SCRIPT:MATutorial_MissionText09
-"Set the battalion you have selected into its Aggressive Stance by clicking on the Aggressive Stance button."
+"Réglez le bataillon que vous avez sélectionné dans sa position agressive en cliquant sur le bouton Position agressive."
 End
 
 SCRIPT:MATutorial_MissionText10
-"Now let's have our army form up into a battle line."
+"Maintenant, formons notre armée en ligne de bataille."
 End
 
 SCRIPT:MATutorial_MissionText11
-"Select multiple battalions and move your cursor over to the spotlight."
+"Sélectionnez plusieurs bataillons et déplacez votre curseur sur le projecteur."
 End
 
 SCRIPT:MATutorial_MissionText12
-"Now press and hold both the right and left mouse buttons and drag your mouse. You'll notice that a formation preview will display on the ground. Once you release the mouse buttons, your units will form up into this battle line."
+"Maintenant, maintenez enfoncés les boutons droit et gauche de la souris et faites glisser votre souris. Vous remarquerez qu'un aperçu de la formation s'affichera au sol. Une fois que vous relâchez les boutons de la souris, vos unités se formeront dans cette ligne de bataille."
 End
 
 SCRIPT:MATutorial_MissionText13
-"We must take our army across the river and over to the enemy's base. In order to do so we will need a shipwright."
+"Nous devons emmener notre armée de l'autre côté de la rivière jusqu'à la base ennemie. Pour ce faire, nous aurons besoin d'un port."
 End
 
 SCRIPT:MATutorial_MissionText14
-"There's a shipwright to the East of here along the river."
+"Il y a un chantier naval à l'est d'ici le long de la rivière."
 End
 
 SCRIPT:MATutorial_MissionText15
-"Move a battalion to the shipwright and capture it. Remember to capture it by right clicking on the flag while having a battalion selected."
+"Déplacez un bataillon vers le chantier naval et capturez-le. N'oubliez pas de le capturer en faisant un clic droit sur le drapeau tout en ayant sélectionné un bataillon."
 End
 
 SCRIPT:MATutorial_MissionText16
-"Selecting the shipwright will bring up options of different types of vessels you may purchase."
+"La sélection du port affichera les options des différents types de navires que vous pouvez acheter."
 End
 
 SCRIPT:MATutorial_MissionText17
-"The transport will ferry your troops across large bodies of water."
+"Ce bateau transportera vos troupes à travers de grandes étendues d'eau."
 End
 
 SCRIPT:MATutorial_MissionText18
-"Battleships will help destroy enemy ships that impede your way."
+"Les cuirassés aideront à détruire les navires ennemis qui vous gênent."
 End
 
 SCRIPT:MATutorial_MissionText19
-"Gondor has sent naval reinforcments. Let's join up with them. Select the shipwright and click on the Transport to begin building one."
+"Le Gondor a envoyé des renforts navals. Joignons-nous à eux. Sélectionnez le port et cliquez sur le bâteau de transport pour commencer à en construire un."
 End
 
 SCRIPT:MATutorial_MissionText20
-"Now select your battalion and right click on the Transport. You'll notice that your cursor changes to a garrison icon. Other structures in Middle-earth can be garrisoned as well, so keep an eye out for that icon."
+"Sélectionnez maintenant votre bataillon et faites un clic droit sur le bâteau de transport. Vous remarquerez que votre curseur se transforme en icône de garnison. D'autres structures de la Terre du Milieu peuvent également être en garnison, alors gardez un oeil sur cette icône."
 End
 
 SCRIPT:MATutorial_MissionText21
-"Great, now move your transport into the spotlight to join up with the rest of the Gondor convoy."
+"Super, maintenant déplacez votre bâteau de transport sous les projecteurs pour rejoindre le reste du convoi du Gondor."
 End
 
 SCRIPT:MATutorial_MissionText22
-"GONDOR OFFICER: A fell beast! Watch out!"
+"OFFICIER DU GONDOR : Une bête déchue ! Attention !"
 End
 
 SCRIPT:MATutorial_MissionText23
-"GONDOR OFFICER: It destroyed one of the Transports! Hurry, get to the beach quickly!"
+"OFFICIER DU GONDOR : Il a détruit l'un de nos transportiers ! Dépêchez-vous, allez vite à la plage !"
 End
 
 SCRIPT:MATutorial_MissionText24
-"GONDOR OFFICER: Engage those Corsair ships! Send them to the bottom of the river!"
+"OFFICIER DU GONDOR : Engagez ces vaisseaux corsaires ! Envoyez-les au fond de la rivière !"
 End
 
 SCRIPT:MATutorial_MissionText25
-"In order to deploy your units from a Transport, select the Transport and give it a move order on land."
+"Afin de déployer vos unités à partir d'un Transportier, sélectionnez le Transportier et donnez-lui un ordre de déplacement sur terre."
 End
 
 SCRIPT:MATutorial_MissionText26
-"There's one of their camps up ahead. Issue an Attack-move order and that should take care of them."
+"Un de leurs camps se trouve droit devant. Donnez un ordre de mouvement d'attaque et cela devrait les régler."
 End
 
 SCRIPT:MATutorial_MissionText27
-"To issue an Attack-move order, select your army and press the A key on your keyboard. This will change your cursor to an Attack-move cursor."
+"Pour émettre un ordre de mouvement d'attaque, sélectionnez votre armée et appuyez sur la touche A de votre clavier. Cela changera votre curseur en un curseur de mouvement d'attaque."
 End
 
 SCRIPT:MATutorial_MissionText28
-"Then, right click on the ground in the spotlight behind the camp. This will send your army on a path of destruction to that point, killing every enemy they encounter."
+"Ensuite, faites un clic droit sur le sol dans le projecteur derrière le camp. Cela enverra votre armée sur un chemin de destruction jusqu'à ce point, tuant tous les ennemis qu'elle rencontre."
 End
 
 SCRIPT:MATutorial_MissionText29
-"It appears as though the goblins have retreated over that wall. Unfortunately goblins are able to scale walls by climbing them whereas we are not, nor do we have any siege weapons to take down those walls."
+"Il semble que les gobelins se soient retirés par-dessus ce mur. Malheureusement, les gobelins sont capables d'escalader les murs en les escaladant alors que nous ne le pouvons pas, et nous n'avons pas non plus d'armes de siège pour abattre ces murs."
 End
 
 SCRIPT:MATutorial_MissionText30
-"We'll have to call in for greater powers to help us progress."
+"Nous devrons faire appel à de plus grands pouvoirs pour nous aider à progresser."
 End
 
 SCRIPT:MATutorial_MissionText31
-"At your disposal is a list of powers that can be purchased from the Evenstar icon located on the palantir. Click on the Evenstar icon now."
+"A votre disposition se trouve une liste de pouvoirs qui peuvent être achetés à partir de l'icône Sorts située sur le palantir. Cliquez sur l'icône Sorts maintenant."
 End
 
 SCRIPT:MATutorial_MissionText32
-"As you can see, all the powers are tiered, which means you have to purchase the lower costing powers in order to access the more expensive powers."
+"Comme vous pouvez le voir, tous les pouvoirs sont échelonnés, ce qui signifie que vous devez acheter les pouvoirs les moins chers pour accéder aux pouvoirs les plus chers."
 End
 
 SCRIPT:MATutorial_MissionText33
-"In order to purchase a power, you must have an amount of power points equal to or greater than the number associated with that power."
+"Pour acheter un pouvoir, vous devez disposer d'un nombre de points de pouvoir égal ou supérieur au nombre associé à ce pouvoir."
 End
 
 SCRIPT:MATutorial_MissionText34
-"Go ahead and purchase the Arrow Volley and Earthquake powers. They are currently the only powers available to buy."
+"Allez-y et achetez les pouvoirs Volée de Flèches et Tremblement de terre. Ils sont actuellement les seuls pouvoirs disponibles à l'achat."
 End
 
 SCRIPT:MATutorial_MissionText35
-"To exit, click the Accept button at the bottom of the screen."
+"Pour quitter, cliquez sur le bouton Accepter en bas de l'écran."
 End
 
 SCRIPT:MATutorial_MissionText36
-"Every time you buy a new power, it will appear on the left hand side of your screen just above the palantir."
+"Chaque fois que vous achetez un nouveau pouvoir, il apparaîtra sur le côté gauche de votre écran juste au-dessus du palantir."
 End
 
 SCRIPT:MATutorial_MissionText37
-"Now back to the battle. Left click on the Arrow Volley power and move your cursor over the goblins."
+"Revenons maintenant à la bataille. Faites un clic gauche sur le pouvoir Volée de Flèches et déplacez votre curseur sur les gobelins."
 End
 
 SCRIPT:MATutorial_MissionText38
-"To use the power, left click on the ground."
+"Pour utiliser le pouvoir, faites un clic gauche sur le sol."
 End
 
 SCRIPT:MATutorial_MissionText38b
-"To use the power, left click on the ground."
+"Pour utiliser le pouvoir, faites un clic gauche sur le sol."
 End
+
 SCRIPT:MATutorial_MissionText39
-"Keep in mind that certain powers such as Arrow Volley can only be cast in areas that are visible to you."
+"Gardez à l'esprit que certains pouvoirs tels que la Volée de Flèches ne peuvent être lancés que dans des zones qui vous sont visibles."
 End
 
 SCRIPT:MATutorial_MissionText40
-"Now to get past these walls. Unfortunately the gate is in disrepair and cannot be opened, so we'll have to destroy these walls."
+"Passons maintenant au-delà de ces murs. Malheureusement, la porte est en mauvais état et ne peut pas être ouverte, nous devrons donc détruire ces murs."
 End
 
 SCRIPT:MATutorial_MissionText41
-"The Earthquake power will deal a significant amount of damage to these walls and should be enough to clear our path."
+"La puissance du Tremblement de terre infligera une quantité importante de dégâts à ces murs et devrait suffire à dégager notre chemin."
 End
 
 SCRIPT:MATutorial_MissionText42
-"Left click on the Earthquake power now and left click underneath those walls to cast it."
+"Faites un clic gauche sur le Tremblement de terre maintenant et faites un clic gauche sous ces murs pour le lancer."
 End
 
 SCRIPT:MATutorial_MissionText43
-"Continue north along the path and be wary of any camps you encounter."
+"Continuez vers le nord le long du chemin et méfiez-vous des camps que vous rencontrez."
 End
 
 SCRIPT:MATutorial_MissionText44
-"ITHILIEN RANGER: M'lord, we are glad you have come. We've been keeping an eye on this Goblin camp and have set up a trap for them. All we need to do is set the forest ablaze around them and it should spread into their camp."
+"RANGER ITHILIEN : Mon Seigneur, nous sommes heureux que vous soyez venu. Nous surveillons ce camp gobelin et nous leur avons tendu un piège. Tout ce que nous avons à faire, c'est de mettre le feu à la forêt autour d'eux et elle devrait se répandre dans leur camp."
 End
 
 SCRIPT:MATutorial_MissionText45
-"Fire has become a valuable asset as of late. Unfortunately in our enemy's hands it could be a serious danger."
+"Le feu est devenu un atout précieux ces derniers temps. Malheureusement, entre les mains de notre ennemi, cela pourrait être un grave danger."
 End
 
 SCRIPT:MATutorial_MissionText46
-"Select the rangers who have joined you and have them volley their arrows into the spotlights. This will start a fire there and you'll be able to watch it spread into the enemy's base."
+"Sélectionnez les rangers qui vous ont rejoint et demandez-leur de lancer leurs flèches dans les projecteurs. Cela déclenchera un incendie dans la zone et vous pourrez le regarder se propager dans la base ennemie."
 End
 
 SCRIPT:MATutorial_MissionText47
-"That was the last of their camps, their main base is just to the west."
+"C'était le dernier de leurs camps, leur base principale est juste à l'ouest."
 End
 
 SCRIPT:MATutorial_MissionText48
-"There's their main base. It appears as though those tunnels are how they've been traveling through these mountains."
+"Voici leur base principale. Il semble que ces tunnels soient la façon dont ils ont voyagé à travers ces montagnes."
 End
 
 SCRIPT:MATutorial_MissionText49
-"One thing to note about their tunnels is that when destroyed, you must also destroy the rubble they leave behind. Otherwise the tunnels will spring forth once more and the Goblins will be able to use them yet again."
+"Une chose à noter à propos de leurs tunnels. Lorsqu'ils sont détruits, vous devez également détruire les décombres qu'ils laissent derrière eux. Sinon, les tunnels jailliront à nouveau et les gobelins pourront à nouveau les utiliser."
 End
 
 SCRIPT:MATutorial_MissionText50
-"If we completely destroy their tunnels and their fortress, that should put a stop to them infesting these mountains once and for all."
+"Si nous détruisons complètement leurs tunnels et leur forteresse, cela devrait les empêcher d'infester ces montagnes une fois pour toutes."
 End
 
 SCRIPT:MATutorial_MissionText51
-"Their fortress is killing our army. Use your Earthquake power again on their fortress and it should take down their defenses."
+"Leur forteresse affaiblit nos forces. Utilisez à nouveau votre pouvoir sismique sur leur forteresse et cela devrait abattre leurs défenses."
 End
 
 SCRIPT:MATutorial_MissionText52
-"Victory is ours! The goblin threat has been eliminated once and for all in this mountain pass. Minas Tirith will be pleased to hear of our victory and may sleep safely knowing this pass is once again controlled by Gondor."
+"La victoire est à nous ! La menace des gobelins a été éliminée une fois pour toutes dans ce col de montagne. Minas Tirith sera ravi d'apprendre notre victoire et pourra dormir en toute sécurité en sachant que ce col est à nouveau contrôlé par le Gondor."
 End
 
 SCRIPT:MATutorial_MissionText53
-"And you, milord, are now ready to vanquish more evil from Middle-earth. Take with you all that you have learned and try a campaign, a skirmish versus the AI, or a multiplayer match online against your friends!"
+"Et vous, mon Seigneur, êtes maintenant prêt à vaincre le mal en Terre du Milieu ? Emportez avec vous tout ce que vous avez appris et essayez une campagne, une escarmouche contre un ordinateur ou un match multijoueur en ligne contre vos amis !"
 End
 
 
@@ -12191,180 +12191,180 @@ End
 
 
 SCRIPT:Objective_G01_01 
-"Bring Glorfindel and his elves to Rivendell."
+"Amenez Glorfindel et ses elfes jusqu'à Fondcombe."
 END
 
 SCRIPT:Complete_G01_01a 
-"Glorfindel has arrived at Rivendell."
+"Glorfindel est arrivé à Fondcombe."
 END
 
 SCRIPT:Objective_G01_02
-"Warn Elrond of the approaching goblin army."
+"Prévenez Elrond de l'arrivée imminente de l'armée des gobelins."
 END
 
 SCRIPT:Complete_G01_02a
-"Elrond has been warned of the approaching goblin army."
+"Elrond a été prévenu de leur arrivée imminente."
 END
 
 SCRIPT:Objective_G01_03
-"Defend Rivendell from attack."
+"Defendez Fondcombre contre l'attaque."
 END
 
 SCRIPT:Complete_G01_03a
-"Rivendell has been defended."
+"Fondcombe a été défendue."
 END
 
 SCRIPT:Objective_G01_04
-"Destroy the goblin base to the South."
+"Détruisez la base des gobelins au Sud."
 END
 
 SCRIPT:Complete_G01_04a
-"The goblin base has been destroyed."
+"La base des gobelins a été détruite."
 END
 
 SCRIPT:Objective_G01_05
-"The House of Elrond must not fall."
+"La maison d'Elrond ne doit pas tomber."
 END
 
 SCRIPT:Objective_G01_06
-"Train a battalion of Rivendell Guardsmen from the Dormitory."
+"Entraînez un bataillon de guerriers de la Lorien depuis votre Caserne."
 END
 
 SCRIPT:Complete_G01_06a
-"Rivendell Guardsmen have been trained at the Dormitory."
+"Les guerriers de la Lórien ont été entrainés dans la caserne."
 END
 
 SCRIPT:Objective_G01_07
-"Glóin must reach Level 2."
+"Glóin doit atteindre le niveau 2."
 END
 
 SCRIPT:Complete_G01_07a
-"Glóin has reached Level 2."
+"Glóin a atteint le niveau 2."
 END
 
 SCRIPT:Announcement_G01_00
-"You can recruit Revelers from the Hall of Fire to lay waste to the enemy's camp."
+"Vous pouvez recruter des Révélateurs dans la Salle du feu pour dévaster le camp ennemi."
 END
 
 SCRIPT:Announcement_G01_01
-"Defend Rivendell from the hordes of goblins. \nThe House of Elrond must not fall."
+"Defendez Fondcombe face aux hordes de Gobelins.\n La maison d'Elrond ne doit pas tomber."
 END
 
 SCRIPT:Announcement_G01_02
-"Find Elrond and warn him of the incoming goblin invasion." 
+"Trouvez Elrond et prévenez le de l'invasion imminente des Gobelins." 
 END
 
 SCRIPT:Announcement_G01_03
-"Slay the giant before it destroys Rivendell."
+"Abattez le géant avant qu'il ne détruise Fondcombe."
 END
 
 SCRIPT:Announcement_G01_04
-"Ride out and destroy the Goblin encampment to the south."
+"Sortez de la ville et détruisez le camp de gobelins au Sud."
 END
 
 SCRIPT:Announcement_G01_05
-"Build a Rivendell Guardsmen battalion from your barracks."
+"Construisez un bataillon de guerriers de la Lorien depuis votre caserne."
 END
 
 SCRIPT:Announcement_G01_06
-"You can build more units from this Dormitory."
+"Vous pouvez construire plus d'unités depuis cette caserne."
 END
 
 SCRIPT:Announcement_G01_07
-"You can garrison a tower by giving a unit a move order into the tower." 
+"Vous pouvez placer une unité en garnison dans la tour en lui intimant l'ordre de s'y rendre." 
 END
 
 SCRIPT:Announcement_G01_08
-"Arwen has returned with the Rivendell Knights." 
+"Arwen est revenue avec des lanciers d'Imladris." 
 END
 
 SCRIPT:Announcement_G01_09
-"The Great Eagles have joined the fight." 
+"Les aigles ont rejoint la bataille." 
 END
 
 SCRIPT:Announcement_G01_10
-"Use the Great Eagles to slay the Were-worm." 
+"Utilisez les aigles pour abattre le Wyrm." 
 END
 
 
 SCRIPT:Hint_G01_01
-"Aid your fellow elves against the encroaching goblins."
+"Aidez vos compagnons elfes face aux envahisseurs gobelins."
 END
 
 SCRIPT:Hint_G01_02
-"You can build more units from the Dormitory."
+"Vous pouvez construire plus de bataillons de guerriers depuis votre caserne."
 END
 
 SCRIPT:Hint_G01_03
-"The Orchard produces resources that you can use to buy units."
+"Le Mallorn produit des ressources que vous pouvez utiliser pour acheter des unités."
 END
 
 SCRIPT:Hint_G01_04
-"Some Rivendell Archers have arrived to the west."
+"Des archers de la Lorien viennent d'arriver par l'Ouest."
 END
 
 SCRIPT:Hint_G01_05
-"These Rivendell Archers will aid us greatly."
+"Ces archers de la Lorien seront d'une aide précieuse."
 END
 
 SCRIPT:Hint_G01_06
-"Select a power from the palantir."
+"Selectionnez un pouvoir depuis le Palantir."
 END
 
 SCRIPT:Hint_G01_07
-"Goblins are attacking from the West."
+"Les gobelins sont en train d'attaquer par l'Ouest."
 END
 
 SCRIPT:Hint_G01_08
-"More Goblins are attacking from the West."
+"Les gobelins continuent d'attaquer par l'Ouest."
 END
 
 SCRIPT:Hint_G01_09
-"ELF OFFICER: Sir look! It's the Eagles!" 
+"OFFICIER ELFE: Seigneur regardez! Ce sont les aigles!" 
 END
 
 SCRIPT:Hint_G01_10
-"You can now build Rivendell Archers from the Dormitory." 
+"Vous pouvez dorénavant entraîner des archers de la Lorien depuis votre caserne." 
 END
 
 SCRIPT:Hint_G01_11
-"ELF OFFICER: A Worm! We must destroy it!" 
+"OFFICIER ELFE: Un Wyrm! Nous devons le détruire!" 
 END
 
 SCRIPT:Dialog_G01_01
-"ARWEN: We've destroyed a goblin encampment to the West of here."
+"ARWEN: Nous avons détruit un camp de gobelins à l'ouest d'ici."
 END
 
 SCRIPT:Dialog_G01_02
-"ARWEN: As we returned we noticed more goblins setting up a camp to the South, on the other side of the river!"
+"ARWEN: Au moment ou nous arrivions, nous avons remarqué que les gobelins établissaient un camp au Sud, de l'autre côté de la rivière!"
 END
 
 SCRIPT:Dialog_G01_03
-"GLOIN: What brings ya back so soon elf?" 
+"GLOIN: Qu'est ce qui vous fait revenir si hâtivement elfe ?" 
 END
 
 SCRIPT:Dialog_G01_04
-"GLORFINDEL: The goblins have come down from the mountains! They are approaching from the South!" 
+"GLORFINDEL: Les Gobelins sont descendus des montagnes! Ils approchent par le Sud!" 
 END
 
 SCRIPT:Dialog_G01_05
-"ELROND: I sensed this day was coming." 
+"ELROND: Je sentais que ce jour allait arriver." 
 END
 
 SCRIPT:Dialog_G01_06
-"ELROND: Long has Rivendell been safe from the servants of darkness. Its sanctity must not be lost!" 
+"ELROND: Fondcombe a longtemps été à l'abri des serviteurs des ténèbres. Sa sainteté ne doit pas être mis en péril!" 
 END
 
 SCRIPT:Dialog_G01_07
-"GLOIN: Goblins? I'll take care of the filthy wretches." 
+"GLOIN: Des Gobelins? Je vais m'occuper de ces sales misérables." 
 END
 
 SCRIPT:Dialog_G01_08
-"GLOIN: What of the archers hunting to the west? Or Lady Arwen collecting Athelas?"
+"GLOIN: Qu'en est t'il des archers qui chassent à l'Ouest ? Ou est cette Dame Arwen qui collecte de l'Athelas ?"
 END
 
 SCRIPT:Dialog_G01_10
-"ELF OFFICER: Sound the alarm! Goblins are coming, they're just beyond the river!" 
+"OFFICIER ELFE: Sonnez l'alarme! Les Gobelins approchent, ils sont juste au delà de la rivière !" 
 END
 
 
@@ -12373,281 +12373,282 @@ END
 
 
 SCRIPT:OBJECTIVE_G02_01
-"Establish a base at the High Pass."
+"Etablissez une base dans les Hauts Cols."
 End
 
 SCRIPT:ANNOUNCEMENT_G02_01
-"We must establish a base here, for who knows what danger lurks beyond."
+"Nous devons établir une base ici, qui sait ce qui peut se cacher au dela."
 End
 
 SCRIPT:COMPLETED_G02_01
-"Base established in the High Pass."
+"Le camp a été établi dans les Hauts Cols."
 End
 
 SCRIPT:OBJECTIVE_G02_01A
-"Build an Orchard."
+"Construisez un Mallorn."
 End
 
 SCRIPT:ANNOUNCEMENT_G02_01A
-"Build an Orchard to bolster our economy."
+"Construisez un Mallorn pour renforcer votre économie."
 End
 
 SCRIPT:COMPLETED_G02_01A
-"An Orchard has been built." 
+"Le Mallorn a été construit." 
 End
 
 SCRIPT:OBJECTIVE_G02_01B
-"Build a Dormitory." 
+"Construisez une caserne elfe." 
 End
 
 SCRIPT:ANNOUNCEMENT_G02_01B
-"Build a Dormitory to train more warriors."
+"Construisez une caserne pour entraîner plus de guerriers et d'archers."
 End
 
 SCRIPT:COMPLETED_G02_01B
-"Dormitory has been built." 
+"La caserne a été construite." 
 End
 
 SCRIPT:OBJECTIVE_G02_01C
-"Build a Green Pasture." 
+"Construire des Verts Pâturages." 
 End
 
 SCRIPT:ANNOUNCEMENT_G02_01C
-"Build a Green Pasture to train Rivendell Lancers." 
+"Construisez des Verts Pâturages pour entraîner des Lanciers d'Imladris." 
 End
 
 SCRIPT:COMPLETED_G02_01C
-"Green Pasture has been built." 
+"Les Verts Pâturages ont été construits." 
 End
 
 SCRIPT:OBJECTIVE_G02_01D
-"Build a Battle Tower." 
+"Construisez une Tour de guerre." 
 End
 
 SCRIPT:ANNOUNCEMENT_G02_01D
-"Build a Battle Tower to defend our base."
+"Construisez une Tour de guerre pour défendre votre base."
 End
 
 SCRIPT:COMPLETED_G02_01D
-"Battle Tower built." 
+"La tour de guerre a été construite." 
 End
 
 SCRIPT:OBJECTIVE_G02_01E
-"Add a Watch Tower to Fortress." 
+"Ajoutez une tour de guet à votre forteresse." 
 End
 
 SCRIPT:ANNOUNCEMENT_G02_01E
-"Select a Fortress Build Plot and construct a Watch Tower, so we can better defend our base." 
+"Séelctionnez un emplacement de construction autour de la forteresse et construisez une tour de guet, cela permettra de mieux défendre notre base." 
 End
 
 SCRIPT:COMPLETED_G02_01E
-"Watch Tower added to Fortress." 
+"La tour de guet a été ajoutée à la forteresse."
 End
 
 SCRIPT:OBJECTIVE_G02_01F
-"Train Lorien Archers and Rivendell Lancers." 
+"Entraînez des Archers de la Lórien et des Lanciers d'Imladris." 
 End
 
 SCRIPT:ANNOUNCEMENT_G02_01F
-"Train Archers and Knights from the Dormitory so we can venture into the pass." 
+"Entraînez des Archers de la Lórien depuis la Caserne et des Lanciers d'Imladris depuis les Verts Paturages et nous pourrons nous aventurer dans le Col." 
 End
 
 SCRIPT:COMPLETED_G02_01F
-"Archers and Knights trained." 
+"Les archers et les lanciers ont été entraînés." 
 End
 
 SCRIPT:OBJECTIVE_G02_02
-"Rescue the Sons of Elrond." 
+"Sauvez les fils d'Elrond." 
 End
 
 SCRIPT:COMPLETED_G02_02
-"The Sons of Elrond have been rescued." 
+"Les fils d'Elrond sont sauvés." 
 End
 
 SCRIPT:ANNOUNCEMENT_G02_02
-"The Sons of Elrond are fighting an overwhelming force of orcs on a crag to the north. Rescue them."
+"Les fils d'Elrond sont pris en embuscade sur une falaise vers le Nord. Sauvez les."
 END
 
 SCRIPT:OBJECTIVE_G02_03
-"Destroy the Goblin camp." 
+"Détruisez le camp gobelin."  
 End
 
 SCRIPT:ANNOUNCEMENT_G02_03
-"Destroy the Goblin camp and drive them from the High Pass." 
+"Détruisez le camp gobelin et chassez les hors du col." 
 End
 
 SCRIPT:COMPLETED_G02_03
-"Goblin camp destroyed." 
+"Le camp gobelin a été détruit." 
 End
 
 SCRIPT:OBJECTIVE_G02_04
-"Kill the Dragon."
+"Tuer le Dragon."
 END
 
 SCRIPT:ANNOUNCEMENT_G02_04
-"Kill the Dragon, lest it lay waste to our forces."
+"Abattez le Dragon, laissez le hors de portée de nos forces."
 END
 
 SCRIPT:COMPLETED_G02_04
-"The Dragon has been killed."
+"The Dragon a été détruit."
 END
 
 SCRIPT:OBJECTIVE_G02_B01
-"Destroy all Goblin Tunnels."
+"Détruisez tous les tunnels des gobelins."
 END
 
 SCRIPT:COMPLETED_G02_B01
-"All Goblin Tunnels have been destroyed."
+"Tous les tunnels des gobelins ont été éradiqués."
 END
 
 SCRIPT:OBJECTIVE_G02_B02
-"Destroy all Troll Lairs."
+"Détruisez toutes les fissures de géants."
 END
 
 SCRIPT:COMPLETED_G02_B02
-"All Troll Lairs have been destroyed."
+"Toutes les fissures de géants ont été détruites."
 END
 
 SCRIPT:OBJECTIVE_G02_B03
-"Kill all Mountain Giants."
+"Tuez tous les géants des montagnes."
 END
 
 SCRIPT:COMPLETED_G02_B03
-"All of the Mountain Giants have been killed."
+"Tous les géants des montagnes ont été abattus."
 END
 
 SCRIPT:MGHighPass_HaldirScout01
-"ELF SCOUT: The Sons of Elrond are trapped by the orcs. Save them!"
+"ECLAIREUR ELFE: Les fils d'Elrond sont coincés par les Gobelins. Sauvez les!"
 END
 
 SCRIPT:MGHighPass_HaldirHint01
-"ELF SCOUT: Elladan and Elrohir are facing imminent defeat. Save them now!"
+"ECLAIREUR ELFE: Les fils d'Elrond sont proches de la défaite. Sauvez les maintenant!"
 END
 
 SCRIPT:MGHighPass_CampHint01
-"The Dragon is defeated, but the goblin camp still stands. Destroy the camp."
+"Le Dragon n'est plus mais le camp gobelin est toujours debout. Détruisez le camp."
 END
 
 SCRIPT:MGHighPass_Haldir01
-"The Ice Tower blocks this route. Find another way through."
+"La tour de glace bloque cette voie. Trouvez un autre chemin."
 END
 
 ///////////////////////// GOOD ETTENMOORS MISSION TEXT /////////////////////////
 ///////// A single line of text should be no longer than this one. /////////////
 
 SCRIPT:OBJECTIVE_G03_01
-"Reach the elven settlement."
+"Atteignez le campement des elfes."
 END
 
 SCRIPT:ANNOUNCEMENT_G03_01
-"Reach the elven settlement before it's too late."
+"Atteignez le campement des elfes avant qu'il ne soit trop tard."
 END
 
 SCRIPT:HINT_G03_01
-"Reach elven settlement before it's too late!"
+"Atteignez le campement des elfes avant qu'il ne soit trop tard!"
 END
 
 SCRIPT:COMPLETION_G03_01
-"Elven settlement reached."
+"Le campement des elfes a été atteint."
 END
 
 SCRIPT:OBJECTIVE_G03_02
-"Drive the goblins from the elven settlement."
+"Chassez les gobelins du camp elfe"
 END
 
 SCRIPT:ANNOUNCEMENT_G03_02
-"Drive the goblins from the settlement and save the elves."
+"Chassez les gobelins du camp et sauvez les elfes."
 END
 
 SCRIPT:HINT_G03_02
-"The elves are close to defeat. Drive the goblins from the settlement and save them."
+"Les elfes sont proches de la défaite. Chassez les gobelins du camp et sauvez les."
 END
 
 SCRIPT:COMPLETION_G03_02
-"The goblins have been driven from the elven settlement."
+"Les gobelins ont été chassés du camp elfe."
 END
 
 SCRIPT:OBJECTIVE_G03_03
-"Reach the Dúnedain camp and enquire their help in fighting goblins."
+"Rejoignez le camp des Dúnedain et demandez leur aide pour combattre les gobelins."
 END
 
 SCRIPT:ANNOUNCEMENT_G03_03
-"Reach the Dúnedain camp and enquire their help in fighting goblins."
+"Rejoignez le camp des Dúnedain et demandez leur aide pour combattre les gobelins."
 END
 
 SCRIPT:HINT_G03_03
-"Reach the Dúnedain camp and enlist their aid in the fight against the orcs."
+"Rejoignez le camp des Dúnedain et demandez leur aide dans la lutte contre les orcs."
 END
+
 SCRIPT:COMPLETION_G03_03
-"The Dúnedain will help us slay the Goblin King."
+"Les Dúnedain nous aideront à tuer le Roi des Gobelins."
 END
 
 SCRIPT:OBJECTIVE_G03_04
-"Slay the Goblin King."
+"Abattez le Roi Gobelin."
 END
 
 SCRIPT:ANNOUNCEMENT_G03_04
-"Slay the Goblin King."
+"Abattez le Roi Gobelinng."
 END
 
 SCRIPT:HINT_G03_04
-"Slay the Goblin King."
+"Abattez le Roi Gobelin."
 END
 
 SCRIPT:COMPLETION_G03_04
-"The Goblin King has been slain."
+"Le Roi Gobelin a été tué."
 END
 
 SCRIPT:OBJECTIVE_G03_05
-"Destroy the Goblin King's stronghold."
+"Détruisez la forteresse du Roi Gobelin."
 END
 
 SCRIPT:ANNOUNCEMENT_G03_05
-"Destroy the Goblin King's stronghold and prevent evil from claiming these lands again."
+"Détruisez la forteresse du Roi Gobelin et faites en sorte que le mal soit à jamais chassé de ces terres."
 END
 
 SCRIPT:COMPLETION_G03_05
-"The Goblin King's stronghold has been destroyed."
+"La forteresse du Roi Gobelin a été détruite."
 END
 
 SCRIPT:OBJECTIVE_G03_B01
-"Destroy 8 Goblin Tunnels."
+"Détruisez 8 tunnels des gobelins."
 END
 
 SCRIPT:ANNOUNCEMENT_G03_B01
-"Destroy all the Goblin Tunnels to limit the enemy's movement."
+"Détruisez les tunnels des gobelins pour entraver les mouvements ennemis."
 END
 
 SCRIPT:COMPLETION_G03_B01
-"8 Goblin Tunnels have been destroyed."
+"8 tunnels des gobelins ont été détruits."
 END
 
 SCRIPT:OBJECTIVE_G03_B02
-"Destroy the giant drum."
+"Détruisez le troll des montagnes et le tambour géant."
 END
 
 SCRIPT:ANNOUNCEMENT_G03_B02A
-"That drum summons more Trolls. Kill the troll before he reaches it."
+"Ce tambour invoque un géant des montagnes. Tuez le troll avant qu'il ne l'atteigne."
 END
 
 SCRIPT:ANNOUNCEMENT_G03_B02B
-"Destroy the giant drum."
+"Détruisez le tambour géant."
 END
 
 SCRIPT:COMPLETION_G03_B02
-"The troll and giant drum have been destroyed."
+"Le troll et le tambour géant ont été détruits."
 END
 
 SCRIPT:OBJECTIVE_G03_B03
-"Destroy the Goblin Sentry Towers."
+"Détruisez la tour de garde des gobelins."
 END
 
 SCRIPT:ANNOUNCEMENT_G03_B03
-"The Goblins have set up Sentry Towers. Destroy them."
+"Les gobelins ont édifiés des tours de garde. Détruisez les."
 END
 
 SCRIPT:COMPLETION_G03_B03
-"The Goblin Sentry Towers have been destroyed."
+"Les tours des sentinelles gobelins ont été détruites."
 END
 
 SCRIPT:MGEttenmoors_Haldir01
@@ -12703,509 +12704,509 @@ END
 ///////// A single line of text should be no longer than this one. /////////////
 
 SCRIPT:OBJECTIVE_G04_01
-"Slay the dragon."
+"Tuez le dragon."
 End
 
 SCRIPT:ANNOUNCEMENT_G04_01
-"Find and slay the dragon in his lair."
+"Trouvez et tuez le dragon dans son antre."
 End
 
 SCRIPT:HINT_G04_01
-"Find and slay the Dragon in his lair."
+"Trouvez et tuez le dragon dans son antre."
 End
 
 SCRIPT:COMPLETION_G04_01
-"The dragon has been slain."
+"Le dragon a été tué."
 End
 
 SCRIPT:OBJECTIVE_G04_02
-"Build a Fortress inside the cave."
+"Construisez une forteresse dans la caverne."
 END
 
 SCRIPT:ANNOUNCEMENT_G04_02
-"Build a Fortress inside the Cave to protect it from the dragon's assault."
+"Construisez une forteresse dans la caverne pour vous protégez des assauts du dragon."
 END
 
 SCRIPT:HINT_G04_02
-"Build a Fortress inside the Cave to protect it from the dragon's assault."
+"Construisez une forteresse dans la caverne pour vous protégez des assauts du dragon."
 END
 
 SCRIPT:COMPLETION_G04_02
-"A Fortress has been built inside the cave"
+"Une forteresse a été construite dans la caverne"
 END
 
 SCRIPT:OBJECTIVE_G04_B01
-"Eliminate all Spider Lairs."
+"Détruisez tous les antres d'araignées."
 END
 
 SCRIPT:ANNOUNCEMENT_G04_B01
-"Eliminate the Spider Lairs that infest this cave."
+"Détruisez tous les antres d'araignées qui infestent cette caverne."
 END
 
 SCRIPT:HINT_G04_B01
-"Eliminate the Spiders Lairs that infest this cave."
+"Détruisez tous les antres d'araignées qui infestent cette caverne."
 END
 
 SCRIPT:COMPLETION_G04_B01
-"All Spider Lairs have been eliminated."
+"Tous les antres d'araignées ont été détruits."
 END
 
 SCRIPT:OBJECTIVE_G04_B02a
-"Use the Mine Shaft."
+"Utilisez la mine."
 END
 
 SCRIPT:ANNOUNCEMENT_G04_B02a
-"Use the Mine Shaft to reach the battle more quickly."
+"Utilisez la mine pour rejoindre la bataille plus rapidement."
 END
 
 SCRIPT:HINT_G04_B02a
-"Use the Mine Shaft to reach the battle more quickly."
+"Utilisez la mine pour rejoindre la bataille plus rapidement."
 END
 
 SCRIPT:COMPLETION_G04_B02a
-"The Mine Shaft has been used."
+"La mine a été utilisée."
 END
 
 SCRIPT:OBJECTIVE_G04_B02
-"Build two Mine Shafts."
+"Construisez deux mines."
 END
  
 SCRIPT:ANNOUNCEMENT_G04_B02
-"Build two Mine Shafts, one in the cave, one outside, to reach the battle more quickly."
+"Construisez deux mines, une dans la caverne, une autre dehors, pour rejoindre la bataille plus rapidement."
 END
 
 SCRIPT:HINT_G04_B02
-"Build two Mine Shafts, one in the cave, one outside, to reach the battle more quickly."
+"Construisez deux mines, une dans la caverne, une autre dehors, pour rejoindre la bataille plus rapidement."
 END
 
 SCRIPT:COMPLETION_G04_B02
-"Two Mine Shafts have been built."
+"Deux mines ont été construites."
 END
 
 SCRIPT:OBJECTIVE_G04_B03
-"Demolish the citadel door."
+"Démolissez la porte de la citadelle."
 END
 
 SCRIPT:ANNOUNCEMENT_G04_B03
-"Demolish the citadel door to gain an alternate route into the city."
+"Démolissez la porte de la citadelle pour bénéficier d'une route alternative dans la cité."
 END
 
 SCRIPT:HINT_G04_B03
-"Demolish the citadel door to gain an alternate route into the city."
+"Démolissez la porte de la citadelle pour bénéficier d'une route alternative dans la cité."
 END
 
 SCRIPT:COMPLETION_G04_B03
-"The Citadel door has been demolished."
+"La porte de la citadelle a été démolie."
 END
 
 SCRIPT:OBJECTIVE_G04_B04
-"Eliminate all Fire Drake Lairs that infest this cavern."
+"Eliminez tous les antres de drakes qui infestent cette caverne."
 END
 
 SCRIPT:ANNOUNCEMENT_G04_B04
-"Eliminate the Fire Drake Lairs."
+"Détruisez les antres de drakes."
 END
 
 SCRIPT:HINT_G04_B04
-"Eliminate the Fire Drake Lairs that infest this Dungeon."
+"Eliminez tous les antres de drakes qui infestent ce donjon."
 END
 
 SCRIPT:COMPLETION_G04_B04
-"All Fire Drake Lairs have been eliminated."
+"Tous les antres de drakes ont été détruits."
 END
 
 SCRIPT:MGBlueMountain_MissionHint04FleeInside
-"The dragon attacks, but we lack the forces to defend our camp. Flee inside the cave." 
+"Le dragon attaque, mais nous manquons de forces pour défendre notre camp, fuyez à l'intérieur de la grotte." 
 END
 
 SCRIPT:MGBlueMountain_MissionHint04BaseAttack
-"Our base is under attack."
+"Notre base est attaquée."
 END
 
 SCRIPT:MGBlueMountain_MissionHint05BuildInside
-"Build inside the Mountain to protect your buildings from the dragon."
+"Construisez à l'intérieur de la montagne pour prémunir vos bâtiments des attaques du dragon."
 End
 
 SCRIPT:MGBlueMountain_MissionHint06Resources
-"Use Dwarven Riches to increase the speed at which your mineshaft produces resources."
+"Utilisez la richesse des nains pour accroùtre la production de ressources de vos mines."
 End
 
 SCRIPT:MGBlueMountain_MissionHint07RallyCall
-"Use Rallying Call to strengthen your troops in battle."
+"Utilisez le cri de ralliement pour renforcer vos troupes dans la bataille."
 End
 
 SCRIPT:MGBlueMountain_MissionHint11Demolisher
-"Construct a Battering Ram or a Demolisher to break down the door."
+"Construisez un démolisseur pour détruire la porte."
 End
 
 SCRIPT:MGBlueMountain_MissionHint12DemolisherB
-"Use battering rams or demolishers to knock down the citadel gates."
+"Utilisez le démolisseur pour mettre à bas la porte de la citadelle."
 End
 
 //////////////////////// GOOD GREY HAVENS MISSION TEXT /////////////////////////
 ///////// A single line of text should be no longer than this one. /////////////
 
 SCRIPT:GOODGreyHavensOpenText01
-"The Corsairs of Umbar have blockaded the Grey Havens of Mithlond."
+"Les Corsaires d'Umbar ont bloqué les Havres Gris de Mithlond."
 END
 
 SCRIPT:GOODGreyHavensOpenText-ClearHavens
-"Clear all enemies out of the Grey Havens."
+"Chassez tous les ennemis des Havres Gris."
 END
 
 SCRIPT:GOODGreyHavensTextHint-ClearHavensComplete
-"All enemy forces have been cleared out of the Grey Havens."
+"Toutes les forces ennemies ont été chassées des Havres Gris."
 END
 
 SCRIPT:GOODGreyHavensTextHint-ReclaimShipyards
-"Send units to the docks and right-click on the banners to capture the Shipwrights."
+"Envoyez des unités vers les docks et faêtes clic droit sur la bannière pour capturer les quais."
 END
 
 SCRIPT:GOODGreyHavensTextHint-ReclaimShipyardsComplete
-"Both Shipwrights have been reclaimed."
+"Les deux quais ont été capturés."
 END
 
 SCRIPT:GOODGreyHavensTextHint-BuildBattleships
-"Now that you have reclaimed the shipwrights, build a fleet of no less than \n four new Battleships to fight the Corsairs."
+"Maintenant que vous avez pris possession des quais, construisez une flotte d'au moins\n quatre vaisseaux de guerre pour combattre les corsaires."
 END
 
 SCRIPT:GOODGreyHavensTextHint-BuildBattleshipsReminder
-"Build a fleet of no less than four Battleships to fight the Corsairs."
+"Construisez une flotte d'au moins quatre vaisseaux de guerre pour combattre les corsaires."
 END
 
 SCRIPT:GOODGreyHavensTextHint-BuildBattleshipsComplete
-"You have completed your fleet of Elven Warships."
+"Vous avez complétez votre flotte de vaisseaux de guerre elfes."
 END
 
 SCRIPT:GOODGreyHavensTextHint-UpgradeShips
-"Select your Battleship, then click the flashing button to upgrade the armour and endurance of your naval vessels."
+"Sélectionnez votre navire, ensuite cliquez sur les boutons en surbrillance pour améliorer son armure et son endurance."
 END
 
 SCRIPT:GOODGreyHavensTextHint-BuildStormShip
-"Storm ships explode when they collide into an enemy ship, causing great damage to all nearby units, both friend and foe. Build a Storm Ship from your Shipwright."
+"Les vaisseaux tempête explosent quand ils rentrent en collision avec un navire ennemi causant de gros dégâts à toutes les unités proches, ennemies ou amies. Construisez un vaisseau tempête depuis les quais."
 END
 
 SCRIPT:GOODGreyHavensTextHint-StormShipComplete
-"The Storm Ship is complete."
+"Le vaisseau tempête est prêt."
 END
 
 SCRIPT:GOODGreyHavensTextHint-BreakBlockade
-"Destroy the Corsair Naval Blockade."
+"Détruisez le blocus naval des corsaires."
 END
 
 SCRIPT:GOODGreyHavensTextHint-BreakBlockadeComplete
-"The Corsair Naval Blockade has been destroyed."
+"Le blocus naval des corsaires a été anéanti."
 END
 
 SCRIPT:GOODGreyHavensTextHint-BuildTransports
-"Elven Tranports can be used to move ground units across the water. Build one from your shipwright." 
+"Les barges elfes sont utiles pour transporter des unités terrestres sur l'eau. Construisez en une depuis le quai." 
 END
 
 SCRIPT:GOODGreyHavensTextHint-BuildTransportsReminder
-"Build an Elven transport from your Shipwright."
+"Constuisez une barge elfe depuis le quai."
 END
 
 SCRIPT:GOODGreyHavensTextHint-BuildTransportsComplete
-"The Elven transport is complete."
+"La barge elfe a été construite."
 END
 
 SCRIPT:GOODGreyHavensTextHint-GarrisonTransports
-"Once you have built a Transport, select a ground unit, then right-click to garrison the unit inside the transport."
+"Dès que vous avez construit un transport, sélectionnez une unité puis faites clic droit pour la mettre en garnison à l'intérieur."
 END
 
 SCRIPT:GOODGreyHavensTextHint-GarrisonTransportReminder
-"Right-click on the Elven Tansport to garrison your units inside it."
+"Faites clic droit sur votre bateau pour mettre vos unités en garnison à l'intérieur."
 END
 
 SCRIPT:GOODGreyHavensTextHint-UnloadTransports
-"When a Transport is within range of a shoreline, select it, then left-click on the\n units inside to unload them."
+"Quand une barge est proche d'une côte, sélectionnez la, puis faites clic sur gauche sur\n les unités à l'intérieur pour les débarquer."
 END
 
 SCRIPT:GOODGreyHavensTextHint-UnloadTransportReminder
-"Unload your units from the Transport when it is close to shore."
+"Débarquez vos unités quand le transport est proche de la cote."
 END
 
 SCRIPT:GOODGreyHavensTextHint-ReclaimCorsairShipyards
-"Capture the Corsair Shipwrights to the South."
+"Capturez les quais des Corsaires au Sud."
 END
 
 SCRIPT:GOODGreyHavensTextHint-ReclaimCorsairShipyardsComplete
-"You have successfully captured the Corsair Shipwrights."
+"Vous avez réussi à capturer les quais des corsaires."
 END
 
 SCRIPT:GOODGreyHavensTextHint-1stBeachAssault
-"The enemy is attacking the shores to the West - destroy all enemy units."
+"L'ennemi attaque la cote par l'Ouest - Détruisez toutes les unités ennemies"
 END
 
 SCRIPT:GOODGreyHavensTextHint-1stBeachAssaultAlt
-"The enemy is attacking the shores to the West - destroy all ground and naval units."
+"L'ennemi attaque la cote par l'Ouest - détruisez toutes ses unités terrestres et navales."
 END
 
 SCRIPT:GOODGreyHavensTextHint-1stBeachAssaultComplete
-"You have successfully repelled the first enemy attack wave."
+"Vous avez réussi à vaincre la première vague d'ennemis."
 END
 
 SCRIPT:GOODGreyHavensTextHint-BombardShips
-"The Corsairs are attacking with long-range Bombardment ships.\n Build Bombardment ships from your Shipwrights to counter this threat."
+"Les Corsaires attaquent avec des vaisseaux bombardiers à longue portée.\n Construisez un vaisseau bombardier depuis le quai pour contrer cette menace."
 END
 
 SCRIPT:GOODGreyHavensTextHint-BombardShipsReminder
-"Build Bombardment ships from your Shipwrights."
+"Construisez un vaisseau bombardier depuis le quai."
 END
 
 SCRIPT:GOODGreyHavensTextHint-BombardShipsComplete
-"The Elven Bombardment ship is complete."
+"Le vaisseau bombardier elfe est prêt."
 END
 
 SCRIPT:GOODGreyHavensTextHint-DwarvenArrival
-"The dwarven reinforcements from the Blue Mountains have arrived."
+"Les renforts nains des Montagnes Bleues viennent d'arriver."
 END
 
 SCRIPT:GOODGreyHavensTextHint-2ndBeachAssault
-"The enemy has launched the second attack wave - destroy all enemy units."
+"L'ennemi a lancé la seconde vague d'attaque - détruisez toutes les unités ennemies."
 END
 
 SCRIPT:GOODGreyHavensTextHint-2ndBeachAssaultAlt
-"The enemy has launched the second attack wave - destroy all ground and naval units."
+"L'ennemi a lancé la seconde vague d'attaque- détruisez toutes ses unités terrestres et navales."
 END
 
 SCRIPT:GOODGreyHavensTextHint-2ndBeachAssaultComplete
-"You have successfully repelled the second enemy attack wave."
+"Vous avez mis fin avec succès à la seconde vague d'attaque."
 END
 
 SCRIPT:GOODGreyHavensTextHint-CorsairIntruders
-"The Corsairs have initiated a sneak attack on the Grey Havens - repel them."
+"Les corsaires ont lancé une attaque furtive sur les Havres Gris - repoussez les."
 END
 
 SCRIPT:GOODGreyHavensTextHint-FinalBeachAssault
-"The final wave of the assault has commenced - destroy all units."
+"La vague d'assaut finale a commencé - détruisez toutes les unités ennemies."
 END
 
 SCRIPT:GOODGreyHavensTextHint-FinalBeachAssaultAlt
-"The final wave of the assault has commenced - destroy all ground and naval units."
+"La vague d'assaut finale a commencé - détruisez toutes les unités terrestres et navales."
 END
 
 SCRIPT:GOODGreyHavensTextHint-FinalBeachAssaultComplete
-"You have successfully repelled the final enemy attack wave."
+"Vous avez repoussé avec succès la vague d'assaut finale."
 END
 
 SCRIPT:GOODGreyHavensTextHint-GeneralBeachAssaultReminder
-"Destroy all enemy units."
+"Détruisez toutes les unités ennemies."
 END
 
 SCRIPT:GOODGreyHavensTextHint-GeneralBeachAssaultReminderAlt
-"Destroy all enemy ground and naval units in the attack wave."
+"Détruisez toutes les unités de cette vague d'assaut."
 END
 
 SCRIPT:OBJECTIVE_SPGGH_01
-"Clear all enemy forces out of the Grey Havens."
+"Nettoyez les Havres Gris de toutes les forces ennemies."
 END
 
 SCRIPT:OBJECTIVE_SPGGH_02
-"Secure both Shipwrights in the Grey Havens."
+"Securisez chaque quai au sein des Havres Gris."
 END
 
 SCRIPT:OBJECTIVE_SPGGH_03
-"Build a fleet of no less than four Elven Warships."
+"Construisez une flotte d'au moins quatre vaisseaux de guerre elfes."
 END
 
 SCRIPT:OBJECTIVE_SPGGH_04
-"Destroy the Corsair Naval Blockade."
+"Détruisez le blocus naval des Corsaires."
 END
 
 SCRIPT:OBJECTIVE_SPGGH_05
-"Build an Elven Transport Ship."
+"Construisez une barge elfe de transport."
 END
 
 SCRIPT:OBJECTIVE_SPGGH_06
-"Capture both Corsair Shipwrights to the South."
+"Capturez chaque quai des corsaires au Sud."
 END
 
 SCRIPT:OBJECTIVE_SPGGH_07
-"Destroy the first wave of the beach assault."
+"Détruisez la première vague d'assaut sur la plage."
 END
 
 SCRIPT:OBJECTIVE_SPGGH_08
-"Destroy the second wave of the beach assault."
+"Détruisez la seconde vague d'assaut sur la plage."
 END
 
 SCRIPT:OBJECTIVE_SPGGH_09
-"Destroy the final wave of the beach assault."
+"Détruisez la vague d'assaut finale sur la plage."
 END
 
 SCRIPT:BONUS_OBJECTIVE_SPGGH_01
-"Build an Elven Storm Ship."
+"Construisez un vaisseau tempête elfe."
 END
 
 SCRIPT:BONUS_OBJECTIVE_SPGGH_02
-"Build an Elven Bombardment Ship."
+"Construisez un vaisseau bombardier elfe."
 END
 
 SCRIPT:SUBTITLE_MGGreyH_ElfOfficer01
-"SENTRY OF MITHLOND: Glorfindel! We heard that you may be coming."
+"SENTINELLE DE MITHLOND: Glorfindel! Nous avions entendu que vous étiez en chemin."
 END
 
 SCRIPT:SUBTITLE_MGGreyH_ElfOfficer02
-"SENTRY OF MITHLOND: Corsairs from the south have sunk our ships and have ransacked the port!"
+"SENTINELLE DE MITHLOND: Les corsaires du Sud ont coulé nos navires et mis le port à sac!"
 END
 
 SCRIPT:SUBTITLE_MGGreyH_ElfOfficer03
-"SENTRY OF MITHLOND: And now their ships linger in the gulf, sinking any ships attempting to flee!"
+"SENTINELLE DE MITHLOND: Et maintenant leurs vaisseaux patrouillent dans le Golfe, coulant tous les bateaux qui tentent de s'enfuir!"
 END
 
 SCRIPT:SUBTITLE_MGGreyH_Gloin01
-"GLOIN: .... Dwarves! Go back to the caves and tell our brothers the enemy is here! Surely they will listen..."
+"GLOIN: .... Nains! Retournez dans les cavernes et dêtes à nos frères que l'ennemi est ici ! Ils répondront certainement..."
 END
 
 SCRIPT:SUBTITLE_MGGreyH_Elf102
-"ELVEN WARRIOR: It's the dwarves! They've come to help us!"
+"GUERRIER ELFE: Ce sont les nains! Ils arrivent pour nous aider!"
 END
 
 SCRIPT:SUBTITLE_MGGreyH_Elf103
-"ELVEN WARRIOR: The dwarves! The dwarves have come!"
+"GUERRIER ELFE: Les nains! Les nains arrivent!"
 END
 
 SCRIPT:SUBTITLE_MGGreyH_DwarfOfficer01
-"DWARVEN OFFICER: Aye! We couldn't let our friends have all the fun now!"
+"OFFICIER NAIN: Aye! Nous ne pouvions laisser nos amis s'amuser seuls maintenant"
 END
 
 SCRIPT:SUBTITLE_MGGreyH_DwarfOfficer02
-"DWARVEN OFFICER: The heart of the dwarf is a restless one! When the battle calls, we answer!"
+"OFFICIER NAIN: Le coeur des nains est en ébullition, nous répondons toujours à l'appel de la bataille!"
 END
 
 SCRIPT:SUBTITLE_MGGreyH_ElfOfficer040
-"ELVEN OFFICER: The wind carries a fell note across the waters - the heralds of the armada sound their assault!"
+"OFFICIER ELFE: Le vent charrie vers nous un présage funeste à travers l'eau - les hérauts de l'armada sonnent l'assaut!"
 END
 
 SCRIPT:SUBTITLE_MGGreyH_DwarfOfficer003
-"ELVEN OFFICER: There it is again! A second assault wave approaches!"
+"OFFICIER ELFE: Ils sont de nouveau là! Une seconde vague d'assaut approche!"
 END
 
 SCRIPT:SUBTITLE_MGGreyH_DwarfOfficer004
-"DWARVEN OFFICER: A third trumpet, and the skies darken...this surely is our final battle."
+"OFFICIER NAIN: Une troisième trompette, et le ciel s'assombrit...c'est certainement la bataille finale."
 END
 
 SCRIPT:SUBTITLE_MGGreyH_ElfOfficer047
-"ELVEN OFFICER: Unlikely words from you, Master Dwarf. But we will not perish at the hands of this rabble, I swear to you!"
+"OFFICIER ELFE: Des mots qui jurent dans votre bouche maitre nain. Mais nous ne périrons pas de leur mains je le jure!"
 END
 
 SCRIPT:SUBTITLE_MGGreyH_ElfOfficer045
-"ELVEN OFFICER: What! How is this possible! The Corsairs have infiltrated our city!"
+"OFFICIER ELFE: Quoi! Comment est ce possible! Les Corsaires ont infiltré notre cité!"
 END
 
 ///////////////////////// GOOD CELDUIN MISSION TEXT ///////////////////////////
 ///////// A single line of text should be no longer than this one. /////////////
 
 SCRIPT:OBJECTIVE_G06_01
-"Return to the docks."
+"Retournez sur les quais."
 END
 
 SCRIPT:ANNOUNCEMENT_G06_01
-"Our forces are cut off. Fight your way back to the dwarven base at the docks."
+"Nos forces sont coupés en deux. Trouvez votre chemin en combattant vers l'arrière pour revenir vers la base naine."
 END
 
 SCRIPT:COMPLETION_G06_01
-"Our forces have reached the docks."
+"Nos forces ont atteint les quais."
 END
 
 SCRIPT:OBJECTIVE_G06_02
-"Repel the Great Beasts' assault."
+"Repoussez l'assaut des Mumakils."
 END
 
 SCRIPT:ANNOUNCEMENT_G06_02
-"Repel the Great Beasts' assault from the shallows."
+"Repoussez l'assaut des Mumakils dans les eaux peu profondes."
 END
 
 SCRIPT:COMPLETION_G06_02
-" The Great Beasts' assault has been repelled."
+"L'assaut des Mumakils a été repoussé."
 END
 
 SCRIPT:OBJECTIVE_G06_03
-"Cross the shallows."
+"Traversez les eaux peu profondes."
 END
 
 SCRIPT:ANNOUNCEMENT_G06_03
-"Cross the shallows and take the fight to Easterlings' encampment."
+"Traversez les eaux peu profondes et combattez jusqu'au camp du Mordor."
 END
 
 SCRIPT:COMPLETION_G06_03
-"The Shallows have been crossed."
+"Les eaux peu profondes ont été traversées."
 END
 
 SCRIPT:OBJECTIVE_G06_04
-"Destroy the Easterling Fortress."
+"Détruisez la forteresse du Mordor."
 END
 
 SCRIPT:ANNOUNCEMENT_G06_04
-"Destroy Easterling's Fortress and drive them from this land."
+"Détruisez la forteresse du Mordor et chassez les de ce pays."
 END
 
 SCRIPT:COMPLETION_G06_04
-"The Easterling Fortress has been destroyed."
+"La forteresse du Mordor a été détruite."
 END
 
 SCRIPT:OBJECTIVE_G06_B01
-"Return our scattered forces ot the docks."
+"Renvoyez nos forces dispersées sur les quais."
 END
 
 SCRIPT:ANNOUNCEMENT_G06_B01
-"Collect all of Dáin's scattered forces and return them to the base at the docks."
+"Rassemblez toutes les troupes de Dain qui ont été séparées et ramenez les sur les quais."
 END
 
 SCRIPT:HINT_G06_B01
-"Collect all of Dáin's scattered forces and return them to the base at the docks."
+"Rassemblez toutes les troupes de Dain qui ont été séparées et ramenez les sur les quais."
 END
 
 SCRIPT:COMPLETION_G06_B01
-"The scattered forces have been returned to the base."
+"Nos forces divisées sont revenues à la base."
 END
 
 SCRIPT:OBJECTIVE_G06_B02
-"Capture all Auxillary Camps and Outposts."
+"Capturez toutes les auberges et les avant-postes."
 END
 
 SCRIPT:COMPLETION_G06_B02
-"All of the Auxilary Camps and Outposts have been captured."
+"Toutes les auberges et avant-postes ont été capturés."
 END
 
 SCRIPT:OBJECTIVE_G06_B03
-"Dáin must survive."
+"Dáin doit survivre."
 END
 
 SCRIPT:COMPLETION_G06_B03
-"Dáin has survived."
+"Dáin a survécu."
 END
 
 SCRIPT:OBJECTIVE_G06_B04
-"Destroy all Catapults."
+"Détruisez toutes les catapultes du Mordor."
 END
 
 SCRIPT:COMPLETION_G06_B04
-"All Catapults have been destroyed."
+"Toutes les catapultes du Mordor ont été détruites."
 END
 
 SCRIPT:G06_Hint01
-"Use Grim-hammers to shatter this Fortress."
+"Utilisez vos marteaux de siège pour mettre à bas cette forteresse."
 END
 
 SCRIPT:G06_Hint02
-"Build boats to deal with naval aggressors."
+"Construisez des bateaux pour faire aux agresseurs navals."
 END
 
 SCRIPT:MGCeludin_ObjectiveBonusA
-"Rescue the Bardings and they shall fight alongside you."
+"Sauvez les Hommes de Dale et ils combattront à vos côtés."
 End
 
 SCRIPT:INTRO_GO6_01
-"The battle has not gone well for King Dáin."
+"La bataille ne se présente pas bien pour le roi Daïn."
 END
 
 SCRIPT:INTRO_GO6_02
-"The Celduin settlement has been overrun by Easterlings forces, the Dwarven armies scattered."
+"Le camp de la rivière Celduin a été envahi par les forces du Mordor, les armées naines sont dispersées."
 END
 
 SCRIPT:INTRO_GO6_03
-"Still, Dáin fights bravely, gathering his forces for one last ditch assault on the Easterling camp."
+"Dain combat toujours courageusement et rassemble ses forces pour un assaut ultime sur le camp du Mordor."
 END
 
 
@@ -13217,214 +13218,214 @@ END
 
 
 SCRIPT:Objective_G07_01
-"Reinforce Dale to buy time to build up a defense inside Erebor."
+"Renforcez Dale afin de gagner du temps pour construire des défenses dans Erebor."
 END
 
 SCRIPT:Objective_G07_02
-"Fall back and hold the mountain against the enemy."
+"Battez en retraite et tenez la montagne face à l'ennemi."
 END
 
 SCRIPT:Objective_G07_03
-"Destroy all Easterling forces."
+"Détruisez toutes les forces du Mordor."
 END
 
 SCRIPT:Objective_G07_04
-"The Throne of Erebor must not fall."
+"Le trône d'Erebor ne doit pas tomber."
 END
 
 SCRIPT:Objective_G07_05
-"The Gate of Erebor must not fall."
+"La porte d'Erebor ne doit pas tomber."
 END
 
 SCRIPT:Objective_G07_06
-"Garrison the towers of Dale."
+"Garnissez les tours de Dale."
 END
 
 SCRIPT:Complete_G07_06
-"Towers of Dale have been garrisoned."
+"Les tours de Dale ont été garnies."
 END
 
 SCRIPT:Objective_G07_07
-"Build 4 Men of Dale battalions."
+"Entraînez quatre bataillons d'hommes de Dale."
 END
 
 SCRIPT:Complete_G07_07
-"4 Men of Dale battalions have been built."
+"4 bataillons d'hommes de Dale ont été entraînés."
 END
 
 SCRIPT:Objective_G07_08
-"Defeat the first wave of Easterling attackers."
+"Repoussez la première vague d'attaquants du Mordor."
 END
 
 SCRIPT:Complete_G07_08
-"The first wave of Easterling attackers has been defeated."
+"La première vague d'attaquants du Mordor a été repoussée."
 END
 
 SCRIPT:Objective_G07_09
-"Defeat the second wave of Easterling attackers."
+"Repoussez la seconde vague d'attaquants du Mordor."
 END
 
 SCRIPT:Complete_G07_09
-"The second wave of Easterling attackers has been defeated."
+"La seconde vague d'attaquants du Mordor a été repoussée."
 END
 
 SCRIPT:Objective_G07_10
-"Defeat the third wave of Easterling attackers."
+"Repoussez la troisième vague d'attaquants du Mordor."
 END
 
 SCRIPT:Complete_G07_10
-"The third wave of Easterling attackers has been defeated."
+"La troisième vague d'attaquants du Mordor a été repoussée."
 END
 
 SCRIPT:Objective_G07_11
-"Defeat the fourth wave of Easterling attackers."
+"Repoussez la quatrième vague d'attaquants du Mordor."
 END
 
 SCRIPT:Complete_G07_11
-"The fourth wave of Easterling attackers has been defeated."
+"La quatrième vague d'attaquants du Mordor a été repoussée."
 END
 
 SCRIPT:Objective_G07_12
-"Defeat the Mouth of Sauron and his retinue."
+"Abattez la Bouche de Sauron et sa garde rapprochée."
 END
 
 SCRIPT:Complete_G07_12
-"The Mouth of Sauron and his retinue have been defeated."
+"La Bouche de Sauron et sa garde rapprochée ont été vaincus."
 END
 
 SCRIPT:Objective_G07_13
-"Destroy the Easterling encampment."
+"Détruisez le camp du Mordor."
 END
 
 SCRIPT:Complete_G07_13
-"The Easterling encampment has been destroyed."
+"Le camp du Mordor a été détruit."
 END
 
 SCRIPT:Objective_G07_14
-"Build a fortress in Dale."
+"Construisez une forteresse dans Dale."
 END
 
 SCRIPT:Announcement_G07_14
-"Build a fortress in Dale to protect Erebor."
+"Construisez une forteresse dans Dale pour protéger Erebor."
 END
 
 SCRIPT:Complete_G07_14
-"A fortress has been built in Dale."
+"Une forteresse a été construite dans Dale."
 END
 
 SCRIPT:Objective_G07_15
-"Build walls to defend Dale."
+"Construisez des murs pour défendre Dale."
 END
 
 SCRIPT:Hint_G07_15
-"Build walls to defend Dale from the Mordor assault."
+"Construisez des murs pour défendre Dale des assauts du Mordor."
 END
 
 SCRIPT:Complete_G07_15
-"Walls have been built in Dale."
+"Des murs ont été érigés dans Dale."
 END
 
 // Announcements ////////////////////////////////////////////////////////////////
 
 
 SCRIPT:Announcement_G07_01
-"Use the towers to the South to defend the city of Dale"
+"Utilisez les tours vers le Sud pour défendre la ville de Dale"
 End
 
 SCRIPT:Announcement_G07_02
-"The goblins have breached the perimeter. Fall back to the Mountain."
+"Les Gobelins ont pénétré dans le périmètre. Battez en retraite dans la montagne."
 END
 
 SCRIPT:Announcement_G07_03
-"Thranduil has created a diversion for us. Let's use this to drive the evil from our halls."
+"Thranduil a créé une diversion pour nous. Profitez en pour chasser le mal de ces salles."
 END
 
 SCRIPT:Announcement_G07_04
-"We can train more Builders from the Throne of Erebor."
+"Vous pouvez entraîner plus de bâtisseurs depuis le trône d'Erebor."
 END
 
 SCRIPT:Announcement_G07_05
-"We can revive our Heroes at the Throne of Erebor"
+"Vous pouvez ressusciter vos héros depuis le trône d'Erebor"
 END
 
 SCRIPT:Announcement_G07_06
-"We can revive our Heroes and build more porters at the Throne of Erebor"
+"Vous pouvez ressusciter vos héros et entraîner plus de bâtisseurs depuis le trône d'Erebor"
 END
 
 SCRIPT:Announcement_G07_07
-"Nazgûl have entered the Mountain."
+"Les Nazguls sont entrés dans la montagne."
 END
 
 // HINTS /////////////////////\///////////////////////////////\/////////////////
 
 
 SCRIPT:Hint_G07_01a
-"The Mordor war host will arrive soon. Defenses must be built in Dale."
+"L'armée du Mordor arrive bientôt. Des défenses doivent être construites dans Dale."
 END
 
 SCRIPT:Hint_G07_01 
-"The goblins can climb over our walls. Defend the area with Battle Towers."
+"Les Gobelins arrivent à escalader nos murs. Défendez la zone avec des tours de guerre."
 End
 
 SCRIPT:Hint_G07_02
-"There is not much time until the rest of Sauron's forces arrive."
+"Il ne reste pas beaucoup de temps avant l'arrivée du reste des forces de Sauron."
 END
 
 SCRIPT:Hint_G07_03
-"Dwarven Phalanx Battalions are effective against spiders and trolls."
+"Les bataillons de Phalanges naines sont efficaces face aux araignées et aux troll."
 END
 
 SCRIPT:Hint_G07_04
-"The Mouth of Sauron marches his army toward Erebor. Set up a defense in Dale to delay him until Erebor has been fortified."
+"La Bouche de Sauron a mis en branle son armée vers Erebor. Etablissez une défense dans Dale pour les ralentir avant qu'Erebor ne soit fortifié."
 end
 
 SCRIPT:Hint_G07_05
-"We must build up the our army to defend Erebor while the Mordor forces are busy looting Dale."
+"Nous devons renforcer notre armée pour défendre Erebor pendant que les forces du Mordor sont occupées à piller Dale."
 End
 
 SCRIPT:Hint_G07_06
-"While you can use the Undermine for sneak attacks, you can also use it to pull troops out of dangerous situations."
+"Si vous pouvez utiliser le réseau minier pour des attaques furtives, vous pouvez également l'utiliser pour tirer les troupes de situations dangereuses."
 End
 
 SCRIPT:Hint_G07_07
-"Use the Earthquake power to help level the enemy encampment."
+"Utiliser la puissance du tremblement de terre pour affaiblir le camp ennemi."
 End
 
 SCRIPT:Hint_G07_08
-"DWARF OFFICER: The Modor host must be close, I can smell their foul stench!"
+"OFFICIER NAIN: L'armée du Mordor doit être proche, Je peux sentir leur odeur fétide!"
 End
 
 SCRIPT:Hint_G07_09
-"Should Dale fall, mount a defense here at the gate."
+"Si Dale tombe, Construisez une défense ici à la porte."
 End
 
 SCRIPT:Hint_G07_10
-"If Dale falls to the enemy we can retreat into the mountain."
+"Si Dale tombe aux mains de l'ennemi, nous pourrons nous retirer dans la montagne."
 END
 
 SCRIPT:Hint_G07_11
-"We must fall back and defend the throne of Erebor."
+"Nous devons battre en retraiter et protéger le trône d'Erebor."
 END
 
 SCRIPT:Hint_G07_12
-"A Corsair raiding party has been spotted to the south."
+"Un raid des Corsaires a été signalé vers le Sud."
 END
 
 SCRIPT:Hint_G07_13
-"The Haradrim are attacking with archers and Mûmakil." 
+"Les Haradrims attaquent avec des archers et des Mumakils." 
 END
 
 SCRIPT:Hint_G07_14
-"Haradrim archers are attacking our defenses." 
+"Les archers Haradrim harassent nos défenses." 
 END
 
 // timers
 SCRIPT:MGErebor_Wave1timer
-"The Mordor Host will arrive in:"
+"L'armée du Mordor arrivera dans:"
 End
 
 SCRIPT:MGErebor_Wavetimer
-"The next wave will arrive in:"
+"Le prochain assaut arrivera dans:"
 End
 
 
@@ -13432,163 +13433,163 @@ End
 ///////// A single line of text should be no longer than this one. /////////////
 
 SCRIPT:GoodDolGuldurOpenText
-"Seize the Signal Fires in the North and Southeast to summon aid from Mirkwood and Erebor."
+"Capturez les feux d'alarme dans le Nord et le Sud-Est pour demander l'aide de la Forêt Noire et d'Erebor."
 END
 
 SCRIPT:GoodDolGuldurSeizeSignalFire1Text
-"The Signal Fire has been captured. Reinforcements from Mirkwood have been signaled and are on the way."
+"Le feu d'alarme a été capturé. Des renforts de la Forêt Noire ont été signalés et sont en chemin."
 END
 
 SCRIPT:GoodDolGuldurSeizeSignalFire2Text
-"The Signal Fire has been captured. Reinforcements from Erebor have been signaled and are on the way."
+"Le feu d'alarme a été capturé. Des renforts d'Erebor ont été signalés et sont en chemin."
 END
 
 SCRIPT:GoodDolGuldurHelpText_SeizeSignalFireNorthReminder
-"Seize the Northern Signal Fire."
+"Emparez vous du feu d'alarme dans le Nord."
 END
 
 SCRIPT:GoodDolGuldurHelpText_SeizeSignalFireSouthReminder
-"Seize the Southern Signal Fire."
+"Emparez vous du feu d'alarme dans le Sud."
 END
 
 SCRIPT:GoodDolGuldurHelpText_BreachFortress
-"Your armies have been summoned. When ready, besiege the fortress and break through\n to the inner perimeter of Dol Guldur."
+"Vos armées ont été convoquées. Quand vous serez prêts, assiegez la forteresse et faêtes une percée\n dans le périmètre intérieur de Dol Guldur."
 END
 
 SCRIPT:GoodDolGuldurHelpText_BreachFortressReminder
-"Breach the inner perimeter of Dol Guldur."
+"Faêtes une percée dans le périmètre intérieur de Dol Guldur."
 END
 
 SCRIPT:GoodDolGuldurHelpText_BreachFortressComplete
-"You have breached the inner perimeter of Dol Guldur."
+"Vous avez pénétré au sein du périmètre de Dol Guldur."
 END
 
 SCRIPT:GoodDolGuldurHelpText_DestroyStructures
-"Destroy all structures within the fortress walls."
+"Détruisez toutes les structures à l'intérieur des murs de la forteresse."
 END
 
 SCRIPT:GoodDolGuldurHelpText_DestroyStructuresReminder
-"There are still structures remaining within the walls of Dol Guldur."
+"Certaines structures sont encore debout dans l'enceinte de Dol Guldur."
 END
 
 SCRIPT:GoodDolGuldurHelpText_DestroyStructuresComplete
-"All Mordor structures within the fortress walls have been destroyed."
+"Toutes les structures du Mordor au sein des murs de Dol Guldur ont été détruites."
 END
 
 SCRIPT:GoodDolGuldurHelpText_RepelCounterattack
-"A great army of Mordor approaches from the South and the West.\n Defeat all enemy forces."
+"Une grande armée du Mordor approche par le Sud et l'Ouest.\n Abattez toutes les forces ennemies."
 END
 
 SCRIPT:GoodDolGuldurHelpText_CounterattackReminder
-"Destroy all enemy forces in the Mordor counterattack."
+"Détruisez toutes les forces de la contre-attaque du Mordor."
 END
 
 SCRIPT:GoodDolGuldurHelpText_RepelCounterattackComplete
-"You have successfully survived the Mordor counterattack."
+"Vous avez réussi à contrecarrer la contre-attaque du Mordor."
 END
 
 SCRIPT:GoodDolGuldurHelpText_DestroyPrison
-"Destroy the castle."
+"Détruisez le Château."
 END
 
 SCRIPT:GoodDolGuldurHelpText_DestroyCastle
-"Destroy the prison."
+"Détruisez la prison."
 END
 
 SCRIPT:TIMER_MGDG_Mirkwood_Reinforcements_Arrive
-"Mirkwood Reinforcements Arrive In:   "
+"Les renforts de la Forêt Noire arrivent dans:   "
 END
 
 SCRIPT:TIMER_MGDG_Erebor_Reinforcements_Arrive
-"Erebor Reinforcements Arrive In:   "
+"Les renforts d'Erebor arrivent dans:   "
 END
 
 SCRIPT:OBJECTIVE_MGDG_SeizeNorthSignalFire
-"Locate and capture the Northern Signal Fire."
+"Localisez et emparez vous du feu d'alarme au Nord."
 END
 
 SCRIPT:OBJECTIVE_MGDG_SeizeSouthSignalFire
-"Locate and capture the Southern Signal Fire."
+"Localisez et emparez vous du feu d'alarme au Sud."
 END
 
 SCRIPT:OBJECTIVE_MGDG_BreachDolGuldur
-"Breach the fortress of Dol Guldur."
+"Pénétrez au sein de la forteresse de Dol Guldur."
 END
 
 SCRIPT:OBJECTIVE_MGDG_DestroyStructures
-"Destroy all free-standing Mordor structures within Dol Guldur."
+"Détruisez toutes les structures autonomes du Mordor à l'intérieur de Dol Guldur."
 END
 
 SCRIPT:OBJECTIVE_MGDG_DestroyStructuresa
-"All Mordor structures have been destroyed."
+"Toutes les structures du Mordor ont été détruites."
 END
 
 SCRIPT:OBJECTIVE_MGDG_RepelCounterattack
-"Repel the Mordor counterattack."
+"Repoussez la contre-attaque du Mordor."
 END
 
 SCRIPT:OBJECTIVE_MGDG_RepelCounterattacka
-"The Mordor counterattack has been repelled."
+"La contre-attaque du Mordor a été repoussée."
 END
 
 SCRIPT:BONUS_OBJECTIVE_MGDG_HoldAllSignalFires
-"Seize all Signal Fires."
+"Capturez tous les feux d'alarme."
 END
 
 SCRIPT:BONUS_OBJECTIVE_MGDG_HoldAllSignalFiresComplete
-"All Signal Fires have been seized."
+"Tous les feux d'alarme ont été capturés."
 END
 
 SCRIPT:BONUS_OBJECTIVE_MGDG_DestroySpiders
-"Destroy all Spider Lairs."
+"Détruisez tous les antres d'araignées."
 END
 
 SCRIPT:BONUS_OBJECTIVE_MGDG_DestroySpidersComplete
-"All Spider Lairs have been destroyed."
+"Tous les antres d'araignées ont été détruits."
 END
 
 SCRIPT:SUBTITLE_MGDolGu_Elrond01
-"LORD ELROND: Elves of the Golden Wood - hear me! We must cast out the shadow\n in the forest! Our allies from Mirkwood and Erebor will heed our \nsignal. Galadrim, to battle!"
+"SEIGNEUR ELROND: Elfes du Bois doré - Ecoutez moi! Nous devons chasser l'ombre\n de cette forêt! Nos alliés de la Forêt Noire et d'Erebor répondront à notre\n signal. Galadhrim, au combat!"
 END
 
 SCRIPT:SUBTITLE_MGDolGu_Elf102
-"ELVEN WARRIOR: King Thranduil has arrived with reinforcements!"
+"GUERRIER ELFE: Le roi Thranduil est arrivé avec des renforts!"
 END
 
 SCRIPT:SUBTITLE_MGDolGu_Thranduil01
-"KING THRANDUIL: The Elves of the Northern Wood will not cower from the Darkness! Elves, Ents - follow my lead!"
+"ROI THRANDUIL: Les elfes de la Forêt Noire ne se cacheront pas des forces du mal! Elfes, Ents - Suivez ma bannière!"
 END
 
 SCRIPT:SUBTITLE_MGDolGu_Elf103
-"ELVEN WARRIOR: It's King Dáin! He's come to help us!"
+"GUERRIER ELFE: C'est le roi Daïn! Il est venu nous aider!"
 END
 
 SCRIPT:SUBTITLE_MGDolGu_Dain01
-"KING DAIN: The Dwarves of the mountain stand with you on this day! Dwarf and Elf, let us stand united against the shadow!"
+"ROI DAIN: Les nains d'Erebor feront face avec vous en ce jour! Nains et Elfes, restez unis face à l'ombre!"
 END
 
 SCRIPT:SUBTITLE_MGDolGu_Glorfindel01
-"GLORFINDEL: The Black Riders have returned! And they lead a great host of Mordor against us!"
+"GLORFINDEL: Les Cavaliers Noirs viennent d'arriver! Et ils sont à la tête d'une grande armée du Mordor venue nous défier!"
 END
 
 SCRIPT:SUBTITLE_MGDolGu_ElfOfficer08
-"ELVEN OFFICER: What? An army of Mordor has emerged from the forest!"
+"OFFICIER ELFE: Quoi? Une armée du Mordor vient de surgir de la forêt!"
 END
 
 SCRIPT:SUBTITLE_MGDolGu_Elrond04
-"LORD ELROND: We must now stand firm! It is in fear that our\n enemy seeks to divide us! Elves, Dwarves, and Men...slay the \n enemy to the last!"
+"SEIGNEUR ELROND: Nous devons tenir bon! C'est par la peur que notre\n ennemi cherche à nous diviser! Elfes, Nains, et Hommes...abattez chaque.\n ennemi jusqu'au dernier!"
 END
 
 SCRIPT:SUBTITLE_MGDolGu_ElfOfficer026
-"ELVEN OFFICER: Our hearts must not falter - vanquish the hordes of Mordor!" 
+"OFFICIER ELFE: Nos coeurs ne doivent pas faillir - abattez les hordes du Mordor!" 
 END
 
 SCRIPT:SUBTITLE_MGDolGu_Elrond05
-"LORD ELROND: It is done! The great darkness has been purged from these woods! May the valor shown this day endure in song for all the days to follow."
+"SEIGNEUR ELROND: C'est fait! La grande obscurité a été purgée de ces bois! Que la valeur démontrée en ce jour perdure en chanson pour tous les jours à venir."
 END
 
 SCRIPT:TIMER_MGDG_Mordor_Counterattack_Begins
-"Mordor Counterattack Begins in: "
+"La contre-attaque du Mordor débute dans: "
 END
 
 
@@ -13598,99 +13599,99 @@ END
 ///////// A single line of text should be no longer than this one. /////////////
 
 SCRIPT:EvilLorienOpenText
-"Build up your base and raise an army to destroy Lothlórien."
+"Construisez une base et levez une armée pour détruire la Lothlórien."
 END
 
 SCRIPT:EvilLorienHintText_BuildCave
-"Left-click one of your Builders, then left-click the flashing Goblin Cave button on the right edge of the screen."
+"Faêtes clic gauche sur l'un des bâtisseurs, puis clic gauche sur le bouton en surbrillance de la cave à gobelins sur le côté droit de l'écran."
 END
 
 SCRIPT:EvilLorienHintText_BuildCaveComplete
-"You have successfully built the Goblin Cave."
+"Vous avez réussi à construire une cave à gobelins."
 END
 
 SCRIPT:EvilLorienHintText_BuildCaveReminder
-"Left-click one of your Builders, then left-click the flashing Goblin Cave button on the build interface to the right."
+"Faites un clic gauche sur l'un des bâtisseurs, puis clic gauche sur le bouton en surbrillance de la cave à gobelins sur le côté droit de l'écran."
 END
 
 SCRIPT:EvilLorienHintText_BuildHordes
-"Now, left-click the Goblin Cave and build two Goblin hordes by left-clicking on the highlighted buttons."
+"Maintenant, faêtes clic gauche sur la cave à gobelins et entraînez deux hordes de gobelins en cliquant sur les boutons en surbrillance."
 END
 
 SCRIPT:EvilLorienHintText_BuildHordesReminder
-"Build two goblin hordes from your Goblin Cave."
+"Construisez deux hordes de gobelins depuis votre cave à gobelins."
 END
 
 SCRIPT:EvilLorienHintText_BuildHordesComplete
-"You have created two Goblin Hordes."
+"Vous avez entraîné deux hordes de gobelins."
 END
 
 SCRIPT:EvilLorienHintText_BuildTunnel
-"Left-click a Builder and create a second Tunnel. Tunnels generate resources and increase the number of units you can command."
+"Faêtes un clic gauche sur l'un des bâtisseurs pour construire un second tunnel. Les tunnels générent des ressources et augmentent le nombre de troupes que vous pouvez commander."
 END
 
 SCRIPT:EvilLorienHintText_BuildTunnelReminder
-"Select a Builder and build a second Tunnel."
+"Sélectionner un bâtisseur et construisez un second tunnel."
 END
 
 SCRIPT:EvilLorienHintText_BuildTunnelComplete
-"The second Tunnel is complete."
+"Le second tunnel a été bati."
 END
 
 SCRIPT:EvilLorienHintText_TunnelGarrison
-"Tunnels are linked in a network that can move units instantly across the map. Select a unit, then right-click on a tunnel to garrison the units inside."
+"Les tunnels sont reliés en un réseau qui permet de déplacer instantanément les unités à travers la carte. Sélectionnez une unité, puis clic droit sur le tunnel pour la placer une garnison à l'intérieur."
 END
 
 SCRIPT:EvilLorienHintText_TunnelTeleport
-"Then, select your destination Tunnel and click on the units in the Tunnel to deploy them."
+"Ensuite, sélectionnez votre tunnel de destination et cliquez sur les unités dans le tunnel pour les déployer."
 END
 
 SCRIPT:EvilLorienHintText_TunnelTeleportReminder
-"Select your units, then right-click on a Tunnel to garrison the units inside."
+"Sélectionnez vos unités, puis faêtes clic droit sur un tunnel pour les placer en garnison à l'intérieur."
 END
 
 SCRIPT:EvilLorienHintText_TunnelSpreadOut
-"Tunnels will generate more resources the farther they are from each other. Place them in clear areas and spread them out to maximize your resource income."
+"Plus les tunnels sont éloignés les uns des autres, plus ils générent de ressources. Placez les dans une zone vierge et étalez les autant que possible pour maximiser vos revenus."
 END
 
 SCRIPT:EvilLorienHintText_BuildFissure
-"Select one of your Builders, then build a Fissure from the interface on the right."
+"Selectionnez l'un de vos bâtisseurs, ensuite construisez une fissure depuis l'interface sur la droite."
 END
 
 SCRIPT:EvilLorienHintText_BuildFissureReminder
-"Select a builder to create a Fissure."
+"Sélectionnez un bâtisseur pour construire une fissure."
 END
 
 SCRIPT:EvilLorienHintText_BuildFissureComplete
-"The Fissure is complete."
+"La fissure a été créée."
 END
 
 SCRIPT:EvilLorienHintText_UpgradeFissure
-"Select your newly-built Fissure, then click the Upgrade button."
+"Sélectionnez votre nouvelle fissure, puis cliquez sur le bouton d'amélioration."
 END
 
 SCRIPT:EvilLorienHintText_UpgradeFissureReminder
-"Select the Fissure and upgrade it."
+"Sélectionnez votre fissure et améliorez la."
 END
 
 SCRIPT:EvilLorienHintText_UpgradeFissureComplete
-"The Fissure has been upgraded."
+"La fissure a été améliorée."
 END
 
 SCRIPT:EvilLorienHintText_BuildTrolls
-"Select your Fissure and build a Cave Troll."
+"Sélectionnez votre fissure et entraînez un Troll des Cavernes."
 END
 
 SCRIPT:EvilLorienHintText_BuildTrollsReminder
-"Build a Cave Troll from your Fissure."
+"Entraînez un Troll des Cavernes depuis votre Fissure."
 END
 
 SCRIPT:EvilLorienHintText_BuildTrollsComplete
-"The Cave Troll has been created."
+"Le Troll des Cavernes a été entraîné."
 END
 
 SCRIPT:EvilLorienHintText_BuildFortressUpgrades
-"Select the build plots around the base of your Fortress, and build\n two defensive upgrades."
+"Sélectionnez les emplacements d'amélioration à la base de votre forteresse, et construisez\n deux améliorations défensives."
 END
 
 SCRIPT:EvilLorienHintText_BuildFortressUpgradesReminder
@@ -22260,7 +22261,7 @@ END
 
 APT:Cancel
 // context: Button to abort an action
-"CANCEL"
+"ANNULER"
 END
 
 APT:Exit
@@ -25474,7 +25475,7 @@ End
 
 APT:MessageBoxCancel
 // Button in generic Ok/Cancel message boxes.
-"CANCEL"
+"ANNULER"
 End
 
 APT:MessageBoxYes
@@ -27586,173 +27587,175 @@ END
 //////////////////////////////////////
 
 FESL:FESL20
-"The user hasn't been authenticated yet."
+"L'utilisateur n'a pas encore été authentifié."
 END
 
 FESL:FESL21
-"This nickname is invalid. Please try using a different one."
+"Ce pseudo n'est pas valide. Veuillez essayer d'en utiliser un autre."
 END
 
 FESL:FESL99
-"A system error occurred. Try again later. If problem persists, contact customer support."
+"Une erreur système s'est produite. Réessayez plus tard. Si le problème persiste, contactez le support client."
 END
 
 FESL:FESL100
-"Authentication failure without a specific reason."
+"Échec d'authentification sans raison particulière."
 END
 
 FESL:FESL101
-"The specified account or subaccount name wasn't found."
+"Le nom de compte ou de sous-compte spécifié est introuvable."
 END
 
 FESL:FESL102
-"The account has been disabled."
+"Le compte a été désactivé."
 END
 
 FESL:FESL103
-"The account has been banned."
+"Le compte a été banni."
 END
 
 FESL:FESL104
-"The data necessary for this transaction was not found."
+"Le compte a été banni."
 END
 
 FESL:FESL120
-"The user isn't entitled to play the game online."
+"L'utilisateur n'a pas le droit de jouer au jeu en ligne."
 END
 
 FESL:FESL121
-"Too many login attempts with an invalid password."
+"Trop de tentatives de connexion avec un mot de passe invalide."
 END
 
 FESL:FESL122
-"The user supplied an invalid password."
+"L'utilisateur a fourni un mot de passe invalide."
 END
 
 FESL:FESL123
-"The user hasn't registered this game."
+"L'utilisateur n'a pas enregistré ce jeu."
 END
 
 FESL:FESL140
-"This user has recovered the password too many times."
+"Cet utilisateur a récupéré le mot de passe trop de fois."
 END
 
 FESL:FESL141
-"This user has recovered the account name too many times."
+"Cet utilisateur a récupéré le nom du compte trop de fois."
 END
 
 FESL:FESL142
-"The specified e-mail address isn't in the database."
+"L'adresse e-mail spécifiée n'est pas dans la base de données."
 END
 
 FESL:FESL143
-"No password was found for the specified account."
+"Aucun mot de passe n'a été trouvé pour le compte spécifié."
 END
 
 FESL:FESL160
-"The specified nickname or account name is already in use. Please try using a different one."
+"Le surnom ou le nom de compte spécifié est déjà utilisé. Veuillez essayer d'en utiliser un autre."
 END
 
 FESL:FESL161
-"The provided e-mail address has been blocked from creating new accounts."
+"L'adresse e-mail fournie a été bloquée pour la création de nouveaux comptes."
 END
 
 FESL:FESL162
-"The password was not changed for unspecified reasons."
+"Le mot de passe n'a pas été modifié pour des raisons non précisées."
 END
 
 FESL:FESL163
-"This master account already has the maximum number of subaccounts."
+"Ce compte principal a déjà le nombre maximum de sous-comptes."
 ENd
 
 FESL:FESL180
-"The specified code has already been used by another account."
+"Le code spécifié a déjà été utilisé par un autre compte."
 END
 
 FESL:FESL181
-"The specified code is invalid."
+"Le code spécifié n'est pas valide."
 END
 
 FESL:FESL182
-"This account has already registered this game."
+"Ce compte a déjà enregistré ce jeu."
 END
 
 FESL:FESL183
-"The account could not be authenticated with the provided information."
+"Le compte n'a pas pu être authentifié avec les informations fournies."
 END
 
 FESL:FESL9900
-"You do not have a subaccount with that name. Could not delete."
+"Vous n'avez pas de sous-compte avec ce nom. Impossible de supprimer."
 END
 
 FESL:FESL9901
-"Nickname has been deleted."
+"Le surnom a été supprimé."
 END
 
 FESL:FESL-207
-"The memory check for cheat detection failed."
+"La vérification de la mémoire pour la détection de triche a échoué."
 END
+
 FESL:FESL-206
-"The connection to the EA.com authentication server has timed out."
+"La connexion au serveur d'authentification EA.com a expiré."
 END
+
 FESL:FESL-205
-"The connection to the backend server has been lost."
+"La connexion au serveur principal a été perdue."
 END
 
 FESL:FESL-204
-"The backend server has detected multiple simultaneous logins and is terminating the earlier connection."
+"Le serveur principal a détecté plusieurs connexions simultanées et met fin à la connexion précédente."
 END
 
 FESL:FESL-203
-"Could not resolve the host name of a backend server."
+"Impossible de résoudre le nom d'hôte d'un serveur principal."
 END
 
 FESL:FESL-202
-"Could not create a socket for communicating with the backend server."
+"Impossible de créer un socket pour communiquer avec le serveur principal."
 END
 
 FESL:FESL-201
-"Could not connect to the backend server."
+"Impossible de se connecter au serveur principal."
 END
 
 FESL:FESL-109
-"The game encountered an error connecting to the EA.com authentication server."
+"Le jeu a rencontré une erreur de connexion au serveur d'authentification EA.com."
 END
 
 FESL:FESL-108
-"The player is not in the correct player state for this transaction."
+"Le joueur n'est pas dans le bon état de joueur pour cette transaction."
 END
 
 FESL:FESL-107
-"This account could not be authenticated to play The Lord of the Rings, The Rise of the Witch-king."
+"Ce compte n'a pas pu être authentifié pour jouer au Seigneur des Anneaux, l'Avènement du Roi-Sorcier."
 END
 
 FESL:FESL-106
-"The specified player could not be found."
+"Le lecteur spécifié est introuvable."
 END
 
 FESL:FESL-105
-"The transaction cannot be executed while in the current service state."
+"La transaction ne peut pas être exécutée dans l'état de service actuel."
 END
 
 FESL:FESL-104
-"The transaction was cancelled by the client."
+"La transaction a été annulée par le client."
 END
 
 FESL:FESL-103
-"The request transaction object contains an error (set in the response transaction object)."
+"L'objet de transaction de demande contient une erreur (définie dans l'objet de transaction de réponse)."
 END
 
 FESL:FESL-102
-"The transaction timed out before receiving a response."
+"La transaction a expiré avant de recevoir une réponse."
 END
 
 FESL:FESL-101
-"There are already the maximum number of pending transactions or pending game entry requests."
+"Il y a déjà le nombre maximum de transactions en attente ou de demandes d'entrée au jeu en attente."
 END
 
 FESL:FESL-100 
-"The buffer in the transaction object isn't large enough to hold the request or response data."
+"Le buffer dans l'objet de transaction n'est pas assez grand pour contenir les données de demande ou de réponse."
 END
 
 
@@ -27760,20 +27763,19 @@ END
 // Application data strings
 
 APPDATA:PictureFolder
-// context: The name of the My Pictures subfolder where screenshots will be stored.
-"The Lord of the Rings, The Rise of the Witch-king Screenshots"
+"Capture d'écran du Seigneur des Anneaux, l'Avènement du Roi-Sorcier."
 END
 
 APT:SaveFileDiskFull
-"Insufficient disc space."
+"Espace disque insuffisant."
 END
 
 APT:SaveFileDiskFullMultiplayer
-"The other player requested saving the game. However, you have insufficient disc space."
+"L'autre joueur a demandé de sauvegarder la partie. Cependant, vous n'avez pas assez d'espace disque."
 END
 
 FtpError:NoSuchFile
-"Error. Your network connection has been interrupted. Please reconnect to complete downloading the patch."
+"Erreur. Votre connexion réseau a été interrompue. Veuillez vous reconnecter pour terminer le téléchargement du correctif."
 END
 
 TOOLTIP:OnlineShell/OnlineLogin/Login/popupLocale/Accept/buttonClip
@@ -27781,55 +27783,55 @@ TOOLTIP:OnlineShell/OnlineLogin/Login/popupLocale/Accept/buttonClip
 END
 
 CHAT:Buddies
-"COMMUNICATOR"
+"DISCUSSION"
 END
 
 OBJECT:MordorCirithUngolWallC_Prop
-"Ruins"
+"Ruines"
 END
 
 TOOLTIP:OnlineShell/OnlineChat/Buttons_inframe/OnBttnAddFriend/tooltipChatEnter
-"To create a Friend, left click on \n a name in the Player list, \n then left click the Add Friend box"
+"Pour créer un ami, faites un clic gauche sur \n un nom dans la liste des joueurs, \n puis faites un clic gauche sur la case Ajouter un ami"
 END
 
 APT:BuddyIsOfflineToolTip
-"%s is offline"
+"%s est hors ligne"
 END
 
 APT:BuddyIsOnlineToolTip
-"%s is online"
+"%s est hors ligne"
 END
 
 APT:BuddyRequestToolTip
-"Click on the Accept Request button below if you would like to make %s your friend"
+"Cliquez sur le bouton Accepter la demande ci-dessous si vous souhaitez faire de %s votre ami"
 END
 
 APT:BuddyInviteTitle
-"Friend Game Invite"
+"Invitation de jeu d'amis"
 END
 
 APT:BuddyInviteTextOpenPlay
-"%s has invited you to play a Open Play game. Do you want to jump to their game?"
+"%s vous a invité à jouer à un jeu Open Play. Voulez-vous rejoindre leur partie ?"
 END
 
 APT:BuddyInviteTextStrategic
-"%s has invited you to play a War of the Ring game. Do you want to jump to their game?"
+"%s vous a invité à jouer à une Guerre de l'Anneau. Voulez-vous rejoindre leur partie ?"
 END
 
 APT:BuddyInviteJoiningText
-"Joining game with %s."
+"Rejoindre le jeu avec %s."
 END
 
 APT:AcceptRequest
-"ACCEPT REQUEST"
+"ACCEPTER LA REQU?TE"
 END
 
 APT:AcceptRequestTitle
-"ACCEPT FRIEND REQUEST"
+"ACCEPTER L'INVITATION D'UN AMI"
 END
 
 APT:AcceptRequestMessage
-"Are you sure you want to add %s as a friend?"
+"êtes-vous sûr de vouloir ajouter %s en tant qu'ami ?"
 END
 
 APT:RemoveFirendTitle
@@ -27837,35 +27839,35 @@ APT:RemoveFirendTitle
 END
 
 APT:InviteToPlay
-"INVITE"
+"INVITER"
 END
 
 APT:AcceptFriend
-"ACCEPT FRIEND"
+"ACCEPTER AMI"
 END
 
 APT:RemovieFriendMessage
-"Are you sure you want to remove %s from your friend list?"
+"Voulez-vous vraiment supprimer %s de votre liste d'amis ?"
 END
 
 APT:EchoFriendAdded
-"%s has been added to your friend list"
+"%s a été ajouté à votre liste d'amis"
 END
 
 APT:EchoFriendRemoved
-"%s has been removed from your friend list"
+"%s a été supprimé de votre liste d'amis"
 END
 
 APT:EchoFriendDenied
-"You have denied the friend request from %s"
+"Vous avez refusé la demande d'ami de %s"
 END
 
 APT:AcceptRequestMessageMulti
-"Are you sure you want to add these users as friends?"
+"êtes-vous sûr de vouloir ajouter ces utilisateurs en tant qu'amis ?"
 END
 
 APT:RemovieFriendMessageMulti
-"Are you sure you want to remove these users from your friend list?"
+"Voulez-vous vraiment supprimer ces utilisateurs de votre liste d'amis ?"
 END
 
 TOOLTIP:InGameChat/BuddyButtons/OnBttnRemoveFriend/tooltipRemoveFriend
@@ -27877,7 +27879,7 @@ TOOLTIP:InGameChat/BuddyButtons/OnBttnAddFriend/tooltipChatEnter
 END
 
 APT:AddFriendOnSaveTitle
-"Add Friend?"
+"Ajouter un ami ?"
 END
 
 APT:AddFriendOnSaveDescription
@@ -33030,7 +33032,7 @@ APT:StrategicRegionAwardPrompt
 END
 
 APT:StrategicRegionAwardCancelButtonText
-"CANCEL"
+"ANNULER"
 END
 
 APT:StrategicRegionAwardSelectButtonText
@@ -33324,7 +33326,7 @@ END
 
 APT:PlanningModeCancel
 //Button to cancel planning mode
-"CANCEL"
+"ANNULER"
 END
 
 APT:PlanningModeDeleteAction
@@ -68191,7 +68193,7 @@ END
 //---------------------------------------------------------------------------
 
 CONTROLBAR:FarsightRivendell
-"Wisdom of the Eldar"
+"Sagesse des Eldar"
 End
 
 CONTROLBAR:TooltipFarsightRivendell
