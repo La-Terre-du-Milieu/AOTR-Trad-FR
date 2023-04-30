@@ -58100,37 +58100,34 @@ END
 // Old, currently unused tooltips
 
 OBJECT:WitchKingDescription
-//"Utterly ruthless in battle, the Witch-king's attacks damage ALL nearby units."
-"Utterly ruthless in battle, all enemies know to fear the mighty Witch-king of Angmar."
+"Totalement impitoyable au combat, tous les ennemis savent craindre le puissant Roi-Sorcier d'Angmar."
 END
 
 CONTROLBAR:ToolTipWitchKingDreadVisage
-//"Requires Level 2 \n Significantly reduces enemy armour and damage \n Passive ability"
-"Requires Level 2\nReduces enemy armour and damage\nPassive ability"
+"Requiert : niveau 2\n Réduit significativement les dégâts et l'armure des ennemis.\n\n Capacité passive"
 End
 
 
 // New, currently unused tooltips
 
 TOOLTIP:LackLevel2SpiderPit
-"Requires Level 2 Wolf Cairn"
+"Requiert : Fosse à Wargs niveau 2"
 END
 
 OBJECT:DolGuldurPrisonDescription
-"Generates extra resources"
+"Génère des ressources supplémentaire"
 End
 
 TOOLTIP:MenBasicTrainingLackLevel2Barracks  
-//"Requires level 2 Barracks"
-"Requires Level 2 Barracks"
+"Requiert : Caserne niveau 2"
 END
 TOOLTIP:ArnorBasicTrainingLackLevel2Barracks  
-"Requires Level 2 Barracks"
+"Requiert : Caserne niveau 2"
 END
 
 CONTROLBAR:ToolTipZealotAxeThrow
 //"Requires Level 2 \n Powerful ranged attack against a single target \n Left click icon then left click on target"
-"Wyrm-slayers throw bottles of Dwarven flash flame, damaging enemy units \n Left click icon then left click on target"
+"Les tueurs de wyrm lancent de petites bombes incendiaires constituées d'une dose de poudre à canon emprisonnée dans une sphère de fer et reliée à l'extérieur par une mèche courte. \n\n Clic gauche sur l'icône puis clic gauche sur la cible."
 END
 
 
@@ -58138,7 +58135,7 @@ END
 CONTROLBAR:ToolTipWitchKingLeadership
 //"Allies near The Witch-king gain \n +50% damage, +50% armour, \n and earn experience twice as fast \n \n Passive ability       Does not stack"
 //"Requires Level 4 \n Allies near the Witch-king gain \n +33% damage, +33% armour, \n and earn experience twice as fast \n Passive ability"
-"Requires Level 4 \n Allies near the Witch-king gain \n +33% damage, +33% armour, \n and earn experience 50% faster\n Passive ability"
+"Requiert : niveau 4 \nType d'Action : Charisme. \n Les alliés proches du Roi-Sorcier gagnent +33% de dégâts, +33% d'armure et gagnent de l'expérience 50% plus rapidement. \n\n Capacité passive."
 END
 
 
@@ -69642,139 +69639,139 @@ END
 ///////////////////GandalfTheGrey//////////////////////
 ///////////////////////////////////////////////////////
 OBJECT:GandalfTheGrey
-"Gandalf The Grey"
+"Gandalf le Gris"
 END
 
 CONTROLBAR:GandalfTheGreyRecruit
-"Recruit the Grey Pilgrim, Gandalf\n\n'A wizard is never late, nor is he early, he arrives precisely when he means to.'"
+"Recruter le Pèlerin Gris, Gandalf 'Un magicien n'est jamais en retard, ni en avance d'ailleurs. Il arrive précisément à l'heure prévue.'"
 END
 
 CONTROLBAR:GandalfTheGreyRevive
-"Revive the fallen Hero, Gandalf"
+"Rappelez Gandalf le Gris à la vie"
 END
 
 CONTROLBAR:GandalfTheGreyHotkey
-"Gandalf (&U)"
+"Gandalf le Gris (&U)"
 END
 
 OBJECT:GandalfCart
-"Gandalf's Cart"
+"Charrette de Gandalf"
 END
 
 CONTROLBAR:GandalfGloriousCharge
-"Let's Risk A Little More Light (&R)"
+"Risquons Nous à Faire un Peu de Lumière (&R)"
 END
 
 CONTROLBAR:ToolTipGandalfGloriousCharge
-"Requires Level 5 \n Nearby archers gain +20% range and +15% damage for 30 seconds\n Left click to activate"
+"Requiert : Niveau 5 \n Les archers prochent gagnent +20% de portée et +15% de dégâts pendant 30 secondes. \n\nClic gauche pour l'activer."
 END
 
 CONTROLBAR:ToolTipGandalfGloriousChargeBotFA
-"Requires Level 2 \n Nearby archers gain +20% range and +15% damage for 30 seconds\n Left click to activate"
+"Requiert : Niveau 2 \n Les archers prochent gagnent +20% de portée et +15% de dégâts pendant 30 secondes. \n\nClic gauche pour l'activer."
 END
 
 CONTROLBAR:ToolTipRivendellGandalfGloriousCharge
-"Nearby archers gain +20% range and +15% damage for 30 seconds\n Left click to activate"
+"Les Archers proches gagnent +20% de portée et +15% de de dégâts pendant 30 secondes. \n\n Clic gauche pour l'activer."
 END
 
 CONTROLBAR:ToolTipFellowshipGandalfGloriousCharge
-"Drastically increases vision range and shroud reveal for 30 seconds\n for a short time \n Left click to activate"
+"Augmente considérablement la portée de la vision et révèle les unités furtives pendant 30 secondes. \n\n Clic gauche pour l'activer."
 END
 
 CONTROLBAR:GandalfHalflingLeaf
-"Gandalf's Cart (&W)"
+"Charrette de Gandalf (&W)"
 END
 
 CONTROLBAR:ToolTipGandalfHalflingLeaf
-"Requires Level 3 \n Summons Gandalf's Travelling Cart\n Heals nearby allies \n Left click icon then left click on pathable location"
+"Requiert : Niveau 3 \n Gandalf invoque son chariot de voyage : il soigne les alliés proches. \n\n Clic gauche sur l'icône puis clic gauche sur une zone praticable."
 END
 
 CONTROLBAR:ToolTipRivendellGandalfHalflingLeaf
-"Summons Gandalf's Travelling Cart\n Heals nearby allies \n Left click icon then left click on pathable location"
+"Invoque la charrette de Gandalf. \n Soigne les alliés proches. \n\n Clic gauche pour sélectionner et clic gauche sur un emplacement libre."
 END
 
 CONTROLBAR:GandalfDisturber
-"Disturber of the Peace (&T)"
+"Trouble-Fête (&T)"
 END
 
 CONTROLBAR:GandalfDisturberBotFA
-"Disturber of the Peace (&C)"
+"Trouble-Fête (&C)"
 END
 
 CONTROLBAR:ToolTipGandalfDisturber
-"Gandalf shoots off a peculiar firework at the selected target \n Left click icon then left click on target"
+"Gandalf lance un étrange feu d'artifice sur la cible sélectionnée. \n\n Clic gauche sur l'icône puis clic gauche sur la cible."
 END
 
 CONTROLBAR:ToolTipGandalfDisturberBotFA
-"Requires Level 7\nGandalf shoots off a peculiar firework at the selected target \n Left click icon then left click on target"
+"Requiert: Niveau 7 \n Gandalf tire un feu d'artifice particulier sur la cible sélectionnée. \nClique gauche sur l'icône puis clique gauche sur la cible."
 END
 
 CONTROLBAR:GandalfFoeHammer
-"The Foe-Hammer (&C)"
+"Marteau à Ennemis (&C)"
 END
 
 CONTROLBAR:GandalfFoeHammerBotFA
-"The Foe-Hammer (&T)"
+"Marteau à Ennemis (&T)"
 END
 
 CONTROLBAR:ToolTipGandalfFoeHammer
-"Requires Level 2 \n Shoots out lightning bolts from Glamdring \n Left click icon then left click on target"
+"Requiert : Niveau 2 \n De son épée Glamdring, Gandalf fait apparaître de puissants éclairs qui frappent ses ennemis dans la zone. \n\n Clic gauche sur l'icône puis clic gauche sur la zone cible."
 END
 
 CONTROLBAR:GandalfYouShallNotPass
-"You Shall Not Pass (&V)"
+"Vous ne Passerez Pas ! (&V)"
 END
 
 CONTROLBAR:GandalfYouShallNotPassCampaign
-"You Shall Not Pass"
+"Vous ne Passerez Pas !"
 END
 
 CONTROLBAR:ToolTipGandalfYouShallNotPass
-"Requires Level 10 \n Stuns enemy units in a wide radius surrounding Gandalf for 10 seconds \n Left click to activate"
+"Requiert : Niveau 10 \n Étourdit les unités ennemies dans un large rayon autour de Gandalf pendant 10 secondes. \n\n Clic gauche pour l'activer."
 END
 
 CONTROLBAR:ShrugOff
-"Shr&ug Off"
+"Hausser les épaules"
 END
 
 CONTROLBAR:ToolTipShrugOff
-"Requires Level 3 \n Slighty damages and stuns enemy units in a small radius surrounding Thorin \n Thorin gains +20% Movement Speed \n Left click to activate"
+"Requiert : Niveau 3 \n Légers dégâts et étourdissement des unités ennemies dans un petit rayon autour de Thorin. \n Thorin gagne +20% de vitesse de mouvement. \n\n Clic gauche pour l'activer."
 END
 
 CONTROLBAR:PrinceOfErebor
-"Prince of Erebor"
+"Prince d'Erebor"
 END
 
 CONTROLBAR:ToolTipPrinceOfErebor
-"Whenever Thorin attacks, nearby troops gain +33% damage for 5 seconds\nPassive ability \n\n At level 5, Thorin is accompanied by three Khazâd-uzbadul"
+"Chaque fois que Thorin attaque, les troupes à proximité gagnent +33% de dégâts pendant 5 secondes.\n Capacité passive \n Au niveau 5, Thorin est accompagné de trois Khazâd-uzbadul."
 END
 
 CONTROLBAR:ToolTipDwarvenGrudge
-"Thorin knocks back enemy units and gains +50% attack speed for 15 seconds\nPrince of Erebor bonus is increased to 50% damage during that time\nLeft click icon then left click on target\n\nAt rank 3, Thorin passively returns a percentage of damage dealt to him\nPassive ability"
+"Thorin fait reculer les unités ennemies et gagne +50% de vitesse d'attaque pendant 15 secondes\nLe bonus du Prince d'Erebor est augmenté à 50% de dégâts pendant ce temps\nClic gauche sur l'icône puis clic gauche sur la cible\n\nAu rang 3, Thorin rend passivement un pourcentage des dégâts qui lui sont infligés\nCapacité passive"
 END
 
 CONTROLBAR:DurinsChosen
-"Durin's Chosen (&T)"
+"Le Choix de Durin (&T)"
 END
 
 CONTROLBAR:ToolTipDurinsChosen
-"Requires Level 5 \n Thorin and nearby Dwarven units briefly gain resistance to knockback and +75% damage for 30 seconds\nThorin can crush enemies for the duration\n Left click to activate"
+"Requiert Niveau 5 \n Thorin et les unités naines proches gagnent brièvement la résistance au renversement et +75% de dégâts pendant 30 secondes. \n Thorin peut renverser les ennemis. \n\n Clic gauche pour l'activer."
 END
 
 CONTROLBAR:Stonehelm
-"Stonehelm (&C)"
+"Heaume de Pierre (&C)"
 END
 
 CONTROLBAR:ToolTipStonehelm
-"Requires Level 8 \n Thorin dons the Stonehelm and permanently gains +50% armour\nPassive ability\n\nWhen activated, Thorin utters a terrifying shout, stunning enemies in his vicinity in terror for 15 seconds\nThorin and nearby friendly heroes gain +50% damage for 30 seconds\n Left click to activate"
+"Requiert : Niveau 8 \n  Thorin échange son casque d'acier contre le Heaume de Pierre et gagne en permanence +50% d'armure.\n Capacité passive \n Lorsqu'il est activé, Thorin pousse un cri terrifiant qui terrorise les ennemis à proximité pendant 15 secondes. \nThorin et les héros amis à proximité gagnent +50% de dégâts pendant 30 secondes. \n Cliquez sur le bouton gauche pour l'activer."
 END
 
 CONTROLBAR:KeenEye
-"Keen Eye (&W)"
+"Oeil Attentif (&W)"
 END
 
 CONTROLBAR:ToolTipKeenEye
-"Nearby structures receive +25% armour \n Nearby Mangonels gain +10% range \n Passive Ability \n At rank 3, can be cast on enemy structures to reduce their armour by 33% for 10 seconds\n Left click icon then left click on target"
+"Les structures proches reçoivent +25% d'armure. \n Les mangonneaux proches gagnent +10% de portée. \n Capacité passive. \n Au niveau 3, peut être lancé sur une structure ennemie pour réduire temporairement son armure de 33% pendant 10 secondes. \n\n Clic gauche sur l'icône puis clic gauche sur la cible."
 END
 
 CONTROLBAR:HadhodSabotage
@@ -69782,55 +69779,55 @@ CONTROLBAR:HadhodSabotage
 END
 
 CONTROLBAR:ToolTipHadhodSabotage
-"Requires Level 3\nTarget enemy building takes heavy damage\nand is disabled for 20 seconds\n Automatically opens targeted gate \n Left click icon then left click on target"
+"Requiert Niveau 3 \n Les bâtiments ennemis ciblés subissent de lourds dommages et sont désactivés pendant 20 secondes. \n Les portes ciblées s'ouvrent automatiquement. \n\n Clic gauche sur l'icône puis clic gauche sur la cible."
 END
 
 CONTROLBAR:HadhodStoneHewer
-"Stone Hewer (&T)"
+"Mineur de pierres (&T)"
 END
 
 CONTROLBAR:ToolTipHadhodStoneHewer
-"Requires Level 6\nNearby Dwarven units deal +25% damage against structures\nPassive ability\n\nAt rank 8, can be cast to grant siege hammers upgrade to Erebor Warriors in radius\nLeft click icon then left click on target battalion"
+"Requiert Niveau 6 \n Les unités naines proches infligent +25% de dégâts aux structures. \n Capacité passive. \n\n Au niveau 8, peut être activé pour fournir des marteaux de siège aux Gardiens situés dans le rayon. \n Clic gauche sur l'icône puis clic gauche sur le bataillon ciblé."
 END
 
 CONTROLBAR:BondsofFriendship
-"Bonds of Friendship (&C)"
+"Liens d'amitié (&C)"
 END
 
 CONTROLBAR:TooltipBondsofFriendship
-"Requires Level 10\nSummons Elegost the Dúnadan to the battlefield\nLeft click to activate"
+"Requiert Niveau 10 \n Invoque Elegost le Dunedain sur le champ de bataille \n Clic gauche pour l'activer."
 END
 
 CONTROLBAR:ElegostTrueShot
-"True Shot (&W)"
+"Tir Juste (&W)"
 END
 
 CONTROLBAR:ToolTipElegostTrueShot
-"A high damage attack that instills fear into enemy units for 10 seconds\nLeft click icon then left click on target" 
+"Une attaque à forts dégâts qui paralyse les unités ennemies pendant 10 secondes. \n\n Clic gauche sur l'icône puis clic gauche sur la cible." 
 END
 
 CONTROLBAR:ElegostHeal
-"Grace of Kingsfoil (&R)"
+"Grâce de la feuille des rois (&R)"
 END
 
 CONTROLBAR:ToolTipElegostHeal
-"For 15 seconds, Elegost heals nearby units and heroes over time\nLeft click to activate"
+"Pendant 15 secondes, Elegost soigne les unités proches et les héros au cours du temps. \n\n Clic gauche pour l'activer."
 END
 
 CONTROLBAR:ElegostRangerCraft
-"Ranger Craft (&T)"
+"Art du Rôdeur (&T)"
 END
 
 CONTROLBAR:ToolTipElegostRangerCraft
-"Enemies in radius lose -50% vision range and -25% movement speed for 30 seconds\n Left click then left click on target area"
+"Les ennemis dans le rayon perdent -50% de portée de vision et -25% de vitesse de mouvement pendant 30 secondes. \n\n Clic gauche puis clic gauche sur la zone cible."
 END
 
 CONTROLBAR:ToolTipRivendellGandalfYouShallNotPass
-"Stuns enemy units in a wide radius surrounding Gandalf for 10 seconds\n Left click to activate"
+"Étourdit les unités ennemies dans un large rayon autour de Gandalf pendant 10 secondes. \n\n Clic gauche pour l'activer."
 END
 
 CONTROLBAR:ToolTipFellowshipGandalfYouShallNotPass
-"Requires Level 3 \n Stuns enemy units in a wide radius surrounding Gandalf for 10 seconds\n Left click to activate"
+"Requiert : Niveau 3 \n Étourdit les unités ennemies dans un large rayon autour de Gandalf pendant 10 secondes. \n\n Clic gauche pour l'activer."
 END
 
 /////////////EreborDain////////////////////////
@@ -69839,15 +69836,15 @@ CONTROLBAR:EreborDainLeadership
 End
 
 CONTROLBAR:ToolTipEreborDainLeadership
-"Modifier Type: Leadership \n Iron Hills units near Dáin gain +25% damage, +25% armour, and earn experience 33% faster \nPassive ability"
+"Type d'Action : Charisme. \n Les unités des Monts du Fer proches de Dáin gagnent +25% de dégâts, +25% d'armure, et gagnent de l'expérience 33% plus rapidement (bonus cumulable). \n\n Capacité passive."
 END
 
 CONTROLBAR:EreborOldDainLeadership
-"King Under the Mountain"
+"Roi sous la Montagne"
 End
 
 CONTROLBAR:ToolTipEreborOldDainLeadership
-"Modifier Type: Leadership \n Units near Dáin gain +33% damage, +33% armour, and earn experience 50% faster \nPassive ability"
+"Type d'Action : Charisme. \n Les unités proches de Dáin gagnent +33% de dégâts, +33% d'armure et accumulent de l'expérience 50% plus vite. \n S'accumule avec les Bonus et les Sorts. \n\n Capacité passive."
 END
 
 CONTROLBAR:EreborDainBarukKhazad
@@ -69859,75 +69856,75 @@ CONTROLBAR:EreborDainBarukKhazad_WotR
 End
 
 CONTROLBAR:ToolTipEreborDainBarukKhazad
-"Requires Level 3 \nPowerful attack that causes meta impact \n Can only be used when dismounted \n Left click icon then left click on target"
+"Requiert : Niveau 3 \n Une attaque puissante qui cause un meta impact. \n Utilisable uniquement à pied. \n\n Clic gauche sur l'icône puis clic gauche sur la cible."
 END
 
 CONTROLBAR:EreborDainRecklessAssault
-"Reckless Assault (&C)"
+"Assaut Téméraire (&C)"
 End
 
 CONTROLBAR:EreborDainRecklessAssault_WotR
-"Reckless Assault (&T)"
+"Assaut Téméraire (&T)"
 End
 
 CONTROLBAR:ToolTipEreborDainRecklessAssault
-"Requires Level 5 \n Modifier Type: Spell\n Targeted friendly units gain +33% damage for 30 seconds\n Nullifies enemy leadership for 30 seconds\n Left click on icon then left click on target units"
+"Requiert : Niveau 5 \n Type d'Action : Sort. \n Les unités alliées ciblées gagnent +33% de dégâts pendant 30 secondes. \n Annule les bonus de Charisme des ennemis pendant 30 secondes. \n\n Clic gauche sur l'icône puis clic gauche sur la cible."
 End
 
 CONTROLBAR:EreborDainToTheKing
-"To the King! (&V)"
+"Pour le Roi ! (&V)"
 End
 
 CONTROLBAR:EreborDainToTheKing_WotR
-"To the King! (&C)"
+"Pour le Roi ! (&C)"
 End
 
 CONTROLBAR:ToolTipEreborDainToTheKing
-"Requires Level 10 \n On Foot: Summons three battalions of spearmen of the Iron Hills to Dáin's side \n On Boar: Summons three battalions of goat-riders of the Iron Hills to Dáin's side \n Left click icon then left click on pathable location"
+"Requiert : Niveau 10 \n A pied : Dáin invoque à ses côtés 3 bataillons de piquiers des Monts du Fer.\n Sur son sanglier : Dáin invoque à ses côtés 3 bataillons de Chevaucheurs de béliers des Monts du Fer. \n\n Clic gauche sur l'icône puis clic gauche sur une zone praticable."
 End
 
 CONTROLBAR:EreborDainToTheKingMounted
-"To the &King!"
+"Pour le Roi"
 End
 
 CONTROLBAR:ToolTipEreborDainToTheKingMounted
-"Requires Level 10 \n On Foot: Summons three battalions of Iron Hills Warriors to Dáin's side \n On Boar: Summons three battalions of Iron Hills Riders to Dáin's side \n Left click icon then left click on pathable location"
+"Requiert : Niveau 10 \n A pied : Dáin invoque à ses côtés 3 bataillons de piquiers des Monts du Fer.\n Sur son sanglier : Dáin invoque à ses côtés 3 bataillons de Chevaucheurs de béliers des Monts du Fer. \n\n Clic gauche sur l'icône puis clic gauche sur une zone praticable."
 End
 
 CONTROLBAR:BrotherhoodLeadership
 "Brotherhood"
 END
 
-CONTROLBAR:ToolTipBrotherhoodFili
-"Modifier Type: Leadership \n Kili gains +20% damage when near Fili\n Passive ability"
+CONTROLBAR:ToolTipBrotherhoodKili
+"Type d'Action : Charisme. \n Kíli gagne +20% de dégâts lorsqu'il est proche de son frère Fíli.\n\n Capacité passive."
 END
 CONTROLBAR:ToolTipBrotherhoodKili
-"Modifier Type: Leadership \n Fili gains +20% damage when near Kili\n Passive ability"
+"Type d'Action : Charisme. \n Fíli gagne +20% de dégâts lorsqu'il est proche de son frère Kíli.\n\n Capacité passive."
 END
 
 CONTROLBAR:FiliAxeThrow
-"Hidden Blade (&R)"
+"Lame Cachée (&R)"
 END
 
 CONTROLBAR:ToolTipFiliAxeThrow
 //"Powerful ranged attack against a single target \n Left click icon then left click on target"
-"Requires Level 3 \nFili deals heavy damage to a single target,\n crippling it for 10 seconds \n Left click icon then left click on target"
+"Requiert : Niveau 3 \n Fíli inflige d'importants dégâts à une seule cible et l'immobilise temporairement pendant 10 secondes. \n\n Clic gauche sur l'icône puis clic gauche sur la cible."
 END
 
 CONTROLBAR:FiliSlayer
-"Dwarven Dexterity (&T)"
+"Dextérité Supérieure (&T)"
 END
 
 CONTROLBAR:ToolTipFiliSlayer
-"Requires Level 5 \n Fili gains +25% damage and increased attack and movement speed for 30 seconds\n Left click to activate"
+"Requiert : Niveau 5 \n Fíli gagne +25% de dégâts et voit sa vitesse de mouvement et d'attaque augmenter pendant 10 secondes. \n\n Clic gauche pour l'activer."
 END
 
 CONTROLBAR:FiliLeadership
-"Heir to the Throne"
+"Héritier du Trône"
 End
 
 CONTROLBAR:ToolTipFiliLeadership
-"Requires Level 8 \nModifier Type: Leadership \n Basic Erebor Dwarves and Ered Luin Dwarves near Fili gain +33% damage and +25% armour\n Passive ability"
+"Requiert : Niveau 8 \n Type d'Action : Charisme. \n Les Nains standards d'Erebor et les Nains d'Ered Luin proches de Fíli gagnent +33% de dégâts et +25% d'armure. \n Cumulable avec les Bonus et les Sorts. \n\n Capacité passive."
 END
 
 CONTROLBAR:KiliQuickshot
@@ -69935,25 +69932,25 @@ CONTROLBAR:KiliQuickshot
 END
 
 CONTROLBAR:ToolTipKiliQuickshot
-"Requires Level 3 \n Kili gains +15% damage and +33% attack speed for 20 seconds\n Can only use with bow equipped \n Left click to activate"
+"Requiert : Niveau 3 \n  Kili gagne +15% de dégâts et +33% de vitesse d'attaque pendant 20 secondes \n Utilisable uniquement avec l'arc. \n\n Clic gauche pour l'activer."
 END
 
 CONTROLBAR:ToolTipToggleVWLineFormation
-"Default Line Formation (&W)"
+"Formation en ligne par défaut (&W)"
 END
 
 CONTROLBAR:ToggleVWPorcupineFormation
-"Stone-Wall Formation (&W)"
+"Formation Mur de boucliers (&W)"
 END
 
 CONTROLBAR:ToolTipToggleVWPorcupineToLineFormation
-"The units return to standard line formation"
+"Les unités reprennent la formation en ligne standard."
 End
 
 CONTROLBAR:ToolTipToggleVWLineToPorcupineFormation
 //"Drastically increases armour, but disables movement\n Wardens are also immune to knockback attacks while in this formation"
 //"Drastically increases armour at the cost of movement speed\nAlso makes Azaghâr-gundu immune to knockback and trample effects"
-"Increases armour by +50% at the cost of -50% movement speed\nAlso makes Vault-wardens immune to knockback"
+"Augmente l'armure de 40% au détriment de -50% en vitesse de mouvement. \n Rend les Azaghâr-gundu insensibles au renversement et aux effets de piétinement."
 End
 
 CONTROLBAR:VWLeadership
@@ -69961,7 +69958,7 @@ CONTROLBAR:VWLeadership
 End
 
 CONTROLBAR:ToolTipVWLeadership
-"As the unit levels the power improves\n Rank 1: Nearby allied units gain 10% armour \n Rank 2: Nearby enemy units lose 10% speed \n Rank 4: Nearby allied units gain 15% armour \n Buff Modifier Type: Spell\n Debuff Modifier Type: Passive Debuff\n Passive ability"
+"Les Gardiens des Portes renforcent les unités alliées proches, cet effet augmente avec leur niveau : \n Niveau 1 : les alliés proches gagnent +10% armure (bonus cumulable). \n Niveau 2 : les ennemis proches subissent -10% vitesse (malus non cumulable). \n Niveau 4 : les alliés proches gagnent +15% armure (bonus cumulable). \n\n Capacité passive."
 END
 
 //------------ Vault Warden ---------------
@@ -69978,39 +69975,39 @@ CONTROLBAR:ConstructEreborVWHorde
 END
 
 CONTROLBAR:LW_Unit_EreborVWHorde
-"Azaghâr-gundu Battalion"
+"Bataillon d'Azaghâr-gundu"
 END
 
 CONTROLBAR:LW_ToolTip_EreborVWHorde
-"Vault-wardens \nUnit Type: Special Unit\nStrong vs. Cavalry and Monsters"
+"Gardien des Portes d'Erebor. \n Type d'unité : Unité spéciale. \n Forts contre les cavaliers et les monstres."
 END
 
 CONTROLBAR:ToolTipBuildEreborVWHorde
-"Vault-wardens \n Special Unit \nStrong vs. Cavalry, Monsters and Heroes \n \n Using long, three-pronged spears and dwarf-high tower shields, the Vault-wardens guard the long, dark corridors of the Lonely Mountain."
+"Gardien des Portes d'Erebor. \n Ces guerriers compétents reçoivent les missions les plus périlleuses lors des expéditions nains. Ils forment des équipes de Gardiens des Portes, des combattants des tunnels spécialisés dans le maniement de pavois et de longs épieux. Cet armement leur permet de repousser les multitudes d'ennemis qui se pressent dans les espaces confinés que forment les portes et les galeries d'Erebor. \n\n Unité spéciale, forts contre les cavaliers et les monstres."
 END
 
 CONTROLBAR:LW_ToolTipBuild_EreborVWHorde
-"Vault-wardens \n Unit Type: Special Unit\nStrong vs. Cavalry and Monsters\n"
+"Gardien des Portes d'Erebor. \n Type d'unité : Unité spéciale. \n Forts contre les cavaliers et les monstres."
 END
 
 OBJECT:DwarvenMoriaPillar
-"Moria Pillar"
+"Pilier de la Moria"
 End
 
 OBJECT:DwarvenMoriaPillarDescription
-"Pillar of Moria"
+"Un pilier d'une des immenses salles de la Moria, autrefois Khazad-dûm, l'un des principaux royaumes des Nains."
 End
 
 CONTROLBAR:DwarvenTenacity
-"Natural Sprinters (&W)"
+"Ténacité naine (&W)"
 END
 
 CONTROLBAR:DwarvenTenacityPhalanx
-"Natural Sprinters (&R)"
+"Ténacité naine (&R)"
 END
 
 CONTROLBAR:DwarvenTenacityIHPhalanx
-"Natural Sprinters (&T)"
+"Ténacité naine (&T)"
 END
 
 CONTROLBAR:ToolTipDwarvenTenacity
@@ -79298,27 +79295,27 @@ END
 //---------------------------------------------------------------------------
 
 CONTROLBAR:ShelobUngoliantSpawn
-"Spawn of Ungoliant"
+"Progénitures d'Ungoliant"
 END
 
 CONTROLBAR:ToolTipShelobUngoliantSpawn
-"Shelob continuously spawns tiny spiders that deal damage\nto nearby enemies and slow them by 15%\nPassive ability"
+"Arachne invoque en permanence de petites araignées qui infligent des dégâts aux ennemis proches et les ralentissent. \n\n Capacité passive."
 END
 
 CONTROLBAR:ShelobDarkDeterrent
-"Dark Deterrent (&R)"
+"Dissuasion des ténèbres (&R)"
 END
 
 CONTROLBAR:ToolTipShelobDarkDeterrent
-"Enemies within the radius are stunned for 5 seconds and receive poison damage for 15 seconds\nLeft click icon then left click on target area"
+"Les ennemis dans le rayon sont étourdis pendant 5 secondes et reçoivent des dégâts de poison. \n\n Clic gauche sur l'icône puis clic gauche sur la zone cible."
 END
 
 CONTROLBAR:ShelobFellStinger
-"Fell Stinger (&T)"
+"Plongé du Dard (&T)"
 END
 
 CONTROLBAR:ToolTipShelobFellStinger
-"Shelob deals strong damage to a hero and regains a portion of her health\nLeft click icon then left click on target"
+"Arachne inflige des dégâts importants à un héros et récupère une partie de sa santé. \n\n Clic gauche sur l'icône puis clic gauche sur la cible."
 END
 
 CONTROLBAR:GrubbyHands
@@ -79330,19 +79327,19 @@ CONTROLBAR:ToolTipGrubbyHands
 END
 
 CONTROLBAR:MountainOrcScoutBarbedArrows
-"Barbed Arrows (&R)"
+"Flèches barbelées"
 END
 
 CONTROLBAR:ToolTipMountainOrcScoutBarbedArrows
-"Requires Level 2\nFor 20 seconds, Mountain-orc Scouts gain +65% damage vs monsters and flying units\nTarget monsters and flying units lose -25% movement speed\nLeft click to activate"
+"Requiert : Niveau 2 \n 2 Pendant 20 secondes, les Éclaireurs des montagnes gagnent +65% de dégâts contre les monstres et les unités volantes\n Les monstres et les unités volantes ciblés perdent -25% de vitesse de déplacement\n Cliquez sur le bouton gauche pour l'activer."
 END
 
 CONTROLBAR:SpecialAbilityTouchofRuin
-"Touch of Ruin (&R)"
+"Toucher de la Ruine (&R)"
 End
 
 CONTROLBAR:ToolTipSpecialAbilityTouchofRuin
-"Requires level 2\nFor 20 seconds, Dead of Arnor reduce the armour of those they strike by 10%\nLeft click to activate"
+"Requiert : Niveau 2\n Pendant 20 secondes, les Morts d'Arnor réduisent l'armure de ceux qu'ils frappent de 10%."
 End
 
 CONTROLBAR:ToolTipDarkSustenanceCopy
@@ -79350,15 +79347,15 @@ CONTROLBAR:ToolTipDarkSustenanceCopy
 END
 
 CONTROLBAR:ToolTipDarkSustenanceCopyGC
-"Oathbreaker Warriors quickly regain health and restore their horde while outside of combat\nPassive ability"
+"Les morts-vivants Dúnedains regagnent rapidement de la vie lorsqu'ils sont hors combat. \n\n Capacité passive."
 END
 
 CONTROLBAR:WinterCoat
-"Winter Coat"
+"Manteau d'hiver"
 END
 
 CONTROLBAR:ToolTipWinterCoat
-"Requires Level 3\nPierce resistance is increased by 33%\nPassive ability"
+"Requiert : Niveau 3 \n La résistance aux projectiles est augmentée de 33%. \n\n Capacité passive."
 END
 
 CONTROLBAR:ElvenHealLorien
@@ -79366,7 +79363,7 @@ CONTROLBAR:ElvenHealLorien
 END
 
 CONTROLBAR:ToolTipElvenHealLorien
-"Requires Level 2\nElven units regain health while outside of combat\nPassive ability"
+"Requiert : Niveau 2 \n Les unités elfes régénèrent leur santé lorsqu'elles sont hors combat. \n\n Capacité passive."
 END
 
 CONTROLBAR:ElvenHealRivendell
@@ -79374,11 +79371,11 @@ CONTROLBAR:ElvenHealRivendell
 END
 
 CONTROLBAR:ToolTipElvenHealRivendell
-"Requires Level 2\nElven units regain health while outside of combat\nPassive ability"
+"Requiert : Niveau 2 \n Les unités elfes régénèrent leur santé lorsqu'elles sont hors combat. \n\n Capacité passive."
 END
 
 CONTROLBAR:ToolTipElvenHealRivendellRevelers
-"Elven units regain health while outside of combat\nPassive ability"
+Les unités elfes régénèrent leur santé lorsqu'elles sont hors combat. \n\n Capacité passive."
 END
 
 OBJECT:KinnLaiWarrior
@@ -79406,66 +79403,66 @@ CONTROLBAR:ToolTipArtOfWar
 END
 
 CONTROLBAR:ElvenHealGreenwood
-"Dorwinion Red"
+"Dorwinion Rouge"
 END
 
 CONTROLBAR:ToolTipElvenHealGreenwood
-"Requires Level 2\nElven units regain health while outside of combat\nPassive ability"
+"Requiert : Niveau 2 \n Les unités elfes régénèrent leur santé lorsqu'elles sont hors combat. \n\n Capacité passive."
 END
 
 CONTROLBAR:ThornedBarbs
-"Thorned Barbs (&T)"
+"Barbes épineuses (&T)"
 END
 
 CONTROLBAR:ToolTipThornedBarbs
-"Requires Level 3\nStuns enemy units for 5 seconds \n Left click icon then left click on target"
+"Requiert : Niveau 3 \n Étourdit pendant 5 secondes les unités ennemies. \n\n Clic gauche sur l'icône puis clic gauche sur la cible."
 End
 
 CONTROLBAR:MirkwoodHorseMastery
-"Horse Mastery (&R)"
+"Maitrise équestre (&R)"
 END
 
 CONTROLBAR:ToolTipMirkwoodHorseMastery
-"Requires Level 2\n Outriders gain +25% armour and +20% speed for 30 seconds\n Left click to activate"
+"Requiert : Niveau 2 \n Les cavaliers gagnent pendant 30 secondes +25% d'armure et +20% de vitesse. \n\n Clic gauche pour l'activer."
 END
 
 CONTROLBAR:ToolTipEotheodHorseMastery
-"Requires Level 2\n Éothéod Warriors gain +25% armour and +20% speed for 30 seconds\n Left click to activate"
+"Requiert : Niveau 2 \n Les Guerriers d'Éothéod gagnent pendant 30 secondes +25% d'armure et +20% de vitesse. \n\n Clic gauche pour l'activer."
 END
 
 CONTROLBAR:UrsineBlood
-"Ursine Blood"
+"Sang d'ours"
 END
 
 CONTROLBAR:ToolTipUrsineBlood
-"Allows Beorning Berserkers to quickly recover outside of combat\nPassive ability"
+"Permet aux Berserkers Béornides de regagner leur santé en dehors des combats. \n\n Capacité passive."
 END
 
 CONTROLBAR:ElvenPrecision
-"Elven Precision (&R)"
+"Précision elfique (&R)"
 END
 
 CONTROLBAR:ToolTipElvenPrecision
-"Requires Level 3 \n Increases attack range and damage by 25% at the cost of 50% movement speed for 25 seconds\n Left click to activate"
+"Requiert : Niveau 3 \n Augmente pendant 25 secondes la portée et les dommages infligés de 25% mais en perdant en parallèle 50% de vitesse. \n\n Clic gauche pour l'activer."
 END
 CONTROLBAR:FerenCommander
-"Commander of Eryn Lasgalen (&R)"
+"Commandant d'Eryn Lasgalen (&R)"
 END
 
 CONTROLBAR:FerenCommanderNoShortcut
-"Commander of Eryn Lasgalen"
+"Commandant d'Eryn Lasgalen"
 END
 
 CONTROLBAR:ToolTipFerenCommander
-"Requires Level 3 \nSummons a battalion of Silvan Rangers \nAt rank 5, includes an additional battalion of Greenwood Spearmen\nAt rank 8, includes an additional battalion of Silvan Rangers\nAt rank 10, two of both\nLeft click to activate"
+"Requiert : Niveau 3 \n Invoque un bataillon de Rangers Silvains au rang 5\n inclut un bataillon supplémentaire de Lanciers de Greenwood au rang 8\ninclut un bataillon supplémentaire de Rangers Silvains au rang 10\n Cliquez gauche pour activer."
 END
 
 CONTROLBAR:SolemnDuty
-"Solemn Duty"
+"Devoir solennel"
 END
 
 CONTROLBAR:ToolTipSolemnDuty
-"Requires level 2 \n Palace Guards grant Legolas and Thranduil +10% armour, up to a maximum of 30% \n Nearby structures gain +25% armour \n Passive ability"
+"Requiert : Niveau 2 \n Les Gardes du Palais garantissent à Legolas et Thranduil +10% d'armure jusqu'à un maximum de 30%. \n Les structures proches gagnent +25% d'armure. \n\n Capacité passive."
 END
 
 CONTROLBAR:ToolTipSolemnDutyGildedGuard
@@ -79474,243 +79471,243 @@ END
 
 
 CONTROLBAR:ToolTipToggleMirkwoodSlayersLooseFormation
-"+50% attack speed\n-25% armour"
+"+50% de vitesse d'attaque. \n- 25% d'armure."
 End
 
 CONTROLBAR:ToggleMirkwoodWarriorsBlockFormation
-"Block Formation (&W)"
+"Formation Bloc (&W)"
 END
 
 CONTROLBAR:ToolTipToggleMirkwoodWarriorsBlockFormation
-"+33% armour\n-40% speed"
+"+33% d'armure. \n -40% de vitesse."
 END
 
 CONTROLBAR:ToolTipToggleSindarNoblesLineFormation
-"+15% speed \n +15% damage \n -15% armour"
+"+15% de vitesse. \n +15% de dégâts. \n -15% d'armure."
 END
 
 UPGRADE:LoyalCompanions
-"Loyal Companions"
+"Compagnons loyaux"
 END
 
 TOOLTIP:LoyalCompanions
-"Loyal Companions"
+"Compagnons loyaux"
 END
 
 CONTROLBAR:PurchaseUpgradeLoyalCompanions
-"Purchase Loyal Companions (&T)"
+"Compagnons loyaux" (&T)"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeLoyalCompanions
-"Causes the battalion to be defended by hunting dogs"
+"Permet au bataillon d'être défendu par des chiens de chasse."
 END
 
 CONTROLBAR:FaithfulPremonitions
-"Dark Premonitions"
+"Sombres Prémonitions"
 END
 
 CONTROLBAR:ToolTipFaithfulPremonitions
-"Druids can target units to decrease their damage by 15% \nand buildings to decrease their armour by 15% \n\n Nearby Woodmen Hunters gain +33% crush armour and resistance to fear and terror \n Passive ability"
+"Les Druides peuvent cibler les unités pour baisser leur dégâts de 15% ainsi que les bâtiments pour baisser leur armure de 15%. \n\n Les chasseurs à proximité gagnent +33% d'armure d'anti-écrasement et de résistance face à la peur et à la terreur. \n Capacité passive."
 END
 
 CONTROLBAR:BlessingofAldaron
-"Blessing of Aldaron (&R)"
+"Bénédiction d'Aldaron (&R)"
 END
 
 CONTROLBAR:ToolTipBlessingofAldaron
-"Can be cast on friendly battalions to replenish\n one fallen unit per battalion \n Left click icon then left click on target area"
+"Peut être lancé sur des unités alliées pour restaurer une petite quantité de santé. \n\n Clic gauche sur l'icône puis clic gauche sur la zone cible."
 END
 
 UPGRADE:BlessingofAldaron
-"Blessing of Aldaron"
+"Bénédiction d'Aldaron"
 END
 
 TOOLTIP:BlessingofAldaron
-"Blessing of Aldaron"
+"Bénédiction d'Aldaron"
 END
 
 CONTROLBAR:PurchaseUpgradeBlessingofAldaron
-"Purchase Blessing of Aldaron (&R)"
+"Rechercher Bénédiction d'Aldaron (&R)"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeBlessingofAldaron
-"Allows Druid to use the Blessing of Aldaron ability \n Can be cast on friendly battalions to replenish \n one fallen unit per battalion"
+"Permet aux Druides d'utiliser la capacité Bénédiction d'Aldaron. \n Peut être lancé sur des unités alliées pour restaurer une petite quantité de santé."
 END
 
 OBJECT:WardingStones
-"Warding Stones"
+"Pierres protectrices"
 END
 
 OBJECT:WardingStonesDescription
-"Friendly units within the circle receive +33% armour"
+"Les unités alliés présentes dans le rayon gagnent +33% d'armure."
 END
 
 CONTROLBAR:WardingStones
-"Warding Stones (&T)"
+"Pierres protectrices (&T)"
 End
 
 CONTROLBAR:TooltipWardingStones
-"Places a temporary circle of Warding Stones \n Friendly units within the circle receive +33% armour \n Left click icon then left click on target area"
+"Place un cercle temporaire de pierres protectrices. \n Les unités alliés présentes dans le rayon gagnent +33% d'armure. \n\n Clic gauche sur l'icône puis clic gauche sur la zone cible."
 End
 
 UPGRADE:WardingStones
-"Warding Stones"
+"Pierres protectrices"
 END
 
 TOOLTIP:WardingStones
-"Warding Stones"
+"Pierres protectrices"
 END
 
 CONTROLBAR:PurchaseUpgradeWardingStones
-"Purchase Warding Stones (&T)"
+"Rechercher Pierres protectrices (&T)"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeWardingStones
-"Allows Druid to use the Warding Stones ability \n Places a temporary circle of Warding Stones \n Friendly units within the circle receive +33% armour"
+"Permet aux Druides d'utiliser la capacité Pierres protectrices. \n Place un cercle temporaire de pierres protectrices. \n Les unités alliés présentes dans le rayon gagnent +33% d'armure."
 END
 
 CONTROLBAR:RitualofOak
-"Ritual of Oak (&C)"
+"Rituel du Chêne (&C)"
 END
 
 CONTROLBAR:ToolTipRitualofOak
-"Summons a sacred Oak tree that produces\na small number resources \n Lasts until destroyed\nLimited to 5 \n Left click icon then left click on target area"
+"Invoque un chêne sacré qui produit une petite quantité de ressources jusqu'à sa destruction. \n Limités à 5 chênes sacrés seulement. \n\n Clic gauche sur l'icône puis clic gauche sur la zone cible."
 END
 
 UPGRADE:RitualofOak
-"Ritual of Oak"
+"Rituel du Chêne"
 END
 
 TOOLTIP:RitualofOak
-"Ritual of Oak"
+"Rituel du Chêne"
 END
 
 CONTROLBAR:PurchaseUpgradeRitualofOak
-"Purchase Ritual of Oak (&C)"
+"Rechercher Rituel du Chêne (&C)"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeRitualofOak
-"Allows Druid to use the Ritual of Oak ability \n Summons a sacred Oak tree that produces\na small number resources \n Lasts until destroyed, limited to 5"
+"Permet aux Druides d'utiliser la capacité Rituel du Chêne. \n Invoque un chêne sacré qui produit une petite quantité de ressources jusqu'à sa destruction. \n Limités à 5 chênes seulement."
 END
 
 CONTROLBAR:PotionofPotency
-"Potion of Potency (&V)"
+"Potion de Puissance (&V)"
 END
 
 CONTROLBAR:ToolTipPotionofPotency
-"Modifier Type: Spell \n Targeted hero is partially healed\nand gains +25% armour for 30 seconds\n Left click icon then left click on target hero"
+"Type d'Action: Sort. \n Le héros ciblé est partiellement guéri et gagne +25% d'armure pendant 30 secondes. \nCliquez avec le bouton gauche sur l'icône puis cliquez avec le bouton gauche sur le héros ciblé."
 END
 
 UPGRADE:PotionofPotency
-"Potion of Potency"
+"Potion de Puissance"
 END
 
 TOOLTIP:PotionofPotency
-"Potion of Potency"
+"Potion de Puissance"
 END
 
 CONTROLBAR:PurchaseUpgradePotionofPotency
-"Purchase Potion of Potency (&V)"
+"Rechercher Potion de Puissance (&V)"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradePotionofPotency
-"Allows Druid to use the Potion of Potency ability \n Targeted hero is partially healed\nand gains +25% armour for 30 seconds"
+"Permet aux Druides d'utiliser la capacité Potion de Puissance.\n Le héros ciblé est partiellement guéri et gagne +25% d'armure pendant 30 secondes."
 END
 
 OBJECT:SacredOak
-"Sacred Oak"
+"Chêne Sacré"
 END
 
 OBJECT:SacredOakDescription
-"Generates a small amount of resources"
+"Génère une petite quantité de ressources."
 END
 
 CONTROLBAR:RighteousIndignation
-"Righteous Indignation (&R)"
+"Indignation Vertueuse (&R)"
 END
 
 CONTROLBAR:TooltipRighteousIndignation
-"Requires Level 2 \n Nearby enemy units are terrified and Sindar Nobles gain -33% crush deceleration for 20 seconds\n Left click to Activate"
+"Requiert : Niveau 2 \n Les unités ennemies proches sont terrifiées et les nobles Sindar gagnent temporairement -33% de déceleration à l'impact pendant 30 secondes. \n\n Clic gauche pour l'activer."
 END
 
 CONTROLBAR:Feast
-"Feast! (&W)"
+"Festoyons ! (&W)"
 END
 
 CONTROLBAR:ToolTipFeast
-"Instantly heals units for a moderate amount, but decreases their movement speed by 66% for 30 seconds\n Left click icon then left click on target area"
+"Soignent instantanément les unités alliés d'un montant honorable, mais fait décroitre leur vitesse de mouvement de 66% pendant 30 secondes. \n\n Clic gauche sur l'icône puis clic gauche sur la zone cible."
 END
 
 OBJECT:TheElvesAwokeThemTree
-"Awakened Tree"
+"Arbre Eveillé"
 END
 
 CONTROLBAR:MarkofBema
-"Mark of Béma (&R)"
+"Marque de Béma (&R)"
 END
 
 CONTROLBAR:ToolTipMarkofBema
-"For 30 seconds, target unit or hero is marked by the Woodmen Hunters \n The target takes 10 more damage from Woodmen attacks \n Left click then left click on target"
+"Durant 30 secondes, les héros et unités ciblés sont marqués par les chasseurs. \n Les cibles se voient infliger +10 de dégats supplémentaires par les Chasseurs. \n\n Clic gauche puis clic gauche sur les unités ciblées."
 END
 
 CONTROLBAR:ToggleWoodmenWeaponsAxe
-"Swi&tch to Axe"
+"Passer à la hâche"
 END
 
 CONTROLBAR:ToggleWoodmenWeaponsBow
-"Swi&tch to Bow"
+"Passer à l'arc"
 END
 
 CONTROLBAR:ToggleWoodmenWeapons
-"Switch Weapon (&W)"
+"Changer d'arme (&W)"
 END
 
 CONTROLBAR:ToolTipToggleWoodmenWeapons
-"Left click to switch weapons\n\n Bows strong vs. normal infantry and monsters \n Axes strong vs. buildings"
+"Clic gauche pour changer d'armes entre la hâche et l'arc. \n\n Arcs : forts contre l'infanterie basique et les monstres. \n Hâches : forts contre les batîments."
 END
 
 CONTROLBAR:ElvenAffinity
-"Elven Affinity (&R)"
+"Affinité elfique (&R)"
 END
 
 CONTROLBAR:ToolTipElvenAffinity
-"Requires level 2 \n All nearby allied Mirkwood Elves gain +20% armour for 30 seconds\nDoes not stack with itself\n Left click to activate"
+"Requiert : Niveau 2 \n Tous les alliés proches des Elfes de la Forêt Noire gagnent +20% d'armure pendant 30 secondes. \n\n Clic gauche pour l'activer."
 END
 
 CONTROLBAR:RoughExterior
-"Rough Exterior (&R)"
+"Protections rugueuses (&R)"
 End
 
 CONTROLBAR:ToolTipRoughExterior
-"Requires Level 3 \n Increases resistance to ranged damage by +50% for 20 seconds\nLeft click to activate"
+"Requiert : Niveau 3 \n Augmente temporairement la résistance aux dégâts à distance de +50% pendant 20 secondes\n Clique gauche pour l'activer."
 END
 
 CONTROLBAR:BeorningRage
-"Wild Rage (&T)"
+"Fureur sauvage (&T)"
 END
 
 CONTROLBAR:ToolTipBeorningRage
-"Requires Level 5\nThe Beorning Berserkers fly into an uncontrollable battle-rage for 20 seconds\nThey become resistant to knockback and their movement speed, armour, and attack damage are increased by 33%, but they cannot be controlled for the duration\nLeft click to activate"
+"Requiert : Niveau 5 \n Les Berserkers Béornides rentrent dans une fureur incontrôlable pendant 20 secondes. \n Ils deviennent résistants au renversement et leur vitesse, leur armure et leur dégat sont augmentés de 33%, ils ne peuvent cependant pas être contrôlés pendant ce laps de temps. \n\n Clic gauche pour l'activer."
 END
 
 OBJECT:WoodmenHound
-"Woodmen's Hound"
+"Chiens de chasse"
 END
 
 CONTROLBAR:ConstructMirkwoodBatteringRam
-"Beorning Battering Ram (&W)"
+"Bélier Béornide (&W)"
 END
 
 OBJECT:MirkwoodBatteringRam
-"Beorning Battering Ram"
+"Bélier Béornide"
 END
 
 OBJECT:MirkwoodRamCrew
-"Beorning Battering Ram Crew"
+"Porteurs de Bélier Béornide"
 END
 
 CONTROLBAR:ToolTipBuildMirkwoodBatteringRam
-"Breaks down castle gates and enemy structures \n \n Strong as bears, the Beornings of the Anduin Vale are quite capable of uprooting a tree to batter down an enemy's front door."
+"Démantèlent les portes de châteaux et les structures ennemies. \n\n Forts comme des ours, les Béornides du Val d'Anduin sont tout à fait capables de déraciner un arbre pour abattre la porte d'entrée d'un ennemi."
 END
 
 CONTROLBAR:ConstructMirkwoodBallista
@@ -79726,31 +79723,31 @@ OBJECT:MirkwoodBallista
 END
 
 CONTROLBAR:ToolTipBuildMirkwoodBallista
-"Distant Thrower\nRequires Level 2 Siege Grounds \n Strong vs. Structures\n \n The Haehadron is an elegant machine designed for an inelegant task."
+"Requiert Atelier de siège Niveau 2. \n Baliste. \n Forts contre les structures. \n Le Haehadron est une machine gracieuse utilisée pour une tâche qui l'est cependant beaucoup moins."
 END
 
 CONTROLBAR:ToolTipBuildMirkwoodBallistaWotR
-"Distant Thrower\n Strong vs. Structures\n \n The Haehadron is an elegant machine designed for an inelegant task."
+"Forts contre les structures. \n Le Haehadron est une machine gracieuse utilisée pour une tâche qui l'est cependant beaucoup moins."
 END
 
 OBJECT:MirkwoodSiegeGrounds
-"Siege Grounds"
+"Atelier de siège"
 END
 
 OBJECT:MirkwoodSiegeGroundsDescription
-"Level 2: +10% faster build speed\n Level 3: +25% faster build speed"
+"Niveau 2: +10% de vitesse de construction. \n Niveau 3: +25% de vitesse de construction."
 END
 
 CONTROLBAR:ConstructMirkwoodSiegeGrounds
-"Build Siege Grounds (&N)"
+"Construire un Atelier de siège (&N)"
 END
 
 CONTROLBAR:ConstructMirkwoodSiegeGroundsWotRRealTime
-"Build Siege Grounds (&T)"
+"Construire un Atelier de siège (&T)"
 END
 
 CONTROLBAR:ToolTipConstructMirkwoodSiegeGrounds
-"Constructs siege engines\n At rank 2, repairs nearby siege engines"
+"Construit et améliore les engins de siège. \n Au niveau 2, répare les engins de siège proches."
 END
 
 CONTROLBAR:ToolTipConstructMirkwoodSiegeGroundsWotRRealTime
@@ -79758,31 +79755,31 @@ CONTROLBAR:ToolTipConstructMirkwoodSiegeGroundsWotRRealTime
 END
 
 CONTROLBAR:ConstructMirkwoodSiegeGroundsLevel2Upgrade
-"Upgrade Siege Grounds to Level 2 (&A)"
+"Améliorer l'atelier de siège au niveau 2 (&A)"
 END
 CONTROLBAR:ConstructMirkwoodSiegeGroundsLevel3Upgrade
-"Upgrade Siege Grounds to Level 3 (&A)"
+"Améliorer l'atelier de siège au niveau 3 (&A)"
 END
 CONTROLBAR:ToolTipBuildMirkwoodSiegeGroundsLevel2Upgrade
-"Allows training of Haehadron \n Heals nearby damaged siege machines \n +10% faster build speed"
+"Permet la constructions des Haehadron. \n Répare les engins endommagés proches. \n +10% de vitesse de construction."
 END
 CONTROLBAR:ToolTipBuildMirkwoodSiegeGroundsLevel3Upgrade
-"+25% faster build speed \n Increased healing to nearby damaged siege machines"
+"+25% de vitesse de construction. \n Répare encore plus efficacement les engins de siège proches."
 END
 CONTROLBAR:StopRightThere
-"Stop Right There! (&W)"
+"Arrêtez-vous ! (&W)"
 END
 CONTROLBAR:StopRightThereMirkwood
-"Stop Right There! (&T)"
+"Arrêtez-vous ! (&T)"
 END
 CONTROLBAR:ToolTipStopRightThere
-"Requires Level 2 \n Enemy units within the radius deal -33% damage and are slowed by 20% for 30 seconds\n Left click on icon then left click on target battalion"
+"Requiert : Niveau 2 \n Les ennemies présentes dans le rayon infligent -33% de dégats et sont ralenties de -20% en vitesse de déplacement pendant 30 secondes. \n\n Clic gauche sur l'icône puis clic gauche sur le bataillon cible."
 END
 CONTROLBAR:ToolTipStopRightThereDale
-"Requires Level 4 \n Enemy units within the radius deal -33% damage and are slowed by 20% for 30 seconds\n Left click on icon then left click on target battalion"
+"Requiert : Niveau 2 \n Les ennemies présentes dans le rayon infligent -33% de dégats et sont ralenties de -20% en vitesse de déplacement pendant 30 secondes. \n\n Clic gauche sur l'icône puis clic gauche sur le bataillon cible."
 END
 CONTROLBAR:ToolTipStopRightThereRoyalGuard
-"Requires Level 2 \n Enemy units within the radius deal -50% armour and are slowed by 20% for 30 seconds\n Left click on icon then left click on target battalion"
+"Requiert : Niveau 2 \n Les ennemies présentes dans le rayon ont -50% d'armures et sont ralenties de -20% en vitesse de déplacement pendant 30 secondes. \n\n Clic gauche sur l'icône puis clic gauche sur le bataillon cible."
 END
 
 //----------------------------------------------

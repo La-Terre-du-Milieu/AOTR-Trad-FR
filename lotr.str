@@ -17422,7 +17422,7 @@ CONTROLBAR:ElegostTrueShot
 END
 
 CONTROLBAR:ToolTipElegostTrueShot
-"Une attaque à forts dégâts qui paralyse les unités ennemies. \n\n Clic gauche sur l'icône puis clic gauche sur la cible." 
+"Une attaque à forts dégâts qui paralyse les unités ennemies pendant 10 secondes. \n\n Clic gauche sur l'icône puis clic gauche sur la cible." 
 END
 
 CONTROLBAR:ElegostHeal
@@ -17438,7 +17438,7 @@ CONTROLBAR:ElegostRangerCraft
 END
 
 CONTROLBAR:ToolTipElegostRangerCraft
-"Les ennemis dans le rayon perdent -50% de portée de vision et -25% de vitesse de mouvement. \n\n Clic gauche puis clic gauche sur la zone cible."
+"Les ennemis dans le rayon perdent -50% de portée de vision et -25% de vitesse de mouvement pendant 30 secondes. \n\n Clic gauche puis clic gauche sur la zone cible."
 END
 
 
@@ -22951,7 +22951,7 @@ CONTROLBAR:KiliQuickshot
 END
 
 CONTROLBAR:ToolTipKiliQuickshot
-"Requiert : Niveau 3 \n Kíli tire plus rapidement avec son arc et fait plus de dégâts pendant une courte durée. \n Utilisable uniquement avec l'arc. \n\n Clic gauche pour l'activer."
+"Requiert : Niveau 3 \n  Kili gagne +15% de dégâts et +33% de vitesse d'attaque pendant 20 secondes \n Utilisable uniquement avec l'arc. \n\n Clic gauche pour l'activer."
 END
 
 CONTROLBAR:KiliHighSpirits
@@ -22977,7 +22977,7 @@ CONTROLBAR:FiliAxeThrow
 END
 
 CONTROLBAR:ToolTipFiliAxeThrow
-"Requiert : Niveau 3 \n Fíli inflige d'importants dégâts à une seule cible et l'immobilise temporairement pendant 15 secondes. \n\n Clic gauche sur l'icône puis clic gauche sur la cible."
+"Requiert : Niveau 3 \n Fíli inflige d'importants dégâts à une seule cible et l'immobilise temporairement pendant 10 secondes. \n\n Clic gauche sur l'icône puis clic gauche sur la cible."
 END
 
 CONTROLBAR:FiliSlayer
@@ -22985,7 +22985,7 @@ CONTROLBAR:FiliSlayer
 END
 
 CONTROLBAR:ToolTipFiliSlayer
-"Requiert : Niveau 5 \n Fíli gagne +25% de dégâts et voit sa vitesse de mouvement et d'attaque augmenter. \n\n Clic gauche pour l'activer."
+"Requiert : Niveau 5 \n Fíli gagne +25% de dégâts et voit sa vitesse de mouvement et d'attaque augmenter pendant 10 secondes. \n\n Clic gauche pour l'activer."
 END
 
 CONTROLBAR:FiliLeadership
@@ -23155,7 +23155,7 @@ CONTROLBAR:EreborDainLeadership
 End
 
 CONTROLBAR:ToolTipEreborDainLeadership
-"Type d'Action : Charisme. \n Les unités des Monts du Fer proches de Dáin gagnent +33% de dégâts, +33% d'armure, et gagnent de l'expérience 50% plus rapidement (bonus cumulable). \n\n Capacité passive."
+"Type d'Action : Charisme. \n Les unités des Monts du Fer proches de Dáin gagnent +25% de dégâts, +25% d'armure, et gagnent de l'expérience 33% plus rapidement (bonus cumulable). \n\n Capacité passive."
 END
 
 CONTROLBAR:EreborOldDainLeadership
@@ -23199,7 +23199,7 @@ CONTROLBAR:EreborDainRecklessAssault
 End
 
 CONTROLBAR:ToolTipEreborDainRecklessAssault
-"Requiert : Niveau 5 \n Type d'Action : Sort. \n Les unités alliées ciblées gagnent +33% de dégâts. \n Annule les bonus de Charisme des ennemis (bonus cumulable mais malus non cumulable). \n\n Clic gauche sur l'icône puis clic gauche sur la cible."
+"Requiert : Niveau 5 \n Type d'Action : Sort. \n Les unités alliées ciblées gagnent +33% de dégâts pendant 30 secondes. \n Annule les bonus de Charisme des ennemis pendant 30 secondes. \n\n Clic gauche sur l'icône puis clic gauche sur la cible."
 End
 
 CONTROLBAR:EreborDainToTheKing
@@ -23489,7 +23489,7 @@ CONTROLBAR:KeenEye
 END
 
 CONTROLBAR:ToolTipKeenEye
-"Les structures proches reçoivent +25% d'armure. \n Les mangonneaux proches gagnent +10% de portée. \n Capacité passive. \n Au niveau 3, peut être lancé sur une structure ennemie pour réduire temporairement son armure de 33%. \n\n Clic gauche sur l'icône puis clic gauche sur la cible."
+"Les structures proches reçoivent +25% d'armure. \n Les mangonneaux proches gagnent +10% de portée. \n Capacité passive. \n Au niveau 3, peut être lancé sur une structure ennemie pour réduire temporairement son armure de 33% pendant 10 secondes. \n\n Clic gauche sur l'icône puis clic gauche sur la cible."
 END
 
 CONTROLBAR:HadhodSabotage
@@ -23497,7 +23497,7 @@ CONTROLBAR:HadhodSabotage
 END
 
 CONTROLBAR:ToolTipHadhodSabotage
-"Requiert Niveau 3 \n Les bâtiments ennemis ciblés subissent de lourds dommages et sont temporairement désactivés. \n Les portes ciblées s'ouvrent automatiquement. \n\n Clic gauche sur l'icône puis clic gauche sur la cible."
+"Requiert Niveau 3 \n Les bâtiments ennemis ciblés subissent de lourds dommages et sont désactivés pendant 20 secondes. \n Les portes ciblées s'ouvrent automatiquement. \n\n Clic gauche sur l'icône puis clic gauche sur la cible."
 END
 
 CONTROLBAR:HadhodStoneHewer
@@ -25965,7 +25965,7 @@ CONTROLBAR:StopRightThere
 END
 
 CONTROLBAR:ToolTipStopRightThere
-"Requiert : Niveau 2 \n Les ennemies présentes dans le rayon infligent -33% de dégats et sont ralenties de -33% en vitesse de déplacement. \n\n Clic gauche sur l'icône puis clic gauche sur le bataillon cible."
+"Requiert : Niveau 2 \n Les ennemies présentes dans le rayon infligent -33% de dégats et sont ralenties de -20% en vitesse de déplacement pendant 30 secondes. \n\n Clic gauche sur l'icône puis clic gauche sur le bataillon cible."
 END
 
 CONTROLBAR:SearchWarrant
@@ -26071,7 +26071,7 @@ CONTROLBAR:ToolTipToggleVWPorcupineToLineFormation
 End
 
 CONTROLBAR:ToolTipToggleVWLineToPorcupineFormation
-"Augmente l'armure de 33% au détriment de -75% en vitesse de mouvement. \n Rend les Azaghâr-gundu insensibles au renversement et aux effets de piétinement."
+"Augmente l'armure de 40% au détriment de -50% en vitesse de mouvement. \n Rend les Azaghâr-gundu insensibles au renversement et aux effets de piétinement."
 End
 
 CONTROLBAR:VWLeadership
@@ -29535,15 +29535,15 @@ CONTROLBAR:GandalfGloriousCharge
 END
 
 CONTROLBAR:ToolTipGandalfGloriousCharge
-"Requiert : Niveau 5 \n Les archers nains et les archers de Dale gagnent +20% de portée et +15% de dégâts. \n\nClic gauche pour l'activer."
+"Requiert : Niveau 5 \n Les archers prochent gagnent +20% de portée et +15% de dégâts pendant 30 secondes. \n\nClic gauche pour l'activer."
 END
 
 CONTROLBAR:ToolTipRivendellGandalfGloriousCharge
-"Les Archers proches gagnent +20% de portée et +15% de de dégâts. \n\n Clic gauche pour l'activer."
+"Les Archers proches gagnent +20% de portée et +15% de de dégâts pendant 30 secondes. \n\n Clic gauche pour l'activer."
 END
 
 CONTROLBAR:ToolTipFellowshipGandalfGloriousCharge
-"Augmente considérablement la portée de la vision et révèle les unités furtives pendant une courte période. \n\n Clic gauche pour l'activer."
+"Augmente considérablement la portée de la vision et révèle les unités furtives pendant 30 secondes. \n\n Clic gauche pour l'activer."
 END
 
 CONTROLBAR:GandalfDisturber
@@ -29571,15 +29571,15 @@ CONTROLBAR:GandalfYouShallNotPassCampaign
 END
 
 CONTROLBAR:ToolTipGandalfYouShallNotPass
-"Requiert : Niveau 10 \n Étourdit les unités ennemies dans un large rayon autour de Gandalf. \n\n Clic gauche pour l'activer."
+"Requiert : Niveau 10 \n Étourdit les unités ennemies dans un large rayon autour de Gandalf pendant 10 secondes. \n\n Clic gauche pour l'activer."
 END
 
 CONTROLBAR:ToolTipRivendellGandalfYouShallNotPass
-"Étourdit les unités ennemies dans un large rayon autour de Gandalf. \n\n Clic gauche pour l'activer."
+"Étourdit les unités ennemies dans un large rayon autour de Gandalf pendant 10 secondes. \n\n Clic gauche pour l'activer."
 END
 
 CONTROLBAR:ToolTipFellowshipGandalfYouShallNotPass
-"Requiert : Niveau 3 \n Étourdit les unités ennemies dans un large rayon autour de Gandalf. \n\n Clic gauche pour l'activer."
+"Requiert : Niveau 3 \n Étourdit les unités ennemies dans un large rayon autour de Gandalf pendant 10 secondes. \n\n Clic gauche pour l'activer."
 END
 
 
@@ -33332,7 +33332,7 @@ OBJECT:MirkwoodSiegeGroundsDescription
 END
 
 CONTROLBAR:ToolTipConstructMirkwoodSiegeGrounds
-"Construit et améliore les engins de siège. \n Au niveau 2, répare les engins de siège proches. \n Augmente la limite de points de commandement de 25."
+"Construit et améliore les engins de siège. \n Au niveau 2, répare les engins de siège proches."
 END
 
 CONTROLBAR:ConstructMirkwoodSiegeGroundsLevel2Upgrade
@@ -34128,7 +34128,7 @@ OBJECT:MirkwoodBallista
 END
 
 CONTROLBAR:ToolTipBuildMirkwoodBallista
-"Requiert Atelier de siège Niveau 2. \n Baliste. \n Forts contre les structures. \n Limitées à 6 unités seulement. \n\n Le Haehadron est une machine gracieuse utilisée pour une tâche qui l'est cependant beaucoup moins."
+"Requiert Atelier de siège Niveau 2. \n Baliste. \n Forts contre les structures. \n Le Haehadron est une machine gracieuse utilisée pour une tâche qui l'est cependant beaucoup moins."
 END
 
 CONTROLBAR:LW_Unit_MirkwoodBallista
@@ -34320,7 +34320,7 @@ CONTROLBAR:FaithfulPremonitions
 END
 
 CONTROLBAR:ToolTipFaithfulPremonitions
-"Les Druides peuvent cibler les unités pour baisser leur vitesse de 5% jusqu'à -25% ainsi que les bâtiments pour baisser leur armure de 5% jusqu'à 25%. \n\n Les chasseurs à proximité gagnent +50% d'armure d'anti-écrasement et de résistance face à la peur et à la terreur. \n Capacité passive."
+"Les Druides peuvent cibler les unités pour baisser leur dégâts de 15% ainsi que les bâtiments pour baisser leur armure de 15%. \n\n Les chasseurs à proximité gagnent +33% d'armure d'anti-écrasement et de résistance face à la peur et à la terreur. \n Capacité passive."
 END
 
 CONTROLBAR:BlessingofAldaron
@@ -34454,7 +34454,7 @@ CONTROLBAR:RoughExterior
 End
 
 CONTROLBAR:ToolTipRoughExterior
-"Requiert : Niveau 3 \n Augmente temporairement la résistance aux dégâts à distance de +50%."
+"Requiert : Niveau 3 \n Augmente temporairement la résistance aux dégâts à distance de +50% pendant 20 secondes\n Clique gauche pour l'activer."
 END
 
 CONTROLBAR:BeorningRage
@@ -34462,7 +34462,7 @@ CONTROLBAR:BeorningRage
 END
 
 CONTROLBAR:ToolTipBeorningRage
-"Requiert : Niveau 5 \n Les Berserkers Béornides rentrent dans une fureur incontrôlable. \n Ils deviennent résistants au renversement et leur vitesse, leur armure et leur dégat sont grandement augmentés, ils ne peuvent cependant pas être contrôlés pendant ce laps de temps. \n\n Clic gauche pour l'activer."
+"Requiert : Niveau 5 \n Les Berserkers Béornides rentrent dans une fureur incontrôlable pendant 20 secondes. \n Ils deviennent résistants au renversement et leur vitesse, leur armure et leur dégat sont augmentés de 33%, ils ne peuvent cependant pas être contrôlés pendant ce laps de temps. \n\n Clic gauche pour l'activer."
 END
 
 
