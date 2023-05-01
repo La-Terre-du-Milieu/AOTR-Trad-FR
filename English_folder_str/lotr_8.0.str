@@ -25619,202 +25619,196 @@ END
 
 
 OBJECT:RohanFarmDescription
-"Reduces the Cost of Cavalry \n 2 Farms: 10%\n 3 Farms: 15% \n 4 Farms: 20%\n 5 Farms: 25%\n 6+ Farms: 30%"
+"Réduit le coût de la cavalerie.\n 2 Fermes: -10%\n 3 Fermes: -15%\n 4 Fermes: -20%\n 5+ Fermes: -25%\n 6+ Fermes: -30%"
 END
 
 OBJECT:RohanArmoryDescription
-"Weapons and armour upgrades"
+"Améliore les armures et les armes."
 END
 
 OBJECT:RohanWellDescription
-"Heals nearby allies \n Detects stealth\n Increases resource gain of nearby farms and windmills"
+"Soigne les alliés proches. \n Détecte les unités furtives. \n Augmente la production de ressources des fermes et des moulins proches."
 END
 
 OBJECT:GondorWellDescription
-"Replenishes health and units in nearby battalions\n Reduces the cost of infantry"
+"Soigne les alliés proches. \n Réduit les coûts de l'infanterie."
 END
 
 OBJECT:RohanStatueDescription
-"Allies near the statue gain \n +50% damage, +50% armour, \n and earn experience twice as fast"
+"Les alliés proches de la statue gagnent +50% de dégâts, +50% d'armure, et gagnent de l'expérience deux fois plus rapidement."
 END
 
 OBJECT:RohanBattleTowerDescription
-"Strong defensive building. Shoots arrows at enemies."
+"Bâtiment défensif résistant. Tire des flèches sur l'ennemi."
 END
 
 OBJECT:RohanEntMootDescription
-"If Moot is attacked, council automatically concludes."
+"Si la Chambre des Ents est attaquée, le conseil est auto. interrompu."
 END
 
 OBJECT:MallornTree
-"Mallorn Tree"
+"Mallorn"
 END
 
 OBJECT:ElvenGreenPasture
-"Green Pasture"
+"Pâturages du Bois Doré"
 END
 
 OBJECT:ElvenGreenPastureDescription
-"Level 2: +10% faster build speed\n Level 3: +25% faster build speed"
+"Niveau 2 : vitesse de construction +10%. \n Niveau 3 : vitesse de construction +25%."
 END
 
 OBJECT:ElvenBarracksDescription
-"Level 2: +10% faster build speed\n Level 3: +25% faster build speed"
+"Niveau 2 : vitesse de construction +10%. \n Niveau 3 : vitesse de construction +25%."
 END
 
 OBJECT:ElvenOrchardDescription
-"Reduces cost of cavalry\n 2 Orchards: 10%\n 3 Orchards: 15% \n 4 Orchards: 20%\n 5 Orchards: 25%\n 6+ Orchards: 30%"
+"Réduit le coût de la cavalerie\n 2 vergers : -10%\n 3 vergers : -15%\n 4 vergers : -20%\n 5 vergers : -25%\n 6+ vergers : -30%"
 END
 
 OBJECT:DwarvenBarracksDescription
-"Level 2: +10% faster build speed\n Level 3: +25% faster build speed"
+"Niveau 2 : +10% Vitesse de construction. \n Niveau 3 : +25% Vitesse de construction."
 END
 
 OBJECT:DwarvenArcheryRangeDescription
-"Level 2: +10% faster build speed\n Level 3: +25% faster build speed"
+"Niveau 2 : vitesse de construction +10%. \n Niveau 3 : vitesse de construction +25%."
 END
 
 OBJECT:DwarvenForgeWorksDescription
-"Recruits the elite troops of Erebor"
+"Permet de recruter les troupes d'élite d'Erebor."
 END
 
 OBJECT:DwarvenHearthDescription
-"Allies near the hearth gain \n +50% damage and +50% armour \n Reduces cost of machines\n 3 Hearths: 10%\n 5 Hearths: 20%\n 7 Hearths: 30%\n10 Hearths: 40%"
+"Les alliés proches du foyer gagnent +50% de dégâts et +50% d'armure \n Réduit le coût des machines de guerre : \n 3 Foyers: -10% \n 5 Foyers: -20% \n 7 Foyers: -30% \n 10 Foyers: -40%"
 END
 
 OBJECT:DwarvenStatueDescription
-"Allies near the statue gain \n +50% damage, +50% armour, \n and earn experience twice as fast"
+"Les alliés proches de la statue gagnent +50% de dégâts, +50% d'armure, et gagnent de l'expérience deux fois plus rapidement."
 END
 
 OBJECT:DwarvenMineShaftDescription
-"Allows access to the tunnel network"
+"Permet d'accéder au réseau de tunnels."
 END
 
 OBJECT:GondorFarmDescription
-"Reduces cost of cavalry\n 2 Farms: 10%\n 3 Farms: 15% \n 4 Farms: 20%\n 5 Farms: 25%\n 6+ Farms: 30%"
+"Réduit le coût de la cavalerie : \n 2 fermes : -10% \n 3 fermes : -15% \n 4 fermes : -20% \n 5 fermes : -25% \n 6+ fermes : -30%"
 END
 
 OBJECT:GondorBarracksDescription
-"Level 2: +10% faster build speed\n Level 3: +25% faster build speed"
+"Niveau 2 : vitesse de construction +10%. \n Niveau 3 : vitesse de construction +25%."
 END
 
 OBJECT:RohanBarracksDescription
-"Generates resources based on available terrain\nLevel 2: +10% faster build speed\n Level 3: +25% faster build speed"
+"Génère des ressources selon le terrain disponible. \n Niveau 2: +10% de vitesse de construction. \n Niveau 3: +25% de vitesse de construction."
 END
 
 OBJECT:GondorArcheryRangeDescription
-"Level 2: +10% faster build speed\n Level 3: +25% faster build speed"
+"Niveau 2 : vitesse de construction +10%. \n Niveau 3 : vitesse de construction +25%."
 END
 
 OBJECT:RohanArcheryRangeDescription
-"Generates resources based on available terrain\nLevel 2: +10% faster build speed\n Level 3: +25% faster build speed"
+"Génère des ressources selon le terrain disponible. \n Niveau 2: +10% de vitesse de construction. \n Niveau 3: +25% de vitesse de construction."
 END
 
 OBJECT:GondorStablesDescription
-"Level 2: +10% faster build speed\n Level 3: +25% faster build speed"
+"Niveau 2 : vitesse de construction +10%. \n Niveau 3 : vitesse de construction +25%."
 END
 
 OBJECT:GondorWorkshopDescription
-"Level 2: +10% faster build speed\n Level 3: +25% faster build speed"
+"Niveau 2 : vitesse de construction +10%. \n Niveau 3 : vitesse de construction +25%."
 END
 
 OBJECT:GondorStoneworkerDescription
-"Generates resources based on available terrain \n Reduces cost of buildings \n 1 Stoneworker: 5%\n 2 Stoneworkers: 10\n 3 Stoneworkers: 15\n 4 Stoneworkers: 20\n 5 Stoneworkers: 25%"
+"Génère des ressources basées sur le terrain disponible. \n Réduit le coût des bâtiments : \n 1 tailleur : -5% \n 2 tailleurs : -10% \n 3 tailleurs : -15% \n 4 tailleurs : -20% \n 5+ tailleurs : -25%"
 END
 
 OBJECT:GondorStatueDescription
-"Allies near the statue gain \n +50% damage, +50% armour, \n and earn experience twice as fast\n Reduces cost of heroes"
+"Les alliés proches de la statue gagnent +50% de dégâts, +50% d'armure et gagnent de l'expérience deux fois plus rapidement. \n\n Réduit le coût des héros."
 END
 
 OBJECT:GondorWellDescription
-"Replenishes health and units in nearby battalions\n Reduces the cost of infantry"
+"Soigne les alliés proches. \n Réduit les coûts de l'infanterie."
 END
 
 OBJECT:GondorBattleTowerDescription
-"Defensive tower that fires arrows at nearby enemies"
+"Tour défensive qui tire des flèches sur les ennemis proches."
 END
 
 OBJECT:MordorOrcPitDescription
-"Level 2: +10% faster build speed\n Level 3: +25% faster build speed"
+"Niveau 2 : vitesse de construction +10%. \n Niveau 3 : vitesse de construction +25%."
 END
 
 OBJECT:MordorTrollCageDescription
-"Level 2: +10% faster build speed\n Level 3: +25% faster build speed"
+"Niveau 2 : vitesse de construction +10%. \n Niveau 3 : vitesse de construction +25%."
 END
 
 OBJECT:MordorGreatSiegeWorksDescription
-"Level 2: +10% faster build speed\n Level 3: +25% faster build speed"
+"Niveau 2 : vitesse de construction +10%. \n Niveau 3 : vitesse de construction +25%."
 END
 
 OBJECT:MordorHaradrimPalaceDescription
-"Level 2: +10% faster build speed\n Level 3: +25% faster build speed"
+"Niveau 2 : vitesse de construction +10%. \n Niveau 3 : vitesse de construction +25%."
 END
 
 OBJECT:MordorRhunArcherRangeDescription
-"Level 2: +10% faster build speed\n Level 3: +25% faster build speed"
+"Niveau 2 : vitesse de construction +10%. \n Niveau 3 : vitesse de construction +25%."
 END
 
 OBJECT:MordorMumakilPenDescription
-"Level 2: +10% faster build speed\n Level 3: +25% faster build speed"
+"Niveau 2 : vitesse de construction +10%. \n Niveau 3 : vitesse de construction +25%."
 END
 
 OBJECT:LumberMillDescription
 //"Reduces the Cost of Buildings\n 2 Lumber Mills: 10%\n 3 Lumber Mills: 20%\n 4 Lumber Mills: 30%"
-"Harvests resources from nearby trees \n Reduces cost of buildings\n 2 Lumber Mills: 5%\n 3 Lumber Mills: 10%\n 4 Lumber Mills: 15%"
+"Récolte des ressources avec les arbres alentours. \n Réduit le coût des bâtiments : \n 2 Scieries: -5% \n 3 Scieries: -10% \n 4 Scieries: -15%"
 END
 
 OBJECT:IsengardUrukPitDescription
-"Level 2: +10% faster build speed\n Level 3: +25% faster build speed"
+"Niveau 2 : vitesse de construction +10%. \n Niveau 3 : vitesse de construction +25%."
 END
 
 OBJECT:IsengardSiegeWorksDescription
-"Level 2: +10% faster build speed\n Level 3: +25% faster build speed"
+"Niveau 2 : vitesse de construction +10%. \n Niveau 3 : vitesse de construction +25%."
 END
 
 OBJECT:IsengardWargPitDescription
-"Level 2: +10% faster build speed\n Level 3: +25% faster build speed"
+"Niveau 2 : vitesse de construction +10%. \n Niveau 3 : vitesse de construction +25%."
 END
 
 OBJECT:GoblinCaveDescription
-"Level 2: +10% faster build speed\n Level 3: +25% faster build speed"
+"Niveau 2 : vitesse de construction +10%. \n Niveau 3 : vitesse de construction +25%."
 END
 
 APT:BirthDateTitle
-// Heading text for birthdate in Online Login screen.
-"BIRTHDATE"
-End
+"DATE DE NAISSANCE"
+END
 
 APT:YYYYTitle
-// Year title for year of birthdate.
-"YEAR"
-End
+"ANNEE"
+END
 
 APT:DDTitle
-// Day title for day of birthdate
-"DAY"
-End
+"JOUR"
+END
 
 APT:MMTitle
-// Month for month of birthdate in online login.
-"MONTH"
-End
+"MOIS"
+END
 
 APT:RememberMe
-// Text for remember password check box in Online Login screen.
-"REMEMBER PASSWORD"
-End
+"MEMORISER MOT DE PASSE"
+END
 
 APT:SelectYourLocale
-// Title for the Select Your Locale screen in the Online login.
-"SELECT YOUR LOCALE"
-End
+"VOTRE PAYS"
+END
 
 LWA:Fellowship
-"The Fellowship"
+"La Communauté"
 END
 
 LWA:Elves
-"Elves"
+"Elfes"
 END
 
 LWA:Ents
@@ -25838,19 +25832,19 @@ LWA:Mordor
 END
 
 LWA:Goblins
-"Goblins"
+"Gobelins"
 END
 
 LWA:Corsairs
-"Corsairs"
+"Corsaires"
 END
 
 LWA:Oathbreakers
-"Oathbreakers"
+"Parjures"
 END
 
 LWA:Easterlings
-"Easterlings"
+"Guerriers Orientaux"
 END
 
 LWA:Haradrim
@@ -25858,7 +25852,7 @@ LWA:Haradrim
 END
 
 LWA:Shire
-"The Shire"
+"La Comté"
 END
 
 LWA:Bree
@@ -25866,15 +25860,15 @@ LWA:Bree
 END
 
 LWA:Rivendell
-"Rivendell"
+"Fondcombe"
 END
 
 LWA:Lothlorien
-"Lorien"
+"La Lórien"
 END
 
 LWA:Moria
-"The Mines of Moria"
+"Les Mines de la Moria"
 END
 
 LWA:Isengard_City
@@ -25882,7 +25876,7 @@ LWA:Isengard_City
 END
 
 LWA:HelmsDeep
-"Helm's Deep"
+"Goufre de Helm"
 END
 
 LWA:Edoras
@@ -25902,7 +25896,7 @@ LWA:CirithUngol
 END
 
 LWA:BlackGate
-"The Black Gate"
+"La Porte Noire"
 END
 
 LWA:BaradDur
@@ -25910,14 +25904,14 @@ LWA:BaradDur
 END
 
 LWA:MtDoom
-"Mt. Doom"
+"Mont. Destin"
 End
 LWA:Fangorn
-"Forest of Fangorn"
+"Forêt de Fangorn"
 End
 
 LWA:DeadMarshes
-"Dead Marshes"
+"Marais des morts"
 End
 
 LWA:MenOfTheWest
@@ -25929,124 +25923,123 @@ LWA:Dwarves
 End
 
 LWA:Mirkwood
-"Woodland Realm"
+"Royaume des Forêts"
 End
 
 LWA:CorruptedWild
-"Misty Mountains"
+"Gundabad"
 End
 
 LWA:MenOfTheWestGarrison
-"Garrison Army"
+"Armée de Garnison"
 End
 
 LWA:Army
-"Army"
+"Armée"
 End
 
 LWA:HeroArmy
-"Hero Army"
+"Armée de héros"
 End
 
 LWA:Garrison
-"Garrison Army"
+"Armée de Garnison"
 End
 
 LWA:MenArmy
-"Gondor Army"
+"Armée du Gondor"
 End
 
 LWA:DwarvesArmy
-"Erebor Army"
+"Armée d'Erebor"
 End
 
 LWA:WildArmy
-"Misty Mountains Army"
+"Armée de Gundabad"
 End
 
 LWA:MenHeroArmy
-"Gondor Hero Army"
+"Armée de héros du Gondor"
 End
 
 LWA:RohanHeroArmy
-"Rohan Hero Army"
+"Armée de héros du Rohan"
 End
 
 LWA:ElvesHeroArmy
-"Lothlórien Hero Army"
+"Armée de héros de la Lorien"
 END
 
 LWA:MirkwoodHeroArmy
-"Woodland Realm Hero Army"
+"Armée de héros du Royaume des forêts"
 END
 
 LWA:DwarvesHeroArmy
-"Erebor Hero Army"
+"Armée de héros d'Erebor"
 End
 
 LWA:MordorHeroArmy
-"Mordor Hero Army"
+"Armée de héros du Mordor"
 End
 
 LWA:IsengardHeroArmy
-"Isengard Hero Army"
+"Armée de héros de l'Isengard"
 End
 
 LWA:GuldurHeroArmy
-"Dol Guldur Hero Army"
+"Armée de héros de Dol Guldur"
 END
 
 LWA:HaradwaithHeroArmy
-"Haradwaith Hero Army"
+"Armée de héros du Harad"
 END
 
 LWA:WildHeroArmy
-"Misty Mountains Hero Army"
+"Armée de héros des Monts Brumeux"
 End
 
 LWA:MenGarrison
-"Gondor Garrison Army"
+"Armée de garnison du Gondor"
 End
 
 LWA:RohanGarrison
-"Rohan Garrison Army"
+"Armée de garnison du Rohan"
 End
 
 LWA:ElvesGarrison
-"Lothlórien Garrison Army"
+"Armée de garnison de la Lorien"
 End
 
 LWA:MirkwoodGarrison
-"Woodland Realm Garrison Army"
+"Armée de garnison du Royaume des forêts"
 End
 
 LWA:DwarvesGarrison
-"Erebor Garrison Army"
+"Armée de garnison d'Erebor"
 End
 
 LWA:MordorGarrison
-"Mordor Garrison Army"
+"Armée de garnison du Mordor"
 End
 
 LWA:IsengardGarrison
-"Isengard Garrison Army"
+"Armée de garnison de l'Isengard"
 End
 
 LWA:WildGarrison
-"Misty Mountains Garrison Army"
+"Armée de garnison de Gundabad"
 End
 
 LWA:CorruptedWildGarrison
-"Misty Mountains Garrison Army"
+"Armée de garnison de Gundabad"
 End
 
 LWA:GuldurGarrison
-"Dol Guldur Garrison Army"
+"Armée de garnison de Dol Guldur"
 End
 
 APT:ExitTutorial
-// Exit Battle School
-"EXIT TUTORIAL"
+"QUITTER TUTORIEL"
 End
 
 
@@ -26064,307 +26057,307 @@ END
 // Galadriel and Saruman text end
 
 OBJECT:HordeLamedonClansmen
-"Clansmen of Lamedon"
+"Guerriers des Clans de Lamedon"
 END
 
 OBJECT:HordeBlackrootValeArcher
-"Blackroot Vale Archers"
+"Archers de la Racine Noire"
 END
 
 OBJECT:HordeGondorSoldier
-"Soldiers of Minas Tirith"
+"Soldats de Minas Tirith"
 END
 
 OBJECT:HordeGondorTowerGuard
-"Guards of the Citadel"
+"Gardes de la Citadelle du Gondor"
 END
 
 OBJECT:HordeGondorArcher
-"Archers of Minas Tirith"
+"Archers de Minas Tirith"
 END
 
 OBJECT:HordeGondorSoldierCombo
-"Soldiers of Minas Tirith"
+"Soldats de Minas Tirith"
 END
 
 CONTROLBAR:LW_Unit_GondorFighterHordeCombo
-"Soldiers of Minas Tirith Combo Batallion"
+"Bataillon combiné de soldats de Minas Tirith"
 END
 
 CONTROLBAR:LW_Unit_GondorFighterHordeComboPlural
-"Soldiers of Minas Tirith Combo Batallions"
+"Bataillons combiné de soldats de Minas Tirith"
 END
 
 CONTROLBAR:LW_ToolTip_GondorFighterHordeCombo
-"Unit Type: Elite Infantry\nStrong vs. Pikemen\n"
+"Type d'unité : Infanterie d'élite  \n Fort contre les Piquiers"
 END
 
 OBJECT:HordeGondorSpearmenCombo
-"Spearmen of Minas Tirith"
+"Lanciers de Minas Tirith"
 END
 
 CONTROLBAR:LW_Unit_GondorSpearmenHordeCombo
-"Spearmen of Minas Tirith Combo Batallion"
+"Bataillon combiné de Lanciers de Minas Tirith"
 END
 
 CONTROLBAR:LW_Unit_GondorSpearmenHordeComboPlural
-"Spearmen of Minas Tirith Combo Batallions"
+"Bataillons combiné de Lanciers de Minas Tirith"
 END
 
 CONTROLBAR:LW_ToolTip_GondorSpearmenHordeCombo
-"Unit Type: Elite Pikemen\nStrong vs. Cavalry\n"
+"Type d'unité: Piquiers d'élite. \n Fort contre la Cavalerie."
 END
 
 OBJECT:HordeGondorArcherCombo
-"Archers of Minas Tirith"
+"Archers de Minas Tirith"
 END
 
 CONTROLBAR:LW_Unit_GondorArcherHordeCombo
-"Archers of Minas Tirith Combo Batallion"
+"Bataillon combiné d'archers de Minas Tirith"
 END
 
 CONTROLBAR:LW_Unit_GondorArcherHordeComboPlural
-"Archers of Minas Tirith Combo Batallions"
+"Bataillons combiné d'archers de Minas Tirith"
 END
 
 CONTROLBAR:LW_ToolTip_GondorArcherHordeCombo
-"Unit Type: Elite Archer\nStrong vs. Infantry\n"
+"Type d'unité: Archers d'élite\n Fort contre l'infanterie\n"
 END
 
 OBJECT:HordeGondorSoldierArcherCombo
-"Soldiers of Minas Tirith - Archers of Minas Tirith"
+"Soldat de Minas Tirith - Archers de Minas Tirithn"
 END
 
 CONTROLBAR:LW_Unit_GondorFighterArcherHorde
-"Soldiers of Minas Tirith - Archers of Minas Tirith Batallion"
+"Soldat de Minas Tirith - Bataillon d'Archers de Minas Tirith"
 END
 
 CONTROLBAR:LW_Unit_GondorFighterArcherHordePlural
-"Soldiers of Minas Tirith - Archers of Minas Tirith Batallions"
+"Soldat de Minas Tirith - Bataillons d'Archers de Minas Tirith"
 END
 
 CONTROLBAR:LW_ToolTip_GondorFighterArcherHorde
-"Unit Type: Elite Infantry and Elite Archer\nStrong vs. Pikemen and Infantry\n"
+"Type d'unité : Infanterie d'Élite et Archers d'Élite\n Fort contre les piquiers et l'infanterie\n"
 END
 
 OBJECT:HordeGondorSpearmenArcherCombo
-"Spearmen of Minas Tirith - Archers of Minas Tirith"
+"Piquiers de Minas Tirith - Archers de Minas Tirith"
 END
 
 CONTROLBAR:LW_Unit_GondorFighterSpearmenHorde
-"Spearmen of Minas Tirith - Archers of Minas Tirith Batallion"
+"Piquiers de Minas Tirith - Bataillon d'Archers de Minas Tirith Horde"
 END
 
 CONTROLBAR:LW_Unit_GondorFighterSpearmenHordePlural
-"Spearmen of Minas Tirith - Archers of Minas Tirith Batallions"
+"Piquiers de Minas Tirith - Bataillons d'Archers de Minas Tirithn Horde"
 END
 
 CONTROLBAR:LW_ToolTip_GondorFighterSpearmenHorde
-"Unit Type: Elite Archer and Elite Pikemen\nStrong vs. Infantry and Cavalry\n"
+"Type d'unité: Archers d'élite et piquiers d'élite \n Fort contre l'Infanterie et la cavalerie\n"
 END
 
 OBJECT:HordeGondorSpearmenRangerCombo
-"Spearmen of Minas Tirith - Ithilien Ranger Horde"
+"Piquiers de Minas Tirith - Horde de Rôdeurs Ithilien"
 END
 
 OBJECT:HordeGondorFighterDoubleCombo
-"Soldiers of Minas Tirith - Spearmen of Minas Tirith"
+"Soldats de Minas Tirith - Piquiers de Minas Tirith"
 END
 
 CONTROLBAR:LW_Unit_GondorFighterDoubleCombo
-"Soldiers of Minas Tirith - Spearmen of Minas Tirith Bataillon"
+"Soldats de Minas Tirith - Bataillon Piquiers de Minas Tirith"
 END
 
 CONTROLBAR:LW_Unit_GondorFighterDoubleComboPlural
-"Soldiers of Minas Tirith - Spearmen of Minas Tirith Bataillons"
+"Soldats de Minas Tirith - Bataillons Piquiers de Minas Tirith"
 END
 
 CONTROLBAR:LW_ToolTip_GondorFighterDoubleCombo
-"Unit Type: Elite Infantry and Elite Pikemen\nStrong vs. Pikemen and Cavalry\n"
+"Type d'unité: Infantrie d'elite et Piquiers d'élite \n Fort contre les Piquiers et Cavalerie"
 END
 
 OBJECT:HordeGondorSoldierPikemenCombo
-"Soldiers of Minas Tirith - Spearmen of Minas Tirith"
+"Soldats de Minas Tirith - Piquiers de Minas Tirith"
 END
 
 OBJECT:HordeGondorSoldierRangerCombo
-"Soldiers of Minas Tirith - Ithilien Ranger Horde"
+"Soldats de Minas Tirith - Horde de Rôdeurs Ithilien"
 END
 
 OBJECT:HordeGondorSoldierTrebuchetCombo
-"Soldiers of Minas Tirith - Trebuchet Horde"
+"Soldats de Minas Tirith - Horde de Trébuchet"
 END
 
 OBJECT:HordeGondorTowerGuardTrebuchetCombo
-"Guards of the Citadel - Trebuchet Horde"
+"Garde de la Citadelle de Minas Tirith - Horde de Trébuchet"
 END
 
 OBJECT:HordeGondorKnight
-"Knights of Minas Tirith"
+"Chevaliers de Minas Tirith"
 END
 
 OBJECT:HordeGondorLancer
-"Knights of Minas Tirith"
+"Lanciers de Minas Tirith"
 END
 
 OBJECT:HordeGondorSoldierKnightCombo
-"Soldiers of Minas Tirith - Knights of Minas Tirith Horde"
+"Soldats de Minas Tirith - Cavaliers de l'Anórien"
 END
 
 OBJECT:HordeGondorTowerGuardKnightCombo
-"Guards of the Citadel - Knights of Minas Tirith Horde"
+"Bataillon de Gardes de la Citadelle - Cavaliers de Minas Tirith"
 END
 
 OBJECT:HordeGondorTowerGuardArcherCombo
-"Guards of the Citadel - Archers of Minas Tirith Horde"
+"Garde de la Citadelle de Minas Tirith - Horde d'Archers de Minas Tirith"
 END
 
 OBJECT:HordeGondorTowerGuardRangerCombo
-"Guards of the Citadel - Ithilien Ranger Horde"
+"Garde de la Citadelle de Minas Tirith - Horde de Rôdeur Ithilien"
 END
 
 OBJECT:HordeRohanRohirrim
-"Rohirrim Warriors"
+"Guerriers Rohirrims"
 END
 
 OBJECT:HordeRohanRohirrimArchers
-"Rohirrim Archers"
+"Archers Rohirrims"
 END
 
 OBJECT:HordeRohanRohirrimPeasantCombo
-"Rohirrim - Peasant"
+"Rohirrim - Paysan"
 END
 
 OBJECT:HordeRohanRohirrimArcherPeasantCombo
-"Rohirrim Archer - Peasant"
+"Archer Rohirrim - Paysan"
 END
 
 OBJECT:HordeMenofDale
-"Barding Longbowmen"
+"Archers de Dale"
 END
 
 OBJECT:HordeMenofDaleG
-"Barding Phalanx"
+"Phalange de Dale"
 END
 
 OBJECT:HordeMenofDaleGHorde
-"Barding Phalanx"
+"Phalanges de Dale"
 END
 
 OBJECT:DaleRoyalGuard
-"Royal Guard of Dale"
+"Garde royal de Dale"
 END
 
 OBJECT:DaleRoyalGuardHorde
-"Royal Guard of Dale"
+"Garde royaux de Dale"
 END
 
 CONTROLBAR:ConstructDaleRoyalGuard
-"Royal Guard of Dale (&S)"
+"Garde royaux de Dale (&S)"
 END
 
 CONTROLBAR:ToolTipBuildDaleRoyalGuard
-"Hero Unit \nStrong vs. Cavalry \n Able to switch formation for improved defensive capabilities \n \n The retinue of Dalish royal guards was founded soon after Bard restored the great city of Dale. Its members have served as the personal guard of the Barding kings ever since."
+"Unité héroïque \n Forte contre la cavalerie \n Capable de changer de formation pour améliorer ses capacités défensives \n Les gardes royaux de Dale ont été mis en place peu après que Bard a restauré la grande cité de Dale."
 END
 
 OBJECT:HordeRohanPeasantArcherCombo
-"Peasant - Men of Dale"
+"Paysan - Hommes de Dale"
 END
 
 OBJECT:HordeRohanPeasant
-"Peasants"
+"Paysans"
 END
 
 OBJECT:HordeRohanElves
-"Lorien Warriors"
+"Guerriers de la Lórien"
 END
 
 OBJECT:HordeRohanElvesCombo
-"Lorien Warrior Battle Line"
+"Guerriers de la Lórien"
 END
 
 OBJECT:HordeOathBreakers
-"Oathbreakers"
+"Parjures"
 END
 
 
 OBJECT:IsengardUrukAxes
-"Uruk-hai Axes"
+"Haches Uruk-hai"
 END
 
 OBJECT:HordeIsengardUrukAxes
-"Uruk-hai Axes"
+"Haches Uruk-hai"
 END
 
 CONTROLBAR:ConstructIsengardUrukAxes
-"Uruk-hai Axes (&W)"
+"Haches Uruk-hai (&W)"
 END
 
 CONTROLBAR:ToolTipBuildIsengardUrukAxes
-"Strong vs. Pikemen\n\n These Uruk-hai carry large, cruel axes, and are utterly without mercy or reprieve. Their foes would be wise to make sure their scent is not caught."
+"Fort contre. Piquier\n Ces Uruk-hai portent de grandes et cruelles haches et sont sans pitié ni répit.\n Leurs ennemis feraient bien de s'assurer que leur odeur n'est pas été captée."
 END
 
 CONTROLBAR:HuntThemDown
-"Hunt Them Down (&W)"
+"Traquez-les ! (&W)"
 END
 CONTROLBAR:TooltipHuntThemDown
-"Requires Level 2\n Modifier Type: Weapon \n Uruk-hai Axes gain +25% damage and +15% speed for 20 seconds\nLeft click to activate"
+"Requiert : Niveau 2 \n Les haches Uruk-hai gagnent +25% de dégâts et +15% de vitesse pendant 20 secondes.\n Cliquer gauche pour activer."
 END
 
 OBJECT:HordeIsengardFighter
-"Fighting Uruk-hai"
+"Guerriers Uruk-Haï"
 END
 
 OBJECT:IsengardShieldBearer
-"Uruk-hai Shieldbearer"
+"Porteur de bouclier Uruk-hai"
 END
 
 OBJECT:HordeIsengardShieldBearer
-"Uruk-hai Shieldbearers"
+"Hordes de Porteur de bouclier Uruk-hai"
 END
 
 OBJECT:HordeIsengardFighterPikemenCombo
-"Uruk-hai - Uruk Pikemen"
+"Guerriers - Piquiers Uruk"
 END
 
 OBJECT:HordeIsengardCrossbowPikemanCombo
-"Uruk Crossbow - Uruk Pikemen"
+"Arbalétriers - Piquiers Uruk"
 END
 
 OBJECT:HordeIsengardFighterLadderCombo
-"Uruk-hai - Ladder"
+"Guerriers Uruk-Haï - Échelle de siège"
 END
 
 OBJECT:HordeIsengardPikemen
-"Uruk-hai Pikemen"
+"Piquiers Uruk"
 END
 
 OBJECT:HordeIsengardFighterCrossbowCombo
-"Uruk-hai - Uruk Crossbow"
+"Guerriers - Arbalétriers Uruk"
 END
 
 OBJECT:HordeIsengardWildmenCombo
-"Wildmen - Wildmen Axe Throwers"
+"Hommes sauvages - Lanceurs de hâches du Pays de Dun"
 END
 
 OBJECT:HordeIsengardCrossbow
-"Uruk-hai Crossbowmen"
+"Arbalétriers Uruk"
 END
 
 OBJECT:HordeIsengardWargRiders
-"Warg Riders"
+"Chevaucheurs de Wargs"
 END
 
 OBJECT:HordeWildMenOfDunland
-"Wildmen Of Dunland"
+"Homme Sauvage du Pays de Dun"
 END
 
 OBJECT:HordeWildmanANGRhudaur
-"Loyalist Rhudaur Hillmen"
+"Hommes des Collines loyalistes du Rhudaur"
 END
 
 OBJECT:HordeMordorOrcs
-"Orc Warriors"
+"Guerriers Orques"
 END
 
 OBJECT:HordeMordorEasterlings
@@ -26372,35 +26365,35 @@ OBJECT:HordeMordorEasterlings
 END
 
 OBJECT:HordeMordorArchers
-"Orc Archers"
+"Archers Orques"
 END
 
 OBJECT:HordeCorsairsOfUmbar
-"Corsairs Of Umbar"
+"Corsaires d'Umbar"
 END
 
 OBJECT:HordeMordorArcherFighterCombo
-"Orc Warrior - Orc Archer"
+"Guerriers Orques - Archers Orques"
 END
 
 OBJECT:HordeMordorArcherPikeCombo
-"Orc Pikemen - Orc Archer"
+"Piquiers Orques - Archers Orques"
 END
 
 OBJECT:HordeMordorFighterPikeCombo
-"Orc Warriors - Orc Pikemen"
+"Guerriers Orques - Piquiers Orques"
 END
 
 OBJECT:HordeMordorArcherUrukCombo
-"Black Uruk - Orc Archer"
+"Uruk Noirs - Archers Orques"
 END
 
 OBJECT:HordeMordorHaradrimCombo
-"Haradrim Spearmen - Haradrim Archers"
+"Lanciers Haradrim - Archers Haradrim"
 END
 
 OBJECT:HordeMordorEasterlingHaradrimCombo
-"Khân-pâlainax - Haradrim Archers"
+"Khân-pâlainax - Archers Haradrim"
 END
 
 OBJECT:HordeMordorEasterlingEasterlingCombo
@@ -26416,39 +26409,39 @@ OBJECT:HordeMordorEasterlingEasterlingCombo2
 END
 
 OBJECT:HordeMordorHaradrim
-"Haradrim Archers"
+"Archers Haradrim"
 END
 
 OBJECT:HordeMoriaGoblin
-"Moria Orc Screechers"
+"Hurleurs orques de la Moria"
 END
 
 OBJECT:HordeWildWargRiders
-"Gundabad Wolf-riders"
+"Chevaucheurs de Wargs de Gundabad"
 END
 
 OBJECT:HordeMordorFighterTowerCombo
-"Orc Warrior - Siege Tower"
+"Guerriers Orques - Tour de siège"
 END
 
 OBJECT:HordeGoblinArchers
-"Moria Orc Archers"
+"Archers Orques de la Moria"
 END
 
 OBJECT:HordeGoblinFighters
-"Moria Orc Screechers"
+"Hurleurs Orques de la Moria"
 END
 
 OBJECT:HordeGundabadArchers
-"Gundabad Archers"
+"Chasseurs de Gundabad"
 END
 
 OBJECT:HordeGundabadFighters
-"Gundabad Warriors"
+"Orques de Gundabad"
 END
 
 OBJECT:HordeGoblinArcherFighterCombo
-"Moria Orc Screechers - Moria Orc Archers"
+"Hurleurs de la Moria - Archers Orques de la Moria"
 END
 
 APT:MMTi
@@ -26467,38 +26460,31 @@ APT:YYYYTi
 END
 
 APT:ExitCredits
-// Context exit button on credits screen
-"Exit"
+"Quitter"
 END
 
 APT:PlayerLevel
-// Context: Players level on loading screen
-"Player Level"
+"Niveau du joueur"
 END
 
 APT:AcceptCreate
-// Context: When user creates an online game, dialog pops up, this is the accept button.
-"CREATE"
+"CREER"
 END
 
 APT:AcceptJoin
-// Context: When user joins an online game, dialog pops up for password, this is the accept button.
-"JOIN"
+"REJOINDRE"
 END
 
 APT:ScoreContinue
-// Context:  Continue button on score screen when game is complete
-"CONTINUE"
+"CONTINUER"
 END
 
 APT:OfficialLaddersSite
-// Context: Text Label for Official Ladder Web site button in Online Home screen
-"Official Ladder Site"
+"Site officiel des classements"
 END
 
 APT:OfficialLadderSite
-// Context: Text Label for Official Ladder Web site button in Online Home screen
-"Official Ladder Site"
+"Site officiel des classements"
 END
 
 //////////////////////////////////////////////
@@ -26506,373 +26492,380 @@ END
 //////////////////////////////////////////////
 
 BONUSROUND:ROHIRRIMBATTALIONS2
-"Bonus: Level up two Rohirrim to Level 2."
+"Bonus : faites passer deux bataillons de Rohirrims au niveau 2."
 END
 BONUSROUND:ROHIRRIMBATTALIONS3
-"Bonus: Level up two Rohirrim to Level 3."
+"Bonus : faites passer deux bataillons de Rohirrims au niveau 3."
 END
 BONUSROUND:ROHIRRIMBATTALIONS4
-"Bonus: Level up two Rohirrim to Level 4."
+"Bonus : faites passer deux bataillons de Rohirrims au niveau 4."
 END
 BONUSROUND:YEOMANARCHERS2
-"Bonus: Level up two Men of Dale battalions to Level 2."
+"Bonus : faites passer deux bataillons d'Hommes de Dale au niveau 2."
 END
 BONUSROUND:YEOMANARCHERS3
-"Bonus: Level up two Men of Dale battalions to Level 3."
+"Bonus : faites passer deux bataillons d'Hommes de Dale au niveau 3."
 END
 BONUSROUND:YEOMANARCHERS4
-"Bonus: Level up two Men of Dale battalions to Level 4."
+"Bonus : faites passer deux bataillons d'Hommes de Dale au niveau 4."
 END
 BONUSROUND:EOMER2
-"Bonus: Level up Eomer to Level 2."
+"Bonus : faites passer Éomer au niveau 2."
 END
 BONUSROUND:EOMER3
-"Bonus: Level up Eomer to Level 3."
+"Bonus : faites passer Éomer au niveau 3."
 END
 BONUSROUND:EOMER4
-"Bonus: Level up Eomer to Level 4."
+"Bonus : faites passer Éomer au niveau 4."
 END
 BONUSROUND:EOMER5
-"Bonus: Level up Eomer to Level 5."
+"Bonus : faites passer Éomer au niveau 5."
 END
 BONUSROUND:EOMER6
-"Bonus: Level up Eomer to Level 6."
+"Bonus : faites passer Éomer au niveau 6."
 END
 BONUSROUND:EOMER7
-"Bonus: Level up Eomer to Level 7."
+"Bonus : faites passer Éomer au niveau 7."
 END
 BONUSROUND:EOMER8
-"Bonus: Level up Eomer to Level 8."
+"Bonus : faites passer Éomer au niveau 8."
 END
 BONUSROUND:EOMER9
-"Bonus: Level up Eomer to Level 9."
+"Bonus : faites passer Éomer au niveau 9."
 END
 BONUSROUND:EOMER10
-"Bonus: Level up Eomer to Level 10."
+"Bonus : faites passer Éomer au niveau 10."
 END
 BONUSROUND:URUKHAIBATTALIONS2
 "Bonus: Level up two Uruk battalions to Level 2."
 END
 BONUSROUND:URUKHAIBATTALIONS3
-"Bonus: Level up two Uruk battalions to Level 3."
+"Bonus : faites passer deux bataillons d'Uruks au niveau 2."
 END
 BONUSROUND:URUKHAIBATTALIONS4
-"Bonus: Level up two Uruk battalions to Level 4."
+"Bonus : faites passer deux bataillons d'Uruks au niveau 4."
 END
 BONUSROUND:URUKCROSSBOWBATTALIONS2
-"Bonus: Level up two Uruk Crossbow battalions to Level 2."
+"Bonus : faites passer deux bataillons d'arbalétriers Uruks au niveau 2."
 END
 BONUSROUND:URUKCROSSBOWBATTALIONS3
-"Bonus: Level up two Uruk Crossbow battalions to Level 3."
+"Bonus : faites passer deux bataillons d'arbalétriers Uruks au niveau 3."
 END
 BONUSROUND:URUKCROSSBOWBATTALIONS4
-"Bonus: Level up two Uruk Crossbow battalions to Level 4."
+"Bonus : faites passer deux bataillons d'arbalétriers Uruks au niveau 4."
 END
 BONUSROUND:WARGBATTALIONS2
-"Bonus: Level up two Warg battalions to Level 2."
+"Bonus : faites passer deux bataillons de Wargs au niveau 2."
 END
 BONUSROUND:WARGBATTALIONS3
-"Bonus: Level up two Warg battalions to Level 3."
+"Bonus : faites passer deux bataillons de Wargs au niveau 3."
 END
 BONUSROUND:WARGBATTALIONS4
-"Bonus: Level up two Warg battalions to Level 4."
+"Bonus : faites passer deux bataillons de Wargs au niveau 4."
 END
 BONUSROUND:Faramir2
-"Bonus: Level up Faramir to Level 2."
+"Bonus : faites passer Faramir au niveau 2."
 END
 BONUSROUND:Faramir3
-"Bonus: Level up Faramir to Level 3."
+"Bonus : faites passer Faramir au niveau 3."
 END
 BONUSROUND:Faramir4
-"Bonus: Level up Faramir to Level 4."
+"Bonus : faites passer Faramir au niveau 4."
 END
 BONUSROUND:Faramir5
-"Bonus: Level up Faramir to Level 5."
+"Bonus : faites passer Faramir au niveau 5."
 END
 BONUSROUND:Faramir6
-"Bonus: Level up Faramir to Level 6."
+"Bonus : faites passer Faramir au niveau 6."
 END
 BONUSROUND:Faramir7
-"Bonus: Level up Faramir to Level 7."
+"Bonus : faites passer Faramir au niveau 7."
 END
 BONUSROUND:Faramir8
-"Bonus: Level up Faramir to Level 8."
+"Bonus : faites passer Faramir au niveau 8."
 END
 BONUSROUND:Faramir9
-"Bonus: Level up Faramir to Level 9."
+"Bonus : faites passer Faramir au niveau 9."
 END
 BONUSROUND:Faramir10
-"Bonus: Level up Faramir to Level 10."
+"Bonus : faites passer Faramir au niveau 10."
 END
 BONUSROUND:Saruman2
-"Bonus: Level up Saruman to Level 2."
+"Bonus : faites passer Saroumane au niveau 2."
 END
 BONUSROUND:Saruman3
-"Bonus: Level up Saruman to Level 3."
+"Bonus : faites passer Saroumane au niveau 3."
 END
 BONUSROUND:Saruman4
-"Bonus: Level up Saruman to Level 4."
+"Bonus : faites passer Saroumane au niveau 4."
 END
 BONUSROUND:Saruman5
-"Bonus: Level up Saruman to Level 5."
+"Bonus : faites passer Saroumane au niveau 5."
 END
 BONUSROUND:Saruman6
-"Bonus: Level up Saruman to Level 6."
+"Bonus : faites passer Saroumane au niveau 6."
 END
 BONUSROUND:Saruman7
-"Bonus: Level up Saruman to Level 7."
+"Bonus : faites passer Saroumane au niveau 7."
 END
 BONUSROUND:Saruman8
-"Bonus: Level up Saruman to Level 8."
+"Bonus : faites passer Saroumane au niveau 8."
 END
 BONUSROUND:Saruman9
-"Bonus: Level up Saruman to Level 9."
+"Bonus : faites passer Saroumane au niveau 9."
 END
 BONUSROUND:Saruman10
-"Bonus: Level up Saruman to Level 10."
+"Bonus : faites passer Saroumane au niveau 10."
 END
 BONUSROUND:Trolls2
-"Bonus: Level up two Trolls to Level 2."
+"Bonus : faites passer deux Trolls au niveau 2."
 END
 BONUSROUND:Trolls3
-"Bonus: Level up two Trolls to Level 3."
+"Bonus : faites passer deux Trolls au niveau 3."
 END
 BONUSROUND:Trolls4
-"Bonus: Level up two Trolls to Level 4."
+"Bonus : faites passer deux Trolls au niveau 4."
 END
 BONUSROUND:OrcHordes2
-"Bonus: Level up two Orc Hordes to Level 2."
+"Bonus : faites passer deux hordes d'Orques au niveau 2."
 END
 BONUSROUND:OrcHordes3
-"Bonus: Level up two Orc Hordes to Level 3."
+"Bonus : faites passer deux hordes d'Orques au niveau 3."
 END
 BONUSROUND:OrcHordes4
-"Bonus: Level up two Orc Hordes to Level 4."
+"Bonus : faites passer deux hordes d'Orques au niveau 4."
 END
 BONUSROUND:Mumakil2
-"Bonus: Level up two Mûmakil to Level 2."
+"Bonus : faites passer deux Mûmakils au niveau 2."
 END
 BONUSROUND:Mumakil3
-"Bonus: Level up two Mûmakil to Level 3."
+"Bonus : faites passer deux Mûmakils au niveau 3."
 END
 BONUSROUND:Mumakil4
-"Bonus: Level up two Mûmakil to Level 4."
+"Bonus : faites passer deux Mûmakils au niveau 4."
 END
 
 //Rohan Skirmish
 BONUSROUND:SPSGOODRohanENLIST
-"Bonus: Enlist the aid of the Rohan forces in this region."
+"Bonus : Enrôlez l'aide des forces du Rohan dans cette région."
 END
 BONUSROUND:SPSGOODRohanGARRISON
-"Bonus: Garrison the ruined towers with Men of Dales."
+"Bonus : Garnissez les tours en ruine avec des Hommes de Dale."
 END
 BONUSROUND:SPSGOODRohanEOMER
-"Bonus: Level up Eomer one level."
+"Bonus : Augmentez le niveau d'Eomer d'un niveau."
 END
 
 //EASTERN ROHAN SKIRMISH
 BONUSROUND:SPSGOODEASTERNROHANREFUGEE
-"Bonus: Save all Rohan Refugees."
+"Bonus : sauvez tous les réfugiés du Rohan."
 END
 BONUSROUND:SPSGOODEASTERNROHANFARMS
-"Bonus: Build 6 Farms."
+"Bonus : Construisez 6 fermes."
 END
 BONUSROUND:SPSGOODEASTERNROHANEOMER
-"Bonus: Level Eomer up one level."
+"Bonus : augmentez le niveau d'Eomer d'un niveau."
 END
 
 //WESTFOLD SKIRMISH
 BONUSROUND:SPSGOODWESTFOLDFARMS
-"Bonus: Build 6 Farms."
+"Bonus : Construisez 6 fermes."
 END
 BONUSROUND:SPSGOODWESTFOLDEOMER
-"Bonus: Level up Eomer one level."
+"Bonus : augmentez le niveau d'Eomer d'un niveau."
 END
 
 //LOTHLORIEN
 BONUSROUND:SPSGOODLOTHLORIENLUMBER
-"Bonus: Destroy enemy Lumber Mills."
+"Bonus : Détruisez les scieries ennemies."
 END
 BONUSROUND:SPSGOODLOTHLORIENRANK
-"Bonus: Increase all Heroes to Level 3."
+"Bonus : augmentez tous les héros au niveau 3."
 END
 
 
 //EASTFOLD
 BONUSROUND:SPSGOODEASTFOLDURUK
-"Bonus: Defeat Uruk-hai reinforcement army."
+"Bonus: Vaincre l'armée de renfort Uruk-hai."
 END
 BONUSROUND:SPSGOODEASTFOLDHEAVY
-"Bonus: Purchase heavy armour for 3 battalions."
+"Bonus : Achetez des armures lourdes pour 3 bataillons."
 END
 BONUSROUND:SPSGOODEASTFOLDLEVELUP
-"Bonus: Level up 3 battalions."
+"Bonus : Augmentez le niveau de 3 bataillons."
 END
 
 //AMON HEN
 BONUSROUND:SPSGOODAMONHENBOROMIR
-"Bonus: Save Boromir."
+"Bonus : sauvez Boromir."
 END
 
 //EAVES OF FANGORN
 BONUSROUND:FANGORNBONUSCOMBO
-"Bonus: Combine a horde of Uruk Crossbowmen with a horde of Uruk-hai."
+"Bonus : combinez une horde d'arbalétriers d'Uruk avec une horde d'Uruk-hai."
 END
 BONUSROUND:SPSGOODEAVESOFFANGORNRESCUE
-"Bonus: Rescue Merry and Pippin."
+"Bonus : Sauvez Merry et Pippin."
 END
 BONUSROUND:SPSGOODEAVESOFFANGORNLEVELUP
-"Bonus: Level up 3 battalions."
+"Bonus : Augmentez le niveau de 3 bataillons."
 END
 
 //EAST EMNET
 BONUSROUND:SPSGOODEASTEMNETWARG
-"Bonus: Destroy all Warg Riders that patrol this area."
+"Bonus : Détruisez tous les Chevaucheurs de Wargs qui patrouillent dans cette zone."
 END
 BONUSROUND:SPSGOODEASTEMNETEOMER
-"Bonus: Level up Eomer one level."
+"Bonus : augmentez le niveau d'Eomer d'un niveau."
 END
 BONUSROUND:SPSGOODEASTEMNETHEAVY
-"Bonus: Purchase heavy armour for 3 battalions."
+"Bonus : Achetez des armures lourdes pour 3 bataillons."
 END
 
 //WEST EMNET
 BONUSROUND:SPSGOODWESTEMNETEOMER
-"Bonus: Level up Eomer one level."
+"Bonus : augmentez le niveau d'Eomer d'un niveau."
 END
 BONUSROUND:SPSGOODWESTEMNETHEAVY
-"Bonus: Purchase heavy armour for 3 battalions."
+"Bonus : Achetez des armures lourdes pour 3 bataillons."
 END
 
 //DUNHARROW
 
 BONUSROUND:SPSGOODDUNHARROWREINFORCEMENTS
-"Bonus: Destroy the Isengard reinforcement army."
+"Bonus : Détruisez l'armée de renfort de l'Isengard."
 END
 BONUSROUND:SPSGOODDUNHARROWSHIELDS
-"Bonus: Purchase shields for 3 Rohirrim."
+"Bonus : Achetez des boucliers pour 3 bataillons de Rohirrim."
 END
 
 
 //FANGORN
 BONUSROUND:SPSGOODFANGORNENTS
-"Bonus: Make contact with the Ents."
+"Bonus : Prenez contact avec les Ents."
 END
 BONUSROUND:SPSGOODFANGORNROCKS
-"Bonus: Command your Ents to throw rocks."
+"Bonus : Ordonnez à vos Ents de lancer des pierres."
 END
 
-//HELM'S DEEP
+//GOUFFRE DE HELM
 BONUSROUND:SPSGOODHELMSDEEPEOMER
-"Bonus: Call in Eomer's Army when he arrives."
-END
-BONUSROUND:SPSGOODHELMSDEEPFIREARROWS
-"Bonus: Purchase fire arrows for 3 Archer battalions."
+"Bonus : Appelez l'armée d'Eomer quand il arrive."
 END
 
-//MOUTHS OF THE ENT WASH
+BONUSROUND:SPSGOODHELMSDEEPFIREARROWS
+"Bonus : Achetez des flèches de feu pour 3 bataillons d'archers."
+END
+
+
+//BOUCHES DE L'ENTWASH
 BONUSROUND:SPSGOODMOUTHSOFTHEENTWASHNAZGUL
-"Bonus: Destroy the Nazgûl in this region."
+"Bonus : Détruisez les Nazgûls dans cette région."
 END
+
 BONUSROUND:SPSGOODMOUTHSOFTHEENTWASHFORGEDBLADES
-"Bonus: Purchase forged blades for 3 battalions."
+"Bonus : Achetez des lames forgées pour 3 bataillons."
 END
+
 
 //WOLD
 BONUSROUND:SPSGOODWOLDGOBLINS
-"Bonus: Destroy the Goblins that infest this territory."
+"Bonus : Détruisez les Gobelins qui infestent ce territoire."
 END
+
 BONUSROUND:SPSGOODWOLDFORGEDBLADES
-"Bonus: Purchase forged blades for 3 battalions."
+"Bonus : Achetez des lames forgées pour 3 bataillons."
 END
+
 
 //ISENGARD
 BONUSROUND:SPSGOODISENGARDTREEBEARD
-"Bonus: Ensure Treebeard survives."
+"Bonus : Assurez-vous que Sylvebarbe survive."
 END
+
 
 //HALIFIRIEN
 BONUSROUND:SPSGOODHALIFIRIENEAGLES
-"Bonus: Contact the Eagles that dwell in this region."
+"Bonus : Contactez les aigles qui habitent cette région."
 END
+
 BONUSROUND:SPSGOODHALIFIRIENCOMBINE1
-"Bonus: Combine an Archer Battalion with a Peasant Battalion."
+"Bonus : Combinez un bataillon d'archers avec un bataillon de paysans."
 END
+
 BONUSROUND:SPSGOODHALIFIRIENCOMBINE2
-"Bonus: Combine an Archer Battalion with a Soldier Battalion."
+"Bonus : Combinez un bataillon d'archers avec un bataillon de soldats."
 END 
 
 
 //ANORIEN
-
-BONUSROUND:SPSGOODANORIENDESTORY
-"Bonus: Destroy the Easterlings in this region."
+"Bonus : Détruisez les Orientaux dans cette région."
 END
 BONUSROUND:SPSGOODANORIENCOMBINE1
-"Bonus: Combine a Men of Dale Battalion with a Peasant Battalion."
+"Bonus : Combinez un bataillon des hommes de Dale avec un bataillon de paysans."
 END
 BONUSROUND:SPSGOODANORIENCOMBINE2
-"Bonus: Combine an Archer Battalion with a Soldier Battalion."
+"Bonus : combinez un bataillon d'archers avec un bataillon de soldats."
 END
 
-//DRUADAN FOREST
+//FORET DE DRUADAN
 BONUSROUND:SPSGOODDRUADANFORESTRANK
-"Bonus: Level up 5 Battalions."
+"Bonus : Montez de niveau 5 bataillons."
 END
 
 
 //ITHILIEN
 BONUSROUND:SPSGOODITHILIENCAMP
-"Build a camp."
+"Construisez un campement."
 END
 BONUSROUND:SPSGOODITHILIENSURVIVE
-"Frodo and Sam must survive."
+"Frodon et Sam doivent survivre."
 END
 
 //EMYN MUIL
 BONUSROUND:SPSGOODEMYNMUILTROLLS
-"Bonus: Destroy the Mountain Trolls that lurk in this region."
+"Bonus : Détruisez les trolls des montagnes qui se cachent dans cette région."
 END
 BONUSROUND:SPSGOODEMYNMUILFORMATION
-"Bonus: Put a Soldier or Tower Guard Battalion in block formation."
+"Bonus : Mettez un bataillon de soldats ou un bataillon de gardes de la tour en formation de bloc."
 END
 
-//MIRKWOOD
+//LA FORET NOIRE 
 BONUSROUND:SPSGOODMIRKWOODELVES
-"Bonus: Make contact with the Elves that dwell in this forest."
+"Bonus : Prenez contact avec les Elfes qui habitent cette forêt."
 END
 BONUSROUND:SPSGOODMIRKWOODFIREARROWS
-"Bonus: Purchase fire arrows for 3 battalions."
+"Bonus : Achetez des flèches de feu pour 3 bataillons d'archers."
 END
 
 //OSGILIATH
 BONUSROUND:SPSGOODOSGILIATHFARAMIR
-"Bonus: Call in Faramir's Army when he arrives."
+"Bonus : Appelez l'armée de Faramir quand il arrive."
 END
 BONUSROUND:SPSGOODOSGILIATHFORMATION
-"Bonus: Change the formation of a battalion of infantry."
+"Bonus : Modifiez la formation d'un bataillon d'infanterie."
 END
 
-//DEAD MARSHES
+//MARAIS DES MORTS
 BONUSROUND:SPSGOODDEADMARSHESFIREARROWS
-"Bonus: Purchase fire arrows for 3 battalions."
+"Bonus : Achetez des flèches de feu pour 3 bataillons d'archers."
 END
 BONUSROUND:SPSGOODDEADMARSHESSENTRY
-"Bonus: Build 4 Sentry Towers."
+"Bonus : Construisez 4 tours de sentinelles."
 END
 BONUSROUND:SPSGOODDEADMARSHESSCARCE
-"Note: Resources are scarce in this region."
+"Remarque : Les ressources sont rares dans cette région."
 END
 BONUSROUND:SPSGOODDEADMARSHESCAVALRY
-"Note: Cavalry cannot be built."
+"Remarque : La cavalerie ne peut pas être recrutée ici."
 END
 
 //CAIR ANDROS
 BONUSROUND:SPSGOODANDROSNUMENOREAN
-"Bonus: Reinforce your castle walls with Númenórean Stonework."
+"Bonus : renforcez les murs de votre château avec la Pierre Numénorienne."
 END
 BONUSROUND:SPSGOODANDROSBANNERS
-"Bonus: Purchase banners for 3 battalions."
+"Bonus : Achetez des Portes-Etendards de feu pour 3 bataillons."
 END
 
 //SHELOB'S LAIR
@@ -35269,12 +35262,12 @@ End
 
 CONTROLBAR:ToolTipConstructMordorBattleTower
 //"Short range defensive tower"
-"Defensive tower that fires arrows at nearby enemies\n\nWhen Sauron returned to Mordor, he ordered the construction of massive, terrible towers, meant to keep a watchful eye upon the bordering lands of Gondor."
+"Tour défensive qui tire des flèches sur les ennemis proches.\n\nWhen Sauron returned to Mordor, he ordered the construction of massive, terrible towers, meant to keep a watchful eye upon the bordering lands of Gondor."
 End
 
 CONTROLBAR:ToolTipConstructGuldurRuinousTower
 //"Short range defensive tower"
-"Defensive tower that fires arrows at nearby enemies \n Stealthed near trees \n Generates a small amount of resources based on available terrain \n Reduces cost of Shades"
+"Tour défensive qui tire des flèches sur les ennemis proches. \n Stealthed near trees \n Generates a small amount of resources based on available terrain \n Reduces cost of Shades"
 End
 
 OBJECT:GuldurRuinousTower
@@ -36465,7 +36458,7 @@ OBJECT:IsengardFortressDescription
 End
 
 OBJECT:IsengardLumberMillDescription
-"Harvests resources from nearby trees \n Reduces cost of buildings\n 2 Lumber Mills: 5%\n 3 Lumber Mills: 10%\n 4 Lumber Mills: 15%"
+"Récolte des ressources avec les arbres alentours. \n Réduit le coût des bâtiments : \n 2 Scieries: -5% \n 3 Scieries: -10% \n 4 Scieries: -15%"
 End
 
 OBJECT:IsengardMineLauncherExpansion
@@ -51654,7 +51647,7 @@ OBJECT:ArnorFarmDescription
 END
 
 OBJECT:ArnorBarracksDescription
-"Level 2: +10% faster build speed\n Level 3: +25% faster build speed"
+"Niveau 2 : vitesse de construction +10%. \n Niveau 3 : vitesse de construction +25%."
 END
 
 OBJECT:ArnorArcheryRangeDescription
@@ -51666,7 +51659,7 @@ OBJECT:ArnorStablesDescription
 END
 
 OBJECT:ArnorWorkshopDescription
-"Level 2: +10% faster build speed\n Level 3: +25% faster build speed"
+"Niveau 2 : vitesse de construction +10%. \n Niveau 3 : vitesse de construction +25%."
 END
 
 OBJECT:ArnorBlacksmithDescription
@@ -51686,7 +51679,7 @@ OBJECT:ArnorWellDescription
 END
 
 OBJECT:ArnorBattleTowerDescription
-"Defensive tower that fires arrows at nearby enemies"
+"Tour défensive qui tire des flèches sur les ennemis proches."
 END
 
 ///////////////
@@ -52497,7 +52490,7 @@ CONTROLBAR:ConstructAngmarDen
 END
 
 OBJECT:AngmarDenDescription
-"Level 2: +10% faster build speed\n Level 3: +25% faster build speed"
+"Niveau 2 : vitesse de construction +10%. \n Niveau 3 : vitesse de construction +25%."
 END
 
 CONTROLBAR:UpgradeAngmarDenLevel2
@@ -52549,7 +52542,7 @@ CONTROLBAR:ConstructHallofTwilight
 END
 
 OBJECT:AngmarHallofTwilightDescription
-"Level 2: +10% faster build speed\n Level 3: +25% faster build speed"
+"Niveau 2 : vitesse de construction +10%. \n Niveau 3 : vitesse de construction +25%."
 END
 
 CONTROLBAR:ToolTipAngmarHallofTwilight
@@ -52597,7 +52590,7 @@ CONTROLBAR:ConstructAngmarForgeWorksWotRRealTime
 END
 
 OBJECT:AngmarForgeWorksDescription
-"Level 2: +10% faster build speed\n Level 3: +25% faster build speed"
+"Niveau 2 : vitesse de construction +10%. \n Niveau 3 : vitesse de construction +25%."
 END
 
 CONTROLBAR:ToolTipForgeWorks
@@ -52647,7 +52640,7 @@ CONTROLBAR:LW_Unit_AngmarThrallMasterPlural
 END
 
 OBJECT:AngmarMillDescription
-"Level 2: +10% faster build speed\n Level 3: +25% faster build speed"
+"Niveau 2 : vitesse de construction +10%. \n Niveau 3 : vitesse de construction +25%."
 END
 
 CONTROLBAR:ToolTipMill
@@ -52829,11 +52822,11 @@ END
 
 
 OBJECT:AngmarBarracksDescription
-"Level 2: +10% faster build speed\n Level 3: +25% faster build speed"
+"Niveau 2 : vitesse de construction +10%. \n Niveau 3 : vitesse de construction +25%."
 END
 
 OBJECT:AngmarHallofTwilightDescription
-"Level 2: +10% faster build speed\n Level 3: +25% faster build speed"
+"Niveau 2 : vitesse de construction +10%. \n Niveau 3 : vitesse de construction +25%."
 END
 
 
@@ -54218,7 +54211,7 @@ OBJECT:IsengardTavern
 END
 
 OBJECT:IsengardTavernDescription
-"Level 2: +10% faster build speed\n Level 3: +25% faster build speed"
+"Niveau 2 : vitesse de construction +10%. \n Niveau 3 : vitesse de construction +25%."
 END
 
 CONTROLBAR:UpgradeIsengardTavernLevel2
@@ -54254,7 +54247,7 @@ OBJECT:IsengardLonghouse
 END
 
 OBJECT:IsengardLonghouseDescription	
-"Level 2: +10% faster build speed\n Level 3: +25% faster build speed"
+"Niveau 2 : vitesse de construction +10%. \n Niveau 3 : vitesse de construction +25%."
 END
 
 CONTROLBAR:ConstructIsengardLonghouse
@@ -58611,7 +58604,7 @@ CONTROLBAR:ToolTipBuildRohanWorkshopLevel3Upgrade
 END
 OBJECT:GondorBlacksmithDescription
 //"Researches Men of the West unit upgrades"
-//"Level 2: +10% faster build speed\n Level 3: +25% faster build speed\n Reduces the cost of upgrades"
+//"Niveau 2 : vitesse de construction +10%. \n Niveau 3 : vitesse de construction +25%.\n Reduces the cost of upgrades"
 "Researches weapons and armour upgrades \n Provides worked metals as a resource based on available terrain \n Steel Bonus - Reduced cost of upgrades \n 2 Blacksmiths: 5% \n 3 Blacksmiths: 10% \n 4 Blacksmiths: 15% \n 5 Blacksmiths: 20% \n 6+ Blacksmiths: 25%"
 END
 CONTROLBAR:ToolTipBuildGondorForgeLevel2Upgrade
@@ -58898,7 +58891,7 @@ CONTROLBAR:ToolTipBuildHiddenSenctumLevel3
 END
 OBJECT:ErgionForgeDescription
 //"Researches unit upgrades"
-//"Level 2: +10% faster build speed\n Level 3: +25% faster build speed"
+//"Niveau 2 : vitesse de construction +10%. \n Niveau 3 : vitesse de construction +25%."
 "Generates resources based on available terrain\n Stock Bonus - Reduced cost of upgrades \n 2 Storehouses: 5% \n 3 Storehouses: 10% \n 4 Storehouses: 15% \n 5 Storehouses: 20% \n 6+ Storehouses: 25%"
 END
 CONTROLBAR:ToolTipBuildEregionForgeLevel3
@@ -59190,7 +59183,7 @@ End
 
 OBJECT:DwarvenSentryTowerDescription
 //"Fires at nearby enemy units"
-"Defensive tower that fires arrows at nearby enemies"
+"Tour défensive qui tire des flèches sur les ennemis proches."
 END
 CONTROLBAR:PurchaseUpgradeSentryTowerForgedBlades
 //"Forged B&lades Upgrade"
@@ -59371,7 +59364,7 @@ End
 
 OBJECT:IsengardArmoryDescription
 //"Researches Isengard unit upgrades"
-//"Level 2: +10% faster build speed\n Level 3: +25% faster build speed"
+//"Niveau 2 : vitesse de construction +10%. \n Niveau 3 : vitesse de construction +25%."
 "Generates resources based on available terrain\n Surplus Bonus - Reduced cost of upgrades \n 2 Armouries: 5% \n 3 Armouries: 10% \n 4 Armouries: 15% \n 5+ Armouries: 20%"
 END
 CONTROLBAR:ToolTipBuildIsengardArmoryLevel3
@@ -59895,7 +59888,7 @@ END
 
 OBJECT:WildTreasureTroveDescription
 //"Researches unit upgrades"
-//"Level 2: +10% faster build speed\n Level 3: +25% faster build speed"
+//"Niveau 2 : vitesse de construction +10%. \n Niveau 3 : vitesse de construction +25%."
 "Generates resources based on available terrain\n Treasure Bonus - Reduced cost of upgrades \n 2 Troves: 5% \n 3 Troves: 10% \n 4 Troves: 15% \n 5+ Troves: 20%"
 END
 TOOLTIP:LackWildBasicTraining
@@ -59905,7 +59898,7 @@ END
 
 OBJECT:WildSentryTowerDescription
 //"Fires arrows at nearby enemies"
-"Defensive tower that fires arrows at nearby enemies"
+"Tour défensive qui tire des flèches sur les ennemis proches."
 END
 
 CONTROLBAR:ToolTipConstructWildBurrowsExpansion
@@ -60297,7 +60290,7 @@ End
 
 OBJECT:AngmarSentryTowerDescription
 //"Fires Arrows at nearby enemies"
-"Defensive tower that fires arrows at nearby enemies"
+"Tour défensive qui tire des flèches sur les ennemis proches."
 End
 CONTROLBAR:PurchaseTechnologyAngmarIceArrowsForBattleTower
 "Ice Arro&ws"
@@ -75395,19 +75388,19 @@ CONTROLBAR:ToolTipBuildWildMountainOrcScoutHorde
 END
 
 CONTROLBAR:ToolTipConstructGenericSentryTower
-"Defensive tower that fires arrows at nearby enemies \n Can be garrisoned with archers to increase damage output"
+"Tour défensive qui tire des flèches sur les ennemis proches. \n Can be garrisoned with archers to increase damage output"
 END
 
 CONTROLBAR:ToolTipConstructTalan
-"Defensive tower that fires arrows at nearby enemies \n Can be garrisoned with archers to increase damage output \n Passively increases production of nearby Mallorn Trees by 10%"
+"Tour défensive qui tire des flèches sur les ennemis proches. \n Can be garrisoned with archers to increase damage output \n Passively increases production of nearby Mallorn Trees by 10%"
 END
 
 CONTROLBAR:ToolTipConstructHaradSentryTower
-"Defensive tower that fires arrows at nearby enemies \n Can be garrisoned with archers to increase damage output"
+"Tour défensive qui tire des flèches sur les ennemis proches. \n Can be garrisoned with archers to increase damage output"
 END
 
 OBJECT:GenericSentryTowerDescription
-"Defensive tower that fires arrows at nearby enemies \n Can be garrisoned with archers to increase damage output"
+"Tour défensive qui tire des flèches sur les ennemis proches. \n Can be garrisoned with archers to increase damage output"
 END
 
 CONTROLBAR:CampaignSpawnTornado
@@ -76137,7 +76130,7 @@ OBJECT:GuldurGaol
 END
 
 OBJECT:GuldurGaolDescription
-"Level 2: +10% faster build speed\n Level 3: +25% faster build speed"
+"Niveau 2 : vitesse de construction +10%. \n Niveau 3 : vitesse de construction +25%."
 END
 
 CONTROLBAR:ConstructGuldurGaol
@@ -77085,7 +77078,7 @@ OBJECT:GuldurSorceryTower
 END
 
 OBJECT:GuldurSorceryTowerDescription
-"Level 2: +10% faster build speed\n Level 3: +25% faster build speed"
+"Niveau 2 : vitesse de construction +10%. \n Niveau 3 : vitesse de construction +25%."
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeGuldurBasicTraining
@@ -78307,7 +78300,7 @@ OBJECT:MirkwoodTrainingGrounds
 END
 
 OBJECT:MirkwoodTrainingGroundsDescription
-"Level 2: +10% faster build speed\n Level 3: +25% faster build speed"
+"Niveau 2 : vitesse de construction +10%. \n Niveau 3 : vitesse de construction +25%."
 END
 
 CONTROLBAR:ConstructMirkwoodTrainingGrounds2Upgrade
@@ -78359,7 +78352,7 @@ OBJECT:ElvenkingBarracks
 END
 
 OBJECT:MirkwoodRoyalBarracksDescription
-"Level 2: +10% faster build speed\n Level 3: +25% faster build speed"
+"Niveau 2 : vitesse de construction +10%. \n Niveau 3 : vitesse de construction +25%."
 END
 
 CONTROLBAR:ConstructMirkwoodRoyalBarracks2Upgrade

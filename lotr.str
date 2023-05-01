@@ -17476,7 +17476,7 @@ OBJECT:GondorFarm
 END
 
 OBJECT:GondorFarmDescription
-"Réduit le coût de la cavalerie : \n 2 fermes : -5% \n 3 fermes : -10% \n 4 fermes : -15% \n 5 fermes : -20% \n 6+ fermes : -25%"
+"Réduit le coût de la cavalerie : \n 2 fermes : -10% \n 3 fermes : -15% \n 4 fermes : -20% \n 5 fermes : -25% \n 6+ fermes : -30%"
 END
 
 
@@ -17944,7 +17944,7 @@ OBJECT:GondorHeroStatue
 END
 
 OBJECT:GondorStatueDescription
-"Les alliés proches de la statue gagnent +50% de dégâts, +50% d'armure et gagnent de l'expérience deux fois plus rapidement. \n\n Ne peut pas s'utiliser avec d'autres bonus. \n Réduit le coût des héros."
+"Les alliés proches de la statue gagnent +50% de dégâts, +50% d'armure et gagnent de l'expérience deux fois plus rapidement. \n\n Réduit le coût des héros."
 END
 
 
@@ -18028,7 +18028,7 @@ OBJECT:GondorStoneMaker
 END
 
 OBJECT:GondorStoneworkerDescription
-"Réduit le coût des bâtiments : \n 1 tailleur : -5% \n 2 tailleurs : -10% \n 3 tailleurs : -15% \n 4 tailleurs : -20% \n 5+ tailleurs : -25%"
+"Génère des ressources basées sur le terrain disponible. \n Réduit le coût des bâtiments : \n 1 tailleur : -5% \n 2 tailleurs : -10% \n 3 tailleurs : -15% \n 4 tailleurs : -20% \n 5+ tailleurs : -25%"
 END
 
 CONTROLBAR:StoneWorkerLeadership
@@ -18460,7 +18460,7 @@ OBJECT:GondorLancer
 End
 
 OBJECT:HordeGondorLancer
-"Lanciers de l'Anórien"
+"Lanciers de Minas Tirith"
 END
 
 OBJECT:GondorSpearmen
@@ -18476,15 +18476,15 @@ BANNERUI:PluralGondorSpearmen
 END
 
 OBJECT:HordeGondorSpearmenCombo
-"Lanciers de l'Anórien"
+"Lanciers de Minas Tirith"
 END
 
 CONTROLBAR:LW_Unit_GondorSpearmenHordeCombo
-"Bataillon combiné de Lanciers de l'Anórien"
+"Bataillon combiné de Lanciers de Minas Tirith"
 END
 
 CONTROLBAR:LW_Unit_GondorSpearmenHordeComboPlural
-"Bataillons combiné de Lanciers de l'Anórien"
+"Bataillons combiné de Lanciers de Minas Tirith"
 END
 
 CONTROLBAR:LW_ToolTip_GondorSpearmenHordeCombo
@@ -18564,7 +18564,7 @@ OBJECT:GondorArcher
 END
 
 OBJECT:HordeGondorArcher
-"Archers de l'Anórien"
+"Archers de Minas Tirith"
 END
 
 CONTROLBAR:ConstructGondorArcher
@@ -18572,15 +18572,15 @@ CONTROLBAR:ConstructGondorArcher
 END
 
 OBJECT:HordeGondorArcherCombo
-"Archers de l'Anórien"
+"Archers de Minas Tirith"
 END
 
 CONTROLBAR:LW_Unit_GondorArcherHorde
-"Bataillon d'archers de l'Anórien"
+"Bataillon d'archers de Minas Tirith"
 END
 
 CONTROLBAR:LW_Unit_GondorArcherHordePlural
-"Bataillons d'archers de l'Anórien"
+"Bataillons d'archers de Minas Tirith"
 END
 
 CONTROLBAR:LW_ToolTip_GondorArcherHorde
@@ -18702,7 +18702,7 @@ OBJECT:GondorKnights
 End
 
 OBJECT:HordeGondorKnight
-"Chevaliers de l'Anórien"
+"Chevaliers de Minas Tirith"
 END
 
 OBJECT:GondorCavalryRiderless
@@ -20980,7 +20980,7 @@ OBJECT:RohanWell
 End
 
 OBJECT:RohanWellDescription
-"Soigne les alliés proches. \n Détecte les unités furtives. \n Augmente la production de ressources des fermes et des moulins proches. \n Augmente la limite de points de commandement de 10."
+"Soigne les alliés proches. \n Détecte les unités furtives. \n Augmente la production de ressources des fermes et des moulins proches."
 END
 
 
@@ -21000,7 +21000,7 @@ OBJECT:RohanHeroStatue
 END
 
 OBJECT:RohanStatueDescription
-"Les alliés proches de la statue gagnent +50% de dégâts, +50% d'armure, et gagnent de l'expérience deux fois plus rapidement. \n\n Ne peut pas s'utiliser avec d'autres bonus."
+"Les alliés proches de la statue gagnent +50% de dégâts, +50% d'armure, et gagnent de l'expérience deux fois plus rapidement."
 END
 
 
@@ -21409,7 +21409,7 @@ OBJECT:RohanRohirrim
 END
 
 OBJECT:HordeRohanRohirrim
-"Rohirrims"
+"Guerriers Rohirrims"
 END
 
 CONTROLBAR:LW_Unit_RohanRohirrimHorde
@@ -24453,7 +24453,7 @@ OBJECT:DwarvenStatue
 END
 
 OBJECT:DwarvenStatueDescription
-"Les alliés proches de la statue gagnent +50% de dégâts, +50% d'armure, et gagnent de l'expérience deux fois plus rapidement. \n Ne peut pas s'utiliser avec d'autres bonus."
+"Les alliés proches de la statue gagnent +50% de dégâts, +50% d'armure, et gagnent de l'expérience deux fois plus rapidement."
 END
 
 
@@ -24618,7 +24618,7 @@ CONTROLBAR:ToolTipConstructDwarvenHearth
 END
 
 OBJECT:DwarvenHearthDescription
-"Les alliés proches du foyer gagnent +50% de dégâts et +50% d'armure .\n Ne peut pas s'utiliser avec d'autres bonus. \n Réduit le coût des machines de guerre : \n 3 Foyers: -10% \n 5 Foyers: -20% \n 7 Foyers: -30% \n 10 Foyers: -40%"
+"Les alliés proches du foyer gagnent +50% de dégâts et +50% d'armure \n Réduit le coût des machines de guerre : \n 3 Foyers: -10% \n 5 Foyers: -20% \n 7 Foyers: -30% \n 10 Foyers: -40%"
 END
 
 
@@ -37876,11 +37876,11 @@ CONTROLBAR:LW_Unit_MordorArcherPikeHordePlural
 END
 
 OBJECT:HordeMordorArcherFighterCombo
-"Guerriers - Archers Orques"
+"Guerriers Orques - Archers Orques"
 END
 
 OBJECT:HordeMordorArcherPikeCombo
-"Piquiers - Archers Orques"
+"Piquiers Orques - Archers Orques"
 END
 
 OBJECT:HordeMordorArcherUrukCombo
@@ -63923,7 +63923,7 @@ LWA:Dwarves
 End
 
 LWA:Mirkwood
-"Royaume des Forêts 2b"
+"Royaume des Forêts"
 End
 
 LWA:CorruptedWild
@@ -63935,7 +63935,7 @@ LWA:MenOfTheWestGarrison
 End
 
 LWA:Army
-"Armée 6b"
+"Armée"
 End
 
 LWA:HeroArmy
@@ -64061,7 +64061,7 @@ OBJECT:HordeBlackrootValeArcher
 END
 
 OBJECT:HordeGondorSoldier
-"Soldats de l'Anórien"
+"Soldats de Minas Tirith"
 END
 
 OBJECT:HordeGondorTowerGuard
@@ -64069,15 +64069,15 @@ OBJECT:HordeGondorTowerGuard
 END
 
 OBJECT:HordeGondorSoldierCombo
-"Soldats de l'Anórien"
+"Soldats de Minas Tirith"
 END
 
 CONTROLBAR:LW_Unit_GondorFighterHordeCombo
-"Bataillon combiné de soldats de l'Anórien"
+"Bataillon combiné de soldats de Minas Tirith"
 END
 
 CONTROLBAR:LW_Unit_GondorFighterHordeComboPlural
-"Bataillons combiné de soldats de l'Anórien"
+"Bataillons combiné de soldats de Minas Tirith"
 END
 
 CONTROLBAR:LW_ToolTip_GondorFighterHordeCombo
@@ -64085,11 +64085,11 @@ CONTROLBAR:LW_ToolTip_GondorFighterHordeCombo
 END
 
 CONTROLBAR:LW_Unit_GondorArcherHordeCombo
-"Bataillon combiné d'archers de l'Anórien"
+"Bataillon combiné d'archers de Minas Tirith"
 END
 
 CONTROLBAR:LW_Unit_GondorArcherHordeComboPlural
-"Bataillons combiné d'archers de l'Anórien"
+"Bataillons combiné d'archers de Minas Tirith"
 END
 
 CONTROLBAR:LW_ToolTip_GondorArcherHordeCombo
@@ -64097,15 +64097,15 @@ CONTROLBAR:LW_ToolTip_GondorArcherHordeCombo
 END
 
 OBJECT:HordeGondorSoldierArcherCombo
-"Soldat de l'Anórien - Archers de l'Anórien"
+"Soldat de Minas Tirith - Archers de Minas Tirithn"
 END
 
 CONTROLBAR:LW_Unit_GondorFighterArcherHorde
-"Soldat de l'Anórien - Bataillon d'Archers de l'Anórien"
+"Soldat de Minas Tirith - Bataillon d'Archers de Minas Tirith"
 END
 
 CONTROLBAR:LW_Unit_GondorFighterArcherHordePlural
-"Soldat de l'Anórien - Bataillons d'Archers de l'Anórien"
+"Soldat de Minas Tirith - Bataillons d'Archers de Minas Tirith"
 END
 
 CONTROLBAR:LW_ToolTip_GondorFighterArcherHorde
@@ -64113,15 +64113,15 @@ CONTROLBAR:LW_ToolTip_GondorFighterArcherHorde
 END
 
 OBJECT:HordeGondorSpearmenArcherCombo
-"Piquiers de l'Anórien - Archers de l'Anórien"
+"Piquiers de Minas Tirith - Archers de Minas Tirith"
 END
 
 CONTROLBAR:LW_Unit_GondorFighterSpearmenHorde
-"Piquiers de l'Anórien - Bataillon d'Archers de l'Anórien Horde"
+"Piquiers de Minas Tirith - Bataillon d'Archers de Minas Tirith Horde"
 END
 
 CONTROLBAR:LW_Unit_GondorFighterSpearmenHordePlural
-"Piquiers de l'Anórien - Bataillons d'Archers de l'Anórien Horde"
+"Piquiers de Minas Tirith - Bataillons d'Archers de Minas Tirithn Horde"
 END
 
 CONTROLBAR:LW_ToolTip_GondorFighterSpearmenHorde
@@ -64129,19 +64129,19 @@ CONTROLBAR:LW_ToolTip_GondorFighterSpearmenHorde
 END
 
 OBJECT:HordeGondorSpearmenRangerCombo
-"Piquiers de l'Anórien - Horde de Rôdeurs Ithilien"
+"Piquiers de Minas Tirith - Horde de Rôdeurs Ithilien"
 END
 
 OBJECT:HordeGondorFighterDoubleCombo
-"Soldats de l'Anórien - Piquiers de l'Anórien"
+"Soldats de Minas Tirith - Piquiers de Minas Tirith"
 END
 
 CONTROLBAR:LW_Unit_GondorFighterDoubleCombo
-"Soldats de l'Anórien - Bataillon Piquiers de l'Anórien"
+"Soldats de Minas Tirith - Bataillon Piquiers de Minas Tirith"
 END
 
 CONTROLBAR:LW_Unit_GondorFighterDoubleComboPlural
-"Soldats de l'Anórien - Bataillons Piquiers de l'Anórien"
+"Soldats de Minas Tirith - Bataillons Piquiers de Minas Tirith"
 END
 
 CONTROLBAR:LW_ToolTip_GondorFighterDoubleCombo
@@ -64149,15 +64149,15 @@ CONTROLBAR:LW_ToolTip_GondorFighterDoubleCombo
 END
 
 OBJECT:HordeGondorSoldierPikemenCombo
-"Soldats de l'Anórien - Piquiers de l'Anórien"
+"Soldats de Minas Tirith - Piquiers de Minas Tirith"
 END
 
 OBJECT:HordeGondorSoldierRangerCombo
-"Soldats de l'Anórien - Horde de Rôdeurs Ithilien"
+"Soldats de Minas Tirith - Horde de Rôdeurs Ithilien"
 END
 
 OBJECT:HordeGondorSoldierTrebuchetCombo
-"Soldats de l'Anórien - Horde de Trébuchet"
+"Soldats de Minas Tirith - Horde de Trébuchet"
 END
 
 OBJECT:HordeGondorTowerGuardTrebuchetCombo
@@ -64165,15 +64165,15 @@ OBJECT:HordeGondorTowerGuardTrebuchetCombo
 END
 
 OBJECT:HordeGondorSoldierKnightCombo
-"Soldats de l'Anórien - Cavaliers de l'Anórien"
+"Soldats de Minas Tirith - Cavaliers de l'Anórien"
 END
 
 OBJECT:HordeGondorTowerGuardKnightCombo
-"Bataillon de Gardes de la Citadelle - Cavaliers de l'Anórien"
+"Bataillon de Gardes de la Citadelle - Cavaliers de Minas Tirith"
 END
 
 OBJECT:HordeGondorTowerGuardArcherCombo
-"Garde de la Citadelle de Minas Tirith - Horde d'Archers de l'Anórien"
+"Garde de la Citadelle de Minas Tirith - Horde d'Archers de Minas Tirith"
 END
 
 OBJECT:HordeGondorTowerGuardRangerCombo
