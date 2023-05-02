@@ -8325,11 +8325,11 @@ CONTROLBAR:SwoopAttack
 End
 
 CONTROLBAR:ChargeAttack
-"Charge Attack (&W)"
+"Charge (&W)"
 END
 
 CONTROLBAR:ChargeAttackHaradwaith
-//"Charge Attack (&W)"
+//"Charge (&W)"
 "Warbeast of the South (&W)"
 END
 
@@ -15831,7 +15831,7 @@ CONTROLBAR:TooltipSlaughterhouseUnpack
 END
 
 CONTROLBAR:ConstructMenPorter
-"Builder (&W)"
+"Bâtisseur (&W)"
 END
 
 CONTROLBAR:ConstructMenPorterAIFake
@@ -15931,7 +15931,7 @@ OBJECT:RohanWorkshopDescription
 END
 
 CONTROLBAR:ConstructMenSentryTower
-"Build Battle Tower (&Y)"
+"Construire une Tour de guerre (&Y)"
 END
 
 CONTROLBAR:ToolTipConstructMenSentryTower
@@ -15943,11 +15943,11 @@ CONTROLBAR:ToolTipConstructMenWallHub
 END
 
 CONTROLBAR:ToolTipConstructMenFortress
-"Recruits Builders and Heroes \n Can be upgraded with improvements and expansions \n Increases command point limit by 100"
+"Recrute des héros et des bâtisseurs. \n Peut recevoir des améliorations et des extensions. \n Augmente la limite de points de commandement de 100."
 END
 
 CONTROLBAR:ToolTipConstructMenFortressWOTR
-"Recruits Builders and revives Heroes \n Generates 100 resources per tick \n Increases command point limit by 900"
+"Recrute des bâtisseurs et ranime des héros. \n Génère 100 ressources par tic \n Augmente la limite de points de commandement de 900."
 END
 
 CONTROLBAR:ConstructMenWell
@@ -16553,11 +16553,11 @@ CONTROLBAR:ConstructWildWildSpiderPitWotRRealTime
 END
 
 CONTROLBAR:ConstructWildFortress
-"Build Fortress (&I)"
+"Construire une Forteresse (&I)"
 END
 
 CONTROLBAR:ConstructWildFortressWOTR
-"Build Outpost (&I)"
+"Construire un Avant-Poste (&I)"
 END
 
 CONTROLBAR:ConstructGuldurFortress
@@ -16569,11 +16569,11 @@ CONTROLBAR:ConstructGuldurFortressWOTR
 END
 
 CONTROLBAR:ToolTipConstructWildFortress
-"Recruits Builders and Heroes \n Can be upgraded with improvements and expansions \n Increases command point limit by 100"
+"Recrute des héros et des bâtisseurs. \n Peut recevoir des améliorations et des extensions. \n Augmente la limite de points de commandement de 100."
 END
 
 CONTROLBAR:ToolTipConstructWildFortressWOTR
-"Recruits Builders and revives Heroes \n Generates 100 resources per tick \n Increases command point limit by 900"
+"Recrute des bâtisseurs et ranime des héros. \n Génère 100 ressources par tic \n Augmente la limite de points de commandement de 900."
 END
 
 CONTROLBAR:ConstructWildTreasureTrove
@@ -17724,7 +17724,7 @@ CONTROLBAR:ConstructMordorGrond
 "Grond (&T)"
 END
 CONTROLBAR:ConstructMordorBannerOrc
-"Banner Carrier"
+"Porte-étendard"
 END
 
 CONTROLBAR:ToolTipBuildMordorHaradrimHorde
@@ -17752,7 +17752,7 @@ CONTROLBAR:ToolTipBuildMordorHaradrimSpearHorde
 END
 
 CONTROLBAR:ConstructMordorPorter
-"Builder (&W)"
+"Bâtisseur (&W)"
 END
 
 CONTROLBAR:ToolTipBuildMordorPorter
@@ -17835,51 +17835,51 @@ END
 //"Gothmog"
 //END
 CONTROLBAR:ToolTipBuildNazgulOnFellBeast		
-"Recruit a Fellbeast"					
+"Recrutez une Ombre Ailée"				
 END
 CONTROLBAR:MordorFellBeastRecruit			
-"Recruit a Fellbeast"					
+"Recrutez une Ombre Ailée"				
 END
 CONTROLBAR:MordorFellBeastRevive			
-"Revive the fallen Fellbeast"						
+"Rappelez l'Ombre Ailée à la vie"						
 END
 CONTROLBAR:MordorFellBeastHotkey			
-"&Fellbeast"						
+"Ombre Ailée"						
 END
 CONTROLBAR:MordorMouthofSauronHotkey
-"Mouth of Sauron (&D)"
+"La Bouche de Sauron (&D)"
 END
 CONTROLBAR:MordorMouthofSauronRecruit
-"Recruit the Messenger of Sauron. \n \n 'Surety you crave! Sauron gives none. If you sue for his clemency then you must do his bidding.'"
+"Recrutez le messager du Seigneur des Ténèbres. \n\n Si la Bouche de Sauron porte un autre nom, il a été oublié depuis longtemps. Cet être abject est l'émissaire du Mordor auprès des royaumes étrangers et il supervise les actions de ses serviteurs lorsque le besoin s'en fait sentir. \n La Bouche de Sauron n'est pas un combattant émérite, mais cela n'a guère d'importance, car nul n'ose lever son arme contre l'ambassadeur du Seigneur des ténèbres. Par ailleurs, des siècles passés sous la tutelle de son maître maléfique en ont fait un sorcier accompli que tous les mortels feraient bien de redouter. \n\n 'Mon maître Sauron le Grand vous souhaite la bienvenue. Y a-t'il quelqu'un qui ait autorité pour traiter avec moi ?'"
 END
 // ELVEN UNITS
 CONTROLBAR:ToolTipBuildGlorfindel
-"Recruit the Lord of the House of the Golden Flower \n \n 'Glorfindel was tall and straight; his hair was of shining gold,\n his face fair and young and fearless and full of joy;\n his eyes were bright and keen, and his voice like music;\n on his brow sat wisdom, and in his hand was strength.'"
+"Recrutez le Seigneur Elfe à l'armure d'Argent. \n\n Rares sont ceux, même dans les demeures sacrées d'Imladris, à pouvoir affronter les Neuf pied à pied. Glorfindel est l'un de ces êtres d'exception. Devant ce puissant guerrier de la maison d'Elrond, les Spectres de l'Anneau eux-mêmes ont un recul de crainte, n'osant le défier que lorsqu'ils sont tous réunis sous la férule du Roi-Sorcier. \n\n 'Glorfindel était grand et droit ; ses cheveux étaient d'un or brillant, son visage blond et jeune et intrépide et plein de joie ; ses yeux étaient brillants et vifs, et sa voix comme de la musique ; sur son front était la sagesse, et dans sa main était la force.'"
 END
 CONTROLBAR:ElvenGlorfindelRecruit
-"Recruit the Lord of the House of the Golden Flower \n \n 'Glorfindel was tall and straight; his hair was of shining gold,\n his face fair and young and fearless and full of joy;\n his eyes were bright and keen, and his voice like music;\n on his brow sat wisdom, and in his hand was strength.'"
+"Recrutez le Seigneur Elfe à l'armure d'Argent. \n\n Rares sont ceux, même dans les demeures sacrées d'Imladris, à pouvoir affronter les Neuf pied à pied. Glorfindel est l'un de ces êtres d'exception. Devant ce puissant guerrier de la maison d'Elrond, les Spectres de l'Anneau eux-mêmes ont un recul de crainte, n'osant le défier que lorsqu'ils sont tous réunis sous la férule du Roi-Sorcier. \n\n 'Glorfindel était grand et droit ; ses cheveux étaient d'un or brillant, son visage blond et jeune et intrépide et plein de joie ; ses yeux étaient brillants et vifs, et sa voix comme de la musique ; sur son front était la sagesse, et dans sa main était la force.'"
 END
 CONTROLBAR:ElvenGlorfindelRevive
-"Revive the fallen Hero, Glorfindel"
+"Rappelez Glorfindel à la vie"
 END
 CONTROLBAR:ElvenGlorfindelHotkey
 "Glorfindel (&S)"
 END
 
 CONTROLBAR:ToolTipBuildThranduil
-"Recruit the leader of the Mirkwood Elves"
+"Recrutez le Roi des Elfes de la Forêt Noire."
 END
 CONTROLBAR:ElvenThranduilRecruit
-"Recruit the Elvenking \n \n 'Such is the nature of evil. Out there in the vast ignorance of the world it festers and spreads. A shadow that grows in the dark. A sleepless malice as black as the oncoming wall of night. So it ever was. So will it always be. In time all foul things come forth'"
+"Recrutez le Roi des Elfes de la Forêt Noire. \n Thranduil est le souverain de tous les Elfes qui vivent au nord de la route de la forêt. Bien que les peuples voisins le trouvent quelque peu intolérant, lui et ses sujets sont de fervents défenseurs du Conseil Blanc. \n\n Néanmoins, même si Thranduil reconnaît que les desseins de conquête de Sauron sont un danger pour tous les Peuples Libres, il ne se fie jamais totalement à ceux qui vivent au-delà de son enclave sylvestre. Pour lui, seule une menace partagée peut engendrer une cause commune. \n\n 'Telle est la nature du mal. Là-bas, dans la vaste ignorance du monde, il se nourrit et se propage. Une ombre qui grandit dans l'obscurité. Une malice insomniaque aussi noire que le mur de la nuit qui s'approche. Il en a toujours été ainsi. Il en sera toujours ainsi. Avec le temps, toutes les choses mauvaises apparaissent.'"
 END
 CONTROLBAR:ElvenThranduilRevive
-"Revive the fallen Hero, King Thranduil"
+"Rappelez le Roi Thranduil à la vie"
 END
 CONTROLBAR:ElvenThranduilHotkey
-"King Thranduil (&F)"
+"Roi Thranduil (&F)"
 END
 CONTROLBAR:BotFAThranduilHotkey
-"King Thranduil (&M)"
+"Roi Thranduil (&M)"
 END
 
 // dwarven basic training
@@ -17891,57 +17891,57 @@ END
 
 
 CONTROLBAR:DwarvenGuardianChargeAttack
-"Charge Attack (&W)"
+"Charge (&W)"
 END
 
 // ISENGARD UNITS
 CONTROLBAR:ConstructIsengardUrukHai
-" Fighting Uruk-hai (&E)"
+"Guerriers Uruk-Haï (&E)"
 END
 CONTROLBAR:ConstructIsengardCrossbowmen
-"Uruk-hai Crossbowmen (&R)"
+"Arbalétriers Uruk (&R)"
 END
 CONTROLBAR:ConstructIsengardPikemen
-"Uruk-hai Pikemen (&T)"
+"Piquiers Uruk (&T)"
 END
 CONTROLBAR:ConstructIsengardShieldbearers
-"Uruk-hai Shieldbearers (&S)"
+"Porteurs de boucliers Uruk-hai (&S)"
 END
 CONTROLBAR:ConstructIsengardWildmanHorde
-"Wildmen of Dunland (&W)"
+"Hommes sauvages du Pays de Dun (&W)"
 END
 CONTROLBAR:ConstructIsengardWargRider
-"Warg Riders (&W)"
+"Chevaucheurs de Wargs (&W)"
 END
 CONTROLBAR:ConstructWildWargRider
-"Gundabad Wolf-riders (&E)"
+"Chevaucheurs de Wargs de Gundabad (&E)"
 END
 CONTROLBAR:ConstructIsengardSiegeBallista
-"Siege Ballista (&E)"
+"Baliste de siège (&E)"
 END
 CONTROLBAR:ConstructIsengardSiegeBallistaWotR
-"Siege Ballista (&W)"
+"Baliste de siège (&W)"
 END
 CONTROLBAR:ConstructIsengardSiegeLadder
-"Siege Ladder"
+"Échelle de siège"
 END
 CONTROLBAR:ConstructIsengardBerserker
-"Uruk-hai Berserker (&D)"
+"Berserkers Uruk (&D)"
 END
 CONTROLBAR:ConstructIsengardBatteringRam
-"Battering Ram (&W)"
+"Bélier (&W)"
 END
 CONTROLBAR:ConstructArnorBatteringRam
-"Battering Ram (&T)"
+"Bélier (&T)"
 END
 CONTROLBAR:ConstructIsengardExplosiveMine
-"Explosive Mine (&R)"
+"Mine explosive (&R)"
 END
 CONTROLBAR:ConstructIsengardBannerCarrier
-"Banner Carrier"
+"Porte-étendard"
 END
 CONTROLBAR:ConstructIsengardPorter
-"Builder (&W)"
+"Bâtisseur (&W)"
 END
 CONTROLBAR:ConstructIsengardForgedBladesPorter
 "Forged Blades Porter"
@@ -20973,7 +20973,7 @@ APT:TotalTime
 END
 
 APT:Fortress
-"Fortress"
+"Forteresse"
 END
 
 APT:Defeated
@@ -28633,55 +28633,55 @@ END
 ///////////////////////////////////
 
 CONTROLBAR:Command_GondorCastleWallHub_BeginWallSpan
-"Build Wall (&W)"
+"Construire un mur (&W)"
 END
 
 CONTROLBAR:ToolTipCommand_GondorCastleWallHub_BeginWallSpan
-"Left click and drag to construct a Wall"
+"Cliquez et faites glisser pour construire un mur"
 END
 
 CONTROLBAR:Command_MenWallUpgradeToHub
-"Wall Hub (&W)"
+"Assise (&W)"
 END
 
 CONTROLBAR:ToolTipCommand_MenWallUpgradeToHub
-"Allows construction of additional walls"
+"Permet la construction de murs supplémentaires."
 END
 
 CONTROLBAR:Command_MenWallUpgradeToRegularGate
-"Gate (&E)"
+"Porte (&E)"
 END
 
 CONTROLBAR:ToolTipCommand_MenWallUpgradeToRegularGate
-"This primary defensive gate can be opened and closed"
+"Cette porte défensive principale peut être ouverte et fermée."
 END
 
 CONTROLBAR:Command_MenWallUpgradeToPosternGate
-"Postern Gate (&R)"
+"Poterne (&R)"
 END
 
 CONTROLBAR:ToolTipCommand_MenWallUpgradeToPosternGate
-"Allows friendly units to pass through the wall \n Invisible to enemies"
+"Permet aux unités alliées de passer à travers le mur.\n Invisible pour les ennemis."
 END
 
 CONTROLBAR:Command_MenWallUpgradeToTower
-"Arrow Tower (&T)"
+"Tour d'archers (&T)"
 END
 
 CONTROLBAR:ToolTipCommand_MenWallUpgradeToTower
-"Fires arrows at enemy troops"
+"Tire des flèches sur les unités ennemies."
 END
 
 CONTROLBAR:Command_MenWallUpgradeToTrebuchet
-"Trebuchet (&S)"
+"Trébuchet (&S)"
 END
 
 CONTROLBAR:ToolTipCommand_MenWallUpgradeToTrebuchet
-"Long range defensive weapon"
+"Arme défensive à longue portée."
 END
 
 CONTROLBAR:ToolTipPorterExtinguishFire
-"Extinguish nearby fire to prevent structure damage"
+"Éteint les feux proches pour préserver les structures."
 END
 
 
@@ -28691,35 +28691,35 @@ END
 //////////////////////////////////
 
 Object:MenFortress
-"Fortress"
+"Forteresse"
 END
 
 OBJECT:MenFortressDescription
-"Recruits Heroes and Builders \n Can be upgraded with improvements and expansions"
+"Recrute les héros et les bâtisseurs, et peut recevoir des améliorations."
 END
 
 Object:TrebuchetExpansion
-"Trebuchet Expansion"
+"Extension de Trébuchet"
 END
 
 Object:ArrowTowerExpansion
-"Arrow Tower Expansion"
+"Extension Tour d'archers"
 END
 
 Object:GondorCastleWallSegment
-"Wall"
+"Mur"
 END
 
 OBJECT:MenBuildingFoundation
-"Expansion Plot"
+"Point d'amélioration"
 END
 
 OBJECT:GondorCastleWallArrowTower
-"Arrow Tower"
+"Extension Tour d'archers"
 END
 
 OBJECT:GondorCastleWallTrebuchet
-"Trebuchet Tower"
+"Extension de Trébuchet"
 END
 
 
@@ -28728,95 +28728,95 @@ END
 ////////////////////////////////
 
 CONTROLBAR:ConstructDwarvenFortress
-"Build Fortress (&I)"
+"Construire une Forteresse (&I)"
 END
 
 CONTROLBAR:ConstructDwarvenFortressWOTR
-"Build Outpost (&I)"
+"Construire un Avant-Poste (&I)"
 END
 
 CONTROLBAR:ToolTipConstructDwarvenFortress
-"Recruits Builders and Heroes \n Can be upgraded with improvements and expansions \n Increases command point limit by 100"
+"Recrute des héros et des bâtisseurs. \n Peut recevoir des améliorations et des extensions. \n Augmente la limite de points de commandement de 100."
 END
 
 CONTROLBAR:ToolTipConstructDwarvenFortressWOTR
-"Recruits Builders and revives Heroes \n Generates 100 resources per tick \n Increases command point limit by 900"
+"Recrute des bâtisseurs et ranime des héros. \n Génère 100 ressources par tic \n Augmente la limite de points de commandement de 900."
 END
 
 CONTROLBAR:ToolTipConstructHaradFortress
-"Recruits Builders and Heroes \n Can be upgraded with improvements and expansions \n Increases command point limit by 100"
+"Recrute des héros et des bâtisseurs. \n Peut recevoir des améliorations et des extensions. \n Augmente la limite de points de commandement de 100."
 END
 
 CONTROLBAR:ToolTipConstructHaradFortressWOTR
-"Recruits Builders and revives Heroes \n Generates 100 resources per tick \n Increases command point limit by 900"
+"Recrute des bâtisseurs et ranime des héros. \n Génère 100 ressources par tic \n Augmente la limite de points de commandement de 900."
 END
 
 CONTROLBAR:ConstructDwarvenSentryTower
-"Build Battle Tower (&Y)"
+"Construire une Tour de guerre (&Y)"
 END
 
 CONTROLBAR:ToolTipConstructDwarvenSentryTower
-"Fires arrows at nearby enemy units \n Can be garrisoned with ranged units for increased damage output"
+"Tire des flèches sur les ennemis proches. \n Peut être remplie d'unités de tir à distance pour infliger plus de dégâts."
 END
 
 CONTROLBAR:ConstructDwarvenBarracks
-"Build Hall of Warriors (&T)"
+"Construire un Hall des Guerriers (&T)"
 END
 
 CONTROLBAR:ConstructDwarvenBarracksWotRRealTime
-"Build Hall of Warriors (&W)"
+"Construire un Hall des Guerriers (&W)"
 END
 
 CONTROLBAR:ToolTipConstructDwarvenBarracksWotR
-"Primary Barracks \n Trains basic infantry of the Dwarves \n Limited to 2"
+"Caserne primaire \n Forme l'infanterie de base naine \n Limité à 2".
 END
 
 CONTROLBAR:ToolTipConstructDwarvenBarracks
-"Trains basic infantry of the Dwarves"
+"Entraîne de l'infanterie de base des Naines"
 END
 
 CONTROLBAR:ConstructDwarvenWell
-"Build Dwarven Well (&G)"
+"Construire un Puit (&G)"
 END
 
 CONTROLBAR:ConstructDwarvenHearth
-"Build He&arth"
+"Construire un foyer"
 END
 
 CONTROLBAR:ToolTipConstructDwarvenHearth
-"Allies near the hearth gain \n +50% damage and +50% armour\n Provides nearby stealth detection \n Reduces cost of machine units"
+"Les alliés proches du foyer gagnent +50% de dégâts et +50% d'armure (non cumulable avec d'autres bonus). \n Détecte les unités furtives proches et réduit le coût des machines de guerre."
 END
 
 CONTROLBAR:ConstructDwarvenForgeWorks
-"Build Grand Forge (&R)"
+"Construire une Grande Forge (&R)"
 END
 
 CONTROLBAR:ToolTipConstructDwarvenForgeWorks
-"Provides worked metals as a resource based on available terrain\nResearches weapons and armour upgrades\n Reduces cost of upgrades \n Increases command point limit by 50"
+"Produit du métal travaillé comme ressource basée sur le terrain disponible. \n Permet de rechercher les amélioration d'armes et d'armures. \n Réduit le coût des améliorations. \n Augmente la limite de points de commandement de 50."
 END
 
 CONTROLBAR:ToolTipConstructDwarvenForgeWorksBotFA
-"Provides worked metals as a resource based on available terrain\nCan cast Ignite to blast back nearby enemy units \n Increases command point limit by 50"
+"Fournit des métaux travaillés comme ressource en fonction du terrain disponible. Peut lancer Ignite pour faire reculer les unités ennemies proches. Augmente la limite de points de commandement de 50."
 END
 
 CONTROLBAR:ConstructDwarvenHusbandry
-"Build Erebor Redoubt (&V)"
+"Construire un Fort d'Erebor (&V)"
 END
 
 CONTROLBAR:ConstructDwarvenHusbandryWotRRealTime
-"Build Erebor Redoubt (&R)"
+"Construire un Fort d'Erebor (&R)"
 END
 
 CONTROLBAR:ConstructDwarvenHusbandryBotFA
-"Build Iron Hills Redoubt (&C)"
+"Construire un Fort des Monts du Fer (&C)"
 END
 
 CONTROLBAR:ToolTipConstructDwarvenHusbandryBotFA
-"Recruits Dwarves of the Iron Hills"
+"Construire un Fort des Monts du Fer"
 END
 
 CONTROLBAR:ToolTipConstructDwarvenHusbandry
-"Recruits specialist units of Erebor"
+"Permet de recruter les unités spécialisés d'Erebor."
 END
 
 CONTROLBAR:ToolTipConstructDwarvenHusbandryWotRRealTime
@@ -29186,7 +29186,7 @@ OBJECT:DwarvenBuildingFoundation
 END
 
 OBJECT:DwarvenCastleWallSegment
-"Wall"
+"Mur"
 END
 
 OBJECT:DwarvenCatapultExpansion
@@ -29732,11 +29732,11 @@ END
 
 
 CONTROLBAR:ConstructElvenFortress
-"Build Fortress (&I)"
+"Construire une Forteresse (&I)"
 END
 
 CONTROLBAR:ConstructElvenFortressWOTR
-"Build Outpost (&I)"
+"Construire un Avant-Poste (&I)"
 END
 
 CONTROLBAR:ToolTipConstructElvenFortress
@@ -29744,7 +29744,7 @@ CONTROLBAR:ToolTipConstructElvenFortress
 END
 
 CONTROLBAR:ToolTipConstructElvenFortressWOTR
-"Recruits Builders and revives Heroes \n Generates 100 resources per tick \n Increases command point limit by 900"
+"Recrute des bâtisseurs et ranime des héros. \n Génère 100 ressources par tic \n Augmente la limite de points de commandement de 900."
 END
 
 CONTROLBAR:ConstructElvenWatchtowerExpansion
@@ -30074,7 +30074,7 @@ CONTROLBAR:ToolTipBuildElvenRivendellLancers
 END
 
 CONTROLBAR:ConstructElvenPorter
-"Builder (&W)"
+"Bâtisseur (&W)"
 END
 
 CONTROLBAR:ConstructLorilinde
@@ -30201,7 +30201,7 @@ OBJECT:ErgionForge
 END
 
 OBJECT:ElvenFortress
-"Fortress"
+"Forteresse"
 END
 
 OBJECT:ElvenFortressDescription
@@ -30272,7 +30272,7 @@ END
 ///////// MOW Structures /////////
 
 CONTROLBAR:LW_Structure_MenFortress
-"Fortress"
+"Forteresse"
 END
 
 CONTROLBAR:LW_Structure_DefaultFarm
@@ -31890,7 +31890,7 @@ END
 /////// Mordor Structures ////////
 
 CONTROLBAR:LW_Structure_MordorFortress
-"Fortress"
+"Forteresse"
 END
 
 CONTROLBAR:LW_ToolTipBuild_MordorFortress
@@ -34162,7 +34162,7 @@ CONTROLBAR:ToolTipFireWeaponMordorFortressSpireFireball
 END
 
 CONTROLBAR:ConstructMordorFortress
-"Build Fortress (&I)"
+"Construire une Forteresse (&I)"
 END
 
 CONTROLBAR:ToolTipConstructMordorFortress
@@ -34170,11 +34170,11 @@ CONTROLBAR:ToolTipConstructMordorFortress
 END
 
 CONTROLBAR:ConstructMordorFortressWOTR
-"Build Outpost (&I)"
+"Construire un Avant-Poste (&I)"
 END
 
 CONTROLBAR:ToolTipConstructMordorFortressWOTR
-"Recruits Builders and revives Heroes \n Generates 100 resources per tick \n Increases command point limit by 900"
+"Recrute des bâtisseurs et ranime des héros. \n Génère 100 ressources par tic \n Augmente la limite de points de commandement de 900."
 END
 
 
@@ -34209,7 +34209,7 @@ CONTROLBAR:ToolTipConstructIsengardWargSentry
 END
 
 CONTROLBAR:ConstructIsengardFortress
-"Build Fortress (&I)"
+"Construire une Forteresse (&I)"
 END
 
 CONTROLBAR:ToolTipConstructIsengardFortress
@@ -34217,11 +34217,11 @@ CONTROLBAR:ToolTipConstructIsengardFortress
 END
 
 CONTROLBAR:ConstructIsengardFortressWOTR
-"Build Outpost (&I)"
+"Construire un Avant-Poste (&I)"
 END
 
 CONTROLBAR:ToolTipConstructIsengardFortressWOTR
-"Recruits Builders and revives Heroes \n Generates 100 resources per tick \n Increases command point limit by 900"
+"Recrute des bâtisseurs et ranime des héros. \n Génère 100 ressources par tic \n Augmente la limite de points de commandement de 900."
 END
 
 CONTROLBAR:ConstructMordorTavern
@@ -35588,7 +35588,7 @@ OBJECT:BlueMountainGate
 End
 
 OBJECT:BlueMountainWallSegment
-"Wall"
+"Mur"
 End
 
 OBJECT:BlueMoutainBridge
@@ -35728,7 +35728,7 @@ OBJECT:DolGoldurSmallGate
 End
 
 OBJECT:DolGoldurWallSegmentSmall
-"Wall"
+"Mur"
 End
 
 OBJECT:DolGulBridge
@@ -35768,15 +35768,15 @@ OBJECT:DolGulTower3
 End
 
 OBJECT:DolGulWall01
-"Wall"
+"Mur"
 End
 
 OBJECT:DolGulWall02
-"Wall"
+"Mur"
 End
 
 OBJECT:DolGulWall03
-"Wall"
+"Mur"
 End
 
 OBJECT:DolGulprison1
@@ -35824,7 +35824,7 @@ OBJECT:DwarvenBattleWagonAxeThrower
 End
 
 OBJECT:DwarvenBattleWagonBannerCarrier
-"Banner Carrier"
+"Porte-étendard"
 End
 
 OBJECT:DwarvenBattleWagonMenOfDale
@@ -35944,7 +35944,7 @@ OBJECT:ElvenCastleWallHub
 END
 
 OBJECT:ElvenCastleWallSegment
-"Wall"
+"Mur"
 End
 
 OBJECT:ElvenEntMootDescription
@@ -35956,7 +35956,7 @@ OBJECT:ElvenFloodgateExpansion
 End
 
 OBJECT:ElvenMirkwoodArcherBanner
-"Banner Carrier"
+"Porte-étendard"
 End
 
 OBJECT:ElvenMithlondSentry
@@ -36438,15 +36438,15 @@ OBJECT:IsengardCastleWallHub
 End
 
 OBJECT:IsengardCastleWallSegment
-"Wall"
+"Mur"
 End
 
 OBJECT:IsengardFortress
-"Fortress"
+"Forteresse"
 End
 
 OBJECT:IsengardFortressDescription
-"Recruits Heroes and Builders \n Can be upgraded with improvements and expansions"
+"Recrute les héros et les bâtisseurs, et peut recevoir des améliorations."
 End
 
 OBJECT:IsengardLumberMillDescription
@@ -36458,7 +36458,7 @@ OBJECT:IsengardMineLauncherExpansion
 End
 
 OBJECT:IsengardTowerExpansion
-"Arrow Tower Expansion"
+"Extension Tour d'archers"
 End
 
 OBJECT:IsengardWallCliffCap
@@ -36787,7 +36787,7 @@ OBJECT:MordorCastleWallHub
 End
 
 OBJECT:MordorCastleWallSegment
-"Wall"
+"Mur"
 End
 
 OBJECT:MordorCirithUngolTowerC_Prop
@@ -36799,7 +36799,7 @@ OBJECT:MordorCorsairsOfUmbar
 End
 
 OBJECT:MordorFortress
-"Fortress"
+"Forteresse"
 End
 
 OBJECT:MordorFortressBridge
@@ -37342,7 +37342,7 @@ OBJECT:WildCastleWallHub
 End
 
 OBJECT:WildCastleWallSegment
-"Wall"
+"Mur"
 End
 
 OBJECT:WildFortressBurrowsExpansion
@@ -45006,7 +45006,7 @@ TOOLTIP:ElvenSilverthornArrows
 END
 
 TOOLTIP:ElvenBasicTraining
-"Banner Carrier"
+"Porte-étendard"
 END
 TOOLTIP:ElvenForgedBlades
 "Tempered Blades"
@@ -45041,11 +45041,11 @@ TOOLTIP:WildVenomSacs
 END
 
 TOOLTIP:WildBasicTraining 
-"Banner Carrier"
+"Porte-étendard"
 END
 
 TOOLTIP:MordorBasicTraining
-"Banner Carrier"
+"Porte-étendard"
 END
 
 TOOLTIP:MordorFireArrows
@@ -45336,7 +45336,7 @@ Upgrade:MenPosternGate
 END
 
 Upgrade:MenArrowTower
-"Arrow Tower"
+"Extension Tour d'archers"
 END
 
 Upgrade:MenTrebuchet
@@ -45514,7 +45514,7 @@ UPGRADE:BattlewagonAxeThrowers
 END
 
 UPGRADE:BattlewagonBannerCarrier
-"Banner Carrier"
+"Porte-étendard"
 END
 
 UPGRADE:BattlewagonMenofDale
@@ -50987,7 +50987,7 @@ OBJECT:ArnorTrebuchet
 END
 
 OBJECT:ArnorBanner
-"Banner Carrier"
+"Porte-étendard"
 END
 
 OBJECT:HordeArnorSoldier
@@ -51319,7 +51319,7 @@ CONTROLBAR:ToolTipConstructArnorFortress
 END
 
 CONTROLBAR:ToolTipConstructArnorFortressWOTR
-"Recruits Builders and revives Heroes \n Generates 100 resources per tick \n Increases command point limit by 900"
+"Recrute des bâtisseurs et ranime des héros. \n Génère 100 ressources par tic \n Augmente la limite de points de commandement de 900."
 END
 
 CONTROLBAR:ConstructArnorWell
@@ -51949,27 +51949,27 @@ Object:ArnorFortress
 END
 
 Object:ArnorTrebuchetExpansion
-"Trebuchet Expansion"
+"Extension de Trébuchet"
 END
 
 Object:ArnorArrowTowerExpansion
-"Arrow Tower Expansion"
+"Extension Tour d'archers"
 END
 
 Object:ArnorCastleWallSegment
-"Wall"
+"Mur"
 END
 
 //OBJECT:ArnorBuildingFoundation
-//"Expansion Plot"
+//"Point d'amélioration"
 //END
 
 OBJECT:ArnorCastleWallArrowTower
-"Arrow Tower"
+"Extension Tour d'archers"
 END
 
 OBJECT:ArnorCastleWallTrebuchet
-"Trebuchet Tower"
+"Extension de Trébuchet"
 END
 
 OBJECT:ArnorWell
@@ -52184,7 +52184,7 @@ Upgrade:ArnorPosternGate
 END
 
 Upgrade:ArnorArrowTower
-"Arrow Tower"
+"Extension Tour d'archers"
 END
 
 Upgrade:ArnorTrebuchet
@@ -52321,7 +52321,7 @@ OBJECT:AngmarMenOfDale
 END
 
 OBJECT:AngmarBanner
-"Banner Carrier"
+"Porte-étendard"
 END
 
 OBJECT:HordeAngmarDarkDunedain
@@ -52827,7 +52827,7 @@ OBJECT:AngmarMill
 END
 
 OBJECT:AngmarFortress
-"Fortress"
+"Forteresse"
 END
 
 OBJECT:AngmarFortressDescription
@@ -52840,7 +52840,7 @@ OBJECT:AngmarSentryTower
 END
 
 CONTROLBAR:ToolTipConstructAngmarSentryTower
-"Fires arrows at nearby enemy units \n Can be garrisoned with ranged units for increased damage output"
+"Tire des flèches sur les ennemis proches. \n Peut être remplie d'unités de tir à distance pour infliger plus de dégâts."
 END
 
 OBJECT:AngmarPorter
@@ -53205,7 +53205,7 @@ CONTROLBAR:AngmarChargeAttack
 End
 
 CONTROLBAR:SecondAgeChargeAttack
-"Charge Attack (&W)"
+"Charge (&W)"
 End
 
 CONTROLBAR:AngmarTrollChargeAttack
@@ -53542,7 +53542,7 @@ UPGRADE:AngMarBarracksLevel3
 End
 
 UPGRADE:AngmarBasicTraining
-"Banner Carrier"
+"Porte-étendard"
 End
 
 UPGRADE:AngmarIceArrowUpgrade
@@ -55031,11 +55031,11 @@ LAN:TooFewPlayers
 END
 
 OBJECT:AmonSulTower
-"Arrow Tower"
+"Extension Tour d'archers"
 END
 
 OBJECT:AmonSulWall
-"Wall"
+"Mur"
 END
 
 OBJECT:AngmarCastleWallTowerSmall
@@ -60758,7 +60758,7 @@ END
 
 CONTROLBAR:LW_Structure_ElvenFortress
 //"Elven Fortress"
-"Fortress"
+"Forteresse"
 END
 
 BANNERUI:ElvenLorienWarrior
@@ -60886,7 +60886,7 @@ END
 
 CONTROLBAR:LW_Structure_DwarvenFortress
 //"Dwarven Fortress"
-"Fortress"
+"Forteresse"
 END
 
 BANNERUI:DwarvenGuardian
@@ -61066,7 +61066,7 @@ END
 
 CONTROLBAR:LW_Structure_IsengardFortress
 //"Isengard Fortress"
-"Fortress"
+"Forteresse"
 END
 
 CONTROLBAR:LW_Unit_IsengardFighterHorde
@@ -61338,7 +61338,7 @@ END
 
 CONTROLBAR:LW_Structure_WildFortress
 //"Goblin Fortress"
-"Fortress"
+"Forteresse"
 END
 
 BANNERUI:GoblinWarrior
@@ -61423,7 +61423,7 @@ END
 
 CONTROLBAR:LW_Structure_AngmarFortress
 //"Angmar Fortress"
-"Fortress"
+"Forteresse"
 END
 
 CONTROLBAR:LW_ToolTipBuild_AngmarThrallMaster
