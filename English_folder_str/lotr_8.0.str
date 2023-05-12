@@ -17605,7 +17605,7 @@ OBJECT:WildPorter
 "Goblin Builder"
 END
 OBJECT:DwarvenCastleWallHubExpansion
-"Wall Hub Expansion"
+"Extension Assise"
 END
 
 
@@ -17613,7 +17613,7 @@ CONTROLBAR:ToggleSpiderRiderWeapons
 "Alternate Weapon (&W)"
 END
 CONTROLBAR:ToolTipToggleSpiderRiderWeapons
-"Left click to switch weapons"
+"Clic gauche pour changer d'armes."
 END
 CONTROLBAR:ConstructWildCaveLevel2Upgrade
 "Upgrade Moria-orc Cave to Level 2 (&A)"
@@ -19014,7 +19014,7 @@ CONTROLBAR:ToggleBroadShieldsFormation
 END
 
 CONTROLBAR:ToggleBlockFormation
-"Shield Wall Formation (&W)"
+"Formation mur de boucliers (&W)"
 END
 
 CONTROLBAR:ToggleBlockFormationOathsworn
@@ -19062,11 +19062,11 @@ CONTROLBAR:ToggleRivendellKnightWeapons
 END
 
 CONTROLBAR:ToggleGondorRangerWeapons
-"Alterna&te Weapon"
+"Changer d'arme"
 END
 
 CONTROLBAR:ToolTipToggleElvenWarriorWeapons
-"Left click to switch weapons"
+"Clic gauche pour changer d'armes."
 END
 
 CONTROLBAR:ToolTipToggleGaladhrimnWarriorWeapons
@@ -19074,11 +19074,11 @@ CONTROLBAR:ToolTipToggleGaladhrimnWarriorWeapons
 END
 
 CONTROLBAR:ToolTipToggleRohirrimWeapons
-"Left click to switch weapons"
+"Clic gauche pour changer d'armes."
 END
 
 CONTROLBAR:ToolTipToggleHaradrimRiderWeapons
-"Requires Level 3 \n Left click to switch weapons"
+"Requiert Niveau 3 \n Clic gauche pour changer d'armes"
 END
 
 CONTROLBAR:PurchaseUpgradeNimrodelBow
@@ -19102,23 +19102,23 @@ CONTROLBAR:ToolTipToggleGondorRangerWeapons
 END
 
 CONTROLBAR:PorterGiveUpgrade
-"Give &Upgrade"
+"Donne une amélioration"
 END
 
 CONTROLBAR:ToolTipPorterGiveUpgrade
-"Auto-deliver Upgrade"
+"Livraison auto. amélior."
 END
 
 CONTROLBAR:ToolTipPorterGiveRohanFB
-"Give Forged Blades upgrade to target battalion\nLeft click icon then left click on target"
+"Donner l'amélioration Lames forgées au bataillon ciblé\nClic gauche sur l'icône puis clic gauche sur la cible"
 END
 
 CONTROLBAR:ToolTipPorterGiveRohanHA
-"Give Heavy Armour upgrade to target battalion\nLeft click icon then left click on target"
+"Donner l'amélioration Armures lourdes au bataillon ciblé\nClic gauche sur l'icône puis clic gauche sur la cible"
 END
 
 CONTROLBAR:ToolTipPorterGiveRohanFA
-"Give Fire Arrows upgrade to target battalion\nLeft click icon then left click on target"
+"Donner l'amélioration Flèches enflammées au bataillon ciblé\nClic gauche sur l'icône puis clic gauche sur la cible"
 END
 
 CONTROLBAR:ToolTipPorterGiveRohanHS
@@ -19126,18 +19126,18 @@ CONTROLBAR:ToolTipPorterGiveRohanHS
 END
 
 CONTROLBAR:BannerGoCombine
-"&Combine"
+"Grouper"
 END
 
 CONTROLBAR:tooltipBannerGoCombine
-"Auto-combine with the closest horde"
+"Grouper auto. avec la horde la plus proche"
 END
 CONTROLBAR:WizardBlast
-"Chief of the Istari (&W)"
+"Chef des Istaris (&W)"
 END
 
 CONTROLBAR:ToolTipWizardBlast
-"Dismounted: Close range attack that blasts back enemies\n Left click icon then left click on target \n\n Mounted: Targeted enemy hero is stunned for 10 seconds and takes damage\n Left click icon then left click on target \n\n Modifier Type: Leadership \n Allies near Gandalf gain 300% armour to magic and elemental damage, earn experience 100% faster and become immune to fear and terror\n Passive ability \n \n Shield Bubble \n Gandalf occasionally gains +75% armour and resistance to knockback when attacked\nBubble lasts for 20 seconds and cannot be activated again for 90 seconds\n Passive ability but can be manually activated using the shortcut (U)"
+"A pied : Attaque à courte portée qui repousse les ennemis. \n Clic gauche sur l'icône puis clic gauche sur la cible. \n\n En monture : Le héros ciblé est immobilisé pendant 10 secondes et subit des dégâts. \n Clic gauche sur l'icône puis clic gauche sur la cible. \n\n Type d'Action : Charisme. \n Les alliés proches de Gandalf deviennt immunisés contre la magie et aux dégâts élémentaires, gagnent de l'expérience 100% plus rapidement et deviennent immunisés face à la peur et à la terreur (bonus cumulable). \n\n Capacité passive. \n\n Bouclier Mystique : Gandalf gagne occasionnellement +300% armure et une résistance au renversement s'il est attaqué. \n\n Capacité passive mais peut être activée manuellement par le raccourci (U)."
 END
 
 CONTROLBAR:ToolTipWizardBlastCampaign
@@ -19145,7 +19145,7 @@ CONTROLBAR:ToolTipWizardBlastCampaign
 END
 
 CONTROLBAR:WordofPower
-"You Shall Not Pass (&V)"
+"Vous ne Passerez Pas ! (&V)"
 END
 
 CONTROLBAR:ToolTipWordofPower
@@ -19153,7 +19153,7 @@ CONTROLBAR:ToolTipWordofPower
 END
 
 CONTROLBAR:Shadowfax
-"Monter / Descendre (&W)"
+"Monter / Descendre de Gripoil (&W)"
 END
 
 CONTROLBAR:Mount
@@ -19161,104 +19161,104 @@ CONTROLBAR:Mount
 END
 
 CONTROLBAR:ToolTipMount
-"Left click to mount horse \n When mounted +25% armour vs. Footmen and Cavalry \n When mounted -50% armour vs. Archers and Pikemen \n When mounted 100% more damage from archers and pikemen"
+"Clic gauche pour monter à cheval\n Sur monture +25% armure contre fantassins et cavalerie\n sur monture -50% armure contre archers et piquiers\n sur monture archers et piquiers vous infligent 100% de dégâts en plus"
 END
 
 CONTROLBAR:UseSword
-"Use Sword (&W)"
+"Utiliser l'épée (&W)"
 END
 
 CONTROLBAR:UseStick
-"Use S&tick"
+"Utiliser le bâ&ton"
 END
 
 CONTROLBAR:UseStingFrodo
-"Use Sting (&W)"
+"Utiliser Dard (&W)"
 END
 
 CONTROLBAR:ToolTipUseSword
-"Left click to switch to melee mode"
+"Clic gauche pour passer en mode : Mêlée."
 END
 
 CONTROLBAR:ToolTipUseSwordRank3
-"Requires Rank 3\nLeft click to switch to melee mode"
+"Requiert : Niveau 3 \n Clic gauche pour passer en mode : Mêlée."
 END
 
 CONTROLBAR:PhialofGaladriel
-"Phial of Galadriel (&T)"
+"Fiole de Galadriel (&T)"
 END
 
 CONTROLBAR:ToolTipPhialofGaladriel
-"Causes enemy units to flee \n Left click to activate"
+"Frodon utilise la Lumière d'Eärendil : elle fait fuir de terreur les ennemis. \n\n Clic gauche pour l'activer."
 END
 
 CONTROLBAR:PalantirVision
-"Vision of the Palantir"
+"Vision du Palantír"
 END
 
 CONTROLBAR:DarkDivination
-"Dark Divination"
+"Divination Obscure"
 END
 
 
 CONTROLBAR:FarSeeing
-"Far Seeing"
+"Vision lointaine"
 END
 
 CONTROLBAR:EnshroudingMist
-"Enshrouding Mist"
+"Brume épaisse"
 END
 
 CONTROLBAR:EnshroudingMistCampaign
-"Hide!"
+"Cachez-vous !"
 END
 
 CONTROLBAR:TheOneRing
-"The One Ring (&R)"
+"L'Anneau Unique (&R)"
 END
 
 CONTROLBAR:TheOneRing_Campaign
-"A Heavy Burden (&R)"
+"Un Lourd Fardeau (&R)"
 END
 
 CONTROLBAR:ToolTipTheOneRing
-"Become invisible \n But beware the Eye of Sauron \n Left click to activate"
+"Le héros enfile l'Anneau à son doigt : il devient invisible. \n\n Après un certain temps, l'Oeil de Sauron apparaît et cherche le porteur de l'Anneau. S'il le trouve, ce dernier est forcé de retirer l'Anneau et redevient visible."
 END
 
 CONTROLBAR:ToolTipTheOneRing_Riddle
-"Become invisible \n Left click to activate"
+"Devient invisible. \n\n Clic gauche pour l'activer."
 END
 
 CONTROLBAR:ToolTipTheOneRingIsildur
-"Become invisible but can not attack"
+"Devient invisible mais ne peut attaquer."
 END
 
 CONTROLBAR:FryingPan
-"Frying Pan"
+"Poêle"
 END
 
 CONTROLBAR:ToolTipFryingPan
-"Powerful melee attack \n Left click icon then left click on target"
+"Puissante attaque de mêlée.\n\nClic gauche sur l'icône puis clic gauche sur la cible"
 END
 
 CONTROLBAR:HobbitCloak
-"Hide Here, Qui&ck!"
+"Cachez-vous, Vite !"
 END
 
 CONTROLBAR:ElvenCloak
-"Elven Cloak (&R)"
+"Cape elfique (&R)"
 END
 
 CONTROLBAR:ToolTipElvenCloak
-"Becomes invisible when standing still \n Left click to activate"
+"L'unité devient immobile et invisible. \n\n Clic gauche pour activer la cape elfique."
 END
 
 CONTROLBAR:ToolTipElvenCloakCampaign
-"Becomes invisible when standing still \n Also passively grants +10% armour to all nearby hobbit heroes \n Left click to activate"
+"Devient invisible si immobile \n Confère de manière passivé +10% d'armure à tous les héros hobbit proches \n Clic gauche pour activer"
 END
 
 CONTROLBAR:ToolTipElvenCloakBasicUnit
-"Requires Level 2 \n Becomes stealthed for 20 seconds \n Left click to activate"
+"Requiert : Niveau 2 \n L'unité immobile est invisible pendant 20 secondes. \n\n Clic gauche pour l'activer."
 END
 
 CONTROLBAR:EomerMount
@@ -19270,11 +19270,11 @@ CONTROLBAR:ToolTipEomerMount
 END
 
 CONTROLBAR:IstariLight
-"Flame of Anor (&C)"
+"Flamme d'Anor (&C)"
 END
 
 CONTROLBAR:ToolTipIstariLight
-"Requires Level 7 \n Beam of light that damages enemies \n Bonus vs. Balrogs and Nazgûl \n Left click icon then left click on target"
+"Requiert : Niveau 7 \n Gandalf donne naissance à une vive lueur au bout de son bâton : un rayon de lumière incandescente brûle ses ennemis. \n Bonus de dégâts contre le Balrog et les Nazgûls. \n\n Clic gauche sur l'icône puis clic gauche sur la cible."
 END
 
 CONTROLBAR:ToolTipIstariLightTiered
@@ -19282,7 +19282,7 @@ CONTROLBAR:ToolTipIstariLightTiered
 END
 
 CONTROLBAR:GandalfPrepareForBattle
-"Rekindled Hearts (&T)"
+"Cœurs ravivés (&T)"
 END
 
 CONTROLBAR:ToolTipGandalfPrepareForBattle
@@ -19294,7 +19294,7 @@ CONTROLBAR:ToolTipGandalfPrepareForBattleCampaign
 END
 
 CONTROLBAR:LightningSword
-"Ligh&tning Sword"
+"Epée de Foudre"
 END
 
 CONTROLBAR:ToolTipLightningSword
@@ -19314,7 +19314,7 @@ CONTROLBAR:ToolTipFellowshipLightningSword
 END
 
 CONTROLBAR:ThrowSpear
-"Spear Throw (&R)"
+"Jet de Lance (&R)"
 END
 
 CONTROLBAR:SuladanSpearThrow
@@ -19326,11 +19326,11 @@ CONTROLBAR:ToolTipSeveringStrike
 END
 
 CONTROLBAR:HornofGondor
-"Horn of Gondor (&R)"
+"Cor du Gondor (&R)"
 END
 
 CONTROLBAR:WoundingArrow
-"Wounding Arrow (&V)"
+"Flèche de Terreur (&V)"
 END
 
 CONTROLBAR:CaptainofGondor
@@ -19391,82 +19391,82 @@ CONTROLBAR:CampaignToggleMount
 END
 
 CONTROLBAR:AragornToggleMount
-"Mount/Dismount (&C)"
+"Monter / Descendre (&C)"
 END
 
 CONTROLBAR:BoromirToggleMount
-"Mount/Dismount (&C)"
+"Monter / Descendre (&C)"
 END
 
 CONTROLBAR:LegolasToggleMount
-"Mount/Dismount (&C)"
+"Monter / Descendre (&C)"
 END
 
 CONTROLBAR:DamrodWarSpeech
-"War Speech"
+"Discours de Guerre"
 END
 
 CONTROLBAR:ToolTipDamrodWarSpeech
-"Requires Level 10 \n Nearby troops gain leadership bonus \n Passive ability"
+"Requiert : Niveau 10\n Les troupes à proximité gagnent un Bonus de Charisme \n\n Capacité passive"
 END
 
 CONTROLBAR:DamrodKnightRanger
-"Knight/&Ranger Toggle"
+"Chevalier/Rôdeur"
 END
 
 CONTROLBAR:ToolTipDamrodKnightRanger
-"Requires Level 3 \n Switch between Knight and Ranger modes \n left click to activate"
+"Requiert : niveau 3\n Alterne entre les modes chevalier/Rôdeur.\n\nClic gauche pour activer"
 END
 
 CONTROLBAR:ToggleShieldWallFormation
-"Shield Wall Formation (&W)"
+"Formation mur de boucliers (&W)"
 END
 
 CONTROLBAR:ToolTipToggleShieldWallFormation
-"+50% armour \n -75% speed"
+"+50% armure et -75% vitesse"
 END
 
 CONTROLBAR:ToggleLooseFormation
-"Loose Formation (&W)"
+"Formation Libre (&W)"
 END
 
 CONTROLBAR:ToolTipToggleIFighterBlockToLooseFormation
-"Default Formation"
+"Formation par défaut"
 END
 CONTROLBAR:ToolTipToggleCrossbowmanLooseToWedgeFormation
-"+25% damage \n -25% armour"
+"+25% dégâts et -25% armure"
 END
 CONTROLBAR:ToolTipToggleCrossbowmanWedgeToLooseFormation
-"Default Formation"
+"Formation par défaut"
 END
 CONTROLBAR:ToolTipToggleFighterLooseToBlockFormation
-"-40% speed \n +25% armour"
+"-40% vitesse et +25% armure"
 END
 CONTROLBAR:ToolTipToggleFighterBlockToLooseFormation
-"Default Formation"
+"Formation par défaut"
 END
 CONTROLBAR:ToolTipTogglePikemanLooseToPorcupineFormation
-"-40% speed \n +25% armour \n Bonus damage vs cavalry"
+"-40% vitesse et +25% armure.\n Bonus de dégâts contre la cavalerie"
 END
 CONTROLBAR:ToolTipTogglePikemanPorcupineToLooseFormation
-"Default Formation"
+"Formation par défaut"
 END
 
 CONTROLBAR:ConstructGondorBattleTower
-"Battle Tower"
+"Tour de guerre"
 END
 
 CONTROLBAR:ToolTipBuildGondorBattleTower
-"Defensive Arrow Tower \n Can be garrisoned with archers for extra damage output"
+"Tour d'archers défensive.\n Les archers peuvent y tenir garnison pour infliger des dégâts supplémentaires"
 END
 
 CONTROLBAR:SpeechCraft
-"Speech Craft (&T)"
+"Éloquence (&T)"
 END
 
 
 CONTROLBAR:DarkEloquence
-"Dark Eloquence (&T)"
+"Éloquence Sombre (&T)"
 END
 
 CONTROLBAR:Disguise
@@ -27532,7 +27532,7 @@ TOOLTIP:LackLevel2Blacksmith
 END
 
 TOOLTIP:LackLevel2BlacksmithHeavyArmor
-"Requiert : Forge niveau 3."
+"Requiert : Forge niveau 3"
 END
 
 TOOLTIP:LackLevel2BlacksmithForgedBlades
@@ -36210,7 +36210,7 @@ OBJECT:GondorCastleKeep_temp
 End
 
 OBJECT:GondorCastleWallHub
-"Wall Hub Expansion"
+"Extension Assise"
 End
 
 OBJECT:GondorCastleWallUpgradeNode
@@ -37602,74 +37602,74 @@ END
 
 
 CreateAHero:BlingDesc_DwarfAxe_01
-"Dwarf Axe 1"
+"Hache de Nain"
 End
 
 CreateAHero:BlingDesc_FireBrand
-"Firebrand Sword"
-End
+"Epée de la discorde"
+END
 
 CreateAHero:BlingDesc_Gurthang
-"Gurthang Sword"
-End
+"Epée Gurthang"
+END
 
 CreateAHero:BlingDesc_MithlondBow
-"Mithlond Bow"
-End
+"Arc de Mithlond"
+END
 
 CreateAHero:BlingDesc_NoBoots
-"No Boots"
-End
+"Pas de bottes"
+END
 
 CreateAHero:BlingDesc_NoGauntlets
-"No Gauntlets"
-End
+"Pas de gantelets"
+EN
 
 CreateAHero:BlingDesc_NoHelmet
-"No Helmet"
-End
+"Pas de casque"
+END
 
 CreateAHero:BlingDesc_NoShoulderPlates
-"No Shoulder Plates"
-End
+"Pas de plaques d'épaules"
+END
 
 CreateAHero:BlingDesc_TrollBane
-"Troll Bane"
-End
+"Fléau de Troll"
+END
 
 CreateAHero:BlingDesc_TrollMace
-"Troll Mace"
-End
+"Masse d'armes de Troll"
+END
 
 CreateAHero:BlingDesc_TrollSword
-"Troll Sword"
-End
+"Epée de Troll"
+END
 
 
 
 CreateAHero:BlingDesc_Westron
-"Westron Sword"
-End
+"Epée des Ouistrain"
+END
 
 CreateAHero:BlingDesc_WizardStaff01
-"Wizard Staff 1"
-End
+"Baguette de magicien"
+END
 
 CreateAHero:BlingDesc_WizardStaff02
-"Wizard Staff 2"
-End
+"Baguette de magicien"
+END
 
 CreateAHero:BlingDesc_WizardStaff03
-"Wizard Staff 3"
-End
+"Baguette de magicien"
+END
 
 CreateAHero:BlingDesc_WizardStaff04
-"Wizard Staff 4"
-End
+"Baguette de magicien"
+END
 
 CreateAHero:BlingName_Belthronding
-"Belthrond Sword"
-End
+"Epée de Belthrond"
+END
 
 
 
@@ -37681,23 +37681,23 @@ End
 /////////////////////////
 
 CreateAHero:BlingDesc_CaptainOfGondor_CHG01
-"Captain of Gondor 1"
+"Capitaine de Gondor 1"
 End
 
 CreateAHero:BlingDesc_CaptainOfGondor_CHG02
-"Captain of Gondor 2"
+"Capitaine de Gondor 2"
 End
 
 CreateAHero:BlingDesc_CaptainOfGondor_CHG03
-"Captain of Gondor 3"
+"Capitaine de Gondor 3"
 End
 
 CreateAHero:BlingDesc_CaptainOfGondor_CHSP01
-"Captain of Gondor 4"
+"Capitaine de Gondor 4"
 End
 
 CreateAHero:BlingDesc_CaptainOfGondor_CHSP02
-"Captain of Gondor 5"
+"Capitaine de Gondor 5"
 End
 
 CreateAHero:BlingName_CG_CHBOD01
@@ -37713,51 +37713,51 @@ CreateAHero:BlingName_CG_CHBOD03
 END
 
 CreateAHero:BlingName_CAPG_CHS01
-"Shield of the West"
+"Bouclier de l'Ouest"
 END
 
 CreateAHero:BlingName_CaptainOfGondor_CHB01
-"Boots 1"
+"Bottes 1"
 End
 
 CreateAHero:BlingName_CaptainOfGondor_CHB02
-"Boots 2"
+"Bottes 2"
 End
 
 CreateAHero:BlingName_CaptainOfGondor_CHB03
-"Boots 3"
+"Bottes 3"
 End
 
 CreateAHero:BlingName_CaptainOfGondor_CHG01
-"Gauntlets 1"
+"Gantelets 1"
 End
 
 CreateAHero:BlingName_CaptainOfGondor_CHG02
-"Gauntlets 2"
+"Gantelets 2"
 End
 
 CreateAHero:BlingName_CaptainOfGondor_CHG03
-"Gauntlets 3"
+"Gantelets 3"
 End
 
 CreateAHero:BlingName_CaptainOfGondor_CHH01
-"Helmet 1"
+"Casque 1"
 End
 
 CreateAHero:BlingName_CaptainOfGondor_CHH02
-"Helmet 2"
+"Casque 2"
 End
 
 CreateAHero:BlingName_CaptainOfGondor_CHH03
-"Helmet 3"
+"Casque 3"
 End
 
 CreateAHero:BlingName_CaptainOfGondor_CHSP01
-"Shoulder Plates 1"
+"Plaques d'épaules 1"
 End
 
 CreateAHero:BlingName_CaptainOfGondor_CHSP02
-"Shoulder Plates 2"
+"Plaques d'épaules 2"
 End
 
 
@@ -37766,47 +37766,47 @@ End
 ///////////////
 
 CreateAHero:BlingName_SM_CHBOD01
-"Shield Maiden Breastplate 1"
+"Plastron de Damoiselle 1"
 END
 
 CreateAHero:BlingName_SM_CHBOD02
-"Shield Maiden Breastplate 2"
+"Plastron de Damoiselle 2"
 END
 
 CreateAHero:BlingName_SM_CHBOD03
-"Shield Maiden Breastplate 3"
+"Plastron de Damoiselle 3"
 END
 
 CreateAHero:BlingName_ShieldMaiden_CHG01
-"Shield Maiden Gauntlets 1"
+"Gantelets de Damoiselle 1"
 END
 
 CreateAHero:BlingName_ShieldMaiden_CHG02
-"Shield Maiden Gauntlets 2"
+"Gantelets de Damoiselle 2"
 END
 
 CreateAHero:BlingName_ShieldMaiden_CHB01
-"Silver Greaves"
+"Jambières en argent"
 END
 
 CreateAHero:BlingName_ShieldMaiden_CHB02
-"Copper Greaves"
+"Jambières en cuivre"
 END
 
 CreateAHero:BlingName_ShieldMaiden_CHSP01
-"Shield Maiden Shoulders 1"
+"Épaulettes de Damoiselle Protectrice 1"
 END
 
 CreateAHero:BlingName_ShieldMaiden_CHSP02
-"Shield Maiden Shoulders 2"
+"Épaulettes de Damoiselle Protectrice 2"
 END
 
 CreateAHero:BlingName_ShieldMaiden_CHH01
-"Shield Maiden Helmet 1"
+"Casque de Damoiselle Protectrice 1"
 END
 
 CreateAHero:BlingName_ShieldMaiden_CHH02
-"Shield Maiden Helmet 2"
+"Casque de Damoiselle Protectrice 2"
 END
 
 /////////////
@@ -37814,35 +37814,35 @@ END
 ////////////
 
 CreateAHero:BlingName_ElfArcher_CHH01
-"Male Archer Helmet 1"
+"Casque d'archer 1"
 END
 
 CreateAHero:BlingName_ElfArcher_CHH02
-"Male Archer Helmet 2"
+"Casque d'archer 2"
 END
 
 CreateAHero:BlingName_ElfArcher_CHSP01
-"Male Archer Shoulders 1"
+"Épaulettes d'archer 1"
 END
 
 CreateAHero:BlingName_ElfArcher_CHSP02
-"Male Archer Shoulders 2"
+"Épaulettes d'archer 2"
 END
 
 CreateAHero:BlingName_ElfArcher_CHG01
-"Male Archer Gauntlets 1"
+"Gantelets d'archer 1"
 END
 
 CreateAHero:BlingName_ElfArcher_CHG02
-"Male Archer Gauntlets 2"
+"Gantelets d'archer 2"
 END
 
 CreateAHero:BlingName_ElfArcher_CHB01
-"Male Archer Greaves 1"
+"Jambières d'archer 1"
 END
 
 CreateAHero:BlingName_ElfArcher_CHB02
-"Male Archer Greaves 2"
+"Jambières d'archer 2"
 END
 
 ////////////
@@ -37850,47 +37850,47 @@ END
 ////////////
 
 CreateAHero:BlingName_FemaleElvenArcher_CHH01
-"Female Archer Helmet 1"
+"Casque d'archère 1"
 END
 
 CreateAHero:BlingName_FemaleElvenArcher_CHH02
-"Female Archer Helmet 2"
+"Casque d'archère 2"
 END
 
 CreateAHero:BlingName_FemaleElvenArcher_CHSP01
-"Female Archer Shoulders 1"
+"Épaulettes d'archère 1"
 END
 
 CreateAHero:BlingName_FemaleElvenArcher_CHSP02
-"Female Archer Shoulders 2"
+"Épaulettes d'archère 2"
 END
 
 CreateAHero:BlingName_EA_CHBOD01
-"Female Archer Breastplate 1"
+"Plastron d'archère 1"
 END
 
 CreateAHero:BlingName_EA_CHBOD02
-"Female Archer Breastplate 2"
+"Plastron d'archère 2"
 END
 
 CreateAHero:BlingName_EA_CHBOD03
-"Female Archer Breastplate 3"
+"Plastron d'archère 3"
 END
 
 CreateAHero:BlingName_FemaleElvenArcher_CHG01
-"Female Archer Gauntlets 1"
+"Gantelets d'archère 1"
 END
 
 CreateAHero:BlingName_FemaleElvenArcher_CHG02
-"Female Archer Gauntlets 2"
+"Gantelets d'archère 2"
 END
 
 CreateAHero:BlingName_FemaleElvenArcher_CHB01
-"Female Archer Greaves 1"
+"Jambières d'archère 1"
 END
 
 CreateAHero:BlingName_FemaleElvenArcher_CHB02
-"Female Archer Greaves 2"
+"Jambières d'archère 2"
 END
 
 /////////////////////////////////////////////////////
@@ -37898,99 +37898,99 @@ END
 ////////////////////////////////////////////////////
 
 CreateAHero:BlingName_Wizard_CHH01
-"Wizard Helmet 1"
+"Casque de magicien 1"
 END
 
 CreateAHero:BlingName_Wizard_CHH02
-"Wizard Helmet 2"
+"Casque de magicien 2"
 END
 
 CreateAHero:BlingName_Wizard_CHH03
-"Wizard Helmet 3"
+"Casque de magicien 3"
 END
 
 CreateAHero:BlingName_Wizard_CHH04
-"Wizard Helmet 4"
+"Casque de magicien 4"
 END
 
 CreateAHero:BlingName_Wizard_CHH05
-"Wizard Helmet 5"
+"Casque de magicien 5"
 END
 
 CreateAHero:BlingName_Wizard_CHH06
-"Wizard Helmet 6"
+"Casque de magicien 6"
 END
 
 CreateAHero:BlingName_Wizard_CHH07
-"Wizard Helmet 7"
+"Casque de magicien 7"
 END
 
 CreateAHero:BlingName_Wizard_CHSP01
-"Wizard Shoulders 1"
+"Epaulettes de magicien 1"
 END
 
 CreateAHero:BlingName_Wizard_CHSP02
-"Wizard Shoulders 2"
+"Epaulettes de magicien 2"
 END
 
 CreateAHero:BlingName_WIZ_CHBOD01
-"Wizard Cloak 1"
+"Cape de magicien 1"
 END
 
 CreateAHero:BlingName_WIZ_CHBOD02
-"Wizard Cloak 2"
+"Cape de magicien 2"
 END
 
 CreateAHero:BlingName_WIZ_CHBOD03
-"Wizard Cloak 3"
+"Cape de magicien 3"
 END
 
 CreateAHero:BlingName_WizardStaff01
-"Wizard Staff 1"
-End
+"Baguette de magicien 1"
+END
 
 CreateAHero:BlingName_WizardStaff02
-"Wizard Staff 2"
-End
+"Baguette de magicien 2"
+END
 
 CreateAHero:BlingName_WizardStaff03
-"Wizard Staff 3"
-End
+"Baguette de magicien 3"
+END
 
 CreateAHero:BlingName_WizardStaff04
-"Wizard Staff 4"
-End
+"Baguette de magicien 4"
+END
 
 ////////////////////////
 //// Dwarf Taskmaster Gear
 ///////////////////////
 
 CreateAHero:BlingName_DwarfAxe_01
-"Dwarven Axe"
+"Hache de Nain"
 End
 
 CreateAHero:BlingName_Dwarf_CHH01
-"Helmet 1"
+"Casque 1"
 End
 
 CreateAHero:BlingName_Dwarf_CHH02
-"Helmet 2"
+"Casque 2"
 End
 
 CreateAHero:BlingName_Dwarf_CHH03
-"Dwarf 3"
+"Nain 3"
 End
 
 CreateAHero:BlingName_Dwarf_CHSP01
-"Shoulder Plates 1"
+"Plaques d'épaules 1"
 End
 
 CreateAHero:BlingName_Dwarf_CHSP02
-"Shoulder Plates 2"
+"Plaques d'épaules 2"
 End
 
 CreateAHero:BlingName_Dwarf_CHSP03
-"Shoulder Plates 3"
+"Plaques d'épaules 3"
 End
 
 
@@ -38001,23 +38001,23 @@ End
 
 
 CreateAHero:BlingName_DwarfSage_CHH01
-"Sage Helmet 1"
+"Casque de sage 1"
 END
 
 CreateAHero:BlingName_DwarfSage_CHH02
-"Sage Helmet 2"
+"Casque de sage 2"
 END
 
 CreateAHero:BlingName_DwarfSage_CHSP01
-"Sage Shoulders 1"
+"Épaulettes de sage 1"
 END
 
 CreateAHero:BlingName_DwarfSage_CHSP02
-"Sage Shoulders 2"
+"Épaulettes de sage 2"
 END
 
 CreateAHero:BlingName_DwarfSage_CHSP03
-"Sage Shoulders 3"
+"Épaulettes de sage 3"
 END
 
 
@@ -38035,92 +38035,92 @@ END
 /////////////////////
 
 CreateAHero:BlingName_ORC_CHBOD01
-"Orc Chestpiece 1"
+"Plastron d'orque 1"
 End
 
 CreateAHero:BlingName_ORC_CHBOD02
-"Orc Chestpiece 2"
+"Plastron d'orque 2"
 End
 
 CreateAHero:BlingName_ORC_CHBOD03
-"Orc Chestpiece 3"
-End
+"Plastron d'orque 3"
+end
 
-/////////////////////
-/// Uruk Gear
-/////////////////////
+/////////////////////////
+// Équipements d'Uruks //
+/////////////////////////
 
 CreateAHero:BlingName_Uruk_CHB01
-"Boots 1"
+"Bottes 1"
 End
 
 CreateAHero:BlingName_Uruk_CHB02
-"Boots 2"
+"Bottes 2"
 End
 
 CreateAHero:BlingName_Uruk_CHB03
-"Boots 3"
+"Bottes 3"
 End
 
 CreateAHero:BlingName_Uruk_CHG03
-"Gauntlets 1"
+"Gantelets 1"
 End
 
 CreateAHero:BlingName_Uruk_CHH01
-"Helmet 1"
+"Casque 1"
 End
 
 CreateAHero:BlingName_Uruk_CHH02
-"Helmet 2"
+"Casque 2"
 End
 
 CreateAHero:BlingName_Uruk_CHH03
-"Helmet 3"
+"Casque 3"
 End
 
 CreateAHero:BlingName_Uruk_CHHAIR01
-"Helmet 4"
+"Casque 4"
 End
 
 CreateAHero:BlingName_Uruk_CHS01
-"Shield 1"
+"Bouclier 1"
 End
 
 CreateAHero:BlingName_Uruk_CHS02
-"Shield 2"
+"Bouclier 2"
 End
 
 CreateAHero:BlingName_Uruk_CHS03
-"Shield 3"
+"Bouclier 3"
 End
 
 CreateAHero:BlingName_Uruk_CHS04
-"Shield 4"
+"Bouclier 4"
 End
 
 CreateAHero:BlingName_Uruk_CHSP01
-"Shoulders 1"
+"Épaules 1"
 End
 
 CreateAHero:BlingName_Uruk_CHSP02
-"Shoulders 2"
+"Épaules 2"
 End
 
 CreateAHero:BlingName_Uruk_CHSP03
-"Shoulders 3"
+"Épaules 3"
 End
 
 CreateAHero:BlingName_Uruk_Sword_01
-"Uruk Sword 1"
-End
+"Epée d'Uruk 1"
+END
 
 CreateAHero:BlingName_Uruk_Sword_02
-"Uruk Sword 2"
-End
+"Epée d'Uruk 2"
+END
 
 CreateAHero:BlingName_Uruk_Sword_03
-"Uruk Sword 3"
-End
+"Epée d'Uruk 3"
+END
 
 CreateAHero:BlingDesc_Uruk_CHG03
 "Uruk 1"
@@ -38155,27 +38155,27 @@ CreateAHero:BlingDesc_Uruk_CHSP03
 End
 
 CreateAHero:BlingDesc_Uruk_Sword_01
-"Uruk Sword 1"
-End
+"Epée d'Uruk 1"
+END
 
 CreateAHero:BlingDesc_Uruk_Sword_02
-"Uruk Sword 2"
-End
+"Epée d'Uruk 2"
+END
 
 CreateAHero:BlingDesc_Uruk_Sword_03
-"Uruk Sword 3"
-End
+"Epée d'Uruk 3"
+END
 
 CreateAHero:BlingName_UK_CHBOD01
-"Bare Chested"
+"Poitrine nue"
 END
 
 CreateAHero:BlingName_UK_CHBOD02
-"Obisidan Breastplate"
+"Plastron en obsidienne"
 END
 
 CreateAHero:BlingName_UK_CHBOD03
-"Iron Breastplate"
+"Plastron en fer"
 END
 
 //////////////////////
@@ -38183,72 +38183,72 @@ END
 ///////////////////////
 
 CreateAHero:BlingName_CorruptedMan_1_CHB01
-"Boots 1"
+"Bottes 1"
 End
 
 CreateAHero:BlingName_CorruptedMan_1_CHB02
-"Boots 2"
+"Bottes 2"
 End
 
 CreateAHero:BlingName_CorruptedMan_1_CHG01
-"Gauntlets 1"
+"Gantelets 1"
 End
 
 CreateAHero:BlingName_CorruptedMan_1_CHG02
-"Gauntlets 2"
+"Gantelets 2"
 End
 
 CreateAHero:BlingName_CorruptedMan_1_CHH01
-"Helmet 1"
+"Casque 1"
 End
 
 CreateAHero:BlingName_CorruptedMan_1_CHH02
-"Helmet 2"
+"Casque 2"
 End
 
 CreateAHero:BlingName_CorruptedMan_1_CHH03
-"Helmet 3"
+"Casque 3"
 End
 
 CreateAHero:BlingName_CorruptedMan_1_CHH04
-"Helmet 4"
-End
+"Casque 4"
+END
 
 CreateAHero:BlingName_CorruptedMan_1_CHSP01
-"Shoulder Plates 1"
-End
+"Plaques d'épaules 1"
+END
 
 CreateAHero:BlingName_CorruptedMan_1_CHSP02
-"Shoulder Plates 2"
-End
+"Plaques d'épaules 2"
+END
 
 CreateAHero:BlingName_CM_CHBOD01
-"Easterling Chestpiece 1"
-End
+"Plastron d'Oriental 1"
+END
 
 CreateAHero:BlingName_CM_CHBOD02
-"Easterling Chestpiece 2"
-End
+"Plastron d'Oriental 2"
+END
 
 CreateAHero:BlingName_CM_CHBOD03
-"Easterling Chestpiece 3"
-End
+"Plastron d'Oriental 3"
+END
 
 CreateAHero:BlingName_CM_CHBOD04
-"Easterling Chestpiece 4"
-End
+"Plastron d'Oriental 4"
+END
 
 CreateAHero:BlingName_CM_CHBOD05
-"Easterling Chestpiece 5"
-End
+"Plastron d'Oriental 5"
+END
 
 CreateAHero:BlingName_CMSword01
-"Corrupted Man Sword 1"
-End
+"Epée d'Homme corrompu 1"
+END
 
 CreateAHero:BlingName_CMSword02
-"Corrupted Man Sword 2"
-End
+"Epée d'Homme corrompu 2"
+END
 
 
 ///////////////////
@@ -38256,24 +38256,24 @@ End
 ////////////////////
 
 CreateAHero:BlingName_CM02_CHBOD01
-"Haradrim Chestpiece 1"
-End
+"Plastron d'Haradrim 1"
+END
 
 CreateAHero:BlingName_CM02_CHBOD02
-"Haradrim Chestpiece 2"
-End
+"Plastron d'Haradrim 2"
+END
 
 CreateAHero:BlingName_CM02_CHBOD03
-"Haradrim Chestpiece 3"
-End
+"Plastron d'Haradrim 3"
+END
 
 CreateAHero:BlingName_CM02_CHBOD04
-"Haradrim Chestpiece 4"
-End
+"Plastron d'Haradrim 4"
+END
 
 CreateAHero:BlingName_CM02_CHBOD05
-"Haradrim Chestpiece 5"
-End
+"Plastron d'Haradrim 5"
+END
 
 
 
@@ -38281,52 +38281,52 @@ End
 
 
 CreateAHero:BlingName_NoShield
-"No shield"
+"Pas de bouclier"
 END
 
 CreateAHero:BlingName_FireBrand
-"Firebrand Sword"
-End
+"Epée de la discorde"
+END
 
 CreateAHero:BlingName_Gurthang
-"Gurthang Sword"
-End
+"Epée Gurthang"
+END
 
 CreateAHero:BlingName_MithlondBow
-"Mithlond Bow"
-End
+"Arc de Mithlond"
+END
 
 CreateAHero:BlingName_NoBoots
-"No Boots"
-End
+"Pas de bottes"
+END
 
 CreateAHero:BlingName_NoGauntlets
-"No Gauntlets"
-End
+"Pas de gantelets"
+END
 
 CreateAHero:BlingName_NoHelmet
-"No Helmet"
-End
+"Pas de casque"
+END
 
 CreateAHero:BlingName_NoShoulderPlates
-"No Shoulder Plates"
-End
+"Pas de plaques d'épaules"
+END
 
 CreateAHero:BlingName_TrollBane
-"TrollBane"
-End
+"Fléau de Troll"
+END
 
 CreateAHero:BlingName_TrollMace
-"Troll Mace"
-End
+"Masse d'armes de Troll"
+END
 
 CreateAHero:BlingName_TrollSword
-"Troll Sword"
-End
+"Epée de Troll"
+END
 
 CreateAHero:BlingName_Westron
-"Westron Sword"
-End
+"Epée Ouistrain"
+END
 
 
 
@@ -38335,146 +38335,146 @@ End
 // Advanced options screen texts
 //
 APT:MasterOption_VeryLow
-"Very Low"
-End
+"Très bas"
+END
 
 APT:MasterOption_Low
-"Low"
-End
+"Bas"
+END
 
 APT:MasterOption_Medium
-"Medium"
-End
+"Moyen"
+END
 
 APT:MasterOption_High
-"High"
-End
+"Elevé"
+END
 
 APT:MasterOption_UltraHigh
-"Ultra High"
-End
+"Très élevé"
+END
 
 APT:MasterOption_Custom
-"Custom"
-End
+"Personnalisé"
+END
 
 //
 // Model LOD
 //
 APT:AdvancedOption_ModelLOD
-"Model Detail"
-End
+"Modélisation"
+END
 
 APT:AdvancedOption_ModelLOD_Low
-"Low"
-End
+"Basse"
+END
 
 APT:AdvancedOption_ModelLOD_Medium
-"Medium"
-End
+"Moyenne"
+END
 
 APT:AdvancedOption_ModelLOD_High
-"High"
-End
+"Elevée"
+END
 
 APT:AdvancedOption_ModelLOD_UltraHigh
-"Ultra High"
-End
+"Très élevée"
+END
 
 //
 // Animation LOD
 //
 APT:AdvancedOption_AnimationLOD
-"Animation Detail"
-End
+"Animations"
+END
 
 APT:AdvancedOption_AnimationLOD_VeryLow
-"Very Low"
-End
+"Très basses"
+END
 
 APT:AdvancedOption_AnimationLOD_Low
-"Low"
-End
+"Basses"
+END
 
 APT:AdvancedOption_AnimationLOD_Medium
-"Medium"
-End
+"Moyennes"
+END
 
 APT:AdvancedOption_AnimationLOD_High
-"High"
-End
+"Elevées"
+END
 
 APT:AdvancedOption_AnimationLOD_UltraHigh
-"Ultra High"
-End
+"Très élevées"
+END
 
 //
 // Effects LOD
 //
 APT:AdvancedOption_EffectsLOD
-"VFX Detail"
-End
+"Effets"
+END
 
 APT:AdvancedOption_EffectsLOD_VeryLow
-"Very Low"
-End
+"Très bas"
+END
 
 APT:AdvancedOption_EffectsLOD_Low
-"Low"
-End
+"Bas"
+END
 
 APT:AdvancedOption_EffectsLOD_Medium
-"Medium"
-End
+"Moyens"
+END
 
 APT:AdvancedOption_EffectsLOD_High
-"High"
-End
+"Elevés"
+END
 
 APT:AdvancedOption_EffectsLOD_UltraHigh
-"Ultra High"
-End
+"Très élevés"
+END
 
 //
 // Decal LOD
 //
 APT:AdvancedOption_DecalLOD
-"Decal Detail"
-End
+"Décal"
+END
 
 APT:AdvancedOption_DecalLOD_Off
-"Off"
-End
+"Désactivé"
+END
 
 APT:AdvancedOption_DecalLOD_Low
-"Low"
-End
+"Bas"
+END
 
 APT:AdvancedOption_DecalLOD_High
-"High"
-End
+"Elevés"
+END
 
 //
 // Water LOD
 //
 APT:AdvancedOption_WaterLOD
-"Water Detail"
-End
+"Détails de l'eau"
+END
 
 APT:AdvancedOption_WaterLOD_Low
-"Low"
-End
+"Bas"
+END
 
 APT:AdvancedOption_WaterLOD_Medium
-"Medium"
-End
+"Moyens"
+END
 
 APT:AdvancedOption_WaterLOD_High
-"High"
-End
+"Elevés"
+END
 
 APT:AdvancedOption_WaterLOD_UltraHigh
-"Ultra High"
+"Très élevés"
 END
 
 
@@ -38482,85 +38482,85 @@ END
 // Shadow LOD
 //
 APT:AdvancedOption_ShadowLOD
-"Shadows"
-End
+"Ombres"
+END
 
 APT:AdvancedOption_ShadowLOD_Off
-"Off"
-End
+"Désactivées"
+END
 
 APT:AdvancedOption_ShadowLOD_Low
-"Low"
-End
+"Bas"
+END
 
 APT:AdvancedOption_ShadowLOD_Medium
-"Medium"
-End
+"Moyens"
+END
 
 APT:AdvancedOption_ShadowLOD_High
-"High"
-End
+"Elevés"
+END
 
 //
 // Terrain LOD
 //
 APT:AdvancedOption_TerrainLOD
-"Terrain Detail"
-End
+"Terrain"
+END
 
 APT:AdvancedOption_TerrainLOD_Low
-"Low"
-End
+"Bas"
+END
 
 APT:AdvancedOption_TerrainLOD_Medium
-"Medium"
-End
+"Moyens"
+END
 
 APT:AdvancedOption_TerrainLOD_High
-"High"
-End
+"Elevés"
+END
 
 //
 // TextureQuality LOD
 //
 APT:AdvancedOption_TextureQualityLOD
-"Texture Quality"
-End
+"Textures"
+END
 
 APT:AdvancedOption_TextureQualityLOD_Low
-"Low"
-End
+"Bas"
+END
 
 APT:AdvancedOption_TextureQualityLOD_Medium
-"Medium"
-End
+"Moyens"
+END
 
 APT:AdvancedOption_TextureQualityLOD_High
-"High"
-End
+"Elevés"
+END
 
 //
 // Shader LOD
 //
 APT:AdvancedOption_ShaderLOD
-"Shader Detail"
-End
+"Détails de l'Ombrage"
+END
 
 APT:AdvancedOption_ShaderLOD_Low
-"Low"
-End
+"Bas"
+END
 
 APT:AdvancedOption_ShaderLOD_Medium
-"Medium"
-End
+"Moyens"
+END
 
 APT:AdvancedOption_ShaderLOD_High
-"High"
-End
+"Elevés"
+END
 
 APT:AdvancedOption_ShaderLOD_UltraHigh
-"Ultra High"
-End
+"Très élevés"
+END
 
 
 
@@ -38568,15 +38568,15 @@ End
 //////  Added on October 26
 
 TOOLTIP:LackLevel3Stables
-"Requires Level 3 Stables"
+"Requiert : Écurie niveau 3."
 END
 
 CONTROLBAR:ConstructGondorRangerSummonedHorde
-"T&rain Rangers of the North"
+"Rôdeurs Dúnedain du Nord"
 END
 
 CONTROLBAR:ToolTipBuildGondorRangerSummonedHorde
-"Strong at Range"
+"Les Rôdeurs Dúnedain sont les descendants des hommes d'Arnor. Depuis la chute de Fornost, ils sont forcés de vivre dans les terres sauvages, où ils chassent les Orques et toutes les créatures du Mal.\n\nForts à distance"
 END
 
 
@@ -38588,89 +38588,89 @@ END
 /////////////////////////////
 
 CONTROLBAR:CancelWallSpan
-"Cancel Wall Span"
+"Annuler la portée du mur"
 END
 
 CONTROLBAR:ToolTipCancelWallSpan
-"Destroys the wall and refunds resources"
+"Détruit le mur et récupère les ressources"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeSentryTowerForgedBlades
-"Upgrade this Battle Tower with Mithril-tipped Arrows \n Increases damage done by arrows"
+"Améliore la Tour avec des Flèches à pointes de Mithril : augmente les dégâts des flèches."
 END
 
 CONTROLBAR:Trollfindgoblintothrow
-"&Pick up Goblin"
+"Détecter Gobelin"
 END
 
 OBJECT:NaturesWrath
-"Tornado"
+"Tornade"
 END
 
 OBJECT:Whirlwind
-"Tornado"
+"Tornade"
 END
 
 OBJECT:HordeDunedainRanger
-"Rangers of the North"
+"Rôdeurs Dúnedain du nord"
 END
 
 CONTROLBAR:StopBombard
-"Stop Bombarding (&R)"
+"Arrêter le bombardement (&R)"
 END
 
 CONTROLBAR:ToolTipCommandStopBombard
-"Left click to stop bombarding"
+"Clic gauche pour arrêter le bombardement."
 END
 
 APT:SelectFaction
-"Select Faction"
+"Sélectionnez une faction"
 END
 
 APT:Overall
-"Overall"
+"Total"
 END
 
 OBJECT:BlueMountainFortressGate
-"Blue Mountain Fortress Gate"
+"Porte de la forteresse des Montagnes Bleues"
 END
 
 OBJECT:bmgodray
-"Mission Objective"
+"Objectif de mission"
 End
 
 OBJECT:FornostSuperWeapon
-"Earth Hammer"
+"Marteau de la Terre"
 END
 
 OBJECT:RivendellMainHouse
-"Elrond's House"
+"Maison d'Elrond"
 END
 
 OBJECT:RivendellGateRightSide
-"Eastern Gate"
+"Porte est"
 END
 
 OBJECT:RivendellGate
-"Rivendell Front Gate"
+"Porte principale d'Imladris"
 End
 
 OBJECT:RivendellGateLeftSide
-"Western Gate"
+"Porte ouest"
 End
 
 
 
 OBJECT:GreyHavensTowerA
-"Grey Havens Battle Tower"
+"Tour de guerre des Havres Gris"
 END
 
 OBJECT:GreyHavensBattleTower
-"Grey Havens Battle Tower"
+"Tour de guerre des Havres Gris"
 END
 
 OBJECT:ElrondsHouse
-"Elrond's House"
+"Maison d'Elrond"
 END
 
 OBJECT:CarasGaladhon
@@ -38678,7 +38678,7 @@ OBJECT:CarasGaladhon
 END
 
 OBJECT:RivendellBattleTower
-"Rivendell Battle Tower"
+"Tour de guerre d'Imladris"
 END
 
 HUD:InstructionalNotificationTitle
@@ -38688,78 +38688,78 @@ END
 
 HUD:NewObjectiveNotificationTitle
 //Context: The title text for a "new objective" in-game notification
-"New Objective"
+"Nouvel objectif"
 END
 
 HUD:ObjectiveReminderNotificationTitle
 //Context: The title text for an objective reminder in-game notification
-"Reminder"
+"Pense-bête"
 END
 
 HUD:ObjectiveCompletedNotificationTitle
 //Context: The title text for an "objective completed" in-game notification
-"Objective Completed"
+"Objectif atteint"
 END
 
 HUD:HintNotificationTitle
 //Context: The title text for a hint in-game notification
-"Hint"
+"Conseil"
 END
 
 HUD:NewBonusObjectiveNotificationTitle
 //Context: The title text for a "new bonus objective" in-game notification
-"New Bonus Objective"
+"Nouvel objectif bonus"
 END
 
 HUD:BonusObjectiveCompletedNotificationTitle
 //Context: The title text for a "bonus objective completed" in-game notification
-"Bonus Objective Completed"
+"Objectif bonus atteint"
 END
 
 HUD:HeroGrantedNotificationTitle
 //Context: The title text for a "hero granted" in-game notification
-"New Hero"
+"Nouveau héros"
 END
 
 HUD:HeroInitialSpawnMessage
 //Context: message displayed whenever a hero is initially built
-"%s has arrived"
+"%s rejoint nos rangs !"
 END
 
 HUD:HeroRespawnMessage
 //Context: message displayed whenever a hero is rebuilt
-"%s has returned"
+"%s est de retour !"
 END
 
 HUD:HeroDeathMessage
 //Context: message displayed whenever a hero has died
-"%s has fallen"
+"%s a succombé !"
 END
 
 HUD:HeroEarnedAwardMessage
 //Context: message displayed whenever a create-a-hero hero earns an award
-"%s has earned %s"
+"%s a gagné %s"
 END
 
 TOOLTIP:LackVenomSacks
 //"Requires Level 3 Spider Pit"
-"Requires Level 2 Spider Lair"
+"Requiert niveau 2 de l'antre d'araignée"
 END
 
 OBJECT:Watcher
-"The Watcher"
+"Le Guetteur"
 END
 
 OBJECT:Wyrm
-"Were-worm"
+"Mange-Terre"
 END
 
 TOOLTIP:LackLevel2EregionForge
-"Requires Level 2 Golden Wood Storehouse"
+"Requiert la Réserve du Bois Doré niveau 2."
 END
 
 TOOLTIP:LackLevel3EregionForge
-"Requires Level 3 Golden Wood Storehouse"
+"Requiert la Réserve du Bois Doré niveau 3."
 END
 
 TOOLTIP:LackLevel2Treasury
@@ -38777,53 +38777,53 @@ END
 
 
 OBJECT:ElvenCeleborn
-"Celeborn"
+"Seigneur Celeborn"
 END
 
 OBJECT:SummonedDragon
-"Summoned Dragon"
+"Dragon invoqué"
 END
 
 OBJECT:CaveBats
-"Cave Bats"
+"Chauves-souris des Cavernes"
 END
 
 CONTROLBAR:Barrage
-"Barrage"
+"Bombardement"
 END
 
 CONTROLBAR:ToolTipBarrage
-"Continuously bombard target area with a volley of projectiles\n Left click icon then left click on target area"
+"Vise continuellement une zone ciblée avec une volée de projectiles. \n\n Clic gauche sur l'icône puis clic gauche sur la zone cible."
 END
 
 
 
 TOOLTIP:LackClimbWalls
-"Requires appropriate level"
+"Requiert : niveau approprié"
 END
 
 TOOLTIP:LackOilCasks
-"Requires Oil Casks Fortress upgrade"
+"Requiert : l'amélioration tonneaux d'huile pour la forteresse."
 END
 
 OBJECT:GondorWallGate
-"Gate"
+"Porte"
 END
 
 OBJECT:GondorWallHub
-"Wall Hub"
+"Assise"
 END
 
 OBJECT:IsengardWallHubExpansion
-"Wall Hub Expansion"
+"Extension Assise"
 END
 
 TOOLTIP:LackGondorFireArrowsTechnology
-"Requires Level 3 Archery Range"
+"Requiert : Archerie niveau 3."
 END
 
 TOOLTIP:LackGreyCompanyFireArrowsTechnology
-"Requiert : Forge niveau 3."
+"Requiert : Forge niveau 3"
 END
 
 TOOLTIP:LackArnorForgedBladesTechnology
@@ -38839,7 +38839,7 @@ TOOLTIP:LackSilverthornTechnology
 END
 
 CONTROLBAR:ArcherBarrage
-"Bombard (&W)"
+"Bombardement (&W)"
 END
 
 CONTROLBAR:ToolTipBuildFireDrake
@@ -48941,51 +48941,47 @@ ToolTip:OpeningMenu/QuitButton
 END
 
 ToolTip:CAHClasses_CaptainofGondor
-"Captain of Gondor"
+"Capitaine du Gondor"
 END
 
 ToolTip:CAHClasses_ShieldMaiden
-"Shield Maiden"
+"Damoiselle Protectrice"
 END
 
 ToolTip:CAHClasses_Elf
-"Elf"
+"Elfe"
 END
 
 ToolTip:CAHClasses_MaleElf
-"Male Elven Archer"
+"Archer elfe"
 END
 
 ToolTip:CAHClasses_FemaleElf
-"Female Elven Archer"
+"Archère elfe"
 END
 
 ToolTip:CAHClasses_Wizard
-"Wizard"
+"Magicien"
 END
 
 ToolTip:CAHClasses_Wanderer
-"Wanderer"
-END
-
-ToolTip:CAHClasses_Avatar
-"Avatar"
+"Nomade"
 END
 
 ToolTip:CAHClasses_Dwarf
-"Dwarf"
+"Nain"
 END
 
 ToolTip:CAHClasses_Taskmaster
-"Ironbreaker"
+"Brise-fer"
 END
 
 ToolTip:CAHClasses_Sage
-"Slayer"
+"Tueur"
 END
 
 ToolTip:CAHClasses_ServantofSauron
-"Servant of Sauron"
+"Serviteur de Sauron"
 END
 
 ToolTip:CAHClasses_Troll
@@ -48993,7 +48989,7 @@ ToolTip:CAHClasses_Troll
 END
 
 ToolTip:CAHClasses_OrcRaider
-"Orc Raider"
+"Détrousseur Orque"
 END
 
 ToolTip:CAHClasses_Uruk
@@ -49001,11 +48997,11 @@ ToolTip:CAHClasses_Uruk
 END
 
 ToolTip:CAHClasses_CorruptedMan
-"Corrupted Man"
+"Homme corrompu"
 END
 
 ToolTip:CAHClasses_Easterling
-"Easterling"
+"Oriental"
 END
 
 ToolTip:CAHClasses_Haradrim
@@ -49013,98 +49009,98 @@ ToolTip:CAHClasses_Haradrim
 END
 
 ToolTip:CreateaHero/Main/mcAppearanceScreen/Screen/TypeWindow/TabButtons/Appearance/Button
-"Adjust your Hero's clothing and appearance"
+"Modifier l'apparence et les vêtements du héros"
 END
 
 ToolTip:CreateaHero/Main/mcAppearanceScreen/Screen/TypeWindow/TabButtons/Attributes/Button
-"Distribute and adjust your Hero's attribute points"
+"Distribuer et modifier les points d'attributs du héros"
 END
 
 ToolTip:CreateaHero/Resetpowers
-"Remove all the current powers"
+"Retirer tous les pouvoirs actuels"
 END
 
 ToolTip:Settings/HighQualityAudio
-"Enables more immersive sounds and music, but may decrease performance"
+"Permet d'entendre une musique et des sons avec plus d'immersion, mais peut faire baisser les performances"
 END
 
 ToolTip:Settings/EAX
-"Enables EAX sound if you have an EAX compatible sound card"
+"Activer le son EAX si vous avez une carte son compatible EAX"
 END
 
 ToolTip:Settings/CustomSettings
-"Click here to change advanced graphics settings"
+"Cliquez ici pour modifier les paramètres graphiques avancés"
 END
 
 Tooltip:Skirmish/ProfileMenu/ProfileStats/Bttn
-"Look at your profile's stats"
+"Affichez vos statistiques de profil"
 END
 
 Tooltip:Skirmish/ProfileMenu/ProfileStats/Bttn/Change
-"Switch to a different profile"
+"Changer de profil"
 END
 
 Tooltip:Skirmish/ProfileMenu/ProfileStats/Bttn/New
-"Create a new profile"
+"Créer un nouveau profil"
 END
 
 Tooltip:Skirmish/ProfileMenu/ProfileStats/Bttn/Delete
-"Enter the delete profile menu"
+"Menu d'effacement de profil"
 END
 
 Tooltip:Skirmish/ProfileMenu/ProfileStats/Bttn/Stats
-"View the current profile's stats"
+"Afficher les statistiques actuelles du profil"
 END
 
 ToolTip:WaroftheRing_Rules_TacticalPhaseTimer
-"Sets the amount of time available to make decisions in the Tactical Phase"
+"Règle la durée de prises de décisions lors de la Phase Tactique"
 END
 
 ToolTip:WaroftheRing_Rules_BattleType
-"Deterimines how battles can be resolved"
+"Détermine la façon dont les batailles sont résolues"
 END
 
 ToolTip:WaroftheRing_Rules_BattleTypePriority
-"Determines whether a battle will be decided through real-time or auto-resolve if players choose differently"
+"Détermine si une bataille sera réglée en temps-réel ou en auto-résolution"
 END
 
 ToolTip:WaroftheRing_Rules_AutoResolveDisplay
-"Decides if the battle progress animation will be shown during auto-resolved battles"
+"Afficher ou non les animations de bataille pendant les phases de combat auto-résolues"
 END
 
 ToolTip:OnlineSettings/SendDelay
-"Sends a delay of the network signal"
+"Envoyer un délai au signal réseau"
 END
 
 ToolTip:OnlineSettings/RefreshNAT
-"Refreshes network settings allowing more compatible connectivity"
+"Rafra?chir les paramètres réseau pour plus de compatibilité de connexion"
 END
 
 
 
 TOOLTIP:AlreadySummonedCreature
-"This unit has already been recruited"
+"Cette unité a déjà été recrutée"
 END
 
 TOOLTIP:NeedtoRebuildUpgradeStructure
-"The structure that researches this upgrade must be rebuilt"
+"La structure qui permet cette recherche doit être reconstruite"
 END
 
 ToolTip:Skirmish/ProfileMenu/bttn
-"Create and manage a profile for tracking progress and statistics"
+"Créez et gérez un profil pour suivre votre progression et voir vos statistiques"
 END
 
 ToolTip:CreateaHero/Main/mcManagerScreen/Screen/TabNav/Appearance/TakePicture/bttn
-"Click here to take a full screenshot of your Hero"
+"Cliquez ici pour prendre une capture d'écran de votre héros"
 END
 
 APT:CaH_AwardEarned_PopHeader
-"Hero Award Earned!"
+"Récompense de héros obtenue !"
 END
 
 GUI:NATNotReady
 // context: error message shown if NAT is not done with all connections
-"Connections are in progress, or connection problem detected. Please click the Connections button where you can check every player's connection and retry."
+"Des connexions sont en cours ou des problèmes de connexion ont été détectés. Veuillez cliquer sur le bouton Connexions pour vérifier la connexion de chaque joueur et réessayer."
 END
 
 
@@ -49113,43 +49109,43 @@ END
 /////////////////////////////////////
 
 SCRIPT:HighPass_ExtraCampaignText
-"The attack on Rivendell came from farther North - but before we can track the evil to its source, we must clear High Pass of the Goblin invaders."
+"L'attaque sur Fondcombe venait de très loin dans le Nord mais nous devons traquer le mal à sa source, nous devons nettoyer le Haut Col des envahisseurs gobelins."
 END
 
 SCRIPT:Ettenmoors_ExtraCampaignText
-"In days of old, the Ettenmoors were home to the Witch-king of Angmar. Now the new Goblin Leader has taken these lands for his own. Goblin armies spread wildly through the mountains and will threaten Rivendell again if we don't stop them here."
+"En des temps reculés, Les Landes d'Etten étaient le lieu de villégiature du roi sorcier d'Angmar. Dorénavant, le roi Gobelin s'est accaparé ces terres. Les armées gobelines se dispersent partout dans les montagnes et finiront par menacer Fondcombe si nous ne les stoppons pas ici."
 END
 
 SCRIPT:Shire_ExtraCampaignText
-"The Hobbits of The Shire have caused our Dark Lord much trouble. Our domination of Eriador would not be complete without crushing this pocket of resistance."
+"Les Hobbits de la Comté ont causé certains tracas à notre Seigneur des Ténébres. Notre domination sur l'Eriador ne sera pas complète tant que nous n'aurons pas annihilé cette poche de Résistance."
 END
 
 SCRIPT:Shire_ExtraCampaignTextAgain
-"Now listen up...the Hobbits have four Seats of Power. Destroy these buildings, and we quell whatever hope they might have for reprisal."
+"Maintenant écoutez bien....les hobbits possèdent quatre sièges du pouvoir. Détruisez ces bâtiments, et nous pourrons alors juguler plus facilement toute tentative de représailles."
 END
 
 SCRIPT:Fornost_ExtraCampaignText
-"The remaining Dúnedain of this region have rallied the help of the Blue Mountain Dwarves. It is in the old fortress of Fornost where they will see their last moments. Once our work here is done, all of the lands West of the Misty Mountains will be ours!"
+"Les derniers Dúnedains de cette région ont obtenu l'aide des Nains des Montagnes Bleues. C'est dans l'ancienne forteresse de Fornost qu'ils vivront leurs derniers instants. Une fois que notre travail ici sera terminé, toutes les terres à l'ouest des Monts Brumeux seront à nous!"
 END
 
 SCRIPT:Mirkwood_ExtraCampaignText
-"The northern lands of Mirkwood are the home of the Wood-elves. The first step in expelling them from their forest home is to seize the Old Forest Road. Once we control this road, we can dominate the rest of Mirkwood with ease."
+"Les terres au Nord de la Forêt Noire sont la patrie des Elfes sylvestres. La première étape pour les expulser de leur habitat forestier est de s'emparer de l'ancienne route forestière. Une fois cette route contrôlée, nous pourrons dominer le reste de la forêt avec facilité."
 END
 
 SCRIPT:WitheredHeath_ExtraCampaignText
-"We must earn favor with the dragons here. Destroy any Dwarf settlements you encounter."
+"Nous devons gagner la faveur des dragons ici. Détruisez tous les camps des nains que vous rencontrerez."
 END
 
 SCRIPT:WitheredHeath_ExtraCampaignText_Again
-"The Dwarves are capturing the Dragons when they are still young. These Drakes can be very powerful. Free any Drakes that they might have captured, and they will join us against the Dwarves!"
+"Les Nains capturent les dragons quand ils sont encore jeunes. Ces drakes peuvent être très puissants. Libérez tous les drakes qui ont pu être capturés et ils se joindront à nous contre les Nains!"
 END
 
 SCRIPT:Erebor_ExtraCampaignText
-"Our supply lines are thin. Pillage Dale for any resources you can find. Then lay siege to the Dwarven mountain fortress of Erebor. Shelob and the spiders of Mirkwood have been sent as scouts due to their speed and their appetite for destruction."
+"Nos lignes d'approvisionnement sont minces. Pillez la ville de Dale et amassez toutes les ressources que vous pouvez trouver. Puis assiégez la forteresse naine d'Erebor. Arachne et les araignées de la forêt Noire ont été envoyées en éclaireurs en raison de leur rapidité et de leur appétit de destruction."
 END
 
 SCRIPT:Rivendell_ExtraCampaignText
-"Frodo, the free people's last hope, lies dead. Gorkil begins the siege of Rivendell while the Dark Lord makes his way west. Crush the last haven for the Elves."
+"Frodon, le dernier espoir des peuples libres, est mort. Gorkil commence le siège de Fondcombe tandis que le Seigneur des Ténèbres se dirige vers l'ouest. Écrasez le dernier refuge des Elfes."
 END
 
 
@@ -49158,27 +49154,27 @@ END
 //// New random stuff ///
 /////////////////////////
 GUI:StuckAsObserverInStrategicRTSGameMessage
-"Your have forfeited from this encounter. You are now an observer since an allied human player remains in the battle."
+"Vous avez perdu ce Combat. Vous êtes maintenant un observateur puisqu'un joueur humain allié reste dans la bataille."
 END
 
 TOOLTIP:LackDragonNestWebCocoon
-"Requires the Gundabad Spires upgrade \n Temporarily summons 5 hordes of Moria-orc Screechers"
+"Requiert : Donjon de Gundabad\nPermet d'invoquer de façon permanente 5 hordes d'Orques de la Moria."
 END
 
 TOOLTIP:LackEagleNestEncasingVines
-"Requires Encasing Vines upgrade \n Allows summoning of a Giant Eagle"
+"Requiert : l'amélioration Vignes enchevêtrées.\n Permet d'invoquer un aigle"
 END
 
-OBJECT:ArgonathStatues"
-"Argonath Statue"
+OBJECT:ArgonathStatues
+"Statues de l'Argonath"
 END
 
 CONTROLBAR:FireWeaponMightyCatapult
-"Launch Mighty &Catapult"
+"Utiliser la catapulte lourde"
 END
 
 CONTROLBAR:ToolTipFireWeaponMightyCatapult
-"Fires a barrage of flaming rocks at an area surrounding the Fortress \n Left click icon then left click on target area"
+"Envoie un barrage de rochers enflammés dans une zone entourant la forteresse.\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
 END
 
 
@@ -52135,7 +52131,7 @@ OBJECT:ArnorCastleKeep_temp
 End
 
 OBJECT:ArnorCastleWallHub
-"Wall Hub Expansion"
+"Extension Assise"
 End
 
 OBJECT:ArnorCastleWallUpgradeNode
@@ -52981,7 +52977,7 @@ OBJECT:AngmarKennelExpansion
 END
 
 OBJECT:AngmarCastleWallHubExpansion
-"Wall Hub Expansion"
+"Extension Assise"
 END
 
 OBJECT:AngmarBattleTowerExpansion
@@ -66331,11 +66327,11 @@ TOOLTIP:LackHardenedSkin
 END
 
 CONTROLBAR:PurchaseUpgradeWildFortressDrumsInTheDeep
-"Drums in the Deep (&F)"
+"Tambours des Profondeurs (&F)"
 END
 
 CONTROLBAR:PurchaseUpgradeWildFortressDrumsInTheDeepMoria
-"Drums in the Deep (&D)"
+"Tambours des Profondeurs (&D)"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeWildFortressDrumsInTheDeep
