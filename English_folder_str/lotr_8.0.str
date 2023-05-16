@@ -1866,82 +1866,82 @@ END
 
 GUI:GameSaveComplete
 // context: Message displayed after a game has been successfully saved
-"*** Game Saved ***"
+"*** Sauvegarde réussie ***"
 END
 
 GUI:ReplaySaveComplete
 // context: Message displayed after a replay has been successfully saved
-"*** Replay Saved ***"
+"*** Rediffusion sauvegardée ***"
 END
 
 GUI:ReplaySaveError
 // context: Message displayed after a replay has been successfully saved
-"*** ERROR With Saving Replay ***"
+"*** ERREUR lors de la sauvegarde de la rediffusion ***"
 END
 
 APT:ReplaySaveCompleteMessageBox
 // context: Text for message boxed displayed after a replay has been successfully saved after a game
-"Replay saved successfully"
+"Rediffusion sauvegardée"
 END
 
 APT:ReplaySaveErrorMessageBox
 // context: Text for message boxed displayed after a replay has not been saved after a game
-"Error with saving replay"
+"Erreur : rediffusion non sauvegardée"
 END
 
 GUI:Retry
 // context: Button use in error dialogs to go back and try to resume the the normal function of the game, also used to 
-"PLAY AGAIN?"
+"Rejouer ?"
 END
 
 GUI:MainMenu
 // context: Main Menu screen title
-"EXIT"
+"Quitter"
 END
 
 APT:MainMenu
 // context: Main Menu screen title
-"MAIN MENU"
+"MENU PRINCIPAL"
 END
 
 GUI:RecentSave
 // context: Load the last saved game
-"Recent Save"
+"Dernière sauvegarde"
 END
 
 GUI:GetUpdate
 // context: Button to connect to our servers and get the last update of the game
-"Get Update"
+"Mettre à jour"
 END
 
 APT:DirectConnect
 // context: Button to set a direct TCP/IP connection with other user over a LAN or Internet knowing their IP address
-"Direct Connect"
+"Conn. directe"
 END
 	//
 GUI:DirectConnect
 // SKB:TO DELETE context: Button to set a direct TCP/IP connection with other user over a LAN or Internet knowing their IP address
-"Direct Connect"
+"Conn. directe"
 END
 
 GUI:WorldBuilder
 // context: The name of Battle for Middle-earth map editor
-"Middle-earth Builder"
+"Editeur Terre du Milieu"
 END
 
 GUI:WorldBuilderLoadFailed
 // context: Error dialog shown when Worldbuilder editor fails to execute 
-"Middle-earth Builder failed to load."
+"Echec chargement éditeur Terre du Milieu."
 END
 
 GUI:DontUseAccount
 // context: Use to allow the user to select a different account with the matching service
-"Don't Use Account"
+"Ne pas utiliser compte"
 END
 
 GUI:UseAccount
 // context: Use to allow the user to select the displayed account with the matching service
-"Use Account"
+"Utiliser compte"
 END
 
 GUI:Score
@@ -1951,102 +1951,102 @@ END
 
 GUI:ScoreScreen
 // context: Screen at the end of a game where the stats of the match are displayed
-"Score Screen"
+"Écran des scores"
 END
 
 GUI:Rehost
 // context: Host a game again with the same settings.
-"PLAY AGAIN?"
+"REJOUER?"
 END
 
 GUI:UnitsBuilt
 //context: Used in the Score screen to show how many units were built by a certain side
-"Units\nCreated"
+"Unités\ncréées"
 END
 
 GUI:UnitsLost
 //context: Used in the Score screen to show how many units were lost by a certain side
-"Units\nLost"
+"Unités\nperdues"
 END
 
 GUI:UnitsKilled
 //context: Used in the Score screen to show how many units from a certain side were kill
-"Units\nDestroyed"
+"Unités\ndétruites"
 END
 
 GUI:BuildingsBuilt
 //context: Used in the Score screen to show how many buildings were built by a certain side
-"Buildings\nConstructed"
+"Bâtiments\nConstruits"
 END
 
 GUI:BuildingsLost
 //context: Used in the Score screen to show how many units were lost by a certain side
-"Buildings\nLost"
+"Bâtiments\Perdus"
 END
 
 GUI:BuildingsKilled
 //context: Used in the Score screen to show how many units from a certain side were destroyed
-"Buildings\nDestroyed"
+"Bâtiments\ndétruits"
 END
 
 GUI:ResourcesCollected
 // context: Used in the Score screen to show how much money was collected
-"Supplies\nCollected"
+"Fournitures\nCollectées"
 END
 
 GUI:QuitPopupTitle
 // context: Dialog to confirm if the user wants exit the game
-"EXIT?"
+"QUITTER?"
 END
 
 GUI:QuitPopupMessage
 // context: Dialog to confirm if the user wants exit the game
-"Are you sure you want to exit?"
+"êtes-vous sûr de vouloir quitter?"
 END
 
 GUI:MaxSelectionSize
 // context: information tooltip displayed ingame to inform the user that he has reached the limit of units that he can select at once
-"You can only select %d units at one time."
+"Vous ne pouvez sélectionner que %d unités à la fois."
 END
 
 GUI:MessagesOn
 // context: tooltip text informing that the messages are enabled and can be used in the game
-"Messages Enabled."
+"Messages activés."
 END
 
 GUI:MissionDescription
 // context: Brief text describing the objective of the mission
-"Mission Description"
+"Description de la mission"
 END
 
 GUI:MOTD
 // context: MOTD stands for Message Of The Day - used only in online games
-"Message Of The Day"
+"Message du jour"
 END
 
 GUI:DesyncTitle
 // context: Error message in multiplayer games to inform ther players that the game can not continue because of discrepancies in the data between the diferent player machines 
-"Out of Synch"
+"Désynchronisé"
 END
 
 GUI:LadderDetails
 // context: right-click menu for Open Play game listbox
-"Ladder Info"
+"Infos Tournoi"
 END
 
 GUI:Ladder
 // context: Players tournament stats and results
-"Ladder"
+"Tournoi"
 END
 
 GUI:SystemMaps
 // context: SKB: To Remove. Button to list the official maps of the game 
-"Official Maps"
+"Cartes officielles"
 END
 
 GUI:UserMaps
 // SKB: To Remove context: Button to list the maps created by users and installed in the system 
-"Unofficial Maps"
+"Cartes non officielles"
 END
 
 GUI:HTTPProxy
@@ -2061,48 +2061,48 @@ END
  
 GUI:WaitingToBeginConnection
 // context: Status of NAT/Firewall negotiation. Waiting for our turn to start this connection.
-"Waiting to begin"
+"En attendant de commencer"
 END
 
 GUI:NetgearDelay
 // context: Status of NAT/Firewall negotiation. Waiting for the other to initiate contact.
-"Send Delay"
+"Délai d'envoi"
 END
 
 GUI:WaitingForManglerResponse
 // context: Status of NAT/Firewall negotiation. Waiting for a response from a server that tells us what our NAT'd IP address is.
-"Waiting for external Internet Provider response"
+"En attente de la réponse du fournisseur Internet externe"
 END
 
 GUI:WaitingForMangledPort
 // context: Status of NAT/Firewall negotiation. Waiting for this player to send us the proper port number to use.
-"Waiting for port number"
+"En attente du numéro de port"
 END
 
 GUI:WaitingForResponse
 // context: Status of NAT/Firewall negotiation. Waiting for the other player to tell us that they saw our port probe.
-"Waiting for probe response"
+"En attente de la réponse de la sonde"
 END
 
 GUI:ReceivedPorts
 // context: Status of NAT/Firewall negotiation. Have received port number for both my target and myself.
-"Have received port numbers"
+"Avoir reçu des numéros de port"
 END
 
 
 GUI:ConnectionDone
 // context: Status of NAT/Firewall negotiation. Our connection to this player is completed.
-"Connection is completed"
+"La connexion est terminée"
 END
 
 GUI:ConnectionFailed
 // context: Status of NAT/Fireall negotiation. Our connection to this other player failed.
-"Connection has failed"
+"La connexion a échoué"
 END
 
 GUI:UnknownConnectionState
 // context: Status of NAT/Firewall negotiation. Don't know what state we are in.
-"Status of NAT/Firewall is unknown"
+"L'état du NAT/du pare-feu est inconnu"
 END
 
 GUI:Ok
@@ -2116,7 +2116,7 @@ END
 
 GUI:No
 // context: Negative button
-"NO"
+"NON"
 END
 
 GUI:Cancel
@@ -2126,17 +2126,17 @@ END
 
 GUI:Back
 // context: Button to go back to the previous menu/screen
-"BACK"
+"RETOUR"
 END
 
 APT:Back
 // context: Button to go back to the previous menu/screen
-"BACK"
+"RETOUR"
 END
 
 GUI:Logout
 // context: Button to go back to the main menu from the online welcome screen
-"MAIN MENU"
+"MENU PRINCIPAL"
 END
 
 GUI:CancelMapSelect
@@ -2146,53 +2146,53 @@ END
 
 GUI:Accept
 // context: Button to accept the selected game options
-"ACCEPT"
+"ACCEPTER"
 END
 
 GUI:Defaults
 // context: Button on the game Options screen
-"DEFAULTS"
+"PAR DEFAUT"
 END
 
 
 GUI:Deny
 // context: Button to reject the selected map
-"Reject"
+"Rejeter"
 END
 
 GUI:Victory
 // context: Score screen message. Shows that last game won
-"Victory"
+"Victoire"
 END
 
 APT:EndVictorious
 // context: Popup screen at end of game telling you you won
-"VICTORIOUS"
+"VICTOIRE"
 END
 
 APT:EndDefeat
 // context: Popup screen at end of game telling you you list
-"DEFEATED"
+"DEFAITE"
 END
 
 APT:EndGameOver
 // context: Popup screen at end of game telling you (an observer) game is over
-"GAME OVER"
+"FIN DE LA PARTIE"
 END
 
 GUI:Add
 // context: Button to add a Buddy to your Buddys list 
-"Add"
+"Ajouter"
 END
 
 GUI:Delete
 // context: Button to delet a Buddy to your Buddys list
-"Remove"
+"Supprimer"
 END
 
 GUI:RemoveIgnore
 // context: Button to receive the messages from a Buddy/player if you previously ignore them
-"Remove Ignore"
+"Désignorer"
 END
 
 GUI:Play
