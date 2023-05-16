@@ -193,99 +193,99 @@ END
  
 GUI:Month
 // context: The month title on the Age Verification Box
-"Month (MM)"
+"Mois (MM)"
 END
 
 GUI:Day
 // context: The Day of the month
-"Day (DD)"
+"Jour (DD)"
 END
  
 GUI:Year
 // context: The Year
-"Year (YYYY)"
+"Année (YYYY)"
 END
 
 GUI:RandomSide
 // context: used on the player tooltip located on the Internet Lobby screen if that player plays as the random side
-"Random"
+"Aléatoire"
 END
 
 GUI:BuddyAddReq
 // context: message to user that someone wants to add them to their buddy.
-"The Lord of the Rings, The Rise of the Witch-king user wants to add a buddy"
+"Un joueur de LSDA, L'Avènement du Roi-sorcier veut vous ajouter à sa liste d'amis."
 END
  
  
 GUI:ControlBarBack
 // context: button located on the control bar when the user is in oberver mode and has selected a side to "Watch"
-"BACK"
+"RETOUR"
 END
 
 APT:Otherplayerisready
-"Other player is ready"
+"L'autre joueur est prêt."
 END
 
 APT:ExitWithoutSaving
-"Are you sure you want to exit without saving?"
+"Etes-vous sûr de vouloir quitter sans sauvegarder ?"
 END
 
 APT:AreYouSureYouWantToRestart
-"Are you sure you want to restart?"
+"Voulez-vous vraiment recommencer ?"
 END
 
 APT:AreYouSureYouWantToRestartMessage
-"Are you sure you want to restart?"
+"Voulez-vous vraiment recommencer ?"
 END
 
 APT:AreYouSureYouWantToSurrenderMessage
-"Are you sure you want to surrender?"
+"Etes-vous sûr de vouloir capituler ?"
 END
 
 APT:AreYouSureYouWantToForfeitMessage
-"Are you sure you want to forfeit?"
+"Etes-vous sûr de vouloir déclarer forfait ?"
 END
 
 APT:WorldMapTutorial
 // In Battle Movie tutorial, button to show WorldMap movie
-"WORLD MAP"
+"CARTE DU MONDE"
 END
 
 APT:ArmiesTutorial
 // In Battle Movie tutorial, button to show Armies movie
-"ARMIES"
+"ARMEES"
 END
 
 APT:HeroesTutorial
 // In Battle Movie tutorial, button to show Heroes movie
-"HEROES"
+"HEROS"
 END
 
 APT:CastlesTutorial
 // In Battle Movie tutorial, button to show Castles movie
-"CASTLES"
+"CHATEAUX"
 END
 
 APT:SpecialPowersTutorial
 // In Battle Movie tutorial, button to show SpecialPowers movie
-"SPECIAL POWERS"
+"POUVOIRS SPECIAUX"
 END
 
 
 APT:Moves&AttacksTutorial
-"MOVES AND ATTACKS"
+"DEPLACEMENTS ET ATTAQUES"
 END
 
 APT:Bases&UnitsTutorial
-"BASES AND UNITS"
+"BASES ET UNITES"
 END
 
 APT:VeterancyTitle
-"Experience"
+"Expérience"
 END
 
 APT:VeterencyTitle
-"Experience"
+"Expérience"
 END
 
 APT:VeterancyTutorial
@@ -298,7 +298,7 @@ END
 
 APT:BattleFought
 // Context Veterancy screen header.
-"Battles Fought"
+"Batailles livrées"
 END
 
 APT:RenameInstructions
@@ -308,84 +308,84 @@ END
 
 APT:EnemiesThisBattle
 // Context Veterancy screen header.
-"Enemies Defeated in this Battle"
+"Ennemis vaincus pendant la bataille"
 END
 
 APT:TotalEnemiesDefeated
 // Context Veterancy screen header.
-"Total\nEnemies\nDefeated"
+"Nombre Total\nd'ennemis\nvaincus"
 END
 
 APT:Bases&UnitsTitle
-"Bases and Units"
+"Bases et unités"
 END
 
 APT:Moves&AttacksTitle
-"Moves and Attacks"
+"Déplacements et Attaques"
 END
 
 APT:WorldMapTitle
 // In Battle Movie tutorial, title for WorldMap movie
-"World Map"
+"Carte du monde"
 END
 
 APT:ArmiesTitle
 // In Battle Movie tutorial, title for Armies movie
-"Armies"
+"Armées"
 END
 
 APT:HeroesTitle
 // In Battle Movie tutorial, title for Heroes movie
-"Heroes"
+"Héros"
 END
 
 APT:CastlesTitle
 // In Battle Movie tutorial, title for Castles movie
-"Castles"
+"Châteaux"
 END
 
 APT:SpecialPowersTitle
 // In Battle Movie tutorial, title for SpecialPowers movie
-"Special Powers"
+"Pouvoirs spéciaux"
 END
 
 APT:BattleSchoolTitle
 // In Battle Movie section, original title
-"Battle School"
+"Ecole de combat"
 END
 
 APT:Send
-"SEND"
+"ENVOYER"
 END
 
 APT:LoadSaveGame
 // context: Headline in the load/save menu
-"LOAD/SAVE GAME"
+"CHARGER/SAUVEG. PARTIE"
 END
  
 APT:LoadGame
 // context: Load button located on the load/save menu
-"LOAD"
+"CHARGER"
 END
  
 APT:HeaderLoadSavedGame
 // context: Headline located on the load/save menu
-"LOAD SAVED GAME"
+"CHARGER UNE PARTIE SAUVEGARDEE"
 END
 
 APT:HeaderLoadSavedReplay
 // context: Headline located on the load/save menu
-"LOAD SAVED REPLAY"
+"CHARGER REDIFFUSION"
 END
 
 APT:HeaderSaveGame
 // context: Headline located on the load/save menu
-"SAVE GAME"
+"SAUVEGARDER LA PARTIE"
 END
 
 APT:HeaderSaveReplay
 // context: Headline located on the load/save menu
-"SAVE REPLAY"
+"SAUVEGARDER REDIFFUSION"
 END
 
 APT:BattleSchool
@@ -395,50 +395,50 @@ END
 
 APT:LoadScreenPlayers
 // Context column on game loading screen
-"Player"
+"Joueur 1b"
 END
 
 APT:SaveGame
 // context: Save button located on the load/save menu
-"SAVE"
+"SAUVEG."
 END
 
 APT:Save
 // context: Headline of save menu
-"SAVE"
+"SAUVEGARDER"
 END
 
 APT:SaveGameProgress
 // Title when saving a game
-"Save Progress"
+"Sauvegarde"
 END
 
 APT:SaveGameMultiplayerConfirmationTitle
 // Title in message box when opponent requests saving a multiplayer game
-"Save Request"
+"Sauvegarder"
 END
 
 APT:ConfirmMultiplayerSave
 // Text in message box when opponent requests saving a multiplayer game and there is no overwrite. Text _can_ have a %s where the filename will be inserted.
-"The other player would like to save the session. Do you agree?"
+"L'autre joueur aimerait sauvegarder la session. êtes-vous d'accord ?"
 END
 
 APT:ConfirmMultiplayerSaveWithOverwrite
 // Title in message box when opponent requests saving a multiplayer game and there will be a file overwrite. Text _can_ have a %s where the filename will be inserted.
-"The other player would like to save the session.\nThis will overwrite the previous save game with the name '%s'.\nDo you agree?"
+"L'autre joueur souhaite sauvegarder la session.\n Cela écrasera la sauvegarde précédente avec le nom '%s'.\n êtes-vous d'accord ?"
 END
 
 APT:MultiplayerSaveDenied
 // Text in message box when opponent denied request to save a multiplayer game.
-"The other player rejected your save game request."
+"L'autre joueur a rejeté votre demande de sauvegarde."
 END
 
 APT:MultiplayerSaveDeniedAutoDenied
-"The other player is busy and cannot save now, they should be able to save momentarily."
+"L'autre joueur est occupé et ne peut pas sauvegarder maintenant, il devrait pouvoir sauvegarder momentanément."
 END 
 
 APT:MultiplayerSaveDeniedNoSpace
-"The other player cannot save because they are out of hard drive space."
+"L'autre joueur ne peut pas enregistrer car il n'a plus d'espace sur le disque dur."
 END
 
 APT:GameSelectorTab
@@ -448,37 +448,37 @@ END
 
 APT:ReplaySelectorTab
 // context: One of the selection buttons to choose between Skirmish (=Game) and Replay loading and Campaign/Skirmish/Replay loading in load/save menu
-"REPLAY"
+"PARTIE"
 END
 
 APT:Replays
 // context: Replay selection button on the Main Menu
-"REPLAYS"
+"REDIFFUSIONS"
 END
 
 APT:CampaignSelectorTab
 // context: One of the selection buttons to choose between Campaign/Skirmish/Replay loading in load/save menu
-"CAMPAIGN"
+"CAMPAGNE"
 END
 
 APT:SkirmishSelectorTab
 // context: One of the selection buttons to choose between Campaign/Skirmish/Replay loading in load/save menu
-"SKIRMISH"
+"ESCARMOUCHE"
 END
 
 APT:HeaderSavedFiles
 // context: Lable above saved files list box in the load/save menu
-"Saved Files"
+"Fichiers sauvegardés"
 END
 
 APT:HeaderAutoSave
 // context: Lable above auto save selection box in the load/save menu
-"Auto Save"
+"Sauvegarde auto"
 END
 
 APT:NameFile
 // context: Lable before file name in the load/save menu
-"Name File"
+"Nom fichier"
 END
 
 APT:Mission
@@ -488,47 +488,47 @@ END
 
 APT:OverwriteSaveConfirmation
 // context: The user has selected to overwrite a save game or replay file, this is an "are you sure" confirmation dialog box message
-"Overwrite existing file?"
+"Ecraser le fichier existant ?"
 END
 
 APT:SavingWait
 // context: Message to inform user that a game save is in progress
-"Saving..."
+"Sauvegarde en cours..."
 END
 
 APT:SavingWaitOnMultiplayer
 // fcontext: Message to inform user that a game save request has been sent to other player in multiplayer game
-"Waiting for opponent to accept save request..."
+"En attente de la réponse de l'autre joueur pour sauvegarder..."
 END
 
 APT:ConnectionSettings
 // context: Connection Settings heading in quickmatch screen
-"Connection Settings"
+"Paramètres de connexion"
 END
 
 APT:MaxPing
 // context: Connection Settings in quickmatch screen
-"Max Ping"
+"Ping max."
 END
 
 APT:DisconnectMenu
 // context: Disonnect menu title
-"DISCONNECT MENU"
-End
+"MENU DECONNEXION"
+END
 
 APT:MaxDisconnects
 // context: Connection Settings heading in quickmatch screen
-"Max Disconnects"
+"Déconnexions max."
 END
 
 APT:LoadGameConfirmation
 // context: The user has selected to load a game or replay, this confirmation dialog box asks them if they are sure they want to proceed because all the current game data will be lost
-"Current game data will be lost. Load saved file?"
+"Les données en cours seront perdues. Charger le fichier de sauvegarde ?"
 END
 
 APT:DeleteGameConfirmation
 // context: In the load/save screen, this confirmation dialog box asks the user if they are sure they want to delete a save game or replay file
-"Are you sure you would like to delete the selected file?"
+"Voulez-vous vraiment supprimer le fichier sélectionné ?"
 END
 
 APT:ConfirmationOk
@@ -543,42 +543,42 @@ END
 
 APT:MainMenuLoadGame
 // context: Load game button located on the Main Menu
-"LOAD GAME"
+"CHARGER UNE PARTIE"
 END
 
 APT:MenuBasicTutorial
 // context: Basic Tutorial button located on the Main Menu
-"BASIC\nTUTORIAL"
+"INITIATION\n BASIQUE"
 END
 
 APT:MenuAdvancedTutorial
 // context: Advanced Tutorial button located on the Main Menu
-"ADVANCED\nTUTORIAL"
+"INITIATION\n AVANCEE"
 END
 
 APT:MenuStrategicTutorial
 // context: War of the Ring Tutorial button located on the Main Menu
-"WAR OF THE RING\nTUTORIAL"
+"INITIATION A LA\n GUERRE DE L'ANNEAU"
 END
 
 APT:MenuTutorials
 // context: Main Tutorials button on the Main Menu
-"TUTORIALS"
+"INITIATIONS"
 END
  
 GUI:MainMenuLoadGame
 // SKB:REMOVE context: Load game button located on the Main Menu
-"Load Game"
+"Charger partie"
 END
  
 APT:LoadReplay
 // context: load replay button located on the Main Menu
-"LOAD REPLAY"
+"CHARGER REDIFFUSION"
 END
 
 APT:MultiplayerMaps
 // context: Title in Quick match screen
-"MULTIPLAYER MAPS"
+"CARTES MULTIJOUEURS"
 END
 
 APT:GameMode
@@ -597,158 +597,158 @@ END
 
 APT:Color
 // context: "Color" header in player matrix.
-"Color"
+"Couleur"
 END
 
 APT:ColorCAPS
 // context: "Color" header in player matrix.
-"COLOR"
+"COULEUR"
 END
 
 
 APT:ConnectionSpeed
 // context: title of label in quickmatch screen
-"Connection Speed"
+"Vit. connexion"
 END
 
 APT:LadderHeader
 // context: "# of players" label in quickmatch screen
-"Ladder"
+"Classement"
 END
 
 APT:FindGames
 // context: button on Tournament that starts the searching for players 
 //was "FIND GAMES"
-"JOIN GAME"
+"REJOINDRE"
 END
 
 APT:Side
 // context: "Side" label in the quickmatch screen
-"Army"
+"Armée"
 END
 
 APT:PlayGame
 // context: "Play Game" button in quickmatch screen
-"PLAY GAME"
+"JOUER"
 END
 
 APT:Objectives
 // context: Headline in objectives menu in-game
-"OBJECTIVES"
+"Objectifs"
 END
 
 APT:ObjectivesNone
 // context: Objectives menu in-game, if no objectives available
-"No objectives available"
+"Aucun objectif disponible."
 END
 
 APT:PlayerStatus
 // context: Headline in player status screen
-"Game Info"
+"Info Jeu"
 END
 
 APT:HeaderClans
 // context: On clans tab, prompt to enter clan name.
-"Enter Clan Tag:"
+"Nom de la faction :"
 END
 
 
 APT:HeaderPlayerName
 // context: Table header for column in player status screen
-"Player Name"
+"Nom"
 END
 
 APT:HeaderFaction
 // context: Table header for column in player status screen
-"Army"
+"Armée"
 END
 
 APT:HeaderFactionCaps
-"ARMY"
+"ARMÉE"
 END
 
 APT:HeaderTeam
 // context: Table header for column in player status screen
-"Team"
+"Équipe"
 END
 
 APT:HeaderStatus
 // context: Table header for column in player status screen
-"Status"
+"Statut"
 END
 
 APT:HeaderResources
 // context: Table header for column in tribute screen
-"Resources"
+"Ressources"
 END
 
 APT:HeaderTributeInstructions
 // context: Table header for column in tribute screen
-"Distribute resources to send to your teammates."
+"Répartissez les ressources à envoyer à vos équipiers."
 END
 
 APT:CustomGameLobby
 // context: Title on LanLobby screen
-"OPEN PLAY LOBBY"
+"SALLE DE JEU PUBLIQUE"
 END
 
 APT:CommandPointLimit
-"Command Point Limit"
+"Limite de points de commandement."
 END
 
 APT:CurrentMapName
-"Current Map Name"
+"Nom de la carte en cours"
 END
 
 APT:FilterProfanity
-"Filter Profanity"
+"Filtrer le blasphème"
 END
 
 APT:InitialBuildings
-"Initial Buildings"
+"Bâtiments initiaux"
 END
 
 APT:InitialNumberOfPeons
-"Initial Number of Peons"
+"Nombre initial"
 END
 
 APT:InitialNumberOfUnits
-"Initial Number of Units"
+"Nombre initial d'unités"
 END
 
 APT:InitialResources
-"Initial Resources"
+"Ressources initiales"
 END
 
 APT:InitialSpellPoints
-"Initial Power Points"
+"Points de pouvoir initiaux"
 END
 
 APT:LobbyGameTypeTiltle
-"Lobby Game Type Tiltle"
+"Type de jeu"
 END
 
 APT:LobbyMapTiltle
-"Current Map"
+"Carte actuelle"
 END
 
 APT:Map
-"Map"
+"Carte"
 END
 
 APT:TabMap
 //Tab button name for Multiplayer setup
-"MAP"
+"CARTE"
 END
 
 APT:TabRules
 //Tab button name for Multiplayer setup
-"RULES"
+"RÈGLES"
 END
 
 APT:TabChat
 //Tab button name for Multiplayer setup
-"CHAT"
+"DISCUSSION"
 END
 
 APT:TabClans
@@ -759,7 +759,7 @@ END
 
 APT:HeaderPlayers
 //Player List header in Clans and Chat in Multiplayer setup
-"Players"
+"Joueurs"
 END
 
 APT:HeaderClanName
@@ -778,7 +778,7 @@ APT:Clan
 END
 
 APT:NoCreatedHeroes
-"No Created Heroes"
+"Aucun héros créé"
 END
 
 APT:Ping
@@ -786,28 +786,28 @@ APT:Ping
 END
 
 APT:Players
-"Players"
+"Joueurs"
 END
 
 APT:Rules
-"Rules"
+"Règles"
 END
 
 APT:ShroudSettings
-"Shroud Settings"
+"Réglages de l'opacité"
 END
 
 APT:Status
-"Status"
+"État"
 END
 
 APT:PlayerName
 // context: Playername on LanLobby screen
-"Player\nName"
+"Nom joueur"
 END
 
 APT:ClassTitle
-"CLASS"
+"CLASSE"
 END
 
 APT:TypeTitle
@@ -817,17 +817,17 @@ END
 
 APT:GameSetup
 // context: Lanlobby screen
-"GAME SETUP"
+"CONFIGURATION JEU"
 END
 
 APT:GameSpeed
 // context: LanLobby screen
-"GAME SPEED"
+"Vitesse du Jeu:"
 END
 
 APT:HostGame
 // context: LanLobby screen
-"CREATE GAME"
+"CREER PARTIE"
 END
 
 URL:LotrHome
@@ -835,7 +835,6 @@ URL:LotrHome
 //"http:\/\/www.eagames.com\/official\/lordoftherings\/thebattleformiddleearth\/us\/home.jsp"
 "http://www.eagames.com/official/lordoftherings/bfme2/us/home.jsp"
 END
-
 
 URL:GameSpyHome
 "http://arena.gamespy.com/arenaportal/bfme2"
@@ -858,71 +857,71 @@ URL:LotrTOS
 END
 
 GUI:ChatRoom1
-"War of the Ring"
+"Guerre de l'Anneau"
 END
 
 GUI:ChatRoom2
-"War of the Ring (2)"
+"Guerre de l'Anneau (2)"
 END
 
 APT:LobbyRoom
-"Lobby Room"
+"Salle"
 END
 
 APT:Stats
-"STATS"
+"STATISTIQUES"
 END
 
 GUI:LobbyRoom1
-"Game Chat"
+"Discus. sur le jeu"
 END
 
 GUI:LobbyRoom2
-"1v1"
+"1 contre 1"
 END
 
 GUI:LobbyRoom3
-"2v2"
+"2 contre 2"
 END
 
 GUI:LobbyRoom5
-"Free for All"
+"Chacun pour soi"
 END
 
 GUI:LobbyRoom6
-"Tournament"
+"Tournoi"
 END
 
 GUI:LobbyRoom8
-"Off Topic Chat"
+"Discus. hors sujet"
 END
 
 GUI:LobbyRoom9
-"War of the Ring"
+"Guerre de l'Anneau"
 END
 
 GUI:LobbyRoom10
-"Game Chat (2)"
+"Discus. sur le jeu (2)"
 END
 
 GUI:LobbyRoom11
-"1v1 (2)"
+"1 contre 1 (2)"
 END
 
 GUI:LobbyRoom12
-"2v2 (2)"
+"2 contre 2 (2)"
 END
 
 GUI:LobbyRoom13
-"5+ Player (2)"
+"5 joueurs ou + (2)"
 END
 
 GUI:LobbyRoom14
-"Free for All (2)"
+"Chacun pour soi (2)"
 END
 
 GUI:LobbyRoom15
-"Tournament (2)"
+"Tournoi (2)"
 END
 
 GUI:LobbyRoom16
@@ -930,21 +929,21 @@ GUI:LobbyRoom16
 END
 
 GUI:LobbyRoom17
-"Off Topic Chat (2)"
+"Discus. hors sujet (2)"
 END
 
 GUI:LobbyRoom18
-"War of the Ring (2)"
+"Guerre de l'Anneau (2)"
 END
 
 GUI:LastReplay
 // context: Autogenerated filename for the last replay that's automatically saved
-"Last Replay"
+"Dernière Redif."
 END
 
 GUI:DefaultReplayFileName
 // context: File name that is used for replay if user does not enter a filename. Needs to contain a %d where a number will be inserted to allow multiple files.
-"Replay %d"
+"Rediffusion %d"
 END
  
 GUI:ControlBarMoneyDisplay
@@ -954,71 +953,71 @@ END
 
 GUI:Player
 // context: The label of the player on the score screen.
-"Player"
+"Joueur"
 END
 
 APT:Player
 // context: The label of the player on the score screen.
-"Player"
+"Joueur"
 END
 
 APT:MultiplayerGameSaved
-"The game has been saved.\nDo you want to leave the game for now? The other player has to agree."
+"La partie a été sauvegardée. \n Souhaitez-vous quitter la partie maintenant ? L'autre joueur doit accepter."
 END
 
 APT:MultiplayerExitWaiting
-"Waiting on the other player's decision about leaving the game..."
+"En attente de la réponse de l'autre joueur pour quitter la partie..."
 END
 
 APT:MultiplayerExitOverruled
-"The other player refused to exit the game right now"
+"L'autre joueur refuse de quitter la partie maintenant."
 END
 
 APT:RefreshNATFailed
-"Firewall detection failed. You may want to retry later. If you see this happen frequently, you may want to set up your firewall to use the port forwarding feature."
+"La détection du pare-feu a échoué. Veuillez réessayer plus tard. Si cela arrive fréquemment, veuillez configurer votre pare-feu pour qu'il utilise la fonctionnalité de transfert de port."
 END
 
 APT:RefreshNATSucceeded
-"Firewall detection succeeded."
+"Pare-feu détecté avec succès."
 END
 
 APT:WaitForRefreshNATcomplete
-"Please wait for refresh NAT to be completed."
+"Veuillez patienter pendant le rafra?chissement du NAT."
 END
 
 GUI:GameSaved
-"Game Saved"
+"Sauvegarde réussie"
 END
 
 GUI:ErrorSavingGame
 // context: used in the message box that tells the user there's been an error saving his game
-"Error saving game '%s'"
+"Erreur lors de la sauvegarde de '%s'"
 END
 
 GUI:ErrorLoadingGame
 // context: used in the message box that tells the user there's been an error saving his game
-"Error loading game '%s'"
+"Erreur lors du chargement de '%s'"
 END
 
 GUI:ReducedColor
 // context: Checkbox on Options menu to use 16-bit color instead of default 32-bit - for future use only.
-"16-Bit Color"
+"Couleur 16 bits"
 END
 
 TOOLTIP:ReducedColor
 // context: Checkbox on Options menu - for future use only.
-"Improves performance but reduces visual quality"
+"Améliore les performances mais réduit la qualité visuelle."
 END
 
 GUI:SelectAMapLowerCase
 // context: minor title on the map select screens
-"Select Map"
+"Sélectionnez une carte"
 END
 
 
 GUI:SaveAndExit
 // context: Button label on the score screen
-"SAVE AND EXIT"
+"SAUVEGARDER ET QUITTER"
 END
 
 GUI:PerSideWinPercentage
@@ -1028,67 +1027,67 @@ END
  
 GUI:WinnersToday
 // context: win percentage title on Online Welcome Screen
-"TODAY'S WINNERS"
+"Gagnants du jour"
 END
  
 GUI:WinnersLastWeek
 // context: win percentage title on Online Welcome Screen
-"LAST WEEK'S WINNERS"
+"Gagnants de la semaine dernière"
 END
  
 MOTD:NumPlayersHeading
 // context: header printed at top of Message Of The Day on the Online Welcome Screen
-"Welcome to The Lord of the Rings, The Rise of the Witch-king Online.\nThere are currently %d players online."
+"Bienvenue sur LSDA, L'Avènement du Roi-sorcier en ligne.\nIl y a actuellement %d joueurs en ligne."
 END
 
 GUI:Shadows2D
 // context: Checkbox on the Advance Display Options menu
-"2D Shadows"
+"Ombres 2D"
 END
- 
+
 TOOLTIP:Shadows2D
 // context: Checkbox on the Advance Display Options menu
-"Toggle showing 2D shadows in game. Turn off for improved performance"
+"Afficher les ombres 2D. Pour améliorer les performances, n'activez pas cette option."
 END
 
 GUI:Shadows3D
 // context: Checkbox on the Advance Display Options menu
-"3D Shadows"
+"Ombres 3D"
 END
  
 TOOLTIP:Shadows3D
 // context: Checkbox on the Advance Display Options menu
-"Toggle showing 3D shadows in game. Turn off for improved performance"
+"Afficher les ombres 3D. Pour améliorer les performances, n'activez pas cette option"
 END
 
 GUI:CloudShadows
 // context: Checkbox on the Advance Display Options menu
-"Cloud Shadows"
+"Ombres des nuages"
 END
  
 TOOLTIP:CloudShadows
 // context: Checkbox on the Advance Display Options menu
-"Toggle showing cloud shadows on terrain. Turn off for improved performance"
+"Afficher les ombres des nuages ??sur le terrain. Pour améliorer les performances, n'activez pas cette option."
 END
 
 GUI:GroundLighting
 // context: Checkbox on the Advance Display Options menu
-"Extra Ground Lighting"
+"Éclairage détaillé"
 END
  
 TOOLTIP:GroundLighting
 // context: Checkbox on the Advance Display Options menu
-"Toggle showing detailed lighting on terrain. Turn off for improved performance"
+"Afficher l'éclairage détaillé sur le terrain. Pour améliorer les performances, n'activez pas cette option."
 END
 
 GUI:SmoothWater
 // context: Checkbox on the Advance Display Options menu
-"Smooth Water Borders"
+"Lissage des bordures d'eau"
 END
  
 TOOLTIP:SmoothWater
 // context: Checkbox on the Advance Display Options menu
-"Toggle smoothing of water borders. Turn off for improved performance"
+"Afficher le lissage des bordures d'eau. Pour améliorer les performances, n'activez pas cette option."
 END
 
 GUI:ExtraAnimations
@@ -1098,161 +1097,161 @@ END
  
 TOOLTIP:ExtraAnimations
 // context: Checkbox on the Advance Display Options menu
-"Toggle showing optional animations like tree sway. Turn off for improved performance"
+"Afficher les animations facultatives comme le balancement des arbres. Pour améliorer les performances, n'activez pas cette option."
 END
 
 GUI:NoDynamicLOD
 // context: Checkbox on the Advance Display Options menu
-"Disable Dynamic LOD"
+"Désactiver le LOD dynamique"
 END
  
 TOOLTIP:NoDynamicLOD
 // context: Checkbox on the Advance Display Options menu
-"Disable automatic detail adjustment. Turn off for improved performance"
+"Désactiver le réglage automatique des détails. Pour améliorer les performances, n'activez pas cette option."
 END
 
 GUI:UnlockMaxFPS
 // context: Checkbox on the Advance Display Options menu
-"Uncapped FPS"
+"FPS non plafonné"
 END
  
 TOOLTIP:UnlockMaxFPS
 // context: Checkbox on the Advance Display Options menu
-"Allows frame rates above 30. Affects game speed so only recommended for benchmarks"
+"Permet des fréquences d'images supérieures à 30. Affecte la vitesse du jeu, donc uniquement recommandé pour les benchmarks"
 END
 
 GUI:TreeSway
 // context: Checkbox on the Advance Display Options menu - for future use only.
-"Tree Animation"
+"Animation des arbres"
 END
  
 TOOLTIP:TreeSway
 // context: Checkbox on the Advance Display Options menu - for future use only.
-"Toggle tree animations. Turn off for improved performance"
+"Afficher l'animation des arbres. Pour améliorer les performances, n'activez pas cette option."
 END
 
 GUI:TankTreads
 // context: Checkbox on the Advance Display Options menu - for future use only.
-"Vehicle Tracks"
+"Traces des engins de sièges"
 END
  
 TOOLTIP:TankTreads
 // context: Checkbox on the Advance Display Options menu - for future use only.
-"Toggle marks left by vehicles. Turn off for improved performance"
+"Afficher les traces faites par les engins de sièges sur le terrain. Pour améliorer les performances, n'activez pas cette option."
 END
 
 GUI:WaterWaves
 // context: Checkbox on the Advance Display Options menu - for future use only.
-"Water Waves"
+"Vagues d'eau"
 END
  
 TOOLTIP:WaterWaves
 // context: Checkbox on the Advance Display Options menu - for future use only.
-"Toggle wave animations on shorelines. Turn off for improved performance"
+"Afficher les animations de vagues sur les rivages. Pour améliorer les performances, n'activez pas cette option."
 END
 
 GUI:BuildupAnimations
 // context: Checkbox on the Advance Display Options menu - for future use only.
-"Buildup Animations"
+"Animations des constructions"
 END
  
 TOOLTIP:BuildupAnimations
 // context: Checkbox on the Advance Display Options menu - for future use only.
-"Show additional animations during structure construction. Turn off for improved performance"
+"Afficher des animations supplémentaires pendant la construction de la structure. Pour améliorer les performances, n'activez pas cette option."
 END
 
 TOOLTIP:Skirmish/dumSkirmishProfileMain
 // context: Main stat window on the Skirmish Profile Screen
-"Overall statistics accumulated for all armies player has used"
+"Statistiques globales accumulées pour toutes les armées que le joueur a utilisées"
 END
 
 TOOLTIP:Skirmish/dumSkirmishProfileA
 // context: Picture for Gondor on the Skirmish Profile Screen
-"Overall statistics accumulated for Gondor"
+"Statistiques globales accumulées par le Gondor"
 END
 
 TOOLTIP:Skirmish/dumSkirmishProfileB
 // context: Picture for Rohan on the Skirmish Profile Screen
-"Overall statistics accumulated for Rohan"
+"Statistiques globales accumulées par le Rohan"
 END
 
 TOOLTIP:Skirmish/dumSkirmishProfileC
 // context: Picture for Isengard on the Skirmish Profile Screen
-"Overall statistics accumulated for Isengard"
+"Statistiques globales accumulées par l'Isengard"
 END
 
 TOOLTIP:Skirmish/dumSkirmishProfileD
 // context: Picture for Mordor on the Skirmish Profile Screen
-"Overall statistics accumulated for Mordor"
+"Statistiques globales accumulées par le Mordor"
 END
 
 GUI:AdvancedOptionsToggleOnOff
-"Toggle On/Off - Off to improve performance"
+"Activer/désactiver - Désactiver pour améliorer les performances"
 END
 
 GUI:PerformanceTestingMessage
 // context: Shown at main menu the first time the game is run. We run a test to determine best settings for the system.
 // For future usage.
-"Please wait while we test your system performance to determine optimal settings."
+"Veuillez patienter pendant que nous testons les performances de votre système pour déterminer les paramètres optimaux."
 END
 
 GUI:PerformanceTestingTitle
 // context: Shown at main menu the first time the game is run. We run a test to determine best settings for the system.
 // For future usage.
-"Testing System Performance"
+"Tester les performances du système"
 END
 
 GUI:Custom
-"Custom"
+"Personnalisé"
 END
 
 GUI:CurrentLossStreak
-"Current Loss Streak"
+"Série de pertes actuelle"
 END
 
 GUI:IgnoreSm
 // context: Button to ignore a messages from a Buddy/player
-"Ignore"
+"Ignorer"
 END
  
 GUI:AcceptSm
 // context: Button to accept the selected game options
-"ACCEPT"
+"ACCEPTER"
 END
  
 GUI:EasyCaps
 // context: Difficulty Popup
-"EASY"
+"FACILE"
 END
  
 GUI:MediumDifficultyCaps
 // context: Medium difficulty setting
-"MEDIUM"
+"NORMAL"
 END
  
 GUI:HardCaps
 // context: Difficulty Popup
-"HARD"
+"DIFFICILE"
 END
  
 TOOLTIP:AdvanceOptionsAccept
 // context: located on the Advance Options Menu
-"Accept the changes made to the Advance Display Options"
+"Accepter les modifications apportées aux options d'affichage avancées"
 END
  
 TOOLTIP:AdvanceOptionsCancel
 // context: located on Advanced Display Options Menu
-"Exit the Advance Display Options Menu without making your changes"
+"Quittez le menu Options d'affichage avancé sans apporter vos modifications"
 END
 
 GUI:BehindBuilding
 // context: Checkbox on the Advance Display Options menu
-"Behind Buildings"
+"Derrière les bâtiments"
 END
  
 TOOLTIP:BehindBuilding
 // context: Checkbox on the Advance Display Options menu
-"Toggle showing units behind buildings. On can be slower"
+"Afficher les unités derrière les bâtiments. Pour améliorer les performances, n'activez pas cette option."
 END
  
 GUI:AddCash
@@ -1268,90 +1267,90 @@ END
 
 GUI:TRAINING
 // context: Main Menu button to launch the player into the training mission
-"TRAINING"
+"ENTRAINEMENT"
 END
  
 
 GUI:RestartConfirmationTitle
 // context: in-game options menu, Restart confirmation title
-"RESTART?"
+"REJOUER ?"
 END
 
 GUI:SurrenderConfirmationTitle
 // context: in-game options menu, Surrender confirmation title
-"SURRENDER?"
+"SE RENDRE ?"
 END
 
 TOOLTIP:StartPositionN
 // context: a tool tip to describe the starting position of player N
-"Start Position for player %d"
+"Point de départ du joueur %d"
 END
 
 
 TOOLTIP:TooltipNotEnoughMoneyToBuild
 // context: Appended to button descriptions for building units, structures, or upgrades that you can't afford.
-"Insufficient funds"
+"Ressources insuffisantes"
 END
 
 TOOLTIP:TooltipNoMoreCommandPoints
 // context: Appended to button descriptions for building units, structures, or upgrades that you can't build due to being out of command points.
-"No more command points available"
+"La limite du point de commande a été atteinte"
 END
 
 TOOLTIP:TooltipCannotPurchaseBecauseQueueFull
 // context: Appended to button descriptions when you can't build a unit or upgrade because your build queue is full.
-"Build queue full"
+"Chaîné de construction pleine"
 END
 
 TOOLTIP:TooltipCannotBuildUnitBecauseParkingFull
 // context: Appended to button descriptions when aircraft must have a free parking space in order to build.
-"Airfield full"
+"Aérodrome plein"
 END
 
 TOOLTIP:TooltipCannotBuildUnitBecauseMaximumNumber
 // context: Appended to button descriptions when unit you can't build this unit due to specific hero unit limits.
-"Unit already exists"
+"L'unité existe déjà"
 END
 
 TOOLTIP:TooltipNukeReactorOverChargeIsOn
 // context: Adds additional information telling the user that overcharge is currently on.
-"Overcharge is currently ON"
+"La surcharge est actuellement activée"
 END
 
 TOOLTIP:TooltipNukeReactorOverChargeIsOff
 // context: Adds additional information telling the user that overcharge is currently off.
-"Overcharge is currently OFF"
+"La surcharge est actuellement désactivée"
 END
 
 
 TOOLTIP:MapNoSuccess
 // context: Tooltip in skirmish map selection
-"This battlefield has not been vanquished"
+"Ce champ de bataille n'a pas été vaincu"
 END
 
 TOOLTIP:MapEasySuccess
 // context: Tooltip in skirmish map selection
-"This battlefield has been vanquished on Easy difficulty."
+"Ce champ de bataille a été vaincu en difficulté facile."
 END
 
 TOOLTIP:MapMediumSuccess
 // context: Tooltip in skirmish map selection
-"This battlefield has been vanquished on Medium difficulty."
+"Ce champ de bataille a été vaincu en difficulté normal."
 END
 
 TOOLTIP:MapHardSuccess
 // context: Tooltip in skirmish map selection
-"This battlefield has been vanquished on Hard difficulty."
+"Ce champ de bataille a été vaincu en difficulté difficile."
 END
 
 TOOLTIP:MapHardMaxSuccess
 // context: Tooltip in skirmish map selection
-"This battlefield has been vanquished on Hard difficulty with the maximum number of enemies."
+"Ce champ de bataille a été vaincu en difficulté difficile avec le nombre maximum d'ennemis."
 END
 
 TOOLTIP:UserMadeMap
 // context: Tooltip in skirmish map selection
-"This is a user made map."
+"Il s'agit d'une carte créée par l'utilisateur."
 END
  
 TOOLTIP:Mission1
@@ -1361,22 +1360,22 @@ END
  
 TOOLTIP:Mission2_8
 // context: Tooltip to display what missions are in which campaigns. These are shown when mousing over the campaing buttons on the main menu
-"Campaign One"
+"Première campagne"
 END
  
 TOOLTIP:Mission9_16
 // context: Tooltip to display what missions are in which campaigns. These are shown when mousing over the campaing buttons on the main menu
-"Campaign Two"
+"Seconde campagne"
 END
  
 TOOLTIP:Mission17_23
 // context: Tooltip to display what missions are in which campaigns. These are shown when mousing over the campaing buttons on the main menu
-"Campaign Three"
+"Troisième campagne"
 END
 
 TOOLTIP:ButtonClear
 // context: Button positioned next to the name entry box on the LAN lobby screen. THis button clears out the text box.
-"Clear out the player name text box"
+"Effacer la zone de texte du nom du joueur"
 END
 
 GUI:ESRB_Top
@@ -1386,132 +1385,132 @@ END
 
 GUI:ESRB_Bottom
 // context: Entertainment Software Ratings Board warning displayed on online login screen
-"Game Experience May\nChange During Online Play"
+"L'expérience de jeu peut\nchanger pendant le jeu en ligne"
 END
 
 GUI:Objectives:
 // context: On Campaign loadscreens, this is the heading displayed before the objectives are listed.
-"Summary:"
+"Résumé :"
 END
 
 GUI:EstablishingConnectionPaths
 // context: title on the establishing connections paths screen
-"ESTABLISHING CONNECTION PATHS"
+"ÉTABLISSEMENT DES CHEMINEMENTS DE CONNEXION"
 END
 
 GUI:MinSpecFailedTitle
 // context: located on the ingame menu, warns user if his machine is below minimum system requirements.
-"WARNING"
+"ATTENTION"
 END
 
 GUI:MinSpecFailedMessage
 // context: located on the ingame menu, warns user if his machine is below minimum system requirements.
-"Your system does not meet the minimum hardware requirements. You may experience slower than normal frame rates in your multiplayer games."
+"Votre système ne répond pas à la configuration matérielle minimale requise. Vous pouvez rencontrer des fréquences d'images plus lentes que la normale dans vos jeux multijoueurs."
 END
 
 GUI:QuitToDesktop
 // context: located on the ingame menu, allows the user to quite straight to Desktop
-"QUIT TO DESKTOP"
+"QUITTER VERS LE BUREAU"
 END
 
 GUI:QuitToDesktopConf
 // context: Ingame options menu, Quit To Desktop confirmation
-"Are you sure you want to quit back to the Desktop?"
+"Voulez-vous vraiment quitter pour revenir au Bureau ?"
 END
 
 GUI:SurrenderConfirmation
 // context: in-game options menu, Surrender confirmation
-"Are you sure you want to Surrender?"
+"Voulez-vous vraiment capituler ?"
 END
 
 GUI:RestartConfirmation
 // context: in-game options menu, Restart confirmation
-"Are you sure you want to restart?"
+"Voulez-vous vraiment recommencer ?"
 END
 
 GUI:ShowBehindBuildings
 // context: Message that's displayed to the user ingame when they toggle showing units behind buildings
-"Heat signature behind buildings OFF"
+"Afficher unités derrière bâtiments NON"
 END
 
 GUI:HideBehindBuildings
 // context: Message that's displayed to the user ingame when they toggle hiding units behind buildings
-"Heat signature behind buildings ON"
+"Afficher unités derrière bâtiments OUI"
 END
 
 GUI:DetailsSetToLowest
 // context: Message that's displayed to the user ingame when they toggle their graphics settings to the lowest
-"Low graphics detail"
+"Détails bas"
 END
 
 GUI:ReturnGraphicsToPreviousSettings
 // context: Message that's displayed to the user ingame when they toggle their graphics settings back to their previous settings
-"Setting your graphic details to their previous settings"
+"Rétablir paramètres de détails précédents"
 END
 
 APT:CannotChangeResolution
 // Its on the settings screen, up to two lines of text. Only visible while playing the game
-"Can be changed only from the Main Menu Settings."
+"Modif. depuis Paramètres du Menu principal."
 END
 
 APT:CannotChangeGraphics
 // On the settings screem, up to two lines of text. Only visible while playing the game
-"Cannot be changed while in a game."
+"Ne peut pas être modifié durant la partie."
 END
 
 GUI:BeaconLabel
 // context: A beacon is a like a visual reminder flag that the player can place in the map. There, he can input some text to warn him or his teammates of an event or action.
-"Type message:"
+"Message :"
 END
 
 ERROR:D3DFailurePrompt
 //context: message box we put up if user has DirectX 8.0 or other problem with video card.
-"DirectX Error"
+"DirectX Erreur"
 END
 
 ERROR:D3DFailureMessage
 //context: message box we put up if user has DirectX 8.0 or other problem with video card.
-"Please make sure you have DirectX 9.0 or higher installed. Also verify that your video card meets the minimum requirements, and that you do not have hardware acceleration disabled in the Display control panel."
+"Veuillez vous assurer que DirectX 9.0 ou supérieur est installé. Vérifiez également que votre carte vidéo répond à la configuration minimale requise et que l'accélération matérielle n'est pas désactivée dans le panneau de configuration Affichage."
 END
 
 ERROR:InitError
 // context:  message box we put up if the user has a problem initializing the game
-"Init Error"
+"Erreur d'initialisation"
 END
 
 ERROR:BaseGameNotInstalled
 // context: message info to tell the user that the base game has not been installed and the app will exit
-"Base Game not installed. Application will exit."
+"Le jeu principal n'est pas installé. L'application va être fermée."
 END
 
 ERROR:BaseGameFilesNotFound
 // context: message info to tell the user that the base game files required to run the game cannot be found and the app will exit
-"Base Game files not found. Application will exit."
+"Fichiers de base du jeu non trouvés. L'application va être fermée."
 END
 
 GUI:ErrorStartingGame
 // context: Title for the error popup starting a game KEEP SHORT!!!!!!!!!
-"ERROR STARTING GAME"
+"Echec du lancement"
 END
 
 GUI:TooManyPlayers
 // context: specific starting game error where too many players have been selected for the current map
-"This map only supports %d players."
+"Cette carte est pour %d joueurs maximum"
 END
 
 GUI:SandboxWarning
 // context: specific starting game warning that sandbox will be enabled
-"Clicking Start again will start a sandbox game."
+"En cliquant sur Recommencer, vous démarrerez un jeu libre."
 END
 
 GUI:CantFindMap
 // context: specific starting game error where the map can't be found
-"Cannot find the map. Is it corrupted?"
+"Impossible de trouver la carte. Est-il corrompu ?"
 END
 
 GUI:Beacon
 // context: A beacon is a like a visual reminder flag that the player can place in the map. There, he can input some text to warn him or his teammates of an event or action.
-"Beacon"
+"Balise"
 END
 
 GUI:EACopyright
@@ -1521,22 +1520,22 @@ END
 
 GUI:DeleteBeacon
 // context: Beacons can be placed and removed from the map 
-"Delete\nBeacon"
+"Supprimer\n balise"
 END
 
 GUI:BeaconPlaced
 // context: A warning message to the players that certain player has placed a beacon.
-"A Beacon was placed by %ls."
+"%ls a placé une balise."
 END
 
 GUI:BeaconPlacementFailed
 // context: Error message. If for any reason the beacon can not be placed in the requested spot, the player will be warned with this message.
-"Cannot place Beacon here"
+"Impossible de placer une balise ici"
 END
 
 GUI:TooManyBeacons
 // context: Warning message. The player has placed too many beacons and he cannot place any more.
-"Cannot place any more Beacons"
+"Impossible de placer d'autres balises"
 END
 
 GUI:Blank
@@ -1549,7 +1548,7 @@ APT:Date
 END
 
 APT:Time
-"Time"
+"Heure"
 END
 
 
@@ -1560,7 +1559,7 @@ END
 
 GUI:Multiplayer
 // SKB:TO DELETE context: Main Menu Multiplayer button
-"MULTIPLAYER"
+"MULTIJOUEUR"
 END
 
 GUI:TestBrowser
@@ -1570,53 +1569,53 @@ END
 
 GUI:GameName
 // context: Multiplayer game name (not to be confused with the player name)
-"Game Name:"
+"Partie :"
 END
 
 APT:GameName
 // context: Multiplayer game name (not to be confused with the player name)
-"Game Name"
+"Partie"
 END
 
 APT:CreatePassword
 // text above text field for user to add a password to an online game
-"Game Password (Optional)"
+"Mot de passe (optionnel)"
 END
 
 GUI:NoFileSelected
 // context: Error message Title. Shown when a player does not select a filename to load/save/delete.
-"PLEASE SELECT A FILE"
+"Sélectionnez un fichier"
 END
 
 GUI:PleaseSelectAFile
 // context: Help text requesting the player to select a file from the list. Could be any file, a map, a replay, a saved game, etc...
-"Please select a file."
+"Sélectionnez un fichier."
 END
 
 GUI:NewSaveGame
 // context: Contents of a list box row the player selects that means hitting the save button will save the game to a new file
-"**NEW SAVE FILE**"
+"**NOUVELLE SAUVEGARDE**"
 END
 
 GUI:NewSaveReplayFile
 // context: Contents of a list box row the player selects that means hitting the save button will save the replay to a new file
-"** NEW REPLAY **"
+"**NOUVELLE REDIFFUSION**"
 END
 
 GUI:AutoSaveName
 // context: Text displayed instead of user-supplied description for auto save games
 // %ls will be replaced with name of current or just-completed map.
-"Auto Save for %ls"
+"Sauvegarde pour %ls"
 END
 
 GUI:DefaultSaveFileName
 // context: File name that is used for save games if user does not enter a filename. Needs to contain a %d where a number will be inserted to allow multiple files.
-"Saved Game %d"
+"Sauvegarde %d"
 END
 
 GUI:EnterSaveDesc
 // context: Message prompting the user to enter a description for a save game file when saving
-"Enter game description"
+"Saisissez une description de la partie"
 END
 
 GUI:TimeAM
@@ -1631,92 +1630,92 @@ END
 
 GUI:OverwriteSaveConfirmation
 // context: The user has selected to overwrite a save game, this is an "are you sure" confirmation dialog box message
-"Overwrite existing file?"
+"Ecraser le fichier existant ?"
 END
 
 GUI:LoadGameConfirmation
 // context: The user has selected to load a game, this confirmation dialog box asks them if they are sure they want to proceed because all the current game data will be lost
-"Current game data will be lost. Load saved game?"
+"Les données de jeu actuelles seront perdues. Charger une partie ?"
 END
 
 GUI:MissionSave
 // context: label for a save game that was automatically saved by the system inbetween missions
-"Mission Start - %s %d"
+"Début de mission : %s %d"
 END
 
 GUI:Buildings
 // context: Score screen: Buildings lost or destroyed
-"Buildings"
+"Bâtiments"
 END
 
 GUI:DeleteFile
 // context: Dialog requesting confirmation permision to delete a file
-"DELETE FILE?"
+"SUPPRIMER LE FICHIER ?"
 END
 
 GUI:AreYouSureDelete
 // context: Dialog requesting confirmation permision to delete a file
-"Are you sure you would like to delete the selected file?"
+"Voulez-vous vraiment supprimer le fichier sélectionné ?"
 END
 
 GUI:CopyFileToDesktop
 // context: Dialog requesting confirmation permision to copy a file, This is a title, please keep it short
-"COPY REPLAY TO DESKTOP?"
+"Copier Rediffusion sur le bureau ?"
 END
 
 GUI:AreYouSureCopy
 // context: Dialog requesting confirmation permision to copy a file
-"Are you sure you want to copy this file to the Desktop? This will overwrite any file with the same name."
+"Voulez-vous vraiment copier ce fichier sur le Bureau ? Cela écrasera tout fichier du même nom."
 END
 
 GUI:ErrorCopyingFile
 // context: Dialog error message for the user
-"THERE WAS AN ERROR COPYING THE FILE."
+"ERREUR LORS DE LA COPIE DU FICHIER."
 END
 
 GUI:SaveReplay
 // context: Button to save a replay of the current game
-"SAVE REPLAY"
+"Sauvegarder Rediffusion"
 END
 
 GUI:SaveAndContinue
 // context: On score screen after a user completes a mission in a campaign. This is a label for a button
-"CONTINUE"
+"Continuer"
 END
 
 GUI:LoadReplay
 // SKB:REMOVE context: Button for loading Replays. A replay is a fully recorded session of a previous game, and it allows the player to watch the game again as an observer.
-"LOAD REPLAY"
+"Charger Redif."
 END
 
 GUI:DeleteReplay
 // context: Button to delete a game replay file
-"DELETE REPLAY"
+"Supprimer Rediffusion"
 END
 
 GUI:CopyReplay
 // context: Button to make a copy of a game replay file
-"COPY REPLAY"
+"Copier Rediffusion"
 END
 
 GUI:OverwriteReplayTitle
 // context: Title of popup asking if we want to save over an existing replay
-"OVERWRITE REPLAY"
+"Ecraser Rediffusion ?"
 END
 
 GUI:OverwriteReplay
 // context: Popup asking if we want to save over an existing replay
-"Overwrite Replay?"
+"Ecraser Rediffusion ?"
 END
 
 GUI:ErrorDeletingFile
 // context: Dialog error message for the user
-"THERE WAS AN ERROR DELETING THE FILE."
+"ERREUR LORS DE LA SUPPRESSION DU FICHIER."
 END
 
 GUI:ShortDescription
 // context: Short description the host can enter for the game
-"Short description of the game:"
+"Brève description de la partie :"
 END
 
 GUI:LadderNameAndSize
@@ -1725,77 +1724,77 @@ GUI:LadderNameAndSize
 END
 
 GUI:InvalidLadderPassword
-"Invalid ladder password."
+"Mot de passe non valide."
 END
 
 GUI:EnterLadderPassword
-"Enter ladder password:"
+"Saisie du mot de passe :"
 END
 
 GUI:LadderName
 // context: This is the name of a player clasification table on a tournament
-"Ladder Name:"
+"Nom"
 END
 
 GUI:LadderPassword
 // context: The user will have to enter a password in order to be allowd to view the clasification of a tournament
-"Ladder Password"
+"Mot de passe"
 END
 
 GUI:LadderURL
 // context: ladder information. Provides the link to the Web where the ladder is hosted
-"Homepage: %hs"
+"Page d'accueil : %hs"
 END
 
 GUI:LadderHasPassword
 // context: ladder information. Ladders can be private and password protected.
-"This Ladder is password protected."
+"Ce classement est protégé par un mot de passe."
 END
 
 GUI:LadderMinWins
 // context: ladder information. Tournament/ladders have requirements in order to restrict access to player with certain level. You must have a min number to wins to participate on this ladder.
-"Minimum wins required: %d"
+"Victoires min. requises : %d"
 END
 
 GUI:LadderMaxWins
 // context: ladder information. Tournament/ladders have requirements in order to restrict access to player with certain level.  You cannot particpate on this ladder if your wins exceed the amount noted.
-"Maximum wins allowed: %d"
+"Victoires max. autorisées : %d"
 END
 
 GUI:LadderFactions
 // context: ladder information. Tournament/ladders have requirements in order to restrict access to player with certain level. In this case only certain sides of the game are allowed.
-"Allowed army factions:"
+"Camps autorisés :"
 END
 
 GUI:LadderRandomFactions
 // context: ladder information.Tournament/ladders have requirements in order to restrict access to player with certain level. In this case a players must play random sides. 
-"Random army factions:"
+"Camps aléatoires :"
 END
 
 GUI:LadderMaps
 // context: ladder information. Tournament/ladders have requirements in order to restrict access to player with certain  . Only shown maps are played.
-"Allowed maps:"
+"Cartes autorisées :"
 END
 
 GUI:LadderRandomMaps
 // context: ladder information. Tournament/ladders have requirements in order to restrict access to player with certain level. In this case a random map is selected, so the player can not choose what map to play.
-"Random maps:"
+"Cartes aléatoires :"
 END
 
 GUI:AllowObservers
 // context: Check box to allow Observers to join a game and watch how other users play. This is only for multiplayer and only available at the time the match is created.
-"Allow Observers"
+"Autoriser observateurs"
 END
 
 GUI:CreateGame
 // context: Button to go to the Create a MULTIPLAYER game screen
-"CREATE GAME"
+"Créer une partie"
 END
 
 
 GUI:EndCampaign
 // context: Button in the menu to quit a campaign
-"End Campaign"
+"Fin de la campagne"
 END
 
 GUI:Continue
@@ -1805,63 +1804,63 @@ END
 
 GUI:Save
 // context: Button use in several menus and screens to save a file. Tha file could be anything, a game, a replay, a campaign, etc
-"Save"
+"Sauvegarder"
 END
 
 GUI:ConfirmDelete
 // context: The user has chosed to delete a save game file, this is a confirmation of that delete operation
-"Are you sure you want to delete this game?"
+"Voulez-vous vraiment supprimer cette partie ?"
 END
 
 APT:Delete
 // context: Delete a save game file
-"DELETE"
+"EFFACER"
 END
 
 APT:Select
 // Button to select a profile in skirmish
-"SELECT"
+"SÉLECTIONNER"
 END
 
 APT:ChangeProfilePopHeader
 // Title to popup where we chance the active profile.
-"Change Active Profile"
+"Changer de profil actif"
 END
 
 APT:ChangeProfileInstructions
 // Instructions on how to change a profile.
-"Select existing profile from list and then press the Select button."
+"Choisissez un profil existant dans la liste et cliquez sur le bouton Sélectionner."
 END
 
 
 APT:AddProfilePopHeader
 // Title to popup where we chance the active profile.
-"Add New Profile"
+"Ajouter un nouveau profil"
 END
 
 APT:AddProfileInstructions
 // Instructions on how to change a profile.
-"Enter a new profile name. Statistics are kept for each profile."
+"Saisissez un nouveau nom de profil. Des statistiques sont conservées pour chaque profil."
 END
 
 APT:DeleteProfilePopHeader
 // Title to popup where we chance the active profile.
-"Delete Selected Profile"
+"Supprimer le profil sélectionné"
 END
 
 APT:DeleteProfileInstructions
 // Instructions on how to Delete a profile.
-"Select profile from list and then press the Delete button to remove profile data. When you are finished, press Done."
+"Choisissez un profil dans la liste et cliquez sur le bouton Effacer pour le supprimer. Cliquez ensuite sur Terminé."
 END
 
 APT:ProfileName
 // Column header for changing an active Profile or deleting them.
-"Profile Name"
+"Nom du profil"
 END
 
 GUI:DeleteGame
 // SKB:TO DELETE context: Delete a save game file
-"Delete"
+"Supprimer"
 END
 
 
@@ -66375,11 +66374,11 @@ Upgrade:FortressCitadelMoat
 END
 //------------ Morgul Vangard ---------------
 OBJECT:MordorVangaurd
-"Morgul Vanguard"
+"Avant-garde de Morgul"
 END
 
 OBJECT:HordeMordorVangaurd
-"Morgul Vanguard"
+"Avant-gardes de Morgul"
 END
 
 CONTROLBAR:ConstructMordorVangaurdHorde
