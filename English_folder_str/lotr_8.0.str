@@ -2197,69 +2197,69 @@ END
 
 GUI:Play
 // context: Button to start a game
-"Play Game"
+"Jouer"
 END
 
 GUI:Stats
 // context: Button to go to the stats window
-"Persona"
+"Stats"
 END
 
 GUI:GetMapPack
 // context: Button to connect to our server and download a set of maps
-"Download Map Pack"
+"Télécharger le pack de cartes"
 END
 
 GUI:Defeat
 // context: Score screen message. Shows that last game was lost
-"Defeat"
+"Défaite"
 END
 
 GUI:YouAreVictorious
 // context: Congratulation message for the winner at the end of a match
-"You are Victorious!"
+"Vous êtes Victorieux !"
 END
 
 GUI:YouHaveBeenDefeated
 // context: Informative message for the loser at the end of a match
-"You have been Defeated"
+"Vous avez été vaincu"
 END
 
 GUI:PlayerHasBeenDefeated
 // context: Informative message for all players indicating that some player has been defeated
-"%ls has been Defeated"
+"%ls a été vaincu"
 END
 
 GUI:GameOver
 // context: Informative message for the observer at the end of a match
-"Game Over"
+"Fin de la partie"
 END
 
 GUI:PlayerAlive
 // context: in-game status of players in multiplayer games. The player is still playing
-"Playing"
+"En jeu"
 END
 
 GUI:PlayerDead
 // context: in-game status of players in multiplayer games. The player has been defeated
-"Defeated"
+"Vaincu"
 END
 
 GUI:PlayerObserver
 // context: in-game status of players in multiplayer games. The player is in the game
-"Observing"
+"Observateur"
 END
 
 GUI:PlayerObservingAll
 // context: When cycling through different players while observing, this message will come up when global observer mode is selected.
-"Observing all players"
+"Observer tous les joueurs"
 END
 
 GUI:PlayerObservingSpecificHuman
 // context: When cycling through different players while observing, this message will come up for the specific player we are now observing.
 // context: The format requires two parts and looks like: "Observing PlayerName(Faction)" Ex: "Observing MornessAlpha(Rohan)"
 // NOTE: First %s is the player's name (MornessAlpha). Second %s is the faction name (Rohan)."
-"Observing %s(%s)"
+"Observer %s(%s)"
 END
 
 GUI:PlayerObserverGone
@@ -2274,106 +2274,106 @@ END
 
 GUI:Loading
 // context: Title of the GameSpy loading screen.
-"LOADING"
+"En chargement"
 END
 
 GUI:PlayerName
 // context: Name of the player
-"Player Name"
+"Nom joueur"
 END
 
 GUI:Info
 // context: Information about the player
-"Player Info"
+"Infos joueur"
 END
 
 GUI:Players
 // context: List of players in a game or lobby
-"Players"
+"Joueurs"
 END
 
 GUI:Players:
 // context: List of players in a game or lobby
-"Players:"
+"Joueurs:"
 END
 
 GUI:GameOptions
 // context: Button to go to the game options screen
-"GAME OPTIONS"
+"Options de jeu"
 END
 
 GUI:GameOptions:
 // context: List of game options
-"Game Options:"
+"Options de la partie :"
 END
 
 GUI:GameName:
 // context: Games can be named by their creators
-"Game:"
+"Partie :"
 END
 
 GUI:MapName:
 // context: Name of the selected map in a game
-"Map:"
+"Carte :"
 END
 
 GUI:Preview
 // context: Small thumbnail picture of the map
-"Map Preview"
+"Prévisu Map"
 END
 
 GUI:SelectMap
 // context: Button to use the selected map
-"SELECT MAP"
+"SELECT CARTE"
 END
 
 GUI:SelectAMap
 // context: Button to use the selected map
-"SELECT MAP"
+"SELECT CARTE"
 END
 
 APT:SelectAGame
 // context: Button to go to the game selection screen
-"Select Game"
+"SELECT JEU"
 END
 
 GUI:SelectAGame
 // SKB:TO DELETE context: Button to go to the game selection screen
-"SELECT GAME"
+"SELECT JEU"
 END
 
 GUI:MatchMe
 // context: Button to start a quick match
-"MATCH ME"
+"DEFIER"
 END
 
 GUI:PersonalInfo
 // context: Button for personal info for quick match
-"Personal Info"
+"Infos joueur"
 END
 
 GUI:MultiplayerMaps
 // context: title for a section in quickmatch menu
-"Multiplayer Maps"
+"Cartes multijoueurs"
 END
 
 GUI:BetterMatch
 // context: better match text label in quickmatch menu
-"Better Match"
+"Meilleure partie"
 END
 
 GUI:MoreGames
 // context: more available games text label in quickmatch menu
-"Faster Search"
+"Recherche plus rapide"
 END
 
 GUI:ExitQuickMatch
-"Exit"
+"Quitter"
 END
 
 GUI:Start
 // context: Button to start a game
-"PLAY GAME"
+"JOUER"
 END
 
 GUI:Stop
@@ -2388,17 +2388,17 @@ END
 
 GUI:Host
 // context: Button to create and host a multiplayer game
-"CREATE GAME"
+"CRÉER PARTIE"
 END
 
 GUI:Join
 // context: Button to join a multiplayer game 
-"JOIN GAME"
+"REJOINDRE"
 END
 
 GUI:Games
 // context: List of multiplayer games available
-"Games"
+"Parties"
 END
 
 GUI:LocaleSelect
@@ -2411,37 +2411,37 @@ GUI:Command&ConquerGenerals
 // No, not simple.  IMPORTANT: AptMainMenu.cpp will add this stringID's value to the Windows Firewall exceptions list if 
 // the player declined to let the installer add the game to the firewall exceptions list, and the player then clicks "yes"
 // on the resulting in-game popup window.  Contact an engineer before changing this willy-nilly.
-"The Lord of the Rings, The Rise of the Witch-king"
+"Le Seigneur des Anneaux, L'Avènement du Roi-Sorcier"
 END
 
 GUI:FullGameName
 // context: simple ... the name of the our Game
-"The Lord of the Rings(tm), The Battle for Middle-earth(tm) II, The Rise of the Witch-king(tm)"
+"Le Seigneur des Anneaux(tm), La Bataille pour la Terre du Milieu(tm) II, L'Avènement du Roi-Sorcier(tm)"
 END
 
 GUI:SinglePlayer
 // context: Button in the main menu to go to the single player and Skirmish missions
-"SOLO PLAY"
+"SOLO"
 END
 
 APT:Online
 // context: Button in the main menu to go to the internet multiplayer games
-"ONLINE"
+"INTERNET"
 END
 
 APT:Network
 // context: Button in the main menu to go to the network games screen
-"NETWORK"
+"RÉSEAU"
 END
 
 GUI:Online
 // SKB:DELETE context: Button in the main menu to go to the internet multiplayer games
-"ONLINE"
+"EN LIGNE"
 END
 
 GUI:Network
 // SKB:DELTE context: Button in the main menu to go to the network games screen
-"NETWORK"
+"RÉSEAU"
 END
 
 
@@ -2452,17 +2452,17 @@ END
 
 GUI:SendDelay
 // context: Firewall setting for certain brands of firwalls (network protection devices) that require to be the last ones to join a game.
-"Send Delay"
+"Délai d'envoi"
 END
 
 GUI:FirewallRefresh
 // context: Refresh the information about NAT (Network Address Translation)
-"Refresh NAT"
+"Actualiser le NAT"
 END
 
 GUI:Exit
 // context: Button in the main menu to exit the game
-"EXIT GAME"
+"QUITTER"
 END
 
 GUI:X
@@ -2472,18 +2472,18 @@ END
 
 APT:Skirmish
 // context: Button to play Skirmish mode. Skirmish is a single player mode in which the player can fight against 1 to 7 computer controlled opponents as if it were a networked game
-"SKIRMISH"
+"ESCARMOUCHE"
 END
 
 GUI:Skirmish
 // SKB:DELETE context: Button to play Skirmish mode. Skirmish is a single player mode in which the player can fight against 1 to 7 computer controlled opponents as if it were a networked game
-"SKIRMISH"
+"ESCARMOUCHE"
 END
 
 
 GUI:Campaign
 // context: Button to play the Single player missions arranged in 3 Campaigns, CHINA, GLA and USA
-"CAMPAIGN"
+"CAMPAGNE"
 END
 
 GUI:ClickToDisplayGameInfo
@@ -2492,12 +2492,12 @@ END
 
 GUI:GameInfo
 // context: Display information about the game
-"Game Info"
+"Info Jeu"
 END
 
 GUI:StartGame
 // context: Button to start a game
-"PLAY GAME"
+"JOUER"
 END
 
 APT:Options
@@ -2507,104 +2507,104 @@ END
 
 APT:Settings
 // Sub title in options screen plus buttons to get there.
-"SETTINGS"
+"PARAMÈTRES"
 END
 
 APT:AdvancedSettings
 // Sub title in cutom graphics screen plus buttons to get there.
-"CUSTOM SETTINGS"
+"PARAMÈTRES PERSONNALISÉS"
 END
 
 APT:AdvancedSettings_Shadow_Shader_Notice
-"Shadows set to High will only function with Terrain and Shaders set to High. The game has made the necessary adjustments."
+"Le niveau de détail des ombres élevé ne fonctionne qu'avec le niveau de détail du terrain et des shaders élevé. Le jeu a effectué les réglages nécessaires."
 END
 
 GUI:OptionsDescription
 // context: Name of the Options Screen
-"Display Game Options Dialog"
+"Mettez la partie en pause pour modifier les options, sauvegarder, charger, recommencer ou quitter une partie."
 END
 
 GUI:MusicVolume
 // context: Options Screen - Music volume setting
-"Music Volume"
+"Volume musique"
 END
 
 GUI:AmbientVolume
 // context: Options Screen - Ambient volume setting
-"Ambient Volume"
+"Volume ambiance"
 END
 
 GUI:MovieVolume
 // context: Options Screen - Movie volume setting
-"Movie Volume"
+"Volume film"
 END
 
 GUI:SFXVolume
 // context: Options screen - Sound Effects volume setting
-"Sound FX Volume"
+"Volume effets sonores"
 END
 
 GUI:VoiceVolume
 // context: Options screen - Voices volume setting
-"Voice Volume"
+"Volume voix"
 END
 
 GUI:3DSound
 // context: Options screen -  Check box to enable/disable 3D sound
-"3D Sound"
+"Son 3D"
 END
 
 GUI:ScrollSpeed
 // context: Options screen -  Setting to adjust the screen displacement speed
-"Scroll Speed"
+"DEFILEMENT"
 END
 
 APT:AlternateMouse
 // context: Options screen -  Option use alternate mouse
-"Alternate Mouse Setup"
+"Autre configuration souris"
 END
 
 APT:DoubleClickGuard
 // context: Options screen -  Option use double click guard
-"Double Click Guard"
+"Double clic : garder"
 END
 
 APT:ShowUnitDecals
-"Show Unit Decals"
+"Montrer icônes unités"
 END
 
 TOOLTIP:Options/tooltipShowUnitDecals
-"Toggle to display the icon \n for selected units in game"
+"Activer pour afficher l'icône\ndes unités choisies dans le jeu"
 END
 
 
 APT:EnableHealthBars
-"Show All Health Bars"
+"Afficher toutes les barres de santé"
 END
 
 TOOLTIP:Options/tooltipEnableHealthBars
-"Enable health bars for all units"
+"Affiche les barres de santé de toutes les unités"
 END
 
 GUI:Controls
 // context: Options screen - Header for section
-"Game Options"
+"Options de jeu"
 END
 
 GUI:Chat
 // context: Options screen - Header for section
-"Chat"
+"Discussion"
 END
 
 GUI:Strategic
 // Button to go into strategic game (War of the ring)
-"WAR OF THE RING"
+"GUERRE DE L'ANNEAU"
 END
 
 GUI:Resolution
 // ccb:remove
 // context: Options screen - Setting to adjust the resolution
-"Resolution"
+"Résolution"
 END
 
 //GUI:1024X768
@@ -2613,7 +2613,7 @@ END
 
 GUI:InGameDiplomacy
 // context: in game diplomancy heading
-"Diplomacy"
+"Diplomatie"
 END
 
 GUI:Resolution0
@@ -2642,82 +2642,82 @@ END
 GUI:Detail
 // ccb:remove
 // context: Options screen - Setting to adjust the amount of graphic detail in the game
-"Detail"
+"Détails"
 END
 
 GUI:UltraHigh
 // context: Options screen - Ultra High detail setting
-"Ultra High"
+"Très élevés"
 END
 
 GUI:High
 // context: Options screen - High detail setting
-"High"
+"Elevé"
 END
 
 GUI:Medium
 // context: Options screen - Medium detail setting
-"Medium"
+"Moyen"
 END
 
 GUI:Low
 // context: Options screen - Low detail setting
-"Low"
+"Bas"
 END
 
 GUI:VeryLow
 // context: Options screen - Very Low detail setting
-"Very Low"
+"Très bas"
 END
 
 
 GUI:Easy
 // context: Difficulty Popup
 // REMOVE
-"Easy"
+"Facile"
 END
 
 GUI:MediumDifficulty
 // context: Medium difficulty setting
 // REMOVE
-"Medium"
+"Normal"
 END
 
 GUI:Hard
 // context: Difficulty Popup
 // REMOVE
-"Hard"
+"Difficile"
 END
 
 GUI:SelectDifficulty
 // context: Difficulty Popup
 // REMOVE
-"SELECT DIFFICULTY"
+"Niveau de difficulté"
 END
 
 APT:EasyDifficulty
 // context: Difficulty Popup
-"EASY"
+"FACILE"
 END
 
 APT:MediumDifficulty
 // context: Medium difficulty setting
-"MEDIUM"
+"MOYENNE"
 END
 
 APT:HardDifficulty
 // context: Difficulty Popup
-"HARD"
+"DIFFICILE"
 END
 
 APT:DifficultyTitle
 // context: Difficulty Popup title
-"SELECT DIFFICULTY"
+"CHOISIR LA DIFFICULTE"
 END
 
 GUI:Random
 // context: Random selection of faction/color in the multiplayer join screen
-"Random"
+"Aléatoire"
 END
 
 GUI:???
@@ -2727,76 +2727,76 @@ END
 
 GUI:None
 // context: No player in the slot
-"None"
+"Aucune"
 END
 
 GUI:Team
 // context: Row header for the Team selection slots
-"Team"
+"Équipe"
 END
 
 GUI:Faction
 // context: Row header for the Faction selection Slots
-"Army"
+"Armée"
 END
 
 GUI:AntiAliasing0
 // context: Setting OFF for the Full screen antialiasing option
-"Off"
+"Sans"
 END
 
 GUI:AntiAliasing1
 // context: Setting LOW for the Full screen antialiasing option
-"Low"
+"Bas"
 END
 
 GUI:AntiAliasing2
 // context: Setting High for the Full screen antialiasing option
-"High"
+"Elevé"
 END
 
 GUI:IPAddresses
 // context: Box to set the IP Address to which a player want to connect in a LAN enviroment
-"LAN IP:"
+"IP LAN :"
 END
 
 GUI:OnlineIPAddresses
 // context: Box to set the IP Address to which a player want to connect in an Online enviroment
-"Online IP:"
+"IP distante :"
 END
 
 GUI:MinPointPercent
 // context: Quickmatch screen. Minimun points required for an opponent to meet the match criteria as a percentage
-"Min Win Percent Required:"
+"Points min. requis :"
 END
 
 GUI:MaxPointPercent
 // context: Quickmatch screen. Maximum points required for an opponent to meet the match criteria as a percentage
-"Max Win Percent Allowed:"
+"Points max. autorisés :"
 END
 
 GUI:AllowableMaps
 // context: on the Quickmatch Screen, title describing the allowable maps listbox
-"Allowable Maps"
+"Cartes disponibles"
 END
 
 GUI:QuickMatchTitle
-"Tournament"
+"Tournoi"
 END
 
 GUI:ConnectionSpeed
 // context: In a search for a game this is the maximun ping that the player wants (PING is a term used in internet to identify the time in miliseconds that it takes to send a minimun message from a computer until it receives an answer frokm the receiver. Normally it is not translated  and the term stays as PING)
-"Connection Speed"
+"Vit. connexion"
 END
 
 GUI:NumPlayers
 // context: Number of players in a game
-"Players:"
+"Joueurs :"
 END
 
 GUI:PlayersVersusPlayers
 // context: the %d variables are replaced by the number of players as in: 2 v 2
-"%d vs %d"
+"%d contre %d"
 END
 
 GUI:TimeInMilliseconds
@@ -2806,52 +2806,52 @@ END
 
 GUI:MaxDisconnects
 // context: Max disconnects until a game is terminated. If a player creates artificial disconnects in the connection, looking for a draw in the game, our server will count them. In a search for a game, a player can select not to play against other player with too many disconnects. This is the meaning of this field, the amount of maximun disconnect you want to allow.
-"Max Disconnects Allowed:"
+"Déconnexions max. autorisées :"
 END
 
 GUI:Confirm
 // context: Verification dialog
-"Are you sure?"
+"Vraiment ?"
 END
 
 GUI:MapPreview
 // context: label above the map preview window (no punctuation - it's a label)
-"Map Preview"
+"Aperçu de la carte"
 END
 
 GUI:NothingSelected
 // context: Notification dialog
-"Nothing selected."
+"Aucune sélection"
 END
 
 GUI:SelectedAcrossScreen
 // context: Notification dialog. It refers to the amount of units or buildings selected in the visible ingame screen
-"Selected across screen."
+"Sélectionnés à l'écran"
 END
 
 GUI:SelectedAcrossMap
 // context: Notification dialog. It refers to the amount of units or buildings selected in the whole map.
-"Selected across map."
+"Sélectionnés sur la carte"
 END
 
 GUI:Rank1Required
 //DO NOT TRANSLATE
-"RANK REQUIRED - 1 Star General"
+"CLASSEMENT REQUIS - Général 1 étoile"
 END
 
 GUI:Rank3Required
 //DO NOT TRANSLATE
-"RANK REQUIRED - 3 Star General"
+"CLASSEMENT REQUIS - Général 3 étoile"
 END
 
 GUI:Rank8Required
 //DO NOT TRANSLATE
-"RANK REQUIRED - 5 Star General"
+"CLASSEMENT REQUIS - Général 5 étoile"
 END
 
 GUI:Experience
 // context: label above the experience bar on the Experience Screen
-"Experience"
+"Expérience"
 END
 
 GUI:RemainingSkillPoints
@@ -2863,67 +2863,67 @@ END
 
 TOOLTIP:PlayerCreatedName
 // context: on the game info popup on the LAN lobby screen. When mousing over the Game name, this tooltip is displayed
-"Name of the player that created the game"
+"Nom du joueur qui a créé le jeu"
 END
 
 TOOLTIP:HTTPProxy
 // context: HTTP proxy tooltip for patch checking (options menu)
-"Set an HTTP Proxy to use for The Lord of the Rings, The Rise of the Witch-king Online"
+"Définissez un proxy HTTP à utiliser pour Le Seigneur des Anneaux, L'Avènement du Roi-sorcier en ligne"
 END
 
 TOOLTIP:PlayerSetting
 // context: located on the Quickmatch setup menu
-"Choose to match with a 1 vs. 1 or Team Game"
+"Choisissez de faire correspondre avec un 1 contre 1 ou un jeu d'équipe"
 END
 
 TOOLTIP:Ping
 // context: located on the Quickmatch setup menu
-"Choose your tolerance of the opponent connection speed"
+"Choisissez votre tolérance de la vitesse de connexion de l'adversaire"
 END
 
 TOOLTIP:Disconnect
 // context: located on the Quickmatch setup menu
-"Choose your tolerance of the total opponent disconnects"
+"Choisissez votre tolérance du total des déconnexions de l'adversaire"
 END
 
 TOOLTIP:Ladder
 // context: located on the Quickmatch setup menu
-"Choose the ladder on which you'd like to play"
+"Choisissez le classement sur lequel vous souhaitez jouer"
 END
 
 TOOLTIP:QuickMatchStatus
 // context: located on the Quickmatch setup menu
-"Tournament will attempt to match you based on skill level, PC spec, etc"
+"Le tournoi tentera de vous correspondre en fonction du niveau de compétence, des spécifications du PC, etc."
 END
 
 TOOLTIP:SendDelay
 //context: located on the options menu
-"For Firewall Users Only. (Please Consult the Manual)"
+"Pour les utilisateurs de pare-feu uniquement. (Veuillez consulter le manuel)"
 END
 
 TOOLTIP:RefreshNat
 //context: located on the options menu
-"Click after changing firewall setup or ISP"
+"Cliquez après avoir modifié la configuration du pare-feu ou le FAI"
 END
 
 TOOLTIP:OnlineIP
 //context: located on the options menu
-"IP Address used to connect to The Lord of the Rings, The Rise of the Witch-king Online"
+"Adresse IP utilisée pour se connecter au Seigneur des Anneaux, l'Avènement du Roi-Sorcier en ligne"
 END
 
 TOOLTIP:LanIP
 //context: located on the options menu
-"IP Address used to connect with players in network games"
+"Adresse IP utilisée pour se connecter avec les joueurs dans les jeux en réseau"
 END
 
 TOOLTIP:Vote
 // context: located in the disconnecting screen and allows for a player to vote out someone
-"Click to vote player out of game in order for you to continue"
+"Cliquez pour voter hors du jeu afin que vous puissiez continuer"
 END
 
 TOOLTIP:GamesBeingformed
 // context: located in the disconnecting screen and allows for a player to vote out someone
-"Your connection speed to this game's players"
+"Votre vitesse de connexion aux joueurs de ce jeu"
 END
 
  TOOLTIP:NameButton
@@ -2933,9 +2933,8 @@ END
 
 TOOLTIP:EmoteText
 // context: located in the disconnecting screen and allows for a player to enter text
-"Left click to enter text"
+"Clic gauche pour saisir du texte"
 END
-
 TOOLTIP:AsianText
 // context: located in the player's info 
 "Click to toggle Asian chat, etc."
@@ -2948,7 +2947,7 @@ END
 
 TOOLTIP:ExperienceToLevel
 // context: progress bar tooltip that informs the user as to how much more experience until they level.
-"Experience to next level"
+"Expérience au niveau supérieur"
 END
 
 KEYBOARD:Shift+
