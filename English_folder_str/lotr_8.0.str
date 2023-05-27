@@ -8437,11 +8437,11 @@ CONTROLBAR:ObjectivesDescription
 END
 
 CONTROLBAR:PlayerStatus 
-"Objectives"
+"Objectifs"
 END
 
 CONTROLBAR:PlayerStatusDescription
-"View Player Status and Tribute"
+"Voir le statut joueur et les tributs."
 END
 
 CONTROLBAR:Resources
@@ -8449,83 +8449,80 @@ CONTROLBAR:Resources
 END
 
 CONTROLBAR:ResourcesDescription
-"Collected resources available to spend on \n units, structures and upgrades"
+"Ressources récupérées disponibles pour acheter \n des unités, structures et améliorations."
 END
 
 CONTROLBAR:ResourceMultiplier
-"Resource Multiplier"
+"Multiplicateur de ressources"
 END
 
 CONTROLBAR:ResourceMultiplierDescription
-"Resource bonuses"
+"Ressources bonus"
 END
 
 CONTROLBAR:CommandPoints
-"Command Points"
+"Points de commandement"
 END
 
 CONTROLBAR:CommandPointsDescription
-"Current population/unit population cap"
+"Population actuelle/nombre d'unités max."
 END
 
 CONTROLBAR:CommandPointsLivingWorld
-"Command Points"
+"Points de commandement"
 END
 
 CONTROLBAR:CommandPointsLivingWorldDescription
-"Unit population cap"
+"Nombre d'unités max."
 END
 
 CONTROLBAR:MaxEvenstarPower
-"Power of the Evenstar"
+"Pouvoir de l'Etoile du Soir"
 END
 
 CONTROLBAR:MaxEvenstarPowerDescription
-"Number of Power Points you can spend on abilities"
+"Points de pouvoir dispo. pour acquérir des compétences."
 END
 
 CONTROLBAR:MaxRingPower
-"Power of the One Ring"
+"Pouvoir de l'Anneau Unique"
 END
 
 CONTROLBAR:MaxRingPowerDescription
-"Number of Power Points you can spend on abilities"
+"Points de pouvoir utilisables pour acquérir des compétences."
 END
 
 CONTROLBAR:IdleWorker
-"Idle worker"
+"Ouvrier inactif"
 END
 
 
 // context:
 
 CONTROLBAR:TooltipSetRallyPoint
-"Set rally point."
+"Etablir un point de ralliement"
 END
 
 CONTROLBAR:IdleWorkerDescription
-// context: Help text for IDLE button. THe idle button looks for workers in idle state so the player can assign them tasks.
-"Click to select the next idle worker."
+"Cliquez pour choisir l'ouvrier inactif suivant."
 END
 
 CONTROLBAR:Beacon
-// context: A Beacon is like a Post-It note that the player can place in a map
-"Beacon"
+"Balise"
 END
 
 CONTROLBAR:BeaconDescription
-// context: Help text for the place a beacon icon
-"Click to place a beacon."
+"Cliquez pour placer une balise"
 END
 
 CONTROLBAR:Communicator
-// context: Button to go to the chat window
-"Communicator"
+// Contexte : bouton pour accéder à la fenêtre de discussion
+"Communication"
 END
 
 CONTROLBAR:CommunicatorDescription
-// context: Help text for the communicator button
-"Click to open The Lord of the Rings, The Rise of the Witch-king Messenger."
+// Contexte : Texte d'aide pour le bouton du communicateur
+"Cliquez pour ouvrir le chat de LSA, L'Avènement du Roi-sorcier"
 END
 
 //------------------------------------------------------------------------------
@@ -8556,7 +8553,7 @@ RADAR:UnderAttack
 END
 
 RADAR:Infiltration
-"Enemy infiltration detected."
+"Des ennemis se sont infiltrés."
 END
 
 //context:
@@ -9530,7 +9527,7 @@ OBJECT:DwarfThroneofErebor
 END
 
 OBJECT:AotROsgiliathGrate
-""Vanne d'égout
+"Vanne d'égout"
 END
 
 OBJECT:Stairs
@@ -10257,7 +10254,7 @@ END
 
 OBJECT:GondorBaseDefenseFoundation
 //"Click here to build a defensive structure"		//This is seen by everyone.
-"Defensive Foundation"
+"Fondation de défense"
 END
 
 OBJECT:GondorWallFoundation
@@ -10715,30 +10712,30 @@ CONTROLBAR:ToolTipBuildRhunArcheryRangeLevel3Upgrade
 END
 //------------ Horsemaster's Campground ---------------
 OBJECT:MordorRhunStable
-"Horsemaster's Campground"
+"Campement du Maître des Chevaux"
 END
 
 CONTROLBAR:ConstructRhunStable
-"Build Horsemaster's Campground (&V)"
+"Construire un Campement du Maître des Chevaux"
 END
 CONTROLBAR:ToolTipConstructRhunStable
-"Trains Rhûnic cavalry"
+"Entraîne les cavaliers Rhûniques"
 END
 
 CONTROLBAR:ConstructRhunStable2Upgrade
-"Upgrade Horsemaster's Campground to Level 2 (&A)"
+"Améliorer le Campement du Maître des Chevaux au Niveau 2"
 END
 CONTROLBAR:ConstructRhunStableLevel3Upgrade
-"Upgrade Horsemaster's Campground to Level 3 (&A)"
+"Améliorer le Campement du Maître des Chevaux au Niveau 3"
 END
 
 CONTROLBAR:ToolTipBuildRhunStableLevel2Upgrade
 //"Level 2: +10% faster build speed \n Allows training of Knights of Dol Amroth"
-"Allows training of Golden Cataphracts\n+10% faster build speed"
+"Permet l'entraînement des Cataphractes Dorés\nVitesse de construction accrue de 10%."
 END
 CONTROLBAR:ToolTipBuildRhunStableLevel3Upgrade
 //"Level 3: +25% faster build speed \nAdds defensive arrow tower"
-"Allows training of Golden Chariots\n+25% faster build speed\nAdds defensive arrow tower"
+"Permet l'entraînement des Chars Dorés\nVitesse de construction accrue de 25%\nAjoute une tour défensive avec des flèches."
 END
 //----------------------------------------------
 
@@ -10747,7 +10744,7 @@ OBJECT:MordorTavern
 END
 
 OBJECT:MordorBarracks
-"Rhûn Barracks"
+"Baraquements de Rhûn"
 END
 
 
@@ -12626,51 +12623,51 @@ SCRIPT:COMPLETION_G03_B03
 END
 
 SCRIPT:MGEttenmoors_Haldir01
-"Reach the elven encampment. The Sons of Elrond will rejoin you later."
+"Atteignez le campement elfique. Les Fils d'Elrond vous rejoindront plus tard."
 END
 
 SCRIPT:MGEttenmoors_Haldir02
-"Elladan: Go forth and save our kin. We will join you upon finding allies located in these hills."
+"Elladan : Avancez et sauvez notre parenté. Nous vous rejoindrons après avoir trouvé des alliés situés dans ces collines."
 END
 
 SCRIPT:MGEttenmoors_Haldir03
-"Elrohir: Help has arrived, let us put these foul beasts to the sword."
+"Elrohir : L'aide est arrivée, mettons ces immondes créatures sous l'épée."
 END
 
 SCRIPT:MGEttenmoors_Archers01
-"Rivendell Archers have joined your troops."
+"Les Archers de Fondcombe ont rejoint vos troupes."
 END
 
 SCRIPT:MGEttenmoors_Archers02
-"Rivendell Archers have joined your troops."
+"Les Archers de Fondcombe ont rejoint vos troupes."
 END
 
 SCRIPT:MGEttenmoors_Warriors01
-"Help save the elven encampment!"
+"Aidez à sauver le campement elfe!"
 END
 
 SCRIPT:MGEttenmoors_Dozer01
-"Use Builders to establish a base."
+"Utilisez les bâtisseurs pour établir une base."
 END
 
 SCRIPT:MGEttenmoors_Captain01
-"ELF CAPTAIN: If the troll reaches that drum it'll bring more trolls down upon us!"
+"CAPITAINE ELFE: Si le géant atteint ce tambour, il fera venir un géant des montagnes!"
 END
 
 SCRIPT:MGEttenmoors_Captain02
-"ELEGOST: It appears that the Eldar could use a few rangers. Our bows will prove useful to you."
+"ELEGOST : Il semble que les Eldar pourraient avoir besoin de quelques rôdeurs. Nos arcs vous seront utiles."
 END
 
 SCRIPT:MGEttenmoors_GoblinKing01
-"Kill the Goblin King!"
+"Tuez le Roi Gobelin!"
 END
 
 SCRIPT:MGEttenmoors_GoblinKing02
-"Goblin King Killed!"
+"Le Roi Gobelin a été tué!"
 END
 
 SCRIPT:MGEttenmoors_Hint01
-"We must use our Revelers to reach the inside of this fortress."
+"Nous devons utiliser nos Quentaroli pour atteindre l'intérieur de cette forteresse."
 END
 
 
@@ -13669,413 +13666,413 @@ SCRIPT:EvilLorienHintText_BuildFortressUpgrades
 END
 
 SCRIPT:EvilLorienHintText_BuildFortressUpgradesReminder
-"Build two defensive upgrades from the build plots around your Fortress."
+"Construisez deux améliorations défensives depuis les emplacements d'amélioration de votre forteresse."
 END
 
 SCRIPT:EvilLorienHintText_BuildFortressUpgradesComplete
-"You've completed the fortress upgrades."
+"Vous avez achevé les améliorations de la forteresse."
 END
 
 SCRIPT:EvilLorienHintText_ObjectivesReminder
-"Click the Objectives button in the lower left or press the TAB key\n to view your objectives."
+"Cliquez sur les boutons d'objectif en bas à gauche ou appuyez sur la touche tab\n pour visualiser vos objectifs."
 END
 
 SCRIPT:EvilLorienHintText_BuildForces
-"Remember to keep building more Goblins and Trolls from your base\n to ensure the successful conquest of Lothlorien."
+"N'oubliez pas d'entraîner plus de gobelins et de trolls depuis votre base\n pour être sur de conquérir la Lothlorien."
 END
 
 SCRIPT:EvilLorienHintText_TrollsVsBuildings
-"Trolls and Giants work best as siege units that can quickly demolish structures."
+"Les trolls et les géants sont efficaces en tant qu'unités de siège et peuvent rapidement démolir des structures."
 END
 
 SCRIPT:EvilLorienHintText_TrollsVsArchers
-"Trolls and Giants are very vulnerable to arrows - avoid using them against archers."
+"Les trolls et les géants sont très vulnérables aux flèches - évitez de les utiliser contre les archers."
 END
 
 SCRIPT:EvilLorienHintText_DestroyTreehouses
-"Your forces are ready. Select your units, then attack the two elven treehouses near the river crossing."
+"Vos forces sont prêtes. Sélectionnez vos unités, puis attaquez les deux cabanes elfes après le passage de la rivière."
 END
 
 SCRIPT:EvilLorienHintText_DestroyTreehousesReminder
-"Destroy the two elven treehouses near the river crossing."
+"Détruisez les deux cabanes elfes après le passage de la rivière."
 END
 
 SCRIPT:EvilLorienHintText_DestroyTreehousesComplete
-"The treehouses have been destroyed."
+"Les cabanes ont été détruites."
 END
 
 SCRIPT:EvilLorienHintText_FreeGiants
-"Move your units over the captive Giant or kill his captors to free him."
+"Déplacez vos unités vers le géant captif ou tuez ses ravisseurs pour le libérer."
 END
 
 SCRIPT:EvilLorienHintText_FindGiants
-"You have freed the Giant. Search the forest to locate the other captive Giants."
+"Vous avez libéré le géant. Fouillez la forêt pour localiser les autres géants captifs."
 END
 
 SCRIPT:EvilLorienHintText_KeepSearchingForGiants
-"Continue to search the forest to free the captive Giants."
+"Continuez de fouiller la forêt pour trouver les géants captifs."
 END
 
 SCRIPT:EvilLorienHintText_FindLastGiant
-"There is one more captive Giant. Free him and crush the elves."
+"Il n'y a plus qu'un géant captif. Libérez le et éradiquez les elfes."
 END
 
 SCRIPT:EvilLorienHintText_AllGiantsFreed
-"You have freed all of the Giants."
+"Vous avez libéré tous les géants."
 END
 
 SCRIPT:EvilLorienHintText_KillHaldir
-"Slay the Captain of Lothlorien, Haldir."
+"Abattez le capitaine de la Lothlorien, Haldir."
 END
 
 SCRIPT:EvilLorienHintText_PursueHaldir
-"Haldir has fled, pursue him."
+"Haldir a pris la fuite, poursuivez le."
 END
 
 SCRIPT:EvilLorienHintText_HaldirDead
-"You have slain Haldir."
+"Vous avez tué Haldir."
 END
 
 SCRIPT:EvilLorienHintText_KillCeleborn
-"Slay the Lord of the Galadhrim, Celeborn."
+"Abattez le Seigneur des Galadhrim, Celeborn."
 END
 
 SCRIPT:EvilLorienHintText_CelebornDead
-"You have slain Lord Celeborn."
+"Vous avez tué le Seigneur Celeborn."
 END
 
 SCRIPT:EvilLorienHintText_GaladrielFlees
-"Galadriel has fled - raze the structures of Lorien."
+"Galadriel a pris la fuite - rasez les bâtiments de la Lorien."
 END
 
 SCRIPT:EvilLorienHintText_DestroyStronghold
-"Destroy the heart of Lothlorien, Caras Galadhon, found in the northwest."
+"Détruisez le coeur de la Lothlorien, Caras Galadhon, qui se situe dans le coin\n Nord-Ouest de la carte."
 END
 
 SCRIPT:EvilLorienHintText_DestroyStrongholdComplete
-"You have destroyed Caras Galadhon."
+"Vous avez détruit Caras Galadhon."
 END
 
 SCRIPT:EvilLorienHintText_Spells
-"Click the One Ring Button in the lower left to purchase powers."
+"Cliquez sur le bouton anneau unique en bas à gauche pour acheter des Pouvoirs."
 END
 
 SCRIPT:EvilLorienHintText_CastSpells
-"The Powers along the left recharge over time. When a power glows, left-click the power to use it. Some powers require you to left-click on the target you wish to use the power on."
+"Les pouvoirs sur la gauche se rechargent au fil du temps. Lorsqu'un pouvoir s'allume, cliquez sur le pouvoir en question avec le bouton gauche de la souris pour l'utiliser. Certains pouvoirs nécessitent un clic gauche sur la cible sur laquelle vous souhaitez utiliser le pouvoir."
 END
 
 SCRIPT:EvilLorienHintText_ReviveHeroes
-"One of your Heroes has fallen in battle. To revive him, select your fortress, left-click the Hero menu button, then select the Hero to revive."
+"L'un de vos héros est tombé au combat. Pour le rappeler au combat, sélectionnez votre forteresse, faêtes un clic gauche sur le bouton du menu héros, puis sélectionnez le héros à ressusciter."
 END
 
 SCRIPT:EvilLorienHintText_ReviveHeroesReminder
-"Revive your fallen Hero at the Fortress."
+"Ressuscitez votre héros à la forteresse."
 END
 
 SCRIPT:EvilLorienHintText_AllBuildersDead
-"All of your Builders have been eliminated. Select your fortress to create new Builders."
+"Tous vos bâtisseurs sont morts. Sélectionnez votre forteresse pour en créer de nouveaux."
 END
 
 SCRIPT:EvilLorienHintText_AllBuildersDeadReminder
-"Create new Builders from your fortress."
+"Créez de nouveaux bâtisseurs depuis la forteresse."
 END
 
 SCRIPT:OBJECTIVE_SPELorien_01
-"Build a Goblin Cave."
+"Construisez une cave à Gobelins."
 END
 
 SCRIPT:Complete_SPELorien_01
-"The Goblin Cave has been built."
+"La cave à gobelins a été construite."
 END
 
 SCRIPT:OBJECTIVE_SPELorien_02
-"Build two goblin hordes from the Cave."
+"Construisez deux hordes de gobelins depuis la cave."
 END
 
 SCRIPT:Complete_SPELorien_02
-"Two goblin hordes have been built."
+"Deux hordes de gobelins ont été entraînées."
 END
 
 SCRIPT:OBJECTIVE_SPELorien_03
-"Build a Tunnel."
+"Construisez un Tunnel."
 END
 
 SCRIPT:Complete_SPELorien_03
-"The Tunnel has been built."
+"Le tunnel a été érigé."
 END
 
 SCRIPT:OBJECTIVE_SPELorien_04
-"Build a Fissure."
+"Construisez une Fissure."
 END
 
 SCRIPT:Complete_SPELorien_04
-"The Fissure has been built."
+"La fissure est achevée."
 END
 
 SCRIPT:OBJECTIVE_SPELorien_05
-"Upgrade the Fissure to build Trolls."
+"Améliorez la fissure pour entraîner des trolls."
 END
 
 SCRIPT:Complete_SPELorien_05
-"The Fissure has been upgraded."
+"La fissure a été améliorée."
 END
 
 SCRIPT:OBJECTIVE_SPELorien_06
-"Build a Cave Troll from the upgraded Fissure."
+"Entraînez un troll des cavernes depuis la fissure améliorée."
 END
 
 SCRIPT:Complete_SPELorien_06
-"A Cave Troll has been built."
+"Un troll des cavernes a été entraîné."
 END
 
 SCRIPT:OBJECTIVE_SPELorien_07
-"Build up your fortress defenses with 2 upgrades."
+"Renforcez votre forteresse en construisant deux améliorations."
 END
 
 SCRIPT:Complete_SPELorien_07
-"The fortress has been upgraded."
+"La forteresse a été améliorée."
 END
 
 SCRIPT:OBJECTIVE_SPELorien_08
-"Cross the river and destroy the two elven treehouses."
+"Traversez la rivière et détruisez les deux cabanes elfes."
 END
 
 SCRIPT:Complete_SPELorien_08
-"The treehouses have been destroyed."
+"Les cabanes ont été détruites."
 END
 
 SCRIPT:OBJECTIVE_SPELorien_09
-"Destroy the stronghold of Lothlorien, Caras Galadhon."
+"Détruisez le bastion de la Lothlorien: Caras Galadhon."
 END
 
 SCRIPT:Complete_SPELorien_09
-"Caras Galadhon has been destroyed."
+"Caras Galadhon a été détruit."
 END
 
 SCRIPT:BONUS_SPELorien_01
-"Free all 3 Giants."
+"Libérez les trois géants."
 END
 
 SCRIPT:BONUS_SPELorien_02
-"Build a Tunnel on the far side of the river."
+"Construisez un tunnel de l'autre côté de la rivière."
 END
 
 SCRIPT:BONUS_SPELorien_03
-"Revive your fallen Hero at the fortress."
+"Ressuscitez vos héros depuis la forteresse."
 END
 
 SCRIPT:SUBTITLE_MELorie_MouthOfSauron01
-"THE MOUTH OF SAURON: The raid upon Lorien has long been in the waiting."
+"BOUCHE DE SAURON: Le raid sur la Lorien est depuis trop longtemps attendu."
 END
 
 SCRIPT:SUBTITLE_MELorie_MouthOfSauron016
-"THE MOUTH OF SAURON: The Elves have tricked and cursed our forces in these parts. Today, that will end!"
+"BOUCHE DE SAURON: Les Elfes ont trompé et maudit nos forces dans ces contrées. Aujourd'hui, cela va se terminer!"
 END
 
 SCRIPT:SUBTITLE_MELorie_MouthOfSauron017
-"THE MOUTH OF SAURON: So! Is this Celeborn and his elf-witch \n leading their people in their dramatic finale? How endearing! Kill them!"
+"BOUCHE DE SAURON: Alors! Est ce Celeborn et sa sorcière elfique\n menant leurs troupes dans un dramatique final? Comme c'est touchant! Abattez les!"
 END
 
 SCRIPT:SUBTITLE_MELorie_MouthOfSauron018
-"THE MOUTH OF SAURON: The elf-witch Galadriel and her foolish\n mate grace us with their prescence - such exquisite pleasure their \n deaths shall bring!"
+"BOUCHE DE SAURON: La sorcière elfique Galadriel et son fou\n de compagnon nous font grâce de leur présence - Quel plaisir divin leur\n mort nous apportera!"
 END
 
 
 
 SCRIPT:SUBTITLE_MELorie_Galadriel004
-"LADY GALADRIEL: You shall feel my wrath, foul minions of Sauron!"
+"DAME GALADRIEL: Vous allez sentir ma colère, sales serviteurs de Sauron!"
 END
 
 SCRIPT:SUBTITLE_MELorie_Cele005
-"LORD CELEBORN: By the light of Elbereth, you will perish!"
+"SEIGNEUR CELEBORN: Par la lumière d'Elbereth, vous périrez!"
 END
 
 SCRIPT:SUBTITLE_MELorie_MouthOfSauron014
-"THE MOUTH OF SAURON: There! The stronghold of Lorien, Caras Galadhon! Raze it to the ground!"
+"BOUCHE DE SAURON: Ici! C'est la place forte de la Lorien, Caras Galadhon! Rasez la entièrement!"
 END
 
 SCRIPT:SUBTITLE_MELorie_GoblinOfficer067
-"GOBLIN OFFICER: The elven stronghold still stands! Level it to the earth and be done with it!"
+"OFFICER GOBELIN: La forteresse elfique tient toujours debout! Mettez la à terre pour en finir avec elle!"
 END
 
 /////////////////////// EVIL GREY HAVENS MISSION TEXT //////////////////////////
 ///////// A single line of text should be no longer than this one. /////////////
 
 SCRIPT:BONUS_SPEGH_01
-"Capture the Outpost."
+"Capturez l'avant-poste."
 END
 
 SCRIPT:EvilGreyHavensGKArrival
-"Gorkil the Goblin King has arrived!"
+"Gorkil le roi Gobelin vient d'arriver!"
 END
 
 SCRIPT:EvilGreyHavensOpenText
-"Signal your allies. Capture the beach. Destroy the Grey Havens."
+"Signalez vos alliés. Capturez la plage. Détruisez les Havres Gris."
 END
 
 SCRIPT:OBJECTIVE_SPEGH_01
-"Capture the shipwright."
+"Capturez le quai."
 END
 
 SCRIPT:Complete_SPEGH_01
-"The shipwright has been captured."
+"Le quai a été capturé."
 END
 
 SCRIPT:OBJECTIVE_SPEGH_02
-"Construct three Corsair Black Ships."
+"Construisez trois vaisseaux noirs corsaires."
 END
 
 SCRIPT:Complete_SPEGH_02
-"Three Black Ships have been constructed."
+"Trois vaisseaux noirs corsaires ont été construits."
 END
 
 SCRIPT:OBJECTIVE_SPEGH_03
-"Sink the elven convoys fleeing the Grey Havens."
+"Coulez les convois elfes fuyant les Havres Gris."
 END
 
 SCRIPT:Complete_SPEGH_03
-"All elven convoys have been intercepted and destroyed."
+"Tous les convois elfes ont été interceptés et détruits."
 END
 
 SCRIPT:OBJECTIVE_SPEGH_04
-"Destroy the elven Battle Towers defending the beach."
+"Détruisez les tours de guerre elfes défendant la plage."
 END
 
 SCRIPT:Complete_SPEGH_04
-"The Battle TOwers have been destroyed."
+"Les tours de guerre elfes ont été détruites."
 END
 
 SCRIPT:OBJECTIVE_SPEGH_05
-"Defend the transports."
+"Defendez les transports de troupes."
 END
 
 SCRIPT:Complete_SPEGH_05
-"The transports have been defended."
+"Les transports de troupes ont été défendus."
 END
 
 SCRIPT:OBJECTIVE_SPEGH_06
-"Defeat the elves defending the beach."
+"Annihilez les elfes défendant la plage."
 END
 
 SCRIPT:Complete_SPEGH_06
-"The elves defending the beach have been defeated."
+"Les elfes défendant la plage ont été vaincus."
 END
 
 SCRIPT:OBJECTIVE_SPEGH_07
-"Destroy the three fortresses."
+"Détruisez les trois forteresses."
 END
 
 SCRIPT:Complete_SPEGH_07
-"The fortresses have been destroyed."
+"Les forteresses ont été détruites."
 END
 
 SCRIPT:EvilGreyHavensHintText_CaptureObj
-"Capture the shipwright with the Corsairs."
+"Capturez le quai avec les corsaires."
 END
 
 SCRIPT:EvilGreyHavensHintText_Capture
-"Select the Corsairs of Umbar, then right click on the flag next to the shipwright to capture it."
+"Selectionnez les Corsaires d'Umbar, ensuite faêtes clic droit sur le drapeau à côté du quai pour le capturer."
 END
 
 SCRIPT:EvilGreyHavensHintText_BuildFleetObj
-"Construct a fleet of three Corsair Black Ships."
+"Construisez une flotte de trois vaisseaux noirs corsaires."
 END
 
 SCRIPT:EvilGreyHavensHintText_BuildBattleship
-"Select the shipwright and click the 'Build Black Ship' button to begin constructing your fleet."
+"Selectionnez le quai puis cliquer sur le bouton contruire un vaisseau Noir' pour débuter la construction de votre flotte."
 END
 
 SCRIPT:EvilGreyHavensHintText_InfoBattleship
-"The Corsair Black Ship is your primary naval attack unit. Use them to sink enemy ships and defend your own."
+"Les vaisseaux noirs corsaires sont vos unités d'attaque de base. Utilisez les pour couler les navires ennemis et défendre les votres."
 END
 
 SCRIPT:EvilGreyHavensHintText_BuildBombardShip
-"Select the shipwright and click the 'Build Bombardment Ship' button to construct the Bombardment Ship."
+"Selectionnez le quai et cliquez sur le bouton 'construire un bombardier' pour construire un vaisseau bombardier."
 END
 
 SCRIPT:EvilGreyHavensHintText_InfoBombardship01
-"Bombardment ships are powerful siege weapons that can be used to attack structures over long distances."
+"Les vaisseaux bombardiers sont de puissantes armes de siège qui peuvent être utilisées pour attaquer de très loin les structures."
 END
 
 SCRIPT:EvilGreyHavensHintText_InfoBombardship02
-"Use your Bombardment Ships to destroy the Fortresses inside the Grey Havens."
+"Utilisez vos vaisseaux bombardiers pour détruire la forteresse à l'intérieur des Havres Gris."
 END
 
 SCRIPT:EvilGreyHavensHintText_InfoFireship01
-"Fire Ships will ram enemy vessels and explode on contact. Be wary however, they will sink friend and foe alike."
+"Les navires brulôts percuteront les navires ennemis et exploseront à leur contact. Mais attention, ils couleront amis et ennemis."
 END
 
 SCRIPT:EvilGreyHavensHintText_CapOutpost
-"We're running low on supplies. Move inland and try to find more resources."
+"Nous commençons à manquer de ressources. Capturons cet avant poste qui nous aidera à amasser plus de ressources."
 END
 
 SCRIPT:EvilGreyHavensHintText_CapOutpostComplete
-"We've captured an outpost."
+"Nous avons capturé l'avant-poste et pillé un peu de butin."
 END
 
 SCRIPT:EvilGreyHavensHintText_ElvishConvoy01
-"Use the Black Ships to sink any elven ships in the area."
+"Utilisez les vaisseaux noirs pour couler tous les vaisseaux elfes de la zone."
 END
 
 SCRIPT:EvilGreyHavensHintText_ElvishConvoy02
-"The elves are fleeing the Grey Havens. Send them to the bottom of the sea!"
+"Les elfes sont en train de fuire les Havres gris. Envoyez les au fond de la mer!"
 END
 
 SCRIPT:EvilGreyHavensHintText_ElvishConvoy03
-"More elven transports are fleeing. Find them and destroy them."
+"De plus en plus de vaisseaux elfes sont en fuite. Trouvez les et détruisez les."
 END
 
 SCRIPT:EvilGreyHavensHintText_ElvishConvoy04
-"The Elves have begun escorting their transports with warships of their own."
+"Les Elfes commencent à escorter leurs barges avec des vaisseaux de guerre."
 END
 
 SCRIPT:EvilGreyHavensHintText_ElvishConvoy05
-"Their transports are destroyed and we've trapped them inside the Grey Havens. Soon the invasion shall commence."
+"Leurs transports sont détruits et nous les avons piégés dans les Havres Gris. L'invasion va bientôt commencer."
 END
 
 SCRIPT:EvilGreyHavensHintText_BombardTowers
-"The elves have set up Battle Towers along the beach to the Northwest. Build a Bombardment Ship to destroy them."
+"Les elfes ont mis en place des tours de guerre le long de la plage au nord-ouest. Construisez un vaisseau bombardier pour les détruire."
 END
 
 SCRIPT:EvilGreyHavensHintText_BombardTowersDestroyed
-"Now that those towers are destroyed, we can safely land our transports on the beach."
+"Maintenant que leurs tours ont été détruites, nous pouvons faire débarquer sereinement nos troupes sur la plage."
 END
 
 SCRIPT:EvilGreyHavensHintText_ProtectTransports
-"Our Transports are inbound. The elves will try to sink them while\n they are still out to sea so we must use the Black Ships to defend them."
+"Nos transports de troupe arrivent. Les Elfes vont tenter de les couler alors\n qu'ils sont toujours en mer, nous devons donc utiliser les vaisseaux noirs pour les défendre."
 END
 
 SCRIPT:EvilGreyHavensHintText_CaptureBeach
-"Our forces are ashore. The elves are foolishly trying to defend against our onslaught. Wipe them out."
+"Nos forces sont à terre. Les elfes essaient bêtement de se défendre contre notre attaque. Effacez-les."
 END
 
 SCRIPT:EvilGreyHavensHintText_CaptureBeachComplete
-"The beach is ours. Nothing will stop us now."
+"La plage est notre. Rien ne nous arrêtera dorénavant."
 END
 
 SCRIPT:EvilGreyHavensHintText_BuildBase
-"The beach is ours. Now destroy the fortresses within the Grey Havens."
+"La plage est notre. Maintenant détruisez les forteresses dans les Havres Gris."
 END
 
 SCRIPT:EvilGreyHavensHintText_TreasureTrove
-"The Treasure Trove is where upgrades can be purchased."
+"C'est dans le trésor que peuvent être trouvées les améliorations."
 END
 
 SCRIPT:EvilGreyHavensHintText_Fissure
-"Half-Troll Marauders can be purchased from the Fissure."
+"Les semi-Trolls maraudeurs peuvent être entrainés depuis la fissure."
 END
 
 
 SCRIPT:EvilGreyHavensHintText_Marauders
-"Half-roll Marauders are powerful melee units that excel at killing cavalry."
+"Les semi troll maraudeurs sont de puissantes unités de mêlée qui excellent contre la cavalerie."
 END
 
 SCRIPT:FAILURE_SPEGH_01
-"Some of the Elven ships escaped our blockade. Sauron will not be pleased by this news."
+"Beaucoup de bateaux elfes ont échappé à notre blocus. Sauron ne sera pas satisfait d'apprendre cela."
 END
 
 SCRIPT:EVILGreyHavensHintText_LastFort
-"There is one last Elven fortress by the water. We can deploy ships to destroy it faster."
+"Il reste une dernière forteresse elfe près de l'eau. Nous devrions utiliser des vaisseaux pour la détruire."
 END
 
 
@@ -14085,167 +14082,167 @@ END
 
 
 SCRIPT:OBJECTIVE_E03_01
-"Reach the Eastfarthing." 
+"Atteignez le quartier de l'Est." 
 END
 
 SCRIPT:ANNOUNCEMENT_E03_01
-"Reach the Eastfarthing and establish a base." 
+"Atteignez le quartier de l'Est et établissez une base." 
 END
 
 SCRIPT:HINT_E03_01
-"Reach the Eastfarthing and establish a base." 
+"Atteignez le quartier de l'Est et établissez une base." 
 END
 
 SCRIPT:COMPLETION_E03_01
-"The Eastfarthing has been reached." 
+"Le quartier de l'Est a été atteint." 
 END
 
 SCRIPT:OBJECTIVE_E03_02
-"Build a fortress." 
+"Construisez une forteresse." 
 END
 
 SCRIPT:ANNOUNCEMENT_E03_02
-"Use these Builders to construct a fortress." 
+"Utilisez ces bâtisseurs pour construire une forteresse." 
 END
 
 SCRIPT:HINT_E03_02A
-"Use these Builders to construct a fortress." 
+"Utilisez ces bâtisseurs pour construire une forteresse." 
 END
 
 SCRIPT:HINT_E03_02B
-"These lands are treacherous. Upgrade our fortress and build Sentry Towers." 
+"Ces terres sont dangereuses. Améliorez votre forteresse et construisez des tours de garde." 
 END
 
 SCRIPT:COMPLETION_E03_02
-"The fortress has been built." 
+"La forteresse a été construite." 
 END
 
 SCRIPT:OBJECTIVE_E03_03
-"Destroy all 4 Seats of Power."
+"Détruisez les 4 sièges du pouvoir."
 END
 
 SCRIPT:ANNOUNCEMENT_E03_03
-"Destroy the 4 Seats of Power and the Hobbits will cower before us"
+"Détruisez les 4 sièges du pouvoir et les Hobbits se recroquevilleront devant nous"
 END
 
 SCRIPT:HINT_E03_03
-"Destroy the 4 Seats of Power and the Hobbits will cower before us"
+"Détruisez les 4 sièges du pouvoir et les Hobbits se recroquevilleront devant nous"
 END
 
 SCRIPT:UPDATE_E03_03A
-"1 of 4 Seats of Power has been destroyed"
+"1 des 4 sièges du pouvoir a été détruit"
 END
 
 SCRIPT:UPDATE_E03_03B
-"2 of 4 Seats of Power have been destroyed"
+"2 des 4 sièges du pouvoir ont été détruits"
 END
 
 SCRIPT:UPDATE_E03_03C
-"3 of 4 Seats of Power have been destroyed"
+"3 des 4 sièges du pouvoir ont été détruits"
 END
 
 SCRIPT:COMPLETION_E03_03
-"All 4 Seats of Power have been destroyed"
+"Les 4 sièges du pouvoir ont été détruits"
 END
 
 SCRIPT:OBJECTIVE_E03_04
-"Defeat all Dúnedain."
+"Abattez tous les Dúnedains."
 END
 
 SCRIPT:ANNOUNCEMENT_E03_04
-"The Dúnedain are attacking our forces. Kill them all."
+"Les Dúnedains attaquent nos forces. Tuez les tous."
 END
 
 SCRIPT:HINT_E03_04
-"The Dúnedain are attacking our forces. Kill them all."
+"Les Dúnedains attaquent nos forces. Tuez les tous."
 END
 
 SCRIPT:COMPLETION_E03_04
-"The Dúnedain have been destroyed."
+"Les Dúnedains ont été détruits."
 END
 
 SCRIPT:OBJECTIVE_E03_05
-"Kill Wormtongue."
+"Tuez Langue-de-Serpent."
 END
 
 SCRIPT:ANNOUNCEMENT_E03_05
-"Grima Wormtongue is attempting to claim the shire for himself. Kill Wormtongue."
+"Grima Langue-de-Serpent essaye de s'emparer de la Comté pour lui même. Tuez Langue-de-Serpent."
 END
 
 SCRIPT:HINT_E03_05
-"Grima Wormtongue is attempting to claim the shire for himself. Kill Wormtongue."
+"Grima Langue-de-Serpent essaye de s'emparer de la Comté pour lui même. Tuez Langue-de-Serpent."
 END
 
 SCRIPT:COMPLETION_E03_05
-"Wormtongue has been killed!"
+"Langue-de-Serpent a été tué!"
 END
 
 SCRIPT:OBJECTIVE_E03_06
-"Destroy the Isengard Fortress."
+"Détruisez la forteresse d'Isengard."
 END
 
 SCRIPT:ANNOUNCEMENT_E03_06
-"Destroy the Isengard Fortress."
+"Détruisez la forteresse d'Isengard."
 END
 
 SCRIPT:HINT_E03_06
-"Destroy the Isengard Fortress, it befouls our lands"
+"Détruisez la forteresse d'Isengard, elle touche nos terres"
 END
 
 SCRIPT:COMPLETION_E03_06
-"The Isengard Fortress has been destroyed."
+"La forteresse de l'Isengard a été détruite."
 END
 
 SCRIPT:OBJECTIVE_E03_B01
-"Destroy the Green Dragon Inn."
+"Détruisez l'auberge du Dragon Vert."
 END
 
 SCRIPT:ANNOUNCEMENT_E03_B01
-"Destroy the Green Dragon Inn."
+"Détruisez l'auberge du Dragon Vert."
 END
 
 SCRIPT:HINT_E03_B01
-"Destroy the Green Dragon Inn."
+"Détruisez l'auberge du Dragon Vert."
 END
 
 SCRIPT:COMPLETION_E03_B01
-"The Green Dragon Inn has been destroyed."
+"L'auberge du Dragon Vert a été détruite."
 END
 
 SCRIPT:OBJECTIVE_E03_B02
-"Destroy Bag End."
+"Détruisez Cul-de-Sac."
 END
 
 SCRIPT:ANNOUNCEMENT_E03_B02
-"Destroy Bag End."
+"Détruisez Cul-de-Sac."
 END
 
 SCRIPT:HINT_E03_B02
-"Destroy Bag End."
+"Détruisez Cul-de-Sac."
 END
 
 SCRIPT:COMPLETION_E03_B02
-"Bag End has been destroyed."
+"Cul-de-Sac a été détruit."
 END
 
 SCRIPT:MEShire_Prompt05
-"Use these Builders to build a base."
+"Utilisez ces bâtisseurs pour construire une base."
 End
 
 SCRIPT:MEShire_Prompt06
-"Capturing Farmer Maggot's Farm will add to our coffers."
+"Capturer la ferme du Père Magotte nous aidera à remplir nos coffres."
 End
 
 SCRIPT:MEShire_Prompt07
-"Capturing Longbottom Farm will add to our coffers."
+"Capturer la ferme de Longoulet nous aidera à remplir nos coffres."
 End
 
 SCRIPT:MEShire_Prompt08
-"These Cave Trolls come to our aid. Use them well."
+"Ces Géants des Montagnes nous viennent en aide. Utilisez les à bon escient."
 End
 
 SCRIPT:MEShire_Prompt09
-"These Ruffians will help us pillage the Shire!"
+"Les hommes sauvages du Pays de Dun nous viennent en aide. Vous pouvez utiliser vos pouvoirs pour en convoquer encore plus."
 END
 
 ////////////////////////// EVIL FORNOST MISSION TEXT ///////////////////////////
