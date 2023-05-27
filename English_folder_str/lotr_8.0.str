@@ -14249,95 +14249,95 @@ END
 ///////// A single line of text should be no longer than this one. /////////////
 
 SCRIPT:EvilFornostOpenText
-"The Dwarves and Dúnedain make one final stand here. \n Clear the city of their kind so they never rise again."
+"Les Nains et les Dúnedains font corps ici une dernière fois.\n Nettoyez la ville de leur présence pour qu'ils ne se relèvent plus."
 END
 
 SCRIPT:Announcement_E04_01
-"Destroy all Dwarves and Dúnedain defending the city."
+"Détruisez tous les Nains et Dúnedains défendant la Cité."
 END
 
 SCRIPT:Announcement_E04_02
-"Those towers could be used to destroy the gate. Use Giants to knock them down."
+"Ces tours pourraient être utilisées pour détruire la porte. Utilisez des géants pour les faire tomber."
 END
 
 SCRIPT:Announcement_E04_03
-"End their Dwarven Champion's life before he causes more trouble."
+"Mettez fin à la vie de leur champion nain avant qu'il ne cause plus de troubles."
 END
 
 SCRIPT:Announcement_E04_04
-"Take down the Earth Hammer before it destroys our forces."
+"Mettez à bas le Marteau de la Terre avant qu'il n'annihile nos forces."
 END
 
 SCRIPT:Announcement_E04_05
-"Destroy their main citadel."
+"Détruisez leur principale citadelle."
 END
 
 SCRIPT:Hint_E04_01
-"Capture the Inn."
+"Capturez l'Auberge."
 END
 
 SCRIPT:Hint_E04_02
-"Capture the Signal Fire."
+"Capturez le Feu d'alarme."
 END
 
 SCRIPT:Hint_E04_03
-"Perhaps we should strike a temporary allegiance with those Spiderlings."
+"Peut être pourrions nous contracter une alliance temporaire avec ces Araignées sauvages."
 END
 
 SCRIPT:Hint_E04_04
-"Our goblins can scale walls, so give them a move order on the other side and they'll climb right over."
+"Nos gobelins peuvent escalader les murs, donnez leur l'ordre de bouger de l'autre côté et ils grimperont au dessus des murs."
 End
 
 SCRIPT:Hint_E04_05
-"The Main Gate is breached. Storm the Castle."
+"La porte principale est brisée. Détruisez leur citadelle"
 End
 
 SCRIPT:Hint_E04_06
-"The Earth Hammer is no more. Now to summon in a weapon of our own.\n You can purchase the Watcher power now."
+"Le Marteau de la Terre n'est plus. Vous allez pouvoir convoquer une force similaire à votre avantage.\n Vous pouvez dorénavant acheter le pouvoir du Guetteur."
 End
 
 SCRIPT:Hint_E04_07
-"Destroy the Earth Hammer."
+"Détruisez le Marteau de la Terre."
 End
 
 SCRIPT:Objective_E04_01
-"Destroy all structures in the outer city."
+"Détruisez toutes les structures à l'extérieur de la cité."
 END
 
 SCRIPT:Objective_E04_02
-"Destroy castle's citadel."
+"Détruisez le Château de la citadelle."
 END
 
 SCRIPT:Objective_E04_03
-"Destroy the Earth Hammer."
+"Détruisez le Marteau de la Terre."
 END
 
 SCRIPT:BonusObjective_E04_01
-"Capture the Inn."
+"Capturez l'Auberge."
 END
 
 SCRIPT:BonusObjective_E04_02
-"Capture the Signal Fire."
+"Capturez le Feu d'alarme."
 END
 
 SCRIPT:BonusObjective_E04_03
-"Use Untamed Allegiance on both of the Spider Lairs."
+"Utilisez l'allégeance naturelle sur chaque antre d'araignées."
 END
 
 SCRIPT:Completed_E04_01
-"The outer city of Fornost has been taken."
+"L'extérieur de la cité de Fornost a été conquis."
 END
 
 SCRIPT:Completed_E04_02
-"The Earth Hammer is no more. Now to summon in a weapon of our own. You can purchase the Watcher power now."
+"Le Marteau de la Terre n'est plus. Vous allez pouvoir convoquer une force similaire à votre avantage. Vous pouvez dorénavant acheter le pouvoir du Guetteur."
 End
 
 SCRIPT:Completed_E04_03
-"The citadel of Fornost has been destroyed."
+"La citadelle de Fornost a été détruite."
 END
 
 SCRIPT:Timer_E04_01
-"Earth Hammer fires in:"
+"Le Marteau de la Terre fait feu dans:"
 End
 
 ///////////////////////// EVIL MIRKWOOD MISSION TEXT ///////////////////////////
@@ -14346,121 +14346,120 @@ End
 
 
 SCRIPT:MEMirkwood_MissionObjective01
-"Advance to the Old Forest Road in the North."
+"Avancez vers la vieille route de la foret dans le Nord."
 END
 
 SCRIPT:Complete_MEMirkwood_MissionObjective01
-"Our forces have reached the Old Forest Road."
+"Nos forces ont atteint la vieille route de la foret."
 END
  
 
 SCRIPT:MEMirkwood_MissionObjective02
-"Find another way across the river."
+"Trouvez un autre chemin pour traverser la rivière."
 END
 
 SCRIPT:Complete_MEMirkwood_MissionObjective02
-"Our forces have found a river crossing."
+"Nos forces ont trouvé un passage à travers la rivière."
 END
 
 SCRIPT:MEMirkwood_MissionObjective03
-"Construct a new fortress on the northern side of the river."
+"Construisez une nouvelle forteresse vers le côté Nord de la rivière."
 END
 
 SCRIPT:Complete_MEMirkwood_MissionObjective03
-"We have constructed a new fortress across the river."
+"Nous avons construit une nouvelle forteresse au delà de la rivière."
 END
 
 SCRIPT:MEMirkwood_MissionObjective04
-"Build up and defend Sentry Towers in the designated spots before the elves do."
+"Construisez et défendez des tours de garde sur les emplacements désignés avant que les elfes ne le fassent."
 END
 
 SCRIPT:Complete_MEMirkwood_MissionObjective04
-"Sentry Towers have been constructed and defended along the Old Forest Road."
+"Les Tours de garde ont été construites et défendues le long de la Vieille route de la forêt."
 END
 
 SCRIPT:MEMirkwood_BonusObjective01
-"Find and destroy the Ent base."
+"Trouvez et détruisez le camp des Ents."
 END
 
 SCRIPT:Complete_MEMirkwood_BonusObjective01
-"The Ent base is no more."
+"Le camp des Ents n'est plus."
 END
 
 SCRIPT:MEMirkwood_BonusObjective02
-"Bring Shelob to tame the spiderlings."
+"Amener Arachne pour apprivoiser les Araignées sauvages."
 END
 
 SCRIPT:Complete_MEMirkwood_BonusObjective02
-"We can summon more Spiderlings by purchasing the Summon Spiderling power."
+"Vous pouvez invoquer plus d'Araignées sauvages en achetant le pouvoir correspondant."
 END
 
 SCRIPT:MEMirkwood_BonusObjective03
-"Find and destroy the Elven bases."
+"Trouvez et détruisez les bases elfes."
 END
 
 SCRIPT:Complete_MEMirkwood_BonusObjective03
-"The Elven bases have been destroyed."
+"Les bases elfes ont été détruites."
 END
 
 SCRIPT:MEOldForestRoad_MissionAnnouncement01
-"ORC OFFICER: We must assemble an army and advance to the Old Forest Road."
+"OFFICIER ORQUE: Nous devons assembler une armée et avancer vers la vieille route de la foret."
 END
 
 SCRIPT:MEOldForestRoad_MissionAnnouncement02
-"ORC OFFICER: We can cross over to the north at the bridge along the river."
+"OFFICIER ORQUE: Nous pouvons traverser vers le Nord en empruntant le pont qui longe la rivière."
 END
 
 SCRIPT:MEOldForestRoad_MissionHint01
-"ORC OFFICER: Our scouts have found a way down into the river to the east."
+"OFFICIER ORQUE: Nos éclaireurs ont trouvé une route qui contourne la rivière vers l'Est."
 END
 
 SCRIPT:MEOldForestRoad_MissionHint02
-"ORC OFFICER: We need fire to burn those Ents to the ground!"
+"OFFICIER ORQUE: Nous avons besoin de feu pour bruler ces Ents!"
 END
 
 SCRIPT:MEOldForestRoad_MissionHint03
-"ORC OFFICER: We can purchase the Fire Arrow upgrade from the Tavern."
+"OFFICIER ORQUE: Nous pouvons rechercher les flèches enflammées depuis la Taverne."
 END
 
 SCRIPT:MEOldForestRoad_MissionHint04
-"MOUTH OF SAURON: The Spiderlings of Mirkwood are said to be Shelob's children. Bring her and we can gain their allegiance."
+"BOUCHE DE SAURON: Les Araignées sauvages de la foret Noire sont prétendument des enfants d'Arachne. Amenez la et nous obtiendrons leur allégeance."
 END
 
 SCRIPT:MEOldForestRoad_MissionHint05
-"ORC OFFICER: We've found the Ent base! Burn every last Ent and Ent Moot to the ground!"
+"OFFICIER ORQUE: Nous avons trouvé la base des Ents! Brulez-la et brulez les Ents jusqu'au dernier des Ents!"
 END
 
 SCRIPT:MEOldForestRoad_MissionHint06
-
-"ORC OFFICER: The elves are hiding in the trees. Use devestation to clear their cover!"
+"OFFICIER ORQUE: Les elfes sont cachés dans les arbres. Utilisez la dévastation pour faire disparaitre leur couverture!"
 End
 
 SCRIPT:MEOldForestRoad_MissionHint07
-"ORC OFFICER: Find the elven bases and destroy them to halt their defense of this road!"
+"OFFICIER ORQUE: Trouvez les bases des elfes et détruisez-les pour arrêter leur défense de cette route!"
 END
 
 SCRIPT:MEOldForestRoad_MissionHint08
-"ORC OFFICER: Don't let the elves build up their tower!"
+"OFFICIER ORQUE: Ne laissez pas les Elfes construire leurs tours!"
 END
 
 SCRIPT:MEOldForestRoad_MissionHint09
-"ORC OFFICER: If the elves build up all four towers we will lose the road!"
+"OFFICIER ORQUE: Si les Elfes arrivent à construire leurs 4 tours, nous perdrons le controle de la route!"
 END
 
 SCRIPT:MEOldForestRoad_MissionHint10
-"ORC OFFICER: The elves have all four towers up. Take them down quick or we shall lose the road."
+"OFFICIER ORQUE: Les Elfes ont érigé leurs 4 tours. Repoussez les rapidement ou nous devrons leur céder la route."
 END
 
 SCRIPT:MEOldForestRoad_MissionHint11
-"ORC OFFICER: We have all of our towers up! Hold them a bit longer and the road shall be ours!"
+"OFFICIER ORQUE: Nous avons érigé nos 4 tours! Défendez les encore un peu et la route sera à nous!"
 END
 
 SCRIPT:MEOldForestRoad_WinTimer
-"Road Successfully Held in:"
+"Route tenue avec succès dans:"
 END
 
 SCRIPT:MEOldForestRoad_LossTimer
-"Road Lost in:"
+"Route perdue dans:"
 END
 
 
@@ -14468,69 +14467,69 @@ END
 ///////// A single line of text should be no longer than this one. /////////////
 
 SCRIPT:MEWitheredHeath_Missionobjective01
-"Build a fortress."
+"Construisez une forteresse."
 End
 
 SCRIPT:Complete_MEWitheredHeath_Missionobjective01
-"A fortress has been built."
+"Une forteresse a été construite."
 End
 
 SCRIPT:MEWitheredHeath_MissionObjective03
-"Free all the drakes from the dwarven bases."
+"Libérer tous les drakes des bases naines."
 END
 
 SCRIPT:Complete_MEWitheredHeath_Missionobjective03a
-"The first group of drakes is free."
+"La première couvée de drakes est libre."
 End
 
 SCRIPT:Complete_MEWitheredHeath_Missionobjective03b
-"The second group of drakes is free."
+"Le second groupe de drakes est libre."
 End
 
 SCRIPT:Complete_MEWitheredHeath_Missionobjective03c
-"The third group of drakes is free."
+"Le troisième groupe de drakes est libre."
 End
 
 SCRIPT:Complete_MEWitheredHeath_Missionobjective03d
-"The fourth group of drakes is free."
+"Le quatrième groupe de drakes est libre."
 End
 
 SCRIPT:Complete_MEWitheredHeath_Missionobjective03
-"The drakes have been set free."
+"Les drakes ont tous été libérés."
 End
 
 SCRIPT:MEWitheredHeath_MissionObjective04
-"Return 10 drakes to the Dragon Lord."
+"Ramenez 10 drakes au Seigneur dragon."
 END
 
 SCRIPT:MEWitheredHeath_MissionObjective04A
-"Find the Dragon Lord."
+"Trouvez le Seigneur dragon."
 END
 
 
 
 SCRIPT:MEWitheredHeath_MissionObjective05
-"Destroy all dwarven mine shafts."
+"Détruisez toutes les mines naines."
 END
 
 SCRIPT:Complete_MEWitheredHeath_MissionObjective05
-"All dwarven mine shafts have been destroyed."
+"Toutes les mines naines ont été détruites."
 END
 
 SCRIPT:MEWitheredHeath_SpidersFlanking
-"ORC OFFICER: More Ouargues are coming out of the hills!"
+"OFFICIER ORQUE: D'autres Wargs sortent des collines!"
 End
 
 SCRIPT:MEWitheredHeath_MissionHint01
-"It appears the Dwarves are capturing Dragons while they are still young. Free these drakes and they will surely join us against the Dwarves!"
+"Il semble que les nains capturent les dragons quand ces derniers sont encore jeunes. Libérez ces drakes et ils se joindront surement à nous contre les nains!"
 END
 
 SCRIPT:MEWitheredHeath_MissionHint02
-"Destroy the gate to free the drakes."
+"Détruisez la porte pour libérer les drakes."
 End
 
 SCRIPT:MEWitheredHeath_MissionHint03
-"Use the drakes to battle the dwarves."
+"Utilisez les drakes pour combattre les nains."
 End
 
 
@@ -14538,55 +14537,55 @@ End
 ///////// A single line of text should be no longer than this one. /////////////
 
 SCRIPT:Objective_E07_01
-"Hunt down and destroy the carts full of gold."
+"Traquez et détruisez les chariots remplis d'or."
 END
 
 SCRIPT:Complete_E07_01
-"The carts have been seized."
+"Les chariots ont été détruits."
 END
 
 SCRIPT:Objective_E07_02
-"Make enough room to build a base by destroying the buildings of Dale."
+"Faites assez de place pour construire une base en détruisant les bâtiments de Dale."
 END
 
 SCRIPT:Complete_E07_02
-"The Dale area has been cleared."
+"Dale a été nettoyée."
 END
 
 SCRIPT:Objective_E07_02a
-"Destroy the buildings of Dale."
+"Détruisez les bâtiments de Dale."
 END
 
 SCRIPT:Complete_E07_02a
-"The Dale buildings have been destroyed."
+"Les bâtiments de Dale ont été nettoyés."
 END
 
 SCRIPT:Objective_E07_02b
-"Clear out enough room for a base in Dale."
+"Faites assez de place pour construire une base dans Dale."
 END
 
 SCRIPT:Objective_E07_03
-"Build a fortress worthy of Sauron."
+"Construisez une forteresse."
 END
 
 SCRIPT:Complete_E07_03
-"The fortress has been built."
+"La forteresse a été érigée."
 END
 
 SCRIPT:Objective_E07_04
-"Kill King Dáin."
+"Tuez le roi Dain."
 END
 
 SCRIPT:Copmlete_E07_04
-"King Dáin has fallen in battle."
+"Le roi Daïn est tombé au combat."
 END
 
 SCRIPT:Objective_E07_05
-"Destroy The throne of Erebor."
+"Détruisez le trône d'Erebor."
 END
 
 SCRIPT:Complete_E07_05
-"The throne of Erebor has been shattered."
+"Le trone d'Erebor a été réduit en poussières."
 END
 
 
@@ -14596,48 +14595,48 @@ END
 //// Announcements \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
 SCRIPT:Announcement_E07_01
-"Shelob and her brood should make quick work of the escaping flock."
+"Arachne et sa couvée devraient s'occuper rapidement du troupeau en fuite."
 END
 
 SCRIPT:Announcement_E07_02
-"The Crebain report that most of the riches of Dale are on these carts. \nKill them and requisition that treasure for Sauron!"
+"Les Crebains rapportent que la majeure partie des richesses de Dale se trouve dans ces chariots.\n Détruisez les et réquisitionnez ces richesses pour Sauron!"
 END
 
 SCRIPT:Announcement_E07_03
-"Clear out the city of Dale. Seize any resources you might find."
+"Nettoyez la ville de Dale. Amassez toutes les ressources que vous trouverez."
 END
 
 SCRIPT:Announcement_E07_04
-"Destroying five of these buildings should give us enough room."
+"Détruire 5 de ces bâtiments nous donnerait encore plus de place."
 END
 
 SCRIPT:Announcement_E07_05
-"The Throne of Dale has stood as a symbol of Dwarven strength for centuries. \nDestroy it."
+"Le trone de Dale est depuis toujours le symbole de la puissance des nains.\n Détruisez-le."
 END
 
 SCRIPT:Announcement_E07_06
-"Our campaign in the Withered Heath has paid off - we have new allies!"
+"Notre mission dans la Brande desséchée a été fructueuse - nous avons de nouveaux alliés!"
 END
 
 
 SCRIPT:Announcement_E07_07
-"Ahh... the flying dragons have arrived, use their fire to cleanse this land of dwarven taint."
+"Ahh... les dragons volant sont arrivés, Utilisez leur feu pour nettoyer cette terre de la souillure des nains."
 END
 
 SCRIPT:Announcement_E07_08
-"It seems the Nazgûl are more persuasive that I thought! \nA great dragon has arrived to aid us in filling the dwarven shafts with flame."
+"Il se trouve que les Nazguls sont plus persuasifs que je ne le croyais!\n Un grand dragon est arrivé pour nous aider à enflammer les conduits des Nains."
 END
 
 SCRIPT:Announcement_E07_09
-"That fool Glóin is attacking our base!"
+"Ce fou de Gloin attaque notre base!"
 END
 
 SCRIPT:Announcement_E07_10
-"King Dáin and the Dwarves of Erebor must be destroyed!"
+"Le roi Daïn et les nains d'Erebor doivent être détruits!"
 END
 
 SCRIPT:Announcement_E07_11
-"Time to level the buildings! \nUse this siege equipment to make room for our base."
+"Il est temps d'élever nos bâtimens !\n Utilisez ces engins de siège pour faire de la place pour notre base."
 END
 
 
@@ -14645,1062 +14644,1062 @@ END
 ////////HInTS \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
 SCRIPT:Hint_E07_01
-"ORC OFFICER: We need more room to build our Fortress. Bring up the siege weapons."
+"OFFICIER ORQUE: Nous avons besoin de plus de place pour notre forteresse. Amenez les engins de siège."
 END
 
 SCRIPT:Hint_E07_02
-"ORC OFFICER: Them porters have finally arrived.\nNow we can build our base up and lay siege to Erebor!"
+"OFFICIER ORQUE: Les bâtisseurs sont enfin arrivés.\n Maintenant nous pouvons dresser notre base et commencer le siège d'Erebor!"
 END
 
 SCRIPT:Hint_E07_03
-"We can build catapults from a siegeworks."
+"Nous pouvons construire des catapultes depuis un atelier de siège."
 END
 
 SCRIPT:Hint_E07_04
-"We need more catapults. Build a siegeworks."
+"Nous avons besoin de plus de catapultes. Construisez un atelier de siège."
 END
 
 SCRIPT:Hint_E07_05
-"Build more catapults. It will take more than that to get to the gate."
+"Construisez plus de catapultes. Il nous en faudra plus que ?a pour arriver à la porte."
 END
 
 SCRIPT:Hint_E07_06
-"We can use the catapults to destroy the dwarven catapult emplacements."
+"Nous pouvons utiliser les catapultes pour détruire les emplacements de catapultes nains."
 END
 
 SCRIPT:Hint_E07_08
-"Now that we have some buildings we need to build a fortress."
+"Maintenant que nous avons quelques bâtiments, nous devons construire une forteresse."
 END
 
 SCRIPT:Hint_E07_09
-"The catapults can start fires when they bombard an area."
+"Les catapultes peuvent faire démarrer un feu quand elles bombardent une même zone."
 END 
 
 SCRIPT:Hint_E07_10
-"Find the goods carts. We need those supplies."
+"Trouvez les chariots de marchandises. Nous avons besoin de ces fournitures."
 END
 
 SCRIPT:Hint_E07_11
-"We'll need a siegeworks if we're gonna break into Erebor."
+"Nous aurons besoin d'ateliers de siège si nous voulons pénétrer à l'intérieur d'Erebor."
 END
 
 SCRIPT:Hint_E07_12
-"The Mouth of Sauron has seen fit to send us some more builders. \nWe must protect them, for we will get no more help from the Dark Lord."
+"La Bouche de Sauron a trouvé bon de nous envoyer plus de bâtisseurs.\n Nous devons les protéger, car nous ne recevrons plus d'aide du Seigneur des Ténèbres."
 END
 
 //////////////////////// EVIL RIVENDELL MISSION TEXT ///////////////////////////
 ///////// A single line of text should be no longer than this one. /////////////
 
 SCRIPT:Objective_E08_01
-"Penetrate the perimeter of Rivendell."
+"Pénétrez dans l'enceinte de Fondcombe."
 END
 
 SCRIPT:Objective_E08_02
-"Slay Arwen Evenstar."
+"Abattez Arwen l'étoile du soir."
 END
 
 SCRIPT:Objective_E08_03
-"Slay the Fellowship."
+"Abattez la communauté de l'anneau."
 END
 
 SCRIPT:Objective_E08_03a
-"Slay the leaders of the west."
+"Abattez les leaders de l'Ouest."
 END
 
 SCRIPT:Objective_E08_04
-"Destroy the house of Elrond and surrounding fortresses."
+"Détruisez la maison d'Elrond et les forteresses environnantes."
 END
 
 SCRIPT:Objective_E08_05
-"The Dark Lord Sauron must not be vanquished."
+"Le Seigneur des Ténébres Sauron ne doit pas être vaincu."
 END
 
 SCRIPT:Hint_E08_01
-"Set up camp here. Once we have our base established\n we can begin the assault on the eldar stronghold."
+"Etablissez un camp ici. Dès que nous aurons dressé notre base\n nous pourrons commencer l'assaut sur la forteresse des Eldar."
 END
 
 SCRIPT:Hint_E08_02
-"Destroy The House of Elrond."
+"Détruisez la maison d'Elrond."
 END
 
 SCRIPT:Hint_E08_03
-"The fury of Mount Doom has risen. Rain of Fire is now an available power."
+"La furie du Mont Destin gronde. Le pouvoir pluie de feu est maintenant disponible."
 END
 
 SCRIPT:Hint_E08_04
-"The Witch-king has brought some fell beasts to deal with the eagles."
-END 
+"Le Roi-Sorcier a fait venir quelques ombres ailées pour combattre les aigles."
+END
 
 SCRIPT:Hint_E08_05
-"Gandalf has arrived with the remainder of the Fellowship.\n We must kill them."
+"Gandalf vient d'arriver avec ce qu'il reste de la communauté.\n Nous devons les tuer."
 END
 
 SCRIPT:Hint_E08_06
-"The Mouth of Sauron has brought us some catapults to help break into Rivendell."
+"La Bouche de Sauron a fait venir avec lui quelques catapultes pour nous aider à créer une brèche dans la forteresse."
 END
 
 SCRIPT:Hint_E08_07
-"The last of the Dúnedain have joined the fight. Destroy the Dúnedain."
+"Les derniers des Dúnedains ont rejoint le combat. Détruisez les."
 END
 
 SCRIPT:Hint_E08_08
-"Gandalf has arrived with the remainder of the Fellowship. Destroy them."
+"Gandalf vient d'arriver avec ce qu'il reste de la communauté. Détruisez les."
 END
 
 SCRIPT:Hint_E08_09
-"The Army of the Dead has come to aid Aragorn. We must steel our defenses!"
+"L'armée des Morts est venue à la rescousse d'Aragorn. Nous devons renforcer nos défenses!"
 END
 
 SCRIPT:Hint_E08_10
-"Some porters have arrived with Mordor equipment, we can now build Mordor buildings."
+"Quelques bâtisseurs viennent d'arriver avec de l'équipement du Mordor, nous pouvons maintenant construire des bâtimens du Mordor."
 END
 
 SCRIPT:Dialog_E08_01
-"ARWEN: I will help protect Rivendell father!"
+"ARWEN: Je protègerai Père et Fondcombe!"
 END
 
 SCRIPT:Dialog_E08_02
-"ELROND: Rivendell is our last hope. it must not fall!"
+"ELROND: Fondcombe est notre dernier espoir. Il ne doit pas tomber!"
 END
 
 ///////////////////////AotR CAMPAIGN OBJECTIVES///////////////////////////////////////////
 ///////// A single line of text should be no longer than this one. /////////////
 
 SCRIPT:LACINEMATICWARNING
-"This campaign contains several long cinematics and we recommend saving regularly to avoid having to re-watch them."
+"Cette campagne contient plusieurs longues cinématiques et nous vous recommandons de sauvegarder régulièrement pour éviter d'avoir à les revoir."
 END
 
 SCRIPT:LAObjective00
-"Destroy the orc camp and establish a base"
+"Détruisez le camp orque et construisez une base."
 END
 
 SCRIPT:LAObjective01
-"Destroy the Mordor Citadel"
+"Détruisez la citadelle du Mordor."
 END
 
 SCRIPT:LAObjective02
-"Destroy the remaining orc camp"
+"Détruisez le dernier camp orque."
 END
 
 SCRIPT:LAObjective03
-"Destroy the orc pits to the north and await reinforcements"
+"Détruisez les fosses Orques au Nord et attendez les renforts."
 END
 
 SCRIPT:LAObjective04
-"Destroy orc tents to gather resources"
+"Détruisez les tentes Orques pour obtenir des ressources."
 END
 
 SCRIPT:LAObjective05
-"Protect the camps and move up the slopes of Orodruin"
+"Protégez les camps et remontez les pentes de l'Orodruin."
 END
 
 SCRIPT:LAObjective06
-"Push through towards Sauron's final stronghold"
+"Avancez jusqu'au dernier bastion de Sauron."
 END
 
 SCRIPT:LAObjective07
-"Nazgûl are approaching"
+"Les Nazguls approchent."
 END
 
 SCRIPT:LAObjective08
-"Use Narsil to kill the Dark Lord Sauron"
+"Utilisez Narsil pour tuer Sauron le Seigneur des ténèbres."
 END
 
 SCRIPT:LAObjective09
-"Nazgûl are attacking the camp"
+"Les Nazgûls attaquent le camp."
 END
 
 SCRIPT:LAObjective10
-"Clear out the hordes of orcs that infest the plains of Gorgoroth"
+"Détruisez les hordes d'Orques qui infestent les plaines de Gorgoroth."
 END
 
 SCRIPT:LAObjective11
-"Orcs are attacking the base"
+"Les Orques attaquent la base."
 END
 
 SCRIPT:LAObjective12
-"Rescue the Dúnedain scouts"
+"Sauvez les éclaireurs Dúnedains."
 END
 
 SCRIPT:LAIntro01
-"In the year 3429 of the Second Age, the Dark Lord Sauron took the fortress-city of \n Minas Ithil and burned its White Tree."
+"Durant l'année 3429 du Second Age, le Seigneur des Ténébres Sauron s'empara de la Forteresse de \n Minas Ithil et brûla son arbre blanc."
 END
 
 SCRIPT:LAIntro02
-"Soon his forces spread from Mordor and began assailing the Free Peoples of Middle-earth."
+"Bientôt, ses forces s'étendirent depuis le Mordor et commencèrent à assaillir les peuples libres de la Terre du Milieu."
 END
 
 SCRIPT:LAIntro03
-"In response, Elendil, King of the Dúnedain and Gil-galad, High King of the Noldor, forged a great alliance."
+"En réponse, Elendil, Roi des Dúnedains et Gil-galad, Grand Roi des Noldors, forgèrent une grande alliance."
 END
 
 SCRIPT:LAIntro04
-"Together, Elves and Men sought to bring about Sauron's ultimate destruction."
+"Ensemble, les Elfes et les Hommes cherchèrent à provoquer la destruction ultime de Sauron."
 END
 
 SCRIPT:LAIntro05
-"Their great host marched upon Mordor, where they laid siege to Barad-dur for seven years."
+"Leur grande armée se mit en marche vers le Mordor, ou ils assiègérent Barad-Dur pendant 7 ans."
 END
 
 SCRIPT:LAIntro06
-"In time, Sauron and his forces were forced to retreat to Mount Doom, whose rugged terrain \n was easy to defend and difficult to traverse."
+"Pendant ce temps Sauron et ses armées furent obligés de se retirer vers le Mont Destin, dont le terrain rugueux \n était facile à défendre et difficile à traverser."
 END
 
 SCRIPT:LAIntro07
-"Wishing a swift end to the war, Elendil commanded his son Isildur to take a small force \n and enter Sauron's last hold to break its defense and allow the army through."
+"Souhaitant une rapide fin de la guerre, Elendil ordonna à son fils Isildur de prendre la tête d'une petite force, \n d'entrer dans le dernier bastion du Mordor et d'obliger les armées à avancer."
 END
 
 SCRIPT:LAElrond01
-"This pass is heavily guarded. We must take care not to rouse the full might of Sauron's garrison or we will be undone."
+"ELROND: Ce passage est très bien gardé. Nous devons veiller à ne pas réveiller toute la puissance de la garnison de Sauron, sinon nous serons défaits."
 END
 
 SCRIPT:LAElrond02
-"This orc camp lies in a place of great strategic value."
+"ELROND: Ce camp orque se trouve dans un endroit d'une grande valeur stratégique."
 END
 
 SCRIPT:LAElrond03
-"There it lies, the last garrison defending Orodruin's treacherous slopes. Let us gather our forces and strike hard, so that Elendil and Gil-galad may march their armies forward."
+"ELROND: La voilà, la dernière garnison qui défend les pentes traîtresses d'Orodruin. Rassemblons nos forces et frappons fort, afin qu'Elendil et Gil-galad puissent faire avancer leurs armées."
 END
 
 SCRIPT:LAIsildur01
-"Yet we must make haste. Let us press on and put a torch to these towers, so that we may shroud our advance."
+"ISILDUR: Pourtant, nous devons nous hâter. Accélérons la cadence et mettons le feu à ces tours, afin de dissimuler notre avancée."
 END
 
 SCRIPT:LAIsildur02
-"Let us claim it and establish a camp!"
+"ISILDUR: Emparons-nous de ce camp et établissons une base !"
 END
 
 SCRIPT:LAIsildur03
-"Let us gather our forces and strike hard to allow the great host passage."
+"ISILDUR: Rassemblons nos forces et frappons fort pour permettre le passage de la grande Armée."
 END
 
 OBJECT:LADolGoldurMainGate
-"Mordor Gate"
+"Porte du Mordor"
 END
 
 OBJECT:LADolGoldurWall
-"Mordor Wall"
+"Mur du Mordor"
 END
 
 OBJECT:LADolGoldurTower
-"Mordor Tower"
+"Tour du Mordor"
 END
 ////////////////SHADOW OF THE PAST////////////////
 
 SCRIPT:Objective01_Shadow
-"Reach the Buckleberry Ferry"
+"Atteignez le bac de Chateaubouc."
 END
 
 SCRIPT:Objective02_Shadow
-"Defend Gildor's Camp from the Risen Dúnedain"
+"Défendez le camp de Gildor face aux morts-vivants Dúnedain."
 END
 
 SCRIPT:Objective03_Shadow
-"Destroy the Barrows"
+"Détruisez les tombes."
 END
 
 SCRIPT:Objective04_Shadow
-"Reach the Prancing Pony"
+"Atteignez l'Auberge du Poney Fringant."
 END
 
 SCRIPT:Objective05_Shadow
-"Defend the Prancing Pony from the Black Riders' assault"
+"Protégez l'Auberge du Poney Fringant de l'assaut des Cavaliers Noirs."
 END
 
 SCRIPT:ObjectiveHint01_Shadow
-"Use the elven cloaks to avoid the Black Riders."
+"Utilisez les capes elfiques pour éviter les Cavaliers Noirs."
 END
 
 SCRIPT:ObjectiveHint02A_Shadow
-"Prepare for another attack by the Black Riders"
+"Preparez-vous pour une autre attaque des Cavaliers Noirs."
 END
 
 SCRIPT:ObjectiveHint02_Shadow
-"Rouse more Bree townsfolk from inns"
+"Réveillez les habitants de Bree dans les auberges."
 END
 
 SCRIPT:ObjectiveHint02B_Shadow
-"All inns have been captured"
+"Toutes les auberges ont été capturées."
 END
 
 SCRIPT:ObjectiveHint03_Shadow
-"Capture farms to earn resources and increase command points"
+"Capturez les fermes pour obtenir des ressources et accroitre la limite de points de commandement."
 END
 
 SCRIPT:ObjectiveHint03B_Shadow
-"All farms have been captured"
+"Toutes les fermes ont été capturées."
 END
 
 SCRIPT:ObjectiveHint03C_Shadow
-"Use heroes to capture inns & farms around Bree"
+"Utilisez les héros pour capturer les auberges et tavernes."
 END
 
 ///////////////////WEATHERTOP///////////////////
 
 SCRIPT:Objective01_Weathertop
-"Search for signs of Dúnedain presence around Weathertop."
+"Trouvez des traces de présence des Dunedains près des Monts Venteux."
 END
 
 SCRIPT:Objective02_Weathertop
-"Survive the attack by the Risen Dúnedain."
+"Survivez à l'attaque des Dunedains mort-vivants."
 END
 
 SCRIPT:Objective03_Weathertop
-"Protect the Hobbits from the Ringwraiths."
+"Protégez les Hobbits des Spectres de l'anneau."
 END
 
 SCRIPT:Objective04_Weathertop
-"Frodo is poisoned and will slowly lose health. Escape Weathertop and find medicine."
+"Frodon est empoisonné et perd de la vie peu à peu. Échappez-vous des Monts Venteux et trouvez de quoi le guérir."
 END
 
 SCRIPT:Objective05_Weathertop
-"Find at least 5 bushels of Kingsfoil to slow Frodo's poisoning"
+"Trouvez au moins 5 bosquets d'Athelas pour soulager l'empoisonnement de Frodon !"
 END
 
 SCRIPT:Objective04-update2_Weathertop
-"Use Aragorn's Athelas to heal Frodo"
+"Utilisez la capacité Athelas d'Aragorn pour soigner Frodon."
 END
 
 SCRIPT:Objective04counter_Weathertop
-"Kingsfoil Bushels Found:"
+"Bosquet d'Athelas découverts :"
 END
 
 SCRIPT:Objective06_Weathertop
-"Defend the Ford of Bruinen"
+"Defendez le Gué de Bruinen."
 END
 
 SCRIPT:Objective05-update_Weathertop
-"Build a force to help defend the Bruinen!"
+"Entrainez des troupes pour vous aider à défendre le Gué de Bruinen !"
 END
 
 SCRIPT:Objective05Timer_Weathertop
-"Glorfindel will arrive in:"
+"Glorfindel arrivera dans :"
 END
 
 SCRIPT:Objective05-update2_Weathertop
-"Defeat the next wave of orcs crossing the Bruinen"
+"Annihilez la prochaine vague d'Orques traversant le Gué de Bruinen."
 END
 
 SCRIPT:Objective05GlorfindelArrives_Weathertop
-"Glorfindel, Aragorn and the Hobbits have arrived. Escort them across the ford."
+"Glorfindel, Aragorn et les Hobbits viennent d'arriver. Escortez-les à travers le Gué."
 END
 
 SCRIPT:Objective05Final_Weathertop
-"Defeat the final wave."
+"Annihilez la vague finale."
 END
 
 ////////////////ORTHANC/////////////////
 
 SCRIPT:Objective01_Orthanc
-"Defeat Saruman"
+"Battre Saroumane."
 END
 
 ////////////////COUNCIL OF ELROND/////////////////
 
 SCRIPT:Objective00_Council
-"Speak to heroes in the Hall of Fire"
+"Parlez aux héros dans le Hall du Feu."
 END
 
 SCRIPT:Objective00Boromir_Council
-"Speak to Boromir to learn of the struggles in Gondor"
+"Parlez à Boromir pour en apprendre plus sur les combats au Gondor."
 END
 
 SCRIPT:Objective00Elrond_Council
-"Speak to Elrond to hear the fate of Isildur"
+"Parlez à Elrond pour entendre le récit du destin d'Isildur."
 END
 
 SCRIPT:Objective00Bilbo_Council
-"Speak to Bilbo to hear a tale of riddles"
+"Parlez à Bilbon pour entendre une histoire d'énigmes."
 END
 
 SCRIPT:Objective01_Council
-"Explore the cave"
+"Explorez la caverne."
 END
 
 SCRIPT:Objective02_Council
-"Answer Gollum's riddles"
+"Répondez au énigmes de Gollum."
 END
 
 SCRIPT:Objective03_Council
-"Escape from Gollum's cave"
+"Échappez-vous de la caverne de Gollum."
 END
 
 SCRIPT:Objective04_Council
-"Survive the orc ambush"
+"Mettez en déroute l'embuscade Orque."
 END
 
 SCRIPT:Objective05_Council
-"Hold ground and stop orcs from advancing into the forest and finding Isildur"
+"Stoppez l'avancée des Orques dans la forêt et trouvez Isildur."
 END
 
 SCRIPT:Objective06_Council
-"Defend Isildur"
+"Defendez Isildur."
 END
 
 SCRIPT:OsgiliathObjective01_Council
-"Reclaim all buildings on the Western bank before it is overrun"
+"Prenez possession de tous les bâtiments de la Rive Ouest avant qu'elle ne soit envahie."
 End
 
 SCRIPT:OsgiliathObjective02_Council
-"Defend the bridges from enemy attacks"
+"Defendez les ponts des attaques ennemies."
 End
 
 SCRIPT:OsgiliathObjective03_Council
-"Clear the bridges of enemy forces"
+"Nettoyez les ponts de toutes les forces ennemies."
 End
 
 SCRIPT:OsgiliathBonus_Council
-"Kill the Nazgûl commander"
+"Tuez le chef des Nazgûls."
 End
 
 ////////////////////REDHORN//////////////////////
 
 SCRIPT:Objective00_Redhorn
-"Guide the Fellowship South"
+"Guidez la Communauté vers le Sud."
 END
 
 SCRIPT:Objective01_Redhorn
-"Guide the Fellowship to the pass of Caradhras"
+"Guidez la Communauté à travers le Col de Caradhras."
 END
 
 SCRIPT:Objective02_Redhorn
-"Traverse the Caradhras"
+"Traversez le Caradhras."
 END
 
 SCRIPT:Objective02_Update_Redhorn
-"Guide the Fellowship towards the Walls of Moria"
+"Guidez la Communauté vers les murs de la Moria."
 END
 
 SCRIPT:Objective03_Redhorn
-"Survive the warg attack"
+"Survivez à l'attaque des Wargs."
 END
 
 SCRIPT:Objective04_Redhorn
-"Kill the Watcher in the water"
+"Tuez le Guetteur de l'eau."
 END
 
 SCRIPT:BonusObjective01_Redhorn
-"Find all hidden Noldorin treasures"
+"Trouvez tous les trésors cachés des Noldors."
 END
 
 SCRIPT:BonusObjective02_Redhorn
-"Destroy all Snow-troll lairs"
+"Détruisez toutes les antres des Trolls des neiges."
 END
 
 SCRIPT:BonusObjective03_Redhorn
-"Kill all flocks of Crebain"
+"Abattez toutes les nuées de crébains."
 END
 
 SCRIPT:BonusObjective04_Redhorn
-"Defeat Celebrimbor"
+"Battez Celebrimbor."
 END
 
 SCRIPT:CaradhrasHint_Redhorn
-"Avoid avalanches across the Caradhras"
+"Évitez l'avalanche à travers le Caradhras."
 END
 
 SCRIPT:CaradhrasHint2_Redhorn
-"Gather the Fellowship before proceeding"
+"Rassemblez la Communauté avant de continuer."
 END
 
 /////////////////////MORIA//////////////////////
 
 SCRIPT:Objective01_Moria
-"Reach the Great Hall"
+"Atteignez le Grand Hall."
 END
 
 SCRIPT:Objective02_Moria
-"All heroes must survive."
+"Tous les héros doivent survivre."
 END
 
 SCRIPT:Objective03_Moria
-"Reunite with the the Fellowship."
+"Réunissez la Communauté."
 END
 
 SCRIPT:Objective04_Moria
-"Kill the Watcher in the Water"
+"Tuez le Guetteur de l'eau."
 END
 
 SCRIPT:Objective05_Moria
-"Survive until Óin Arrives"
+"Survivez jusqu'à ce qu'Oin arrive."
 END
 
 SCRIPT:Objective06_Moria
-"Reach the Second Hall"
+"Atteignez le Second Hall."
 END
 
 SCRIPT:Objective07_Moria
-"Survive the goblin attacks"
+"Survivez à l'attaque des Gobelins."
 END
 
 SCRIPT:BonusObjective01_Moria
-"Find five Dwarven treasures."
+"Trouvez les cinq trésors des Nains."
 END
 
 SCRIPT:BonusObjective02_Moria
-"Find Balin's Axe."
+"Trouvez la hâche de Balin."
 END
 
 SCRIPT:BonusObjective03_Moria
-"Reach the Great Hall within 25 minutes."
+"Atteignez le Grand Hall en moins de 25 minutes."
 END
 
 SCRIPT:BonusObjective04_Moria
-"Destroy the drums in the deep."
+"Détruisez les tambours dans les profondeurs."
 END
 
 //////////////////KHAZAD-DUM////////////////////
 
 SCRIPT:Objective01_Khazad
-"Escape Moria"
+"Échappez-vous de la Moria."
 END
 
 SCRIPT:Objective02_Khazad
-"All heroes must survive"
+"Tous les héros doivent survivre."
 END
 
 SCRIPT:Objective03_Khazad
-"Find the Chamber of Mazarbul"
+"Trouvez la chambre de Mazarboul."
 END
 
 SCRIPT:Objective04_Khazad
-"Kill the Goblin Shamans to break the enchantment"
+"Tuez les chamans Gobelins pour briser l'enchantement."
 END
 
 SCRIPT:Objective05_Khazad
-"Kill the Balrog"
+"Affaiblissez le Balrog."
 END
 
 SCRIPT:Objective01Hint_Khazad
-"Cross the Great Hall towards the bridge of Khazad-dum"
+"Traversez le Grand Hall vers le Pont de Khazad-dum."
 END
 
 //////////////////LOTHLORIEN////////////////////
 
 SCRIPT:Objective01_Lothl
-"Reach the Marchwarden Forward Camp"
+"Atteindre la base avancée des elfes."
 END
 
 SCRIPT:Objective02_Lothl
-"Rescue the Fellowship"
+"Portez secours à la Communauté."
 END
 
 SCRIPT:Objective03_Lothl
-"Escort the Fellowship to Caras Galadhon"
+"Escortez la Communauté vers Caras Galadhon."
 END
 
 SCRIPT:Objective04_Lothl
-"Defend Lady Galadriel and the Hobbits against the goblin assault on Caras Galadhon"
+"Défendez Dame Galadriel et les Hobbits contre l'assaut des Gobelins sur Caras Galadhon."
 END
 
 SCRIPT:Objective05_Lothl
-"Destroy all Goblin camps"
+"Détruisez tous les camps des Gobelins."
 END
 
 SCRIPT:BonusObjective01_Lothl
-"Discover all hidden allies"
+"Découvrez tous les alliés cachés."
 END
 
 SCRIPT:BonusObjective02_Lothl
-"Advance all elven heroes to level 3"
+"Faites monter tous les héros elfes au niveau 3."
 END
 
 SCRIPT:BonusObjective01Hint_Lothl
-"Destroying goblin camps will diminish enemy reinforcements"
+"Détruisez les camps Gobelins pour amoindrir leurs renforts."
 END
 
 //////////////////AMON HEN////////////////////
 
 SCRIPT:Objective01_Amon
-"Survive the summit attack"
+"Survivez à l'attaque au sommet."
 END
 
 SCRIPT:Objective02_Amon
-"Reach Boromir"
+"Atteignez Boromir."
 END
 
 SCRIPT:Objective03_Amon
-"Kill Lurtz"
+"Tuez Lurtz."
 END
 
 SCRIPT:Objective04_Amon
-"Reach the boats without being discovered"
+"Atteignez les bâteaux avant d'être découvert."
 END
 
 SCRIPT:BonusObjective01_Amon
-"Keep Boromir alive"
+"Gardez Boromir en vie."
 END
 
 SCRIPT:Objective04Hint_Amon
-"Use Frodo's powers and hide amongst trees to avoid detection"
+"Utilisez les pouvoirs de Frodon et restez caché parmi les arbres pour éviter d'être détecté."
 END
 
 //////////////////FORDS OF ISEN////////////////////
 
 SCRIPT:Objective01_Fords
-"Repel the wildman assault"
+"Repoussez l'assaut des Hommes de Duns."
 END
 
 SCRIPT:Objective02_Fords
-"Build a base with at least five buildings to reinforce your troops."
+"Construisez une base avec au moins cinq bâtiments pour renforcer vos troupes."
 END
 
 SCRIPT:Objective03_Fords
-"Survive the second assault"
+"Survivez au deuxième assaut."
 END
 
 SCRIPT:Objective04_Fords
-"Send Theodred to the gates of Isengard"
+"Envoyez Théodred aux portes de l'Isengard."
 END
 
 SCRIPT:Objective05_Fords
-"Retreat to the fords"
+"Repliez-vous vers les Gués."
 END
 
 SCRIPT:Objective06_Fords
-"Hold the Fords of Isen"
+"Tenez les Gués de l'Isen."
 END
 
 SCRIPT:Objective07_Fords
-"Kill Mog"
+"Tuer Mog."
 END
 
 SCRIPT:BonusObjective01_Fords
-"Destroy all Wildman camps"
+"Détruire tous les camps des Hommes de Dun."
 END
 
 SCRIPT:BonusObjective02_Fords
-"Destroy all Lumber Camps"
+"Détruisez tous les camps de bûcherons."
 END
 
 SCRIPT:BonusObjective03_Fords
-"Find secret allies"
+"Trouvez les alliés secrets."
 END
 
 SCRIPT:BonusObjective04_Fords
-"Muster reinforcements from the nearby village"
+"Rassemblez les renforts du village voisin."
 END
 
 OBJECT:Fords_RiverFolk
-"Isen Riverfolk"
+"Riverains de l'Isen"
 END
 
 ////////////////TAMING OF SMEAGOL//////////////////
 
 SCRIPT:Objective01_Taming
-"Find a path through Emyn Muil"
+"Trouver un chemin à travers Emyn Muil."
 END
 
 SCRIPT:Objective02_Taming
-"Defeat Gollum"
+"Vaincre Gollum."
 END
 
 SCRIPT:Objective03_Taming
-"Find a way out of Emyn Muil"
+"Trouver un moyen de sortir d'Emyn Muil."
 END
 
 SCRIPT:Objective04_Taming
-"Cross the Dead Marshes"
+"Traverser le marais des morts."
 END
 
 SCRIPT:Objective05_Taming
-"Collect six bundles of firewood to make a camp"
+"Ramassez six fagots de bois de chauffage pour faire un camp."
 END
 
 SCRIPT:Objective06_Taming
-"Collect six bundles of firewood to burn the great barrow"
+"Récupérez six fagots de bois de chauffage pour brûler le Grand Galgal."
 END
 
 ////////////////EAVES OF FANGORN//////////////////
 
 SCRIPT:Objective01_Eaves
-"Track the Uruk party across Rohan"
+"Suivez la horde d'Uruk-hai à travers le Rohan."
 END
 
 SCRIPT:Objective02_Eaves
-"Rescue the village from Dunland and Wildmen raiders"
+"Sauvez le village des Pilleurs et Hommes de Duns."
 END
 
 SCRIPT:Objective03_Eaves
-"Find and liberate all villages across the Eastfold"
+"Trouvez et libérez tous les villages de l'Eastfold."
 END
 
 SCRIPT:Objective04_Eaves
-"Find the Uruk and Orc party"
+"Trouvez le groupe d'Uruk-hai et d'Orques."
 END
 
 SCRIPT:Objective05_Eaves
-"Report back to Eomer"
+"Faites votre rapport à Eomer."
 END
 
 SCRIPT:Objective06_Eaves
-"Destroy the Uruk and Orc party"
+"Détruisez le groupe d'Uruk-hai et d'Orques."
 END
 
 SCRIPT:Objective07_Eaves
-"Use Aragorn to find clues of the Hobbits fate"
+"Utilisez Aragorn pour trouver des indices sur le sort des Hobbits."
 END
 
 SCRIPT:Objective08_Eaves
-"Find a way to cross the Entwash"
+"Trouvez un moyen de traverser la forêt de Fangorn."
 END
 
 SCRIPT:Objective09_Eaves
-"Find Merry and Pippin"
+"Trouvez Merry et Pippin."
 END
 
 SCRIPT:BonusObjective01_Eaves
-"Find all clues of the Uruk party"
+"Trouvez tous les indices sur le groupe d'Uruk-hai."
 END
 
 SCRIPT:BonusObjective02_Eaves
-"Rescue all refugees"
+"Sauver tous les réfugiés."
 END
 
 SCRIPT:BonusObjective03_Eaves
-"Destroy all raiding parties across the Eastfold"
+"Détruisez tous les raids à travers l'Eastfold."
 END
 
 SCRIPT:BonusObjective04_Eaves
-"Avoid detection in Fangorn Forest"
+"Éviter votre détection dans la forêt de Fangorn."
 END
 
 SCRIPT:BonusObjective05_Eaves
-"Find a new shield for Boromir"
+"Trouvez un nouveau bouclier pour Boromir."
 END
 
 ////////////////DURINS TOWER//////////////////
 
 SCRIPT:Objective01_DurinsTower
-"Defeat the Balrog"
+"Vaincre le Balrog."
 END
 
 ////////////////ITHILIEN//////////////////
 
 SCRIPT:Objective01_Ithilien
-"Eliminate all Mordor patrols before they discover the Forbidden Pool"
+"Éliminez toutes les patrouilles du Mordor avant qu'elles ne découvrent l'étang interdit."
 END
 
 SCRIPT:Objective02/3_Ithilien_PROMPT
-"Make contact with Anborn and Mablung's rangers hiding in Ithilien"
+"Prenez contact avec les rangers d'Anborn et Mablung cachés en Ithilien."
 END
 
 SCRIPT:Objective02_Ithilien
-"Make contact with Anborn's rangers"
+"Prenez contact avec les rangers d'Anborn."
 END
 
 SCRIPT:Objective03_Ithilien
-"Make contact with Mablung's rangers"
+"Prenez contact avec les rangers de Mablung."
 END
 
 SCRIPT:Objective04_Ithilien
-"Destroy all the lumber camps to preserve tree cover"
+"Détruisez tous les camps de bûcherons pour préserver le couvert forestier."
 END
 
 SCRIPT:Objective05_Ithilien
-"Destroy the orc camp in the North-East and reduce Mordor's foothold in Ithilien"
+"Détruisez le camp Orque au Nord-Est et réduisez l'emprise du Mordor en Ithilien."
 END
 
 SCRIPT:Objective06_Ithilien
-"Ambush and destroy the Haradrim caravan"
+"Tentez une embuscade et détruisez le convoi Haradrim."
 END
 
 SCRIPT:BonusObjective01_Ithilien
-"Destroy all orc scout teams without any escaping"
+"Détruisez toutes les équipes d'éclaireurs Orques sans vous échapper."
 END
 
 SCRIPT:BonusObjective02_Ithilien
-"Find at least 12 teams of Rangers"
+"Trouvez au moins 12 équipes de Rangers."
 END
 
 SCRIPT:BonusObjective03_Ithilien
-"Use Anborn to track and capture Gollum"
+"Utilisez Anborn pour suivre et capturer Gollum."
 END
 
 SCRIPT:BonusObjective04_Ithilien
-"Cover all positions along the southern pass before the convoy arrives"
+"Couvrir toutes les positions le long du col sud avant l'arrivée du convoi."
 END
 
 ////////////////WESTFOLD//////////////////
 
 SCRIPT:Objective01_Westfold
-"Defeat the attackers before Upbourn's southern gate is destroyed."
+"Battez les envahisseurs avant que la porte sud d'Upbourn ne soit détruite."
 END
 
 SCRIPT:Objective02_Westfold
-"Make contact with the captain of the guard at the town centre."
+"Prenez contact avec le capitaine de la garde au centre-ville."
 END
 
 SCRIPT:Objective03_Westfold
-"Liberate the Eastern side of Upbourn"
+"Libérez la partie Est d'Upbourn."
 END
 
 SCRIPT:Objective04_Westfold
-"Keep the Gatehouse clear from Isengard's forces."
+"Gardez la porte à l'écart des forces de l'Isengard."
 END
 
 SCRIPT:Objective05_Westfold
-"Destroy Isengard's forward base."
+"Détruisez la base avancée de l'Isengard."
 END
 
 SCRIPT:Objective06_Westfold
-"Defend Upbourn from Sharku's warband."
+"Défendez Upbourn de la bande de Sharcoux."
 END
 
 SCRIPT:BonusObjective01_Westfold
-"Rescue all trapped villagers."
+"Sauvez tous les villageois piégés."
 END
 
 SCRIPT:BonusObjective02_Westfold
-"Destroy all Isengard forces in the lowlands and woods."
+"Détruisez toutes les forces de l'Isengard dans les plaines et les bois."
 END
 
 SCRIPT:BonusObjective03_Westfold
-"Survive Sharku's attack and destroy the forward base without calling for reinforcements."
+"Survivez à l'attaque de Sharcoux et détruisez la base avancée sans faire appel à des renforts."
 END
 
 ////////////////GREY COMPANY//////////////////
 
 SCRIPT:Objective_GC_Annuminas_01
-"Reach captain Halbarad."
+"Rejoignez le capitaine Halbarad."
 END
 
 SCRIPT:Objective_GC_Annuminas_02
-"Travel to all regions across Eriador and gather Dúnedain rangers."
+"Voyagez dans toutes les régions d'Eriador et rassemblez les rangers Dunedains."
 END
 
 SCRIPT:Objective_GC_Annuminas_03
-"Travel to the Ettenmoors and destroy the orc stronghold in Eriador."
+"Voyagez jusqu'aux Landes d'Etten et détruisez la Forteresse Orque d'Eriador."
 END
 
 SCRIPT:BonusObjective_GC_Annuminas_01
-"Explore the ruins of Annuminas and its surroundings."
+"Explorez les ruines d'Annuminas et ses environs."
 END
 
 SCRIPT:Objective_GC_Barrows_01
-"Find Athelas to revive Amdir."
+"Trouvez de l'Athelas pour guérir Amdir."
 END
 
 SCRIPT:Objective_GC_Barrows_02
-"Search the surrounding area for a trail of Amdir's rangers."
+"Cherchez dans les environs une piste des rangers d'Amdir."
 END
 
 SCRIPT:Objective_GC_Barrows_03
-"Discover the fate of Amdir's rangers inside the great barrow."
+"Découvrez le sort des rangers d'Amdir à l'intérieur du Grand Galgal."
 END
 
 SCRIPT:Objective_GC_Barrows_04
-"Kill Cargást to release Amdir's men."
+"Tuez Cargást pour libérer les hommes d'Amdir."
 END
 
 SCRIPT:BonusObjective_GC_Barrows_01
-"Destroy all spell stones throughout the barrow."
+"Détruisez toutes les pierres de sort dans le Grand Galgal."
 END
 
 SCRIPT:Objective_GC_Shire_01
-"Defend Farmer Maggot's farmstead from ruffians."
+"Défendez la ferme du fermier Maggot contre les voyous."
 END
 
 SCRIPT:Objective_GC_Shire_02
-"Extinguish all fires in Farmer Maggot's fields."
+"Éteignez tous les incendies dans les champs du fermier Maggot."
 END
 
 SCRIPT:Objective_GC_Shire_03
-"Farmer Maggot's farmstead must be defended."
+"La ferme du fermier Maggot doit être défendue."
 END
 
 SCRIPT:Objective_GC_Shire_04
-"Destroy the ruffian camps."
+"Détruisez les camps de voyous."
 END
 
 SCRIPT:BonusObjective_GC_Shire_01
-"Keep Grip, Fang and Wolf alive."
+"Gardez Grip, Fang et Wolf en vie."
 END
 
 SCRIPT:Objective_GC_Fornost_01
-"Defeat the white wolves."
+"Vaincre les loups blancs."
 END
 
 SCRIPT:Objective_GC_Fornost_02
-"Make contact with captain Toradan inside Fornost."
+"Prenez contact avec le capitaine Toradan à l'intérieur de Fornost."
 END
 
 SCRIPT:Objective_GC_Fornost_03
-"Rescue all ranger groups in Fornost before they are overrun."
+"Sauvez tous les groupes de rangers de Fornost avant qu'ils ne soient envahis."
 END
 
 SCRIPT:Objective_GC_Fornost_04
-"Defend Fornost from the Goblin assault."
+"Défendez Fornost de l'assaut des Gobelins."
 END
 
 SCRIPT:BonusObjective_GC_Fornost_01
-"Keep all ranger groups alive."
+"Gardez tous les groupes de rangers en vie."
 END
 
 SCRIPT:Objective_GC_Trollshaws_01
-"Find Elegost."
+"Trouvez Elegost."
 END
 
 SCRIPT:Objective_GC_Trollshaws_02
-"Follow Gorg's trail and discover the fate of the rangers."
+"Suivez les traces de Gorg et découvrez le sort des rangers."
 END
 
 SCRIPT:Objective_GC_Trollshaws_03
-"Kill Gorg."
+"Tuez Gorg."
 END
 
 SCRIPT:BonusObjective_GC_Trollshaws_01
-"Kill all trolls throughout the region."
+"Tuez tous les trolls de la région."
 END
 
 SCRIPT:BonusObjective_GC_Trollshaws_02
-"Destroy the troll lair."
+"Détruisez le repaire des trolls."
 END
 
 SCRIPT:BonusObjective_GC_Trollshaws_03
-"Retrieve valuables from the troll hoard."
+"Récupérez des objets de valeur dans le trésor des trolls."
 END
 
 SCRIPT:Objective_GC_Ettenmoors_01
-"Destroy the Goblin camp."
+"Détruisez le camp des gobelins."
 END
 
 SCRIPT:Objective_GC_Ettenmoors_02
-"Infiltrate the Ettenmoors and reach Golfimbul's cave."
+"Infiltrez les landes d'Etten et atteignez la grotte de Golfimbul."
 END
 
 SCRIPT:Objective_GC_Ettenmoors_03
-"Kill Golfimbul."
+"Tuez Golfimbul."
 END
 
 SCRIPT:Objective_GC_Ettenmoors_04
-"Kill the fleeing Goblins."
+"Tuez les Gobelins en fuite."
 END
 
 SCRIPT:BonusObjective_GC_Ettenmoors_01
-"Kill all Goblin lookouts without sounding the alarm."
+"Tuez tous les guetteurs Gobelins sans sonner l'alarme."
 END
 
 SCRIPT:BonusObjective_GC_Ettenmoors_02
-"Destroy the drum."
+"Détruisez le tambour."
 END
 
 SCRIPT:BonusObjective_GC_Ettenmoors_03
-"Free the cave troll."
+"Libérez le troll des cavernes."
 END
 
 ////////////////Osgiliath//////////////////
 
 SCRIPT:Objective01_Osgiliath
-"Fight your way to the Great Bridge"
+"Frayez-vous un chemin jusqu'au Grand Pont."
 END
 
 SCRIPT:Objective02_Osgiliath
-"Rally back to Meneldil's Square"
+"Rassembler vos forces à la place Meneldil."
 END
 
 SCRIPT:Objective03_Osgiliath
-"Hide from the Nazgul in the Court of Isildur"
+"Cachez-vous des Nazgûls à la Cour d'Isildur."
 END
 
 SCRIPT:Objective04_Osgiliath
-"Reunite with the Hobbits"
+"Retrouver les Hobbits."
 END
 
 SCRIPT:Objective05_Osgiliath
-"Defeat the Nazgul to disrupt Mordor's forces"
+"Battez le Nazgûl pour perturber les forces du Mordor."
 END
 
 SCRIPT:Objective06_Osgiliath
-"Escape through the sewers in the city outskirts"
+"Évadez-vous par les égouts de la périphérie de la ville."
 END
 
 SCRIPT:BonusObjective01_Osgiliath
-"Have at least ten soldiers alive when you reach Meneldil's Square"
+"Ayez au moins dix soldats en vie lorsque vous atteignez la place Meneldil."
 END
 
 SCRIPT:BonusObjective02_Osgiliath
-"Find all upgrades hidden throughout the city"
+"Trouvez toutes les améliorations cachées dans toute la ville."
 END
 
 SCRIPT:BonusObjective03_Osgiliath
-"Find a way to stop the trolls from reaching Faramir's men"
+"Trouvez un moyen d'empêcher les trolls d'atteindre les hommes de Faramir."
 END
 
 ////////////////HELMS DEEP//////////////////
 
 SCRIPT:Objective01_HelmsDeep
-"Speak to all heroes in Helm's Deep."
+"Parlez à tous les héros du Gouffre de Helm."
 END
 
 SCRIPT:Objective02_HelmsDeep
-"Build an army to defend the Hornburg."
+"Construisez une armée pour défendre Fort-le-Cor."
 END
 
 SCRIPT:Objective03_HelmsDeep
-"Upgrade at least three battalions in the armoury."
+"Améliorez au moins trois bataillons dans l'armurerie."
 END
 
 SCRIPT:Objective04_HelmsDeep
-"Defend the Deeping Wall and main gate."
+"Défendez les murs du Gouffre de Helm et la porte principale."
 END
 
 SCRIPT:Objective05_HelmsDeep
-"Defend the Deeping-coomb."
+"Défendez le Gouffre."
 END
 
 SCRIPT:Objective06_HelmsDeep
-"Rescue Haldir."
+"Sauvez Haldir."
 END
 
 SCRIPT:Objective07_HelmsDeep
-"Retreat all troops to the Hornburg."
+"Battez en retraite vers Fort-le-Cor."
 END
 
 SCRIPT:Objective08_HelmsDeep
-"Hold the main gate for as long as possible."
+"Tenez la porte principale le plus longtemps possible."
 END
 
 SCRIPT:Objective09_HelmsDeep
-"Retreat all heroes to the great hall."
+"Battez en retraite tous les héros dans la grande salle."
 END
 
 SCRIPT:Objective10_HelmsDeep
-"Defeat the Uruk-hai."
+"Vaincre les Uruk-hai."
 END
 
 SCRIPT:BonusObjective01_HelmsDeep
-"Gather all standing troops from around Helm's Deep."
+"Rassemblez toutes les troupes debout autour du Gouffre de Helm."
 END
 
 SCRIPT:BonusObjective02_HelmsDeep
-"Stop Isengard placing any mines in the Culvert."
+"Empêchez l'Isengard de placer des mines dans le ponceau."
 END
 
 SCRIPT:BonusObjective03_HelmsDeep
-"Keep at least four hordes of Galadhrim alive."
+"Gardez au moins quatre hordes de Galadhrim en vie."
 END
 
 SCRIPT:BonusObjective04_HelmsDeep
-"Decide the fate of the Dunlending forces."
+"Décidez du sort des forces des Hommes de Duns."
 END
 
 ////////////////ISENGARD//////////////////
 
 SCRIPT:Objective01_Isengard
-"Destroy the lumber mills surrounding Isengard."
+"Détruisez les scieries autour de l'Isengard."
 END
 
 SCRIPT:Objective02_Isengard
-"Destroy all buildings inside of Isengard."
+"Détruisez tous les bâtiments à l'intérieur de l'Isengard."
 END
 
 SCRIPT:Objective03_Isengard
-"Break the Dam"
+"Briser le barrage."
 END
 
 SCRIPT:BonusObjective01_Isengard
-"Keep all Ents alive."
+"Gardez tous les Ents en vie."
 END
 
 
@@ -15714,31 +15713,31 @@ END
 ////////////
 
 CONTROLBAR:UnpackRohanFarm
-"Rohan &Farm"
+"Ferme du Rohan"
 END
 
 CONTROLBAR:ToolTipRohanFarmUnpack
-"Provides food as a resource"
+"Produit de la nourriture comme ressource."
 END
 
 CONTROLBAR:UnpackGondorFarm
-"Farm"
+"Ferme"
 END
 
 CONTROLBAR:ToolTipGondorFarmUnpack
-"Provides food as a resource"
+"Produit de la nourriture comme ressource"
 END
 
 CONTROLBAR:TooltipCancelUpgrade
-"Cancel Upgrade"
+"Annuler l'amélioration"
 END
 
 CONTROLBAR:ConstructCastle
-"Castle"
+"Château"
 END
 
 CONTROLBAR:ToolTipCastleUnpack
-"Build Castle"
+"Eriger un château"
 END
 
 CONTROLBAR:ConstructCamp
@@ -15746,59 +15745,59 @@ CONTROLBAR:ConstructCamp
 END
 
 CONTROLBAR:ToolTipCampUnpack
-"Build Camp"
+"Bâtir un camp"
 END
 
 CONTROLBAR:ConstructOutpost
-"Outpost"
+"Avant-poste"
 END
 
 CONTROLBAR:TooltipOutpostUnpack
-"Build Outpost"
+"Construire un avant-poste"
 END
 
 CONTROLBAR:ConstructMenWallHub
-"Wall Hub (&A)"
+"Construire une assise (&A)"
 END
 
 CONTROLBAR:ConstructMenFortress
-"Fortress (&I)"
+"Forteresse (&I)"
 END
 
 CONTROLBAR:ConstructMenFortressWOTR
-"Outpost (&I)"
+"Avant-poste (&I)"
 END
 
 CONTROLBAR:ConstructEconomyPlot
-"Settlement"
+"Colonie"
 END
 
 CONTROLBAR:ToolTipEconomyPlotUnpack
-"Build Settlement"
+"Construire une structure."
 END
 
 CONTROLBAR:SellBuilding
-"Demolish Building"
+"Démolir"
 END
 
 CONTROLBAR:TooltipSellBuilding
-"Demolish"
+"Démolit le bâtiment."
 END
 
 CONTROLBAR:TooltipLumbermillUnpack
-"Harvests resources from nearby trees \n Reduces cost of buildings"
+"Récolte des ressources avec les arbres alentour. Réduit le coût des bâtiments."
 END
 
 CONTROLBAR:UnpackLumbermill
-"Build Lumber Mill (&D)"
+"Construire une Scierie (&D)"
 END
 
 CONTROLBAR:UnpackSlaughterhouse
-"Build Slaughte&r House"
+"Construire un Abattoir"
 END
 
 CONTROLBAR:TooltipSlaughterhouseUnpack
-"Generates resources based on available terrain Increases command point limit \n Reduces cost of Trolls and Great Beasts of Gorgoroth"
+"Génère des ressources selon le terrain disponible. \n Augmente la limite de points commandement de 50. \n Réduit le coût des Trolls et des Grandes Bêtes de Gorgoroth."
 END
 
 CONTROLBAR:ConstructMenPorter
@@ -15806,7 +15805,7 @@ CONTROLBAR:ConstructMenPorter
 END
 
 CONTROLBAR:ConstructMenPorterAIFake
-"Builder"
+"Bâtisseur"
 END
 
 CONTROLBAR:ToolTipConstructMenPorter
@@ -15814,91 +15813,91 @@ CONTROLBAR:ToolTipConstructMenPorter
 END
 
 CONTROLBAR:ToolTipConstructMenPorterWotR
-"Train a Builder \n Builds structures\nLimited to 1"
+"Train a Builder \n Builds structures\n Limité à 1"
 END
 
 CONTROLBAR:ConstructMenFarm
-"Build Farm (&W)"
+"Construire une Ferme (&W)"
 END
 
 CONTROLBAR:ConstructMenBarracks
-"Build Barracks (&T)"
+"Construire une Caserne (&T)"
 END
 
 CONTROLBAR:ConstructMenBarracksWotR
-"Build Barracks (&W)"
+"Construire une Caserne (&W)"
 END
 
 CONTROLBAR:ConstructMenBarracksWotRRealTime
-"Build Barracks (&W)"
+"Construire une Caserne (&W)"
 END
 
 CONTROLBAR:ConstructDolAmrothBarracks
-"Build Dol Amroth Barracks (&C)"
+"Construire la caserne de Dol Amroth"
 END
 
 CONTROLBAR:ToolTipConstructDolAmrothBarracks
-"Trains the units of Dol Amroth princedom"
+"Entraîne les unités de la principauté de Dol Amroth \n Augmente la limite de points de commandement de 25 \n Nécessite le prince Imrahil"
 END
 
 CONTROLBAR:ConstructMenArcheryRange
-"Build Archery Range (&C)"
+"Construire une Archerie (&C)"
 END
 
 CONTROLBAR:ToolTipMenArcheryRange
-"Trains and upgrades Gondor's Archers"
+"Entraîne et améliore les archers du Gondor"
 END
 
 CONTROLBAR:ToolTipRohanArcheryRange
-"Trains and upgrades Rohan's Archers \n Generates a small amount of resources based on avaliable terrain"
+"Entraine et améliore les Archers du Rohan. \n Génère une petite quantité de ressources basées sur le terrain disponible. \n Augmente la limite de points de commandement de 25."
 END
 
 CONTROLBAR:ConstructMenStable
-"Build Stables (&V)"
+"Construire une Écurie (&V)"
 END
 
 CONTROLBAR:ConstructMenStableWotR
-"Build Stables (&R)"
+"Construire une Écurie (&R)"
 END
 
 CONTROLBAR:ConstructMenStableWotRRealTime
-"Build Stables (&R)"
+"Construire une Écurie (&R)"
 END
 
 CONTROLBAR:ConstructMenWorkshop
-"Build Siege Works (&N)"
+"Construire un Atelier de siège (&N)"
 END
 
 CONTROLBAR:ConstructMenWorkshopWotRRealTime
-"Build Siege Works (&T)"
+"Construire un Atelier de siège (&T)"
 END
 
 CONTROLBAR:ConstructRohanWorkshop
-"Build Workshop (&N)"
+"Construire un Atelier de siège (&N)"
 END
 
 CONTROLBAR:ConstructRohanWorkshopWotR
-"Build Workshop (&T)"
+"Construire un Atelier de siège (&T)"
 END
 
 CONTROLBAR:ToolTipConstructMenWorkshop
-"Constructs and upgrades Trebuchets\n At rank 2, repairs nearby siege engines"
+"Construit et améliore les trébuchets. \n Au niveau 2, répare les engins de siège proches."
 END
 
 CONTROLBAR:ToolTipConstructMenWorkshopWotRRealTime
-"Tertiary Barracks \n Constructs Trebuchets \n Limited to 1"
+"Baraquements Tertiaires\nConstruit des Trébuchets\nLimité à 1"
 END
 
 CONTROLBAR:ToolTipConstructRohanWorkshop
-"Constructs and upgrades siege engines\n At rank 2, repairs nearby siege engines \n Generates a small amount of resources based on avaliable terrain \n Reduces cost of upgrades"
+"Construit et améliore les engins de siège. \n Au niveau 2, répare les engins de siège proches. \n Génère une petite quantité de ressources basées sur le terrain disponible. \n Réduit le coût des améliorations. \n Augmente la limite de points de commandement de 25." 
 END
 
 CONTROLBAR:ToolTipConstructRohanWorkshopWotR
-"Tertiary Barracks \n Constructs Rohirric Onagers \n Limited to 1"
+"Baraquements Tertiaires\nConstruit des Onagres Rohirrim\nLimité à 1"
 END
 
 OBJECT:RohanWorkshopDescription
-"Generates resources based on available terrain\nLevel 2: +10% faster build speed\n Level 3: +25% faster build speed\nArtisan Bonus - Reduced cost of upgrades \n 1 Workshop: 5% \n 2 Workshops: 10% \n 3 Workshops: 15% \n 4+ Workshops: 20%"
+"Génère des ressources basées sur le terrain disponible. \n Niveau 2 : +10% Vitesse de construction. \n Niveau 3 : +25% Vitesse de construction. \n Bonus d'artisan - Réduit le coût des améliorations \n 1 Atelier: -5% \n 2 Ateliers: -10% \n 3 Ateliers: -15% \n 4+ Ateliers: -20%"
 END
 
 CONTROLBAR:ConstructMenSentryTower
@@ -15906,11 +15905,11 @@ CONTROLBAR:ConstructMenSentryTower
 END
 
 CONTROLBAR:ToolTipConstructMenSentryTower
-"Defensive tower, will fire at enemy units \n Can be garrisoned with archers for increased damage output"
+"Tour défensive qui tire sur les unités ennemies. \n Peut accueillir un bataillon d'archers pour infliger plus de dégâts."
 END
 
 CONTROLBAR:ToolTipConstructMenWallHub
-"Wall Hubs can be used to build walls"
+"Les assises servent à construire des murs."
 END
 
 CONTROLBAR:ToolTipConstructMenFortress
@@ -15922,51 +15921,51 @@ CONTROLBAR:ToolTipConstructMenFortressWOTR
 END
 
 CONTROLBAR:ConstructMenWell
-"Build Well (&G)"
+"Construire une Fontaine (&G)"
 END
 
 CONTROLBAR:ConstructRohanWell
-"Build Edoras Well (&G)"
+"Construire un Puit du Rohan (&G)"
 END
 
 CONTROLBAR:ToolTipConstructMenWell
-"Units near well auto-heal if not under attack\n Reduces cost of infantry"
+"Les unités proches de la fontaine se soignent automatiquement si elles ne sont pas attaquées. \n Réduit le coût de l'infanterie."
 END
 
 CONTROLBAR:ConstructMenStatue
-"Build Heroic Statue (&U)"
+"Construire Statue Héroïque (&U)"
 END
 
 CONTROLBAR:ToolTipConstructMenStatue
-"Leadership bonus to nearby troops\n Reduces cost of heroes"
+"Bonus de Charisme aux troupes proches. \n Réduit le coût des héros."
 END
 
 CONTROLBAR:ConstructMenBlacksmith
-"Build Blacksmith (&R)"
+"Construire un Forgeron (&R)"
 END
 
 CONTROLBAR:ToolTipConstructMenBlacksmith
-"Provides worked metals as a resource based on available terrain\nResearches weapons and armour upgrades\n Reduces cost of upgrades \n Increases command point limit by 50"
+"Produit du métal travaillé comme ressource basée sur le terrain disponible. \n Permet de rechercher les amélioration d'armes et armures. \n\n Réduit le coût des améliorations. \n Augmente la limite de points de commandement de 50."
 END
 
 CONTROLBAR:ConstructMenMarketPlace
-"Build Marketplace (&M)"
+"Construire un Marché (&M)"
 END
 
 CONTROLBAR:ConstructMenStoneMaker
-"Build Stoneworker (&F)"
+"Construire un Tailleur de pierres (&F)"
 END
 
 CONTROLBAR:ToolTipConstructMenStoneMaker
-"Generates resources based on available terrain \n Strengthens nearby structures \n Reduces cost of buildings\n Limited to 5 \n Increases command point limit by 10"
+"Génère des ressources basées sur le terrain disponible. \n Renforce les structures proches et réduit le coût des bâtiments. \n Limités à 5 tailleurs de pierres seulement. \n Augmente la limite de points commandement de 10."
 END
 
 CONTROLBAR:ConstructGoodPort
-"Build Shipwright"
+"Construire un Chantier naval"
 END
 
 CONTROLBAR:ToolTipBuildGoodPort
-"Construct ships"
+"Permet de construire des navires."
 END
 
 
@@ -15975,227 +15974,227 @@ END
 //////////////////////
 
 OBJECT:GondorBuildingGeneral
-"Gondor Building"
+"Bâtiment du Gondor"
 END
 
 OBJECT:GBCastleGate
-"Castle Gate"
+"Porte du Château"
 END
 
 OBJECT:GBCastleTrebuchet
-"Trebuchet"
+"Trébuchet"
 END
 
 OBJECT:GondorCastleGateTower
-"Gate Tower"
+"Porte de Tour"
 END
 
 OBJECT:GondorTent
-"Tent"
+"Tente"
 END
 
 OBJECT:GondorSentryTower
-"Lone Tower"
+"Tour de guerre" 
 END
 
 OBJECT:GondorWell
-"Well"
+"Fontaine"
 END
 
 OBJECT:GBKeep
-"Keep"
+"Donjon"
 END
 
 OBJECT:ElvenFarm
-"Farm"
+"Ferme"
 END
 
 OBJECT:Tower
-"Tower"
+"Tour"
 END
 
 OBJECT:Pillar
-"Pillar"
+"Pilier"
 END
 
 OBJECT:SignalFire
-"Signal Fire"
+"Feu d'alarme"
 END
 
 OBJECT:ElvenGrove
-"Elven Grove"
+"Le Bosquet Elfes"
 END
 
 OBJECT:GondorBuildingIthilien
-"Gondor Building"
+"Bâtiment du Gondor"
 END
 
 CONTROLBAR:ConstructRohanBattleTower
-"Battle Tower"
+"Tour de guerre"
 END
 
 OBJECT:GondorCastleUpgradePosternGate
-"Postern Gate"
+"Poterne"
 END
 
 OBJECT:GondorCastleUpgradeTrebuchet
-"Trebuchet"
+"Trébuchet"
 END
 
 OBJECT:GondorUpgradeReinforcedGate
-"Reinforced Gate"
+"Porte renforcée"
 END
 
 OBJECT:GondorCastleUpgradeStructuralFireArrows
-"Structures with Fire Arrows"
+"Structures avec les Flèches Enflammées"
 END
 
 OBJECT:GondorCastleUpgradeNumenorian
-"Númenórean Stonework"
+"Maçonnerie de Númenor"
 END
 
 
 OBJECT:GondorCastleUpgradeBattleTower
-"Battle Tower"
+"Tour de guerre"
 END
 
 CONTROLBAR:SelectAllHeroes
-"Select All Her&oes"
+"Sélectionner tous les héros"
 END
 CONTROLBAR:SelectAllHeroesDescription
-"Click here to select all Hero units on the map"
+"Cliquez ici pour sélectionner tous les héros sur la carte."
 END
 
 CONTROLBAR:SelectNearestBuilder
-"Select Nearest &Builder"
+"Sélectionner le bâtisseur le plus proche"
 END
 CONTROLBAR:SelectNearestBuilderDescription
-"Click here to select the nearest builder who is ready to work"
+"Cliquez ici pour sélectionner le bâtisseur prêt à travailler le plus proche."
 END
 
 CONTROLBAR:ToolTipRohanWall
-"Build Rohan Wall"
+"Construire un mur du Rohan"
 END
 
 CONTROLBAR:ConstructGondorStable
-"Build Stable"
+"Construire une Écurie"
 END
 CONTROLBAR:ConstructGondorKeep
-"Build Keep"
+"Construire un donjon"
 END
 CONTROLBAR:ConstructGondorStatue
-"Build Heroic Statue"
+"Construire une Statue héroùque"
 END
 CONTROLBAR:ConstructGondorWell
-"Build Well"
+"Construire une Fontaine"
 END
 CONTROLBAR:ConstructGondorStoneMaker
-"Build Stoneworker"
+"Construire un Tailleur de pierres"
 END
 CONTROLBAR:ConstructGondorArcherRange
-"Build Archery Range"
+"Construire une Archerie"
 END
 CONTROLBAR:ConstructGondorWorkshop
-"Build Siege Works"
+"Construire un Atelier de siège"
 END
 CONTROLBAR:ConstructGondorWatchTower
-"Build Watch Tower"
+"Construire une Tour de Garde"
 END
 CONTROLBAR:ConstructGondorWhiteTower
-"Build Gondor White Tower"
+"Construire une Tour Blanche du Gondor"
 END
 CONTROLBAR:ConstructGondorFarm
 // context: Build Gondor Farm
-"Build Farm"
+"Construire une Ferme"
 END
 CONTROLBAR:ConstructGondorMarketPlace
 // context: Build Gondor Market Place
-"Build Marketplace"
+"Construire un Marché"
 END
 
 CONTROLBAR:ConstructGondorHseHeal
 // context: Build Gondor HseHeal
-"Construct House of Healing"
+"Construire une Maison de Guérison"
 END
 CONTROLBAR:ConstructGondorBlackSmith
 // context: Build Gondor Blacksmith
-"Build Blacksmith"
+"Construire un Forgeron"
 END
 CONTROLBAR:ConstructGondorBarracks
 // context: Build Gondor Barracks
-"Build Barracks"
+"Construire une Caserne"
 END
 CONTROLBAR:ConstructGondorWall
-"Build Gondor &Wall"
+"Construire un mur du Gondor"
 END
 CONTROLBAR:BattleTowerUpgrade
-"Build Battle Towe&r Upgrade"
+"Construire amélioration Tour de guerre"
 END
 CONTROLBAR:PosternGateUpgrade
-"Build &Postern Gate Upgrade"
+"Construire amélioration Poterne"
 END
 CONTROLBAR:FlagsUpgrade
-"Build W&all Banner Upgrade"
+"Construire amélioration Étendards"
 END
 CONTROLBAR:ToolTipFlagsUpgrade
-"Grants a bonus to nearby troops \n +50% armour +125% damage"
+"Procure un bonus de +50% armure et +125% dégâts aux alliés proches"
 END
 CONTROLBAR:ToolTipGondorBuildStable
-"Builds and upgrades Knights"
+"Comme le Rohan, le royaume du Gondor élève ses chevaux pour ses bataillons de chevaliers. C'est une nécessité vitale pour les royaume des Hommes de maintenir une cavalerie suffisante pour repousser les assauts incessants des forces du Mal, qui épuisent leurs ressources.\n\nPermet de recruter et d'améliorer les cavaliers du Gondor."
 END
 
 CONTROLBAR:ToolTipGondorKeep
-"Defensive structure"
+"Structure défensive"
 END
 
 CONTROLBAR:ToolTipGondorBuildStatue
-"Leadership bonus to nearby troops \n +50% armour, +200% combat experience"
+"Bonus de Charisme aux troupes proches :\n +50% d'armure, +200% d'expérience de combat."
 END
 CONTROLBAR:ToolTipGondorBuildStoneMaker
-"Strengthens gates and towers"
+"Renforce les portes et les tours"
 END
 CONTROLBAR:ToolTipGondorBuildArcherRange
-"Trains and upgrades Archers"
+"Il y a toujours eu de grandes compagnies d'archers dans le Royaume du Sud pour tenir les murs des nombreuses forteresses des rois.\n\nPermet de recruter et d'améliorer les archers du Gondor."
 END
 CONTROLBAR:ToolTipGondorBuildWorkshop
-"Builds and upgrades Trebuchets"
+"Pour protéger les remparts des dernières cités des Hommes, ceux-ci ont conçu des machines de siège capable aussi bien de repousser les assauts contre leurs forteresses que de démolir les bastions ennemis.\n\nPermet de construire des trébuchets et permet d'acheter des Pierres de feu."
 END
 CONTROLBAR:TooltipBuildForbiddenPoolArchers
-"Requires Level 2 Forbidden Pool \n Strong vs. Cavalry, Monsters"
+"Requiert : Lac Interdit niveau 2\n Forts contre les cavaliers et les monstres"
 END
 CONTROLBAR:TooltipBuildForbiddenPoolKnights
-"Requires Level 3 Forbidden Pool \n Gondor's cavalry unit \n Strong vs Swordsmen"
+"Requiert : Lac Interdit niveau 3\n Unité de cavalerie du Gondor\n Forts contre les épéistes"
 END
 CONTROLBAR:ConstructGondorArcheryRangeLevel2Upgrade
-"Upgrade Archery Range to Level 2 (&A)"
+"Améliore l'Archerie au niveau 2 (&A)"
 END
 CONTROLBAR:ConstructGondorArcheryRangeLevel3Upgrade
-"Upgrade Archery Range to Level 3 (&A)"
+"Améliore l'Archerie au niveau 3 (&A)"
 END
 CONTROLBAR:ConstructGondorBarracks2Upgrade
-"Upgrade Barracks to Level 2 (&A)"
+"Améliore la Caserne au niveau 2 (&A)"
 END
 CONTROLBAR:ConstructGondorBarracksLevel3Upgrade
-"Upgrade Barracks to Level 3 (&A)"
+"Améliore la Caserne au niveau 3 (&A)"
 END
 CONTROLBAR:ConstructGondorStable2Upgrade
-"Upgrade Stables to Level 2 (&A)"
+"Améliore l'Écurie au niveau 2 (&A)"
 END
 CONTROLBAR:ConstructGondorStableLevel3Upgrade
-"Upgrade Stables to Level 3 (&A)"
+"Améliore l'Écurie au niveau 3 (&A)"
 END
 CONTROLBAR:ConstructGondorWorkshop2Upgrade
-"Upgrade Siege Works to Level 2 (&A)"
+"Améliore l'Atelier de Siège au niveau 2 (&A)"
 END
 CONTROLBAR:ConstructGondorWorkshopLevel3Upgrade
-"Upgrade Siege Works to Level 3 (&A)"
+"Améliore l'Atelier de Siège au niveau 3 (&A)"
 END
 
 CONTROLBAR:ConstructRohanWorkshop2Upgrade
-"Upgrade Workshop to Level 2 (&A)"
+"Améliore l'Atelier de Siège au niveau 2 (&A)"
 END
 CONTROLBAR:ConstructRohanWorkshopLevel3Upgrade
-"Upgrade Workshop to Level 3 (&A)"
+"Améliore l'Atelier de Siège au niveau 3 (&A)"
 END
 ////////////////////////////CONTROLBAR:ToolTipGondorBuildWatchTower
 ////////////////////////////"To build a WatchTower, left click on button"
@@ -16205,33 +16204,33 @@ END
 ////////////////////////////END
 
 CONTROLBAR:ToolTipGondorBuildWhiteTower
-"Build Gondor WhiteTower"
+"Construire une Tour Blanche du Gondor"
 END
 
 CONTROLBAR:ToolTipGondorWall
-"Build Gondor Wall"
+"Construire un mur du Gondor"
 END
 
 CONTROLBAR:ToolTipGondorBuildFarm
-"Provides food as a resource \n Food Bonus: Reduces cost of Cavalry"
+"Les fermiers du royaume sont installés dans la campagne en dehors de la cité, ils s'occupent des champs et des vergers.\n\n Produit de la nourriture comme ressource.\n Bonus de nourriture : réduit le coût de la cavalerie."
 END
 CONTROLBAR:ToolTipGondorBuildBarracks
-"Trains Infantry Units"
+"Les armées de Minas Tirith sont les plus vastes des Royaumes des Hommes : disciplinées, bien équipées et menés par des vétérans des guerres contre le Harad et le Mordor.\n\nEntraîne l'infanterie du Gondor"
 END
 CONTROLBAR:ToolTipGondorBuildMarketPlace
-"Marketplace creates economy upgrades"
+"Malgré la guerre qui ne cesse de prélever son tribut au sein des armées, le royaume reste riche et son activité économique est prospère. \n\n Le marché permet des améliorations économiques."
 END
 CONTROLBAR:ToolTipGondorBuildHseHeal
-"To build a House of Healing, left click on button"
+"Clic gauche pour construire une Maison de Guérison"
 END
 CONTROLBAR:ToolTipGondorBuildBlackSmith
-"Researches weapons and armour upgrades"
+"Améliore armes et armures"
 END
 CONTROLBAR:ToolTipBattleTowerUpgrade
-"Defensive structure"
+"Structure défensive"
 END
 CONTROLBAR:ToolTipPosternGateUpgrade
-"Enemies cannot enter"
+"Les ennemis ne peuvent pas entrer"
 END
 
 
@@ -16240,287 +16239,287 @@ END
 
 
 OBJECT:LBBRIDGE
-"Lothlorien Bridge"
+"Pont de la Lothlórien"
 END
 
 OBJECT:LBTREEHOUSE
-"Lothlorien Tree House"
+"Demeure sylvestre"
 END
 CONTROLBAR:ConstructRohanArmory
-"Build Rohan Armour&y"
+"Construire une Armurerie"
 END
 CONTROLBAR:ConstructRohanBarracks
-"Build Rohan Barra&cks"
+"Construire une Caserne"
 END
 CONTROLBAR:ConstructRohanWatchTower
-"Build Rohan Watch&Tower"
+"Construire une Tour de guet"
 END
 CONTROLBAR:ConstructRohanArcherRange
-"Build &Rohan Archery Range"
+"Construire une Archerie"
 END
 CONTROLBAR:ConstructRohanStable
-"Build Rohan &Stable"
+"Construire une Écurie"
 END
 CONTROLBAR:ConstructRohanFarm
-"Build Rohan &Farm"
+"Construire une Ferme"
 END
 CONTROLBAR:ConstructRohanStatue
-"Build Rohan Statue (&U)"
+"Construire une Statue du Rohan (&U)"
 END
 CONTROLBAR:ConstructRohanGoldenHall
-"Build Rohan Golden Hall"
+"Construire un Château d'Or"
 END
 CONTROLBAR:ConstructRohanWall
-"Build Rohan Wall"
+"Construire un mur du Rohan"
 END
 
 CONTROLBAR:ToolTipRohanArmory
-"Weapon and armour upgrades"
+"Armes et Armures Améliorées."
 END
 CONTROLBAR:ToolTipRohanBarracks
-"To build a barracks, left click on button"
+"Pour construire une Caserne, clic gauche sur le bouton."
 END
 CONTROLBAR:ToolTipRohanWell
-"Units near well auto-heal if not under attack \n Reduces cost of infantry"
+"Les unités proches du Puit se soignent automatiquement si elles ne sont pas attaquées. \n Réduit le coût de l'infanterie."
 END
 CONTROLBAR:ToolTipRohanWatchTower
-"To build a WatchTower, left click on button"
+"Pour construire une Tour de Guet du Rohan, clic gauche sur le bouton."
 END
 CONTROLBAR:ToolTipRohanArcherRange
-"Trains and upgrades Yeoman and Elven archers"
+"Entraine et améliore les Archers du Rohan et les Gardiens Halifiriens."
 END
 CONTROLBAR:ToolTipRohanStable
-"Trains and upgrades Rohirrim"
+"Entraîne et améliore les Rohirrim."
 END
 CONTROLBAR:ToolTipRohanFarm
-"Provides food as a resource \n Creates peasants \n Reduces cost of Cavalry \n Increases command point limit by 50"
+"Produit de la nourriture comme ressource. \n Crée des Paysans. \n Réduit le coût de la Cavalerie. \n Augmente la limite de points commandement de 50."
 END
 CONTROLBAR:ToolTipRohanStatue
-"Leadership bonus to nearby troops \n Price of Heroes is reduced \n +50% armour, +200% combat experience"
+"Bonus de Charisme aux unités à proximité. \n Le prix des Héros est réduit. \n +50% d'armure et +200% d'experience de combat. \n Augmente la limite de points commandement de 10."
 END
 CONTROLBAR:ToolTipRohanGoldenHall
-"Defensive structure. Revives fallen Heroes"
+"Structure défensive. Réssuscite les Héros Déchus."
 END
 CONTROLBAR:DescriptionRohanFlagTower
-"Grants a bonus to nearby troops \n +50% armour +125% damage"
+"Accorde un Bonus aux troupes à proximité. \n +50% d'armure et +125% de dégâts."
 END
 OBJECT:RohanFlagTowerDescription
-"Grants a bonus to nearby troops \n +50% armour +125% damage"
+"Accorde un Bonus aux troupes à proximité. \n +50% d'armure et +125% de dégâts."
 END
 
 // Mordor Buildings
 CONTROLBAR:ToolTipConstructMordorBase
-"Build a Mordor Base"
+"Construire une base du Mordor"
 END
 
 CONTROLBAR:ConstructMordorBase
 // context: Build Mordor Base
-"Build Base"
+"Construire une base"
 END
 CONTROLBAR:ConstructMordorOrcPit
-"Build Orcish Stronghold (&T)"
+"Construire un Bastion des Orques (&T)"
 END
 CONTROLBAR:ConstructMordorOrcPitWotR
-"Build Orcish Stronghold (&W)"
+"Construire un Bastion des Orques (&W)"
 END
 CONTROLBAR:BuildMordorWorker
-"Orc Laborer (&W)"
+"Ouvrier Orque (&W)"
 END
 CONTROLBAR:ConstructMordorOrcFletcher
-"Build Fletcher"
+"Construire un Flèchier"
 END
 CONTROLBAR:ConstructMordorTrollCage
-"Build Troll Cage (&V)"
+"Construire une Cage à Trolls (&V)"
 END
 CONTROLBAR:ConstructMordorTrollCageWotR
-"Build Troll Cage (&R)"
+"Construire une Cage à Trolls (&R)"
 END
 CONTROLBAR:ConstructMordorSiegeWorks
-"Build Great Siege Works (&N)"
+"Construire un Grand Atelier de siège (&N)"
 END
 CONTROLBAR:ConstructMordorSiegeWorksWotR
-"Build Great Siege Works (&T)"
+"Construire un Grand Atelier de siège (&T)"
 END
 CONTROLBAR:ConstructMordorHaradrimPalace
-"Build Easterling Garrison (&C)"
+"Construire Garnison des Orientaux (&C)"
 END
 CONTROLBAR:ConstructRhunAuxiliaryBarracks
-"Build Easterling Garrison (&T)"
+"Construire Garnison des Orientaux (&T)"
 END
 CONTROLBAR:ConstructSlaughterHouse
-"Build Slave Farm (&W)"
+"Construire Ferme d'Esclaves (&W)"
 END
 CONTROLBAR:ConstructLumberMill
-"Build Lumber Mill (&D)"
+"Construire une Scierie (&D)"
 END
 CONTROLBAR:ConstructFurnace
-"Build Furnace (&W)"
+"Construire une Fournaise (&W)"
 END
 CONTROLBAR:ConstructMordorUmbarTavern
-"Build Ta&vern"
+"Construire une Taverne"
 END
 
 CONTROLBAR:ToolTipMordorOrcFletcher
-"To build a Fletcher, left click on button"
+"Pour construire un Flèchier, Clic gauche sur le bouton"
 END
 CONTROLBAR:ToolTipMordorTrollCage
-"Trains Mountain, Drummer, and Attack Trolls"
+"Permet de recruter les Trolls des montagnes, les Trolls-tambours et les Trolls d'assaut. \n Augmente la limite de points commandement de 25."
 END
 CONTROLBAR:ToolTipMordorTrollCageWotR
-"Secondary Barracks \n Trains Mountain-trolls \n Limited to 1"
+"Baraquements Secondaires\nEntraîne des Trolls des Montagnes\nLimité à 1"
 END
 CONTROLBAR:ToolTipordorSiegeWorks
-"Builds siege weapons \n At rank 2, repairs nearby siege engines"
+"Permet de construire les engins de siège. \n Au niveau 2, répare les engins de siège proches. \n Augmente la limite de points commandement de 25."
 END
 CONTROLBAR:ToolTipordorSiegeWorksWotR
-"Tertiary Barracks \n Constructs Catapults \n Limited to 1"
+"Baraquements Tertiaires\nConstruit des Catapultes\nLimité à 1"
 END
 CONTROLBAR:ToolTipMordorHaradrimPalace
-"Trains Variag and Easterling units\n\nThe fearsome legions from the East were numerous, both pouring into Rhovanion to the north and into Mordor, where they set up great war camps, awaiting the Dark Lord's signal for war."
+"Entraîne les unités Variags et Orientaux\n\nLes redoutables légions de l'Est étaient nombreuses, se déversant à la fois dans le Rhovanion au nord et dans le Mordor, où elles établissaient d'immenses camps de guerre, attendant le signal du Seigneur des Ténèbres pour la guerre."
 END
 CONTROLBAR:DescriptionToolTipMordorHaradrimPalace
-"Trains Variags and Easterlings"
+"Permet de recruter les Variags et les unités Orientales."
 END
 CONTROLBAR:ToolTipMordorMumakilPen
-"Requires the He Is Gathering All Evil To Him upgrade\n Trains Haradrim Archers and Mûmakil"
+"Requiert l'amélioration 'Il Rassemble Tout le Mal à Lui'\nEntraîne les Archers Haradrim et les Mûmakil."
 END
 CONTROLBAR:ToolTipMordorMumakilPenPlot
-"Trains Haradrim Archers and Mûmakil"
+"Entraîne les archers Haradrims et les Mûmakils"
 END
 
 CONTROLBAR:ToolTipConstructLumberMill
-"Harvests resources from nearby trees \n Reduces cost of structures \n Increases command point limit by 25"
+"Récolte des ressources avec les arbres alentours. \n Réduit le coût des structures. \n Augmente la limite de points commandement de 25."
 END
 
 CONTROLBAR:ToolTipConstructGuldurLumberMill
-"Harvests resources from nearby trees \n Increases command point limit by 25"
+"Récolte des ressources avec les arbres alentours. \n Augmente la limite de points commandement de 25."
 END
 
 CONTROLBAR:ToolTipLumberMill
-"Harvests resources from nearby trees \n Wood Bonus - Reduced cost of structures \n 2 Lumbermills: 5% \n 3 Lumbermills: 10% \n 4 Lumbermills: 15%"
+"Récolte des ressources avec les arbres alentours. \n Bonus de bois - Réduit le coût des structures : \n 2 Scieries: -5% \n 3 Scieries: -10% \n 4 Scieries: -15%"
 END
 CONTROLBAR:ToolTipGuldurLumberMill
-"Harvests resources from nearby trees"
+"Récolte des ressources avec les arbres alentours"
 END
 CONTROLBAR:ToolTipMordorUmbarTavern
-"To build a Tavern, left click on button"
+"Clic gauche pour construire une Taverne."
 END
 
 CONTROLBAR:ConstructUpgradeDiscount
-"Discount"
+"Réduction"
 END
 
 CONTROLBAR:ToolTipConstructUpgradeDiscount
-"Provides a discount on future purchases"
+"Fournit une réduction sur les prochains achats."
 END
 
 // Isengard Buildings
 CONTROLBAR:ConstructIsengardUrukPit
-"Build Uruk Pit (&T)"
+"Construire un Puit à Uruk (&T)"
 END
 CONTROLBAR:ConstructIsengardWargPit
-"Build Warg Pit (&V)"
+"Construire une Fosse à Wargs (&V)"
 END
 CONTROLBAR:ConstructIsengardWargPitWotRRealTime
-"Build Warg Pit (&R)"
+"Construire une Fosse à Wargs (&R)"
 END
 CONTROLBAR:ConstructIsengardSiegeWorks
-"Build Siege Works (&N)"
+"Construire un Atelier de siège (&N)"
 END
 CONTROLBAR:ConstructIsengardSiegeWorksWotRRealTime
-"Build Siege Works (&T)"
+"Construire un Atelier de siège (&T)"
 END
 CONTROLBAR:ConstructIsengardArmory
-"Build Armoury (&R)"
+"Construire une Armurerie (&R)"
 END
 CONTROLBAR:ConstructIsengardBattleTower
-"Lookout Tower (&Y)"
+"Construire une Tour d'observation (&Y)"
 END
 CONTROLBAR:ToolTipBuildIsengardBattleTower
-"Defensive arrow tower \n Can be garrisoned with archers for greater damage output"
+"Tour d'archers défensive. \n Les archers peuvent y tenir garnison pour infliger plus de dégâts."
 END
 CONTROLBAR:ToolTipIsengardUrukPit
-"Trains Isengard infantry units"
+"Là où les Orques ordinaires sont voûtés et peureux, les Uruk-Haï de Saroumane sont des guerriers forts, droits et musculeux, d'un courage et d'aptitudes supérieurs. \n Ils ne se préoccupent nullement des terres ou des possessions, ils ne font que tuer tout ce qui se présente à eux, poursuivant ainsi leur guerre éternelle en assouvissant leur faim de chair humaine. \n\n Permet de recruter l'infanterie de l'Isengard."
 END
 CONTROLBAR:ToolTipIsengardUrukPit_EvilAmonHen
-"Trains Isengard infantry units"
+"Permet de recruter les unités d'infanterie de l'Isengard."
 END
 CONTROLBAR:ToolTipIsengardWargPit
-"Trains Warg Riders"
+"Permet de recruter les Chevaucheurs de Wargs."
 END
 CONTROLBAR:ToolTipIsengardWargPitWotR
-"Secondary Barracks \n Trains Warg Riders \n Limited to 1"
+"Baraquements Secondaires\nEntraîne les Cavaliers de Wargs\nLimité à 1"
 END
 CONTROLBAR:ToolTipIsengardSiegeWorks
-"Builds Isengard's Siege Weapons\n At rank 2, repairs nearby siege engines"
+"Construit les engins de siège et les charges de démolition. \n Au niveau 2, répare les engins de siege proches."
 END
 CONTROLBAR:ToolTipIsengardSiegeWorksWotR
-"Tertiary Barracks \n Builds Ballistas \nLimited to 1"
+"Baraquements Tertiaires\nConstruit des Balistes\nLimité à 1"
 END
 CONTROLBAR:ToolTipIsengardArmory
-"Manufactures thick armour and broad shields as a resource based on available terrain\nResearches weapon and armour upgrades\n Reduces cost of upgrades \n Increases command point limit by 50"
+"Fournit des armures épaisses et de larges boucliers comme ressource selon sur le terrain disponible. \n Permet de rechercher les améliorations d'armes et armures. \n Réduit le coût des améliorations. \n Augmente la limite de points commandement de 50."
 END
 
 
 // Elven Buildings
 CONTROLBAR:ConstructElvenFarm
-"Build Farm"
+"Construire une Ferme"
 END
 CONTROLBAR:ToolTipElvenFarm
-"To build a Farm, left click on button"
+"Clic gauche pour construire une ferme"
 END
 
 // Wild Buildings
 CONTROLBAR:ConstructWildMineShaft
-"Build Orc Tunnel (&W)"
+"Construire un tunnel (&W)"
 END
 
 CONTROLBAR:ConstructWildLumberMill
-"Build Lumber Mill (&D)"
+"Construire une Scierie (&D)"
 END
 
 CONTROLBAR:ToolTipConstructWildLumberMill
-"Harvests resources from nearby trees \n Reduces cost of buildings \n Increases command point limit by 25"
+"Récolte des ressources avec les arbres alentour. \n Réduit le coût des bâtiments. \n Augmente la limite de points de commandement de 25."
 END
 
 CONTROLBAR:ConstructWildGoblinCave
-"Build Moria-orc Cave (&C)"
+"Construire Grotte des Orques de Moria (&C)"
 END
 
 CONTROLBAR:ConstructWildGoblinCaveWotRRealTime
-"Build Moria-orc Cave (&W)"
+"Construire Grotte des Orques de Moria (&W)"
 END
 
 CONTROLBAR:ToolTipConstructWildGoblinCave
-"Trains Moria-orc Screechers and Moria-orc Archers"
+"Entraîne les Grinceurs Orques de Moria et les Archers Orques de Moria."
 END
 
 CONTROLBAR:ToolTipConstructWildGoblinCaveWotR
-"Primary Barracks \n Trains basic Moria-orcs \n Limited to 3"
+"Baraquements Primaires\nEntraîne les Orques basiques de Moria\nLimité à 3"
 END
 
 CONTROLBAR:ConstructWildMountainLodge
-"Build Mountain-orc Lodge (&T)"
+"Construire la Hutte d'Orques des Montagnes (&T)"
 END
 
 CONTROLBAR:ToolTipConstructWildMountainLodge
-"Trains Mountain-orcs and Gundabad orcs"
+"Forme des Orques des Montagnes et des Orques de Gundabad."
 END
 
 CONTROLBAR:ConstructWildGoblinFissure
-"Build Troll Lair (&N)"
+"Construire Repaire des Trolls (&N)"
 END
 
 CONTROLBAR:ConstructWildGoblinFissureWotRRealTime
-"Build Troll Lair (&T)"
+"Construire Repaire des Trolls (&T)"
 END
 
 CONTROLBAR:ConstructWildWildSpiderPit
-"Build Wolf Cairn (&V)"
+"Construire Cairn des Loups (&V)"
 END
 
 CONTROLBAR:ConstructWildWildSpiderPitWotRRealTime
-"Build Wolf Cairn (&R)"
+"Construire Cairn des Loups (&R)"
 END
 
 CONTROLBAR:ConstructWildFortress
@@ -16532,11 +16531,11 @@ CONTROLBAR:ConstructWildFortressWOTR
 END
 
 CONTROLBAR:ConstructGuldurFortress
-"Summon Fortress (&I)"
+"Construire une Forteresse (&I)"
 END
 
 CONTROLBAR:ConstructGuldurFortressWOTR
-"Summon Outpost (&I)"
+"Construire Avant-poste (&I)"
 END
 
 CONTROLBAR:ToolTipConstructWildFortress
@@ -16549,120 +16548,120 @@ END
 
 CONTROLBAR:ConstructWildTreasureTrove
 //"Build Treasure Tro&ve"
-"Build Goblin Hoard (&R)"
+"Construire Tertre des Gobelins (&R)"
 END
 
 CONTROLBAR:ToolTipConstructWildTreasureTrove 
 // Reduces Cost of Upgrades - no not yet at least
 //"Research weapon and armour upgrades"
-"Hoards armour and valuables as a resource based on available terrain \nResearches weapon and armour upgrades \nReduces cost of upgrades \n Increases command point limit by 50"
+"Fournit des armures et des objets de valeur comme ressources selon le terrain disponible. \n Permet de rechercher les améliorations d'armes et d'armures. \n Réduit le coût des améliorations. \n Augmente la limite de points commandement de 50."
 END
 
 //Wild Units
 CONTROLBAR:ConstructWildPorter
-"Goblin Builder (&W)"
+"Bâtisseur gobelin (&W)"
 END
 
 CONTROLBAR:ToolTipConstructWildPorter
-"Builds structures"
+"Construit des structures."
 END
 
 CONTROLBAR:ToolTipConstructWildPorterWotR
-"Train a Builder \n Builds structures\nLimited to 1"
+"Entraîne un Batisseur\nConstruit des structures\nLimité à 1"
 END
 
 // Ent Buildings
 CONTROLBAR:ConstructEntMoot
-"Build Ent Moot (&N)"
+"Construire une Chambre des Ents (&N)"
 END
 
 CONTROLBAR:ToolTipEntMoot
-"Recruits Ents"
+"Recruter des Ents de la forêt de Fangorn."
 END
 
 CONTROLBAR:ConstructEntMootWotRRealTime
-"Build Ent Moot (&T)"
+"Construire une chambre à Ents (&T)"
 END
 
 CONTROLBAR:ToolTipEntMootWotRRealTime
-"Tertiary Barracks \n Recruits Ents \n Limited to 1"
+"Baraquements Tertiaires\nRecrute des Ents\nLimité à 1"
 END
 
 // Evil Spells
 CONTROLBAR:WarChant
-"War Chant"
+"Chant de guerre"
 End
 
 CONTROLBAR:TooltipPalantirVision
-"Spy on the enemy forces for 60 seconds\n Modifier Type: Buff \n Gives a temporary +15% speed bonus to \n units at its target area for 35 seconds\n Always stacks \n\nLeft click icon then left click on target area"
+"Saroumane regarde dans la Pierre d'Orthanc, le Palantír qu'il a en sa possession, pour espionner l'ennemi : la carte est révélée dans une large zone. \n Type d'Action : Bonus. \n Procure également un bonus temporaire de +15% de vitesse aux unités alliées de la zone révélée (bonus cumulable). \n\n Clic gauche sur la zone cible."
 END
 
 CONTROLBAR:TooltipFarSeeing
-"Spy on the enemy forces"
+"Espionne les forces ennemies"
 END
 
 CONTROLBAR:Industry
-"Fires of Industry"
+"Industrie"
 End
 
 CONTROLBAR:ConstructGondorSentryTower
-"Build Battle Tower"
+"Construire une Tour de guerre"
 END
 
 CONTROLBAR:ToolTipGondorBuildSentryTower
-"Sentry Tower will fire at enemy units"
+"La tour de garde mettra le feu aux unités ennemies."
 END
 
 CONTROLBAR:ConstructRohanSentryTower
-"Sentry Tower"
+"Tour de garde"
 END
 CONTROLBAR:ToolTipRohanBuildSentryTower
-"Sentry Tower will fire at enemy units"
+"La tour de garde mettra le feu aux unités ennemies"
 END
 
 CONTROLBAR:ConstructEvilSentryTower
-"Sentry Tower"
+"Tour de garde"
 END
 CONTROLBAR:ToolTipEvilBuildSentryTower
-"Sentry Tower will fire at enemy units"
+"La tour de garde mettra le feu aux unités ennemies"
 END
 
 
 //EVIL SPELLS
 
 CONTROLBAR:SpecialAbilitySarumanFireball
-"Fireball (&R)"
+"Boule de Feu (&R)"
 END
 CONTROLBAR:ToolTipSpecialAbilitySarumanFireball
-"Requires Level 3 \n Throws a ball of energy \n Left click icon then left click on target"
+"Requiert : Niveau 3 \n Saroumane invoque une sphère de feu au sommet de son bâton et la jette en direction de l'ennemi. \n\n Clic gauche sur l'icône puis clic gauche sur la cible."
 END
 
 CONTROLBAR:FueltheFires
-"Fuel the Fires"
+"Attiser les flammes"
 End
 
 CONTROLBAR:PlusCommandPoints
-"+100 Command Points"
+"+100 points de commandement."
 End
 
 CONTROLBAR:ToolTipPlusCommandPoints
-"Allows for a larger army \n Passive power"
+"L'armée peut être agrandie.\n\n Capacité passive"
 END
 
 CONTROLBAR:Scavenger
-"Scavenger"
+"Pillage"
 End
 
 CONTROLBAR:ToolTipScavenger
-"All kills earn extra resources \n Passive power"
+"Tous les morts rapportent des ressources supplémentaires\nPouvoir passif"
 END
 
 CONTROLBAR:ToolTipAOTRScavenger
-"For 150 seconds, all kills earn extra resources \n Units upgrades are discounted by 20% for the duration \n Left click to activate"
+"Pendant 150 secondes, tous les kills rapportent des ressources supplémentaires\nLes améliorations d'unités bénéficient d'une réduction de 20% pendant la durée\nCliquez gauche pour activer"
 END
 
 CONTROLBAR:FreezingRain
-"Freezing Rain"
+"Pluie Verglaçante"
 End
 
 CONTROLBAR:Plus1Nazgul
@@ -16670,65 +16669,65 @@ CONTROLBAR:Plus1Nazgul
 End
 
 CONTROLBAR:ToolTipPlus1Nazgul
-"Gives control of an extra Nazgûl"
+"Donne le contrôle d'un Nazgûl supplémentaire"
 END
 
 CONTROLBAR:Taint
-"Tainted Land"
+"Terrain Souillé"
 End
 
 CONTROLBAR:Earthquake
-"Cave-in"
+"Effondrement"
 End
 
 CONTROLBAR:ToolTipEarthquake
 //"Creates an Earthquake on an area of terrain, causing heavy damage to structures \n Left click icon then left click on target area"
-"Creates an Earthquake on an area of terrain, causing heavy damage to structures and moderate damage to units \n Left click icon then left click on target area"
+"Crée un tremblement de terre sur une zone du terrain, causant de gros dégâts aux structures et des dégâts modérés aux unités. \n\n Clic gauche sur la zone cible."
 END
 
 CONTROLBAR:Conquer
-"Conquer"
+"Conquête"
 End
 
 CONTROLBAR:ToolTipConquer
-"Spawn a foundation plot.\n Left click icon then left click on target"
+"Place un terrain de fondation.\n\nClic gauche sur la cible"
 END
 
 CONTROLBAR:EyeofSauron
-"Eye of Sauron"
+"Oeil de Sauron"
 End
 
 CONTROLBAR:Darkness
-"Darkness"
+"Ombre"
 End
 
 CONTROLBAR:MordorCalltheHorde
-"Call the Horde"
+"Appel de la Horde"
 End
 
 CONTROLBAR:ToolTipMordorCalltheHorde
-"Increases Orc and Uruk Production Speed for 30 seconds\n Left click to activate"
+"Augmente la vitesse de production des Orques et Uruks pendant 30 secondes\nCliquez gauche pour activer"
 END
 
 CONTROLBAR:MordorCalltheHordeWild
 //"Drums of the Deep"
-"They Are Coming"
+"Ils Arrivent"
 End
 
 CONTROLBAR:ToolTipMordorCalltheHordeWild
-"Increases Moria-orc Production Speed for 30 seconds\n Left click to activate"
+"Augmente la vitesse de production des Orques de Moria pendant 30 secondes\nCliquez gauche pour activer"
 END
 
 CONTROLBAR:CalltheHorde
-"Call the Horde"
+"Appel de la Horde"
 End
 
 CONTROLBAR:WhiteWinter
-"White Winter"
-End
+"Hiver Blanc"
+END
 
 CONTROLBAR:ToolTipCalltheHorde
-"Increases Orc and Uruk Production Speed for 30 seconds\n Left click to activate"
+"Augmente la vitesse de production des Orques et Uruks pendant 30 secondes\nCliquez gauche pour activer"
 END
 
 CONTROLBAR:ToolTipHaradCalltheHorde
@@ -16736,248 +16735,249 @@ CONTROLBAR:ToolTipHaradCalltheHorde
 END
 
 CONTROLBAR:SummonBalrog
-"Durin's Bane"
+"Fléau de Dúrin"
 End
 
 CONTROLBAR:ToolTipSummonBalrog
-"Summons the Balrog, Durin's Bane \n Left click icon then left click on pathable location"
+"Invoque un Balrog, une créature démoniaque sans âge d'une puissance incommensurable, un monstre aussi rare que terrifiant. De tous les êtres maléfiques de l'ancien monde encore à l'oeuvre dans les Terres du Milieu, le Balrog est l'un des plus redoutables et des plus malveillants. \n\n Clic gauche sur la zone cible."
 END
 
 CONTROLBAR:SummonCrebain
-"Summons a murder of Crebain"
+"Nuée de Crebain"
 END
 
 CONTROLBAR:ToolTipSummonCrebain
-"Reveals the nearby shroud and detects stealth \n Left click icon then left click on pathable location"
+"Révèle le brouillard proche et détecte les unités furtives.\n\nClic gauche sur une zone praticable"
 END
 
 CONTROLBAR:SummonLurker
-"The Watcher in the Water"
+"Le Guetteur de l'Eau"
 End
 
 CONTROLBAR:ToolTipSummonLurker
-"Summons the Watcher from outside the Doors of Durin \n Left click icon then left click on pathable location"
+"Invoque le Guetteur de l'Eau, un ancien mal d'un autre âge, une monstruosité tentaculaire cachée dans les profondeurs à l'affût d'une proie. La nature exacte de cette créature est auréolée de mystère. \n\n Clic gauche sur une zone praticable."
 END
 
 // Good Spells
 
 CONTROLBAR:Heal
-"House of Healing"
+"Maisons de Guérisons"
 End
 
 CONTROLBAR:HealCampaign
-"Kingsfoil"
+"Herbe-Roi"
 End
 
 CONTROLBAR:DwarvenRiches
-"Dwarven Riches"
+"Richesses des Nains"
 END
 
 CONTROLBAR:Rebuild
-"Rebuild"
+"Reconstruction"
 End
 
 CONTROLBAR:CampaignRebuild
-"Quick Repairs"
+"Réparation rapide"
 END
 
 CONTROLBAR:GondorRebuild
-"Restoration"
+"Restauration"
 End
 
 CONTROLBAR:RohanRebuild
-"Shore Up"
+"Consolider "
 End
 
 CONTROLBAR:Draft
-"Draft"
+"Résistance"
 End
 
 CONTROLBAR:ToolTipDraft
-"All peasants become armed, permanently gaining +5 damage and +40 health \n Spell has shorter cooldown \n Left click to activate"
+"Tous les paysans deviennent armés, gagnant de manière permanente +5 de dégâts et +40 de santé\nLe sort a un temps de recharge plus court\nCliquez gauche pour activer"
 END
 
 CONTROLBAR:ElvenGifts
-"Elven Gifts"
+"Dons Elfiques"
 End
 
 CONTROLBAR:ToolTipElvenGifts
-"Heroes gain +50% damage \n Passive power"
+"Dégâts des héros augmentés de +50%. \n\n Capacité passive."
 END
 
 CONTROLBAR:SummonElvenAllies
-"Summon Elven Allies"
+"Appel des Elfes"
 End
 
 CONTROLBAR:ToolTipSummonElvenAllies
-"Summons a group of Lorien Warriors \n Left click icon then left click on pathable location"
+"Appelle un groupe de Guerriers de la Lórien.\n\nClic gauche sur une zone praticable"
 END
 
 CONTROLBAR:GandalftheWhite
-"Gandalf the White"
+"Gandalf le Blanc"
 End
 
 CONTROLBAR:IstariPower
-"Power of the Istari"
+"Pouvoir des Istari"
 End
 
 CONTROLBAR:ToolTipGandalftheWhite
-"Gandalf gains +200% damage \n Gandalf's powers recharge twice as quickly \n Passive power"
+"Gandalf gagne +200% dégâts\n Les pouvoirs de Gandalf se recharge deux fois plus vite \n\n Capacité passive"
 END
 
 CONTROLBAR:SummonRohanAllies
-"The Oath of Eorl"
+"Le Serment d'Eorl"
 End
 
 CONTROLBAR:ToolTipSummonRohanAllies
-"Summons three Battalions of Rohirrim to Gondor's aid \n Left click icon then left click on pathable location"
+"Appelle trois Bataillons de Rohirrim pour venir en aide à Gondor\nCliquez sur l'icône, puis cliquez gauche sur un emplacement accessible"
 END
 
 CONTROLBAR:CloudBreak
-"Western Winds"
+"Perce-Nuage"
 End
 
 CONTROLBAR:CampaignCloudBreak
-"There Is Always Hope"
+"Il y a toujours de l'Espoir"
 End
 
 CONTROLBAR:ElvenWood
-"Elven Wood"
+"Forêt Elfique"
 End
 
 CONTROLBAR:CampaignElvenWood
-"Take Refuge!"
+"Réfugiez-vous !"
 END
 
 CONTROLBAR:ToolTipElvenWoodCampaign
-"Summons a circle of warding for 5 minutes \n Modifier Type: Buff \n All allied units gain +50% damage, +50% armour and become immune to fear and terror\nLeft click icon then left click on target area"
+"Invoque un cercle de protection pendant 5 minutes. \n Type d'Action: Bonus. \n Toutes les unités alliées gagnent +50% de dégâts, +50% d'armure et deviennent immunisées contre la peur et la terreur. \n Cumulable avec le Charisme et les Sorts. \n\n Clic gauche sur l'icône puis clic gauche sur la zone cible."
 END
 
 CONTROLBAR:ToolTipCampaignElvenWood
-"Summons a circle of warding for 5 minutes \n Modifier Type: Buff \n All allied units gain +50% damage, +50% armour and become immune to fear and terror\nLeft click icon then left click on target area"
+"Invoque un cercle de protection pendant 5 minutes\nType de modification : Buff\nToutes les unités alliées gagnent +50% de dégâts, +50% d'armure et deviennent immunisées contre la peur et la terreur\nCliquez sur l'icône, puis cliquez gauche sur la zone cible"
 END
 
 CONTROLBAR:SummonEntAllies
-"Summon Ent Allies"
+"Invoque Ent Alliés"
 End
 
 CONTROLBAR:ToolTipEntAllies
-"Summons several Ents to the battlefield \n Left click icon then left click on pathable location"
+"Invoque plusieurs Ents sous votre contrôle \n\n Clic gauche sur une zone praticable"
 END
 
 CONTROLBAR:Anduril
-"Anduril"
+"Andúril"
 End
 
 CONTROLBAR:ToolTipAnduril
-"Aragorn gains +100% damage \n Passive power"
+"Aragorn porte dorénavant Andúril, l'épée reforgée par les Elfes d'Imladris à partir des tronçons de Narsil, l'épée de son ancêtre le roi de Númenor Elendil.\n Aragorn gagne +100% dégâts.\n\n Capacité passive"
 END
 
 CONTROLBAR:SummonArmyoftheDead
-"Summon the Dead of Dunharrow"
+"Morts de Dunharrow"
 End
 
 CONTROLBAR:ToolTipSummonArmyoftheDead
-"Summons the Dead of Dunharrow \n Left click icon then left click on pathable location"
+"Appelle l'Armée des Morts, des félons maudits par Isildur pour n'avoir pas respecté leur promesse de prêter main-forte contre l'armée du Mordor. Ils sont condamnés à errer pour l'éternité jusqu'à ce que leur serment soit accompli.\n\nClic gauche sur la zone cible"
 END
 
 CONTROLBAR:SummonEagleAllies
-"The Messengers of Manwë"
+"Messagers de Manwë"
 End
 
 CONTROLBAR:CampaignSummonEagleAllies
 //"The Eagles Are Coming!"
-"Wisdom of the Eldar"
+"Sagesse des Eldars"
 END
 
 CONTROLBAR:ToolTipSummonEagleAllies
-"Summons 2 Giant Eagles \n Left click icon then left click on target area"
+"Invoque 2 Aigles Géants\nCliquez sur l'icône, puis cliquez gauche sur la zone cible"
 END
 
 CONTROLBAR:TooltipCampaignSummonEagleAllies
 //"Summons a Giant Eagle \n Left click icon then left click on target area"
-"Grants experience to targeted friendly units \n Left click icon then left click on target units"
+"Accorde de l'expérience aux unités alliés ciblées. \n\n Clic gauche sur l'icône puis clic gauche sur les unités cibles."
 END
 
 CONTROLBAR:SummonDunedainAllies
-"Summon the Grey Company"
+"La Compagnie Grise"
 End
 
 CONTROLBAR:ToolTipSummonDunedainAllies
-"Summons a group of 4 Rangers of the North \n Left click icon then left click on pathable location" 
+"Invoque un groupe de 4 bataillons de Rôdeurs Dúnedain, les descendants Númenóréens établis dans le royaume d'Arnor. Désormais errants et secrets, ils continuent de défendre l'Eriador contre les créatures du Mal.\n\nClic gauche sur une zone praticable" 
 END
 
 CONTROLBAR:MenOfDaleAllies
-"Summon Men Of Dale Allies"
+"Invoque des Hommes de Dale"
 End
 
 CONTROLBAR:TooltipMenOfDaleAllies
-"Summons the Men of Dale \n Left click icon then left click on pathable location"
+"Invoque des Hommes de Dale sous votre contrôle \nClic gauche sur une zone praticable"
 END
 
 CONTROLBAR:MannishAllies
-"Mannish Allies"
+"Alliés Humain"
 End
 
 CONTROLBAR:TooltipMannishAllies
-"Reign of Oakenshield: Summons Bard the Bowman and Laketown Archers \n \nReign of Ironfoot: Summons King Brand and Dalish Archers \n \n Left click icon then left click on pathable location"
+
+"Règne de horin Écu-de-Chêne : Invoque Bard l'Archer et les Archers de Lacville\n\nRègne de Pied-de-Fer : Invoque le Roi Brand et les Archers de Dalish\n\nCliquez sur l'icône, puis cliquez gauche sur un emplacement accessible"
 END
 
 CONTROLBAR:SummonSpiderlings
-"Summon Spiderlings"
+"Invoque des Araignées sauvages"
 End
 
 CONTROLBAR:ToolTipSummonSpiderlings
-"Summons a group of Spiderlings \n Left click icon then left click on pathable location"
+"Invoque un groupe d'araignées sauvages \nClic gauche sur une zone praticable"
 END
 
 CONTROLBAR:SummonTomBombadil
-"Come merry dol!"
+"Venez merry dol!"
 END
 
 CONTROLBAR:TooltipSummonTomBombadil
-"Summons Tom Bombadil \n Left click icon then left click on pathable location"
+"Invoque temporairement Tom Bombadil, un être mystérieux de la Vieille Forêt. Sous ses dehors enchanteurs et inoffensifs, il est néanmoins d'un grand pouvoir, et ne refusera jamais son aide aux voyageurs en danger. \n\n Clic gauche sur une zone praticable."
 END
 
 CONTROLBAR:SummonHobbitAllies
-"Summon Hobbit Allies"
+"Détachement de la Comté"
 END
 
 CONTROLBAR:RallyingCall
-"Rallying Horn"
+"Cor de Ralliement"
 END
 
 CONTROLBAR:LoneTower
-"Lone Tower"
+"Tour Solitaire"
 END
 
 CONTROLBAR:CampaignLoneTower
 //"Friendly Outpost"
-"Elvish Waybread"
+"Pain elfique"
 END
 
 CONTROLBAR:CampaignRestoration
-"Elvish Waybread"
+"Pain elfique"
 END
 
 CONTROLBAR:LoneTowerGondor
-"Lands Kept Safe"
+"Zone sécurisée"
 END
 
 CONTROLBAR:ArrowVolley
-"Ambush"
+"Embuscade"
 END
 
 CONTROLBAR:TooltipArrowVolley
-"Launches a volley of arrows anywhere on the map \n Left click icon then left click on target area"
+"Des archers en embuscade font tomber une Pluie de Flèches n'importe où sur la carte. \n\n Clic gauche sur la zone cible."
 END
 
 CONTROLBAR:CampaignArrowVolley
-"Hidden Volley"
+"Volée Dissimulée"
 END
 
 CONTROLBAR:TooltipCampaignArrowVolley
-"Launches a powerful volley of arrows anywhere on the map \n Left click icon then left click on target area"
+"Lance une puissante Pluie de Flèches n'importe où sur la carte. \n\n Clic gauche sur l'icône puis clic gauche sur la zone ciblée."
 END
 
 CONTROLBAR:Bombard
@@ -16985,11 +16985,11 @@ CONTROLBAR:Bombard
 END
 
 CONTROLBAR:Undermine
-"Undermine"
+"Sapement"
 END
 
 OBJECT:UndermineMineShaft
-"Provides access to the tunnel network"
+"Place une mine n'importe où sur la carte : la mine est immédiatement reliée au réseau de tunnels.\n\nClic gauche sur la zone visible"
 END
 
 // comment: \n is a control character set that stands for new line
@@ -17000,11 +17000,11 @@ LABEL:FORMATION
 END
 
 CONTROLBAR:TestBaseUpgrade
-"Base upgrade."
+"Amélior. base"
 END
 
 CONTROLBAR:TooltipTestBaseUpgrade
-"Test base upgrade."
+"Test Amélior. base"
 END
 
 
@@ -17260,74 +17260,74 @@ CONTROLBAR:GondorFaramirHotkey
 "Faramir (&S)"
 END
 CONTROLBAR:CampaignLothrandirRecruit
-"Recruit the wayfaring Dúnadan ranger, Lothrandir \n \n A lonely soul and wanderer, Lothrandir chooses to spend his days wandering the northern reaches of Eriador. He is well-known amongst the Lossoth peoples, and has learned much of their ancient ways."
+"Recrutez le Rôdeur Dunedain, Lothrandir \n\n âme solitaire et vagabond, Lothrandir choisit de passer ses journées à errer dans le nord de l'Eriador. Il est bien connu parmi les peuples Lossoth et a beaucoup appris de leurs anciennes coutumes."
 END
 CONTROLBAR:CampaignLothrandirRevive
-"Revive the fallen Hero, Lothrandir"
+"Rappelez Lothrandir à la vie"
 END
 CONTROLBAR:CampaignLothrandirHotkey
 "Lothrandir (&S)"
 END
 CONTROLBAR:CampaignAmdirRecruit
-"Recruit the noble guardian of the Small-folk, Amdir \n \n Amdir is a common sight for those that inhabit the borderlands between the Shire and the Bree-land. Maggot and Bombadil know him, and both would attest to his selfless, noble spirit."
+"Recrutez le noble gardien des Semi-Hommes, Amdir \n\n Amdir est un spectacle commun pour ceux qui habitent les frontières entre la Comté et le Pays de Bree. Maggot et Bombadil le connaissent, et tous deux attesteraient de son esprit altruiste et noble."
 END
 CONTROLBAR:CampaignAmdirRevive
-"Revive the fallen Hero, Amdir"
+"Rappelez Amdir à la vie"
 END
 CONTROLBAR:CampaignAmdirHotkey
 "Amdir (&D)"
 END
 CONTROLBAR:CampaignElegostRecruit
-"Recruit the keen-eyed Dúnadan hunter, Elegost \n \n Elegost is a skilled tracker and woodsman, even amongst his skilled kin. He has an uncanny ability to commune with crows and ravens, and is known for using them in pursuit of his quarry."
+"Recrutez le chasseur Dunedain aux yeux perçants, Elegost \n\n Elegost est un traqueur et un bûcheron talentueux, même parmi ses proches. Il a une capacité étrange à communier avec les corbeaux, et est connu pour les utiliser pour poursuivre ses proies."
 END
 CONTROLBAR:CampaignElegostRevive
-"Revive the fallen Hero, Elegost"
+"Rappelez Elegost Dúnadan à la vie"
 END
 CONTROLBAR:CampaignElegostHotkey
 "Elegost (&F)"
 END
 CONTROLBAR:CampaignToradanRecruit
-"Recruit the fierce Dúnadan warrior, Toradan \n \n A veteran of many skirmishes with the orcs of the Misty Mountains, Toradan is a stout warrior whose presence alone inspires fear into the black hearts of the enemy."
+"Recrutez le féroce guerrier Dunedain, Toradan \n\n Vétéran de nombreuses escarmouches avec les Orques des Monts Brumeux, Toradan est un guerrier robuste dont la seule présence inspire la peur dans les coeurs noirs de l'ennemi."
 END
 CONTROLBAR:CampaignToradanRevive
-"Revive the fallen Hero, Toradan"
+"Rappelez Toradan à la vie"
 END
 CONTROLBAR:CampaignToradanHotkey
 "Toradan (&G)"
 END
 CONTROLBAR:ToolTipBuildDamrod
-"Hero Unit. Skilled with bow and sword"
+"Recrutez Damrod, Rôdeur du Sud Ithilien. \n\n Appartenant à la Compagnie du Capitaine Faramir lors de la Guerre de l'Anneau, Damrod est un Dúnadan, descendant des Seigneurs de l'Ouistrenesse. \n Il se vit confié avec Mablung la garde des deux Hobbits alors que Faramur et ses hommes préparaient une embuscade contre les Haradrims."
 END
 CONTROLBAR:GondorDamrodRecruit
-"Hero Unit. Recruit a fighter skilled with bow and sword"
+"Recrutez Damrod, Rôdeur du Sud Ithilien. \n\n Appartenant à la Compagnie du Capitaine Faramir lors de la Guerre de l'Anneau, Damrod est un Dúnadan, descendant des Seigneurs de l'Ouistrenesse. \n Il se vit confié avec Mablung la garde des deux Hobbits alors que Faramur et ses hommes préparaient une embuscade contre les Haradrims."
 END
 CONTROLBAR:GondorDamrodRevive
-"Revive the fallen Hero, Damrod"
+"Rappelez Damrod à la vie"
 END
 CONTROLBAR:GondorDamrodHotkey
 "Damrod"
 END
 CONTROLBAR:ToolTipBuildBorimir
-"Recruit one of the greatest Captains of Gondor"
+"Recrutez le Capitaine de la Tour Blanche. \n\n Boromir, fils de Denethor, est le plus doué et le plus brave de tous les commandants du Gondor. Là où il se bat, l'espoir renaît et la victoire est arrachée aux griffes de l'ennemi. \n Le destin de Minas Tirith est étroitement lié à celui de Boromir. La Cité Blanche ne tiendrait pas bien longtemps s'il venait à mourir, à moins qu'un autre héros de la même trempe prenne sa place. \n\n 'Que les armées du Mordor sachent ceci : jamais la terre de mon peuple ne tombera aux mains de l'ennemi !'"
 END
 CONTROLBAR:GondorBoromirRecruit
-"Recruit the Captain of the White Tower \n \n 'Let the armies of Mordor know this: Never again will the land of my people fall into enemy hands!'"
+"Recrutez le Capitaine de la Tour Blanche. \n\n Boromir, fils de Denethor, est le plus doué et le plus brave de tous les commandants du Gondor. Là où il se bat, l'espoir renaît et la victoire est arrachée aux griffes de l'ennemi. \n Le destin de Minas Tirith est étroitement lié à celui de Boromir. La Cité Blanche ne tiendrait pas bien longtemps s'il venait à mourir, à moins qu'un autre héros de la même trempe prenne sa place. \n\n 'Que les armées du Mordor sachent ceci : jamais la terre de mon peuple ne tombera aux mains de l'ennemi !'"
 END
 CONTROLBAR:GondorBoromirRevive
-"Revive the fallen Hero, Boromir"
+"Rappelez Boromir à la vie"
 END
 CONTROLBAR:GondorBoromirHotkey
 "Boromir (&D)"
 END
 
 CONTROLBAR:ToolTipBuildBerethor
-"Recruit the Captain of the Guard"
+"Recrutez le Capitaine des Gardes de la Citadelle. \n\n Héritier des traditions martiales de Numenor, Berethor est issu d'une famille noble et est actuellement Capitaine au sein de la Garde de la Citadelle. Il a combattu aux côtés de Faramir lors de la dernière bataille pour Osgiliath et a mené ses hommes par l'exemple. \n C'est grâce à la bravoure d'hommes comme lui que le Gondor n'a pas encore été envahi par les légions de Sauron."
 END
 CONTROLBAR:GondorBerethorRecruit
-"Recruit the Captain of the Guard \n \n 'A loyal Guard-captain, Berethor was sent to Rivendell by Denethor to ascertain the well-being of his firstborn son.'"
+"Recrutez le Capitaine des Gardes de la Citadelle. \n\n Héritier des traditions martiales de Numenor, Berethor est issu d'une famille noble et est actuellement Capitaine au sein de la Garde de la Citadelle. Il a combattu aux côtés de Faramir lors de la dernière bataille pour Osgiliath et a mené ses hommes par l'exemple. \n C'est grâce à la bravoure d'hommes comme lui que le Gondor n'a pas encore été envahi par les légions de Sauron. \n\n 'Un loyal Capitaine de la Garde fut envoyé à Fondcombe pour reconnaîtra la légitimité de son fils Premier-Né.'"
 END
 CONTROLBAR:GondorBerethorRevive
-"Revive the fallen Hero, Berethor"
+"Rappelez Berethor à la vie"
 END
 CONTROLBAR:GondorBerethorHotkey
 "Beretho&r"
@@ -38952,131 +38952,131 @@ END
 ////MISSION DIALOG SUBTITLES MAIN SESSION and PICKUP 1 START////
 
 DIALOGEVENT:MGRiven_Glor001subtitle
-"*Goblins!? It cannot be! They've NEVER been so close to Rivendell!"
+"*Des Gobelins !? Cela ne se peut ! Ils n'ont JAMAIS été aussi proches de Fondcombe !"
 END
 
 DIALOGEVENT:MGRiven_Glor002subtitle
-"*We must warn Elrond!"
+"*Nous devons prévenir Elrond !"
 END
 
 DIALOGEVENT:MGRiven_Gloi001subtitle
-"*What brings you back so soon, elf?"
+"*Qu'est-ce qui te ramène si tôt, elfe ?"
 END
 
 DIALOGEVENT:MGRiven_Glor003subtitle
-"*The Goblins have come down from the mountains! They are approaching from the South!"
+"*Les gobelins sont descendus des montagnes ! Ils arrivent du Sud !"
 END
 
 DIALOGEVENT:MGRiven_Elf1001subtitle
-"*Goblins!? It cannot be! They've NEVER been so close to Rivendell!"
+"*Des Gobelins !? Cela ne se peut ! Ils n'ont JAMAIS été aussi proches de Fondcombe !"
 END
 
 DIALOGEVENT:MGRiven_Elro001subtitle
-"*I sensed this day was coming"
+"*Je savais que ce jour arriverait"
 END
 
 DIALOGEVENT:MGRiven_Elro002subtitle
-"*Man the towers!"
+"*Elfes, vers les tours !"
 END
 
 DIALOGEVENT:MGRiven_Elf2001subtitle
-"*We must warn Lord Elrond!"
+"*Nous devons avertir le Seigneur Elrond !"
 END
 
 DIALOGEVENT:MGRiven_Elf1002subtitle
-"*Make haste for Rivendell!!"
+"* Dépêchez-vous d'arriver à Fondcombe !!"
 END
 
 DIALOGEVENT:MGRiven_Gloi002subtitle
-"*Goblins? I'LL take care of the filthy wretches!"
+"*Des Gobelins ? Je m'occuperai de ces sales misérables !"
 END
 
 DIALOGEVENT:MGRiven_Elf1003subtitle
-"*We must warn the others so they can prepare the defenses!"
+"*Il faut prévenir les autres pour qu'ils préparent les défenses !"
 END
 
 DIALOGEVENT:MGRiven_Elf2002subtitle
-"*Sound the alarm! Goblins are coming! They are just beyond the river!"
+"*Sonner l'alarme ! Les gobelins arrivent ! Ils sont juste au-delà de la rivière !"
 END
 
 DIALOGEVENT:MGRiven_Elro003subtitle
-"*Use the towers surrounding the city! We must not let them through!"
+"*Utilisez les tours qui entourent la ville ! Il ne faut pas les laisser passer !"
 END
 
 DIALOGEVENT:MGRiven_Elro004subtitle
-"*Long has Rivendell been safe from the Servants of darkness. Its sanctity must not be lost!"
+"*Fondcombe est depuis longtemps à l'abri des Serviteurs des Ténèbres. Cela doit durer !"
 END
 
 DIALOGEVENT:MGRiven_Elro005subtitle
-"*Archers! To your towers!"
+"*Archers ! A vos tours !"
 END
 
 DIALOGEVENT:MGRiven_OffE001subtitle
-"*Elves! Move into the towers to Garrison them! We need those defenses!"
+"*Elfes ! Déplacez-vous dans les tours pour les garnir ! Nous avons besoin de ces défenses !"
 END
 
 DIALOGEVENT:MGRiven_OffE002subtitle
-"*Elves! Garrison the Towers! We need those defenses!"
+"*Elfes ! Garnissez les tours ! Nous avons besoin de ces défenses !"
 END
 
 DIALOGEVENT:MGRiven_OffE003subtitle
-"*We may need the troops to leave the tower that they garrisoned."
+"*Nous aurons peut-être besoin que les troupes quittent la tour qu'elles tenaient en garnison."
 END
 
 DIALOGEVENT:MGRiven_OffE004subtitle
-"*To remove them from the tower, select their image while the tower is selected."
+"*Pour les retirer de la tour, sélectionnez leur image pendant que la tour est sélectionnée."
 END
 
 DIALOGEVENT:MGRiven_OffE005subtitle
-"*We must select a power from the palantir."
+"*Nous devons sélectionner un pouvoir du palantir."
 END
 
 DIALOGEVENT:MGRiven_OffE006subtitle
-"*We haven't selected a power yet from the palantir."
+"*Nous n'avons pas encore sélectionné de pouvoir dans le palantir."
 END
 
 DIALOGEVENT:MGRiven_OffE007subtitle
-"*We can revive our Heroes from the House of Elrond."
+"*Nous pouvons faire revivre nos héros à la Maison d'Elrond."
 END
 
 DIALOGEVENT:MGRiven_OffE008subtitle
-"*We can purchase more builders from the House of Elrond."
+"*Nous pouvons acheter plus de constructeurs auprès de la Maison d'Elrond."
 END
 
 DIALOGEVENT:MGRiven_OffE009subtitle
-"*We can purchase upgrades from the Eregion Forge."
+"*Nous pouvons acheter des améliorations à la Forge d'Eregion."
 END
 
 DIALOGEVENT:MGRiven_OffE010subtitle
-"*We can equip our troops with new upgrades."
+"*Nous pouvons équiper nos troupes de nouvelles améliorations."
 END
 
 DIALOGEVENT:MGRiven_OffE011subtitle
-"*We can equip our troops with upgrades purchased at the Forge."
+"*Nous pouvons équiper nos troupes avec des améliorations achetées à la Forge."
 END
 
 DIALOGEVENT:MGRiven_Elf1004subtitle
-"*They've crossed the bridge!"
+"*Ils ont traversé le pont !"
 END
 
 DIALOGEVENT:MGRiven_Elf1005subtitle
-"*The goblins have rushed the gate!"
+"*Les gobelins se sont précipités vers la porte !"
 END
 
 DIALOGEVENT:MGRiven_Elf1006subtitle
-"*They've broken through!"
+"*Ils ont percé nos défenses !"
 END
 
 DIALOGEVENT:MGRiven_Gobl001subtitle
-"*We need those towers toppled."
+"*Nous avons besoin que ces tours soient renversées."
 END
 
 DIALOGEVENT:MGRiven_Gobl002subtitle
-"*Bring up.. the Mountain Giant!"
+"*Attention... Un géant des montagnes !"
 END
 
 DIALOGEVENT:MGRiven_OffE012subtitle
-"*Use fire arrows on the Giants! Hurry!"
+"*Utilisez des flèches de feu sur les géants ! Dépêchez-vous !"
 END
 
 DIALOGEVENT:MGRiven_OffE013subtitle
