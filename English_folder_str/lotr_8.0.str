@@ -17467,13 +17467,13 @@ CONTROLBAR:RohanMerryHotkey
 "Merry (&W)"
 END
 CONTROLBAR:ToolTipBuildGimli
-"Recruit the Dwarf of the Lonely Mountain"
+"Recrutez le nain de la Montagne Solitaire"
 END
 CONTROLBAR:RohanGimliRecruit
-"Recruit the Dwarf of the Lonely Mountain \n \n 'There is one Dwarf yet in Moria who still draws breath!'"
+"Recrutez le fils de Glóin. \n Comme tous les Nains, Gimli est austère, bourru et redoutable avec une hache. Ce combattant excelle d'ailleurs dans le maniement de cette arme comme en témoigne la multitude d'Orques tombés sous ses coups.\n D'une robustesse exceptionnelle, même pour un Nain, Gimli devient une implacable force de destruction lorsqu'on provoque sa colère ou que ses compagnons sont en danger. \n\n 'Il reste encore un Nain dans la Moria qui respire !'"
 END
 CONTROLBAR:RohanGimliRevive
-"Revive the fallen Hero, Gimli"
+"Rappelez Gimli à la vie"
 END
 CONTROLBAR:RohanGimliHotkey
 "Gimli (&S)"
@@ -17482,25 +17482,25 @@ CONTROLBAR:FellowshipGimliHotkey
 "Gimli (&T)"
 END
 CONTROLBAR:ToolTipBuildEomer
-"Recruit the Leader of the outlawed Rohirrim"
+"Recrutez le chef des Rohirrims exilés"
 END
 CONTROLBAR:RohanEomerRecruit
-"Recruit the Third Marshal of the Riddermark. \n \n 'Now is the hour! Riders of Rohan! Oaths you have taken, now fulfill them all, to lord and land!'"
+"Recrutez le chef des Rohirrims exilés. \n\n Éomer, fils d'Éomund, est le neveu du roi Théoden et un des meilleurs guerriers du Rohan. \n Tandis que les armées de l'Isengard convergent vers le Rohan, Éomer risque l'exil afin de protéger les paysans et les simples gens des déprédations des Uruk-Haï, des Wargs et pire encore. \n\n 'ROHIRRIMS ! POUR LE ROI !!'"
 END
 CONTROLBAR:RohanEomerRevive
-"Revive the fallen Hero, Éomer"
+"Rappelez Éomer à la vie"
 END
 CONTROLBAR:RohanEomerHotkey
 "Éomer (&D)"
 END
 CONTROLBAR:ToolTipBuildLegolas
-"Recruit the Prince of the Woodland Realm"
+"Recrutez le Prince des Elfes du Royaume des Forêts."
 END
 CONTROLBAR:RohanLegolasRecruit
-"Recruit the Prince of the Woodland Realm \n \n 'Yet do not cast all hope away. Tomorrow is unknown. Rede oft is found at the rising of the sun.'"
+"Recrutez le Prince des Elfes du Royaume des Forêts. \n Fils de Thranduil et de ce fait, prince de la Forêt Noire, Legolas 'Feuille Verte' est un guerrier exceptionnel, même selon les standards elfiques. Il maîtrise toutes les disciplines martiales, ayant une préférence pour l'arc, avec lequel il peut lâcher une volée de flèches en un battement de cil, ou effectuer un tir d'une précision inégalable. \n\n 'Ne rejetez pas tout espoir. Demain est un autre jour.'"
 END
 CONTROLBAR:RohanLegolasRevive
-"Revive the fallen Hero, Legolas"
+"Rappelez Legolas à la vie"
 END
 CONTROLBAR:RohanLegolasHotkey
 "Legolas (&D)"
@@ -17514,64 +17514,64 @@ END
 
 
 CONTROLBAR:ConstructGoblinFighterHorde
-"Moria-orc Screechers (&W)"
+"Guerriers Orques de la Moria (&W)"
 END
 CONTROLBAR:ConstructGoblinFighterHordeInn
-"Moria-orc Screechers (&W)"
+"Guerriers Orques de la Moria (&W)"
 END
 OBJECT:MoriaPikeman
-"Moria-orc Spearman"
+"Lancier orque de la Moria"
 END
 OBJECT:MoriaSpearmanHorde
-"Moria-orc Spearmen"
+"Lancier orque de la Moria"
 END
 CONTROLBAR:ConstructMoriaSpearmanHorde
-"Moria-orc Spearmen (&W)"
+"Lancier orque de la Mori (&W)"
 END
 CONTROLBAR:ConstructMoriaSpearmanHordeWotRRealTime
-"Moria-orc Spearmen (&R)"
+"Lancier orque de la Mori (&R)"
 END
 CONTROLBAR:ToolTipBuildMoriaSpearmanHorde
-"Strong vs. Cavalry and Heroes\n Able to switch formation for improved defensive capabilities \n\n Horde Bonus \n Modifier Type: Spell \n All Moria-orc Screechers, Moria-orc Archers, Moria-orc Spearmen and Goblin-town Warriors gain +50% damage when gathered in numbers of 150 or more\n \n These quaffing, bleating goblins carry spears forged from Dwarf-weapons pried from Khazad-dûm's fallen reclaimers."
+"Fort contre la cavalerie et les héros\n Capable de changer de formation pour améliorer ses capacités défensives\n\n Bonus de horde\n Type de modificateur : Sort\n Tous les Lanciers orques de la Moria, les Archers orques de la Moria, les Lanciers orques de la Moria et les Guerriers de la Cité des Gobelins infligent +50% de dégâts lorsqu'ils sont réunis en un nombre de 150 ou plus\n\n Ces gobelins avides, hurlants, portent des lances forgées à partir d'armes naines arrachées aux récupérateurs tombés de Khazad-dûm."
 END
 
 CONTROLBAR:ConstructGoblinArcherHorde
-"Moria-orc Archers (&E)"
+"Archers orques de la Moria (&E)"
 END
 CONTROLBAR:ConstructGoblinCave
-"Build Mori-orc Cave"
+"Construire une Cave à Gobelins de la Moria"
 END
 CONTROLBAR:ToolTipGoblinCave
-"Trains Moria-orc Screechers and Moria-orc Archers"
+"Entraîne des Guerriers Orques de la Moria et des Archers Orques de la Moria. \n Augmente la limite de points de commandement de 25."
 END
 CONTROLBAR:ConstructGoblinCaveTroll
-"Cave Troll (&W)"
+"Troll des Cavernes (&W)"
 END
 CONTROLBAR:ToolTipBuildGoblinCaveTroll
 //"Requires Level 2 Moria Cave \n Strong vs. Swordsmen and Structures \n \n Pestered and tormented for years by its goblin captors, this small and relatively docile Troll has been blinded by rage and frustration."
-"Strong vs. Swordsmen and Structures \n \n Pestered and tormented for years by its goblin captors, this small and relatively docile Troll has been blinded by rage and frustration."
+"Les Trolls des Cavernes sont de répugnantes créatures qui détestent la lumière du soleil et se cachent dans des grottes sombres et humides. Ils sont lourds et lents d'esprit mais restent néanmoins dangereux une fois mis en colère. \n\n Forts contre les épéistes et les structures."
 END
 
 CONTROLBAR:ToolTipBuildGoblinCaveTrollLair
-"Strong vs. Swordsmen and Structures"
+"Forts contre les épéistes et les structures."
 END
 
 
 CONTROLBAR:ConstructGoblinFissure
-"Build Gundabad Gathering"
+"Construire une fissure de Gundabad"
 END
 CONTROLBAR:ToolTipGoblinFissure
-"Trains Gundabad Orcs and Attack Trolls"
+"Permet de recruter les Orques de Gundabad et les Trolls d'assaut."
 END
 OBJECT:GoblinFissure
 //"Gundabad Pit"
-"Troll Lair"
+"Repère de trolls"
 END
 OBJECT:GoblinFissureDescription
-"Level 2: +10% faster build speed \n Level 3: +25% faster build speed"
+"Niveau 2 : vitesse de construction +10%\n Niveau 3 : vitesse de construction +25%"
 END
 OBJECT:WildPorter
-"Goblin Builder"
+"Bâtisseur gobelin"
 END
 OBJECT:DwarvenCastleWallHubExpansion
 "Extension Assise"
@@ -17579,91 +17579,91 @@ END
 
 
 CONTROLBAR:ToggleSpiderRiderWeapons
-"Alternate Weapon (&W)"
+"Changer d'arme"
 END
 CONTROLBAR:ToolTipToggleSpiderRiderWeapons
 "Clic gauche pour changer d'armes."
 END
 CONTROLBAR:ConstructWildCaveLevel2Upgrade
-"Upgrade Moria-orc Cave to Level 2 (&A)"
+"Améliorer la Cave des Gobelins au niveau 2 (&A)"
 END
 
 CONTROLBAR:ConstructWildCaveLevel3Upgrade
-"Upgrade Moria-orc Cave to Level 3 (&A)"
+"Améliorer la Cave des Gobelins au niveau 3 (&A)"
 END
 
 CONTROLBAR:UpgradeWildLodgeLevel2
-"Upgrade Mountain-orc Lodge to Level 2 (&A)"
+"Améliorer la Hutte d'Orques des Montagnes au niveau 2 (&A)"
 END
 
 CONTROLBAR:UpgradeWildLodgeLevel3
-"Upgrade Mountain-orc Lodge to Level 3 (&A)"
+"Améliorer la Hutte d'Orques des Montagnes au niveau 3 (&A)"
 END
 
 CONTROLBAR:UpgradeWildFissureLevel2
-"Upgrade Troll Lair to Level 2 (&A)"
+"Améliorer le Repère de trolls au niveau 2 (&A)"
 END
 
 CONTROLBAR:UpgradeWildFissureLevel3
-"Upgrade Troll Lair to Level 3 (&A)"
+"Améliorer le Repère de trolls au niveau 3 (&A)"
 END
 
 CONTROLBAR:ConstructWildSpiderPitLevel2Upgrade
-"Upgrade Wolf Cairn to Level 2 (&A)"
+"Améliorer la Fosse à Wargs au niveau 2 (&A)"
 END
 
 CONTROLBAR:ConstructWildSpiderPitLevel3Upgrade
-"Upgrade Wolf Cairn to Level 3 (&A)"
+"Améliorer la Fosse à Wargs au niveau 3 (&A)"
 END
 
 CONTROLBAR:ConstructWildTreasureTroveLevel2Upgrade
-"&Upgrade Treasure Trove to Level 2"
+"Améliorer le Trésor au niveau 2"
 END
 
 CONTROLBAR:ConstructWildTreasureTroveLevel3Upgrade
-"&Upgrade Treasure Trove to Level 3"
+"Améliorer le Trésor au niveau 3"
 END
 
 CONTROLBAR:ConstructWildSpiderlingHorde
-"Spiderlings (&W)"
+"Araignées sauvages"
 END
 
 CONTROLBAR:ConstructWildSpiderRiderHorde
-"Goblin Spide&r Riders"
+"Chevaucheur d'araignées gobelins"
 END
 
 CONTROLBAR:ToolTipBuildWildSpiderRiderHorde
-"Requires Level 2 Spider Pit \n Can switch between Bow and Spear \n Strong vs. Archers"
+"Requiert : niveau 2 Fosse à Araignées\n Peut permuter entre Arc et Lance \n Forts contre les archers"
 END
 
 CONTROLBAR:ConstructWildMountainGiant
-"Mountain Giant (&S)"
+"Géant des Montagnes (&S)"
 END
 
 CONTROLBAR:ConstructWildMarauderHorde
-"Gundabad &Marauders"
+"Gundabad &Maraudeurs"
 END
 
 CONTROLBAR:ToolTipBuildWildMarauderHorde
-"Strong vs. Cavalry and Heroes \n Able to switch formation for improved defensive capabilities\n \n Tasked with guarding the cold valleys and foothills of Orc-held territory, these pikemen have been known to ambush Elven scouting parties."
+"Les Orques de Gundabad sont des guerriers puissants, organisés et entraînés à un niveau rarement atteint par les autres Orques. Ils sont devenus les ennemis héréditaires des Nains qui ont perdu beaucoup de leurs proches en les affrontant.\n Tenus de surveiller les froides vallées et les contreforts des Monts Brumeux, ces piquiers sont réputés pour organiser de nombreuses embuscades aux Elfes de la Forêt Noire.\n\nPeuvent changer de formation pour améliorer leurs défenses.\n\nForts contre les cavaliers"
 END
 
 // MORDOR UNITS
 
 CONTROLBAR:ConstructMordorOrcFighterHorde
-"Orc Warriors (&W)"
+"Guerriers Orques (&W)"
 END
 CONTROLBAR:ConstructMordorOrcArcherHorde
-"Orc Archers (&R)"
+"Archers Orques"
 END
 CONTROLBAR:ConstructMordorHaradrimHorde
-"H&aradrim Archers"
+"Archers Haradrim"
 END
 CONTROLBAR:ConstructMordorHaradrimHordeSpr
-"Haradrim &Spearmen"
+"Lanciers Haradrim"
 END
 CONTROLBAR:ConstructMordorCorsairHorde
-"Corsairs of Umbar (&W)"
+"Corsaires d'Umbar (&W)"
 END
 CONTROLBAR:ConstructMordorEasterlingHorde
 "Khân-pâlainax (&E)"
@@ -17675,19 +17675,19 @@ CONTROLBAR:ConstructMordorEasterlingHorde_Rhun
 "Khân-pâlainax (&T)"
 END
 CONTROLBAR:ConstructMordorCaveTroll
-"&Cave Troll"
+"Troll des cavernes"
 END
 CONTROLBAR:ConstructMordorMountainTroll
-"Mountain Troll (&W)"
+"Troll des Montagnes (&W)"
 END
 CONTROLBAR:ConstructMordorSiegeTower
-"Siege &Tower"
+"Tour de siège"
 END
 CONTROLBAR:ConstructMordorCatapult
-"Catapult (&E)"
+"Catapulte (&E)"
 END
 CONTROLBAR:ConstructMordorCatapultWotR
-"Catapult (&W)"
+"Catapulte (&W)"
 END
 CONTROLBAR:ConstructMordorGrond
 "Grond (&T)"
@@ -17697,27 +17697,27 @@ CONTROLBAR:ConstructMordorBannerOrc
 END
 
 CONTROLBAR:ToolTipBuildMordorHaradrimHorde
-"Requires Level 3 Haradrim Palace \n Strong at Range"
+"Requiert : Palais Oriental Niveau 3 \n Forts à distance."
 END
 
 CONTROLBAR:ToolTipBuildMordorCorsairHorde
-"Strong vs. Pikemen \n \n Fueled by old hatred of Gondor, the corsairs of Umbar have long reaved across the shores of its southern border."
+"Les corsaires d'Umbar sont des pillards sans scrupule dont la sauvagerie les rend plus proches des Orques que des Hommes. \n Heureusement pour les marins de la Terre du Milieu, leurs attaques sont généralement aussi brèves que sournoises, car les renégats d'Umbar ne sont pas du genre à faire durer les combats, et retournent prestement à leurs navires dès qu'ils ont dérobé assez de butin. \n\n Forts contre les piquiers."
 END
 
 CONTROLBAR:ToolTipBuildMordorEasterlingHorde
-"Great Khân's Phalanx\n Strong vs. Cavalry and Heroes \n Able to switch formation for improved defensive capabilities\n \n The Khân-pâlainax made up the brunt of the expedition forces sent to Mordor. They advanced upon their enemies in fearsome formation, shields locked and pikes forward."
+"Phalange du Grand Khân\n Fort contre la cavalerie et les héros\n Capable de changer de formation pour améliorer ses capacités défensives\n\n Les Khân-pâlainax constituaient la majeure partie des forces d'expédition envoyées à Mordor. Ils avançaient sur leurs ennemis dans une formation redoutable, boucliers verrouillés et piques en avant."
 END
 
 CONTROLBAR:ToolTipBuildMordorEasterlingHorde_Rhun
-"Great Khân's Phalanx \nRequires Level 2 Easterling Garrison \n Strong vs. Cavalry and Heroes \n Able to switch formation for improved defensive capabilities\n \n The Khân-pâlainax made up the brunt of the expedition forces sent to Mordor. They advanced upon their enemies in fearsome formation, shields locked and pikes forward."
+"Phalange du Grand Khân\nNécessite une Caserne des Orientaux de niveau 2\nFort contre la cavalerie et les héros\nCapable de changer de formation pour améliorer ses capacités défensives\n\nLes Khân-pâlainax constituaient la majeure partie des forces d'expédition envoyées à Mordor. Ils avançaient sur leurs ennemis dans une formation redoutable, boucliers verrouillés et piques en avant."
 END
 
 CONTROLBAR:ToolTipBuildMordorEasterlingHordeForInn
-"Great Khân's Phalanx\nStrong vs. Cavalry and Heroes \n Able to switch formation for improved defensive capabilities\n \n The Khân-pâlainax made up the brunt of the expedition forces sent to Mordor. They advanced upon their enemies in fearsome formation, shields locked and pikes forward."
+"Phalange du Grand Khân\nFort contre la cavalerie et les héros\nCapable de changer de formation pour améliorer ses capacités défensives\n\nLes Khân-pâlainax constituaient la majeure partie des forces d'expédition envoyées à Mordor. Ils avançaient sur leurs ennemis dans une formation redoutable, boucliers verrouillés et piques en avant."
 END
 
 CONTROLBAR:ToolTipBuildMordorHaradrimSpearHorde
-"Strong vs. Cavalry \n Able to switch formation for improved defensive capabilities\n \n Spears made of fire-hardened wood are the primary weapon of the legions of the South."
+"Lorsque le peuple du Harad met de côté ses différends et qu'il s'unit sous une seule bannière, ses effectifs sont tels qu'ils rivalisent même avec ceux du Mordor. Des nuées de guerriers en armure légère se ruent alors sur leurs ennemis, les perforent à mort de leurs flèches empoisonnées, ou les attaquent avec de longues lances barbelées. \n Ce qui leur fait défaut en terme d'aptitude et d'entraînement, les hommes du Harad le compense largement par leur cruauté barbare. \n\n Forts contre les cavaliers. \n Peuvent changer de formation pour améliorer leurs défenses."
 END
 
 CONTROLBAR:ConstructMordorPorter
@@ -17725,71 +17725,71 @@ CONTROLBAR:ConstructMordorPorter
 END
 
 CONTROLBAR:ToolTipBuildMordorPorter
-"Builds structures"
+"Construit des structures."
 END
 
 CONTROLBAR:ToolTipBuildMordorWorker
-"Gathers resources for the Lumber Mill"
+"Produit des ressources avec la scierie."
 END
 
 CONTROLBAR:ConstructMordorTributeCart
-"Tribute Cart"
+"Chariot de tribut"
 END
 
 CONTROLBAR:ToolTipBuildMordorTributeCart
-"Use to bribe enemies"
+"Utiliser pour soudoyer l'ennemi."
 END
 
 CONTROLBAR:ConstructMordorArcher
-"Orc Archers"
+"Archers Orques"
 END
 CONTROLBAR:ToolTipBuildMordorArcher
-"Strong vs. Infantry"
+"Fort contre l'infanterie."
 END
 CONTROLBAR:ToolTipBuildMordorCaveTroll
-"Strong vs. Swordsmen and Structures"
+"Les Trolls des Cavernes sont des créatures repoussantes qui détestent la lumière et préfèrent se cacher dans l'obscurité rassurante des grottes et des cavernes humides. Ces monstres sont stupides mais immensément forts. \n Leur peau calleuse est capable de résister à un coup de lance tandis que leurs poings énormes peuvent aisément disloquer le plus solide des boucliers. \n\n Forts contre les épéistes et les structures."
 END
 CONTROLBAR:ToolTipBuildMordorMountainTroll
-"Strong vs. Swordsmen and Structures \n \n Sauron's Olog-hai are fierce and cunning, able to withstand sunlight while under the sway of the Dark Lord's will."
+"Les Trolls du Mordor ont été créés par Sauron afin de pouvoir supporter la lumière du soleil sans être changés en pierre. Ils mesurent souvent plus de trois mètres de haut, et sont donc encore plus imposants que les Trolls des Cavernes que l'on rencontre dans les Monts Brumeux. Ce sont des adversaires terrifiants capables d'écraser tout ce qui se présente à eux. \n\n Forts contre les épéistes et les structures."
 END
 CONTROLBAR:ToolTipBuildMordorMumakil
-"Strong vs. Structures and Cavalry \n \n The Mûmakil of Harad were tamed and used as beasts of war by the Haradrim, who employed them to devastating effect during the Battle of the Pelennor."
+"Les armées du Harad alignent souvent des Mûmakil, d'énormes bêtes de guerre entraînées par les mystérieux Mahûd. Ces créatures gigantesques portent sur le dos une tour d'osier et de cuir, depuis laquelle Haradrim ou Mahûd peuvent libérer une pluie de projectiles sur leurs ennemis.\nUn Mûmak en charge est presque impossible à arrêter, et ceux qui tentent de lui barrer la route sont impitoyablement piétinés ou projetés en l'air.\n\n Forts contre les structures et les cavaliers."
 END
 CONTROLBAR:ToolTipBuildMordorGreatBeast
-"Requires Level 3 Great Siege Works \n Strong vs. Structures and Cavalry \n\n These lumbering creatures are native to the great ash-covered plains of Gorgoroth, feeding on the thick roots that grow in the dry soil of that barren land. The orcs were quick to realize their potential as beasts of burden and war, and have long bred them in captivity, fielding them in Sauron's war against the lands of Gondor."
+"Requiert : Grand Atelier de siège Niveau 3 \n Fort contre les structures et la cavalerie. \n\n Ces créatures pesantes sont originaires des grandes plaines couvertes de cendres de Gorgoroth, et se nourrissent des racines épaisses qui poussent dans le sol sec de cette terre stérile. Les Orques ont rapidement réalisé leur potentiel en tant que bêtes de somme et de guerre, et les ont longtemps élevées en captivité, en les faisant combattre dans la guerre de Sauron contre les terres du Gondor."
 END
 CONTROLBAR:ToolTipBuildMordorSiegeTower
-"Requires Level 2 Great Siege Works \n Allows infantry units to scale castle walls \n \n Constructed by Mordor's slaves using wood, iron and stone, Siege towers advance steadily toward enemy fortifications, looking to overwhelm their defenders."
+"Requiert : Grand Atelier de siège Niveau 2 \n Une tour roulante constituée d'échaffaudages grossiers en bois et protégée par des peaux de bête. \n Deux Trolls poussent la tour sur le champ de bataille jusqu'aux murailles ennemies, où elle permet aux troupes du Mordor d'assaillir les ramparts."
 END
 CONTROLBAR:ToolTipBuildMordorCatapult
-"Requires Level 2 Great Siege Works \n Strong vs. Structures \n\n These vile contraptions rain down death and terror upon the Dark Lord's enemies."
+"Requiert : Grand Atelier de siège Niveau 2 \n Les Catapultes du Mordor sont conçues pour réduire en cendres les places fortes des Gens Libres. Elles peuvent tout aussi bien servir contre les rangs de soldats ennemis, car les rochers colossaux qu'elles projettent broient aisément la chair et les os. \n\n Forts contre les structures. \n Limitées à 6 unités seulement."
 END
 CONTROLBAR:ToolTipBuildMordorCatapultWotR
-"Strong vs. Structures \n\n These vile contraptions rain down death and terror upon the Dark Lord's enemies."
+"Fort contre les structures\n\nCes odieuses machines déversent la mort et la terreur sur les ennemis du Seigneur des Ténèbres."
 END
 CONTROLBAR:ToolTipBuildMordorGrond
-"Requires Level 3 Siege Works and Gothmog\n Extremely Strong vs. Structures \n Can't cross bridges \n \n This giant battering ram was named after the Hammer of the Underworld - Morgoth's weapon of choice. No gate can hope to stand against it."
+"Requiert : Grand Atelier de siège Niveau 3 ainsi que Gothmog. \n Ce bélier géant a été nommé d'après le Marteau des Enfers, l'arme de choix de Morgoth. Aucune porte ne peut espérer lui résister. \n\n Extrêmement forts contre les structures."
 END
 CONTROLBAR:ToolTipBuildMordorBannerOrc
-"Requires Level 2 Orcish Stronghold \n Upgrades a horde to Level 2"
+"Requiert : Bastion des Orques Niveau 2 \n Améliore une horde au niveau 2."
 END
 
 //MORDOR HEROES
 CONTROLBAR:ToolTipBuildWitchKing
-"Recruit the First of the Nine \n \n 'Send forth all legions. Do not stop the attack until the city is taken. Slay them all.'"
+"Recrutez le Premier des Neuf, le chef des Nazgûls. \n Le Roi-sorcier est le plus puissant et le plus redouté des Nazgûls. Premier parmi les lieutenants de Sauron, c'est un stratège accompli ainsi qu'un mage redoutable, et sa silhouette encapuchonnée engoncée dans son armure sème la terreur partout où il se rend. Rares sont ceux à pouvoir se mesurer à lui sur le champ de bataille, et au cours des âges, il a été l'instrument de la peur qu'inspire le Maître des Ténèbres. \n\n 'Envoyez toutes les légions. Ne cessez l'assaut que lorsque la cité sera prise... Tuez-les tous.'"
 END
 CONTROLBAR:MordorWitchKingOnFellBeastRecruit
-"Recruit the First of the Nine \n \n 'Send forth all legions. Do not stop the attack until the city is taken. Slay them all.'"
+"Recrutez le Premier des Neuf, le chef des Nazgûls. \n Le Roi-sorcier est le plus puissant et le plus redouté des Nazgûls. Premier parmi les lieutenants de Sauron, c'est un stratège accompli ainsi qu'un mage redoutable, et sa silhouette encapuchonnée engoncée dans son armure sème la terreur partout où il se rend. Rares sont ceux à pouvoir se mesurer à lui sur le champ de bataille, et au cours des âges, il a été l'instrument de la peur qu'inspire le Maître des Ténèbres. \n\n 'Envoyez toutes les légions. Ne cessez l'assaut que lorsque la cité sera prise... Tuez-les tous.'"
 END
 CONTROLBAR:MordorWitchKingOnFellBeastRevive
-"Revive the fallen Hero, the Witch-king of Angmar"
+"Rappelez le Roi-Sorcier à la vie"
 END
 CONTROLBAR:MordorWitchKingOnFellBeastHotkey
-"The Witch-king of Angmar (&G)"
+"Le Roi-Sorcier d'Angmar (&G)"
 END
 
 CONTROLBAR:AdvAngmarWitchKingHotkey
-"The Witch-king of Angmar (&S)"
+"Le Roi-Sorcier d'Angmar (&S)"
 END
 
 
@@ -17804,7 +17804,7 @@ END
 //"Gothmog"
 //END
 CONTROLBAR:ToolTipBuildNazgulOnFellBeast		
-"Recrutez une Ombre Ailée"				
+"Recrutez une Ombre Ailée"					
 END
 CONTROLBAR:MordorFellBeastRecruit			
 "Recrutez une Ombre Ailée"				
@@ -18612,65 +18612,65 @@ END
 
 CONTROLBAR:GamlingMount
 //"Monter / Descendre (&R)"  Removed hotkey for HD
-"Mount / Dismount"
+"Monter / Descendre"
 END
 
 CONTROLBAR:ThranduilNewMount
 //"Elvenking "
-"Elvenking (&W)"
+"Roi Elfe (&W)"
 END
 
 CONTROLBAR:ThranduilNewMountTooltip
 //"Passive: Provides +50% armour to nearby units \n Activate: Left click to switch between \n mounted on Elk and on foot"
-"Modifier Type: Leadership \n Allies near Thranduil gain +50% armour\n\nModifier Type: Level\nAt Level 7, Thranduil dons his armour,\npermanently gaining +25% armour\n\nLeft click to switch between \n mounted on Great Elk and on foot"
+"Type de modificateur : Leadership\nLes alliés près de Thranduil bénéficient d'une armure accrue de +50 %.\n\nType de modificateur : Niveau\nAu niveau 7, Thranduil revêt son armure, gagnant de façon permanente une armure accrue de +25 %.\n\nCliquez gauche pour passer entre\nmonté sur un Grand Élan et à pied."
 END
 
 CONTROLBAR:ToolTipThranduilFavor_Campaign
-"Requires Level 7 \nGrants  Sindarin Armour to units in radius \n Sindarin Armour: grants an additional +20% armour to units\n \n Left click on icon then left click on target own units"
+"Requiert : Niveau 7 \n Accorde l'Armure Sindarine aux unités dans le rayon. \n Armure Sindarine : fournit +20% d'Armure supplémentaire aux unités. \n Se cumulte avec le Charisme, les Bonus et les Sorts. \n\n Clic gauche sur l'icône puis clic gauche sur les unités ciblées."
 END
 
 CONTROLBAR:ToolTipThranduilFavor
-"Requires Level 3\n\nGrants Sindarin Armour to units in radius \n Sindarin Armour: grants an additional +20% armour to units \n Decreased cooldown at levels 5, 7 and 10 \n \n Left click on icon then left click on target own units"
+"Requiert : Niveau 3 \n Accorde l'Armure Sindarine aux unités dans le rayon. \n Armure Sindarine : fournit +20% d'armure supplémentaire aux unités. \n\n Réduit le temps de rechargement aux niveaux 5, 7 et 10. \n Se cumulte avec le Charisme, les Bonus et les Sorts. \n\n Clic gauche sur l'icône puis clic gauche sur les unités ciblées."
 END
 
 CONTROLBAR:ThranduilFavor
-"Love of Silver and Jewels (&R)"
+"Amour de l'Argent et des Bijoux (&R)"
 END
 
 CONTROLBAR:GlorfindelNewMount
-"Mount Asfaloth / Dismount (&W)"
+"Monter / Descendre d'Asfaloth (&W)"
 END
 
 CONTROLBAR:GlorfindelNewMountTooltip
-"Left click to switch between \n mounted on Asfaloth and on foot"
+"Clic gauche pour alterner entre monter sur Asfaloth et être à pieds."
 END
 
 CONTROLBAR:TheodenNewMount
-"Mount Snowmane / Dismount (&R)"
+"Monter / Descendre de Crins-de-Neige (&R)"
 END
 
 CONTROLBAR:TheodenNewMountTooltip
-"Left click to switch between \n mounted on Snowmane and on foot"
+"Clic gauche pour alterner entre monter sur Crins-de-Neige et être à pieds."
 END
 
 CONTROLBAR:EomerNewMount
-"Mount Firefoot / Dismount (&T)"
+"Monter / Descendre de Pied-Ardent (&T)"
 END
 
 CONTROLBAR:EomerNewMountTooltip
-"Left click to switch between \n mounted on Firefoot and on foot"
+"Clic gauche pour alterner entre monter sur Pied-Ardent et être à pieds."
 END
 
 CONTROLBAR:TheodredNewMount
-"Mount Brego / Dismount (&W)"
+"Monter / Descendre de Brego (&W)"
 END
 
 CONTROLBAR:TheodredNewMountTooltip
-"Left click to switch between \n mounted on Brego and on foot"
+"Clic gauche pour alterner entre monter sur Brego ou être à pieds."
 END
 
 CONTROLBAR:ToolTipTheodenMount
-"Left click to mount horse \n +25% armour vs. Footmen and Cavalry \n -50% armour vs. Archers and Pikes \n 100% more damage from archers and spearmen"
+"Clic gauche pour monter à cheval. \n +25% d'armure contre les Fantassins et la Cavalerie. \n -50% d'armure contre les Archers et les Piquiers. \n +100% de dégâts reçus des Archers et des Piquiers."
 END
 
 CONTROLBAR:EowynMount
@@ -18683,7 +18683,7 @@ END
 
 CONTROLBAR:SuladanMount
 //"Monter / Descendre (&W)"
-"The Black Serpent (&W)"
+"Le Serpent Noir (&W)"
 END
 
 CONTROLBAR:SuladanMountTooltip
@@ -19235,7 +19235,7 @@ CONTROLBAR:EomerMount
 END
 
 CONTROLBAR:ToolTipEomerMount
-"Left click to mount horse \n+25% armour vs. Footmen and Cavalry \n-50% armour vs. Archers and Pikes\n100% more damage from archers and spearmen"
+"Clic gauche pour monter ou descendre de cheval.\n +25% armure contre les fantassins et les cavaliers.\n -50% armure contre les archers et les piquiers.\n Archers et piquiers infligent 100% de dégâts en plus."
 END
 
 CONTROLBAR:IstariLight
@@ -19247,7 +19247,7 @@ CONTROLBAR:ToolTipIstariLight
 END
 
 CONTROLBAR:ToolTipIstariLightTiered
-"Requires Level 5 \n Beam of light that damages enemies \n Bonus vs. Balrogs and Nazgûl \nDeals increased damage at Level 7\nDeals damage in an increased radius and knocks back enemy units at Level 9\n Left click icon then left click on target"
+"Requiert le niveau 5\nUn faisceau de lumière qui inflige des dégâts aux ennemis\nBonus contre les Balrogs et les Nazgûl\nInflige des dégâts accrus au niveau 7\nInflige des dégâts dans un rayon accru et repousse les unités ennemies au niveau 9\nCliquez sur l'icône, puis cliquez gauche sur la cible."
 END
 
 CONTROLBAR:GandalfPrepareForBattle
@@ -19255,11 +19255,11 @@ CONTROLBAR:GandalfPrepareForBattle
 END
 
 CONTROLBAR:ToolTipGandalfPrepareForBattle
-"Requires Level 3 \n Modifier Type: Spell \n Gandalf gains +25% damage and +50% armour for 30 seconds\nNearby allied units become immune to debuffs and knockback for 30 seconds\nNearby Gondor structures recruit units 50% faster for 60 seconds\nLeft click to activate"
+"Requiert le niveau 3\nType de modificateur : Sort\nGandalf gagne +25 % de dégâts et +50 % d'armure pendant 30 secondes\nLes unités alliées à proximité deviennent immunisées contre les affaiblissements et les repoussions pendant 30 secondes\nLes structures du Gondor à proximité recrutent des unités 50 % plus rapidement pendant 60 secondes\nCliquez gauche pour activer."
 END
 
 CONTROLBAR:ToolTipGandalfPrepareForBattleCampaign
-"Requires Level 4 \n Modifier Type: Spell \n Gandalf gains +25% damage and +50% armour for 30 seconds\nNearby allied units become immune to debuffs and knockback for 30 seconds\nNearby structures recruit units 50% faster for 60 seconds\nLeft click to activate"
+"Requiert le niveau 4\nType de modificateur : Sort\nGandalf gagne +25 % de dégâts et +50 % d'armure pendant 30 secondes\nLes unités alliées à proximité deviennent immunisées contre les affaiblissements et les repoussions pendant 30 secondes\nLes structures à proximité recrutent des unités 50 % plus rapidement pendant 60 secondes\nCliquez gauche pour activer."
 END
 
 CONTROLBAR:LightningSword
@@ -19267,19 +19267,19 @@ CONTROLBAR:LightningSword
 END
 
 CONTROLBAR:ToolTipLightningSword
-"Requires Level 2 \n Shoots out lightning bolts from Gandalf's sword \n Left click icon then left click on target"
+"Requiert : Niveau 2 \n De son épée Glamdring, Gandalf fait apparaître de puissants éclairs qui frappent ses ennemis dans la zone. \n\n Clic gauche sur l'icône puis clic gauche sur la zone cible."
 END
 
 CONTROLBAR:ToolTipLightningSwordBotFA
-"Requires Level 3 \n Shoots out lightning bolts from Gandalf's sword \n Left click icon then left click on target"
+"Requiert le niveau 3\nTire des éclairs de l'épée de Gandalf\nCliquez sur l'icône, puis cliquez gauche sur la cible."
 END
 
 CONTROLBAR:ToolTipRivendellLightningSword
-"Shoots out lightning bolts from Gandalf's sword \n Left click icon then left click on target"
+"Lance des éclairs depuis l'épée de Gandalf. \n\n Clic gauche sur l'icône puis clic gauche sur la zone ciblée."
 END
 
 CONTROLBAR:ToolTipFellowshipLightningSword
-"Shoots out lightning bolts from Gandalf's sword \n Left click icon then left click on target"
+"Lance des éclairs depuis l'épée de Gandalf. \n\n Clic gauche sur l'icône puis clic gauche sur la zone ciblée."
 END
 
 CONTROLBAR:ThrowSpear
@@ -19287,11 +19287,11 @@ CONTROLBAR:ThrowSpear
 END
 
 CONTROLBAR:SuladanSpearThrow
-"Severing Strike (&R)"
+"Frappe Sévère (&R)"
 END
 
 CONTROLBAR:ToolTipSeveringStrike
-"A single sword strike that deals strong damage to unit or hero\nIf a targeted enemy dies from Severing Strike, nearby Harondor units gain +33% damage for 30 seconds\nAt rank 3, target enemy takes damage over time and is slowed by -33% for 30 seconds\nAt rank 6, damage of initial strike is increased\nLeft click then left click target"
+"Une attaque d'épée unique qui inflige des dégâts importants à une unité ou à un héros\nSi un ennemi ciblé meurt à cause de l'Attaque de Séparation, les unités Harondor à proximité gagnent +33% de dégâts pendant 30 secondes\nAu rang 3, l'ennemi ciblé subit des dégâts sur la durée et est ralenti de -33% pendant 30 secondes\nAu rang 6, les dégâts de l'attaque initiale sont augmentés\nCliquez gauche, puis cliquez gauche sur la cible."
 END
 
 CONTROLBAR:HornofGondor
@@ -19304,55 +19304,55 @@ END
 
 CONTROLBAR:CaptainofGondor
 //"Wizard's Pupil"
-"Proud, Stubborn, Strong (&V)"
+"Fier, Têtu, Fort" (&V)"
 END
 
 CONTROLBAR:CaptainofGondorF
-"Faramir's Quality (&C)"
+"La Qualité de Faramir (&C)"
 END
 
 CONTROLBAR:FaramirSummonLeadership
-"Captain of Ithilien (&C)"
+"Capitaine de l'Ithilien (&C)"
 END
 
 CONTROLBAR:ToolTipFaramirSummonLeadership
-"Requires Level 3 \n Faramir calls a group of Rangers and one of their lieutenants to defend targeted location. They are immobile, but remain stealthed and will attack any enemy that approaches.\n At level 7, summons a larger group of Rangers\n Left click icon then left click on pathable location \n\n Modifier Type: Leadership \n Ithilien Rangers near Faramir gain +15% armour, damage and range and earn experience 33% faster\n Passive ability"
+"Requiert : Niveau 3 \n Faramir appelle un groupe de Rôdeurs pour défendre la zone. Ils sont immobiles mais restent furtifs et attaquent tout ennemi qui s'approche. \n\n Clic gauche sur l'icône puis clic gauche sur une zone praticable. \n\n Type d'Action : Charisme.\n Au niveau 7, invoque un petit bataillon de rangers \n Les Rangers Ithilien proches de Faramir gagnent +15% d'armure, +15% de portée et gagnent de l'expérience 50% plus rapidement (bonus cumulable). \n\n Capacité passive."
 END
 
 CONTROLBAR:ToolTipCampaignFaramirSummonLeadership
-"Requires Level 3 \n Faramir calls a group of Rangers to defend targeted location. They are immobile, but remain stealthed and will attack any enemy that approaches. \n Left click icon then left click on pathable location \n\n Modifier Type: Leadership \n Ithilien Rangers near Faramir gain +15% armour, damage and range and earn experience 33% faster\nPassive ability"
+"Requiert : Niveau 3 \n Faramir appelle un groupe de Rôdeurs pour défendre l'endroit visé. Ils sont immobiles, mais restent furtifs et attaquent tout ennemi qui s'approche. \n\n Clic gauche sur l'icone puis clic gauche sur une zone praticable. \n\n Type d'Action : Charisme. \n Les Rangers Ithilien proches de Faramir gagnent +15% d'armure, +15% de portée et gagnent de l'expérience 50% plus rapidement (bonus cumulable). \n\n Capacité passive."
 END
 
 CONTROLBAR:FaramirAmbushAbility
-"Hidden Volley (&R)"
+"Attaque Surprise (&R)"
 END
 
 CONTROLBAR:ToolTipFaramirAmbushAbility
-"Faramir calls his rangers to bombard anywhere within a great radius with a volley of arrows \n At Level 5 gains +50% damage and increased radius \n Left click icon then left click on target area"
+"Faramir fait appel à ses Rôdeurs embusqués pour tirer une volée de flèches n'importe où. \n\n Au niveau 5, cette capacité gagne +50% dégâts et sa zone d'effet est augmentée. \n\n Clic gauche sur l'icône puis clic gauche sur la zone cible."
 END
 
 CONTROLBAR:FaramirDesperateCharge
-"Desperate Charge (&R)"
+"Charge Désespérée (&R)"
 END
 
 CONTROLBAR:ToolTipFaramirDesperateCharge
-"Required: Rank 5\n Faramir gains +100% resistance to ranged attacks and pike damage for 15 seconds \n Left click to activate"
+"Requiert : Niveau 5 \n Faramir gagne +100% résistance aux attaques à distance et aux dégâts des piquiers pendant 15 secondes. \n\n Clic gauche pour l'activer."
 END
 
 CONTROLBAR:FaramirWarSpeech
-"War Speech"
+"Discours de Guerre"
 END
 
 CONTROLBAR:ToolTipFaramirWarSpeech
-"Requires Level 10 \n Nearby troops gain leadership bonus \n Passive ability"
+"Requiert : Niveau 10 \n Bonus de Charisme aux troupes proches. \n\n Capacité passive."
 END
 
 CONTROLBAR:FaramirKnightRanger
-"Knight/Ranger Toggle (&T)"
+"Chevalier / Rôdeur (&T)"
 END
 
 CONTROLBAR:ToolTipFaramirKnightRanger
-"Requires Level 3 \n Switch between Knight and Ranger modes \n left click to activate"
+"Requiert : Niveau 3 \n Alterne entre les modes Chevalier et Rôdeur. \n\n Clic gauche pour passer à pieds ou à cheval."
 END
 
 CONTROLBAR:CampaignToggleMount
@@ -19439,7 +19439,7 @@ CONTROLBAR:DarkEloquence
 END
 
 CONTROLBAR:Disguise
-"D&isguise"
+"Déguisement"
 END
 
 CONTROLBAR:Smite
@@ -19447,98 +19447,98 @@ CONTROLBAR:Smite
 END
 
 CONTROLBAR:ShieldMaiden
-"Shie&ld Maiden"
+"Damoiselle protectrice"
 END
 
 CONTROLBAR:ToggleTrebWeapon
-"Bombard (&R)"
+"Bombarder (&R)"
 END
 
 CONTROLBAR:ToggleRhunWeapon
-"Bombard (&T)"
+"Bombarder (&T)"
 END
 
 CONTROLBAR:ToolTipToggleTrebWeapon
-"Left click to automatically fire at enemies"
+"Cliquez pour attaquer auto. l'ennemi."
 END
 
 CONTROLBAR:NoAutoAcquire
-"Halt Auto Acquire (&W)"
+"Arrêter tir automatique (&W)"
 END
 
 CONTROLBAR:NoAutoAcquireRhun
-"Halt Auto Acquire (&R)"
+"Arrêter tir automatique (&R)"
 END
 
 CONTROLBAR:ToolTipNoAutoAcquire
-"Left click to not fire automatically"
+"Clic gauche pour interrompre le tir automatique."
 END
 
 CONTROLBAR:AutoAcquire
-"Auto Acquire (&W)"
+"Tir automatique (&W)"
 END
 
 CONTROLBAR:AutoAcquireRhun
-"Auto Acquire (&R)"
+"Tir automatique (&R)"
 END
 
 CONTROLBAR:ToolTipAutoAcquire
-"Left click to automatically fire at enemies"
+"Clic gauche pour attaquer automatiquement l'ennemi."
 END
 
 
 CONTROLBAR:ConstructRohanPeasant
-"Peasants (&E)"
+"Paysans du Rohan (&E)"
 END
 
 CONTROLBAR:ToolTipBuildRohanPeasant
-"Can be drafted \n\n Horde Bonus \n Modifier Type: Spell \n All Peasants gain +25% damage and +25% armour when gathered in numbers of 60 or more\n\n The Riddermark depended on its peasants to work the fields - only in times of great need could they be levied to serve their king in battle."
+"Peuvent être enrôlés. \n\n Horde Bonus \n Type d'action : Sort. \n Tous les paysans gagnent +25% de dégâts et +25% d'armure quand ils se regroupent à 60 et plus. \n Bonus cumulatif. \n\n Le Riddermark dépendait de ses paysans pour travailler les champs - ce n'est qu'en cas de grand besoin qu'ils pouvaient être perçus pour servir leur Roi au combat."
 END
 
 CONTROLBAR:ToolTipBuildRohanPeasantDrafted
-"Strong vs. Pikemen\n\nHorde Bonus \n Modifier Type: Spell \n All Peasants gain +25% damage and +25% armour when gathered in numbers of 60 or more\n \n The Riddermark depended on its peasants to work the fields - only in times of great need could they be levied to serve their king in battle."
+"Fort contre les Lanciers\n\nBonus de horde\nType de modificateur : Sort\nTous les Paysans gagnent +25 % de dégâts et +25 % d'armure lorsqu'ils sont réunis en un nombre de 60 ou plus\n\nLe Riddermark dépendait de ses paysans pour cultiver les champs - seulement en cas de grand besoin pouvaient-ils être réquisitionnés pour servir leur roi au combat."
 END
 
 CONTROLBAR:ToolTipSpecialAbilityDwarfToss
-"Throws Gimli among the enemy"
+"Lance Gimli parmi l'ennemi"
 END
 
 CONTROLBAR:TooltipSwoopAttack
-"Dives through a group of units"
+"Plonge sur un groupe d'ennemis"
 End
 
 CONTROLBAR:SplitHorde
-"Split horde"
+"Séparer horde"
 End
 
 CONTROLBAR:TooltipSplitHorde
-"Split combo horde"
+"Sépare une horde de plusieurs unités"
 End
 
 CONTROLBAR:GarrisonExit
-"Evacuate"
+"Sortir"
 END
 
 CONTROLBAR:ToolTipStructureExit
 // context: Appears when you mouse over the Evacuate cameo on any garrisonable structure
-"Order this unit to exit"
+"Ordonne à l'unité de sortir."
 END
 
 CONTROLBAR:ToolTipTransportExit
 // context: Appears when you mouse over the Evacuate cameo on any transport
-"Order this unit to exit"
+"Ordonne à l'unité de sortir."
 END
 
 CONTROLBAR:ToolTipGarrisonEvacuate
-"Order all units to evacuate"
+"Ordonne à toutes les unités de sortir."
 END
 
 CONTROLBAR:TransportEvacuate
-"E&vacuate"
+"Évacuer"
 END
 
 CONTROLBAR:ToolTipEvacuate
-"Order all units to exit"
+"Ordonne à toutes les unités de sortir."
 END
 
 CONTROLBAR:ToolTipRailedTransport
@@ -19546,63 +19546,63 @@ CONTROLBAR:ToolTipRailedTransport
 END
 
 CONTROLBAR:ToolTipGuard
-"Guard a specific location. Pursue targets if necessary"
+"Monte la garde et poursuit les ennemis si nécessaire"
 END
 
 CONTROLBAR:ToolTipGuardUnit
-"Guard another unit"
+"Protège une autre unité"
 END
 
 CONTROLBAR:ToolTipGuardWithoutPursuit
-"Guard a specific location. Do not pursue targets."
+"Monte la garde, mais ne poursuit pas les ennemis"
 END
 
 CONTROLBAR:ToolTipGuardFlyingUnitsOnly
-"Attack airborne units within range"
+"Attaque les unités aériennes à portée"
 END
 
 CONTROLBAR:TooltipSpawnOrcs
-"Spawn orcs from the ground"
+"Fait sortir des Orques de la terre"
 END
 
 CONTROLBAR:TooltipRainOfFire
-"Fire rains from the sky"
+"Le feu tombe du ciel"
 END
 
 CONTROLBAR:RepairStructure
-"Repair S&tructure"
+"Réparer la structure"
 END
 
 CONTROLBAR:ToolTipRepairStructure
-"Repair a damaged building \n Left click icon then right click on target"
+"Réparer une structure. \n\n Clic gauche sur l'icône puis clic droit sur la cible."
 END
 
 CONTROLBAR:DeployMine
-"Deploy Mine (&W)"
+"Déployer la charge (&W)"
 END
 
 CONTROLBAR:ToolTipDeployMine
-"Deploy a powerful explosive"
+"Déployez un puissant explosif."
 END
 
 CONTROLBAR:ToolTipAttackMove
 // context: Appears when you mouse over the Attack Move cameo on all units
-"Attack all the enemies encountered en route to the destination."
+"Attaque tous les ennemis rencontrés en chemin."
 END
 
 CONTROLBAR:ToolTipCommandStop
 // context: Appears when you mouse over the Stop cameo on all units
-"Stop"
+"Interrompt l'action."
 END
 
 CONTROLBAR:ToolTipWayPoints
 // context: Appears when you mouse over the Waypoint cameo on all units
-"Click to set waypoints"
+"Cliquez pour établir des points de passage"
 END
 
 CONTROLBAR:ToolTipCancelConstruction
 // context: Appears when you mouse over the Cancel Construction cameo on any structure currently being built
-"Cancel construction"
+"Annule la construction"
 END
 
 CONTROLBAR:ArwenMount
@@ -19614,37 +19614,37 @@ CONTROLBAR:GlorfindelMount
 END
 
 CONTROLBAR:ToolTipArwenMount
-"Left click to mount horse"
+"Clic gauche pour monter à cheval"
 END
 
 
 // stealth messages
 // context: One of *my* units has just uncovered a stealth *enemy* unit
 MESSAGE:StealthDiscovered
-"Enemy stealth unit discovered."
+"Unité ennemie cachée repérée"
 END
 
 MESSAGE:StealthNeutralized
 // context: One of *my* stealth units has just been unvocered by an *enemy* unit
-"Stealth ability neutralized."
+"Capacité de furtivité neutralisée"
 END
 
 // comment: Thing Template Display Names, These are generated based off the name of the object and are used for the mouse over tooltips in the game world
 
 ThingTemplate:EuropeanTowerBridge01
-"Bridge"
+"Pont"
 END
  
 ThingTemplate:BridgeTowerConcreteRight02
-"Bridge"
+"Pont"
 END
 
 ThingTemplate:IndustrialBridgeTower01
-"Bridge"
+"Pont"
 END
 
 ThingTemplate:Crypt01
-"Crypt"
+"Crypte"
 END
 
 // NEW INTERFACE ADDITIONS
@@ -19652,29 +19652,29 @@ END
  
 TOOLTIP:Campaign1
 // context: tooltip for the campaign button located on the main menu
-"Campaign 1"
+"Campagne 1"
 END
  
 TOOLTIP:Campaign2
 // context: tooltip for the campaign button located on the main menu
-"Campaign 2"
+"Campagne 2"
 END
  
 TOOLTIP:Campaign3
 // context: tooltip for the campaign button located on the main menu
-"Campaign 3"
+"Campagne 3"
 END
  
 GUI:InternetDisconnectionMenuHeader
-"Disconnection Menu" 
+"Deconnection Menu" 
 END
  
 GUI:InternetDisconnectionMenuHeaderCaps
-"DISCONNECTION MENU"
+"DECONNECTION MENU"
 END
  
 APT:DisconnectRules
-"One or more players has disconnected from the game. The player(s) may return to continue play; however it is possible that the player(s) are attempting to circumvent proper win/loss ladder reporting. If you wish to file a grievance, click on the 'Report Cheaters' link within the game ladder web page"
+"Un ou plusieurs joueurs se sont déconnectés du jeu. Le(s) Joueur(s) peut revenir pour continuer le jeu; cependant il est possible que le(s) joueur(s) tentent de contourner le bon rapport d'échelle victoire/défaite. Si vous souhaitez déposer un grief, cliquez sur le lien 'Signaler les tricheurs' dans la page web de l'échelle de jeu"
 END
 
 GUI:InternetDisconnectionMenuBody2
@@ -19684,64 +19684,62 @@ END
 
 GUI:Setup
 // context: Button on the Quickmatch Screen that will show the setup options
-"SETUP"
+"CONFIGURATION"
 END
  
 GUI:PlayerInfo
 // context: Button on the QUickmatch Screen that will show the player info
-"PLAYER INFO"
+"INFO JOUEUR"
 END
  
 GUI:Persona
 // context: Button to go to the stats window
-"PERSONA"
+"STATISTIQUES"
 END
  
 
 GUI:TextureLow
 //context: Set the level of quality for the textures to Low Quality
-"Low Quality (faster)"
+"Basse Qualité (plus rapide)"
 END
 
 GUI:GameSpeed
 //context: Options setting to control the speed of the game
-"Game Speed:"
+"Vitesse du Jeu:"
 END
 
 GUI:SlowGameSpeed
 //context: Slow setting for the Game Speed Control
-"Slow"
+"Lent"
 END
 
 GUI:MediumGameSpeed
 //context: Medium setting for the Game Speed Control
-"Medium"
+"Moyen"
 END
 
 GUI:FastGameSpeed
-//context: Fast setting for the Game Speed Control
-"Fast"
+"Rapide"
 END
 
 GUI:FetchingPlayerInfo
-// context: on the player info screen, we are waiting for info from the server.  This must be short.
-"Updating..."
+"Mise à Jour..."
 END
 
 
 GUI:GameTypeScenario 
 // context: GameType Combo box on quickmatch screen
-"Scenario"
+"Scénario"
 END
 
 GUI:GameTypeHeadToHead 
 // context: GameType Combo box on quickmatch screen
-"Head to Head"
+"Face à Face"
 END
 
 GUI:TooltipNoMoreCommandPoints
 //displayed in game to notify player when they have reached their //command point limit
-"Command Point Limit has Been Reached"
+"Points de commandement épuisés"
 END
 
 
@@ -20548,15 +20546,15 @@ END
 
 
 GUI:AgeFailedTitle
-"Age Requirement Notice"
+"Age minimum requis !"
 END
 
 GUI:AgeFailed
-"You must be 13 years of age or older to play this game online."
+"Vous devez être âgé d'au moins 13 ans pour jouer en ligne."
 END
 
 GUI:AdditionalLocalizationManagement
-"Additional Localization Management"
+"Responsable localisation supplémentaire"
 END
 
 APT:PalantirResources
@@ -20572,8 +20570,7 @@ APT:PalantirCommandPoints
 END
 
 APT:RankLabel
-// Context: On hero UI, it is the value of the hero's rank
-"Level: %d"
+"Niveau : %d"
 END
 
 TOOLTIP:LadderRankUnavailable
@@ -20582,11 +20579,11 @@ TOOLTIP:LadderRankUnavailable
 END
 
 APT:1v1RankLabel
-"1v1 Rank"
+"Niveau 1 contre 1"
 END
 
 APT:2v2RankLabel
-"2v2 Rank"
+"Niveau 2 contre 2"
 END
 
 APT:HeroRank
@@ -20611,108 +20608,93 @@ END
 
 APT:PalantirTimeRemaining
 // Context: Used to label the timer progress bar in the palantir for selected objects with time limited lifespans
-"Time Remaining"
+"Temps restant"
 END
 
 APT:LivingWorldRegionDefendedNotice
 // Context: Used to display the name of the region just 'defended' in the living world
-"%s defended!"
+"%s défendu(e) !"
 END
 
 APT:LivingWorldRegionTakenNotice
-// Context: Used to display the name of the region just 'taken' in the living world
-"%s taken!"
+"%s pris(e) !"
 END
 
 APT:LivingWorldRegionEscapedNotice
-// Context: Used to display the name of the region just 'escaped' in the living world
-"Escaped %s!"
+"Fuite %s !"
 END
 
 APT:LivingWorldRegionSavedSamAndFrodoNotice
-// Context: Used to display the 'Saved Sam and Frodo' notice in the living world
-"Saved Sam and Frodo!"
+"Sam et Frodon sauvés !"
 END
 
 APT:LivingWorldRegionFrodoFoundNotice
-// Context: Used to display the 'Frodo found' notice in the living world
-"Frodo found!"
+"Frodon trouvé !"
 END
  
 
 APT:LivingWorldRegionFoundTheOneRingNotice
 // Context: Used to display the 'Found the One Ring' notice in the living world
-"Found the One Ring!"
+"Anneau Unique trouvé !"
 END
 
 APT:LivingWorldRegionConqueredNotice
-// Context: Used to display the name of the region just conquered in the living world
-"%s conquered!"
+"%s conquis(e) !"
 END
 
 GUI:GOLD_DISCOUNT
-// Context: used to display upgrade discount modifier in palantir
-"Gold Bonus -%d%%"
+"Bonus or\n-%d%%"
 END
 
 GUI:PORTERDiscount
-// Context: used to display upgrade discount modifier in palantir
-"Upgrade cost -%d%%"
+"Coût des\naméliorations -%d%%"
 END
 
 GUI:INFANTRYDiscount
-// Context: used to display infantry discount modifier in palantir
-"Infantry cost -%d%%"
+"Coût de\nl'infanterie -%d%%"
 END
 
 GUI:MONSTERDiscount
-// Context: used to display infantry discount modifier in palantir
-"Monster Unit cost -%d%%"
+"Coût des\nmonstres -%d%%"
 END
 
 GUI:MACHINE_DISCOUNT
-// Context: used to display Dwarven machine discount modifier in palantir
-"Machine cost -%d%%"
+"Coût des engins\nde siège -%d%%"
 END
 
 GUI:FOOD_DISCOUNT
-// Context: used to display cavalry discount modifier in palantir
-"Food Bonus -%d%%"
+"Bonus nourriture\n-%d%%"
 END
 
 GUI:FRUIT_DISCOUNT
 // Context: used to display cavalry discount modifier in palantir
-"Fruit Bonus -%d%%"
+"Bonus Fruit\n-%d%%"
 END
 
 GUI:GAME_DISCOUNT
-// Context: used to display cavalry discount modifier in palantir
-"Game Bonus -%d%%"
+"Bonus de Jeu -%d%%"
 END
 
 GUI:WINE_DISCOUNT
-// Context: used to display cavalry discount modifier in palantir
-"Wine Bonus -%d%%"
+"Bonus de Vin -%d%%"
 END
 
 GUI:CAVALRYMONSTERDiscount
-// Context: used to display cavalry discount modifier in palantir
-"Food Bonus -%d%%"
+"Bonus nourriture\n : -%d%%"
 END
 
 GUI:STEEL_DISCOUNT
-// Context: used to display cavalry discount modifier in palantir
-"Steel Bonus -%d%%"
+"Bonus d'acier\n-%d%%"
 END
 
 GUI:CARAVAN_DISCOUNT
 // Context: used to display cavalry discount modifier in palantir
-"Capitalist Bonus -%d%%"
+"Bonus capitaliste -%d%%"
 END
 
 GUI:ARKENSTONE_DISCOUNT
 // Context: used to display cavalry discount modifier in palantir
-"Arkenstone Bonus -%d%%"
+"Bonus Arkenstone -%d%%"
 END
 
 GUI:ARKENSTONE_DISCOUNT_HIDDEN
@@ -20720,171 +20702,163 @@ GUI:ARKENSTONE_DISCOUNT_HIDDEN
 END
 
 GUI:ARTISAN_DISCOUNT
-// Context: used to display cavalry discount modifier in palantir
+
 "Artisan Bonus -%d%%"
 END
 
 GUI:CultureDiscount
-// Context: used to display infantry discount modifier in palantir
-"Culture Bonus -%d%%"
+"Bonus récoltes\n-%d%%"
 END
 
 GUI:HeroismDiscount
-// Context: used to display infantry discount modifier in palantir
-"Heroism Bonus -%d%%"
+"Bonus d'Héroisme -%d%%"
 END
 
 
 GUI:HERO_DISCOUNT
-// Context: used to display cavalry discount modifier in palantir
-"Hero Bonus -%d%%"
+"Coût des\nhéros -%d%%"
 END
 
 GUI:WOOD_DISCOUNT
 // Context: used to display cavalry discount modifier in palantir
-"Wood Bonus -%d%%"
+"Bonus de bois\n-%d%%"
 END
 
 GUI:WATER_DISCOUNT
-// Context: used to display cavalry discount modifier in palantir
-"Clean Water\nBonus -%d%%"
+"Bonus d'eau -%d%%"
 END
 
 GUI:IrrigationBonus
-// Context: used to display cavalry discount modifier in palantir
+
 "Irrigation\nBonus +20%"
 END
 
 GUI:UPGRADE_DISCOUNT
-// Context: used to display the upgrade discount modifier in the palantir
-"Upgrade Bonus -%d%%"
+"Coût des amélioration\ndes troupes -%d%%"
 END
 
 GUI:FEANOR_DISCOUNT
-"Feanor Bonus -%d%%"
+"Bonus Féanor -%d%%"
 END
 
 GUI:STOCK_DISCOUNT
-// Context: used to display the upgrade discount modifier in the palantir
-"Stock Bonus -%d%%"
+"Bonus de réserve -%d%%"
 END
 
 GUI:UPGRADEEVIL_DISCOUNT
-// Context: used to display the upgrade discount modifier in the palantir
-"Surplus Bonus -%d%%"
+"Bonus de surplus -%d%%"
 END
 
 GUI:WILDUPGRADEEVIL_DISCOUNT
 // Context: used to display the upgrade discount modifier in the palantir
-"Treasure Bonus -%d%%"
+"Bonus trésor -%d%%"
 END
 
 GUI:STRUCTURE_WALL_DISCOUNT
 // Context: used to display the structure/wall discount modifier in the palantir
-"Structure/Wall Bonus -%d%%"
+"Coût des structures\net murs -%d%%"
 END
 
 GUI:GondorFighterHordeGondorArcherHordeGondorTowerShieldGuardHordeGondorRangerHordeDiscount
-"Water Bonus -%d%%"
+"Bonus d'eau\n-%d%%"
 END
 
 GUI:STONE_DISCOUNT
-"Stone Bonus -%d%%"
+"Bonus de pierre\n-%d%%"
 END
 
 GUI:UNITDiscount
-// Context: used to display infantry discount modifier in palantir
-"Unit cost -%d%%"
+"Coût de l'unité\n-%d%%"
 END
 
 GUI:UnitBuildTime
-"Unit Build Time -%d%%"
+"Temps de construction\nde l'unité -%d%%"
 END
 
 
 GUI:Slaughter_Discount
-"Decommission \n Bonus +%d%%"
+"Désaffectation\nBonus +%d%%"
 END
 
 GUI:Corsair_Discount
-"Corsair Discount -%d%%"
+"Réduction corsaire\n-%d%%"
 END
 
 ///SCORE SCREENS
 APT:YourArmy
-"Your Army"
+"Votre armée"
 END
 
 APT:Survived
-"Survived"
+"A survécu"
 END
 
 APT:TotalVictory
-"Total Victory"
+"Victoire totale"
 END
 
 APT:TotalVictoryCaps
-"TOTAL VICTORY"
+"VICTOIRE TOTALE"
 END
 
 APT:VictoryCaps
-"VICTORY"
+"VICTOIRE"
 END
 
 APT:SurvivedCaps
-"SURVIVED"
+"A SURVECU"
 END
 
 APT:FirstTrained
-"First Trained"
+"Premier entraînement"
 END
 
 APT:UnitCurrentLevel
-"Unit Current Level"
+"Niveau Unité Actuel"
 END
 
 APT:MissionEnemiesVanquished
-"Mission Enemies Vanquished"
+"Mission Ennemis Vaincus"
 END
 
 APT:CampaignEnemiesVanquished
-"Campaign Enemies Vanquished"
+"Campagne Ennemis Vaincus"
 END
 
 APT:MissionsCompleted
-"Missions Completed"
+"Missions terminé"
 END
 
 APT:BattleStats
-"BATTLE STATISTICS"
+"BATAILLE STATISTIQUES"
 END
 
 APT:BonusObjectives
-"BONUS OBJECTIVES"
+"OBJECTIFS BONUS"
 END
 
 APT:HeroVeterancy
-"HERO EXPERIENCE"
+"HEROS EXPERIENCE"
 END
 
 APT:UnitVeterancy
-"UNIT EXPERIENCE"
+"UNITE EXPERIENCE"
 END
 
 APT:TerritoryBonus
-"TERRITORY BONUS"
+"BONUS TERRITOIRE"
 END
 
 APT:TotalScore
-"Total Score"
+"Score total"
 END
 
 APT:Rating
-"Rating"
+"Evaluation"
 END
 
 APT:Victory
-"Victory"
+"Victoire"
 END
 
 // Time formatting for time line screen. Format uses "s" for seconds, "m" for minutes, "h" for hours and "d" for days. Don't repeat letters (like "mm").
@@ -20899,46 +20873,46 @@ END
 
 // Time formatting for time line screen. Format uses "s" for seconds, "m" for minutes, "h" for hours and "d" for days. Don't repeat letters (like "mm").
 APT:TimeDaysHoursMinute
-"d:h:m"
+"j:h:m"
 END
 
 // Textual description of time format set above by APT:TimeMinuteSecond
 APT:TimeDescriptionMinuteSecond
-"Minutes:Seconds"
+"Minutes: secondes"
 END
 
 // Textual description of time format set above by APT:TimeHoursMinute
 APT:TimeDescriptionHoursMinute
-"Hours:Minutes"
+"Heures : minutes"
 END
 
 // Textual description of time format set above by APT:TimeDaysHoursMinute
 APT:TimeDescriptionDaysHoursMinute
-"Days:Hours:Minutes"
+"Jours : heures : minutes"
 END
 
 APT:Units
-"Units"
+"Unités"
 END
 
 APT:Resources
-"Resources"
+"Ressources"
 END
 
 APT:Territories
-"Territories"
+"Territoires"
 END
 
 APT:FinalScore
-"Final Score"
+"Score final"
 END
 
 APT:Standings
-"Standings"
+"Classement"
 END
 
 APT:TotalTime
-"Total Time"
+"Durée totale"
 END
 
 APT:Fortress
@@ -20946,23 +20920,23 @@ APT:Fortress
 END
 
 APT:Defeated
-"Defeated"
+"Vaincu"
 END
 
 APT:Disconnected
-"Disconnected"
+"Déconnecté"
 END
 
 APT:Timeline
-"Timeline"
+"Temps"
 END
 
 APT:TimelineCaps
-"TIMELINE"
+"TEMPS"
 END
 
 APT:UnitsTab
-"UNITS"
+"UNITES"
 END
 
 APT:StructuresTab
@@ -20970,428 +20944,398 @@ APT:StructuresTab
 END
 
 APT:ResourcesTab
-"RESOURCES"
+"RESSOURCES"
 END
 
 APT:TerritoriesTab
-"TERRITORIES"
+"TERRITOIRES"
 END
 
 APT:FinalScoreTab
-"FINAL SCORE"
+"SCORE FINAL"
 END
 
 APT:Skip
-//Button name in Timeline screen
-"SKIP"
+"PASSER"
 END
 
 APT:More
-//Button name in Timeline screen
-"MORE"
+"PLUS"
 END
 
 APT:Stat
-//Column header in Timeline-Stats screen
-"Stat"
+"Stats"
 END
 
 ///////////////////////////////////////////////////////////////////
 // Timeline and Persistent stats 
 
 STAT:RTS_SESSION_LENGTH
-"Session Length"
+"Durée de la session"
 END
 
 STAT:RTS_STRUCTURES_CREATED
-"Structures Created"
+"Structures construites"
 END
 
 STAT:RTS_STRUCTURES_LOST
-"Structures Lost"
+"Structures perdues"
 END
 
 STAT:RTS_STRUCTURES_DESTROYED
-"Structures Destroyed"
+"Structures détruites"
 END
 
 STAT:RTS_FORTRESSES_BUILT
-"Fortresses Built"
+"Citadelles bâties"
 END
 
 STAT:RTS_UNITS_CREATED
-"Units Created"
+"Unités créées"
 END
 
 STAT:RTS_UNITS_LOST
-"Units Lost"
+"Unités perdues"
 END
 
 STAT:RTS_UNIT_KILL_DEATH_RATIO
-"Unit Kill/Death Ratio"
+"Rapport élimination /\n Perte d'unités"
 END
 
 STAT:RTS_UNITS_KILLED
-"Units Killed"
+"Unités tuées"
 END
 
 
 STAT:RTS_MAXIMUM_INCOME_RATE_PER_MINUTE
-"Max income rate per minute"
+"Taux de revenus max/min"
 END
 
 STAT:RTS_TOTAL_RESOURCES_GATHERED
-"Resources Gathered"
+"Ressources collectées"
 END
 
 STAT:RTS_MONEY_GIVEN_TO_ALLIES
-"Money given to allies"
+"Argent donné aux alliés"
 END
 
 STAT:RTS_MONEY_RECEIVED_FROM_ALLIES
-"Money received from allies"
+"Argent reçu des alliés"
 END
 
 STAT:RTS_RESOUCES_SPENT_ON_STRUCTURES
-"Resources spent on Structures"
+"Ressources dépensées\n en structures"
 END
 
 STAT:RTS_RESOUCES_SPENT_ON_UNITS
-"Resources spent on Units"
+"Ressources dépensées en unités"
 END
 
 STAT:RTS_RESOUCES_SPENT_ON_HEROES
-"Resources spent on Heroes"
+"Ressources dépensées en héros"
 END
 
 STAT:RTS_TIME_SPENT_TO_REACH_LAST_SPELL_LEVEL
-"Time to reach last power level"
+"Temps pour atteindre le dernier niveau de pouvoir"
 END
 
 STAT:RTS_STRATEGIC_SKILL
-"Strategic Skill"
+"Compétence stratégique"
 END
 
 STAT:RTS_TACTICAL_SKILL
-"Tactical Skill"
+"Compétence tactique"
 END
 
 STAT:RTS_TIME_SPENT_TO_BUILD_FIRST_HERO
-"Elapsed time before first Hero was built"
+"Temps écoulé avant recrutement\n du premier héros"
 END
 
 STAT:RTS_TIMES_EACH_HERO_WAS_PURCHASED
-"Number of times each Hero was purchased"
+"Nombre de recrutements de votre héros"
 END
 
 STAT:RTS_HEROES_BUILT
-"Heroes Built"
+"Héros recrutés"
 END
 
 STAT:RTS_HEROES_LOST
-"Heroes Lost"
-END
-
-STAT:PERSIST_CURRENT_WIN_STREAK
-"Current win streak"
-END
-
-STAT:PERSIST_CURRENT_LOSS_STREAK
-"Current loss streak"
-END
-
-STAT:PERSIST_LONGEST_WIN_STREAK
-"Longest win streak"
-END
-
-STAT:PERSIST_WORST_LOSS_STREAK
-"Worst loss streak"
-END
-
-STAT:PERSIST_CAREER_LOSSES
-"Career losses"
-END
-
-STAT:PERSIST_CAREER_WINS
-"Career wins"
-END
-
-STAT:PERSIST_WIN_LOSS_RATIO
-"Win loss ratio"
-END
-
-STAT:PERSIST_TOTAL_GAMES_PLAYED
-"Total games played"
-END
-
-STAT:PERSIST_AVERAGE_GAME_LENGTH
-"Average game length"
-END
-
-STAT:PERSIST_LONGEST_GAME_LENGTH
-"Longest game length"
-END
-
-STAT:PERSIST_SHORTEST_GAME_LENGTH
-"Shortest game length"
-END
-
-STAT:PERSIST_TOTAL_TIME_PLAYED
-"Total time played"
-END
-
-STAT:PERSIST_FACTION_MOST_SUCCESSFUL_AGAINST
-"Faction most successful against"
-END
-
-STAT:PERSIST_FACTION_LEAST_SUCCESSFUL_AGAINST
-"Faction least successful against"
+"Héros perdus"
 END
 
 STAT:PERSIST_FAVORITE_UNIT_TO_BUILD 
-"Favorite unit to build "
+"Unité favorite à entraîner"
 END
 
 STAT:PERSIST_FAVORITE_HERO_TO_BUILD
-"Favorite Hero to build"
+"Héros favori à recruter"
 END
 
 STAT:PERSIST_STRATEGIC_TACTICAL_BATTLES_WON
-"Tactical battles won"
+"Batailles tactiques gagnées"
 END
 
 STAT:STRATEGIC_RTS_TIME
-"RTS Time"
+"Temps STR"
 END
 
 STAT:STRATEGIC_NON_RTS_TIME
-"Time in Living World"
+"Temps passé dans le monde\n en temps réel"
 END
 
 STAT:PERSIST_STRATEGIC_TURNS_PLAYED
-"Turns played"
+"Tours joués"
+END
+
+STAT:PERSIST_WIN_LOSS_RATIO
+"Rapport parties gagnées/perdues"
+END
+
+STAT:PERSIST_TOTAL_GAMES_PLAYED
+"Parties jouées"
+END
+
+STAT:PERSIST_AVERAGE_GAME_LENGTH
+"Temps de jeu moyen"
+END
+
+STAT:PERSIST_LONGEST_GAME_LENGTH
+"Partie la plus longue"
+END
+
+STAT:PERSIST_SHORTEST_GAME_LENGTH
+"Partie la plus courte"
+END
+
+STAT:PERSIST_TOTAL_TIME_PLAYED
+"Temps total de jeu"
+END
+
+STAT:PERSIST_FACTION_MOST_SUCCESSFUL_AGAINST
+"Faction plus efficace contre"
+END
+
+STAT:PERSIST_FACTION_LEAST_SUCCESSFUL_AGAINST
+"Faction moins efficace contre"
+END
+
+STAT:PERSIST_FAVORITE_UNIT_TO_BUILD 
+"Unité favorite à entraîner"
+END
+
+STAT:PERSIST_FAVORITE_HERO_TO_BUILD
+"Héros favori à recruter"
+END
+
+STAT:PERSIST_STRATEGIC_TACTICAL_BATTLES_WON
+"Batailles tactiques gagnées"
+END
+
+STAT:STRATEGIC_RTS_TIME
+"Temps STR"
+END
+
+STAT:STRATEGIC_NON_RTS_TIME
+"Temps passé dans le monde\n en temps réel"
+END
+
+STAT:PERSIST_STRATEGIC_TURNS_PLAYED
+"Tours joués"
 END
 
 STAT:PERSIST_STRATEGIC_MOST_TURNS_PLAYED
-"Most turns in a game"
+"Partie avec le plus de tours"
 END
 
 STAT:PERSIST_STRATEGIC_TACTICAL_BATTLES_LOST
-"Tactical battles lost"
+"Batailles tactiques perdues"
 END
 
 STAT:PERSIST_STRATEGIC_AUTO_RESOLVE_BATTLES_PLAYED
-"Auto resolve battles played"
+"Batailles auto-résolues jouées"
 END
 
 STAT:PERSIST_STRATEGIC_AUTO_RESOLVE_BATTLES_WON
-"Auto resolve battles won"
+"Batailles auto-résolues gagnées"
 END
 
 STAT:PERSIST_STRATEGIC_AUTO_RESOLVE_BATTLES_LOST
-"Auto resolve battles lost"
+"Batailles auto-résolues perdues"
 END
 
 STAT:PERSIST_STRATEGIC_REGIONS_WON
-"Territories won"
+"Territoires gagnés"
 END
 
 STAT:PERSIST_STRATEGIC_REGIONS_LOST
-"Territories lost"
+"Territoires perdus"
 END
 
 STAT:PERSIST_STRATEGIC_TERRITORIES_WON
-"Regions won"
+"Régions gagnées"
 END
 
 STAT:PERSIST_STRATEGIC_TERRITORIES_LOST
-"Regions lost"
+"Régions perdues"
 END
 
 STAT:STRATEGIC_TURNS_PLAYED
 // End of War of the ring game
-"Turns Played"
+"Tours joués"
 END
 
 STAT:STRATEGIC_STRUCTURES_CREATED_RTS
 // End of War of the Ring game
-"Structures Created - RTS"
+"Structures créées : STR"
 END
 
 STAT:STRATEGIC_STRUCTURES_LOST_RTS
 // End of War of the Ring game
-"Structures Lost - RTS"
+"Structures perdues :\ntemps réel"
 END
 
 STAT:STRATEGIC_STRUCTURES_LOST_AUTORESOLVE
 // End of War of the Ring game
-"Structures Lost - World Map"
+"Structures perdues :\ncarte du monde"
 END
 
 STAT:STRATEGIC_STRUCTURES_DESTROYED_RTS
 // End of War of the Ring game
-"Structures Destroyed - RTS"
+"Structures perdues :\ntemps réel"
 END
 
 STAT:STRATEGIC_STRUCTURES_DESTROYED_AUTORESOLVE
 // End of War of the Ring game
-"Structures Destroyed - World Map"
+"Structures détruites :\ncarte du monde"
 END
 
 STAT:STRATEGIC_FORTRESSES_BUILT
-// End of War of the Ring game
-"Fortresses Built"
+"Citadelles construites"
 END
 
 STAT:STRATEGIC_FARMS_BUILT
-// End of War of the Ring game
-"Farms Built"
+"Fermes construites"
 END
 
 STAT:STRATEGIC_ARMORIES_BUILT
-// End of War of the Ring game
-"Armouries Built"
+"Armureries construites"
 END
 
 STAT:STRATEGIC_BARRACKS_BUILT
-// End of War of the Ring game
-"Barracks Built"
+"Casernes construites"
 END
 
 STAT:STRATEGIC_UNITS_CREATED
-// End of War of the Ring game
-"Units Created"
+"Unités créées"
 END
 
 STAT:STRATEGIC_UNITS_LOST
-// End of War of the Ring game
-"Units Lost"
+"Unités perdues"
 END
 
 STAT:STRATEGIC_UNIT_KILL_DEATH_RATIO
 // End of War of the Ring game
-"Unit Kill/Death Ratio"
+"Taux d'unités tuées/mortes"
 END
 
 STAT:STRATEGIC_UNITS_LOST_AUTORESOLVE
-// End of War of the Ring game
-"Units Lost - Auto-Resolve"
+"Unités perdues - Auto-Resolve"
 END
 
 STAT:STRATEGIC_UNITS_KILLED_RTS
-// End of War of the Ring game
-"Units Killed - RTS"
+"Unités tuées - RTS"
 END
 
 STAT:STRATEGIC_UNITS_KILLED_AUTORESOLVE
-// End of War of the Ring game
-"Units Killed - Auto-Resolve"
+"Unités tuées : auto-résolution"
 END
 
 STAT:STRATEGIC_RTS_BATTLES_WON
-// End of War of the Ring game
-"RTS Battles Won"
+"Batailles en temps réel\ngagnées"
 END
 
 STAT:STRATEGIC_RTS_BATTLES_LOST
-// End of War of the Ring game
-"RTS Battles Lost"
+"Batailles en temps réel\nperdues"
 END
 
 STAT:STRATEGIC_RTS_BATTLES_WIN_LOSS_RATIO
-// End of War of the Ring game
-"RTS Battles Win/Loss Ratio"
+"Taux de victoires\ndéfaites\nen temps réel"
 END
 
 STAT:STRATEGIC_AUTORESOLVED_BATTLES_WON
 // End of War of the Ring game
-"Auto-resolved Battles Won"
+"Batailles auto-résolues\ngagnées"
 END
 
 STAT:STRATEGIC_AUTORESOLVED_BATTLES_LOST
-// End of War of the Ring game
-"Auto-resolved Battles Lost"
+"Batailles auto-résolues\nperdues"
 END
 
 STAT:STRATEGIC_REGIONS_CONQUERED
-// End of War of the Ring game
-"Regions Conquered"
+"Régions conquises"
 END
 
 STAT:STRATEGIC_REGIONS_LOST
-// End of War of the Ring game
-"Regions Lost"
+"Régions perdues"
 END
 
 STAT:STRATEGIC_TERRITORIES_CONQUERED
-// End of War of the Ring game
-"Territories Conquered"
+"Territoires conquis"
 END
 
 STAT:STRATEGIC_TERRITORIES_LOST
-// End of War of the Ring game
-"Territories Lost"
+"Territoires perdus"
 END
 
 
 STAT:PERSIST_STRUCTURES_CREATED
 // Persitent WorR stat
-"Structures created"
+"Structures construites"
 END
 
 STAT:PERSIST_STRUCTURES_LOST
-// Persitent WorR stat
-"Structures lost"
+"Structures perdues"
 END
 
 STAT:PERSIST_STRUCTURES_DESTROYED
-// Persitent WorR stat
-"Structures destroyed"
+"Structures détruites"
 END
 
 STAT:PERSIST_UNITS_CREATED
-// Persitent WorR stat
-"Units created"
+"Unités créées"
 END
 
 STAT:PERSIST_UNITS_LOST
-// Persitent WorR stat
-"Units lost"
+"Unités perdues"
 END
 
 STAT:PERSIST_UNIT_KILL_DEATH_RATIO
-// Persitent WorR stat
-"Unit kill death ratio"
+"Taux d'unités tuées/mortes"
 END
 
 STAT:PERSIST_UNITS_KILLED
-// Persitent WorR stat
-"Units killed"
+"Unités tuées"
 END
 
 STAT:PERSIST_TOTAL_RESOURCES_GATHERED
-// Persitent WorR stat
-"Total resources gathered"
+"Total ressources collectées"
 END
 
 STAT:PERSIST_STRATEGIC_SKILL
 // Persitent WorR stat
-"Strategic skill"
+"Compétence stratégique"
 END
 
 STAT:PERSIST_TACTICAL_SKILL
-// Persitent WorR stat
-"Tactical skill"
+"Compétence tactique"
 END
 
 STAT:PERSIST_HEROES_BUILT
-// Persitent WorR stat
-"Heroes built"
+"Héros recrutés"
 END
 
 STAT:PERSIST_HEROES_LOST
-// Persitent WorR stat
-"Heroes lost"
+"Héros perdus"
 END
 
 
@@ -21400,47 +21344,47 @@ END
 
 
 APT:Results
-"Results"
+"Résultats"
 END
 
 APT:Hero
-"Hero"
+"Héros"
 END
 
 APT:RestartGame
-"Restart Game"
+"Recommencer la partie"
 END
 
 APT:Continue
-"CONTINUE"
+"CONTINUER"
 END
 
 APT:UnitsTrained
-"Units Trained"
+"Unités créées"
 END
 
 APT:BuildingConstructed
-"Buildings Constructed"
+"Bâtiments construits"
 END
 
 APT:SupplyCollected
-"Resources Collected"
+"Ressources collectées"
 END
 
 APT:PowerPointEarned
-"Power Points Earned"
+"Points de pouvoir obtenus"
 END
 
 APT:EnemiesKilled
-"Enemy Units Destroyed"
+"Unités ennemies détruites"
 END
 
 APT:EnemyBuildingDestroyed
-"Enemy Buildings Destroyed"
+"Bâtiments ennemis détruits"
 END
 
 APT:TimeBonus
-"Time Bonus"
+"Bonus temps"
 END
 
 APT:Total
@@ -21448,23 +21392,23 @@ APT:Total
 END
 
 APT:HerosGainingRank
-"Heroes Gaining Level"
+"Héros gagnant niveau"
 END
 
 APT:UnitGainingRank
-"Unit Gaining Level"
+"Unités gagnant niveau"
 END
 
 APT:CommandPoints
-"Command Points"
+"Points de commandement"
 END
 
 APT:PowerPoints
-"Power Points"
+"Points de Pouvoir"
 END
 
 APT:ResourceMultiplier
-"Resource Multiplier"
+"Multiplicateur de ressources"
 END
 
 
@@ -21482,17 +21426,15 @@ END
 
 APT:SpellStoreTitle
 // Context: Title placed at the top of the screen when the spell store is open
-"Powers"
+"Pouvoirs"
 END
 
 APT:SpellStoreSpellPointsLabel
-// Context: Label for the spell purchase points in the spell store
-"POWER POINTS TO SPEND:"
+"PTS DE POUVOIR DISPO :"
 END
 
 APT:ExitSpellStore
-// Context: Text label for the spell store exit button
-"CLOSE"
+"SORTIR"
 END
 
 APT:SpellHelpText
@@ -21514,96 +21456,94 @@ APT:None
 END
 
 APT:DisplayOptions
-"Display Options"
+"Options d'affichage"
 END
 
 APT:Resolution
-"Resolution"
+"Résolution"
 END
 
 APT:Detail
-"Detail"
+"Détail"
 END
 
 APT:WarnHighGraphicSettings
-"Increasing graphic setting above the default may cause performance problems on your machine."
+"Choisir des paramètres graphiques plus élevés que ceux par défaut pourrait entraîner des problèmes de performance sur votre ordinateur."
 END
 
 APT:WarnHighGraphicResolution
-"Increasing graphic resolution above the default may cause performance problems on your machine."
+"Choisir une résolution graphique plus élevée que ceux par défaut pourrait entraîner des problèmes de performance sur votre ordinateur."
 END
 
 APT:WarnHighGraphicDetail
-"Increasing any graphic detail above the default may cause performance problems on your machine."
+"Choisir des détails graphiques plus élevés que ceux par défaut pourrait entraîner des problèmes de performance sur votre ordinateur."
 END
 
 
 APT:Warning
-"Warning"
+"Attention"
 END
 
 
 APT:Brightness
-"Brightness"
+"Luminosité"
 END
 
 APT:Advanced
-"Advanced Details"
+"Paramètres graphiques avancés"
 END
 
 APT:RotateMapWithPlayer
-"Rotate mini-map with camera"
+"Faire pivoter la mini-carte avec la caméra"
 END
 
 APT:Default
-"RESET TO DEFAULTS"
+"PAR DEFAUT"
 END
 
 APT:Controls
-"Controls"
+"Commandes"
 END
 
 APT:ScrollSpeed
-"Scroll Speed"
+"Vitesse de défilement"
 END
 
 APT:AlternativeMouseSetUp
-"Alternate Mouse Setup"
+"Autre configuration souris"
 END
 
 APT:Networking
-"Networking"
+"Réseau"
 END
 
 Apt:GameLobby
 // context: Title for Lan lobby screen
-"OPEN PLAY LOBBY"
+"SALLE DE JEU PUBLIQUE"
 END
 
 APT:onlineRegister
-"REGISTER"
+"S'INSCRIRE"
 END
 
 APT:OnlineDeleteNickname
-"DELETE NICKNAME"
+"SUPPRIMER PSEUDO"
 END
 
 GUI:SureDeleteNickname
-// context - delete an existing nickname on online login screen.
-"Are you sure you wish to delete this nickname?"
+"Voulez-vous vraiment supprimer ce pseudo ?"
 END
 
 APT:OnlineRefresh
-// Context: Refresh button to refresh online games list.
-"REFRESH NOW"
+"RAFRAICHIR"
 END
 
 APT:OnlineIP
-"Online IP"
+"IP en ligne"
 END
 
 APT:PortNum
-"Port Number"
+"Numéro de port"
 END
 
 APT:PortNumHelp
@@ -21611,188 +21551,182 @@ APT:PortNumHelp
 END
 
 APT:Firewall
-"Firewall"
+"Pare-feu"
 END
 
 APT:SendDelay
-"Send Delay"
+"Délai d'envoi"
 END
 
 APT:RefreshNat
 //context: for the Options (online) screen button
-"REFRESH NAT"
+"ACTUALISER NAT"
 END
 
 APT:DisplayForeignLanguage
-"Display Foreign Language"
+"Afficher langue étrangère"
 END
 
 APT:TurnOffMessengerInGame
-"Turn Off Messenger in game"
+"Désactiver messagerie pendant jeu"
 END
 
 APT:FilterLanguage
-"Filter Language"
+"Filtre Langue"
 END
 
 APT:AudioControls
-"Audio Controls"
+"Options audio"
 END
 
 APT:Music
-"Music"
+"Musique"
 END
 
 APT:SoundFx
-"Sound FX"
+"Effets sonores"
 END
 
 APT:Voice
-"Voice"
+"Voix"
 END
 
 APT:Ambient
-"Ambient"
+"Ambiance"
 END
 
 APT:Movie
-"Movie"
+"Film"
 END
 
 APT:AudioType
-"Audio Type"
+"Type audio"
 END
 
 APT:EAX3
-"EAX3"
+"EAX 3"
 END
 
 APT:Eax3NotSupported
-"Your soundcard is not EAX3 compatible"
+"Votre carte son n'est pas compatible avec EAX 3"
 END
 
 APT:HighAudioQuality
-// Context: Check box indicating if we should use best quality audio.
-"High Audio Quality"
+"Qualité son élevée"
 END
 
 APT:ErrorEAX3On
-// Context: Error message displayed when a user checks the EAX3 box on, but the EAX3 provider cannot be turned on
-// DO NOT REMOVE THE \n. \n is the 'new line' control character
-// Not final text
-"Could not initialize EAX3. Please check the following:\nYour sound card fully supports EAX3\nYour sound card is properly connected and operating properly\nYou have the latest sound drivers\nReverting to software 3D support"
+"Initialisation EAX 3 impossible. Raisons probables :\n Votre carte son ne prend pas en charge la technologie EAX 3.\n Votre carte son est peut-être mal connectée ou endommagée.\n Vous n'avez pas les derniers pilotes pour votre carte son.\n Rétablissement du son 3D."
 END
 
 APT:ErrorEAX3Off
-// Context: Error message displayed when a user checks the EAX3 box OFF, but there was an error (unlikely)
-// Not final text
-"Error switching 3D sound providers."
+"Erreur : changement de config. son 3D impossible."
 END
 
 APT:AcceptChanges
-"ACCEPT CHANGES"
+"ACCEPTER CHANG."
 END
 
 APT:ResetSettings
-"RESET SETTINGS"
+"EFFACER PARAM."
 END
 
 APT:CustomGraphics
-"CUSTOM GRAPHICS"
+"PERSONNALISER AFFICHAGE"
 END
 
 APT:Graphics
 //Subheader for graphics settings presets in Settings screen
-"Graphics"
+"Graphismes"
 END
 
 APT:ToggleOptionsInfo
-"TOGGLE OPTIONS INFO"
+"AFFICHER INFOS"
 END
 
 APT:AnisotropicTextureFiltering
-"Anisotropic Texture Filtering"
+"Filtrage anisotrope textures"
 END
 
 APT:TerrainLighting
-"Terrain Lighting"
+"Eclairage terrain"
 END
 
 APT:3DShadows
-"3D Shadows"
+"Ombres 3D"
 END
 
 APT:2DShadows
-"2D Shadows"
+"Ombres 2D"
 END
 
 APT:Clouds
-"Clouds"
+"Nuages"
 END
 
 APT:SmoothWaterBorder
-"Smooth Water Border"
+"Rives adoucies"
 END
 
 APT:ShowProps
-"Show Props"
+"Montrer objets"
 END
 
 APT:ShowAnimations
-"Show Animations"
+"Montrer animations"
 END
 
 APT:HeatEffects
-"Heat Effects"
+"Effets chaleur"
 END
 
 APT:DisableDynamicLOD
-"Dynamic LOD"
+"Niveau détail dynamique"
 END
 
 APT:TextureDetail
-"Texture Detail"
+"Détail textures"
 END
 
 APT:ParticleCap
-"Particle Cap"
+"Particules"
 END
 
 APT:Rank
-"Rank:"
+"Rang :"
 END
 
 APT:PointsColon
-"Points:"
+"Points :"
 END
 
 APT:CurrentLevel
-"Level:"
+"Niveau :"
 END
 
 APT:CurrentLevelFormat
-"Level: %s"
+"Niveau : %s"
 END
 
 APT:CurrentLevelNumFormat
-"Level: %d"
+"Niveau : %d"
 END
 
 APT:CurrentRankStringFormat
-"Current Rank: %s"
+"Niveau actuel : %s"
 END
 
 APT:Ladder
-"Ladder:"
+"Classement :"
 END
 
 
 APT:GamesInProgress
-"Games In Progress"
+"Jeu en Cours"
 END
 
 APT:PlayersOnline
-"Players Online"
+"Joueurs en ligne"
 END
 
 APT:Gondor
@@ -21800,15 +21734,15 @@ APT:Gondor
 END
 
 APT:Men
-"Gondor"
+"Hommes"
 END
 
 APT:Wild
-"Wild"
+"Sauvage"
 END
 
 APT:Dwarves
-"Dwarves"
+"Nains"
 END
 
 APT:Rohan
@@ -21840,85 +21774,83 @@ APT:MordorCaps
 END
 
 APT:MenCaps
-"MEN"
+"HOMMES"
 END
 
 APT:WildCaps
-"WILD"
+"SAUVAGE"
 END
 
 APT:DwarvesCaps
-"DWARVES"
+"NAINS"
 END
 
 APT:ArmyWinPercentages
-"ARMY WIN PERCENTAGES"
+"POURCENTAGES VICTOIRES ARMEE"
 END
 
 APT:CommunityWinPercentages
-//context: online home title for section with the four armies win percentages... used to be Army Win Percentages
-"COMMUNITY WIN PERCENTAGES"
+"POURCENTAGES VICTOIRES COMMUNAUTE"
 END
 
 APT:PlayerHistory
-"%s's Play History"
+"Historique de %s"
 END
 
 APT:VeryLowResourcesNum
-"Very Low"
+"Très peu"
 END
 
 APT:LowResourcesNum
-"Low"
+"Peu"
 END
 
 APT:MediumResourcesNum
-"Medium"
+"Moyen"
 END
 
 APT:HighResourcesNum
-"High"
+"Beaucoup"
 END
 
 APT:VeryHighResourcesNum
-"Very High"
+"Enormément"
 END
 
 APT:SkirmishSetup
-"SKIRMISH SETUP"
+"CONFIGURATION"
 END
 
 APT:SkirmishProfileCreated
-"Skirmish Profile Created"
+"Profil escarmouche crée"
 END
 
 APT:SkirmishProfileCreatedColon
-"Skirmish Profile Created:"
+"Profil escarmouche créé :"
 END
 
 APT:TotalCareerWins
-"Total Career Wins"
+"Nombre total de victoires en carrière"
 END
 
 APT:TotalCareerWinsColon
-"Total Career Wins:"
+"Nombre total de victoires en carrière :"
 END
 
 APT:TotalCareerLosses
-"Total Career Losses"
+"Total des pertes de carrière"
 END
 
 APT:TotalCareerLossesColon
-"Total Career Losses:"
+"Total des pertes de carrière :"
 END
 
 APT:TotalTimePlayed
-// context: On skirmish, number of days and hours user has played with this profile:
-"Total Time Played"
+"Temps total joué"
 END
 
 APT:TotalTimePlayedColon
-"Total Time Played:"
+"Temps total joué :"
 END
 
 
@@ -29042,7 +28974,7 @@ CONTROLBAR:ConstructDwarvenPorter
 END
 
 CONTROLBAR:ToolTipConstructDwarvenPorter
-"Builds structures"
+"Construit des structures."
 END
 
 CONTROLBAR:ToolTipConstructDwarvenPorterWotR
@@ -35561,7 +35493,7 @@ OBJECT:BlueMountainWallSegment
 End
 
 OBJECT:BlueMoutainBridge
-"Bridge"
+"Pont"
 End
 
 OBJECT:CINE_Pine1
@@ -35609,7 +35541,7 @@ OBJECT:Culvert
 End
 
 OBJECT:DaleBridge
-"Bridge"
+"Pont"
 End
 
 OBJECT:DaleBuilding01
@@ -35665,11 +35597,11 @@ OBJECT:DoGoldurWallTowerSmall
 End
 
 OBJECT:DolGoldurBridgeL
-"Bridge"
+"Pont"
 End
 
 OBJECT:DolGoldurBridgeR
-"Bridge"
+"Pont"
 End
 
 OBJECT:DolGoldurCastle
@@ -35701,7 +35633,7 @@ OBJECT:DolGoldurWallSegmentSmall
 End
 
 OBJECT:DolGulBridge
-"Bridge"
+"Pont"
 End
 
 OBJECT:DolGulCatwalk
@@ -36495,7 +36427,7 @@ OBJECT:Marker
 End
 
 OBJECT:MinasMorgalBridge
-"Bridge"
+"Pont"
 End
 
 OBJECT:MinasMorgalGateA
@@ -72132,7 +72064,7 @@ OBJECT:DwarfEreborGate
 "Main Gate"
 END
 OBJECT:DwarfEreborBridge
-"Bridge"
+"Pont"
 END
 OBJECT:DwarfCastleStairs
 "Dwarf Stairway"
