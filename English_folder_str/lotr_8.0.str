@@ -21855,39 +21855,39 @@ END
 
 
 APT:NextLevel
-"Next Level:"
+"Prochain niveau :"
 END
 
 APT:NextLevelMain
-"Next Level:"
+"Prochain niveau :"
 END
 
 APT:NoNextLevel
-"Next Level: --"
+"Prochain niveau : --"
 END
 
 APT:ProfileStats
-"PROFILE STATS"
+"STATS DU PROFIL"
 END
 
 APT:TotalCareerGames
-"Total Career Games"
+"Total parties carrière"
 END
 
 APT:TotalCareerGamesColon
-"Total Career Games:"
+"Total parties carrière :"
 END
 
 APT:Remove
-"REMOVE"
+"SUPPRIMER"
 END
 
 APT:ProfileCreatedColon
-"Profile Created:"
+"Profil créé :"
 END
 
 APT:OverallCareerWinsColon
-"Overall Career Wins:"
+"Victoires carrière générales :"
 END
 
 APT:ProfileCreatedNum
@@ -21895,83 +21895,83 @@ APT:ProfileCreatedNum
 END
 
 APT:OverallCareerLossesColon
-"Overall Career Losses:"
+"Défaites carrières générales :"
 END
 
 APT:CurrentWinStreakColon
-"Current Win Streak:"
+"Série de victoires en cours :"
 END
 
 APT:BestWinStreakColon
-"Best Win Streak:"
+"Meilleure série de victoires :"
 END
 
 APT:CurrentLossStreakColon
-"Current Loss Streak:"
+"Série de défaites en cours :"
 END
 
 APT:WorstLossStreakColon
-"Worst Loss Streak:"
+"Pire série de défaites :"
 END
 
 APT:PlayerNameColon
-"Player Name:"
+"Nom du joueur :"
 END
 
 APT:PlayerNicknameColon
-"Player Nickname:"
+"Pseudo du joueur :"
 END
 
 APT:FavoriteSideColon
-"Favorite Army:"
+"Armée préférée :"
 END
 
 APT:TotalGamesPlayedColon
-"Total Games Played:"
+"Total parties :"
 END
 
 APT:CareerLadderGames1vs1Colon
-"Career Games Played On 1 vs 1 Ladder:"
+"Classement carrières jouées sur 1 contre 1 :"
 END
 
 APT:CareerLadderGames2vs2Colon
-"Career Games Played On 2 vs 2 Ladder:"
+"Classement carrières jouées sur 2 contre 2 :"
 END
 
 APT:HighestRankColon
-"Highest Rank on 1 vs 1 Ladder:"
+"Classement Rang le plus élevé en 1 contre 1 :"
 END
 
 APT:HighestRank2Colon
-"Highest Rank on 2 vs 2 Ladder:"
+"Classement Rang le plus élevé en 2 contre 2 :"
 END
 
 APT:CareerDisconnectsColon
-"Career Disconnects:"
+"Déconnexions de carrière :"
 END
 
 APT:Wins
-"Wins:"
+"Victoires :"
 END
 
 APT:Losses
-"Losses:"
+"Défaites :"
 END
 
 APT:Win
-"Win"
+"Victoire"
 END
 
 APT:Loss
-"Loss"
+"Défaite"
 END
 
 APT:CurrentStreakStrFormat
-"Current %s Streak:"
+"=%s en cours :"
 END
 
 APT:WorstLossStreak
-"Worst Loss Streak"
+"Pire série de défaites"
 END
 
 APT:DashDash
@@ -21979,32 +21979,32 @@ APT:DashDash
 END
 
 APT:NextRankNumFormat
-"Next Level: %d Points"
+"Prochain niveau : %d Points"
 END
 
 APT:NextLevelNumFormat
-"Next Level: %d Points"
+"Prochain niveau : %d Points"
 END
 
 APT:NextLevelNumFormatForOnePoint
-"Next Level: %d Point"
+"Prochain niveau : %d Point"
 END
 
 
 APT:CurrentSide
-"Current Army:"
+"Armée actuelle :"
 END
 
 APT:OFFICIALWEBSITE
-"OFFICIAL WEBSITE"
+"SITE WEB OFFICIEL"
 END
 
 APT:OnlineProfile
-"PLAYER PROFILE"
+"PROFIL JOUEUR"
 END
 
 APT:OnlineEAAccountName
-"T3A Account Name"
+"Nom compte T3A"
 END
 
 
@@ -22018,24 +22018,24 @@ APT:WinsNumFormatForOnePoint
 END
 
 APT:NewProfile
-"CREATE NEW"
+"CREER NOUVEAU"
 END
 
 APT:DeleteProfile
-"DELETE"
+"SUPPRIMER"
 END
 
 APT:ChangeProfile
-"CHANGE"
+"CHANGER"
 END
 
 
 APT:NameAlreadyUsed
-"Profile Already Used"
+"Profil déjà utilisé"
 END
 
 APT:NameAlreadyUsedMessage
-"Please Select A Unique Profile"
+"Sélectionnez un profil unique"
 END
 
 APT:OK
@@ -22043,11 +22043,11 @@ APT:OK
 END
 
 APT:TimePlayed
-"%d D, %d H"
+"%d J, %d H"
 END
 
 APT:ChangePlayerProfile
-"Change Player Profile"
+"Changer de profil joueur"
 END
 
 GUI:TEST
@@ -22056,86 +22056,86 @@ END
 //context:
 
 GUI:AllPlayersMustSelectStartPosition
-"All players must be assigned to a start position."
+"Tous les joueurs doivent avoir une position de départ."
 END
 
 GUI:AllPlayerPositionsMustBeOccupied
-"All player positions must be occupied."
+"Toutes les positions doivent être occupées."
 END
 
 
 SCRIPT:AI_Debug_AttackChange
-"Attack Urgency has changed: "
+"Changement urgence offensive : "
 END
 
 SCRIPT:AI_Debug_AttackUrgency
-"Attack Urgency: "
+"Urgence offensive : "
 END
 
 SCRIPT:AI_Debug_DefenseChange
-"Defense Urgency has changed: "
+"Changement urgence défensive : "
 END
 
 SCRIPT:AI_Debug_DefenseUrgency
-"Defense Urgency: "
+"Urgence défensive : "
 END
 
 SCRIPT:AI_Debug_EconomicUrgency
-"Economic Urgency: "
+"Urgence économique : "
 END
 
 SCRIPT:AI_Faction_Gondor
-"Gondor Player"
+"Joueur Gondor"
 END
 
 SCRIPT:AI_Faction_Rohan
-"Rohan Player"
+"Joueur Rohan"
 END
 
 SCRIPT:AI_Faction_Isengard
-"Isengard Player"
+"Joueur Isengard"
 END
 
 SCRIPT:AI_Faction_Mordor
-"Mordor Player"
+"Joueur Mordor"
 END
 
 SCRIPT:AI_Attack_Launched
-"ATTACK LAUNCHED"
+"ATTAQUE LANCEE"
 END
 
 // context: "MAP EVIL Osgiliath.map" Text
 
 MAP:EvilOsgiliathIntroduction
-"Destroy the forces of Gondor. \n Collect the heads of 100 fallen human warriors."
+"Détruisez les forces du Gondor.\n Ramassez les têtes de 100 guerriers humains."
 END
 
 
 SCRIPT:HeadsCounter
-"Heads Collected: "
+"Têtes ramassées : "
 END
 
 
 // context: objective text for skirmishes
 
 SCRIPT:Skirmish_Build_Base
-"Build up your castle and army."
+"Construisez votre base et votre armée."
 END
 
 SCRIPT:Skirmish_Citadel
-"Select a citadel for Hero options."
+"Sélectionnez une citadelle pour les options de héros."
 END
 
 SCRIPT:Skirmish_Close_Gates
-"Select a gate for the option to close it."
+"Sélectionnez une porte pour l'option Quitter."
 END
 
 SCRIPT:Skirmish_Expand
-"Move units to camp flags to capture them then \n select the flag for the option to build there."
+"Déplacez les unités vers les drapeaux des avant-postes pour les capturer et sélectionnez le drapeau pour l'option Construire ici."
 END
 
 SCRIPT:Skirmish_Defeat_Enemy
-"Destroy all enemy units and buildings to win."
+"Détruisez les unités et bâtiments ennemis pour gagner."
 END
 
 //;SCRIPT:Command Point Counter1
@@ -22152,7 +22152,7 @@ END
 
 APT:SoloPlay
 // context: On main menu, select Solo Player (Single) game
-"SOLO PLAY"
+"SOLO"
 END
 
 APT:Multiplayer
@@ -22167,63 +22167,58 @@ END
 
 APT:Exit
 // context: Button to return from a screen.
-"EXIT"
+"QUITTER"
 END
 
 APT:ExitGameMessage
 //context: the message that comes up when you exit the game from the main menu
-"Thank you for playing"
+"Merci de votre fidélité"
 END
 
 
 APT:CreateGame
 // context: Button to go to the Create a MULTIPLAYER game screen
-"CREATE GAME"
+"Créer une partie"
 END
 
 APT:JoinGame
 // context: Button to join a multiplayer game 
-"JOIN GAME"
+"REJOINDRE PARTIE"
 END
 
 APT:OpenPlayJoinGameTitle
-"JOIN GAME"
+"REJOINDRE"
 END
 
 APT:JoinPassword
 // Context – Title on enter a password when user joins a custom online game
 // that has a password
-"Game Password"
+"Mot passe partie"
 END
 
 APT:CustomGames
-// context: Custom game list for mulitplayer games.
-"GAMES"
+"PARTIES"
 END
 
 APT:ConnectingTitle
-// Headline in online custom game connection dialog
-"Connecting..."
-End
+"Connexion..."
+END
 
 APT:PlayerList
-// context: Show list of players in a multiplayer lobby
-"PLAYERS"
+"JOUEURS"
 END
 
 APT:Email
-// context: Label for user to enter email address on online login screen
+
 "EMAIL"
 END
 
 APT:Nickname
-// context: Label for user to enter online name.
-"Nickname"
+"Pseudo"
 END
 
 APT:NicknameNoCaps
-// context: Label for user to enter lan name
-"Nickname"
+"Pseudo"
 END
 
 APT:Password
@@ -22233,12 +22228,11 @@ END
 
 APT:GamePassword
 // context: Label for user to enter password.
-"Game Password (Optional)"
+"Mot de passe (optionnel)"
 END
 
 APT:Login
-// context: button for user to press to login to online.
-"LOGIN"
+"CONNEXION"
 END
 
 APT:LoginTOS
@@ -22246,324 +22240,288 @@ APT:LoginTOS
 END
 APT:LogoffConfirmationTitle
 // context: Message box title when signing off of BFME Online
-"Log Off Confirmation"
+"Confirmation déconnexion"
 END
 
 
 APT:LogoffConfirmationMsg
-// context: Message to show the user when exiting BFME Online
-"Are you sure you want to log off The Lord of the Rings, The Rise of the Witch-king Online?"
+"Voulez-vous vraiment vous déconnecter de LSDA, L'Avènement du Roi-sorcier en ligne ?"
 END
 
 APT:CreateAccount
-// context: button for user to press to create a new online account
-"CREATE ACCOUNT"
+"CREER COMPTE"
 END
 
 APT:ServiceTerms
-// context: button for user to press to read service terms agreement.
-"SERVICE TERMS"
+"CONDITIONS D'UTILISATION"
 END
 
 APT:LessDetail
-//context: Switch to simple online mode in online home.
-"LESS DETAIL"
-END
-
-APT:Profile
-//context: Select Online Profile from online shell.
-"PROFILE"
+"MOINS DE DETAIL"
 END
 
 APT:MoreDetail
-//context: Switch to Advanced online mode in online home.
-"MORE DETAIL"
+"PLUS DE DETAIL"
 END
 
 APT:Chat
 //context: button to go to chat in online lobby
-"CHAT"
+"DISCUSSION"
 END
 
 APT:GlobalChat
-// format for chat message that goes out to everyone
-"<Global> %s"
+"<Public> %s"
 END
 
 APT:TeamChat
-// format for chat message that goes out to your team
-"<Team> %s"
+"<Equipe> %s"
 END
 
 APT:ObserverChat
-// format for chat message that goes out to observers
-"<Observer> %s"
+"<Observateur> %s"
 END
 
 APT:SelfChat
-// format for chat message that goes out to yourself
-"<Self> %s"
+"<Individuel> %s"
 END
 
 APT:PrivateChat
-// format for chat message that goes out to the selected people.
-"<Private> %s"
+"<Privé> %s"
 END
 
 APT:OpenPlay
-//context: button to go to CustomMatch in LAN
-"OPEN PLAY"
+"PARTIE OUVERTE"
 END
 
 APT:Tournament
-//context: Tab to see tournament mode.
-"TOURNAMENT"
+"TOURNOI"
 END
 
 APT:Strategic
-"WAR OF THE RING"
+"GUERRE DE L'ANNEAU"
 END
 
 APT:WarOfTheRing
-"WAR OF THE RING"
+"GUERRE DE L'ANNEAU"
 END
 
 APT:WarOfTheRingLobby
-"WAR OF THE RING LOBBY"
+"GUERRE DE L'ANNEAU"
 END
 
 APT:ScenarioDescription
-"Scenario Description"
+"Description du scénario"
 END
 
 APT:TerritoryDescription
-"Territory Description"
+"Description du territoire"
 END
 
 APT:BattleType
 // Rules for MP game
-"Battle Type"
+"Type de bataille"
 END
 
 APT:AutoResolveType
 // Rules for MP game
-"Auto Resolve Type"
+"Afficher Auto-résolution"
 END
 
 APT:TurnClockTime
-"Turn Clock Time"
+"Durée du tour"
 END
 
 APT:TotalTurns
-"Total Turns"
+"Total tours"
 END
 
 APT:VictoryCondition
-"Victory Condition"
+"Condition de victoire"
 END
 
 APT:EnemyArmyInfo
-"Enemy Army Info"
+"Infos armée ennemie"
 END
 
 APT:FogOfWar
-"Fog of War"
+"Brouillard de guerre"
 END
 
 APT:OpenPlayLobbyTitle
-"OPEN PLAY LOBBY"
+"PARTIE OUVERTE"
 END
 
 APT:StrategicLobbyTitle
-"WAR OF THE RING LOBBY"
+"GUERRE DE L'ANNEAU"
 END
 
 
 APT:SortGameName
 //context: name for button that sorts game names in Open Play
-"GAME NAME"
+"NOM PARTIE"
 END
  
 APT:SortGameType
-//context: name for button that sorts gametype in Open Play
-"GAME TYPE"
+"TYPE PARTIE"
 END
- 
+
 APT:SortNumPlayers
-//context: name for button that sorts players in Open Play
-"PLAYERS"
+"JOUEURS"
 END
- 
+
 APT:SortPing
-//context: name for button that sorts ping in Open Play
+
 "PING"
 END
- 
+
 APT:MutePlayer
-//context: name of title for in game Player Status list
-"MUTE"
+"SILENCE"
 END
- 
+
 APT:QuickMatch
-//context: button to go to QuickMatch in online lobby
-"TOURNAMENT"
+"TOURNOI"
 END
 
 APT:Searching
-//context: title of popup in quick match that searches for players
-"SEARCHING"
+"RECHERCHE..."
 END
 
 APT:SearchingForPlayersMessage
-//context: message for popup in quick match that searches for players
-"Searching for hobbitses..."
+"Recherche de joueurs..."
 END
 
 APT:WidenSearch
 //context: text for widen search button in popup
-"WIDEN SEARCH"
+"ELARGIR RECHERCHE"
 END
 
 APT:PlayersFound
-//context: title of popup in quick match
-"PLAYERS FOUND"
+"JOUEURS TROUVES"
 END
 
 APT:PlayersFoundMessage
-"Hooray, Hobbitses! Players have been found!"
+"Hourra ! On a trouvé des joueurs !"
 END
 
 APT:OfficialSite
-//context: button to go to WebSite in online lobby
-"OFFICIAL WEB SITE"
+"SITE OFFICIEL"
 END
 
 APT:Friends
-//context: Online Chat, show friends in player list.
-"FRIENDS"
+"AMIS"
 END
 
 APT:Ignore
-//context: Online Chat, show Ignore in player list.
-"IGNORE"
+"IGNORER"
 END
 
 APT:UnIgnore
-//context: Online Chat, show Ignore in player list.
-"UN-IGNORE"
+"ANNUL. IGNORER"
 END
 
 APT:Channel
-//context: Online Chat, select a channel
-"CHANNEL"
+"CANAL"
 END
 
 APT:RememberInfo
-// context: the checkbox to remember the player's info
-"Remember my Info"
+"Mémoriser mes infos"
 END
 
 APT:Home
 // context: goto home screen in the Online Shell
-"HOME"
+"ACCUEIL"
 END
 
 Apt:OfficialMaps
-// context: Button to list the official maps of the game 
-"Official Maps"
+"Cartes officielles"
 END
 
 Apt:HeadToHead
-// context: Button to list the Head to Head maps 
-"Head To Head"
+"Face à face"
 END
 
 Apt:Scenario
-// context: Button to list the scenario maps of the game 
-"Scenario"
+"Scénario"
 END
 
 Apt:PlayerMadeMaps
-// context: Field in combo box to show player made maps
-"Player Made Maps"
+"Cartes joueurs"
 END
 
 APT:UserMaps
-// context: Button to list the maps created by users and installed in the system 
-"USER MAPS"
+"CARTES JOUEURS"
 END
 
 APT:StartGame
 // context: Button to start a game
-"PLAY"
+"JOUER"
 END
 
 APT:LevelSelect
 // context: Button to bring up a Level Load menu
-"LOAD LEVEL"
+"CHARGER NIVEAU"
 END
 
 APT:Campaign
 // conxtext: Mainmenu, button to show Campaign menu
-"CAMPAIGN"
+"CAMPAGNE"
 END
 
 APT:CampaignScore
-"Campaign Score"
+"Score campagne"
 END
 
 APT:CampaignTotal
-"Campaign Total"
+"Total campagne"
 END
 
 APT:Load
 // context: MainMenu, button to bring up load game menu
-"LOAD"
+"CHARGER"
 END
 
 APT:ResumeGame
 // context: Button to Resume a game from pause menu.
-"RESUME GAME"
+"REPRENDRE PARTIE"
 END
 
 APT:QuitMenuSave
 // context: button label to go to the save game sub menu
-"SAVE"
+"SAUVEGARDER"
 END
 
 APT:QuitMenuLoad
 // context: button label to go to the load game sub menu
-"LOAD"
+"CHARGER"
 END
 
 APT:DisconnectQuitGame
 // context: When diconnect screen comes up, this allows you to quit the game.
-"QUIT GAME"
+"QUITTER"
 END
 
 APT:Restart
 // context: button to restart a game with the same settings than the game before 
-"RESTART"
+"RECOMMENCER"
 END
 
 APT:ExitMission
 // context: Exit the current mission 
-"EXIT" 
+"QUITTER" 
 END 
 
 APT:Forfeit
-// context: Forfeit an RTS battle in the WOTR mode 
-"FORFEIT" 
+"ABANDONNER" 
 END 
 
 APT:Surrender
 // context: Surrender in an WOTR game 
-"SURRENDER" 
+"CAPITULER" 
 END 
 
 APT:Credits
 // context: Main menu goto the credits
-"CREDITS"
+"GÉNÉRIQUE"
 END
 
 APT:Tutorial
@@ -22573,190 +22531,163 @@ END
 
 // GOOD Living World
 SCRIPT:MORIAMOVE
-"Left click your Heroes, then right click to move them."
+"Clic gauche sur vos Héros, puis faites un clic droit pour les déplacer."
 END
 
 SCRIPT:ISENGARDMOVE
-"Left click your units, then right click to move them."
+"Faites un clic gauche sur vos unités, puis un clic droit pour les déplacer."
 END
 
 LW:ActDisplayString
-// Act display string: shows "Act 1", "Act 2", etc...
-"Act %d"
+// Chaîné d'affichage de l'acte : affiche "Acte 1", "Acte 2", etc...
+"Acte %d"
 End
 
 LW:Good_Moria
-// Good Campaign help text
-"Move the Fellowship to Moria."
+"Déplacez la communauté vers la Moria."
 END
 
 LW:Good_Moria_2
-// Good Campaign help text
-"Select the Fellowship and click on Moria."
+"Sélectionnez la communauté et cliquez sur Moria."
 END
 
 LW:Good_Lothlorien
-// Good Campaign help text
-"Click on Lothlorien."
+"Cliquez sur la Lothlorien."
 END
 
 LW:Good_Rohan_One
-// Good Campaign help text
-"Select Éomer's Army and defend a Rohan region."
+"Sélectionnez l'armée d'Éomer et défendez une région du Rohan."
 END
 
 LW:Good_Amon_Hen
-// Good Campaign help text
-"Left-click on the Summit of Amon Hen."
+"Clic gauche sur le Sommet d'Amon Hen."
 END
 
 LW:Good_Rohan_Two
 // Good Campaign help text
-"Select Éomer's Army and defend a Rohan region."
+"Sélectionnez l'armée d'Éomer et défendez une région du Rohan."
 END
 
 LW:Good_Rohan_Three
-// Good Campaign help text
-"Order Éomer's Army to attack."
+"Ordonnez à l'armée d'Éomer d'attaquer."
 END
 
 LW:Good_Fangorn
-// Good Campaign help text
-"Click on the Eaves of Fangorn."
+"Cliquez sur Fangorn."
 END
 
 LW:Good_Rohan
-// Good Campaign help text
-"Order Éomer's Army to attack."
+"Ordonnez à l'armée d'Éomer d'attaquer."
 END
 
 LW:Good_Helms_Deep
-// Good Campaign help text
-"Click on Helm's Deep."
+"Cliquez sur le Gouffre de Helm."
 END
 
 LW:Good_Isengard
-// Good Campaign help text
-"Click on Isengard."
+"Cliquez sur l'Isengard."
 END
 
 LW:Good_Gondor
-// Good Campaign help text
-"Order an Army to attack the enemy."
+"Ordonnez à une armée d'attaquer l'ennemi."
 END
 
 LW:Good_Ithilien
-// Good Campaign help text
-"Click on North Ithilien."
+"Cliquez sur le Nord Ithilien."
 END
 
 LW:Good_Osgiliath
-// Good Campaign help text
-"Click on Osgiliath."
+"Cliquez sur Osgiliath."
 END
 
 LW:Good_Cirith_Ungol
 // Good Campaign help text
-"Click on Shelob's Lair."
+"Cliquez sur l'Antre d'Arachne."
 END
 
 LW:Good_Minas_Tirith
 // Good Campaign help text
-"Click on Minas Tirith."
+"Cliquez sur Minas Tirith."
 END
 
 LW:Good_Final
-// Good Campaign help text
-"When ready, attack the Black Gate."
+"Quand vous êtes prêt, attaquez la Porte Noire."
 END
 
 LW:Good_Final_Last
-// Good Campaign help text
-"Click on the Black Gate."
+"Cliquez sur la Porte Noire."
 END
 
 
-// EVIL Living World
+// EVIL Monde vivant
+
 LW:Evil_HelmsDeep
-// Evil Campaign help text
-"Attack Helm's Deep."
+"Attaquez le Gouffre de Helm."
 END
 
 
 LW:Evil_Fangorn
-// Evil Campaign help text for Fangorn
-"Click on Fangorn."
+"Cliquez sur Fangorn."
 END
 
 
 LW:Evil_Isengard
-// Evil Campaign help text
-"Click on Isengard."
+"Cliquez sur l'Isengard."
 END
 
 LW:Evil_Rohan_One
-// Evil Campaign help text
-"Order Saruman's Army to attack Rohan."
+"Ordonnez à l'armée de Saroumane d'attaquer le Rohan."
 END
 
 LW:Evil_Amon_Hen
 // Evil Campaign help text
-"Click on the Summit of Amon Hen."
+"Cliquez sur le Sommet d'Amon Hen."
 END
 
 LW:Evil_Rohan_Verbose
-// Evil Campaign help text
-"Attack a Rohan region."
+"Attaquez une région du Rohan."
 END
 
 LW:Evil_Rohan
-// Evil Campaign help text
-"Attack an enemy region."
+"Attaquez une région ennemie."
 END
 
 LW:Evil_Gondor
-// Evil Campaign help text
-"Attack an enemy region."
+"Attaquez une région ennemie."
 END
 
 LW:Evil_Harad
-// Evil Campaign help text
-"Click on Near Harad."
+"Cliquez près des Haradrims."
 END
 
 LW:Evil_Ithilien
 // Evil Campaign help text
-"Click on South Ithilien."
+"Cliquez sur le Sud Ithilien."
 END
 
 LW:Evil_Osgiliath
-// Evil Campaign help text
-"Click on Osgiliath."
+"Cliquez sur Osgiliath."
 END
 
 LW:Evil_Cirith_Ungol
-// Evil Campaign help text
-"Click Shelob's Lair."
+"Cliquez sur Cirith Ungol."
 END
 
 LW:Evil_Final
-// Evil Campaign help text
-"Select an army and move towards Minas Tirith."
+"Sélectionnez une armée et avancez vers Minas Tirith."
 END
 
 LW:LastMissionText
 // The text for the palantir and region bubbles to be displayed for the last mission
-"Win Campaign"
+"Gagner la campagne"
 END
 
 LW:DefeatedMissionTextGood
-// Delayed text to display in livingworld when coming out of a mission in defeat, for the good side
-"You have been defeated, but do not give up hope. Try again."
+"Vous avez été vaincu, mais ne perdez pas espoir. Essayez à nouveau."
 END
 
 LW:DefeatedMissionTextEvil
-// Delayed text to display in livingworld when coming out of a mission in defeat, for the evil side
-"You have failed. Try again."
+"Vous avez échoué. Essayez à nouveau."
 END
 
 
@@ -22774,150 +22705,120 @@ End
 
 LW:NoBonus
 // Context: displayed when there is no bonus for a region or territory (usually after "Bonuses: ")
-"No Bonus"
+"Pas de bonus"
 End
 
 LW:AttackRepelledTitle
-// Context: shown as the title of a message box when you try to attack a region, but the enemy has a larger force and you are forced to defend.
-"Attack Repelled!"
+"Attaque repoussée !"
 End
 
 LW:AttackRepelledSummaryText
-// Context: shown as the summary text of a message box when you try to attack a region, but the enemy has a larger force and you are forced to defend.
-// After the text comes a bunch of LW:AttackRepelledItemText entries.
-"The enemy's overwhelming forces have pushed back some of your attacks!\n\n"
+"Les forces écrasantes de l'ennemi ont repoussé certaines de vos attaques !\n\n"
 End
 
 LW:AttackRepelledItemText
-// Context: shown as the item text of a message box when you try to attack a region, but the enemy has a larger force and you are forced to defend.
-// The first argument is the hero's name. The second argument is the region that they are forced to defend.
-"%ls will remain in %ls.\n"
+"%ls restera dans %ls.\n"
 End
 
 LW:AllyDefeatedTitle
-// Context: the title of a message that appears when an ally has been defeated on the world map.
-"ALLIED PLAYER ELIMINATED!"
+"JOUEUR ALLIÉ ÉLIMIÉ !"
 End
 
 LW:AllyDefeatedText
-// Context: the text of a message that appears when an ally has been defeated on the world map.
-// The first argument is the name of the allied player.
-"Your ally, %ls, has been eliminated from the game.\n\nAny remaining armies and structures will be dissolved, and all claimed territories will be abandoned."
+"Votre allié, %ls, a été éliminé du jeu.\n\nToutes les armées et structures restantes seront dissoutes et tous les territoires revendiqués seront abandonnés."
 End
 
 LW:EnemyDefeatedTitle
-// Context: the title of a message that appears when an enemy has been defeated on the world map.
-"ENEMY PLAYER ELIMINATED!"
+"JOUEUR ENNEMI ÉLIMIÉ !"
 End
 
 LW:EnemyDefeatedText
-// Context: the text of a message that appears when an enemy has been defeated on the world map.
-// The first argument is the name of the enemy player.
-"Your enemy, %ls, has been eliminated from the game.\n\nAny remaining armies and structures will be dissolved, and all claimed territories will be abandoned."
+"Votre ennemi, %ls, a été éliminé du jeu.\n\nToutes les armées et structures restantes seront dissoutes et tous les territoires revendiqués seront abandonnés."
 End
 
 LW:UnifiedRegionTitle
-// Context: shown as the title of a message box when a player has unified a region (collection of territories) on the world map.
-// The first argument is the name of the region.
-"REGION/SUBREGION UNIFIED!"
+"RÉGION UNIFIÉE !"
 End
 
 LW:UnifiedRegionText
-// Context: shown as the text of a message box when a player has unified a region (collection of territories) on the world map.
-// The first argument is the name of the region. The second is the string describing the bonuses acquired (ex: "+5% attack, +10% defense").
-"You have claimed all the territories of %ls.\n\nUniting this area grants you the following:\n     %ls"
+"Vous avez revendiqué tous les territoires de la région de %ls.\n\nRéunir cette région vous confère ce qui suit :\n %ls"
 End
 
 LW:HeroCutOffTitle
-// Context: shown as the title of a message box when a hero has no immediate retreat options.
-// First argument is the hero's name.
-"HERO ARMY STRANDED!"
+"ARMÉE HÉROS ÉcHOUÉE !"
 End
 
 LW:HeroCutOffTextNearest
-// Context: shown as the title of a message box when a hero has no immediate retreat options and will go to the closest allied region.
-// First arg is hero name, second is the region in which they will reappear
-"Your Hero army has been defeated in battle and does not have any available retreat locations.\n\n%ls will respawn in the closest allied territory of %ls."
+"Votre armée de héros a été vaincue au combat et n'a aucun lieu de retraite disponible.\n\n%ls réapparaîtra dans le territoire allié le plus proche de %ls."
 End
 
 LW:HeroCutOffTextHomeBase
-// Context: shown as the title of a message box when a hero has no immediate retreat options and will go to the player's home base.
-// First argument is hero name, second is the region in which they will reappear
-"Your Hero army has been defeated in battle and does not have any available retreat locations.\n\n%ls will respawn at your capital in %ls."
+"Votre armée de héros a été vaincue au combat et n'a aucun lieu de retraite disponible.\n\n%ls réapparaîtra dans votre capitale en %ls."
 End
 
 LW:UnitUpgradeListHeader
-// Context: shown to list a list of upgrades that a unit has, if there are any.
-// The first argument will be replaced by a list of upgrades.
-"Upgrades: %ls"
+"Améliorations : %ls"
 End
 
 LW:ReinforcementsArrived
-"Reinforcements have arrived."
+"Les renforts sont arrivés."
 End
 
 LW:RegionBonusArmy
 // region army bonus text
-"+%d Command Points"
+"+%d Points de commandement."
 End
 
 LW:RegionBonusResource
-// region resource bonus text
-"+%d%% Resource Multiplier"
+"+%d%% Multiplicateur de ressources."
 End
 
 LW:RegionLegendaryBonus
-// region legendary bonus text
-"+%d Power Points"
+"+%d Points de pouvoir."
 End
 
 LW:RegionTreasuryBonus
-// region treasury bonus text
-"+%d Treasure"
+"+%d Trésor."
 End
 
 LW:RegionAttackBonus
-// region attack bonus text
-"+%d%% Attack Bonus"
+"+%d%% Bonus d'Attaque."
 End
 
 LW:RegionDefenseBonus
-// region defense bonus text
-"+%d%% Defense Bonus"
+"+%d%% Bonus de Défense."
 End
 
 LW:RegionExperienceBonus
-// region experience bonus text
-"+%d%% Experience Bonus"
+"+%d%% Bonus d'Expérience."
 End
 
 LW:RegionExtraResourcesBonus
-// extra resources bonus text
-"Extra Resources at the Start of Battles"
+"Ressources supplémentaires au début des batailles."
 End
 
 LW:RegionBuildingDiscountBonus
-"Discount when Building Structures"
+"Réduction lors de la construction de structures."
 End
 
 LW:RegionFreeInnUnitsBonus
-"Free Special Unit in Battles"
+"Unité d'auberge gratuite dans les batailles."
 End
 
 LW:RegionSeigeDiscountBonus
-"Discount when Building Siege Units"
+"Réduction lors de la construction d'unités de siège."
 End
 
 LW:RegionHeroDiscountBonus
-"Discount when Building Heroes"
+"Réduction lors du recrutement de héros."
 End
 
 LW:RegionFreeBuildersBonus
-"Free Builder in Battles"
+"Constructeur gratuit dans les batailles."
 End
 
 LW:RegionBarracksUnitDiscountBonus
-"Discount when Building Barracks Units"
+"Réduction lors de la construction d'unités de casernes."
 End
 
 // Note: Everyone but the designers call a region a single place, and a territory a collection of regions. Designers do the opposite, and their way is how it goes in game. So silly.
@@ -22927,23 +22828,23 @@ LW:TerritoryBonusHeader
 End
 
 LW:TerritoryPartOfRegion
-"\n\nTerritory of Region: %ls"
+"\n\nTerritoire de la région : %ls"
 End
 
 LW:UnifiedRegionBonus
-"\nUnified Region Bonus: %ls"
+"\nBonus de région unifiée : %ls"
 End
 
 LW:NumberOfBuildPlotsPlural
-"\n%d Build Plots"
+"\n%d Tracés de construction."
 End
 
 LW:NumberOfBuildPlotsSingle
-"\n%d Build Plot"
+"\n%d Tracé de construction."
 End
 
 LW:FortressMap
-"\nFortress Map"
+"\nCarte de la Forteresse."
 End
 
 LW:TerritoryRhun
@@ -22960,7 +22861,7 @@ LW:TerritoryLindon
 End
 
 LW:TerritoryMistyMountains
-"Misty Mountains"
+"Monts Brumeux"
 End
 
 LW:TerritoryRhovanion
@@ -22992,7 +22893,7 @@ LW:TerritoryEriador
 End
 
 LW:TerritoryEregionAlliance
-"Plundered Eregion"
+"Pillages en Eregion"
 End
 
 LW:TerritoryForodwaith
@@ -23005,123 +22906,123 @@ End
 
 LW:ClickToBegin
 // displayed when user first enters map
-"Click mouse button to begin."
+"Cliquez sur le bouton de la souris pour commencer."
 End
 
 LW:SubRegionAbrakhan
-"the subregion of Abrakhân"
+"La sous-région d'Abrakhân"
 END
 
 LW:SubRegionAnduin
-"the subregion of Anduin"
+"La sous-région d'Anduin"
 END
 
 LW:SubRegionAngmar
-"the subregion of Angmar"
+"La sous-région d'Angmar"
 END
 
 LW:SubRegionArthedain
-"the subregion of Arthedain"
+"La sous-région d'Arthedain"
 END
 
 LW:SubRegionBreeland
-"the subregion of Bree-land"
+"La sous-région du pays de Bree"
 END
 
 LW:SubRegionBrownLands
-"the subregion of The Brown Lands"
+"La sous-région des Terres Brunes"
 END
 
 LW:SubRegionCardolan
-"the subregion of Cardolan"
+"La sous-région du Cardolan"
 END
 
 LW:SubRegionDagorlad
-"the subregion of Dagorlad"
+"La sous-région du Dagorlad"
 END
 
 LW:SubRegionDolGuldur
-"the subregion of Dol Guldur"
+"La sous-région de Dol Guldur"
 END
 
 LW:SubRegionDorwinion
-"the subregion of Dorwinion"
+"La sous-région du Dorwinion"
 END
 
 LW:SubRegionDunland
-"the subregion of Dunland"
+"La sous-région du Pays de Dun"
 END
 
 LW:SubRegionEastMark
-"the subregion of East-mark"
+"La sous-région Mark de l'Est"
 END
 
 LW:SubRegionEnedwaith
-"the subregion of Enedwaith"
+"La sous-région d'Enedwaith"
 END
 
 LW:SubRegionEphelDuath
-"the subregion of Ephel Dúath"
+"La sous-région de l'Ephel Dúath"
 END
 
 LW:SubRegionEreborDale
-"the subregion of the Kingdom of Erebor and Dale"
+"La sous-région du Royaume d'Erebor et Dale"
 END
 
 LW:SubRegionEregion
-"the subregion of Eregion"
+"La sous-région d'Eregion"
 END
 
 LW:SubRegionFarHarad
-"the subregion of Far Harad"
+"La sous-région du Lointain Harad"
 END
 
 LW:SubRegionForlindon
-"the subregion of Forlindon"
+"La sous-région du Forlindon"
 END
 
 LW:SubRegionForochel
-"the subregion of Forochel"
+"La sous-région de Forochel"
 END
 
 LW:SubRegionGorgoroth
-"the subregion of Gorgoroth"
+"La sous-région de Gorgoroth"
 END
 
 LW:SubRegionGundabad
-"the subregion of Gundabad"
+"La sous-région de Gundabad"
 END
 
 LW:SubRegionHarlindon
-"the subregion of Harlindon"
+"La sous-région de Harlindon"
 END
 
 LW:SubRegionHarondor
-"the subregion of Harondor"
+"La sous-région de Harondor"
 END
 
 LW:SubRegionHighPass
-"the subregion of High Pass"
+"La sous-région Haut Col"
 END
 
 LW:SubRegionIronHills
-"the subregion of the Iron Hills"
+"La sous-région des monts du Fer"
 END
 
 LW:SubRegionIsengard
-"the subregion of Isengard"
+"La sous-région d'Isengard"
 END
 
 LW:SubRegionKingsLands
-"the subregion of The King's Lands"
+"La sous-région des Terres du Roi"
 END
 
 LW:SubRegionKhand
-"the subregion of Khand"
+"La sous-région du Khand"
 END
 
 LW:SubRegionLothlorien
-"the subregion of Lothlórien"
+"La sous-région de Lothlórien"
 END
 
 LW:SubRegionLothlorien_LAS
@@ -23129,11 +23030,11 @@ LW:SubRegionLothlorien_LAS
 END
 
 LW:SubRegionMardruak
-"the subregion of Mardrûak"
+"La sous-région de Mardrûak"
 END
 
 LW:SubRegionMoria
-"the subregion of Moria"
+"La sous-région de Moria"
 END
 
 LW:SubRegionMoria_LAS
@@ -23141,75 +23042,75 @@ LW:SubRegionMoria_LAS
 END
 
 LW:SubRegionNearHarad
-"the subregion of Near Harad"
+"La sous-région du Proche Harad"
 END
 
 LW:SubRegionNorthernWastes
-"the subregion of the Northern Wastes"
+"La sous-région des Terres du Nord"
 END
 
 LW:SubRegionNorthGondor
-"the subregion of Northern Gondor"
+"La sous-région du Nord du Gondor"
 END
 
 LW:SubRegionNorthGondor_LAS
-"Domain of Isildur"
+"Domaine d'Isildur"
 END
 
 LW:SubRegionSouthGondor
-"the subregion of Southern Gondor"
+"La sous-région du sud du Gondor"
 END
 
 LW:SubRegionSouthGondor_LAS
-"Domain of Anárion"
+"Domaine d'Anárion"
 END
 
 LW:SubRegionSouthRhun
-"the subregion of South Rhûn"
+"La sous-région Sud du Rhûn"
 END
 
 LW:SubRegionNurn
-"the subregion of Núrn"
+"La sous-région de Núrn"
 END
 
 LW:SubRegionRhudaur
-"the subregion of Rhudaur"
+"La sous-région de Rhudaur"
 END
 
 LW:SubRegionRivendell
-"the subregion of Rivendell"
+"La sous-région de Fondcombe"
 END
 
 LW:SubRegionRiverlands
-"the subregion of the Riverlands"
+"La sous-région des Terres des rivières"
 END
 
 LW:SubRegionRhun
-"the subregion of Rhûn"
+"La sous-région du Rhûn"
 END
 
 LW:SubRegionTheShire
-"the subregion of The Shire"
+"La sous-région de la Comté"
 END
 
 LW:SubRegionUmbar
-"the subregion of Umbar"
+"La sous-région d'Umbar"
 END
 
 LW:SubRegionWeatherHills
-"the subregion of the Weather Hills"
+"La sous-région des Collines du Temps"
 END
 
 LW:SubRegionWestMark
-"the subregion of West-mark"
+"La sous-région Mark de l'Ouest"
 END
 
 LW:SubRegionWoodlandRealm
-"the subregion of the Woodland Realm"
+"La sous-région du Royaume des Forêts"
 END
 
 LW:SubRegionWoodlandRealm_LAS
-"the Greenwood"
+"La Forêt Verte"
 END
 
 LW:DisplayNameAmonHen
@@ -23233,7 +23134,7 @@ LW:DisplayNameArnor
 End
 
 LW:DisplayNameAzkaharDesert
-"Desert of Azkâhar"
+"Desert de Azkâhar"
 End
 
 LW:DisplayNameBelfalas
@@ -23243,7 +23144,7 @@ End
 
 LW:DisplayNameBlackGate
 // Region display name in the living world
-"Black Gate"
+"Porte Noire"
 End
 
 LW:DisplayNameBlueMountains
@@ -23257,7 +23158,7 @@ End
 
 LW:DisplayNameCentralIthilien
 // Region display name in the living world
-"Central Ithilien"
+"Centre Ithilien"
 End
 
 LW:DisplayNameCirithUngol
@@ -23277,7 +23178,7 @@ End
 
 LW:DisplayNameDeadMarshes
 // Region display name in the living world
-"Dead Marshes"
+"Les Marais Morts"
 End
 
 LW:DisplayNameDolGuldur
@@ -23296,7 +23197,7 @@ End
 
 LW:DisplayNameDruadanForest
 // Region display name in the living world
-"Druadan Forest"
+"Forêt de Druadan"
 End
 
 LW:DisplayNameDunharrow
@@ -23306,22 +23207,22 @@ End
 
 LW:DisplayNameEastEmnet
 // Region display name in the living world
-"East Emnet"
+"Estenmnet"
 End
 
 LW:DisplayNameEasternRohan
 // Region display name in the living world
-"Eastern Rohan"
+"Rohan Est"
 End
 
 LW:DisplayNameEastfold
 // Region display name in the living world
-"Eastfold"
+"Estfolde"
 End
 
 LW:DisplayNameEavesofFangorn
 // Region display name in the living world
-"Eaves of Fangorn"
+"Lisière de Fangorn"
 End
 
 LW:DisplayNameEdoras
@@ -23355,12 +23256,12 @@ End
 
 LW:DisplayNameFordsofIsen
 // Region display name in the living world
-"Fords of Isen"
+"Gués de l'Isen"
 End
 
 LW:DisplayNameGapofRohan
 // Region display name in the living world
-"Gap of Rohan"
+"Trouée du Rohan"
 End
 
 LW:DisplayNameGondor
@@ -23369,7 +23270,7 @@ LW:DisplayNameGondor
 End
 
 LW:DisplayNameGorgoroth
-"Plains of Gorgoroth"
+"Plaines de Gorgoroth"
 End
 
 LW:DisplayNameHalifirien
@@ -23393,12 +23294,12 @@ END
 
 LW:DisplayNameHelmsDeep
 // Region display name in the living world
-"Helm's Deep"
+"Gouffre de Helm"
 End
 
 LW:DisplayNameIronHills
 // Region display name in the living world
-"Iron Hills"
+"Monts du Fer"
 End
 
 LW:DisplayNameIsengard
@@ -23412,7 +23313,7 @@ LW:DisplayNameIthilien
 End
 
 LW:DisplayNameHaradJungles
-"Jungles of Harad"
+"Jungles du Harad"
 END
 
 LW:DisplayNameCelduin
@@ -23421,7 +23322,7 @@ LW:DisplayNameCelduin
 End
 
 LW:DisplayNameKhandBorders
-"Borders of Khand"
+"Bordures du Khand"
 END
 
 LW:DisplayNameLebennin
@@ -23451,12 +23352,12 @@ End
 
 LW:DisplayNameMirkwood
 // Region display name in the living world
-"Mirkwood"
+"La Forêt Noire"
 End
 
 LW:DisplayNameMountDoom
 // Region display name in the living world
-"Mount Doom"
+"Montagne du Destin"
 End
 
 LW:DisplayNameMordor
@@ -23471,22 +23372,22 @@ End
 
 LW:DisplayNameMouthsoftheEntwash
 // Region display name in the living world
-"Mouths of the Entwash"
+"Bouches de l'Entalluve"
 End
 
 LW:DisplayNameMtDoom
 // Region display name in the living world
-"Mt Doom"
+"Mont. Destin"
 End
 
 LW:DisplayNameBrownlands
 // Region display name in the living world
-"Old Brown Lands"
+"Vieilles Terres Brunes"
 End
 
 LW:DisplayNameNorthernIthilien
 // Region display name in the living world
-"Northern Ithilien"
+"Nord de l'Ithilien"
 End
 
 LW:DisplayNameOsgiliath
@@ -23501,7 +23402,7 @@ End
 
 LW:DisplayNameRedhornPass
 // Region display name in the living world
-"Redhorn Pass"
+"Col de Redhorn"
 End
 
 LW:DisplayNameRingloVale
@@ -23520,7 +23421,7 @@ LW:DisplayNameRohan
 End
 
 LW:DisplayNameSeaOfNurnen
-"Sea of Núrnen"
+"Mer de Núrnen"
 End
 
 LW:DisplayNameShelobsLair
@@ -23528,7 +23429,7 @@ LW:DisplayNameShelobsLair
 End
 
 LW:DisplayNameSlavefieldsOfNurn
-"Slavefields of Núrn"
+"Champs d'esclaves de Núrn"
 End
 
 LW:DisplayNameSnowbourn
@@ -23537,7 +23438,7 @@ END
 
 LW:DisplayNameSouthernIthilien
 // Region display name in the living world
-"Southern Ithilien"
+"Ithilien du Sud"
 End
 
 LW:DisplayNameTaurEnUngolath
@@ -23557,12 +23458,12 @@ LW:DisplayNameTheFolde
 END
 
 LW:DisplayNameValeAnduin
-"Vale of Anduin"
+"Val Anduin"
 END
 
 LW:DisplayNameWestEmnet
 // Region display name in the living world
-"West Emnet"
+"Ouestemnet"
 End
 
 LW:DisplayNameWestfold
@@ -23572,27 +23473,27 @@ End
 
 LW:DisplayNameWold
 // Region display name in the living world
-"The Wold"
+"Le Wold"
 End
 
 LW:DisplayNameGoodCampaign1
-"Mission I: Rivendell"
+"Mission I : Fondcombe"
 End
 
 LW:DisplayNameGoodCampaign2
-"Mission II: High Pass"
+"Mission II : Haut Col"
 End
 
 LW:DisplayNameGoodCampaign3
-"Mission III: Ettenmoors"
+"Mission III : Les Landes d'Etten"
 End
 
 LW:DisplayNameGoodCampaign4
-"Mission IV: Blue Mountains"
+"Mission IV : Montagnes Bleues"
 End
 
 LW:DisplayNameGoodCampaign5
-"Mission V: Grey Havens"
+"Mission V : Havres Gris"
 End
 
 LW:DisplayNameGoodCampaign6
@@ -23616,23 +23517,23 @@ LW:DisplayNameEvilCampaign1
 END
 
 LW:DisplayNameEvilCampaign2
-"Mission II: Grey Havens"
+"Mission II : Havres Gris"
 END
 
 LW:DisplayNameEvilCampaign3
-"Mission III: The Shire"
+"Mission III : La Comté"
 END
 
 LW:DisplayNameEvilCampaign4
-"Mission IV: Fornost"
+"Mission IV : Fornost"
 END
 
 LW:DisplayNameEvilCampaign5
-"Mission V: Mirkwood"
+"Mission V : Forêt Noire"
 END
 
 LW:DisplayNameEvilCampaign6
-"Mission VI: Withered Heath"
+"Mission VI : Terres Désolées du Nord"
 END
 
 LW:DisplayNameEvilCampaign7
@@ -23640,170 +23541,170 @@ LW:DisplayNameEvilCampaign7
 END
 
 LW:DisplayNameEvilCampaign8
-"Mission VIII: Rivendell"
+"Mission VIII: Fondcombe"
 END
 
 ////////////////////////////////////////////////////////
 //	WOTR Scenarios
 ////////////////////////////////////////////////////////
 LWScenario:WOTRGameType001
-"Capital Assault"
+"Assaut des capitales"
 END
 
 LWScenario:WOTRGameType002
-"Elimination"
+"Élimination"
 END
 
 LWScenario:WOTRGameTypeLastAlliance
-"Historical Scenario"
+"Scénario historique"
 END
 
 LWScenario:WOTRGameType003
-"World Domination"
+"Domination du monde"
 END
 
 LWScenario:WOTRGameType004
-"Conquest"
+"Conquête"
 END
 
 LWScenario:WOTRGameTypeCampaign
-"Complete all missions"
+"Terminez toutes les missions"
 END
 
 LWScenario:WOTRObjectives001
-"Eliminate enemy players by conquering their capital territory."
+"Eliminer les joueurs ennemis en prenant leurs capitales."
 END
 
 LWScenario:WOTRObjectives002
-"Eliminate enemy players by conquering all of their territories."
+"Eliminer les joueurs ennemis en prenant tous leurs territoires."
 END
 
 LWScenario:WOTRObjectivesLastAlliance
-"Defeat Sauron."
+"Vaincre Sauron."
 END
 
 LWScenario:WOTRObjectives003
-"Rule the lands of Middle-earth by conquering 20 territories."
+"Régnez sur la Terre du Milieu en conquérant 20 territoires."
 END
 
 LWScenario:WOTRObjectives004
-"Rule the lands of Middle-earth by conquering 30 territories (or entire map if less than 30 territories present)."
+"Régnez sur la Terre du Milieu en conquérant 30 territoires (ou la carte entière si elle contient moins de 30 territoires)."
 END
 
 LWScenario:WOTRObjectives005
-"Rule the lands of Middle-earth by conquering all territories."
+"Régnez sur la Terre du Milieu en conquérant tous les territoires."
 END
 
 LWScenario:WOTRObjectives006
-"Take control of all the strongholds present on game map (possible strongholds include Dol Guldur, Erebor, Halls of the Elvenking, Helm's Deep, Isengard, Minas Morgul, Minas Tirith, Rivendell and Umbar)."
+"Contrôler toutes les Forteresses présentes sur la carte du jeu (parmi elles Carn Dûm, Dol Guldur, Erebor, Fornost, le Gouffre de Helm, Isengard, Minas Morgul, Minas Tirith et Fondcombe)."
 END
 
 LWScenario:WOTRObjectivesCampaign
-"Beat this scenario by completing every mission."
+"Remportez ce scénario en terminant chaque mission."
 END
 
 LWScenario:WOTRScenarioFiction001
-"This is a freeform game with no preset starting locations or claimed territories."
+"C'est une partie libre avec aucun prérequis de position de départ ou de réclamation de territoire."
 END
 
 LWScenario:WOTRScenarioFiction002
-"This is a freeform game with no preset starting locations"
+"C'est une partie libre avec aucun prérequis de position de départ."
 END
 
 LWScenario:WOTRScenarioFiction003
-"Each player has a preset starting location."
+"Chaque joueur a une position de départ requise."
 END
 
 LWScenario:WOTRScenarioFiction004
-"Each player has a preset starting location and a number of claimed territories."
+"Chaque joueur a une position de départ requise et un nombre de territoires."
 END
 
 LWScenario:WOTRScenarioFictionLastAlliance
-"Player has to choose Rivendell faction"
+"Le joueur doit choisir la faction de Fondcombe."
 END
 
 LWScenario:WOTRScenarioFiction005
-"This game has no preset starting locations or claimed territories for each player. A team must have control of all territories listed in the objectives at the same time to win this scenario."
+"Dans cette partie, les joueurs n'ont aucun prérequis de position de départ ou de territoire. Une équipe doit contrôler tous les territoires en même temps pour gagner ce scénario."
 END
 
 LWScenario:WOTRScenarioFiction006
-"This is a freeform game with no preset starting locations or claimed territories that takes place in only the northern lands of Middle-earth."
+"C'est une partie libre sans aucun prérequis de position de départ qui se déroule dans les terres du Nord de la Terre du Milieu."
 END
 
 LWScenario:WOTRScenarioFiction007
-"This is a freeform game with no preset starting locations or claimed territories that takes place in only the southern lands of Middle-earth."
+"C'est une partie libre sans aucun prérequis de position de départ qui se déroule dans les terres du Sud de la Terre du Milieu."
 END
 
 LWScenario:WOTRScenario0001
-"War of the Ring"
+"Guerre de l'Anneau"
 END
 
 LWScenario:WOTRScenarioBFME2Good
-"Campaign: War in the North"
+"Campagne : Guerre dans le Nord"
 END
 
 LWScenario:WOTRScenarioBFME2GoodDescription
-"# Of Players: 1\nThis is a story campaign in which you play through missions to defend the northern regions of Middle-earth from Sauron's armies.\n\nChoose Rivendell and beat this scenario by completing every mission.\nLosing any hero in each mission will result in failure."
+"# de joueurs : 1\nIl s'agit d'une campagne scénarisée dans laquelle vous jouez à travers des missions pour défendre les régions nordiques de la Terre du Milieu contre les armées de Sauron.\n\nChoisissez Rivendell et remportez ce scénario en terminant chaque mission.\nPerdre n'importe quel héros dans chaque mission entraînera un échec."
 END
 
 LWScenario:WOTRScenarioBFME2Evil
-"Campaign: Dominion of Sauron"
+"Campagne : Domination de Sauron"
 END
 
 LWScenario:WOTRScenarioBFME2EvilDescription
-"# Of Players: 1\nThis is a story campaign in which you play through missions to overwhelm the northern regions of Middle-earth with Sauron's armies.\n\nChoose Mordor and beat this scenario by completing every mission.\nLosing any hero in each mission will result in failure."
+"# de joueurs : 1\nIl s'agit d'une campagne scénarisée dans laquelle vous jouez à travers des missions pour submerger les régions nordiques de la Terre du Milieu avec les armées de Sauron.\n\nChoisissez Mordor et remportez ce scénario en terminant chaque mission.\nPerdre n'importe quel héros dans chaque mission entraînera un échec."
 END
 
 LWScenario:AOTRScenarioWarNorth
-"Northern Conquest"
+"Conquête du Nord"
 END
 
 LWScenario:AOTRScenarioWarDwarfOrc
-"War of the Dwarves and Orcs"
+"Guerre des Nains et des Orcs"
 END
 
 LWScenario:AOTRScenarioWarNorthDescription
-"# Of Players: 6\nObjective: Fight the War in the North from the historical start positions. The northern theatre of the War of the Ring saw the Free Peoples of Eriador and Rhovanion defend against the Orcish tribes of the Misty Mountains, Sauron's hordes from Dol Guldur and the legions of Rhûn."
+"# de joueurs : 6\nObjectif : Combattre la Guerre dans le Nord à partir des positions de départ historiques. Le théâtre nordique de la Guerre de l'Anneau a vu les Peuples Libres d'Eriador et de Rhovanion se défendre contre les tribus d'Orcs des Monts Brumeux, les hordes de Sauron de Dol Guldur et les légions de Rhûn."
 END
 
 LWScenario:AOTRScenarioWarDwarfOrcDescription
-"# Of Players: 6\nObjective: Fight the War of the Dwarves and Orcs from the historical start positions. After the brutal slaying of King Thrór at the hands of Azog, Durin's Folk swore vengeance against the Orcs of the Misty Mountains and fought a bloody campaign across northern Middle-earth."
+"# de joueurs : 6\nObjectif : Combattre la Guerre des Nains et des Orcs à partir des positions de départ historiques. Après le meurtre brutal du roi Thrór aux mains d'Azog, le Peuple de Durin jura vengeance contre les Orcs des Monts Brumeux et mena une campagne sanglante à travers le nord de la Terre du Milieu."
 END
 
 LWScenario:AOTRScenarioWarNorthOpen
-"Northern Conquest: Open Game"
+"Conquête du Nord : Jeu ouvert"
 END
 
 LWScenario:AOTRScenarioWarSouth
-"Southern Conquest"
+"Conquête du Sud"
 END
 
 LWScenario:AOTRScenarioWarSouthOpen
-"Southern Conquest: Open Game"
+"Conquête du Sud : Jeu ouvert"
 END
 
 LWScenario:AOTRScenarioLastAlliance
-"War of the Last Alliance"
+"Guerre de la Dernière Alliance"
 END
 
 LWScenario:AOTRScenarioLastAllianceDescription
-"# Of Players: 6\nObjective: Lead the armies of Gil-galad and Elendil as they seek to free Middle-earth from Sauron's darkness.\n\nChoose Rivendell and beat this scenario by capturing Mount Doom."
+"# de joueurs : 6\nObjectif : Menez les armées de Gil-galad et Elendil alors qu'ils cherchent à libérer la Terre du Milieu des ténèbres de Sauron.\n\nChoisissez Fondcombe et remportez ce scénario en capturant le Mont du Destin."
 END
 
 LWScenario:AOTRScenarioWarSouthDescription
-"# Of Players: 6\nObjective: Fight the War in the South from the historical start positions. Sauron presses his assault on the world of Men: Gondor must repel the relentless legions of Mordor and Haradwaith whilst Rohan withstands the forces of Isengard."
+"# de joueurs : 6\nObjectif : Combattre la Guerre dans le Sud à partir des positions de départ historiques. Sauron intensifie son assaut sur le monde des Hommes : Gondor doit repousser les légions implacables de Mordor et du Haradwaith tandis que Rohan résiste aux forces d'Isengard."
 END
 
 LWScenario:WOTRScenario001
-"Open Game"
+"Jeu ouvert"
 END
 
 LWScenario:WOTRScenario001Description
-"# Of Players: 2-6\nThis is a freeform game with no preset starting locations or claimed territories."
+"# de joueurs : 2-6\nIl s'agit d'un jeu libre sans emplacements de départ prédéfinis ni territoires revendiqués."
 END
 
 LWScenario:WOTRScenarioPaperOpenDescription
-"# Of Players: 2-6\nThis is a freeform game with no preset starting locations or claimed territories.\nThis is intended as a singleplayer experience - playing in multiplayer may result in game crashes."
+"# de joueurs : 2-6\nIl s'agit d'un jeu libre sans emplacements de départ prédéfinis ni territoires revendiqués.\nCeci est prévu comme une expérience solo - jouer en multijoueur peut entraîner des plantages du jeu."
 END
 
 LWScenario:WOTRScenarioTest001
@@ -23815,47 +23716,47 @@ LWScenario:WOTRScenarioTest001Description
 END
 
 LWScenario:WOTRScenario002
-"War of the Ring (6)"
+"Guerre de l'Anneau (6)"
 END
 
 LWScenario:WOTRScenario002Description
-"# Of Players: 6\nEach player has a preset starting location."
+"Nombre de joueurs : 6. \nChaque joueur a une position de départ requise."
 END
 
 LWScenario:WOTRScenario003
-"War of the Ring (5)"
+"Guerre de l'Anneau (5)"
 END
 
 LWScenario:WOTRScenario003Description
-"# Of Players: 5\nEach player has a preset starting location."
+"Nombre de joueurs : 5. \nChaque joueur a une position de départ requise."
 END
 
 LWScenario:WOTRScenario004
-"War of the Ring (4)"
+"Guerre de l'Anneau (4)"
 END
 
 LWScenario:WOTRScenario004Description
-"# Of Players: 4\nEach player has a preset starting location."
+"Nombre de joueurs : 4. \nChaque joueur a une position de départ requise."
 END
 
 LWScenario:WOTRScenario005
-"War of the Ring (3)"
+"Guerre de l'Anneau (3)"
 END
 
 LWScenario:WOTRScenario005Description
-"# Of Players: 3\nEach player has a preset starting location."
+"Nombre de joueurs : 3. \nChaque joueur a une position de départ requise."
 END
 
 LWScenario:WOTRScenario006
-"War of the Ring (2)"
+"Guerre de l'Anneau (2)"
 END
 
 LWScenario:WOTRScenario006Description
-"# Of Players: 2\nEach player has a preset starting location."
+"Nombre de joueurs : 2. \nChaque joueur a une position de départ requise."
 END
 
 LWScenario:WOTRScenario007
-"War of the Ring (6, T)"
+"Guerre de l'Anneau (6, T)"
 END
 
 LWScenario:WOTRScenario007Description
@@ -23863,398 +23764,398 @@ LWScenario:WOTRScenario007Description
 END
 
 LWScenario:WOTRScenario008
-"War of the Ring (5, T)"
+"Guerre de l'Anneau (5, T)"
 END
 
 LWScenario:WOTRScenario008Description
-"# Of Players: 5\nEach player has a preset starting location and a number of claimed territories."
+"Nombre de joueurs : 5. \nChaque joueur a une position de départ requise et un nombre de territoires."
 END
 
 LWScenario:WOTRScenario009
-"War of the Ring (4, T)"
+"Guerre de l'Anneau (4, T)"
 END
 
 LWScenario:WOTRScenario009Description
-"# Of Players: 4\nEach player has a preset starting location and a number of claimed territories."
+"Nombre de joueurs : 4. \nChaque joueur a une position de départ requise et un nombre de territoires."
 END
 
 LWScenario:WOTRScenario010
-"War of the Ring (3, T)"
+"Guerre de l'Anneau (3, T)"
 END
 
 LWScenario:WOTRScenario010Description
-"# Of Players: 3\nEach player has a preset starting location and a number of claimed territories."
+"Nombre de joueurs : 3. \nChaque joueur a une position de départ requise et un nombre de territoires."
 END
 
 LWScenario:WOTRScenario011
-"War of the Ring (2, T)"
+"Guerre de l'Anneau (2, T)"
 END
 
 LWScenario:WOTRScenario011Description
-"# Of Players: 2\nEach player has a preset starting location and a number of claimed territories."
+"Nombre de joueurs : 2. \nChaque joueur a une position de départ requise et un nombre de territoires."
 END
 
 LWScenario:WOTRScenario0012
-"Sole Survivor"
+"Unique survivant"
 END
 
 LWScenario:WOTRScenario012
-"Sole Survivor"
+"Unique survivant"
 END
 
 LWScenario:WOTRScenario012Description
-"Game Type: Elimination\n# Of Players: 2-6\nObjective: Eliminate enemy players by conquering all of their territories.\nThis is a freeform game with no preset starting locations or claimed territories."
+"Type de partie : Élimination. \nNombre de joueurs : 2-6. \nObjectif : éliminer les joueurs ennemis en prenant tous leurs territoires. \nC'est une partie libre avec aucun prérequis de position de départ ou de réclamation de territoire."
 END
 
 LWScenario:WOTRScenario013
-"Sole Survivor (6)"
+"Unique survivant (6)"
 END
 
 LWScenario:WOTRScenario013Description
-"Game Type: Elimination\n# Of Players: 6\nObjective: Eliminate enemy players by conquering all of their territories.\nEach player has a preset starting location."
+"Type de partie : Élimination. \nNombre de joueurs : 6. \nObjectif : éliminer les joueurs ennemis en prenant tous leurs territoires. \nChaque joueur a une position de départ requise."
 END
 
 LWScenario:WOTRScenario014
-"Sole Survivor (5)"
+"Unique survivant (5)"
 END
 
 LWScenario:WOTRScenario014Description
-"Game Type: Elimination\n# Of Players: 5\nObjective: Eliminate enemy players by conquering all of their territories.\nEach player has a preset starting location."
+"Type de partie : Élimination. \nNombre de joueurs : 5. \nObjectif : éliminer les joueurs ennemis en prenant tous leurs territoires. \nChaque joueur a une position de départ requise."
 END
 
 LWScenario:WOTRScenario015
-"Sole Survivor (4)"
+"Unique survivant (4)"
 END
 
 LWScenario:WOTRScenario015Description
-"Game Type: Elimination\n# Of Players: 4\nObjective: Eliminate enemy players by conquering all of their territories.\nEach player has a preset starting location."
+"Type de partie : Élimination. \nNombre de joueurs : 4. \nObjectif : éliminer les joueurs ennemis en prenant tous leurs territoires. \nChaque joueur a une position de départ requise."
 END
 
 LWScenario:WOTRScenario016
-"Sole Survivor (3)"
+"Unique survivant (3)"
 END
 
 LWScenario:WOTRScenario016Description
-"Game Type: Elimination\n# Of Players: 3\nObjective: Eliminate enemy players by conquering all of their territories.\nEach player has a preset starting location."
+"Type de partie : Élimination. \nNombre de joueurs : 3. \nObjectif : éliminer les joueurs ennemis en prenant tous leurs territoires. \nChaque joueur a une position de départ requise."
 END
 
 LWScenario:WOTRScenario017
-"Sole Survivor (2)"
+"Unique survivant (2)"
 END
 
 LWScenario:WOTRScenario017Description
-"Game Type: Elimination\n# Of Players: 2\nObjective: Eliminate enemy players by conquering all of their territories.\nEach player has a preset starting location."
+"Type de partie : Élimination. \nNombre de joueurs : 2. \nObjectif : éliminer les joueurs ennemis en prenant tous leurs territoires. \nChaque joueur a une position de départ requise."
 END
 
 LWScenario:WOTRScenario018
-"Sole Survivor (6, T)"
+"Unique survivant (6, T)"
 END
 
 LWScenario:WOTRScenario018Description
-"Game Type: Elimination\n# Of Players: 6\nObjective: Eliminate enemy players by conquering all of their territories.\nEach player has a preset starting location and a number of claimed territories."
+"Type de partie : Élimination. \nNombre de joueurs : 6. \nObjectif : éliminer les joueurs ennemis en prenant tous leurs territoires. \nChaque joueur a une position de départ requise et un nombre de territoires."
 END
 
 LWScenario:WOTRScenario019
-"Sole Survivor (5, T)"
+"Unique survivant (5, T)"
 END
 
 LWScenario:WOTRScenario019Description
-"Game Type: Elimination\n# Of Players: 5\nObjective: Eliminate enemy players by conquering all of their territories.\nEach player has a preset starting location and a number of claimed territories."
+"Type de partie : Élimination. \nNombre de joueurs : 5. \nObjectif : éliminer les joueurs ennemis en prenant tous leurs territoires. \nChaque joueur a une position de départ requise et un nombre de territoires."
 END
 
 LWScenario:WOTRScenario020
-"Sole Survivor (4, T)"
+"Unique survivant (4, T)"
 END
 
 LWScenario:WOTRScenario020Description
-"Game Type: Elimination\n# Of Players: 4\nObjective: Eliminate enemy players by conquering all of their territories.\nEach player has a preset starting location and a number of claimed territories."
+"Type de partie : Élimination. \nNombre de joueurs : 4. \nObjectif : éliminer les joueurs ennemis en prenant tous leurs territoires. \nChaque joueur a une position de départ requise et un nombre de territoires."
 END
 
 LWScenario:WOTRScenario021
-"Sole Survivor (3, T)"
+"Unique survivant (3, T)"
 END
 
 LWScenario:WOTRScenario021Description
-"Game Type: Elimination\n# Of Players: 3\nObjective: Eliminate enemy players by conquering all of their territories.\nEach player has a preset starting location and a number of claimed territories."
+"Type de partie : Élimination. \nNombre de joueurs : 3. \nObjectif : éliminer les joueurs ennemis en prenant tous leurs territoires. \nChaque joueur a une position de départ requise et un nombre de territoires."
 END
 
 LWScenario:WOTRScenario022
-"Sole Survivor (2, T)"
+"Unique survivant (2, T)"
 END
 
 LWScenario:WOTRScenario022Description
-"Game Type: Elimination\n# Of Players: 2\nObjective: Eliminate enemy players by conquering all of their territories.\nEach player has a preset starting location and a number of claimed territories."
+"Type de partie : Élimination. \nNombre de joueurs : 2. \nObjectif : éliminer les joueurs ennemis en prenant tous leurs territoires. \nChaque joueur a une position de départ requise et un nombre de territoires."
 END
 
 LWScenario:WOTRScenario0023
-"One To Rule Them All"
+"Un Anneau Pour les Gouverner Tous"
 END
 
 LWScenario:WOTRScenario023
-"One To Rule Them All (20)"
+"Un Anneau Pour les Gouverner Tous (20)"
 END
 
 LWScenario:WOTRScenario023Description
-"Game Type: World Domination\n# Of Players: 2-6\nObjective: Rule the lands of Middle-earth by conquering 20 territories.\nThis is a freeform game with no preset starting locations."
+"Type de partie : Domination du monde. \nNombre de joueurs : 2-6. \nObjectif : régner sur les contrées de la Terre du Milieu en prenant 20 territoires. \nC'est une partie libre avec aucun prérequis de position de départ."
 END
 
 LWScenario:WOTRScenario024
-"One To Rule Them All (6, 20)"
+"Un Anneau Pour les Gouverner Tous (6, 20)"
 END
 
 LWScenario:WOTRScenario024Description
-"Game Type: World Domination\n# Of Players: 6\nObjective: Rule the lands of Middle-earth by conquering 20 territories.\nEach player has a preset starting location."
+"Type de partie : Domination du monde. \nNombre de joueurs : 6. \nObjectif : régner sur les contrées de la Terre du Milieu en prenant 20 territoires. \nChaque joueur a une position de départ requise."
 END
 
 LWScenario:WOTRScenario025
-"One To Rule Them All (5, 20)"
+"Un Anneau Pour les Gouverner Tous (5, 20)"
 END
 
 LWScenario:WOTRScenario025Description
-"Game Type: World Domination\n# Of Players: 5\nObjective: Rule the lands of Middle-earth by conquering 20 territories.\nEach player has a preset starting location."
+"Type de partie : Domination du monde. \nNombre de joueurs : 5. \nObjectif : régner sur les contrées de la Terre du Milieu en prenant 20 territoires. \nChaque joueur a une position de départ requise."
 END
 
 LWScenario:WOTRScenario026
-"One To Rule Them All (4, 20)"
+"Un Anneau Pour les Gouverner Tous (4, 20)"
 END
 
 LWScenario:WOTRScenario026Description
-"Game Type: World Domination\n# Of Players: 4\nObjective: Rule the lands of Middle-earth by conquering 20 territories.\nEach player has a preset starting location."
+"Type de partie : Domination du monde. \nNombre de joueurs : 4. \nObjectif : régner sur les contrées de la Terre du Milieu en prenant 20 territoires. \nChaque joueur a une position de départ requise."
 END
 
 LWScenario:WOTRScenario027
-"One To Rule Them All (3, 20)"
+"Un Anneau Pour les Gouverner Tous (3, 20)"
 END
 
 LWScenario:WOTRScenario027Description
-"Game Type: World Domination\n# Of Players: 3\nObjective: Rule the lands of Middle-earth by conquering 20 territories.\nEach player has a preset starting location."
+"Type de partie : Domination du monde. \nNombre de joueurs : 3. \nObjectif : régner sur les contrées de la Terre du Milieu en prenant 20 territoires. \nChaque joueur a une position de départ requise."
 END
 
 LWScenario:WOTRScenario028
-"One To Rule Them All (2, 20)"
+"Un Anneau Pour les Gouverner Tous (2, 20)"
 END
 
 LWScenario:WOTRScenario028Description
-"Game Type: World Domination\n# Of Players: 2\nObjective: Rule the lands of Middle-earth by conquering 20 territories.\nEach player has a preset starting location."
+"Type de partie : Domination du monde. \nNombre de joueurs : 2. \nObjectif : régner sur les contrées de la Terre du Milieu en prenant 20 territoires. \nChaque joueur a une position de départ requise."
 END
 
 LWScenario:WOTRScenario029
-"One To Rule Them All (30)"
+"Un Anneau Pour les Gouverner Tous (30)"
 END
 
 LWScenario:WOTRScenario029Description
-"Game Type: World Domination\n# Of Players: 2-6\nObjective: Rule the lands of Middle-earth by conquering 30 territories.\nThis is a freeform game with no preset starting locations."
+"Type de partie : Domination du monde. \nNombre de joueurs : 2-6. \nObjectif : régner sur les contrées de la Terre du Milieu en prenant 30 territoires. \nC'est une partie libre avec aucun prérequis de position de départ."
 END
 
 LWScenario:WOTRScenario030
-"One To Rule Them All (6, 30)"
+"Un Anneau Pour les Gouverner Tous (6, 30)"
 END
 
 LWScenario:WOTRScenario030Description
-"Game Type: World Domination\n# Of Players: 6\nObjective: Rule the lands of Middle-earth by conquering 30 territories.\nEach player has a preset starting location."
+"Type de partie : Domination du monde. \nNombre de joueurs : 6. \nObjectif : régner sur les contrées de la Terre du Milieu en prenant 30 territoires. \nChaque joueur a une position de départ requise."
 END
 
 LWScenario:WOTRScenario031
-"One To Rule Them All (5, 30)"
+"Un Anneau Pour les Gouverner Tous (5, 30)"
 END
 
 LWScenario:WOTRScenario031Description
-"Game Type: World Domination\n# Of Players: 5\nObjective: Rule the lands of Middle-earth by conquering 30 territories.\nEach player has a preset starting location."
+"Type de partie : Domination du monde. \nNombre de joueurs : 5. \nObjectif : régner sur les contrées de la Terre du Milieu en prenant 30 territoires. \nChaque joueur a une position de départ requise."
 END
 
 LWScenario:WOTRScenario032
-"One To Rule Them All (4, 30)"
+"Un Anneau Pour les Gouverner Tous (4, 30)"
 END
 
 LWScenario:WOTRScenario032Description
-"Game Type: World Domination\n# Of Players: 4\nObjective: Rule the lands of Middle-earth by conquering 30 territories.\nEach player has a preset starting location."
+"Type de partie : Domination du monde. \nNombre de joueurs : 4. \nObjectif : régner sur les contrées de la Terre du Milieu en prenant 30 territoires. \nChaque joueur a une position de départ requise."
 END
 
 LWScenario:WOTRScenario033
-"One To Rule Them All (3, 30)"
+"Un Anneau Pour les Gouverner Tous (3, 30)"
 END
 
 LWScenario:WOTRScenario033Description
-"Game Type: World Domination\n# Of Players: 3\nObjective: Rule the lands of Middle-earth by conquering 30 territories.\nEach player has a preset starting location."
+"Type de partie : Domination du monde. \nNombre de joueurs : 3. \nObjectif : régner sur les contrées de la Terre du Milieu en prenant 30 territoires. \nChaque joueur a une position de départ requise."
 END
 
 LWScenario:WOTRScenario034
-"One To Rule Them All (2, 30)"
+"Un Anneau Pour les Gouverner Tous (2, 30)"
 END
 
 LWScenario:WOTRScenario034Description
-"Game Type: World Domination\n# Of Players: 2\nObjective: Rule the lands of Middle-earth by conquering 30 territories.\nEach player has a preset starting location."
+"Type de partie : Domination du monde. \nNombre de joueurs : 2. \nObjectif : régner sur les contrées de la Terre du Milieu en prenant 30 territoires. \nChaque joueur a une position de départ requise."
 END
 
 LWScenario:WOTRScenario035
-"One To Rule Them All (All)"
+"Un Anneau Pour les Gouverner Tous (All)"
 END
 
 LWScenario:WOTRScenario035Description
-"Game Type: World Domination\n# Of Players: 2-6\nObjective: Rule the lands of Middle-earth by conquering all territories.\nThis is a freeform game with no preset starting locations."
+"Type de partie : Domination du monde. \nNombre de joueurs : 2-6. \nObjectif : régner sur les contrées de la Terre du Milieu en prenant tous les territoires. \nC'est une partie libre avec aucun prérequis de position de départ."
 END
 
 LWScenario:WOTRScenario036
-"One To Rule Them All (6, All)"
+"Un Anneau Pour les Gouverner Tous (6, All)"
 END
 
 LWScenario:WOTRScenario036Description
-"Game Type: World Domination\n# Of Players: 6\nObjective: Rule the lands of Middle-earth by conquering all territories.\nEach player has a preset starting location."
+"Type de partie : Domination du monde. \nNombre de joueurs : 6. \nObjectif : régner sur les contrées de la Terre du Milieu en prenant tous les territoires. \nChaque joueur a une position de départ requise."
 END
 
 LWScenario:WOTRScenario037
-"One To Rule Them All (5, All)"
+"Un Anneau Pour les Gouverner Tous (5, All)"
 END
 
 LWScenario:WOTRScenario037Description
-"Game Type: World Domination\n# Of Players: 5\nObjective: Rule the lands of Middle-earth by conquering all territories.\nEach player has a preset starting location."
+"Type de partie : Domination du monde. \nNombre de joueurs : 5. \nObjectif : régner sur les contrées de la Terre du Milieu en prenant tous les territoires. \nChaque joueur a une position de départ requise."
 END
 
 LWScenario:WOTRScenario038
-"One To Rule Them All (4, All)"
+"Un Anneau Pour les Gouverner Tous (4, All)"
 END
 
 LWScenario:WOTRScenario038Description
-"Game Type: World Domination\n# Of Players: 4\nObjective: Rule the lands of Middle-earth by conquering all territories.\nEach player has a preset starting location."
+"Type de partie : Domination du monde. \nNombre de joueurs : 4. \nObjectif : régner sur les contrées de la Terre du Milieu en prenant tous les territoires. \nChaque joueur a une position de départ requise."
 END
 
 LWScenario:WOTRScenario039
-"One To Rule Them All (3, All)"
+"Un Anneau Pour les Gouverner Tous (3, All)"
 END
 
 LWScenario:WOTRScenario039Description
-"Game Type: World Domination\n# Of Players: 3\nObjective: Rule the lands of Middle-earth by conquering all territories.\nEach player has a preset starting location."
+"Type de partie : Domination du monde. \nNombre de joueurs : 3. \nObjectif : régner sur les contrées de la Terre du Milieu en prenant tous les territoires. \nChaque joueur a une position de départ requise."
 END
 
 LWScenario:WOTRScenario040
-"One To Rule Them All (2, All)"
+"Un Anneau Pour les Gouverner Tous (2, All)"
 END
 
 LWScenario:WOTRScenario040Description
-"Game Type: World Domination\n# Of Players: 2\nObjective: Rule the lands of Middle-earth by conquering all territories.\nEach player has a preset starting location."
+"Type de partie : Domination du monde. \nNombre de joueurs : 2. \nObjectif : régner sur les contrées de la Terre du Milieu en prenant tous les territoires. \nChaque joueur a une position de départ requise."
 END
 
 LWScenario:WOTRScenario041
-"Strongholds of Middle-earth"
+"Bastions de la Terre du Milieu"
 END
 
 LWScenario:WOTRScenario041Description
-"Game Type: Conquest\n# Of Players: 2-6\nObjective: Seize the strongholds in Dol Guldur, Erebor, Helm's Deep, Isengard, Minas Tirith, Minas Morgul, and Rivendell."
+"Type de partie : Conquête. \nNombre de joueurs : 2-6. \nObjectif : s'emparer des Forteresses de Dol Guldur, Erebor, Gouffre de Helm, Isengard, Minas Tirith et Fondcombe."
 END
 
 LWScenario:WOTRScenario042
-"War in the North"
+"La Guerre au Nord"
 END
 
 LWScenario:WOTRScenario042Description
-"# Of Players: 4\nObjective: Fight for control of the northern lands of Middle-earth."
+"Nombre de joueurs : 2. \nObjectif : combattre pour le contrôle des Terres du Nord."
 END
 
 LWScenario:WOTRScenario043
-"War in the South"
+"La Guerre au Sud"
 END
 
 LWScenario:WOTRScenario043Description
-"# Of Players: 4\nObjective: Fight for control of the southern lands of Middle-earth."
+"Nombre de joueurs : 2. \nObjectif : combattre pour le contrôle des Terres du Sud."
 END
 
 LWScenario:WOTRScenario044
-"Historical"
+"Historique"
 END
 
 LWScenario:WOTRScenario044Description
-"# Of Players: 6\nObjective: Fight the War of the Ring from the historical start positions. Scenario starts in March 3019 (Third Age), just as Gandalf and Aragorn arrive in Rohan to convince Théoden that open war is upon him. At the same time, a great host marches from Isengard. The Free Peoples must mobilize quickly to face the forces of evil."
+"Nombre de joueurs : 6. \nObjectif : Commencez la Guerre de l'Anneau depuis une position historique. Le scénario commence en mars 3019 (Tier Age), lorsque Gandalf et Aragorn arrive au Rohan pour convaincre Théoden que la guerre est devant eux. Dans le même temps, une grande armée de l'Isengard est en marche. Les peuples libres doivent se mobiliser rapidement pour faire face aux forces du mal."
 END
 
 LWScenario:WOTRScenario045
-"Fall of Arnor"
+"Chute d'Arnor"
 END
 
 LWScenario:WOTRScenario045Description
-"# Of Players: 3\nObjective: Experience an invasion of western Middle-earth by the forces of Angmar. The Witch-king has seized Rhudaur and is now threatening to overrun both Men and Elves. Will Arnor be able to withstand the onslaught?"
+"Nombre de joueurs : 3. \nObjectif : Revivez une invasion de l'Ouest de la Terre du Milieu par les forces d'Angmar. Le Roi-Sorcier a conquis le Rhudaur et menace désormais d'envahir les territoires des Hommes et des Elfes. L'Arnor est-il en mesure de résister à l'assaut ?"
 END
 
 LWScenario:AOTRScenario001
-"WOTR: Assault on Rohan"
+"Assaut du Rohan"
 END
 
 LWScenario:AOTRScenario001Description
-"# Of Players: 2\nSaruman has raised an army and is now threatening to overrun the Riddermark."
+"Nombre de joueurs : 2. \nSaroumane a levé une armée et menace maintenant d'envahir le Riddermark."
 END
 
 LWScenario:AOTRScenario002
-"WOTR: Siege of Gondor"
+"Siege du Gondor"
 END
 
 LWScenario:AOTRScenario002Description
-"# Of Players: 2\nSauron is gathering an army and prepares to take the capital city of Gondor."
+"Nombre de joueurs : 2. \nSauron rassemble ses forces et se prépare à envahir la capitale du Gondor."
 END
 
 LWScenario:AOTRScenario003
-"WOTR: War in the South"
+"La Guerre au Sud"
 END
 
 LWScenario:AOTRScenario003Description
-"# Of Players: 2-6\nObjective: Fight for control of the southern lands of Middle-earth."
+"Nombre de joueurs :  2-6. \nObjectif : Combattez pour le contrôle des terres méridionales de la Terre du Milieu."
 END
 
 LWScenario:AOTRScenario004
-"WOTR: War in the North"
+"La Guerre au Nord"
 END
 
 LWScenario:AOTRScenario004Description
-"# Of Players: 2-6\nObjective: Fight for control of the northern lands of Middle-earth."
+"Nombre de joueurs : 2-6. \nObjectif : Combattez pour le contrôle des terres du nord de la Terre du Milieu."
 END
 
 CONTROLBAR:LW_ToolTip_GenericStronghold
-"Structure Type: Fortress \n A permanent stronghold defends this territory."
+"Type de structure : Forteresse. \n Un bastion permanent défend ce territoire."
 END
 
 LWScenario:WOTRCapitalAssaultWin001
-"You have successfully conquered the capital territory of all players on the opposing team."
+"Vous avez conquis les capitales de tous les joueurs de l'équipe adverse."
 END
 
 LWScenario:WOTRCapitalAssaultLose001
-"You have failed to defend your capital territory from the players on the opposing team."
+"Vous avez échoué dans la défense de votre capitale. Les joueurs de l'équipe adverse s'en sont emparés."
 END
 
 LWScenario:WOTRCapitalAssaultWinLastAlliance
-"Sauron has been defeated!"
+"Sauron a été vaincu !"
 END
 
 LWScenario:WOTRCapitalAssaultLoseLastAlliance
-"The Last Alliance of Elves and Men has failed!"
+"La Dernière Alliance des Elfes et des Hommes a échoué !"
 END
 
 LWScenario:WOTREliminationWin001
-"You have successfully eliminated all players on the opposing team."
+"Vous avez éliminé avec succès tous les joueurs de l'équipe adverse."
 END
 
 LWScenario:WOTREliminationLose001
-"You have been eliminated from the game by the players on the opposing team."
+"Vous avez été éliminé par les joueurs de l'équipe adverse."
 END
 
 LWScenario:WOTRGenericWin001
-"You have successfully led your kingdom to glory and have crushed your enemies in Middle-earth."
+"Vous avez mené votre royaume à la victoire et écrasé vos ennemis dans la Terre du Milieu."
 END
 
 LWScenario:WOTRGenericLose001
-"You have failed to defend your kingdom from slaughter and have succumbed to your enemies in Middle-earth."
+"Vous avez échoué dans la défense de votre royaume, toutes vos troupes ont été massacrées par vos ennemis dans la Terre du Milieu."
 END
 
 LWScenario:WOTRGenericWin002
-"You have successfully conquered the required territories in Middle-earth."
+"Vous avez conquis les territoires requis de la Terre du Milieu."
 END
 
 LWScenario:WOTRGenericLose002
-"You have failed to conquer the required territories in Middle-earth."
+"Vous avez échoué dans la conquête des territoires requis de la Terre du Milieu."
 END
 
 
 
 ///Living World Army
 LWA:FellowshipArmy
-"The Fellowship"
+"La Communauté"
 END
 LWA:Elves
 "Lothlórien"
@@ -24263,61 +24164,61 @@ LWA:EntsArmy
 "Ents"
 END
 LWA:RohanArmy
-"Rohan Army"
+"Armée du Rohan"
 END
 LWA:GondorArmy
-"Gondor Army"
+"Armée du Gondor"
 END
 LWA:IsengardArmy
-"Isengard Army"
+"Armée de l'Isengard"
 END
 LWA:MordorArmy
-"Mordor Army"
+"Armée du Mordor"
 END
 LWA:GoblinsArmy
-"Goblin Army"
+"Armée de Gobelins"
 END
 LWA:CorsairsArmy
-"Corsairs Army"
+"Armée des Pirates"
 END
 LWA:GuldurArmy
-"Dol Guldur Army"
+"Armée de Dol Guldur"
 END
 LWA:OathbreakersArmy
-"Oathbreakers Army"
+"Armée des Parjures"
 END
 LWA:EasterlingsArmy
-"Soldiers of Rhûn Army"
+"Armée des soldats de Rhûn"
 END
 LWA:HaradrimArmy
-"Haradrim Army"
+"Armée des Haradrims"
 END
 LWA:ShireArmy
-"The Shire"
+"La Comté"
 END
 LWA:BreeArmy
 "Bree"
 END
 LWA:RivendellArmy
-"Rivendell"
+"Fondcombe"
 END
 LWA:LothlorienArmy
-"Lothlórien"
+"La Lothlórien"
 END
 LWA:MoriaArmy
-"The Mines of Moria"
+"Les Mines de la Moria"
 END
 LWA:Isengard_CityArmy
-"Isengard Army"
+"Armée de l'Isengard"
 END
 LWA:HelmsDeepArmy
-"Helm's Deep Army"
+"Armée du Gouffre de Helm"
 END
 LWA:EdorasArmy
-"Edoras Army"
+"Armée d'Edoras"
 END
 LWA:OsgiliathArmy
-"Osgiliath Army"
+"Armée d'Osgiliath"
 END
 LWA:MinasTirithArmy
 "Minas Tirith"
@@ -24326,19 +24227,19 @@ LWA:CirithUngolArmy
 "Cirith Ungol"
 END
 LWA:BlackGateArmy
-"The Black Gate"
+"La Porte Noire"
 END
 LWA:BaradDurArmy
 "Barad-dur"
 END
 LWA:MtDoomArmy
-"Mt. Doom"
+"Mont. Destin"
 End
 LWA:FangornArmy
-"Forest of Fangorn"
+"Forêt de Fangorn"
 End
 LWA:DeadMarshesArmy
-"Dead Marshes"
+"Marais des Morts"
 End
 
 
@@ -24346,360 +24247,360 @@ End
 // WOTR Tutorial text
 //-------------------------------------------------------------------------------------------------
 WOTRTutorial:BuildBarracksCairAndros
-"Select the open build plot in Cair Andros and build a barracks."
+"Sélectionnez le plot de construction à Cair Andros et construisez une caserne."
 End
 
 WOTRTutorial:TrainTroopsCairAndros
-"Select the barracks in Cair Andros and train a battalion of troops."
+"Sélectionnez la caserne de Cair Andros et entraînez un bataillon de soldats."
 End
 
 WOTRTutorial:InspectArmyCairAndros
-"Select the garrison army in Cair Andros and examine its composition by displaying the details panel."
+"Sélectionnez l'armée de garnison à Cair Andros et examinez sa composition en affichant le panneau de détails."
 End
 
 WOTRTutorial:MergeGarrisonWithAragorn
-"Order the garrison army in Cair Andros to join Aragorn's army in Rohan."
+"Ordonnez à l'armée de garnison de Cair Andros de rejoindre l'armée d'Aragorn au Rohan."
 End
 
 WOTRTutorial:MoveAragornToDeadMarshes
-"Select Aragorn's army in Rohan and move into the Dead Marshes."
+"Sélectionnez l'armée d'Aragorn au Rohan et avancez dans les Marais des Morts."
 End
 
 WOTRTutorial:TutorialCompletedTitle
-"Tutorial Complete"
+"Tutoriel terminé"
 End
 
 WOTRTutorial:TutorialCompletedText
-"Congratulations! You have successfully completed the War of the Ring tutorial."
+"Toutes nos félicitations ! Vous avez terminé avec succès le didacticiel de la Guerre de l'Anneau."
 End
 
 WOTRTutorial:LW_InstructionText01
-"Welcome To the War Of The Ring."
+"Bienvenue dans la guerre de l'anneau."
 End
 
 WOTRTutorial:LW_InstructionText02
-"The War Of The Ring is a turn-based strategic game that is played on the living world map."
+"La guerre de l'anneau est un jeu de stratégie au tour par tour qui se joue sur la carte du monde vivant."
 End
 
 WOTRTutorial:LW_InstructionText03
-"Territories that are under your control will be highlighted with your color and territories claimed by your enemies will be highlighted with their respective colors."
+"Les territoires sous votre contrôle seront mis en évidence avec votre couleur et les territoires revendiqués par vos ennemis seront mis en évidence avec leurs couleurs respectives."
 End
 
 WOTRTutorial:LW_InstructionText04
-"To zoom in and out of the map, push the mouse wheel forward and backward. To scroll through the map, push your cursor towards the edge of the screen to move in that direction."
+"Pour effectuer un zoom avant et arrière sur la carte, poussez la molette de la souris vers l'avant et l'arrière. Pour faire défiler la carte, poussez votre curseur vers le bord de l'écran pour vous déplacer dans cette direction."
 End
 
 WOTRTutorial:LW_InstructionText05
-"A single turn is divided into 3 phases, Tactical, Battle, and Retreat."
+"Un seul tour est divisé en 3 phases, tactique, bataille et retraite."
 End
 
 WOTRTutorial:LW_InstructionText06
-"In the Tactical Phase, you will make all your strategic choices regarding the expansion of your kingdom. Structure Construction, Unit Training, and Army Movement are all decided in this phase."
+"Dans la Phase Tactique, vous ferez tous vos choix stratégiques concernant l'expansion de votre royaume. La construction de la structure, l'entraînement des unités et le mouvement de l'armée sont tous décidés au cours de cette phase."
 End
 
 WOTRTutorial:LW_InstructionText07
-"You can construct new buildings on any open build plot in a territory you control."
+"Vous pouvez construire de nouveaux bâtiments sur n'importe quel terrain à bâtir ouvert dans un territoire que vous contrôlez."
 End
 
 WOTRTutorial:LW_InstructionText08
-"There are four basic structure classes to choose from, Fortress, Barracks, Armoury, and Farm."
+"Vous avez le choix entre quatre classes de structure de base : Forteresse, Caserne, Armurerie et Ferme."
 End
 
 WOTRTutorial:LW_InstructionText09
-"To build a new structure, left click on a build plot to bring up the menu that shows all the available buildings that can be constructed. Then left click on the building you want to construct."
+"Pour construire une nouvelle structure, faites un clic gauche sur un terrain de construction pour faire apparaître le menu qui montre tous les bâtiments disponibles qui peuvent être construits. Ensuite, faites un clic gauche sur le bâtiment que vous souhaitez construire."
 End
 
 WOTRTutorial:LW_InstructionText10
-"All structures cost a number of turns to build and only one structure per territory can be under construction at a time."
+"Toutes les structures coûtent un certain nombre de tours à construire et une seule structure par territoire peut être en construction à la fois."
 End
 
 WOTRTutorial:LW_InstructionText11
-"In the Battle Phase, all conflicts between opposing players are fought. A battle occurs when at least one of your armies and one of your enemy's armies end up in the same territory after the planned moves are executed from the tactical phase."
+"Dans la phase Batailles, tous les conflits entre les joueurs adverses sont combattus. Une bataille se produit lorsqu'au moins une de vos armées et une armée ennemies se retrouvent sur le même territoire après l'exécution des mouvements planifiés à partir de la phase Tactiques."
 End
 
 WOTRTutorial:LW_InstructionText12
-"In the Retreat phase, all Hero armies that are defeated in battle must withdraw to safe territories."
+"Dans la phase de Retraite, toutes les armées de Héros qui sont vaincues au combat doivent se retirer vers des territoires sûrs."
 End
 
 WOTRTutorial:LW_InstructionText13
-"Command points represent the number of troops you are allowed to train. You can not build more troops than you have command points. Your world command point limit indicates the current population of your empire that inhabits the whole of Middle-earth."
+"Les points de commandement représentent le nombre de troupes que vous êtes autorisé à entraîner. Vous ne pouvez pas construire plus de troupes que vous n'avez de points de commandement. Votre limite de points de commandement mondiaux indique la population actuelle de votre empire qui habite l'ensemble de la Terre du Milieu."
 End
 
 WOTRTutorial:LW_InstructionText14
-"You can train new units at any one of your barracks."
+"Vous pouvez entraîner de nouvelles unités dans n'importe laquelle de vos casernes."
 End
 
 WOTRTutorial:LW_InstructionText15
-"There are four basic unit classes to choose from, Soldier, Archer, Pikeman, and Cavalry."
+"Vous avez le choix entre quatre classes d'unités de base : soldats, archers, piquiers et cavaliers."
 End
 
 WOTRTutorial:LW_InstructionText16
-"To train a new battalion, left click on a barracks to bring up the menu that shows all the available units that can be trained. Then left click on the unit you want to train."
+"Pour former un nouveau bataillon, faites un clic gauche sur une caserne pour faire apparaître le menu qui montre toutes les unités disponibles qui peuvent être entraînées. Ensuite, faites un clic gauche sur l'unité que vous souhaitez entraîner."
 End
 
 WOTRTutorial:LW_InstructionText17
-"All battalions cost a number of turns to train and only one set of troops per barracks can be in training at a time."
+"Tous les bataillons coûtent un certain nombre de tours pour s'entraîner et un seul groupe de troupes par caserne peut être en formation à la fois."
 End
 
 WOTRTutorial:LW_InstructionText18
-"All armies are allowed to move to only 1 adjacent territory from their current location per turn. However, the choice of an army's destination depends on the type of army that is being moved."
+"Toutes les armées ne sont autorisées à se déplacer que vers 1 territoire adjacent à partir de leur emplacement actuel par tour. Cependant, le choix de la destination d'une armée dépend du type d'armée déplacée."
 End
 
 WOTRTutorial:LW_InstructionText19
-"There are 2 types of armies under your command, Garrison Armies, and Hero Armies."
+"Il existe 2 types d'armées sous votre commandement, les armées de garnison et les armées de héros."
 End
 
 WOTRTutorial:LW_InstructionText20
-"A garrison army is composed of all the troop battalions that reside in a territory."
+"Une armée de garnison est composée de tous les bataillons de troupes qui résident sur un territoire."
 End
 
 WOTRTutorial:LW_InstructionText21
-"To examine the composition of an army, left click to select an army. Then left click on the Selection Details button on the Palantir at the lower left of the screen."
+"Pour examiner la composition d'une armée, faites un clic gauche pour sélectionner une armée. Ensuite, faites un clic gauche sur le bouton Détails de la sélection sur le Palantir en bas à gauche de l'écran."
 End
 
 WOTRTutorial:LW_InstructionText22
-"Garrison armies are used to defend the lands of your empire and can only move between territories that you control."
+"Les armées de garnison sont utilisées pour défendre les terres de votre empire et ne peuvent se déplacer qu'entre les territoires que vous contrôlez."
 End
 
 WOTRTutorial:LW_InstructionText23
-"To order a garrison army to join a Hero army, left click to select a garrison army. Then right click on the desired Hero army to have the battalions of your selected army merge with the Hero forces."
+"Pour ordonner à une armée de garnison de rejoindre une armée de héros, faites un clic gauche pour sélectionner une armée de garnison. Ensuite, faites un clic droit sur l'armée de héros souhaitée pour que les bataillons de votre armée sélectionnée fusionnent avec les forces de héros."
 End
 
 WOTRTutorial:LW_InstructionText24
-"A Hero army is a group of battalions that are commanded by a special Hero that has the ability to lead troops into battle."
+"Une armée de Héros est un groupe de bataillons commandés par un Héros spécial qui a la capacité de mener des troupes au combat."
 End
 
 WOTRTutorial:LW_InstructionText25
-"To order a Hero army to move into a territory, left click to select a Hero army. Then right click on the desired territory to send your selected Hero army to that location."
+"Pour ordonner à une armée de Héros de se déplacer sur un territoire, faites un clic gauche pour sélectionner une armée de Héros. Ensuite, faites un clic droit sur le territoire souhaité pour envoyer votre armée de héros sélectionnée à cet endroit."
 End
 
 WOTRTutorial:LW_InstructionText26
-"Active battles are indicated by an animated battle marker. To settle the encounter, left click the battle marker."
+"Les batailles actives sont indiquées par un marqueur de bataille animé. Pour régler la rencontre, faites un clic gauche sur le marqueur de bataille."
 End
 
 WOTRTutorial:LW_InstructionText27
-"This battle screen shows you detailed information about your forces and the enemy forces involved in skirmish in the contested territory."
+"Cet écran de bataille vous montre des informations détaillées sur vos forces et les forces ennemies impliquées dans des escarmouches dans le territoire contesté."
 End
 
 WOTRTutorial:LW_InstructionText28
-"You may have up to 3 methods for handling an encounter, Auto-Resolve, Realtime, or Retreat."
+"Vous pouvez avoir jusqu'à 3 méthodes pour gérer une rencontre, résolution automatique, temps réel ou retraite."
 End
 
 WOTRTutorial:LW_InstructionText29
-"Only the Hero army leaders survive from a lost battle and have the ability to retreat."
+"Seuls les chefs de l'armée Héros survivent à une bataille perdue et ont la capacité de battre en retraite."
 End
 
 WOTRTutorial:LW_InstructionText30
-"To order a Hero army to retreat, left click to select a defeated Hero army. Then right click on a friendly territory to send your army to that location."
+"Pour ordonner à une armée de Héros de battre en retraite, faites un clic gauche pour sélectionner une armée de Héros vaincue. Ensuite, faites un clic droit sur un territoire ami pour envoyer votre armée à cet endroit."
 End
 
 WOTRTutorial:LW_InstructionText31
-"Good Luck!"
+"Bonne chance !"
 End
 
 
 WOTRSCRIPT:WOTR_Tutorial003subtitle
-"The War Of The Ring is a turn-based strategic game of territory conquest, resource management, and epic confrontations that takes place over the lands of Middle-earth."
+"La guerre de l'anneau est un jeu stratégique au tour par tour de conquête de territoire, de gestion des ressources et d'affrontements épiques qui se déroule sur les terres de la Terre du Milieu."
 END
 
 WOTRSCRIPT:WOTR_Tutorial004subtitle
-"The game is played on the living world map."
+"Le jeu se joue sur la carte du monde vivant."
 END
 
 WOTRSCRIPT:WOTR_Tutorial010subtitle
-"The game is played as a series of turns that are taken simultaneously by all players."
+"Le jeu se joue comme une série de tours qui sont pris simultanément par tous les joueurs."
 END
 
 WOTRSCRIPT:WOTR_Tutorial013subtitle
-"Each phase must be completed by all players before the game continues to the next phase. When all phases have been completed, the turn is over and a new turn begins."
+"Chaque phase doit être terminée par tous les joueurs avant que le jeu ne passe à la phase suivante. Lorsque toutes les phases sont terminées, le tour est terminé et un nouveau tour commence."
 END
 
 WOTRSCRIPT:WOTR_Tutorial018subtitle
-"First, you will focus on structure construction in the tactical phase of this turn."
+"Tout d'abord, vous devez vous concentrer sur la construction des structures dans la phase tactique de ce tour."
 END
 
 WOTRSCRIPT:WOTR_Tutorial021subtitle
-"There are four basic structure classes to choose from, Fortress, Barracks, Armoury, and Farm. Each structure class provides a necessary function to a growing empire."
+"Vous avez le choix entre quatre classes de structure de base : Forteresse, Caserne, Armurerie et Ferme. Chaque classe de structure fournit une fonction nécessaire à un empire en pleine croissance."
 END
 
 WOTRSCRIPT:WOTR_Tutorial024subtitle
-"Select the open build plot in Cair Andros and build a barracks."
+"Sélectionnez le terrain à bâtir ouvert à Cair Andros et construisez une caserne."
 END
 
 WOTRSCRIPT:WOTR_Tutorial027subtitle
-"Once all players have completed the tactical phase, the strategic choices of each player are revealed on the living world map, and the game continues to the next phase."
+"Une fois que tous les joueurs ont terminé la phase tactique, les choix stratégiques de chaque joueur sont révélés sur la carte du monde vivant, et le jeu passe à la phase suivante."
 END
 
 WOTRSCRIPT:WOTR_Tutorial028subtitle
-"Since you are not going to construct any more buildings at this time, press the End Phase button to finish the tactical phase."
+"Puisque vous n'allez plus construire de bâtiments pour le moment, appuyez sur le bouton Fin de la phase pour terminer la phase tactique."
 END
 
 WOTRSCRIPT:WOTR_Tutorial032subtitle
-"Since there are not any conflicts at this time, the game will continue to the next phase."
+"Puisqu'il n'y a pas de conflits pour le moment, le jeu continuera à la phase suivante."
 END
 
 WOTRSCRIPT:WOTR_Tutorial034subtitle
-"In the Retreat phase, all armies lead by Heroes that are defeated in battle must withdraw to safe territories."
+"Dans la phase de Retraite, toutes les armées dirigées par des Héros qui sont vaincus au combat doivent se retirer vers des territoires sûrs."
 END
 
 WOTRSCRIPT:WOTR_Tutorial035subtitle
-"Since you do not have any defeated Hero armies at this time, the game will continue to the next phase."
+"Comme vous n'avez pas d'armées de héros vaincues pour le moment, le jeu continuera à la phase suivante."
 END
 
 WOTRSCRIPT:WOTR_Tutorial036subtitle
-"Now that all phases have been finished, a single turn in War Of The Ring is completed. A new turn begins and you start again at the tactical phase."
+"Maintenant que toutes les phases sont terminées, un seul tour de la Guerre de l'Anneau est terminé. Un nouveau tour commence et vous recommencez à la phase tactique."
 END
 
 WOTRSCRIPT:WOTR_Tutorial039subtitle
-"The barracks you started to build in the previous turn has been completed and its abilities are now available for you to use."
+"La caserne que vous avez commencé à construire au tour précédent est terminée et ses capacités sont désormais disponibles pour vous."
 END
 
 WOTRSCRIPT:WOTR_Tutorial040subtitle
-"Next, you will concentrate on unit training in the tactical phase of this turn."
+"Vous devez maintenant vous concentrer sur l'entraînement des unités dans la phase tactique de ce tour."
 END
 
 WOTRSCRIPT:WOTR_Tutorial042subtitle
-"Command points represent the number of troops you are allowed to train. You can not build more troops than you have command points."
+"Les points de commandement représentent le nombre de troupes que vous êtes autorisé à entraîner. Vous ne pouvez pas construire plus de troupes que vous n'avez de points de commandement."
 END
 
 WOTRSCRIPT:WOTR_Tutorial043subtitle
-"Your world command point limit indicates the current population of your empire that inhabits the whole of Middle-earth. It is displayed at the top left corner of the screen."
+"Votre limite de points de commandement mondiaux indique la population actuelle de votre empire qui habite l'ensemble de la Terre du Milieu. Il est affiché dans le coin supérieur gauche de l'écran."
 END
 
 WOTRSCRIPT:WOTR_Tutorial046subtitle
-"There are four basic unit classes to choose from, Soldier, Archer, Pikeman, and Cavalry. Each unit class has their own distinct traits and capabilities when fighting the other unit classes."
+"Vous avez le choix entre quatre classes d'unités de base : soldats, archers, piquiers et cavaliers. Chaque classe d'unité a ses propres caractéristiques et capacités lorsqu'elle combat les autres classes d'unité."
 END
 
 WOTRSCRIPT:WOTR_Tutorial048subtitle
-"Select the barracks in Cair Andros and train a battalion of troops."
+"Sélectionnez la caserne de Cair Andros et entraînez un bataillon de troupes."
 END
 
 WOTRSCRIPT:WOTR_Tutorial051subtitle
-"Since you are not going to train any more units at this time, press the End Phase button to finish the tactical phase."
+"Puisque vous n'allez plus entraîner d'unités pour le moment, appuyez sur le bouton Fin de phase pour terminer la phase tactique."
 END
 
 WOTRSCRIPT:WOTR_Tutorial052subtitle
-"Again, no conflicts have occurred, so the game will pass through the battle and retreat phases."
+"Encore une fois, aucun conflit n'a eu lieu, donc le jeu passera par les phases de bataille et de retraite."
 END
 
 WOTRSCRIPT:WOTR_Tutorial056subtitle
-"The battalion you started to train in the previous turn has been completed and is now available for you to command into battle."
+"Le bataillon que vous avez commencé à entraîner au tour précédent est terminé et est désormais disponible pour que vous puissiez le commander au combat."
 END
 
 WOTRSCRIPT:WOTR_Tutorial057subtitle
-"Finally, you will learn army movement in the tactical phase of this turn."
+"Vous allez enfin apprendre le mouvement de l'armée dans la phase tactique de ce tour."
 END
 
 WOTRSCRIPT:WOTR_Tutorial063subtitle
-"Select the garrison army in Cair Andros and examine its composition by displaying the details panel."
+"Sélectionnez l'armée de garnison à Cair Andros et examinez sa composition en affichant le panneau de détails."
 END
 
 WOTRSCRIPT:WOTR_Tutorial064subtitle
-"Observe that the battalion you just trained appears here."
+"Observez que le bataillon que vous venez d'entraîner apparaît ici."
 END
 
 WOTRSCRIPT:WOTR_Tutorial065subtitle
-"From this panel, detailed stats for each battalion in an army can be seen, and commands to the individual battalions themselves can be given."
+"? partir de ce panneau, des statistiques détaillées pour chaque bataillon d'une armée peuvent être consultées et des ordres aux bataillons individuels eux-mêmes peuvent être donnés."
 END
 
 WOTRSCRIPT:WOTR_Tutorial066subtitle
-"Garrison armies are used to defend the lands of your empire and can only move between territories that you control. Thus, they cannot takeover neutral territories or invade enemy territories on their own. However, a garrison army can join with a Hero army to strengthen a Hero army's attacking forces."
+"Les armées de garnison sont utilisées pour défendre les terres de votre empire et ne peuvent se déplacer qu'entre les territoires que vous contrôlez. Ainsi, ils ne peuvent pas s'emparer de territoires neutres ou envahir des territoires ennemis par eux-mêmes. Cependant, une armée de garnison peut se joindre à une armée de héros pour renforcer les forces d'attaque d'une armée de héros."
 END
 
 WOTRSCRIPT:WOTR_Tutorial069subtitle
-"Order the garrison army in Cair Andros to join Aragorn's army in Rohan."
+"Ordonnez à l'armée de garnison de Cair Andros de rejoindre l'armée d'Aragorn au Rohan."
 END
 
 WOTRSCRIPT:WOTR_Tutorial071subtitle
-"A Hero army is a group of battalions that are commanded by a special Hero that has the ability to lead troops into battle. They can not only move between territories that you control, but are also used to expand the lands of your kingdom by conquering neutral territories and invading enemy territories."
+"Une armée de Héros est un groupe de bataillons commandés par un Héros spécial qui a la capacité de mener des troupes au combat. Ils peuvent non seulement se déplacer entre les territoires que vous contrôlez, mais sont également utilisés pour étendre les terres de votre royaume en conquérant des territoires neutres et en envahissant des territoires ennemis."
 END
 
 WOTRSCRIPT:WOTR_Tutorial075subtitle
-"Select Aragorn's army in Rohan and move into The Dead Marshes."
+"Sélectionnez l'armée d'Aragorn au Rohan et entrez dans le marais des morts."
 END
 
 WOTRSCRIPT:WOTR_Tutorial077subtitle
-"Since you are not going to move any more armies at this time, press the End Phase button to finish the tactical phase."
+"Comme vous n'allez plus déplacer d'armées pour le moment, appuyez sur le bouton Fin de phase pour terminer la phase tactique."
 END
 
 WOTRSCRIPT:WOTR_Tutorial079subtitle
-"This time during the battle phase there are encounters with the enemy that must be resolved."
+"Cette fois, pendant la phase de bataille, il y a des rencontres avec l'ennemi qui doivent être résolues."
 END
 
 WOTRSCRIPT:WOTR_Tutorial082subtitle
-"Select the battle marker in Osgiliath to resolve the conflict."
+"Sélectionnez le marqueur de bataille à Osgiliath pour résoudre le conflit."
 END
 
 WOTRSCRIPT:WOTR_Tutorial083subtitle
-"This battle screen shows you detailed information about your forces and the enemy forces involved in the skirmish in the contested territory."
+"Cet écran de bataille vous montre des informations détaillées sur vos forces et les forces ennemies impliquées dans l'escarmouche dans le territoire contesté."
 END
 
 WOTRSCRIPT:WOTR_Tutorial085subtitle
-"Selecting Auto-Resolve will calculate the winner of the battle automatically based on factors such as the size, unit composition, and experience of the forces involved."
+"La sélection de la résolution automatique calculera automatiquement le vainqueur de la bataille en fonction de facteurs tels que la taille, la composition de l'unité et l'expérience des forces impliquées."
 END
 
 WOTRSCRIPT:WOTR_Tutorial086subtitle
-"Selecting Realtime will allow you to manually fight the battle in the disputed territory."
+"La sélection de Temps réel vous permettra de livrer manuellement la bataille sur le territoire contesté."
 END
 
 WOTRSCRIPT:WOTR_Tutorial087subtitle
-"Selecting Retreat will allow you to withdraw your forces from the conflict before the battle starts. However, your retreating armies may lose some units in the process."
+"Sélectionner Retraite vous permettra de retirer vos forces du conflit avant le début de la bataille. Cependant, vos armées en retraite peuvent perdre certaines unités au cours du processus."
 END
 
 WOTRSCRIPT:WOTR_Tutorial088subtitle
-"When the battle has been resolved, ownership of the territory will be awarded to the winner."
+"Une fois la bataille résolue, la propriété du territoire sera attribuée au vainqueur."
 END
 
 WOTRSCRIPT:WOTR_Tutorial089subtitle
-"For the purposes of the tutorial, all battles will be auto-resolved."
+"Pour les besoins du didacticiel, toutes les batailles seront résolues automatiquement."
 END
 
 WOTRSCRIPT:WOTR_Tutorial090subtitle
-"Press the Auto-Resolve button to fight the battle in Osgiliath."
+"Appuyez sur le bouton Résolution automatique pour livrer bataille à Osgiliath."
 END
 
 WOTRSCRIPT:WOTR_Tutorial091subtitle
-"You lost this battle, but not the war. Don't give up."
+"Vous avez perdu cette bataille, mais pas la guerre. N'abandonnez pas."
 END
 
 WOTRSCRIPT:WOTR_Tutorial092subtitle
-"During the Battle phase there may be multiple conflicts. Each conflict is resolved one at a time."
+"Pendant la phase de combat, il peut y avoir plusieurs conflits. Chaque conflit est résolu un à la fois."
 END
 
 WOTRSCRIPT:WOTR_Tutorial093subtitle
-"Select the battle marker in The Dead Marshes to resolve the conflict."
+"Sélectionnez le marqueur de bataille dans le marais des morts pour résoudre le conflit."
 END
 
 WOTRSCRIPT:WOTR_Tutorial095subtitle
-"Once all battles have been resolved, the battle phase is over."
+"Une fois toutes les batailles résolues, la phase de bataille est terminée."
 END
 
 WOTRSCRIPT:WOTR_Tutorial096subtitle
-"Press the End Phase button to finish the battle phase."
+"Appuyez sur le bouton Fin de phase pour terminer la phase de combat."
 END
 
 WOTRSCRIPT:WOTR_Tutorial098subtitle
-"Since one of your Hero armies has been defeated in battle, you must withdraw that army to a friendly territory to recover. Only the Hero army leaders survive from a lost battle and have the ability to retreat."
+"Étant donné qu'une de vos armées de Héros a été vaincue au combat, vous devez retirer cette armée vers un territoire ami pour récupérer. Seuls les chefs de l'armée Héros survivent à une bataille perdue et ont la capacité de battre en retraite."
 END
 
 WOTRSCRIPT:WOTR_Tutorial100subtitle
-"Select Boromir's army in Osgiliath and retreat to one of your territories."
+"Sélectionnez l'armée de Boromir à Osgiliath et battez en retraite dans l'un de vos territoires."
 END
 
 WOTRSCRIPT:WOTR_Tutorial102subtitle
-"Once all retreat orders have been issued, the retreat phase is over."
+"Une fois que tous les ordres de retraite ont été donnés, la phase de retraite est terminée."
 END
 
 WOTRSCRIPT:WOTR_Tutorial103subtitle
-"Press the End Phase button to finish the retreat phase."
+"Appuyez sur le bouton Fin de phase pour terminer la phase de retraite."
 END
 
 WOTRSCRIPT:WOTR_Tutorial104subtitle
-"The turn is over, but the battle for Middle-earth has just begun."
+"Le tour est terminé, mais la bataille pour la Terre du Milieu ne fait que commencer."
 END
 
 WOTRSCRIPT:WOTR_Tutorial105subtitle
-"This concludes the War Of The Ring tutorial. Follow these simple guidelines and you will soon dominate the whole of Middle-earth."
+"Ceci conclut le didacticiel de la Guerre de l'Anneau. Suivez ces directives simples et vous dominerez bientôt l'ensemble de la Terre du Milieu."
 END
 
 
@@ -24710,109 +24611,107 @@ End
 
 APT:PlayersTab
 // Text for players in chat list box, online chat window
-"PLAYERS"
+"JOUEURS"
 End
 
 APT:FriendsTab
 // Text for players in chat list box, online chat window
-"FRIENDS"
-End
+"AMIS"
+END
 
 APT:LanPlayersTab
 // Text for players in chat list box, online chat window
-"PLAYERS"
+"JOUEURS"
 End
 
 APT:LanEveryoneTab
 // Text for players in chat list box, online chat window
-"EVERYONE"
-End
+"TOUS"
+END
 
 
 APT:AddFriend
 // Text for Add Friend button in Online chat window.
-"ADD FRIEND"
-End
+"AJOUTER AMI"
+END
 
 APT:IGNOREPLAYER
 // Text for Ignore Player button in online chat window.
-"IGNORE PLAYER"
-End
+"IGNORER JOUEUR"
+END
 
 APT:RemoveIgnorePlayer
 // context: Text for Remove Ignore Player button in online chat window.
-"REMOVE IGNORED PLAYER"
+"ENLEVER JOUEUR IGNORE"
 END
 
 APT:Messenger
-"MESSENGER"
+"MESSAGER"
 END
 
 APT:AddIgnore
-// Text for max ping title in Tournament Screen
-"ADD IGNORE"
+"AJOUTER A IGNORER"
 End
 
 APT:Enter
-// Text for 'Enter' button in Apt screens.
-"ENTER"
-End
+"ENTREE"
+END
 
 APT:RemoveFriend
 // Text for remove friend button in chat screen
-"REMOVE"
-End
+"SUPPRIMER"
+END
 
 APT:RemoveIgnore
 // Text for remove Ignore button in chat screen
-"REMOVE IGNORE"
-End
+"Désignorer"
+END
 
 APT:Name
 // Text for 'Name' field in Add Friend/Ingore APT dialog
-"Name"
+"Nom"
 End
 
 APT:CurrentTeam
 // In the messenger when showing people in a game, this will
 // print what team someone is one.  Do not remove %d!!
-"Team %d"
+"Equipe %d"
 END
 
 APT:CurrentTeamNone
 // In the messenger when showing people in a game
-"No Team"
+"Pas d'équipe"
 END
 
 APT:UserName
 // Text for 'Username' field in Add Friend/Ingore APT dialog
-"Username"
+"Nom d'utilisateur"
 END
 
 APT:UserNameCaps
 // Text for 'Username' field in Add Friend/Ingore APT dialog
-"USERNAME"
+"NOM D'UTILISATEUR"
 END
 
 APT:Accept
 // Text for Accept button in Add Friend/Ingore APT dialog
-"ACCEPT"
-End
+"ACCEPTER"
+END
 
 APT:GametypeBattle
 // Text for "battle" type games in the online lobby
-"Head To Head"
-End
+"Face à face"
+END
 
 APT:GametypeCoOp
 // Text for "co-op" type games in the online lobby
-"Scenario"
-End
+"Scénario"
+END
 
 APT:StartingResources
 // Text for the amount of starting resources type games in the online host game screen
-"STARTING RESOURCES"
-End
+"RESSOURCES DE DEPART"
+END
 
 APT:FPS
 // Text for the frames per second in the online host game screen
@@ -24821,33 +24720,29 @@ End
 
 APT:RememberPassword
 // Text for Remember Password check box in Online Login screen.
-"REMEMBER PASSWORD"
-End
+"MEMORISER MOT DE PASSE"
+END
 
 APT:ViewTermsOfService
-// Text for view Terms of Service button.
-"VIEW TERMS OF SERVICE"
-End
+"VOIR CONDITIONS D'UTILISATION"
+END
 
 APT:TermsOfService
-// Text for the title of the Terms of Service dialog
-"TERMS OF SERVICE"
-End
+"CONDITIONS D'UTILISATION"
+END
 
 APT:ESRBNotice
 // notice in pseudo button on Online Login page
-"ESRB NOTICE: Game Experience May Change During Online Play"
-End
+"ESRB NOTICE : L'expérience de jeu peut changer durant le jeu en ligne."
+END
 
 APT:Close
-// Text for the Close button in the Terms of Service dialog
-"CLOSE"
-End
+"FERMER"
+END
 
 BANNERUI:SummaryTitle
-// Displayed as the title of the summary of a "summonable via the banner UI" army in the help text box
-"Summon Reinforcements"
-End
+"Invoquez des renforts"
+END
 
 BANNERUI:SummaryUnitQuantity
 // Displayed in the summary of an army via the banner ui to indicate the quantity of a particular unit category.  Yes, the double % is correct
@@ -24875,41 +24770,37 @@ BANNERUI:Archers
 End
 
 BANNERUI:Oathbreakers
-"Oathbreakers"
+"Parjures"
 END
 
 BANNERUI:Oathbreaker
-"Oathbreaker"
+"Parjure"
 END
 
 BANNERUI:Peasant
-// Singluar name of the peasant category displayed in the army summary from the banner ui
-"Peasant"
+"Paysan"
 End
 
 BANNERUI:Peasants
-// Plural name of the peasant category displayed in the army summary from the banner ui
-"Peasants"
+"Paysans"
 End
 
 BANNERUI:RohanRohirrim
-// Singluar name of the rohirrim category displayed in the army summary from the banner ui
+
 "Rohirrim"
 End
 
 BANNERUI:PluralRohanRohirrim
-// Plural name of the rohirrim category displayed in the army summary from the banner ui
+
 "Rohirrim"
 End
 
 BANNERUI:Soldier
-// Singluar name of the soldier category displayed in the army summary from the banner ui
-"Soldier"
+"Soldat"
 End
 
 BANNERUI:Soldiers
-// Plural name of the soldier category displayed in the army summary from the banner ui
-"Soldiers"
+"Soldats"
 End
 
 BANNERUI:Knight
@@ -24919,37 +24810,37 @@ End
 
 BANNERUI:Knights
 // Plural name of the knight category displayed in the army summary from the banner ui
-"Knights"
+"Chevalier"
+End
+
+BANNERUI:Knights
+"Chevaliers"
 End
 
 BANNERUI:Uruk
-// Singluar name of the uruk category displayed in the army summary from the banner ui
+
 "Uruk"
 End
 
 BANNERUI:Uruks
-// Plural name of the uruk category displayed in the army summary from the banner ui
+
 "Uruks"
 End
 
 BANNERUI:WargRider
-// Singluar name of the warg rider category displayed in the army summary from the banner ui
-"Warg Rider"
+"Chevaucheur de Warg"
 End
 
 BANNERUI:WargRiders
-// Plural name of the warg rider category displayed in the army summary from the banner ui
-"Warg Riders"
+"Chevaucheurs de Wargs"
 End
 
 BANNERUI:SiegeEquipment
-// Singluar name of the siege equipment category displayed in the army summary from the banner ui
-"Siege Machine"
+"Engin de siège"
 End
 
 BANNERUI:PluralSiegeEquipment
-// Plural name of the siege equipment category displayed in the army summary from the banner ui
-"Siege Machines"
+"Engins de siège"
 End
 
 BANNERUI:Nazgul
@@ -24958,18 +24849,16 @@ BANNERUI:Nazgul
 End
 
 BANNERUI:PluralNazgul
-// Plural name of the nazgul category displayed in the army summary from the banner ui
-"Nazgûl"
+"Nazgûls"
 End
 
 BANNERUI:Orc
 // Singluar name of the orc category displayed in the army summary from the banner ui
-"Orc"
+"Orque"
 End
 
 BANNERUI:Orcs
-// Plural name of the orc category displayed in the army summary from the banner ui
-"Orcs"
+"Orques"
 End
 
 BANNERUI:Troll
@@ -24978,43 +24867,38 @@ BANNERUI:Troll
 End
 
 BANNERUI:Trolls
-// Plural name of the troll category displayed in the army summary from the banner ui
+
 "Trolls"
 End
 
 BANNERUI:EvilMan
-// Singluar name of the evil men category displayed in the army summary from the banner ui
-"Evil Man"
+"Mauvais Homme"
 End
 
 BANNERUI:EvilMen
-// Plural name of the evil men category displayed in the army summary from the banner ui
-"Evil Men"
+"Mauvais Hommes"
 End
 
 BANNERUI:Trebuchet
-// Singluar name of the trebuchet category displayed in the army summary from the banner ui
-"Trebuchet"
+"Trébuchet"
 END
 
 BANNERUI:Trebuchets
-// Plural name of the trebuchet category displayed in the army summary from the banner ui
-"Trebuchets"
+"Trébuchets"
 END
 
 BANNERUI:PluralMumakil
-// Plural name of the mumakil category displayed in the army summary from the banner ui
+
 "Mûmakil"
 END
 
 BANNERUI:Goblin
 // Singluar name of the Goblin category displayed in the army summary from the banner ui
-"Goblin"
+"Gobelin"
 End
 
 BANNERUI:Goblins
-// Plural name of the Goblin category displayed in the army summary from the banner ui
-"Goblins"
+"Gobelins"
 End
 
 
@@ -25028,92 +24912,88 @@ End
 
 BANNERUI:LamedonClansman
 // Singluar name of the Gondor Soldier category displayed in the army summary for WotR
-"Lamedon Clansman"
+"Guerrier des Clans de Lamedon"
 End
 
 BANNERUI:Lamedon Clansmen
-// Plural name of the Gondor Soldier category displayed in the army summary for WotR
-"Lamedon Clansmen"
+"Guerriers des Clans de Lamedon"
 End
 
 BANNERUI:BlackrootValeArcher
-// Singluar name of the Gondor Archer category displayed in the army summary for WotR
-"Blackroot Vale Archer"
+"Archer de la Racine Noire"
 End
 
 BANNERUI:BlackrootValeArchers
-// Plural name of the Gondor Archer category displayed in the army summary for WotR
-"Blackroot Vale Archers"
+"Archers de la Racine Noire"
 End
 
 BANNERUI:GondorFighter
 // Singluar name of the Gondor Soldier category displayed in the army summary for WotR
-"Soldier of Minas Tirith"
+"Soldat de Minas Tirith"
 End
 
 BANNERUI:GondorFighters
 // Plural name of the Gondor Soldier category displayed in the army summary for WotR
-"Soldiers of Minas Tirith"
+"Soldats de Minas Tirith"
 End
 
 BANNERUI:GondorArcher
 // Singluar name of the Gondor Archer category displayed in the army summary for WotR
-"Archer of Minas Tirith"
+"Archer de Minas Tirith"
 End
 
 BANNERUI:GondorArchers
 // Plural name of the Gondor Archer category displayed in the army summary for WotR
-"Archers of Minas Tirith"
+"Archers de Minas Tirith"
 End
 
 BANNERUI:GondorRanger
 // Singluar name of the Gondor Ranger category displayed in the army summary for WotR
-"Ithilien Ranger"
+"Rôdeur de l'Ithilien"
 End
 
 BANNERUI:GondorRangers
-// Plural name of the Gondor Ranger category displayed in the army summary for WotR
-"Ithilien Rangers"
+"Rôdeurs de l'Ithilien"
 End
 
 BANNERUI:GondorKnight
 // Singluar name of the Gondor Knight category displayed in the army summary for WotR
-"Knight of Minas Tirith"
+"Cavalier de Minas Tirith"
 End
 
 BANNERUI:GondorKnights
 // Plural name of the Gondor Knight category displayed in the army summary for WotR
-"Knights of Minas Tirith"
+"Cavaliers de Minas Tirith"
 End
 
 BANNERUI:GondorLancer
 // Singluar name of the Gondor Knight category displayed in the army summary for WotR
-"Knight of Minas Tirith"
+"Cavalier de Minas Tirith"
 End
 
 BANNERUI:GondorLancers
 // Plural name of the Gondor Knight category displayed in the army summary for WotR
-"Knights of Minas Tirith"
+"Cavaliers de Minas Tirith"
 End
 
 BANNERUI:Rohirrim
 // Singluar name of the Rohirrim category displayed in the army summary for WotR
-"Rohirrim Warrior"
+"Guerrier Rohirrim"
 End
 
 BANNERUI:PluralRohirrim
 // Plural name of the Rohirrim category displayed in the army summary for WotR
-"Rohirrim Warriors"
+"Guerriers Rohirrim"
 End
 
 BANNERUI:GondorTowerGuard
 // Singluar name of the Gondor Tower Guard category displayed in the army summary for WotR
-"Guards of the Citadel"
+"Garde de la Citadelle de Minas Tirith"
 End
 
 BANNERUI:GondorTowerGuards
 // Plural name of the Gondor Tower Guards category displayed in the army summary for WotR
-"Guards of the Citadel"
+"Gardes de la Citadelle de Minas Tirith"
 End
 
 
@@ -25130,12 +25010,12 @@ End
 
 
 BANNERUI:DwarvenMenOfDale
-"Barding Longbowman"
+"Archer à l'arc long de Bard"
 END
 
 BANNERUI:PluralDwarvenMenOfDale
 // Plural name of the Dwarven Men Of Dale category displayed in the army summary for WotR
-"Barding Longbowmen"
+"Archers à l'arc long de Bard"
 End
 
 
