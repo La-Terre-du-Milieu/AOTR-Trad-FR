@@ -28601,105 +28601,105 @@ CONTROLBAR:ToolTipConstructDwarvenHusbandry
 END
 
 CONTROLBAR:ToolTipConstructDwarvenHusbandryWotRRealTime
-"Secondary Barracks \n Trains Ibsênab-azghakakâ \n Limited to 1"
+"Caserne secondaire \n Entraîne les Ibsênab-azghakakâ \n Limité à 1"
 END
 
 CONTROLBAR:ToolTipConstructDwarvenHusbandryBlueMountains
-"Recruits Iron Hills Troops and War Machines"
+"Recrute des troupes des Monts du Fer et des Machines de Guerre"
 END
 
 CONTROLBAR:ConstructDwarvenWorkshop
-"Build Erebor Workshop (&N)"
+"Construire un Atelier de siège d'Erebor (&N)"
 END
 
 CONTROLBAR:ConstructDwarvenWorkshopWotRRealTime
-"Build Erebor Workshop (&T)"
+"Construire un Atelier de siège d'Erebor (&T)"
 END
 
 CONTROLBAR:ToolTipConstructDwarvenWorkshop
-"Constructs Dwarven Siege Equipment \n At rank 2, repairs nearby siege engines and battlewagons"
+"Permet de construire les engins de siège des Nains. \n Au niveau 2, répare les engins de siège et les chariots de guerre proches. \n Augmente la limite de points de commandement de 25."
 END
 
 CONTROLBAR:ToolTipConstructDwarvenWorkshopWotRRealTime
-"Tertiary Barracks \n Constructs Sulûn-abanul \n Limited to 1"
+"Caserne tertiaire \n Construit des Sulûn-abanul \n Limité à 1"
 END
 
 OBJECT:EreborForge
-"Erebor Grand Forge"
+"Grande Forge d'Erebor"
 END
 
 OBJECT:EreborForgeDescription
 //"Researches unit upgrades"
-"Provides worked metals as a resource based on available terrain\nResearches weapons and armour upgrades\n Steel Bonus - Reduces cost of upgrades \n 2 Forges: 5% \n 3 Forges: 10% \n 4 Forges: 15% \n 5 Forges: 20% \n 6+ Forges: 25% "
+"Produit du métal travaillé comme ressource basée sur le terrain disponible. \n Permet de rechercher les améliorations d'armes et d'armures naines. \n Bonus d'acier - Réduit le coût des améliorations : \n 2 Forges: -5% \n 3 Forges: -10% \n 4 Forges: -15% \n 5 Forges: -20% \n 6+ Forges: -25%"
 END
 
 OBJECT:EreborForgeDescriptionBotFA
-"Provides worked metals as a resource based on available terrain"
+"Fournit des métaux travaillés en tant que ressource en fonction du terrain disponible"
 END
 
 OBJECT:DwarvenWorkshop
-"Erebor Workshop"
+"Atelier de siège d'Erebor"
 END
 
 OBJECT:DwarvenWorkshopDescription
-"Rank 2: +25% faster build speed \n Rank 3: +50% faster build speed"
+"Niveau 2 : +25% vitesse de production. \n Niveau 3 : +50% vitesse de production."
 END
 
 CONTROLBAR:ConstructDwarvenMineShaft
-"Build Dwarven Mine (&W)"
+"Construire une Mine (&W)"
 END
 
 CONTROLBAR:ConstructEreborForge
-"Provides worked metals as a resource based on available terrain\nResearches weapons and armour upgrades\n Reduces cost of upgrades \n Increases command point limit by 50"
+"Produit du métal travaillé comme ressource basée sur le terrain disponible. \n Permet de rechercher les améliorations d'armes et d'armures naines. \n Réduit le coût des améliorations. \n Augmente la limite de points de commandement de 50."
 END
 
 CONTROLBAR:ConstructDwarvenStatue
-"Build Heroic Statue (&U)"
+"Construire une statue héroïque (&U)"
 END
 
 CONTROLBAR:TooltipConstructDwarvenStatue
-"Leadership bonus to nearby allies \n Reduces cost of heroes"
+"Fournit un bonus de Charisme aux unités alliées. \n Réduit le coût des héros."
 END
 
 CONTROLBAR:ConstructDwarvenArcheryRange
-"Build Dale &Garrison"
+"Construire une Garnison de Dale"
 END
 
 CONTROLBAR:ConstructDaleAuxillaryCamp
-"Build Dalish Ruin (&T)"
+"Construire Ruine de Dale (&T)"
 END
 
 CONTROLBAR:TooltipConstructDaleAuxillaryCamp
-"Trains Men of Lake-town"
+"Entraîne les Hommes de Lacville"
 END
 
 OBJECT:BotFADalishRuin
-"Dalish Ruin"
+"Ruine Dalatienne"
 END
 
 OBJECT:BotFADalishRuinDescription
-"Trains Men of Lake-town"
+"Entraîne les Hommes de Lacville"
 END
 
 
 CONTROLBAR:TooltipConstructDwarvenArcheryRange
-"Trains Laketowners and Bardings"
+"Permet de recruter les Gardes de Lac-ville et les soldats de Dale"
 END
 
 CONTROLBAR:ConstructDwarvenAssembly
-"Build Erebor Assembly (&C)"
+"Construire une Assemblée d'Erebor (&C)"
 END
 
 CONTROLBAR:TooltipConstructDwarvenAssembly
-"Recruits allies from the world of Men, Blue Mountains, and the Iron Hills"
+"Permet de recruter des alliés du monde des Hommes, des Montagnes Bleues et des Monts du Fer. \n Augmente la limite de points de commandement de 25."
 END
 
 CONTROLBAR:ConstructDwarvenWallHub
-"Build Wall Hub (&A)"
+"Construire une assise (&A)"
 END
 
 CONTROLBAR:ToolTipConstructDwarvenWallHub
-"Allows the construction of walls"
+"Permet la construction des murs."
 END
 
 
@@ -28708,31 +28708,31 @@ END
 ///////////////////////////////
 
 CONTROLBAR:SelectUpgradesDwarvenFortress
-"Fortress Upgrades (&R)"
+"Améliorer la Forteresse (&R)"
 END
 
 CONTROLBAR:ToolTipCommandSelectUpgradesDwarvenFortress
-"Purchase upgrades and additional defenses for the Fortress"
+"Acheter des améliorations et des défenses supplémentaires pour la Forteresse."
 END
 
 CONTROLBAR:SelectRevivablesDwarvenFortress
-"Heroes (&E)"
+"Héros d'Erebor (&E)"
 END
 
 CONTROLBAR:ToolTipCommandSelectRevivablesDwarvenFortress
-"Recruit and revive Heroes"
+"Recruter et ranimer des Héros du Royaume des Nains."
 END
 
 CONTROLBAR:ConstructDwarvenCatapultExpansion
-"Catapult Expansion (&W)"
+"Extension Catapulte (&W)"
 END
 
 CONTROLBAR:ToolTipConstructDwarvenCatapultExpansion
-"Long range defensive weapon \n Benefits from the Erebor Braziers upgrade"
+"Arme défensive à longue portée. Profite de l'amélioration Braseros."
 END
 
 CONTROLBAR:ConstructDwarvenEreborTowerTowerExpansion
-"Guard Tower Expansion (&E)"
+"Extension Tour de garde (&E)"
 END
 
 CONTROLBAR:ToolTipConstructDwarvenEreborTowerTowerExpansion
@@ -28740,47 +28740,47 @@ CONTROLBAR:ToolTipConstructDwarvenEreborTowerTowerExpansion
 END
 
 CONTROLBAR:Command_ConstructDwarvenWallHubExpansion
-"Wall Hub Expansion (&T)"
+"Construit une Tour de garde qui tire des flèches sur les ennemis proches."
 END
 
 CONTROLBAR:TooltipCommand_ConstructDwarvenWallHubExpansion
-"Construct Wall Hub Expansion"
+"Construit une assise pour créer des murs."
 END
 
 CONTROLBAR:PurchaseUpgradeDwarvenFortressDwarvenStonework
 "Fortifications (&S)"
-END
+ENDD
 
 CONTROLBAR:PurchaseUpgradeDwarvenFortressDwarvenStoneworkBotFA
 "Fortifications (&D)"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeDwarvenFortressDwarvenStonework
-"Allows the Fortress to launch explosive oil casks\nIncreases Fortress and Wall armour by 65%\nPrerequisite to the Arkenstone upgrade"
+"Permet à la Forteresse de lancer des tonneaux d'huile explosifs. \n Les Nains sont de grands bâtisseurs renommés : donne des points d'armure supplémentaires à la Forteresse et aux murs. \n\n Requis pour l'amélioration Arkenstone."
 END
 
 CONTROLBAR:PurchaseUpgradeDwarvenFortressFlamingMunitions
-"Erebor Braziers (&T)"
+"Braseros d'Erebor (&T)"
 END
 
 CONTROLBAR:PurchaseUpgradeDwarvenFortressThrorArmouries
-"Armouries of Thrór (&S)"
+"Armureries de Thrór (&S)"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeDwarvenFortressThrorArmouries
-"Allows the Fortress to summon armour and weapon racks to upgrade friendly units"
+"Permet à la forteresse de faire appel à des supports d'armures et d'armes pour améliorer les unités amies."
 END
 
 CONTROLBAR:PurchaseUpgradeDwarvenFortressBanners
-"Raven Banners (&W)"
+"Bannières du Corbeau (&W)"
 END
 
 CONTROLBAR:PurchaseUpgradeDwarvenFortressSiegeKegs
-"Moat (&R)"
+"Douves (&R)"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeDwarvenFortressSiegeKegs
-"Heals allies nearby the Fortress \n Adds 1000 additional hit points to the Fortress"
+"Soigne les alliés proches de la Forteresse. \n Ajoute 1000 points de vie à la Forteresse."
 END
 
 CONTROLBAR:PurchaseUpgradeDwarvenFortressMightyCatapult
@@ -28792,65 +28792,63 @@ CONTROLBAR:PurchaseUpgradeDwarvenFortressMightyCatapultBotFA
 END
 
 TOOLTIP:LackMightyCatapultDwarvenStonework
-"Requires the Fortifications upgrade \Decreases recruitment time for all Dwarven units by 20%\nIncreases movement for all Dwarven units by 10%\nDecreases cost of unit upgrades by 20%\nStacks with Steel Bonus discount"
+"Requiert l'amélioration Fortifications. \n\n Réduit le temps de recrutement de toutes les unités Naines de 20%. \n Augmente la vitesse de déplacement de toutes les unités Naines de 10%. \n Réduit le coût d'améliorations des unités de 10%. \n Cumulable avec d'autres bonus."
 END
 
 TOOLTIP:LackMightyCatapultDwarvenStonework_WOTR
-"Requires the Fortifications upgrade \Decreases recruitment time for all Dwarven units by 20%\nIncreases movement for all Dwarven units by 10%\nDecreases cost of unit upgrades by 20%\nStacks with Steel Bonus discount"
+"Requiert l'amélioration Fortifications. \n\n Réduit le temps de recrutement de toutes les unités Naines de 20%. \n Augmente la vitesse de déplacement de toutes les unités Naines de 10%. \n Réduit le coût d'améliorations des unités de 10%. \n Cumulable avec d'autres bonus."
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeDwarvenFortressMightyCatapult
-"Decreases recruitment time for all Dwarven units by 20%\nIncreases movement for all Dwarven units by 10%\nDecreases cost of unit upgrades by 20%\nStacks with Steel Bonus discount"
-//"Grants heavy armour to Dwarf heroes \nEnables the recruitment of Iron Hills troops \n and Ered Luin troops"
+"Réduit le temps de recrutement des unités naines de 20%. \n Augmente la vitesse de déplacement des unités naines de 10%. \n Réduit le coût d'améliorations des unités de 10%. \n Cumulable avec d'autres bonus."
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeDwarvenFortressArkenstoneHobbitEra
-"Requires the Fortifications upgrade\nDecreases recruitment time for all Dwarven units by 20%\nIncreases movement for all Dwarven units by 10%\nDecreases cost of unit upgrades by 20%\nStacks with Steel Bonus discount"
+"Requiert l'amélioration Fortifications. \n\n Réduit le temps de recrutement de toutes les unités Naines de 20%. \n Augmente la vitesse de déplacement de toutes les unités Naines de 10%. \n Réduit le coût d'améliorations des unités de 10%. \n Cumulable avec d'autres bonus. \n Octroie un bonus d'armure aux Héros."
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeDwarvenFortressArkenstoneHobbitEra_Monument
-"Decreases recruitment time for all Dwarven units by 20%\nIncreases movement for all Dwarven units by 10%\nDecreases cost of unit upgrades by 20%\nStacks with Steel Bonus discount"
+"Réduit le temps de recrutement des unités naines de 20%. \n Augmente la vitesse de déplacement des unités naines de 10%. \n Réduit le coût d'améliorations des unités de 10%. \n Cumulable avec d'autres bonus. \n Octroie un bonus d'armure aux Héros."
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeDwarvenFortressArkenstoneLotREra
-"Requires the Fortifications upgrade\nDecreases recruitment time for all Dwarven units by 20%\nIncreases movement for all Dwarven units by 10%\nDecreases cost of unit upgrades by 20%\nStacks with Steel Bonus discount"
+"Requiert l'amélioration Fortifications. \n\n Réduit le temps de recrutement de toutes les unités Naines de 20%. \n Augmente la vitesse de déplacement de toutes les unités Naines de 10%. \n Réduit le coût d'améliorations des unités de 10%. \n Cumulable avec d'autres bonus."
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeDwarvenFortressArkenstoneLotREra_Monument
-"Decreases recruitment time for all Dwarven units by 20%\nIncreases movement for all Dwarven units by 10%\nDecreases cost of unit upgrades by 20%\nStacks with Steel Bonus discount"
+"Réduit le temps de recrutement des unités naines de 20%. \n Augmente la vitesse de déplacement des unités naines de 10%. \n Réduit le coût d'améliorations des unités de 10%. \n Cumulable avec d'autres bonus."
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeDwarvenFortressMightyCatapult_WOTR
-"Decreases recruitment time for all Dwarven units by 20%\nIncreases movement for all Dwarven units by 10%\nDecreases cost of unit upgrades by 20%\nStacks with Steel Bonus discount"
-//"Grants heavy armour to Dwarf heroes \nEnables the recruitment of Iron Hills troops \n and Ered Luin troops"
+"Réduit le temps de recrutement des unités naines de 20%. \n Augmente la vitesse de déplacement des unités naines de 10%. \n Réduit le coût d'améliorations des unités de 10%. \n Cumulable avec d'autres bonus."
 END
 
 CONTROLBAR:PurchaseUpgradeDwarvenFortressOilCasks
-"Solemn Guard&ians"
+"Statues Gardiennes"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeDwarvenFortressOilCasks
-"Allows the Fortress to launch explosive oil casks"
+"Construit deux statues sacrées, permet à la forteresse de lancer des barils d'huile explosifs."
 END
 
 CONTROLBAR:FireWeaponDwarvenFortressOilCasks
-"Launch Oil Casks (&T)"
+"Lancer les barils d'huile (&T)"
 END
 
 CONTROLBAR:ToolTipFireWeaponDwarvenFortressOilCasks
-"Requires the Fortifications upgrade \n Attack enemies with oil casks \n Left click to activate"
+"Requiert l'amélioration Fortifications. \n Attaque les ennemis avec des barils d'huile explosifs. \n\n Clic gauche pour l'activer."
 END
 
 CONTROLBAR:PurchaseUpgradeDwarvenHornsoftheGate
-"Horns of the Gate (&E)"
+"Cors de la Porte (&E)"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeDwarvenHornsoftheGate
-"When activated, causes nearby enemies to cower in fear for 15 seconds"
+"Une fois activé, fait fuir de terreur les ennemis."
 END
 
 CONTROLBAR:ConstructDwarvenPorter
-"Recruit Builder (&W)"
+"Bâtisseur d'Erebor (&W)"
 END
 
 CONTROLBAR:ToolTipConstructDwarvenPorter
@@ -28858,11 +28856,11 @@ CONTROLBAR:ToolTipConstructDwarvenPorter
 END
 
 CONTROLBAR:ToolTipConstructDwarvenPorterWotR
-"Builds structures\nLimited to 1"
+"Construit des structures\nLimité à 1"
 END
 
 TOOLTIP:Lacksprerequisiteupgradedefault
-"Requires Stonework Upgrade"
+"Requiert l'amélioration Fortifications."
 END
 
 ///////////////////////////
@@ -28871,79 +28869,79 @@ END
 
 
 CONTROLBAR:Command_DwarvenCastleWallHub_BeginWallSpan
-"Build Wall (&W)"
+"Construire un mur (&W)"
 END
 
 CONTROLBAR:TooltipCommand_DwarvenCastleWallHub_BeginWallSpan
-"Left click and drag to construct a Wall"
+"Cliquez et faites glisser pour construire un mur."
 END
 
 CONTROLBAR:Command_DwarvenWallUpgradeToHub
-"Wall Hub (&W)"
+"Assise (&W)"
 END
 
 CONTROLBAR:TooltipCommand_DwarvenWallUpgradeToHub
-"Allows construction of additional walls"
+"Permet la construction de murs supplémentaires."
 END
 
 CONTROLBAR:Command_DwarvenWallUpgradeToBanners
-"Raven Banners (&S)"
+"Bannières du Corbeau (&S)"
 END
 
 CONTROLBAR:TooltipCommand_DwarvenWallUpgradeToBanners
-"Raven Banners \n Grants +33% range and +50% experience gain to nearby infantry and siege machines"
+"Fournit +33% de portée et +50% d'expérience à l'infanterie et aux engins de siège proches."
 END
 
 CONTROLBAR:DwarvenWallBannersButton
-"&Raven Banners"
+"Bannières du Corbeau"
 END
 
 CONTROLBAR:TooltipDwarvenWallBannersButton
-"Raven Banners \n Grants +33% range and +50% experience gain to nearby infantry and siege machines"
+"Fournit +33% de portée et +50% d'expérience à l'infanterie et aux engins de siège proches."
 END
 
 CONTROLBAR:Command_DwarvenWallUpgradeToRegularGate
-"Gate (&E)"
+"Porte (&E)"
 END
 
 CONTROLBAR:TooltipCommand_DwarvenWallUpgradeToRegularGate
-"This primary defensive gate can be opened and closed"
+"Cette porte défensive principale peut être ouverte et fermée."
 END
 
 CONTROLBAR:Command_DwarvenWallUpgradeToPosternGate
-"Postern Gate (&R)"
+"Poterne (&R)"
 END
 
 CONTROLBAR:Command_LorienWallUpgradeToPosternGate
-"Postern Gate (&W)"
+"Poterne (&W)"
 END
 
 CONTROLBAR:TooltipCommand_DwarvenWallUpgradeToPosternGate
-"Allows friendly units pass through the wall \n Invisible to enemies"
+"Permet aux unités amies de passer à traves le mur. \n Invisible pour les ennemis."
 END
 
 CONTROLBAR:Command_DwarvenWallUpgradeToTower
-"Guard Tower (&T)"
+"Tour de garde (&T)"
 END
 
 CONTROLBAR:TooltipCommand_DwarvenWallUpgradeToTower
-"Fires arrows at nearby enemy units"
+"Tire des flèches sur les ennemis proches."
 END
 
 CONTROLBAR:TooltipCommand_RohanWallUpgradeToTower
-"Spawns archers that can fire at nearby enemy units"
+"Fait apparaître des archers qui peuvent tirer sur les unités ennemies proches."
 END
 
 CONTROLBAR:Command_DwarvenWallUpgradeToCatapult
-"Catapult (&D)"
+"Catapulte (&D)"
 END
 
 CONTROLBAR:Command_RohanWallUpgradeToCatapult
-"Rohirric Onager (&S)"
+"Onagre Rohirrique (&S)"
 END
 
 CONTROLBAR:TooltipCommand_DwarvenWallUpgradeToCatapult
-"Long range defensive weapon"
+"Arme défensive à longue portée."
 END
 
 ////////////////////////////////////
@@ -28955,15 +28953,15 @@ CONTROLBAR:GloinHotkey
 END
 
 CONTROLBAR:GloinRecruit
-"Recruit the father of Gimli \n \n 'The Shadow grows and draws nearer. Already war is gathering on our eastern borders...'"
+"Recrutez le père de Gimli. \n Glóin faisait partie des guerriers les plus doués et les plus expérimentés qui partirent reconquérir le Mont Solitaire avec Thorin Écu-de-Chêne. Au cour de cette quête, il prouva sa force et sa valeur d'innombrables fois. Lorsque le Roi Dáin II Pied-d'Acier succéda à Thorin sur le trône d'Erebor, nul ne fut plus fidèle au nouveau Roi que lui. \n\n 'L'Ombre grandit et se rapproche déjà. La guerre se prépare sur nos frontières de l'Est...'"
 END
 
 CONTROLBAR:GloinRevive
-"Revive the fallen Hero, Glóin."
+"Rappelez Glóin à la vie"
 END
 
 OBJECT:DwarvenBuildingFoundation
-"Fortress Expansion Plot"
+"Forteresse Point d'amélioration"
 END
 
 OBJECT:DwarvenCastleWallSegment
@@ -28971,35 +28969,35 @@ OBJECT:DwarvenCastleWallSegment
 END
 
 OBJECT:DwarvenCatapultExpansion
-"Catalpult Expansion"
+"Catapulte"
 END
 
 OBJECT:DwarvenEreborTowerTowerExpansion
-"Guard Tower"
+"Tour de garde"
 END
 
 OBJECT:DwarvenCastleWallPosternGateSmall
-"Postern Gate"
+"Poterne"
 END
 
 OBJECT:DwarvenCastleWallGateSmall
-"Gate"
+"Porte"
 END
 
 OBJECT:DwarvenCastleWallCatapultSmall
-"Catapult"
+"Catapulte"
 END
 
 OBJECT:RohanCastleCatapultExpansion
-"Onager Expansion"
+"Extension d'Onagre"
 END
 
 OBJECT:RohanCastleWallCatapultSmall
-"Onager"
+"Onagre"
 END
 
 OBJECT:DwarvenCastleWallTowerSmall
-"Guard Tower"
+"Tour de garde"
 END
 
 OBJECT:Gloin
@@ -29011,15 +29009,15 @@ OBJECT:DwarvenBattleWagon
 END
 
 OBJECT:DwarvenPorter
-"Builder"
+"Bâtisseur"
 END
 
 OBJECT:DwarvenBattleWagonPhalanx
-"Erebor Pikeman"
+"Piquier d'Erebor"
 END
 
 OBJECT:HordeDwarvenAxeThrower
-"Axe Throwers"
+"Lanceurs de Hâches"
 END
 
 /////////////////////////////////////////
@@ -29035,7 +29033,7 @@ CONTROLBAR:ConstructDwarvenGuardianHorde_Adventure
 END
 
 CONTROLBAR:ToolTipBuildDwarvenGuardianHorde
-"Erebor Warriors \n Strong vs. Pikemen\n\n These stout, well-trained warriors make up the brunt of Erebor's standing army."
+"La garnison d'Erebor rassemble de puissants guerriers, des combattants Nains bien entraînés et à la discipline de fer dont la loyauté envers leur Roi est indéfectible. \n Engoncés dans des armures ouvragées et équipés des meilleures armes de la Terre du Milieu, ces soldats robustes sont redoutés par toutes les créatures du Mal. \n\n Forts contre les piquiers."
 END
 
 CONTROLBAR:ConstructDwarvenPhalanxHorde
@@ -29043,15 +29041,15 @@ CONTROLBAR:ConstructDwarvenPhalanxHorde
 END
 
 CONTROLBAR:ToolTipBuildDwarvenPhalanxHorde
-"Erebor Pikemen \n Strong vs. Cavalry and Heroes\n\n With long spears and broad shields, these Dwarves guard Erebor's high halls and corridors. "
+"Les guerriers Nains d'Erebor sont entraînés au combat dès leur plus jeune âge sous la tutelle bienveillante de leurs aînés. Ce régime ininterrompu crée un esprit de corps aussi fort et serré que les mailles qui les protègent. \n Avec de longues lances et de larges boucliers, les piquiers gardent les hauts halls et les couloirs d'Erebor. \n\n Forts contre les cavaliers."
 END
 
 CONTROLBAR:ConstructDwarvenAxeThrowerHorde
-"A&xe Throwers"
+"Lanceurs de Hâches"
 END
 
 CONTROLBAR:ToolTipBuildDwarvenAxeThrowerHorde
-"Strong vs. Pikemen and Archers"
+"Forts contre les piquiers et les archers." 
 END
 
 CONTROLBAR:ConstructDwarvenArcherHorde
@@ -29063,7 +29061,7 @@ CONTROLBAR:ConstructDwarvenArcherHorde_Adventure
 END
 
 CONTROLBAR:ToolTipBuildDwarvenArcherHorde
-"Erebor Archers \n Strong vs. Infantry\n\n Carrying compound shortbows and thick arrows, these Dwarven archers pack a punch across short distances."
+"Les guerriers Nains d'Erebor sont entraînés au combat dès leur plus jeune âge sous la tutelle bienveillante de leurs aînés. Ce régime ininterrompu crée un esprit de corps aussi fort et serré que les mailles qui les protègent. \n Porteurs d'arcs courts composés et de flèches épaisses, les archers d'Erebor perforent n'importe quel ennemi sur de courtes distances. \n\n Forts contre l'infanterie."
 END
 
 CONTROLBAR:ConstructDwarvenDemolisher
@@ -29071,7 +29069,7 @@ CONTROLBAR:ConstructDwarvenDemolisher
 END
 
 TOOLTIP:LackLevel2ForgeWorksDemolisher
-"Requires Level 2 Forge Works \n Strong vs. Structures"
+"Requiert : Atelier de siège Niveau 2. \n Forts contre les structures."
 END
 
 CONTROLBAR:ConstructDwarvenBattleWagon
@@ -29079,7 +29077,7 @@ CONTROLBAR:ConstructDwarvenBattleWagon
 END
 
 CONTROLBAR:ToolTipBuildDwarvenBattleWagon
-"Battlewagon \n Strong vs. Swordsmen and Archers \n Can be upgraded with various improvements \n Limited to 3. \n \n The Dwarves of Iron Hills have developed a chariot that can cross even the roughest of terrain and ride down the toughest of foes."
+"Chariot de guerre. \n Engins de mort tractés par de puissants béliers, les Chariots de guerre des Monts du Fer foncent vers la mêlée à une vitesse insensée. A l'impact, ils disloquent, piétinent et brisent les lignes ennemies dans un fracas assourdissant. \n Peut recevoir diverses améliorations. \n\n Forts contre les épéistes et les archers."
 END
 
 CONTROLBAR:ConstructDwarvenBattleWagonWotR
@@ -29087,83 +29085,83 @@ CONTROLBAR:ConstructDwarvenBattleWagonWotR
 END
 
 CONTROLBAR:ToolTipBuildDwarvenBattleWagonWotR
-"Battlewagon \n Strong vs. Swordsmen and Archers \n Can be upgraded with various improvements \n Limited to 3. \n \n The Dwarves of Iron Hills have developed a chariot that can cross even the roughest of terrain and ride down the toughest of foes."
+"Chariot de guerre \n Fort contre les épéistes et les archers \n Peut être amélioré avec diverses améliorations \n Limité à 3. \n \n Les Nains des Monts de Fer ont développé un chariot qui peut traverser même les terrains les plus accidentés et écraser les ennemis les plus coriaces."
 END
 
 CONTROLBAR:ConstructDwarvenCatapult
-"&Catapult"
+"&Catapulte"
 END
 
 CONTROLBAR:ToolTipBuildDwarvenCatapult
-"Requires Level 2 Forge Works \n Strong vs. Structures and Siege units \n Fires two shots at once"
+"Requiert : Atelier de siège Niveau 2. \n Forts contre les structures et les unités de siège. \n Tire deux coups à la fois."
 END
 
 CONTROLBAR:UpgradeDwarvenBarracksLevel2
-"Upgrade Hall of Warriors to Level 2 (&A)"
+"Améliore le Hall des Guerriers au niveau 2 (&A)"
 END
 
 CONTROLBAR:UpgradeDwarvenBarracksLevel3
-"Upgrade Hall of Warriors to Level 3 (&A)"
+"Améliore le Hall des Guerriers au niveau 3 (&A)"
 END
 
 CONTROLBAR:ToolTipUpgradeDwarvenBarracksLevel3
-"+25% faster build speed \n Adds Defensive Guard Tower"
+"+25% de vitesse de construction \n Ajoute une tour de garde défensive"
 END
 
 CONTROLBAR:ToolTipUpgradeDwarvenBarracksLevel3_WOTR
-"+25% faster build speed \n Adds Defensive Guard Tower"
+"+25% de vitesse de construction \n Ajoute une tour de garde défensive"
 END
 
 CONTROLBAR:ConstructDwarvenMenOfDale
-"Barding Longbowmen (&T)"
+"Archers de Dale (&T)"
 END
 
 CONTROLBAR:ToolTipBuildDwarvenMenOfDaleHorde
-"Requires Level 2 Erebor Assembly \n Strong vs. Infantry and Monsters \n Can Fire Black Arrows \n \n In Dalish military tradition, skillful use of the longbow is a prime mark of an excellent soldier."
+"Requiert l'Assemblée d'Erebor Niveau 2. \n La prospérité de Dale, la Cité des Hommes, assure à ses soldats un équipement de la meilleure qualité, façonné par ses alliés d'Erebor. \n Lorsqu'ils ne protègent pas leurs terres contre les prédations de leurs ennemis, ces soldats entraînés et disciplinés embarquent parfois sur des navires pour livrer des guerres lointaines. \n\n Peuvent tirer des Flèches Noires, forts contre l'infanterie et les monstres."
 END
 
 CONTROLBAR:ConstructDwarvenDaleGuardHorde
-"Barding Phalanx (&E)"
+"Phalanges de Dale (&E)"
 END
 
 CONTROLBAR:ToolTipBuildDwarvenDaleGuardHorde
-"Basic Pikemen \n Strong vs. Cavalry and Heroes \n \n King Brand of Dale saw to the creation of a standing army: regiments of disciplined men equipped with spear and shield, waging war from a nigh-impenetrable phalanx formation."
+"Piquiers standards. \n Forts contre la cavalerie et les Héros. \n\n Le roi Brand de Dale a supervisé la création d'une armée standardisée: des régiments d'hommes disciplinés équipés de lances et de boucliers, faisant la guerre en utilisant des formations phalanges presque impénétrables."
 END
 
 CONTROLBAR:ToolTipBuildDwarvenMenOfDaleInnHorde
-"Strong vs. Infantry and Monsters"
+"Fort contre l'infanterie et les monstres."
 END
 
 CONTROLBAR:ConstructDwarvenArcheryRangeLevel2Upgrade
-"&Upgrade Dale Garrison to Level 2"
+"Améliore la Garnison de Dale au niveau 2"
 END
 
 CONTROLBAR:ConstructDwarvenArcheryRangeLevel3Upgrade
-"&Upgrade Dale Garrison to Level 3"
+"Améliore la Garnison de Dale au niveau 3"
 END
 
 CONTROLBAR:ConstructDwarvenAssemblyLevel2Upgrade
-"Upgrade Erebor Assembly to Level 2 (&A)"
+"Améliore l'Assemblée d'Erebor au niveau 2 (&A)"
 END
 
 CONTROLBAR:ConstructDwarvenAssemblyLevel3Upgrade
-"Upgrade Erebor Assembly to Level 3 (&A)"
+"Améliore l'Assemblée d'Erebor au niveau 3 (&A)"
 END
 
 CONTROLBAR:UpgradeDwarvenForgeWorksLevel2
-"Upgrade Erebor Redoubt to Level 2 (&A)"
+"Améliore le Fort d'Erebor au niveau 2 (&A)"
 END
 
 CONTROLBAR:UpgradeDwarvenForgeWorksLevel3
-"Upgrade Erebor Redoubt to Level 3 (&A)"
+"Améliore le Fort d'Erebor au niveau 3 (&A)"
 END
 
 CONTROLBAR:UpgradeDwarvenForgeWorksLevel2BotFA
-"Upgrade Iron Hills Redoubt to Level 2 (&A)"
+"Améliorer le Redoute des Monts de Fer au niveau 2 (&A)"
 END
 
 CONTROLBAR:UpgradeDwarvenForgeWorksLevel3BotFA
-"Upgrade Iron Hills Redoubt to Level 3 (&A)"
+"Améliorer le Redoute des Monts de Fer au niveau 3 (&A)"
 END
 
 CONTROLBAR:UpgradeDwarvenWorkshopLevel2
@@ -29203,47 +29201,47 @@ END
 /////////////////////////////////
 
 CONTROLBAR:ToolTipBuildDwarvenGuardianHordeCustom
-"Erebor Guardians \n Requires Level 2 Hall of Warriors \n Strong vs. Pikemen\n\n These stout, well-trained warriors make up the brunt of Erebor's standing army."
+"Gardiens d'Erebor \n Requiert le Hall des Guerriers de niveau 2 \n Fort contre les piquiers \n\n Ces guerriers robustes et bien entraînés constituent l'essentiel de l'armée permanente d'Erebor."
 END
 
 CONTROLBAR:ToolTipBuildDwarvenArcherHordeCustom
-"Erebor Archers \n Requires Level 2 Hall of Warriors\n Strong vs. Infantry\n\n Carrying compound shortbows and thick arrows, these Dwarven archers pack a punch across short distances."
+"Archers d'Erebor \n Requiert le Hall des Guerriers de niveau 2 \n Fort contre l'infanterie \n\n Armés d'arcs courts composés et de flèches épaisses, ces archers nains ont une puissance de frappe redoutable à courte distance."
 END
 
 CONTROLBAR:ToolTipBuildDwarvenArcherHordeCustom
-"Erebor Archers \n Requires Level 2 Hall of Warriors \n Strong vs. Infantry\n\n Carrying compound shortbows and thick arrows, these Dwarven archers pack a punch across short distances."
+"Archers d'Erebor \n Requiert le Hall des Guerriers de niveau 2 \n Forts contre l'infanterie \n\n Armés d'arcs courts composés et de flèches épaisses, ces archers nains sont redoutables à courte distance."
 END
 
 CONTROLBAR:BTKhazadBannerAncestralFury
-"Ancestral Fury"
+"Furie ancestrale"
 END
 
 CONTROLBAR:ToolTipBTKhazadBannerAncestralFury
-"Modifier Type: Spell \n Requires Level 3 \n Allies near the Khazad Guard become immune to fear and terror \nPassive ability"
+"Type de modification : Sort \n Requiert le niveau 3 \n Les alliés à proximité de la Garde Khazad deviennent immunisés contre la peur et la terreur \n Capacité passive"
 END
 
 CONTROLBAR:TooltipConstructDwarvenAssemblyCustom
-"Recruits allies from the Blue Mountains, the Iron Hills, and the lost realm of Khazad-dûm"
+"Recrute des alliés des Montagnes Bleues, des Monts de Fer et du royaume perdu de Khazad-dûm"
 END
 
 CONTROLBAR:ToolTipBuildDwarvenAssemblyLevel2UpgradeCustom
-"+10% faster build speed \n Allows training of Ered Luin Rangers"
+"+10% de vitesse de construction \n Permet l'entraînement des Rangers d'Ered Luin"
 END
 
 CONTROLBAR:ToolTipBuildDwarvenAssemblyLevel3UpgradeCustom
-"+25% faster build speed \n Allows training of Iron Hills Warriors, Iron Hills Crossbowmen, Iron Hills Goat Riders, and Khazad Guard\n Adds defensive arrow tower"
+"+25% de vitesse de construction \n Permet l'entraînement des Guerriers des Monts de Fer, des Arbalétriers des Monts de Fer, des Cavaliers des Monts de Fer et de la Garde Khazad \n Ajoute une tour de flèches défensive"
 END
 
 CONTROLBAR:ToolTipUpgradeDwarvenBarracksLevel2Custom
-"+10% faster build speed\n Allows training of Grim Hammers, Erebor Guardians, and Erebor Archers"
+"+10% de vitesse de construction \n Permet l'entraînement des Marteaux Sinistres, des Gardiens d'Erebor et des Archers d'Erebor"
 END
 
 CONTROLBAR:ToolTipMinersBombDurin
-"Requires Siege Tools \nPlace a pile of explosive powder barrels that knock back all surrounding units and damage structures\nThe barrels detonate after 10 seconds \n Very effective against structures \n Left click to activate"
+"Requiert Outils de siège \n Place un tas de barils de poudre explosive qui repoussent toutes les unités environnantes et endommagent les structures \n Les barils explosent après 10 secondes \n Très efficace contre les structures \n Cliquez gauche pour activer"
 END
 
 CONTROLBAR:ToolTipBuildKhazadUzbadulHordeDurinsFolk
-"Dwarves of the Lord \n Requires Level 3 Erebor Redoubt \n Limited to 2 \n Powerful slow-moving elite infantry \nStrong vs. Infantry \n \n Battle-hardened and unyielding, the Khazad Guard are royal wardens of the Throne of Erebor, tasked with keeping safe the Dwarf-lords under the Mountain."
+"Nains du Seigneur \n Requiert le Redoute des Monts de Fer de niveau 3 \n Limité à 2 \n Infanterie d'élite puissante et lente \n Forte contre l'infanterie \n \n Endurcis par les combats et inflexibles, la Garde Khazad est la garde royale du Trône d'Erebor, chargée de protéger les seigneurs nains sous la Montagne."
 END
 
 //////////////////////////////
@@ -29529,195 +29527,195 @@ CONTROLBAR:ToolTipConstructElvenFortressWOTR
 END
 
 CONTROLBAR:ConstructElvenWatchtowerExpansion
-"Talan Expansion (&W)"
+"Extension Poste de guet (&W)"
 END
 
 CONTROLBAR:ToolTipConstructElvenWatchtowerExpansion
-"Defensive Talan that fires at nearby enemy units"
+"Plateforme défensive qui tire sur les ennemis."
 END
 
 CONTROLBAR:ConstructRivendellWatchtowerExpansion
-"Tower Expansion (&W)"
+"Extension d'une Tour (&W)"
 END
 
 CONTROLBAR:ToolTipConstructRivendellWatchtowerExpansion
-"Defensive tower that fires at nearby enemy units"
+"Tour défensive qui tire sur les unités ennemies proches."
 END
 
 OBJECT:ElvenAxeElfGarrisonExpansion
-"Axe-elf Garrison Expansion"
+"Extension de la garnison Elfes à la hâche"
 END
 
 CONTROLBAR:ConstructElvenAxeElfGarrisonExpansion
-"Axe-elf Garrison Expansion (&E)"
+"Extension de la garnison Elfes à la hâche (&E)"
 END
 
 CONTROLBAR:ToolTipConstructElvenAxeElfGarrisonExpansion
-"Axe-elves will defend the garrison and attack nearby enemy units \n May purchase Forth, Axe-elves! upgrade, which allows the Axe-elf Garrison to summon a horde of warriors onto enemy battalions and siege engines"
+"Les elfes à la hâche défendront la garnison et attaqueront les unités ennemies proches. \n Vous pouvez acheter l'amélioration En avant, elfes à la hâche !, qui permet à la garnison elfes à la hâche d'invoquer une horde de guerriers sur les bataillons ennemis et les engins de siège."
 END
 
 CONTROLBAR:PurchaseForthAxeElves
-"Purchase Forth, Axe-elves! Upgrade (&W)"
+"Achetez l'amélioration En avant, elfes à la hâche ! (&W)"
 END
 
 CONTROLBAR:ToolTipPurchaseForthAxeElves
-"Allows the Axe-elf Garrison to summon a horde\nof Axe-elves"
+"Permet à la garnison Elfes à la hâche d'invoquer une horde d'Elfes à la hâche."
 END
 
 CONTROLBAR:ForthAxeElves
-"Forth, Axe-elves! (&W)"
+"En avant, elfes à la hâche ! (&W)"
 END
 
 CONTROLBAR:ToolTipForthAxeElves
-"Summons a horde of Axe-elves\nLeft click icon then left click on target"
+"Invoque une horde d'elfes à la hâche. \n\n Clic gauche sur l'icône puis clic gauche sur la cible."
 END
 
 CONTROLBAR:BorderPatrol
-"Border Patrol (&T)"
+"Patrouille des frontières (&T)"
 END
 
 CONTROLBAR:ToolTipBorderPatrol
-"Requires Veteran Marchwardens upgrade \n Summons a trio of individual Marchwardens anywhere on the map to reveal the area, detect stealth, and fire on nearby enemies\nLeft click icon then left click on target area"
+"Nécessite l'amélioration des Gardiens des Marches. \n Invoque un trio de gardes de marche individuels n'importe où sur la carte pour révéler la zone, détecter la furtivité et tirer sur les ennemis proches. \n\n Cliquez sur l'icône puis sur la zone cible."
 END
 
 CONTROLBAR:ConstructElvenVigilantEntExpansion
-"Vigilant Ent Expansion (&E)"
+"Extension Ent vigilant (&E)"
 END
 
 CONTROLBAR:ToolTipConstructElvenVigilantEntExpansion
-"Stationary Ent that throws rocks at enemy units"
+"Ent stationnaire qui lance des rochers aux unités ennemies."
 END
 
 CONTROLBAR:ConstructElvenFloodgateExpansion
-"Flood Gate Expansion (&R)"
+"Extension Vanne (&R)"
 END
 
 CONTROLBAR:ToolTipConstructElvenFloodgateExpansion
-"Releases a small flood damaging nearby enemies"
+"Crée une petite inondation qui endommage les ennemis proches."
 END
 
 CONTROLBAR:SelectRevivablesElvenFortress
-"Heroes (&E)"
+"Héros (&E)"
 END
 
 CONTROLBAR:ToolTipCommandSelectRevivablesElvenFortress
-"Recruit and revive Heroes"
+"Recruter et ranimer des héros."
 END
 
 CONTROLBAR:SelectUpgradesElvenFortress
-"Fortress Upgrades (&R)"
+"Améliorer la Forteresse (&R)"
 END
 
 CONTROLBAR:ToolTipCommandSelectUpgradesElvenFortress
-"Purchase upgrades and additional defenses for the Fortress"
+"Acheter des améliorations et des défenses supplémentaires pour la Forteresse."
 END
 
 CONTROLBAR:PurchaseUpgradeElvenFortressEaglesNest
-"Ea&gle's Nest"
+"Nid d'Aigles"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeElvenFortressEaglesNest
-"Allows summoning of a Giant Eagle"
+"Permet de recruter un Aigle géant."
 END
 
 CONTROLBAR:PurchaseElvenEagle
-"&Giant Eagle"
+"Aigle géant"
 END
 
 CONTROLBAR:ToolTipPurchaseElvenEagle
-"Summons a Giant Eagle under your control"
+"Invoque un Aigle géant sous votre contrôle."
 END
 
 CONTROLBAR:PurchaseUpgradeElvenFortressEncasingVines
-"Blessed Lanterns (&D)"
+"Lanternes bénies (&D)"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeElvenFortressEncasingVines
-"Enemy units near the fortress are slowed more the closer they come to it, with a maximum of -33% \n Prerequisite to Eärendil's Guidance"
+"Les unités ennemies proches de la Forteresse sont d'autant plus ralenties qu'elles s'en approchent, avec un maximum de -33% de vitesse. \n Prérequis à la guidance d'Eärendil"
 END
 
 CONTROLBAR:PurchaseUpgradeElvenFortressMysticFountains
-"Waters of the Celebrant (&R)"
+"Eaux du Célébrant (&R)"
 END
 
 CONTROLBAR:PurchaseUpgradeElvenFortressEnchantedAnvil
-"Ba&nners of the Sindar"
+"Étendards des Sindar"
 END
 
 CONTROLBAR:PurchaseUpgradeElvenFortressBlessedMist
-"Mists of the Anduin (&E)"
+"Brumes de l'Anduin (&E)"
 END
 
 CONTROLBAR:PurchaseUpgradeElvenFortressCrystalMoat
-"Protection of Nenya (&T)"
+"Protection de Nenya (&T)"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeElvenFortressCrystalMoat
-"Increases Fortress armour by 65%"
+"Augmente l'armure de la forteresse de 65%"
 END
 
 CONTROLBAR:ToolTipElvenEntMoot
-"Recruits Ents"
+"Permet de recruter les Ents de la forêt de Fangorn."
 END
 
 CONTROLBAR:ConstructEregionForge
-"Build Golden Wood Storehouse (&R)"
+"Construire La Réserve du Bois Doré (&R)"
 END
 
 CONTROLBAR:ToolTipEregionForge
-"Provides food and artifacts as a resource based on available terrain \n Researches Lothlórien unit upgrades\nReduces cost of upgrades \n Increases command point limit by 50"
+"Génère des ressources en nourritures et artefacts selon le terrain disponible. \n Permet de rechercher les améliorations des unités de le Lothlórien. \n Réduit le coût des améliorations. \n Augmente la limite de points de commandement de 50."
 END
 
 CONTROLBAR:PurchaseUpgradeEregionForgeLevel2
-"Upgrade Golden Wood Storehouse to Level 2 (&A)"
+"Améliore la Réserve du Bois Doré au niveau 2"
 END
 
 CONTROLBAR:ToolTipBuildEregionForgeLevel2
-"Allows research of Elven Armour and Tempered Blades Upgrades"
+"Permet de rechercher l'amélioration Lames forgées de Caras Galadhon."
 END
 
 CONTROLBAR:PurchaseUpgradeEregionForgeLevel3
-"Upgrade Golden Wood Storehouse to Level 3 (&A)"
+"Améliore la Réserve du Bois Doré au niveau 3"
 END
 
 CONTROLBAR:ConstructElvenBarracks
-"Build Galadhrim Garrison (&T)"
+"Construire une Garnison des Galadhrim (&T)"
 END
 
 CONTROLBAR:ToolTipElvenBarracks
-"Trains Melee and Archer Infantry of Lothlórien"
+"Permet de recruter les unités d'infanterie de la Lothlórien."
 END
 
 CONTROLBAR:ConstructElvenBarracksWotRRealTime
-"Build Galadhrim Garrison (&W)"
+"Construire une Garnison Galadhrim (&W)"
 END
 
 CONTROLBAR:ToolTipElvenBarracksWotRRealTime
-"Primary Barracks \n Trains basic Infantry of Lothlórien \n Limited to 2"
+"Caserne principale \n Entraîne l'infanterie de base de Lothlórien \n Limité à 2"
 END
 
 CONTROLBAR:PurchaseUpgradeElvenBarracksLevel2
-"Upgrade Galadhrim Garrison to Level 2 (&A)"
+"Améliorez la Garnison des Galadhrim au niveau 2 (&A)"
 END
 
 CONTROLBAR:ToolTipBuildElvenBarracksLevel2
-"Allows training of Sentinels of Cerin Amroth and Sindar Pathstalkers\n +10% faster build speed"
+"Permet l'entraînement des Sentinelles de Cerin Amroth et des Pisteurs des Chemins Sindar \n +10% de vitesse de construction"
 END
 
 CONTROLBAR:ConstructElvenStable
-"Build Green Pasture (&V)"
+"Construire des Pâturages du Bois Doré (&V)"
 END
 
 CONTROLBAR:ToolTipGreenPasture
-"Trains Lothlórien Cavalry"
+"Permet de recruter la cavalerie de la Lothlórien."
 END
 
 CONTROLBAR:ConstructElvenStableWotRRealTime
-"Build Green Pasture (&R)"
+"Construire une Pâture Verte (&R)"
 END
 
 CONTROLBAR:ToolTipGreenPastureWotRRealTime
-"Secondary Barracks \n Trains Naith-na-Lethril \n Limited to 1"
+"Caserne secondaire \n Entraîne les Naith-na-Lethril \n Limité à 1"
 END
 
 //CONTROLBAR:ToolTipElvenBarracks
@@ -29725,103 +29723,103 @@ END
 //END
 
 CONTROLBAR:ConstructElvenGreenPastureLevel2Upgrade
-"Upgrade Green Pasture to Level 2 (&A)"
+"Améliorez les Pâturages du Bois Doré au niveau 2 (&A)"
 END
 
 CONTROLBAR:ToolTipBuildElvenGreenPastureLevel2Upgrade
-"+10% faster build speed"
+"Vitesse de construction +10%."
 END
 
 CONTROLBAR:ConstructElvenGreenPastureLevel3Upgrade
-"Upgrade Green Pasture to Level 3 (&A)"
+"Améliorez les Pâturages du Bois Doré au niveau 3 (&A)"
 END
 
 CONTROLBAR:ConstructElvenStatue
-"Build Statue of Amroth Amdírion (&U)"
+"Construire une Statue d'Amroth Amdírion (&U)"
 END
 
 CONTROLBAR:ToolTipElvenStatue
-"Allies near the statue gain \n +50% damage, +50% armour, \n and earn experience twice as fast"
+"Les alliés proches de la statue gagnent +50% dégâts, +50% armure, et gagnent de l'expérience deux fois plus rapidement.\n Ne peut pas s'utiliser avec d'autres bonus"
 END
 
 CONTROLBAR:ConstructElvenHiddenSanctum
-"Build Hidden Sanctum (&R)"
+"Construire un Sanctuaire Caché (&R)"
 END
 
 CONTROLBAR:ToolTipElvenHiddenSanctum
-"Trains Radiant-maidens, Knights of Amroth Amdírion and Nandor Hîr-Hathol \n Limited to 1"
+"Entraîne les Radiant-maidens, les Chevaliers d'Amroth Amdírion et les Nandor Hîr-Hathol \n Limité à 1"
 END
 
 CONTROLBAR:ToolTipElvenHiddenSanctumFoundation
-"Trains Radiant-maidens, Knights of Amroth Amdírion and Nandor Hîr-Hathol"
+"Entraîne les Radiant-maidens, les Chevaliers d'Amroth Amdírion et les Nandor Hîr-Hathol"
 END
 
 CONTROLBAR:ConstructElvenBattleTower
-"Build Lórien Talan (&Y)"
+"Construire un Talan de Lórien (&Y)"
 END
 
 CONTROLBAR:ToolTipBattleTower
-"Defensive arrow tower \n Can be garrisoned with archers for increased damage output"
+"Plateforme d'archers défensive. \n Un bataillon d'archers peut entrer en garnison pour augmenter les dégâts infligés."
 END
 
 CONTROLBAR:ConstructElvenMallornTree
-"Build Mallorn Tree (&W)"
+"Construire un Mallorn (&W)"
 END
 
 CONTROLBAR:ConstructGaladrielsWell
-"Build Mirror of Galadriel (&M)"
+"Construire le miroir de Galadriel (&M)"
 END
 
 CONTROLBAR:ToolTipEGaladrielsWell
-"Heals nearby troops \n Detects nearby enemy stealthed units \n Reduces the cost of Heroes: \n 3 mirrors = 10% cheaper \n 5 mirrors = 20% cheaper \n 7 mirrors = 30% cheaper \n 10 mirrors = 40% cheaper"
+"Soigne les troupes proches. \n Détecte les unités ennemies furtives proches. \n Réduit le coût des héros : \n 3 Miroirs: -10% \n 5 Miroirs: -20% \n 7 Miroirs: -30%\n 10 Miroirs: -40%"
 END
 
 CONTROLBAR:Command_ConstructElvenWallHubExpansion
-"Build Wall Hub (&A)"
+"Construire une assise (&A)"
 END
 
 CONTROLBAR:ToolTipCommand_ConstructElvenWallHubExpansion
-"Allows the construction of walls"
+"Permet la construction des murs."
 END
 
 CONTROLBAR:Command_ConstructElvenWallHubExpansionCastle
-"Wall Hub Expansion (&T)"
+"Extension Assise (&T)"
 END
 
 CONTROLBAR:Command_ElvenWallUpgradeToHub
-"Upgrade to Wall Hub (&W)"
+"Améliorer en assise (&W)"
 END
 
 CONTROLBAR:TooltipCommand_ElvenWallUpgradeToHub
-"Allows the construction of walls"
+"Permet la construction des murs."
 END
 
 CONTROLBAR:Command_ElvenWallUpgradeToRegularGate
-"Upgrade to Gate (&E)"
+"Améliorer en porte (&E)"
 END
 
 CONTROLBAR:TooltipCommand_ElvenWallUpgradeToRegularGate
-"This primary defensive gate can be opened and closed"
+"Cette porte défensive principale peut être ouverte et fermée."
 END
 
 CONTROLBAR:Command_ElvenCastleWallHub_BeginWallSpan
-"Build Wall (&W)"
+"Construire un mur (&W)"
 END
 
 CONTROLBAR:PurchaseUpgradeMallornTreeLevel2
-"Upgrade Mallorn Tree to Level 2 (&A)"
+"Améliore le Mallorn au niveau 2 (&A)"
 END
 
 CONTROLBAR:ToolTipBuildMallornTreeLevel2
-"Increases resource production \n Gains the ability to fire at enemies at great range"
+"Augmente la production de ressource. \n Permet la recher\n Gagne la capacité de tirer sur les ennemis à grande distance."
 END
 
 CONTROLBAR:PurchaseUpgradeMallornTreeLevel3
-"Upgrade Mallorn Tree to Level 3 (&A)"
+"Améliore le Mallorn au niveau 3"
 END
 
 CONTROLBAR:ToolTipBuildMallornTreeLevel3
-"Increases resource production"
+"Augmente la production de ressource."
 END
 
 // Elven Units
@@ -30140,12 +30138,12 @@ END
 
 CONTROLBAR:LW_ToolTipBuild_GondorFarm
 //"Structure Type: Farm\nIncreases treasury\n"
-"Battle Bonus: +20% faster resource production\n\nStructure Type: Farm\nIncreases treasury\n"
+"Bonus de combat : +20% de production de ressources plus rapide\n\nType de structure : Ferme\nAugmente le trésor\n"
 END
 
 CONTROLBAR:LW_ToolTip_GondorFarm
 //"Structure Type: Farm\nIncreases treasury\n"
-"Battle Bonus: +20% faster resource production\n\nStructure Type: Farm\nIncreases treasury\n"
+"Bonus de combat : +20% de production de ressources plus rapide\n\nType de structure : Ferme\nAugmente le trésor\n"
 END
 
 
@@ -30372,11 +30370,11 @@ CONTROLBAR:LW_Hero_Aragorn
 END
 
 CONTROLBAR:LW_ToolTipBuild_Aragorn
-"Unit Type: Hero Army Leader\n"
+"Type d'unité : héros commandant une armée\n "
 END
 
 CONTROLBAR:LW_ToolTip_Aragorn
-"Unit Type: Hero Army Leader"
+"Type d'unité : héros commandant une armée"
 END
 
 CONTROLBAR:LW_Hero_Theoden
@@ -30384,11 +30382,11 @@ CONTROLBAR:LW_Hero_Theoden
 END
 
 CONTROLBAR:LW_ToolTipBuild_Theoden
-"Unit Type: Hero Army Leader\n"
+"Type d'unité : héros commandant une armée\n "
 END
 
 CONTROLBAR:LW_ToolTip_Theoden
-"Unit Type: Hero Army Leader"
+"Type d'unité : héros commandant une armée"
 END
 
 CONTROLBAR:LW_Hero_Berethor
@@ -30396,7 +30394,7 @@ CONTROLBAR:LW_Hero_Berethor
 END
 
 CONTROLBAR:LW_ToolTipBuild_Berethor
-"Unit Type: Hero Army Leader\n"
+"Type d'unité : héros commandant une armée\n "
 END
 
 
@@ -30405,11 +30403,11 @@ CONTROLBAR:LW_Hero_Boromir
 END
 
 CONTROLBAR:LW_ToolTipBuild_Boromir
-"Unit Type: Hero Army Leader\n"
+"Type d'unité : héros commandant une armée\n "
 END
 
 CONTROLBAR:LW_ToolTip_Boromir
-"Unit Type: Hero Army Leader"
+"Type d'unité : héros commandant une armée"
 END
 
 CONTROLBAR:LW_Hero_Gandalf
@@ -30421,7 +30419,7 @@ CONTROLBAR:LW_ToolTipBuild_Gandalf
 END
 
 CONTROLBAR:LW_ToolTip_Gandalf
-"Unit Type: Hero Army Leader"
+"Type d'unité : héros commandant une armée"
 END
 
 CONTROLBAR:LW_Hero_Faramir
@@ -30429,11 +30427,11 @@ CONTROLBAR:LW_Hero_Faramir
 END
 
 CONTROLBAR:LW_ToolTipBuild_Faramir
-"Unit Type: Hero Army Leader\n"
+"Type d'unité : héros commandant une armée\n "
 END
 
 CONTROLBAR:LW_ToolTip_Faramir
-"Unit Type: Hero Army Leader"
+"Type d'unité : héros commandant une armée"
 END
 
 CONTROLBAR:LW_Hero_Eomer
@@ -30441,11 +30439,11 @@ CONTROLBAR:LW_Hero_Eomer
 END
 
 CONTROLBAR:LW_ToolTipBuild_Eomer
-"Unit Type: Hero Army Leader\n"
+"Type d'unité : héros commandant une armée\n "
 END
 
 CONTROLBAR:LW_ToolTip_Eomer
-"Unit Type: Hero Army Leader"
+"Type d'unité : héros commandant une armée"
 END
 
 CONTROLBAR:LW_Hero_Erkenbrand
@@ -30562,52 +30560,50 @@ CONTROLBAR:LW_ToolTip_ElvenEregionForge
 END
 
 CONTROLBAR:LW_Structure_ElvenMallornTree
-"Mallorn Tree"
+"Mallorn"
 END
 
 CONTROLBAR:LW_ToolTipBuild_ElvenMallornTree
-//"Structure Type: Farm\nIncreases treasury\n"
-"Battle Bonus: +20% faster resource production\n\nStructure Type: Farm\nIncreases treasury\n"
+"Bonus de combat : +20% de production de ressources plus rapide\n\nType de structure : Ferme\nAugmente le trésor\n"
 END
 
 CONTROLBAR:LW_ToolTip_ElvenMallornTree
-//"Structure Type: Farm\nIncreases treasury\n"
-"Battle Bonus: +20% faster resource production\n\nStructure Type: Farm\nIncreases treasury\n"
+"Bonus de combat : +20% de production de ressources plus rapide\n\nType de structure : Ferme\nAugmente le trésor\n"
 END
 
 
 ////////// Elven Units ///////////
 
 CONTROLBAR:LW_Unit_ElvenLorienWarriorHorde
-"Tawar-na-Eithyr Battalion"
+"Bataillon de Tawar-na-Eithyr"
 END
 
 CONTROLBAR:LW_Unit_ElvenLorienWarriorHordePlural
-"Tawar-na-Eithyr Battalions"
+"Bataillons de Tawar-na-Eithyr"
 END
 
 CONTROLBAR:LW_ToolTipBuild_ElvenLorienWarriorHorde
-"Silvan Sentries \n Unit Type: Basic Pikemen\nStrong vs. Cavalry\n"
+"Gardiens de la Lórien. \n Type d'unité : Infanterie standard. \n\n Fort contre la cavalerie. \n"
 END
 
 CONTROLBAR:LW_ToolTip_ElvenLorienWarriorHorde
-"Silvan Sentries \n Unit Type: Basic Pikemen\nStrong vs. Cavalry"
+"\n Gardiens de la Lórien. \n Type d'unité : Infanterie standard. \n\n Fort contre la cavalerie."
 END
 
 CONTROLBAR:LW_ToolTipBuild_ElvenAxeWarriorHorde
-"Silvan Levy \n Unit Type: Basic Swordsmen\n Strong vs. Pikemen\n"
+"Miliciens Sylvains \n Type d'unité : Épéistes de base \n Forts contre les piquiers"
 END
 
 CONTROLBAR:LW_ToolTip_ElvenAxeWarriorHorde
-"Silvan Levy \n Unit Type: Basic Swordsmen\n Strong vs. Pikemen"
+"Miliciens Sylvains \n Type d'unité : Épéistes de base \n Forts contre les piquiers"
 END
 
 CONTROLBAR:LW_Unit_ElvenAxeWarriorHorde
-"Tawarwaith Battalion"
+"Bataillon des Tawarwaith"
 END
 
 CONTROLBAR:LW_Unit_ElvenAxeWarriorHordePlural
-"Tawarwaith Battalions"
+"Bataillons des Tawarwaith"
 END
 
 BANNERUI:ElvenAxeWarrior
@@ -30619,76 +30615,76 @@ BANNERUI:ElvenAxeWarriors
 END
 
 CONTROLBAR:LW_Unit_ElvenLorienArcherHorde
-"Tawar-na-Pengryn Battalion"
+"Bataillon de Tawar-na-Pengryn"
 END
 
 CONTROLBAR:LW_Unit_ElvenLorienWardenArcherHorde
-"Tawar-na-Eithyr - Tawar-na-Pengryn Battalion"
+"Bataillon de Tawar-na-Eithyr - Tawar-na-Pengryn"
 END
 
 CONTROLBAR:LW_Unit_ElvenLorienWardenArcherHordePlural
-"Tawar-na-Eithyr - Tawar-na-Pengryn Battalions"
+"Bataillons de Tawar-na-Eithyr - Tawar-na-Pengryn"
 END
 
 CONTROLBAR:LW_ToolTip_ElvenLindonWarriorHorde
-"\nUnit Type: Elite Infantry\nStrong vs. Pikemen"
+"\n Type d'unité : infanterie d'élite.\n\n Forts contre les piquiers"
 END
 
 CONTROLBAR:LW_Unit_ElvenLindonWarriorHorde
-"Lindon Warrior Battalion"
+"Bataillon de guerriers du Lindon "
 END
 
 CONTROLBAR:LW_ToolTip_ElvenImladrisWarriorHorde
-"\nUnit Type: Elite Archers\nStrong at Range"
+"\n Type d'unité : archers d'élite\n Fort à distance"
 END
 
 CONTROLBAR:LW_Unit_ElvenImladrisWarriorHorde
-"Rivendell Archer Battalion"
+"Bataillon d'Archers de Fondcombe"
 END
 
 
 CONTROLBAR:LW_Unit_ElvenLorienArcherHordePlural
-"Tawar-na-Pengryn Battalions"
+"Bataillons de Tawar-na-Pengryn"
 END
 
 CONTROLBAR:LW_Unit_ElvenMirkwoodArcherHorde
-"Mirkwood Archer Battalion"
+"Bataillon d'Archers de la Forêt Noire"
 END
 
 CONTROLBAR:LW_Unit_ElvenMirkwoodArcherHordePlural
-"Mirkwood Archer Battalions"
+"Bataillons d'Archers de la Forêt Noire"
 END
 
 CONTROLBAR:LW_Unit_ElvenMithlondSentryHorde
-"Mithlond Sentry Battalion"
+"Bataillon de sentinelles de Mithlond"
 END
 
 CONTROLBAR:LW_Unit_ElvenMithlondSentryHordePlural
-"Mithlond Sentry Battalions"
+"Bataillons de sentinelles de Mithlond"
 END
 
 CONTROLBAR:LW_ToolTipBuild_ElvenMithlondSentryHorde
-"Unit Type: Basic Pikemen\nStrong vs. Cavalry\n"
+"Type d'unité : piquiers standards.\n\n Forts contre les cavaliers\n "
 END
 
 CONTROLBAR:LW_ToolTip_ElvenMithlondSentryHorde
-"\nUnit Type: Basic Pikemen\nStrong vs. Cavalry"
+"\n Type d'unité : piquiers standards.\n\n Forts contre les cavaliers"
 END
 
 CONTROLBAR:LW_Unit_ElvenRivendellLancerHorde
-"Rivendell Lancer Battalion"
+"Bataillon de Lanciers d'Imladris"
 END
 
 CONTROLBAR:LW_Unit_ElvenRivendellLancerHordePlural
-"Rivendell Lancer Battalions"
+"Bataillons de Lanciers d'Imladris"
 END
 
 CONTROLBAR:LW_ToolTipBuild_ElvenRivendellLancerHorde
-"Unit Type: Basic Cavalry\nStrong vs. Archers\n"
+"Type d'unité : cavalerie standard.\n\n Forts contre les archers\n "
 END
 
 CONTROLBAR:LW_ToolTip_ElvenRivendellLancerHorde
-"\nUnit Type: Basic Cavalry\nStrong vs. Archers"
+"\n Type d'unité : cavalerie standard.\n\n Forts contre les archers"
 END
 
 CONTROLBAR:LW_Unit_ElvenEnt
@@ -30707,11 +30703,11 @@ CONTROLBAR:LW_Hero_Elrond
 END
 
 CONTROLBAR:LW_ToolTipBuild_Elrond
-"Unit Type: Hero Army Leader\n"
+"Type d'unité : héros commandant une armée\n "
 END
 
 CONTROLBAR:LW_ToolTip_Elrond
-"Unit Type: Hero Army Leader"
+"Type d'unité : héros commandant une armée"
 END
 
 CONTROLBAR:LW_Hero_Haldir
@@ -30719,11 +30715,11 @@ CONTROLBAR:LW_Hero_Haldir
 END
 
 CONTROLBAR:LW_ToolTipBuild_Haldir
-"Unit Type: Hero Army Leader\n"
+"Type d'unité : héros commandant une armée\n "
 END
 
 CONTROLBAR:LW_ToolTip_Haldir
-"Unit Type: Hero Army Leader"
+"Type d'unité : héros commandant une armée"
 END
 
 CONTROLBAR:LW_Hero_Thranduil
@@ -30731,7 +30727,7 @@ CONTROLBAR:LW_Hero_Thranduil
 END
 
 CONTROLBAR:LW_Hero_Krimpul
-"Krimpûl the Torturer"
+"Krimpul Le Tortionnaire"
 END
 
 CONTROLBAR:LW_Hero_Cargast
@@ -30739,19 +30735,19 @@ CONTROLBAR:LW_Hero_Cargast
 End
 
 CONTROLBAR:LW_Hero_Saenathra
-"Queen Saenathra"
+"Reine Saenathra"
 END
 
 CONTROLBAR:LW_Hero_Necromancer
-"The Necromancer"
+"Le Necromancien"
 END
 
 CONTROLBAR:LW_ToolTipBuild_Thranduil
-"Unit Type: Hero Army Leader\n"
+"Type d'unité : héros commandant une armée\n "
 END
 
 CONTROLBAR:LW_ToolTip_Thranduil
-"Unit Type: Hero Army Leader"
+"Type d'unité : héros commandant une armée"
 END
 
 CONTROLBAR:LW_Hero_Legolas
@@ -30759,11 +30755,11 @@ CONTROLBAR:LW_Hero_Legolas
 END
 
 CONTROLBAR:LW_ToolTipBuild_Legolas
-"Unit Type: Hero\n"
+"Type d'unité : héros\n "
 END
 
 CONTROLBAR:LW_ToolTip_Legolas
-"Unit Type: Hero"
+"Type d'unité : héros"
 END
 
 CONTROLBAR:LW_Hero_Arwen
@@ -30771,11 +30767,11 @@ CONTROLBAR:LW_Hero_Arwen
 END
 
 CONTROLBAR:LW_ToolTipBuild_Arwen
-"Unit Type: Hero\n"
+"Type d'unité : héros\n "
 END
 
 CONTROLBAR:LW_ToolTip_Arwen
-"Unit Type: Hero"
+"Type d'unité : héros"
 END
 
 CONTROLBAR:LW_Hero_Glorfindel
@@ -30783,11 +30779,11 @@ CONTROLBAR:LW_Hero_Glorfindel
 END
 
 CONTROLBAR:LW_ToolTipBuild_Glorfindel
-"Unit Type: Hero Army Leader\n"
+"Type d'unité : héros commandant une armée. \n "
 END
 
 CONTROLBAR:LW_ToolTip_Glorfindel
-"Unit Type: Hero Army Leader"
+"Type d'unité : héros commandant une armée."
 END
 
 CONTROLBAR:LW_ToolTip_WotrGoodArmy1
@@ -30799,27 +30795,27 @@ CONTROLBAR:LW_ToolTip_WotrEvilArmy1
 END
 
 LWA:WotrGoodArmy1
-"Forces of the Free Peoples of Middle-earth"
+"Forces des Peuples Libres de la Terre du Milieu"
 END
 
 LWA:WotrEvilArmy1
-"Forces of Sauron"
+"Forces de Sauron"
 END
 
 OBJECT:WotrGoodArmy1
-"Player"
+"Joueur"
 END
 
 OBJECT:WotrEvilArmy1
-"Player"
+"Joueur"
 END
 
 CONTROLBAR:LW_Hero_Bolger
-"Fatty Bolger"
+"Fredegar Bolger"
 End
 
 CONTROLBAR:LW_Hero_Maggot
-"Farmer Maggot"
+"Le Père Magotte"
 END
 
 CONTROLBAR:LW_Hero_Gildor
@@ -30840,93 +30836,93 @@ END
 
 //////// Rivendell Structures ////////
 CONTROLBAR:LW_Structure_RivendellBarracks
-"Dúnedain Encampment"
+"Refuge Dunedains"
 END
 
 CONTROLBAR:LW_ToolTipBuild_RivendellBarracks
 //"Battle Template: Bree-land Encampment\n\nStructure Type: Basic Barracks\nTrains Rivendell basic units\n"
-"Battle Bonus: unit replenishment around the citadel \n\nStructure Type: Basic Barracks\nTrains Rivendell basic units\n"
+"Bonus de combat : régénération des unités autour de la citadelle \n\nType de structure : Caserne de base \nEntraîne les unités de base de Fondcombe\n"
 END
 
 CONTROLBAR:LW_ToolTip_RivendellBarracks
 //"Battle Template: Bree-land Encampment\n\nStructure Type: Basic Barracks\nTrains Rivendell basic units"
-"Battle Bonus: unit replenishment around the citadel \n\nStructure Type: Basic Barracks\nTrains Rivendell basic units\n"
+"Bonus de combat : régénération des unités autour de la citadelle \n\nType de structure : Caserne de base \nEntraîne les unités de base de Fondcombe\n"
 END
 
 CONTROLBAR:LW_Structure_RivendellForge
-"Rivendell Dormitory"
+"Dortoir de Fondcombe"
 END
 
 CONTROLBAR:LW_ToolTipBuild_RivendellForge
 //"Battle Template: Rivendell Dormitory\n\nStructure Type: Elite Barracks\nTrains Rivendell elite units\n"
-"Battle Bonus: +20% faster unit production\n\nStructure Type: Elite Barracks\nTrains Rivendell elite units\n"
+"Bonus de combat : +20% de production d'unités plus rapide\n\nType de structure : Caserne d'élite\nEntraîne les unités d'élite de Fondcombe\n"
 END
 
 CONTROLBAR:LW_ToolTip_RivendellForge
 //"Battle Template: Rivendell Dormitory\n\nStructure Type: Elite Barracks\nTrains Rivendell elite units"
-"Battle Bonus: +20% faster unit production\n\nStructure Type: Elite Barracks\nTrains Rivendell elite units\n"
+"Bonus de combat : +20% de production d'unités plus rapide\n\nType de structure : Caserne d'élite\nEntraîne les unités d'élite de Fondcombe\n"
 END
 
 CONTROLBAR:LW_Structure_RivendellOrchard
-"Orchard"
+"Verger"
 END
 
 CONTROLBAR:LW_ToolTipBuild_RivendellOrchard
 //"Structure Type: Farm\nIncreases treasury\n"
-"Battle Bonus: +20% faster resource production\n\nStructure Type: Farm\nIncreases treasury\n"
+"Bonus de combat : +20% de production de ressources plus rapide\n\nType de structure : Ferme\nAugmente le trésor\n"
 END
 
 CONTROLBAR:LW_ToolTip_RivendellOrchard
 //"Structure Type: Farm\nIncreases treasury\n"
-"Battle Bonus: +20% faster resource production\n\nStructure Type: Farm\nIncreases treasury\n"
+"Bonus de combat : +20% de production de ressources plus rapide\n\nType de structure : Ferme\nAugmente le trésor\n"
 END
 
 /////// Dwarven Structures ///////
 
 CONTROLBAR:LW_ToolTipBuild_DwarvenFortress
-"Structure Type: Fortress\nDefends territory\nRecruits heroes and heroic units\nGrants all upgrades to units\nIncreases treasury\n"
+"Type de structure : Forteresse. \n Défend le territoire. \n Recrute les héros et les unités héroïques. \n Accorde toutes les améliorations aux unités. \n Augmente la trésorerie."
 END
 
 CONTROLBAR:LW_ToolTip_DwarvenFortress
-"Structure Type: Fortress\nDefends territory\nRecruits heroes and heroic units\nGrants all upgrades to units\nIncreases treasury"
+"Type de structure : Forteresse. \n Défend le territoire. \n Recrute les héros et les unités héroïques. \n Accorde toutes les améliorations aux unités. \n Augmente la trésorerie."
 END
 
 CONTROLBAR:LW_ToolTipBuild_DwarvenHallOfWarriors
 //"Battle Template: Hall of Warriors\n\nStructure Type: Basic Barracks\nTrains Erebor basic units\n"
-"Battle Bonus: unit replenishment around the citadel \n\nStructure Type: Basic Barracks\nTrains Erebor basic units\n"
+"Bonus de combat : régénération des unités autour de la citadelle \n\nType de structure : Caserne de base \nEntraîne les unités de base d'Erebor\n"
 END
 
 CONTROLBAR:LW_ToolTip_DwarvenHallOfWarriors
 //"Battle Template: Hall of Warriors\n\nStructure Type: Basic Barracks\nTrains Erebor basic units"
-"Battle Bonus: unit replenishment around the citadel \n\nStructure Type: Basic Barracks\nTrains Erebor basic units\n"
+"Bonus de combat : régénération des unités autour de la citadelle \n\nType de structure : Caserne de base \nEntraîne les unités de base d'Erebor\n"
 END
 
 CONTROLBAR:LW_Structure_DwarvenForgeWorks
-"Forge Works"
+"Grande Forge"
 END
 
 CONTROLBAR:LW_ToolTipBuild_DwarvenForgeWorks
 //"Structure Type: Elite Barracks\nTrains Erebor elite units and siege\n"
-"Battle Bonus: +20% faster unit production\n\nStructure Type: Elite Barracks\nTrains Erebor elite units\n"
+"Bonus de combat : +20% de production d'unités plus rapide\n\nType de structure : Caserne d'élite\nEntraîne les unités d'élite d'Erebor\n"
 END
 
 CONTROLBAR:LW_ToolTip_DwarvenForgeWorks
 //"Structure Type: Elite Barracks\nTrains Erebor elite units and siege"
-"Battle Bonus: +20% faster unit production\n\nStructure Type: Elite Barracks\nTrains Erebor elite units\n"
+"Bonus de combat : +20% de production d'unités plus rapide\n\nType de structure : Caserne d'élite\nEntraîne les unités d'élite d'Erebor\n"
 END
 
 CONTROLBAR:LW_Structure_DwarvenMineShaft
-"Dwarven Mine"
+"Mine"
 END
 
 CONTROLBAR:LW_ToolTipBuild_DwarvenMineShaft
 //"Structure Type: Farm\nIncreases treasury\n"
-"Battle Bonus: +20% faster resource production\n\nStructure Type: Farm\nIncreases treasury\n"
+"Bonus de combat : +20% de production de ressources plus rapide\n\nType de structure : Ferme\nAugmente le trésor\n"
 END
 
 CONTROLBAR:LW_ToolTip_DwarvenMineShaft
 //"Structure Type: Farm\nIncreases treasury\n"
-"Battle Bonus: +20% faster resource production\n\nStructure Type: Farm\nIncreases treasury\n"
+"Bonus de combat : +20% de production de ressources plus rapide\n\nType de structure : Ferme\nAugmente le trésor\n"
 END
 
 
@@ -30934,35 +30930,35 @@ END
 
 
 CONTROLBAR:LW_ToolTipBuild_DwarvenGuardianHorde
-"Erebor Warriors \n Unit Type: Basic Infantry\nStrong vs. Pikemen\n"
+"Guerriers d'Erebor. \n Type d'unité : Infanterie d'élite. \n\n Forts contre les piquiers."
 END
 
 CONTROLBAR:LW_ToolTip_DwarvenGuardianHorde
-"Erebor Warriors \nUnit Type: Basic Infantry\nStrong vs. Pikemen"
+"Guerriers d'Erebor. \n Type d'unité : Infanterie d'élite. \n\n Forts contre les piquiers."
 END
 
 CONTROLBAR:LW_Unit_DwarvenMenOfDaleHorde
-"Barding Longbowman Battalion"
+"Bataillon d'Archers de Dale"
 END
 
 CONTROLBAR:LW_Unit_DwarvenMenOfDaleHordePlural
-"Barding Longbowman Battalions"
+"Bataillons d'Archers de Dale"
 END
 
 CONTROLBAR:LW_Unit_DwarvenMenOfDaleComboHorde
-"Barding Longbowmen Combo Battalion"
+"Bataillon d'Archers de Dale"
 END
 
 CONTROLBAR:LW_Unit_DwarvenMenOfDaleComboHordePlural
-"Barding Longbowmen Combo Battalions"
+"Bataillons d'Archers de Dale"
 END
 
 CONTROLBAR:LW_Unit_DwarvenCatapult
-"Iron Hills Catapult"
+"Catapulte des Monts du Fer"
 END
 
 CONTROLBAR:LW_Unit_DwarvenCatapultPlural
-"Iron Hills Catapults"
+"Catapultes des Monts du Fer"
 END
 
 
@@ -30973,31 +30969,31 @@ CONTROLBAR:LW_Hero_Gimli
 END
 
 CONTROLBAR:LW_ToolTipBuild_Gimli
-"Unit Type: Hero Army Leader\n"
+"Type d'unité : héros commandant une armée\n "
 END
 
 CONTROLBAR:LW_ToolTip_Gimli
-"Unit Type: Hero Army Leader"
+"Type d'unité : héros commandant une armée"
 END
 
 CONTROLBAR:LW_Hero_Dain
-"Lord Dáin II Ironfoot"
+"Seigneur Dáin II Pied d'Acier"
 END
 
 CONTROLBAR:LW_ToolTipBuild_Dain
-"Unit Type: Hero Army Leader\n"
+"Type d'unité : héros commandant une armée\n "
 END
 
 CONTROLBAR:LW_ToolTip_Dain
-"Unit Type: Hero Army Leader"
+"Type d'unité : héros commandant une armée"
 END
 
 CONTROLBAR:LW_Hero_Stonehelm
-"Thorin III Stonehelm"
+"Thorin III Heaume-De-Pierre"
 END
 
 CONTROLBAR:LW_Hero_KingDain
-"King Dáin"
+"Roi Dáin"
 END
 
 CONTROLBAR:LW_Hero_Gloin
@@ -31005,27 +31001,27 @@ CONTROLBAR:LW_Hero_Gloin
 END
 
 CONTROLBAR:LW_ToolTipBuild_Gloin
-"Unit Type: Hero Army Leader\n"
+"Type d'unité : héros commandant une armée\n "
 END
 
 CONTROLBAR:LW_ToolTip_Gloin
-"Unit Type: Hero Army Leader"
+"Type d'unité : héros commandant une armée"
 END
 
 CONTROLBAR:LW_Hero_CaptainofDale
-"Bard the Bowman"
+"Bard l'Archer"
 END
 
 CONTROLBAR:LW_Hero_Brand
-"King Brand"
+"Roi Brand"
 END
 
 CONTROLBAR:LW_ToolTipBuild_CaptainofDale
-"Unit Type: Hero Army Leader\n"
+"Type d'unité : héros commandant une armée\n "
 END
 
 CONTROLBAR:LW_ToolTip_CaptainofDale
-"Unit Type: Hero Army Leader"
+"Type d'unité : héros commandant une armée"
 END
 
 /////// WR Structures ////////
@@ -31376,12 +31372,12 @@ END
 
 CONTROLBAR:LW_ToolTipBuild_GuldurMill
 //"Structure Type: Farm\nIncreases treasury\n"
-"Battle Bonus: +20% faster resource production\n\nStructure Type: Farm\nIncreases treasury\n"
+"Bonus de combat : +20% de production de ressources plus rapide\n\nType de structure : Ferme\nAugmente le trésor\n"
 END
 
 CONTROLBAR:LW_ToolTip_GuldurMill
 //"Structure Type: Farm\nIncreases treasury\n"
-"Battle Bonus: +20% faster resource production\n\nStructure Type: Farm\nIncreases treasury\n"
+"Bonus de combat : +20% de production de ressources plus rapide\n\nType de structure : Ferme\nAugmente le trésor\n"
 END
 
 BANNERUI:BrokenRabble
@@ -31728,12 +31724,12 @@ END
 
 CONTROLBAR:LW_ToolTipBuild_MordorSlaughterhouse
 //"Structure Type: Farm\nIncreases treasury\n"
-"Battle Bonus: +20% faster resource production\n\nStructure Type: Farm\nIncreases treasury\n"
+"Bonus de combat : +20% de production de ressources plus rapide\n\nType de structure : Ferme\nAugmente le trésor\n"
 END
 
 CONTROLBAR:LW_ToolTip_MordorSlaughterhouse
 //"Structure Type: Farm\nIncreases treasury\n"
-"Battle Bonus: +20% faster resource production\n\nStructure Type: Farm\nIncreases treasury\n"
+"Bonus de combat : +20% de production de ressources plus rapide\n\nType de structure : Ferme\nAugmente le trésor\n"
 END
 
 
@@ -31896,11 +31892,11 @@ CONTROLBAR:LW_Hero_WitchKing
 END
 
 CONTROLBAR:LW_ToolTipBuild_WitchKing
-"Unit Type: Hero Army Leader\n"
+"Type d'unité : héros commandant une armée\n "
 END
 
 CONTROLBAR:LW_ToolTip_WitchKing
-"Unit Type: Hero Army Leader"
+"Type d'unité : héros commandant une armée"
 END
 
 CONTROLBAR:LW_Hero_FellBeast
@@ -31908,11 +31904,11 @@ CONTROLBAR:LW_Hero_FellBeast
 END
 
 CONTROLBAR:LW_ToolTipBuild_FellBeast
-"Unit Type: Hero Army Leader\n"
+"Type d'unité : héros commandant une armée\n "
 END
 
 CONTROLBAR:LW_ToolTip_FellBeast
-"Unit Type: Hero Army Leader"
+"Type d'unité : héros commandant une armée"
 END
 
 CONTROLBAR:LW_Hero_FellBeast1
@@ -31920,11 +31916,11 @@ CONTROLBAR:LW_Hero_FellBeast1
 END
 
 CONTROLBAR:LW_ToolTipBuild_FellBeast1
-"Unit Type: Hero Army Leader\n"
+"Type d'unité : héros commandant une armée\n "
 END
 
 CONTROLBAR:LW_ToolTip_FellBeast1
-"Unit Type: Hero Army Leader"
+"Type d'unité : héros commandant une armée"
 END
 
 CONTROLBAR:LW_Hero_FellBeast2
@@ -31932,11 +31928,11 @@ CONTROLBAR:LW_Hero_FellBeast2
 END
 
 CONTROLBAR:LW_ToolTipBuild_FellBeast2
-"Unit Type: Hero Army Leader\n"
+"Type d'unité : héros commandant une armée\n "
 END
 
 CONTROLBAR:LW_ToolTip_FellBeast2
-"Unit Type: Hero Army Leader"
+"Type d'unité : héros commandant une armée"
 END
 
 CONTROLBAR:LW_Hero_MouthOfSauron
@@ -31944,11 +31940,11 @@ CONTROLBAR:LW_Hero_MouthOfSauron
 END
 
 CONTROLBAR:LW_ToolTipBuild_MouthOfSauron
-"Unit Type: Hero Army Leader\n"
+"Type d'unité : héros commandant une armée\n "
 END
 
 CONTROLBAR:LW_ToolTip_MouthOfSauron
-"Unit Type: Hero Army Leader"
+"Type d'unité : héros commandant une armée"
 END
 
 CONTROLBAR:LW_Hero_Nazgul
@@ -31981,11 +31977,11 @@ CONTROLBAR:LW_Hero_Gothmog
 END
    
 CONTROLBAR:LW_ToolTipBuild_Gothmog
-"Unit Type: Hero Army Leader\n"
+"Type d'unité : héros commandant une armée\n "
 END
 
 CONTROLBAR:LW_ToolTip_Gothmog
-"Unit Type: Hero Army Leader"
+"Type d'unité : héros commandant une armée"
 END
 
 /////// Isengard Structures //////
@@ -32032,12 +32028,12 @@ END
 
 CONTROLBAR:LW_ToolTipBuild_IsengardFurnace
 //"Structure Type: Farm\nIncreases treasury\n"
-"Battle Bonus: +20% faster resource production\n\nStructure Type: Farm\nIncreases treasury\n"
+"Bonus de combat : +20% de production de ressources plus rapide\n\nType de structure : Ferme\nAugmente le trésor\n"
 END
 
 CONTROLBAR:LW_ToolTip_IsengardFurnace
 //"Structure Type: Farm\nIncreases treasury\n"
-"Battle Bonus: +20% faster resource production\n\nStructure Type: Farm\nIncreases treasury\n"
+"Bonus de combat : +20% de production de ressources plus rapide\n\nType de structure : Ferme\nAugmente le trésor\n"
 END
 
 
@@ -32158,11 +32154,11 @@ CONTROLBAR:LW_Hero_Saruman
 END
 
 CONTROLBAR:LW_ToolTipBuild_Saruman
-"Unit Type: Hero Army Leader\n"
+"Type d'unité : héros commandant une armée\n "
 END
 
 CONTROLBAR:LW_ToolTip_Saruman
-"Unit Type: Hero Army Leader"
+"Type d'unité : héros commandant une armée"
 END
 
 CONTROLBAR:LW_Hero_Lurtz
@@ -32170,11 +32166,11 @@ CONTROLBAR:LW_Hero_Lurtz
 END
 
 CONTROLBAR:LW_ToolTipBuild_Lurtz
-"Unit Type: Hero Army Leader\n"
+"Type d'unité : héros commandant une armée\n "
 END
 
 CONTROLBAR:LW_ToolTip_Lurtz
-"Unit Type: Hero Army Leader"
+"Type d'unité : héros commandant une armée"
 END
 
 CONTROLBAR:LW_Hero_Sharku
@@ -32182,7 +32178,7 @@ CONTROLBAR:LW_Hero_Sharku
 END
 
 CONTROLBAR:LW_ToolTipBuild_Sharku
-"Unit Type: Hero Army Leader\n"
+"Type d'unité : héros commandant une armée\n "
 END
 
 CONTROLBAR:LW_ToolTip_Sharku
@@ -32198,7 +32194,7 @@ CONTROLBAR:LW_Hero_Grishnakh
 END
 
 CONTROLBAR:LW_ToolTipBuild_WormTongue
-"Unit Type: Hero Army Leader\n"
+"Type d'unité : héros commandant une armée\n "
 END
 
 CONTROLBAR:LW_ToolTip_WormTongue
@@ -32250,12 +32246,12 @@ END
 
 CONTROLBAR:LW_ToolTipBuild_WildDefiledMineShaft
 //"Structure Type: Farm\nIncreases treasury\n"
-"Battle Bonus: +20% faster resource production\n\nStructure Type: Farm\nIncreases treasury\n"
+"Bonus de combat : +20% de production de ressources plus rapide\n\nType de structure : Ferme\nAugmente le trésor\n"
 END
 
 CONTROLBAR:LW_ToolTip_WildDefiledMineShaft
 //"Structure Type: Farm\nIncreases treasury\n"
-"Battle Bonus: +20% faster resource production\n\nStructure Type: Farm\nIncreases treasury\n"
+"Bonus de combat : +20% de production de ressources plus rapide\n\nType de structure : Ferme\nAugmente le trésor\n"
 END
 
 
@@ -32366,11 +32362,11 @@ CONTROLBAR:LW_Hero_Drogoth
 END
 
 CONTROLBAR:LW_ToolTipBuild_Drogoth
-"Unit Type: Hero Army Leader\n"
+"Type d'unité : héros commandant une armée\n "
 END
 
 CONTROLBAR:LW_ToolTip_Drogoth
-"Unit Type: Hero Army Leader"
+"Type d'unité : héros commandant une armée"
 END
 
 CONTROLBAR:LW_Hero_Shelob
@@ -32378,19 +32374,19 @@ CONTROLBAR:LW_Hero_Shelob
 END
 
 CONTROLBAR:LW_ToolTipBuild_Shelob
-"Unit Type: Hero Army Leader\n"
+"Type d'unité : héros commandant une armée\n "
 END
 
 CONTROLBAR:LW_ToolTip_Shelob
-"Unit Type: Hero Army Leader"
+"Type d'unité : héros commandant une armée"
 END
 
 CONTROLBAR:LW_ToolTipBuild_GoblinKing
-"Unit Type: Hero Army Leader\n"
+"Type d'unité : héros commandant une armée\n "
 END
 
 CONTROLBAR:LW_ToolTip_GoblinKing
-"Unit Type: Hero Army Leader"
+"Type d'unité : héros commandant une armée"
 END
 
 CONTROLBAR:LW_Hero_Azog
@@ -32402,11 +32398,11 @@ CONTROLBAR:LW_Hero_Bolg
 END
 
 CONTROLBAR:LW_ToolTipBuild_Azog
-"Unit Type: Hero Army Leader\n"
+"Type d'unité : héros commandant une armée\n "
 END
 
 CONTROLBAR:LW_ToolTip_Azog
-"Unit Type: Hero Army Leader"
+"Type d'unité : héros commandant une armée"
 END
 
 
@@ -35669,7 +35665,7 @@ OBJECT:DwarvenUndermineMineShaft
 End
 
 OBJECT:DwarvenWallPosternGate
-"Postern Gate"
+"Poterne"
 End
 
 OBJECT:Easterling_Banner
@@ -35745,7 +35741,7 @@ OBJECT:ElvenMithlondSentry
 End
 
 OBJECT:ElvenPorter
-"Builder"
+"Bâtisseur"
 End
 
 OBJECT:Lorilinde
@@ -45113,7 +45109,7 @@ Upgrade:MenGate
 END
 
 Upgrade:MenPosternGate
-"Postern Gate"
+"Poterne"
 END
 
 Upgrade:MenArrowTower
@@ -45231,7 +45227,7 @@ UPGRADE:Upgrade_DwarvenWallRegularGate
 END
 
 UPGRADE:Upgrade_DwarvenWallPosternGate
-"Postern Gate"
+"Poterne"
 END
 
 UPGRADE:Upgrade_DwarvenWallTower
@@ -51694,7 +51690,7 @@ CONTROLBAR:ToolTipCommand_ArnorWallUpgradeToRegularGate
 END
 
 CONTROLBAR:Command_ArnorWallUpgradeToPosternGate
-"Postern Gate (&R)"
+"Poterne (&R)"
 END
 
 CONTROLBAR:ToolTipCommand_ArnorWallUpgradeToPosternGate
@@ -51957,7 +51953,7 @@ Upgrade:ArnorGate
 END
 
 Upgrade:ArnorPosternGate
-"Postern Gate"
+"Poterne"
 END
 
 Upgrade:ArnorArrowTower
@@ -52471,12 +52467,12 @@ END
 
 CONTROLBAR:LW_ToolTipBuild_AngmarFarm
 //"Structure Type: Farm\nIncreases treasury\n"
-"Battle Bonus: +20% faster resource production\n\nStructure Type: Farm\nIncreases treasury\n"
+"Bonus de combat : +20% de production de ressources plus rapide\n\nType de structure : Ferme\nAugmente le trésor\n"
 END
 
 CONTROLBAR:LW_ToolTip_AngmarFarm
 //"Structure Type: Farm\nIncreases treasury\n"
-"Battle Bonus: +20% faster resource production\n\nStructure Type: Farm\nIncreases treasury\n"
+"Bonus de combat : +20% de production de ressources plus rapide\n\nType de structure : Ferme\nAugmente le trésor\n"
 END
 
 
@@ -52621,7 +52617,7 @@ CONTROLBAR:ToolTipConstructAngmarSentryTower
 END
 
 OBJECT:AngmarPorter
-//"Builder"
+//"Bâtisseur"
 "Architect"
 End
 
@@ -52638,7 +52634,7 @@ OBJECT:AngmarDarkRanger
 End
 
 OBJECT:AngmarWildMissle
-"Builder"
+"Bâtisseur"
 End
 
 OBJECT:AngmarWolfRiders
@@ -52750,7 +52746,7 @@ OBJECT:AngmarCastleWallHub
 End
 
 OBJECT:AngmarWallPosternGateSmall
-"Postern Gate"
+"Poterne"
 End
 
 OBJECT:AngmarKennelExpansion
@@ -53491,7 +53487,7 @@ CONTROLBAR:TooltipCommand_AngmarWallUpgradeToRegularGate
 End
 
 CONTROLBAR:Command_AngmarWallUpgradeToPosternGate
-"Postern Gate (&R)"
+"Poterne (&R)"
 End
 
 CONTROLBAR:TooltipCommand_AngmarWallUpgradeToTower
@@ -53781,11 +53777,11 @@ CONTROLBAR:LW_Hero_Khamul
 END
 
 CONTROLBAR:LW_ToolTipBuild_Khamul
-"Unit Type: Hero Army Leader\n"
+"Type d'unité : héros commandant une armée\n "
 END
 
 CONTROLBAR:LW_ToolTip_Khamul
-"Unit Type: Hero Army Leader"
+"Type d'unité : héros commandant une armée"
 END
 
 CONTROLBAR:MordorKhamulRecruit
@@ -54693,7 +54689,7 @@ CONTROLBAR:LW_Hero_Rogash
 END
 
 CONTROLBAR:LW_ToolTipBuild_Rogash
-"Unit Type: Hero Army Leader\n"
+"Type d'unité : héros commandant une armée\n "
 END
 
 CONTROLBAR:LW_ToolTip_Rogash
@@ -54705,11 +54701,11 @@ CONTROLBAR:LW_Hero_Morgramir
 END
 
 CONTROLBAR:LW_ToolTipBuild_Morgramir
-"Unit Type: Hero Army Leader\n"
+"Type d'unité : héros commandant une armée\n "
 END
 
 CONTROLBAR:LW_ToolTip_Morgramir
-"Unit Type: Hero Army Leader"
+"Type d'unité : héros commandant une armée"
 END
 
 CONTROLBAR:LW_Hero_Hwaldar
@@ -54717,11 +54713,11 @@ CONTROLBAR:LW_Hero_Hwaldar
 END
 
 CONTROLBAR:LW_ToolTipBuild_Hwaldar
-"Unit Type: Hero Army Leader\n"
+"Type d'unité : héros commandant une armée\n "
 END
 
 CONTROLBAR:LW_ToolTip_Hwaldar
-"Unit Type: Hero Army Leader"
+"Type d'unité : héros commandant une armée"
 END
 
 CONTROLBAR:LW_Hero_Karsh
@@ -65056,7 +65052,7 @@ CONTROLBAR:VahRusRecruit
 "Recruit the Overlord of the Rhûnic Legions \n\n Personally appointed by the shadowy Onyx Emperor, Vâh-rús has taken up high command of the legions sent to crush Sauron's enemies during the final campaigns, so that the Dark Lord may seize his control of all Middle-earth. Ruthless and cunning, Vâh-rús is a veteran of many wars, and has led his warriors from the front lines for decades, quelling uprisings and uniting his emperor's lands under his black banner."
 END
 CONTROLBAR:LW_ToolTip_VahRus
-"Unit Type: Hero Army Leader"
+"Type d'unité : héros commandant une armée"
 END
 CONTROLBAR:RanAuthority
 "Rân's Authority"
@@ -72377,7 +72373,7 @@ BANNERUI:ElvenLorienSentries
 END
 
 CONTROLBAR:LW_ToolTip_Galadriel
-"Unit Type: Hero Army Leader"
+"Type d'unité : héros commandant une armée"
 END
 
 CONTROLBAR:LW_Unit_CerinAmrothSentinelHordePlural
@@ -72829,11 +72825,11 @@ BANNERUI:PluralDwarvenEredLuinTrader
 END
 
 CONTROLBAR:LW_ToolTipBuild_Imrahil
-"Unit Type: Hero Army Leader\n"
+"Type d'unité : héros commandant une armée\n "
 END
 
 CONTROLBAR:LW_ToolTip_Imrahil
-"Unit Type: Hero Army Leader"
+"Type d'unité : héros commandant une armée"
 END
 
 BANNERUI:LaketownSpearmen
