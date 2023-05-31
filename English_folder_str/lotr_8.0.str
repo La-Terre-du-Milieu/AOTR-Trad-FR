@@ -16083,7 +16083,7 @@ CONTROLBAR:ConstructGondorKeep
 "Construire un donjon"
 END
 CONTROLBAR:ConstructGondorStatue
-"Construire une Statue héroùque"
+"Construire une Statue héroïque"
 END
 CONTROLBAR:ConstructGondorWell
 "Construire une Fontaine"
@@ -30358,11 +30358,11 @@ CONTROLBAR:LW_Hero_CreateAHero
 END
 
 CONTROLBAR:LW_ToolTipBuild_CreateAHero
-"Unit Type: Hero\n"
+"Type d'unité : Héros. \n"
 END
 
 CONTROLBAR:LW_ToolTip_CreateAHero
-"Unit Type: Hero"
+"Type d'unité : Héros"
 END
 
 CONTROLBAR:LW_Hero_Aragorn
@@ -30415,7 +30415,7 @@ CONTROLBAR:LW_Hero_Gandalf
 END
 
 CONTROLBAR:LW_ToolTipBuild_Gandalf
-"Unit Type: Hero\n"
+"Type d'unité : Héros. \n"
 END
 
 CONTROLBAR:LW_ToolTip_Gandalf
@@ -30463,11 +30463,11 @@ CONTROLBAR:LW_Hero_Eowyn
 END
 
 CONTROLBAR:LW_ToolTipBuild_Eowyn
-"Unit Type: Hero\n"
+"Type d'unité : Héros. \n"
 END
 
 CONTROLBAR:LW_ToolTip_Eowyn
-"Unit Type: Hero"
+"Type d'unité : Héros"
 END
 
 CONTROLBAR:LW_Hero_Frodo
@@ -30475,11 +30475,11 @@ CONTROLBAR:LW_Hero_Frodo
 END
 
 CONTROLBAR:LW_ToolTipBuild_Frodo
-"Unit Type: Hero\n"
+"Type d'unité : Héros. \n"
 END
 
 CONTROLBAR:LW_ToolTip_Frodo
-"Unit Type: Hero"
+"Type d'unité : Héros"
 END
 
 CONTROLBAR:LW_Hero_Sam
@@ -30487,11 +30487,11 @@ CONTROLBAR:LW_Hero_Sam
 END
 
 CONTROLBAR:LW_ToolTipBuild_Sam
-"Unit Type: Hero\n"
+"Type d'unité : Héros. \n"
 END
 
 CONTROLBAR:LW_ToolTip_Sam
-"Unit Type: Hero"
+"Type d'unité : Héros"
 END
 
 CONTROLBAR:LW_Hero_Merry
@@ -30499,11 +30499,11 @@ CONTROLBAR:LW_Hero_Merry
 END
 
 CONTROLBAR:LW_ToolTipBuild_Merry
-"Unit Type: Hero\n"
+"Type d'unité : Héros. \n"
 END
 
 CONTROLBAR:LW_ToolTip_Merry
-"Unit Type: Hero"
+"Type d'unité : Héros"
 END
 
 CONTROLBAR:LW_Hero_Pippin
@@ -30511,11 +30511,11 @@ CONTROLBAR:LW_Hero_Pippin
 END
 
 CONTROLBAR:LW_ToolTipBuild_Pippin
-"Unit Type: Hero\n"
+"Type d'unité : Héros. \n"
 END
 
 CONTROLBAR:LW_ToolTip_Pippin
-"Unit Type: Hero"
+"Type d'unité : Héros"
 END
 
 
@@ -31027,35 +31027,35 @@ END
 /////// WR Structures ////////
 
 CONTROLBAR:LW_Structure_MirkwoodHuntingShrine
-"Hunting Shrine"
+"Sanctuaire de Chasse"
 END
 
 CONTROLBAR:LW_Structure_MirkwoodSilvanClearing
-"Silvan Glade"
+"Clairière Sylvestre"
 END
 
 CONTROLBAR:LW_ToolTipBuild_MirkwoodSilvanClearing
 //"Battle Template: Silvan Clearing\n\nStructure Type: Barracks\nTrains Woodland Realm basic units\n"
-"Battle Bonus: unit replenishment around the citadel \n\nStructure Type: Barracks\nTrains Woodland Realm basic units\n"
+"Bonus de combat : régénération des unités autour de la citadelle \n\nType de structure : Caserne \nEntraîne les unités de base de la Forêt Noire\n"
 END
 
 CONTROLBAR:LW_ToolTip_MirkwoodSilvanClearing
 //"Battle Template: Silvan Clearing\n\nStructure Type: Barracks\nTrains Woodland Realm basic units"
-"Battle Bonus: unit replenishment around the citadel \n\nStructure Type: Barracks\nTrains Woodland Realm basic units\n"
+"Bonus de combat : régénération des unités autour de la citadelle \n\nType de structure : Caserne \nEntraîne les unités de base de la Forêt Noire\n"
 END
 
 CONTROLBAR:LW_Structure_MirkwoodRoyalBarracks
-"Elvenking's Hall"
+"Caserne Royale"
 END
 
 CONTROLBAR:LW_ToolTipBuild_MirkwoodRoyalBarracks
 //"Battle Template: Royal Barracks\n\nStructure Type: Elite Barracks\nTrains Woodland Realm elite units\n"
-"Battle Bonus: +20% faster unit production\n\nStructure Type: Elite Barracks\nTrains Woodland Realm elite units\n"
+"Bonus de combat : +20% de production d'unités plus rapide\n\nType de structure : Caserne d'élite\nEntraîne les unités d'élite de la Forêt Noire\n"
 END
 
 CONTROLBAR:LW_ToolTip_MirkwoodRoyalBarracks
 //"Battle Template: Royal Barracks\n\nStructure Type: Elite Barracks\nTrains Woodland Realm elite units"
-"Battle Bonus: +20% faster unit production\n\nStructure Type: Elite Barracks\nTrains Woodland Realm elite units\n"
+"Bonus de combat : +20% de production d'unités plus rapide\n\nType de structure : Caserne d'élite\nEntraîne les unités d'élite de la Forêt Noire\n"
 END
 
 /////// WR Units ////////
@@ -31081,7 +31081,7 @@ CONTROLBAR:LW_Hero_Radagast
 END
 
 CONTROLBAR:LW_ToolTip_Radagast
-"Unit Type: Hero"
+"Type d'unité : Héros"
 END
 
 CONTROLBAR:LW_Hero_Grimbeorn
@@ -31089,31 +31089,31 @@ CONTROLBAR:LW_Hero_Grimbeorn
 END
 
 CONTROLBAR:LW_ToolTip_Grimbeorn
-"Unit Type: Hero"
+"Type d'unité : Héros"
 END
 
 CONTROLBAR:LW_Unit_MirkwoodRangerHorde
-"Taurdrim Battalion"
+"Bataillon de Taurdron"
 END
 
 CONTROLBAR:LW_Unit_MirkwoodRangerHordePlural
-"Taurdrim Battalions"
+"Bataillons de Taurdron"
 END
 
 CONTROLBAR:LW_ToolTipBuild_MirkwoodRangerHorde
-"Forest-folk\nUnit Type: Basic Archer\nStrong vs. Infantry\n"
+"Peuple de la forêt. \n Type d'unité: Archers standards. \n Forts contre l'infanterie. \n"
 END
 
 CONTROLBAR:LW_ToolTip_MirkwoodRangerHorde
-"\nForest-folk\nUnit Type: Basic Archer\nStrong vs. Infantry"
+"\n Peuple de la forêt. \n Type d'unité: Archers standards. \n Forts contre l'infanterie."
 END
 
 CONTROLBAR:LW_Unit_MirkwoodWardenHorde
-"Sigilmaethyr Battalion"
+"Bataillon de Sigilmaethor"
 END
 
 CONTROLBAR:LW_Unit_MirkwoodWardenHordePlural
-"Sigilmaethyr Battalions"
+"Bataillons de Sigilmaethor"
 END
 
 OBJECT:MirkwoodWardens
@@ -31121,19 +31121,19 @@ OBJECT:MirkwoodWardens
 END
 
 CONTROLBAR:LW_ToolTipBuild_MirkwoodWardenHorde
-"Dagger-warrior\nUnit Type: Basic Infantry\nStrong vs. Pikeman\n"
+"Guerriers à Dagues. \n Type d'unité: Infanterie standard. \n Forts contre les piquiers. \n"
 END
 
 CONTROLBAR:LW_ToolTip_MirkwoodWardenHorde
-"\nDagger-warrior\nUnit Type: Basic Infantry\nStrong vs. Pikeman"
+"\n Guerriers à Dagues. \n Type d'unité: Infanterie standard. \n Forts contre les piquiers."
 END
 
 CONTROLBAR:LW_Unit_MirkwoodSpearHorde
-"Thelamaethyr Battalion"
+"Bataillon de Thelamaethor"
 END
 
 CONTROLBAR:LW_Unit_MirkwoodSpearHordePlural
-"Thelamaethyr Battalions"
+"Bataillons de Thelamaethor"
 END
 
 OBJECT:MirkwoodSpears
@@ -31141,19 +31141,19 @@ OBJECT:MirkwoodSpears
 END
 
 CONTROLBAR:LW_ToolTipBuild_MirkwoodSpearHorde
-"Spear-warrior\nUnit Type: Basic Pikeman\nStrong vs. Cavalry\n"
+"Lanciers de la Forêt Noire. \n Type d'unité: Piquiers standards. \n Forts contre la cavalerie. \n"
 END
 
 CONTROLBAR:LW_ToolTip_MirkwoodSpearHorde
-"\nSpear-warrior\nUnit Type: Basic Pikeman\nStrong vs. Cavalry"
+"\n Lanciers de la Forêt Noire. \n Type d'unité: Piquiers standards. \n Forts contre la cavalerie."
 END
 
 CONTROLBAR:LW_Unit_MirkwoodOutriderHorde
-"Gwairochyn Battalion"
+"Bataillon de Gwairochir"
 END
 
 CONTROLBAR:LW_Unit_MirkwoodOutriderHordePlural
-"Gwairochyn Battalions"
+"Bataillons de Gwairochir"
 END
 
 OBJECT:MirkwoodOutriders
@@ -31161,95 +31161,92 @@ OBJECT:MirkwoodOutriders
 END
 
 CONTROLBAR:LW_ToolTipBuild_MirkwoodOutriderHorde
-"Wild-rider\nUnit Type: Basic Cavalry\nStrong vs. Infantry\n"
+"Chevaucheur sauvage. \n Type d'unité: Cavalerie standard. \n Forts contre l'infanterie. \n"
 END
 
 CONTROLBAR:LW_ToolTip_MirkwoodOutriderHorde
-"\nWild-rider\nUnit Type: Basic Cavalry\nStrong vs. Infantry"
+"\n Chevaucheur sauvage. \n Type d'unité: Cavalerie standard. \n Forts contre l'infanterie."
 END
 
 CONTROLBAR:LW_Unit_MirkwoodEotheodHorde
-"Éotheod Warrior Battalion"
+"Bataillon de Guerriers Éotheod"
 END
 
 CONTROLBAR:LW_Unit_MirkwoodEotheodHordePlural
-"Éotheod Warrior Battalions"
+"Bataillons de Guerriers Éotheod"
 END
 
 CONTROLBAR:LW_ToolTipBuild_MirkwoodEotheodHorde
-"Unit Type: Elite Cavalry\nStrong vs. Infantry\n"
+"Type d'unité: Cavalerie d'élite. \n Forts contre l'infanterie. \n"
 END
 
 CONTROLBAR:LW_ToolTip_MirkwoodEotheodHorde
-"\nUnit Type: Elite Cavalry\nStrong vs. Infantry"
+"\n Type d'unité: Cavalerie d'élite. \n Forts contre l'infanterie."
 END
 
 CONTROLBAR:LW_Unit_GreenwoodSlayerHorde
 //"Theladagnor"
-"Theladagnyr Battalion"
+"Bataillon de Theladagnor"
 END
 
 CONTROLBAR:LW_Unit_GreenwoodSlayerHordePlural
-//"Theladagnyr"
-"Theladagnyr Battalions"
+"Bataillons de Theladagnor"
 END
 
 CONTROLBAR:LW_ToolTipBuild_GreenwoodSlayerHorde
-"Spear-slayers\nUnit Type: Elite Infantry \n Strong vs. Spam Infantry\n"
+"Tueurs à lances. \n Type d'unité: Infanterie d'élite. \n Forts contre l'infanterie de masse. \n"
 END
 
 CONTROLBAR:LW_ToolTip_GreenwoodSlayerHorde
-"Spear-slayers\nUnit Type: Elite Infantry \n Strong vs. Spam Infantry"
+"Tueurs à lances. \n Type d'unité: Infanterie d'élite. \n Forts contre l'infanterie de masse."
 END
 
 CONTROLBAR:LW_Unit_GreenwoodArcherHorde
-"Cúmaethyr Battalion"
+"Bataillon de Cúmaethor"
 END
 
 CONTROLBAR:LW_Unit_GreenwoodArcherHordePlural
-//"Cúmaethyr"
-"Cúmaethyr Battalions"
+"Bataillons de Cúmaethor"
 END
 
 CONTROLBAR:LW_ToolTipBuild_GreenwoodArcherHorde
-"Bow-warriors\nUnit Type: Elite Archer \n Strong vs. Infantry \n"
+"Guerriers à l'arcs. \n Type d'unité: Archer d'élite. \n Forts contre l'infanterie. \n"
 END
 
 CONTROLBAR:LW_ToolTip_GreenwoodArcherHorde
-"Bow-warriors\nUnit Type: Elite Archer \n Strong vs. Infantry"
+"Guerriers à l'arcs. \n Type d'unité: Archer d'élite. \n Forts contre l'infanterie."
 END
 
 CONTROLBAR:LW_Unit_SindarNobleHorde
-"Faenrochyn Battalion"
+"Bataillon de Faenrochir"
 END
 
 CONTROLBAR:LW_Unit_SindarNobleHordePlural
-//"Faenrochyn"
-"Faenrochyn Battalions"
+"Bataillons de Faenrochir"
 END
 
 CONTROLBAR:LW_ToolTipBuild_SindarNobleHorde
-"Radiant-riders\nUnit Type: Elite Cavalry\nStrong. vs Swordsmen and Archers\n"
+"Cavaliers radieux. \n Type d'unité: Cavalerie d'élite. \n Forts contre les épéistes et les archers. \n"
 END
 
 CONTROLBAR:LW_ToolTip_SindarNobleHorde
-"Radiant-riders\nUnit Type: Elite Cavalry\nStrong. vs Swordsmen and Archers"
+"Cavaliers radieux. \n Type d'unité: Cavalerie d'élite. \n Forts contre les épéistes et les archers."
 END
 
 CONTROLBAR:LW_Unit_BeorningHorde
-"Beorning Berserker Battalion"
+"Bataillon de Berserker Béornides"
 END
 
 CONTROLBAR:LW_Unit_BeorningHordePlural
-"Beorning Berserker Battalions"
+"Bataillons de Berserker Béornides"
 END
 
 CONTROLBAR:LW_ToolTipBuild_BeorningHorde
-"Unit Type: Elite Infantry\nStrong vs. Infantry, Structures and Heroes\n"
+"Type d'unité : Infanterie d'élite. \n Forts contre l'infanterie, les structures et les héros. \n"
 END
 
 CONTROLBAR:LW_ToolTip_BeorningHorde
-"\nUnit Type: Elite Infantry\nStrong vs. Infantry, Structures and Heroes"
+"\n Type d'unité : Infanterie d'élite. \n Forts contre l'infanterie, les structures et les héros."
 END
 
 CONTROLBAR:LW_Unit_MirkwoodBallista
@@ -31257,11 +31254,11 @@ CONTROLBAR:LW_Unit_MirkwoodBallista
 END
 
 CONTROLBAR:LW_ToolTipBuild_MirkwoodBallista
-"Distant Thrower\nUnit Type: Siege \n Strong vs. Structures and Archers\n"
+"Engin de siège. \n Type d'unité: Arme de siège. \n Fort contre les structures. \n"
 END
 
 CONTROLBAR:LW_ToolTip_MirkwoodBallista
-"Distant Thrower\nUnit Type: Siege \n Strong vs. Structures and Archers"
+"Engin de siège. \n Type d'unité: Arme de siège. \n Fort contre les structures."
 END
 
 CONTROLBAR:LW_Unit_SilvanHunter
@@ -31269,105 +31266,105 @@ CONTROLBAR:LW_Unit_SilvanHunter
 END
 
 CONTROLBAR:LW_ToolTipBuild_SilvanHunter
-"Hunter\nUnit Type: Scout\n"
+"Chasseur. \n Type d'unité: Éclaireur. \n"
 END
 
 CONTROLBAR:LW_ToolTip_SilvanHunter
-"Hunter\nUnit Type: Scout"
+"Chasseur. \n Type d'unité: Éclaireur."
 END
 
 CONTROLBAR:LW_Unit_MirkwoodDruid
-"Druid of the Oaken Order"
+"Druide de l'Ordre du Chêne"
 END
 
 CONTROLBAR:LW_Unit_MirkwoodDruids
-"Druids of the Oaken Order"
+"Druides de l'Ordre du Chêne"
 END
 
 CONTROLBAR:LW_ToolTipBuild_MirkwoodDruid
-"Unit Type: Support Unit\n"
+"Type d'unité: Unité de soutien. \n"
 END
 
 CONTROLBAR:LW_ToolTip_MirkwoodDruid
-"\nUnit Type: Support Unit"
+"\n Type d'unité: Unité de soutien."
 END
 
 CONTROLBAR:LW_Unit_WoodmenMarksmenHorde
-"Woodman Hunter Battalion"
+"Bataillon de Chasseurs des Bois"
 END
 
 CONTROLBAR:LW_Unit_WoodmenMarksmenHordePlural
-"Woodman Hunter Battalions"
+"Bataillons de Chasseurs des Bois"
 END
 
 CONTROLBAR:LW_ToolTipBuild_WoodmenMarksmenHorde
-"Unit Type: Basic Archer\nStrong vs. Infantry\n"
+"Type d'unité: Archers standards. \n Forts contre l'infanterie. \n"
 END
 
 CONTROLBAR:LW_ToolTip_WoodmenMarksmenHorde
-"\nUnit Type: Basic Archer\nStrong vs. Infantry"
+"\n Type d'unité: Archers standards. \n Forts contre l'infanterie."
 END
 
 CONTROLBAR:LW_Unit_MirkwoodBatteringRam
-"Beorning Battering Ram"
+"Bélier Béornide"
 END
 
 CONTROLBAR:LW_ToolTipBuild_MirkwoodBatteringRam
-"Unit Type: Siege\n"
+"Type d'unité: Engin de siège. \n"
 END
 
 CONTROLBAR:LW_ToolTip_MirkwoodBatteringRam
-"Unit Type: Siege"
+"Type d'unité: Engin de siège."
 END
 
 CONTROLBAR:LW_Unit_GildedGuardHorde
-"Tawartirion Battalion"
+"Bataillon de Tawartirion"
 END
 
 CONTROLBAR:LW_Unit_GildedGuardHordePlural
-"Tawartirion Battalions"
+"Bataillons de Tawartirion"
 END
 
 CONTROLBAR:LW_ToolTip_GildedGuardHorde
-"Gilded Guard of Lasgalen\nUnit Type: Hero Unit\nStrong vs. Infantry and Archers"
+"Gardes Dorés de Lasgalen. \n Type d'unité: Unité héroïque. \n Forts contre l'infanterie et les archers."
 END
 
 CONTROLBAR:LW_ToolTipBuild_GildedGuardHorde
-"Gilded Guard of Lasgalen\nUnit Type: Hero Unit\nStrong vs. Infantry and Archers\n"
+"Gardes Dorés de Lasgalen. \n Type d'unité: Unité héroïque. \n Forts contre l'infanterie et les archers."
 END
 
 /////// DG Structures ////////
 
 CONTROLBAR:LW_Structure_GuldurGaol
-"Slave Quarters"
+"Geôle de Dol Guldur"
 END
 
 CONTROLBAR:LW_ToolTipBuild_GuldurGaol
 //"Battle Template: Guldur Gaol\n\nStructure Type: Basic Barracks\nTrains Dol Guldur basic units\n"
-"Battle Bonus: unit replenishment around the citadel \n\nStructure Type: Basic Barracks\nTrains Dol Guldur basic units\n"
+"Bonus de combat : régénération des unités autour de la citadelle \n\nType de structure : Caserne de base \nEntraîne les unités de base de Dol Guldur\n"
 END
 
 CONTROLBAR:LW_ToolTip_GuldurGaol
 //"Battle Template: Guldur Gaol\n\nStructure Type: Basic Barracks\nTrains Dol Guldur basic units"
-"Battle Bonus: unit replenishment around the citadel \n\nStructure Type: Basic Barracks\nTrains Dol Guldur basic units\n"
+"Bonus de combat : régénération des unités autour de la citadelle \n\nType de structure : Caserne de base \nEntraîne les unités de base de Dol Guldur\n"
 END
 
 CONTROLBAR:LW_Structure_GuldurSpire
-"Unquiet Undercroft"
+"Tour de la Sorcellerie"
 END
 
 CONTROLBAR:LW_ToolTipBuild_GuldurSpire
 //"Battle Template: Spire of Sorcery\n\nStructure Type: Elite Barracks\nTrains Dol Guldur elite units\n"
-"Battle Bonus: +20% faster unit production\n\nStructure Type: Elite Barracks\nTrains Dol Guldur elite units\n"
+"Bonus de combat : +20% de production d'unités plus rapide\n\nType de structure : Caserne d'élite\nEntraîne les unités d'élite de Dol Guldur\n"
 END
 
 CONTROLBAR:LW_ToolTip_GuldurSpire
 //"Battle Template: Spire of Sorcery\n\nStructure Type: Elite Barracks\nTrains Dol Guldur elite units"
-"Battle Bonus: +20% faster unit production\n\nStructure Type: Elite Barracks\nTrains Dol Guldur elite units\n"
+"Bonus de combat : +20% de production d'unités plus rapide\n\nType de structure : Caserne d'élite\nEntraîne les unités d'élite de Dol Guldur\n"
 END
 
 CONTROLBAR:LW_Structure_GuldurMill
-"Slave Mill"
+"Moulin à esclaves"
 END
 
 CONTROLBAR:LW_ToolTipBuild_GuldurMill
@@ -31381,287 +31378,287 @@ CONTROLBAR:LW_ToolTip_GuldurMill
 END
 
 BANNERUI:BrokenRabble
-"Broken Rabble"
+"Brisés"
 END
 
 CONTROLBAR:LW_Unit_GuldurBrokenRabbleHorde
-"Broken Rabble Horde"
+"Horde de Brisés"
 END
 
 CONTROLBAR:LW_Unit_GuldurBrokenRabbleHordePlural
-"Broken Rabble Hordes"
+"Hordes de Brisés"
 END
 
 CONTROLBAR:LW_ToolTip_GuldurBrokenRabbleHorde
-"\nUnit Type: Basic Infantry\nStrong vs. Pikemen"
+"\n Type d'unité: Infanterie standard. \n Forts contre les piquiers."
 END
 
 CONTROLBAR:LW_ToolTipBuild_GuldurBrokenRabbleHorde
-"Unit Type: Basic Infantry\nStrong vs. Pikemen\n"
+"Type d'unité: Infanterie standard. \n Forts contre les piquiers. \n"
 END
 
 BANNERUI:OrcGaoler
-"Orc Gaoler"
+"Geôliers Orques"
 END
 
 BANNERUI:OrcGaolers
-"Orc Gaolers"
+"Geôliers Orques"
 END
 
 CONTROLBAR:LW_Unit_GuldurOrcPikemanHorde
-"Orc Gaoler Horde"
+"Horde de Geôliers Orques"
 END
 
 CONTROLBAR:LW_Unit_GuldurOrcPikemanHordePlural
-"Orc Gaoler Hordes"
+"Hordes de Geôliers Orques"
 END
 
 CONTROLBAR:LW_ToolTip_GuldurOrcPikemanHorde
-"\nUnit Type: Basic Pikemen\nStrong vs. Cavalry"
+"\n Type d'unité: Piquiers standards. \n Forts contre la cavalerie."
 END
 
 CONTROLBAR:LW_ToolTipBuild_GuldurOrcPikemanHorde
-"Unit Type: Basic Pikemen\nStrong vs. Cavalry\n"
+"Type d'unité: Piquiers standards. \n Forts contre la cavalerie. \n"
 END
 
 CONTROLBAR:LW_Unit_GuldurArcherPikeHorde
-"Orc Gaolers - Orc Hunters Horde"
+"Bataillon de Geoliers Orques - Chasseurs Orques"
 END
 
 CONTROLBAR:LW_Unit_GuldurArcherPikeHordePlural
-"Orc Gaolers - Orc Hunters Hordes"
+"Bataillons de Geoliers Orques - Chasseurs Orques"
 END
 
 CONTROLBAR:LW_ToolTip_GuldurArcherPikeHorde
-"\nUnit Type: Basic Archer and Basic Pikemen\nStrong vs. Swordsmen and Cavalry"
+"Type d'unité: Archers standards et piquiers standards. \n Forts contre les épéistes et la cavalerie."
 END
 
 BANNERUI:OrcHunter
-"Orc Hunter"
+"Chasseur orque"
 End
 
 BANNERUI:OrcHunters
-"Orc Hunters"
+"Chasseurs Orques"
 END
 
 CONTROLBAR:LW_Unit_GuldurOrcArcherHorde
-"Orc Hunter Horde"
+"Bataillon de Chasseurs Orques"
 END
 
 CONTROLBAR:LW_Unit_GuldurOrcArcherHordePlural
-"Orc Hunter Hordes"
+"Bataillons de Chasseurs Orques"
 END
 
 CONTROLBAR:LW_ToolTip_GuldurOrcArcherHorde
-"\nUnit Type: Basic Archer\nStrong vs. Pikemen and Infantry"
+"Type d'unité: Archers standards. \n Forts contre les piquiers et l'infanterie."
 END
 
 CONTROLBAR:LW_ToolTipBuild_GuldurOrcArcherHorde
-"Unit Type: Basic Archer\nStrong vs. Pikemen and Infantry\n"
+"Type d'unité: Archers standards. \n Forts contre les piquiers et l'infanterie."
 END
 
 BANNERUI:GuldurFellBrood
-"Fell Brood"
+"Vile Couvée"
 End
 
 CONTROLBAR:LW_Unit_GuldurFellBroodHorde
-"Fell Brood Horde"
+"Bataillon de Vile Couvée"
 END
 
 CONTROLBAR:LW_Unit_GuldurFellBroodHordePlural
-"Fell Brood Hordes"
+"Bataillon de Vile Couvée"
 END
 
 CONTROLBAR:LW_ToolTip_GuldurFellBroodHorde
-"\nUnit Type: Basic Cavalry\nStrong vs. Archers"
+"Type d'unité: Cavalerie standard. \n Fort contre les archers."
 END
 
 CONTROLBAR:LW_ToolTipBuild_GuldurFellBroodHorde
-"Unit Type: Basic Cavalry\nStrong vs. Archers\n"
+"Type d'unité: Cavalerie standard. \n Fort contre les archers."
 END
 
 BANNERUI:GuldurWoodsman
-"Blighted Trapper"
+"Trappeur Souillé"
 END
 
 BANNERUI:GuldurWoodsmen
-"Blighted Trappers"
+"Trappeurs Souillés"
 END
 
 CONTROLBAR:LW_Unit_GuldurWoodsmenHorde
-"Blighted Trapper Horde"
+"Bataillon de Trappeurs Souillés"
 END
 
 CONTROLBAR:LW_Unit_GuldurWoodsmenHordePlural
-"Blighted Trapper Hordes"
+"Bataillon de Trappeurs Souillés"
 END
 
 CONTROLBAR:LW_ToolTip_GuldurWoodsmenHorde
-"\nUnit Type: Elite Archer\nStrong vs. Pikemen and Infantry"
+"\n Type d'unité : Archer d'élite. \n Fort contre les piquiers et l'infanterie."
 END
 
 CONTROLBAR:LW_ToolTipBuild_GuldurWoodsmenHorde
-"Unit Type: Elite Archer\nStrong vs. Pikemen and Infantry\n"
+"Type d'unité : Archer d'elite. \n Fort contre les piquiers et l'infanterie. \n"
 END
 
 BANNERUI:OrcRavager
-"Orc Ravager"
+"Ravageur Orque"
 END
 
 BANNERUI:OrcRavagers
-"Orc Ravagers"
+"Ravageurs Orques"
 END
 
 CONTROLBAR:LW_Unit_GuldurOrcRavagerHorde
-"Orc Ravager Horde"
+"Bataillon de Ravageurs Orques"
 END
 
 CONTROLBAR:LW_Unit_GuldurOrcRavagerHordePlural
-"Orc Ravager Hordes"
+"Bataillons de Ravageurs Orques"
 END
 
 CONTROLBAR:LW_ToolTip_GuldurOrcRavagerHorde
-"\nUnit Type: Elite Infantry\nStrong vs. Pikemen"
+"Type d'unité: Infanterie d'élite. \n Fort contre les piquiers."
 END
 
 CONTROLBAR:LW_ToolTipBuild_GuldurOrcRavagerHorde
-"Unit Type: Elite Infantry\nStrong vs. Pikemen\n"
+"Type d'unité: Infanterie d'élite. \n Fort contre les piquiers."
 END
 
 BANNERUI:TombGuard
-"Tomb Guard"
+"Gardien des Tombeaux"
 END
 
 BANNERUI:TombGuards
-"Tomb Guard"
+"Gardiens des Tombeaux"
 END
 
 CONTROLBAR:LW_Unit_GuldurTombGuardHorde
-"Tomb Guard Horde"
+"Bataillon de Gardiens des Tombeaux"
 END
 
 CONTROLBAR:LW_Unit_GuldurTombGuardHordePlural
-"Tomb Guard Hordes"
+"Bataillons de Gardiens des Tombeaux"
 END
 
 CONTROLBAR:LW_ToolTip_GuldurTombGuardHorde
-"\nUnit Type: Elite Pikemen\nStrong vs. Cavalry"
+"\n Type d'unité: Piquiers d'élite. \n Fort contre la cavalerie."
 END
 
 CONTROLBAR:LW_ToolTipBuild_GuldurTombGuardHorde
-"Unit Type: Elite Pikemen\nStrong vs. Cavalry\n"
+"Type d'unité: Piquiers d'élite. \n Fort contre la cavalerie. \n"
 END
 
 CONTROLBAR:LW_Unit_GuldurRisenDeadHorde
-"Risen Dead Horde"
+"Bataillon de morts ressuscités"
 END
 
 CONTROLBAR:LW_Unit_GuldurRisenDeadHordePlural
-"Risen Dead Hordes"
+"Bataillons de morts ressuscités"
 END
 
 CONTROLBAR:LW_ToolTip_GuldurRisenDeadHorde
-"\nUnit Type: Elite Infantry\nStrong vs. Pikemen"
+"\n Type d'unité : Infanterie d'élite. \n Fort contre les piquiers."
 END
 
 CONTROLBAR:LW_ToolTipBuild_GuldurRisenDeadHorde
-"Unit Type: Elite Infantry\nStrong vs. Pikemen\n"
+"Type d'unité : Infanterie d'élite. \n Fort contre les piquiers. \n"
 END
 
 BANNERUI:Harbinger
-"Harbinger of Shadow"
+"Messager des Ténèbres"
 END
 
 BANNERUI:Harbingers
-"Harbingers of Shadow"
+"Messagers des Ténèbres"
 END
 
 CONTROLBAR:LW_Unit_GuldurHarbingerHorde
-"Harbinger of Shadow Horde"
+"Bataillon de Messagers des Ténèbres"
 END
 
 CONTROLBAR:LW_Unit_GuldurHarbingerHordePlural
-"Harbinger of Shadow Hordes"
+"Bataillons de Messagers des Ténèbres"
 END
 
 CONTROLBAR:LW_ToolTip_GuldurHarbingerHorde
-"\nUnit Type: Elite Infantry\nStrong vs. Pikemen"
+"\n Type d'unité: Infanterie d'élite. \n Fort contre les piquiers."
 END
 
 CONTROLBAR:LW_ToolTipBuild_GuldurHarbingerHorde
-"Unit Type: Elite Infantry\nStrong vs. Pikemen\n"
+"Type d'unité: Infanterie d'élite. \n Fort contre les piquiers. \n"
 END
 
 CONTROLBAR:LW_Unit_GuldurUnburiedWightHorde
-"Unburied Wight Horde"
+"Horde de Fantômes d'Outre-tombe"
 END
 
 CONTROLBAR:LW_Unit_GuldurUnburiedWightHordePlural
-"Unburied Wight Hordes"
+"Hordes de Fantômes d'Outre-tombe"
 END
 
 CONTROLBAR:LW_ToolTip_GuldurUnburiedWightHorde
-"\nUnit Type: Elite Infantry\nStrong vs. Elite"
+"\n Type d'unité: Infanterie d'élite. \n Forts contre les unités d'élite."
 END
 
 CONTROLBAR:LW_ToolTipBuild_GuldurUnburiedWightHorde
-"Unit Type: Elite Infantry\nStrong vs. Elite\n"
+"Type d'unité: Infanterie d'élite. \n Forts contre les unités d'élite. \n"
 END
 
 CONTROLBAR:LW_Unit_GuldurCastellan
-"Armoured Castellan"
+"Châtelain de Dol Guldur"
 END
 
 CONTROLBAR:LW_Unit_GuldurCastellanPlural
-"Armoured Castellans"
+"Châtelain de Dol Guldur"
 END
 
 CONTROLBAR:LW_ToolTip_GuldurCastellan
-"\nUnit Type: Hero Unit\nStrong vs. All"
+"\n Type d'unité: Unité héroùque. \n Fort contre tous."
 END
 
 CONTROLBAR:LW_ToolTipBuild_GuldurCastellan
-"Unit Type: Hero Unit\nStrong vs. All\n"
+"Type d'unité: Unité héroùque. \n Fort contre tous. \n"
 END
 
 CONTROLBAR:LW_Unit_GuldurEntwife
-"Corrupted Entwife"
+"Ent-Femme Corrompue"
 END
 
 CONTROLBAR:LW_Unit_GuldurEntwifePlural
-"Corrupted Entwives"
+"Ent-Femmes Corrompues"
 END
 
 CONTROLBAR:LW_ToolTipBuild_GuldurEntwife
-"Unit Type: Siege\nStrong vs. Swordsmen, Archers and Structures\n"
+"Type d'Unité : Siège. \n Fort contre les épéistes, les archers, la cavalerie et les structures. \n"
 END
 
 CONTROLBAR:LW_ToolTip_GuldurEntwife
-"\nUnit Type: Siege\nStrong vs. Swordsmen, Archers and Structures"
+"\n Type d'Unité : Siège. \n Fort contre les épéistes, les archers, la cavalerie et les structures."
 END
 
 CONTROLBAR:LW_Unit_GuldurGreatSpider
-"Saenathra's Sister"
+"Soeur de Saenathra"
 END
 
 CONTROLBAR:LW_Unit_GuldurGreatSpiderPlural
-"Saenathra's Sisters"
+"Soeurs de Saenathra"
 END
 
 CONTROLBAR:LW_ToolTip_GuldurGreatSpider
-"\nUnit Type: Cavalry\nStrong vs. Infantry and Structures"
+"\n Type d'unité: Siege. \n Fort contre les épéistes, les archers, la cavalerie et les structures."
 END
 
 CONTROLBAR:LW_ToolTipBuild_GuldurGreatSpider
-"Unit Type: Cavalry\nStrong vs. Infantry and Structures\n"
+"Type d'unité: Siege. \n Fort contre les épéistes, les archers, la cavalerie et les structures. \n"
 END
 
 BANNERUI:GuldurRisenDead
-"Risen Dead"
+"Mort ressuscités"
 END
 
 CONTROLBAR:LW_ToolTip_GuldurRisenDeadHorde
-"\nUnit Type: Elite Infantry\nStrong vs. Pikemen"
+"\nType d'unité : Infanterie d'Élite\nFort contre les Piquiers"
 END
 
 /////// Mordor Structures ////////
@@ -31671,55 +31668,55 @@ CONTROLBAR:LW_Structure_MordorFortress
 END
 
 CONTROLBAR:LW_ToolTipBuild_MordorFortress
-"Structure Type: Fortress\nDefends territory\nRecruits heroes and heroic units\nGrants all upgrades to units\nIncreases treasury\n"
+"Type de structure : Forteresse. \n Défend le territoire. \n Recrute les héros et les unités héroïques. \n Accorde toutes les améliorations aux unités. \n Augmente la trésorerie."
 END
 
 CONTROLBAR:LW_ToolTip_MordorFortress
-"Structure Type: Fortress\nDefends territory\nRecruits heroes and heroic units\nGrants all upgrades to units\nIncreases treasury"
+"Type de structure : Forteresse. \n Défend le territoire. \n Recrute les héros et les unités héroïques. \n Accorde toutes les améliorations aux unités. \n Augmente la trésorerie."
 END
 
 CONTROLBAR:LW_Structure_MordorOrcPit
-"Orcish Stronghold"
+"Bastion des Orques"
 END
 
 CONTROLBAR:LW_ToolTipBuild_MordorOrcPit
 //"Battle Template: Orcish Stronghold\n\nStructure Type: Basic Barracks\nTrains Mordor basic units\n"
-"Battle Bonus: unit replenishment around the citadel \n\nStructure Type: Basic Barracks\nTrains Mordor basic units\n"
+"Bonus de combat : régénération des unités autour de la citadelle \n\nType de structure : Caserne de base \nEntraîne les unités de base du Mordor\n"
 END
 
 CONTROLBAR:LW_ToolTip_MordorOrcPit
 //"Battle Template: Orcish Stronghold\n\nStructure Type: Basic Barracks\nTrains Mordor basic units"
-"Battle Bonus: unit replenishment around the citadel \n\nStructure Type: Basic Barracks\nTrains Mordor basic units\n"
+"Bonus de combat : régénération des unités autour de la citadelle \n\nType de structure : Caserne de base \nEntraîne les unités de base du Mordor\n"
 END
 
 CONTROLBAR:LW_Structure_MordorTrollCage
-"Black Tower"
+"Cage à Trolls"
 END
 
 CONTROLBAR:LW_ToolTipBuild_MordorTrollCage
 //"Battle Template: Easterling Garrison\n\nStructure Type: Elite Barracks\nTrains Mordor elite units\n"
-"Battle Bonus: +20% faster unit production\n\nStructure Type: Elite Barracks\nTrains Mordor elite units\n"
+"Bonus de combat : +20% de production d'unités plus rapide\n\nType de structure : Caserne d'élite\nEntraîne les unités d'élite du Mordor\n"
 END
 
 CONTROLBAR:LW_ToolTip_MordorTrollCage
 //"Battle Template: Easterling Garrison\n\nStructure Type: Elite Barracks\nTrains Mordor elite units"
-"Battle Bonus: +20% faster unit production\n\nStructure Type: Elite Barracks\nTrains Mordor elite units\n"
+"Bonus de combat : +20% de production d'unités plus rapide\n\nType de structure : Caserne d'élite\nEntraîne les unités d'élite du Mordor\n"
 END
 
 CONTROLBAR:LW_Structure_MordorTavern
-"Tavern"
+"Taverne"
 END
 
 CONTROLBAR:LW_ToolTipBuild_MordorTavern
-"Structure Type: Armoury\nGrants all upgrades to units\nTrains Mordor siege units and engines\n"
+"Type de structure : Taverne. \n Fournit des améliorations aux unités. \n"
 END
 
 CONTROLBAR:LW_ToolTip_MordorTavern
-"Structure Type: Armoury\nGrants all upgrades to units\nTrains Mordor siege units and engines"
+"Type de structure : Taverne. \n Fournit des améliorations aux unités."
 END
 
 CONTROLBAR:LW_Structure_MordorSlaughterhouse
-"Slaughterhouse"
+"Abattoir"
 END
 
 CONTROLBAR:LW_ToolTipBuild_MordorSlaughterhouse
@@ -31736,132 +31733,132 @@ END
 ////////// Mordor Units //////////
 
 CONTROLBAR:LW_Unit_MordorFighterHorde
-"Orc Warrior Horde"
+"Bataillon de Guerriers Orques"
 END
 
 CONTROLBAR:LW_Unit_MordorFighterHordePlural
-"Orc Warrior Hordes"
+"Bataillons de Guerriers Orques"
 END
 
 CONTROLBAR:LW_Unit_MordorFighterPikemanHorde
-"Orc Warriors - Orc Pikemen Horde"
+"Bataillon de Guerriers Orques - Piquiers Orques"
 END
 
 CONTROLBAR:LW_Unit_MordorFighterPikemanHordePlural
-"Orc Warriors - Orc Pikemen Hordes"
+"Bataillons de Guerriers Orques - Piquiers Orques"
 END
 
 CONTROLBAR:LW_Unit_MordorFighterArcherHorde
-"Orc Warriors - Orc Archers Horde"
+"Bataillon de Guerriers Orques - Archers Orques"
 END
 
 CONTROLBAR:LW_Unit_MordorFighterArcherHordePlural
-"Orc Warriors - Orc Archers Hordes"
+"Bataillons de Guerriers Orques - Archers Orques"
 END
 
 CONTROLBAR:LW_ToolTip_MordorFighterArcherHorde
-"\nUnit Type: Basic Infantry and Basic Archer\nStrong vs. Pikemen and Infantry"
+"\n Type d'unité: Infanterie standards et Archers standards. \n Forts contre les piquiers et l'infanterie."
 END
 
 CONTROLBAR:LW_ToolTipBuild_MordorFighterHorde
-"Unit Type: Basic Infantry\nStrong vs. Pikemen\n\nRecruits two hordes"
+"Type d'unité : Infanterie standard. \n\n Forts contre les piquiers. \n Recrute deux hordes."
 END
 
 CONTROLBAR:LW_ToolTip_MordorFighterHorde
-"\nUnit Type: Basic Infantry\nStrong vs. Pikemen"
+"\n Type d'unité : Infanterie standard. \n\n Forts contre les piquiers."
 END
 
 CONTROLBAR:LW_ToolTip_MordorFighterPikemanHorde
-"\nUnit Type: Basic Infantry and Pikemen\nStrong vs. Pikemen and Cavalry"
+"\n Type d'unité: Infanterie et Piquiers standards. \n Forts contre les piquiers et la cavalerie."
 END
 
 CONTROLBAR:LW_Unit_MordorCorsairsOfUmbarHorde
-"Corsairs Of Umbar Horde"
+"Bataillon de Corsaires d'Umbar"
 END
 
 CONTROLBAR:LW_Unit_MordorCorsairsOfUmbarHordePlural
-"Corsairs Of Umbar Hordes"
+"Bataillons de Corsaires d'Umbar"
 END
 
 CONTROLBAR:LW_ToolTipBuild_MordorCorsairsOfUmbarHorde
-"Unit Type: Elite Infantry\nStrong vs. Pikemen\n"
+"Type d'unité : Infanterie d'élite. \n\n Forts contre les piquiers. \n"
 END
 
 CONTROLBAR:LW_ToolTip_MordorCorsairsOfUmbarHorde
-"\nUnit Type: Elite Infantry\nStrong vs. Pikemen"
+"\n Type d'unité : Infanterie d'élite. \n\n Forts contre les piquiers."
 END
 
 CONTROLBAR:LW_Unit_MordorArcherHorde
-"Orc Archer Horde"
+"Bataillon d'Archers Orques"
 END
 
 CONTROLBAR:LW_Unit_MordorArcherPikeHorde
-"Orc Archers - Orc Pikemen Horde"
+"Bataillon d'Archers - Piquiers Orques"
 END
 
 CONTROLBAR:LW_Unit_MordorArcherPikeHordePlural
-"Orc Archers - Orc Pikemen Hordes"
+"Bataillons d'Archers - Piquiers Orques"
 END
 
 CONTROLBAR:LW_Unit_MordorArcherHordePlural
-"Orc Archer Hordes"
+"Bataillons d'Archers Orques"
 END
 
 CONTROLBAR:LW_Unit_MordorHaradrimArcherHorde
-"Haradrim Archer Battalion"
+"Bataillon d'archers Haradrim"
 END
 
 CONTROLBAR:LW_Unit_MordorHaradrimArcherHordePlural
-"Haradrim Archer Battalions"
+"Bataillons d'archers Haradrim"
 END
 
 CONTROLBAR:LW_Unit_MordorHaradrimSpearHorde
-"Haradrim Spearmen Horde"
+"Bataillon de Pillards Haradrim"
 END
 
 CONTROLBAR:LW_Unit_MordorHaradrimSpearHordePlural
-"Haradrim Spearmen Hordes"
+"Bataillons de Pillards Haradrim"
 END
 
 CONTROLBAR:LW_Unit_MordorEasterlingHorde
-"Khân-pâlainax Battalion"
+"Bataillon Khân-pâlainax"
 END
 
 CONTROLBAR:LW_Unit_MordorEasterlingHordePlural
-"Khân-pâlainax Battalions"
+"Bataillons Khân-pâlainax"
 END
 
 CONTROLBAR:LW_ToolTipBuild_MordorEasterlingHorde
-"Great Khân's Phalanx\nUnit Type: Elite Pikemen\nStrong vs. Cavalry\n"
+"Phalange du Grand Khân\nType d'unité : Piquiers d'élite\nFort contre la Cavalerie"
 END
 
 CONTROLBAR:LW_ToolTip_MordorEasterlingHorde
-"Great Khân's Phalanx\nUnit Type: Elite Pikemen\nStrong vs. Cavalry"
+"Phalanges du Grand Khân\nType d'unité : Piquiers d'élite\nFort contre la Cavalerie"
 END
 
 CONTROLBAR:LW_ToolTipBuild_MordorHaradrimHorde
-"Unit Type: Basic Pikemen\nStrong vs. Cavalry\n"
+"Type d'unité : Piquiers standards. \n\n Forts contre la cavalerie. \n"
 END
 
 CONTROLBAR:LW_ToolTip_MordorHaradrimHorde
-"\nUnit Type: Basic Pikemen\nStrong vs. Cavalry"
+"\n Type d'unité : Piquiers standards. \n\n Forts contre la cavalerie."
 END
 
 
 CONTROLBAR:LW_Unit_MordorMountainTroll
-"Mountain Troll"
+"Troll des Montagnes"
 END
 
 CONTROLBAR:LW_Unit_MordorMountainTrollPlural
-"Mountain Trolls"
+"Trolls des Montagnes"
 END
 
 CONTROLBAR:LW_Unit_MordorDrummerTroll
-"Drummer Troll"
+"Troll-tambour"
 END
 
 CONTROLBAR:LW_Unit_MordorDrummerTrollPlural
-"Drummer Trolls"
+"Trolls-tambour"
 END
 
 CONTROLBAR:LW_Unit_MordorAttackTroll
@@ -31869,7 +31866,7 @@ CONTROLBAR:LW_Unit_MordorAttackTroll
 END
 
 CONTROLBAR:LW_Unit_WildAttackTroll
-"Gundadbad Stone-troll"
+"Troll de Pierre de Gundabad"
 END
 
 CONTROLBAR:LW_Unit_MordorAttackTrollPlural
@@ -31877,74 +31874,74 @@ CONTROLBAR:LW_Unit_MordorAttackTrollPlural
 END
 
 CONTROLBAR:LW_Unit_MordorCatapult
-"Catapult"
+"Catapulte"
 END
 
 CONTROLBAR:LW_Unit_MordorCatapultPlural
-"Catapults"
+"Catapultes"
 END
 
 
 ////////// Mordor Heroes /////////
 
 CONTROLBAR:LW_Hero_WitchKing
-"The Witch-king of Angmar"
+"Le Roi-Sorcier d'Angmar"
 END
 
 CONTROLBAR:LW_ToolTipBuild_WitchKing
-"Type d'unité : héros commandant une armée\n "
+"Type d'unité : Héros commandant une armée. \n"
 END
 
 CONTROLBAR:LW_ToolTip_WitchKing
-"Type d'unité : héros commandant une armée"
+"Type d'unité : Héros commandant une armée."
 END
 
 CONTROLBAR:LW_Hero_FellBeast
-"Fell Beast"
+"Ombre ailée"
 END
 
 CONTROLBAR:LW_ToolTipBuild_FellBeast
-"Type d'unité : héros commandant une armée\n "
+"Type d'unité : Héros commandant une armée. \n"
 END
 
 CONTROLBAR:LW_ToolTip_FellBeast
-"Type d'unité : héros commandant une armée"
+"Type d'unité : Héros commandant une armée."
 END
 
 CONTROLBAR:LW_Hero_FellBeast1
-"Fell Beast"
+"Ombre ailée"
 END
 
 CONTROLBAR:LW_ToolTipBuild_FellBeast1
-"Type d'unité : héros commandant une armée\n "
+"Type d'unité : Héros commandant une armée. \n"
 END
 
 CONTROLBAR:LW_ToolTip_FellBeast1
-"Type d'unité : héros commandant une armée"
+"Type d'unité : Héros commandant une armée."
 END
 
 CONTROLBAR:LW_Hero_FellBeast2
-"Fell Beast"
+"Ombre ailée"
 END
 
 CONTROLBAR:LW_ToolTipBuild_FellBeast2
-"Type d'unité : héros commandant une armée\n "
+"Type d'unité : Héros commandant une armée. \n"
 END
 
 CONTROLBAR:LW_ToolTip_FellBeast2
-"Type d'unité : héros commandant une armée"
+"Type d'unité : Héros commandant une armée."
 END
 
 CONTROLBAR:LW_Hero_MouthOfSauron
-"Mouth Of Sauron"
+"La Bouche de Sauron"
 END
 
 CONTROLBAR:LW_ToolTipBuild_MouthOfSauron
-"Type d'unité : héros commandant une armée\n "
+"Type d'unité : Héros commandant une armée. \n"
 END
 
 CONTROLBAR:LW_ToolTip_MouthOfSauron
-"Type d'unité : héros commandant une armée"
+"Type d'unité : Héros commandant une armée."
 END
 
 CONTROLBAR:LW_Hero_Nazgul
@@ -31952,23 +31949,23 @@ CONTROLBAR:LW_Hero_Nazgul
 END
 
 CONTROLBAR:LW_ToolTipBuild_Nazgul
-"Unit Type: Hero\n"
+"Type d'unité : Héros. \n"
 END
 
 CONTROLBAR:LW_ToolTip_Nazgul
-"Unit Type: Hero"
+"Type d'unité : Héros"
 END
 
 CONTROLBAR:LW_Hero_BlackRider
-"Ring Wraith"			
+"Serviteurs de l'Anneau"			
 END
 
 CONTROLBAR:LW_ToolTipBuild_BlackRider
-"Unit Type: Hero\n"
+"Type d'unité : Héros. \n"
 END
 
 CONTROLBAR:LW_ToolTip_BlackRider
-"Unit Type: Hero"
+"Type d'unité : Héros"
 END
 
 
@@ -31987,43 +31984,43 @@ END
 /////// Isengard Structures //////
 
 CONTROLBAR:LW_ToolTipBuild_IsengardFortress
-"Structure Type: Fortress\nDefends territory\nRecruits heroes and heroic units\nGrants all upgrades to units\nIncreases treasury\n"
+"Type de structure : Forteresse. \n Défend le territoire. \n Recrute les héros et les unités héroïques. \n Accorde toutes les améliorations aux unités. \n Augmente la trésorerie."
 END
 
 CONTROLBAR:LW_ToolTip_IsengardFortress
-"Structure Type: Fortress\nDefends territory\nRecruits heroes and heroic units\nGrants all upgrades to units\nIncreases treasury"
+"Type de structure : Forteresse. \n Défend le territoire. \n Recrute les héros et les unités héroïques. \n Accorde toutes les améliorations aux unités. \n Augmente la trésorerie."
 END
 
 CONTROLBAR:LW_Structure_IsengardUrukPit
-"Dunland Roundhouse"
+"Maison Dunlandaise"
 END
 
 CONTROLBAR:LW_ToolTipBuild_IsengardUrukPit
 //"Battle Template: Clan Steading\n\nStructure Type: Basic Barracks\nTrains Isengard basic units\n"
-"Battle Bonus: unit replenishment around the citadel \n\nStructure Type: Basic Barracks\nTrains Isengard basic units\n"
+"Bonus de combat : régénération des unités autour de la citadelle \n\nType de structure : Caserne de base \nEntraîne les unités de base d'Isengard\n"
 END
 
 CONTROLBAR:LW_ToolTip_IsengardUrukPit
 //"Battle Template: Clan Steading\n\nStructure Type: Basic Barracks\nTrains Isengard basic units"
-"Battle Bonus: unit replenishment around the citadel \n\nStructure Type: Basic Barracks\nTrains Isengard basic units\n"
+"Bonus de combat : régénération des unités autour de la citadelle \n\nType de structure : Caserne de base \nEntraîne les unités de base d'Isengard\n"
 END
 
 CONTROLBAR:LW_Structure_IsengardArmory
-"Uruk-hai Pit"
+"Fosse des Uruk-hai"
 END
 
 CONTROLBAR:LW_ToolTipBuild_IsengardArmory
 //"Battle Template: Uruk-hai Pit\n\nStructure Type: Elite Barracks\nTrains Isengard elite units\n"
-"Battle Bonus: +20% faster unit production\n\nStructure Type: Elite Barracks\nTrains Isengard elite units\n"
+"Bonus de combat : +20% de production d'unités plus rapide\n\nType de structure : Caserne d'élite\nEntraîne les unités d'élite d'Isengard\n"
 END
 
 CONTROLBAR:LW_ToolTip_IsengardArmory
 //"Battle Template: Uruk-hai Pit\n\nStructure Type: Elite Barracks\nTrains Isengard elite units"
-"Battle Bonus: +20% faster unit production\n\nStructure Type: Elite Barracks\nTrains Isengard elite units\n"
+"Bonus de combat : +20% de production d'unités plus rapide\n\nType de structure : Caserne d'élite\nEntraîne les unités d'élite d'Isengard\n"
 END
 
 CONTROLBAR:LW_Structure_IsengardFurnace
-"Furnace"
+"Fournaise"
 END
 
 CONTROLBAR:LW_ToolTipBuild_IsengardFurnace
@@ -32040,111 +32037,111 @@ END
 ///////// Isengard Units /////////
 
 CONTROLBAR:LW_ToolTipBuild_IsengardFighterHorde
-"Unit Type: Elite Infantry\nStrong vs. Pikemen\n"
+"Type d'unité : Infanterie d'élite. \n\n Forts contre les piquiers. \n"
 END
 
 CONTROLBAR:LW_ToolTip_IsengardFighterHorde
-"\nUnit Type: Elite Infantry\nStrong vs. Pikemen"
+"\n Type d'unité : Infanterie d'élite. \n\n Forts contre les piquiers."
 END
 
 CONTROLBAR:LW_Unit_IsengardBeserker
-"Berserker"
+"Berserker Uruk-hai"
 END
 
 CONTROLBAR:LW_Unit_IsengardBeserkerPlural
-"Berserkers"
+"Berserkers Uruk-hai"
 END
 
 CONTROLBAR:LW_Unit_IsengardWildmanHorde
-"Wildman Of Dunland Horde"
+"Horde d'Hommes sauvages du Pays de Dun"
 END
 
 CONTROLBAR:LW_Unit_IsengardWildmanHordePlural
-"Wildman Of Dunland Hordes"
+"Hordes d'Hommes sauvages du Pays de Dun"
 END
 
 CONTROLBAR:LW_Unit_IsengardUrukCrossbowHorde
-"Uruk-hai Crossbow Horde"
+"Horde d'arbalétriers Uruk"
 END
 
 CONTROLBAR:LW_Unit_IsengardUrukCrossbowHordePlural
-"Uruk-hai Crossbow Hordes"
+"Hordes d'arbalétriers Uruk"
 END
 
 CONTROLBAR:LW_Unit_IsengardUrukFighterCrossbowHorde
-"Fighting Uruk-hai - Uruk Crossbow Horde"
+"Guerriers - Arbalétriers Uruk-haî"
 END
 
 CONTROLBAR:LW_Unit_IsengardUrukFighterCrossbowHordePlural
-"Fighting Uruk-hai - Uruk Crossbow Hordes"
+"Guerriers - Arbalétriers Uruk-haî"
 END
 
 CONTROLBAR:LW_Unit_IsengardPikemanHorde
-"Uruk-hai Pikeman Horde"
+"Horde de Piquiers Uruk"
 END
 
 CONTROLBAR:LW_Unit_IsengardPikemanHordePlural
-"Uruk-hai Pikeman Hordes"
+"Hordes de Piquiers Uruk"
 END
 
 CONTROLBAR:LW_ToolTipBuild_IsengardPikemanHorde
-"Unit Type: Elite Pikemen\nStrong vs. Cavalry\n"
+"Type d'unité : Piquiers d'élite. \n\n Forts contre la cavalerie. \n"
 END
 
 CONTROLBAR:LW_ToolTip_IsengardPikemanHorde
-"\nUnit Type: Elite Pikemen\nStrong vs. Cavalry"
+"\n Type d'unité : Piquiers d'élite. \n\n Forts contre la cavalerie."
 END
 
 CONTROLBAR:LW_Unit_IsengardUrukShieldbearer
-"Uruk-hai Shieldbearer Horde"
+"Horde de Porteurs de boucliers Uruk-hai"
 END
 
 CONTROLBAR:LW_Unit_IsengardUrukShieldbearerPlural
-"Uruk-hai Shieldbearer Hordes"
+"Hordes de Porteurs de boucliers Uruk-hai"
 END
 
 CONTROLBAR:LW_ToolTip_IsengardUrukShieldbearer
-"\nUnit Type: Support\nHeavily armoured support unit\nAble to switch formation for improved defensive capabilities"
+"\n Type d'unité : Support. \n Unité de support lourdement blindée. \n Capable de changer de formation pour améliorer les capacités défensives."
 END
 
 CONTROLBAR:LW_Unit_ToolTipBuild_IsengardUrukShieldbearer
-"Unit Type: Support\nHeavily armoured support unit\nAble to switch formation for improved defensive capabilities"
+"Type d'unité : Support. \n Unité de support lourdement blindée. \n Capable de changer de formation pour améliorer les capacités défensives."
 END
 
 CONTROLBAR:LW_Unit_IsengardWargRiderHorde
-"Warg Rider Horde"
+"Horde de chevaucheurs de Wargs"
 END
 
 CONTROLBAR:LW_Unit_IsengardWargRiderHordePlural
-"Warg Rider Hordes"
+"Hordes de chevaucheurs de Wargs"
 END
 
 CONTROLBAR:LW_Unit_WildWargRiderHorde
-"Gundabad Wolf-rider Horde"
+"Horde de Chevaucheurs de Wargs de Gundabad"
 END
 
 CONTROLBAR:LW_Unit_WildWargRiderHordePlural
-"Gundabad Wolf-rider Hordes"
+"Hordes de Chevaucheurs de Wargs de Gundabad"
 END
 
 CONTROLBAR:LW_ToolTipBuild_IsengardWargRiderHorde
-"Unit Type: Basic Cavalry\nStrong vs. Archers\n"
+"Type d'unité : Cavalerie standard. \n\n Forts contre les archers. \n"
 END
 
 CONTROLBAR:LW_ToolTip_IsengardWargRiderHorde
-"\nUnit Type: Basic Cavalry\nStrong vs. Archers"
+"\n Type d'unité : Cavalerie standard. \n\n Forts contre les archers."
 END
 
 CONTROLBAR:LW_ToolTipBuild_WildWargRiderHorde
-"Unit Type: Elite Cavalry\nStrong vs. Archers\n"
+"Type d'unité: Cavalerie d'élite. \n Forts contre les archers. \n"
 END
 
 CONTROLBAR:LW_ToolTip_WildWargRiderHorde
-"\nUnit Type: Elite Cavalry\nStrong vs. Archers"
+"\n Type d'unité: Cavalerie d'élite. \n Forts contre les archers."
 END
 
 CONTROLBAR:LW_Unit_IsengardBallista
-"Ballista"
+"Baliste"
 END
 
 ///////// Isengard Heroes ////////
@@ -32174,7 +32171,7 @@ CONTROLBAR:LW_ToolTip_Lurtz
 END
 
 CONTROLBAR:LW_Hero_Sharku
-"Sharku"
+"Sharcoux"
 END
 
 CONTROLBAR:LW_ToolTipBuild_Sharku
@@ -32182,11 +32179,11 @@ CONTROLBAR:LW_ToolTipBuild_Sharku
 END
 
 CONTROLBAR:LW_ToolTip_Sharku
-"Unit Type: Hero"
+"Type d'unité : Héros"
 END
 
 CONTROLBAR:LW_Hero_WormTongue
-"Wormtongue"
+"Langue-de-Serpent"
 END
 
 CONTROLBAR:LW_Hero_Grishnakh
@@ -32198,50 +32195,50 @@ CONTROLBAR:LW_ToolTipBuild_WormTongue
 END
 
 CONTROLBAR:LW_ToolTip_WormTongue
-"Unit Type: Hero"
+"Type d'unité : Héros"
 END
 
 //// Corrupted Wild Structures ///
 
 CONTROLBAR:LW_ToolTipBuild_WildFortress
-"Structure Type: Fortress\nDefends territory\nRecruits heroes and heroic units\nGrants all upgrades to units\nIncreases treasury\n"
+"Type de structure : Forteresse. \n Défend le territoire. \n Recrute les héros et les unités héroïques. \n Accorde toutes les améliorations aux unités. \n Augmente la trésorerie."
 END
 
 CONTROLBAR:LW_ToolTip_WildFortress
-"Structure Type: Fortress\nDefends territory\nRecruits heroes and heroic units\nGrants all upgrades to units\nIncreases treasury"
+"Type de structure : Forteresse. \n Défend le territoire. \n Recrute les héros et les unités héroïques. \n Accorde toutes les améliorations aux unités. \n Augmente la trésorerie."
 END
 
 CONTROLBAR:LW_Structure_WildCave
-"Orc Warrens"
+"Cave à Gobelins"
 END
 
 CONTROLBAR:LW_ToolTipBuild_WildCave
 //"Battle Template: Moria Orc Cave\n\nStructure Type: Basic Barracks\nTrains Misty Mountains basic units\n"
-"Battle Bonus: unit replenishment around the citadel \n\nStructure Type: Basic Barracks\nTrains Misty Mountains basic units\n"
+"Bonus de combat : régénération des unités autour de la citadelle \n\nType de structure : Caserne de base \nEntraîne les unités de base des Montagnes Brumeuses\n"
 END
 
 CONTROLBAR:LW_ToolTip_WildCave
 //"Battle Template: Moria Orc Cave\n\nStructure Type: Basic Barracks\nTrains Misty Mountains basic units"
-"Battle Bonus: unit replenishment around the citadel \n\nStructure Type: Basic Barracks\nTrains Misty Mountains basic units\n"
+"Bonus de combat : régénération des unités autour de la citadelle \n\nType de structure : Caserne de base \nEntraîne les unités de base des Montagnes Brumeuses\n"
 END
 
 CONTROLBAR:LW_Structure_WildTreasureTrove
 //"Treasure Trove"
-"Black Hollow"
+"Fossé Noir"
 END
 
 CONTROLBAR:LW_ToolTipBuild_WildTreasureTrove
 //"Battle Template: Troll Lair\n\nStructure Type: Elite Barracks\nTrains Misty Mountains elite units\n"
-"Battle Bonus: +20% faster unit production\n\nStructure Type: Elite Barracks\nTrains Misty Mountains elite units\n"
+"Bonus de combat : +20% de production d'unités plus rapide\n\nType de structure : Caserne d'élite\nEntraîne les unités d'élite des Montagnes Brumeuses\n"
 END
 
 CONTROLBAR:LW_ToolTip_WildTreasureTrove
 //"Battle Template: Troll Lair\n\nStructure Type: Elite Barracks\nTrains Misty Mountains elite units"
-"Battle Bonus: +20% faster unit production\n\nStructure Type: Elite Barracks\nTrains Misty Mountains elite units\n"
+"Bonus de combat : +20% de production d'unités plus rapide\n\nType de structure : Caserne d'élite\nEntraîne les unités d'élite des Montagnes Brumeuses\n"
 END
 
 CONTROLBAR:LW_Structure_WildDefiledMineShaft
-"Orc Tunnel"
+"Tunnel"
 END
 
 CONTROLBAR:LW_ToolTipBuild_WildDefiledMineShaft
@@ -32258,99 +32255,99 @@ END
 ////// Corrupted Wild Units //////
 
 CONTROLBAR:LW_Unit_GoblinFighterHorde
-"Moria Orc Screecher Horde"
+"Horde de Guerriers Orques de la Moria"
 END
 
 CONTROLBAR:LW_Unit_GoblinFighterHordePlural
-"Moria Orc Screecher Hordes"
+"Hordes de Guerriers Orques de la Moria"
 END
 
 CONTROLBAR:LW_ToolTipBuild_GoblinFighterHorde
-"Unit Type: Basic Infantry\nStrong vs. Pikemen\n\nRecruits two hordes"
+"Les Orques de la Moria sont des créatures frêles et mesquines qui mènent une existence troglodyte dans les cavernes qui s'étendent sous les Monts Brumeux, ainsi que dans les jadis grandioses mines naines à présent occupées par ces êtres répugnants. \n Ils parcourent les tunnels avec une agilité incroyable, attaquant, massacrant et dévorant ceux qui osent s'introduire dans leur repaire sordide. Il s'agit d'une branche dégénérée des Orques, qui ne peut submerger l'ennemi qu'en raison de ses effectifs inexorables. \n\n Forts contre les piquiers. \n Type d'Action: Sort. \n Bonus de horde : tous les combattants Orques et les Guerriers de Gobelinville gagnent +50% de dégâts lorsqu'ils sont rassemblés en nombre de 150 ou plus (bonus cumulable)."
 END
 
 CONTROLBAR:LW_ToolTip_GoblinFighterHorde
-"\nUnit Type: Basic Infantry\nStrong vs. Pikemen"
+"\n Type d'unité : infanterie standard.\n\n Forts contre les piquiers"
 END
 
 CONTROLBAR:LW_Unit_WildSpiderlingHorde
-"Spiderling Horde"
+"Horde d'araignées"
 END
 
 CONTROLBAR:LW_Unit_WildSpiderlingHordePlural
-"Spiderling Hordes"
+"Hordes d'araignées"
 END
 
 CONTROLBAR:LW_Unit_GoblinArcherHorde
-"Moria Orc Archer Horde"
+"Horde d'Archers Orques de la Moria"
 END
 
 CONTROLBAR:LW_Unit_GoblinArcherHordePlural
-"Moria Orc Archer Hordes"
+"Hordes d'Archers Orques de la Moria"
 END
 
 CONTROLBAR:LW_Unit_GoblinFighterArcherHorde
-"Moria Orc Screechers - Moria Orc Archers Horde"
+"Horde d'Orques hurleurs de la Moria - Archers Orques de la Moria"
 END
 
 CONTROLBAR:LW_Unit_GoblinFighterArcherHordePlural
-"Moria Orc Screechers - Moria Orc Archers Hordes"
+"Hordes d'Orques hurleurs de la Moria - Archers Orques de la Moria"
 END
 
 CONTROLBAR:LW_ToolTipBuild_GoblinArcherHorde
-"Unit Type: Basic Archer\nStrong vs. Infantry\n"
+"Type d'unité : Archers standards. \n Forts contre l'infanterie. \n"
 END
 
 CONTROLBAR:LW_ToolTip_GoblinArcherHorde
-"\nUnit Type: Basic Archer\nStrong vs. Infantry"
+"\n Type d'unité : Archers standards. \n Forts contre l'infanterie."
 END
 
 CONTROLBAR:LW_ToolTip_GoblinFighterArcherHorde
-"\nUnit Type: Basic Infantry and Basic Archer\nStrong vs. Archers and Infantry"
+"\nType d'unité: infanterie et archers standards\nForts contre les archers et l'infanterie"
 END
 
 CONTROLBAR:LW_Unit_WildMarauderHorde
-"Gundabad Marauder Horde"
+"Horde de Piquiers de Gundabad"
 END
 
 CONTROLBAR:LW_Unit_WildMarauderHordePlural
-"Gundabad Marauder Hordes"
+"Hordes de Piquiers de Gundabad"
 END
 
 CONTROLBAR:LW_ToolTipBuild_WildMarauderSwordHorde
-"Unit Type: Elite Infantry\nStrong vs. Pikemen"
+"Type d'unité : infanterie d'élite.\n\n Forts contre les piquiers"
 END
 
 CONTROLBAR:LW_ToolTip_WildMarauderSwordHorde
-"\nUnit Type: Elite Infantry\nStrong vs. Pikemen"
+"\n Type d'unité : infanterie d'élite.\n\n Forts contre les piquiers"
 END
 
 CONTROLBAR:LW_Unit_GoblinCaveTroll
-"Cave Troll"
+"Troll des Cavernes"
 END
 
 CONTROLBAR:LW_Unit_GoblinCaveTrollPlural
-"Cave Trolls"
+"Trolls des Cavernes"
 END
 
 CONTROLBAR:LW_ToolTipBuild_GoblinSpiderRiderHorde
-"Unit Type: Elite Cavalry\nStrong vs. Archers\n"
+"Type d'unité : cavalerie d'élite.\n\n Forts contre les archers\n "
 END
 
 CONTROLBAR:LW_ToolTip_GoblinSpiderRiderHorde
-"\nUnit Type: Elite Cavalry\nStrong vs. Archers"
+"\n Type d'unité : cavalerie d'élite.\n\n Forts contre les archers"
 END
 
 CONTROLBAR:LW_Unit_WildMountainGiant
-"Mountain Giant"
+"Géant des Montagnes"
 END
 
 CONTROLBAR:LW_Unit_WildMountainGiantPlural
-"Mountain Giants"
+"Géants des Montagnes"
 END
 
 CONTROLBAR:LW_Unit_WildMountainGiant
-"Mountain Giant"
+"Géant des Montagnes"
 END
 
 
@@ -32370,7 +32367,7 @@ CONTROLBAR:LW_ToolTip_Drogoth
 END
 
 CONTROLBAR:LW_Hero_Shelob
-"Shelob"
+"Arachne"
 END
 
 CONTROLBAR:LW_ToolTipBuild_Shelob
@@ -32394,7 +32391,7 @@ CONTROLBAR:LW_Hero_Azog
 END
 
 CONTROLBAR:LW_Hero_Bolg
-"Bolg of the North"
+"Bolg du Nord"
 END
 
 CONTROLBAR:LW_ToolTipBuild_Azog
@@ -32412,15 +32409,15 @@ END
 //////////////
 
 CONTROLBAR:ToggleStanceBattle
-"Battle Stance"
+"Posture de combat"
 END
 
 CONTROLBAR:ToggleStanceAggressive
-"Aggressive Stance"
+"Posture aggressive"
 END
 
 CONTROLBAR:ToggleStanceHoldGround
-"Hold Ground Stance"
+"Posture défensive"
 END
 
 //////////////
@@ -32428,58 +32425,55 @@ END
 //////////////
 
 CONTROLBAR:ToolTipToggleStanceBattle
-//"Shortcut: F \n This is the default unit stance \n They will auto-acquire enemies within a medium range"
-"Shortcut: F \n This is the default unit stance \n No bonus \n Units will auto-acquire enemies within a medium range"
+"Raccourci : F \n C'est la posture par défaut des unités \n Aucun bonus \n Les unités vont automatiquement attaquer les ennemis dans une portée moyenne"
 END
 
 CONTROLBAR:ToolTipToggleStanceAggressive
-//"Shortcut: D \n Units gain an increase to their attack damage, but a decrease to their armour \n They will auto-acquire enemies when sighted"
-"Shortcut: D \n Swordsmen: +25% damage, -15% armour \n Archers: +20% damage, -20% armour \n Pikemen: +25% damage, -15% armour \n Cavalry: +25% damage, -15% armour \n Siege: +15% range, -20% armour \n Heroes and Monsters: +10% damage, +10% speed, -20% armour\n\nUnits will auto-acquire enemies when sighted"
+"Raccourci : D \n Les unités gagnent une augmentation des dégâts d'attaque mais une diminution de leur armure \n Elles vont automatiquement attaquer les ennemis dès qu'ils sont repérés"
 END
 
 CONTROLBAR:ToolTipToggleStanceHoldGround
-//"Shortcut: G \n Units gain an increase to their armour, but a decrease to their attack damage \n They will not auto-acquire enemies"
-"Shortcut: G \n Swordsmen: +25% armour, -15% damage \n Archers: +20% armour, -10% damage \n Pikemen: +25% armour, -15% damage \n Cavalry: +25% armour, -15% damage, -15% speed \n Siege: +10% armour, -15% range \n Heroes and Monsters: +10% armour, -20% damage, -10% speed\n\nUnits will not auto-acquire enemies"
+"Raccourci : G \n Les unités gagnent une augmentation de leur armure mais une diminution de leurs dégâts d'attaque \n Elles ne vont pas automatiquement attaquer les ennemis"
 END
 
 CONTROLBAR:ToggleStanceMarch
-"March"
+"Marche"
 END
 CONTROLBAR:ToggleStanceRunning
-"Run"
+"Cours"
 END
 CONTROLBAR:ToolTipToggleStanceRunning
-"Shortcut: D \n +35% movement speed, -33% armour \n They will auto-acquire enemies when sighted"
+"Raccourci : D \n +35% vitesse de déplacement, -33% armure \n Les unités vont automatiquement attaquer les ennemis dès qu'ils sont repérés"
 END
 CONTROLBAR:ToggleStancePhalanxFormation
-"Phalanx Formation"
+"Formation de Phalange"
 END
 CONTROLBAR:ToolTipToggleStancePhalanxFormation
-"Shortcut: G \n +33% armour, -35% movement speed \n They will not auto-acquire enemies"
+"Raccourci : G \n +33% armure, -35% vitesse de déplacement \n Les unités ne vont pas automatiquement attaquer les ennemis"
 END
 
 CONTROLBAR:ToggleStanceFullSail
-"Full Sail"
+"Pleine voile"
 END
 
 CONTROLBAR:ToggleStanceHardRowing
-"Hard Rowing"
+"Rame soutenue"
 END
 
 CONTROLBAR:ToggleStanceHalfSail
-"Half Sail"
+"Demie voile"
 END
 
 CONTROLBAR:ToolTipToggleStanceFullSail
-"Shortcut: F \n This is the default ship stance \n No bonus \n Ships will auto-acquire enemies within a medium range"
+"Raccourci : F \n C'est la posture par défaut des navires \n Aucun bonus \n Les navires vont automatiquement attaquer les ennemis dans une portée moyenne"
 END
 
 CONTROLBAR:ToolTipToggleStanceHardRowing
-"Shortcut: D \n +25% speed, -25% armour\n\n Ships will not auto-acquire enemies"
+"Raccourci : D \n +25% vitesse, -25% armure \n Les navires ne vont pas automatiquement attaquer les ennemis"
 END
 
 CONTROLBAR:ToolTipToggleStanceHalfSail
-"Shortcut: G \n -50% speed, +50% ranged damage\n\n Ships will auto-acquire enemies when sighted"
+"Raccourci : G \n -50% vitesse, +50% dégâts à distance \n Les navires vont automatiquement attaquer les ennemis dès qu'ils sont repérés"
 END
 
 /////////////////////
@@ -32494,209 +32488,202 @@ END
 ////// Timeline //////
 
 APT:RegionUnified
-"Region/Subregion Unified"
+"Région unifiée"
 END
 
 APT:PhaseLabelText
-// Context: used in the turn timeline in the WotR game
+
 "Phase"
 END
 
 APT:EndPhaseButtonText
-// Context: label for button to end phase in the WotR game
-"END PHASE"
+"PHASE DE FIN"
 END
 
 APT:TurnPhaseDescriptionPlanning
-// Context: text used in the WotR turn timeline to describe the planning phase
-"Build units/structures. Move Heroes/garrisons. End Phase when done."
+"Construire des unités/structures. Déplacez les héros/garnisons. Phase de fin lorsque vous avez terminé."
 END
 
 APT:TurnPhaseDescriptionProduction
-// Context: text used in the WotR turn timeline to describe the production phase
-"Train units at barracks"
+"Former des unités à la caserne"
 END
 
 APT:TurnPhaseDescriptionConstruction
-// Context: text used in the WotR turn timeline to describe the construction phase
-"Build structures in territories"
+"Construire des structures dans les territoires"
 END
 
 APT:TurnPhaseDescriptionPlanGarrisonMoves
-// Context: text used in the WotR turn timeline to describe the plan garrison moves phase
-"Choose destination territory for garrison armies"
+"Choisissez le territoire de destination pour les armées de garnison"
 END
 
 APT:TurnPhaseDescriptionPlanHeroMoves
-// Context: text used in the WotR turn timeline to describe the plan hero moves phase
-"Choose destination territory for Hero armies"
+"Choisissez le territoire de destination pour les armées de héros"
 END
 
 APT:TurnPhaseDescriptionResolveBattles
 // Context: text used in the WotR turn timeline to describe the resolve battles phase
-"Fight battles for territory ownership"
+"Combattez pour la propriété du territoire"
 END
 
 APT:TurnPhaseDescriptionPlanRetreats
-// Context: text used in the WotR turn timeline to describe the plan retreats phase
-"Choose destination territory for defeated armies"
+"Choisissez le territoire de destination pour les armées vaincues"
 END
 
 APT:TacticalPhaseTitle
-"Tactical Phase"
+"Phase tactique"
 END
 
 APT:BattlePhaseTitle
-"Battle Phase"
+"Phase de bataille"
 END
 
 APT:RetreatPhaseTitle
-"Retreat Phase"
+"Phase de retraite"
 END
 
 
 ////// Details Panel //////
 
 CONTROLBAR:LW_Options
-"Game Menu"
+"Menu du Jeu"
 END
 
 CONTROLBAR:LW_OptionsDescription
-"Pause the game to change settings, load, save, surrender, or exit"
+"Mettre le jeu en pause pour modifier les paramètres, charger, sauvegarder, capituler, ou quitter"
 END
 	
 CONTROLBAR:LW_Objectives
-"Game Info"
+"Info Jeu"
 END
 
 CONTROLBAR:LW_ObjectivesDescription
-"Display the status of all players and show the objectives for the game."
+"Affichez le statut de tous les joueurs et montrez les objectifs du jeu"
 END
 
 STRATEGICHUD:CriticalTasksWillBeDisplayedHere
-"Critical tasks will be displayed here"
+"Les tâches critiques seront affichées ici"
 END
 
 STRATEGICHUD:ArcherUnitArchetypeTooltip
-"Unit Type: Archer"
+"Type d'unité : Archer"
 END
 
 STRATEGICHUD:InfantryUnitArchetypeTooltip
-"Unit Type: Infantry"
+"Type d'unité : infanterie"
 END
 
 STRATEGICHUD:PikemanUnitArchetypeTooltip
-"Unit Type: Pikeman"
+"Type d'unité : Piquier"
 END
 
 STRATEGICHUD:CavalryUnitArchetypeTooltip
-"Unit Type: Cavalry"
+"Type d'unité : Cavalerie"
 END
 
 STRATEGICHUD:HeroUnitArchetypeTooltip
-"Unit Type: Hero"
+"Type d'unité : Héros"
 END
 
 STRATEGICHUD:FortressStructureArchetypeTooltip
-"Structure Type: Fortress"
+"Type de structure : Forteresse"
 END
 
 STRATEGICHUD:BarracksStructureArchetypeTooltip
-"Structure Type: Basic Barracks"
+"Type de structure : Caserne standard"
 END
 
 STRATEGICHUD:ArmoryStructureArchetypeTooltip
-"Structure Type: Elite Barracks"
+"Type de structure : Caserne d'élite"
 END
 
 STRATEGICHUD:FarmStructureArchetypeTooltip
-"Structure Type: Farm"
+"Type de structure : Ferme"
 END
 
 STRATEGICHUD:BarracksInProductionTooltip
-"This unit is currently being trained"
+"Cette unité est en ours de formation"
 END
 
 STRATEGICHUD:FortressInProductionTooltip
-"This Hero unit is currently being recruited"
+"Cette unité Héros est en cours e recrutement"
 END
 
 
 ////// Army Unit Swapper Screen //////
 
 APT:StrategicArmyUnitSwapperCaption
-"Army Manager"
+"Gestion des armées"
 END
 
 APT:StrategicArmyUnitSwapperPrompt
-"Select the units you want to transfer between armies"
+"Sélectionnez les unités que vous souhaitez transférer entre les armées"
 END
 
 APT:StrategicArmyUnitSwapperSwapButtonText
-"SWAP"
+"ÉCHANGER"
 END
 
 APT:StrategicArmyUnitSwapperExitButtonText
-"DONE"
+"OK"
 END
 
 STRATEGICHUD:ArmyUnitSwapperCP
-"CP: %d/%d"
+"PC: %d/%d"
 END
 
 
 ////// Battle Prompt Screen //////
 
 APT:StrategicBattlePromptPrimaryForces
-"Primary Forces"
+"Forces primaires"
 END
 
 APT:StrategicBattlePromptEnemyForces
-"Enemy Forces"
+"Forces ennemies"
 END
 
 APT:StrategicBattlePromptReinforcements
-"Reinforcements"
+"Renforts"
 END
 
 APT:StrategicBattlePromptCaption
-"Fight Battle!"
+"A la bataille !"
 END
 
 APT:StrategicBattlePromptYourTeam
-"Your Team"
+"Ton équipe"
 END
 
 APT:StrategicBattlePromptEnemyTeam
-"Enemy Team"
+"Équipe ennemie"
 END
 
 APT:StrategicBattlePromptPrompt
-"How do you want to resolve this conflict?"
+"Comment voulez-vous résoudre ce conflit ?"
 END
 
 APT:StrategicBattlePromptVs
-"Vs"
+"VS"
 END
 
 APT:StrategicBattlePromptAutoResolveButtonText
-"AUTO-RESOLVE"
+"RÉSOLUTION AUTOMATIQUE"
 END
 
 APT:StrategicBattlePromptRealTimeButtonText
-"REAL-TIME"
+"TEMPS RÉEL"
 END
 
 APT:StrategicBattlePromptRetreatButtonText
-"RETREAT"
+"RETRAITE"
 END
 
 APT:StrategicBattlePromptSwapButton1Tooltip
-"Replace the primary attacking Hero army with the first reinforcement Hero army"
+"Remplacez l'armée de héros attaquante principale par la première armée de héros de renfort"
 END
 
 APT:StrategicBattlePromptSwapButton2Tooltip
-"Switch the order of arrival for the reinforcement Hero armies"
+"Inversez l'ordre d'arrivée des armées de héros en renfort"
 END
 
 
@@ -32704,93 +32691,92 @@ END
 
 APT:StrategicYourTeamStrength
 //Sub-header over player side
-"Your Team Strength"
+"Force de votre équipe"
 END
 
 APT:StrategicEnemyTeamStrength
-//Sub-header over Enemy side
-"Enemy Team Strength"
+"Force de l'équipe ennemie"
 END
 
 APT:StrategicDynamicAutoResolvePlayerSurvived
-"Survived"
+"Survécu"
 END
 
 APT:StrategicDynamicAutoResolvePlayerEliminated
-"Eliminated"
+"Éliminé"
 END
 
 APT:StrategicDynamicAutoResolveReinforcements
-"Reinforcements"
+"Renforts"
 END
 
 APT:StrategicDynamicAutoResolveSkip
-"SKIP"
+"PASSER"
 END
 
 APT:StrategicDynamicAutoResolveYouWon
-"Victorious!"
+"Victoire !"
 END
 
 APT:StrategicDynamicAutoResolveYouLost
-"Defeated!"
+"Défaite !"
 END
 
 
 ////// Battle Results Screen //////
 
 APT:HeaderUnitsGainVeterancy
-"Units Gaining Experience"
+"Unités qui gagnent de l'exp."
 END
 
 APT:HeaderUnitsLost
-"Units Lost"
+"Unités perdues"
 END
 
 APT:HeaderEnemyUnitsDestroyed
-"Enemy Units Destroyed"
+"Unités ennemies détruites"
 END
 
 APT:BattleStatisticsTitle
-"Battle Statistics"
+"Statistiques de bataille"
 END
 
 APT:HeaderHeroesLost
-"Heroes Lost"
+"Héros perdus"
 END
 
 APT:ConflictResultsContinue
-"CONTINUE"
+"CONTINUEZ"
 END
 
 
 ////// Battle Veterancy Screen //////
 
 APT:BattleVeterancyTitle
-"Battle Veterancy"
+"Vétéran de la bataille"
 END
 
 APT:ArmyVeterancyTitle
-"Army Veterancy"
+"Vétéran de l'armée"
 END
 
 APT:UnitVeterancyTitle
-"Unit Veterancy"
+"Vétéran de l'unité"
 END
 
 APT:LW_UnitCurrentLevel
-"Unit Current Level"
+"Niveau actuelle de l'unité"
 END
 
 
 ////// Region Award Screen //////
 
 APT:StrategicRegionAwardCaption
-"Territory Conquered"
+"Territoire conquis"
 END
 
 APT:StrategicRegionAwardPrompt
-"Select a player on your team to own this territory"
+"Sélectionnez un joueur de votre équipe pour posséder ce territoire"
 END
 
 APT:StrategicRegionAwardCancelButtonText
@@ -32798,11 +32784,10 @@ APT:StrategicRegionAwardCancelButtonText
 END
 
 APT:StrategicRegionAwardSelectButtonText
-"SELECT"
+"SÉLECTIONNER"
 END
 
-APT:StrategicRegionAwardYourTeam
-"Your Team"
+"Votre équipe"
 END
 
 APT:StrategicRegionAwardFactionHeading
@@ -32810,31 +32795,31 @@ APT:StrategicRegionAwardFactionHeading
 END
 
 APT:StrategicRegionAwardPlayerNameHeading
-"Player Name"
+"Nom de joueur"
 END
 
 APT:StrategicRegionAwardNumRegionsHeading
-"Regions"
+"Régions"
 END
 
 APT:StrategicRegionAwardNumHordesHeading
-"Units"
+"Unités"
 END
 
 APT:StrategicRegionAwardNumTerritoriesHeading
-"Territories"
+"Territoires"
 END
 
 APT:StrategicRegionAwardPlayerHeading
-"Player"
+"Joueur"
 END
 
 APT:StrategicRegionAwardAlliesHeading
-"Allied Players"
+"Joueurs alliés"
 END
 
 APT:StrategicRegionAwardRegionBonusHeading0
-"CP"
+"PC"
 END
 
 APT:StrategicRegionAwardRegionBonusHeading1
@@ -32879,65 +32864,62 @@ END
 
 
 APT:ObjectivesTab
-"OBJECTIVES"
+"OBJECTIFS"
 END
 
 APT:Resume
-// On Strategic Player Status - resume game
+
 "RESUME"
 END
 
 APT:PlayerStatusYourTeam
-"Your Team"
+"Votre équipe"
 END
 
 APT:PlayerStatusEnemyTeam
-"Enemy Team"
+"Équipe ennemie"
 END
 
 APT:Allies
-"Allies"
+"Alliés"
 END
 
 APT:Faction
-// On Strategic Player Status - column title for faction icons.
+
 "Faction"
 END
 
 APT:Regions
-// On Strategic Player Status - column title for number of regions owned.
-"Regions"
+"Régions"
 END
 
 APT:WinCondition
-// On Strategic Player Status - title for win condition.
-"Campaign Win Conditions"
+"Conditions de victoire de la campagne"
 END
 
 APT:ScenarioInfo
-// On Strategic Player Status - title for objective scenario
-"Scenario Info"
+"Infos scénario"
 END
 
 APT:StrategicObjectives
 // Sub-header in WOTR Player Status Screen
-"Objectives"
+"Objectifs"
 END
 
 APT:ObjectivesBox
-"Objectives"
+"Objectifs"
 END
 
 APT:ScenarioName
-"Scenario Name"
+"Nom du scénario"
 END
 
 APT:GameType
-"Game Type"
+"Type de jeu"
 End
 
 APT:NumberOfPlayers
-"Number Of Players"
+"Nombre de joueurs"
 END
 
 APT:ScenarioFiction
@@ -32948,79 +32930,79 @@ END
 ////// WOTR Checklist Items //////
 
 STRATEGICHUD:ResolveBattleChecklistItem
-"Fight battle in %s."
+"Combattez dans %s."
 END
 
 STRATEGICHUD:PlanRetreatChecklistItem
-"Battle lost in %s. Retreat %s from %s."
+"Bataille perdue en %s. Retraite %s de %s."
 END
 
 STRATEGICHUD:ResolveRegionOwnershipChecklistItem
-"You and an ally have moved into %s. Award %s to a player on your team."
+"Vous et un allié avez emménagé dans %s. Attribuez %s à un joueur de votre équipe."
 END
 
 STRATEGICHUD:ResolveRegionOwnershipAfterBattleChecklistItem
-"You and an ally have won a battle in %s. Award %s to a player on your team."
+"Vous et un allié avez gagné une bataille dans %s. Attribuez %s à un joueur de votre équipe."
 END
 
 STRATEGICHUD:MoveHeroArmiesChecklistItem
-"Conquer new territories by moving Hero armies into adjacent territories."
+"Conquérez de nouveaux territoires en déplaçant des armées de héros dans des territoires adjacents."
 END
 
 STRATEGICHUD:StrengthenRegionGarrisonChecklistItem
-"Strengthen the garrison army in %s by moving nearby units into %s."
+"Renforcez l'armée de garnison dans %s en déplaçant les unités proches dans %s."
 END
 
 STRATEGICHUD:StrengthenHeroArmyChecklistItem
-"Strengthen %s by selecting nearby units to join %s."
+"Renforcez %s en sélectionnant les unités à proximité pour rejoindre %s."
 END
 
 STRATEGICHUD:BuildBarracksChecklistItem
-"Build a barracks to generate new units."
+"Construisez une caserne pour générer de nouvelles unités."
 END
 
 STRATEGICHUD:BuildFortressChecklistItem
-"Build a fortress in an unprotected territory to strengthen its defenses."
+"Construisez une forteresse dans un territoire non protégé pour renforcer ses défenses."
 END
 
 STRATEGICHUD:BuildArmoryChecklistItem
-"Build an armoury to upgrade units."
+"Construisez une armurerie pour améliorer les unités."
 END
 
 STRATEGICHUD:BuildFarmChecklistItem
-"Build a farm to increase world command point limit."
+"Construisez une ferme pour augmenter la limite des points de commandement mondiaux."
 END
 
 STRATEGICHUD:BuildSoldierUnitsChecklistItem
-"Build infantry type units to combat pikeman type units."
+"Construisez des unités de type infanterie pour combattre les unités de type piquier."
 END
 
 STRATEGICHUD:BuildArcherUnitsChecklistItem
-"Build archer type units to combat infantry type units."
+"Construisez des unités de type archer pour combattre les unités de type infanterie."
 END
 
 STRATEGICHUD:BuildPikemenUnitsChecklistItem
-"Build pikeman type units to combat cavalry type units."
+"Construisez des unités de type piquier pour combattre les unités de type cavalerie."
 END
 
 STRATEGICHUD:BuildCavalryUnitsChecklistItem
-"Build cavalry type units to combat archer type units."
+"Construisez des unités de type cavalerie pour combattre les unités de type archer."
 END
 
 STRATEGICHUD:BuildHeroUnitsChecklistItem
-"Build Hero units from your fort to help boost an army's strength."
+"Construisez des unités de héros à partir de votre fort pour aider à augmenter la force d'une armée."
 END
 
 STRATEGICHUD:DisbandUnitsChecklistItem
-"Disband units from your armies to increase available CP."
+"Débarrassez-vous des unités de vos armées pour augmenter les PC disponibles."
 END
 
 STRATEGICHUD:DemolishBuildingsChecklistItem
-"Demolish existing structures to make build plots available to rebuild new structures."
+"Démolissez les structures existantes pour mettre à disposition des parcelles de construction pour reconstruire de nouvelles structures."
 END
 
 STRATEGICHUD:UpgradeUnitsChecklistItem
-"Upgrade units to increase their attack and defensive strength."
+"Améliorez les unités pour augmenter leur attaque et leur force défensive."
 END
 
 
@@ -33030,30 +33012,28 @@ END
 ///////////////////
 
 APT:History
-"Stats"
+"Statistiques"
 END
 
 ToolTip:Createahero/mcclassscreen/screen/rotateright/button
-"Rotate Right"
+"Pivoter à droite"
 END
 
 ToolTip:Createahero/mcclassscreen/screen/rotateleft/button
-"Rotate Left"
+"Pivoter à gauche"
 END
 
 
 APT:TributeScreenTitle
-"Players"
+"Joueurs"
 END
 
 APT:StatusTab
-// Text for the status tab of the in-game tribute screen
-"Status"
+"État"
 END
 
 APT:TributeTab
-// Text for the tribute tab of the in-game tribute screen
-"Tribute"
+"Tribut"
 END
 
 // APT:TributeResetButton
@@ -33063,27 +33043,27 @@ END
 
 
 APT:TournamentModeDesc
-"Tournament Play is a stat tracked mode of play where you compete with other players online to raise your rank in the Overall Online Ladder. No Create-A-Hero, no complex options, just hardcore RTS action."
+"Le Tournoi est un mode de jeu avec suivi des statistiques dans lequel vous affrontez d'autres joueurs en ligne pour augmenter votre rang dans le classement général en ligne. Pas de Héros, pas d'options complexes, juste de l'action RTS hardcore."
 END
 
 APT:HomeTournamentDesc
-"Tournament - Quickly connect to a stat-tracked ladder match against other ranked Tournament competitors."
+"Tournoi - Connectez-vous rapidement à une partie classée à résultats suivis contre d'autres concurrents classés."
 END
 
 APT:HomeOpenPlayDesc
-"Open Play - Browse a list of available games that permit you to take your Created Hero online and set your own customized game Rules."
+"Partie ouverte - Parcourez la liste des parties disponibles vous permettant de jouer en ligne avec le héros que vous avez créé et de personnaliser les règles."
 END
 
 APT:HomeWotrDesc
-"War Of The Ring - Begin or continue a turn-based campaign to conquer the lands of Middle-earth and fight against rival factions in realtime tactical or auto-resolved battles."
+"Guerre de l'Anneau - Commencez ou continuez une campagne au tour par tour pour conquérir la Terre du Milieu et affrontez des factions rivales lors de combats tactiques en temps réel ou auto-résolus."
 END
 
 APT:PlanningMode
-"Planning Mode"
+"Mode planification"
 END
 
 APT:PlanningModeInstructions
-"Click EXECUTE to initiate your tactics."
+"Cliquez sur EXECUTER pour lancer vos tactiques."
 END
 
 APT:PlanningModeCancel
@@ -33093,12 +33073,11 @@ END
 
 APT:PlanningModeDeleteAction
 //Button to delete a command in planning mode
-"DELETE ACTION"
+"ANNULER L'ACTION"
 END
 
 APT:PlanningModeExecute
-//Button to execute a command in planning mode
-"EXECUTE"
+"EXECUTER"
 END
 
 
@@ -33108,19 +33087,19 @@ END
 
 
 APT:StrategicHUDStats
-"Player Bonuses"
+"Bonus joueur"
 END
 
 APT:StrategicHUDEndTurn
-"End Phase"
+"Fin de la phase"
 END
 
 APT:StrategicHUDTurnNumber
-"Turn:"
+"Tour :"
 END
 
 APT:StrategicHUDTimeRemaining
-"Phase Timer:"
+"Compteur de phase :"
 END
 
 APT:StrategicHUDPhaseLabel
@@ -33128,11 +33107,11 @@ APT:StrategicHUDPhaseLabel
 END
 
 APT:Territory
-"Territory"
+"Territoire"
 END
 
 APT:Armies
-"Armies"
+"Armées"
 END
 
 APT:Structures
@@ -33152,19 +33131,19 @@ END
 ////////////////////////////////////////////////////
 
 STRATEGICHUD:StatsCommandPointsTitle
-"Treasury"
+"Trésorerie"
 END
 
 STRATEGICHUD:StatsCommandPointsHelp
-"Current Treasury available for creating new units and buildings in Tactical Phase"
+"Trésorerie actuelle disponible pour créer de nouvelles unités et bâtiments en phase tactique"
 END
 
 STRATEGICHUD:StatsTreasuryIncomeTitle
-"Treasury Income"
+"Revenu du Trésor"
 END
 
 STRATEGICHUD:StatsCTreasuryIncomeHelp
-"Treasury increases by this amount at the start of each turn"
+"La trésorerie augmente ce montant au début de chaque tour"
 END
 
 ////////////////////////////////////////////////////
@@ -33174,79 +33153,79 @@ END
 
 
 STRATEGICHUD:StatsPowerPointsTitle
-"Power Points"
+"Points de puissance"
 END
 
 STRATEGICHUD:StatsPowerPointsHelp
-"Current number of points available to purchase powers"
+"Nombre actuel de points disponibles pour acheter des pouvoirs"
 END
 
 STRATEGICHUD:StatsResourceMultiplierTitle
-"Resource Multiplier"
+"Multiplicateur de ressources"
 END
 
 STRATEGICHUD:StatsResourceMultiplierHelp
-"Current rate of resource production"
+"Taux actuel de production de ressources"
 END
 
 STRATEGICHUD:StatsAttackBonusTitle
-"Attack Bonus"
+"Bonus d'attaque"
 END
 
 STRATEGICHUD:StatsAttackBonusHelp
-"Bonus to the amount of damage dealt by units"
+"Bonus au montant des dégâts infligés par les unités"
 END
 
 STRATEGICHUD:StatsDefenseBonusTitle
-"Defense Bonus"
+"Bonus de défense"
 END
 
 STRATEGICHUD:StatsDefenseBonusHelp
-"Bonus to the armour value for units"
+"Bonus à la valeur d'armure pour les unités"
 END
 
 STRATEGICHUD:StatsExperienceBonusTitle
-"Experience Bonus"
+"Bonus d'expérience"
 END
 
 STRATEGICHUD:StatsExperienceBonusHelp
-"Bonus to the rate at which units gain experience"
+"Bonus au taux auquel les unités acquièrent de l'expérience"
 END
 
 STRATEGICHUD:CommandPointsLabel
-"CP: %d"
+"PC : %d"
 END
 
 STRATEGICHUD:CommandPointsAndCostLabel
-"CP: %d Cost: %d"
+"PC : %d Coût : %d"
 END
 
 STRATEGICHUD:BuildTimeSingularLabel
-"Build Time: 1 Turn"
+"Temps de construction : 1 tour"
 END
 
 STRATEGICHUD:BuildTimePluralLabel
-"Build Time: %d Turns"
+"Temps de construction : %d tours"
 END
 
 STRATEGICHUD:ToggleSelectionDetailsTitle
-"Toggle Selection Details"
+"Changer Détails de la sélection"
 END
 
 STRATEGICHUD:ToggleSelectionDetailsHelp
-"Show/hide detailed information about the current selection"
+"Afficher/masquer les informations détaillées sur la sélection actuelle"
 END
 
 STRATEGICHUD:CancelArmyMemberMoveTitle
-"Cancel Move"
+"Annuler le déplacement"
 END
 
 STRATEGICHUD:CancelArmyMemberMoveHelp
-"Cancel planned move order for current selection"
+"Annuler l'ordre de transfert planifié pour la sélection actuelle"
 END
 
 STRATEGICHUD:DisbandArmyMemberTitle
-"Disband Unit"
+"Dissoudre l'unité"
 END
 
 // CHANGED for Expansion.  Moved to end
@@ -33255,39 +33234,39 @@ END
 //END
 
 STRATEGICHUD:UpgradeArmyMemberTitle
-"Upgrade Unit"
+"Améliorer l'unité"
 END
 
 STRATEGICHUD:UpgradeArmyMemberHelp
-"Mark currently selected unit(s) to be upgraded"
+"Marquer les unités actuellement sélectionnées à améliorer"
 END
 
 STRATEGICHUD:DemolishStructureTitle
-"Demolish Structure"
+"Démolir la structure"
 END
 
 STRATEGICHUD:DemolishStructureHelp
-"Mark currently selected structure to be demolished"
+"Marquer la structure actuellement sélectionnée à démolir"
 END
 
 STRATEGICHUD:HeroArmyName
-"%s's Army"
+"Armée de %s"
 END
 
 STRATEGICHUD:BuildPlotName
-"Building Foundation"
+"Fondation du bâtiment"
 END
 
 STRATEGICHUD:BuildPlotHelp
-"Construct a building on the foundation"
+"Construire un bâtiment sur les fondations"
 END
 
 APT:RegionDetailsTerritoryTab
-"TERRITORY"
+"TERRITOIRE"
 END
 
 APT:RegionDetailsArmiesTab
-"ARMIES"
+"ARMÉES"
 END
 
 APT:RegionDetailsStructuresTab
@@ -33295,43 +33274,43 @@ APT:RegionDetailsStructuresTab
 END
 
 STRATEGICHUD:RegionBuildPlotsTitle
-"Territory Build Plots"
+"Parcelles de construction de territoire"
 END
 
 STRATEGICHUD:RegionBuildPlotsHelp
-"Current number of build plots used/Total number of build plots available"
+"Nombre actuel de parcelles de construction utilisées/Nombre total de parcelles de construction disponibles"
 END
 
 STRATEGICHUD:RegionArmoryPointsTitle
-"Territory Armoury Capacity"
+"Capacité de l'armurerie du territoire"
 END
 
 STRATEGICHUD:RegionArmoryPointsHelp
-"Current number of units being upgraded/Total number of units that can be upgraded"
+"Nombre actuel d'unités en cours d'amélioration / Nombre total d'unités pouvant être amélioré"
 END
 
 STRATEGICHUD:RegionCommandPointsTitle
-"Territory Command Points"
+"Points de commandement de territoire"
 END
 
 STRATEGICHUD:RegionCommandPointsHelp
-"Current territory population/Territory population cap"
+"Population actuelle du territoire/Cap de population du territoire"
 END
 
 STRATEGICHUD:RegionCommandPoints2Title
-"Territory Command Points"
+"Points de commandement de territoire"
 END
 
 STRATEGICHUD:RegionCommandPoints2Help
-"Current territory population"
+"Population actuelle du territoire"
 END
 
 STRATEGICHUD:ArmyCommandPointsTitle
-"Army Command Points"
+"Points de commandement de l'armée"
 END
 
 STRATEGICHUD:ArmyCommandPointsHelp
-"Current army population/Army population cap"
+"Population actuelle de l'armée/Cap de population de l'armée"
 END
 
 STRATEGICHUD:TurnTimeRemaining
@@ -33340,65 +33319,56 @@ STRATEGICHUD:TurnTimeRemaining
 END
 
 STRATEGICHUD:WaitMessage
-"Waiting for other player to resolve battles."
+"Attendre que l'autre joueur résolve les batailles."
 END
 
 STRATEGICHUD:SelectedAutoResolveBattleMessage
-// Context: message shown after WotR battle prompt
-"Battle type selected: Auto-Resolve"
+"Type de bataille sélectionné : résolution automatique"
 END
 
 STRATEGICHUD:SelectedRTSBattleMessage
-// Context: message shown after WotR battle prompt
-"Battle type selected: Real-Time"
+"Type de combat sélectionné : temps réel"
 END
 
 STRATEGICHUD:StartingBattleTitle
-// Context: title for "Starting Battle" message box in WotR
-"Starting Battle"
+"Commencer la bataille"
 END
 
 STRATEGICHUD:OpponentSelectionIsDifferent
-// Context: shown in "starting battle" message box when the actual battle type differs from the selected battle type
-"%s\nOpponent selection is different\n\n%s\n%s"
+"%s\nLa sélection de l'adversaire est différente\n\n%s\n%s"
 END
 
 STRATEGICHUD:BattlePriorityAutoResolve
-// Context: shown in "starting battle" message box when the actual battle type differs from the selected battle type
-"Battle type priority: Auto-Resolve"
+"Priorité du type de bataille : résolution automatique"
 END
 
 STRATEGICHUD:BattlePriorityRTS
-// Context: shown in "starting battle" message box when the actual battle type differs from the selected battle type
-"Battle type priority: Real-Time"
+"Priorité du type de bataille : temps réel"
 END
 
 STRATEGICHUD:StartingAutoResolveBattleMessage
 // Context: message for "Starting Battle" message box in WotR when starting an auto-resolve battle
-"Entering auto-resolve battle..."
+"Entrer dans la bataille à résolution automatique..."
 END
 
 STRATEGICHUD:StartingRTSBattleMessage
-// Context: message for "Starting Battle" message box in WotR when starting an RTS battle
-"Entering real-time battle..."
+"Entrer dans la bataille en temps réel..."
 END
 
 STRATEGICHUD:AllEnemiesRetreatedTitle
-// Context: title for message box in WotR shown when all enemies have retreated from a battle
-"Victorious!"
+"Victoire !"
 END
 
 STRATEGICHUD:AllEnemiesRetreatedMessage
-// Context: message for message box in WotR shown when all enemies have retreated from a battle
-"All of your enemies have retreated."
+"Tous vos ennemis ont battu en retraite."
 END
 
 STRATEGICHUD:ArmyDetailsPanelBackButtonTooltip
-"Territory Armies Summary"
+"Résumé des armées de territoire"
 END
 
 STRATEGICHUD:BuildQueueDetailsPanelBackButtonTooltip
-"Territory Structures Summary"
+"Résumé des structures de territoire"
 END
 
 
@@ -33411,31 +33381,31 @@ CONTROLBAR:Barricade
 END
 
 CONTROLBAR:ArrowVolleyEvil
-"Arrow Volley"
+"Volée de flèches"
 END
 
 CONTROLBAR:tooltipArrowVolleyEvil
-"Launches a volley of arrows anywhere on the map \n Left click icon then left click on target area"
+"Lance des volées de flèches n'importe où sur la carte, en plusieurs vagues.\n\nClic gauche sur l'icône puis clic gauche sur la zone cible"
 END
 
 CONTROLBAR:Crebain
-"Crebain from Dunland"
+"Crébains du Pays de Dun"
 END
 
 CONTROLBAR:SummonWild
-"Summon Wildmen of Dunland"
+"Hommes Sauvages du pays de Dun"
 END
 
 CONTROLBAR:TooltipSummonWild
-"Summons several hordes of Wildmen under the caster's control \n Left click icon then left click on pathable location"
+"Les Hommes sauvages du Pays de Dun vivent sur les terres les plus pauvres et inhospitalières de cette contrée. Ce sont des barbares qui convoitent depuis des années les riches territoires des Rohirrim.\n Invoque plusieurs hordes d'Hommes sauvages contrôlés par le lanceur.\n\nClic gauche sur l'icône puis clic gauche sur une zone praticable"
 END
 
 CONTROLBAR:DragonAlly
-"Summon Dragon"
+"Invocation de dragon"
 END
 
 CONTROLBAR:TooltipDragonAlly
-"Summons the fire breathing Dragon to the battlefield \n Left click icon then left click on pathable location"
+"Invoque le Dragon cracheur de feu sur le champ de bataille.\n\nClic gauche sur l'icône puis clic gauche sur une zone praticable"
 END
 
 CONTROLBAR:DragonStrike
@@ -35461,7 +35431,7 @@ ThingTemplate:SlaughterHouse
 END
 
 OBJECT:DoGoldurWallCatapultSmall
-"Catapult"
+"Catapulte"
 End
 
 OBJECT:DoGoldurWallHubSmall
@@ -35617,7 +35587,7 @@ OBJECT:DwarvenBunkerDescription
 End
 
 OBJECT:DwarvenCastleWallCatapult
-"Catapult"
+"Catapulte"
 End
 
 OBJECT:DwarvenCastleWallGate
@@ -45235,7 +45205,7 @@ UPGRADE:Upgrade_DwarvenWallTower
 END
 
 UPGRADE:Upgrade_DwarvenWallCatapult
-"Catapult"
+"Catapulte"
 END
 
 Upgrade:FortressOilCasks
@@ -53822,11 +53792,11 @@ CONTROLBAR:LW_Hero_Morgomir
 END
 
 CONTROLBAR:LW_ToolTipBuild_Morgomir
-"Unit Type: Hero\n"
+"Type d'unité : Héros. \n"
 END
 
 CONTROLBAR:LW_ToolTip_Morgomir
-"Unit Type: Hero"
+"Type d'unité : Héros"
 END
 
 CONTROLBAR:MordorMorgomirRecruit
@@ -54323,12 +54293,12 @@ END
 
 BANNERUI:DwarvenCatapult
 // Singluar name of the Dwarven Phalanx category displayed in the army summary for WotR
-"Catapult"
+"Catapulte"
 End
 
 BANNERUI:PluralDwarvenCatapult
 // Singluar name of the Dwarven Phalanx category displayed in the army summary for WotR
-"Catapults"
+"Catapultes"
 End
 
 BANNERUI:AngmarDarkDunedain
@@ -54353,17 +54323,17 @@ End
 
 BANNERUI:MordorCatapult
 // Singluar name of the Mordor Phalanx category displayed in the army summary for WotR
-"Catapult"
+"Catapulte"
 End
 
 BANNERUI:MordorCatapultPlural
 // Singluar name of the Mordor Phalanx category displayed in the army summary for WotR
-"Catapults"
+"Catapultes"
 End
 
 BANNERUI:IsengardBallista
 // Singluar name of the Isengard Phalanx category displayed in the army summary for WotR
-"Ballista"
+"Baliste"
 End
 
 OBJECT:HordeDwarvenZerker
@@ -54693,7 +54663,7 @@ CONTROLBAR:LW_ToolTipBuild_Rogash
 END
 
 CONTROLBAR:LW_ToolTip_Rogash
-"Unit Type: Hero"
+"Type d'unité : Héros"
 END
 
 CONTROLBAR:LW_Hero_Morgramir
@@ -54725,11 +54695,11 @@ CONTROLBAR:LW_Hero_Karsh
 END
 
 CONTROLBAR:LW_ToolTipBuild_Karsh
-"Unit Type: Hero\n"
+"Type d'unité : Héros. \n"
 END
 
 CONTROLBAR:LW_ToolTip_Karsh
-"Unit Type: Hero"
+"Type d'unité : Héros"
 END
 
 CreateAHero:SubClassName_SnowTroll
@@ -72337,15 +72307,15 @@ CONTROLBAR:LW_Hero_Denethor
 END
 
 CONTROLBAR:LW_ToolTip_Berethor
-"Unit Type: Hero"
+"Type d'unité : Héros"
 END
 
 CONTROLBAR:LW_ToolTip_Pippin
-"Unit Type: Hero"
+"Type d'unité : Héros"
 END
 
 CONTROLBAR:LW_ToolTip_Beregond
-"Unit Type: Hero"
+"Type d'unité : Héros"
 END
 
 CONTROLBAR:LW_ToolTip_GondorDolMAArmsHorde
@@ -72361,7 +72331,7 @@ CONTROLBAR:LW_Hero_Idrial
 END
 
 CONTROLBAR:LW_ToolTip_Orophin
-"Unit Type: Hero"
+"Type d'unité : Héros"
 END
 
 BANNERUI:ElvenLorienSentry
@@ -72453,19 +72423,19 @@ BANNERUI:NandorBlademaster
 END
 
 CONTROLBAR:LW_ToolTip_Kili
-"Unit Type: Hero"
+"Type d'unité : Héros"
 END
 
 CONTROLBAR:LW_ToolTip_Fili
-"Unit Type: Hero"
+"Type d'unité : Héros"
 END
 
 CONTROLBAR:LW_ToolTip_Roac
-"Unit Type: Hero"
+"Type d'unité : Héros"
 END
 
 CONTROLBAR:LW_ToolTip_Dwalin
-"Unit Type: Hero"
+"Type d'unité : Héros"
 END
 
 CONTROLBAR:LW_Hero_Roac
