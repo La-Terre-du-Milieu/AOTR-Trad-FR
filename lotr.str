@@ -29601,7 +29601,7 @@ CONTROLBAR:SpecialPowerIncorruptable
 END
 
 CONTROLBAR:SpecialPowerToolTipIncorruptable
-"Rien ne peut nuire au maître du bois, de l'eau et de la colline. \n Bombadil devient temporairement immunisé contre les dégâts, et ne peut être renversé. \n\n Cliquer sur le bouton gauche pour l'activer."
+"Rien ne peut nuire au maître du bois, de l'eau et de la colline. \n Bombadil devient pendant 20 secondes immunisé contre les dégâts, et ne peut être renversé. \n\n Cliquer sur le bouton gauche pour l'activer."
 END
 
 CONTROLBAR:SummonWillow
@@ -29625,7 +29625,7 @@ CONTROLBAR:WillowSleep
 END
 
 CONTROLBAR:ToolTipSummonWillow
-"Convoque le Vieil Homme-Saule. \n Les unités ennemies autour de lui sont endormies. \n\n Clic gauche sur l'icone puis clic gauche sur la zone cible."
+"Convoque le Vieil Homme-Saule pendant 30 secondes. \n Les unités ennemies autour de lui sont endormies. \n\n Clic gauche sur l'icone puis clic gauche sur la zone cible."
 END
 
 
@@ -38828,7 +38828,7 @@ CONTROLBAR:Escape
 END
 
 CONTROLBAR:TooltipEscape
-"Langue-de-Serpent devient furtif et ne peut pas être attaqué, ni attaquer lui-même. \n\n Clic gauche pour l'activer."
+"Langue-de-Serpent devient furtif pendant 30 secondes et ne peut pas être attaqué, ni attaquer lui-même. \n\n Clic gauche pour l'activer."
 END
 
 CONTROLBAR:VenomousWords
@@ -44151,7 +44151,7 @@ CONTROLBAR:ConstructGuldurPorter
 END
 
 CONTROLBAR:ToolTipConstructGuldurPorter
-"Cet esprit elfe désincarné peut invoquer une structure avant de disparaître."
+"Cet esprit elfe désincarné peut invoquer une structure avant de disparaître\n Limité à 5"
 End
 
 CONTROLBAR:GuldurPalantir
@@ -44819,7 +44819,7 @@ CONTROLBAR:RefreshSlaves
 END
 
 CONTROLBAR:ToolTipRefreshSlaves
-"Requiert : Niveau 2 \n Invoque une horde de Brisés au coût de la production pendant 60 secondes."
+"Requiert : Niveau 2 \n Invoque une horde de Brisés mais la production du moulin à esclaves est en pause durant 60 secondes.\nRespecte la limite de point de commandement\n Clic gauche pourl'activer"
 END
 
 CONTROLBAR:LW_Structure_GuldurMill
@@ -45731,7 +45731,7 @@ CONTROLBAR:GuldurShade
 END
 
 CONTROLBAR:ToolTipGuldurShade
-"L'Ombre disparaîtra après avoir invoqué une structure. \n Type d'Action : Malus Passif. \n Les unités ennemies proches souffrent de -15% de vitesse et -10% d'armure. \n Ne peut pas se cumuler avec d'autres Malus. \n\n Capacité Passive."
+"L'Ombre disparaîtra après avoir invoqué une structure. \n Type d'Action : Malus Passif. \n Les unités ennemies proches souffrent de -15% de vitesse et -10% d'armure. \n Ne peut pas se cumuler avec d'autres Malus. \n\n Capacité Passive"
 End
 
 CONTROLBAR:GuldurShadeDecoy
@@ -45739,11 +45739,11 @@ CONTROLBAR:GuldurShadeDecoy
 END
 
 CONTROLBAR:ToolTipGuldurShadeDecoy1
-"Type d'Action : Malus Passif. \n Les unités ennemies proches souffrent de -15% de vitesse et -10% d'armure. \n Ne peut pas se cumuler avec d'autres Malus. \n\n Capacité Passive."
+"Type d'Action : Malus Passif. \n Les unités ennemies proches souffrent de -15% de vitesse et -10% d'armure. \n Ne peut pas se cumuler avec d'autres Malus. \n\n Capacité Passive"
 End
 
 CONTROLBAR:ToolTipGuldurShadeDecoy2
-"S'il est attaqué, l'esprit disparaîtra et les unités ennemies proches seront paralysées pour un court moment et leur vision sera grandement réduite. \n\n Capacité Passive."
+"S'il est attaqué, l'esprit disparaîtra et les unités ennemies proches seront paralysées durant 5 secondes et leur vision sera réduite de 50% durant 30 secondes. \n\n Capacité Passive"
 End
 
 
@@ -46257,7 +46257,7 @@ CONTROLBAR:GuldurWither
 END
 
 CONTROLBAR:TooltipGuldurWither
-"Désactive et endommage les structures dans la zone. \n\n Clic gauche sur l'icône puis clic gauche sur la cible."
+"Endommage et désactive les structures dans la zone durant 30 secondes. \n\n Clic gauche sur l'icône puis clic gauche sur la cible."
 End
 
 CONTROLBAR:GuldurGreenMist
@@ -69338,7 +69338,7 @@ DIALOGEVENT:MGRiven_OffE013subtitle
 END
 
 DIALOGEVENT:MGRiven_Elro006subtitle
-"*Les gobelins paieront pour ?a !"
+"*Les gobelins paieront pour ça !"
 END
 
 DIALOGEVENT:MGRiven_Elro007subtitle
@@ -69414,7 +69414,7 @@ DIALOGEVENT:MGHighP_OffE002subtitle
 END
 
 DIALOGEVENT:MGHighP_Glor005subtitle
-"*Les gobelins ont ma?trisé ces araignées !!"
+"*Les gobelins ont maïtrisé ces araignées !!"
 END
 
 DIALOGEVENT:MGHighP_OffE003subtitle
@@ -69582,7 +69582,7 @@ DIALOGEVENT:MGBlueM_OffD010subtitle
 END
 
 DIALOGEVENT:MGBlueM_OffD011subtitle
-"*Nous devrons le détruire."
+"*Nous devrons la détruire."
 END
 
 DIALOGEVENT:MGBlueM_OffD012subtitle
@@ -69722,7 +69722,7 @@ DIALOGEVENT:MGGreyH_OffE003subtitle
 END
 
 DIALOGEVENT:MGGreyH_Gloi001subtitle
-"*Ack ! Nains, retournez dans les grottes et dites à nos frères que l'ennemi est ICI ! Ils écouteront sûrement !"
+"*Rha ! Nains, retournez dans les grottes et dites à nos frères que l'ennemi est ICI ! Ils écouteront sûrement !"
 END
 
 DIALOGEVENT:MGGreyH_Dwar001subtitle
@@ -69886,7 +69886,7 @@ DIALOGEVENT:MGCeldu_Dwar010subtitle
 END
 
 DIALOGEVENT:MGCeldu_Dwar011subtitle
-"*Ack ! Il y a beaucoup d'eau ici !"
+"*Rha ! Il y a beaucoup d'eau ici !"
 END
 
 DIALOGEVENT:MGCeldu_Dwar012subtitle
@@ -69998,7 +69998,7 @@ DIALOGEVENT:MGErebo_Thra002subtitle
 END
 
 DIALOGEVENT:MGErebo_Thra003subtitle
-"*Elfes ! Renvoyez ces créatures dans les abÂmes !!"
+"*Elfes ! Renvoyez ces créatures dans les abîmes !!"
 END
 
 DIALOGEVENT:MGErebo_OffD007subtitle
@@ -70030,7 +70030,7 @@ DIALOGEVENT:MGErebo_OffD009subtitle
 END
 
 DIALOGEVENT:MGErebo_OffD010subtitle
-"*Utilisez le Undermine pour vous mettre derrière leurs lignes !"
+"*Utilisez le réseau minier souterain pour vous mettre derrière leurs lignes !"
 END
 
 DIALOGEVENT:MGErebo_OffD011subtitle
@@ -70070,19 +70070,19 @@ DIALOGEVENT:MGDolGu_Elro002subtitle
 END
 
 DIALOGEVENT:MGDolGu_OffE002subtitle
-"*La statue ! C'est ce qui les fait fuir - nous devons le détruire !"
+"*La statue ! C'est ce qui nous fait fuir - nous devons la détruire !"
 END
 
 DIALOGEVENT:MGDolGu_Elro003subtitle
-"*C'est la ressemblance de Sauron. Il est enchanté par le pouvoir obscur du Mordor... Détruisez-le !"
+"*C'est la statue de Sauron. Elle est enchanté par le pouvoir obscur du Mordor... Détruisez-la !"
 END
 
 DIALOGEVENT:MGDolGu_OffE003subtitle
-"*C'est la ressemblance de Sauron. Il est enchanté par le pouvoir obscur du Mordor... Détruisez-le !"
+"*C'est la statue de Sauron. Elle est enchanté par le pouvoir obscur du Mordor... Détruisez-la !"
 END
 
 DIALOGEVENT:MGDolGu_OffE004subtitle
-"*Le voilà ! Saisissez le feu d'alerte !"
+"*Le voilà ! Saisissez le feu d'alarme !"
 END
 
 DIALOGEVENT:MGDolGu_OffE005subtitle
@@ -70298,7 +70298,7 @@ DIALOGEVENT:MEGreyH_Cors001subtitle
 END
 
 DIALOGEVENT:MEGreyH_Cors002subtitle
-"*C'est ?a ! Le quai est à nous. Passons maintenant au feu d'alerte !"
+"*C'est ça ! Le quai est à nous. Passons maintenant au feu d'alerte !"
 END
 
 DIALOGEVENT:MEGreyH_Cors003subtitle
@@ -70326,7 +70326,7 @@ DIALOGEVENT:MEGreyH_Cors008subtitle
 END
 
 DIALOGEVENT:MEGreyH_Elf1001subtitle
-"*Non! ?a ne peut pas être ! Des navires noirs du Sud !"
+"*Non! ça ne peut pas être ! Des navires noirs du Sud !"
 END
 
 DIALOGEVENT:MEGreyH_Elf2001subtitle
@@ -70406,11 +70406,11 @@ DIALOGEVENT:MEShire_OffG003subtitle
 END
 
 DIALOGEVENT:MEShire_OffG004subtitle
-"*Qu'est-ce que c'est que ?a ? Des champignons du Père Maggot ? Prenez-les !"
+"*Qu'est-ce que c'est que ça ? Des champignons du Père Maggot ? Prenez-les !"
 END
 
 DIALOGEVENT:MEShire_OffG005subtitle
-"*Ah, les fermes d'herbe à pipe de Londubat. Cela devrait valoir quelque chose. Prenez-les !"
+"*Ah, les fermes d'herbe à pipe de Longoulet. Cela devrait valoir quelque chose. Prenez-les !"
 END
 
 DIALOGEVENT:MEShire_OffG006subtitle
@@ -70462,7 +70462,7 @@ DIALOGEVENT:MEShire_Worm001subtitle
 END
 
 DIALOGEVENT:MEShire_Worm002subtitle
-"*Vous êtes bannis maintenant. Retournez dans vos grottes où vous appartenez tous."
+"*Vous êtes bannis maintenant. Retournez dans vos grottes qui vous servent de foyer."
 END
 
 DIALOGEVENT:MEShire_GobK006subtitle
@@ -70486,7 +70486,7 @@ DIALOGEVENT:MEShire_Hobb005subtitle
 END
 
 DIALOGEVENT:MEShire_Hobb006subtitle
-"*?a ne peut pas être! Cachez-vous !"
+"*ça ne peut pas être! Cachez-vous !"
 END
 
 DIALOGEVENT:MEShire_Hobb007subtitle
@@ -70518,131 +70518,131 @@ DIALOGEVENT:MEShire_Hobb013subtitle
 END
 
 DIALOGEVENT:MEForno_GobK001subtitle
-"*The Dwarves have joined the Dunedain in their last attempt to save Eriador."
+"*Les Nains ont rejoint les Dunedains dans leur dernière tentative de sauver l'Eriador."
 END
 
 DIALOGEVENT:MEForno_GobK002subtitle
-"*Clear the fortress of their kind!"
+"*Nettoyez la forteresse de leurs espèces !"
 END
 
 DIALOGEVENT:MEForno_OffG001subtitle
-"*We must move quickly. They haven't built up their defenses yet. "
+"*Nous devons bouger rapidement. Ils n'ont pas encore construit leurs défenses. "
 END
 
 DIALOGEVENT:MEForno_OffG002subtitle
-"*Destroy this fortress before they start sending out their workers!"
+"*Détruisez cette forteresse avant qu'ils commencent à envoyer leurs bâtisseurs !"
 END
 
 DIALOGEVENT:MEForno_OffG003subtitle
-"*Spiderlings! Seek allegiance with them!"
+"*Des araignées ! Assurons-nous qu'elles nous prèterons allégence !"
 END
 
 DIALOGEVENT:MEForno_OffG004subtitle
-"*Scale those walls and destroy them!"
+"*Escaladez ces murs et détruisez-les !"
 END
 
 DIALOGEVENT:MEForno_OffG005subtitle
-"*We need more forces!"
+"*Nous avons besoin de plus de forces !"
 END
 
 DIALOGEVENT:MEForno_OffG006subtitle
-"*Destroy those catapults!"
+"*Détruisez ces catapultes !"
 END
 
 DIALOGEVENT:MEForno_OffG007subtitle
-"*Capture that Inn!"
+"*Capturez cette auberge !"
 END
 
 DIALOGEVENT:MEForno_OffG008subtitle
-"*Capture that Signal Fire!"
+"*Capturez ce Feu d'Alarme!"
 END
 
 DIALOGEVENT:MEForno_OffG009subtitle
-"*Focus your attacks on the their weapon of destruction!"
+"*Concentrez vos attaques sur cette arme de destruction !"
 END
 
 DIALOGEVENT:MEForno_OffG010subtitle
-"*Use the giants on those towers there!"
+"*Utilisez les géants pour détruire ces tours !"
 END
 
 DIALOGEVENT:MEForno_OffG011subtitle
-"*They're causing the earth shake!"
+"*Ils ont créé un tremblement de Terre !"
 END
 
 DIALOGEVENT:MEForno_OffG012subtitle
-"*It must be the Earth Hammer! We must destroy it!"
+"*Ce doit être le Marteau de la Terre ! Nous devons le détruire !"
 END
 
 DIALOGEVENT:MEForno_OffG013subtitle
-"*Their ancient weapon! It's killing us! Destroy it before it strikes again!"
+"*Leur ancienne arme ! Elle nous tues ! Détruisez-la avant qu'elle ne frape à nouveau !"
 END
 
 DIALOGEVENT:MEForno_Gobl001subtitle
-"*Kill them! Kill them all!"
+"*Tuez-les ! Tuez-les tous !"
 END
 
 DIALOGEVENT:MEForno_Gobl002subtitle
-"*They weaken!"
+"*Ils s'affaiblissent !"
 END
 
 DIALOGEVENT:MEForno_Gobl003subtitle
-"*Wha…what is that thing?!"
+"*Que…Quel est cette chose ?!"
 END
 
 DIALOGEVENT:MEForno_Gobl004subtitle
-"*An ancient weapon of death! RUN!!!"
+"*Une ancienne arme de la mort ! COURREZ !!!"
 END
 
 DIALOGEVENT:MEForno_OffD001subtitle
-"*Defend the Fortress!"
+"*Defendez la forteresse !"
 END
 
 DIALOGEVENT:MEForno_OffD002subtitle
-"*Do not let them through!"
+"*Ne les laissez pas passer !"
 END
 
 DIALOGEVENT:MEForno_OffD003subtitle
-"*Firey death awaits you all!"
+"*La mort ardente vous attend tous !"
 END
 
 DIALOGEVENT:MEForno_OffD004subtitle
-"*Release the hammer!"
+"*Relacher le Marteau !"
 END
 
 DIALOGEVENT:MEForno_OffD005subtitle
-"*Let the hammer drop! Haha!"
+"*Que le marteau tombe ! Ha ha !"
 END
 
 DIALOGEVENT:MEForno_OffD006subtitle
-"*Again!"
+"*Encore !"
 END
 
 DIALOGEVENT:MEForno_Dwar001subtitle
-"*Feel the steel of our axes!"
+"*Sentez l'acier de nos haches !"
 END
 
 DIALOGEVENT:MEForno_Gloi001subtitle
-"*Defend those walls!"
+"*Defendez ces murs !"
 END
 
 DIALOGEVENT:MEForno_Gloi002subtitle
-"*Die you wretched scum!"
+"*Meurt misérable créature !"
 END
 
 DIALOGEVENT:MEForno_Gloi003subtitle
-"*I've about had enough of these pests!! Yaaah!!"
+"*J'en ai assez de ces parasites !! Yaaah!!"
 END
 
 DIALOGEVENT:MEForno_Dune001subtitle
-"*Your time ends here and now!"
+"*Votre fin arrive ici et maintenant !"
 END
 
 DIALOGEVENT:MEForno_Dune002subtitle
-"*You shall not claim this city of old!"
+"*Vous ne réclamerez pas cette ville d'antan !"
 END
 
 DIALOGEVENT:MEOldFo_Mout001subtitle
-"*The Old Forest Road is the key to controlling Mirkwood! We must reach it and capture it before the Elves get their first!"
+"*La vieille route de la Forêt est la ! We must reach it and capture it before the Elves get their first!"
 END
 
 DIALOGEVENT:MEOldFo_OffM001subtitle
@@ -71238,55 +71238,55 @@ DIALOGEVENT:MERiven_GobK007subtitle
 END
 
 DIALOGEVENT:MERiven_Arwe006subtitle
-"*Oh no! The Nazgûl have killed Gwahir!"
+"*Oh non ! Les Nazgûl ont tué Gwahir !"
 END
 
 DIALOGEVENT:MERiven_Arwe007subtitle
-"*Nooo!!! Aragorn!!!"
+"*Nooonnnn!!! Aragorn!!!"
 END
 
 DIALOGEVENT:MERiven_Saur003subtitle
-"*Your time is over. "
+"*Votre temps est terminer. "
 END
 
 DIALOGEVENT:MERiven_Saur004subtitle
-"*Destroy this city."
+"*Détruisez cette cité."
 END
 
 DIALOGEVENT:MERiven_OffG004subtitle
-"*We must destroy the House of Elrond!"
+"*Nous devons détruire la Maison d'Elrond!"
 END
 
 DIALOGEVENT:MERiven_OffG005subtitle
-"*Elrond must die!"
+"*Elrond doit mourir !"
 END
 
 DIALOGEVENT:MERiven_OffG006subtitle
-"*We must kill their leader Elrond!"
+"*Nous devons tuer leur chef Elrond!"
 END
 
 DIALOGEVENT:MERiven_OffG007subtitle
-"*The Elf woman must die!"
+"*La femme Elfe doit mourir!"
 END
 
 DIALOGEVENT:MERiven_OffG008subtitle
-"*Who are these fools? Don't let them meddle here. Kill them!"
+"*Qui sont ces imbéciles ? Ne les laissez pas se mêler ici. Tuez-les!"
 END
 
 DIALOGEVENT:MERiven_OffG009subtitle
-"*The heir to the throne of Gondor? Haha.. KILL HIM!!"
+"*L'héritier du trône du Gondor ? Haha .. TUEZ-LE !!"
 END
 
 DIALOGEVENT:MERiven_OffG010subtitle
-"*We must get into the city!"
+"*Il faut entrer dans la cité !"
 END
 
 DIALOGEVENT:MERiven_OffG011subtitle
-"*Their leaders must all die!"
+"*Leurs dirigeants doivent tous mourir !"
 END
 
 DIALOGEVENT:MERiven_OffG012subtitle
-"*The Elf queen must die!"
+"*La reine elfe doit mourir !"
 END
 
 DIALOGEVENT:MGSkirm_OffE001subtitle
@@ -81115,7 +81115,7 @@ END
 // Héros d'Angmar
 
 CONTROLBAR:ToolTipHwaldarLeadership
-"Type d'Action : Charisme \n Les Piquiers alliées de Rhudaur, Les Lancerus de Hache et Les Montagnards près d'Hwaldar gagnent +33% dégâts, +33% armure, et gagnent de l'expérience 50% plus rapidement (bonus cumulable).\n\n Capacité passive"
+"Type d'Action : Charisme \n Les Piquiers alliées de Rhudaur, Les Lanceurs de Hache et Les Montagnards près d'Hwaldar gagnent +33% dégâts, +33% armure, et gagnent de l'expérience 50% plus rapidement (bonus cumulable).\n\n Capacité passive"
 End
 
 CONTROLBAR:ToolTipHwaldarBrigandage
