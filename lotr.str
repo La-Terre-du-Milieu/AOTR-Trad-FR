@@ -15095,7 +15095,7 @@ Map:MAPMPhillsofevendim
 End
 
 Map:MAPMPhillsofevendim/Desc
-"Une série de collines dans le Nord de l'Eriador, au Nord de la Comté. ? son extrémité Sud se trouvent les ruines d'Annúminas, la première capitale de l'Arnor, au bord du lac Evendim. \n\n Capturables : Avant-Poste. \n Antres : Spectres des Galgals. \n Dangers : Brouillard. \n Région : Arnor. \n"
+"Une série de collines dans le Nord de l'Eriador, au Nord de la Comté. A son extrémité Sud se trouvent les ruines d'Annúminas, la première capitale de l'Arnor, au bord du lac Evendim. \n\n Capturables : Avant-Poste. \n Antres : Spectres des Galgals. \n Dangers : Brouillard. \n Région : Arnor. \n"
 End
 
 ///////////////////////
@@ -16071,7 +16071,7 @@ End
 ///////////////////////
 
 Map:MAPMPweathertop
-"Monts Venteux*"
+"Mont Venteux*"
 End
 
 Map:MAPMPweathertop/Desc
@@ -81472,11 +81472,11 @@ END
 
 CONTROLBAR:LW_Unit_GoblinSpiderRiderHorde
 //"Spider Rider Horde"
-"Goblin Spider Rider Horde"
+"horde de chevaucheur d'araignée gobelin"
 END
 CONTROLBAR:LW_Unit_GoblinSpiderRiderHordePlural
 //"Spider Rider Hordes"
-"Goblin Spider Rider Hordes"
+"hordes de chevaucheurs d'Araignées gobelin"
 END
 
 CONTROLBAR:LW_Hero_GoblinKing
@@ -81746,43 +81746,43 @@ END
 
 CONTROLBAR:ToolTipNewEowynMount
 //"Requires Level 3 \n Left click to switch between \n mounted and on foot"
-"Requires Level 5 \n  on Windfola and on foot \n When mounted on Windfola, Eowyn gains +25% armor near Rohirrim units"
+"Niveau 5 requis \n sur Windfola et à pied \n Lorsqu'il est monté sur Windfola, Eowyn gagne +25 % d'armure près des unités Rohirrim"
 END
 
 CONTROLBAR:ToolTipShieldMaiden
 //"Requires Level 5 \n Eowyn gains +65% Armor \n Left click to activate"
 //"Requires Level 5 \n Eowyn gains +200% Armor \n Left click to activate"
 //"Requires Level 5 \n Eowyn gains +100% Armor \n Left click to activate"
-"Requires Level 4 \n Eowyn gains +100% Armor \n Left click to activate"
+"Niveau 4 requis \n Eowyn gagne +100 % d'armure \n Clic gauche pour activer"
 END
 
 CONTROLBAR:ToolTipDainStubbornPride
 //"Requires Level 7 \n Grants all nearby allies resistance to fear \n Passive ability"
 //"Requires Level 7 \n Grants all nearby allies resistance to fear and terror\n Passive ability"
 //"Requires Level 4 \n Grants all nearby allies resistance to fear and terror\n Passive ability"
-"Requires Level 2 \n Grants all nearby allies resistance to fear and terror\n Passive ability"
+"Niveau 2 requis \n Confère à tous les alliés proches une résistance à la peur et à la terreur\n Capacité passive"
 END
 
 CONTROLBAR:SpecialAbilityVenomSacSpider
-"&Venom Sacs"
+"&Sacs à venin"
 End
 CONTROLBAR:ToolTipSpecialAbilityVenomSacSpider
-"When activated, inflicts poison to enemies causing damage over time \n Left click to activate"
+"Lorsqu'il est activé, inflige du poison aux ennemis causant des dégâts au fil du temps \n Clic gauche pour activer"
 End
 
 // Angmar Rhudaur Hillmen aka Angmar Wildmen
 
 OBJECT:AngmarWildmenHordeRhudaur
-"Rhudaur Hillmen Rebels"
+"Montagnards rebelle du Rhudaur"
 END
 
 CONTROLBAR:ConstructAngmarWildmanHorde
-"&Rhudaur Hillmen"
+"&Montagnards du Rhudaur"
 END
 
 CONTROLBAR:ToolTipBuildAngmarWildmanHorde
 //"Loyal to the traitor Hwaldar\nStrong vs. Pikemen and Structures"
-"Recruit rebels loyal to the traitor Hwaldar\nStrong vs. Pikemen and Structures"
+"Recruter des rebelles fidèles au traître Hwaldar\nFort vs Piquiers et Structures"
 END
 
 
@@ -81791,7 +81791,7 @@ END
 // ======================== VERSION 5.0.1 ===============    ;;,;;
 
 UPGRADE:AngmarThrallMasterRhudaurHillmen
-"Rhudaur Hillmen Rebels"
+"Montagnards rebelle du Rhudaur"
 END
 
 // ======================== VERSION 6.0.0 ===============    ;;,;;
@@ -81802,7 +81802,7 @@ CONTROLBAR:ToolTipBuildAngmarHallofTwilightLevel2Upgrade
 //"Allows Well of Souls\n +10% Faster Build Speed"
 //"Allows Corpse Rain\n +10% Faster Build Speed"
 //"Allows Well of Souls\n +10% Faster Build Speed"
-"Allows training of Black Númenórean units\n +10% Faster Build Speed"
+"Permet l'entraînement des unités Numénoréen Noir\n +10 % de vitesse de construction plus rapide"
 End
 CONTROLBAR:TooltipBuildAngmarHallofTwilightLevel3Upgrade
 //"Allows Corpse Rain \n Adds a defensive arrow tower \n +25% Build Speed"
@@ -81939,35 +81939,35 @@ CONTROLBAR:ToolTipFellowshipWarCry
 END
 
 CONTROLBAR:GuardianStrike
-"Guardian Stri&ke"
+"Frappe du Gardien"
 END
 
 CONTROLBAR:ToolTipGuardianStrike
-"Requires Level 3\n Damages and cripples an enemy hero \nLeft click icon then left click on target"
+"Niveau 3 requis\n Dommages et paralyse un héros ennemi \nClic gauche sur l'icône puis clic gauche sur la cible"
 END
 
 CONTROLBAR:RoyalGrace
-"Royal Grace"
+"Grâce Royale"
 END
 
 CONTROLBAR:ToolTipRoyalGrace
-"Requires Level 3\n Modifier Type: Leadership \n Allies near Berethor gain +33% Damage\n Stacks with Buffs and Spells \n Passive ability"
+"Niveau 3 requis\n Type de modificateur : Charisme \n Les alliés près de Berethor gagnent +33 % de dégâts\n Se cumulent avec les buffs et les sorts \n Capacité passive"
 END
 
 CONTROLBAR:ShieldofCourage
-"Shield of Courage"
+"Bouclier du courage"
 END
 
 CONTROLBAR:ToolTipShieldofCourage
-"Requires Level 5\n Modifier Type: Spell \n Allies near Berethor gain Resistance to fear and terror\n Stacks with Leaderships, Buffs, and Spells \n Passive ability"
+"Niveau 5 requis\n Type de modificateur : Sort \n Les alliés proches de Berethor gagnent en résistance à la peur et à la terreur\n Se cumulent avec les commandements, les buffs et les sorts \n Capacité passive"
 END
 
 CONTROLBAR:ShatteringStrike
-"Shattering Strike (&W)"
+« Frappe fracassante (&W) »
 END
 
 CONTROLBAR:ToolTipShatteringStrike
-"Targeted enemy unit or hero takes heavy damage and deals -25% damage for 10 seconds\n Left click icon then left click on target"
+"L'unité ennemie ou le héros ciblé subit de lourds dégâts et inflige -25 % de dégâts pendant 10 secondes\n Clic gauche sur l'icône puis clic gauche sur la cible"
 END
 
 CONTROLBAR:StandFast
