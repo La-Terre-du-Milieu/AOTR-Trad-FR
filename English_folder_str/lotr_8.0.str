@@ -50651,42 +50651,42 @@ OBJECT:ArnorGreyCompany
 END
 
 OBJECT:GreyCompanyOutrider
-"Grey Company Outrider"
+"Éclaireur de la Compagnie Grise"
 END
 OBJECT:HordeGreyCompanyOutrider
-"Grey Company Outriders"
+"Éclaireurs de la Compagnie Grise"
 END
 CONTROLBAR:LW_Unit_GreyCompanyOutriderHorde
-"Grey Company Outriders Battalion"
+"Bataillon d'éclaireurs de la Compagnie Grise"
 END
 CONTROLBAR:LW_ToolTip_GreyCompanyOutriderHorde
-"\nUnit Type: Hero Unit\nStrong vs. Infantry and Archers"
+"\nType d'unité : Unité héroïque\nPuissant contre l'infanterie et les archers"
 END
 CONTROLBAR:ConstructGreyCompanyOutriderHorde
-"Grey Company Outriders (&W)"
+"Éclaireurs de la Compagnie Grise (&W)"
 END
 CONTROLBAR:ToolTipBuildGreyCompanyOutriderHorde
-"Hero Unit\nLimited to 1\nStrong vs. Infantry and Archers\n\nGathered by Halbarad, captain of the Dúnedain, these grim-faced warriors rode South to aid Aragorn, their chieftain."
+"Unité héroïque\nLimité à 1\nPuissant contre l'infanterie et les archers\n\nRassemblés par Halbarad, capitaine des Dúnedain, ces guerriers au visage sévère sont partis vers le Sud pour aider Aragorn, leur chef."
 END
 OBJECT:ArnorArveleg
 "Arveleg"
 END
 
 CONTROLBAR:ToolTipBuildArveleg
-"Recruit the son of Argeleb and Guardian of Amon Sul"
+"Recrutez le fils d'Argeleb, gardien d'Amon Sûl."
 END
 CONTROLBAR:ArnorArvelegRecruit
-"Recruit the son of Argeleb and Guardian of Amon Sul"
+"Recrutez le fils d'Argeleb, gardien d'Amon Sûl."
 END
 CONTROLBAR:ArnorArvelegRevive
-"Revive the fallen Hero, Arveleg"
+"Rappelez Arveleg à la vie"
 END
 CONTROLBAR:ArnorArvelegHotkey
 "Ar&veleg"
 END
 
 OBJECT:PRINCEOFCARDOLAN
-"The Prince of Cardolan"
+"Le Prince de Cardolan"
 END
 
 OBJECT:ArnorArgeleb
@@ -50694,36 +50694,36 @@ OBJECT:ArnorArgeleb
 END
 
 CONTROLBAR:ToolTipBuildArgeleb
-"Recruit the King of Arthedain"
+"Recrutez le Roi d'Arthedain."
 END
 CONTROLBAR:ArnorArgelebRecruit
-"Recruit the King of Arthedain"
+"Recrutez le Roi d'Arthedain."
 END
 CONTROLBAR:ArnorArgelebRevive
-"Revive the fallen Hero, Argeleb"
+"Rappelez Argeleb à la vie"
 END
 CONTROLBAR:ArnorArgelebHotkey
 "Ar&geleb"
 END
 
 OBJECT:ArnorArcher
-"Rohan Archer"
+"Archer du Rohan"
 END
 
 OBJECT:ArnorCavalry
-"Royal Knight"
+"Chevaliers royaux"
 END
 
 OBJECT:ArnorCavalryRiderless
-"Riderless Horse"
+"Cheval sans cavalier"
 END
 
 OBJECT:ArnorCavalryCINE
-"Dúnedain Knight"
+"Chevaliers Dúnedain"
 END
 
 OBJECT:ArnorTrebuchet
-"Trebuchet"
+"Trébuchet"
 END
 
 OBJECT:ArnorBanner
@@ -50731,7 +50731,7 @@ OBJECT:ArnorBanner
 END
 
 OBJECT:HordeArnorSoldier
-"Bree-land Townsguard"
+"Garde de la cité du Pays de Bree"
 END
 
 OBJECT:HordeArnorTowerGuard
@@ -50771,47 +50771,47 @@ OBJECT:HordeArnorSoldierArcherCombo
 END
 
 OBJECT:HordeArnorRanger
-"Rangers of the North"
+"Rôdeurs Dúnedain"
 END
 
 OBJECT:HordeRivendellGreyCompany
-"Grey Company"
+"Compagnie Grise"
 END
 
 OBJECT:HordeArnorSoldierRangerCombo
-"Soldier - Ranger"
+"Soldats - Rodeurs"
 END
 
 OBJECT:HordeArnorSoldierTrebuchetCombo
-"Soldier - Trebuchet"
+"Soldats - Trébuchet"
 END
 
 OBJECT:HordeArnorTowerGuardTrebuchetCombo
-"Tower Guard - Trebuchet"
+"Gardes de la Tour - Trébuchet"
 END
 
 OBJECT:HordeArnorKnight
-"Dúnedain Knights"
+"Les Chevaliers du Dúnedain"
 END
 
 OBJECT:ArnorKnights
-"Dúnedain Knights"
+"Les Chevaliers du Dúnedain"
 END
 
 OBJECT:HordeArnorSoldierKnightCombo
-"Soldier - Knight"
+"Soldats - Chevaliers"
 END
 
 OBJECT:HordeArnorTowerGuardKnightCombo
-"Tower Guard - Knight"
+"Gardes de la Tour - Chevaliers"
 END
 
 OBJECT:HordeArnorTowerGuardArcherCombo
-"Tower Guard - Archer"
+"Gardes de la Tour - Archers"
 END
 
 OBJECT:HordeArnorTowerGuardRangerCombo
-"Tower Guard - Ranger"
+"Gardes de la Tour - Rodeurs"
 END
 
 //////////////////////
@@ -50819,134 +50819,132 @@ END
 //////////////////////
 
 OBJECT:ArnorPosternGate
-"Rivendell Postern Gate"
+"Poterne d'Imladris"
 END
 
 OBJECT:ArnorTrebuchetOutcropping
-"Rivendell Trebuchet Rampart"
+"Trébuchet de Rempart de Fondcombe"
 END
 
 OBJECT:ArnorBuildingFoundation
-//"Click here to build a structure"		//This is seen by everyone.
-"Building Foundation"
+"Fondation de bâtiment d'Imladris"
 END
 
 OBJECT:ArnorCastleWallUpgrade
-"Rivendell Castle Wall"
+"Mur du Château de Fondcombe"
 END
 
 OBJECT:ArnorBaseDefenseFoundation
-//"Click here to build a defensive structure"		//This is seen by everyone.
-"Rivendell Defensive Foundation"
+"Fondation Défensive de Fondcombe"
 END
 
 OBJECT:ArnorWallFoundation
-"Rivendell Wall Foundation"
+"Fondation de Mur de Fondcombe"
 END
 
 OBJECT:ArnorArcherRange
-"Bree-land Encampment"
+"Campement du Pays de Bree"
 END
 
 OBJECT:ArnorStable
-"Dúnedain Gathering"
+"Campement Dúnedain"
 END
 
 OBJECT:ArnorBarracks
-"Rivendell Dormitory"
+"Quartier d'Imladris"
 END
 
 OBJECT:ArnorWorkshop
-"Rivendell Siege Works"
+"Atelier de siège de Fondcombe"
 END
 
 OBJECT:ArnorFarm
-"Rivendell Orchard"
+"Verger d'Imladris"
 END
 
 OBJECT:ArnorBlackSmith
-"Rivendell Forge"
+"Forge d'Imladris"
 END
 
 OBJECT:ArnorMarket
-"Elrond's Library"
+"Bibliothèque d'Elrond"
 END
 
 OBJECT:ArnorHeroStatue
-"Rivendell Heroic Statue"
+"Statue héroïque d'Imladris"
 END
 
 OBJECT:ArnorStoneMaker
-"Rivendell Stoneworker"
+"Tailleur de pierres d'Imladris"
 END
 
 OBJECT:ArnorGate
-"Rivendell Gate"
+"Porte de Fondcombe"
 END
 
 OBJECT:ArnorWall
-"Rivendell Wall"
+"Mur de Fondcombe"
 END
 
 OBJECT:ArnorGateTower
-"Rivendell Gate Tower"
+"Tour de la porte de Fondcombe"
 END
 
 OBJECT:ArnorBaseTower
-"Rivendell Tower"
+"Tour de Fondcombe"
 END
 
 OBJECT:ArnorBaseWall
-"Rivendell Wall"
+"Mur de Fondcombe"
 END
 
 OBJECT:ArnorBaseWallTreb
-"Rivendell Trebuchet"
+"Fondcombe Trébuchet"
 END
 
 OBJECT:ArnorWatchTower
-"Rivendell Arrow Tower" 
+"Tour d'archers d'Imladris" 
 END
 
 OBJECT:ArnorSentryTower
-"Rivendell Battle Tower" 
+"Tour d'archers d'Imladris" 
 END
 
 OBJECT:ArnorCastleWall
-"Rivendell Wall" 
+"Mur de Fondcombe" 
 END
 
 OBJECT:ArnorCastleWallPosternGate
-"Rivendell Postern Gate"
+"Poterne d'Imladris"
 END
 
 OBJECT:ArnorCastleGate
-"Rivendell Castle Gate" 
+"Portail de Fondcombe" 
 END
 
 OBJECT:ArnorCastleElevator
-"Rivendell Castle Stairs" 
+"Escaliers du Château de Fondcombe" 
 END
 
 OBJECT:ArnorWhiteTower
-"Rivendell Guard Tower" 
+"Tour de garde de Fondcombe" 
 END
 
 OBJECT:ArnorStatue
-"Rivendell Heroic Statue"
+"Statue héroïque de Fondcombe"
 END
 
 OBJECT:ArnorKeep
-"Rivendell Battle Tower"
+"Tour d'archers d'Imladris"
 END
 
 OBJECT:ArnorCampKeep
 //"Click here to build/revive Heroes" //This is seen by all players.
-"Rivendell Citadel"
+"Citadelle de Fondcombe"
 END
 
 OBJECT:ArnorCastleBaseKeep
-"Rivendell Citadel"
+"Citadelle de Fondcombe"
 END
 
 //////////////////////
@@ -50958,104 +50956,104 @@ END
 //END
 
 CONTROLBAR:ToolTipConstructArnorPorter
-"Train a Rivendell Builder \n Builds structures \n Increases command point limit by 100"
+"Entraîne un bâtisseur d'Imladris. \n Construit des structures. \n Augmente la limite de points de commandement de 100."
 END
 
 CONTROLBAR:ConstructArnorFarm
-"Build Rivendell Orchard (&W)"
+"Construire un Verger d'Imladris (&W)"
 END
 
 CONTROLBAR:ConstructArnorBarracks
-"Build Rivendell Dormitory (&V)"
+"Construire un Quartier d'Imladris (&N)"
 END
 
 CONTROLBAR:ToolTipConstructArnorBarracks
-"Gathers the Elves of Rivendell"
+"Rassemble les Elfes de Fondcombe"
 END
 
 CONTROLBAR:ConstructArnorArcheryRange
-"Build Bree-land Encampment (&T)"
+"Construire un Campement du Pays de Bree (&T)"
 END
 
 CONTROLBAR:ConstructArnorArcheryRangeWotR
-"Build Bree-land Encampment (&W)"
+"Construire un Campement du Pays de Bree (&W)"
 END
 
 
 CONTROLBAR:ToolTipArnorArcheryRange
-"Recruits Bree-landers and Halflings from Eriador"
+"Entraîne des hobbits et des hommes de Bree."
 END
 
 CONTROLBAR:ToolTipArnorArcheryRangeWotR
-"Primary Barracks \n Recruits Bree-landers and Halflings from Eriador \n Limited to 2"
+"Caserne principale \n Recrute les Hommes de Bree et les Hobbits d'Eriador \n Limité à 2"
 END
 
 CONTROLBAR:ConstructArnorStable
-"Build Dúnedain Gathering (&C)"
+"Construire un Campement Dúnedain (&C)"
 END
 
 CONTROLBAR:ConstructArnorStableWotR
-"Build Dúnedain Gathering (&R)"
+"Construire un Campement Dúnedain (&R)"
 END
 
 CONTROLBAR:ToolTipConstructArnorStable
-"Calls upon the Dúnedain of the North"
+"Entraîne les Dúnedains du Nord."
 END
 
 CONTROLBAR:ToolTipConstructArnorStableWotR
-"Secondary Barracks \n Recruits Dúnedain Outriders \n Limited to 1"
+"Caserne secondaire \n Recrute les Éclaireurs Dúnedain \n Limité à 1"
 END
 
 CONTROLBAR:ConstructHallOfFire
-"Build Hall of Fire (&T)"
+"Construire la Salle du Feu (&T)"
 END
 
 CONTROLBAR:ToolTipConstructHallOfFire
-"Tertiary Barracks \n Recruits Rivendell Revelers \n Limited to 1"
+"Caserne tertiaire \n Recrute les Réjouisseurs de Fondcombe \n Limité à 1"
 END
 
 CONTROLBAR:ConstructArnorWorkshop
-"Build Rivendell Sie&ge Works"
+"Construire un Atelier de siège d'Imladris"
 END
 
 CONTROLBAR:ToolTipConstructArnorWorkshop
-"Constructs Rivendell's Siege Weapons"
+"Construit les machines de siège d'Imladris."
 END
 
 CONTROLBAR:ConstructArnorSentryTower
-"Build Rivendell Battle Tower (&Y)"
+"Construire une Tour de guerre d'Imladris (&Y)"
 END
 
 CONTROLBAR:ToolTipConstructArnorSentryTower
-"Defensive tower, will fire at enemy units \n Can be garrisoned with archers for increased damage output"
+"Tour défensive qui tire sur les unités ennemies. \n Peut accueillir un bataillon d'archers pour infliger plus de dégâts."
 END
 
 CONTROLBAR:ToolTipConstructArnorWell
-"Units near well auto-heal if not under attack \n Detects stealth"
+"Les unités proches du puit se soignent automatiquement si elles ne sont pas attaquées. \n Détecte les unités furtives."
 END
 
 CONTROLBAR:ToolTipConstructArnorStatue
-"Leadership bonus to nearby troops \n Reduces cost of infantry"
+"Octroie un bonus de Charisme aux troupes proches. \n Réduit le coût de l'infanterie."
 END
 
 CONTROLBAR:ConstructArnorWallHub
-"Rivendell Wall Hub (&A)"
+"Construire une Assise (&A)"
 END
 
 CONTROLBAR:ConstructArnorFortress
-"Rivendell Conservatory (Fortress) (&I)"
+"Conservatoire de Fondcombe (Forteresse) (&I)"
 END
 
 CONTROLBAR:ConstructArnorFortressWOTR
-"Outpost (&I)"
+"Avant-poste (&I)"
 END
 
 CONTROLBAR:ToolTipConstructArnorWallHub
-"Wall Hubs can be used to build walls"
+"Les assises servent à construire des murs."
 END
 
 CONTROLBAR:ToolTipConstructArnorFortress
-"Recruits Builders and Heroes \n Can be upgraded with improvements and expansions"
+"Recrute des héros et des bâtisseurs. \n Peut recevoir des améliorations."
 END
 
 CONTROLBAR:ToolTipConstructArnorFortressWOTR
@@ -51063,152 +51061,152 @@ CONTROLBAR:ToolTipConstructArnorFortressWOTR
 END
 
 CONTROLBAR:ConstructArnorWell
-"Build Well of Celebrian (&G)"
+"Construire le Puits de Célébrían (&G)"
 END
 
 CONTROLBAR:ConstructArnorStatue
-"Build Statue of Gil-galad (&U)"
+"Construire une Statue de Gil-galad (&U)"
 END
 
 CONTROLBAR:ConstructArnorMarketPlace
-"Build Elrond's Library (&M)"
+"Construire une Bibliothèque d'Elrond (&M)"
 END
 
 CONTROLBAR:ToolTipConstructArnorMarketPlace
-"Elrond's Library holds many ancient books that can be accessed for unique upgrades and effects \n Limited to 1"
+"La bibliothèque d'Elrond contient de nombreux livres anciens qui permettent d'accéder à des améliorations et des effets uniques \n Limité à 1"
 END
 
 CONTROLBAR:ToolTipConstructArnorMarketPlace_Disabled
-"Elrond's Library holds many ancient books that can be accessed for unique upgrades and effects \n Limited to 1\n \n The Library is already built"
+"La bibliothèque d'Elrond contient de nombreux livres anciens qui permettent d'accéder à des améliorations et des effets uniques \n Limité à 1\n \n La bibliothèque est déjà construite"
 END
 
 OBJECT:ArnorMarketPlaceDescription
-"Holds many ancient tomes that can be accessed for unique upgrades and effects"
+"Contient de nombreux tomes anciens qui peuvent être consultés pour des améliorations et des effets uniques"
 END
 
 CONTROLBAR:ConstructArnorStoneMaker
-"Build Rivendell Stoneworker"
+"Construire un Tailleur de pierres d'Imladris"
 END
 
 CONTROLBAR:ToolTipConstructArnorStoneMaker
-"Strengthens gates and towers"
+"Renforce les portes et les tours."
 END
 
 CONTROLBAR:ConstructArnorForgeLevel2Upgrade
-"&Upgrade Forge to Level 2"
+"Améliore la Forge au niveau 2"
 End
 CONTROLBAR:ConstructArnorForgeLevel3Upgrade
-"&Upgrade Forge to Level 3"
+"Améliore la Forge au niveau 3"
 End
 CONTROLBAR:ToolTipBuildArnorForgeLevel2Upgrade
-"Allows research of Tengwar-Inscribed Blades"
-End
+"Permet la recherche des Lames Gravées de Tengwar"
+END
 CONTROLBAR:ToolTipBuildArnorForgeLevel3Upgrade
-"Allows research of Swan-Feathered Arrows"
-End
+"Permet la recherche des Flèches aux Plumes de Cygne"
+END
 CONTROLBAR:ConstructArnorArcheryRangeLevel2Upgrade
-"Upgrade Bree-land Encampment to Level 2 (&A)"
+"Améliore le Campement du Pays de Bree au niveau 2 (&A)"
 END
 CONTROLBAR:ToolTipBuildArnorArcheryRangeLevel2Upgrade
-"Level 2: +10% faster build speed \n Allows recruitment of Fatty Bolger and Battering Rams"
+"Niveau 2 : vitesse de construction +10%. \n Permet le recrutement de Fredegar Bolgeurre et des béliers"
 END
 CONTROLBAR:ToolTipBuildArnorArcheryRangeLevel2Upgrade_WOTR
-"Level 2: +10% faster build speed \n Allows recruitment of Battering Rams"
+"Niveau 2 : +10% de vitesse de construction. \n Permet le recrutement des béliers"
 END
 CONTROLBAR:ConstructArnorArcheryRangeLevel3Upgrade
-"Upgrade Bree-land Encampment to Level 3 (&A)"
+"Améliore le Campement du Pays de Bree au niveau 3 (&A)"
 END
 CONTROLBAR:ToolTipBuildArnorArcheryRangeLevel3Upgrade
-"Level 3: +25% faster build speed \n Allows recruitment of Farmer Maggot\n Heals nearby damaged siege engines"
+"Niveau 3 : vitesse de construction +25%. \n Permet le recrutement du Fermier Magotte. \n Soigne les engins de siège proche"
 END
 CONTROLBAR:ToolTipBuildArnorArcheryRangeLevel3Upgrade_WOTR
-"Level 3: +25% faster build speed\n Heals nearby damaged siege engines"
+"Niveau 3 : +25% de vitesse de construction. \n Soigne les engins de siège proche"
 END
 CONTROLBAR:ConstructArnorBarracks2Upgrade
-"Upgrade Dormitory to Level 2 (&A)"
+"Améliorer le Dortoir au Niveau 2 (&A)"
 END
 CONTROLBAR:ToolTipBuildArnorBarracksLevel2Upgrade
-"Level 2: +10% faster build speed  \n Allows recruitment of Rivendell Archers"
+"Niveau 2 : Vitesse de construction accrue de 10%  \n Permet le recrutement des Archers de Fondcombe"
 END
 CONTROLBAR:ConstructArnorBarracksLevel3Upgrade
-"Upgrade Dormitory to Level 3 (&A)"
+"Améliorer le Dortoir au Niveau 3 (&A)"
 END
 OBJECT:RivendellBlacksmith
-"Rivendell Forge"
+"Forge d'Imladris"
 END
 OBJECT:RivendellBlacksmithDescription
-"Researches weapons and armour upgrades \n Generates resources based on available terrain \n Steel Bonus - Reduced cost of upgrades \n 2 Forges: 5% \n 3 Forges: 10% \n 4 Forges: 15% \n 5 Forges: 20% \n 6+ Forges: 25%"
+"Améliore armes et armures. \n Génère des ressources selon le terrain disponible. \n Prime d'acier - Réduit le coût des améliorations. \n 2 Forges: 5% \n 3 Forges: 10% \n 4 Forges: 15% \n 5 Forges: 20% \n 6+ Forges: 25%"
 END
 
 CONTROLBAR:ConstructRivendellBlacksmith
-"Build Rivendell Forge (&R)"
+"Construire une forge (&R)"
 END
 
 CONTROLBAR:ToolTipConstructRivendellBlacksmith
-"Researches weapons and armour upgrades \n Generates resources based on available terrain \n Increases command point limit by 50 \n Steel Bonus - Reduces cost of upgrades \n 2 Forges: 5% \n 3 Forges: 10% \n 4 Forges: 15% \n 5 Forges: 20% \n 6+ Forges: 25%"
+"Améliore armes et armures. \n Génère des ressources selon le terrain disponible. \n Augmente la limite de points de commandement de 50. \n Prime d'acier - Réduit le coût des améliorations. \n 2 Forges: 5% \n 3 Forges: 10% \n 4 Forges: 15% \n 5 Forges: 20% \n 6+ Forges: 25%"
 END
 
 CONTROLBAR:ToolTipBuildArnorBarracksLevel3Upgrade
-"Level 3: +25% faster build speed \n Allows recruitment of Veterans of the Last Alliance and Knights of Rivendell\nStations a defensive Rivendell Archer"
+"Niveau 3 : Vitesse de construction accrue de 25% \n Permet le recrutement des Vétérans de la Dernière Alliance et des Chevaliers de Fondcombe\nStationne un Archer de Fondcombe en défense"
 END
 CONTROLBAR:ToolTipBuildArnorBarracksLevel3Upgrade_WOTR
-"Level 3: +25% faster build speed\nAllows recruitment of Knights of Rivendell\nStations a defensive Rivendell Archer"
+"Niveau 3 : Vitesse de construction accrue de 25% \n Permet le recrutement des Chevaliers de Fondcombe\nStationne un Archer de Fondcombe en défense"
 END
 CONTROLBAR:ConstructArnorStable2Upgrade
-"&Upgrade Gathering to Level 2"
+"Améliorer le Rassemblement au Niveau 2"
 END
 CONTROLBAR:ToolTipBuildArnorStableLevel2Upgrade
-"Level 2: +10% faster build speed \n"
+"Niveau 2 : vitesse de construction +10%."
 END
 CONTROLBAR:ConstructArnorStableLevel3Upgrade
-"&Upgrade Gathering to Level 3"
+"Améliorer le Rassemblement au Niveau 3"
 END
 CONTROLBAR:ToolTipBuildArnorStableLevel3Upgrade
-"Level 3: +25% faster build speed"
+"Niveau 3 : vitesse de construction +25%."
 END
 CONTROLBAR:ConstructArnorWorkshop2Upgrade
-"&Upgrade Siege Works to Level 2"
+"Améliore l'Atelier de siège au niveau 2"
 END
 CONTROLBAR:ToolTipBuildArnorWorkshopLevel2Upgrade
-"Level 2: +10% faster build speed \n Allows research of the Fire Stones upgrade"
+"Niveau 2 : vitesse de construction +10%. \n Permet de rechercher l'amélioration Pierres de feu."
 END
 CONTROLBAR:ConstructArnorWorkshopLevel3Upgrade
-"&Upgrade Siege Works to Level 3"
+"Améliore l'Atelier de siège au niveau 3"
 END
 CONTROLBAR:ToolTipBuildArnorWorkshopLevel3Upgrade
-"Level 3: +25% faster build speed"
+"Niveau 3 : vitesse de construction +25%."
 END
 
 // ARNOR
 
 CONTROLBAR:ConstructRivendellHobbitShirrif
 //"Hobbits"
-"Bounders (&W)"
+"Garde-frontières (&W)"
 End
 
 CONTROLBAR:ToolTipRivendellHobbitShirrif
 //"Recruits Hobbits to the battlefield"
-"Strong vs. Infantry \n Can stealth near trees \n\nThe Bounders are peace-keepers, patrolling the roads, paths, and borders of the Shire, settling disputes and keeping an eye out for wicked things and foreigners alike. During the last days of the Third Age, their numbers were greatly increased by Mayor Whitfoot, who could feel trouble brewing in the wild lands beyond."
+"Forts contre l'infanterie. \n Furtifs près des arbres. \n\n Les Garde-frontières sont des gardiens de la paix qui patrouillent les routes, les chemins et les frontières de la Comté. Ils règlent les différents et surveillent les méchants et les étrangers. Pendant les derniers jours du troisième âge, leur nombre a été considérablement augmenté par le maire Will Piedblanc qui sentait que des problèmes se préparaient dans les terres sauvages au-delà de la Comté."
 End
 
 CONTROLBAR:ConstructArnorArcherHorde
-"Rivendell Archers (&E)"
+"Archers de Fondcombe (&E)"
 END
 
 CONTROLBAR:ConstructArnorRangerHorde
-"Rangers of the North (&W)"
+"Rôdeurs du Nord (&W)"
 END
 
 CONTROLBAR:ConstructRivendellGreyCompanyHorde
-"Grey Company (&R)"
+"Compagnie Grise (&R)"
 END
 
 CONTROLBAR:ConstructRivendellGreyCompanyHorde_GC
-"Grey Company (&S)"
+"Compagnie Grise (&S)"
 END
 
 CONTROLBAR:ConstructArnorFighterHorde
-"Bree-land Townsguard (&R)"
+"Garde de la cité du Pays de Bree (&R)"
 END
 
 CONTROLBAR:ConstructElvenImladrisWarriorHordeS
@@ -51236,117 +51234,117 @@ CONTROLBAR:ConstructArnorKnightHorde
 END
 
 CONTROLBAR:ConstructArnorPorter
-"Rivendell Builder"
+"Bâtisseur d'Imladris"
 END
 
 CONTROLBAR:ConstructArnorFireArrowPorter
-"Rivendell Fire Arrows Porter"
+"Porteur de Flèche de Feu de Fondcombe."
 END
 
 CONTROLBAR:ConstructArnorSwordsPorter
-"Rivendell Forged Blades Porter"
+"Porteur de Larme Forgée de Fondcombe."
 END
 
 CONTROLBAR:ConstructArnorHeavyArmorPorter
-"Rivendell Heavy Armour Porter"
+"Porteur d'Armure lourde de Fondcombe."
 END
 
 CONTROLBAR:ConstructArnorKnightShieldPorter
-"Rivendell Knight Shield Porter"
+"Porteur de Bouclier de Chevalier de Fondcombe."
 END
 
 CONTROLBAR:ConstructFireStoneArnorPorter
-"Rivendell Fire Stones Porter"
+"Porteur de Pierres de feu de Fondcombe."
 END
 
 CONTROLBAR:ToolTipBuildArnorSilverTreeBanner
-"Upgrades a battalion to Level 2 \n Can only be applied to a Level 1 battalion"
+"Améliore le bataillon au niveau 2. \n Uniquement applicable à un bataillon de niveau 1."
 END
 
 CONTROLBAR:ToolTipBuildArnorFireArrowPorter
-"Can upgrade 1 group of archers"
+"Peut améliorer 1 groupe d'archers."
 END
 
 CONTROLBAR:ToolTipBuildArnorFighterHorde
-"Strong vs. Cavalry and Pikemen"
+"Fort contre la cavalerie et les piquiers."
 END
 
 CONTROLBAR:ToolTipBuildArnorArcherHorde
-"Strong at Range"
+"Fort à distance."
 END
 
 CONTROLBAR:ToolTipBuildRivendellGreyCompanyHorde
 //"Strong vs. All Normal Troops \n Requires Level 3 Barracks \n Only 3 Units of Noldor Warriors are allowed at any time."
-"Strong vs. All Normal Troops and Heroes \nRequires the Lay of Leithian from the Library\nCan stealth near trees\nHero Unit\nOnly 1 unit of Grey Company are allowed at any time.\n\n Gathered by Halbarad, captain of the Dúnedain, these grim-faced warriors rode South to aid Aragorn, their chieftain."
+"Forts contre toutes les unités standards. \n Requiert : Le Lai de Leithien de la Bibliothèque. \n Peuvent se camoufler près des arbres. \n\n Limité à 1 bataillon seulement."
 END
 
 CONTROLBAR:ToolTipBuildRivendellGreyCompanyHorde_GC
 //"Strong vs. All Normal Troops \n Requires Level 3 Barracks \n Only 3 Units of Noldor Warriors are allowed at any time."
-"Strong vs. All Normal Troops and Heroes\nRequires the Tower of Ecthelion fortress upgrade\nCan stealth near trees\nHero Unit\nLimited to 2\n\n Gathered by Halbarad, captain of the Dúnedain, these grim-faced warriors rode South to aid Aragorn, their chieftain."
+"Forts contre toutes les unités standards. \n Requiert : Le Lai de Leithien de la Bibliothèque. \n Peuvent se camoufler près des arbres. \n\n Limité à 1 bataillon seulement."
 END
 
 CONTROLBAR:ToolTipBuildArnorRangerHorde
-"Versatile unit able to be upgraded for different situations\nInitially start with bows \n Strong at Range\nCan stealth near trees\n\n These dour, silent men thanklessly guard the borders of the Shire and the Breeland against those that would see it burn."
+"Unité polyvalente pouvant être améliorée pour différentes situations\nCommence initialement avec des arcs \n Puissant à distance\nPeut se camoufler près des arbres\n\n Ces hommes sombres et silencieux gardent sans remerciements les frontières de la Comté et de la Terre du Milieu contre ceux qui voudraient la voir brûler."
 END
 
 CONTROLBAR:ToolTipBuildElvenImladrisWarriorHordeWithNoPrerequisitesS
-"Rivendell Guardsmen \n Strong vs. Pikemen and Siege \n\nThere is no Elf in Rivendell that has not been trained, at one point or another, to masterfully wield a longsword."
+"Gardes d'Imladris. \n Forts contre les piquiers et engins de siège. \n\n Il n'y a pas un elfe à Imladris qui n'ait été formé, à un moment ou à un autre, à manier magistralement une épée longue."
 END
 
 CONTROLBAR:ToolTipBuildElvenImladrisWarriorHordeWithNoPrerequisites
-"Rivendell Archers \n Requires Level 2 Dormitory \n Strong vs. Infantry, Monsters, and Siege \n\nThe Valley of Imladris is hidden largely thanks to Elrond's Ring, and in part thanks to these archers making sure no encroaching enemy lives to tell of its location."
+"Archers d'Imladris. \n Requiert Quartier niveau 2. \n Forts contre l'infanterie, les monstres et les engins de siège. \n\n La vallée d'Imladris est cachée en grande partie grâce à l'Anneau d'Elrond, mais aussi grâce à ces archers qui s'assurent qu'aucun ennemi n'empiète sur leur territoire pour en révéler l'emplacement..."
 END
 
 CONTROLBAR:ToolTipBuildArnorRangerHordeForGoodIthilien
-"Strong at Range"
+"Fort à distance."
 END
 
 CONTROLBAR:ToolTipBuildArnorShieldGuardHorde
-"Rivendell Glaivesmen \n Strong vs. Cavalry, Siege and Heroes \n\nThe elegant art of fighting with a long glaive is a time-honored and battle-tested Noldorin tradition."
+"Hallebardiers de Fondcombe \n Puissant contre la cavalerie, les engins de siège et les héros \n\nL'élégante art du combat avec une longue hallebarde est une tradition vénérée et éprouvée au combat des Noldor."
 END
 
 CONTROLBAR:ToolTipBuildRivendellRevelerHorde
-"Rivendell Revelers \n Requires the Song and Merriment upgrade \n A party of Elven Revelers \n Limited to 5\n\nThe long history of the Elves is oft related through song and music, both sad and joyous."
+"Ménestrels. \n Nécessite l'amélioration Chansons et Félicité. \n Limités à 5 bataillons seulement. \n\n La longue histoire des Elfes est souvent racontée à travers des chansons et des musiques, à la fois tristes et joyeuses."
 END
 
 CONTROLBAR:ToolTipBuildRivendellRevelerHordeWotR
-"Rivendell Revelers\n A party of Elven Revelers \nLimited to 5\n\nThe long history of the Elves is oft related through song and music, both sad and joyous."
+"Ménestrels de Fondcombe\n Un groupe de Ménestrels Elfes \nLimité à 5\n\nL'histoire longue des Elfes est souvent racontée à travers des chants et de la musique, tantôt tristes, tantôt joyeux."
 END
 
 CONTROLBAR:ToolTipBuildRivendellRevelerHordeNoRequirements
-"Rivendell Revelers \n A party of Elven Revelers \n Limited to 5\n\nThe long history of the Elves is oft related through song and music, both sad and joyous."
+"Ménestrels de Fondcombe \n Un groupe de Ménestrels Elfes \n Limité à 5\n\nL'histoire longue des Elfes est souvent racontée à travers des chants et de la musique, tantôt tristes, tantôt joyeux."
 END
 
 CONTROLBAR:ToolTipBuildArnorShieldGuardHordeCav
-"Requires Level 2 Stables \n Limited to 3 \n Hero Unit \n Strong vs. Archers & Infantry"
+"Requiert des Écuries de niveau 2 \n Limité à 3 \n Unité héroïque \n Puissant contre les archers et l'infanterie"
 END
 
 CONTROLBAR:ToolTipBuildArnorKnightHorde
-"Strong vs. Archers"
+"Forts contre les archers."
 END
 
 CONTROLBAR:ToolTipBuildArnorFireStonePorter
-"Requires Level 2 Siege Works \n Trebuchets do +200 damage"
+"Requiert : Atelier de siège niveau 2. \n Les trebuchets infligent +200 de dégâts."
 END
 
 CONTROLBAR:ToolTipBuildArnorCounterweightPorter
-"Build Rivendell Counterweight Porter"
+"Construire un Contrepoids Porteur de Fondcombe."
 END
 
 OBJECT:NoldorKnight
-"Noldor Knight"
+"Chevalier Noldor"
 END
 
 OBJECT:NoldorKnightHorde
-"Noldor Knights"
+"Chevaliers Noldor"
 END
 
 CONTROLBAR:ConstructNoldorKnight
-"Noldor Knights (&W)"
+"Chevaliers Noldor (&W)"
 END
 
 CONTROLBAR:ToolTipBuildNoldorKnight
-"Strong vs. Pikemen \n\nThough its population had diminished by the end of the Third Age, Imladris remained the dwelling-place of noble Elf-lords unblemished by the growing Shadow."
+"Puissant contre les Lanciers \n\nBien que sa population ait diminué à la fin du Troisième Âge, Fondcombe demeura le lieu de résidence des nobles seigneurs elfes, préservés de l'ombre grandissante."
 END
 
 CONTROLBAR:ToggleNoldorKnightFormation
@@ -51354,40 +51352,40 @@ CONTROLBAR:ToggleNoldorKnightFormation
 END
 
 CONTROLBAR:ToolTipToggleNoldorKnightFormation
-"Noldor Knights form up into a wedge formation \n +20% damage, +15% speed, -15% armour \nNoldor Knights do not deal splash damage when in formation"
+"Les Chevaliers Noldor forment une formation en coin \n +20% de dégâts, +15% de vitesse, -15% d'armure \nLes Chevaliers Noldor n'infligent pas de dégâts en zone lorsqu'ils sont en formation"
 END
 
 CONTROLBAR:ToggleAmrothKnightFormation
-"Defensive Formation (&W)"
+"Formation Défensive (&W)"
 END
 
 CONTROLBAR:ToolTipToggleAmrothKnightFormation
-"Amroth Knights form up into a defensive formation \n +33% armour and -25% speed \nAmroth Knights do not deal splash damage when in formation"
+"Les Chevaliers d'Amroth forment une formation défensive \n +33% d'armure et -25% de vitesse \nLes Chevaliers d'Amroth n'infligent pas de dégâts en zone lorsqu'ils sont en formation"
 END
 
 CONTROLBAR:ToolTipBuildArnorPeasant
-"Arnor Peasant \n Can repair buildings"
+"Paysan d'Arnor. \n Peuvent réparer les bâtiments."
 END
 
 CONTROLBAR:ConstructArnorPeasant
-"Rivendell Peasant"
+"Paysan de Fondcombe"
 END
 
 
 OBJECT:ArnorFarmDescription
-"Reduces the cost of Cavalry\n 2 Farms: 10%\n 3 Farms: 15% \n 4 Farms: 20%\n 5 Farms: 25%\n 6+ Farms: 30%"
+"Réduit le coût de la cavalerie. \n 2 Vergers: -10% \n 3 Vergers: -15% \n 4 Vergers: -20% \n 5 Vergers: -25% \n 6+ Vergers: -30%"
 END
 
 OBJECT:ArnorBarracksDescription
-"Niveau 2 : vitesse de construction +10%. \n Niveau 3 : vitesse de construction +25%."
+"Niveau 2 : Vitesse de construction +10%. \n Niveau 3 : Vitesse de construction +25%."
 END
 
 OBJECT:ArnorArcheryRangeDescription
-"Trains Hobbits and Men from Bree \n Level 2: +10% faster build speed \n Level 3: +25% faster build speed"
+"Entraîne des Hobbits et des Hommes de Bree \n Niveau 2 : Vitesse de construction accrue de 10% \n Niveau 3 : Vitesse de construction accrue de 25%"
 END
 
 OBJECT:ArnorStablesDescription
-"Trains Rangers of the Dúnedain"
+"Entraîne les Dúnedains du Nord."
 END
 
 OBJECT:ArnorWorkshopDescription
@@ -51395,19 +51393,19 @@ OBJECT:ArnorWorkshopDescription
 END
 
 OBJECT:ArnorBlacksmithDescription
-"Researches Rivendell's upgrades"
+"Recherche les améliorations de Fondcombe"
 END
 
 OBJECT:ArnorStoneworkerDescription
-"Reduces the cost of Defenses\n 1 Stoneworker: 20%\n 2 Stoneworkers: 40%"
+"Réduit le coût des Defenses. \n 1 Maçonnerie: 20%. \n 2 Maçonneries: 40%."
 END
 
 OBJECT:ArnorStatueDescription
-"Allies near the statue gain \n +50% damage, +50% armour, \n and earn experience twice as fast \n Does not stack"
+"Les alliés proches de la statue gagnent +50% de dégâts, +50% d'armure, et gagnent de l'expérience deux fois plus rapidement. \n Ne peut pas s'utiliser avec d'autres bonus."
 END
 
 OBJECT:ArnorWellDescription
-"Replenishes health and units in nearby battalions"
+"Restaure la santé des unités dans les bataillons à proximité"
 END
 
 OBJECT:ArnorBattleTowerDescription
@@ -51417,76 +51415,76 @@ END
 ///////////////
 
 CONTROLBAR:PurchaseTechnologyArnorFireArrows
-"Research Swan-Feathered Arrows (&T)"
+"Rechercher l'amélioration Flèches à plumes de cygne (&T)"
 END
 
 CONTROLBAR:ToolTipPurchaseTechnologyArnorFireArrows
-"Purchase Swan-Feathered Arrows Upgrade \n Increases base damage and adds magic damage to arrows\n\n Will upgrade all patrols instantly once upgrade is purchased"
+"Permet aux bataillons d'acheter l'amélioration Flèches à plumes de cygne. Lorsqu'elle est équipée, augmente les dégâts des flèches et ajoute des dégâts magiques. \n Sélectionnez un bataillon à améliorer."
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeArnorFireArrows
-"Increases base damage and adds magic damage to arrows \n Clic gauche pour améliorer cette unité."
+"Augmente les dégâts des flèches et ajoute des dégâts magiques. \n\n Clic gauche pour améliorer cette unité."
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeArnorFireArrowsHobbits
-"Increases base damage and adds additional piercing damage to arrows \n Clic gauche pour améliorer cette unité."
+"Accroit les dégâts de base et ajoute des dégâts perçants aux flèches. \n\n Clic gauche pour équiper cette unité."
 END
 
 CONTROLBAR:PurchaseTechnologyArnorForgedBlades
-"Research Tengwar-Inscribed Blades (&E)"
+"Rechercher Lames gravées en Tengwar (&E)"
 END
 
 CONTROLBAR:ToolTipPurchaseTechnologyArnorForgedBlades
-"Purchase Tengwar-Inscribed Blade Upgrade \n Increases damage done by melee weapons \n When equipped, increases the damage done by melee weapons\n Will upgrade all patrols instantly once upgrade is purchased"
+"Permet aux bataillons d'acheter l'amélioration Lames gravées en Tengwar. Lorsqu'elle est équipée, accroit les dégâts infligés par les armes de mêlée. \n\n Clic gauche pour améliorer cette unité."
 END
 
 CONTROLBAR:PurchaseUpgradeArnorForgedBlades
-"Purchase Tengwar-Inscribed Blades (&C)"
+"Lames gravées en Tengwar (&C)"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeArnorForgedBlades
-"Increases damage done by melee weapons \n Clic gauche pour améliorer cette unité."
+"Permet aux bataillons d'acheter l'amélioration Lames gravées en Tengwar. Lorsqu'elle est équipée, accroit les dégâts infligés par les armes de mêlée. \n\n Clic gauche pour améliorer cette unité."
 END
 
 CONTROLBAR:PurchaseTechnologyArnorHeavyArmor
-"Research Noldorin Armour (&R)"
+"Rechercher Armures Noldorines (&R)"
 END
 
 CONTROLBAR:ToolTipPurchaseTechnologyArnorHeavyArmor
-"Purchase Noldorin Armour Upgrade \n When equipped, significantly reduces the amount of damage taken\n Will upgrade all patrols instantly once upgrade is purchased"
+"Permet aux bataillons d'acheter l'amélioration Armures Noldorines. Lorsqu'elle est équipée, réduit les dégâts infligés par les unités ennemis. \n Sélectionnez un bataillon pour l'améliorer."
 END
 
 CONTROLBAR:PurchaseUpgradeArnorHeavyArmor
-"Purchase Noldorin Armour (&T)"
+"Armures Noldorines (&T)"
 END
 
 CONTROLBAR:PurchaseUpgradeArnorHeavyArmorMirkwood
-"Noldorin Armour"
+"Armure Noldorienne"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeArnorHeavyArmor
-"Upgrades this battalion with Noldorin Armour \n Significantly reduces the amount of damage taken"
+"Améliore ce bataillon avec une Armure Noldorienne \n Réduit considérablement les dégâts subis"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeArnorHeavyArmorMirkwood
-"Requires Love of Silver and Jewels to be cast on this battalion \n Upgrades this battalion with Noldorin Armour \n Significantly reduces the amount of damage taken"
+"Requiert l'incantation Amour de l'Argent et des Joyaux sur ce bataillon \n Améliore ce bataillon avec une Armure Noldorienne \n Réduit considérablement les dégâts subis"
 END
 
 //New Banner Stuff
 CONTROLBAR:PurchaseTechnologyArnorBasicTraining
-"Research Banners of the Noldorin (&W)"
+"Recherche des Bannières des Noldorin (&W)"
 END
 
 CONTROLBAR:ToolTipPurchaseTechnologyArnorBasicTraining
-"Allows hordes to purchase the Banners of the Noldorin upgrade \n Increases a battalion to Level 2"
+"Permet aux hordes d'acheter l'amélioration des Bannières des Noldorin \n Augmente un bataillon au niveau 2"
 END
 
 CONTROLBAR:PurchaseUpgradeArnorBasicTrainingEredLuin
-"Purchase Ered Luin Venturer (&V)"
+"Acheter l'Aventurier d'Ered Luin (&V)"
 END
 
 CONTROLBAR:PurchaseUpgradeArnorBasicTraining
-"Purchase Banners of the Noldorin (&V)"
+"Acheter les Bannières des Noldorin (&V)"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeArnorBasicTraining
@@ -51494,27 +51492,27 @@ CONTROLBAR:ToolTipPurchaseUpgradeArnorBasicTraining
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeArnorBasicTrainingForElves
-"Increases a unit to Level 2\nAllows to regain health outside of combat\n Can only be equipped at Level 1"
+"Améliore l'unité au niveau 2. \n Permet de regagner de la santé en dehors du combat. \n Peut seulement être équipé au niveau 1."
 END
 
 UPGRADE:ArnorHeavyArmor
-"Noldorin Armour"
+"Armures Noldorines"
 END
 
 UPGRADE:ArnorForgedBlades
-"Tengwar-Incribed Blades"
+"Lames Tengwar"
 END
 
 UPGRADE:ArnorFireArrowUpgrade
-"Swan-Feathered Arrows"
+"Flèches à plumes de cygne"
 END
 
 UPGRADE:ArnorKnightShield
-"Horseman Shields"
+"Boucliers de cavalier"
 END
 
 UPGRADE:ArnorBasicTraining
-"Banners of the Noldorin"
+"Porte-étendard des Noldor"
 END
 
 ///////////////////////////////////////
@@ -51522,11 +51520,11 @@ END
 ///////////////////////////////////////
 
 CONTROLBAR:SelectUpgradesArnorFortress
-"Fortress Upgrades (&R)"
+"Améliorer la Forteresse (&R)"
 END
 
 CONTROLBAR:ToolTipCommandSelectUpgradesArnorFortress
-"Purchase upgrades and additional defenses for the Fortress"
+"Acheter des améliorations et des défenses supplémentaires pour la Forteresse."
 END
 
 CONTROLBAR:SelectRevivablesArnorFortress
@@ -51534,98 +51532,98 @@ CONTROLBAR:SelectRevivablesArnorFortress
 END
 
 CONTROLBAR:ToolTipCommandSelectRevivablesArnorFortress
-"Recruit and revive Heroes"
+"Recruter et ranimer des héros."
 END
 
 CONTROLBAR:ConstructArnorTrebuchetExpansion
-"&Trebuchet Expansion"
+"Extension Trébuchet"
 END
 
 CONTROLBAR:ConstructArnorTrebuchetExpansionAdventure
-"Trebuchet Expansion (&W)"
+"Extension Trébuchet (&W)"
 END
 
 CONTROLBAR:ToolTipConstructArnorTrebuchetExpansion
 //"Long range defensive weapon \n Benefits from the Flaming Munitions upgrade"
-"Long range defensive weapon"
+"Arme défensive à longue portée."
 END
 
 CONTROLBAR:ConstructArnorArrowTowerExpansion
-"A&rrow Tower Expansion"
+"Extension Tour d'archers"
 END
 
 CONTROLBAR:ConstructArnorArrowTowerExpansionAdventure
-"Arrow Tower Expansion (&E)"
+"Extension Tour d'archers (&E)"
 END
 
 CONTROLBAR:ConstructArnorDormitory
-"&Dormitory Expansion"
+"Extension Quartiers"
 END
 
 CONTROLBAR:ToolTipConstructArnorDormitory
-"Garrisonable defensive structure \n Increases decommission value of units"
+"Structure défensive pouvant accueillir une garnison. \n Augmente la valeur de désaffectation des unités."
 END
 
 CONTROLBAR:ToolTipConstructArnorArrowTowerExpansion
 //"Short range defensive tower \n Benefits from the Flaming Munitions upgrade"
-"Short range defensive tower"
+"Tour défensive à courte portée."
 END
 
 CONTROLBAR:Command_ConstructArnorWallHubExpansion
-"&Wall Hub Expansion"
+"Extension d'Assise"
 END
 
 CONTROLBAR:ToolTipCommand_ConstructArnorWallHubExpansion
-"Allows the construction of walls"
+"Permet la construction des murs."
 END
 
 CONTROLBAR:PurchaseUpgradeArnorFortressNumenorStonework
-"Númenor S&tonework"
+"Maçonnerie de Númenor"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeArnorFortressNumenorStonework
-"Increases Fortress and Wall armour by 65% \n Prerequisite for Tower of Ecthelion"
+"Accroit l'armure de la Forteresse et des murs de 65%. \n Pré-requis pour la Tour d'Ecthelion."
 END
 
 CONTROLBAR:PurchaseUpgradeArnorFortressFlamingMunitions
-"&Wardens of Imladris"
+"Les Gardiens d'Imladris"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeArnorFortressFlamingMunitions
-"Adds magic damage to all attached towers and trebuchets"
+"Ajoute des dégâts magiques à toutes les tours et catapultes attachées"
 END
 
 CONTROLBAR:PurchaseUpgradeArnorFortressBanners
-"Ba&nners"
+"Banni&ères"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeArnorFortressBanners
-"Provides additional experience to nearby troops \n Reduces Hero cost by 10% \n Reduces Hero recruit time by 10% \n Reduces cost of builders by 20%"
+"Accorde de l'expérience supplémentaire aux troupes à proximité \n Réduit le coût des héros de 10% \n Réduit le temps de recrutement des héros de 10% \n Réduit le coût des constructeurs de 20%"
 END
 
 CONTROLBAR:PurchaseUpgradeArnorFortressHouseOfHealing
-"&Girdle of Imladris"
+"La Ceinture d'Imladris"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeArnorFortressHouseOfHealing
-"Drastically increases armour of fortress"
-//"Reduces Hero revival cost by 20% \n Reduces Hero revival time by 20%"
+"Augmente considérablement l'armure de la forteresse"
+//"Réduit le coût de résurrection des héros de 20% \n Réduit le temps de résurrection des héros de 20%"
 END
 
 CONTROLBAR:PurchaseUpgradeArnorFortressIvoryTower
-"White Council Obser&vatory"
+"L'Observatoire du Conseil Blanc"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeArnorFortressIvoryTower
-"Unlocks three spells that can be cast from the Conservatory \nLord of the Havens: Permanently summons Círdan the Shipwright to patrol the Conservatory\n Lightning Strike: Saruman's magic deals high damage to units within its radius\n Aiwendil, Bird-Friend: Radagast's friendship with Gwaihir's folk allows the fortress to temporarily summon a Giant Eagle"
+"Débloque trois sorts pouvant être lancés depuis le Conservatoire \n Seigneur des Havres : Fait apparaître définitivement Círdan le Charpentier de Navires pour patrouiller autour du Conservatoire \n Frappe Éclair : La magie de Saruman inflige de gros dégâts aux unités dans sa zone d'effet \n Aiwendil, Ami des Oiseaux : L'amitié de Radagast avec les aigles permet à la forteresse de temporairement invoquer un Aigle Géant"
 END
 
 CONTROLBAR:PurchaseUpgradeArnorFortressBoilingOil
-"Bo&iling Oil"
+"Hu&ile Bouillante"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeArnorFortressBoilingOil
-"Allows the Fortress to pour boiling oil on nearby enemy troops"
+"Permet à la forteresse de verser de l'huile bouillante sur les troupes ennemies à proximité"
 END
 
 ///////////////////////////////////
@@ -51633,27 +51631,27 @@ END
 ///////////////////////////////////
 
 CONTROLBAR:Command_ArnorCastleWallHub_BeginWallSpan
-"Build Wall (&W)"
+"Construire un mur (&W)"
 END
 
 CONTROLBAR:ToolTipCommand_ArnorCastleWallHub_BeginWallSpan
-"Left click and drag to construct a Wall"
+"Cliquez et faites glisser pour construire un mur."
 END
 
 CONTROLBAR:Command_ArnorWallUpgradeToHub
-"Wall Hub (&W)"
+"Assise (&W)"
 END
 
 CONTROLBAR:ToolTipCommand_ArnorWallUpgradeToHub
-"Allows construction of additional walls"
+"Permet la construction de murs supplémentaires."
 END
 
 CONTROLBAR:Command_ArnorWallUpgradeToRegularGate
-"Gate (&E)"
+"Porte (&E)"
 END
 
 CONTROLBAR:ToolTipCommand_ArnorWallUpgradeToRegularGate
-"This primary defensive gate can be opened and closed"
+"Cette porte défensive principale peut être ouverte et fermée."
 END
 
 CONTROLBAR:Command_ArnorWallUpgradeToPosternGate
@@ -51661,23 +51659,23 @@ CONTROLBAR:Command_ArnorWallUpgradeToPosternGate
 END
 
 CONTROLBAR:ToolTipCommand_ArnorWallUpgradeToPosternGate
-"Allows friendly units to pass through the wall \n Invisible to enemies"
+"Permet aux unités alliées de passer à travers le mur.\n Invisible pour les ennemis."
 END
 
 CONTROLBAR:Command_ArnorWallUpgradeToTower
-"A&rrow Tower"
+"Tour d'archers"
 END
 
 CONTROLBAR:ToolTipCommand_ArnorWallUpgradeToTower
-"Fires arrows at enemy troops"
+"Tire des flèches sur les unités ennemies."
 END
 
 CONTROLBAR:Command_ArnorWallUpgradeToTrebuchet
-"&Trebuchet"
+"Trébuchet"
 END
 
 CONTROLBAR:ToolTipCommand_ArnorWallUpgradeToTrebuchet
-"Long range defensive weapon"
+"Arme défensive à longue portée."
 END
 
 //////////////////////////////////
@@ -51685,15 +51683,15 @@ END
 //////////////////////////////////
 
 Object:ArnorFortress
-"Conservatory"
+"Conservatoire"
 END
 
 Object:ArnorTrebuchetExpansion
-"Extension de Trébuchet"
+"Extension d'un Trébuchet"
 END
 
 Object:ArnorArrowTowerExpansion
-"Extension Tour d'archers"
+"Extension d'une Tour d'archers"
 END
 
 Object:ArnorCastleWallSegment
@@ -51713,185 +51711,185 @@ OBJECT:ArnorCastleWallTrebuchet
 END
 
 OBJECT:ArnorWell
-"Well of Celebrian"
+"Puits de Celebrian"
 END
 
 ///////// Arnor Structures /////////
 
 CONTROLBAR:LW_Structure_ArnorFortress
-"Conservatory"
+"Conservatoire"
 END
 
 CONTROLBAR:LW_ToolTipBuild_ArnorFortress
-"Structure Type: Fortress\nDefends territory and recruits Heroes\n"
+"Type de structure : Forteresse. \n Défend le territoire et recrute les héros. \n "
 END
 
 CONTROLBAR:LW_ToolTip_ArnorFortress
-"Structure Type: Fortress\nDefends territory and recruits Heroes"
+"Type de structure : Forteresse. \n Défend le territoire et recrute les héros. \n "
 END
 
 CONTROLBAR:LW_Structure_ArnorBarracks
-"Dormitory"
+"Quartier d'Imladris"
 END
 
 CONTROLBAR:LW_ToolTipBuild_ArnorBarracks
-"Structure Type: Barracks\nTrains Elven units\n"
+"Type de structure : Caserne. \n Entraîne les unités elfes. \n"
 END
 
 CONTROLBAR:LW_ToolTip_ArnorBarracks
-"Structure Type: Barracks\nTrains Elven units"
+"Type de structure : Caserne. \n Entraîne les unités elfes."
 END
 
 CONTROLBAR:LW_Structure_ArnorBlackSmith
-"Blacksmith"
+"Forge"
 END
 
 CONTROLBAR:LW_ToolTipBuild_ArnorBlackSmith
-"Structure Type: Armoury\nGrants all upgrades to units\n"
+"Type de structure : Forge\nAccorde toutes les améliorations aux unités\n"
 END
 
 CONTROLBAR:LW_ToolTip_ArnorBlackSmith
-"Structure Type: Armoury\nGrants all upgrades to units"
+"Type de structure : Forge\nAccorde toutes les améliorations aux unités"
 END
 
 CONTROLBAR:LW_Structure_ArnorFarm
-"Orchard"
+"Verger"
 END
 
 CONTROLBAR:LW_ToolTipBuild_ArnorFarm
-"Structure Type: Orchard\nIncreases treasury\n"
+"Type de structure : Verger. \n Augmente les ressources. \n"
 END
 
 CONTROLBAR:LW_ToolTip_ArnorFarm
-"Structure Type: Orchard\nIncreases treasury\n"
+"Type de structure : Verger. \n Augmente les ressources. \n"
 END
 
 
 /////////// Arnor Units ////////////
 
 CONTROLBAR:LW_Unit_ArnorFighterHorde
-"Rivendell Soldier Battalion"
+"Bataillon de Soldats d'Imladris"
 END
 
 CONTROLBAR:LW_Unit_ArnorFighterHordePlural
-"Rivendell Soldier Battalions"
+"Bataillons de Soldats d'Imladris"
 END
 
 CONTROLBAR:LW_ToolTipBuild_ArnorFighterHorde
-"Unit Type: Basic Infantry\nStrong vs. Pikemen\n"
+"Type d'unité : Infanterie standard. \n\n Forts contre les piquiers."
 END
 
 CONTROLBAR:LW_ToolTip_ArnorFighterHorde
-"\nUnit Type: Basic Infantry\nStrong vs. Pikemen"
+"Type d'unité : Infanterie standard. \n\n Forts contre les piquiers."
 END
 
 CONTROLBAR:LW_Unit_ArnorArcherHorde
-"Rivendell Archer Battalion"
+"Bataillon d'archers de Rivendell"
 END
 
 CONTROLBAR:LW_Unit_ArnorArcherHordePlural
-"Rivendell Archer Battalions"
+"Bataillons d'archers de Rivendell"
 END
 
 CONTROLBAR:LW_ToolTipBuild_ArnorArcherHorde
-"Unit Type: Basic Archer\nStrong at Range\n"
+"Type d'unité : Archers standards. \n Fort à distance."
 END
 
 CONTROLBAR:LW_ToolTip_ArnorArcherHorde
-"\nUnit Type: Basic Archer\nStrong at Range"
+"Type d'unité : Archers standards. \n Fort à distance."
 END
 
 CONTROLBAR:LW_Unit_ArnorTowerGuardHorde
-"Rivendell Guard Battalion"
+"Bataillon de gardes de Rivendell"
 END
 
 CONTROLBAR:LW_Unit_ArnorTowerGuardHordePlural
-"Rivendell Guard Battalions"
+"Bataillons de gardes de Rivendell"
 END
 
 CONTROLBAR:LW_ToolTipBuild_ArnorTowerGuardHorde
-"Unit Type: Elite Spearmen\nStrong vs. Cavalry\n"
+"Type d'unité : Lanciers d'élite. \n\n Forts contre les cavaliers."
 END
 
 CONTROLBAR:LW_ToolTip_ArnorTowerGuardHorde
-"\nUnit Type: Elite Spearmen\nStrong vs. Cavalry"
+"Type d'unité : Lanciers d'élite. \n\n Forts contre les cavaliers."
 END
 
 CONTROLBAR:LW_Unit_ArnorKnightHorde
-"Rivendell Knight Battalion"
-END
+"Bataillon de Chevaliers d'Imladris"
+End
 
 CONTROLBAR:LW_Unit_ArnorKnightHordePlural
-"Rivendell Knight Battalions"
-END
+"Bataillons de Chevaliers d'Imladris"
+End
 
 CONTROLBAR:LW_ToolTipBuild_ArnorKnightHorde
-"Unit Type: Basic Cavalry\nStrong vs. Archers\n"
+"Type d'unité : Cavalerie standard. \n\n Forts contre les archers."
 END
 
 CONTROLBAR:LW_ToolTip_ArnorKnightHorde
-"\nUnit Type: Basic Cavalry\nStrong vs. Archers"
+"Type d'unité : Cavalerie standard. \n\n Forts contre les archers."
 END
 
 
 OBJECT:ArnorBuildingGeneral2
-"Arnor Building 2"
+"Bâtiment de l'Arnor"
 End
 
 OBJECT:ArnorBuildingGeneral3
-"Arnor Building 3"
+"Bâtiment de l'Arnor"
 End
 
 OBJECT:ArnorBuildingGeneral4
-"Arnor Building 4"
+"Bâtiment de l'Arnor"
 End
 
 OBJECT:ArnorBuildingGeneral5
-"Arnor Building 5"
+"Bâtiment de l'Arnor"
 End
 
 OBJECT:ArnorBuildingGeneral6
-"Arnor Building 6"
+"Bâtiment de l'Arnor"
 End
 
 OBJECT:ArnorBuildingGeneral7
-"Arnor Building 7"
+"Bâtiment de l'Arnor"
 End
 
 OBJECT:ArnorBuildingGeneral8
-"Arnor Building 8"
+"Bâtiment de l'Arnor"
 End
 
 OBJECT:ArnorCastleBarracks_temp
-"Arnor Barracks"
+"Caserne de l'Arnor"
 End
 
 OBJECT:ArnorCastleFoundation_temp
-"Castle Foundation"
+"Fondation du Château"
 End
 
 OBJECT:ArnorCastleKeep_temp
-"Arnor Keep"
+"Donjon d'Arnor"
 End
 
 OBJECT:ArnorCastleWallHub
-"Extension Assise"
+"Extension d'Assise"
 End
 
 OBJECT:ArnorCastleWallUpgradeNode
-"Arnor Upgrade Node"
+"Améliore le Nodus d'Arnor."
 End
 
 OBJECT:ArnorCastleWallUpgradeNodeSmall
-"Arnor Upgrade Node"
+"Améliore le Nodus d'Arnor."
 End
 
 OBJECT:ArnorCastleWall_temp
-"Arnor Wall"
+"Mur d'Arnor"
 End
 
 OBJECT:ArnorCatacombs
-"Arnor Catacombs"
+"Catacombes d'Arnor"
 End
 
 OBJECT:ArnorDenethor
@@ -51899,15 +51897,15 @@ OBJECT:ArnorDenethor
 End
 
 OBJECT:ArnorForbiddenPool
-"Forbidden Pool"
+"Lac Interdit"
 End
 
 OBJECT:ArnorHseHeal
-"House of Healing"
+"Maison de Guérison"
 End
 
 OBJECT:ArnorSilverTree
-"Silver Tree"
+"Arbre sylvestre"
 End
 
 
@@ -51928,93 +51926,93 @@ Upgrade:ArnorArrowTower
 END
 
 Upgrade:ArnorTrebuchet
-"Trebuchet"
+"Trébuchet"
 END
 
 Upgrade:ArnorArcheryRangeLevel2
-"Archery Range Level 2"
+"Archery niveau 2"
 END
 
 Upgrade:ArnorArcheryRangeLevel3
-"Archery Range Level 3"
+"Archery niveau 3"
 END
 
 Upgrade:ArnorBlacksmithLevel2
-"Blacksmith Level 2"
+"Forge niveau 2"
 END
 
 Upgrade:ArnorBlacksmithLevel3
-"Blacksmith Level 3"
+"Forge niveau 3"
 END
 
 Upgrade:ArnorBarracksLevel2
-"Barracks Level 2"
+"Quartier d'Imladris niveau 2"
 END
 
 Upgrade:ArnorBarracksLevel3
-"Barracks Level 3"
+"Quartier d'Imladris niveau 3"
 END
 
 Upgrade:ArnorStablesLevel2
-"Stables Level 2"
+"Écurie niveau 2"
 END
 
 Upgrade:ArnorStablesLevel3
-"Stables Level 3"
+"Écurie niveau 3"
 END
 
 Upgrade:ArnorWorkshopLevel2
-"Siege Works Level 2"
+"Atelier de siège niveau 2"
 END
 
 Upgrade:ArnorWorkshopLevel3
-"Siege Works Level 3"
+"Atelier de siège niveau 3"
 END
 
 OBJECT:ArnorTent
-"Tent"
+"Tente"
 END
 
 CONTROLBAR:MasterTracker
-"Master Tracker (&C)"
+"Maître Traqueur (&C)"
 END
 
 CONTROLBAR:DunedainChieftain
-"Chieftain of the Dúnedain"
+"Chef des Dúnedains"
 END
 
 CONTROLBAR:ToolTipDunedainChieftain
-"Nearby Dúnedain gain +33% attack damage \n and become immune to fear and terror\n Passive power \n \n Isildur's Heir \n Requires Level 9 and Andúril Upgrade \n Nearby Dúnedain gain +33% attack damage \n and become immune to fear and terror\n When activated, all nearby units gain +33% damage and +50% armour for 20 seconds"
+"Les Dúnedains proches gagnent +33% de dégâts et sont immunisés face à la peur. \n Capacité passive. \n\n Héritier d'Isildur. \n Requiert : Niveau 9 et l'amélioration Anduril. \n Les Dúnedains proches gagnent +33% de dégâts et sont immunisés face à la peur. \n Quand le pouvoir est activé, toutes les unités proches gagnent +33% de dégâts, 50% d'armure et sont immunisées face à la peur."
 END
 
 CONTROLBAR:AragornIsildurHeir
-"Isildur's Heir (&T)"
+"Héritier d'Isildur (&T)"
 END
 
 CONTROLBAR:ToolTipFellowshipAragornIsildurHeir
-"Nearby Dúnedain gain +33% attack damage and become immune to fear and terror\n Passive power \n\n Active ability: Requires Level 9 and Andúril \n When activated, all nearby units gain +33% damage and +50% armour for 20 seconds"
+"Les Dúnedains à proximité bénéficient d'une augmentation de +33% des dégâts d'attaque et deviennent immunisés contre la peur et la terreur \n Pouvoir passif \n\n Capacité active : Nécessite le niveau 9 et Andúril \n Lorsqu'elle est activée, toutes les unités à proximité bénéficient d'une augmentation de +33% des dégâts et de +50% de l'armure pendant 20 secondes"
 END
 
 CONTROLBAR:IsildurHeir_LAS
-"Heir of Númenor (&W)"
+"Héritier de Númenor (&W)"
 END
 
 CONTROLBAR:ToolTipIsildurHeir_LAS
-"Requires Level 3\nModifier Type: Spell\n When activated, all nearby units gain +33% damage and and immunity to fear and terror for 20 seconds"
+"Requiert le niveau 3 \n Type de modification : Sort \n Lorsqu'il est activé, toutes les unités à proximité bénéficient d'une augmentation de +33% des dégâts et d'une immunité contre la peur et la terreur pendant 20 secondes"
 END
 
 CONTROLBAR:ArnorAragornBlademaster
-"A Fire Shall Be Woken (&V)"
+"Le feu doit être ravivé (&V)"
 END
 
 CONTROLBAR:TooltipArnorAragornBlademaster
 //"Requires Level 2 \n Aragorn temporarily gains +100% damage and +100% armour \n Left click to activate"
 //"Requires Level 3 \n Aragorn temporarily gains +100% damage and +100% armour \n Left click to activate"
-"Requires Level 6 \n Aragorn wields a torch and deals knockback damage \n Aragorn gains +75% damage and +25% armour for 30 seconds\n While the ability is active, nearby heroes gain +15% armour \n Can only use with sword equipped \n Left click to activate"
+"Requiert le niveau 6 \n Aragorn brandit une torche et inflige des dégâts de recul \n Aragorn bénéficie d'une augmentation de +75% des dégâts et de +25% de l'armure pendant 30 secondes \n Pendant que la capacité est active, les héros à proximité gagnent +15% d'armure \n Peut être utilisé uniquement avec une épée équipée \n Cliquez gauche pour activer"
 END
 
 CONTROLBAR:FellowshipAragornBlademaster
-"Faithful Protector (&T)"
+"Protecteur fidèle"
 END
 
 CONTROLBAR:TooltipFellowshipAragornBlademaster
@@ -52026,25 +52024,25 @@ END
 CONTROLBAR:TooltipFellowshipStriderBlademaster
 //"Requires Level 2 \n Aragorn temporarily gains +100% damage and +100% armour \n Left click to activate"
 //"Requires Level 3 \n Aragorn temporarily gains +100% damage and +100% armour \n Left click to activate"
-"Requires Level 5 \n Strider gains +100% damage, +100% armour, and wields a torch for 30 seconds\nCan only use with sword equipped\nLeft click to activate"
+"Requiert le niveau 5 \n Aragorn bénéficie d'une augmentation de +100% des dégâts, +100% de l'armure et inflige des dégâts de feu pendant 30 secondes \n Peut être utilisé uniquement avec une épée équipée \n Cliquez gauche pour activer"
 END
 
 CONTROLBAR:ToolTipMasterTrackerAbility
 //"Requires Level 2 \n Aragorn temporarily gains +100% damage and +100% armour \n Left click to activate"
 //"Requires Level 3 \n Aragorn temporarily gains +100% damage and +100% armour \n Left click to activate"
-"Requires Level 3 \nModifier Type: Spell\nAragorn gains +150% vision range, +25% range and +15% speed while nearby allies gain +15% movement speed for 25 seconds\nLeft click to activate"
+"Requiert le niveau 3 \nType de modification : Sort \nAragorn bénéficie d'une augmentation de +150% de la portée de vision, +25% de la portée et +15% de la vitesse tandis que les alliés à proximité bénéficient d'une augmentation de +15% de la vitesse de déplacement pendant 25 secondes \nCliquez gauche pour activer"
 END
 
 CONTROLBAR:ToolTipMasterTrackerLeadership
 //"Requires Level 4 \n Allies near Aragorn gain \n +50% damage, +50% armour, \n and earn experience twice as fast \n \n Passive ability       Does not stack"
 //"Requires Level 4 \n Allies near Aragorn gain \n +33% damage, +33% armour, \n and earn experience twice as fast \nPassive ability"
-"Requires Level 3 \n Aragorn and nearby allies gain +15% movement speed \n\n When using his bow \n Aragorn gains +150% vision range and +25% range for 25 seconds\nPassive ability"
+"Requiert le niveau 3 \nAragorn et les alliés à proximité bénéficient d'une augmentation de +15% de la vitesse de déplacement\n\nLorsqu'il utilise son arc\nAragorn bénéficie d'une augmentation de +150% de la portée de vision et de +25% de la portée pendant 25 secondes\nCapacité passive"
 END
 
 CONTROLBAR:ToolTipAragornIsildurLeadership
 //"Requires Level 4 \n Allies near Aragorn gain \n +50% damage, +50% armour, \n and earn experience twice as fast \n \n Passive ability       Does not stack"
 //"Requires Level 4 \n Allies near Aragorn gain \n +33% damage, +33% armour, \n and earn experience twice as fast \nPassive ability"
-"Requires Level 9 \n Allies near Aragorn gain \n +50% damage and become immune to fear \n Aragorn gains Andúril \nPassive ability"
+"Requiert le niveau 9 \n Les alliés à proximité d'Aragorn bénéficient \n d'une augmentation de +50% de dégâts et deviennent immunisés contre la peur \n Aragorn obtient Andúril \nCapacité passive"
 END
 ////////////////////////// ANGMAR UNITS //////////////////////////////////////////
 
@@ -52053,11 +52051,11 @@ END
 // Angmar Units
 
 OBJECT:Angmarnecromancer
-"Sorcerer"
+"Sorcier"
 END
 
 OBJECT:AngmarMenOfDale
-"Men of Dale"
+"Hommes de Dale"
 END
 
 OBJECT:AngmarBanner
@@ -52065,18 +52063,18 @@ OBJECT:AngmarBanner
 END
 
 OBJECT:HordeAngmarDarkDunedain
-"Black Númenóreans"
+"Númenóréens Noirs"
 END
 
 OBJECT:HordeAngmarRanger
-"Dark Rangers"
+"Rôdeurs Noirs"
 END
 
-CONTROLBAR:AngmarWitchKingRecruit
-"Recruit the Lord of Angmar\n\n'In rode the Lord of the Nazgûl. A great black shape against the fires beyond he loomed up, grown to a vast menace of despair. In rode the Lord of the Nazgûl, under the archway that no enemy ever yet had passed, and all fled before his face.'"
+CONTROLBAR:RecrutementRoiSorcierAngmar
+"Recrutez le Seigneur d'Angmar\n\n'Le Seigneur des Nazgûl chevaucha. Une grande silhouette noire se dressa devant les flammes, devenue une vaste menace de désespoir. Le Seigneur des Nazgûl chevaucha, sous la voûte que nul ennemi n'avait encore franchie, et tous fuirent devant lui.'"
 END
 CONTROLBAR:AngmarWitchKingRevive
-"Revive the fallen Hero, The Witch-king"
+"Rappelez Le Roi-Sorcier à la vie"
 END
 
 APT:Angmar
@@ -52096,64 +52094,62 @@ END
 
 BANNERUI:AngmarDireWolf
 // Singluar name of the Angmar Guardian category displayed in the army summary for WotR
-"Angmar Dire Wolf"
+"Affreux Loup d'Angmar"
 End
 
 BANNERUI:AngmarDireWolves
-// Plural name of the Angmar Guardian category displayed in the army summary for WotR
-"Angmar Dire Wolves"
+"Affreux Loup d'Angmar"
 End
 
 BANNERUI:AngmarSnowTroll
 // Singluar name of the Angmar Guardian category displayed in the army summary for WotR
-"Snow-troll"
-End
+"Troll des neiges"
+END
 
 BANNERUI:AngmarSnowTrolls
 // Plural name of the Angmar Guardian category displayed in the army summary for WotR
-"Snow-trolls"
+"Trolls des neiges"
 End
 
 BANNERUI:AngmarHillTroll
 // Singluar name of the Angmar Guardian category displayed in the army summary for WotR
-"Angmar Hill Troll"
+"Trolls des collines d'Angmar"
 End
 
 BANNERUI:AngmarHillTrolls
-// Plural name of the Angmar Guardian category displayed in the army summary for WotR
-"Angmar Hill Trolls"
+"Trolls des collines d'Angmar"
 End
 
 BANNERUI:AngmarNecromancer
 // Singluar name of the Angmar Guardian category displayed in the army summary for WotR
-"Sorcerer"
-End
+"Sorcier"
+END
 
 BANNERUI:AngmarNecromancers
 // Plural name of the Angmar Guardian category displayed in the army summary for WotR
-"Sorcerers"
+"Sorciers"
 End
 
 BANNERUI:AngmarTrollSling
 // Singluar name of the Angmar Guardian category displayed in the army summary for WotR
 //"Angmar Troll Stone Thrower"
-"Wild Troll Stone Thrower"
+"Lanceur de pierres Troll sauvage"
 End
 
 BANNERUI:AngmarTrollSlings
 // Plural name of the Angmar Guardian category displayed in the army summary for WotR
 //"Angmar Troll Stone Throwers"
-"Wild Troll Stone Throwers"
+"Lanceurs de pierres Troll sauvages"
 End
 
 BANNERUI:AngmarThrallMaster
 // Singluar name of the Angmar Guardian category displayed in the army summary for WotR
-"Angmar Thrall Master"
+"Maître des Esclaves"
 End
 
 BANNERUI:AngmarThrallMasters
 // Plural name of the Angmar Guardian category displayed in the army summary for WotR
-"Angmar Thrall Masters"
+"Maîtres des Esclaves d'Angmar"
 End
 
 LWA:Angmar
@@ -52161,284 +52157,269 @@ LWA:Angmar
 End
 
 LWA:AngmarArmy
-"Angmar Army"
+"Armée d'Angmar"
 End
 
 LWA:AngmarHeroArmy
-"Angmar Hero Army"
+"Armée de héros d'Angmar"
 End
 
 LWA:AngmarGarrison
-"Angmar Garrison Army"
+"Armée de Garnisson d'Angmar"
 End
 
 ////Haradwaith////
 
-LWA:HaradwaithGarrison
-"Haradwaith Garrison Army"
+LWA:GarnisonHaradwaith
+"Garnison du Harad"
 End
 
-LWA:HaradwaithHeroArmy
-"Haradwaith Hero Army"
+LWA:ArméeHérosHaradwaith
+"Armée de Héros des Haradrims"
 End
 
 LWA:Haradwaith
-"Haradwaith"
+"Terres des Haradrims"
 End
 
 ////Angmar Units////
 
 CONTROLBAR:LW_Unit_AngmarDarkDunedainHorde
-"Black Númenórean Warrior Horde"
+"Horde de Númenóréens noirs"
 END
 
 CONTROLBAR:LW_Unit_AngmarDarkDunedainHordePlural
-"Black Númenórean Warrior Hordes"
+"Hordes de Númenóréens noirs"
 END
 
 CONTROLBAR:LW_ToolTipBuild_AngmarDarkDunedainHorde
-"Unit Type: Elite Swordsmen\nStrong vs. Pikemen\n"
+"Type d'unité : Epéistes d'élite.\n\n Forts contre les piquiers\n "
 END
 
 CONTROLBAR:LW_Unit_AngmarDarkRangerHorde
-"Dark Ranger Horde"
+"Horde de Rôdeurs Noirs"
 END
 
 CONTROLBAR:LW_Unit_AngmarDarkRangerHordePlural
-"Dark Ranger Hordes"
+"Hordes de Rôdeur Noir "
 END
 
 TOOLTIP:LackLevel2HallOfKingsMen
-"Requires Level 2 Hall of the King's Men"
+"Requiert : niveau 2 La Salle du Roi des Hommes"
 END
 
 TOOLTIP:LackLevel3HallOfKingsMen
-"Requires Level 3 Hall of the King's Men"
+"Requiert : niveau 3 La Salle du Roi des Hommes"
 END
 
 CONTROLBAR:ConstructAngmarDen
-//"Build Troll and Wolf &Den"
-"Build Mahûd Outpost (&C)"
+"Construire un Avant-Poste Mahûd (&C)"
 END
 
 OBJECT:AngmarDenDescription
-"Niveau 2 : vitesse de construction +10%. \n Niveau 3 : vitesse de construction +25%."
+"Niveau 2 : vitesse de construction +10% \n Niveau 3 : vitesse de construction +25%"
 END
 
 CONTROLBAR:UpgradeAngmarDenLevel2
-"&Upgrade Den to Level 2"
+"Améliore La Tanière au niveau 2"
 End
 
 CONTROLBAR:UpgradeAngmarDenLevel3
-"&Upgrade Den to Level 3"
+"Améliore La Tanière au niveau 3"
 End
 
 Upgrade:AngmarDenLevel2
-"Troll and Wolf Den Level 2"
+"Le Repaire de Troll et de La Tanière de Loup niveau 2"
 END
 
 Upgrade:AngmarDenLevel3
-"Troll and Wolf Den Level 3"
+"Le Repaire de Troll et de La Tanière de Loup niveau 3"
 END
 
 OBJECT:AngmarDireWolf
-"Dire Wolf"
+"Affreux Loup"
 END
 
 OBJECT:HordeAngmarDireWolf
-"Dire Wolf Pack"
+"Meute d'Affreux Loup"
 END
 
 OBJECT:AngmarSnowTroll
-"Snow-troll"
-END
+"Troll des neiges"
+End
 
 OBJECT:HordeAngmarSnowTroll
-"Snow-trolls"
+"Trolls des neiges"
 END
 
 OBJECT:AngmarHillTroll
-"Hill Troll"
+"Troll des collines"
 END
 
 OBJECT:HordeAngmarHillTroll
-"Hill Trolls"
+"Trolls des collines"
 END
 
 CONTROLBAR:LW_ToolTipBuild_AngmarHillTrollHorde
-"Unit Type: Elite Pikeman\nStrong vs. Cavalry\n"
+"Type d'unité : Piquiers d'Elite \n\n Forts contre les cavaliers"
 END
 
 CONTROLBAR:ConstructHallofTwilight
-"Build &Temple of Twilight"
+"Construire une Temple du Crépuscule"
 END
 
 OBJECT:AngmarHallofTwilightDescription
-"Niveau 2 : vitesse de construction +10%. \n Niveau 3 : vitesse de construction +25%."
+"Niveau 2 : vitesse de construction +10%\n Niveau 3 : vitesse de construction +25%"
 END
 
 CONTROLBAR:ToolTipAngmarHallofTwilight
-"Trains Sorcerers"
+"Forme des Sorciers"
 END
 
 CONTROLBAR:TooltipUpgradeAngmarHallofTwilightLevel2
-"Allows Sorcerer Spell Research\n +10% faster build speed"
+"Permet une recherche de Sort de Sorcier \n Vitesse de construction +10%"
 End
 
 CONTROLBAR:TooltipUpgradeAngmarHallofTwilightLevel3
-"Allows Advanced Sorcerer Spell Research\n +25% faster build speed"
+"Permet une recherche avancée de Sort de Sorcier \n Vitesse de construction +25%"
 End
 
 CONTROLBAR:UpgradeAngmarHallofTwilightLevel2
-"&Upgrade Temple of Twilight to Level 2"
+"Améliore le Temple du Crépuscule au niveau 2"
 End
 
 CONTROLBAR:UpgradeAngmarHallofTwilightLevel3
-"&Upgrade Temple of Twilight to Level 3"
+"Améliore le Temple du Crépuscule au niveau 3"
 End
 
 Upgrade:AngmarHallofTwilightLevel2
-"Temple of Twilight Level 2"
+"Temple du Crépuscule niveau 2"
 END
 
 Upgrade:AngmarHallofTwilightLevel3
-"Temple of Twilight Level 3"
+"Temple du Crépuscule niveau 3"
 END
 
 OBJECT:AngmarNecromancer
-"Sorcerer"
+"Sorcier"
 END
 
 OBJECT:HordeAngmarNecromancer
-"Sorcerer"
+"Sorcier"
 END
 
 CONTROLBAR:ConstructAngmarForgeWorks
-"Build Pavilion of the Golden King (&M)"
+"Construire le Pavillon du Roi Doré (&M)"
 END
 
 CONTROLBAR:ConstructAngmarForgeWorksWotRRealTime
-"Build Pavilion of the Golden King (&T)"
+"Construire le Pavillon du Roi Doré (&T) en temps réel"
 END
 
 OBJECT:AngmarForgeWorksDescription
-"Niveau 2 : vitesse de construction +10%. \n Niveau 3 : vitesse de construction +25%."
+"Niveau 2 : vitesse de construction +10%\n Niveau 3 : vitesse de construction +25%"
 END
 
 CONTROLBAR:ToolTipForgeWorks
-"Trains Troll Stone Throwers and Researches Tech Upgrades"
+"Forme des Trolls lanceurs de pierress et recherche des améliorations technologiques"
 END
 
 CONTROLBAR:UpgradeAngmarForgeWorksLevel2
-//"&Upgrade Dark Iron Forge to Level 2"
-"Upgrade Pavilion of the Golden King to Level 2 (&A)"
+"Améliorer le Pavillon du Roi Doré au niveau 2 (&A)"
 End
 
 CONTROLBAR:UpgradeAngmarForgeWorksLevel3
-//"&Upgrade Dark Iron Forge to Level 3"
-"Upgrade Pavilion of the Golden King to Level 3 (&A)"
+"Améliorer le Pavillon du Roi Doré au niveau 3 (&A)"
 End
 
 Upgrade:AngmarForgeWorksLevel2
-"Dark Iron Forge Level 2"
+"Forge des Ténèbres niveau 2"
 END
 
 Upgrade:AngmarForgeWorksLevel3
-"Dark Iron Forge Level 3"
+"Forge des Ténèbres niveau 3"
 END
 
 OBJECT:AngmarTrollSling
-"Troll Stone Thrower"
+"Trolls lanceurs de pierres"
 END
 
 OBJECT:HordeAngmarTrollSling
-"Troll Stone Thrower"
+"Trolls lanceurs de pierres"
 END
 
 CONTROLBAR:LW_Unit_AngmarTrollSling
-"Troll Stone Thrower"
+"Trolls lanceurs de pierres"
 END
 
 CONTROLBAR:LW_Unit_AngmarTrollSlingPlural
-"Troll Stone Throwers"
+"Trolls lanceurs de pierres"
 END
 
 CONTROLBAR:LW_Unit_AngmarThrallMaster
-"Thrall Master"
+"Maître des Esclaves"
 END
 
 CONTROLBAR:LW_Unit_AngmarThrallMasterPlural
-"Thrall Masters"
+"Maîtres des Esclaves"
 END
 
 OBJECT:AngmarMillDescription
-"Niveau 2 : vitesse de construction +10%. \n Niveau 3 : vitesse de construction +25%."
+"Niveau 2 : vitesse de construction +10%\n Niveau 3 : vitesse de construction +25%"
 END
 
 CONTROLBAR:ToolTipMill
-"Generates Resources"
+"Génère des Ressources"
 END
 
 /////// Angmar LW Structures ///////
 
 CONTROLBAR:LW_ToolTipBuild_AngmarFortress
-"Structure Type: Fortress\nDefends territory and recruits Heroes\n"
+"Type de structure : Forteresse \n Défend le territoire et recrute les héros."
 END
 
 CONTROLBAR:LW_ToolTip_AngmarFortress
-"Structure Type: Fortress\nDefends territory and recruits Heroes"
+"Type de structure : Forteresse \n Défend le territoire et recrute les héros."
 END
 
 CONTROLBAR:PurchaseUpgradeAngmarFortressBanners
-"&Banners of the Eye"  
+"Bannières du grand oeil"  
 END
 
 CONTROLBAR:LW_Structure_AngmarBarracks
-//"Hall of the King's Men"
 "Haradrim Wartent"
 END
 
 CONTROLBAR:LW_ToolTipBuild_AngmarBarracks
-//"Structure Type: Barracks\nTrains Angmar units\n"
-//"Battle Template: Harondor Outpost\n\nStructure Type: Basic Barracks\nTrains Haradwaith basic units\n"
-"Battle Bonus: unit replenishment around the citadel \n\nStructure Type: Basic Barracks\nTrains Haradwaith basic units\n"
+"Bonus de combat : réapprovisionnement des unités autour de la citadelle\n\nType de structure : Caserne basique\nEntraîne les unités de base des Haradwaith\n"
 END
 
 CONTROLBAR:LW_ToolTip_AngmarBarracks
-//"Structure Type: Barracks\nTrains Angmar units"
-//"Battle Template: Harondor Outpost\n\nStructure Type: Basic Barracks\nTrains Haradwaith basic units"
-"Battle Bonus: unit replenishment around the citadel \n\nStructure Type: Basic Barracks\nTrains Haradwaith basic units\n"
+"Bonus de combat : réapprovisionnement des unités autour de la citadelle\n\nType de structure : Caserne basique\nEntraîne les unités de base des Haradwaith"
 END
 
 CONTROLBAR:LW_Structure_AngmarBlackSmith
-//"Dark Iron Forge"
-"Golden King's Encampment"
+"Campement du Roi Doré"
 END
 
 CONTROLBAR:LW_ToolTipBuild_AngmarBlackSmith
-//"Structure Type: Armoury\nGrants all upgrades to units\n"
-//"Battle Template: Pavilion of the Golden King\n\nStructure Type: Elite Barracks\nTrains Haradwaith elite units"
-"Battle Bonus: +20% faster unit production\n\nStructure Type: Elite Barracks\nTrains Haradwaith elite units"
+"Bonus de combat : production d'unités 20% plus rapide\n\nType de structure : Caserne d'élite\nEntraîne les unités d'élite des Haradwaith"
 END
 
 CONTROLBAR:LW_ToolTip_AngmarBlackSmith
-//"Structure Type: Armoury\nGrants all upgrades to units"
-//"Battle Template: Pavilion of the Golden King\n\nStructure Type: Elite Barracks\nTrains Haradwaith elite units"
-"Battle Bonus: +20% faster unit production\n\nStructure Type: Elite Barracks\nTrains Haradwaith elite units"
+"Bonus de combat : production d'unités 20% plus rapide\n\nType de structure : Caserne d'élite\nEntraîne les unités d'élite des Haradwaith"
 END
 
 CONTROLBAR:LW_Structure_AngmarFarm
-//"Mill"
-"Bazaar"
+"Bazar"
 END
 
 CONTROLBAR:LW_ToolTipBuild_AngmarFarm
-//"Structure Type: Farm\nIncreases treasury\n"
-"Bonus de combat : +20% de production de ressources plus rapide\n\nType de structure : Ferme\nAugmente le trésor\n"
+"Bonus de combat : production de ressources 20% plus rapide\n\nType de structure : Ferme\nAugmente le trésor\n"
 END
 
 CONTROLBAR:LW_ToolTip_AngmarFarm
-//"Structure Type: Farm\nIncreases treasury\n"
+
 "Bonus de combat : +20% de production de ressources plus rapide\n\nType de structure : Ferme\nAugmente le trésor\n"
 END
 
@@ -52448,122 +52429,121 @@ END
 ////////////////////////
 
 CONTROLBAR:ConstructAngmarStoneThrowerExpansion
-"Troll Stone Thrower Expansion (&R)"
+"Extension Trolls lanceurs de pierres (&R)"
 END
 
 CONTROLBAR:ToolTipConstructAngmarStoneThrowerExpansion
-"Long range defensive weapon"
+"Arme défensive à longue portée"
 END
 
 CONTROLBAR:ConstructAngmarBattleTowerExpansion
-"Battle &Tower Expansion"
+"Extension d'une Tour de guerre"
 END
 
 CONTROLBAR:ToolTipConstructAngmarBattleTowerExpansion
-"Construct Battle Tower Expansion"
+"Construit une Extension d'une Tour d'archers"
 END
 
 CONTROLBAR:ConstructAngmarKennelExpansion
-"Dire Wolf &Kennel Expansion"
+"Extension d'une Niche d'Affreux Loups"
 END
 
 CONTROLBAR:ToolTipConstructAngmarKennelExpansion
-"Construct Dire Wolf Kennel Expansion"
+"Construit une Extension d'une Niche d'Affreux Loups"
 END
 
 CONTROLBAR:Command_ConstructAngmarWallHubExpansion
-"&Wall Hub Expansion"
+"Extension d'Assise"
 END
 
 CONTROLBAR:TooltipCommand_ConstructAngmarWallHubExpansion
-"Construct Wall Hub Expansion"
+"Construit une Extension d'Assise"
 END
 
 CONTROLBAR:PurchaseUpgradeAngmarFortressIceWalls
-"Ice &Walls"
+"Mur de Glace"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeAngmarFortressIceWalls
-"Increases Fortress and Wall armour by 65% \n Prerequisite for the Witch-king's Sanctum"
+"Fournit une armure supplémentaire à la Forteresse et aux Murs de 65% \n Prérequis pour Le Sanctuaire du Roi-Sorcier"
 END
 
 CONTROLBAR:PurchaseUpgradeAngmarFortressIceMunitions
-"Ice &Munitions"
+"Munitions de Glace"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeAngmarFortressIceMunitions
-"Adds frost damage to all attached Towers and Stone Throwers"
+"Ajoute des dégâts de Gel à toutes les Tours et Lanceurs de Pierres attachés"
 END
 
 CONTROLBAR:PurchaseUpgradeAngmarFortressSpikes
-"S&pike Moat"
+"Fosse à pointe"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeAngmarFortressSpikes
-"Damages enemy units adjacent to the Fortress"
+"Endommages les unités ennemies adjacentes à la Forteresse"
 END
 
 CONTROLBAR:PurchaseUpgradeAngmarFortressHouseOfLamentation
-"House of &Lamentation"
+"Maison des Lamentations"
 END
 
 CONTROLBAR:PurchaseUpgradeAngmarFortressSanctum
-"Witch-king's San&ctum"
+"Le Sanctuaire du Roi-Sorcier"
 END
 
 TOOLTIP:LackSanctumAngmarIceWalls
-"Requires the Angmar Ice Wall upgrade \n Constructs the Witch-king's Sanctum"
+"Requiert : Amélioration du Mur de Glace d'Angmar \n Construction du Sanctuaire du Roi-Sorcier"
 END
 
 OBJECT:AngmarForgeWorks
-"Dark Iron Forge"
+"Forge des Ténèbres"
 END
 
 OBJECT:AngmarBarracks
-//"Hall of the King's Men"
-"Harondor Outpost"
+"Poste d'Harondor"
 END
 
 CONTROLBAR:ConstructHaradwaithSentryTower
-"Build Desert Lookout (&Y)"
+"Construire un belvédère dans le désert (&Y)"
 END
 
 CONTROLBAR:HaradBattleTowerGarrison
-"Sentry (&W)"
+"Sentinelle (&W)"
 END
 
 CONTROLBAR:PurchaseUpgradeHaradSentryTowerFireArrows
-"Fire Arrows (&E)"
+"Flèches enflammées (&E)"
 END
 
 OBJECT:AngmarHallofTwilight
-"Temple of Twilight"
+"Temple du Crépuscule"
 END
 
 OBJECT:AngmarDen
-"Troll and Wolf Den"
+"Le Repaire de Troll et de La Tanière de Loup"
 END
 
 OBJECT:HaradTower
-"Desert Lookout"
+"Belvédère du désert"
 END
 
 OBJECT:SouthronSentry
-"Sentry Tower"
+"Tour de sentinelle"
 END
 
 
 OBJECT:AngmarBarracksDescription
-"Niveau 2 : vitesse de construction +10%. \n Niveau 3 : vitesse de construction +25%."
+"Niveau 2 : vitesse de construction +10%\n Niveau 3 : vitesse de construction +25%"
 END
 
 OBJECT:AngmarHallofTwilightDescription
-"Niveau 2 : vitesse de construction +10%. \n Niveau 3 : vitesse de construction +25%."
+"Niveau 2 : vitesse de construction +10%\n Niveau 3 : vitesse de construction +25%"
 END
 
 
 OBJECT:AngmarMill
-"Mill"
+"Moulin"
 END
 
 OBJECT:AngmarFortress
@@ -52571,25 +52551,23 @@ OBJECT:AngmarFortress
 END
 
 OBJECT:AngmarFortressDescription
-"Recruits Builders and Heroes \n Can be upgraded with improvements and expansions"
+"Recrute des héros et des bâtisseurs.\n Peut recevoir des améliorations."
 END
 
 
 OBJECT:AngmarSentryTower
-"Battle Tower"
+"Tour d'archers d'Angmar"
 END
 
 CONTROLBAR:ToolTipConstructAngmarSentryTower
 "Tire des flèches sur les ennemis proches. \n Peut être remplie d'unités de tir à distance pour infliger plus de dégâts."
 END
 
-OBJECT:AngmarPorter
-//"Bâtisseur"
-"Architect"
+"Architecte"
 End
 
 OBJECT:HordeAngmarDarkRanger
-"Dark Rangers"
+"Rôdeurs Noirs"
 End
 
 OBJECT:AngmarMorgramir
@@ -52597,7 +52575,7 @@ OBJECT:AngmarMorgramir
 End
 
 OBJECT:AngmarDarkRanger
-"Dark Rangers"
+"Rôdeurs Noirs"
 End
 
 OBJECT:AngmarWildMissle
@@ -52605,31 +52583,31 @@ OBJECT:AngmarWildMissle
 End
 
 OBJECT:AngmarWolfRiders
-"Wolf Riders"
+"Chevaucheurs de Loup"
 End
 
 OBJECT:AngmarOrcWarrior
-"Gundabad Warrior"
+"Orque de Gundabad"
 End
 
 OBJECT:HordeAngmarOrcWarriors
-"Gundabad Warriors"
+"Orques de Gundabad"
 End
 
 OBJECT:HordeWildman
-"Wildmen of Dunland"
+"Hommes sauvages du Pays de Dun"
 End
 
 OBJECT:HordeWildmanAxeThrower
-"Wildmen Axe Throwers"
+"Lanceurs de haches du Pays de Dun"
 End
 
 OBJECT:AngmarRhudaurSpearmen
-"Rhudaur Spearmen"
+"Lanciers du Rhudaur"
 End
 
 OBJECT:AngmarRhudaurSlingers
-"Rhudaur Axe Throwers"
+"Lanceurs de haches du Rhudaur"
 End
 
 
@@ -52643,20 +52621,19 @@ OBJECT:AngmarKarsh
 End
 
 OBJECT:AngmarRogash
-"Rogash, Troll of the North"
+"Rogash, Troll du Nord"
 End
 
 OBJECT:AngmarMillHouse
-"Mill"
+"Moulin"
 End
 
 OBJECT:AngmarThrallMaster
-"Thrall Master"
+"Maître des Esclaves"
 End
 
-
 OBJECT:ShadeofWolf
-"Shade of the Wolf"
+"Ombre du Loup"
 End
 
 
@@ -52669,11 +52646,11 @@ OBJECT:ArnorWallGate
 End
 
 OBJECT:AngmarSnowTrollHorde
-"Snow-trolls"
+"Trolls des neiges"
 End
 
 OBJECT:AngmarHillTrollHorde
-"Hill Trolls"
+"Trolls des collines"
 End
 
 OBJECT:AngmarNecroAcolyte
@@ -52681,19 +52658,19 @@ OBJECT:AngmarNecroAcolyte
 End
 
 OBJECT:AngmarNecromancerBanner
-"Sorcerer"
+"Sorcier"
 End
 
 OBJECT:HordeNecromancerGuardian
-"Sorcerer"
+"Sorcier"
 End
 
 OBJECT:AngmarCatapultExpansion
-"Troll Stone Thrower"
+"Trolls lanceurs de pierres"
 End
 
 OBJECT:AngmarCastleWallCatapult
-"Troll Stone Thrower"
+"Trolls lanceurs de pierres"
 End
 
 OBJECT:AngmarCastleWallGate
@@ -52705,7 +52682,7 @@ OBJECT:AngmarCastleWallGateSmall
 End
 
 OBJECT:AngmarKennelExpansion
-"Dire Wolf Kennel"
+"Niche d'Affreux Loup"
 End
 
 OBJECT:AngmarCastleWallHub
@@ -52717,7 +52694,7 @@ OBJECT:AngmarWallPosternGateSmall
 End
 
 OBJECT:AngmarKennelExpansion
-"Dire Wolf Kennel Expansion"
+"Expansion d'une Niche d'Affreux Loup"
 END
 
 OBJECT:AngmarCastleWallHubExpansion
@@ -52725,11 +52702,11 @@ OBJECT:AngmarCastleWallHubExpansion
 END
 
 OBJECT:AngmarBattleTowerExpansion
-"Battle Tower Expansion"
+"Tour de guerre Expansion"
 END
 
 OBJECT:AngmarBuildingFoundation
-"Building Foundation"
+"Fondation de bâtiment"
 END
 
 
@@ -52737,211 +52714,207 @@ END
 ///////////////CONTROL BAR////////////////////////////
 
 CONTROLBAR:CHILLWIND
-"Fell Wind"
+"Vent Sinistre"
 End
 
 CONTROLBAR:FROZENLAND
-"Frozen Wastes"
+"Terre Gelée"
 End
 
 CONTROLBAR:BLIGHT
-"Blight"
+"Ruine"
 End
 
 CONTROLBAR:Snowbind
-"Snow Bind"
+"Liaison de Neige"
 End
 
 CONTROLBAR:ConstructAngmarPorter
 //"Recruit Bui&lder"
-"Recruit Architect (&W)"
+"Recrutez un Architecte (&W)"
 End
 
 CONTROLBAR:AngmarMorgramirRecruit
-"Recruit the Lieutenant of Carn Dum"
+"Recrute le Lieutenant de Carn Dum"
 END
 
 CONTROLBAR:AngmarMorgramirHotkey
-"&Morgomir"
+"Morgomir"
 End
 
 CONTROLBAR:AngmarMorgramirRevive
-"Revive the fallen Hero, Morgomir"
+"Rappelez Morgomir à la vie"
 End
 
 CONTROLBAR:RogashLeap
-"&Leap"
+"Saut"
 END
 
 CONTROLBAR:RageoftheNorth
-"&Rage of the North"
+"La Rage du Nord"
 END
 
 CONTROLBAR:DarkGlory
-"Dar&k Glory"
+"Gloire Sombre"
 END
 
 CONTROLBAR:MorgramirRuin
-"&Ruin"
+"Ruines"
 END
 
 CONTROLBAR:AngmarHwaldarRecruit
-"Recruit the Traitor of Rhudaur"
+"Recrute le Traître de Rhudaur"
 END
 
 CONTROLBAR:AngmarHwaldarHotkey
-"Hwa&ldar"
+"Hwaldar"
 End
 
 CONTROLBAR:AngmarHwaldarRevive
-"Revive the fallen Hero, Hwaldar"
+"Rappelez Hwaldar à la vie"
 End
 
 CONTROLBAR:HwaldarLeadership
-"Hillmen Leadership"
+"Chef des Hommes des Collines"
 End
 
 CONTROLBAR:HwaldarBrigandage
-"Brigandage"
+"Banditisme"
 END
 
 CONTROLBAR:HwaldarSummonHillmen1
-"S&ummon Hillmen"
+"Invoque des Hommes des Collines"
 END
 
 CONTROLBAR:HwaldarSummonHillmen2
-"S&ummon Hillmen Hordes"
+"Invoque une Horde d'Hommes des Collines"
 END
 
 CONTROLBAR:ConstructAngmarMill
-//"Build &Mill"
-"Build Bazaar (&W)"
+"Construire un Bazar (&W)"
 END
 
 CONTROLBAR:ConstructAngmarBattleTower
-"Build Battle &Tower"
+"Construire une Tour de guerre"
 END
 
-CONTROLBAR:ConstructHaradTribalCampWotR
-"Build Tribal Camp (&W)"
+CONTROLBAR:ConstruireCampTribalHarad
+"Construire un Camp Tribal (&W)"
 End
 
-CONTROLBAR:ToolTipConstructHaradTribalCampWotR
-"Primary Barracks \n Trains Harondor Warlords \n Limited to 2"
+CONTROLBAR:InfoBulleConstruireCampTribalHarad
+"Barracks Principale \n Entraîne les Seigneurs de Guerre de Harondor \n Limité à 2"
 End
 
 CONTROLBAR:ConstructAngmarBarracks
 //"Build Hall of the &King's Men"
-"Build Harondor Outpost (&T)"
+"Construire l'avant-poste d'Harondor (&T)"
 End
 
 CONTROLBAR:ConstructAngmarBarracksWotRRealTime
 //"Build Hall of the &King's Men"
-"Build Harondor Outpost (&R)"
+"Construire l'avant-poste d'Harondor (&R)"
 End
 
 CONTROLBAR:ConstructAngmarHallofTwilight
 //"Build Temple of Twi&light"
-"Build Umbarian Citadel (&N)"
+"Construire une citadelle ombrienne (&N)"
 End
 
 CONTROLBAR:ConstructAngmarBarracks2Upgrade
 //"&Upgrade Hall of the King's Men to Level 2"
-"Upgrade Harondor Outpost to Level 2 (&A)"
+"Améliorer l'avant-poste d'Harondor au niveau 2 (&A)"
 End
 
 CONTROLBAR:ConstructAngmarThrallMaster
-"Thrall &Master"
+"Maîtres des Esclaves"
 End
 
 CONTROLBAR:ConstructAngmarDarkDunedainHorde
-"Black Númenórean Warriors (&E)"
+"Númenóréens Noirs (&E)"
 End
 
 CONTROLBAR:ConstructAngmarDarkRangerHorde
-"Dark &Rangers"
+"Rôdeurs Noirs"
 End
 
 CONTROLBAR:ConstructAngmarBarracksLevel3Upgrade
-//"&Upgrade Hall of the King's Men to Level 3"
-"Upgrade Harondor Outpost to Level 3 (&A)"
+"Améliore l'avant-poste d'Harondor au niveau 3 (&A)"
 End
 
 CONTROLBAR:ConstructAngmarDen2Upgrade
-//"&Upgrade Troll and Wolf Den to Level 2"
-"Upgrade Mahûd Gathering to Level 2 (&A)"
+"Améliore l'avant-poste Mahûd au niveau 2 (&A)"
 End
 
 CONTROLBAR:ConstructAngmarDen3Upgrade
-//"&Upgrade Troll and Wolf Den to Level 3"
-"Upgrade Mahûd Gathering to Level 3 (&A)"
+"Améliore l'avant-poste Mahûd au niveau 3 (&A)"
 End
 
 CONTROLBAR:ConstructAngmarDireWolfHorde
-"&Dire Wolf Pack"
+"Meute d'Affreux Loups"
 End
 
 CONTROLBAR:AngmarDireWolfHowl
-"Ho&wl"
+"Hurlement"
 END
 
 CONTROLBAR:ToolTipAngmarDireWolfHowl
-"Dire Wolves gain +150% damage \n Left click to activate"
+"Les Affreux Loups gagnent +150% dégâts. \n\n Clic gauche pour activer"
 END
 
 CONTROLBAR:ConstructAngmarSnowTrollHorde
-"Snow-trolls (&E)"
+"Trolls des Neiges (&E)"
 End
 
 CONTROLBAR:ConstructAngmarHillTrollHorde
-"Hi&ll Trolls"
+"Trolls des Collines"
 End
 
 CONTROLBAR:ThrallMasterUpgradeOrcWarriors
 //"Gundabad Wa&rriors"
-"Tribal Axemen (&R)"
+"Manieurs de haches tribaux (&R)"
 End
 
 CONTROLBAR:ThrallMasterUpgradeWolfRiders
-"&Wolf Riders"
+"Chevaucheurs de Loup"
 End
 
 CONTROLBAR:ThrallMasterUpgradeRhudaurSpearmen
-//"Rhudaur S&pearmen"
-"Tribal Spearmen (&C)"
+//"Lanciers de Rhudaur"
+"Lanciers Tribaux (&C)"
 End
 
 CONTROLBAR:ThrallMasterUpgradeRhudaurSlingers
-//"Rhudaur Axe &Throwers"
-"Tribal Bowmen (&T)"
+//"Lanceurs de Haches de Rhudaur"
+"Archers Tribaux (&T)"
 End
 
 CONTROLBAR:NecromancerDeathMask
-"Death Mask"
+"Masque de Mort"
 End
 
 CONTROLBAR:ConstructAngmarTrollSling
-"Troll &Stone Thrower"
+"Trolls lanceurs de pierres"
 End
 
 CONTROLBAR:IceArrowUpgrade
-"Oil-tipped Arrows"
+"Flèches enduites d'huile"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeAngmarIceArrows
-"Upgrades this horde with Oil-tipped Arrows \n Significantly increases the damage done by arrows"
+"Améliore cette horde avec des Flèches enduites d'huile \n Augmente considérablement les dégâts infligés par les flèches"
 END
 
 CONTROLBAR:ToolTipPurchaseTowerUpgradeAngmarIceArrows
-"Upgrades this Tower with Ice Arrows \n Significantly increases the damage done by arrows"
+"Améliore cette Tour avec des Flèches de Glace \n Augmente significativement les dégâts des flèches."
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeAngmarIceShot
-"Upgrades the Stone Thrower with Ice Shot \n Significantly increases the damage done."
+"Améliore le Lanceur de Pierre avec des Tir de Glace \n Augmente significativement les dégâts infligés."
 END
 
 CONTROLBAR:AngmarChargeAttack
-"Charge Attack (&R)"
+"Charge Meurtrière (&R)"
 End
 
 CONTROLBAR:SecondAgeChargeAttack
@@ -52949,264 +52922,262 @@ CONTROLBAR:SecondAgeChargeAttack
 End
 
 CONTROLBAR:AngmarTrollChargeAttack
-"&Charge Attack"
+"Charge Meurtrière"
 End
 
 /////////////////TOOL TIPS///////////////////////////
 
 CONTROLBAR:TooltipSnowbind
-"All Structures within the area of effect cannot produce, but are immune to damage \n Left click icon then left click on target area"
+"Toutes les structures dans la zone d'effet ne peuvent pas produire, mais sont immunisées contre les dégâts. \n\n Clic gauche sur l'icône puis clic gauche sur la zone cible"
 End
 
 CONTROLBAR:TooltipChillWind
-"Disperses enemy units from the centre of the area of effect \n Does minimal damage \n Does not affect cavalry units \n Left click icon then left click on target area"
+"Un tourbillon lugubre se manifeste et rapproche les ennemis vers le centre de la zone d'effet en infligeant de légers dégâts. \n N'affecte pas la cavalerie. \n\n Clic gauche sur l'icône puis clic gauche sur la zone cible."
 End
 
 CONTROLBAR:ToolTipConstructAngmarPorter
-"Constructs Buildings"
+"Construit des bâtiments."
 End
 
 CONTROLBAR:ToolTipConstructAngmarPorterWotR
-"Constructs Buildings\n Limited to 1"
+"Construit des bâtiments.\nLimité à 1"
 End
 
 CONTROLBAR:ToolTipHwaldarSummonHillmen2
-"Requires Level 10 \n Summons several hordes of Rhudaur Axe Throwers and Spearmen \n to fight for you \n Left click icon then left click on pathable location"
+"Requiert : Niveau 10 \n Invoque plusieurs hordes de Lanceurs de Hache de Rhudaur et de Lancier \n pour se battre pour vous \n\n Clic gauche sur l'icône puis clic gauche sur une zone praticable"
 END
 
 CONTROLBAR:ToolTipFireWeaponAngmarFortressSanctumFrostball
-"Launches an Iceball \n Left click on icon then left click on target area"
+"Lance une Boule de Glace \n\n Clic gauche sur l'icône puis clic gauche sur la zone cible"
 END
 
 CONTROLBAR:TooltipAngmarMill
-"Increases world command point limit"
+"Augmente la limite du points de commandement mondial"
 End
 
 CONTROLBAR:ToolTipBuildAngmarThrallMaster
-"Capable of summoning a variety of units to serve him"
+"Capable d'invoquer une variété d'unité pour le servir"
 End
 
 CONTROLBAR:ToolTipBuildAngmarDireWolfHorde
-"Strong vs. Pikemen"
+"Fort contreles piquiers"
 End
 
 CONTROLBAR:ToolTipPurchaseUpgradeAngmarDarkIronMail
-"Allows hordes to purchase the Bronze Cuirasses upgrade \n When equipped, significantly reduces the amount of damage taken"
+"Permet aux hordes d'acheter l'amélioration Armure lourde. Lorsqu'elle est équipée, réduit significativement les dégâts reçus."
 End
 
 CONTROLBAR:ToolTipPurchaseUpgradeAngmarDarkIronBlades
-"Allows hordes to purchase the Steel-forged Blades upgrade \n When equipped, increases the damage done by melee weapons"
+"Permet aux hordes d'acheter l'amélioration Lames de Fer des ténèbres : améliore significativement les dégâts des armes de mêlée."
 End
 
 CONTROLBAR:ToolTipLackAngmarDarkIronMail
-"Requires Level 3 Dark Iron Forge"
+"Requiert : niveau 3 Forge des Ténèbres"
 End
 
 CONTROLBAR:ToolTipLackAngmarDarkIronBlades
-"Requires Level 2 Dark Iron Forge"
+"Requiert : niveau 2 Forge des Ténèbres"
 End
 
 CONTROLBAR:TooltipThrallMasterUpgradeHaradAxemen
 //"Summon Rhudaur Spearmen to serve you \nStrong vs. Cavalry"
-"Cost: FREE \n Summon Tribal Axemen to serve you \nStrong vs. Pikemen"
+"Coût : GRATUIT \n Appelle des Haches tribales pour vous servir \n Puissants contre les piquiers"
 End
 
 CONTROLBAR:TooltipThrallMasterUpgradeRhudaurSpearmen
 //"Summon Rhudaur Spearmen to serve you \nStrong vs. Cavalry"
-"Summon Tribal Spearmen to serve you \nStrong vs. Cavalry"
+"Appelle des Lanciers tribaux pour vous servir \n Puissants contre la cavalerie"
 End
 
 CONTROLBAR:TooltipThrallMasterUpgradeRhudaurSlingers
 //"Summon Rhudaur Axe Throwers to serve you \nStrong at Range"
-"Summon Tribal Bowmen to serve you \nStrong vs. Archers and Swordsmen"
+"Appelle des Archers tribaux pour vous servir \n Puissants contre les archers et les épéistes"
 End
 
 CONTROLBAR:TooltipConstuctAngmarForgeWorks
-"Build Dark Iron Forge"
+"Construire une Forge des Ténèbres"
 End
 
 CONTROLBAR:Tooltipbuild AngmarTrollSling
-"Troll Stone Thrower"
+"Trolls lanceurs de pierres"
 End
 
 CONTROLBAR:AngmarRogashRecruit
-"Recruit the mighty Troll of the North"
+"Recrute Le Puissant Troll du Nord"
 END
 
 CONTROLBAR:AngmarRogashHotkey
-"Ro&gash"
+"Rogash"
 End
 
 CONTROLBAR:AngmarRogashRevive
-"Revive the fallen Hero, Rogash"
+"Rappelez Rogash à la vie"
 End
 
 CONTROLBAR:AngmarKarshRecruit
-"Recruit the Whispering Wraith of Angmar"
+"Recrute Le Spectre des murmures d'Angmar"
 END
 
 CONTROLBAR:AngmarKarshRevive
-"Revive the fallen Hero, Karsh"
+"Rappelez Karsh à la vie"
 End
 
 CONTROLBAR:AngmarKarshHotkey
-"&Karsh"
+"Karsh"
 End
 
 CONTROLBAR:ConstructAngmarNecromancerHorde
-"So&rcerer"
+"Sorcier"
 End
 
 CONTROLBAR:TooltipBuildAngmarNecromancerHorde
-"Battlefield Support Unit"
+"Unité de soutien du champ de bataille"
 End
 
 CONTROLBAR:ConstructAngmarHallofTwilight2Upgrade
-//"&Upgrade Temple of Twilight to Level 2"
-"Upgrade Umbarian Citadel to Level 2 (&A)"
+//"Améliore Temple du Crépuscule au niveau 2"
+"Améliore la citadelle ombarienne au niveau 2 (&A)"
 End
 
 CONTROLBAR:ConstructAngmarHallofTwilightLevel3Upgrade
-//"&Upgrade Temple of Twilight to Level 3"
-"&Upgrade Umbarian Citadel to Level 3"
+//"Améliore Temple du Crépuscule au niveau 3"
+"Améliore la citadelle ombarienne au niveau 3 (&A)"
 End
 
 CONTROLBAR:PurchaseTechnologyAngmarSoulFreeze
-"Soul Freeze"
+"Prison de Glace"
 End
 
 CONTROLBAR:PurchaseTechnologyAngmarWellOfSouls
-"Well of Souls"
+"Puits des Âmes"
 End
 
 CONTROLBAR:PurchaseTechnologyAngmarCorpseRain
-"Corpse Rain"
+"Pluie de Cadavres"
 End
 
 TOOLTIP:LackLevel2HallOfTwilight
-"Requires Level 2 Temple of Twilight"
+"Requiert : niveau 2 Temple du Crépuscule"
 End
 
 TOOLTIP:LackLevel3HallOfTwilight
-"Requires Level 2 Sanctum of Zigûr \n \n Allows Cultists to specialize in the Spirit of Zigûr power\n \n Zigûr Cultists are consumed by a sudden burst of expanding flame"
+"Requiert le Sanctuaire de Zigûr de niveau 2 \n \n Permet aux Cultistes de se spécialiser dans le pouvoir de l'Esprit de Zigûr\n \n Les Cultistes de Zigûr sont consumés par une soudaine explosion de flammes"
 End
 
 CONTROLBAR:TooltipBuildAngmarTrollSling
-"Requires Level 3 Moria Cave \n Cave Troll powered Siege weapon \n Only 6 allowed at any time \n Strong vs. Structures"
+"Requiert la Caverne de Moria de niveau 3 \n Arme de siège alimentée par les Trolls des Cavernes \n Seulement 6 autorisés à la fois \n Puissants contre les structures"
 End
 
 CONTROLBAR:SpecialAbilityChillSoul
-"Chill Soul"
+"Aura Glaciale"
 End
 
 CONTROLBAR:WhisperofDeath
-"&Whisper of Death"
+"Murmure Fatal"
 End
 
 TOOLTIP:PurchaseUpgradeAngmarDarkIronMail
-"Allows hordes to purchase the Heavy Armour upgrade \n When equipped, significantly reduces the amount of damage taken"
+"Permet aux hordes d'acheter l'amélioration Armure lourde. Lorsqu'elle est équipée, réduit significativement les dégâts reçus."
 End
 
 TOOLTIP:PurchaseUpgradeAngmarDarkIronBlades
-"Allows hordes to purchase the Dark Iron Blades upgrade \n When equipped, increases the damage done by melee weapons"
+"Permet aux hordes d'acheter l'amélioration Lames de Fer des ténèbres upgrade : améliore significativement les dégâts des armes de mêlée."
 End
 
 CONTROLBAR:NecroBlackIce
-"Black &Ice"
+"Glace Noire"
 End
 
 CONTROLBAR:NecroFellStrength
-"Fell S&trength"
+"Force Cruelle"
 End
 
 CONTROLBAR:NecroSoulFreeze
-"Sou&l Freeze"
+"Prison de Glace"
 End
 
 CONTROLBAR:PurchaseUpgradeSoulFreeze
-"Sou&l Freeze"
+"Prison de Glace"
 End
 
 CONTROLBAR:ToolTipPurchaseUpgradeAngmarSoulFreeze
-//"Allows Specialization in the Soul Freeze power \n This makes units in the radius immobile but invulnerable for a short time. \n The Sorcerer can specialize in only one power."
-"Allows Specialization in the Soul Freeze power \n This makes units in the radius immobile but invulnerable for a short time. \n The Sorcerer can specialize in one power only"
+"Permet une spécialisation dans le pouvoir Prison de Glace \n Cela rend les unitésdans le rayon immobiles mais invulnérables pendant une courte période.\n Le Sorcier ne peut se spécialiser que dans un seul pouvoir."
 End
 
 CONTROLBAR:ToolTipNecroSoulFreeze
-"Affected Units are frozen and cannot move, attack or receive upgrades \n Left click icon then left click on target area"
+"Les unités affectées sont gelées et ne peuvent pas se déplacer, attaquer  ourecevoir des améliorations. \n\n Clic gauche sur l'icône puis clic gauche sur la zone cible"
 End
 
 TOOLTIP:AngmarSoulFreeze
-"Hearts of Fire"
+"Cœurs de feu"
 End
 
 CONTROLBAR:NecroWellOfSouls
-"&Well of Souls"
+"&Puits des Âmes"
 End
 
 CONTROLBAR:PurchaseUpgradeWellOfSouls
-"&Well of Souls"
+"&Puits des Âmes"
 End
 
 TOOLTIP:AngmarWellOfSouls
-"Zealotry"
+"Fanatisme"
 End
 
 CONTROLBAR:NecroCorpseRain
-"&Corpse Rain"
+"&Pluie de Cadavres"
 End
 
 CONTROLBAR:SanctumMelkorRuin
-"Blessing of Belegûr (&D)"
+"Bénédiction de Belegûr (&D)"
 End
 
 CONTROLBAR:ToolTipSanctumMelkorRuin
-"Requires Level 3 Sanctum of Zigûr and four full battalions of Zigûr Cultists \n Sacrifice all cultists on the battlefield to summon the wrath of Melkor\n Left click icon and then left click on target location"
+"Requiert le Niveau 3 du Sanctum de Zigûr et quatre bataillons complets de Cultistes de Zigûr \n Sacrifie tous les cultistes sur le champ de bataille pour invoquer la colère de Melkor\n Cliquez sur l'icône, puis cliquez à l'endroit cible"
 End
 
 CONTROLBAR:PurchaseUpgradeCorpseRain
-"&Corpse Rain"
+"&Pluie de Cadavres"
 End
 
 CONTROLBAR:ToolTipPurchaseUpgradeAngmarCorpseRain
-//"Allows Specialization in the Corpse Rain power\n This calls down a barrage of corpses on the target area. \n The Sorcerer can specialize in only one power."
-"Allows Specialization in the Corpse Rain power\n This calls down a barrage of corpses on the target area. \n The Sorcerer can specialize in one power only."
+"Permet de se spécialiser dans le pouvoir de la Pluie de Cadavres\n Cela invoque une pluie de cadavres sur la zone cible. \n Le Sorcier ne peut se spécialiser que dans un pouvoir."
 End
 
 TOOLTIP:AngmarCorpseRain
-"Spirit of Zigûr"
+"Esprit de Zigûr"
 End
 
 CONTROLBAR:Avalanche
-"Wrath of Caradhras"
+"Colère de Caradhras"
 End
 
 CONTROLBAR:SummonWights
-"Summon Wights"
+"Invoque Créatures"
 End
 
 CONTROLBAR:TooltipSummonWights
-"Summons several Wights under your control \n Left click icon then left click on pathable location"
+"Invoque plusieurs Créatures sous votre contrôle \n\n Clic gauche sur l'icône puis clic gauche sur une zone praticable"
 End
 
 CONTROLBAR:SummonGiants
-"Guard of the Mountains"
+"Gardiens des Montagnes"
 End
 
 CONTROLBAR:TooltipSummonGiants
-"Summons three Mountain Giants under your control \n Left click icon then left click on pathable location"
+"Invoque plusieurs Géants des Montagnes sous votre contrôle. Lointains descendants des Trolls, ces immenses créatures arpentent les contreforts des Monts Brûmeux en quête de nourriture.\nIls se joignent parfois à une horde de Gobelins pour satisfaire leur faim insatiable.\n\nClic gauche sur l'icône puis clic gauche sur une zone praticable"
 End
 
 CONTROLBAR:TrollishStew
-"Trollish Stew"
+"Ragoût de trolls"
 End
 
 CONTROLBAR:TooltipTrollishStew
-"Temporarily summons a kettle of Trollish Stew, guarded by Tom, Bert, and William \n The Trollish Stew provides healing, grants +15% armour and damage to nearby units and detects stealth \n Left click icon then left click on pathable location"
+"Invoque temporairement une bouilloire de ragoûts des Trolls, gardée par Tom, Hubert et Léon. \ n Le ragoût fournit des soins et accorde +15% d'armure et de dégâts aux unités à proximité et détecte la furtivité. \n\n Clic gauche sur l'icône puis clic gauche sur la zone cible."
 End
 
 OBJECT:WildTrollBert
-"Bert"
+"Hubert"
 End
 
 OBJECT:WildTrollTom
@@ -53214,152 +53185,151 @@ OBJECT:WildTrollTom
 End
 
 OBJECT:WildTrollWilliam
-"William"
+"Léon"
 End
 
 OBJECT:TrollishStew
-"Trollish Stew"
+"Ragoût de trolls"
 End
 
 OBJECT:TrollishStewDescription
-"The Trollish Stew provides healing, grants +15% armour and damage to nearby units and detects stealth"
+"Le ragoût de trolls procure des soins et confère +15% d'armure et de dégâts aux unités proches et détecte la furtivité"
 End
 
 CONTROLBAR:SummonOrcs
-"Summon Orcs"
+"Invoque des Orques"
 End
 
 CONTROLBAR:TooltipSummonOrcs
-"Summons several hordes of orcs under your control \n Left click icon then left click on pathable location"
+"Invoque plusieurs hordes d'Orques sous votre contrôle \n\n Clic gauche sur l'icône puis clic gauche sur une zone praticable"
 End
 
 CONTROLBAR:SummonShadeOfWolf
-"Summon Shade of Wolf"
+"Invoquez l'ombre du Loup"
 End
 
 CONTROLBAR:ToolTipSummonShadeOfWolf
-"Summons a spectral wolf under your control \n Left click icon then left click on pathable location"
+"Invoque un loup spectral sous votre contrôle \n\n Clic gauche sur l'icône puis clic gauche sur une zone praticable"
 End
 
 TOOLTIP:AngmarDarkIronBlades
-"Steel-forged Blades"
+"Lames de Fer des ténèbres"
 End
 
 TOOLTIP:AngmarDarkIronArmor
-"Bronze Cuirasses"
+"Sombre de Cotte de maille"
 End
 
 TOOLTIP:AngmarIceShot
-"Ice Shot"
+"Tir de Glace"
 End
 
 UPGRADE:AngmarWellOfSouls
-"Zealotry"
+"Fanatisme"
 End
 
 UPGRADE:AngmarCorpseRain
-"Spirit of Zigûr"
+"Esprit de Zigûr"
 End
 
 UPGRADE:AngmarSoulFreeze
-"Hearts of Fire"
+"Cœurs enflammés"
 End
 
 UPGRADE:AngmarDarkIronArmor
-"Bronze Cuirasses"
+"Cotte de maille des ténèbres"
 End
 
 UPGRADE:AngmarDarkIronBlades
-"Steel-forged Blades"
+"Lames de Fer des ténèbres"
 End
 
 UPGRADE:AngmarBarracksLevel2
-"Hall of the King's Men Level 2"
+"La Salle des Hommes du Roi niveau 2"
 End
 
 UPGRADE:AngMarBarracksLevel3
-"Hall of the King's Men Level 3"
+"La Salle des Hommes du Roi niveau 3"
 End
 
 UPGRADE:AngmarBasicTraining
-"Porte-étendard"
+"Porte-étendards"
 End
 
 UPGRADE:AngmarIceArrowUpgrade
-"Oil-tipped Arrows"
+"Flèches enduites d'huile"
 End
 
 UPGRADE:AngmarIceShot
-"Ice Shot"
+"Tir de Glace"
 End
 
 UPGRADE:AngmarTorches
-"Flames of Darkness"
+"Flammes des Ténèbres"
 End
 
 UPGRADE:AngmarIceMunitions
-"Ice Munitions"
+"Munitions de Glace"
 End
 
 UPGRADE:AngmarFortressSpikes
-"&Umbarian Hegemony"  ;"Spike Moat"
+"Hégémonie umbarienne" ; "Fossé à pointes"
 End
 
 UPGRADE:AngmarFortressSanctum
-"Witch-king's Sanctum"
+"Sanctuaire du Roi-Sorcier"
 End
 
 UPGRADE:AngmarFortressIceWalls
-"Ice Walls"
+"Mur de Glace"
 End
 
 UPGRADE:FortressHouseofLamentation
-"House of Lamentation"
+"Maison des Lamentations"
 End
 
-
 UPGRADE:AngmarThrallMasterOrcWarriors
-"Gundabad Orcs"
+"Orques de Gundabad"
 End
 
 UPGRADE:AngmarThrallMasterWolfRiders
-"Wolf Riders"
+"Chevaucheur de Loup"
 End
 
 UPGRADE:AngmarThrallMasterRhudaurSpearmen
-"Rhudaur Spearmen"
+"Lancier de Rhudaur"
 End
 
 UPGRADE:AngmarThrallMasterRhudaurSlingers
-"Rhudaur Axe Throwers"
+"Lanceur de Hache Rhudaur"
 End
 
 GUI:AIForfeitsInWOTRSkirmish
-"Your opponent has decided that things are hopeless and is considering forfeiting this region to your superior might"
+"Votre adversaire a décidé que les choses sont sans espoir et envisage de confisquer cette région a votre puissance supérieur"
 End
 
 GUI:AIForfeitsInWOTRSkirmishNow
-"Your opponent forfeits this region to your superior might"
+"Votre adversaire perd cette région au profit de votre puissance supérieure"
 End
 
 OBJECT:RhudaurSpearman
-"Rhudaur Spearman"
+"Lancier de Rhudaur"
 End
 
 CONTROLBAR:ArnorLongShotAbility
-"Longsho&t"
+"Longs Traits"
 End
 
 CONTROLBAR:TooltipArnorLongShotAbility 
-"The rangers bombard anywhere on the map with a volley of arrows \n Left click icon then left click on target area"
+"Les Rôdeurs arrosent une zone de la carte d'une volée de flèches. \n\n Clic gauche sur l'icône puis clic gauche sur la zone cible"
 End
 
 Tooltip:LackArnorBasicTraining
-"Research upgrade at Forge to enable this equipment \n When equipped, increases this battalion to Level 2"
+"Recherchez l'amélioration chez le Forgeron pour activer cet équipement. Lorsqu'elle est équipée, ce bataillon passe au niveau 2."
 End
 
 Tooltip:LackArnorBasicTrainingForElves
-"Research upgrade at Forge to enable this equipment \n When equipped, increases this battalion to Level 2\nand allows to regain health outside of combat"
+"Rechercher l'amélioration chez le Forgeron pour activer cet équipement. Lorqu'elle est équipée, augmente ce bataillon au niveau 2 et permet de retrouver la santé en dehors du combat."
 End
 
 OBJECT:AngmarWildMissile
@@ -53371,86 +53341,83 @@ OBJECT:ArnorWallHub
 End
 
 LW:HeroKilledTitle
-// Context: shown as the title of a message box when a hero has no immediate retreat options.
-"HERO ARMY KILLED!"
+"Armée de héros Détruit !"
 End
 
 LW:HeroKilledText
-// Context: shown as the title of a message box when a hero has no immediate retreat options and will be killed.
-// First arg is hero name
-"Your Hero army has been defeated in battle and has no available retreat locations.\n\n%ls was killed and must be rebuilt in a fortress."
+"Votre Armée de héros a été vaincue au combat et n'a aucun emplacement de retraite disponible. \n\n Ils ont été tués et doivent être reconstruits dans une forteresse."
 End
 
 OBJECT:OrcChieftain
-"Orc Chieftain"
+"Chef Orque"
 END
 
 CONTROLBAR:DreadWrath
-"Chill of Angmar (&R)"
+"Frisson d'Angmar (&R)"
 END
 
 CONTROLBAR:DreadWrathFellbeast
-"Chill of Angmar (&W)"
+"Frisson d'Angmar (&W)"
 END
 
 CONTROLBAR:WitchkingMorgulCorruption
-"Morgul Blade (&T)"
+"Lame de Morgul (&T)"
 END
 
 CONTROLBAR:WkTerribleFury
-"&Terrible Fury"
+"Fureur Effroyable"
 END
 
 CONTROLBAR:TooltipFDBTerribleFury
-"Requires Level 7 \n Causes fear in nearby enemies \n Left click to activate"
+"Requiert : niveau 7\n Effraie les ennemis proches.\n\nClic gauche pour activer"
 END
 
 OBJECT:SnowTrollLairDescription
-"Allows training of Snow-trolls"
+"Permet de recruter les Trolls des neiges"
 END
 
 OBJECT:HillTrollLairDescription
-"Allows training of Hill Trolls"
+"Permet de recruter les Trolls des collines"
 END
 
 OBJECT:AngmarCastleWallSegment
-"Angmar Wall"
+"Mur d'Angmar"
 End
 
 UPGRADE:AngmarWallTower
-"Iron Tower"
+"Tour de Fer"
 End
 
 UPGRADE:Upgrade_AngmarWallCatapult
-"Troll Stone Thrower"
+"Trolls lanceurs de pierres"
 End
 
 CONTROLBAR:Command_AngmarWallUpgradeToTower
-"Purchase Battle &Tower"
+"Tour de guerre"
 End
 
 OBJECT:LindonElvenWarrior
-"Lindon Warrior"
+"Guerrier Lindon"
 End
 
 OBJECT:CarnDumMainGate
-"Citadel Gate"
+"Porte de la Citadelle"
 End
 
 CONTROLBAR:Command_AngmarWallUpgradeToHub
-"Wall Hub (&W)"
+"Assise (&W)"
 End
 
 CONTROLBAR:TooltipCommand_AngmarWallUpgradeToHub
-"Allows wall building"
+"Permet la construction de murs"
 End
 
 CONTROLBAR:Command_AngmarWallUpgradeToRegularGate
-"Gate (&E)"
+"Porte (&E)"
 End
 
 CONTROLBAR:TooltipCommand_AngmarWallUpgradeToRegularGate
-"Creates a gate that troops can pass through"
+"Crée une porte par laquelle les troupes peuvent passer"
 End
 
 CONTROLBAR:Command_AngmarWallUpgradeToPosternGate
@@ -53458,26 +53425,26 @@ CONTROLBAR:Command_AngmarWallUpgradeToPosternGate
 End
 
 CONTROLBAR:TooltipCommand_AngmarWallUpgradeToTower
-"Creates an Arrow Tower"
+"Crée une Tour d'archers"
 End
 
 CONTROLBAR:Command_AngmarWallUpgradeToCatapult
-"Troll &Stone Thrower"
+"Trolls lanceurs de pierres"
 End
 CONTROLBAR:TooltipCommand_AngmarWallUpgradeToCatapult
-"Adds a Troll Stone Thrower to the wall"
+"Ajoute un Trolls lanceurs de pierres sur le mur"
 End
 
 CampaignName:Foundation
-"Foundation of Angmar"
+"Fondation d'Angmar"
 END
 
 CampaignName:Gundabad
-"Headman of Gundabad"
+"Chef de Gundabad"
 END
 
 CampaignName:Rhudaur
-"Conquest of Rhudaur"
+"La Conquête du Rhudaur"
 END
 
 CampaignName:Amonsul
@@ -53485,11 +53452,11 @@ CampaignName:Amonsul
 END
 
 CampaignName:Darkeye
-"Dark Lord's Eye"
+"L'Oeil du Seigneur des Ténèbres"
 END
 
 CampaignName:Barrowdown
-"Barrow-downs"
+"Les Hauts-Galgals"
 END
 
 CampaignName:Carndum
@@ -53497,7 +53464,7 @@ CampaignName:Carndum
 END
 
 CampaignName:Barrowwight
-"Plague Bearer"
+"Porteur de peste"
 END
 
 CampaignName:Fornostgate
@@ -53506,66 +53473,66 @@ END
 
 CampaignName:Destruction
 //"Fall of Angmar"
-"Battle of Azanulbizar"
+"La Bataille d'Azanulbizar"
 END
 
 
 Map:MAPANGAngmar
-"Foundation of Angmar"
+"Campagne: Angmar 1 - Fondation d'Angmar"
 END
 
 Map:MAPANGGundabad
-"Mount Gundabad"
+"Campagne: Angmar 2 - Chef de Gundabad"
 END
 
 Map:MAPANGRhudaur
-"Conquest of Rhudaur"
+"Campagne: Angmar 3 - La Conquête du Rhudaur"
 END
 
 Map:MAPANGAmonSul
-"Amon Sul"
+"Campagne: Angmar 4 - Amon Sul"
 END
 
 Map:MAPANGDarkEye
-"Dark Lord's Eye"
+"Campagne: Angmar 5 - L'Oeil du Seigneur des Ténèbres"
 END
 
 Map:MAPANGBarrowDowns
-"Barrow-downs"
+"Campagne: Angmar 6 - Les Hauts-Galgals"
 END
 
 Map:MAPANGCarnDum
-"Carn Dum"
+"Campagne: Angmar 7 - Carn Dum"
 END
 
 Map:MAPANGBarrowWights
-"Plague Bearer"
+"Campagne: Angmar 8 - Porteur de peste"
 END
 
 Map:MAPANGFornostGate
-"Fornost"
+"Campagne: Angmar 9 - Fornost"
 END
 
 Map:MAPANGFornost
-"Fornost"
+"Campagne: Angmar 10 - Fornost"
 END
 
 Map:MAPANGBonus
-"Fall of Angmar"
+"Campagne: Angmar Bonus - La Chute d'Angmar"
 END
 
 
 
 OBJECT:ForBuilding
-"Civilian Building"
+"Bâtiment civil"
 END
 
 OBJECT:ForGov
-"Government Building"
+"Édifice du gouvernement"
 END
 
 OBJECT:ForSpire
-"Victory Monument"
+"Monument de la Victoire"
 END
 
 ////////////////////////////////////////////////////
@@ -53576,25 +53543,22 @@ CAMPAIGN:HOBBIT
 // Context: Name of good campaign e.g. for save file descriptions
 //"Hobbit Campaign"
 //"UNAVAILABLE"
-"Battle of Azanulbizar"
+"BATAILLE D'AZANULBIZAR"
 END
 
 CAMPAIGN:WAROFTHERING
-// Context: Name of evil campaign e.g. for save file descriptions
-"The Lord of the Rings"
+"Campagne Guerre de l'Anneau"
 END
 
-
 APT:MainMenu_Test
-// Test string used only during development
-"Rise of the Witch-king"
+"Avènement du Roi-Sorcier"
 END
 
 APT:Expansion1Campaign
 // context: button label to start Expansion Pack Angmar campaign
 //"HOBBIT CAMPAIGN"
 //"UNAVAILABLE"
-"BATTLE OF \n AZANULBIZAR"
+"BATAILLE D'AZANULBIZAR"
 END
 
 APT:BonusCampaign
@@ -53617,31 +53581,31 @@ END
 CAMPAIGN:EXPANSION1
 // Context: Name of Angmar campaign e.g. for save file descriptions
 //"Hobbit Campaign"
-"Battle of Azanulbizar"
+"BATAILLE D'AZANULBIZAR"
 END
 
 CAMPAIGN:BONUS
 // Context: Name of bonus mission e.g. for save file descriptions
-"THE LORD OF THE RINGS"
+"Le Seigneur des Anneaux"
 //"The Last Alliance"
 END
 
 ToolTip:OpeningMenu/Expansion1Button
 //"Begin an Unexpected Adventure \n COMING SOON"
-"Click here to start the Battle of Azanulbizar"
+"Cliquez ici pour commencer la Démo de la Bataille d'Azanulbizar."
 END
 
 ToolTip:OpeningMenu/BonusButton
 //"UNAVAILABLE"
-"Click here to start the War of the Ring Missions starting from the The Last Alliance"
+"Cliquez ici pour commencer les missions de la Guerre de l'Anneau à partir de la Dernière Alliance"
 END
 
 ToolTip:OpeningMenu/BonusButtonDisabled
-"Beat the Unexpected Adventure to unlock the War of the Ring Bonus Missions"
+"Terminez une Aventure Inattendue pour débloquer les missions bonus de la Guerre de l'Anneau"
 END
 
 OBJECT:ZombieHeadPileofDOOM
-"Pile of Goblin Heads"
+"Pile de têtes de Gobelins"
 END
 
 ////////////////////////////////////////////////////
@@ -53659,76 +53623,59 @@ STRATEGICHUD:StatsTreasuryIncome
 END
 
 STRATEGICHUD:RegionTreasuryIncomeBonusTooltip
-// Context: the WotR "territory" page of the region details panel, the tooltip that appears on the Treasury Income Bonus (AKA Fertile Bonus)
-"Treasury Income Bonus"
+"Bonus de revenu dans le trésor"
 END
 
 TOOLTIP:DisbandUnit
-// Context: Strategic Veterancy screen, disband unit button tooltip
-"Check to disband this unit"
+"Cochez pour disperser cette unité"
 END
 
 TOOLTIP:DisbandUnitSelectedTooltip
-// Context: Strategic Veterancy screen, disband unit button tooltip, when button is selected/checked
-// NOT CURRENTLY IMPLEMENTED, but should be localized in case we implement it
-"Click to keep this unit"
+"Cliquez pour conserver cette unité"
 END
 
 TOOLTIP:DisbandUnitDisabled
-// Context: Strategic Veterancy screen, disband unit button tooltip, when button is disabled
-"No Treasury Charge to keep this unit"
+"Aucune charge du trésor pour conserver cette unité"
 END
 
 TOOLTIP:DisbandUnitDisabledLeader
-// Context: Strategic Veterancy screen when disband button is disabled for the army leader
-"Army leaders cannot be disbanded"
+"Les chefs des armées ne peuvent pas être dispersés"
 END
 
 TOOLTIP:DisbandUnitDisabledHero
-// context: used on Strategic Veterancy screen when disband button is disabled for a hero
-"Heroes cannot be disbanded"
+"Les héros ne peuvent pas être dispersés"
 END
 
 APT:TreasuryCharge
-// Context: Strategic Veterancy screen header.
-"Treasury Charge"
+"Charge du trésor"
 END
 
 APT:VeterancyDisbandHeader
-// Context: Strategic Veterancy screen header.
-"Disband?"
+"Disperser ?"
 END
 
 APT:VeterancyUnitCurrentLevel
-// Context: Strategic Veterancy screen header.
-// Same as APT:UnitCurrentLevel but with word wraps forced using \n
-"Unit\nCurrent\nLevel"
+"Niveau\nactuel\nde l'unité"
 END
 
 APT:VeterancyBattleFought
-// Context: Strategic Veterancy screen header.
-// Same as APT:BattleFought but with word wraps forced using \n
-"Battles\nFought"
+"Batailles\nlivrées"
 END
 
 APT:TotalTreasuryCharge
-// Context: Veterancy screen: this is how much will be deducted, total, from the treasury to pay for new units
-"Total Treasury Charge"
+"Charge totale du trésor"
 END
 
 APT:RemainingTreasuryBalance
-// Context: Veterancy screen: this is how much Treasury is left after TotalTreasuryCharge is deducted
-"Remaining Treasury Balance"
+"Balance du trésor restante"
 END
 
 STRATEGICHUD:SupportUnitArchetypeTooltip
-// Tooltip in WOTR for Support unit type icon
-"Unit Type: Support Unit"
+"Type d'unité : unité de soutien"
 END
 
 STRATEGICHUD:SiegeUnitArchetypeTooltip
-// Tooltip in WOTR for Siege unit type icon
-"Unit Type: Siege Unit"
+"Type d'unité : unité de siège"
 END
 
 
@@ -53740,11 +53687,11 @@ END
 //----- Mordor Additions for BFME2 Expansion --------
 
 CONTROLBAR:LW_Hero_Khamul
-"Khamûl the Easterling"
+"Khamûl l'Oriental"
 END
 
 CONTROLBAR:LW_ToolTipBuild_Khamul
-"Type d'unité : héros commandant une armée\n "
+"Type d'unité : héros commandant une armée. \n"
 END
 
 CONTROLBAR:LW_ToolTip_Khamul
@@ -53752,28 +53699,24 @@ CONTROLBAR:LW_ToolTip_Khamul
 END
 
 CONTROLBAR:MordorKhamulRecruit
-//"Recruit a Fellbeast"
-"Recruit Khamûl, the Shadow of the East \n \n 'They are the Nazgûl, Ringwraiths, neither living nor dead.'"
+"Recrutez Khamûl, l'Ombre de l'Est \n \n 'Ils sont les Nazgûl, les Spectres de l'Anneau, ni vivants ni morts.'"
 END
 
 CONTROLBAR:GuldurKhamulRecruit
 //"Recruit a Fellbeast"
-"Recruit the Shadow of the East \n \n Once a great king of the Eastern Wastes, Khamûl was ensnared by Sauron through one of his Great Rings. For many long centuries Khamûl has served, performing acts of great terror and cruelty with solemn dedication to his Master."
+"Recrutez l'Ombre de l'Est. \n\n Lieutenant de Dol Guldur, Khamûl est le second des Nazgûls, une terreur sombre enveloppée dans un linceul impénétrable d'étoffe et d'armure. \n Le passé de Khamûl est presque inconnu mis à part ses actes au service du Mordor. Mais certains Sages pensent qu'il a autrefois régné sur un domaine au-delà des frontières orientales du Mordor. Cela doit être au moins partiellement vrai, car seul un roi de grande influence aurait pu recevoir le don d'un Anneau de Pouvoir. \n Quel qu'il pût être, Khamûl ne se rend seulement que là ou son maître lui ordonne, sa volonté étant liée uniquement à celle du Seigneur des Ténèbres. \n\n 'Ce sont les Nazgûls, les Spectres de l'Anneau, ni vivants ni morts.'"
 END
 
 CONTROLBAR:MordorKhamulRevive
-//"Revive the fallen Fellbeast"
-"Revive the fallen hero, Khamûl the Easterling"
+"Ressuscitez le héros tombé, Khamûl l'Oriental"
 END
 
 CONTROLBAR:MordorKhamulHotkey
-//"&Fellbeast"
-"Khamûl the Easterling (&S)"
+"Khamûl l'Oriental (&S)"
 END
 
 CONTROLBAR:RhunKhamulHotkey
-//"&Fellbeast"
-"Khamûl the Easterling (&T)"
+"Khamûl l'Oriental (&T)"
 END
 
 OBJECT:MordorKhamul
@@ -53797,13 +53740,12 @@ CONTROLBAR:LW_ToolTip_Morgomir
 END
 
 CONTROLBAR:MordorMorgomirRecruit
-//"Recruit the Fellbeast "
-"Recruit Nazgûl"
+"Recrutez le Nazgûl"
 END
 
 CONTROLBAR:MordorMorgomirRevive
 //"Revive the fallen Fellbeast"
-"Revive Nazgûl"
+"Recrutez le Nazgûl"
 END
 
 CONTROLBAR:MordorMorgomirHotkey
@@ -53812,55 +53754,55 @@ CONTROLBAR:MordorMorgomirHotkey
 END
 
 OBJECT:HordeBlackRiders
-"Ringwraiths"
+"Serviteurs de l'Anneau"
 END
 
 OBJECT:HordeMordorWarg
-"Warg Pack"
+"Meute de Wargs"
 END
 
 CONTROLBAR:LW_Unit_MordorWargHorde
-"Warg Pack"
+"Meute de Wargs"
 END
 
 CONTROLBAR:LW_ToolTip_MordorWargHorde
-"Unit Type: Cavalry\nStrong vs. Archers and Swordsmen\n"
+"Type d'unité : Cavalerie\nEfficace contre les archers et les épéistes\n"
 END
 
 CONTROLBAR:LW_Unit_MordorWargHordePlural
-"Warg Packs"
+"Meutes de Wargs"
 END
 
 CONTROLBAR:LW_ToolTipBuild_MordorWargHorde
-"Unit Type: Cavalry\nStrong vs. Archers and Swordsmen\n"
+"Type d'unité : Cavalerie\nEfficace contre les archers et les épéistes\n"
 END
 
 CONTROLBAR:ConstructMordorWargHorde
-"Create a Pack of Ouargues"
+"Créer une meute de Wargs"
 End
 
 CONTROLBAR:ToolTipBuildMordorWargHorde
-"Unit Type: Cavalry\nStrong vs. Archers and Swordsmen\n"
+"Type d'unité : Cavalerie\nEfficace contre les archers et les épéistes\n"
 END
 
 CONTROLBAR:ConstructMordorBlackOrcHorde
-"Black Uruk Marauders (&T)"
+"Uruk-Haï Noir du Mordor (&T)"
 END
 
 CONTROLBAR:ConstructMordorBlackOrcHordeInn
-"Black Uruk Marauders (&W)"
+"Uruk-Haï Noir du Mordor (&T)"
 END
 
 OBJECT:HordeMordorBlackOrcs
-"Black Uruk Marauders"
+"Uruk-Haï du Mordor"
 END
 
 CONTROLBAR:LW_Unit_MordorBlackOrcHorde
-"Black Uruk Marauder Horde"
+"Horde d'Uruk-Haï du Mordor"
 END
 
 CONTROLBAR:LW_ToolTip_MordorBlackOrcHorde
-"\nUnit Type: Elite Infantry\nStrong vs. Pikemen"
+"\n Type d'unité : Infanterie d'élite. \n\n Forts contre les piquiers."
 END
 
 OBJECT:MordorGothmog
@@ -53868,15 +53810,15 @@ OBJECT:MordorGothmog
 END
 
 CONTROLBAR:ToolTipBuildMordorGothmog
-"Recruit Gothmog (&R)"
+"Recrutez Gothmog (&R)"
 END
 
 CONTROLBAR:MordorGothmogRecruit
-"Requires the Morgul Sorcery upgrade \nUnlocks Grond\n Recruit the Lieutenant of Minas Morgul. \n \n 'The Age of Men is over. The Time of the Orc has come.'"
+"Requiert l'amélioration Sorcellerie de Morgul \nDébloque Grond\n Recrute le Lieutenant de Minas Morgul. \n \n 'L'âge des hommes est terminé. Le temps des Orques est arrivé.'"
 END
 
 CONTROLBAR:MordorGothmogRevive
-"Revive the fallen Hero, Gothmog"
+"Ressuscite le héros tombé, Gothmog"
 END
 
 CONTROLBAR:MordorGothmogHotkey
@@ -53884,62 +53826,62 @@ CONTROLBAR:MordorGothmogHotkey
 END
 
 CONTROLBAR:GothmogIronHand
-"Time of the Orc (&R)"
+"Le Temps des Orques (&R)"
 END
 
 CONTROLBAR:GothmogDayoftheOrc
-"Lieutenant of Morgul"
+"Lieutenant de Morgul"
 END
 
 CONTROLBAR:SpecialAbilityGothmogCarnage    
-"Orc Mal&ice"
+"Cruauté Instinctive"
 END
 
 CONTROLBAR:ConstructMordorHaradrimRiderHorde
-"Haradrim &Lancers"
+"Lanciers &Haradrims"
 END
 
 OBJECT:HordeMordorHaradrimRider
-"Haradrim Raiders"
+"Chevaucheurs Haradrim"
 END
 
 OBJECT:MordorHaradrimLancer
-"Haradrim Raiders"
+"Lanciers Haradrim"
 END
 
 OBJECT:MordorHaradrimRiders
-"Haradrim Raiders"
+"Chevaucheurs Haradrim"
 END
 
 TOOLTIP:LackLevel2SiegeForgedBlades
-"Requires Level 2 Gogoroth Armoury"
+"Requiert : Armurerie de Gorgoroth Niveau 2"
 END
 
 TOOLTIP:LackLevel2SiegeForgedHeavyArmor
-"Requires Level 2 Gogoroth Armoury"
+"Requiert : Armurerie de Gorgoroth Niveau 2"
 END
 
 TOOLTIP:LackLevel3HaradFireArrows
-"Requires Level 2 Gogoroth Armoury"
+"Requiert : Armurerie de Gorgoroth Niveau 2"
 END
 
 TOOLTIP:LackLevel3GuldurGaolFireArrows
-"Requires Level 2 Guldur Gaol"
+"Requiert : Geôle de Dol Guldur Niveau 2."
 END
 
 CONTROLBAR:TooltipUpgradeMordorHaradrimPalaceLevel2
-"Allows training of Great Khân's Archers\n +10% faster build speed"
+"Permet de former les Archers du Grand Khân\n +10% de vitesse de construction"
 End
 
 CONTROLBAR:FellBeastMountTooltip
-"As more Nazgûl gather, their strength grows \n +10% damage and +10% armour per every Nazgûl nearby \n Passive ability\n\nRequires Level 2 \n Modifier Type: Passive Debuff \n Nearby enemy units suffer -25% damage and -20% armour\nPassive ability\n\nLeft click then left click on pathable location."
+"Plus les Nazgûls se rassemblent, plus leur puissance augmente \n +10% de dégâts et +10% d'armure par chaque Nazgûl à proximité \n Capacité passive\n\nRequiert le niveau 2 \n Type de modification : Débuff passif \n Les unités ennemies à proximité subissent -25% de dégâts et -20% d'armure\nCapacité passive\n\nCliquez gauche puis cliquez gauche sur un emplacement accessible."
 END
 
 
 //--------Isengard Additions for BFME2 Expansion ---------------
 
 OBJECT:IsengardTavern
-"Clan Steading"
+"Ferme du Clan"
 END
 
 OBJECT:IsengardTavernDescription
@@ -53947,35 +53889,35 @@ OBJECT:IsengardTavernDescription
 END
 
 CONTROLBAR:UpgradeIsengardTavernLevel2
-"Upgrade Clan Steading to Level 2 (&A)"
+"Améliore la Ferme du Clan au niveau 2 (&A)"
 End
 
 CONTROLBAR:UpgradeIsengardTavernLevel3
-"Upgrade Clan Steading to Level 3 (&A)"
+"Améliore la Ferme du Clan au niveau 3 (&A)"
 End
 
 CONTROLBAR:TooltipUpgradeIsengardTavernLevel2
-"Allows training of Wildmen Axe-throwers \n +10% faster build speed"
+"Permet de recruter les Lanceurs de hâches du Pays de Dun. \n Vitesse de construction +10%."
 End
 
 CONTROLBAR:TooltipIsengardTavern
-"Trains Wildmen units"
+"Permet de recruter les Hommes Sauvages du Pays de Dun."
 End
 
 CONTROLBAR:TooltipIsengardTavernWotR
-"Primary Barracks \n Trains basic Isengard Orcs and Wildmen\n Limited to 2"
+"Barracks principaux\nEntraîne des Orques de base d'Isengard et des Hommes sauvages\nLimité à 2"
 End
 
 CONTROLBAR:ConstructIsengardTavern
-"Build Clan Steading (&C)"
+"Construire une Ferme du Clan (&C)"
 END
 
 CONTROLBAR:ConstructIsengardTavernWotRRealTime
-"Build Clan Steading (&W)"
+"Construire une Ferme du Clan (&W)"
 END
 
 OBJECT:IsengardLonghouse
-"Dunlending Longhouse"
+"Maison longue Dunlending"
 END
 
 OBJECT:IsengardLonghouseDescription	
@@ -53983,117 +53925,117 @@ OBJECT:IsengardLonghouseDescription
 END
 
 CONTROLBAR:ConstructIsengardLonghouse
-"Build Dunlending Longhouse (&M)"
+"Construire une Maison longue Dunlending (&M)"
 END
 
 CONTROLBAR:ToolTipIsengardLonghouse
-"Requires Wulfgar\nTrains Dunlending units"
+"Requiert : Wulfgar. \n Forme les unités des Pays de Duns."
 End
 
 CONTROLBAR:UpgradeDunlendingLonghouseLevel2
-"Upgrade Dunlending Longhouse to Level 2 (&A)"
+"Améliorer la Maison longue Dunlending au niveau 2 (&A)"
 End
 
 CONTROLBAR:TooltipUpgradeDunlendingLonghouseLevel2
-"Allows training of Dunlending Longbowmen\n +10% faster build speed"
+"Permet l'entraînement des Archers longs dunlandais\n +10% vitesse de construction accrue"
 End
 
 CONTROLBAR:UpgradeDunlendingLonghouseLevel3
-"Upgrade Dunlending Longhouse to Level 3 (&A)"
+"Améliorer la Maison longue Dunlending au niveau 3 (&A)"
 End
 
 CONTROLBAR:TooltipUpgradeDunlendingLonghouseLevel3
-"Allows training of Dunnish Outriders and Dunlending Huskarls \n Adds defensive arrow tower \n +25% faster build speed"
+"Permet l'entraînement des Éclaireurs dunlandais et des Huskarls dunlandais \n Ajoute une tour de flèches défensive \n +25% vitesse de construction accrue"
 End
 
 CONTROLBAR:ConstructIsengardBerserkerHorde
-"Uruk &Scouts"
+"Éclaireurs Uruk"
 End
 
 OBJECT:IsengardWildmanAxe
-"Wildmen Axe Thrower"
+"Lanceurs de hâches du Pays de Dun"
 End
 
 CONTROLBAR:ConstructIsengardWildmanAxeHorde
-"Wildmen Axe Throwers (&R)"
+"Lanceurs de hâches du Pays de Dun (&R)"
 End
 
 CONTROLBAR:ToolTipBuildIsengardWildmanAxeHorde
-"Requires Level 2 Clan Steading \nCan stealth near trees\n Strong at range \n  \n Though Dunlendings often considered the art of axe-throwing as more of a sport, some skilled warriors still employed it in battle."
+"Requiert : Ferme du Clan Niveau 2. \n Les Hommes sauvages du Pays de Dun vivent sur les terres les plus pauvres et inhospitalières de cette contrée. Ce sont des barbares qui convoitent depuis des années les riches territoires des Rohirrims. \n Bien qu'ils considèrent l'art du lancer de hâches comme un loisir, certains guerriers particulièrement doués utilisent cette technique dans la bataille. \n Peuvent se camoufler près des arbres. \n\n Forts à distance."
 End
 
 CONTROLBAR:ToolTipBuildIsengardWildmanAxeHordeWotR
-"Can stealth near trees\n Strong at range \n  \n Though Dunlendings often considered the art of axe-throwing as more of a sport, some skilled warriors still employed it in battle."
-End
+"Peut se camoufler près des arbres\n Fort à distance \n  \n Bien que les Dunlendings considèrent souvent l'art du lancer de hache comme un sport, certains guerriers talentueux l'utilisent encore au combat."
+END
 
 CONTROLBAR:LW_Unit_IsengardWildmanAxeHorde
-"Wildman Axe Thrower Horde"
+"Horde de Lanceurs de hâches du Pays de Dun"
 END
 
 CONTROLBAR:LW_Unit_IsengardWildmanAxeHordePlural
-"Wildman Axe Thrower Hordes"
+"Horde de Lanceurs de hâches du Pays de Dun"
 END
 
 CONTROLBAR:LW_Unit_IsengardWildmanAxeSpearHorde
-"Wildmen Axe Thrower - Wildmen Spearman Horde"
+"Lanceurs de hâches - Piquiers du Pays de Dun"
 END
 
 CONTROLBAR:LW_Unit_IsengardWildmanAxeSpearHordePlural
-"Wildmen Axe Thrower - Wildmen Spearman Hordes"
+"Lanceurs de hâches - Piquiers du Pays de Dun"
 END
 
 CONTROLBAR:LW_ToolTip_IsengardWildmanAxeSpearHorde
-"\nUnit Type: Basic Archer and Basic Pikemen\nStrong vs. Pikemen and Cavalry"
+"Type d'unité: Archers et Piquiers standards. \n Fort contre les piquiers et la cavalerie."
 END
 
 CONTROLBAR:LW_Unit_IsengardWildmanAxeComboHorde
-"Wildmen of Dunland - Wildmen Axe Thrower Horde"
+"Hommes sauvages - Lanceurs de hâches du Pays de Dun"
 END
 
 CONTROLBAR:LW_Unit_IsengardWildmanAxeSpearHordePlural
-"Wildmen of Dunland - Wildmen Axe Thrower Hordes"
+"Hommes sauvages - Lanceurs de hâches du Pays de Dun"
 END
 
 CONTROLBAR:LW_ToolTip_IsengardWildmanAxeComboHorde
-"\nUnit Type: Basic Infantry and Basic Archer\nStrong vs. Archers and Pikemen"
+"Type d'unité: Infanterie et Archers standards. \n Forts contre les archers et les piquiers."
 END
 
 CONTROLBAR:ConstructIsengardWargPack
-"Warg Pack (&W)"
+"Meute de Ouargues (&W)"
 END
 
 CONTROLBAR:ConstructJungleWargPack
-"Jungle Ouargues (&W)"
+"Meute de Ouargues de la Jungle (&W)"
 END
 
 CONTROLBAR:ToolTipBuildIsengardWargPack
-"Strong vs. Swordsmen and Archers \n \n Fast-moving and ferocious, packs of Ouargues have oft been the bane of unwary travelers."
+"Fort contre les épéistes et les archers \n \n Rapides et féroces, les meutes de Ouargues sont souvent le fléau des voyageurs imprudents."
 END
 
 CONTROLBAR:ConstructWhiteWargPack
-"White Wolves (&E)"
+"Loups Blancs (&E)"
 END
 
 CONTROLBAR:ToolTipBuildWhiteWargPack
-"Strong vs. Swordsmen and Archers \n \n A pack of large, terrifying White Wolves \n May use Howl to temporarily terrify enemy units."
+"Forts contre les épéistes et les archers. \n\n Une meute de grands et terrifiants loups blancs. \n Peuvent utiliser le hurlement pour temporairement terrifier leurs ennemis."
 END
 
 OBJECT:IsengardWargPack
-"Warg"
+"Meute de Wargs"
 END
 
 OBJECT:HordeIsengardWargPack
-"Warg Pack"
+"Meute de Wargs"
 END
 
 OBJECT:HordeWildWhiteWargPack
-"White Wolves"
+"Loups blancs"
 END
 
 //--------Dwarven Hero Additions for Expansion-------------
 
 CONTROLBAR:ToolTipCaptDaleLeadership
-"Requires Level 6 \n Allies near the Captain gain \n +50% damage, +50% armour, \n and earn experience twice as fast \n \n Passive ability       Does not stack"
+"Requiert : niveau 6\n Les alliés proches du capitaine gagnent +50% dégâts, +50% armure et gagnent de l'expérience deux fois plus rapidement.\n\n Capacité passive       Ne peut pas s'utiliser avec d'autres bonus"
 END
 
 CONTROLBAR:ZerkSlayer
@@ -54106,7 +54048,7 @@ END
 
 CONTROLBAR:ToolTipBuildDwarvenZerkerHorde
 //"Strong vs. All Normal Troops \n Requires Level 3 Hall of Warriors \n Only 3 Units of Zealots are allowed at any time."
-"Wyrm-slayers \n Strong vs. Heroes and Monsters \n Requires Level 2 Erebor Redoubt \n \n Only the hardiest, most fearsome Dwarves pass the grueling requirements to enter the ranks of the Wyrm-slayers - which is all the better, for the wyrms of the Withered Heath, their quarry, are not to be trifled with."
+"Tueurs de Wyrms. \n Forts contre toutes les unités standards, les Héros et les monstres. \n Requiert : Fort d'Erebor Niveau 2. \n Seuls les vétérans les plus redoutables et les plus intrépides peuvent se hisser au rang de Tueurs de Wyrms. Leur mission est de défendre les routes commerciales autour des forteresses contre tout ennemi y compris les féroces dragons de la Lande Desséchée, fonction qui ne leur laisse aucun repos. \n Ainsi sont-ils devenus par nécessité des combattants austères et agressifs, redoutés pour leurs charges dévastatrices contre des ennemis bien plus nombreux mais qu'ils massacrent grâce à leurs glaives acérés. \n\n Limités à 3 bataillons seulement."
 END
 
 OBJECT:HordeDwarvenZerker
@@ -54117,31 +54059,31 @@ END
 
 
 OBJECT:NoldorWarrior
-"Noldor Warrior"
+"Guerrier Noldor"
 END
 
 OBJECT:HordeNoldorWarrior
-"Noldor Warriors"
+"Guerriers Noldor"
 END
 
 CONTROLBAR:ConstructNoldorWarriorHorde
-"&Noldor Warriors"
+"Guerriers Noldor"
 END
 
 CONTROLBAR:LW_Unit_NoldorWarriorHorde
-"Noldor Warriors"
+"Guerriers Noldor"
 END
 
 CONTROLBAR:NoldorWeaponSong
-"&Weapon Song"
+"Chanson d'armes"
 END
 
 OBJECT:RivendellArchers
-"Lindon Horse Archer"
+"Chevaliers-archers du Lindon"
 END
 
 CONTROLBAR:ToolTipBuildElvenRivendellArchers
-"Strong at Range \n Requires Level 2 Green Pasture"
+"Fort à distance.\n Requiert : niveau 2 Verts Pâturages"
 END
 
 OBJECT:HordeElvenRivendellLancer
@@ -54156,7 +54098,7 @@ END
 //------------- Men of the West ------------------
 
 CONTROLBAR:TooltipEarnurBladeMaster
-"Requires Level 2 \n Earnur gains +100% damage and +100% armour \n Left click to activate"
+"Requiert : niveau 2\n Earnur gagne +100% dégâts et +100% armure.\n\nClic gauche pour activer"
 END
 
 OBJECT:GondorSpearmen

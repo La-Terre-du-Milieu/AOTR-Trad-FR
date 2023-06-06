@@ -30277,7 +30277,7 @@ OBJECT:ArnorHeroStatue
 END
 
 CONTROLBAR:ToolTipConstructArnorStatue
-"Octroie un bonus de Charisme aux troupes proches. \n Réduit le coût de l'infanterie. \n Augmente la limite de points de commandement de 10."
+"Octroie un bonus de Charisme aux troupes proches. \n Réduit le coût de l'infanterie."
 END
 
 OBJECT:ArnorStatueDescription
@@ -30849,7 +30849,7 @@ CONTROLBAR:ToolTipBuildArnorRangerHorde
 "Unité polyvalente pouvant alterner entre l'arc et la lance. \n Forts à distance et contre la cavalerie."
 END
 
-CONTROLBAR:ToolTipBuildArnorRangerHordeForGoodIthilien
+CONTROLBAR:ToolTipBuildArnorRangerHordeForfGoodIthilien
 "Fort à distance."
 END
 
@@ -82656,11 +82656,11 @@ CONTROLBAR:LW_Unit_DwarvenHammerDwarvenGuardianHordePlural
 END
 
 CONTROLBAR:LW_ToolTipBuild_DwarvenHammerDwarvenGuardianHorde
-"Unit Type: Basic Infantry \nStrong vs. Pikemen\n"
+"Type d'unité : Infanterie standard. \n Forts contre les piquiers."
 END
 
 CONTROLBAR:LW_ToolTip_DwarvenHammerDwarvenGuardianHorde
-"\nUnit Type: Basic Infantry \nStrong vs. Pikemen"
+"Type d'unité : Infanterie standard. \n Forts contre les piquiers."
 END
 
 OBJECT:HordeDwarvenHammerDwarvenHammerCombo
@@ -82672,7 +82672,7 @@ CONTROLBAR:LW_Unit_DwarvenHammerDwarvenHammerHordePlural
 END
 
 CONTROLBAR:LW_ToolTipBuild_DwarvenHammerDwarvenHammerHorde
-"Unit Type: Basic Infantry \nStrong vs. Pikemen\n"
+"Type d'unité : Infanterie standard. \n Forts contre les piquiers."
 END
 
 OBJECT:HordeDwarvenPhalanxDwarvenHammerCombo
