@@ -10973,7 +10973,7 @@ CONTROLBAR:RallyingCall
 END
 
 CONTROLBAR:TooltipRallyingCall
-"Type d'Action: Bonus. \n Les alliés ciblés gagnent +50% de dégâts et +50% d'armure (bonus cumulable). \n\n Clic gauche sur l'icône puis clic gauche sur les unités ciblées."
+"Type d'Action: Bonus. \n Les alliés ciblés gagnent +25% de dégâts et +25% d'armure (bonus cumulable). \n\n Clic gauche sur l'icône puis clic gauche sur les unités ciblées."
 END
 
 
@@ -29045,7 +29045,7 @@ CONTROLBAR:ArwenImage
 End
 
 CONTROLBAR:ToolTipArwenImage
-"Requiert : Niveau 3 \n Les unitées et Héros ciblés deviennent temporairement invisibles et reçoivent +25% de vitesse de mouvement. \n\n Clic gauche sur l'icône puis clic gauche sur la zone ciblée."
+"Requiert : Niveau 3 \n Les unitées et Héros ciblés deviennent temporairement invisibles et reçoivent +10% de vitesse de mouvement durant 30 secondes. \n\n Clic gauche sur l'icône puis clic gauche sur la zone ciblée."
 End
 
 CONTROLBAR:ArwenFlood
@@ -29065,7 +29065,7 @@ CONTROLBAR:TinuvielBlessing
 END
 
 CONTROLBAR:ToolTipTinuvielBlessing
-"Requiert : Niveau 6 \n Les unités ennemies dans le rayon sont assommées. \n\n Clic gauche sur l'icône puis clic gauche sur la zone ciblée."
+"Requiert : Niveau 6 \n Les unités ennemies dans le rayon sont ralenties de 15% et perdent -20% d'armures et de dégâts pendant 30 secondes. \n\n Clic gauche sur l'icône puis clic gauche sur la zone ciblée."
 END
 
 CONTROLBAR:ArwenEvenstar
@@ -29261,7 +29261,7 @@ CONTROLBAR:GlorfindelWrath
 End
 
 CONTROLBAR:ToolTipGlorfindelWrath
-"Requiert : Niveau 3 \n Glorfindel gagne temporairement +100% de dégâts. \n Clic gauche pour l'activer. \n\n Type d'Action : Sort. \n Glorfindel provoque la peur aux ennemis proches et aux Nazgûls. \n S'accumule avec les Sorts, les Bonus, et le Charisme. \n\n Capacité passive."
+"Requiert : Niveau 3 \n Glorfindel gagne +100% de dégâts durant 30 secondes. \n Clic gauche pour l'activer. \n\n Type d'Action : Sort. \n Glorfindel provoque la peur aux ennemis proches et aux Nazgûls. \n S'accumule avec les Sorts, les Bonus, et le Charisme. \n\n Capacité passive."
 End
 
 CONTROLBAR:GlorfindelBladeOfPurity
@@ -29293,7 +29293,7 @@ CONTROLBAR:GlorfindelSlayer
 End
 
 CONTROLBAR:ToolTipGlorfindelSlayer
-"Requiert : Niveau 10 \n Renverse les unités dans un large rayon autour de Glorfindel. \n Les attaques de mêlée de Glorfindel marquent les héros ennemis pendant une courte période. \n\n Clic gauche pour l'activer."
+"Requiert : Niveau 10 \n Renverse les unités dans un large rayon autour de Glorfindel et les paralysent durant 15 secondes. \n Les attaques de mêlée de Glorfindel marquent les héros ennemis Durant 30 secondes. \n\n Clic gauche pour l'activer."
 End
 
 CONTROLBAR:GlorfindelStarlight
@@ -30157,7 +30157,7 @@ CONTROLBAR:PurchaseTechnologyRivendellLeithian
 END
 
 CONTROLBAR:ToolTipPurchaseTechnologyRivendellLeithian
-"L'histoire d'amour classique entre une Elfe immortelle et un homme mortel. \n\n Permet à la Compagnie Grise d'être recrutée depuis le Quartier Dúnedain."
+"L'histoire d'amour classique entre une Elfe immortelle et un homme mortel. \n\n Permet à la Compagnie Grise d'être recrutée depuis le Quartier Dúnedain et d'assembler Anduril de la Forge de Fondcombe."
 END
 
 UPGRADE:RivendellYavanna
@@ -30169,7 +30169,7 @@ CONTROLBAR:PurchaseTechnologyRivendellYavanna
 END
 
 CONTROLBAR:ToolTipPurchaseTechnologyRivendellYavanna
-"Un recueil de divers rites et chants concernant la Vala Yavanna. \n\n Augmente de 30% la production des Vergers."
+"Un recueil de divers rites et chants concernant la Vala Yavanna. \n\n Augmente de 15% la production des Vergers."
 END
 
 UPGRADE:RivendellFeanorSmithing
@@ -30181,7 +30181,7 @@ CONTROLBAR:PurchaseTechnologyRivendellFeanorSmithing
 END
 
 CONTROLBAR:ToolTipPurchaseTechnologyRivendellFeanorSmithing
-"Ce traité exhaustif sur les techniques de forgeage Noldorine a été rédigé par Celebrimbor. \n\n Réduit de façon permanente le coût des améliorations des unités."
+"Ce traité exhaustif sur les techniques de forgeage Noldorine a été rédigé par Celebrimbor. \n\n Réduit de façon permanente le coût des améliorations des unités de 20%."
 END
 
 CONTROLBAR:PurchaseTechnologyRivendellDagorlad
@@ -30746,7 +30746,7 @@ OBJECT:ArnorFighter
 END
 
 OBJECT:HordeBreeTownsguard
-"Garde de la cité du Pays de Bree"
+"Gardes de la cité du Pays de Bree"
 END
 
 CONTROLBAR:LW_Unit_BreeTownsguardHorde
@@ -30770,7 +30770,7 @@ CONTROLBAR:ToolTipBuildBreeTownsguardHorde
 END
 
 CONTROLBAR:LW_ToolTipBuild_BreeTownsguardHorde
-"Type d'unité : Unité standard. \n Forts contre la cavalerie."
+"Type d'unité : Unité standard. \n Forts contre la cavalerie et les héros."
 END
 
 
@@ -31452,7 +31452,7 @@ CONTROLBAR:StoryTeller
 End
 
 CONTROLBAR:ToolTipStoryTeller
-"Augmente le gain d'expérience des unités amies de 10%. \n Diminue passivement le temps de recharge de la Salle de Feu. \n\n Capacité passive."
+"Augmente le gain d'expérience des unités amies de 10%. \n Diminue passivement le temps de recharge de la Salle de Feu de 10%. \n\n Capacité passive."
 End
 
 CONTROLBAR:RevelerWeapon
@@ -31476,7 +31476,7 @@ CONTROLBAR:SongOfSpring
 End
 
 CONTROLBAR:ToolTipSongOfSpring
-"Lorsqu'il est lancé sur un Verger, augmente temporairement sa production de ressources de 50%. \n\n Clic gauche sur l'icône puis clic gauche sur la cible."
+"Lorsqu'il est lancé sur un Verger, augmente sa production de ressources de 50% durant 30 secondes. \n\n Clic gauche sur l'icône puis clic gauche sur la cible."
 End
 
 CONTROLBAR:RevelersAkallabeth
@@ -31484,7 +31484,7 @@ CONTROLBAR:RevelersAkallabeth
 END
 
 CONTROLBAR:ToolTipRevelersAkallabeth
-"Les Quentaroli peuvent cibler des unités pour diminuer leur vitesse de 5% jusqu'à 25% et les bâtiments pour diminuer leur armure de 5% jusqu'à 25%. \n Capacité passive. \n\n Inflige des dégâts important au fil du temps aux structures. \n Peut être lancé à grande distance. \n Clic gauche sur l'icône puis clic gauche sur la cible."
+"Les Quentaroli peuvent cibler des unités pour diminuer leur vitesse de 10% et les bâtiments pour diminuer leur armure de 33% durant 7 secondes. \n Capacité passive. \n\n Inflige des dégâts important au fil du temps aux structures durant 15 secondes. \n Peut être lancé à grande distance. \n Clic gauche sur l'icône puis clic gauche sur la cible."
 END
 
 
@@ -31512,7 +31512,7 @@ CONTROLBAR:ElvenRangerCloakProtectors
 END
 
 CONTROLBAR:ToolTipElvenRangerCloak
-"Requiert : Niveau 2 \n Type d'action: Charisme. \n Les Hobbits et les Gardes de la cité de Bree à proximité gagnent +20% d'armure et +75% d'expérience. \n Capacité passive. \n\n Le bataillon devient invisible lorsqu'il est immobile. \n Clic gauche pour l'activer."
+"Requiert : Niveau 2 \n Type d'action: Charisme. \n Les Hobbits à proximité gagnent +15% d'armure. \n Capacité passive. \n\n Le bataillon devient invisible lorsqu'il est immobile. \n Clic gauche pour l'activer."
 END
 
 CONTROLBAR:PurchaseUpgradeDunedainSpears
@@ -31574,7 +31574,7 @@ CONTROLBAR:ElvenRangerCloak
 END
 
 CONTROLBAR:ToolTipElvenRangerCloakOutriders
-"Requiert : Niveau 2 \n Devient invisible en restant immobile. \n\n Clic gauche pour l'activer."
+"Requiert : Niveau 2 \n Devient invisible en restant immobile durant 20 secondes. \n\n Clic gauche pour l'activer."
 END
 
 CONTROLBAR:ToolTipElvenRangerCloakInn
@@ -31682,7 +31682,7 @@ CONTROLBAR:LAVeteranEregion
 End
 
 CONTROLBAR:ToolTipLAVeteranEregion
-"Les Vétérans étaient là lors de l'attaque de Sauron contre le Royaume Noldorin d'Eregion. \n\n Le Bataillon est temporaiement immunisé contre les Renversements, le Piétinement et la Peur. \n Type d'Action : Armes. \n S'accumle avec le Charisme, les Bonus et les Sorts. \n\n Clic gauche pour activer. \n Une seule capacité peut être activé à la fois."
+"Les Vétérans étaient là lors de l'attaque de Sauron contre le Royaume Noldorin d'Eregion. \n\n Le Bataillon gagne +33% d'armure et est immunisé contre les Renversements, le Piétinement et la Peur durant 30 secondes. \n Type d'Action : Armes. \n S'accumle avec le Charisme, les Bonus et les Sorts. \n\n Clic gauche pour activer. \n Une seule capacité peut être activé à la fois."
 End
 
 CONTROLBAR:LAVeteranLastAlliance
@@ -31690,7 +31690,7 @@ CONTROLBAR:LAVeteranLastAlliance
 End
 
 CONTROLBAR:ToolTipLAVeteranLastAlliance
-"Requiert : Niveau 3 \n Les Vétérans étaient là pendant la Bataille de Dagorlad et le Siège Final de Barad-dûr. \n\n Les Dúnedains et les Habitants de Bree à proximité gagnent temporairement +33% d'armure pendant une courte période tandis que les unités Elfes proches gagnent +33% de dégâts pendant une courte période. \n\n Clic gauche pour l'activer. \n Une seule capacité peut être activé à la fois."
+"Requiert : Niveau 4 \n Les Vétérans étaient là pendant la Bataille de Dagorlad et le Siège Final de Barad-dûr. \n\n Les Dúnedains et les Habitants de Bree à proximité gagnent  +50% d'armure pendant 30 secondes tandis que les unités Elfes proches gagnent +50% de dégâts pendant 30 secondes. \n\n Clic gauche pour l'activer. \n Une seule capacité peut être activé à la fois."
 End
 
 CONTROLBAR:LAVeteranFallOfAngmar
@@ -31698,7 +31698,7 @@ CONTROLBAR:LAVeteranFallOfAngmar
 End
 
 CONTROLBAR:ToolTipLAVeteranFallOfAngmar
-"Requiert : Niveau 5 \n Les Vétérans ont combattu aux cotés de Glorfindel dans la Bataille décisive contre le Seigneur d'Angmar. \n\n Les attaques de mêlée infligent temporairement des dégâts de zone d'effet et des dégâts supplémentaires par rapport aux structures. La Vitesse d'attaque à distance est augmentée. \n Type d'Action : Armes. \n S'accumle avec le Charisme, les Bonus et les Sorts. \n\n Clic gauche pour l'activer. \n Une seule capacité peut être activé à la fois."
+"Requiert : Niveau 7 \n Les Vétérans ont combattu aux cotés de Glorfindel dans la Bataille décisive contre le Seigneur d'Angmar. \n\n Les attaques de mêlée infligent temporairement des dégâts de zone d'effet et +50% de dégâts supplémentaire par rapport aux structures. La Vitesse d'attaque à distance est augmentée. \n Type d'Action : Armes. \n S'accumle avec le Charisme, les Bonus et les Sorts. \n Dure 30 secondes\n Clic gauche pour l'activer. \n Une seule capacité peut être activé à la fois."
 End
 
 
@@ -31712,7 +31712,7 @@ CONTROLBAR:SongToElbereth
 End
 
 CONTROLBAR:ToolTipSongToElbereth
-"Les unités alliées deviennent temporairement immunisées face à la peur. \n\n Clic gauche pour l'activer."
+"Les unités alliées deviennent immunisées face à la peur durant 20 secondes. \n\n Clic gauche pour l'activer."
 End
 
 
@@ -33448,7 +33448,7 @@ OBJECT:MirkwoodStatue
 END
 
 OBJECT:MirkwoodHeroicStatueDescription
-"Type d'Action : Les alliés proches de la statue gagnent +33% de dégâts, +33% d'armure, gagnent de l'expérience 50% plus rapidement, et sont insensibles face à la peur et à la terreur. \n Bonus cumulable. \n Bonus héroùque - Réduit le coût des héros :\n 1 Statue: -4% \n 2 Statues: -8% \n 3 Statues: -12% \n 4 Statues: -16% \n 5+ Statues: -20%"
+"Type d'Action : Les alliés proches de la statue gagnent +25% de dégâts, +25% d'armure, gagnent de l'expérience 33% plus rapidement, et sont insensibles face à la peur et à la terreur"
 END
 
 
@@ -40917,7 +40917,7 @@ CONTROLBAR:WarChant
 End
 
 CONTROLBAR:ToolTipWarChant
-"Type d'Action : Bonus. \n Les sinistres chants de guerre résonnent parmi les troupes : pour une courte durée, les alliés ciblés gagnent +50% de dégâts et +50% d'armure (bonus cumulable). \n\n Clic gauche sur l'icône puis clic gauche sur les unités ciblées."
+"Type d'Action : Bonus. \n Les sinistres chants de guerre résonnent parmi les troupes : pour une courte durée, les alliés ciblés gagnent +25% de dégâts et +25% d'armure (bonus cumulable). \n\n Clic gauche sur l'icône puis clic gauche sur les unités ciblées."
 End
 
 
@@ -40997,7 +40997,7 @@ CONTROLBAR:Industry
 End
 
 CONTROLBAR:ToolTipIndustry
-"L'industrie de guerre de Saroumane déploie des hordes d'ouvriers Gobelins et d'Orques snagas pour alimenter ses forges et ses fonderies souterraines. \n La production de ressources de la structure sélectionnée augmente de 300% temporairement. \n Affecte les fournaises et les armureries. \n\n Clic gauche sur l'icône puis clic gauche sur un bâtiment de production."
+"L'industrie de guerre de Saroumane déploie des hordes d'ouvriers Gobelins et d'Orques snagas pour alimenter ses forges et ses fonderies souterraines. \n La production de ressources de la structure sélectionnée augmente de 300% pendant 5 minutes. \n Affecte les fournaises et les armureries. \n\n Clic gauche sur l'icône puis clic gauche sur un bâtiment de production."
 End
 
 
@@ -41021,7 +41021,7 @@ CONTROLBAR:FreezingRain
 End
 
 CONTROLBAR:ToolTipFreezingRain
-"Type d'Action : Pénalité active. \n Des nuages sombres s'amoncellent et recouvrent temporairement la carte d'une pluie drue et glacée : tous les ennemis perdent leur bonus de Charisme et subissent -25% de dégâts et -20% d'armure (Pénalité non cumulable). \n Annule les Vents Occidentaux, Pluie Verglaçante, Avant que le Soleil ne se Lève, Bénédiction d'Ulmo, Bénédiction de Manwë, Le Jour de Durin, Extinction des Feux, Hiver Blanc et Ombre. \n\n Clic gauche pour l'activer."
+"Type d'Action : Pénalité active. \n Des nuages sombres s'amoncellent et recouvrent pendant 3 minutes la carte d'une pluie drue et glacée : tous les ennemis perdent leur bonus de Charisme et subissent -25% de dégâts et -20% d'armure (Pénalité non cumulable). \n Annule les Vents Occidentaux, Pluie Verglaçante, Avant que le Soleil ne se Lève, Bénédiction d'Ulmo, Bénédiction de Manwë, Le Jour de Durin, Extinction des Feux, Hiver Blanc et Ombre. \n\n Clic gauche pour l'activer."
 END
 
 
@@ -43874,7 +43874,7 @@ CONTROLBAR:SpecialAbilityIgnite
 END
 
 CONTROLBAR:ToolTipSpecialAbilityIgnite
-"Un sinistre brasier brûle au coeur du Balrog et des flammes vivantes parcourent la surface de son corps. \n Il s'embrase et gagne +50% de dégâts et +50% d'armure, réduit le temps de recharge des capacités spéciales et fait s'enfuir de terreur les unités ennemies. \n\n Clic gauche pour l'activer."
+"Un sinistre brasier brûle au coeur du Balrog et des flammes vivantes parcourent la surface de son corps. \n Il s'embrase pendant 30 secondes et gagne +50% de dégâts et +50% d'armure, réduit le temps de recharge des capacités spéciales et fait s'enfuir de terreur les unités ennemies. \n\n Clic gauche pour l'activer."
 END
 
 CONTROLBAR:SpecialAbilityFlamingSword
@@ -44072,7 +44072,7 @@ CONTROLBAR:WhiteWinter
 END
 
 CONTROLBAR:ToolTipWhiteWinter
-"Couvre temporairement la carte dans une Tempête de neige qui fait rage. \n Annule les Vents Occidentaux, Pluie Verglaçante, Avant que le Soleil ne se Lève, Bénédiction d'Ulmo, Bénédiction de Manwë, Le Jour de Durin, Extinction des Feux, Hiver Blanc et Ombre. \n Type d'Action: Alteration Active. Les unités ennemies subissent -25% de dégâts, -20% d'armure, et -30% de portée. Annule le Charisme ennemi (bonus non cumulable). \n Clic gauche pour l'activer."
+"Couvre pendant 3 minutes la carte dans une Tempête de neige qui fait rage. \n Annule les Vents Occidentaux, Pluie Verglaçante, Avant que le Soleil ne se Lève, Bénédiction d'Ulmo, Bénédiction de Manwë, Le Jour de Durin, Extinction des Feux, Hiver Blanc et Ombre. \n Type d'Action: Alteration Active. Les unités ennemies subissent -25% de dégâts, -20% d'armure. Annule le Charisme ennemi (bonus non cumulable). \n Clic gauche pour l'activer."
 END
 
 
@@ -80503,18 +80503,18 @@ OBJECT:HeroicStatueDescription
 //"Les alliés proches de la statue gagnent +50% dégâts, +50% armure et gagnent de l'expérience deux fois plus rapidement.\n\n Réduit le coût de l'infanterie.\n\n Augmente la limite de points commandement de 10."
 //"Les alliés proches de la statue gagnent +33% dégâts, +33% armure, gagnent de l'expérience deux fois plus rapidement et sont insensibles à la peur et à la terreur.\n Réduit le coût de l'infanterie.\n\n Augmente la limite de points commandement de 10."
 //"Les alliés proches de la statue gagnent +33% dégâts, +33% armure, gagnent de l'expérience 50% plus rapidement et sont insensibles à la peur et à la terreur.\n Réduit le coût de l'infanterie.\n\n Augmente la limite de points commandement de 10."
-"Type d'Action : Charisme\nLes alliés proches de la statue gagnent +33% dégâts, +33% armure, gagnent de l'expérience 50% plus rapidement et sont insensibles à la peur et à la terreur (bonus cumulable).\nBonus de culture - Réduit le coût des unités :\n 1 statue : -4% \n 2 statues : -8% \n 3 statues : -12% \n 4 statues : -16% \n 5+ statues : -20%"
+"Type d'Action : Charisme\nLes alliés proches de la statue gagnent +25% dégâts, +25% armure, gagnent de l'expérience 33% plus rapidement et sont insensibles à la peur et à la terreur (bonus cumulable).\nBonus de culture - Réduit le coût des unités :\n 1 statue : -4% \n 2 statues : -8% \n 3 statues : -12% \n 4 statues : -16% \n 5+ statues : -20%"
 END
 
 OBJECT:RohanHeroicStatueDescription
 //"Les alliés proches de la Statue gagnent\n +50% dégâts, +50% armure, \n et gagnent de l'expérience deux fois plus rapidement \n \n Réduit le coût de l'infanterie \n Augmente la limite de points de commandement de 10"
 //"Les alliés proches de la Statue gagnent \n +33% dégâts, +33% armure, \gagnent de l'expérience deux fois plus rapidement,\n et sont immunisés à la peur et à la terreur\nRéduit le coût de l'infanterie \n Augmente la limite de points de commandement de 10"
 //"Les alliés proches de la Statue gagnent \n +33% dégâts, +33% armure, \gagnent de l'expérience deux fois plus rapidement,\n et sont immunisés à la peur et à la terreur\nRéduit le coût de l'infanterie \n Augmente la limite de points de commandement de 10"
-"Type d'Action : Charisme \n Les alliés proches de la statue gagnent +33% dégâts, +33% armure, gagnent de l'expérience 50% plus rapidement, et sont insensibles à la peur et à la terreur \n Bonus cumulable \n Bonus héroîque - Réduit le coût des héros :\n 1 statue : -4% \n 2 statues : -8% \n 3 statues : -12% \n 4 statues : -16% \n 5+ statues : -20%"
+"Type d'Action : Charisme \n Les alliés proches de la statue gagnent +25% dégâts, +25% armure, gagnent de l'expérience 33% plus rapidement, et sont insensibles à la peur et à la terreur"
 END
 
 OBJECT:ElvenHeroicStatueDescription
-"Type d'Action : Charisme\nLes alliés proches de la statue gagnent +33% dégâts, +33% armure, gagnent de l'expérience 50% plus rapidement et sont insensibles à la peur et à la terreur (bonus cumulable).\nBonus de culture - Réduit le coût des héros et des unités d'infanterie de base de la Lórien :\n 1 statue : -4% \n 2 statues : -8% \n 3 statues : -12%% \n 4 statues : -16% \n 5+ statues : -20%."
+"Type d'Action : Charisme\nLes alliés proches de la statue gagnent +25% dégâts, +25% armure, gagnent de l'expérience 33% plus rapidement et sont insensibles à la peur et à la terreur (bonus cumulable).\nBonus de culture - Réduit le coût des héros et des unités d'infanterie de base de la Lórien :\n 1 statue : -4% \n 2 statues : -8% \n 3 statues : -12%% \n 4 statues : -16% \n 5+ statues : -20%."
 END
 
 CONTROLBAR:ToolTipBuildEvilBombardShip
