@@ -58095,22 +58095,16 @@ OBJECT:DunedainRanger
 "Rôdeur Dúnedain"
 End
 CONTROLBAR:ToolTipMenLongShotAbility
-//"The rangers bombard anywhere on the map with a volley of arrows \n Left click icon then left click on target area\n Requires Level 2"
-//"Requires Level 2\nThe rangers bombard anywhere on the map with a volley of arrows \n Left click icon then left click on target area"
-"Requires Level 3\nThe rangers bombard anywhere within a great radius with a volley of arrows \n Left click icon then left click on target area"
+"Requiert le niveau 3\nLes rangers bombardent n'importe où sur la carte avec une volée de flèches \n Cliquez sur l'icône puis cliquez sur la zone cible"
 End
 CONTROLBAR:ToolTipMirkwoodLongShotAbility
-"Requires Level 5\nThe rangers bombard anywhere within a great radius with a volley of arrows \n Left click icon then left click on target area"
+"Requiert le niveau 5\nLes rangers bombardent n'importe où dans un grand rayon avec une volée de flèches \n Cliquez sur l'icône puis cliquez sur la zone cible"
 End
 CONTROLBAR:ToolTipFirienholtLongShotAbility
-//"The rangers bombard anywhere on the map with a volley of arrows \n Left click icon then left click on target area\n Requires Level 2"
-//"Requires Level 2\nThe rangers bombard anywhere on the map with a volley of arrows \n Left click icon then left click on target area"
-"Requires Level 3\nThe Wardens bombard anywhere within a great radius with a volley of arrows \n Left click icon then left click on target area"
+"Requiert le niveau 3\nLes Gardiens bombardent n'importe où dans un grand rayon avec une volée de flèches \n Cliquez sur l'icône puis cliquez sur la zone cible"
 End
 CONTROLBAR:ToolTipFirienholtLongShotAbility_Summoned
-//"Les Gardiens bombardent une zone de la carte avec une volée de flèches. \n\n Clic gauche sur l'icône puis clic gauche sur la zone ciblée.\n Niveau 2 requis"
-//"Niveau 2 requis\nThe rangers bombard anywhere on the map with a volley of arrows \n Left click icon then left click on target area"
-"The Wardens bombard anywhere within a great radius with a volley of arrows \n Left click icon then left click on target area"
+"Les Gardiens bombardent n'importe où dans un grand rayon avec une volée de flèches \n Cliquez sur l'icône puis cliquez sur la zone cible"
 End
 
 CONTROLBAR:ToggleIthilienWeapons
@@ -58136,218 +58130,179 @@ CONTROLBAR:ToolTipDescriptionMenFarm
 END
 
 CONTROLBAR:ToolTipConstructMenBarracks
-//"Trains Soldiers, Spearmen and Tower Guards"
-"Trains the melee infantry of Gondor"
+"Entraîne l'infanterie de mêlée de Gondor"
 END
 
 CONTROLBAR:ToolTipConstructMenBarracksWotRRealTime
-"Primary Barracks\nTrains basic infantry of Gondor\nLimited to 2"
+"Caserne principale\nEntraîne l'infanterie de base de Gondor\nLimité à 2"
 END
 
 
 CONTROLBAR:ToolTipConstructRohanBarracks
-//"Trains Soldiers, Spearmen and Tower Guards"
-"Trains the melee infantry of Rohan \n Researches weapons and armour upgrades \n Generates a small amount of resources based on avaliable terrain"
+"Entraîne l'infanterie de mêlée de Rohan \n Recherche des améliorations d'armes et d'armures \n Génère une petite quantité de ressources en fonction du terrain disponible"
 END
 
 CONTROLBAR:ToolTipConstructRohanBarracksWotR
-//"Trains Soldiers, Spearmen and Tower Guards"
-"Primary Barracks\nTrains basic infantry of Rohan\nLimited to 2"
+"Caserne principale\nEntraîne l'infanterie de base de Rohan\nLimité à 2"
 END
 
 CONTROLBAR:ToolTipBuildGondorBarracksLevel2Upgrade
-//"Allows training of Tower Guards \nLevel 2: +10% faster build speed"
-//"Allows training of Tower Guards and the purchase of Banner Carriers \nLevel 2: +10% faster build speed"
-//"Allows training of Tower Guards and the research of Banner Carriers \n+10% faster build speed"
-"Allows training of Soldiers and Spearmen of Minas Tirith \n+10% faster build speed"
+"Permet l'entraînement des soldats et des lanciers de Minas Tirith \n +10% de vitesse de construction supplémentaire"
 END
 
 CONTROLBAR:ToolTipBuildGondorBarracksLevel2Upgrade_GC
-"Allows training of Lossarnach Axemen \n+10% faster build speed"
+"Permet l'entraînement des hacheurs de Lossarnach \n +10% de vitesse de construction supplémentaire"
 END
 
 CONTROLBAR:ToolTipBuildGondorBarracksLevel2Upgrade_Osgiliath
-"Allows training of Spearmen of Minas Tirith \n+10% faster build speed"
+"Permet l'entraînement des lanciers de Minas Tirith \n +10% de vitesse de construction supplémentaire"
 END
 
 CONTROLBAR:ToolTipBuildGondorBarracksLevel3Upgrade
-//"Level 3: +25% faster build speed"
-//"+25% faster build speed"
-"+25% faster build speed\nAdds defensive arrow tower"
+"+25% de vitesse de construction supplémentaire\nAjoute une tour de défense à flèches"
 END
 
 CONTROLBAR:ToolTipBuildGondorBarracksLevel3Upgrade_GC
-"Allows training of Pinnath Gelin Riders\n+25% faster build speed\nAdds defensive arrow tower"
+"Permet l'entraînement des cavaliers de Pinnath Gelin\n+25% de vitesse de construction supplémentaire\nAjoute une tour de défense à flèches"
 END
 
 CONTROLBAR:ToolTipBuildGondorArcheryRangeLevel2Upgrade
-//"Level 2: +10% faster build speed \n Allows training of Ithilien Rangers"
-"Allows training of Archers of Minas Tirith\n+10% faster build speed"
+"Permet l'entraînement des archers de Minas Tirith\n+10% de vitesse de construction supplémentaire"
 END
 CONTROLBAR:ToolTipBuildGondorArcheryRangeLevel3Upgrade
-//"Level 3: +25% faster build speed \n Allows purchase of the Fire Arrow Upgrade"
-"Allows training of Ithilien Rangers\n Allows purchase of the Fire Arrow Upgrade\n+25% faster build speed\nAdds defensive arrow tower"
+"Permet l'entraînement des rôdeurs d'Ithilien\nPermet l'achat de l'amélioration des flèches enflammées\n+25% de vitesse de construction supplémentaire\nAjoute une tour de défense à flèches"
 END
 
 CONTROLBAR:ToolTipBuildGondorArcheryRangeLevel2Upgrade_Osgiliath
-"Allows training of Ithilien Rangers\n+10% faster build speed"
+"Permet l'entraînement des rôdeurs d'Ithilien\n+10% de vitesse de construction supplémentaire"
 END
 CONTROLBAR:ToolTipBuildGondorArcheryRangeLevel3Upgrade_Osgiliath
-"Allows purchase of the Fire Arrow Upgrade\n+25% faster build speed\nAdds defensive arrow tower"
+"Permet l'achat de l'amélioration des flèches enflammées\n+25% de vitesse de construction supplémentaire\nAjoute une tour de défense à flèches"
 END
 
 CONTROLBAR:ToolTipConstructMenStable
-//"Trains and upgrades Gondorian Cavalry"
-"Trains Gondor's cavalry"
+"Entraîne la cavalerie de Gondor"
 END
 
 CONTROLBAR:ToolTipConstructMenStableWotRRealTime
-"Secondary Barracks \n Trains Pinnath Gelin Riders \n Limited to 1"
+"Caserne secondaire\nEntraîne les cavaliers de Pinnath Gelin\nLimité à 1"
 END
 
 CONTROLBAR:ToolTipConstructRohanStable
-//"Trains and upgrades Gondorian Cavalry \n Increases command point limit by 25"
-"Trains Rohan's cavalry \n Generates a small amount of resources based on avaliable terrain\n Increases the armour of cavalry units"
+"Entraîne la cavalerie de Rohan\nGénère une petite quantité de ressources en fonction du terrain disponible\nAugmente l'armure des unités de cavalerie"
 END
 
 CONTROLBAR:ToolTipConstructRohanStableWotR
-//"Trains and upgrades Gondorian Cavalry \n Increases command point limit by 25"
-"Secondary Barracks \n Trains Horsemen of the Mark \n Increases the armour of cavalry units \n Limited to 1"
+"Caserne secondaire\nEntraîne les cavaliers du Rohan\nAugmente l'armure des unités de cavalerie\nLimité à 1"
 END
 
 CONTROLBAR:ToolTipBuildGondorStableLevel2Upgrade
-//"Level 2: +10% faster build speed \n Allows training of Knights of Dol Amroth"
-"Allows training of Knights of Minas Tirith\n+10% faster build speed"
+"Permet l'entraînement des chevaliers de Minas Tirith\n+10% de vitesse de construction supplémentaire"
 END
 CONTROLBAR:ToolTipBuildGondorStableLevel3Upgrade
-//"Level 3: +25% faster build speed \nAdds defensive arrow tower"
-"+25% faster build speed\nAdds defensive arrow tower"
+"+25% de vitesse de construction\nAjoute une tour de défense à flèches"
 END
 CONTROLBAR:ToolTipBuildGondorWorkshopLevel2Upgrade
-//"Level 2: +10% faster build speed \n Allows research of the Fire Stones upgrade"
-"Allows research of the Fire Stones upgrade\nHeals nearby damaged siege machines \n+10% faster build speed"
+"Permet la recherche de l'amélioration des pierres de feu\nSoigne les machines de siège endommagées à proximité\n+10% de vitesse de construction"
 END
 CONTROLBAR:ToolTipBuildGondorWorkshopLevel3Upgrade
-//"Level 3: +25% faster build speed"
-"+25% faster build speed\nIncreased healing to nearby damaged siege machines \nAdds defensive arrow tower"
+"+25% de vitesse de construction\nSoigne davantage les machines de siège endommagées à proximité\nAjoute une tour d'archers défensive"
 END
 CONTROLBAR:ToolTipBuildRohanWorkshopLevel2Upgrade
-//"Level 2: +10% faster build speed \n Allows research of the Fire Stones upgrade"
-"Allows training of Rohirric Onager \n Heals nearby damaged siege machines \n +10% faster build speed"
+"Permet l'entraînement de l'onagre rohirrim\nSoigne les machines de siège endommagées à proximité\n+10% de vitesse de construction"
 END
 CONTROLBAR:ToolTipBuildRohanWorkshopLevel3Upgrade
-//"Level 3: +25% faster build speed"
-"+25% faster build speed \n Increased healing to nearby damaged siege machines"
+"+25% de vitesse de construction\nSoigne davantage les machines de siège endommagées à proximité"
 END
 OBJECT:GondorBlacksmithDescription
-//"Researches Men of the West unit upgrades"
-//"Niveau 2 : vitesse de construction +10%. \n Niveau 3 : vitesse de construction +25%.\n Reduces the cost of upgrades"
-"Researches weapons and armour upgrades \n Provides worked metals as a resource based on available terrain \n Steel Bonus - Reduced cost of upgrades \n 2 Blacksmiths: 5% \n 3 Blacksmiths: 10% \n 4 Blacksmiths: 15% \n 5 Blacksmiths: 20% \n 6+ Blacksmiths: 25%"
+"Recherche des améliorations d'armes et d'armures\nFournit des métaux travaillés en fonction du terrain disponible\nBonus d'acier - Coût réduit des améliorations\n2 Forges : 5%\n3 Forges : 10%\n4 Forges : 15%\n5 Forges : 20%\n6+ Forges : 25%"
 END
 CONTROLBAR:ToolTipBuildGondorForgeLevel2Upgrade
-//"Allows research of Forged Blades"
-"Allows research of Heavy Armour and Forged Blades"
+"Permet la recherche de l'armure lourde et des lames forgées"
 End
 CONTROLBAR:ToolTipBuildGondorForgeLevel3Upgrade
-//"Allows research of Heavy Armour"
-"Adds defensive arrow tower"
+"Ajoute une tour de défense à flèches"
 End
 CONTROLBAR:ToolTipConstructMenDormitory
-//"Garrisonable defensive structure \n Increases decommission value of units"
-//"Garrisonable defensive structure \n Increases decommission value of units\nGarrisoned units gain +20% experience"
-"Garrisonable defensive structure \n Increases decommission value of units\nGarrisoned units gain +20% experience \n Increases command point limit by 25"
+"Structure défensive pouvant être garnisonnée\nAugmente la valeur de désaffectation des unités\nLes unités en garnison gagnent +20% d'expérience\nAugmente la limite de points de commande de 25"
 END
 CONTROLBAR:ToolTipPurchaseUpgradeMenFortressBanners
-//"Provides additional experience to nearby troops \n Reduces Hero cost by 10% \n Reduces Hero recruit time by 10% \n Reduces the cost of builders by 20%"
-//"Allies near the Fortress gain\n+33% damage, +33% armour,\nand earn experience twice as fast.\nReduces Hero cost by 10% \n Reduces Hero recruit time by 10% \n Reduces the cost of builders by 20%"
-//"Allies near the Fortress gain\n+33% damage, +33% armour,\nand earn experience twice as fast.\n\nReduces Hero cost by 10% \n Reduces Hero recruit time by 10% \n Reduces the cost of builders by 20%"
-//"Allies near the Fortress gain\n+33% damage, +33% armour,\nand earn experience 50% faster.\n\nReduces Hero cost by 10% \n Reduces Hero recruit time by 10% \n Reduces the cost of builders by 20%"
-"Modifier Type: Leadership \n Allies near the Fortress gain +33% damage, +33% armour, and earn experience 50% faster\n\nReduces Hero cost by 10% \n Reduces Hero recruit time by 10% \n Reduces the cost of builders by 20%"
+"Type de modification : Leadership\nLes alliés près de la forteresse bénéficient de +33% de dégâts, +33% d'armure et gagnent de l'expérience 50% plus rapidement\n\nRéduit le coût des héros de 10%\nRéduit le temps de recrutement des héros de 10%\nRéduit le coût des bâtisseurs de 20%"
 END
 
 // Men Heroes
 
 OBJECT:HordeGondorKnightsofDol
 //"The Knights of Dol Amroth"
-"Swan Knights of Dol Amroth"
+"Chevaliers au Cygne Argenté"
 END
 CONTROLBAR:ToolTipBuildGondorKnightsofDolHorde
 //"Strong vs. All Normal Troops \n Requires Level 2 Stables."
-"Strong vs. Infantry, Archers\nLimited to 3\n\n The Swan Knights of Dol Amroth were renowned as one of the greatest cavalry regiments in Middle-earth."
+"Les grands Chevaliers au Cygne Argenté de Dol Amroth sont la noblesse du Belfalas et les plus fameux des guerriers du Gondor.\n Les compagnies de chevaliers montent de puissants chevaux de guerre caparaçonnés et portent des armures plus lourdes que les autres combattants du grand fief du sud. \n\n Forts contre l'infanterie et les archers.\n Limité à 3"
 END
 CONTROLBAR:ToolTipBuildGondorKnightsofDolHorde_WOTR
 //"Strong vs. All Normal Troops \n Requires Level 2 Stables."
-"Requires Level 2 Stables and Dol Amroth Citadel\nStrong vs. Infantry, Archers\nLimited to 3\n\n The Swan Knights of Dol Amroth were renowned as one of the greatest cavalry regiments in Middle-earth."
+"Requiert : Écurie Niveau 2 et Citadelle de Dol Amroth. \n Forts contre l'infanterie et les archers. \n\n Les chevaliers au cygne argenté de Dol Amroth sont reconnus comme étant l'un des régiments de cavalerie les plus puissants de la Terre du Milieu.\n Limité à 3"
 END
 CONTROLBAR:TooltipKnightsofDolInspiration
 //"Requires Level 2 \n Mounted units near the Knights gain +50% damage and +50% armour \n Passive ability"
 //"Requires Level 2 \n Gondor Knights and Rohirrim near the Knights of Dol Amroth gain\n+33% damage, +33% armour\nand earn experience twice as fast\nPassive ability"
 //"Requires Level 2 \n Nearby Gondor Knights and Rohirrim gain\n+33% damage, +33% armour\nand earn experience twice as fast\nPassive ability"
-"Requires Level 2 \n Nearby Gondor Cavalry gain\n+33% damage, +33% armour\nand earn experience 50% faster\nPassive ability"
+"Requiert : Niveau 2 \n Les cavaliers du Gondor proches des Chevaliers gagnent +33% de dégâts, +33% d'armure et gagnent de l'expérience 50% plus rapidement. \n\n Capacité passive."
 END
 
 CONTROLBAR:ToolTipSmite
 //"Powerful ranged attack against a single target \n Left click icon then left click on target"
-"Requires Level 8\n Powerful ranged attack against a single target\n Deals great damage to flying units\n Deals 200% extra damage to the Witch-king of Angmar\n Left click icon then left click on target"
+"Requiert \n Puissante attaque à distance contre une seule cible \n Inflige d'importants dégâts aux unités volantes \n Inflige 200% de dégâts supplémentaires au Roi Sorcier d'Angmar\n Clic gauche sur l'icône puis clic gauche sur la cible"
 END
 
 CONTROLBAR:ToolTipEomerLeadership
-//"Cavalry near Eomer gain \n +50% damage, +50% armour, \n and earn experience twice as fast \n \n Passive ability       Does not stack"
-//"Allied cavalry near Eomer gain \n +33% damage, +33% armour, \n and earn experience twice as fast \n Passive ability"
-//"Allied cavalry near Eomer gain \n +33% damage, +33% armour, \n and earn experience 50% faster\n Passive ability"
-"Modifier Type: Leadership \n Allied cavalry near Éomer gain +50% damage and -25% trample deceleration \n\n Requires Level 3 \n Éomer and nearby units earn resources per kill \n\n Passive ability"
+"Type de modification : Charisme\nLa cavalerie alliée près d'Éomer bénéficie de +50% de dégâts et de -25% de décélération au piétinement\n\nNécessite le niveau 3\nÉomer et les unités à proximité gagnent des ressources par élimination\n\nCapacité passive"
 END
 
 CONTROLBAR:ToolTipThrowSpear
 //"Requires Level 5 \n Powerful ranged attack against a single target \n Left click icon then left click on target"
 //"Requires Level 5 \n Powerful ranged attack with radius damage \n Left click icon then left click on target"
 //"Requires Level 2 \n Powerful ranged attack with radius damage \n Left click icon then left click on target"
-"Powerful ranged attack with radius damage \n Left click icon then left click on target"
+"Puissante attaque à distance avec des dégâts de zone. \n\n Clic gauche sur l'icône puis clic gauche sur la cible."
 END
 
 CONTROLBAR:TheodenLeadership
-"King of Rohan"
+"Roi du Rohan"
 END
 
 CONTROLBAR:ToolTipTheodenLeadership
 //"Allies near Theoden gain \n +50% damage, +50% armour, \n and earn experience twice as fast \n \n Passive ability       Does not stack"
 //"Allies near Theoden gain \n +33% damage, +33% armour, \n and earn experience twice as fast \n Passive ability"
 //"Allies near Theoden gain \n +33% damage, +33% armour, \n and earn experience 50% faster\n Passive ability"
-"Modifier Type: Leadership \n Allies near Théoden gain +50% armour, and earn experience 100% faster \n Passive ability"
+"Type d'Action : Charisme. \n Les alliés proches de Théoden gagnent +50% de dégâts, +50% d'armure et gagnent de l'expérience 50% plus rapidement (bonus cumulable). \n\n Capacité passive."
 END
 CONTROLBAR:ToolTipKingsFavor
 //"Requires Level 4 \n Targeted units gain experience \n Left click icon then left click on target units"
-"Requires Level 7 \n Targeted units gain large experience \n Left click icon then left click on target units"
+"Requiert : Niveau 7 \n Les unités ciblées gagnent de l'expérience modérément. \n\n Clic gauche sur l'icône puis clic gauche sur la cible."
 END
 CONTROLBAR:ToolTipDainKingsFavor
 //"Requires Level 4 \n Targeted units gain experience \n Left click icon then left click on target units"
-"Requires Level 6 \n Targeted units gain large experience \n Left click icon then left click on target units"
+"Requiert : Niveau 6 \n Octroie beaucoup d'expérience aux unités ciblées \n Clic gauche pour activer puis clic gauche sur les unités ciblées"
 END
 CONTROLBAR:ToolTipGloriousCharge
-//"Requires Level 6 \n Theoden and nearby cavalry take only 10% of normal damage \n Theoden must be mounted to use ability \n Left click to activate"
-//"Requires Level 6 \n Theoden and nearby cavalry gain\n+100% damage and +300% armour \n No force can slow this charge \n Theoden must be mounted to use ability \n Left click to activate"
-"Requires Level 5 \n Théoden must be mounted to use ability \n Modifier Type: Spell \n Théoden and nearby cavalry gain +100% armour for 20 seconds\n The more riders near Théoden, the larger the bonus \n(+10% armour by battalion) \n No force can slow this charge \n\n At level 10 affected units are immune to fear and terror \nLeft click to activate"
+"Requiert : Niveau 5 \n Théoden doit être à cheval pour utiliser cette capacité. \n Type d'Action : Sort. \n Théoden et la cavalerie proche gagnent +100% d'armure pendant 20 secondes. \n Plus il y a de cavaliers près de Théoden, plus le bonus est important (+10% d'armure par bataillon). \n Aucune force ne peut ralentir cette charge. \n\n \n\nAu niveau 10, les unités affectées sont immunisées contre la peur et la terreur \n Clic gauche pour l'activer."
 END
 
 CONTROLBAR:ToolTipFaramirLeadership
-//"Requires Level 6 \n Allies near Faramir gain \n +50% damage, +50% armour, \n and earn experience twice as fast \n \n Passive ability       Does not stack"
-//"Requires Level 4 \n Allies near Faramir gain \n +33% damage, +33% armour, \n and earn experience twice as fast\n Passive ability"
-//"Requires Level 5 \n Allies near Faramir gain \n +33% damage, +33% armour, \n and earn experience twice as fast\n Passive ability"
-//"Requires Level 5 \n Allies near Faramir gain \n +33% damage, +33% armour, \n and earn experience 50% faster\n Passive ability"
-//"Requires Level 6 \n Allies near Faramir gain \n +33% damage, +33% armour, \n and earn experience 50% faster\n Passive ability"
-"Requires Level 3 \n Modifier Type: Leadership \n Pinnath Gelin Riders and Knights of Minas Tirith near Faramir gain +15% armour and -15% trample deceleration \nPassive ability"
+"Requiert : Niveau 3 \n Type d'Action: Charisme. \n Les Cavaliers de Pinnath Gelin, les Chevaliers de l'Anorien et les Chevaliers de Dol Amroth proches de Faramir gagnent +15% d'armure et -15% de délération au piétinement (bonus cumulable).\n\n Capacité passive"
 END
 CONTROLBAR:ToolTipCaptainofGondor
 //"Requires Level 7 \n Give targeted units experience \n Left click icon then left click on target units"
-"Requires Level 8 \n Give targeted friendly troops experience \n Left click icon then left click on target units"
+"Requiert : niveau 8\n Donne de l'expérience aux unités alliées ciblées.\n\nClic gauche sur l'icône puis clic gauche sur la cible"
 END
 
 CONTROLBAR:ToolTipHornofGondor
-"Requires Level 4 \n Stun enemies with fear for 15 seconds \n Left click to activate"
+"Requiert : Niveau 4 \n Boromir souffle puissamment dans son cor et effraye les ennemis qui sont pétrifiés de terreur pendant 15 secondes. \n\n Clic gauche pour l'activer."
 END
 
 CONTROLBAR:ToolTipFellowshipHornofGondor
-"Requires Level 3 \n Stun enemies with fear for 15 seconds \n Left click to activate"
+"Requiert : Niveau 3 \n Boromir souffle puissamment dans son cor et effraye les ennemis qui sont pétrifiés de terreur pendant 15 secondes. \n\n Clic gauche pour l'activer."
 END
 
 CONTROLBAR:ToolTipBoromirLeadership
