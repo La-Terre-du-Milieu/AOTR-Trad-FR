@@ -17154,11 +17154,11 @@ CONTROLBAR:HornofGondor
 END
 
 CONTROLBAR:ToolTipFellowshipHornofGondor
-"Requiert : Niveau 3 \n Boromir souffle puissamment dans son cor et effraye les ennemis qui sont pétrifiés de terreur pendant 5 secondes. \n\n Clic gauche pour l'activer."
+"Requiert : Niveau 3 \n Boromir souffle puissamment dans son cor et effraye les ennemis qui sont pétrifiés de terreur pendant 15 secondes. \n\n Clic gauche pour l'activer."
 END
 
 CONTROLBAR:ToolTipHornofGondor
-"Requiert : Niveau 4 \n Boromir souffle puissamment dans son cor et effraye les ennemis qui sont pétrifiés de terreur pendant 5 secondes. \n\n Clic gauche pour l'activer."
+"Requiert : Niveau 4 \n Boromir souffle puissamment dans son cor et effraye les ennemis qui sont pétrifiés de terreur pendant 15 secondes. \n\n Clic gauche pour l'activer."
 END
 
 CONTROLBAR:WannaBoroMiKnife
@@ -18846,11 +18846,11 @@ CONTROLBAR:ConstructGondorKnightsofDolHorde
 END
 
 CONTROLBAR:ToolTipBuildGondorKnightsofDolHorde
-"Les grands Chevaliers au Cygne Argenté de Dol Amroth sont la noblesse du Belfalas et les plus fameux des guerriers du Gondor.\n Les compagnies de chevaliers montent de puissants chevaux de guerre caparaçonnés et portent des armures plus lourdes que les autres combattants du grand fief du sud. \n\n Forts contre l'infanterie et les archers."
+"Les grands Chevaliers au Cygne Argenté de Dol Amroth sont la noblesse du Belfalas et les plus fameux des guerriers du Gondor.\n Les compagnies de chevaliers montent de puissants chevaux de guerre caparaçonnés et portent des armures plus lourdes que les autres combattants du grand fief du sud. \n\n Forts contre l'infanterie et les archers.\n Limité à 3"
 END
 
 CONTROLBAR:ToolTipBuildGondorKnightsofDolHorde_WOTR
-"Requiert : Écurie Niveau 2 et Citadelle de Dol Amroth. \n Forts contre l'infanterie et les archers. \n\n Les chevaliers au cygne argenté de Dol Amroth sont reconnus comme étant l'un des régiments de cavalerie les plus puissants de la Terre du Milieu."
+"Requiert : Écurie Niveau 2 et Citadelle de Dol Amroth. \n Forts contre l'infanterie et les archers. \n\n Les chevaliers au cygne argenté de Dol Amroth sont reconnus comme étant l'un des régiments de cavalerie les plus puissants de la Terre du Milieu.\n Limité à 3"
 END
 
 OBJECT:GondorKnightsofDol
@@ -20168,7 +20168,7 @@ CONTROLBAR:HorseLordLeadership
 END
 
 CONTROLBAR:ToolTipEomerLeadership
-"Type d'Action : Charisme. \n Les Cavaliers proche d'Éomer gagnent +33% de dégâts, +33% d'armure, et gagnent de l'expérience 50% plus rapidement (bonus cumulable). \n\n Capacité passive."
+"Type d'Action : Charisme. \n Les Cavaliers proche d'Éomer gagnent +50% de dégâts, +33% d'armure, et gagnent de l'expérience 50% plus rapidement (bonus cumulable). \n\n Capacité passive."
 END
 
 CONTROLBAR:ThrowSpear
@@ -20222,7 +20222,7 @@ CONTROLBAR:TheodenLeadership
 END
 
 CONTROLBAR:ToolTipTheodenLeadership
-"Type d'Action : Charisme. \n Les alliés proches de Théoden gagnent +33% de dégâts, +33% d'armure et gagnent de l'expérience 50% plus rapidement (bonus cumulable). \n\n Capacité passive."
+"Type d'Action : Charisme. \n Les alliés proches de Théoden gagnent +50% de dégâts, +50% d'armure et gagnent de l'expérience 50% plus rapidement (bonus cumulable). \n\n Capacité passive."
 END
 
 CONTROLBAR:TheodenMount
@@ -20258,7 +20258,7 @@ CONTROLBAR:GloriousCharge
 END
 
 CONTROLBAR:ToolTipGloriousCharge
-"Requiert : Niveau 5 \n Théoden doit être à cheval pour utiliser cette capacité. \n Type d'Action : Sort. \n Théoden et la cavalerie proche gagnent +100% d'armure. \n Plus il y a de cavaliers près de Théoden, plus le bonus est important (+10% d'armure par bataillon). \n Aucune force ne peut ralentir cette charge. \n\n Cumulable avec Charismes et Sorts. \n Clic gauche pour l'activer."
+"Requiert : Niveau 5 \n Théoden doit être à cheval pour utiliser cette capacité. \n Type d'Action : Sort. \n Théoden et la cavalerie proche gagnent +100% d'armure pendant 20 secondes. \n Plus il y a de cavaliers près de Théoden, plus le bonus est important (+10% d'armure par bataillon). \n Aucune force ne peut ralentir cette charge. \n\n \n\nAu niveau 10, les unités affectées sont immunisées contre la peur et la terreur \n Clic gauche pour l'activer."
 END
 
 CONTROLBAR:KingsFavor
@@ -80597,7 +80597,7 @@ CONTROLBAR:ToolTipDainKingsFavor
 END
 
 CONTROLBAR:ToolTipFaramirLeadership
-"Requiert : Niveau 3 \n Type d'Action: Charisme. \n Les Cavaliers de Pinnath Gelin, les Chevaliers de l'Anorien et les Chevaliers de Dol Amroth proches de Faramir gagnent +15% de vitesse de déplacement et -15% de délération au piétinement (bonus cumulable).\n\n Capacité passive"
+"Requiert : Niveau 3 \n Type d'Action: Charisme. \n Les Cavaliers de Pinnath Gelin, les Chevaliers de l'Anorien et les Chevaliers de Dol Amroth proches de Faramir gagnent +15% d'armure et -15% de délération au piétinement (bonus cumulable).\n\n Capacité passive"
 END
 
 CONTROLBAR:ToolTipCaptainofGondor
