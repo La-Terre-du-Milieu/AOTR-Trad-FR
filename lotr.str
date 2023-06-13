@@ -18985,11 +18985,11 @@ CONTROLBAR:ToolTipGondorArmaments
 END
 
 CONTROLBAR:ToolTipGondorArmamentsNew
-"Requiert : Niveau 4 \n Type d'Action : Niveau. \n Bien organisés et équipés, menés par les vétérans de guerre contre le Harad et le Mordor, les unités gagnent de façon permanente +33% armure (bonus cumulable)."
+"Requiert : Niveau 4 \n Type d'Action : Niveau. \n Bien organisés et équipés, menés par les vétérans de guerre contre le Harad et le Mordor, les unités gagnent de façon permanente +20% armure (bonus cumulable)."
 END
 
 CONTROLBAR:ToolTipGondorArmaments_SwornAllegiance
-"Type d'action: Niveau. \n Les unités gagnent +33% d'armure de façon permanente. \n Bonus cumulable."
+"Type d'action: Niveau. \n Les unités gagnent +20% d'armure de façon permanente. \n Bonus cumulable."
 END
 
 
@@ -26846,7 +26846,7 @@ CONTROLBAR:OrophinBladeMaster
 END
 
 CONTROLBAR:TooltipOrophinBladeMaster
-"Requiert : Niveau 3 \n Type d'Action : Bonus. \n Dans une chorégraphie virevoltante, Orophin esquive les coups tout en portant des attaques imparables : il gagne temporairement +50% de dégâts et +50% d'armure. \n\n Clic gauche pour l'activer."
+"Requiert : Niveau 3 \n Type d'Action : Bonus. \n Dans une chorégraphie virevoltante, Orophin esquive les coups tout en portant des attaques imparables : il gagne pendant 30 secondes +50% de dégâts et +50% d'armure. \n\n Clic gauche pour l'activer."
 END
 
 CONTROLBAR:OrophinLeadership
@@ -27018,7 +27018,7 @@ CONTROLBAR:GaladrielForesight
 END
 
 CONTROLBAR:TooltipGaladrielForesight
-"Grâce à son miroir, Galadriel perce les mystères du passé et du présent : révèle le brouillard de guerre dans une zone. \n\n Clic gauche sur l'icône puis clic gauche sur la zone cible."
+"Grâce à son miroir, Galadriel perce les mystères du passé et du présent : révèle le brouillard de guerre dans une zone pendant 60 secondes. \n\n Clic gauche sur l'icône puis clic gauche sur la zone cible."
 End
 
 CONTROLBAR:GaladrielLeadership
@@ -27042,7 +27042,7 @@ CONTROLBAR:GaladrielFear
 END
 
 CONTROLBAR:TooltipGaladrielFear
-"Requiert : Niveau 7 \n Pendant une courte durée, Galadriel est illuminée d'une lumière blanche et radieuse : elle est invulnérable et répand la terreur dans le coeur des ennemis proches. \n\n Clic gauche pour l'activer."
+"Requiert : Niveau 3 \n Pendant une courte durée, Galadriel est illuminée d'une lumière blanche et radieuse : elle est invulnérable et répand la terreur dans le coeur des ennemis proches. \n\n Clic gauche pour l'activer."
 END
 
 CONTROLBAR:GaladrielStormQueen
@@ -27050,7 +27050,7 @@ CONTROLBAR:GaladrielStormQueen
 END
 
 CONTROLBAR:TooltipGaladrielStormQueen
-"Requiert : Niveau 10 \n Imbue de la beauté obscure de la guerre, Galadriel prend un aspect martial terrifiant. Elle devient sauvage et capricieuse, sa silhouette habituellement sereine ondulant de sombres énergies mystiques. \n\n Ses attaques se font à distance, elle gagne temporairement +100% de dégâts, +100% d'armure et inflige +300% de dégâts aux structures. \n\n Clic gauche pour l'activer."
+"Requiert : Niveau 10 \n Imbue de la beauté obscure de la guerre, Galadriel prend un aspect martial terrifiant. Elle devient sauvage et capricieuse, sa silhouette habituellement sereine ondulant de sombres énergies mystiques. \n\n Ses attaques se font à distance, elle gagne pendant 30 secondes +50% d'armure et inflige +300% de dégâts aux structures. \n\n Clic gauche pour l'activer."
 END
 
 
@@ -29277,7 +29277,7 @@ CONTROLBAR:GlorfindelWindRider
 END
 
 CONTROLBAR:ToolTipGlorfindelWindRider
-"Requiert : Niveau 5 \n Glorfindel gagne +20% de vitesse, +100% d'armure et glisse comme le vent au-delà des ennemis lorsqu'il est monté. \n Peut seulement être utilisé sur une monture. \n\n Clic gauche pour l'activer."
+"Requiert : Niveau 5 \n Glorfindel gagne +20% de vitesse, +100% d'armure pendant 30 secondes et glisse comme le vent au-delà des ennemis lorsqu'il est monté. \n Peut seulement être utilisé sur une monture. \n\n Clic gauche pour l'activer."
 END
 
 CONTROLBAR:GlorfindelLight
@@ -29315,7 +29315,7 @@ CONTROLBAR:ElrondLeadership
 End
 
 CONTROLBAR:TooltipElrondLeadership
-"Type d'Action : Charisme. \n Les alliée proches d'Elrond gagnent +33% de dégâts, +33% d'armure, et gagnent de l'expérience 150% plus rapidement (bonus cumulable).\n\n Tant qu'Elrond est sur le terrain, sa bibliothèque peut être construite gratuitement.  \n\n Capacité passive."
+"Type d'Action : Charisme. \n Les alliée proches d'Elrond gagnent +25% de dégâts, +25% d'armure, et gagnent de l'expérience plus rapidement (bonus cumulable).\n\n Tant qu'Elrond est sur le terrain, sa bibliothèque peut être construite gratuitement.  \n\n Capacité passive."
 END
 
 CONTROLBAR:HeraldOfGilGalad
@@ -35703,7 +35703,7 @@ CONTROLBAR:MouthOfSauronDoubt
 END
 
 CONTROLBAR:ToolTipMouthOfSauronDoubt
-"Requiert : Niveau 4 \n Type d'Action : Pénalité active. \n Les ennemis ciblés perdent leur bonus de Charisme et subissent -20% de dégâts et -20% d'armure (bonus non cumulable). \n\n Type d'Action : Bonus actif. \n Les alliés gagnent +33% de dégâts et +33% d'armure. \n\n Clic gauche sur l'icône puis clic gauche sur les unités ciblées."
+"Requiert : Niveau 4 \n Type d'Action : Pénalité active. \n Les ennemis ciblés perdent leur bonus de Charisme et subissent -20% de dégâts et -20% d'armure pendant 30 secondes (bonus non cumulable). \n\n Type d'Action : Bonus actif. \n Les alliés gagnent +33% de dégâts et +33% d'armure pendant 30 secondes. \n\n Clic gauche sur l'icône puis clic gauche sur les unités ciblées."
 END
 
 CONTROLBAR:MOSAmbassador
@@ -35727,7 +35727,7 @@ CONTROLBAR:MouthOfSauronDissent
 END
 
 CONTROLBAR:ToolTipMouthOfSauronDissent
-"Requiert : Niveau 10 \n Par ses paroles insidieuses, la Bouche tisse une toile de confusion et crée la discorde parmi ses ennemis. \n Rend les unités visées hostiles entre elles. \n\n Clic gauche sur l'icône puis clic gauche sur la zone cible."
+"Requiert : Niveau 10 \n Par ses paroles insidieuses, la Bouche tisse une toile de confusion et crée la discorde parmi ses ennemis. \n Rend les unités visées hostiles entre elles pendant 45 secondes. \n\n Clic gauche sur l'icône puis clic gauche sur la zone cible."
 END
 
 CONTROLBAR:SpecialAbilityMouthOfSauronEvilEye
@@ -35773,7 +35773,7 @@ CONTROLBAR:MordorMollokReapingSlash
 END
 
 CONTROLBAR:ToolTipMordorMollokReapingSlash
-"Requiert : Niveau 8 \n Enragé, Mollok gagne +200% de dégâts et +25% d'armure et récupère de la santé en attaquant l'ennemi. \n\n Clic gauche pour l'activer."
+"Requiert : Niveau 8 \n Enragé, Mollok gagne +100% de dégâts et +25% d'armure et récupère de la santé en attaquant l'ennemi pendant 20 secondes. \n\n Clic gauche pour l'activer."
 END
 
 
@@ -37720,7 +37720,7 @@ CONTROLBAR:IndustryMordor
 End
 
 CONTROLBAR:ToolTipIndustryMordor
-"Aux quatre coins du Mordor, des esclaves travaillent dans les fonderies et les moulins, cultivent de la nourriture pour les Orques et subissent des châtiments corporels pour donner l'exemple aux insoumis. \n N'affecte que les Abattoirs : la production de ressources de l'abattoir sélectionné augmente de 275% temporairement. \n Clic gauche sur l'icône puis clic gauche sur un abattoir."
+"Aux quatre coins du Mordor, des esclaves travaillent dans les fonderies et les moulins, cultivent de la nourriture pour les Orques et subissent des châtiments corporels pour donner l'exemple aux insoumis. \n N'affecte que les Abattoirs : la production de ressources de l'abattoir sélectionné augmente de 275% pendant 5 minutes. \n Clic gauche sur l'icône puis clic gauche sur un abattoir."
 End
 
 
@@ -37780,7 +37780,7 @@ OBJECT:MordorEyeOfSauron
 END
 
 CONTROLBAR:ToolTipEyeofSauron
-"Invoque l'Oeil de Sauron : il révèle tous les ennemis sur la carte et sont brièvement immobilisés et ceux captés par son regard sont paralysés de terreur. \n Type d'Action : Charisme. \n Les alliés gagnent +33% de dégâts, +50% d'armure, sont insensibles à la peur et à la terreur, et gagnent de l'expérience 50% plus rapidement (bonus cumulable). \n\n Clic gauche sur l'icône puis clic gauche sur la zone cible."
+"Invoque l'Oeil de Sauron : il révèle tous les ennemis sur la carte et sont immobilisés pendant 10 secondes et ceux captés par son regard sont paralysés de terreur, subissent des dégâts et ralentit de 33%. \n Type d'Action : Charisme. \n Les alliés gagnent +33% de dégâts, +50% d'armure, sont insensibles à la peur et à la terreur, et gagnent de l'expérience 50% plus rapidement (bonus cumulable). \n\n Clic gauche sur l'icône puis clic gauche sur la zone cible."
 END
 
 
@@ -38910,7 +38910,7 @@ CONTROLBAR:SharkuManEater
 END
 
 CONTROLBAR:ToolTipSharkuManEater
-"Requiert : Niveau 7 \n Tue l'ennemi ciblé, restaure la vie de Sharcoux et confère temporairement +100% d'armure et +50% de dégâts. \n\n Clic gauche sur l'icône puis clic gauche sur la cible." 
+"Requiert : Niveau 5 \n Tue l'ennemi ciblé, restaure 50% de la vie de Sharcoux et confère pendant 20 secondes +100% d'armure et +50% de dégâts. \n\n Clic gauche sur l'icône puis clic gauche sur la cible." 
 END
 
 CONTROLBAR:SummonBigWarg
@@ -38986,7 +38986,7 @@ CONTROLBAR:SpecialAbilityLurtzCarnage
 END
 
 CONTROLBAR:ToolTipSpecialAbilityLurtzCarnage
-"Requiert : Niveau 3 \n Ivre de férocité, Lurtz décuple son agressivité et gagne +75% de dégâts. \n Utilisable seulement avec l'épée. \n A chaque niveau gagné, les dégâts sont augmentés de +25% jusqu'à un maximum de +200% au niveau 8. \n\n Clic gauche pour l'activer."
+"Requiert : Niveau 3 \n Ivre de férocité, Lurtz décuple son agressivité et gagne +75% de dégâts et +25% d'armure pendant 20 secondes. \n Utilisable seulement avec l'épée. \n A chaque niveau gagné, les dégâts sont augmentés de +25% jusqu'à un maximum de +200% au niveau 8. \n\n Clic gauche pour l'activer."
 END
 
 CONTROLBAR:SpecialAbilityLurtzCripple
@@ -38994,7 +38994,7 @@ CONTROLBAR:SpecialAbilityLurtzCripple
 END
 
 CONTROLBAR:ToolTipSpecialAbilityLurtzCripple
-"Requiert : Niveau 4 \n Lurtz décoche une flèche puissante sur un héros ennemi et l'immobilise pendant un moment. \n Au niveau 8, instaure la peur face aux unités ennemies. \n Utilisable seulement avec l'arc. \n\n Clic gauche sur l'icône puis clic gauche sur la cible."
+"Requiert : Niveau 4 \n Lurtz décoche une flèche puissante sur un héros ennemi et l'immobilise pendant 15 secondes. \n Au niveau 8, instaure la peur face aux unités ennemies. \n Utilisable seulement avec l'arc. \n\n Clic gauche sur l'icône puis clic gauche sur la cible."
 END
 
 CONTROLBAR:Pillage
@@ -39122,7 +39122,7 @@ CONTROLBAR:SarumanDominate
 END
 
 CONTROLBAR:ToolTipDominate
-"Requiert : Niveau 10 \n La voix de Saroumane est une arme redoutable, il sait corrompre et retourner l'ennemi pour sa cause. \n Il prend le contrôle de façon temporaire des ennemis ciblés. \n\n Clic gauche sur l'icône puis clic gauche sur les unités ennemies ciblées."
+"Requiert : Niveau 10 \n La voix de Saroumane est une arme redoutable, il sait corrompre et retourner l'ennemi pour sa cause. \n Il prend le contrôle de façon temporaire des ennemis ciblés pendant 30 secondes. \n\n Clic gauche sur l'icône puis clic gauche sur les unités ennemies ciblées."
 END
 
 
@@ -40609,7 +40609,7 @@ END
 ///////////////////
 
 CONTROLBAR:ToolTipToggleIPikemanPhalanxFormation
-"Gagne +33% d'armure et +60% d'armure contre la cavalerie. \n Résistance au renversement. \n Décélaration au piétinement. \n -40% de vitesse."
+"Gagne +33% d'armure \n Résistance au renversement. \n Décélaration au piétinement. \n -40% de vitesse."
 End
 
 CONTROLBAR:ToolTipToggleIPikemanLineFormation
@@ -40731,7 +40731,7 @@ CONTROLBAR:ScourgeofMan
 END
 
 CONTROLBAR:ToolTipScourgeofMan
-"Requiert : Niveau 7 \n Beaucoup plus voraces que les autres Uruks, les Éventreurs sont des machines à dévorer dégénérées qui se complaisent dans les tueries et la dégustation de leurs victimes. \n Les Éventreurs gagnent autant de santé que de dégâts infligés à leurs ennemis ainsi +33% de vitesse de déplacement. \n\n Capacité passive. \n Lorsqu'il est activé, les tueurs d'hommes gagnent temporairement +33% de vitesse de déplacement. \n Clic gauche pour l'activer."
+"Requiert : Niveau 7 \n Beaucoup plus voraces que les autres Uruks, les Éventreurs sont des machines à dévorer dégénérées qui se complaisent dans les tueries et la dégustation de leurs victimes. \n Les Éventreurs gagnent autant de santé que de dégâts infligés à leurs ennemis ainsi +33% de vitesse de déplacement pendant 20 secondes. \n\n Capacité passive. \n Lorsqu'il est activé, les tueurs d'hommes gagnent temporairement +33% de vitesse de déplacement. \n Clic gauche pour l'activer."
 END
 
 
@@ -40831,7 +40831,7 @@ CONTROLBAR:WargRiderHowl
 END
 
 CONTROLBAR:TooltipWargRiderHowl
-"Type d'Action: Bonus. \n Les Wargs gagnent +50% de dégâts et +50% d'armure (bonus cumulable). \n\n Clic gauche pour l'activer."
+"Type d'Action: Bonus. \n Les Wargs gagnent +25% de dégâts et +25% d'armure pendant 45 secondes (bonus cumulable). \n\n Clic gauche pour l'activer."
 END
 
 CONTROLBAR:TooltipIsengardWargRiderHowl
@@ -40961,7 +40961,7 @@ CONTROLBAR:Devastation
 End
 
 CONTROLBAR:ToolTipDevastation
-"Les arbres sont transformés instantanément en ressources. \n Réduit de moitié la production de ressources de toute structure de ressources dans la zone d'effet. \n\n Clic gauche sur l'icône puis clic gauche sur une zone de forêt."
+"Les arbres sont transformés instantanément en ressources. \n Réduit de moitié la production de ressources de toute structure de ressources dans la zone d'effet pendant 45 secondes. \n\n Clic gauche sur l'icône puis clic gauche sur une zone de forêt."
 END
 
 
@@ -40985,7 +40985,7 @@ CONTROLBAR:ToolTipTaint
 END
 
 CONTROLBAR:ToolTipTaintIsengard  
-"Type d'Action : Bonus. \n Souille une zone du terrain en le recouvrant de terres stériles, de fragments osseux et de miasmes méphitiques : tous les alliés gagnent +50% de dégâts, +50% d'armure et gagnent des ressources pour chaque ennemi tué (bonus cumulable). \n\n Clic gauche sur l'icône puis clic gauche sur la zone cible."
+"Type d'Action : Bonus. \n Souille une zone du terrain pendant 5 minutes en le recouvrant de terres stériles, de fragments osseux et de miasmes méphitiques : tous les alliés gagnent +50% de dégâts, +50% d'armure et gagnent des ressources pour chaque ennemi tué (bonus cumulable). \n\n Clic gauche sur l'icône puis clic gauche sur la zone cible."
 END
 
 
@@ -43842,7 +43842,7 @@ End
 //////////////////
 
 CONTROLBAR:TooltipWhiteWolvesHowl
-"Les Loups blancs terrifient temporairement les unités ennemies. \n\n Clic gauche pour l'activer."
+"Les Loups blancs terrifient pendant 10 secondes les unités ennemies. \n\n Clic gauche pour l'activer."
 END
 
 
@@ -47863,7 +47863,7 @@ END
 // Sam //
 
 CONTROLBAR:SamwiseBladeMaster
-"?a C'est Pour Mon Ancien ! (&T)"
+"ça C'est Pour Mon Ancien ! (&T)"
 END
 
 CONTROLBAR:TooltipSamwiseBladeMaster
