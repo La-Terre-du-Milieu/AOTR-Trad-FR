@@ -64349,11 +64349,11 @@ OBJECT:IsengardUgluk
 END
 
 CONTROLBAR:IsengardUglukRecruit
-"Recruit the Uruk Captain, Uglúk \n \n 'They have something. An Elvish weapon. The master wants it for the war.'"
+"Recrutez le féroce Capitaine des Uruk-Haï. \n\n Lorsque Aragorn terrasse Lurtz à la bataille d'Amon Hen, c'est Uglúk qui s'impose à la tête des Uruk-Haï. \n Comme son prédécesseur, sa loyauté envers Saroumane est indéfectible. Uglúk est un chef sauvage qui dirige ses guerriers autant par des menaces qu'en les brutalisant. \n\n 'Ils ont quelque chose. Une arme elfique. \n Le Maître la veut pour la guerre.'"
 END
 
 CONTROLBAR:IsengardUglukRevive
-"Revive the fallen Hero, Uglúk"
+"Rappelez Uglúk à la vie"
 END
 
 CONTROLBAR:IsengardUglukHotKey
@@ -64361,35 +64361,35 @@ CONTROLBAR:IsengardUglukHotKey
 END
 
 CONTROLBAR:IsengardUglukOrcMedicine
-"Orcish Medicine (&W)"
+"Médecine orque d'Isengard (&W)"
 END
 
 CONTROLBAR:TooltipIsengardUglukOrcMedicine
-"Heals nearby friendly heroes and Uruk-hai units \n Left click to activate"
+"Uglúk connaît les pratiques de soins occultes : les unités Uruk-haî et les héros alliés proches sont soignés. \n\n Clic gauche pour l'activer."
 END
 
-CONTROLBAR:IsengardUglukHuntfortheRing
-"Hunt for the Ring (&R)"
+CONTROLBAR : IsengardUglukHuntfortheRing
+"Traque de l'Anneau (&R)"
 END
 
 CONTROLBAR:TooltipIsengardUglukHuntfortheRing
-"Requires Level 3 \n Modifier Type: Spell \n Nearby infantry and heroes gain a 15% speed bonus, a 50% experience bonus and resistance to fear and terror for 20 seconds\nLeft click to activate"
+"Requiert : Niveau 3 \n Type d'Action : Sort. \n En chasse pour récupérer l'Anneau, les unités proches d'Uglúk gagnent +15% de vitesse, gagne de l'expérience 50% plus rapidement et sont immunisés face à la peur et à la terreur pendant 20 secondes (bonus cumulable). \n\n Clic gauche pour l'activer."
 END
 
 CONTROLBAR:IsengardUglukHeadhunter
-"Headhunter (&T)"
+"Bain de Sang (&T)"
 END
 
 CONTROLBAR:ToolTipIsengardUglukHeadhunter
-"Requires Level 5 \n Modifier Type: Spell \n Nearby Uruk-hai gain +100% damage and Uglúk regains health per attack for 25 seconds\nLeft click icon to activate"
+"Requiert : Niveau 5 \n Type d'Action : Sort. \n Uglúk se régale du sang de ses victimes : pendant une courte durée il gagne autant de santé que de dégâts infligés à ses ennemis et les Uruks proches de lui, exaltés par l'odeur du sang, gagnent +100% de dégâts (bonus cumulable). \n\n Clic gauche pour l'activer."
 END
 
-CONTROLBAR:IsengardUglukReinforcements
-"Reinforcements from Saruman (&C)"
+CONTROLBAR : IsengardUglukReinforcements
+"Renforts de Saruman (&C)"
 END
 
 CONTROLBAR:ToolTipIsengardUglukReinforcements
-"Requires Level 7 \n Summons several hordes of Uruk Raiders \n Left click icon then left click on pathable location"
+"Requiert : Niveau 7 \n Uglúk appelle temporairement des traqueurs Uruk infatigables, capables de couvrir rapidement de vastes distances. Une fois leur proie repérée, elle n'a aucun espoir de leur échapper, à moins de remporter une ultime et sanglante bataille. \n\n Clic gauche sur l'icône puis clic gauche sur une zone praticable."
 END
 
 //------------Easterling Swordsmen---------------
@@ -64406,7 +64406,7 @@ CONTROLBAR:ConstructMordorEasterlingSwordsmanHordeWotrInn
 End
 
 CONTROLBAR:ToolTipBuildMordorEasterlingSwordsmanHorde
-"Great Khân's Swordsmen\nStrong vs. Pikemen \n \n The Khân-xâtainax traditionally remained at the back of the Rhûnic legions, only entering the fray as reserves to relieve a tired front line of phalanx and smash the remaining enemy."
+"Guerriers de l'épée du Grand Khân\nPuissants contre les piquiers\n\nLes Khân-xâtainax restaient traditionnellement à l'arrière des légions Rhûniques, n'entrant en action qu'en tant que réserves pour soulager une ligne de front de phalange fatiguée et écraser les ennemis restants."
 End
 
 CONTROLBAR:ConstructMordorEasterlingSwordsmanHorde_Rhun
@@ -64414,7 +64414,7 @@ CONTROLBAR:ConstructMordorEasterlingSwordsmanHorde_Rhun
 End
 
 CONTROLBAR:ToolTipBuildMordorEasterlingSwordsmanHorde_Rhun
-"Great Khân's Swordsmen\nRequires Level 2 Easterling Garrison \n Strong vs. Pikemen \n \n The Khân-xâtainax traditionally remained at the back of the Rhûnic legions, only entering the fray as reserves to relieve a tired front line of phalanx and smash the remaining enemy."
+"Guerriers de l'épée du Grand Khân\nNécessite le niveau 2 de la garnison des Easterlings\nPuissants contre les piquiers\n\nLes Khân-xâtainax restaient traditionnellement à l'arrière des légions Rhûniques, n'entrant en action qu'en tant que réserves pour soulager une ligne de front de phalange fatiguée et écraser les ennemis restants."
 End
 
 OBJECT:HordeMordorEasterlingSwordsman
@@ -64422,11 +64422,11 @@ OBJECT:HordeMordorEasterlingSwordsman
 End
 
 CONTROLBAR:LW_Unit_MordorEasterlingSwordsman
-"Khân-xâtainax Battalion"
+"Bataillon de Khân-xâtainax"
 End
 
 CONTROLBAR:LW_ToolTip_MordorEasterlingSwordsman
-"Great Khân's Swordsmen\nUnit Type: Elite Infantry\nStrong vs. Pikemen"
+"Guerriers de l'épée du Grand Khân\nType d'unité : Infanterie d'élite\nPuissants contre les piquiers"
 End
 
 //------------ Easterling Archers ---------------
@@ -64443,15 +64443,15 @@ CONTROLBAR:ConstructMordorEasterlingArcherHorde
 END
 
 CONTROLBAR:LW_Unit_MordorEasterlingArcherHorde
-"Khân-yûn-âkhax Battalion"
+"Bataillon de Khân-yûn-âkhax"
 END
 
 CONTROLBAR:LW_ToolTip_MordorEasterlingArcherHorde
-"Great Khân's Archers\nUnit Type: Elite Archers\nStrong vs. Archers"
+"Archers du Grand Khân\nType d'unité : Archers d'élite\nPuissants contre les archers"
 END
 
 CONTROLBAR:ToolTipBuildMordorEasterlingArcherHorde
-"Great Khân's Archers\nRequires Level 2 Easterling Garrison \n Strong vs. Archers \n \n Khân-yûn-âkhax were highly trained marksmen that carried heavy warbows and quivers full of twisted barbed arrows, raining death upon the enemy even as the phalanx advanced."
+"Archers du Grand Khân\nNécessite le niveau 2 de la garnison des Easterlings\nPuissants contre les archers\n\nLes Khân-yûn-âkhax étaient des tireurs d'élite hautement entraînés qui portaient des arcs de guerre lourds et des carquois remplis de flèches barbelées, faisant pleuvoir la mort sur l'ennemi même lorsque la phalange avançait."
 END
 
 CONTROLBAR:ConstructMordorEasterlingArcherHorde_Rhun
@@ -64459,11 +64459,11 @@ CONTROLBAR:ConstructMordorEasterlingArcherHorde_Rhun
 END
 
 CONTROLBAR:ToolTipBuildMordorEasterlingArcherHorde_Rhun
-"Great Khân's Archers\nRequires Level 2 Archery Range \n Strong vs. Archers \n \n Khân-yûn-âkhax were highly trained marksmen that carried heavy warbows and quivers full of twisted barbed arrows, raining death upon the enemy even as the phalanx advanced."
+"Archers du Grand Khân\nNécessite le niveau 2 de l'atelier d'archerie\nPuissants contre les archers\n\nLes Khân-yûn-âkhax étaient des tireurs d'élite hautement entraînés qui portaient des arcs de guerre lourds et des carquois remplis de flèches barbelées, faisant pleuvoir la mort sur l'ennemi même lorsque la phalange avançait."
 END
 
 CONTROLBAR:LW_ToolTipBuild_MordorEasterlingArcherHorde
-"Unit Type: Elite Archers\nStrong vs. Archers\n"
+"Type d'unité : Archers d'élite\nPuissants contre les archers\n"
 END
 //------------ Easterling Axemen ---------------
 OBJECT:EasterlingAxeman
@@ -64475,11 +64475,11 @@ OBJECT:HordeEasterlingAxemen
 END
 
 CONTROLBAR:LW_Unit_EasterlingAxemenHorde
-"Khân-bórainax Battalion"
+"Bataillon de Khân-bórainax"
 END
 
 CONTROLBAR:LW_ToolTip_EasterlingAxemenHorde
-"Golden Axemen\nUnit Type: Elite Infantry\nStrong vs. Pikemen"
+"Hommes d'armes dorés\nType d'unité : Infanterie d'élite\nPuissants contre les piquiers"
 END
 
 CONTROLBAR:ConstructEasterlingAxemenHorde
@@ -64495,58 +64495,58 @@ CONTROLBAR:ConstructEasterlingAxemenHorde_Rhun
 END
 
 CONTROLBAR:ToolTipBuildEasterlingAxemenHorde
-"Golden Axemen\nRequires Level 3 Easterling Garrison and He Is Gathering All Evil To Him upgrade\nStrong vs. Pikemen\nLimited to 3\n\n The Khân-bórainax traditionally remained at the back of the Rhûnic legions, only entering the fray as reserves to relieve a tired front line of phalanx and smash the remaining enemy."
+"Hommes d'armes dorés\nNécessite le niveau 3 de la garnison des Easterlings et l'amélioration Il rassemble tout le mal pour lui\nPuissants contre les piquiers\nLimité à 3\n\nLes Khân-bórainax restaient traditionnellement à l'arrière des légions Rhûniques, n'entrant en action qu'en tant que réserves pour soulager une ligne de front de phalange fatiguée et écraser les ennemis restants."
 END
 
 CONTROLBAR:ToolTipBuildEasterlingAxemenHorde_Rhun
-"Golden Axemen\nRequires Level 3 Easterling Garrison\nStrong vs. Pikemen\nLimited to 3\n\n The Khân-bórainax traditionally remained at the back of the Rhûnic legions, only entering the fray as reserves to relieve a tired front line of phalanx and smash the remaining enemy."
+"Hommes d'armes dorés\nNécessite le niveau 3 de la garnison des Easterlings\nPuissants contre les piquiers\nLimité à 3\n\nLes Khân-bórainax restaient traditionnellement à l'arrière des légions Rhûniques, n'entrant en action qu'en tant que réserves pour soulager une ligne de front de phalange fatiguée et écraser les ennemis restants."
 END
 
 CONTROLBAR:ToolTipBuildEasterlingAxemenHordeInn
-"Golden Axemen\nStrong vs. Pikemen \n\n The Khân-bórainax traditionally remained at the back of the Rhûnic legions, only entering the fray as reserves to relieve a tired front line of phalanx and smash the remaining enemy."
+"Hommes d'armes dorés\nPuissants contre les piquiers\n\nLes Khân-bórainax restaient traditionnellement à l'arrière des légions Rhûniques, n'entrant en action qu'en tant que réserves pour soulager une ligne de front de phalange fatiguée et écraser les ennemis restants."
 END
 CONTROLBAR:EasterlingSplash
-"Indomitable (&W)"
+"Inébranlables (&W)"
 END
 
 CONTROLBAR:ToolTipEasterlingSplash
-"Golden Axemen gain +50% damage and immunity to knocknack and trample for 20 seconds\nLeft click to activate"
+"Les Hommes d'armes dorés gagnent +50 % de dégâts et une immunité contre les renversements et les piétinements pendant 20 secondes\nCliquez gauche pour activer"
 END
 
 CONTROLBAR:ToolTipSerratedArmorAxemen
-"Requires Level 3\nGolden Axemen gain +20% armour and reflect received melee damage back to attacking units\nPassive ability"
+"Requiert le niveau 3\nLes Hommes d'armes dorés gagnent +20 % d'armure et renvoient les dégâts de mêlée reçus aux unités attaquantes\nCapacité passive"
 END
 
 CONTROLBAR:NoQuarter
-"No Quarter (&T)"
+"Sans Quartier (&T)"
 END
 
 CONTROLBAR:ToolTipNoQuarter
-"Requires Level 4\nModifier Type: Spell\nNearby Easterling and Variag units gain +50% armour and resistance to fear and terror for 30 seconds\nLeft click to activate"
+"Requiert le niveau 4\nType de modification : Sort\nLes unités Easterlings et Variags à proximité gagnent +50 % d'armure et une résistance à la peur et à la terreur pendant 30 secondes\nCliquez gauche pour activer"
 END
 
 CONTROLBAR:WarHardened
-"War-hardened (&R)"
+"Endurcis par la guerre (&R)"
 END
 
 CONTROLBAR:ToolTipWarHardened
-"Requires Level 4\nModifier Type: Weapon\nGreat Khân's Swordsmen gain +50% armour and resistance to fear and terror for 30 seconds\nLeft click to activate"
+"Requiert le niveau 4\nType de modification : Arme\nLes Guerriers de l'épée du Grand Khân gagnent +50 % d'armure et une résistance à la peur et à la terreur pendant 30 secondes\nCliquez gauche pour activer"
 END
 
 CONTROLBAR:ToolTipWarHardenedRhun
-"Requires Level 4\nFor  30 seconds, Great Khân's Swordsmen bleed their foes with each attack, dealing damage over time\nLeft click to activate"
+"Requiert le niveau 4\nPendant 30 secondes, les Guerriers de l'épée du Grand Khân font saigner leurs ennemis à chaque attaque, infligeant des dégâts sur la durée\nCliquez gauche pour activer"
 END
-//------------ Tribesmen Auxillaries ---------------
+//------------ Auxiliaires des tribus ---------------
 OBJECT:TribalAuxillary
 "Heltân-hârax"
 END
 
 OBJECT:TribalAuxillaryHorde
-"Heltâin-hârainax"
+"Bataillon de Heltâin-hârainax"
 END
 
 CONTROLBAR:LW_Unit_TribalAuxillaryHorde
-"Heltâin-hârainax Battalion"
+"Bataillon de Heltâin-hârainax"
 END
 
 CONTROLBAR:ConstructTribalAuxillaryHorde
@@ -64562,45 +64562,45 @@ CONTROLBAR:ConstructTribalAuxillaryHorde_Serf
 END
 
 CONTROLBAR:ToolTipBuildTribalAuxillaryHorde
-"Serf Spearmen\nStrong vs. Cavalry and Heroes \n\nHorde Bonus \n Modifier Type: Spell \n All Serf Spearmen and Serf Bowmen gain +35% armour when gathered in numbers of 40 or more\n \n When the Khâns gathered their Golden Hordes to march to Mordor, they passed many villages and farms, where they demanded able-bodied Men to abandon their families and bolster the horde."
+"Soldats serfs lanceurs de javelots\nPuissants contre la cavalerie et les héros \n\nBonus de horde \nType de modification : Sort \nTous les soldats serfs lanceurs de javelots et archers serfs gagnent +35 % d'armure lorsqu'ils sont regroupés en nombre égal ou supérieur à 40\n\nLorsque les Khâns rassemblèrent leurs Hordes d'Or pour marcher vers le Mordor, ils passèrent devant de nombreux villages et fermes où ils exigèrent que des hommes en âge de combattre abandonnent leur famille pour renforcer la horde."
 END
 
 CONTROLBAR:ForcedService
-"Forced Service (&R)"
+"Service Forcé (&R)"
 END
 CONTROLBAR:TooltipForcedService
-"Requires Level 3\n Heltân-hârax quickly replenish their forces with 4 new recruits \nLeft click to activate"
+"Requiert le niveau 3\nLes Heltân-hârax reconstituent rapidement leurs forces avec 4 nouveaux recrues\nCliquez gauche pour activer"
 END
 
 CONTROLBAR:TooltipForcedServiceArchers
-"Requires Level 3\n Heltân-yûnax quickly replenish their forces with 4 new recruits \nLeft click to activate"
+"Requiert le niveau 3\nLes Heltân-yûnax reconstituent rapidement leurs forces avec 4 nouveaux recrues\nCliquez gauche pour activer"
 END
 
 CONTROLBAR:ReinforcementRhun
-"Reinforcements from Rhûn"
+"Renforts de Rhûn"
 END
 CONTROLBAR:TooltipReinforcementRhun
-"As long as there is a Rhûn Commander on the battlefield, structure is permanently able to recruit units from Rhûn"
+"Tant qu'un commandant de Rhûn est sur le champ de bataille, la structure est en mesure de recruter en permanence des unités de Rhûn."
 END
 
 CONTROLBAR:ReinforcementWR
-"Silvan Alliance"
+"Alliance Sylve"
 END
 CONTROLBAR:TooltipReinforcementWR
-"As long as there is a Woodland Realm Commander on the battlefield, structure is permanently able to recruit units from Woodland Realm"
+"Tant qu'un commandant du Royaume des Forêts est sur le champ de bataille, la structure est en mesure de recruter en permanence des unités du Royaume Sylve."
 END
 
-//------------ Auxillary Bowmen ---------------
+//------------ Archers auxiliaires ---------------
 OBJECT:AuxillaryArcher
 "Heltân-yûnax"
 END
 
 OBJECT:AuxillaryArcherHorde
-"Heltân-yûnax"
+"Bataillon de Heltân-yûnax"
 END
 
 CONTROLBAR:LW_Unit_AuxillaryArcherHorde
-"Heltân-yûnax Battalion"
+"Bataillon de Heltân-yûnax"
 END
 
 CONTROLBAR:ConstructAuxillaryArcherHorde
@@ -64612,7 +64612,7 @@ CONTROLBAR:ConstructAuxillaryArcherHorde_Serf
 END
 
 CONTROLBAR:ToolTipBuildAuxillaryArcherHorde
-"Serf Bowmen\nStrong vs. Infantry and Monsters \n\nHorde Bonus \n Modifier Type: Spell \n All Serf Spearmen and Serf Bowmen gain +35% armour when gathered in numbers of 40 or more\n \nThe hunters of the plains and darkwoods of the distant East are not free: they belong to whichever warlord lays claim upon their hunting grounds, and must serve him when called upon in times of war."
+"Archers serfs\nPuissants contre l'infanterie et les monstres \n\nBonus de horde \nType de modification : Sort \nTous les soldats serfs lanceurs de javelots et archers serfs gagnent +35 % d'armure lorsqu'ils sont regroupés en nombre égal ou supérieur à 40\n \nLes chasseurs des plaines et des bois sombres de l'Est lointain ne sont pas libres : ils appartiennent au seigneur de guerre qui revendique leurs territoires de chasse, et doivent le servir lorsqu'ils sont appelés en temps de guerre."
 END
 //------------ Golden Chariot ---------------
 OBJECT:EasterlingChariot
@@ -64628,7 +64628,7 @@ CONTROLBAR:LW_Unit_EasterlingChariot
 END
 
 CONTROLBAR:LW_ToolTip_EasterlingChariot
-"Golden Chariot\nUnit Type: Basic Cavalry\nStrong vs. Archers and Swordsmen"
+"Char doré\nType d'unité : Cavalerie de base\nPuissant contre les archers et les épéistes"
 END
 
 CONTROLBAR:ConstructEasterlingChariot
@@ -64636,27 +64636,27 @@ CONTROLBAR:ConstructEasterlingChariot
 END
 
 CONTROLBAR:ToolTipBuildEasterlingChariot
-"Golden Chariot \n Requires Level 3 Horsemaster's Campground \nStrong vs. Swordsmen and Archers\n\n Great chariots thunder across the vast plains of the Eastlands, driven by the warlords that lead their armies as they are summoned by the Dark Lord for his final war upon Gondor."
+"Char doré\nRequiert un Campement des Maîtres de Chevaux de niveau 3\nPuissant contre les épéistes et les archers\n\nLes puissants chars déferlent à travers les vastes plaines des Terres de l'Est, conduits par les seigneurs de guerre qui dirigent leurs armées, alors qu'ils sont appelés par le Seigneur des Ténèbres pour sa guerre finale contre Gondor."
 END
 
 CONTROLBAR:SpecialAbilityWainriders
-"Wainriders"
+"Seigneurs des Charrois"
 END
 CONTROLBAR:ToolTipSpecialAbilityWainriders
-"Increases the armour of nearby Golden Cataphracts and Variag Outriders by +25%\nPassive ability"
+"Augmente l'armure des Cataphractes dorés et des Cavaliers Variags à proximité de +25%\nCapacité passive"
 END
 CONTROLBAR:RunThemDown
-"Run Them Down! (&R)"
+"Écrasez-les ! (&R)"
 END
 CONTROLBAR:TooltipRunThemDown
-"Requires Level 2\n Modifier Type: Weapon \n The Chariot gains +25% speed and -50% trample deceleration at the cost of -25% armour for 10 seconds\nLeft click to activate"
+"Requiert le niveau 2\nType de modification : Arme\nLe char gagne +25% de vitesse et une décélération de piétinement de -50%, mais perd -25% d'armure pendant 10 secondes\nCliquez gauche pour activer"
 END
 
 CONTROLBAR:SpecialAbilityPackTactics
-"Pack Tactics"
+"Tactiques de meute"
 END
 CONTROLBAR:ToolTipSpecialAbilityPackTactics
-"Horde Bonus \n Modifier Type: Spell \n All Khandish Wardogs gain +25% damage and +25% armour when gathered in numbers of 30 or more"
+"Bonus de horde\nType de modification : Sort\nTous les Chiens de guerre khândiens gagnent +25% de dégâts et +25% d'armure lorsqu'ils sont regroupés en nombre égal ou supérieur à 30"
 END
 
 //------------ Dragon Knights---------
@@ -64673,28 +64673,28 @@ CONTROLBAR:ConstructDragonKnightHorde
 END
 
 CONTROLBAR:ToolTipConstructDragonKnightHorde
-"Dragon Knights \n Requires Level 3 Easterling Garrison\nStrong vs. Infantry \n\n The Dragon Knights are an order of Easterling warriors who travel the land and serving whichever warlord is willing to pay their considerable retainer. The final rite of passage a prospective Dragon Knight must endure is to travel high into distant mountains and seek out a hoarding fire-drake and retrieve a gemstone - whether through wit, strength, or flattery.\n\n Limited to 3"
+"Chevaliers-dragons\nRequiert une garnison easterling de niveau 3\nPuissants contre l'infanterie\n\nLes chevaliers-dragons sont un ordre de guerriers easterlings qui parcourent le pays et servent le seigneur de guerre prêt à payer leur solide rançon. Le rite final de passage qu'un aspirant chevalier-dragon doit endurer consiste à monter haut dans les montagnes lointaines, à chercher un feu-dragon gardien et à récupérer une pierre précieuse - que ce soit par intelligence, force ou flatterie.\n\nLimité à 3"
 END
 
 CONTROLBAR:SpecialAbilityDKGazeDragon
-"Gaze of the Dragon"
+"Regard du dragon"
 END
 CONTROLBAR:ToolTipSpecialAbilityDKGazeDragon
-"Nearby enemies suffer -15% damage\n Causes fear\nPassive ability"
+"Les ennemis à proximité subissent -15% de dégâts\nCause la peur\nCapacité passive"
 END
 
 CONTROLBAR:AccursedWyrmsfire
-"Accursed Wyrmsfire (&T)"
+"Feu maudit du wyrm (&T)"
 END
 CONTROLBAR:ToolTipAccursedWyrmsfire
-"Requires Rank 7 \n For 20 seconds, Dragon Knights gain +50% speed and armour, and deal fire damage\n Left click to activate"
+"Requiert le rang 7\nPendant 20 secondes, les chevaliers-dragons gagnent +50% de vitesse et d'armure, et infligent des dégâts de feu\nCliquez gauche pour activer"
 END
 
 CONTROLBAR:FlamesofAncalagon
-"Wyrm's Wisdom (&R)"
+"Sagesse du wyrm (&R)"
 END
 CONTROLBAR:ToolTipFlamesofAncalagon
-"Requires Level 3\nThe Dragon Knights share a fraction of their might with a target unit, permanently granting it 25% damage\n Left click then left click on target "
+"Requiert le niveau 3\nLes chevaliers-dragons partagent une fraction de leur puissance avec une unité cible, lui octroyant de manière permanente 25% de dégâts\nCliquez gauche puis cliquez gauche sur la cible"
 END
 //------------ Flamesprayer---------
 OBJECT:MordorFlamesprayer
@@ -64706,39 +64706,39 @@ CONTROLBAR:ConstructFlamesprayer
 END
 
 CONTROLBAR:ToolTipConstructFlamesprayer
-"Flame-destroyer\n Strong vs. Infantry and Structures \n\n Dragon-veneration in Rhûn developed long ago as an offshoot of Melkor-worship. Many have attempted to harness the power of these creatures, but to little enduring success. The Flame-destroyer harbours the power of the fire-drake without the unpredictability and personal danger that is often associated with them, laying waste to enemy armies and fortifications at the word of an officer rather than at the strange whims of a dragon."
+"Brûleur de flammes\nPuissant contre l'infanterie et les structures\n\nLe culte des dragons à Rhûn s'est développé il y a longtemps comme une branche du culte de Melkor. Beaucoup ont tenté de maîtriser le pouvoir de ces créatures, mais avec peu de succès durable. Le Brûleur de flammes porte le pouvoir du feu-dragon sans l'imprévisibilité et le danger personnel souvent associés à eux, anéantissant les armées ennemies et les fortifications sur ordre d'un officier plutôt qu'en fonction des étranges caprices d'un dragon."
 END
 
 CONTROLBAR:UnstableConcoction
-"Unstable Concoction"
+"Mélange instable"
 END
 
 CONTROLBAR:ToolTipFlamesprayerUnstableConcoction
-"The Flame-destroyer explodes if destroyed via fire, damaging all surrounding units and structures\nPassive ability"
+"Le Brûleur de flammes explose s'il est détruit par le feu, infligeant des dégâts à toutes les unités et structures environnantes\nCapacité passive"
 END
 
 CONTROLBAR:FlamesprayerPressureBlast
-"Pressure Blast (&R)"
+"Déflagration sous pression (&R)"
 END
 CONTROLBAR:ToolTipFlamesprayerPressureBlast
-"Blasts away enemies in front of the Flame-destroyer\nDeals no damage\nLeft click to activate"
+"Repousse les ennemis devant le Brûleur de flammes\nN'inflige aucun dégât\nCliquez gauche pour activer"
 END
 
 CONTROLBAR:DeactivateBoilerExceed
-"Deactivate Boiler Exceed (&T)"
+"Désactiver l'excès de chaudière (&T)"
 END
 
 CONTROLBAR:BoilerExceed
-"Activate Boiler Exceed (&T)"
+"Activer l'excès de chaudière (&T)"
 END
 
 CONTROLBAR:ToolTipBoilerExceed
-"Whilst active, the Flame-destroyer continually spews fire when targeting enemy units at the cost of suffering damage over time\nIf the Flame-destroyer dies while Boiler Exceed is active, it explodes\nLeft click to toggle on and off"
+"Lorsqu'il est activé, le Brûleur de flammes crache continuellement du feu lorsqu'il cible des unités ennemies au prix de subir des dégâts dans le temps\nSi le Brûleur de flammes meurt alors que l'excès de chaudière est activé, il explose\nCliquez gauche pour activer ou désactiver"
 END
 
 //------------ Dragonfire Cannon---------
 OBJECT:CannonCrew
-"Cannon Operator"
+"Équipe d'artilleurs"
 END
 OBJECT:RhunCannon
 "Khârtan-gâsh"
@@ -64750,15 +64750,13 @@ CONTROLBAR:ConstructRhunCannon_Serf
 "Khârtan-gâsh (&E)"
 END
 CONTROLBAR:ToolTipBuildRhunCannon
-//"Requires Level 2 Great Siege Works \n Strong vs. Structures \n\n These vile contraptions rain down death and terror upon the Dark Lord's enemies."
-"Dragonfire Cannon\nRequires Level 2 Great Siege Works\nStrong vs. Structures \n\n Fueled by wyrmsfire, a substance concocted whose mysterious origins were taught by Sauron in ages past, the khârtan-gâshan are capable of inflicting heavy losses amongst the enemy ranks, leaving naught but blackened stone in their wake."
+"Canon de feu-dragon\nNécessite un Grand Atelier de Siège de niveau 2\nPuissant contre les structures\n\nAlimenté par le feu des dragons, une substance concoctée dont les origines mystérieuses ont été enseignées par Sauron il y a bien longtemps, les khârtan-gâshan sont capables d'infliger de lourdes pertes aux rangs ennemis, ne laissant derrière eux que des pierres noircies."
 END
 CONTROLBAR:ToolTipBuildRhunCannon_Serf
-//"Requires Level 2 Great Siege Works \n Strong vs. Structures \n\n These vile contraptions rain down death and terror upon the Dark Lord's enemies."
-"Dragonfire Cannon\nStrong vs. Structures \n\n Fueled by wyrmsfire, a substance concocted whose mysterious origins were taught by Sauron in ages past, the khârtan-gâshan are capable of inflicting heavy losses amongst the enemy ranks, leaving naught but blackened stone in their wake."
+"Canon de feu-dragon\nPuissant contre les structures\n\nAlimenté par le feu des dragons, une substance concoctée dont les origines mystérieuses ont été enseignées par Sauron il y a bien longtemps, les khârtan-gâshan sont capables d'infliger de lourdes pertes aux rangs ennemis, ne laissant derrière eux que des pierres noircies."
 END
 CONTROLBAR:ToolTipCannonUnstableConcoction
-"The Dragonfire Cannon explodes if destroyed via fire, damaging all surrounding units and structures\nPassive ability"
+"Le Canon de feu-dragon explose s'il est détruit par le feu, infligeant des dégâts à toutes les unités et structures environnantes\nCapacité passive"
 END
 //------------ Vâh-Rús ---------------
 OBJECT:RhunVahRus
@@ -64768,125 +64766,125 @@ CONTROLBAR:VahRusHotkey
 "Vâh-rús (&S)"
 END
 CONTROLBAR:VahRusRevive
-"Revive the fallen hero, Vâh-rús"
+"Revivez le héros tombé, Vâh-rús"
 END
 CONTROLBAR:VahRusRecruit
-"Recruit the Overlord of the Rhûnic Legions \n\n Personally appointed by the shadowy Onyx Emperor, Vâh-rús has taken up high command of the legions sent to crush Sauron's enemies during the final campaigns, so that the Dark Lord may seize his control of all Middle-earth. Ruthless and cunning, Vâh-rús is a veteran of many wars, and has led his warriors from the front lines for decades, quelling uprisings and uniting his emperor's lands under his black banner."
+"Recrutez le Seigneur suprême des Légions de Rhûn\n\nPersonnellement nommé par l'énigmatique Empereur Onyx, Vâh-rús a pris le commandement suprême des légions envoyées pour écraser les ennemis de Sauron lors des dernières campagnes, afin que le Seigneur des Ténèbres puisse prendre le contrôle de toute la Terre du Milieu. Impitoyable et rusé, Vâh-rús est un vétéran de nombreuses guerres, et il a conduit ses guerriers depuis les lignes de front pendant des décennies, réprimant les soulèvements et unissant les terres de son empereur sous sa bannière noire."
 END
 CONTROLBAR:LW_ToolTip_VahRus
 "Type d'unité : héros commandant une armée"
 END
 CONTROLBAR:RanAuthority
-"Rân's Authority"
+"Autorité de Rân"
 END
 CONTROLBAR:ToolTipRanAuthority
-"Modifier Type: Leadership\nNearby allies gain +10% armour \nAt level 3, nearby allies gain +25% armour and damage\nAt level 6, nearby allies gain +50% armour and damage\nPassive Ability"
+"Type de modification : Leadership\nLes alliés à proximité gagnent +10 % d'armure\nAu niveau 3, les alliés à proximité gagnent +25 % d'armure et de dégâts\nAu niveau 6, les alliés à proximité gagnent +50 % d'armure et de dégâts\nCapacité passive"
 END
 CONTROLBAR:WeightedBlow
-"Weighted Blow (&R)"
+"Coup pondéré (&R)"
 END
 CONTROLBAR:ToolTipWeightedBlow
-"Requires Level 2\nVâh-rús performs a heavy strike against his enemies, knocking them back\nLeft click then left click on target"
+"Requiert le niveau 2\nVâh-rús assène une puissante frappe à ses ennemis, les repoussant\nCliquez gauche puis cliquez gauche sur la cible"
 END
 CONTROLBAR:VahRusWarlordsDemand
-"Warlord's Demand (&T)"
+"Ordre du seigneur de guerre (&T)"
 END
 CONTROLBAR:ToolTipVahRusWarlordsDemand
-"Requires Level 5 \n Modifier Type: Spell and Active Debuff \n Targeted friendly units gain +33% damage and immunity to fear and terror for 30 seconds\n Targeted enemy units suffer -25% damage and -25% armour for 30 seconds\nLeft click icon then left click on target units"
+"Requiert le niveau 5\nType de modification : Sort et affaiblissement actif\nLes unités amies ciblées gagnent +33 % de dégâts et une immunité à la peur et à la terreur pendant 30 secondes\nLes unités ennemies ciblées subissent -25 % de dégâts et -25 % d'armure pendant 30 secondes\nCliquez sur l'icône puis cliquez gauche sur les unités cibles"
 END
 CONTROLBAR:SpecialAbilityChosenGreatKhan
-"Onyx Emperor's Chosen (&C)"
+"Élu de l'Empereur Onyx (&C)"
 END
 CONTROLBAR:ToolTipSpecialAbilityChosenGreatKhan
-"Requires Level 8 \n Vâh-rús was personally empowered by the Onyx Emperor\nFor 30 seconds, he gains +100% armour, immunity to knockback, and knocks back enemies in a radius with his attacks\n At level 10, summons a battalion of Khân's Guard for 90 seconds\nLeft click to activate"
+"Requiert le niveau 8\nVâh-rús a été personnellement investi par l'Empereur Onyx\nPendant 30 secondes, il gagne +100 % d'armure, une immunité au repoussement et repousse les ennemis dans un rayon avec ses attaques\nAu niveau 10, invoque un bataillon de la Garde de Khân pendant 90 secondes\nCliquez gauche pour activer"
 END
 CONTROLBAR:SpecialAbilityFoeHammer
-"Foehammer (&T)"
+"Marteau de l'ennemi (&T)"
 END
 CONTROLBAR:ToolTipSpecialAbilityFoeHammer
-"Vâh-rús gains +50% damage and armour for 30 seconds\nLeft click to activate"
+"Vâh-rús gagne +50 % de dégâts et d'armure pendant 30 secondes\nCliquez gauche pour activer"
 END
 CONTROLBAR:SpecialAbilityBlackDragon
-"Curse of the Black Dragon (&V)"
+"Malédiction du Dragon Noir (&V)"
 END
 CONTROLBAR:ToolTipSpecialAbilityBlackDragon
-"Requires Level 10\nTarget enemies are engulfed in mystical dragonfire\n Enemies outside the blast are inflicted with fear\nLeft click then left click on target area"
+"Requiert le niveau 10\nLes ennemis ciblés sont engloutis dans le feu mystique du dragon\nLes ennemis à l'extérieur de l'explosion sont frappés de peur\nCliquez gauche puis cliquez gauche sur la zone cible"
 END
 CONTROLBAR:MightofRhun
-"Might of Rhûn (&V)"
+"La Puissance de Rhûn (&V)"
 END
 CONTROLBAR:ToolTipMightofRhun
-"Requires Level 10\nSummons a mighty host of Great Khân's Phalanx, Great Khân's Archers and Golden Axemen for 90 seconds\nLeft click then left click target area"
+"Requiert le niveau 10\nInvoque une puissante armée de Phalanges du Grand Khân, d'Archers du Grand Khân et de Hache-d'Or pour 90 secondes\nCliquez gauche puis cliquez gauche sur la zone cible"
 END
 //------------ Bélohk-Zá ---------------
 OBJECT:RhunBelokhZa
-"Houndmaster Bélohk"
+"Maitre des chiens Bélohk"
 END
 CONTROLBAR:BelokhZaHotkey
-"Houndmaster Bélohk (&W)"
+"Maitre des chiens Bélohk (&W)"
 END
 CONTROLBAR:BelokhZaRevive
-"Revive the fallen hero, Houndmaster Bélohk"
+"Ressusciter le héros tombé, Maitre des chiens Bélohk"
 END
 CONTROLBAR:BelokhZaRecruit
-"Recruit the dreaded Houndmaster of Khand \n\n Chief Houndmaster of the legions of Vâh-rús, Belohk is a loyal and fierce warrior, proudly leading the Khandish auxiliaries into battle, accompanied by scores of ferocious warhounds."
+"Recrutez le redoutable Maitre des chiens du Khand \n\nChef Maitre des chiens des légions de Vâh-rús, Bélohk est un guerrier loyal et féroce, menant fièrement les auxiliaires du Khand au combat, accompagné par des dizaines de féroces chiens de guerre."
 END
 CONTROLBAR:Houndmaster
-"The Houndmaster (&W)"
+"Le Maitre des chiens (&W)"
 End
 CONTROLBAR:ToolTipHoundmaster
-"Houndmaster Bélohk is accompanied by three Khandish Wardogs\n Passive ability \n When activated, summons an additional temporary Wardog that follows the Houndmaster and attacks his enemies\n Summons an additional Wardog at level 5, and 2 more at level 10\nLeft click to activate"
+"Le Maitre des chiens Bélohk est accompagné de trois Chiens de guerre du Khand\nCapacité passive\nLorsqu'elle est activée, elle invoque un Chien de guerre temporaire supplémentaire qui suit le Maitre des chiens et attaque ses ennemis\nInvoque un Chien de guerre supplémentaire au niveau 5 et 2 de plus au niveau 10\nCliquez gauche pour activer"
 END
 CONTROLBAR:RendingArrow
-"Rending Arrows"
+"Flèches Déchirantes"
 END
 CONTROLBAR:ToolTipRendingArrow
-"Requires Level 5\n The Houndmaster's arrows cause enemies to suffer damage over time for 10 seconds\nPassive ability"
+"Requiert le niveau 5\nLes flèches du Maitre des chiens infligent des dégâts au fil du temps pendant 10 secondes aux ennemis\nCapacité passive"
 End
 CONTROLBAR:MasterSteppes
-"Master of the Khandish Steppes"
+"Maitre des Steppes Khandiennes"
 END
 CONTROLBAR:TooltipMasterSteppes
-"Requires Level 3\nModifier Type: Leadership\n Nearby Variags, Wardogs, and Rhûn Serf units gain +15% armour and +15% damage\nPassive ability"
+"Requiert le niveau 3\nType de modification : Leadership\nLes Variags, Chiens de guerre et Serfs du Rhûn à proximité gagnent +15% d'armure et +15% de dégâts\nCapacité passive"
 END
 CONTROLBAR:WarmongersShot
-"Warmonger's Shot (&T)"
+"Tir du Guerrier"
 END
 CONTROLBAR:ToolTipWarmongersShot
-"Requires Level 4\n A precise arrow shot that slows down an enemy unit by -70% and reduces their vision by 50% for 15 seconds \n Left click icon then left click on target unit"
+"Requiert le niveau 4\nUn tir de flèche précis qui ralentit une unité ennemie de -70% et réduit sa vision de 50% pendant 15 secondes\nCliquez sur l'icône puis cliquez sur l'unité cible"
 End
 CONTROLBAR:FuryoftheBeasts
-"Fury of the Beasts (&V)"
+"Furie des Bêtes"
 END
 CONTROLBAR:TooltipFuryoftheBeasts
-"Requires Level 8\nModifier Type: Spell\nNearby Variags, Outriders, and Khandish Wardogs gain +50% damage, +50% armour and -25% trample deceleration for 10 seconds\n At rank 10, duration of effect increases to 20 seconds\nLeft click to activate"
+"Requiert le niveau 8\nType de modification : Sort\nLes Variags, Eclaireurs et Chiens de guerre du Khand à proximité gagnent +50% de dégâts, +50% d'armure et -25% de décélération au piétinement pendant 10 secondes\n Au rang 10, la durée de l'effet augmente à 20 secondes\nCliquez pour activer"
 END
 CONTROLBAR:ToolTipToggleBelokhZaWeapons
-"Left click to toggle between bow and dual blades\nBélokk-Zá is passively stealthed when not attacking"
-END 
+"Cliquez gauche pour basculer entre l'arc et les lames doubles\nBélohk-Zá est furtif en permanence lorsqu'il n'attaque pas"
+END
 CONTROLBAR:Shadowstrike
-"Shadowstrike (&R)"
+"Frappes d'Ombre (&R)"
 END
 CONTROLBAR:TooltipShadowstrike
-"Requires Level 2\nBélohk-Zá teleports to a target area, slashing all enemies where he lands\nLeft click then left click target area"
+"Requiert le niveau 2\nBélohk-Zá se téléporte vers une zone cible, frappant tous les ennemis à son arrivée\nCliquez gauche puis cliquez gauche sur la zone cible"
 END
 CONTROLBAR:DragonTalon
-"Dragon's Talon (&T)"
+"Talon du Dragon (&T)"
 END
 CONTROLBAR:ToolTipDragonTalon
-"Requires Level 3 \n Single ranged attack\nCan only be used with bow equipped\nLeft click icon then left click on target"
+"Requiert le niveau 3\nAttaque à distance unique\nNe peut être utilisé qu'avec l'arc équipé\nCliquez sur l'icône puis cliquez sur la cible"
 END
 CONTROLBAR:SpecialAbilityDeathmark
-"Deathmark (&C)"
+"Marque de la Mort (&C)"
 END
 CONTROLBAR:ToolTipSpecialAbilityDeathmark
-"Requires Level 6\nTarget enemy hero is marked and grants vision for 60 seconds\nTarget enemy hero is slowed by 20% and takes +50% damage from Bélohk-Zá for 15 seconds\nLeft click then left click on target enemy hero"
+"Requiert le niveau 6\nLe héros ennemi ciblé est marqué et accorde une vision pendant 60 secondes\nLe héros ennemi ciblé est ralenti de 20% et subit +50% de dégâts de Bélohk-Zá pendant 15 secondes\nCliquez gauche puis cliquez gauche sur le héros ennemi ciblé"
 END
 CONTROLBAR:FanOfKnives
-"Fan of Knives (&V)"
+"Eventail de Couteaux (&V)"
 END
 CONTROLBAR:ToolTipFanOfKnives
-""Requires Level 8\nLaunch a continuous volley of knives, dealing AOE damage\nLeft click icon then left click on target area"
+"Requiert le niveau 8\nLance une volée continue de couteaux, infligeant des dégâts de zone\nCliquez sur l'icône puis cliquez sur la zone cible"
 END
 //------------ Khren-Ták ---------------
 OBJECT:RhunKhrenTak
@@ -64896,51 +64894,50 @@ CONTROLBAR:KhrenTakHotkey
 "Khren-ták (&R)"
 END
 CONTROLBAR:KhrenTakRevive
-"Revive the fallen hero, Khren-ták"
+"Ressusciter le héros tombé, Khren-ták"
 END
 CONTROLBAR:KhrenTakRecruit
-"Recruit the Scourge of Dorwinion \n\n The Scourge of Dorwinion earned his moniker during bloody conflict with the lords of Dorwinion, when, outnumbered and surrounded, he slew a hundred legionnaires to reach their commander, whose head he took. Being among the sole survivors of his company of Dragon Knights, Khren-ták was promoted to replace their fallen commander."
+"Recrutez le Fléau de Dorwinion \n\nLe Fléau de Dorwinion a mérité son surnom lors d'un conflit sanglant avec les seigneurs de Dorwinion, lorsqu'il tua cent légionnaires pour atteindre leur commandant, dont il prit la tête. Étant l'un des seuls survivants de sa compagnie de Chevaliers-Dragons, Khren-ták fut promu pour remplacer leur commandant tombé."
 END
 CONTROLBAR:WardenoftheEast
-"Warden of the East"
+"Gardien de l'Est"
 END
 CONTROLBAR:KhrenTakSummon
-"Warden of the East (&W)"
+"Gardien de l'Est (&W)"
 END
 CONTROLBAR:ToolTipKhrenTakSummon
-"Modifier Type: Leadership\nNearby allied structures gain +33% armour\nPassive ability\n\nAt level 3, can be activated to summon a battalion of Great Khân's Swordsmen\nAt level 7, summons two battalions\nAt level 10, battalions are summoned with heavy armour and forged blades\nLeft click to activate"
+"Type de modification : Leadership\nLes structures alliées à proximité gagnent +33% d'armure\nCapacité passive\n\nAu niveau 3, peut être activé pour invoquer un bataillon d'Épéistes de la Grande Khân\nAu niveau 7, invoque deux bataillons\nAu niveau 10, les bataillons sont invoqués avec une armure lourde et des lames forgées\nCliquez gauche pour activer"
 END
 CONTROLBAR:PerfectStrike
-"Shield Slam (&W)"
+"Brise-Bouclier (&W)"
 END
 CONTROLBAR:ToolTipPerfectStrike
-//"Requires Level 6\nTarget enemy structure takes significant damage and loses -33% armour for 10 seconds\nLeft click icon then left click on target"
-"For every 15 allied Rhûn units nearby, Khren-ták gains +5% armour to a maximum of 25% \n Passive ability \n \n When activated, Khren-ták slams the enemy with his shield, damaging and knocking them back\n Left click icon then left click on target"
+"Pour chaque groupe de 15 unités de Rhûn alliées à proximité, Khren-ták gagne +5% d'armure, jusqu'à un maximum de 25% \n Capacité passive \n \n Lorsqu'il est activé, Khren-ták frappe l'ennemi avec son bouclier, lui infligeant des dégâts et le repoussant\n Cliquez sur l'icône puis cliquez sur la cible"
 END
 
 CONTROLBAR:RoaroftheBlackDragon
-"Strength's Reward (&T)"
+"Récompense de la Force (&T)"
 END
 CONTROLBAR:TooltipRoaroftheBlackDragon
-"Requires Level 5 \n Give targeted units excellent experience \n Left click icon then left click on target units"
+"Requiert le niveau 5 \n Accorde une excellente expérience aux unités ciblées \n Cliquez sur l'icône puis cliquez sur les unités ciblées"
 END
 CONTROLBAR:UnflinchingBlow
-"Great Wyrm's Supplication (&C)"
+"Supplication du Grand Ver (&C)"
 END
 CONTROLBAR:ToolTipUnflinchingBlow
-"Requires Level 7\n Khren-ták slams his mace into the ground, stunning \n nearby enemies for 5 seconds and granting knockback resistance to all nearby allies for 10 seconds\n\n Left click to activate"
+"Requiert le niveau 7\n Khren-ták frappe son fléau contre le sol, étourdissant les ennemis à proximité pendant 5 secondes et conférant une résistance aux coups à tous les alliés à proximité pendant 10 secondes\n\n Cliquez pour activer"
 END
 CONTROLBAR:VeteransRule
-"Veteran's Rule"
+"Règle des Vétérans"
 END
 CONTROLBAR:ToolTipVeteransRule
-"Requires Level 3\nModifier Type: Leadership \n Dragon Knights near Khren-ták gain experience +50% faster\nAt level 6, grants nearby Easterling infantry an additional +25% damage and armour\n\n Passive Ability"
+"Requiert le niveau 3\nType de modification : Leadership\nLes Chevaliers-Dragons près de Khren-ták gagnent de l'expérience +50% plus rapidement\nAu niveau 6, accorde aux infanteries easterlingues à proximité +25% de dégâts et d'armure supplémentaires\n\n Capacité passive"
 END
 CONTROLBAR:SpecialAbilityZealotCharge
-"Dragon Lord's Wrath (&V)"
+"Fureur du Seigneur-Dragon (&V)"
 END
 CONTROLBAR:ToolTipSpecialAbilityZealotCharge
-"Requires Level 10\nKhren-ták channels the might of the raging dragon, breathing fire over an area and dealing heavy damage to units and structures \nLeft click icon then left click on target"
+"Requiert le niveau 10\nKhren-ták canalise la puissance du dragon enragé, crachant du feu sur une zone et infligeant de lourds dégâts aux unités et aux structures\nCliquez sur l'icône puis cliquez sur la cible"
 END
 //------------ Razári ---------------
 OBJECT:RhunRazari
@@ -64950,185 +64947,185 @@ CONTROLBAR:RhunRazariHotkey
 "Razári (&E)"
 END
 CONTROLBAR:RhunRazariRevive
-"Revive the fallen hero, Razári"
+"Ressusciter le héros tombé, Razári"
 END
 CONTROLBAR:RhunRazariRecruit
-"Recruit the Balchoth Priestess \n\n The last of the void-priestesses, Razari kindles a dark flame of remembrance for the ruined tribes of the Balchoth. Meddling in strange magics, she believes in the restoration of her people, though her methods betray a darker influence."
+"Recruter la Prêtresse Balchoth \n\n Dernière des prêtresses du vide, Razari ravive une sombre flamme du souvenir pour les tribus ruinées des Balchoth. S'adonnant à de étranges magies, elle croit en la restauration de son peuple, bien que ses méthodes trahissent une influence plus sombre."
 END
 CONTROLBAR:ManifestedTerror
-"Manifested Terror (&W)"
+"Terror Manifesté (&W)"
 END
 CONTROLBAR:ToolTipManifestedTerror
-"Rázari practices forbidden sorcery, channeling the powers of the void and stealing health with every hit. \nPassive Ability \n \n When activated, Rázari damages nearby units and pulses fear to them for 10 seconds \n Left click to activate"
+"Rázari pratique la sorcellerie interdite, canalisant les pouvoirs du vide et volant de la santé à chaque coup. \nCapacité passive \n\n Lorsqu'elle est activée, Rázari inflige des dégâts aux unités proches et les plonge dans la peur pendant 10 secondes. \nCliquez gauche pour activer"
 END
 CONTROLBAR:RazariFeastOfSouls
-"Feast of Souls (&T)"
+"Festin des Âmes (&T)"
 End
 CONTROLBAR:ToolTipRazariFeastOfSouls
-"Requires Level 4\nEnemy units in target area suffer damage over time and deal 25% less damage for 5 seconds \nHeals Razári and nearby friendly non-mechanical units \nAt level 8, the amount allies are healed by greatly increases \n Left click icon then left click on target area"
+"Requiert le niveau 4\nLes unités ennemies dans la zone ciblée subissent des dégâts dans le temps et infligent 25% de dégâts en moins pendant 5 secondes \nSoigne Razári et les unités amicales non mécaniques à proximité \nAu niveau 8, les alliés sont grandement soignés. \nCliquez gauche sur l'icône puis cliquez gauche sur la zone cible"
 End
 CONTROLBAR:RazariFellOmen
-"Fell Omen (&R)"
+"Mauvais Présage (&R)"
 END
 CONTROLBAR:ToolTipRazariFellOmen
-"Requires Level 2\n Summons a Baleful Ward, which reduces enemy vision and speed \n by 15%, and reduces the cooldown of spells Rázari casts near it by 50% \n \n At level 5, Baleful Wards slowly damage nearby units \n \n Limited to 3 \n Left click icon then left click on target area"
+"Requiert le niveau 2\nInvoque une Garde Funeste, qui réduit la vision et la vitesse des ennemis de 15% et réduit le temps de recharge des sorts lancés par Rázari à proximité de 50% \n \n Au niveau 5, les Gardes Funestes infligent lentement des dégâts aux unités proches \n \n Limité à 3 \nCliquez gauche sur l'icône puis cliquez gauche sur la zone cible"
 END
 CONTROLBAR:RazariWhispersOfVoid
-"Whispers of the Void (&C)"
+"Murmures du Vide (&C)"
 END
 CONTROLBAR:TooltipRazariWhispersOfVoid
-"Requires Level 7\n Causes targeted units to become hostile\n towards each other for 15 seconds\n\n Can be cast on Baleful Wards to make them afflict nearby enemy units with damage over time, destroying them in the process. \n Left click icon then left click on target area"
+"Requiert le niveau 7\nRend les unités ciblées hostiles les unes envers les autres pendant 15 secondes\n\nPeut être lancé sur des Gardes Funestes pour les faire affecter les unités ennemies proches avec des dégâts dans le temps, les détruisant dans le processus. \nCliquez gauche sur l'icône puis cliquez gauche sur la zone cible"
 END
 CONTROLBAR:WrathBalchoth
-"Wrath of the Balchoth (&V)"
+"Colère des Balchoth (&V)"
 END
 CONTROLBAR:ToolTipWrathBalchoth
-"Requires Level 10 \n Gain control of targeted enemies for 30 seconds\nDominated enemy units gain +50% damage but lose -50% armour whilst controlled\nLeft click icon then left click on target enemies"
+"Requiert le niveau 10\nPrend le contrôle des ennemis ciblés pendant 30 secondes\nLes unités ennemies dominées infligent +50% de dégâts mais perdent -50% d'armure pendant qu'elles sont contrôlées\nCliquez gauche sur l'icône puis cliquez gauche sur les ennemis ciblés"
 END
 //------------ Khanorax---------------
 OBJECT:RhunDragon
 "Khâronax"
 END
 CONTROLBAR:GildedMajesty
-"Gilded Majesty"
+"Majesté dorée"
 END
 CONTROLBAR:ToolTipGildedMajesty
-"As long as Khâronax is alive on the battlefield, Slave Farms and Foundries produce +15% more resources\nPassive ability"
+"Tant que Khâronax est en vie sur le champ de bataille, les Fermes d'Esclaves et les Fonderies produisent +15% de ressources supplémentaires\nCapacité passive"
 END
 CONTROLBAR:SpecialAbilityKhanoraxFlamestrike
-"Flamestrike (&R)"
+"Frappes de Flamme (&R)"
 END
 CONTROLBAR:ToolTipSpecialAbilityKhanoraxFlamestrike
-"Sends a fireball at selected target \n Left click icon then left click on target"
+"Envoie une boule de feu sur la cible sélectionnée\nCliquez gauche sur l'icône puis cliquez gauche sur la cible"
 END
 CONTROLBAR:GlaurungsWrath
-"Glaurung's Wrath (&T)"
+"Courroux de Glaurung (&T)"
 END
 CONTROLBAR:TooltipGlaurungsWrath
-"Causes enemy units to flee in terror \n Left click to activate"
+"Force les unités ennemies à fuir de terreur\nCliquez gauche pour activer"
 END
 CONTROLBAR:SpecialAbilityGoldenDrakesFavour
-"Golden Drake's Favour (&C)"
+"Faveur du Dragon Doré (&C)"
 END
 CONTROLBAR:ToolTipGoldenDrakesFavour
-"Grants Jagged Steel Armour, Cruel Blades and Barbed Arrows to units in radius\n Left click on icon then left click on target units"
+"Accorde Armure en Acier Dentelé, Lames Cruelles et Flèches Barbelées aux unités dans le rayon\nCliquez gauche sur l'icône puis cliquez gauche sur les unités ciblées"
 END
 CONTROLBAR:SpecialAbilityFlamingRuin
-"Flaming Ruin (&V)"
+"Ruine Enflammée (&V)"
 END
 CONTROLBAR:ToolTipSpecialAbilityFlamingRuin
-"Breathes fire over a selected area \n Left click icon then left click on target area"
+"Souffle du feu sur une zone sélectionnée\nCliquez gauche sur l'icône puis cliquez gauche sur la zone cible"
 END
 //------------ Balchoth Warriors ---------------
 OBJECT:RhunBalchoth
-"Balchoth Warrior"
+"Guerrier Balchoth"
 END
 OBJECT:RhunBalchothHorde
-"Balchoth Warriors"
+"Horde de Guerriers Balchoth"
 END
 //------------ Variag Boyos rated 10/10 on IGN ---------------
 OBJECT:MordorVariag
-"Variag of Khand"
+"Variag de Khand"
 END
 
 OBJECT:HordeMordorVariag
-"Variags of Khand"
+"Variags de Khand"
 END
 
 CONTROLBAR:ConstructMordorVariagHorde
-"Variags of Khand (&W)"
+"Variags de Khand (&W)"
 END
 
 CONTROLBAR:LW_Unit_MordorVariagHorde
-"Variag of Khand Battalion"
+"Bataillon de Variags de Khand"
 END
 
 CONTROLBAR:LW_ToolTip_MordorVariagHorde
-"\nUnit Type: Elite Infantry\nStrong vs. Pikemen and Archers"
+"\nType d'unité : Infanterie d'élite\nFort contre les Piquiers et les Archers"
 END
 
 CONTROLBAR:ToolTipBuildMordorVariagHorde
-"Strong vs. Pikemen and Archers \n \n The Variags of Khand were a formidable race of warriors, born from a long history of conflict with the lands of Gondor."
+"Fort contre les Piquiers et les Archers \n \n Les Variags de Khand étaient une race redoutable de guerriers, nés d'une longue histoire de conflit avec les terres du Gondor."
 END
 
 CONTROLBAR:LW_ToolTipBuild_MordorVariagHorde
-"Unit Type: Elite Infantry\nStrong vs. Pikemen and Archers\n"
+"Type d'unité : Infanterie d'élite\nFort contre les Piquiers et les Archers\n"
 END
 //--------------------------------------------------------------------------------
 CONTROLBAR:TooltipDenethorPalantir
-"Can be cast to reveal shroud for 2 minutes\n \n Modifier Type: Active Debuff \n Targeted units, both friend and foe, lose all leadership for 30 seconds\n \n Left click on icon then left click on target area"
+"Peut être lancé pour révéler la brume pendant 2 minutes\n \n Type de modification : Débuff actif \n Les unités ciblées, alliées et ennemies, perdent tout leadership pendant 30 secondes\n \n Cliquez gauche sur l'icône puis cliquez gauche sur la zone cible"
 END
 
 CONTROLBAR:DenethorPalantir
-"Stone of Anárion (&R)"
+"Pierre d'Anárion (&R)"
 END
 
 CONTROLBAR:DenethorSummon
-"In Service of the Steward (&C)"
+"Au service de l'Intendant (&C)"
 END
 
 CONTROLBAR:ToolTipDenethorSummon
-"Requires Level 6 \n Summons a temporary battalion of Guards of the Citadel \n At level 10, also temporarily summons Berethor \n Left click on icon to activate"
+"Requiert le niveau 6 \n Invoque temporairement un bataillon de Gardes de la Citadelle \n Au niveau 10, invoque également temporairement Berethor \n Cliquez gauche sur l'icône pour activer"
 END
 
 CONTROLBAR:ToolTipDenethorFailingRule
-"Modifier Type: Active Debuff \n Targeted units, both friend and foe, lose all leadership \nLeft click icon then left click on target area"
+"Type de modification : Débuff actif \n Les unités ciblées, alliées et ennemies, perdent tout leadership \n Cliquez gauche sur l'icône puis cliquez gauche sur la zone cible"
 END
 
 CONTROLBAR:DenethorFailingRule
-"His &Rule Is Failing"
+"Son &Règne Faiblit"
 END
 
 CONTROLBAR:ToolTipDenethorFavor
-"Requires Bulwark of the West upgrade \n Summons two battalions of Guards of the Citadel \n \n Left click icon then left click on target area"
+"Requiert l'amélioration Rempart de l'Ouest \n Invoque deux bataillons de Gardes de la Citadelle \n \n Cliquez gauche sur l'icône puis cliquez gauche sur la zone cible"
 END
 
 CONTROLBAR:DenethorFavor
-"Stalwart Defense (&T)"
+"Défense Inébranlable (&T)"
 END
 
 CONTROLBAR:DenethorSteward
-"Steward of Gondor"
+"Intendant du Gondor"
 END
 
 CONTROLBAR:ToolTipStewardLvl3
-"Denethor is protected by his guards \n Allows Denethor to rank up \n Left click to purchase upgrade \n\n Modifier Type: Leadership \n Rank 1: Allied units near Denethor gain +25% experience gain \n Faramir loses -15% armour and -15% experience gain \n Rank 3: Allied units near Denethor gain +33% armour \n Gandalf loses -15% armour and -15% experience gain \n Rank 6: Allied units near Denethor gain +33% damage \n Elessar loses -15% armour\nPassive ability"
+"Denethor est protégé par ses gardes \n Permet à Denethor de monter en niveau \n Cliquez gauche pour acheter l'amélioration \n\n Type de modification : Leadership \n Niveau 1 : Les unités alliées près de Denethor gagnent +25% d'expérience \n Faramir perd -15% d'armure et -15% d'expérience \n Niveau 3 : Les unités alliées près de Denethor gagnent +33% d'armure \n Gandalf perd -15% d'armure et -15% d'expérience \n Niveau 6 : Les unités alliées près de Denethor gagnent +33% de dégâts \n Elessar perd -15% d'armure\nCapacité passive"
 End
 
 CONTROLBAR:ToolTipStewardLvl10
-"Denethor is protected by his guards \n\n Modifier Type: Leadership \n Rank 1: Allied units near Denethor gain +25% experience gain \n Faramir loses -15% armour and -15% experience gain \n Rank 3: Allied units near Denethor gain +33% armour \n Gandalf loses -15% armour and -15% experience gain \n Rank 6: Allied units near Denethor gain +33% damage \n Elessar loses -15% armour\nPassive ability"
+"Denethor est protégé par ses gardes \n\n Type de modification : Leadership \n Niveau 1 : Les unités alliées près de Denethor gagnent +25% d'expérience \n Faramir perd -15% d'armure et -15% d'expérience \n Niveau 3 : Les unités alliées près de Denethor gagnent +33% d'armure \n Gandalf perd -15% d'armure et -15% d'expérience \n Niveau 6 : Les unités alliées près de Denethor gagnent +33% de dégâts \n Elessar perd -15% d'armure\nCapacité passive"
 End
 
 CONTROLBAR:DenethorHighAuthority
-"High Authority (&T)"
+"Haute Autorité (&T)"
 END
 
 CONTROLBAR:ToolTipDenethorHighAuthority
-"Requires Level 3 \n Commands targeted enemy units to flee for their lives \n Left click on icon then left click on target units"
+"Requiert le niveau 3 \n Ordonne aux unités ennemies ciblées de fuir pour leur vie \n Cliquez gauche sur l'icône puis cliquez gauche sur les unités cibles"
 END
 
 CONTROLBAR:DenethorContest
-"Contest of Wills (&V)"
+"Concours de Volontés (&V)"
 END
 
 CONTROLBAR:ToolTipDenethorContest
-"Requires Level 10 \n When cast on a friendly hero, increases damage output by +100% at the cost of -50% armour for 15 seconds\n When cast on an enemy hero, causes the hero to lose -33% armour and speed for 15 seconds\n Left click on icon then left click on target hero"
+"Requiert le niveau 10 \n Lorsqu'il est lancé sur un héros allié, augmente les dégâts de +100% au prix de -50% d'armure pendant 15 secondes \n Lorsqu'il est lancé sur un héros ennemi, fait perdre au héros -33% d'armure et de vitesse pendant 15 secondes \n Cliquez gauche sur l'icône puis cliquez gauche sur le héros cible"
 END
 
 CONTROLBAR:AnarionLordofAnor_LAS
-"Lord of Minas Anor (&R)"
+"Seigneur de Minas Anor (&R)"
 END
 
 CONTROLBAR:ToolTipAnarionLordofAnor_LAS
-"Requires Level 7 \n When cast on a friendly hero, increases damage output by +100% at the cost of -50% armour for 15 seconds\n When cast on an enemy hero, causes the hero to lose -33% armour and speed for 15 seconds\n Left click on icon then left click on target hero"
+"Requiert le niveau 7 \n Lorsqu'il est lancé sur un héros allié, augmente les dégâts de +100% au prix de -50% d'armure pendant 15 secondes \n Lorsqu'il est lancé sur un héros ennemi, fait perdre au héros -33% d'armure et de vitesse pendant 15 secondes \n Cliquez gauche sur l'icône puis cliquez gauche sur le héros cible"
 END
 
 OBJECT:LossarnachAxeMan
-"Lossarnach Axeman"
+"Homme de hache de Lossarnach"
 END
 
 OBJECT:HordeLossarnachAxeMen
-"Lossarnach Axemen"
+"Hommes de hache de Lossarnach"
 END
 
 OBJECT:GondorForlong
@@ -65136,11 +65133,11 @@ OBJECT:GondorForlong
 END
 
 CONTROLBAR:GondorForlongRecruit
-"Recruit the Lord of Lossarnach \n \n 'True heart, true friend! Forlong!'"
+"Recruter le Seigneur de Lossarnach \n \n 'Véritable cœur, véritable ami ! Forlong !'"
 END
 
 CONTROLBAR:GondorForlongRevive
-"Revive the fallen Hero, Forlong"
+"Rappelez Forlong à la vie"
 END
 
 CONTROLBAR:GondorForlongHotkey
@@ -65156,19 +65153,19 @@ OBJECT:GondorGwaihir
 END
 
 OBJECT:DolAmrothCitadel
-"Dol Amroth Citadel"
+"Citadelle de Dol Amroth"
 END
 
 CONTROLBAR:SummonDolAmrothAllies
-"Dol Amroth Citadel"
+"Citadelle de Dol Amroth"
 END
 
 OBJECT:DolAmrothBarracks
-"Dol Amroth Barracks"
+"Caserne de Dol Amroth"
 END
 
 CONTROLBAR:SummonEagleAlliesGondor
-"The Messengers of Manwë"
+"Messagers de Manwë"
 END
 
 CONTROLBAR:SummonElessar
@@ -65176,281 +65173,278 @@ CONTROLBAR:SummonElessar
 END
 
 CONTROLBAR:TooltipSummonElessar
-"Summons King Elessar accompanied by his Royal Guards \n His guards are temporary, but the King lasts until killed \n Modifier Type: Buff \n Nearby units gain +50% armour, immunity to fear \n and knockback and trample resistance for 20 seconds\nLeft click on icon then left click on target area"
+"Invoque le Roi Elessar accompagné de sa Garde Royale. Ses gardes sont temporaires, mais le Roi persiste jusqu'à sa mort. Type d'Action : Bonus. \n\n Les unités proches gagnent +50% d'armure, et sont immunisés face à la peur et au renversement et obtiennent une résistance au piétinement pendant 20 secondes. \n\n Clic gauche sur l'icône puis clic gauche sur la zone cible."
 END
 
 CONTROLBAR:SummonSpawnDenethor
-"The Steward of Gondor"
+"Le Steward de Gondor"
 END
 
 CONTROLBAR:SummonSpawnTrebuchet
-"Númenórean Engineering"
+"Ingénierie Númenoréenne"
 END
 
 CONTROLBAR:SummonLossarnachAllies
-"Aid from Lossarnach"
+"Aide de Lossarnach"
 END
 
 CONTROLBAR:SwornAllegiance
-"Sworn Allegiance"
+"Allégeance Jurée"
 END
 
 CONTROLBAR:TooltipSwornAllegiance
-"All Gondor Barracks, Archery Range and Stables have decreased recruitment time of Fiefdom troops by 33% \n The troops come equipped with Armaments of the White City \n Effect lasts for 60 seconds \n Left click to activate"
+"Les casernes de Gondor, le champ de tir à l'arc et les écuries ont un temps de recrutement réduit de 33% pour les troupes du Fiefdom \n Les troupes sont équipées d'Armements de la Cité Blanche \n L'effet dure 60 secondes \n Cliquez gauche pour activer"
 END
 
 CONTROLBAR:TooltipSummonDolAmrothAllies
-"Summons a Dol Amroth Citadel \n Limited to 2 \n Recruits Prince Imrahil, Men-at-Arms, and Swan Knights \n Left click on icon then left click on target area"
+"Convoque une Citadelle de Dol Amroth \n Limité à 2 \n Recrute le Prince Imrahil, des Hommes d'Armes et des Chevaliers du Cygne \n Cliquez gauche sur l'icône puis cliquez gauche sur la zone cible"
 END
 
 CONTROLBAR:TooltipSummonDolAmrothAllies_WOTR
-"Summons a Dol Amroth Citadel \n Limited to 2 \n Once used, passively unlocks Men-at-Arms and Swan Knights \n Left click on icon then left click on target area"
+"Convoque une Citadelle de Dol Amroth \n Limité à 2 \n Une fois utilisé, débloque passivement les Hommes d'Armes et les Chevaliers du Cygne \n Cliquez gauche sur l'icône puis cliquez gauche sur la zone cible"
 END
 
 CONTROLBAR:TooltipSummonEagleAlliesGondor
-"Summons Gwaihir the Windlord and 3 eagles. \n Left click on icon then left click on target area"
+"Convoque Gwaihir le Seigneur du Vent et 3 aigles. \n Cliquez gauche sur l'icône puis cliquez gauche sur la zone cible"
 END
 
 CONTROLBAR:TooltipSummonSpawnDenethor
-"Summons Denethor and his contingent of Guards of the Citadel  \n Left click on icon then left click on target area"
+"Convoque Denethor et sa cohorte de Gardes de la Citadelle \n Cliquez gauche sur l'icône puis cliquez gauche sur la zone cible"
 END
 
 CONTROLBAR:TooltipSummonSpawnTrebuchet
-"Summons a stationary trebuchet onto the battlefield \n Left click on icon then left click on target area"
+"Convoque une catapulte stationnaire sur le champ de bataille \n Cliquez gauche sur l'icône puis cliquez gauche sur la zone cible"
 END
 
 CONTROLBAR:TooltipSummonLossarnachAllies
-"Summons Forlong and his Axemen to the battlefield. \n Left click on icon then left click on target area"
+"Convoque Forlong et ses Hommes de hache sur le champ de bataille. \n Cliquez gauche sur l'icône puis cliquez gauche sur la zone cible"
 END
 
 CONTROLBAR:WildGreatGoblinRecruit
-"Recruit the King of Goblin-town \n \n 'Abominations, disfigurations, mutilations, and repulsions... That's all you're going to find down here.'"
+"Recrutez le Grand Gobelin, le Seigneur du Haut Col. \n\n Gobelinville est sous le joug par ce qui est sûrement le pire seigneur Gobelin qui soit. On l'appelle le Roi Gobelin ou le Grand Gobelin, et il ne tolère aucun intrus dans son sinistre domaine. \n C'est une créature immense avec un goitre phénoménal et une couronne dentelée. Son corps bouffi, aux proportions colossales, est constellé de replis graisseux et de furoncles. Plus intelligent qu'il n'y paraît, il prend un plaisir particulièrement cruel à torturer ses prisonniers. \n\n 'Abominations, défigurations, mutilations, et répulsions... Voilà tout ce que vous trouverez ici-bas.'"
 END
 
 CONTROLBAR:WildGreatGoblinRevive
-"Revive the Great Goblin, the leader of Goblin-town"
+"Rappelez le Grand Gobelin à la vie."
 END
 
 CONTROLBAR:WildGreatGoblinHotkey
-"Great Goblin (&S)"
+"Le Grand Gobelin (&S)"
 END
 
 OBJECT:WildGreatGoblin
-"Great Goblin"
+"Le Grand Gobelin"
 END
 
 OBJECT:GoblinTownFighter
-"Goblin-town Warrior"
+"Guerrier de Gobelinville"
 END
 
 OBJECT:HordeGoblinTownFighters
-"Goblin-town Warriors"
+"Guerriers de Gobelinville"
 END
 
 CONTROLBAR:GreatGoblinSwarm
-//"&Totem of the Swarm"
-"Swarm (&W)"
+"Gobelinville (&W)"
 END
 
 CONTROLBAR:ToolTipGreatGoblinSwarm
-//"Requires Level 10 \n The Great Goblin may recruit hordes of Goblin-towners at his Totem \n Left click on icon then left click on target position"
-"Summons Goblin-town Warriors \n Number of hordes summoned is analogous to the Great Goblin's rank \n\n Modifier Type: Buff \n When activated, nearby Moria-orcs and Goblin-towers gain +15% speed and damage for 20 seconds\nLeft click to activate"
+"Invoque des Guerriers de Gobelinville. \n Le nombre de hordes invoquées est associé au niveau du Grand Gobelin. \n\n Type d'Action: Bonus. \n Lorsqu'ils sont activés, les Orques de la Moria et les Tours gobelins à proximité gagnent +15% de vitesse et de dégâts pendant 20 secondes (bonus cumulable). \n\n Clic gauche pour l'activer."
 END
 
 CONTROLBAR:GreatGoblinSwarm2
-"Swarm (&W)"
+"Nuée (&W)"
 END
 
 CONTROLBAR:ToolTipGreatGoblinSwarm2
-"The Great Goblin calls a horde of Goblin-towners to battle \n Respects command limit \n Strong vs. Pikemen \n 60 Command Points \n Left click on icon to summon a horde"
+"Le Grand Gobelin appelle une horde d'Habitants de Gobelinville à la bataille. \n Respecte la limite de points de commandement. \n Forts contre les piquiers. \n\n Clic gauche pour invoquer une horde."
 END
 
 CONTROLBAR:ConstructGoblinTownFighterHorde
-"Goblin-town Warriors (&W)"
+"Guerriers de Gobelinville (&W)"
 END
 
 CONTROLBAR:ToolTipBuildGoblinTownFighterHorde
-"Strong vs. Pikemen  \n\n Greater Swarm \n Modifier Type: Spell \n Goblin-town Warriors gain +20% damage and armour for every two Goblin-town battalions, up to a maximum of +100% damage and armour\n\n This wretched swarm of diseased, mutilated troglodytes is united by one thing alone: their fearful worship of The Great Fat One - an abominable orcish warlord who has managed to wield their collective villainy to construct the great settlement of Goblin-town."
+"Forts contre les piquiers. \n Bonus de Hordes. \n Type d'Action: Sort. \n\n Tous les Orques de la Moria et les Guerriers de Gobelinville bénéficient de +20 % de dégâts et d'armure pour chaque (deux bataillons de Gobelinville), jusqu'à un maximum de +100 % de dégâts et d'armure (bonus cumulable). \n\n Cet essaim misérable de troglodytes malades et mutilés est uni par une seule chose : leur adoration effrayante du Grand Gobelin."
 END
 
 CONTROLBAR:GreatGoblinLeadership
-"The Goblin King (&R)"
+"Le Roi Gobelin (&R)"
 END
 
 CONTROLBAR:ToolTipGreatGoblinLeadership
-"Modifier Type: Leadership \n Nearby Moria Orcs and Goblin-towners gain +33% damage and +33% armour and resistance to fear and terror\nPassive ability \n\n At Level 7 \n Gives targeted units excellent experience \n Left click icon then left click on target units"
+"Type d'Action: Charisme. \n Les Orques de la Moria et les Gobelins à proximité gagnent +33% de dégâts et +33% d'armure et de résistance face à la peur et à la terreur (bonus cumulable). \n Capacité passive. \n\n Au niveau 7, donne aux unités ciblées un excellent bonus d'expérience. \n Clic gauche sur l'icône puis clic gauche sur les unités cibles."
 END
 
 CONTROLBAR:GreatGoblinDemand
-"Goblin King's Demand (&T)"
+"Demande du Roi Gobelin (&T)"
 END
 
 CONTROLBAR:ToolTipGreatGoblinDemand
-"Requires Level 5 \n Summons a Totem of the Swarm at the target location \n Totem can recruit Goblin-town Warriors and reveal stealthed units \n Nearby enemy movement speed is decreased by -25% \n Maximum of 3 Totems allowed \n Left click then left click target location"
+"Requiert : Niveau 5 \n Invoque un totem de l'essaim à l'emplacement ciblé. \n Le Totem peut recruter des Guerriers de la Gobelinville et révéler les unités furtives. \n La vitesse de déplacement de l'ennemi à proximité est réduite de -25%. \n Limités à 3 totems seulement. \n\n Clic gauche sur l'icône puis clic gauche sur l'emplacement cible."
 END
 
 CONTROLBAR:GreatGoblinAntiquarian
-"Antiquarian (&C)"
+"Collectionneur (&C)"
 END
 CONTROLBAR:ToolTipGreatGoblinAntiquarian
-"Requires Level 7 \n The Great Goblin makes a deal on some fine antiques. Be careful though, his eyesight is going and he might get burned. Beware of Dragon Sickness. \n Left click on icon then left click on target area"
+"Requiert : Niveau 7 \n Le Grand Gobelin est un amateur d'antiquités précieuses qu'il récupère par des rapines ou des négoces crapuleux. \n Mais attention, certains trésors peuvent se révéler très dangereux ! Et gare au Mal du Dragon. \n\n Clic gauche sur l'icône puis clic gauche sur la zone cible."
 END
 
 CONTROLBAR:GreatGoblinAbominableSong
-"Abominable Song (&V)"
+"Chanson Abominable (&V)"
 END
 
 CONTROLBAR:TooltipGreatGoblinAbominableSong
-"Requires Level 9 \nModifier Type: Spell and Active Debuff \n Nearby friendly units gain +33% damage and +33% armour for 30 seconds\n Nearby enemy units suffer -25% damage and -20% armour for 30 second\nNullifies enemy leadership\nLeft click icon to activate"
+"Requiert : Niveau 9 \n Type d'Action: Sort et Pénalité active. \n Le Grand Gobelin entonne une ode grotesque en honneur à sa grandeur. \n Les alliés proches gagnent +33% de dégâts et +33% d'armure pendant 30 secondes (bonus cumulable). \n Les ennemis proches subissent -25% de dégâts et -20% d'armure et perdent leur bonus de Charisme pendant 30 secondes (Pénalité non cumulable). \n\n Clic gauche pour l'activer."
 END
 
 OBJECT:Antequaries
-"Fine Antiques"
+"Beaux Antiquaires"
 END
 
 CONTROLBAR:DolGuldurAllies
-"Dungeons of Dol Guldur"
+"Donjons de Dol Guldur"
 END
 
 CONTROLBAR:SummonWraith
-"Wraiths on Wings!"
+"Spectres ailés !"
 END
 
 CONTROLBAR:SummonHaradrimRaiders
-//"Summon Haradrim Raiders "
-"He Is Gathering All Evil To Him"
+"Il rassemble tout le mal à lui"
 END
 
 CONTROLBAR:SummonHarondorRaiders
-"Ride of the Black Serpent"
+"Chevauchée du Serpent Noir"
 END
 
 CONTROLBAR:RecklessFervour
-"Reckless Fervour"
+"Ferveur imprudente"
 END
 
 CONTROLBAR:MorgulAllies
-"Herald of the Dark Tower"
+"Héraut de la Tour Sombre"
 END
 
 CONTROLBAR:ArrowVolleyRhun
-"Arrow Barrage"
+"Déferlement de flèches"
 END
 
 CONTROLBAR:EndlessTwilight
-"Endless Twilight"
-End
+"Crépuscule sans fin"
+END
 
 CONTROLBAR:ReversalofFortune
-"Reversal Of Fortune"
+"Renversement de fortune"
 END
 
 CONTROLBAR:ToTheLastMan
-"To the Last Man (&W)"
+"Jusqu'au dernier homme (&W)"
 END
 
 CONTROLBAR:TooltipToTheLastMan
-"Temporarily increases the production speed of Rhûn infantry for 30 seconds \n Left click to activate"
+"Augmente temporairement la vitesse de production de l'infanterie de Rhûn pendant 30 secondes \n Cliquez gauche pour activer"
 END
 
 CONTROLBAR:SummonRhunWarBanner
-"Banner of the Khân-úl-khârtan"
+"Bannière du Khân-úl-khârtan"
 END
 
 OBJECT:RhunBanner
-"Banner of the Khân-úl-khârtan"
+"Bannière du Khân-úl-khârtan"
 END
 
 OBJECT:RhunBannerDescription
-"The banner provides increasingly powerful bonuses the longer it is alive \n Initial cast: +25% armour and +50% experience gain \n 30 seconds: +50% armour, +25% damage, and +100% experience gain \n60 seconds: +50% armour, +50% damage, +100% experience gain, and resistance to knockback"
+"La bannière offre des bonus de plus en plus puissants plus elle est en vie \n Lancer initial : +25% d'armure et +50% d'expérience gagnée \n 30 secondes : +50% d'armure, +25% de dégâts et +100% d'expérience gagnée \n 60 secondes : +50% d'armure, +50% de dégâts, +100% d'expérience gagnée et résistance aux renversements"
 END
 
 CONTROLBAR:WarChantRhun
-"Horn of the Great Khân"
+"Corne du Grand Khân"
 End
 
 CONTROLBAR:RhunDragonAlly
-"Flight of the Gilded Dragon"
+"Vol du Dragon Doré"
 END
 
 OBJECT:GreatGoblinTotem
-"Totem of the Swarm"
+"Totem de Gobelinville"
 END
 
 CONTROLBAR:TooltipDolGuldurAllies
-"Permanently summon a foul Dol Guldur Dungeon on to the battlefield \n Limited to 2 \n Allows recruitment of Khamûl the Easterling, Spawns of Ungoliant and Castellans \n Left click on icon then left click on target position"
+"Permet de faire apparaître en permanence un sombre Donjon de Dol Guldur sur le champ de bataille \n Limité à 2 \n Permet le recrutement de Khamûl l'Estelien, les Rejetons d'Ungoliant et les Castellans \n Cliquez gauche sur l'icône puis cliquez gauche sur la position cible"
 END
 
 CONTROLBAR:TooltipDolGuldurAllies_WOTR
-"Permanently summon a foul Dol Guldur Dungeon on to the battlefield \n Limited to 2 \n Allows recruitment of Spawns of Ungoliant and Castellans\n Left click on icon then left click on target position"
+"Permet de faire apparaître en permanence un sombre Donjon de Dol Guldur sur le champ de bataille \n Limité à 2 \n Permet le recrutement des Rejetons d'Ungoliant et des Castellans \n Cliquez gauche sur l'icône puis cliquez gauche sur la position cible"
 END
 
 CONTROLBAR:TooltipSummonWraith
-"Summons two Wraiths on Wings to the battlefield \n Left click on icon then left click on target area"
+"Permet de faire apparaître deux Spectres ailés sur le champ de bataille \n Cliquez gauche sur l'icône puis cliquez gauche sur la zone cible"
 END
 
 CONTROLBAR:TooltipSummonHaradrimRaiders
-"Summon three battalions of Haradrim Raiders to the battlefield \n Once used, passively unlocks Golden Cataphracts and Golden Axemen \n Left click on icon then left click on target area"
+"Permet de faire apparaître trois bataillons de Pillards Haradrim sur le champ de bataille \n Une fois utilisé, débloque passivement les Cataphractes dorés et les Hacheurs dorés \n Cliquez gauche sur l'icône puis cliquez gauche sur la zone cible"
 END
 
 CONTROLBAR:TooltipSummonHarondorRaiders
-"Summon three battalions of Harondor Raiders to the battlefield, commanded by Sûladan \n Left click on icon then left click on target area"
+"Permet de faire apparaître trois bataillons de Pillards Harondor sur le champ de bataille, commandés par Sûladan \n Cliquez gauche sur l'icône puis cliquez gauche sur la zone cible"
 END
 
 CONTROLBAR:ToolTipRecklessFervour
-"Partially heals units and replaces one dead man per battalion \n Debuffs both allied and enemy armour by 20% \n Left click icon then left click on target units"
+"Soigne partiellement les unités et remplace un homme mort par bataillon \n Affaiblit l'armure alliée et ennemie de 20% \n Cliquez sur l'icône puis cliquez gauche sur les unités cibles"
 END
 
 CONTROLBAR:TooltipArrowVolleyRhun
-"Bombards an area with a volley of arrows \n Left click icon then left click on target area"
+"Bombarde une zone avec une volée de flèches \n Cliquez sur l'icône puis cliquez gauche sur la zone cible"
 END
 
 CONTROLBAR:TooltipRhunDragonAlly
-"Summons Khâronax the Opulent, Fire-drake of the East \n Left click icon then left click on pathable location"
+"Appelle Khâronax l'Opulent, le Dragon de Feu de l'Est \n Cliquez sur l'icône puis cliquez gauche sur l'emplacement souhaité"
 END
 
 CONTROLBAR:TooltipMorgulAllies
-"Summons the Mouth of Sauron and his Acolytes \n Left click on icon then left click on target area"
+"Appelle la Bouche de Sauron et ses Acolytes \n Cliquez sur l'icône puis cliquez gauche sur la zone cible"
 END
 
 CONTROLBAR:TooltipReversalofFortune
-"Enemy units within the radius lose all leadership\nand move 20% slower for 10 seconds\nAllied units within the radius lose all debuffs and move 20% faster\n\nLeft click icon then left click on target units"
+"Les unités ennemies à portée perdent tout leadership et se déplacent 20% plus lentement pendant 10 secondes \n Les unités alliées à portée perdent tous les affaiblissements et se déplacent 20% plus rapidement \n Cliquez sur l'icône puis cliquez gauche sur les unités cibles"
 END
 
 CONTROLBAR:TooltipSummonRhunWarBanner
-"Summons an enormous banner of Rhûn that provides increasingly powerful bonuses the longer it is alive \n Initial cast: +25% armour and +50% experience gain \n 30 seconds: +50% armour, +25% damage, and +100% experience gain \n60 seconds: +50% armour, +50% damage, +100% experience gain, and resistance to knockback \n  \n Limited to 1 \n Left click icon then left click on pathable location"
+"Appelle une énorme bannière de Rhûn qui offre des bonus de plus en plus puissants plus elle est en vie \n Lancer initial : +25% d'armure et +50% d'expérience gagnée \n 30 secondes : +50% d'armure, +25% de dégâts et +100% d'expérience gagnée \n 60 secondes : +50% d'armure, +50% de dégâts, +100% d'expérience gagnée et résistance aux renversements \n Limité à 1 \n Cliquez sur l'icône puis cliquez gauche sur l'emplacement souhaité"
 END
 
 CONTROLBAR:RhunWarBannerBuffLevel1
-"Desperate Gambit Level 1"
+"Pari désespéré Niveau 1"
 END
 
 CONTROLBAR:ToolTipRhunWarBannerBuffLevel1
-"Nearby allies gain +25% armour and +50% experience gain. Desperate Gambit's bonuses increase the longer the banner is alive"
+"Les alliés à proximité gagnent +25% d'armure et +50% d'expérience gagnée. Les bonus de Pari désespéré augmentent plus la bannière est en vie"
 END
 
 CONTROLBAR:RhunWarBannerBuffLevel2
-"Desperate Gambit Level 2"
+"Pari désespéré Niveau 2"
 END
 
 CONTROLBAR:ToolTipRhunWarBannerBuffLevel2
-"Nearby allies gain +50% armour, +25% damage, and +100% experience gain. The banner gains 1000 additional health"
+"Les alliés à proximité gagnent +50% d'armure, +25% de dégâts et +100% d'expérience gagnée. La bannière gagne 1000 points de vie supplémentaires"
 END
 
 CONTROLBAR:RhunWarBannerBuffLevel3
-"Desperate Gambit Level 3"
+"Pari désespéré Niveau 3"
 END
 
 CONTROLBAR:ToolTipRhunWarBannerBuffLevel3
-"Nearby allies gain +50% armour, +50% damage, +100% experience gain, and resistance to knockback. The banner gains 1000 additional health"
+"Les alliés à proximité gagnent +50% d'armure, +50% de dégâts, +100% d'expérience gagnée et résistance aux renversements. La bannière gagne 1000 points de vie supplémentaires"
 END
 
 OBJECT:SummonedFellBeast
-"Fellbeast"
+"Ombre Ailée"
 END
 
 OBJECT:DolGuldurCitadel
-"Dol Guldur Dungeon"
+"Donjon de Dol Guldur"
 END
 
 CONTROLBAR:WitchkingMount
@@ -65466,275 +65460,273 @@ OBJECT:MordorUvatha
 END
 
 CONTROLBAR:UvathaRecruit
-"Recruit a Nazgûl, one of Sauron's deadliest servants \n \n 'Blinded by their greed, they took them without question, one by one falling into darkness.'"
+"Recrutez ûvatha, l'Immortel de Khand. \n\n Ce Nazgûl existe depuis des temps immémoriaux, on dit qu'il fut le dernier à succomber à l'influence de Sauron. Son âme n'en est pas moins vile que celle des autres Spectres de l'Anneau, car même s'il résista plus longtemps à son pouvoir corrupteur, son coeur ne fit que sombrer plus profondément dans les tréfonds de l'ignominie. \n Il ne reste désormais qu'une créature détestable et orgueilleuse qui ne songe qu'à survivre envers et contre tous, obsédée par la maîtrise des arts sombres qui lui permettent de perdurer. \n\n 'Ils étaient des hommes autrefois, de grands rois ; puis Sauron l'Imposteur leur a offert neuf Anneaux de Pouvoir...'"
 END
 	
 CONTROLBAR:UvathaRevive	
-"Revive the fallen Nazgûl"
+"Rappelez le Nazgûl ûvatha à la vie"
 END
 
-CONTROLBAR:UvathaHotkey
-"Nazgûl (&T)"
+CONTROLBAR:LW_ToolTip_Uvatha
+"Nazgûl ûvatha"
 END
 
 
 OBJECT:MordorAkhorahil
-"Nazgûl"
+"Akhôrahil"
 END
 CONTROLBAR:AkhorahilRecruit
-"Recruit a Nazgûl, one of Sauron's deadliest servants \n \n 'They were once men; great kings of men. Then Sauron the Deceiver gave to them nine Rings of Power.'"
+"Recrutez Akhôrahil, l'Obscurité de Núrn. \n\n Akhôrahil était autrefois le monarque d'un petit royaume. Lorsque Sauron lui offrit l'un des Anneaux de Pouvoir, son attrait fut irrésistible. L'orgueil du roi assura sa corruption rapide et totale, car la noirceur de son âme n'attendait qu'une occasion comme celle-là pour se révéler au grand jour. \n Aujourd'hui sa forme physique a disparu et sa volonté dépend entièrement de Sauron. Mais Akhôrahil reste un être puissant dont la simple présence peut voiler le soleil et plonger le jour dans l'obscurité. \n\n 'Aveuglés par leur avidité, ils les prirent sans se poser de question, sombrant un à un dans l'obscurité'"
 END
 	
 CONTROLBAR:AkhorahilRevive
-"Revive the fallen Nazgûl"
+"Rappelez le Nazgûl Akhôrahil à la vie"
 END
 	
 CONTROLBAR:AkhorahilHotkey
-"Nazgûl (&R)"
+"Akhôrahil (&E)"
 END
 
 CONTROLBAR:DreadVisageKhamul
-"Black Breath"
+"Aura de Terreur"
 END
 
 CONTROLBAR:KhamulStorm
-"&Malice of Rhûn"
+"Malveillance de Rhûn"
 END
 
 CONTROLBAR:ToolTipKhamulStorm
 //"Requires Level 5 \n Modifier Type: Spell \n Khamûl and nearby Easterlings and Variags gain +150% damage and +20% speed but lose -50% armour and gain no experience for a short time\n Stacks with Leadership and Spells \n Left click to activate"
-"Requires Level 8 \n Modifier Type: Spell \n Khamûl and nearby friendly units gain +75% damage and +20% speed but lose -25% armour and gain no experience for 20 seconds\n Also summons four Accursed Guards \nLeft click to activate"
+"Requiert : Niveau 8 \n Type d'Action : Sort. \n Khamûl ainsi que les alliés proches de lui gagnent +75% de dégâts et +20% de vitesse mais perdent -25% d'armure et ne gagnent aucune expérience pendant une courte durée. \n Invoque également quatre Orientaux antiques simples. \n Se cumule avec le Charisme et les Sorts. \n\n Clic gauche pour l'activer."
 END
 
 CONTROLBAR:KhamulLieutnant
-"Lieutenant of Dol Guldur"
+"Lieutenant de Dol Guldur"
 END
 
 CONTROLBAR:ToolTipKhamulLieutnant
 //"Requires Level 7 \n Khamûl takes on his role as the Lieutenant of Dol Guldur and dons his armour. \n Enemies around Khamûl slowly take damage. \n Passive ability"
-"Requires Level 3 \n Khamûl takes on his role as the Lieutenant of Dol Guldur\nModifier Type: Leadership\nNearby friendly units gain +33% damage\nPassive ability\n\n At rank 5, Khamûl dons his armour, granting him +25% armour"
+"Requiert : Niveau 3 \n Khamûl devient Lieutenant de la Forteresse de Dol Guldur. \n Les Morts ressuscités proches, les Ravageurs Orques, les Gardes des Tombes, les Fantômes d'Outre-Tombe et les Messagers des Ténèbres gagnent +33% de dégâts. \n Capacité passive. \n\n Au Niveau 5, Khamûl revêt son armure noire sinistre, dont l'aura de décrépitude affaiblit les mortels, lui accordant +50% d'armure."
 END
 
 CONTROLBAR:KhamulLieutnantRhun
-"The Shadow of the East (&T)"
+"L'Ombre de l'Est (&T)"
 END
 
 CONTROLBAR:ToolTipKhamulLieutnantRhun
-"Requires Level 3\nModifier Type: Leadership\nNearby friendly units gain +33% damage\nPassive ability"
+"Requiert le niveau 3\nType de modification : Leadership\nLes unités amies à proximité gagnent +33% de dégâts\nCompétence passive"
 END
 
 CONTROLBAR:ToolTipKhamulLieutnantRhunActive
-"Requires Level 3\nModifier Type: Leadership\nNearby friendly units gain +33% damage\nPassive ability \n\n When activated, Khamûl slams his war mace into the ground, damaging and knocking back all enemies in a line \n Left click then left click on target"
+"Requiert le niveau 3\nType de modification : Leadership\nLes unités amies à proximité gagnent +33% de dégâts\nCompétence passive\n\nLorsqu'elle est activée, Khamûl frappe le sol avec sa masse de guerre, infligeant des dégâts et repoussant tous les ennemis sur une ligne\nClic gauche puis clic gauche sur la cible"
 END
 
 OBJECT:GuldurAncientEasterling
-"Accursed Guard"
+"Garde Maudit"
 END
 
 CONTROLBAR:ConstructMordorArmory
-"Build Gorgoroth Foundry (&R)"
+"Construire la Fonderie de Gorgoroth (&R)"
 END
 
 CONTROLBAR:ToolTipConstructMordorArmory
-"Manufactures and trades armour as a resource based on available terrain\nResearches weapon and armour upgrades\n Reduced cost of upgrades \n Increases command point limit by 50\n\nThough crude in appearance, the weapons and armour that came from the great forges of fell Gorgoroth were potent, and rightly feared amongst the Gondorian ranks."
+"Fabrique et échange de l'armure en tant que ressource en fonction du terrain disponible\nRecherche des améliorations d'armes et d'armures\nCoût réduit des améliorations\nAugmente la limite de points de commandement de 50\n\nBien que rudimentaires en apparence, les armes et les armures issues des grandes forges de Gorgoroth étaient puissantes et craintes parmi les rangs gondoriens."
 END
 
 OBJECT:MordorArmory
-"Gorgoroth Foundry"
+"Fonderie de Gorgoroth"
 END
 
 OBJECT:MordorArmoryDescription
-"Generates resources based on available terrain\n Surplus Bonus - Reduced cost of upgrades \n 2 Foundries: 5% \n 3 Foundries: 10% \n 4 Foundries: 15% \n 5+ Foundries: 20%"
+"Génère des ressources en fonction du terrain disponible\nBonus de surplus - Coût réduit des améliorations\n2 Fonderies : 5%\n3 Fonderies : 10%\n4 Fonderies : 15%\n5+ Fonderies : 20%"
 END
 
 UPGRADE:MordorBarbedArrowUpgrade
-"Barbed Arrows"
+"Flèches Barbelées"
 END
 
 TOOLTIP:MordorBarbedArrows
-"Barbed Arrows"
+"Flèches Barbelées"
 END
 
 CONTROLBAR:BarbedArrowUpgrade
-"Barbed Arrows (&C)"
+"Flèches Barbelées (&C)"
 END
 
 CONTROLBAR:PurchaseTechnologyMordorBarbedArrows
-"Research Barbed Arrows (&T)"
+"Rechercher les Flèches Barbelées (&T)"
 END
 
 CONTROLBAR:PurchaseTechnologyMordorBarbedArrows_Rhun
-"Research Barbed Arrows (&R)"
+"Rechercher les Flèches Barbelées (&R)"
 END
 
 CONTROLBAR:ToolTipPurchaseTechnologyMordorBarbedArrows
-"Allows hordes to purchase the Barbed Arrows upgrade \n When equipped, increases the damage done by arrows, adds slash damage"
+"Permet aux hordes d'acheter l'amélioration des Flèches Barbelées\nUne fois équipées, augmente les dégâts infligés par les flèches et ajoute des dégâts tranchants"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeMordorBarbedArrows
-"Upgrades this horde with Barbed Arrows \n increases the damage done by arrows, adds slash damage"
+"Améliore cette horde avec les Flèches Barbelées\nAugmente les dégâts infligés par les flèches et ajoute des dégâts tranchants"
 END
 
 TOOLTIP:LackMordorBarbedArrow
-"Research upgrade at Easterling Garrison to enable this equipment \n When equipped, increases the damage done by arrows, adds slash damage"
+"Rechercher l'amélioration à la Garnison des Easterlings pour activer cet équipement\nUne fois équipées, augmente les dégâts infligés par les flèches et ajoute des dégâts tranchants"
 END
 
 TOOLTIP:LackMordorBarbedArrowRhun
-"Research upgrade at Gorgoroth Foundry to enable this equipment \n When equipped, increases the damage done by arrows, adds slash damage"
+"Rechercher l'amélioration à la Fonderie de Gorgoroth pour activer cet équipement\nUne fois équipées, augmente les dégâts infligés par les flèches et ajoute des dégâts tranchants"
 END
 
 CONTROLBAR:ToolTipBuildMordorHaradrimArcherHorde
-"Strong vs. Infantry \n Specialist Unit \n \n Using compound bows and barbed arrows, Southron archers were deadly both on foot and from within their Houda's."
-End
+"Fort contre l'infanterie\nUnité spécialisée\n\nArmés de arcs composés et de flèches barbelées, les archers Haradrim étaient redoutables à pied et depuis leur Houda."
+END
 
 TOOLTIP:LackLevel2HaradBarbedArrows
-"Requires Level 3 Easterling Garrison"
+"Requiert le niveau 3 de la Garnison des Easterlings"
 END
 
 TOOLTIP:LackLevel2RhunBarbedArrows
-"Requires Level 2 Gorgoroth Foundry"
+"Requiert le niveau 2 de la Fonderie de Gorgoroth"
 END
 
 UPGRADE:MordorPoisonArrowUpgrade
-"&Poison Arrows"
+"&Flèches Empoisonnées"
 END
 
 TOOLTIP:MordorPoisonArrows
-"Poison Arrows"
+"Flèches Empoisonnées"
 END
 
 CONTROLBAR:PoisonArrowUpgrade
-"&Poison Arrows"
+"&Flèches Empoisonnées"
 END
 
 CONTROLBAR:PurchaseTechnologyMordorPoisonArrows
-"Research &Poison Arrows"
+"Rechercher les Flèches Empoisonnées"
 END
 
 CONTROLBAR:ToolTipPurchaseTechnologyMordorPoisonArrows
-"Allows hordes to purchase the Poison Arrows upgrade \n When equipped, adds poison damage to arrows"
+"Permet aux hordes d'acheter l'amélioration des Flèches Empoisonnées\nUne fois équipées, ajoute des dégâts empoisonnés aux flèches"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeMordorPoisonArrows
-"Upgrades this horde with Poison Arrows \n adds poison damage to arrows"
+"Améliore cette horde avec les Flèches Empoisonnées\nAjoute des dégâts empoisonnés aux flèches"
 END
 
 TOOLTIP:LackMordorPoisonArrow
-"Research upgrade at Mûmak Pen to enable this equipment \n When equipped, adds poison damage to arrows"
+"Rechercher l'amélioration à l'Enclos des Mûmakil pour activer cet équipement\nUne fois équipées, ajoute des dégâts empoisonnés aux flèches"
 END
 
 TOOLTIP:LackLevel2MumakPoisonArrows
-"Requires Level 2 Mûmak Pen\nWhen equipped, adds poison damage to arrows"
+"Requiert le niveau 2 de l'Enclos des Mûmakil\nUne fois équipées, ajoute des dégâts empoisonnés aux flèches"
 END
 
 CONTROLBAR:PurchaseUpgradeMordorFortressShelobTerror
-"&Terror of Cirith Ungol"
+"Acheter la Terreur de Cirith Ungol"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeMordorFortressShelobTerror
-"Requires the Morgul Sorcery upgrade\nShelob is temporarily summoned to defend this Fortress"
+"Requiert l'amélioration Sorcellerie de Morgul\nShelob est temporairement invoquée pour défendre cette Forteresse"
 END
 
 CONTROLBAR:ToolTipMordorFortressShelobTerror
-"Requires the Morgul Sorcery upgrade\nand the Terror of Cirith Ungol upgrade\nShelob is temporarily summoned to defend this Fortress"
+"Requiert l'amélioration Sorcellerie de Morgul\net l'amélioration Terreur de Cirith Ungol\nShelob est temporairement invoquée pour défendre cette Forteresse"
 END
 
 UPGRADE:FortressShelobTerror
-"&Terror of Cirith Ungol"
+"Terreur de Cirith Ungol"
 END
 
 CONTROLBAR:MollokkWillofSauron
-"Will of Sauron"
+"Volonté de Sauron"
 END
 
 CONTROLBAR:ToolTipMollokkWillofSauron
-"Requires Level 3 \nModifier Type: Spell \n Mollok gains +20% resistance against normal arrows\n Passive ability"
+"Requiert : Niveau 3 \n Type d'Action : Sort. \n Mollock gagne +20% de résistance contre les flèches normales (bonus cumulable). \n\n Capacité passive."
 END
 
 CONTROLBAR:FaithfulGuardianLeadership
-"Faithful Guardian"
+"Gardiens Fidèles"
 END
 
 CONTROLBAR:TooltipFaithfulGuardianLeadership
-"Modifier Type: Leadership \n Fountain Guards grant nearby structures +50% armour\n Passive ability"
+"Type d'Action : Charisme. \n Les Gardes de la Cour de la Fontaine procurent aux structures proches +50% d'armure (bonus cumulable). \n\n Capacité passive."
 END
 
 CONTROLBAR:FaithfulGuardianSlayer
-"Expel (&T)"
+"Expulsion (&T)"
 END
 
 CONTROLBAR:TooltipFaithfulGuardianSlayer
-"Requires Level 3 \n Fountain Guards deal +33% damage and knockback enemy units for 30 seconds \n Left click to activate"
+"Requiert le niveau 3\nLes Gardes de la Fontaine infligent +33% de dégâts et repoussent les unités ennemies pendant 30 secondes\nCliquez gauche pour activer"
 END
 
 CONTROLBAR:FountainGuardTwo
-"Ardent Defenders (&C)"
+"Défenseurs Ardents (&C)"
 END
 
 CONTROLBAR:TooltipFountainGuardTwo
-"Requires Level 7 \n The Fountain Guards are surrounded by an aura that weakens enemies and enforces allies for 30 seconds\n Enemy units suffer -25% damage and armour \n Allied structures gain +100% armour \n Allied heroes gain +50% faster power recharge times \n Nearby friendly battalions are replenished over time\n Left click to activate "
+"Requiert le niveau 7\nLes Gardes de la Fontaine sont entourés d'une aura qui affaiblit les ennemis et renforce les alliés pendant 30 secondes\nLes unités ennemies subissent -25% de dégâts et d'armure\nLes structures alliées gagnent +100% d'armure\nLes héros alliés bénéficient d'une recharge de pouvoir +50% plus rapide\nLes bataillons amis à proximité sont régénérés avec le temps\nCliquez gauche pour activer"
 END
 
 CONTROLBAR:UndyingHopeLeadership
-"Undying Hope"
+"Espoir Immortel"
 END
 
 CONTROLBAR:TooltipUndyingHopeLeadership
-"Modifier Type: Spell \nFountain Guards gain +10% armour for every nearby battalion of Minas Tirith, up to +50% armour\n\n When a Fountain Guard dies, nearby allies are healed by small amount\n Passive ability"
+"Type de modification : Sort\nLes Gardes de la Fontaine gagnent +10 % d'armure pour chaque bataillon de Minas Tirith à proximité, jusqu'à +50 % d'armure\n\nLorsqu'un Garde de la Fontaine meurt, les alliés à proximité sont légèrement soignés\nCompétence passive"
 END
 
 CONTROLBAR:ConstructMordorSpiderlingHorde
-"Spawn of &Ungoliant"
+"Rejetons d'&Ungoliant"
 END
 
 CONTROLBAR:ToolTipBuildMordorSpiderlingHorde
-"Strong vs. Swordsmen and Cavalry \n Can stealth near trees \n Deal poison damage \n \n As the Necromancer's dark influence grew, Great Spiders crept forth from the dark tunnels of Dol Guldur, infesting the Greenwood and endangering the Elvenking's paths."
+"Fort contre les épéistes et la cavalerie\nPeut se camoufler près des arbres\nInflige des dégâts empoisonnés\n\nÀ mesure que l'influence sombre du Nécromancien grandissait, de grandes araignées s'échappaient des tunnels obscurs de Dol Guldur, infestant le Bois Vert et mettant en danger les chemins du Roi des Elfes."
 END
 
 CONTROLBAR:SpiderlingScream
-"&Scream"
+"&Hurlement"
 END
 
 CONTROLBAR:TooltipSpiderlingScream
-"Requires Level 3 \n Causes nearby enemies to run in terror\n Left click to activate"
+"Requiert le niveau 3\nEffraie les ennemis à proximité, les faisant fuir\nCliquez gauche pour activer"
 END
 
 CONTROLBAR:DolGuldurBlight
-"&Necromancy"
+"&Nécromancie"
 END
 
 CONTROLBAR:TooltipDolGuldurBlight
-"Enemy units in the affected area receive damage over time and, upon death, briefly become Wights under your control \n Halves the resource production of any resource structure within the area of effect \n Left click icon then left click on target area"
-//"Enemy units in the affected area receive damage over time and, upon death, briefly become Wights under your control \n Left click icon then left click on target area"
-End
+"Les unités ennemies dans la zone affectée subissent des dégâts au fil du temps et, à leur mort, deviennent brièvement des Spectres sous votre contrôle\nRéduit de moitié la production de ressources de toute structure de ressources dans la zone d'effet\nCliquez sur l'icône, puis cliquez sur la zone cible"
+END
 
 OBJECT:MordorPike
-"Orc Pikeman"
+"Piquier Orque"
 END
 
 OBJECT:HordeMordorPikemen
-"Orc Pikemen"
+"Piquiers Orques"
 END
 
 CONTROLBAR:LW_Unit_MordorPikemanHorde
-"Orc Pikeman Horde"
+"Bataillon de Piquiers Orques"
 END
 
 CONTROLBAR:LW_ToolTip_MordorPikemanHorde
-"Orc Pikemen"
+"Bataillon de Piquiers Orques"
 END
 
 CONTROLBAR:ConstructMordorPikeHorde
-"Orc Pikemen (&E)"
+"Piquiers Orques (&E)"
 END
 
 CONTROLBAR:ToolTipBuildMordorPikeHorde
-"Strong vs. Cavalry and Heroes \n\n Horde Bonus \n Modifier Type: Spell \n Orc Warriors, Orc Pikemen and Orc Archers gain +50% damage when gathered in numbers of 100 or more\n \n Ever since Sauron's return to Mordor, his orcs have multiplied and organized into great legions in service to Barad-dûr."
-
+"Les Orques sont des créatures malfaisantes, des monstres qui se complaisent dans la destruction et la mort. Ils ne sont loyaux envers personne, pas même envers leurs compagnons, et ils n'hésiteront pas à se battre entre eux pour se disputer leurs conquêtes. \n Les piquiers sont armés de longues et cruelles piques afin de former un mur de fer face à l'ennemi. \n\n Forts contre la cavalerie et les héros. \n\n Type d'Action : Sort. \n Bonus de horde : tous les combattants Orques et Uruk-Haï du Mordor gagnent +50% de dégâts lorsqu'ils sont rassemblés en nombre de 100 ou plus (bonus cumulable)."
 END
 
 OBJECT:WhiteWarg
-"White Wolf"
+"Loup Blanc"
 END
 
 OBJECT:WildGolfimbul
@@ -65742,11 +65734,11 @@ OBJECT:WildGolfimbul
 END
 
 CONTROLBAR:WildGolfimbulRecruit
-"Recruit the Chieftain of Mount Gram \n \n 'Long after the day his ancestor's gruesome death sparked the invention of a silly Halfling sport, Golfimbul seeks to avenge the death of his namesake by laying waste to the Shire.'"
+"Recrutez le Grand Chef du Mont Gram. \n\n Le chef de Mont Gram est un descendant de Golfimbul 1er, qui a mené un assaut raté sur la Comté en 2747 et est tombé aux mains de Bandobras Took - menant à l'invention du golf. Des siècles plus tard, Golfimbul II commanda sa propre armée au Mont Gram et a élevé une multitude de Wargs en vue de sa vengeance. \n\n 'Longtemps après le jour où la mort horrible de son ancêtre a déclenché l'invention du golf, Golfimbul cherche à venger la mort de son homonyme en dévastant la Comté.'"
 END
 
 CONTROLBAR:WildGolfimbulRevive
-"Revive the Chieftain of Mount Gram"
+"Rappelez le Grand chef du Mont Gram"
 END
 
 CONTROLBAR:WildGolfimbulHotkey
@@ -65754,75 +65746,75 @@ CONTROLBAR:WildGolfimbulHotkey
 END
 
 CONTROLBAR:GolfimbulLeadership
-"Chieftain of Mount Gram"
+"Chef de Clan du Mont Gram"
 END
 
 CONTROLBAR:TooltipGolfimbulLeadership
-"Modifier Type: Leadership \nNearby Ouargues and Cavalry gains\n +25% damage, +15% speed and earn experience 50% faster\n Passive ability"
+"Type d'Action : Charisme. \n Les Wargs et la cavalerie proches de Golfimbul gagnent +25% de dégâts, +15% de vitesse et gagnent de l'expérience 50% plus rapidement (bonus cumulable). \n\n Capacité passive."
 END
 
 CONTROLBAR:GolfimbulWargSummon
-"White Wolves of Forochel (&R)"
+"Loups Blancs de Forochel (&R)"
 END
 
 CONTROLBAR:ToolTipGolfimbulWargSummon
-"Requires Level 3 \n Golfimbul summons 6 White Wolves at the target area. \n Left click on icon then left click on target area"
+"Requiert : Niveau 3 \n Golfimbul invoque 6 Loups Blancs sur la zone. \n\n Clic gauche sur l'icône puis clic gauche sur la zone cible."
 END
 
 CONTROLBAR:GolfimbulHatred
-"Hatred of the Fair Folk (&T)"
+"Haine du Beau Peuple (&T)"
 END
 
 CONTROLBAR:TooltipGolfimbulHatred
-"Requires Level 8 \n Modifier Type: Spell \n Golfimbul seeks to exact his revenge upon the Fair-folk\n Golfimbul and nearby Wolves, Ouargues, and Wolf-Riders gain\n+100% damage, +100% armour and -50% trample deceleration for 20 seconds\n Left click to activate"
+"Requiert : Niveau 8 \n Type d'Action : Sort. \n Golfimbul brûle d'envie de venger son ancêtre contre les petites gens de la Comté et les Peuples Libres de la Terre du Milieu. \n Golfimbul et les Loups, Wargs et les Chevaucheurs de loups proches de lui gagnent +100% de dégâts et d'armure et -50% de décélération au piétinement pendant 20 secondes (bonus cumulable). \n\n Clic gauche pour l'activer."
 END
 
 CONTROLBAR:AzogSpawnOfTheDefiler
-"Spawn of the Defiler (&V)"
+"Progéniture d'Azog (&V)"
 END
 
 CONTROLBAR:ToolTipAzogSpawnOfTheDefiler
-"Requires Level 10 \n Temporarily summons Bolg and a battalion of Horrors of Gram\nLeft click on icon then left click on target area"
+"Requiert : Niveau 10 \n Invoque temporairement Bolg et un bataillon de Semi-Ogres. \n Rejeton d'Azog, Bolg est un Orque cruel dont le passe-temps favori est de superviser les tortures et autres sévices qui ont lieu dans les cachots de Dol Guldur. C'est un véritable tortionnaire qui se délecte des souffrances qu'il fait endurer à ses prisonniers. \n\n Clic gauche sur l'icône puis clic gauche sur la zone cible."
 END
 
 CONTROLBAR:ToolTipAzogSpawnOfTheDefiler_WOTR
-"Requires Level 10 \n Temporarily summons a battalion of Gundabad Bodyguards \n Left click on icon then left click on target area"
+"Requiert : Niveau 10 \n Invoque temporairement un bataillon de gardes du corps de Gundabad. \n\n Clic gauche sur l'icone puis clic gauche sur la zone cible."
 END
 
 CONTROLBAR:AzogToggleMounted
-"Mount Warg Matriarch (&W)"
+"Monter / Descendre du Warg Blanc"
 END
 
 CONTROLBAR:ToolTipAzogToggleMounted
-"Left click to mount/dismount Azog's enormous White Warg"
+"Azog monte une énorme Warg blanche, une matriarche sauvage et féroce. \n\n Clic gauche pour monter / descendre de la monture."
 END
 
 UPGRADE:HardenedSkin
-"Wyrm-armour"
+"Cuirasse de Wyrm"
 END
 
 CONTROLBAR:PurchaseTechnologyHardenedSkin
-"Research Wyrm-Armour (&E)"
+"Rechercher Cuirasse de Wyrm (&E)"
 END
 
 CONTROLBAR:ToolTipPurchaseTechnologyHardenedSkin
-"Allows Wyrms to purchase the Wyrm-armour upgrade \n When equipped increases armour against Arrows and Pikes"
+"Permet aux Wyrms d'acheter l'amélioration Cuirasse de Wyrm. Lorsqu'elle est équipée, réduit les dégâts reçus contre les archers et les piquiers."
 END
 
 TOOLTIP:LackLevel2FireWyrmLair
-"Requires Wyrm Lair level 2"
+"Requiert : Repaire de Wyrms Niveau 2"
 END
 
 CONTROLBAR:PurchaseUpgradeHardenedSkin
-"Wyrm-Armour (&R)"
+"Cuirasse de Wyrm (&R)"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeHardenedSkin
-"Upgrades the Wyrm with Wyrm-armour \n increases the armour against Pierce by +30%"
+"Améliore le Wyrm avec une armure de cuir et d'acier : augmente l'armure contre les flèches et les piques de +30%."
 END
 
 TOOLTIP:LackHardenedSkin
-"Research this upgrade at Wyrm Lair to enable this equipment \n When equipped increases the armour against Pierce by +30% "
+"Recherchez l'amélioration dans le Repaire de Wyrms pour activer cet équipement. \n Lorsqu'elle est équipée, augmente l'armure contre les flèches et les piques de +30%."
 END
 
 CONTROLBAR:PurchaseUpgradeWildFortressDrumsInTheDeep
@@ -65834,43 +65826,43 @@ CONTROLBAR:PurchaseUpgradeWildFortressDrumsInTheDeepMoria
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeWildFortressDrumsInTheDeep
-"The fortress gains the ability to use the Drums in the Deep \nTemporarily summons 5 hordes of Moria-orc Screechers"
+"Permet à la Forteresse d'appeler des hordes d'Orques pour submerger l'ennemi. \n Invoque de façon permanente 5 hordes d'Orques de la Moria niveau 2."
 END
 
 CONTROLBAR:SpecialAbilityDrumsInTheDeep
-"Drums in the Deep (&S)"
+"Tambours des Profondeurs (&S)"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityDrumsInTheDeep
-"Requires the Drums in the Deep upgrade \n Temporarily summons 5 hordes of Moria-orc Screechers \n\n Modifier Type: Active Debuff \n Targeted enemy units suffer -25% damage and -20% armour for 20 seconds\n Left click on icon then left click on target area"
+"Lorsque le rythme immonde des tambours monte dans les abîmes, les hordes de Gobelins émergent des sinistres tunnels de la Moria et se rassemblent pour la guerre. \n Invoque de façon permanente 5 hordes d'Orques de la Moria équipés d'armures. \n Respecte la limite de points de commandement. \n\n Type d'Action : Pénalité active. \n Les unités ennemies dans l'aire d'effet subissent -25% de dégâts et -20% d'armure (Pénalité non cumulable). \n\n Clic gauche sur l'icône puis clic gauche sur la zone cible."
 END
 
 CONTROLBAR:SpecialAbilitySummonWyrm
-"Lesser Dragon (&D)"
+"Petit Dragon (&D)"
 END
 
 CONTROLBAR:ToolTipSpecialAbilitySummonWyrm
-"Requires the Brood of the North upgrade \n Temporarily summons a Fire Wyrm \n Left click on icon then left click on target area"
+"Requiert l'amélioration Allégeance : Immondices du Nord. \n Invoque temporairement un Wyrm de feu. \n\n Clic gauche sur l'icone puis clic gauche sur la zone cible."
 END
 
 CONTROLBAR:PurchaseUpgradeDolFortressBanners
-"Dol Amroth Banners (&R)"
+"Étendards de Dol Amroth (&R)"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeDolFortressBanners
-"Modifier Type: Leadership \n Allies near the Fortress gain +33% damage, +33% armour, and earn experience 50% faster"
+"Type d'Action : Charisme. \n Les alliés proches de la forteresse gagnent +33% de dégâts, +33% d'armure, et gagnent de l'expérience 50% plus rapidement (bonus cumulable)."
 END
 
 CONTROLBAR:PurchaseUpgradeDolFortressMoat
-"Moat (&T)"
+"Douves (&T)"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeDolFortressMoat
-"Increases Citadel's armour and hitpoints"
+"Augmente la résistance et les points de vie de la citadelle."
 END
 
 Upgrade:FortressCitadelMoat
-"Citadel Moat"
+"Douves de la Citadelle"
 END
 //------------ Morgul Vangard ---------------
 OBJECT:MordorVangaurd
@@ -65886,195 +65878,193 @@ CONTROLBAR:ConstructMordorVangaurdHorde
 END
 
 CONTROLBAR:LW_Unit_MordorVangaurdHorde
-"Morgul Vanguard Battalion"
+"Bataillon d'Avant-garde de Morgul"
 END
 
 CONTROLBAR:LW_ToolTip_MordorVangaurdHorde
-"\nUnit Type: Hero Unit\nStrong vs. All Unit Types except pikes"
+"Type d'unité : Unité héroùque. \n Forts contre toutes les unités sauf les piquiers."
 END
 
 CONTROLBAR:LW_ToolTip_MordorVangaurdHorde_WOTR
-"6 Morgul Vanguards\n\nUnit Type: Hero Unit\nStrong vs. All Unit Types except pikes"
+"6 Avant-gardes de Morgul. \n\n Type d'unité: Unité héroïque. \n Forts contre toutes les unités sauf les piquiers."
 END
 
 CONTROLBAR:ToolTipBuildMordorVangaurdHorde
-"Requires the Morgul Spire upgrade\n Hero Unit. Limited to 1 \nStrong vs. Infantry and Heroes \n \n These soulless men have long served the Witch-king as his personal bodyguard and the vanguard of his legions."
+"Requiert l'amélioration Sorcellerie de Morgul. \n L'Avant-garde de Morgul incarnent toute la cruauté et la fourberie du Mordor. Comme la Bouche de Sauron, ce sont des Númenóréens Noirs, des Hommes qui ont scellé une alliance avec Sauron il y a bien des siècles. On prétend que ces traîtres ont reçu l'immortalité pour prix de leur vassalité. \n Montés sur de sombres coursiers caparaçonnés et maniant leurs épées avec une dextérité surnaturelle, ils forment l'élite des armées des Ténèbres. \n Limité à 1 bataillon seulement. \n\n Unité héroùque, forts contre l'infanterie et les héros."
 END
 
 CONTROLBAR:ToolTipBuildMordorVangaurdHordeFortress
-"Requires the Morgul Sorcery upgrade\n Hero Unit. Limited to 1 \nStrong vs. Infantry and Heroes \n \n These soulless men have long served the Witch-king as his personal bodyguard and the vanguard of his legions."
+"Requiert l'amélioration Sorcellerie de Morgul. \n Limité à 1 bataillon seulement. \n Unité héroùque, forts contre l'infanterie et les héros. \n\n L'Avant-garde de Morgul incarnent toute la cruauté et la fourberie du Mordor. Comme la Bouche de Sauron, ce sont des Númenóréens Noirs, des Hommes qui ont scellé une alliance avec Sauron il y a bien des siècles. On prétend que ces traîtres ont reçu l'immortalité pour prix de leur vassalité. \n Montés sur de sombres coursiers caparaçonnés et maniant leurs épées avec une dextérité surnaturelle, ils forment l'élite des armées des Ténèbres."
 END
 
 CONTROLBAR:LW_ToolTipBuild_MordorVangaurdHorde
-"Unit Type: Hero Unit\nStrong vs. All Unit Types except pikes\n"
+"Type d'unité : Unité héroùque. \n Forts contre toutes les unités sauf les piquiers."
 END
 
 CONTROLBAR:DreadVisageVanguard
-"Morgul Influence"
+"Aura de Terreur"
 END
 
 CONTROLBAR:ToolTipDreadVisageVanguard
-//"Requires Level 2\nReduces enemy armour and damage\nPassive ability"
-"Requires Level 2 \n Modifier Type: Passive Debuff \n Nearby enemy units suffer -15% damage and -10% armour\nPassive ability"
+"Requiert : Niveau 2 \n Type d'Action : Pénalité passive. \n La simple présence terrifiante des Numénoréens Noirs crée un effroi si grand qu'il peut faire vaciller même les coeurs les plus vaillants. \n\n Les ennemis proches d'eux subissent -15% de dégâts et -10% d'armure (Pénalité non cumulable). \n\n Capacité passive."
 END
 
 CONTROLBAR:VanguardMorgulBlade
-"Morgul Blade (&R)"
+"Lame de Morgul (&R)"
 END
 
 CONTROLBAR:ToolTipVanguardMorgulBlade
-"Requires Level 4 \n Targeted enemy takes poison damage over \n time for 10 seconds and becomes a wight upon death \n Left click icon then left click on target"
+"Requiert : Niveau 4 \n L'ennemi subit pendant 10 secondes des dégâts progressifs de poison et se transforme en Spectre après la mort. \n\n Clic gauche sur l'icône puis clic gauche sur la cible."
 END
 
 CONTROLBAR:ScreechVanguard
-"Morgul Sorcery (&T)"
+"Âmes Damnées (&T)"
 END
 
 CONTROLBAR:TooltipScreechVanguard
-"Requires Level 7 \nCauses enemy units to flee in terror \n Left click to activate"
+"Requiert : Niveau 7 \n La sorcellerie qui émane des suppôts de Morgul fait fuir de terreur les ennemis. \n\n Clic gauche pour l'activer."
 END
 
 //------------- Dismounted Vanguard-----------
 OBJECT:DismountedMorgulVanguard
-"Morgul Acolyte"
+"Acolyte de Morgul"
 END
 
 OBJECT:DismountedMorgulVanguardHorde
-"Morgul Acolytes"
+"Acolytes de Morgul"
 END
 
 CONTROLBAR:ConstructDismountedMorgulVanguardHorde
-"Morgul Acolytes (&W)"
+"Acolytes de Morgul (&W)"
 END
 
 BANNERUI:DismountedMorgulVanguard
-"Morgul Acolyte"
+"Acolyte de Morgul"
 END
 
 BANNERUI:DismountedMorgulVanguardPlural
-"Morgul Acolytes"
+"Acolytes de Morgul"
 END
 
 CONTROLBAR:LW_Unit_DismountedMorgulVanguardHorde
-"Morgul Acolyte Battalion"
+"Bataillon d'Acolytes de Morgul"
 END
 
 CONTROLBAR:LW_Unit_DismountedMorgulVanguardHordePlural
-"Morgul Acolyte Battalions"
+"Bataillons d'Acolytes de Morgul"
 END
 
 CONTROLBAR:LW_ToolTip_DismountedMorgulVanguardHorde
-"\nUnit Type: Elite Swordsmen\nStrong vs. Pikemen"
+"\nType d'unité : Épéistes d'élite\nFort contre les piquiers"
 END
 
 CONTROLBAR:ToolTipBuildDismountedMorgulVanguardHorde
-"Strong vs. Pikemen \n \n These soulless men have long served the Witch-king as his personal bodyguard and the vanguard of his legions."
+"Fort contre les piquiers\n\nCes hommes sans âme ont longtemps servi le Roi-Sorcier en tant que garde du corps personnelle et avant-garde de ses légions."
 END
 
 //------------ Morgul Orcs ---------------
 OBJECT:MordorMorgulOrc
-"Legion of Morgul"
+"Légion de Morgul"
 END
 
 OBJECT:HordeMordorMorgulOrc
-"Legion of Morgul"
+"Légions de Morgul"
 END
 
 OBJECT:HordeMordorMorgulOrc_LAS
-"Orcs of the Dark Tower"
+"Orques de la Tour Sombre"
 END
 
 CONTROLBAR:ConstructMordorMorgulOrcHorde
-"Legions of Morgul (&D)"
+"Légions de Morgul (&D)"
 END
 
 CONTROLBAR:LW_Unit_MordorMorgulOrcHorde
-"Legion of Morgul Horde"
+"Légions de Morgul"
 END
 
 CONTROLBAR:LW_Unit_MordorMorgulOrcHorde_LAS
-"Orcs of the Dark Tower Horde"
+"Légions de la Tour Sombre"
 END
 
 CONTROLBAR:LW_Unit_MordorMorgulOrcHordePlural_LAS
-"Orcs of the Dark Tower Hordes"
+"Légions de la Tour Sombre"
 END
 
 CONTROLBAR:LW_ToolTip_MordorMorgulOrcHorde
-"\nUnit Type: Elite Infantry\nStrong vs. Pikemen"
+"\n Type d'unité : Infanterie d'élite. \n Forts contre les piquiers."
 END
 
 CONTROLBAR:ToolTipBuildMordorMorgulOrcHorde
-"Requires the Morgul Sorcery upgrade\n Elite Infantry \nStrong vs. Pikemen \n\n These orcs have been hardened by years of war with Gondor and are amongst the elite of Sauron's armies."
+"Requiert l'amélioration Sorcellerie de Morgul\n Infanterie d'élite \n Fort contre les Piquiers \n\n Ces orques ont été endurcis par des années de guerre contre Gondor et font partie de l'élite des armées de Sauron."
 END
 
 CONTROLBAR:LW_ToolTipBuild_MordorMorgulOrcHorde
-"Unit Type: Elite Infantry\nStrong vs. Pikemen\n"
+"Type d'unité : Infanterie d'élite. \n Forts contre les piquiers. \n"
 END
 
 CONTROLBAR:SorcerousSteel
-"Sorcerous Steel"
+"Acier ensorcelé"
 END
 
 CONTROLBAR:ToolTipSorcerousSteel
-"Melee attacks decrease enemy armour by 15% for 5 seconds\nDebuff does not stack with itself\nPassive ability"
+"Les attaques au corps à corps réduisent l'armure de l'ennemi de 15% pendant 5 secondes\nLe désavantage ne s'accumule pas avec lui-même\nCapacité passive"
 END
 
 CONTROLBAR:ToolTipSorcerousSteelMorgulPike
-"Melee attacks decrease enemy armour by 15% for 5 seconds\nDebuff does not stack with itself\nPassive ability \n \n At rank 4, Morgul Pikes receive Mark of the Dead City, gaining +25% damage \nPassive ability"
+"Les attaques au corps à corps réduisent l'armure de l'ennemi de 15% pendant 5 secondes\nLe désavantage ne s'accumule pas avec lui-même\nCapacité passive\n\nAu niveau 4, les Piques de Morgul obtiennent la Marque de la Cité Morte, ce qui augmente les dégâts de 25%\nCapacité passive"
 END
 
 CONTROLBAR:ToolTipSorcerousSteelMorgulPikeSummoned
-"Melee attacks decrease enemy armour by 15% for 5 seconds\nDebuff does not stack with itself\nPassive ability"
+"Les attaques au corps à corps réduisent l'armure de l'ennemi de 15% pendant 5 secondes\nLe désavantage ne s'accumule pas avec lui-même\nCapacité passive"
 END
 
 OBJECT:MordorMorgulOrcPike
-"Morgul Pikeman"
+"Piquier de Morgul"
 END
 
 OBJECT:HordeMordorMorgulOrcPike
-"Morgul Pikemen"
+"Piquiers de Morgul"
 END
 
 CONTROLBAR:ConstructMordorMorgulPikeHorde
-"Morgul Pikemen (&W)"
+"Piquiers de Morgul (&W)"
 END
 
 CONTROLBAR:ToolTipBuildMordorMorgulPikeHorde
-"Strong vs. Cavalry and Heroes\n\n Once the Dark Lord had issued his signal, the orcs of Minas Morgul came streaming out from the dead city, many of them carrying fell halberds, spears, and long pikes."
+"Fort contre la Cavalerie et les Héros\n\nUne fois que le Seigneur des Ténèbres a donné le signal, les orques de Minas Morgul se sont précipités hors de la cité morte, beaucoup d'entre eux portant des hallebardes sinistres, des lances et des longues piques."
 END
 
 CONTROLBAR:SerratedArmor
-"Serrated Armour"
+"Armure dentelée"
 END
 
 CONTROLBAR:ToolTipSerratedArmor
-"Requires Level 3\nA small amount of received melee damage\nis reflected back to the attacker\nPassive ability"
+"Requiert : Niveau 3 \n Un faible pourcentage des dégâts de mêlée reçus est redirigé vers l'ennemi. \n\n Capacité passive."
 END
 
 CONTROLBAR:SpecialAbilityShieldBubble
-//"Shield Bubble (&G)"
-"Shield B&ubble"
+"Bulle de protection"
 END
 
 CONTROLBAR:TooltipSpecialAbilityShieldBubble
-"Creates a magical shield around Gandalf\n Temporarily grants +300% armour and resistance to knockback attacks"
+"Crée un bouclier magique autour de Gandalf\n Accorde temporairement +300% d'armure et une résistance aux attaques de recul"
 END
 
 CONTROLBAR:BladeofWesternesse
-"Blade of Westernesse"
+"Lame de l'Ouistrenesse"
 END
 
 CONTROLBAR:TooltipBladeofWesternesse
-"Requires Level 3 \n Passively deals +200% damage against Nazgûl"
+"Requiert : Niveau 3 \n Le jeune hobbit utilise sa dague elfique des Noldor, un présent de Galadriel : il gagne +200% dégâts contre les Nazgûls. \n\n Capacité passive."
 END
 
 CONTROLBAR:Trollbane
-"Troll-bane (&V)"
+"Fléau des Trolls (&V)"
 END
 
 CONTROLBAR:TooltipTrollbane
-"Requires Level 10 \n Pippin gains +150% armour, knockback resistance and deals +250% damage against Monsters for 20 seconds\nLeft click to activate"
+"Requiert : Niveau 10 \n Pippin gagne +150% armure et +250% dégâts contre les monstres pendant 20 secondes. \n\n Clic gauche pour l'activer."
 END
 
 CONTROLBAR:Intimidation
@@ -66082,31 +66072,31 @@ CONTROLBAR:Intimidation
 END
 
 CONTROLBAR:ToolTipIntimidation
-"Modifier Type: Passive Debuff \n Nearby enemy heroes and hero units suffer -25% damage and -20% armour\nPassive ability"
+"Type de modification : Debuff passif \n Les héros ennemis à proximité et les unités de héros subissent -25% de dégâts et -20% d'armure\nCapacité passive"
 END
 
 CONTROLBAR:GreyHost
-"&The Grey Host"
+"&La Cohorte Grise"
 END
 
 CONTROLBAR:TooltipGreyHost
-"Requires Level 9 \n Summons Halbarad and several bands of Dúnedain to Aragorn's side \n Left click icon to activate"
+"Requiert le niveau 9 \n Invoque Halbarad et plusieurs groupes de Dúnedain aux côtés d'Aragorn \n Cliquez sur l'icône pour activer"
 END
 
 CONTROLBAR:Rejuvenation
-"Re&juvenation"
+"Re&vitalisation"
 END
 
 CONTROLBAR:TooltipRejuvenation
-"Heals nearby friendly Heroes \n Left click to activate"
+"Soigne les héros alliés à proximité \n Cliquez pour activer"
 END
 
 CreateAHero:SubClassName_PaleOrc
-"Gundabad Berserker"
+"Berserker de Gundabad"
 END
 
 CreateAHero:SubClassDesc_PaleOrc
-"Mount Gundabad is home to many powerful orcish warriors. The largest and most cunning survive long enough to be counted among the ranks of the berserkers."
+"Le Mont Gundabad abrite de nombreux guerriers orques puissants. Les plus grands et les plus rusés survivent suffisamment longtemps pour être comptés parmi les rangs des berserkers."
 END
 
 OBJECT:GondorBeregond
@@ -66114,11 +66104,11 @@ OBJECT:GondorBeregond
 END
 
 CONTROLBAR:GondorBeregondRecruit
-"Recruit the Guard of the Citadel Beregond \n \n 'I am no captain. Neither office nor rank nor lordship have I, being but a plain man of arms of the Third Company of the Citadel.'"
+"Recrutez le gardien de la Citadelle et l'ami fidèle de Pippin et Faramir. \n\n Beregond est un homme honnête et droit, doublé d'un guerrier au bras solide. Comme tous les Gardes de la Citadelle, il est entièrement voué aux idéaux du Gondor, mais cela ne fait pas de lui un automate et il reste capable de remettre ses ordres en question s'ils vont à l'encontre de son sens et de ses valeurs. \n\n 'Je ne suis pas un capitaine. Ni un officier. Ni un seigneur. Je ne suis qu'un simple homme d'armes de la Troisième Compagnie de la Citadelle.'"
 END
 
 CONTROLBAR:GondorBeregondRevive
-"Revive the fallen Hero, Beregond"
+"Rappelez Beregond à la vie"
 END
 
 CONTROLBAR:GondorBeregondHotkey
@@ -66134,39 +66124,39 @@ CONTROLBAR:ToolTipToggleBeregondWeapons
 END
 
 CONTROLBAR:BeregondFierceLoyalty
-"Fierce Loyalty"
+"Amitié Loyale"
 END
 
 CONTROLBAR:ToolTipBeregondFierceLoyalty
-"Requires Level 7 \n Modifier Type: Leadership \n Faramir, Boromir, and Pippin gain +33% armour and +33% damage when near Beregond \nPassive ability"
+"Requiert : Niveau 7 \n Type d'Action : Sort. \n Faramir, Boromir et Pippin gagnent +33% dégâts et +33% armure lorsqu'ils sont proches de Beregond (bonus cumulable). \n\n Capacité passive."
 END
 
 CONTROLBAR:BeregondGuardoftheCitadel
-"Guard of the Citadel"
+"Garde de la Citadelle"
 END
 
 CONTROLBAR:ToolTipBeregondGuardoftheCitadel
-"Requires Level 5 \n Modifier Type: Spell \n Nearby structures gain +30% armour \nPassive ability"
+"Requiert : Niveau 5 \n Type d'Action : Sort. \n Les structures proches de Beregond gagnent +30% armure (bonus cumulable). \n\n Capacité passive."
 END
 
 CONTROLBAR:DefenderoftheWhiteCity
-"Defender of the White C&ity"
+"Défenseur de la Cité Blanche (&R)"
 END
 
 CONTROLBAR:DefenderoftheWhiteCityB
-"Defender of the White City (Bow) (&R)"
+"Défenseur de la Cité Blanche (Arc) (&R)"
 END
 
 CONTROLBAR:DefenderoftheWhiteCityS
-"Defender of the White City (Spear) (&R)"
+"Défenseur de la Cité Blanche (Lance) (&R)"
 END
 
 CONTROLBAR:ToolTipDefenderoftheWhiteCityB
-"Requires Level 2 \n Shoots an arrow that causes severe damage and does knockback \n Left click icon then left click on target unit"
+"Requiert : Niveau 2 \n Tire une flèche qui inflige d'importants dégâts à la cible et la renverse. \n\n Clic gauche sur l'icône puis clic gauche sur la cible."
 End
 
 CONTROLBAR:ToolTipDefenderoftheWhiteCityS
-"Requires Level 2 \n Heavy melee attack that causes severe damage and does knockback \n Left click icon then left click on target unit"
+"Requiert : Niveau 2 \n Une puissante attaque de mêlée qui inflige d'importants dégâts à la cible et la renverse. \n\n Clic gauche sur l'icône puis clic gauche sur la cible."
 End
 
 CONTROLBAR:BeregondSacrifice
@@ -66174,91 +66164,91 @@ CONTROLBAR:BeregondSacrifice
 END
 
 CONTROLBAR:ToolTipBeregondSacrifice
-"Requires Level 8 \n Modifier Type: Spell \n Beregond suffers heavy damage while targeted allied hero becomes immune to damage for 10 seconds\n Left click icon then left click on target hero"
+"Requiert : Niveau 8 \n Type d'Action : Sort. \n Beregond désigne un héros allié qui devient insensible aux dégâts, tandis que lui subit d'importants dégâts pendant 10 secondes. \n\n Clic gauche sur l'icône puis clic gauche sur un héros allié."
 END
 
 CONTROLBAR:LW_Unit_MordorEasterlingEasterlingHorde
-"Khân-pâlainax - Khân-yûn-âkhax Horde"
+"Horde de Khân-pâlainax - Khân-yûn-âkhax"
 END
 
 CONTROLBAR:LW_Unit_MordorEasterlingEasterlingHordePlural
-"Khân-pâlainax - Khân-yûn-âkhax Hordes"
+"Hordes de Khân-pâlainax - Khân-yûn-âkhax"
 END
 
 CONTROLBAR:LW_ToolTip_MordorEasterlingEasterlingHorde
-"\nUnit Type: Elite Pikemen and Elite Archer\nStrong vs. Swordsmen and Cavalry"
+"\nType d'unité : Piquiers d'élite et Archers d'élite\nEfficaces contre les épéistes et la cavalerie"
 END
 
 CONTROLBAR:LW_Unit_MordorEasterlingEasterlingSwordHorde
-"Khân-pâlainax - Khân-xâtainax Horde"
+"Horde de Khân-pâlainax - Khân-xâtainax"
 END
 
 CONTROLBAR:LW_Unit_MordorEasterlingEasterlingSwordHordePlural
-"Khân-pâlainax - Khân-xâtainax Hordes"
+"Hordes de Khân-pâlainax - Khân-xâtainax"
 END
 
 CONTROLBAR:LW_ToolTip_MordorEasterlingEasterlingSwordHorde
-"\nUnit Type: Elite Pikemen and Elite Infantry\nStrong vs. Cavalry and Pikemen"
+"\nType d'unité : Piquiers d'élite et Infanterie d'élite\nEfficaces contre la cavalerie et les piquiers"
 END
 
 CONTROLBAR:LW_Unit_MordorEasterlingArcherEasterlingSwordHorde
-"Khân-yûn-âkhax - Khân-xâtainax Horde"
+"Horde de Khân-yûn-âkhax - Khân-xâtainax"
 END
 
 CONTROLBAR:LW_Unit_MordorEasterlingArcherEasterlingSwordHordePlural
-"Khân-yûn-âkhax - Khân-xâtainax Hordes"
+"Hordes de Khân-yûn-âkhax - Khân-xâtainax"
 END
 
 CONTROLBAR:LW_ToolTip_EasterlingArcherEasterlingSwordHorde
-"\nUnit Type: Elite Archer and Elite Infantry\nStrong vs. Infantry and Pikemen"
+"\nType d'unité : Archers d'élite et Infanterie d'élite\nEfficaces contre l'infanterie et les piquiers"
 END
 
 CONTROLBAR:FuryofKhand
-"Plainsrunners (&W)"
+"Furie de Khand (&W)"
 END
 
 CONTROLBAR:ToolTipFuryofKhand
-"Variags gain 33% speed at the cost of 10% armour for 20 seconds\n Left click to activate"
+"Les Variags gagnent 33% de vitesse au détriment de 10% d'armure pendant 20 secondes\nCliquez gauche pour activer"
 END
 
 CONTROLBAR:VariagArcherAbility
-"Shield Cover"
+"Protection par Bouclier"
 END
 
 CONTROLBAR:ToolVariagArcherAbility
-"Variags gain 15% armour against ranged attacks as long as there are more than 10 units in battalion \n Passive ability"
+"Les Variags gagnent 15% d'armure contre les attaques à distance tant qu'il y a plus de 10 unités dans le bataillon\nCapacité passive"
 END
 
 CONTROLBAR:VariagMercenaryRule
-"Mercenary Rule"
+"Règle des Mercenaires"
 END
 
 CONTROLBAR:TooltipVariagMercenaryRule
-"Variags are a welcome sight to conscripted serfs and contribute to their horde bonus \n Variags do not benefit from the horde bonus themselves \n Passive ability"
+"Les Variags sont une vue bienvenue pour les serfs enrôlés et contribuent à leur bonus de horde\nLes Variags ne bénéficient pas eux-mêmes du bonus de horde\nCapacité passive"
 END
 
 CONTROLBAR:ToggleVariagsBlockFormation
-"Block Formation (&W)"
+"Formation en Bloc (&W)"
 END
 
 CONTROLBAR:ToolTipToggleVariagsBlockFormation
-"+33% armour\n-40% speed"
+"+33% d'armure\n-40% de vitesse"
 END
 
 OBJECT:StewPot
-"Rabbit Stew"
+"Ragoût de Lapin"
 END
 
 CONTROLBAR:StewPot
-"Rabbit Stew (&V)"
+"Ragoût de Lapin (&V)"
 END
 
 CONTROLBAR:ToolTipStewPot
-"Summons a pot of stew that heals nearby units and detects stealth \n Left click on icon then left click on target position"
+"Invoque une marmite de ragoût qui soigne les unités à proximité et détecte les unités furtives\nCliquez gauche sur l'icône puis cliquez gauche sur la position cible"
 END
 
 CONTROLBAR:ToolTipStewPot_Campaign
-"Requires Level 6 \n Summons a pot of stew that heals nearby units and detects stealth \n Left click on icon then left click on target position"
+"Requiert : Niveau 6 \n Invoque une marmite de ragoût qui guérit les unités voisines et détecte les unités furtives. \n\n Clic gauche sur l'icône puis clic gauche sur la zone cible."
 END
 
 OBJECT:WhiteWolfLair
@@ -68496,15 +68486,15 @@ CONTROLBAR:TraderToymakers2
 END
 
 CONTROLBAR:ToolTipTraderToymakers1
-"Requires Level 4 \n Deploy Dwarven Firework \n Left click to plant fireworks, then click the 'Set them off!' icon"
+"Requiert : Niveau 4 \n Les Marchands peuvent déposer des feux d'artifice explosifs : clic gauche pour la déployer, puis clic sur l'icône Explosion pour la faire détoner !"
 End
 
 CONTROLBAR:ToolTipTraderToymakers2
-"Detonate the fireworks \n Left click to activate"
+"Faire exploser le feu d'artifice. \n\n Clic gauche pour l'activer."
 End
 
 CONTROLBAR:FireWorksObj
-"Dwarven Firework"
+"Feu d'artifice des Nains"
 END
 
 //------------ Iron Hill Riders ---------------
@@ -68525,19 +68515,19 @@ CONTROLBAR:ConstructIronHillRiderHordeBotFA
 END
 
 CONTROLBAR:LW_Unit_IronHillRiderHorde
-"Ukhrub-sharâhul Battalion"
+"Battalion d'Ukhrub-sharâhul"
 END
 
 CONTROLBAR:LW_ToolTip_IronHillRiderHorde
-"Iron Hills Riders\nUnit Type: Elite Cavalry\nStrong vs. Archers"
+"Cavaliers des monts du fer\nType d'unité : Cavalerie d'élite\nFort contre les Archers"
 END
 
 CONTROLBAR:ToolTipBuildIronHillRiderHorde
-"Iron Hills Riders \n Requires Level 3 Erebor Assembly \n Elite Cavalry \nStrong vs. Archers \n \n 'The Dwarves of the Iron Hills see symbolic similarity between themselves and these large mountain goats. Together, they make for a fearsome presence on the battlefield.'"
+"Cavaliers des monts du fer \n Requiert Niveau 3 de l'Assemblée d'Erebor \n Cavalerie d'élite \nFort contre les Archers \n \n 'Les Nains des monts du Fer voient une similitude symbolique entre eux et ces grandes chèvres de montagne. Ensemble, ils forment une présence redoutable sur le champ de bataille.'"
 END
 
 CONTROLBAR:ToolTipBuildIronHillRiderHordeBotFA
-"Iron Hills Riders \n Requires Level 3 Iron Hills Redoubt \n Elite Cavalry \nStrong vs. Archers \n \n 'The Dwarves of the Iron Hills see symbolic similarity between themselves and these large mountain goats. Together, they make for a fearsome presence on the battlefield.'"
+"Cavaliers des monts du fer \n Requiert Niveau 3 Iron Hills Redoubt \n Elite Cavalry \nStrong vs. Archers \n \n 'The Dwarves of the Iron Hills see symbolic similarity between themselves and these large mountain goats. Together, they make for a fearsome presence on the battlefield.'"
 END
 
 CONTROLBAR:LW_ToolTipBuild_IronHillRiderHorde
