@@ -19273,7 +19273,7 @@ CONTROLBAR:IthilienGarden
 END
 
 CONTROLBAR:TooltipIthilienGarden
-"Invoque un Jardin luxuriant sur le champ de bataille pendant 5 minutes. Type d'Action : Bonus. \n\n Tous les alliés deviennent furtives. \n Les unités ennemies perdent leur Charisme. \n Le Jardin est habité par un certain nombre de Rôdeurs Ithilien. \n\n Clic gauche sur l'icône puis clic gauche sur une zone ciblé."
+"Invoque un Jardin luxuriant sur le champ de bataille pendant 5 minutes. Type d'Action : Bonus. \n\n Tous les alliés gagnent +50% de dégâts et deviennent immunisés contre la peur et la terreur. \n Le Jardin est habité par un certain nombre de Rôdeurs Ithilien. \n\n Clic gauche sur l'icône puis clic gauche sur une zone ciblé."
 END
 
 
@@ -19361,7 +19361,7 @@ CONTROLBAR:SummonElessar
 END
 
 CONTROLBAR:TooltipSummonElessar
-"Invoque le Roi Elessar accompagné de sa Garde Royale. Ses gardes sont temporaires, mais le Roi persiste jusqu'à sa mort. Type d'Action : Bonus. \n\n Les unités proches gagnent +50% d'armure, et sont immunisés face à la peur et au renversement et obtiennent une résistance au piétinement pour un court instant. \n\n Clic gauche sur l'icône puis clic gauche sur la zone cible."
+"Invoque le Roi Elessar accompagné de sa Garde Royale. Ses gardes sont temporaires, mais le Roi persiste jusqu'à sa mort. Type d'Action : Bonus. \n\n Les unités proches gagnent +50% d'armure, et sont immunisés face à la peur et au renversement et obtiennent une résistance au piétinement pendant 20 secondes. \n\n Clic gauche sur l'icône puis clic gauche sur la zone cible."
 END
 
 
@@ -26387,7 +26387,7 @@ CONTROLBAR:CloudBreakErebor
 End
 
 CONTROLBAR:ToolTipCloudBreakErebor
-"Annule les Vents Occidentaux, Pluie Verglaçante, Avant que le Soleil ne se Lève, Bénédiction d'Ulmo, Bénédiction de Manwë, Le Jour de Durin, Extinction des feux, Hiver Blanc et Ombre. \n Étourdit les unités ennemies. \n Soigne lentement les unités alliées sur la carte. \n\n Clic gauche pour l'activer."
+"Annule les Vents Occidentaux, Pluie Verglaçante, Avant que le Soleil ne se Lève, Bénédiction d'Ulmo, Bénédiction de Manwë, Le Jour de Durin, Extinction des feux, Hiver Blanc et Ombre. \n Étourdit les unités ennemies pendant 15 secondes. \n Soigne lentement les unités alliées sur la carte pendant 15 secondes. \n\n Clic gauche pour l'activer."
 END
 
 
@@ -27152,7 +27152,7 @@ CONTROLBAR:ConstructEregionForge
 END
 
 CONTROLBAR:ToolTipEregionForge
-"Génère des ressources en nourritures et artefacts selon le terrain disponible. \n Permet de rechercher les améliorations des unités de le Lothlórien. \n Réduit le coût des améliorations. \n Augmente la limite de points de commandement de 50."
+"Génère des ressources en nourritures et artefacts selon le terrain disponible. \n Permet de rechercher les améliorations des unités de le Lothlórien. \n Augmente la limite de points de commandement de 50."
 END
 
 CONTROLBAR:PurchaseUpgradeEregionForgeLevel2
@@ -28002,11 +28002,11 @@ CONTROLBAR:LW_Unit_ElvenNandorBlademasterHordePlural
 END
 
 CONTROLBAR:LW_ToolTip_ElvenNandorBlademasterHorde
-"Type d'unité : Unité Héroùque. \n Forts contre les piquiers et l'infanterie."
+"Type d'unité : Unité Héroùque. \n Forts contre toutes les unités."
 END
 
 CONTROLBAR:LW_ToolTip_ElvenNandorBlademasterHorde_WOTR
-"12 Nandor Hir-Hathol. \n\n Type d'unité: Unité Héroùque. \n Fort contre les Piquiers et l'Infanterie."
+"12 Nandor Hir-Hathol. \n\n Type d'unité: Unité Héroùque. \n Fort toutes les unités."
 END
 
 CONTROLBAR:ToolTipBuildNandorBlademasterHorde
@@ -28238,7 +28238,7 @@ CONTROLBAR:PalaceGUnscathed
 END
 
 CONTROLBAR:ToolTipPalaceGUnscathed
-"Requiert : Niveau 2 \n La Garde du Palais gagne temporairement +60% d'armure et résiste aux renversements mais perd 40% de vitesse. \n\n Clic gauche pour l'activer."
+"Requiert : Niveau 4 \n La Garde du Palais gagne pendant 30 secondes +50% d'armure et résiste aux renversements mais perd 40% de vitesse. \n\n Clic gauche pour l'activer."
 END
 
 CONTROLBAR:NandorTreasure
@@ -28246,7 +28246,7 @@ CONTROLBAR:NandorTreasure
 END
 
 CONTROLBAR:ToolTipNandorTreasure
-"Requiert : Niveau 4 \n Fournit des Lames forgées de Caras Galadhon, des Armures ouvragées des Nandor et des Arcs en bois de Mallorn aux unités dans la zone. \n\n Clic gauche sur l'icône puis clic gauche sur des bataillons alliés."
+"Requiert : Niveau 6 \n Fournit des Lames forgées de Caras Galadhon, des Armures ouvragées des Nandor et des Arcs en bois de Mallorn aux unités dans la zone. \n\n Clic gauche sur l'icône puis clic gauche sur des bataillons alliés."
 END
 
 CONTROLBAR:NandorUnscathed
@@ -28276,7 +28276,7 @@ CONTROLBAR:RallyingCallElves
 END
 
 CONTROLBAR:TooltipRallyingCallElves
-"Type d'Action : Bonus. \n Le son des cors de la Lórien exalte les troupes : les alliés ciblés gagnent +50% de dégâts et +50% d'armure (bonus cumulable). \n\n Clic gauche sur l'icône puis clic gauche sur la cible."
+"Type d'Action : Bonus. \n Le son des cors de la Lórien exalte les troupes : les alliés ciblés gagnent +25% de dégâts et +25% d'armure pendant 60 secondes (bonus cumulable). \n\n Clic gauche sur l'icône puis clic gauche sur la cible."
 END
 
 
@@ -29433,7 +29433,7 @@ CONTROLBAR:ElladanLeadership
 End
 
 CONTROLBAR:ToolTipElladanLeadership
-"Type d'Action : Charisme. \n Lorsqu'il est proche de son frère, Elladan gagne +150% de dégâts et +150% d'armure (bonus cumulable). \n\n Capacité passive."
+"Type d'Action : Charisme. \n Lorsqu'il est proche de son frère, Elladan gagne +50% de dégâts et +50% d'armure (bonus cumulable). \n\n Capacité passive."
 End
 
 CONTROLBAR:ElladanLeadership2
@@ -35711,7 +35711,7 @@ CONTROLBAR:MOSAmbassador
 END
 
 CONTROLBAR:ToolTipMOSAmbassador
-"Requiert : Niveau 5 \n La Bouche de Sauron gagne temporairement 300% d'armure et résistant au renversement. \n\n Clic gauche pour l'activer."
+"Requiert : Niveau 5 \n La Bouche de Sauron gagne pendant 20 secondes 100% d'armure et résistant au renversement. \n\n Clic gauche pour l'activer."
 END
 
 CONTROLBAR:MOSLieutenant
@@ -36464,7 +36464,7 @@ CONTROLBAR:LW_ToolTip_MordorVangaurdHorde
 END
 
 CONTROLBAR:LW_ToolTip_MordorVangaurdHorde_WOTR
-"6 Avant-gardes de Morgul. \n\n Type d'unité: Unité héroùque. \n Forts contre toutes les unités sauf les piquiers."
+"6 Avant-gardes de Morgul. \n\n Type d'unité: Unité héroïque. \n Forts contre toutes les unités sauf les piquiers."
 END
 
 CONTROLBAR:LW_ToolTipBuild_MordorVangaurdHorde
@@ -36542,7 +36542,7 @@ CONTROLBAR:ConstructMordorPikeHorde
 END
 
 CONTROLBAR:ToolTipBuildMordorPikeHorde
-"Les Orques sont des créatures malfaisantes, des monstres qui se complaisent dans la destruction et la mort. Ils ne sont loyaux envers personne, pas même envers leurs compagnons, et ils n'hésiteront pas à se battre entre eux pour se disputer leurs conquêtes. \n Les piquiers sont armés de longues et cruelles piques afin de former un mur de fer face à l'ennemi. \n\n Forts contre la cavalerie et les héros. \n\n Type d'Action : Sort. \n Bonus de horde : tous les combattants Orques et Uruk-Haï du Mordor gagnent +50% de dégâts lorsqu'ils sont rassemblés en nombre de 150 ou plus (bonus cumulable)."
+"Les Orques sont des créatures malfaisantes, des monstres qui se complaisent dans la destruction et la mort. Ils ne sont loyaux envers personne, pas même envers leurs compagnons, et ils n'hésiteront pas à se battre entre eux pour se disputer leurs conquêtes. \n Les piquiers sont armés de longues et cruelles piques afin de former un mur de fer face à l'ennemi. \n\n Forts contre la cavalerie et les héros. \n\n Type d'Action : Sort. \n Bonus de horde : tous les combattants Orques et Uruk-Haï du Mordor gagnent +50% de dégâts lorsqu'ils sont rassemblés en nombre de 100 ou plus (bonus cumulable)."
 END
 
 CONTROLBAR:LW_ToolTipBuild_MordorPikemanHorde
@@ -37376,7 +37376,7 @@ CONTROLBAR:DreadVisageVanguard
 END
 
 CONTROLBAR:ToolTipDreadVisageVanguard
-"Requiert : Niveau 2 \n Type d'Action : Pénalité passive. \n La simple présence terrifiante des Numénoréens Noirs crée un effroi si grand qu'il peut faire vaciller même les coeurs les plus vaillants. \n\n Les ennemis proches d'eux subissent -25% de dégâts et -20% d'armure (Pénalité non cumulable). \n\n Capacité passive."
+"Requiert : Niveau 2 \n Type d'Action : Pénalité passive. \n La simple présence terrifiante des Numénoréens Noirs crée un effroi si grand qu'il peut faire vaciller même les coeurs les plus vaillants. \n\n Les ennemis proches d'eux subissent -15% de dégâts et -10% d'armure (Pénalité non cumulable). \n\n Capacité passive."
 END
 
 CONTROLBAR:VanguardMorgulBlade
@@ -37384,7 +37384,7 @@ CONTROLBAR:VanguardMorgulBlade
 END
 
 CONTROLBAR:ToolTipVanguardMorgulBlade
-"Requiert : Niveau 4 \n L'ennemi subit des dégâts progressifs de poison et se transforme en Spectre après la mort. \n\n Clic gauche sur l'icône puis clic gauche sur la cible."
+"Requiert : Niveau 4 \n L'ennemi subit pendant 10 secondes des dégâts progressifs de poison et se transforme en Spectre après la mort. \n\n Clic gauche sur l'icône puis clic gauche sur la cible."
 END
 
 CONTROLBAR:ScreechVanguard
@@ -38940,7 +38940,7 @@ CONTROLBAR:IsengardUglukHuntfortheRing
 END
 
 CONTROLBAR:TooltipIsengardUglukHuntfortheRing
-"Requiert : Niveau 3 \n Type d'Action : Sort. \n En chasse pour récupérer l'Anneau, les unités proches d'Uglúk gagnent +15% de vitesse, gagne de l'expérience 50% plus rapidement et sont immunisés face à la peur et à la terreur (bonus cumulable). \n\n Clic gauche pour l'activer."
+"Requiert : Niveau 3 \n Type d'Action : Sort. \n En chasse pour récupérer l'Anneau, les unités proches d'Uglúk gagnent +15% de vitesse, gagne de l'expérience 50% plus rapidement et sont immunisés face à la peur et à la terreur pendant 20 secondes (bonus cumulable). \n\n Clic gauche pour l'activer."
 END
 
 CONTROLBAR:IsengardUglukHeadhunter
@@ -41334,7 +41334,7 @@ CONTROLBAR:SpecialAbilityDrumsInTheDeep
 END
 
 CONTROLBAR:ToolTipSpecialAbilityDrumsInTheDeep
-"Lorsque le rythme immonde des tambours monte dans les abÂmes, les hordes de Gobelins émergent des sinistres tunnels de la Moria et se rassemblent pour la guerre. \n Invoque de façon permanente 5 hordes d'Orques de la Moria équipés d'armures. \n Respecte la limite de points de commandement. \n\n Type d'Action : Pénalité active. \n Les unités ennemies dans l'aire d'effet subissent -25% de dégâts et -20% d'armure (Pénalité non cumulable). \n\n Clic gauche sur l'icône puis clic gauche sur la zone cible."
+"Lorsque le rythme immonde des tambours monte dans les abîmes, les hordes de Gobelins émergent des sinistres tunnels de la Moria et se rassemblent pour la guerre. \n Invoque de façon permanente 5 hordes d'Orques de la Moria équipés d'armures. \n Respecte la limite de points de commandement. \n\n Type d'Action : Pénalité active. \n Les unités ennemies dans l'aire d'effet subissent -25% de dégâts et -20% d'armure (Pénalité non cumulable). \n\n Clic gauche sur l'icône puis clic gauche sur la zone cible."
 END
 
 CONTROLBAR:SpecialAbilitySummonWyrm
@@ -41806,7 +41806,7 @@ CONTROLBAR:GolfimbulHatred
 END
 
 CONTROLBAR:TooltipGolfimbulHatred
-"Requiert : Niveau 8 \n Type d'Action : Sort. \n Golfimbul brûle d'envie de venger son ancêtre contre les petites gens de la Comté et les Peuples Libres de la Terre du Milieu. \n Golfimbul et les Loups, Wargs et les Chevaucheurs de loups proches de lui gagnent +100% de dégâts et d'armure et -50% de décélération au piétinement (bonus cumulable). \n\n Clic gauche pour l'activer."
+"Requiert : Niveau 8 \n Type d'Action : Sort. \n Golfimbul brûle d'envie de venger son ancêtre contre les petites gens de la Comté et les Peuples Libres de la Terre du Milieu. \n Golfimbul et les Loups, Wargs et les Chevaucheurs de loups proches de lui gagnent +100% de dégâts et d'armure et -50% de décélération au piétinement pendant 20 secondes (bonus cumulable). \n\n Clic gauche pour l'activer."
 END
 
 CONTROLBAR:GoblinKingSkullTotem
@@ -41864,7 +41864,7 @@ CONTROLBAR:UrshakIntimidation
 END
 
 CONTROLBAR:ToolTipUrshakIntimidation
-"Type d'action: Charisme. \n Les Trolls, chauves-souris et géants près d'Urshak gagnent +15% de vitesse, de vision et de révélation de brouillard. \n Capacité passive. \n\n Type d'action: Affaiblissement passif. \n Les unités ennemies proches subissent -25% de dégâts et d'armure et -20% de vitesse. \n Non cumulable avec d'autres affaiblissements. \n Capacité passive. \n\n Au niveau 8, envoûte les unités ciblées, les rendant hostiles les unes envers les autres. \n\n Clic gauche sur l'icône puis clic gauche sur la zone cible."
+"Type d'action: Charisme. \n Les Trolls, chauves-souris et géants près d'Urshak gagnent +15% de vitesse, de vision et de révélation de brouillard. \n Capacité passive. \n\n Type d'action: Affaiblissement passif. \n Les unités ennemies proches subissent -25% de dégâts et d'armure et -0% de vitesse. \n Non cumulable avec d'autres affaiblissements. \n Capacité passive. \n\n Au niveau 8, envoûte les unités ciblées, les rendant hostiles les unes envers les autres. \n\n Clic gauche sur l'icône puis clic gauche sur la zone cible."
 END
 
 CONTROLBAR:UrshakShakeFoundation
@@ -41948,7 +41948,7 @@ CONTROLBAR:GreatGoblinSwarm
 END
 
 CONTROLBAR:ToolTipGreatGoblinSwarm
-"Invoque des Guerriers de Gobelinville. \n Le nombre de hordes invoquées est associé au niveau du Grand Gobelin. \n\n Type d'Action: Bonus. \n Lorsqu'ils sont activés, les Orques de la Moria et les Tours gobelins à proximité gagnent +15% de vitesse et de dégâts (bonus cumulable). \n\n Clic gauche pour l'activer."
+"Invoque des Guerriers de Gobelinville. \n Le nombre de hordes invoquées est associé au niveau du Grand Gobelin. \n\n Type d'Action: Bonus. \n Lorsqu'ils sont activés, les Orques de la Moria et les Tours gobelins à proximité gagnent +15% de vitesse et de dégâts pendant 20 secondes (bonus cumulable). \n\n Clic gauche pour l'activer."
 END
 
 CONTROLBAR:GreatGoblinSwarm2
@@ -41968,7 +41968,7 @@ CONTROLBAR:ConstructGoblinTownFighterHorde
 END
 
 CONTROLBAR:ToolTipBuildGoblinTownFighterHorde
-"Forts contre les piquiers. \n Bonus de Hordes. \n Type d'Action: Sort. \n\n Tous les Orques de la Moria et les Guerriers de Gobelinville gagnent +50% de dégâts lorsqu'ils sont rassemblés en nombre de 150 ou plus (bonus cumulable). \n\n Cet essaim misérable de troglodytes malades et mutilés est uni par une seule chose : leur adoration effrayante du Grand Gobelin."
+"Forts contre les piquiers. \n Bonus de Hordes. \n Type d'Action: Sort. \n\n Tous les Orques de la Moria et les Guerriers de Gobelinville bénéficient de +20 % de dégâts et d'armure pour chaque (deux bataillons de Gobelinville), jusqu'à un maximum de +100 % de dégâts et d'armure (bonus cumulable). \n\n Cet essaim misérable de troglodytes malades et mutilés est uni par une seule chose : leur adoration effrayante du Grand Gobelin."
 END
 
 CONTROLBAR:GreatGoblinLeadership
@@ -42000,7 +42000,7 @@ CONTROLBAR:GreatGoblinAbominableSong
 END
 
 CONTROLBAR:TooltipGreatGoblinAbominableSong
-"Requiert : Niveau 9 \n Type d'Action: Sort et Pénalité active. \n Le Grand Gobelin entonne une ode grotesque en honneur à sa grandeur. \n Les alliés proches gagnent +33% de dégâts et +33% d'armure (bonus cumulable). \n Les ennemis proches subissent -25% de dégâts et -20% d'armure et perdent leur bonus de Charisme (Pénalité non cumulable). \n\n Clic gauche pour l'activer."
+"Requiert : Niveau 9 \n Type d'Action: Sort et Pénalité active. \n Le Grand Gobelin entonne une ode grotesque en honneur à sa grandeur. \n Les alliés proches gagnent +33% de dégâts et +33% d'armure pendant 30 secondes (bonus cumulable). \n Les ennemis proches subissent -25% de dégâts et -20% d'armure et perdent leur bonus de Charisme pendant 30 secondes (Pénalité non cumulable). \n\n Clic gauche pour l'activer."
 END
 
 
@@ -43614,7 +43614,7 @@ CONTROLBAR:BodyguardDeathWish
 END
 
 CONTROLBAR:ToolTipBodyguardDeathWish
-"Requiert : Niveau 7 \n Les Gardes rapprochés de Bolg gagnent temporairement +150% de dégâts au détriment de -25% d'armure. \n\n Clic gauche pour l'activer."
+"Requiert : Niveau 7 \n Les Gardes rapprochés de Bolg gagnent pendant 20 secondes +100% de dégâts au détriment de -25% d'armure. \n\n Clic gauche pour l'activer."
 END
 
 
