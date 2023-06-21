@@ -20080,7 +20080,7 @@ CONTROLBAR:ErkenbrandHorn
 END
 
 CONTROLBAR:ToolTipErkenbrandHorn
-"L'infanterie proche gagne temporairement +20% de bonus de vitesse et de la résistance à la peur, au renversement et au piétinement."
+"L'infanterie proche gagne +20% de bonus de vitesse et de la résistance à la peur, au renversement et au piétinement pendant 30 secondes."
 END
 
 CONTROLBAR:ErkenbrandShieldCrush
@@ -20088,7 +20088,7 @@ CONTROLBAR:ErkenbrandShieldCrush
 END
 
 CONTROLBAR:ToolTipErkenbrandShieldCrush
-"Requiert : Niveau 3 \n Erkenbrand peut écrasser les ennemis et est immunisé contre les flèches pendant une courte durée."
+"Requiert : Niveau 3 \n Erkenbrand peut écrasser les ennemis et est immunisé contre les flèches pendant 20 secondes."
 End
 
 CONTROLBAR:ErkenbrandLeadership
@@ -20200,7 +20200,7 @@ CONTROLBAR:EomerBlademaster
 END
 
 CONTROLBAR:TooltipEomerBlademaster
-"Requiert : Niveau 5 \n Éomer gagne temporairement +100% de dégâts. \n\n Clic gauche pour l'activer."
+"Requiert : Niveau 5 \n Éomer gagne +100% de dégâts pendant 30 secondes. \n\n Clic gauche pour l'activer."
 END
 
 CONTROLBAR:EomerStandGround
@@ -20208,7 +20208,7 @@ CONTROLBAR:EomerStandGround
 END
 
 CONTROLBAR:ToolTipEomerStandGround
-"Requiert : Niveau 8 \n Crée un anneau qui confère +30% d'armure, de résistance aux renversements et l'immunité face à la peur aux unités qui s'y trouvent. \n\n Dure 60 secondes. \n Clic gauche pour l'activer."
+"Requiert : Niveau 8 \n Crée un anneau qui confère +33% d'armure, +33% de dégâts, de résistance aux renversements et l'immunité face à la peur aux unités qui s'y trouvent. \n\n Dure 60 secondes. \n Clic gauche pour l'activer."
 END
 
 
@@ -20290,11 +20290,11 @@ CONTROLBAR:GamlingWhateverEnd
 END
 
 CONTROLBAR:ToolTipGamlingWhateverEnd
-"Type d'Action : Bonus. \n Le Héros ciblé gagne temporairement +25% d'armure. \n Ne peut être utilisé que sur Théoden, Éomer, Éowyn ou Théodred. \n S'accumule avec le Charisme et les Sorts. \n Clic gauche sur l'icône puis clic gauche sur le héros ciblé."
+"Type d'Action : Bonus. \n Le Héros ciblé gagne +25% d'armure pendant 30 secondes. \n Ne peut être utilisé que sur Théoden, Éomer, Éowyn ou Théodred. \n S'accumule avec le Charisme et les Sorts. \n Clic gauche sur l'icône puis clic gauche sur le héros ciblé."
 END
 
 CONTROLBAR:ToolTipGamlingWhateverEndCampaign
-"Type d'Action : Bonus. \n Le Héros ciblé gagne temporairement +25% d'armure. \n S'accumule avec le Charisme et les Sorts. \n Clic gauche sur l'icône puis clic gauche sur le héros ciblé."
+"Type d'Action : Bonus. \n Le Héros ciblé gagne +25% d'armure pendant 30 secondes. \n S'accumule avec le Charisme et les Sorts. \n Clic gauche sur l'icône puis clic gauche sur le héros ciblé."
 END
 
 
@@ -20340,7 +20340,7 @@ CONTROLBAR:HarkenToMeLeadership
 END
 
 CONTROLBAR:ToolTipHarkenToMeLeadership
-"Type d'Action : Charisme. \n Les Héros proches ont un temps de recharge réduit. \n\n Capacité passive."
+"Type d'Action : Charisme. \n Les Héros proches ont un temps de recharge réduit de 25%. \n\n Capacité passive."
 END
 
 CONTROLBAR:GandalfFirstLight
@@ -20348,7 +20348,7 @@ CONTROLBAR:GandalfFirstLight
 END
 
 CONTROLBAR:ToolTipGandalfFirstLight
-"Éclat de lumière qui étourdit les ennemies proches pendant 5 secondes et inflige des dégâts mineurs. \n\n Clic gauche pour l'activer."
+"Éclat de lumière qui étourdit les ennemies proches pendant 15 secondes et inflige des dégâts mineurs. \n\n Clic gauche pour l'activer."
 END
 
 CONTROLBAR:GandalfNewMount
@@ -21658,7 +21658,7 @@ CONTROLBAR:RohanPeasantHasDraft
 END
 
 CONTROLBAR:ToolTipRohanPeasantHasDraft
-"Requiert le pouvoir Résistance. \n Les paysans reçoivent des épées et des boucliers, gagnant +5% de dégâts et +40 de points de vie. \n Les paysans peuvent désormais être améliorés avec des lames forgées et une armure lourde."
+"Requiert le pouvoir Résistance. \n Les paysans reçoivent des épées et des boucliers, gagnant +5 de dégâts et +40 de points de vie. \n Les paysans peuvent désormais être améliorés avec des lames forgées et une armure lourde."
 END
 
 CONTROLBAR:PurchaseUpgradeRohanDraft
@@ -21666,7 +21666,7 @@ CONTROLBAR:PurchaseUpgradeRohanDraft
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeRohanDraft
-"Les paysans reçoivent des épées et des boucliers, gagnent +5% de dégâts et +40% de santé. \n Les paysans peuvent être améliorés avec des Lames forgées et des Armures Lourdes."
+"Les paysans reçoivent des épées et des boucliers, gagnent +5 de dégâts et +40 de santé. \n Les paysans peuvent être améliorés avec des Lames forgées et des Armures Lourdes."
 END
 
 TOOLTIP:LackRohanForgedBladesP
@@ -43584,7 +43584,7 @@ CONTROLBAR:FellDetermination
 END
 
 CONTROLBAR:ToolTipFellDetermination
-"Requiert : Niveau 2 \n Les Berserkers de Gundabad gagnent brièvement +100% de résistance au renversement ainsi que +33% d'armure. \n\n Clic gauche pour l'activer."
+"Requiert : Niveau 2 \n Les Berserkers de Gundabad gagnent +100% de résistance au renversement ainsi que +33% de dégâts pendant 20 secondes. \n\n Clic gauche pour l'activer."
 END
 
 
@@ -44783,7 +44783,7 @@ OBJECT:GuldurSlaveMill
 End
 
 OBJECT:GuldurSlaveMillDescription
-"Produit de la Misère comme ressource basée sur le terrain disponible. \n Peut invoquer des hordes de Brisés. \n Bonus de Misère - Réduit le coût des Orques de base. \n\n 2 Moulins à Esclaves: 5% \n 3 Moulins à Esclaves: 10% \n 4 Moulins à Esclaves: 15% \n 5 Moulins à Esclaves: 20% \n 6+ Moulins à Esclaves: 25%"
+"Produit de la Misère comme ressource basée sur le terrain disponible. \n Peut invoquer des hordes de Brisés. \n Bonus de Misère - Réduit le coût des Orques de base. \n\n 2 Moulins à Esclaves: 5% \n 3 Moulins à Esclaves: 10% \n 4 Moulins à Esclaves: 15% \n 5+ Moulins à Esclaves: 20%"
 End
 
 CONTROLBAR:DarkPresence

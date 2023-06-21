@@ -73286,327 +73286,326 @@ OBJECT:RohanDraftTower
 END
 
 OBJECT:RohanDraftTowerDescription
-"Can summon battalions to protect the area"
+"Peut invoquer des bataillons pour protéger la zone."
 END
 
 UPGRADE:DraftTowerWestfold
-"Oath: Ouestfolde (&W)"
+"Le Serment du Westfold (&W)"
 END
 
 UPGRADE:DraftTowerFirienholt
-"Oath: Firienholt (&W)"
+"Le Serment de Firienholt (&W)"
 END
 
 UPGRADE:DraftTowerEored
-"Oath: Éored (&W)"
+"Le Serment d'Éored (&W)"
 END
 
 CONTROLBAR:DraftTowerOath
-"Oaths You Have Taken... (&W)"
+"Le Serment que vous avez prêtés... (&W)"
 END
 
 CONTROLBAR:ToolTipDraftTowerOathPeasant
-"Summons two battalions of drafted peasants to defend the tower"
+"Invoque deux bataillons de paysans enrôlés pour défendre la Tour."
 END
 
 CONTROLBAR:PurchaseDraftTowerWestfolder
-"Oath: Ouestfolde (&E)"
+"Le Serment du Westfold (&E)"
 END
 
 CONTROLBAR:ToolTipPurchaseDraftTowerWestfolder
-"Requires the Horn of the Ouestfolde power to be used\nPermanently alters the active Oath to summon a battalion of Westfolders"
+"Nécessite le Pouvoir de la Corne de Westfold. \n Modifie de façon permanente le Serment actif pour invoquer un bataillon de Guerriers du Westfold."
 END
 
 CONTROLBAR:ToolTipDraftTowerOathWestfolder
-"Summons one battalion of Westfolders to defend the tower"
+"Invoque un bataillon de Guerriers du Westfold pour défendre la Tour."
 END
 
 CONTROLBAR:PurchaseDraftTowerFirienholt
-"Oath: Firienholt (&R)"
+"Le Serment de Firienholt (&R)"
 END
 
 CONTROLBAR:ToolTipPurchaseDraftTowerFirienholt
-"Permanently alters the active Oath to summon a battalion of Halifirien Wardens"
+"Modifie de façon permanente le serment actif d'invoquer un bataillon de Gardiens Halifiriens."
 END
 
 CONTROLBAR:ToolTipDraftTowerOathFirienholt
-"Summons one battalion of Halifirien Wardens to defend the tower"
+"Invoque un bataillon de Gardiens Halifiriens pour défendre la Tour."
 END
 
 CONTROLBAR:PurchaseDraftTowerRohirrim
-"Oath: Éored (&T)"
+"Le Serment d'Éored (&T)"
 END
 
 CONTROLBAR:ToolTipPurchaseDraftTowerRohirrim
-"Permanently alters the active Oath to summon a battalion of upgraded Rohirrim Warriors"
+"Modifie de façon permanente le Serment actif pour invoquer un bataillon de Guerriers Rohirrims améliorés."
 END
 
 CONTROLBAR:ToolTipDraftTowerOathRohirrim
-"Summons one battalion of upgraded Rohirrim Warriors to defend the tower"
+"Invoque un bataillon de Guerriers Rohirrims améliorés pour défendre la Tour."
 END
 
 OBJECT:RohanLoneScout
-"Outrider"
+"Éclaireur"
 END
 
 CONTROLBAR:ThreeHuntersLeadership
-"The Three Hunters"
+"Les Trois Chasseurs"
 END
 
 CONTROLBAR:ToolTipHuntersLeadershipAragorn
-"Modifier Type: Leadership \n When near Legolas or Gimli, Aragorn gains +25% armour and speed\n Passive ability"
+"Type d'Action : Charisme. \n A proximité de Legolas ou de Gimli, Aragorn gagne +25% d'armure et de vitesse. \n\n Capacité passive."
 END
 
 CONTROLBAR:ToolTipHuntersLeadershipLegolas
-"Modifier Type: Leadership \n When near Aragorn or Gimli, Legolas gains +25% armour and speed\n Passive ability"
+"Type d'Action : Charisme. \n A proximité d'Aragorn ou de Gimli, Legolas gagne +25% d'armure et de vitesse. \n\n Capacité passive."
 END
 
 CONTROLBAR:ToolTipHuntersLeadershipGimli
-"Modifier Type: Leadership \n When near Aragorn or Legolas, Gimli gains +25% armour and speed\n Passive ability"
+"Type d'Action : Charisme \n A proximité d'Aragorn ou de Legolas, Gimli gagne +25% d'armure et de vitesse. \n\n Capacité passive."
 END
 
 CONTROLBAR:HarkenToMeLeadership
-"Harken To Me!"
+"Écoutez-moi !"
 END
 
 CONTROLBAR:ToolTipHarkenToMeLeadership
-"Modifier Type: Leadership \nNearby heroes' ability cooldown times are reduced by 25% \n Passive ability"
+"Type d'Action : Charisme. \n Les Héros proches ont un temps de recharge réduit de 25%. \n\n Capacité passive."
 END
 
 CONTROLBAR:DoorWardenKingsguardLeadership
-"Door-wardens"
+"Les Gardiens de la Porte"
 END
 
 CONTROLBAR:TooltipDoorWardenKingsguardLeadership
-"Modifier Type: Leadership \n The Kingsguard grants nearby structures +33% armour\n \n Passive ability"
+"Type d'Action : Charisme. \n La Garde Royale confère aux structures voisines +33% d'armure. \n S'accumule avec les Bonus et les Sorts. \n\n Capacité passive."
 END
 
 CONTROLBAR:KingsguardLeadership
-//"Théoden's Royal Guard"
-"Royal Escort"
+"Escorte Royale"
 END
 
 CONTROLBAR:TooltipKingsguardLeadership
-"Modifier Type: Leadership \n The Kingsguards grant nearby heroes +15% armour\n \n Passive ability"
+"Type d'Action : Charisme. \n Les Gardes Royaux accordent aux Héros proches +15% d'armure. \n S'accumule avec les Bonus et les Sorts. \n\n Capacité passive."
 END
 
 OBJECT:RohanHorsemen
-"Horseman of the Mark"
+"Cavaliers de la Marche"
 END
 
 OBJECT:HordeRohanHorsemen
-"Horsemen of the Mark"
+"Cavaliers de la Marche"
 END
 
 CONTROLBAR:HamaLeadership
-"Doorwarden of Meduseld"
+"Gardien de la Porte de Meduseld"
 END
 
 CONTROLBAR:ToolTipHamaLeadership
 //"Allies near Theoden gain \n +50% damage, +50% armour, \n and earn experience twice as fast \n \n Passive ability       Does not stack"
 //"Allies near Theoden gain \n +33% damage, +33% armour, \n and earn experience twice as fast \n Passive ability"
 //"Allies near Theoden gain \n +33% damage, +33% armour, \n and earn experience 50% faster\n Passive ability"
-"Modifier Type: Spell \n For every allied building in Háma's vicinity,\n he gains +15% armour\n Passive ability"
+"Type d'Action : Sort. \n Pour chaque bâtiment allié proche de Háma, il obtient +15% d'armure. \n S'accumule avec les Bonus et les Sorts. \n\n Capacité passive."
 END
 
 CONTROLBAR:GamlingWhateverEnd
-"To Whatever End (&W)"
+"Quelque soit la fin (&W)"
 END
 
 CONTROLBAR:ToolTipGamlingWhateverEnd
-"Modifier Type: Buff \n Target hero gains +25% armour for 30 seconds\n Can only be used on Théoden, Éomer, Éowyn or Théodred\n Left click icon then left click on target hero"
+"Type d'Action : Bonus. \n Le Héros ciblé gagne +25% d'armure pendant 30 secondes. \n Ne peut être utilisé que sur Théoden, Éomer, Éowyn ou Théodred. \n S'accumule avec le Charisme et les Sorts. \n Clic gauche sur l'icône puis clic gauche sur le héros ciblé."
 END
 
 CONTROLBAR:ToolTipGamlingWhateverEndCampaign
-"Modifier Type: Buff \n Target hero gains +25% armour for 30 seconds\nLeft click icon then left click on target hero"
+"Type d'Action : Bonus. \n Le Héros ciblé gagne +25% d'armure pendant 30 secondes. \n S'accumule avec le Charisme et les Sorts. \n Clic gauche sur l'icône puis clic gauche sur le héros ciblé."
 END
 
 CONTROLBAR:StrengthRemembered
-"Strength Remembered (&T)"
+"Force Mémorable (&T)"
 END
 
 CONTROLBAR:ToolTipStrengthRemembered
-"Requires Level 3 \n Heals nearby friendly units and heroes \n\n Requires Level 5 \n Also summons two battalions of Kingsguard accompanied by Háma and Gamling \n\n Left click to activate"
+"Requiert : Niveau 3 \n Soigne les unités proches. \n\n Requiert : Niveau 5 \n Invoque également deux bataillons de la Garde Royale accompagnés d'Háma et de Gamelin. \n\n Clic gauche pour l'activer."
 END
 
 CONTROLBAR:ToolTipStrengthRememberedCampaign
-"Requires Level 3 \n Heals nearby friendly units and heroes \n Left click to activate"
+"Requiert : Niveau 3 \n Soigne les unités proches. \n\n Clic gauche pour l'activer."
 END
 
 CONTROLBAR:RohanPeasantHasDraft
-"Drafted"
+"Enrôlement"
 END
 
 CONTROLBAR:ToolTipRohanPeasantHasDraft
-"Requires Draft power\n Peasants have received swords and shields, gaining +5 damage and +40 health \n Peasants can now be upgraded with Forged Blades and Heavy Armour"
+"Requiert le pouvoir Résistance. \n Les paysans reçoivent des épées et des boucliers, gagnant +5 de dégâts et +40 de points de vie. \n Les paysans peuvent désormais être améliorés avec des lames forgées et une armure lourde."
 END
 
 CONTROLBAR:PurchaseUpgradeRohanDraft
-"Purchase Draf&t"
+"Enrôlement"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeRohanDraft
-"Allows peasants to receive swords and shields,\ngaining +5 damage and +40 health \n Peasants can be upgraded with Forged Blades and Heavy Armour"
+"Les paysans reçoivent des épées et des boucliers, gagnent +5 de dégâts et +40 de santé. \n Les paysans peuvent être améliorés avec des Lames forgées et des Armures Lourdes."
 END
 
 CONTROLBAR:ErkenbrandHorn
-"Gilded Horn (&W)"
+"Corne Dorée (&W)"
 END
 
 CONTROLBAR:ToolTipErkenbrandHorn
-"Nearby infantry gain +20% bonus speed and resistance to fear, knockback and trample for 30 seconds\nLeft click to activate"
+"L'infanterie proche gagne +20% de bonus de vitesse et de la résistance à la peur, au renversement et au piétinement pendant 30 secondes."
 END
 
 CONTROLBAR:ErkenbrandShieldCrush
-"Valour of Hammerhand (&R)"
+"Valeur de Main-Marteau (&R)"
 END
 
 CONTROLBAR:ToolTipErkenbrandShieldCrush
-"Requires Level 3\nErkenbrand can crush enemies and is immune to arrows for 20 seconds\nLeft click to activate"
+"Requiert : Niveau 3 \n Erkenbrand peut écrasser les ennemis et est immunisé contre les flèches pendant 20 secondes."
 End
 
 CONTROLBAR:ErkenbrandLeadership
-"Marshall of the West-mark"
+"Maréchal de la Marche-Ouest"
 END
 
 CONTROLBAR:ToolTipErkenbrandLeadership
-"Requires Level 5 \n Modifier Type: Leadership \n Westfolders near Erkenbrand gain +33% armour \nPassive ability"
+"Requiert : Niveau 5 \n Type d'Action : Charisme. \n Les Guerriers du Westfold proche d'Erkenbrand gagnent +33% d'armure. \n\n S'accumule avec les Bonus et les Sorts. \n Capacité passive."
 END
 
 CONTROLBAR:ErkenbrandReinforcements
-"Reinforcements (&C)"
+"Renforts (&C)"
 END
 
 CONTROLBAR:ToolTipErkenbrandReinforcements
-"Requires Level 8 \n Summons two battalions of heavily-armoured Westfolders\nLeft click to activate"
+"Requiert : Niveau 8 \n Invoque deux bataillons de Guerriers du Westfold."
 END
 
 CONTROLBAR:GrimboldLeadership
-"Valiant Captain"
+"Vaillant Capitaine"
 END
 
 CONTROLBAR:ToolTipGrimboldLeadership
-"Requires Level 5 \n Modifier Type: Leadership \n Nearby infantry units gain +33% armour and +33% damage\nPassive ability"
+"Requiert : Niveau 5 \n Type d'Action : Charisme. \n Les unités d'Infanterie à proximité gagnent +33% d'armure et +33% de dégâts. \n S'accumule avec les Bonus et les Sorts. \n\n Capacité passive."
 END
 
 CONTROLBAR:GrimboldProtection
-"Protection of Grimslade (&R)"
+"Protection de Grimslade (&R)"
 END
 
 CONTROLBAR:ToolTipGrimboldProtection
-"Requires Level 5 \n Targeted allied units gain +50% armour for 30 seconds\nLeft click on icon then left click on target units"
+"Requiert : Niveau 5 \n Les unités alliées ciblés gagnent +50% d'armure pendant 30 secondes. \n\n Clic gauche sur l'icône puis clic gauche sur unités ciblé."
 END
 
 CONTROLBAR:GrimboldHeal
-"Rohirric Triage (&T)"
+"Triage Rohirrique (&T)"
 END
 
 CONTROLBAR:ToolTipGrimboldHeal
-"Requires Level 6 \n Heal nearby units in a small radius\n Left click to activate"
+"Requiert : Niveau 6 \n Soigne les unités proches dans un petit rayon. \n\n Clic gauche pour l'activer."
 END
 
 CONTROLBAR:EomerBlademaster
-"Thirst of Gúthwinë (&C)"
+"Soif de Guthwine (&C)"
 END
 
 CONTROLBAR:TooltipEomerBlademaster
-"Requires Level 5 \n Éomer gains +100% damage and deals splash damage for 30 seconds\n Left click to activate"
+"Requiert : Niveau 5 \n Éomer gagne +100% de dégâts pendant 30 secondes. \n\n Clic gauche pour l'activer."
 END
 
 CONTROLBAR:EomerStandGround
-"Stand Your Ground (&V)"
+"Défendez votre Territoire (&V)"
 END
 
 CONTROLBAR:ToolTipEomerStandGround
-"Required: Rank 8 \n Creates a ring which gives +33% armour, +33% damage and resistance to knockback to units within it \n Lasts 60 seconds \n Left click to activate"
+"Requiert : Niveau 8 \n Crée un anneau qui confère +33% d'armure, +33% de dégâts, de résistance aux renversements et l'immunité face à la peur aux unités qui s'y trouvent. \n\n Dure 60 secondes. \n Clic gauche pour l'activer."
 END
 
 CONTROLBAR:TheodredIllFated
-"Ill-Fated"
+"Infortuné"
 END
 
 CONTROLBAR:ToolTipTheodredIllFated
-"When Théodred dies, Grimbold temporarily appears to guard the fallen prince\n Passive ability"
+"Quand Théodred meurt, Grimbold apparaît temporairement pour garder le prince déchu. \n\n Capacité passive."
 END
 
 CONTROLBAR:TheodredLuck
-"Luck of Battle (&T)"
+"Chance de Bataille (&T)"
 END
 
 CONTROLBAR:ToolTipTheodredLuck
-"Requires Level 3 \n Théodred equips his helmet, gaining +33% armour \n When activated, Théodred avoids all ranged damage for 30 seconds \n\n Requires Level 7 \n When activated, the above effect is coupled with temporary invulnerability \n Left click to activate"
+"Requiert : Niveau 3 \n Théodred s'équipe de son Casque et gagne +33% d'armure. \n Lorsqu'il est activé, Théodred évite tous les dégâts à distance pendant 30 secondes. \n\n Requiert : Niveau 7 \n Lorsqu'il est activé, l'effet précédant est couplé à une invulnérabilité temporaire. \n\n Clic gauche pour l'activer."
 END
 
 CONTROLBAR:ToolTipTheodredLuckCampaign
-"Requires Level 3 \n Théodred equips his helmet, gaining +33% armour \n When activated, Théodred avoids all ranged damage for 30 seconds \n Left click to activate"
+"Requiert : Niveau 3 \n Théodred s'équipe de son Casque et gagne +33% d'armure. \n Lorsqu'il est activé, Théodred évite tous les dégâts à distance pendant 30 secondes. \n\n Clic gauche pour l'activer."
 END
 
 CONTROLBAR:TheodredPrinceRiddermark
-"Prince of the Riddermark"
+"Prince du Riddermark"
 END
 
 CONTROLBAR:ToolTipTheodredPrinceRiddermark
-"Requires Level 5 \n Théodred equips his royal cloak \n Modifier Type: Leadership \n Grants +20% to armour and +10% to attack damage, movement speed and health regeneration \n for Théoden, Éomer, and Éowyn \n Nearby units gain +35% damage \nPassive ability"
+"Requiert : Niveau 5 \n Théodred équipe sa cape royale. \n Type d'Action : Charisme. \n\n Accorde +20% aux armures et +10% aux Dégâts d'Attaques, vitesse de déplacement et régénération de santé. \n Les unités proches gagnent +35% de Dégâts. \n\n S'accumule avec les Bonus et les Sorts. \n Capacité passive."
 END
 
 CONTROLBAR:TheodredDetermination
-"Determination (&V)"
+"Détermination (&V)"
 END
 
 CONTROLBAR:TooltipTheodredDetermination
-"Requires Level 9 \n Théodred regains 50% of his maximum health and gains +20% movement speed for 30 seconds \n Left click to activate"
+"Requiert : Niveau 9 \n Théodred retrouve 50% de sa santé maximale et gagne +20% de vitesse de déplacement pendant 30 secondes. \n\n Clic gauche pour l'activer."
 END
 
 TOOLTIP:ElfhelmPromotion
-"Elfhelm's Promotion"
+"Promotion d'Elfhelm"
 END
 
 CONTROLBAR:WizardBlastStormcrow
-"Chief of the Istari (&R)"
+"Chef des Istari (&R)"
 END
 
 CONTROLBAR:GandalfFirstLight
-"First Light of the Fifth Day (&T)"
+"La Première Lueur du Cinquième Jours (&R)"
 END
 
 CONTROLBAR:ToolTipGandalfFirstLight
-"Flash of light that stuns nearby enemy units for 15 seconds and deals minor damage \n Left click to activate"
+"Éclat de lumière qui étourdit les ennemies proches pendant 15 secondes et inflige des dégâts mineurs. \n\n Clic gauche pour l'activer."
 END
 
 CONTROLBAR:AragornLeaderofMen
-"Leader of Men (&T)"
+"Meneur des Hommes (&R)"
 END
 
 CONTROLBAR:FellowshipAragornLeaderofMen
-"Leader of Men (&C)"
+"Meneur des Hommes (&C)"
 END
 
 CONTROLBAR:ToolTipAragornLeaderofMen
-"Modifier Type: Spell \n Nearby friendly units gain +33% armour \n \n When activated, units near Aragorn gain +50% damage and immunity to fear and terror for 20 seconds \n Left click to activate"
+"Modifier Type: Sort \n Les unités amies à proximité gagnent +33% d'armure \n \n Lorsqu'il est activé, les unités près d'Aragorn bénéficient d'une augmentation de +50% des dégâts, ainsi que d'une immunité à la peur et à la terreur pendant 20 secondes \n Cliquez gauche pour activer"
 END
 
 CONTROLBAR:ToolTipFellowshipAragornLeaderofMen
-"Requires Level 8 \n Modifier Type: Spell \n Nearby friendly units gain +33% armour\nPassive ability\n \n When activated, units near Aragorn gain +50% damage and immunity to fear and terror for 20 seconds \n Left click to activate"
+"Requiert le niveau 8 \n Modifier Type: Sort \n Les unités amies à proximité gagnent +33% d'armure\nCapacité passive\n \n Lorsqu'il est activé, les unités près d'Aragorn bénéficient d'une augmentation de +50% des dégâts, ainsi que d'une immunité à la peur et à la terreur pendant 20 secondes \n Cliquez gauche pour activer"
 END
 
 CONTROLBAR:ToolTipFellowshipStriderLeaderofMen
-"Requires Level 8 \n Modifier Type: Spell \n Nearby friendly units gain +33% armour\nPassive ability\n \n When activated, units near Strider gain +50% damage and immunity to fear and terror for 20 seconds \n Left click to activate"
+"Requiert le niveau 8 \n Modifier Type: Sort \n Les unités amies à proximité gagnent +33% d'armure\nCapacité passive\n \n Lorsqu'il est activé, les unités près de Strider bénéficient d'une augmentation de +50% des dégâts, ainsi que d'une immunité à la peur et à la terreur pendant 20 secondes \n Cliquez gauche pour activer"
 END
 
 CONTROLBAR:EowynLeadership
-"Lady of Rohan"
+"Dame du Rohan"
 END
 
 CONTROLBAR:ToolTipEowynLeadership
-"Modifier Type: Leadership \n Peasants near Éowyn gain +25% armour, and earn experience 100% faster \nPassive ability"
+"Modifier Type: Leadership \n Les paysans près d'Éowyn gagnent +25% d'armure et gagnent de l'expérience 100% plus rapidement \nCapacité passive"
 END
 
 CONTROLBAR:EowynReadiness
-"Readiness (&R)"
+"Préparation (&R)"
 END
 
 CONTROLBAR:ToolTipEowynReadiness
-"Requires Level 3 \n Summons a permanent battalion of drafted Peasants\nRespects command point limit\nLeft click to activate"
+"Requiert le niveau 3 \n Invoque un bataillon permanent de paysans enrôlés \n Respecte la limite de points de commandement \n Cliquez gauche pour activer"
 END
 
 CONTROLBAR:ToggleEowynDernhelm
@@ -73614,39 +73613,39 @@ CONTROLBAR:ToggleEowynDernhelm
 END
 
 CONTROLBAR:ToolTipToggleEowynDernhelm
-"Requires Level 5 \n Éowyn dons Dernhelm's armour \n Toggle between White Lady and Dernhelm"
+"Requiert le niveau 5 \n Éowyn revêt l'armure de Dernhelm \n Basculer entre Dame blanche et Dernhelm"
 END
 
 CONTROLBAR:ToggleEowynLady
-"White Lady (&W)"
+"Dame blanche (&W)"
 END
 
 CONTROLBAR:ToolTipToggleEowynLady
-"Requires Level 5 \n Éowyn dons her gown \n Toggle between White Lady and Dernhelm"
+"Requiert le niveau 5 \n Éowyn revêt sa robe \n Basculer entre Dame blanche et Dernhelm"
 END
 
 CONTROLBAR:EowynIthilienGarden
-"Lady of Ithilien (&C)"
+"Dame d'Ithilien (&C)"
 END
 
 CONTROLBAR:ToolTipEowynIthilienGarden
-"Requires Level 8 \n Summons a garden for 5 minutes that heals nearby units and detects stealth \n Left click on icon then left click on target position"
+"Requiert le niveau 8 \n Invoque un jardin pendant 5 minutes qui soigne les unités proches et détecte les unités furtives \n Cliquez gauche sur l'icône puis cliquez gauche sur la position cible"
 END
 
 CONTROLBAR:EowynCourage
-"Courage for our Friends (&T)"
+"Courage pour nos Amis (&T)"
 END
 
 CONTROLBAR:ToolTipEowynCourage
-"Requires Level 5 \n Modifier Type: Spell \n Éowyn gains +33% damage and armour while nearby allies gain resistance to fear and terror for 30 seconds \n Left click to activate"
+"Requiert le niveau 5 \n Modifier Type: Sort \n Éowyn gagne +33% de dégâts et d'armure tandis que les alliés à proximité acquièrent une résistance à la peur et à la terreur pendant 30 secondes \n Cliquez gauche pour activer"
 END
 
 CONTROLBAR:ElfhelmQuickRescue
-"Quick Rescue (&T)"
+"Sauvetage Rapide (&T)"
 END
 
 CONTROLBAR:ToolTipElfhelmQuickRescue
-"Requires Level 3 \n Modifier Type: Spell \n Nearby cavalry gains +15% speed while nearby infantry gains +15% armour for 30 seconds \n Both cavalry and infantry gain bonus damage against machines for the duration \nLeft click to activate"
+"Requiert le niveau 3 \n Modifier Type: Sort \n Les cavaleries à proximité gagnent +15% de vitesse tandis que l'infanterie à proximité gagne +15% d'armure pendant 30 secondes \n Les cavaleries et l'infanterie infligent des dégâts bonus aux machines pendant la durée \n Cliquez gauche pour activer"
 END
 
 CONTROLBAR:ElfhelmPromotion
@@ -73654,25 +73653,24 @@ CONTROLBAR:ElfhelmPromotion
 END
 
 CONTROLBAR:ToolTipElfhelmPromotion
-"Requires Level 5 \n Select a target battalion to upgrade it, permanently granting it +25% damage \n Cannot be used on Helmingas Warriors \n Left click on icon then left click on target battalion"
+"Requiert le niveau 5 \n Sélectionnez un bataillon cible pour l'améliorer, lui accordant de manière permanente +25% de dégâts \n Ne peut pas être utilisé sur les guerriers de Helmingas \n Cliquez gauche sur l'icône puis cliquez gauche sur le bataillon cible"
 END
 
 CONTROLBAR:ElfhelmLeadership
-"Marshall of the East-mark"
+"Maréchal de la Marche-Est"
 END
 
 CONTROLBAR:ToolTipElfhelmLeadership
-"Requires Level 9 \n Modifier Type: Leadership \n Halifirien Wardens, Yeoman Archers and Rohirrim Archers near Elfhelm gain +15% attack range and +33% damage\nRiders of Snowbourn near Elfhelm gain +33% armour\n Passive ability"
+"Requiert le niveau 9 \n Modifier Type: Leadership \n Les Gardiens de Halifirien, les Archers Yeomen et les Archers Rohirrim près d'Elfhelm gagnent +15% de portée d'attaque et +33% de dégâts\nLes Cavaliers de Snowbourn près d'Elfhelm gagnent +33% d'armure\n Capacité passive"
 END
 
 CONTROLBAR:MerryLeadership
-"Esquire of Rohan"
+"Écuyer du Rohan"
 END
 
 CONTROLBAR:ToolTipMerryLeadership
-"Requires Level 5 \n Modifier Type: Leadership \n Merry gains +25% armour and +25% damage when near Éowyn \n Nearby heroes gain experience +50% faster \n Merry's health is increased \n Passive ability"
+"Requiert le niveau 5 \n Modifier Type: Leadership \n Merry gagne +25% d'armure et +25% de dégâts lorsqu'il est près d'Éowyn \n Les héros à proximité gagnent de l'expérience 50% plus rapidement \n La santé de Merry est augmentée \n Capacité passive"
 END
-
 
 CONTROLBAR:FellowshipAthelasElladan
 "Athelas"
@@ -73683,185 +73681,184 @@ CONTROLBAR:FellowshipAthelas
 END
 
 CONTROLBAR:TooltipFellowshipAthelas
-"Heals nearby friendly Heroes \n Left click to activate"
+"Soigne les héros alliés à proximité \n Cliquez gauche pour activer"
 END
 
 OBJECT:RohanPukelStatue
-"Púkel-man Statue"
+"Statue d'homme de Púkel"
 END
 
 OBJECT:RohanPukelStatueDescription
-"A Púkel-man statue harboring strange magic \n\n Nearby enemies lose all leaderships and suffer -25% damage, and -25% crush armour"
+"Une statue d'homme de Púkel renfermant une étrange magie \n\n Les ennemis à proximité perdent tout leadership et subissent -25% de dégâts et -25% d'armure contre les écrasements"
 END
 
 CONTROLBAR:PukelMoveUnseen
-"Secret Paths (&W)"
+"Chemins Secrets (&W)"
 END
 
 CONTROLBAR:ToolTipPukelMoveUnseen
-"The Drúedain know of paths that others have long forgotten \n Allows all targeted allies to become stealthed for 30 seconds \n Left click icon then left click on target units"
+"Les Drúedains connaissent des chemins que d'autres ont depuis longtemps oubliés \n Permet à tous les alliés ciblés de devenir invisibles pendant 30 secondes \n Cliquez gauche sur l'icône puis cliquez gauche sur les unités cibles"
 END
 
 CONTROLBAR:PukelStoneSkin
-"Stone-Skin (&E)"
+"Peau de Pierre (&E)"
 END
 
 CONTROLBAR:ToolTipPukelStoneSkin
-"The Púkel-men statues were said to harbor benign spirits, capable of shielding friends and warding off foes \n Units within the radius are frozen and cannot attack or be attacked for 15 seconds \n Left click icon then left click on target units"
+"Les statues d'homme de Púkel abritaient des esprits bienveillants, capables de protéger les amis et de repousser les ennemis \n Les unités dans le rayon sont figées et ne peuvent ni attaquer ni être attaquées pendant 15 secondes \n Cliquez gauche sur l'icône puis cliquez gauche sur les unités cibles"
 END
 
 CONTROLBAR:PukelFaithfulStone
-"Faithful Stone (&R)"
+"Stèle Fidèle (&R)"
 END
 
 CONTROLBAR:ToolTipPukelFaithfulStone
-"A long-forgotten tale tells of a faithful stone guardian coming alive to guard the house of a friend \n Target allied structure is defended by three mysterious Drúedain Warriors for 60 seconds \n Left click icon then left click on target building"
+"Une histoire oubliée raconte qu'une pierre gardienne fidèle prend vie pour protéger la demeure d'un ami \n La structure alliée ciblée est défendue par trois mystérieux Guerriers Drúedains pendant 60 secondes \n Cliquez gauche sur l'icône puis cliquez gauche sur le bâtiment cible"
 END
 
 OBJECT:DruedainWarrior
-"Drúedain Warrior"
+"Guerrier Drúedain"
 END
 
 CONTROLBAR:ConstructRohanBatteringRam
-//"Horse-head &Ram"
-"Horse-head Ram (&W)"
+"Bélier à Tête de Cheval (&W)"
 END
 
 OBJECT:RohanBatteringRam
-"Horse-Head Ram"
+"Bélier à Tête de Cheval"
 END
 
 CONTROLBAR:ToolTipBuildRohanBatteringRam
-"Breaks down castle gates and enemy structures \n \n The Rohirrim associated horses with strength and nobility. No wonder then that they preferred to adorn their battering rams with iron-wrought horse-heads, to bring down an enemy's gate with noble fury."
+"Détruit les portes de châteaux et les structures ennemies \n \n Les Rohirrim associaient les chevaux à la force et à la noblesse. Il n'est donc pas étonnant qu'ils préféraient orner leurs béliers de têtes de cheval en fer, pour abattre les portes de l'ennemi avec une fureur noble."
 END
 
 CONTROLBAR:ConstructRohanMangonel
-"Rohirric Onager (&E)"
+"Onagre Rohirric (&E)"
 END
 
 CONTROLBAR:ConstructRohanMangonelWotR
-"Rohirric Onager (&W)"
+"Onagre Rohirric (&W)"
 END
 
 OBJECT:RohanMangonel
-"Rohirric Onager"
+"Onagre Rohirique"
 END
 
 CONTROLBAR:SpecialAbilityHayBale
-"Launch Hay Bale (&T)"
+"Lancer de Botte de Foin (&T)"
 END
 
 CONTROLBAR:TooltipSpecialAbilityHayBale
-"Launches a flaming hay bale at targeted area \n causes fire in the effected area"
+"Lance une botte de foin enflammée sur la zone ciblée \n provoque un incendie dans la zone affectée"
 END
 
 CONTROLBAR:ToolTipBuildRohanMangonel
-"Requires Level 2 Workshop \n Strong vs. Structures\nCan launch a bale of burning hay, setting fire to the area surrounding impact.\n \n Though not as advanced as their allies in Gondor, the Rohirrim were nonetheless capable of constructing powerful ranged siege weapons."
+"Requiert un Atelier de niveau 2 \n Efficace contre les structures\nPeut lancer une botte de foin enflammée, provoquant un incendie dans la zone d'impact.\n \n Bien que moins avancés que leurs alliés de Gondor, les Rohirrim étaient néanmoins capables de construire de puissantes machines de siège à distance."
 END
 
 CONTROLBAR:ToolTipBuildRohanMangonelWotR
-"Strong vs. Structures\nCan launch a bale of burning hay, setting fire to the area surrounding impact.\n \n Though not as advanced as their allies in Gondor, the Rohirrim were nonetheless capable of constructing powerful ranged siege weapons."
+"Efficace contre les structures\nPeut lancer une botte de foin enflammée, provoquant un incendie dans la zone d'impact.\n \n Bien que moins avancés que leurs alliés de Gondor, les Rohirrim étaient néanmoins capables de construire de puissantes machines de siège à distance."
 END
 
 CONTROLBAR:BowMastery
-"Bow Master&y"
+"Maîtrise de l'Arc"
 END
 
 CONTROLBAR:ToolTipBowMastery
-"Requires Level 2\nTemporarily allows the unit to fire while moving"
+"Requiert le niveau 2\nPermet temporairement à l'unité de tirer en se déplaçant"
 END
 
 CONTROLBAR:ImladrisDunedainGarrison
-"Dúnedain Sentries (&T)"
+"Sentinelles Dúnedain (&T)"
 END
 
 CONTROLBAR:ImladrisDunedainGarrison_GC
-"Dúnedain Sentries (&E)"
+"Sentinelles Dúnedain (&E)"
 END
 
 CONTROLBAR:ToolTipImladrisDunedainGarrison
-"Stations permanent Dúnedain sentries inside the tower. \n Left click to purchase"
+"Stationne des sentinelles Dúnedain permanentes à l'intérieur de la tour. \n Cliquez gauche pour acheter"
 END
 
 CONTROLBAR:ToolTipBuildImladrisBatteringRam
-"Requires Level 2 Encampment \nBreaks down castle gates and enemy structures \n \n A battering ram is a basic tool for siege warfare. Easy to make, and simple in use. Straight-forward, like the Men of Bree."
+"Requiert un campement de niveau 2 \nDétruit les portes de châteaux et les structures ennemies \n \n Un bélier est un outil de base pour la guerre de siège. Facile à fabriquer et simple à utiliser. Simple, comme les Hommes de Bree."
 END
 
 CONTROLBAR:ConstructRohanHelmingasWardenHorde
-"Helmingas Warriors (&T)"
+"Guerriers Helmingas (&T)"
 END
 
 CONTROLBAR:ToolTipBuildRohanHelmingasWardenHorde
-"Requires Level 3 Barracks \n and the Horns of Hammerhand upgrade\n Hero Unit. \nStrong vs. Infantry and Structures\n Able to switch between mounted and on foot \n \n Helm's Deep was home to a garrison of veteran warriors. Keeping alive the image of Helm Hammerhand's martial prowess, they kept Rohan's primary refuge open and guarded against surprise assaults."
+"Requiert une caserne de niveau 3 \n et l'amélioration des Cornes de Hammerhand\n Unité héroïque \nEfficace contre l'infanterie et les structures\n Peut passer de la monture à pied \n \n Le Gouffre de Helm abritait une garnison de guerriers vétérans. Perpétuant l'image de la vaillance martiale de Helm Marteau-de-Fer, ils maintenaient l'ouverture du principal refuge de Rohan et le protégeaient contre les attaques surprises."
 END
 
 OBJECT:HordeRohanHelmingasWarden
-"Helmingas Warriors"
+"Guerriers Helmingas"
 END
 
 OBJECT:RohanHelmingasWarden
-"Helmingas Warriors"
+"Guerriers Helmingas"
 END
 
 CONTROLBAR:GreyCompanyGrimResolve
-"Grim Resolve"
+"Résolution Sombre"
 END
 
 CONTROLBAR:ToolTipGreyCompanyGrimResolve
-"Nearby enemies lose 10% armour and damage and have reduced fear resistance\nEach time a member of the Grey Company falls, the other members of the battalion gain +10% damage and armour boost for 3 seconds\nDoes not stack with itself\nPassive power"
+"Les ennemis à proximité perdent 10% d'armure et de dégâts et ont une résistance réduite à la peur\nÀ chaque fois qu'un membre de la Compagnie Grise tombe, les autres membres du bataillon gagnent un bonus de +10% de dégâts et d'armure pendant 3 secondes\nNe se cumule pas avec lui-même\nPouvoir passif"
 END
 
 CONTROLBAR:GreyCompanySilentDefenders
-"Silent Defenders (&T)"
+"Défenseurs Silencieux (&T)"
 END
 
 CONTROLBAR:ToolTipGreyCompanySilentDefenders
-"Requires Level 3\nAragorn, Halbarad and the Sons of Elrond passively gain +25% damage when around the Grey Company\n\n When activated, nearby Hobbits, Bree-landers and Hobbit heroes recruited from the Encampment gain +25% armour while Dúnedain units gain +25% damage for 30 seconds"
+"Requiert le niveau 3\nAragorn, Halbarad et les Fils d'Elrond gagnent passivement +25% de dégâts en présence de la Compagnie Grise\n\nLorsqu'il est activé, les Hobbits, les Habitants de Bree et les héros Hobbits recrutés depuis le campement à proximité gagnent +25% d'armure tandis que les unités Dúnedain gagnent +25% de dégâts pendant 30 secondes"
 END
 
 CONTROLBAR:GreyCompanyHunt
-"Skilled Hunters (&C)"
+"Chasseurs Habiles (&C)"
 END
 
 CONTROLBAR:ToolTipGreyCompanyHunt
-"Requires Level 5\n For 30 seconds, a target unit or hero is marked by the Grey Company\nThe target shares vision with the player, loses -40% speed and takes 50% more damage from Grey Company and Dúnedain attack\n Left click then left click on target"
+"Requiert le niveau 5\n Pendant 30 secondes, une unité ou un héros cible est marqué par la Compagnie Grise\nLa cible partage la vision du joueur, perd -40% de vitesse et subit 50% de dégâts supplémentaires des attaques de la Compagnie Grise et des Dúnedain\n Cliquez gauche puis cliquez gauche sur la cible"
 END
 
 CONTROLBAR:ArwenEvenstarCampaign
-"Light of the Evenstar (&T)"
+"Lumière de l'Étoile du Soir (&T)"
 END
 
 CONTROLBAR:ToolTipArwenEvenstarCampaign
-"Allied units within the radius are healed and gain +33% damage for 60 seconds\n Left click icon then left click on target"
+"Les unités alliées dans le rayon sont soignées et gagnent +33% de dégâts pendant 60 secondes\n Cliquez sur l'icône puis cliquez gauche sur la cible"
 END
 
 CONTROLBAR:DancingHobbits
-"Unexpected Party"
+"Fête Inattendue"
 END
 
 CONTROLBAR:ToolTipDancingHobbits
-"\nHo! Ho! Ho! To the bottle I go\nTo heal my heart and drown my woe\nRain may fall and wind may blow\nAnd many miles be still to go\nBut under a tall tree I will lie\nAnd let the clouds go sailing by"
+"\nHo ! Ho ! Ho ! Vers la bouteille je vais\nPour guérir mon cœur et noyer ma peine\nLa pluie peut tomber et le vent souffler\nEt de nombreux kilomètres restent à parcourir\nMais sous un grand arbre je me coucherai\nEt laisserai les nuages voguer"
 END
 
 CONTROLBAR:FattyBolgerSpeed
-"Run, Fatty, Run! (&W)"
+"Cours, Le Gros, Cours ! (&W)"
 END
 
 CONTROLBAR:TooltipFattyBolgerSpeed
-"Modifier Type: Buff \n Fatty Bolger gains +30% speed for 15 seconds\n Left click to activate"
+"Type de modification : Buff \n Fatty Bolger gagne +30% de vitesse pendant 15 secondes\n Cliquez gauche pour activer"
 END
 
 OBJECT:DwarvenBofur
 "Bofur"
 END
 CONTROLBAR:ToolTipBuildBofur
-"Recruit a fellow companion of Thorin's company"
+"Recruter un compagnon de la compagnie de Thorin"
 END
 CONTROLBAR:DwarvenBofurRecruit
-"Recruit a fellow companion of Thorin's company"
+"Recruter un compagnon de la compagnie de Thorin"
 END
 CONTROLBAR:DwarvenBofurRevive
-"Revive the fallen companion, Bofur"
+"Ressusciter le compagnon décédé, Bofur"
 END
 CONTROLBAR:DwarvenBofurHotkey
 "&Bofur"
@@ -73872,13 +73869,13 @@ OBJECT:DwarvenBifur
 "Bifur"
 END
 CONTROLBAR:ToolTipBuildBifur
-"Recruit a fellow companion of Thorin's company"
+"Recruter un compagnon de la compagnie de Thorin"
 END
 CONTROLBAR:DwarvenBifurRecruit
-"Recruit a fellow companion of Thorin's company"
+"Recruter un compagnon de la compagnie de Thorin"
 END
 CONTROLBAR:DwarvenBifurRevive
-"Revive the fallen companion, Bifur"
+"Ressusciter le compagnon décédé, Bifur"
 END
 CONTROLBAR:DwarvenBifurHotkey
 "&Bifur"
@@ -73888,128 +73885,128 @@ OBJECT:DwarvenOin
 "Óin"
 END
 CONTROLBAR:ToolTipBuildOin
-"Recruit a fellow companion of Thorin's company"
+"Recruter un compagnon de la compagnie de Thorin"
 END
 CONTROLBAR:DwarvenOinRecruit
-"Recruit a fellow companion of Thorin's company"
+"Recruter un compagnon de la compagnie de Thorin"
 END
 CONTROLBAR:DwarvenOinRevive
-"Revive the fallen companion, Óin"
+"Ressusciter le compagnon décédé, Óin"
 END
 CONTROLBAR:DwarvenOinHotkey
 "Óin"
 END
 
 CONTROLBAR:ForlongLeadership
-"Lord of Lossarnach"
+"Seigneur de Lossarnach"
 END
 
 CONTROLBAR:TooltipForlongLeadership
-"Modifier Type: Leadership \n Fiefdom troops near Forlong earn experience 33% faster \n and become immune to Fear \nPassive ability"
+"Type de modification : Leadership \n Les troupes de la Principauté près de Forlong gagnent de l'expérience 33% plus rapidement \n et deviennent immunisées contre la Peur \n Capacité passive"
 END
 
 CONTROLBAR:ForlongVitality
-"Vitality (&R)"
+"Vitalité (&R)"
 END
 
 CONTROLBAR:TooltipForlongVitality
-"Requires Level 3 \n Forlong deals knockback and gains\n+50% damage and +25% speed for 30 seconds\n Left click to activate"
+"Requiert le niveau 3 \n Forlong repousse les ennemis et bénéficie de\n+50% de dégâts et de +25% de vitesse pendant 30 secondes\n Cliquez gauche pour activer"
 END
 
 CONTROLBAR:ForlongTrueHeartTrueFriend
-"True Heart, True Friend (&T)"
+"Vrai Cœur, Vrai Ami (&T)"
 END
 
 CONTROLBAR:ToolTipForlongTrueHeartTrueFriend
-"Requires Level 7 \n Modifier Type: Spell \n Forlong empowers a friendly hero, granting them 50% armour, 50% faster experience gain, and 75% faster power recharge times for 30 seconds\nLeft click icon then left click on target hero"
+"Requiert le niveau 7 \n Type de modification : Sort \n Forlong renforce un héros allié, lui accordant 50% d'armure, 50% de gain d'expérience plus rapide et des temps de recharge de pouvoir 75% plus rapides pendant 30 secondes\nCliquez sur l'icône, puis cliquez sur le héros cible"
 END
 
 UPGRADE:DreadHelmet
-"Dread Helmet"
+"Casque de terreur"
 END
 
 TOOLTIP:DreadHelmet
-"Dread Helmet"
+"Casque de terreur"
 END
 
 CONTROLBAR:PurchaseUpgradeDreadHelmet
-"Purchase Dread Helmet (&R)"
+"Acheter le Casque de terreur (&R)"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeDreadHelmet
-"Upgrades this troll with a Dread Helmet \n Significantly increases armour and scares enemy units \n Decreases Stone-troll's speed by 10%"
+"Améliore ce troll avec un Casque de terreur \n Augmente significativement l'armure et effraie les unités ennemies \n Diminue la vitesse du Troll de pierre de 10%"
 END
 
 UPGRADE:SerratedArmor
-"Serrated Armour"
+"Armure dentelée"
 END
 
 TOOLTIP:SerratedArmor
-"Serrated Armour"
+"Armure dentelée"
 END
 
 CONTROLBAR:PurchaseUpgradeSerratedArmor
-"Purchase Serrated Armour (&T)"
+"Acheter une armure dentelée (&T)"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeSerratedArmor
-"Upgrades this troll with Serrated Armour \n Significantly increases troll's hitpoints and decreases crush deceleration \n Decreases Stone-troll's speed by 10%"
+"Améliore ce troll avec une armure dentelée \n Augmente considérablement les points de vie du troll et réduit la décélération des écrasements \n Diminue la vitesse du Troll de pierre de 10%"
 END
 
 UPGRADE:ScytheGauntlets
-"Scythe Gauntlets"
+"Gantelets à faux"
 END
 
 TOOLTIP:ScytheGauntlets
-"Scythe Gauntlets"
+"Gantelets à faux"
 END
 
 CONTROLBAR:PurchaseUpgradeScytheGauntlets
-"Purchase Scythe Gauntlets (&C)"
+"Acheter des gantelets à faux (&C)"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeScytheGauntlets
-"Upgrades this Stone-troll with Scythe Gauntlets \n Significantly increases attack power and splash damage \n Decreases Stone-troll's speed by 10%"
+"Améliore ce Troll de pierre avec des gantelets à faux \n Augmente considérablement la puissance d'attaque et les dégâts de zone \n Diminue la vitesse du Troll de pierre de 10%"
 END
 
 CONTROLBAR:LW_Unit_HobbitShirrifsHorde
-"Bounder Battalion"
+"Bataillon de Garde-frontières"
 END
 
 CONTROLBAR:LW_Unit_HobbitShirrifsHordePlural
-"Bounder Battalions"
+"Bataillons de Garde-frontières"
 END
 
 CONTROLBAR:LW_ToolTipBuild_HobbitShirrifsHorde
-"Unit Type: Basic Infantry\nStrong vs. Pikemen\n"
+"Type d'unité : Infanterie de base\nFort contre les piquiers\n"
 END
 
 CONTROLBAR:LW_ToolTip_HobbitShirrifsHorde
-"\nUnit Type: Basic Infantry\nStrong vs. Pikemen"
+"\nType d'unité : Infanterie de base\nFort contre les piquiers"
 END
 
 BANNERUI:HobbitBounder
-"Bounder"
+"Garde-frontières"
 END
 
 BANNERUI:HobbitBounders
-"Bounders"
+"Garde-frontières"
 END
 
 CONTROLBAR:LW_Unit_RivendellRevelerHorde
-"Quentaroli Battalion"
+"Bataillon des Réjouissants de Fondcombe"
 END
 
 CONTROLBAR:LW_Unit_RivendellRevelerHordePlural
-"Quentaroli Battalions"
+"Bataillons des Réjouissants de Fondcombe"
 END
 
 CONTROLBAR:LW_ToolTip_RivendellRevelerHorde
-"Rivendell Revelers \nUnit Type: Support Unit\nStrong vs. Structures\n"
+"Réjouissants de Fondcombe \nType d'unité : Unité de soutien\nFort contre les structures\n"
 END
 
 CONTROLBAR:LW_ToolTipBuild_RivendellRevelerHorde
-"Rivendell Revelers \nUnit Type: Support Unit\nStrong vs. Structures\n"
+"Réjouissants de Fondcombe \nType d'unité : Unité de soutien\nFort contre les structures\n"
 END
 
 BANNERUI:Reveler
@@ -74021,175 +74018,175 @@ BANNERUI:Revelers
 END
 
 CONTROLBAR:LW_Unit_TookArcherHorde
-"Took Archer Battalion"
+"Bataillon d'Archers Touque"
 END
 
 CONTROLBAR:LW_Unit_TookArcherHordePlural
-"Took Archer Battalions"
+"Bataillons d'Archers Touque"
 END
 
 CONTROLBAR:LW_ToolTipBuild_TookArcherHorde
-"Unit Type: Basic Archer\nStrong vs. Infantry\n"
+"Type d'unité : Archer de base\nFort contre l'infanterie\n"
 END
 
 CONTROLBAR:LW_ToolTip_TookArcherHorde
-"\nUnit Type: Basic Archer\nStrong vs. Infantry"
+"\nType d'unité : Archer de base\nFort contre l'infanterie"
 END
 
 BANNERUI:TookArcher
-"Took Archer"
+"Archer Touque"
 END
 
 BANNERUI:TookArchers
-"Took Archers"
+"Archers Touque"
 END
 
 CONTROLBAR:LW_Unit_BreelandGuardHorde
-"Bree-land Townsguard Battalion"
+"Bataillon de Gardes de la Ville de Bree-land"
 END
 
 CONTROLBAR:LW_Unit_BreelandGuardHordePlural
-"Bree-land Townsguard Battalions"
+"Bataillons de Gardes de la Ville de Bree-land"
 END
 
 CONTROLBAR:LW_ToolTipBuild_BreelandGuardHorde
-"Unit Type: Basic Pikemen\nStrong vs. Cavalry\n"
+"Type d'unité : Piquier de base\nFort contre la cavalerie\n"
 END
 
 CONTROLBAR:LW_ToolTip_BreelandGuardHorde
-"\nUnit Type: Basic Pikemen\nStrong vs. Cavalry"
+"\nType d'unité : Piquier de base\nFort contre la cavalerie"
 END
 
 BANNERUI:BreelandGuard
-"Bree-land Townsguard"
+"Garde de la Ville de Bree"
 END
 
 BANNERUI:BreelandGuards
-"Bree-land Townsguards"
+"Gardes de la Ville de Bree"
 END
 
 CONTROLBAR:LW_Unit_ArnorRangerHorde
-"Rangers of the North Battalion"
+"Bataillon des Rôdeurs du Nord"
 END
 
 CONTROLBAR:LW_Unit_ArnorRangerHordePlural
-"Rangers of the North Battalions"
+"Bataillons des Rôdeurs du Nord"
 END
 
 CONTROLBAR:LW_ToolTipBuild_ArnorRangerHorde
-"Unit Type: Elite Archer\nStrong vs. Infantry\nCan toggle weapon\n"
+"Type d'unité : Archer d'élite\nFort contre l'infanterie\nPeut basculer entre les armes\n"
 END
 
 CONTROLBAR:LW_ToolTip_ArnorRangerHorde
-"\nUnit Type: Elite Archer\nStrong vs. Infantry\nCan toggle weapon"
+"\nType d'unité : Archer d'élite\nFort contre l'infanterie\nPeut basculer entre les armes"
 END
 
 BANNERUI:RivendellRanger
-"Ranger"
+"Rôdeur"
 END
 
 BANNERUI:RivendellRangers
-"Rangers of the North"
+"Rôdeurs du Nord"
 END
 
 CONTROLBAR:LW_Unit_ArnorRangerHorde
-"Rangers of the North Battalion"
+"Bataillon des Rôdeurs du Nord"
 END
 
 CONTROLBAR:LW_Unit_ArnorRangerHordePlural
-"Rangers of the North Battalions"
+"Bataillons des Rôdeurs du Nord"
 END
 
 CONTROLBAR:LW_ToolTipBuild_ArnorRangerHorde
-"Unit Type: Elite Archer\nStrong vs. Infantry\nCan toggle weapon\n"
+"Type d'unité : Archer d'élite\nFort contre l'infanterie\nPeut basculer entre les armes\n"
 END
 
 CONTROLBAR:LW_ToolTip_ArnorRangerHorde
-"\nUnit Type: Elite Archer\nStrong vs. Infantry\nCan toggle weapon"
+"\nType d'unité : Archer d'élite\nFort contre l'infanterie\nPeut basculer entre les armes"
 END
 
 BANNERUI:RivendellRanger
-"Ranger"
+"Rôdeur"
 END
 
 BANNERUI:RivendellRangers
-"Rangers of the North"
+"Rôdeurs du Nord"
 END
 
 CONTROLBAR:LW_Unit_DunedainOutriderHorde
-"Dúnedain Outrider Battalion"
+"Bataillon des Cavaliers Dúnedain"
 END
 
 CONTROLBAR:LW_Unit_DunedainOutriderHordePlural
-"Dúnedain Outrider Battalions"
+"Bataillons des Cavaliers Dúnedain"
 END
 
 CONTROLBAR:LW_ToolTipBuild_DunedainOutriderHorde
-"Unit Type: Basic Cavalry\nStrong vs. Infantry\n"
+"Type d'unité : Cavalerie de base\nFort contre l'infanterie\n"
 END
 
 CONTROLBAR:LW_ToolTip_DunedainOutriderHorde
-"\nUnit Type: Basic Cavalry\nStrong vs. Infantry"
+"\nType d'unité : Cavalerie de base\nFort contre l'infanterie"
 END
 
 BANNERUI:RivendellOutrider
-"Dúnedain Outrider"
+"Cavalier Dúnedain"
 END
 
 BANNERUI:RivendellOutriders
-"Dúnedain Outriders"
+"Cavaliers Dúnedain"
 END
 
 CONTROLBAR:LW_Unit_GreyCompanyHorde
-"Grey Company"
+"Compagnie Grise"
 END
 
 CONTROLBAR:LW_Unit_GreyCompanyHordePlural
-"Grey Company"
+"Compagnie Grise"
 END
 
 CONTROLBAR:LW_ToolTipBuild_GreyCompanyHorde
-"Unit Type: Hero Unit\nStrong vs. All\n"
+"Type d'unité : Unité héroïque\nFort contre tous\n"
 END
 
 CONTROLBAR:LW_ToolTip_GreyCompanyHorde
-"\nUnit Type: Hero Unit\nStrong vs. All"
+"\nType d'unité : Unité héroïque\nFort contre tous"
 END
 
 CONTROLBAR:LW_ToolTip_GreyCompanyHorde_WOTR
-"10 Dúnedain\n\nUnit Type: Hero Unit\nStrong vs. All"
+"10 Dúnedain\n\nType d'unité : Unité héroïque\nFort contre tous"
 END
 
 BANNERUI:GreyCompanyMember
-"Grey Company Member"
+"Membre de la Compagnie Grise"
 END
 
 BANNERUI:GreyCompanyMembers
-"Grey Company Members"
+"Membres de la Compagnie Grise"
 END
 
 CONTROLBAR:LW_Unit_RivendellGlaivemenHorde
-"Ehtyari Battalion"
+"Bataillon des Lanciers de Fondcombe"
 END
 
 CONTROLBAR:LW_Unit_RivendellGlaivemenHordePlural
-"Ehtyari Battalions"
+"Bataillons des Lanciers de Fondcombe"
 END
 
 CONTROLBAR:LW_Unit_RivendellGlaivemenComboHorde
-"Ehtyari Combo Battalion"
+"Bataillon Combo des Lanciers de Fondcombe"
 END
 
 CONTROLBAR:LW_Unit_RivendellGlaivemenComboHordePlural
-"Ehtyari Combo Battalions"
+"Bataillons Combo des Lanciers de Fondcombe"
 END
 
 CONTROLBAR:LW_ToolTipBuild_RivendellGlaivemenHorde
-"Rivendell Glaivesmen \n Unit Type: Elite Pikemen\nStrong vs. Cavalry\n"
+"Lanciers de Fondcombe\n Type d'unité : Piquier d'élite\nFort contre la cavalerie\n"
 END
 
 CONTROLBAR:LW_ToolTip_RivendellGlaivemenHorde
-"Rivendell Glaivesmen \n Unit Type: Elite Pikemen\nStrong vs. Cavalry"
+"Lanciers de Fondcombe \n Type d'unité : Piquier d'élite\nFort contre la cavalerie"
 END
 
 BANNERUI:RivendellGlaiveman
@@ -74201,63 +74198,63 @@ BANNERUI:RivendellGlaivemen
 END
 
 CONTROLBAR:LW_Unit_RivendellSwordmenHorde
-"Macari Battalion"
+"Bataillon des Épéistes de Fondcombe"
 END
 
 CONTROLBAR:LW_Unit_RivendellSwordmenHordePlural
-"Macari Battalions"
+"Bataillons des Épéistes de Fondcombe"
 END
 
 CONTROLBAR:LW_Unit_RivendellSwordmenDoubleHorde
-"Macari Combo Battalion"
+"Bataillon Combo des Épéistes de Fondcombe"
 END
 
 CONTROLBAR:LW_Unit_RivendellSwordmenGlaivemenHorde
-"Macari - Ehtyari Battalion"
+"Bataillon des Épéistes de Fondcombe - Lanciers de Fondcombe"
 END
 
 CONTROLBAR:LW_Unit_RivendellSwordmenGlaivemenHordePlural
-"Macari - Ehtyari Battalions"
+"Bataillons des Épéistes de Fondcombe - Lanciers de Fondcombe"
 END
 
 CONTROLBAR:LW_Unit_RivendellSwordmenArcherHorde
-"Macari - Quingar Battalion"
+"Bataillon des Épéistes de Fondcombe - Archers de Fondcombe"
 END
 
 CONTROLBAR:LW_Unit_RivendellSwordmenArcherHordePlural
-"Macari - Quingar Battalions"
+"Bataillons des Épéistes de Fondcombe - Archers de Fondcombe"
 END
 
 CONTROLBAR:LW_ToolTip_RivendellSwordmenArcherHorde
-"\nUnit Type: Elite Infantry and Elite Archer\nStrong vs. Archers & Infantry"
+"\nType d'unité : Infanterie d'élite et Archer d'élite\nFort contre les archers et l'infanterie"
 END
 
 CONTROLBAR:LW_ToolTip_RivendellSwordmenGlaivemenHorde
-"\nUnit Type: Elite Infantry and Elite Pikemen\nStrong vs. Archers & Cavalry"
+"\nType d'unité : Infanterie d'élite et Piquier d'élite\nFort contre les archers et la cavalerie"
 END
 
 CONTROLBAR:LW_Unit_RivendellSwordmenDoubleHordePlural
-"Macari Combo Battalions"
+"Bataillons Combo des Épéistes de Fondcombe"
 END
 
 CONTROLBAR:LW_Unit_RivendellGlaivemenArcherHorde
-"Ehtyari - Quingar Battalion"
+"Bataillon des Lanciers de Fondcombe - Archers de Fondcombe"
 END
 
 CONTROLBAR:LW_Unit_RivendellGlaivemenArcherHordePlural
-"Ehtyari - Quingar Battalions"
+"Bataillons des Lanciers de Fondcombe - Archers de Fondcombe"
 END
 
 CONTROLBAR:LW_ToolTip_RivendellGlaivemenArcherHorde
-"\nUnit Type: Elite Pikemen and Elite Pikemen\nStrong vs. Infantry & Cavalry"
+"\nType d'unité : Piquier d'élite et Archer d'élite\nFort contre l'infanterie et la cavalerie"
 END
 
 CONTROLBAR:LW_ToolTipBuild_RivendellSwordmenHorde
-"Rivendell Guardsmen \n Unit Type: Elite Infantry\nStrong vs. Pikemen\n"
+"Gardes de Fondcombe \n Type d'unité : Infanterie d'élite\nFort contre les piquiers\n"
 END
 
 CONTROLBAR:LW_ToolTip_RivendellSwordmenHorde
-"\nUnit Type: Elite Infantry\nStrong vs. Pikemen"
+"\nType d'unité : Infanterie d'élite\nFort contre les piquiers"
 END
 
 BANNERUI:RivendellSwordman
@@ -74269,27 +74266,27 @@ BANNERUI:RivendellSwordmen
 END
 
 CONTROLBAR:LW_Unit_RivendellArcherHorde
-"Quingar Battalion"
+"Bataillon des Archers de Fondcombe"
 END
 
 CONTROLBAR:LW_Unit_RivendellArcherHordePlural
-"Quingar Battalions"
+"Bataillons des Archers de Fondcombe"
 END
 
 CONTROLBAR:LW_Unit_RivendellArcherComboHorde
-"Quingar Combo Battalion"
+"Bataillon Combo des Archers de Fondcombe"
 END
 
 CONTROLBAR:LW_Unit_RivendellArcherComboHordePlural
-"Quingar Combo Battalions"
+"Bataillons Combo des Archers de Fondcombe"
 END
 
 CONTROLBAR:LW_ToolTipBuild_RivendellArcherHorde
-"Rivendell Archers \n Unit Type: Elite Archer\nStrong vs. Infantry\n"
+"Archers de Fondcombe \nType d'unité : Archer d'élite\nEfficace contre l'infanterie\n"
 END
 
 CONTROLBAR:LW_ToolTip_RivendellArcherHorde
-"Rivendell Archers \nUnit Type: Elite Archer\nStrong vs. Infantry"
+"Archers de Fondcombe \nType d'unité : Archer d'élite\nEfficace contre l'infanterie"
 END
 
 BANNERUI:RivendellArcher
@@ -74301,19 +74298,19 @@ BANNERUI:RivendellArchers
 END
 
 CONTROLBAR:LW_Unit_RivendellKnightHorde
-"Roquentari Battalion"
+"Bataillon des Chevaliers de Fondcombe"
 END
 
 CONTROLBAR:LW_Unit_RivendellKnightHordePlural
-"Roquentari Battalions"
+"Bataillons des Chevaliers de Fondcombe"
 END
 
 CONTROLBAR:LW_ToolTipBuild_RivendellKnightHorde
-"Knights of Rivendell \n Unit Type: Elite Cavalry\nStrong vs. Infantry\n"
+"Chevaliers de Fondcombe \nType d'unité : Cavalerie d'élite\nEfficace contre l'infanterie\n"
 END
 
 CONTROLBAR:LW_ToolTip_RivendellKnightHorde
-"Knights of Rivendell \n Unit Type: Elite Cavalry\nStrong vs. Infantry"
+"Chevaliers de Fondcombe \nType d'unité : Cavalerie d'élite\nEfficace contre l'infanterie"
 END
 
 BANNERUI:RivendellKnight
@@ -74325,23 +74322,23 @@ BANNERUI:RivendellKnights
 END
 
 CONTROLBAR:LW_Unit_NoldorVeteransHorde
-"Laurëthelyn Battalion"
+"Bataillon des Vétérans de Noldor"
 END
 
 CONTROLBAR:LW_Unit_NoldorVeteransHordePlural
-"Laurëthelyn Battalions"
+"Bataillons des Vétérans de Noldor"
 END
 
 CONTROLBAR:LW_ToolTip_NoldorVeteransHorde
-"Veterans of the Last Alliance\nUnit Type: Hero Unit\nStrong vs. All"
+"Vétérans de la Dernière Alliance\nType d'unité : Unité héroïque\nEfficace contre tous"
 END
 
 CONTROLBAR:LW_ToolTip_NoldorVeteransHorde_WOTR
-"6 Veterans of the Last Alliance\n\nUnit Type: Hero Unit\nStrong vs. All"
+"6 Vétérans de la Dernière Alliance\n\nType d'unité : Unité héroïque\nEfficace contre tous"
 END
 
 CONTROLBAR:LW_ToolTipBuild_NoldorVeteransHorde
-"Veterans of the Last Alliance \n Unit Type: Hero Unit\nStrong vs. All\n"
+"Vétérans de la Dernière Alliance \nType d'unité : Unité héroïque\nEfficace contre tous\n"
 END
 
 BANNERUI:NoldorVeteran
@@ -74353,131 +74350,131 @@ BANNERUI:NoldorVeterans
 END
 
 OBJECT:DurinDoors
-"The Doors of Durin"
+"Les Portes de Durin"
 END
 
 CONTROLBAR:RohanFarmProduction
-"Farm Production (&W)"
+"Production de Ferme (&W)"
 END
 
 CONTROLBAR:ToolTipRohanFarmProduction
-"Switch to resource production"
+"Passer à la production de ressources"
 END
 
 CONTROLBAR:RohanPeasantry
-"Peasantry of the Mark (&W)"
+"Paysannerie du Rohan (&W)"
 END
 
 CONTROLBAR:ToolTipRohanPeasantry
-"Switch to peasants recruitment"
+"Passer au recrutement de paysans"
 END
 
 CONTROLBAR:SpecialAbilityTheArkenstone
-"Dw&arven Reinforcements"
+"Renforts Nains"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityTheArkenstone
-"Requires the Arkenstone upgrade \n Permanently summons two battalions of Iron Hills Riders"
+"Requiert l'amélioration Arkenstone\nInvoque de façon permanente deux bataillons de Cavaliers des Monts de Fer"
 END
 
 CONTROLBAR:CarasGaladhonLeadership
-"Guardians of Caras Galadhon"
+"Gardiens de Caras Galadhon"
 END
 
 CONTROLBAR:TooltipCarasGaladhonLeadership
-"Modifier Type: Leadership \n The Sentinels gain +15% armour near structures \n and grant nearby structures +50% armour\n Passive ability"
+"Type de modification : Leadership\nLes Sentinelles bénéficient de +15 % d'armure près des structures\net accordent aux structures à proximité +50 % d'armure\nCapacité passive"
 END
 
 CONTROLBAR:PurchaseTunnelCollapse
-"Purchase Tunnel Collapse Upgrade (&W)"
+"Acheter l'amélioration Écroulement des tunnels (&W)"
 END
 
 CONTROLBAR:ToolTipPurchaseTunnelCollapse
-"Allows the Dwarven Mine to damage and stun nearby units for 15 seconds\n but reduces resource production by 50% for 60 seconds \n Left click to activate"
+"Permet à la Mine Naine de causer des dégâts et d'étourdir les unités à proximité pendant 15 secondes,\nmais réduit la production de ressources de 50 % pendant 60 secondes\nCliquez gauche pour activer"
 END
 
 CONTROLBAR:TunnelCollaspe
-"Tunnel Collapse (&W)"
+"Écroulement des tunnels (&W)"
 END
 
 CONTROLBAR:ToolTipTunnelCollaspe
-"Damages and stuns nearby units for 15 seconds\n but reduces resource production by 50% for 60 seconds"
+"Inflige des dégâts et étourdit les unités à proximité pendant 15 secondes,\nmais réduit la production de ressources de 50 % pendant 60 secondes"
 END
 
 UPGRADE:ToolTipTunnelCollapse
-"Tunnel Collapse Upgrade"
+"Amélioration Écroulement des tunnels"
 END
 
 CONTROLBAR:SongForVictory
-"Song of Finwë (&R)"
+"Chant de Finwë (&R)"
 END
 
 CONTROLBAR:ToolTipSongForVictoryGuards
-"The seasoned warriors sing a song of past victories\nRivendell Guardsmen gain +33% damage for 15 seconds\nLeft click to activate"
+"Les guerriers chevronnés entonnent un chant de victoires passées\nLes Gardes de Fondcombe bénéficient de +33 % de dégâts pendant 15 secondes\nCliquez gauche pour activer"
 END
 
 CONTROLBAR:ToolTipSongForVictoryInn
-"The seasoned warriors sing a song of past victories\nNoldor Knights gain +33% armour for 15 seconds\nLeft click to activate"
+"Les guerriers chevronnés entonnent un chant de victoires passées\nLes Chevaliers Noldor bénéficient de +33 % d'armure pendant 15 secondes\nCliquez gauche pour activer"
 END
 
 CONTROLBAR:ToolTipSongForVictoryGlaivesmen
-"The seasoned warriors sing a song of past victories\nRivendell Glaivesmen gain +33% armour for 15 seconds\nLeft click to activate"
+"Les guerriers chevronnés entonnent un chant de victoires passées\nLes Glaivemen de Fondcombe bénéficient de +33 % d'armure pendant 15 secondes\nCliquez gauche pour activer"
 END
 
 CONTROLBAR:ToolTipSongForVictoryArchers
-"The seasoned warriors sing a song of past victories\nRivendell Archers gain +20% attack range and vision for 15 seconds\nLeft click to activate"
+"Les guerriers chevronnés entonnent un chant de victoires passées\nLes Archers de Fondcombe bénéficient de +20 % de portée d'attaque et de vision pendant 15 secondes\nCliquez gauche pour activer"
 END
 
 CONTROLBAR:ToolTipSongForVictoryKnights
-"The seasoned warriors sing a song of past victories\nKnights of Rivendell gain -50% reduced trample deceleration for 15 seconds\nLeft click to activate"
+"Les guerriers chevronnés entonnent un chant de victoires passées\nLes Chevaliers de Fondcombe bénéficient de -50 % de décélération de piétinement réduite pendant 15 secondes\nCliquez gauche pour activer"
 END
 
 CONTROLBAR:EyesoftheCrow
-"Eyes of the Crow (&R)"
+"Yeux du Corbeau (&R)"
 END
 
 CONTROLBAR:ToolTipEyesoftheCrow
-"Requires Level 2 \n Longbowmen gain +25% range and +25% damage, at the cost of -25% movement speed for 20 seconds \n Left click to activate"
+"Requiert le Niveau 2\nLes Archers Longs bénéficient de +25 % de portée et de +25 % de dégâts, au prix d'une réduction de -25 % de la vitesse de déplacement pendant 20 secondes\nCliquez gauche pour activer"
 END
 
 CONTROLBAR:WildCharge
-"Wild Hunt (&W)"
+"Chasse Sauvage (&W)"
 END
 
 CONTROLBAR:ToolTipWildCharge
-"Requires Level 2 \n Outriders gain increased +15% speed and trample, at the cost of -25% armour for 20 seconds \n Left click to activate"
+"Requiert le Niveau 2\nLes Éclaireurs bénéficient de +15 % de vitesse et de piétinement accru, au prix d'une réduction de -25 % de l'armure pendant 20 secondes\nCliquez gauche pour activer"
 END
 
 CONTROLBAR:ThickSkull
-"Thick Skull (&W)"
+"Crâne Épais (&W)"
 END
 
 CONTROLBAR:ToolTipThickSkull
-"Requires Level 2\nFor 15 seconds, the Troll gains +100% damage against structures\nbut loses -50% armour \n Left click to activate"
+"Requiert le Niveau 2\nPendant 15 secondes, le Troll inflige +100 % de dégâts aux structures\nmais perd -50 % d'armure\nCliquez gauche pour activer"
 END
 
 OBJECT:WildLodge
-"Mountain-orc Lodge"
+"Lodge des Orques des Montagnes"
 END
 
 OBJECT:WildLodgeDescription
-"Level 2: +10% faster build speed \nLevel 3: +25% faster build speed"
+"Niveau 2 : Vitesse de construction +10 %\nNiveau 3 : Vitesse de construction +25 %"
 END
 
 CONTROLBAR:ConstructWildMountainLodgeLevel2Upgrade
-"&Upgrade Mountain-orc Lodge to Level 2"
+"&Améliorer le Lodge des Orques des Montagnes au Niveau 2"
 END
 
 CONTROLBAR:ToolTipBuildWildMountainLodgeLevel2Upgrade
-"+10% faster build speed"
+"+10 % de vitesse de construction"
 END
 
 CONTROLBAR:ConstructWildMountainLodgeLevel3Upgrade
-"&Upgrade Mountain-orc Lodge to Level 3"
+"&Améliorer le Lodge des Orques des Montagnes au Niveau 3"
 END
 
 CONTROLBAR:ToolTipBuildWildMountainLodgeLevel3Upgrade
-"Allows training of Bolg's Bodyguard \n+25% faster build speed"
+"Permet l'entraînement des Gardes rapprochés de Bolg. \n +25% Vitesse de Construction."
 END
 
 CONTROLBAR:AngmarCitadel
@@ -75009,19 +75006,19 @@ CONTROLBAR:FellDetermination
 END
 
 CONTROLBAR:ToolTipFellDetermination
-"Requires Level 2\nGundabad Berserkers gain +33% damage and knockback resistance for 20 seconds\nLeft click to activate"
+"Requiert : Niveau 2 \n Les Berserkers de Gundabad gagnent +100% de résistance au renversement ainsi que +33% de dégâts pendant 20 secondes. \n\n Clic gauche pour l'activer."
 END
 
 CONTROLBAR:ConstructGuldurLumberMill
-"Summon Lumber Mill (&D)"
+"Invoquer une Scierie (&D)"
 END
 
 OBJECT:GuldurSlaveMill
-"Slave Mill"
+"Moulin à esclaves"
 End
 
 OBJECT:GuldurSlaveMillDescription
-"Provides misery as a resource based on available terrain \n Can spawn hordes of Broken Rabble \n Misery Bonus - Reduced cost of basic orcs \n 2 Slave Mills: 5% \n 3 Slave Mills: 10% \n 4 Slave Mills: 15% \n 5+ Slave Mills: 20%"
+"Produit de la Misère comme ressource basée sur le terrain disponible. \n Peut invoquer des hordes de Brisés. \n Bonus de Misère - Réduit le coût des Orques de base. \n\n 2 Moulins à Esclaves: 5% \n 3 Moulins à Esclaves: 10% \n 4 Moulins à Esclaves: 15% \n 5+ Moulins à Esclaves: 20%"
 End
 
 OBJECT:AngmarSlaveMillDescription
@@ -87407,61 +87404,61 @@ End
 
 
 Map:MAPMPswanfleet
-"Swanfleet*"
+"Delta aux cygnes*"
 End
 
 Map:MAPMPswanfleet/Desc
-"The Swanfleet is an inland delta in eastern Eriador through which the lower reaches of the Glanduin flow, before joining the Hoarwell. The area is known for its countless bevies of swans. \n Capturable: Feu d'Alarme, Inn \n Region: Eriador"
+"Le Delta aux Cygnes est un delta intérieur dans l'Est de l'Eriador, par lequel s'écoulent les tronçons inférieurs du Glanduin, avant de rejoindre le Mitheitel. La région est connue pour ses innombrables troupeaux de cygnes. \n\n Capturables : Feu d'alarme, Avant-Poste. \n Région : Eriador. \n"
 End
 
-/////
+///////////////////////
 
 Map:MAPMPtalathanor
-"Talath Anor"
+"Talath Anor*"
 End
 
 Map:MAPMPtalathanor/Desc
-"The plains of Talath Anor lie beyond the Rammas Echor, the outer wall that surrounds the Pelennor Fields.  \n Capturable: Feu d'Alarme, Outpost \n Antres: Warg, Goblin \n Region: Gondor"
+"Les plaines de Talath Anor s'étendent au-delà du Rammas Echor, le mur extérieur qui entoure les champs de Pelennor.  \n\n Capturables : Feu d'alarme, Avant-Poste. \n Antres : Wargs, Gobelins. \n Région : Gondor. \n"
 End
 
 /////
 
 Map:MAPMPtargulquarry
-"Targul Quarry*"
+"Carrière de Targul*"
 End
 
 Map:MAPMPtargulquarry/Desc
-"A large deep pit carved into the hills that lie between the dwarven kingdoms of Erebor and the Iron Hills. \n Capturable: Feu d'Alarme, Inn \n Antres: Goblin \n Region: Erebor"
+"Une grande fosse profonde creusée dans les collines qui s'étendent entre les Royaumes nains d'Erebor et les Monts du Fer. \n\n Antres : Trolls des Cavernes, Gobelins. \n Dangers : Tempête. \n Région : Erebor. \n"
 End
 
-/////
+///////////////////////
 
 Map:MAPMPtarlangsneck
-"Tarlang's Neck*"
+"Le cou de Tarlang*"
 End
 
 Map:MAPMPtarlangsneck/Desc
-"A local Gondorian legend tells of a giant named Tarlang who tripped and broke his neck. His body became a part of the land, forming the pass of Tarlang's Neck. \n Capturable: Inn \n Antres: Warg, Goblin \n Region: Gondor"
+"Une légende gondorienne locale raconte qu'un géant nommé Tarlang a trébuché et s'est brisé le cou. Son corps est devenu une partie de la terre, formant le col de Tarlang. \n\n Capturables : Feu d'alarme. \n Antres : Wargs, Gobelins. \n Région : Gondor. \n"
 End
 
-/////
+///////////////////////
 
 Map:MAPMPtarnost
-"Tarnost"
+"Tarnost*"
 End
 
 Map:MAPMPtarnost/Desc
-"These grassy foothills lie south of the River Ringló in Gondor, between the river Gilrain to the east and Dol Amroth to the west. \n Capturable: Inn \n Antres: Hill Troll, Warg \n Region: Gondor"
+"Ces contreforts herbeux se situent au Sud de la rivière Ringló dans le Gondor, entre la rivière Gilrain à l'Est et Dol Amroth à l'Ouest. \n\n Capturables : Feu d'alarme, Auberge. \n Antres : Trolls des Collines, Wargs. \n Région : Gondor. \n"
 End
 
-/////
+///////////////////////
 
 Map:MAPMPtaurenmorvith
 "Taur-en-Morvith*"
 End
 
 Map:MAPMPtaurenmorvith/Desc
-"The serene 'Forest of Mist' dwells deep within the borders of Thranduil's realm. Many Silvan elves make their homes here. \n Capturable: Feu d'Alarme, Inn \n Antres: Spider \n Hazards: Fog \n Region: Rhovanion"
+"La sereine "Forêt de la brume" se trouve au coeur des frontières du Royaume de Thranduil. De nombreux elfes sylvestres y ont élu domicile. \n\n Capturables : Feu d'alarme, Auberge. \n Antres : Araignées. \n Dangers : Brouillard. \n Région : Rhovanion. \n"
 End
 
 /////
@@ -87482,7 +87479,7 @@ Map:MAPMPtaurenungolath
 End
 
 Map:MAPMPtaurenungolath/Desc
-"Amongst the deepest, darkest glades of Mirkwood lurks the 'Forest of Spiders', the lair of Saenathra and her many children. \n Capturable: Feu d'Alarme, Inn \n Antres: Spider \n Region: Rhovanion"
+"Parmi les clairières les plus profondes et les plus sombres de la Forêt Noire se cache la "Forêt des araignées", la tanière de Saenathra et de ses nombreux enfants. \n\n Capturables : Feu d'alarme, Auberge. \n Antres : Araignées. \n Dangers : Brouillard. \n Région : Rhovanion. \n"
 End
 
 /////
@@ -87492,7 +87489,7 @@ Map:MAPMPtaurnafaroth
 End
 
 Map:MAPMPtaurnafaroth/Desc
-"The 'Forest of Hunters' in Sindarin, a sacred hunting ground often frequented by the Wood-elves of the Woodland Realm. \n Antres: Goblin, Spider \n Region: Rhovanion"
+"La "Forêt des chasseurs" en sindarin, un terrain de chasse sacré souvent fréquenté par les Elfes du Royaume des forêts. \n\n Capturables : Feu d'alarme. \n Antres : Gobelins, Araignées. \n Dangers : Brouillard. \n Région : Rhovanion. \n"
 End
 
 /////
@@ -87526,48 +87523,47 @@ Map:MAPMPtharbad
 End
 
 Map:MAPMPtharbad/Desc
-"The Old South Road passes through the ruined city of Tharbad. Desolate and long abandoned, its only crossing point is a dangerous ford formed by the ruins of its once great bridge. \n Capturable: Feu d'Alarme, Inn \n Antres: Goblin \n Region: Eriador"
+"L'ancienne route du Sud passe par la ville en ruine de Tharbad. Désolée et longtemps abandonnée, son seul point de passage est un gué dangereux formé par les ruines de son ancien grand pont. \n\n Capturables : Feu d'alarme, Avant-Poste. \n Antres : Trolls des Cavernes, Gobelins. \n Région : Eriador. \n"
 End
 
-/////
+///////////////////////
 
 Map:MAPMPtheenchantedstream
-"The Enchanted Stream*"
+"La Rivière Enchantée*"
 End
 
 Map:MAPMPtheenchantedstream/Desc
-"The Enchanted Stream runs north from the Mountains of Mirkwood. It was crossed by Thorin's Company, but not before the stream lay its curse on Bombur, sending him into a deep sleep. \n Capturable: Inn \n Antres: Spider, Goblin \n Region: Rhovanion"
+"La Rivière Enchantée coule au Nord des montagnes de la Forêt Noire. Elle a été traversée par la compagnie de Thorin, mais pas avant que le ruisseau ne jette sa malédiction sur Bombur, l'envoyant dans un profond sommeil. \n\n Capturables : Avant-Poste, Auberge. \n Antres : Araignées, Gobelins. \n Dangers : Rivière Enchantée, Brouillard. \n Région : Rhovanion. \n"
 End
 
-/////
+///////////////////////
 
 Map:MAPMPthefolde
-"The Folde*"
+"Le Fold*"
 End
 
 Map:MAPMPthefolde/Desc
-"The Folde is an ancient and historic region of Rohan, close to the capital of Edoras, and originally home to the King's seat at the town of Aldburg. It is the ancestral homeland of Rohan's royal line. \n Capturable: Inn \n Antres: Warg \n Region: Rohan"
+"Le Fold est une région ancienne et historique du Rohan, proche de la capitale d'Édoras, et abritait à l'origine le siège du roi dans la ville d'Aldburg. C'est la patrie ancestrale de la lignée royale du Rohan. \n\n Capturables : Auberge. \n Antres : Wargs. \n Région : Rohan. \n"
 End
 
-/////
-
+///////////////////////
 
 Map:MAPMPtheoldforest
-"The Old Forest"
+"La Vieille Forêt*"
 End
 
 Map:MAPMPtheoldforest/Desc
-"One of the few remnants of vast ancient forests that once covered Eriador before the Second Age. Angered by long ages of felling and destruction, the forest is known to ensnare unwary travellers. \n Capturable: Inn \n Antres: Barrow Wight, Spider \n Region: Arnor"
+"L'un des rares vestiges des vastes forêts anciennes qui couvraient l'Eriador avant le deuxième âge. Fâchée par les longues périodes d'abattage et de destruction, la forêt est connue pour piéger les voyageurs imprudents. \n\n Capturables : Feu d'alarme. \n Antres : Spectres des Galgals, Araignées. \n Région : Arnor. \n"
 End
 
 /////
 
 Map:MAPMPthewold
-"The Wold*"
+"Le Wold*"
 End
 
 Map:MAPMPthewold/Desc
-"The Wold is the northernmost and least populated part of Rohan, a grassy upland plain lying between Fangorn and the Anduin. Its hardy and nomadic inhabitants use the land to graze cattle. \n Capturable: Inn \n Antres: Warg \n Region: Rhovanion"
+"Le Wold est la partie la plus septentrionale et la moins peuplée du Rohan, une plaine herbeuse de hautes terres située entre Fangorn et l'Anduin. Ses habitants, nomades et robustes, utilisent la terre pour faire païtre le bétail. \n\n Capturables : Auberge. \n Antres : Wargs, Gobelins. \n Région : Rhovanion. \n"
 End
 
 /////
@@ -87578,7 +87574,7 @@ Map:MAPMPtolfalas
 End
 
 Map:MAPMPtolfalas/Desc
-"A large island in the Bay of Belfalas beyond the mouth of Anduin. Its sharp southern cape has traditionally been considered as the southernmost point of Gondor. \n Capturable: Feu d'Alarme, Inn, Dock \n Region: Gondor"
+"Une grande île dans la baie de Belfalas, au-delà de l'embouchure de l'Anduin. Son Cap Sud acéré était traditionnellement considéré comme marquant le point le plus méridional du Gondor. \n\n Capturables : Feu d'alarme, Quai. \n Antres : Trolls des Cavernes. \n Région : Gondor. \n"
 End
 
 /////
@@ -87605,31 +87601,31 @@ End
 /////
 
 Map:MAPMPtowerhills
-"Tower Hills"
+"Collines de la Tour*"
 End
 
 Map:MAPMPtowerhills/Desc
-"A range of hills in west Eriador, home to three tall Elven towers, the White Towers. The highest of these is named Elostirion, which houses a palantír. \n Capturable: Feu d'Alarme, Inn \n Antres: Goblin \n Region: Lindon"
+"Une chaîne de collines dans l'Ouest de l'Eriador, où se trouvent trois hautes tours elfiques, les Tours Blanches. La plus haute est appelée Elostirion et abrite un palantír. \n\n Capturables : Tours Blanches, Avant-Poste. \n Antres : Gobelins. \n Région : Lindon. \n"
 End
 
-/////
+///////////////////////
 
 Map:MAPMPtrollshaws
-"Trollshaws*"
+"Trouée des Trolls*"
 End
 
 Map:MAPMPtrollshaws/Desc
-"The Trollshaws are the upland woods that lie west of Rivendell, between the Rivers Hoarwell and Loudwater. In the wild hills are found shallow caves, wild trolls, and scattered ruins. \n Capturable: Feu d'Alarme \n Antres: Stone Troll, Goblin \n Region: Eriador"
+"La Trouée des Trolls est une vaste forêt de montagne qui se trouve à l'Ouest de Fondcombe, entre les rivières Mitheitel et Bruinen. Dans les collines sauvages, on trouve des grottes peu profondes, des trolls sauvages et des ruines éparses. \n\n Capturables : Feu d'alarme. \n Antres : Trolls de pierre, Gobelins. \n Région : Arnor. \n"
 End
 
-/////
+///////////////////////
 
 Map:MAPMPtuckborough
-"Tuckborough*"
+"Bourg de Touque*"
 End
 
 Map:MAPMPtuckborough/Desc
-"An old and important settlement in the Westfarthing of the Shire, and ancestral seat of the Tooks, the hereditary Thains of the Shire.\n Region: Arnor"
+"Un ancien et important établissement dans le Quartier Ouest de la Comté, et siège ancestral des Touques, les Thains héréditaires de la Comté. \n\n Région : Arnor. \n"
 End
 
 /////
@@ -87647,11 +87643,11 @@ End
 
 
 Map:MAPMPudun
-"Udûn"
+"Udûn*"
 End
 
 Map:MAPMPudun/Desc
-"The lands behind the Black Gate known as Udûn take the name of the underworld due to the volcanic ash and noxious fumes that cover them. \n Capturable: Feu d'Alarme \n Hazards: Poisonous Funes \n Region: Mordor"
+"Les terres situées derrière la Porte Noire, connues sous le nom d'Udûn, prennent le nom d'un monde souterrain en raison des cendres volcaniques et des fumées nocives qui les recouvrent. \n\n Capturables : Feu d'alarme. \n Dangers : Fumées empoisonnées. \n Région : Mordor. \n"
 End
 
 /////
@@ -87678,71 +87674,71 @@ End
 /////
 
 Map:MAPMPvalesofcelduin
-"Vales of Celduin*"
+"Vallée de Celduin*"
 End
 
 Map:MAPMPvalesofcelduin/Desc
-"The Celduin runs south from Erebor, connecting Thranduil's kingdom with the northmen of Dale and Esgaroth, and the realms to the south. \n Capturable: Inn \n Antres: Warg, Goblin \n Region: Erebor"
+"Le Celduin s'étend au Sud d'Erebor, reliant le Royaume de Thranduil aux hommes du Nord de Dale et Esgaroth, et les Royaumes au Sud. \n\n Capturables : Avant-Poste. \n Antres : Trolls des Collines, Wargs, Gobelins. \n Région : Rhûn. \n"
 End
 
-/////
+///////////////////////
 
 Map:MAPMPwallsofmoria
-"Walls of Moria*"
+"Murs de la Moria*"
 End
 
 Map:MAPMPwallsofmoria/Desc
-"The Doors of Durin are hidden within the surface of the Walls of Moria, the sheer cliffs at the base of the Misty Mountains. Its secret doorway was crafted by the smiths of Khazad-dûm and Eregion. \n Antres: Goblin \n Hazards: Watcher \n Region: Misty Mountains"
+"Les Portes de Durin sont cachées au delà de la surface des Murs de la Moria, ces falaises abruptes au pied des Monts Brumeux. Sa porte secrète a été conçue par les forgerons de Khazad-dûm et de l'Eregion. \n\n Capturables : Feu d'alarme. \n Antres : Gobelins. \n Dangers : Guetteur. \n Région : Monts Brumeux. \n"
 End
 
-/////
+///////////////////////
 
 Map:MAPMPweathertop
-"Weathertop*"
+"Mont Venteux*"
 End
 
 Map:MAPMPweathertop/Desc
-"The ancient tower of Amon Sûl once held one of the palantíri of Arnor. Destroyed by the forces of the Witch-king of Angmar long ago, now all that remains is a ring of broken stonework. \n Capturable: Feu d'Alarme, Inn \n Antres: Stone Troll \n Region: Arnor"
+"L'ancienne tour d'Amon Sûl abritait autrefois l'un des palantir de l'Arnor. Détruite par les forces du Roi-Sorcier d'Angmar il y a longtemps, il ne reste plus qu'un anneau de pierres cassées. \n\n Capturables : Monts Venteux, Auberge. \n Antres : Trolls de Pierre. \n Dangers : Brouillard. \n Région : Arnor. \n"
 End
 
 /////
 
 Map:MAPMPwestemnet
-"West Emnet*"
+"Ouestemnet*"
 End
 
 Map:MAPMPwestemnet/Desc
-"The westernmost grasslands of Rohan beyond the Entwash. The most important of Rohan's fortifications lie to the south, where the White Mountains rise from the surrounding plains. \n Capturable: Feu d'Alarme, Inn \n Antres: Cave Troll, Warg \n Region: Rohan"
+"Les prairies les plus à l'Ouest du Rohan, au-delà de l'Entalluve. La plus importante des fortifications du Rohan se trouve au Sud, là où les Montagnes Blanches s'élèvent au dessus des plaines environnantes. \n\n Capturables : feu d'alarme, Auberge. \n Antres : Trolls des Cavernes, Wargs. \n Région : Rohan. \n"
 End
 
-/////
+///////////////////////
 
 Map:MAPMPwestfold
-"Ouestfolde*"
+"Westfold*"
 End
 
 Map:MAPMPwestfold/Desc
-"The western part of Rohan between the river Isen and the Folde. Following the second Battle of the Fords of Isen, Erkenbrand's forces were scattered and Saruman's host marched through the Ouestfolde towards Helm's Deep. \n Capturable: Feu d'Alarme, Inn \n Antres: Warg, Goblin \n Region: Rohan"
+"La partie occidentale du Rohan entre la rivière Isen et le Folde. Après la deuxième bataille des gués de l'Isen, les forces d'Erkenbrand se sont dispersées et l'armée de Saroumane a marché à travers l'Ouest vers le Gouffre de Helm. \n\n Capturables : Feu d'alarme, Auberges. \n Antres : Trolls des Cavernes, Wargs, Gobelins. \n Région : Rohan. \n"
 End
 
-/////
+///////////////////////
 
 Map:MAPMPwestmarch
-"Westmarch"
+"Marches de l'Ouest*"
 End
 
 Map:MAPMPwestmarch/Desc
-"A land of meadows and rises, between the Tower Hills and the Shire. \n Capturable: Feu d'Alarme, Inn \n Antres: Stone Troll \n Region: Arnor"
+"Un pays de prairies et de petits monticules, entre les Collines de la Tour et la Comté. \n\n Capturables : Feu d'alarme, Auberge. \n Antres : Trolls de Pierre. \n Région : Arnor. \n"
 End
 
-/////
+///////////////////////
 
 Map:MAPMPwhitcleft
-"Whitcleft"
+"Fourcheblanc*"
 End
 
 Map:MAPMPwhitcleft/Desc
-"This narrow cleft in the Misty Mountains is a treacherous mountain pass, now occupied by a handful of goblins. \n Capturable: Inn \n Antres: Goblin \n Region: Misty Mountains"
+"Cette fente étroite dans les Monts Brumeux est un col montagneux traître, aujourd'hui occupé par une poignée de gobelins. \n\n Capturables : Avant-Poste, Auberge. \n Antres : Gobelins. \n Région : Monts Brumeux. \n"
 End
 
 /////
@@ -87768,31 +87764,31 @@ End
 /////
 
 Map:MAPMPwildsofforochel
-"Wilds of Forochel*"
+"Forêts de Forochel*"
 End
 
 Map:MAPMPwildsofforochel/Desc
-"This wild and icy region of Forochel is sparsely inhabited by hardy Lossoth ice-fishing tribes that dwell beside its large frozen lakes. \n Capturable: Feu d'Alarme \n Antres: Warg \n Region: Forodwaith"
+"Une région de Forochel sauvage et traîtresse, peu habitée par les petites tribus d'hommes du Nord. \n\n Capturables : Feu d'alarme. \n Antres : Loups. \n Région : Monts Brumeux. \n"
 End
 
-/////
+///////////////////////
 
 Map:MAPMPwitheredheath
-"Withered Heath"
+"Brande Desséchée*"
 End
 
 Map:MAPMPwitheredheath/Desc
-"A long narrow valley between the eastern ranges of the Grey Mountains forms this burned and desolate heath, the breeding-ground of dragons and lesser wyrms. \n Capturable: Feu d'Alarme, Inn \n Antres: Fire Drake, Goblin \n Region: Misty Mountains"
+"Une longue et étroite vallée entre les chaînes orientales des Montagnes grises forme cette lande brûlée et désolée, lieu de reproduction des dragons et des petits wyrms. \n\n Capturables : Feu d'alarme, Auberge. \n Antres : Drakes de feu, Gobelins. \n Région : Erebor. \n"
 End
 
-/////
+///////////////////////
 
 Map:MAPMPwoodsedge
-"Woodsedge"
+"La lisière des bois*"
 End
 
 Map:MAPMPwoodsedge/Desc
-"The Woodsedge is an area in the central part of the Vales of Anduin, south of the Beorning-lands and bordered by the Anduin, home to scattered wild folk. \n Capturable: Feu d'Alarme, Auberge \n Antres: Warg \n Region: Rhovanion"
+"La lisière des bois est une zone située dans la partie centrale des vallées de l'Anduin, au Sud des Terres des Béornides et bordée par l'Anduin. Elles abritent des populations sauvages dispersées et même quelques Hobbits. \n\n Capturables : Feu d'alarme. \n Antres : Trolls des Cavernes, Wargs. \n Région : Rhovanion. \n"
 End
 
 
@@ -87953,106 +87949,106 @@ LW:DisplayNameDunland
 End
 
 Map:MAPWORDunland/Desc
-"Région de piémont peu peuplée sur les pentes occidentales des Monts Brumeux, le Pays de Dun est habité par des colons guerriers connus sous le nom de Dunlendings. \n Subregion: Dunland (+10 PP, +10% Atk) \n Region: Enedwaith (Expérience augmenté de +5%, unités spécial gratuite)"
+"Région de piémont peu peuplée sur les pentes occidentales des Monts Brumeux, le Pays de Dun est habité par des colons guerriers connus sous le nom de Dunlendings. \n Sous-région: Pays de Dun (+10 Point de Pouvoir, les dégât sont augmenté de +10%) \n Région: Enedwaith (Expérience augmenté de +5%, unités spécial gratuite)"
 End
 
 
 ////Region Wulfborg
 
 LW:DisplayNameWulfborg
-"Wulfborg"
+"Wulfborg*"
 End
 
 Map:MAPWORWulfborg/Desc
-"Wulfborg is the capital of Frecalund, a Dunlending realm under the banner of King Wulfgar. Saruman the White is known to visit, stirring its folk with speeches of injustice and retribution against their foes. \n Subregion: Dunland (+10 PP, +10% Atk) \n Region: Enedwaith (+5% Exp, Free Special Units)"
+"Wulfborg est la capitale de Frecalund, un royaume du Pays de Duns sous la bannière du roi Wulfgar. Saroumane le Blanc est connu pour visiter ces territoires, émouvant son peuple avec des discours d'injustice et de représailles contre leurs ennemis. \n Sous-région: Pays de Dun (+10 Point de Pouvoir, les dégât sont augmenté de +10%) \n Région: Enedwaith (Expérience augmenté de +5%, unités spécial gratuite)"
 End
 
 
 ////Region Frecalund
 
 LW:DisplayNameFrecalund
-"Frecalund"
+"Frecalund*"
 End
 
 Map:MAPWORFrecalund/Desc
-"The highlands of Frecalund are home to King Freca's descendants and lie under the protection of nearby Wulfborg. \n Subregion: Dunland (+10 PP, +10% Atk) \n Region: Enedwaith (+5% Exp, Free Special Units)"
+"Les hautes terres de Frecalund abritent les descendants du Roi Freca et se trouvent sous la protection de Wulfborg à proximité. \n Sous-région: Pays de Dun (+10 Point de Pouvoir, les dégât sont augmenté de +10%) \n Région: Enedwaith (Expérience augmenté de +5%, unités spécial gratuite)"
 End
 
 
 ////Region Regnfells
 
 LW:DisplayNameRegnfells
-"Regnfells"
+"Regnfells*"
 End
 
 Map:MAPWORRegnfells/Desc
-"Many seasonal streams course through this rocky valley in the Dunnish foothills, once spring arrives and winter snows begin to melt. \n Subregion: Dunland (+10 PP, +10% Atk) \n Region: Enedwaith (+5% Exp, Free Special Units)"
+"De nombreux cours d'eau saisonniers sillonnent cette vallée rocheuse des contreforts Dunlandais, une fois que le printemps arrive et que les neiges hivernales commencent à fondre. \n Sous-région: Pays de Dun (+10 Point de Pouvoir, les dégât sont augmenté de +10%) \n Région: Enedwaith (Expérience augmenté de +5%, unités spécial gratuite)"
 End
 
 
 ////Region Enedwaith
 
 LW:DisplayNameEnedwaith
-"Enedwaith"
+"Enedwaith*"
 End
 
 Map:MAPWOREnedwaith/Desc
-"Enedwaith was once deeply forested until the arrival of the timber-seeking Númenóreans during the Second Age left the landscape devastated and barren. \n Subregion: Enedwaith (+10 PP, +10% Exp) \n Region: Enedwaith (+5% Exp, Free Special Units)"
+"L'Enedwaith était autrefois profondément boisée jusqu'à ce que l'arrivée des Númenoréens en quête de bois au cours du Second Age laissant le paysage dévasté et stérile. \n Sous-région: Enedwaith (+10 Point de Pouvoir, Expérience augmenté de +10%) \n Région: Enedwaith (Expérience augmenté de +5%, unités spécial gratuite)"
 End
 
 
 ////Region Greyflood
 
 LW:DisplayNameGreyflood
-"Greyflood"
+"Flot-Gris*"
 End
 
 Map:MAPWORGreyflood/Desc
-"A river on the southern border of Minhiriath, the Greyflood is formed by the confluence of the River Hoarwell, and the marshy lower course of the River Glanduin. \n Subregion: Enedwaith (+10 PP, +10% Exp) \n Region: Enedwaith (+5% Exp, Free Special Units)"
+"Rivière située à la frontière Sud du Minhiriath, le Flot-Gris est formée par le confluent de la rivière Mitheitel, and the marshy lower course of the River Glanduin. \n Sous-région: Enedwaith (+10 Point de Pouvoir, Expérience augmenté de +10%) \n Région: Enedwaith (Expérience augmenté de +5%, unités spécial gratuite)"
 End
 
 
 ////Region Drúwaith Iaur
 
 LW:DisplayNameDruwaithIaur
-"Drúwaith Iaur"
+"Drúwaith Iaur*"
 End
 
 Map:MAPWORDruwaithIaur/Desc
-"Drúwaith Iaur or Old Púkel land is a dark, forested region to the west of Gondor. It lies between the river Isen and the western edge of the Ered Nimrais, and is the original home of the Drúedain. \n Subregion: Enedwaith (+10 PP, +10% Exp) \n Region: Enedwaith (+5% Exp, Free Special Units)"
+"Drúwaith Iaur ou la Désolation des anciens Pouques est une sombre région forestière à l'Ouest du Gondor. Elle est situé entre la rivière Isen et la limitte Ouest des Ered Nimrais, et est le domaine d'origine des Drúedain. \n Sous-région: Enedwaith (+10 Point de Pouvoir, Expérience augmenté de +10%) \n Région: Enedwaith (Expérience augmenté de +5%, unités spécial gratuite)"
 End
 
 
 ////Region Ironfoot's Halls
 
 LW:DisplayNameIronfootsHalls
-"Ironfoot's Halls"
+"Les Halls de Pied d'Acier*"
 End
 
 Map:MAPWORIronfootsHalls/Desc
-"Deep within the jagged red rocks of the Iron Hills lie the heavily fortified halls Dáin II Ironfoot and hardy warriors of Durin's folk, close kin of the Dwarves of Erebor. \n Subregion: Iron Hills (+10% Res,+5 PP) \n Region: Erebor (+5 PP,+5% Def,+200 Extra Starting Res)"
+"Au plus profond des rochers rouges déchiquetés des Monts du Fer se trouvent les salles lourdement fortifiées de Dáin II Pied d'Acier et des robustes guerriers du peuple de Durin, proches parents des Nains d'Erebor. \n Sous-région: Monts du Fer (+10% de Ressources, +5 Point de Pouvoir) \n Région: Erebor (+5 Point de Pouvoir, +5% de Défense, +200 Ressources de départ supplémentaire)"
 End
 
 
 ////Region Iron Foothills
 
 LW:DisplayNameIronFoothills
-"Iron Foothills"
+"Collines des Monts du Fer*"
 End
 
 Map:MAPWORIronFoothills/Desc
-"The Redwater flows south from the mountainous lands of the Iron Hills that border the eastern lands of Rhûn. \n Subregion: Iron Hills (+10% Res,+5 PP) \n Region: Erebor (+5 PP,+5% Def,+200 Extra Starting Res)"
+"La rivière Carnen coule vers le Sud depuis les terres escarpées des Monts de Fer, en bordure du pays oriental de Rhûn. \n Sous-région: Monts du Fer (+10% de Ressources, +5 Point de Pouvoir) \n Région: Erebor (+5 Point de Pouvoir, +5% de Défense, +200 Ressources de départ supplémentaire)"
 End
 
 
 ////Region Iron Hills
 
 LW:DisplayNameIronHills
-"Iron Hills"
+"Monts du Fer*"
 End
 
 Map:MAPWORIronHills/Desc
-"The Iron Hills are a range of great hills in the north-east of Wilderland, and the source of the river Carnen, rich in iron. It is home to a Dwarf-realm of the Longbeards. \n Subregion: Iron Hills (+10% Res,+5 PP) \n Region: Erebor (+5 PP,+5% Def,+200 Extra Starting Res)"
+"Les Monts du Fer sont une série de grandes collines au Nord-Est du Rhovanion, et la source de la rivière Carnen, riche en fer. C'est là que se trouve un Royaume Nain des Barbe-Longues. \n Sous-région: Monts du Fer (+10% de Ressources, +5 Point de Pouvoir) \n Région: Erebor (+5 Point de Pouvoir, +5% de Défense, +200 Ressources de départ supplémentaire)"
 End
 
 
