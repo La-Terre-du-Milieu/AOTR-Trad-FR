@@ -75022,321 +75022,321 @@ OBJECT:GuldurSlaveMillDescription
 End
 
 OBJECT:AngmarSlaveMillDescription
-"Provides misery as a resource based on available terrain \n Can spawn hordes of Angmar Snaga \n Misery Bonus - Reduced cost of basic orcs \n 2 Slave Mills: 5% \n 3 Slave Mills: 10% \n 4 Slave Mills: 15% \n 5+ Slave Mills: 20%"
+"Fournit la misère en tant que ressource en fonction du terrain disponible \n Peut engendrer des hordes de Snaga d'Angmar \n Bonus de misère - Coût réduit des orcs de base \n 2 Moulins des Esclaves : 5% \n 3 Moulins des Esclaves : 10% \n 4 Moulins des Esclaves : 15% \n 5+ Moulins des Esclaves : 20%"
 End
 
 CONTROLBAR:ConstructGuldurSlaveMill
-"Summon Slave Mill (&W)"
+"Appeler le Moulin des Esclaves (&W)"
 END
 
 CONTROLBAR:TooltipConstructGuldurSlaveMill
-"Provides misery as a resource based on available terrain \n Can spawn hordes of Broken Rabble \n Reduces cost of basic orcs \n Increases command point limit by 50"
+"Fournit la misère en tant que ressource en fonction du terrain disponible \n Peut engendrer des hordes de Canailles brisées \n Réduit le coût des orcs de base \n Augmente la limite de points de commandement de 50"
 END
 
 CONTROLBAR:TooltipConstructAngmarSlaveMill
-"Provides misery as a resource based on available terrain \n Can spawn hordes of Angmar Snaga \n Reduces cost of basic orcs \n Increases command point limit by 50"
+"Fournit la misère en tant que ressource en fonction du terrain disponible \n Peut engendrer des hordes de Snaga d'Angmar \n Réduit le coût des orcs de base \n Augmente la limite de points de commandement de 50"
 END
 
 OBJECT:GuldurFountOfCorruption
-"Fount of Corruption"
-End
+"Fontaine de Corruption"
+END
 
 OBJECT:GuldurFountOfCorruptionDescription
-"Provides corruption as a resource based on available terrain \n Trains Blighted Trappers and Corrupted Entwives \n Corruption Bonus - Reduced cost of spiders \n 2 Founts: 5% \n 3 Founts: 10% \n 4 Founts: 15% \n 5 Founts: 20% \n 6+ Founts: 25%"
-End
+"Fournit la corruption en tant que ressource en fonction du terrain disponible \n Entraîne des Piégeurs Blightés et des Entwives Corrompues \n Bonus de corruption - Coût réduit des araignées \n 2 Fontaines : 5% \n 3 Fontaines : 10% \n 4 Fontaines : 15% \n 5 Fontaines : 20% \n 6+ Fontaines : 25%"
+END
 
 CONTROLBAR:ConstructGuldurFountOfCorruption
-"Summon Fount of Corruption (&R)"
+"Appeler la Fontaine de Corruption (&R)"
 END
 
 CONTROLBAR:ConstructGuldurFountOfCorruptionWotRRealTime
-"Summon Fount of Corruption (&T)"
+"Appeler la Fontaine de Corruption (&T)"
 END
 
 CONTROLBAR:ToolTipConstructGuldurFountOfCorruption
-"Provides corruption as a resource based on available terrain \n Trains Blighted Trappers and Corrupted Entwives \n Reduces cost of spiders \n Increases command point limit by 50"
+"Fournit la corruption en tant que ressource en fonction du terrain disponible \n Entraîne des Piégeurs Blightés et des Entwives Corrompues \n Réduit le coût des araignées \n Augmente la limite de points de commandement de 50"
 End
 
 CONTROLBAR:ToolTipConstructGuldurFountOfCorruptionWotR
-"Tertiary Barracks \n Trains Corrupted Entwives \n Limited to 1"
+"Caserne Tertiaire \n Entraîne des Entwives Corrompues \n Limité à 1"
 End
 
 OBJECT:GuldurWoodsmen
-"Blighted Trapper"
+"Piégeur Souillé"
 END
 
 OBJECT:GuldurWoodsmenHorde
-"Blighted Trappers"
+"Piégeurs Souillés"
 END
 
 CONTROLBAR:ConstructGuldurWoodsmenHorde
-"Blighted Trappers (&E)"
+"Piégeurs Souillés (&E)"
 END
 
 CONTROLBAR:ToolTipBuildGuldurWoodsmenHorde
-"Requires Level 2 Fount of Corruption \n Strong vs. Archers and Monsters\nCan stealth near trees\n\nParasitic spores that spread from the corrupted pools of Southern Mirkwood have infected parts of the native Woodmen population. They were last seen shambling towards the haunted fortress upon the barren hill..."
+"Requiert une Fontaine de Corruption de niveau 2 \n Fort contre les archers et les monstres \n Peut se camoufler près des arbres \n\nDes spores parasitaires qui se propagent à partir des bassins corrompus du Mirkwood méridional ont infecté certaines parties de la population autochtone des Piégeurs. Ils ont été vus pour la dernière fois se dirigeant vers la forteresse hantée sur la colline aride..."
 END
 
 CONTROLBAR:GuldurNoxiousDarts
-"Noxious Darts (&R)"
+"Fléchettes Nocives (&R)"
 END
 
 CONTROLBAR:ToolTipGuldurNoxiousDarts
-"Requires Level 2\nFor 20 seconds, Blighted Trappers deal poison damage\nDeals additional damage to structures\nLeft click to activate"
+"Requiert le niveau 2 \n Pendant 20 secondes, les Piégeurs Souillés infligent des dégâts empoisonnés \n Inflige des dégâts supplémentaires aux structures \n Cliquez gauche pour activer"
 End
 
 CONTROLBAR:GuldurParasiticEmbrace
-"Parasitic Embrace (&T)"
+"Étreinte Parasite (&T)"
 END
 
 CONTROLBAR:ToolTipGuldurParasiticEmbrace
-"Requires Level 3\n Enemy archers hit by Blighted Trappers suffer -20% damage for 5 seconds\nPassive ability\n\nEnemy units in the targeted area become infected and lose\n-50% vision and -25% range for 30 seconds\nLeft click icon then left click on target area"
+"Requiert le niveau 3 \n Les archers ennemis touchés par les Piégeurs Blightés subissent -20% de dégâts pendant 5 secondes \n Capacité passive \n\n Les unités ennemies dans la zone ciblée deviennent infectées et perdent \n -50% de vision et -25% de portée pendant 30 secondes \n Cliquez sur l'icône puis cliquez gauche sur la zone cible"
 END
 
 OBJECT:GuldurRisenDead
-"Risen Dead"
+"Morts Ressuscités"
 END
 
 OBJECT:GuldurBrokenRabble
-"Broken Rabble"
+"Canailles Brisées"
 END
 
 OBJECT:HordeGuldurBrokenRabble
-"Broken Rabble"
+"Canailles Brisées"
 END
 
 CONTROLBAR:ConstructGuldurBrokenRabbleHorde
-"Broken Rabble (&E)"
+"Canailles Brisées (&E)"
 END
 
 CONTROLBAR:ConstructGuldurBrokenRabbleHordeKrimpul
-"Broken Rabble (&W)"
+"Canailles Brisées (&W)"
 END
 
 CONTROLBAR:ToolTipBuildGuldurBrokenRabbleHorde
-"Horde consisting of tortured and enslaved Elves, Woodmen,\n and Dwarves. \n \n 'The Necromancer's servants hunted and ensnared countless wanderers in and around the borders of southern Mirkwood. Tortured and broken, they were sent out with Dol Guldur's legions, to make war on their former friends and family.'"
+"Horde composée d'Elfes, de Woodmen et de Nains torturés et asservis. \n \n 'Les serviteurs du Nécromancien ont chassé et capturé d'innombrables voyageurs aux abords du Mirkwood méridional. Torturés et brisés, ils furent envoyés avec les légions de Dol Guldur pour faire la guerre à leurs anciens amis et leur famille.'"
 END
 
 OBJECT:GuldurOrcArcher
-"Orc Hunter"
+"Chasseur Orc"
 END
 
 OBJECT:GuldurOrcArcherHorde
-"Orc Hunters"
+"Chasseurs Orcs"
 END
 
 OBJECT:HordeGuldurArcherPikeCombo
-"Orc Gaolers - Orc Hunters"
+"Geôliers Orques - Chasseurs Orques"
 END
 
 CONTROLBAR:ConstructGuldurOrcArcherHorde
-"Orc Hunters (&T)"
+"Chasseurs Orques (&T)"
 END
 
 CONTROLBAR:ToolTipBuildGuldurOrcArcherHorde
-"Strong vs. Infantry \n Can stealth near trees \n\n When evil stirs, orcs are gathered to it like moths to a flame. It did not take long for them to answer the call of their master and swarm towards southern Mirkwood."
+"Fort contre l'infanterie \n Peut se camoufler près des arbres \n\n Quand le mal se réveille, les orcs se rassemblent autour de lui comme des papillons attirés par une flamme. Il n'a pas fallu longtemps pour qu'ils répondent à l'appel de leur maître et se précipitent vers le Mirkwood méridional."
 END
 
 CONTROLBAR:BringItDown
-"Bring It Down! (&V)"
+"Abattez-les ! (&V)"
 END
 
 CONTROLBAR:ToolTipBringItDown
-"Requires Level 2\n Increases damage to flying units by 200% for 20 seconds\nLeft click to activate"
+"Requiert le niveau 2 \n Augmente les dégâts contre les unités volantes de 200% pendant 20 secondes \n Cliquez gauche pour activer"
 END
 
 OBJECT:GuldurOrcPikeman
-"Orc Gaoler"
+"Geôlier Orques"
 END
 
 OBJECT:GuldurOrcPikemanHorde
-"Orc Gaolers"
+"Geôliers Orques"
 END
 
 CONTROLBAR:ConstructGuldurOrcPikemanHorde
-"Orc Gaolers (&R)"
+"Geôliers Orques (&R)"
 END
 
 CONTROLBAR:ToolTipBuildGuldurOrcPikemanHorde
-"Strong vs. Cavalry \n Can stealth near trees \n\n Dol Guldur's jailors are not granted fates much improved from those they capture. In the end, all must bend and crawl before the Necromancer's dark might."
+"Fort contre la cavalerie \n Peut se camoufler près des arbres \n\n Les geôliers de Dol Guldur n'ont pas un destin beaucoup plus enviable que ceux qu'ils capturent. Au final, tous doivent se courber et ramper devant le sombre pouvoir du Nécromancien."
 END
 
 OBJECT:GuldurOrcRavager
-"Orc Ravager"
+"Pillard Orque"
 END
 
 OBJECT:GuldurOrcRavagerHorde
-"Orc Ravagers"
+"Pillards Orques"
 END
 
 CONTROLBAR:ConstructGuldurOrcRavagerHorde
-"Orc Ravagers (&S)"
+"Pillards Orques (&S)"
 END
 
 CONTROLBAR:ToolTipBuildGuldurOrcRavagerHorde
-"Requires Level 2 Guldur Gaol \nStrong vs. Structures and Infantry \n\n The Necromancer took a special interest in the largest and toughest of his minions, cursing them with fell magic and turning them into senseless, unstoppable husks tailored strictly to his will."
+"Requiert le niveau 2 Guldur Gaol \nFort contre les structures et l'infanterie \n\n Le Nécromancien a porté un intérêt particulier aux plus grands et plus robustes de ses serviteurs, les maudissant avec une magie maléfique et les transformant en coquilles sans âme et incontrôlables, entièrement soumises à sa volonté."
 END
 
 CONTROLBAR:AppetiteForDestruction
-"Appetite for Destruction (&R)"
+"Goût pour la Destruction (&W)"
 END
 
 CONTROLBAR:ToolTipAppetiteForDestruction
-"Requires Level 3\nOrc Ravagers deal knockback damage and regain health per hit against structures for 20 seconds\nLeft click to activate"
+"Requiert le niveau 3\nLes Pillards Orcs infligent des dégâts de recul et régénèrent des points de vie par coup contre les structures pendant 20 secondes\nCliquez gauche pour activer"
 END
 
 OBJECT:RavagerShield
-"Guldur Bulwark"
+"Rempart de Dol Guldur"
 END
 
 OBJECT:RavagerShieldHorde
-"Guldur Bulwarks"
+"Remparts de Dol Guldur"
 END
 
 BANNERUI:RavagerShield
-"Guldur Bulwark"
+"Rempart de Dol Guldur"
 END
 
 BANNERUI:RavagerShields
-"Guldur Bulwarks"
+"Remparts de Dol Guldur"
 END
 
 CONTROLBAR:LW_Unit_RavagerShieldHorde
-"Guldur Bulwarks Horde"
+"Hordes de Remparts de Dol Guldur"
 END
 
 CONTROLBAR:LW_Unit_RavagerShieldHordePlural
-"Guldur Bulwarks Hordes"
+"Hordes de Remparts de Dol Guldur"
 END
 
 CONTROLBAR:ConstructRavagerShieldHorde
-"Guldur Bulwarks (&W)"
+"Remparts de Dol Guldur (&W)"
 END
 
 CONTROLBAR:ToolTipBuildRavagerShieldHorde
-"Strong vs. Pikemen \n\n The fell sorcery of the Necromancer has granted these orcs great physical strength, allowing them to carry large axes and tower shields to protect the more brittle of Dol Guldur's forces."
+"Fort contre les piquiers \n\n La sorcellerie sombre du Nécromancien a doté ces orcs d'une grande force physique, leur permettant de manier de grandes haches et des boucliers imposants pour protéger les forces plus fragiles de Dol Guldur."
 END
 
 OBJECT:GuldurSpiderRider
-"Guldur Spider Rider"
-END  
+"Chevaucheur d'Araignée de Dol Guldur"
+END
 OBJECT:GuldurSpiderRiderHorde
-"Guldur Spider Riders"
+"Chevaucheurs d'Araignée de Dol Guldur"
 END
 
 CONTROLBAR:ConstructGuldurSpiderRiderHorde
-"Guldur Spider Riders"
+"Chevaucheurs d'Araignée de Dol Guldur"
 END
 
 CONTROLBAR:ConstructGuldurSpiderRiderHordeWotrInn
-"Guldur Spider Riders (&E)"
+"Chevaucheurs d'Araignée de Dol Guldur (&E)"
 END
 
 CONTROLBAR:ToolTipBuildGuldurSpiderRiderHorde
-"Can switch between Bow and Spear \n Strong vs. Archers\n\nThe trick to riding a giant spider is to convince it that you are not the juiciest meal available, but that you do know where it is that one may find such a meal..."
+"Peut alterner entre l'arc et la lance \n Fort contre les archers \n\n Le secret pour monter une araignée géante est de la convaincre que vous n'êtes pas le repas le plus succulent disponible, mais que vous savez où l'on peut trouver un tel repas..."
 END
 OBJECT:WightLord
-"Mound-dweller of Rhudaur"
+"Souverain des Tertres de Rhudaur"
 END
 
 OBJECT:WightLordHorde
-"Wight Lords"
+"Souverains des Tertres de Rhudaur"
 END
 
 CONTROLBAR:ConstructWightLordsHorde
-"Mound-dweller of Rhudaur (&W)"
+"Souverains des Tertres de Rhudaur (&W)"
 END
 
 CONTROLBAR:ToolTipBuildWightLordsHorde
-"Strong vs. Infantry \n\n Beneath the great barrows of desolate Rhudaur dwell the restless dead, reanimated by wicked spirits sent forth by he who of old was the Lord of Angmar."
+"Fort contre l'infanterie \n\n Sous les grands tumulus du désolé Rhudaur, demeurent les morts inquiets, réanimés par les esprits maléfiques envoyés par celui qui fut jadis le Seigneur d'Angmar."
 END
 
 OBJECT:GuldurTombGuard
-"Tomb Guard"
+"Garde des Tombes"
 END
 
 OBJECT:GuldurTombGuardHorde
-"Tomb Guard"
+"Gardes des Tombes"
 END
 
 CONTROLBAR:ConstructGuldurTombGuardHorde
-"Tomb Guard (&D)"
+"Gardes des Tombes (&D)"
 END
 
 CONTROLBAR:ToolTipBuildGuldurTombGuardHorde
-"Requires Level 3 Guldur Gaol \nStrong vs. Cavalry \n\n Many dark tunnels and tombs were dug into Amon Lanc to house the Necromancer's subjects and keep them hidden from the prying eyes of the White Council. They were guarded by ancient orcs of singular mind, rotted and decayed."
+"Requiert le niveau 3 Guldur Gaol \nFort contre la cavalerie \n\n De nombreux tunnels sombres et tombes ont été creusés dans Amon Lanc pour abriter les sujets du Nécromancien et les maintenir cachés aux yeux scrutateurs du Conseil Blanc. Ils étaient gardés par d'anciens orcs à l'esprit unique, pourris et décomposés."
 END
 
 CONTROLBAR:GuldurHeavyDuty
-"Heavy Duty"
+"Robuste"
 END
 
 CONTROLBAR:ToolTipGuldurHeavyDuty
-"Requires Level 2\nWhen a Tomb Guard dies, nearby Tomb Guard gain +15% armour for 8 seconds\n Passive ability"
+"Requiert le niveau 2\nLorsqu'un Garde des Tombes meurt, les Gardes des Tombes à proximité gagnent +15% d'armure pendant 8 secondes\n Capacité passive"
 END
 
 OBJECT:GuldurHarbinger
-"Harbinger of Shadow"
+"Précurseur de l'Ombre"
 END
 
 OBJECT:HordeGuldurHarbinger
-"Harbingers of Shadow"
+"Précurseurs de l'Ombre"
 END
 
 OBJECT:GuldurUnburiedWight
-"Unburied Wight"
+"Fantôme Inhumé"
 END
 
 OBJECT:GuldurUnburiedWightHorde
-"Unburied Wights"
+"Fantômes Inhumés"
 END
 
 CONTROLBAR:ConstructUnburiedWight
-"Unburied Wights (&W)"
+"Fantômes Inhumés (&W)"
 END
 
 CONTROLBAR:ToolTipBuildGuldurUnburiedWight
-"Requires Spire of Sorcery \n Specialist Unit\nStrong vs. Elite and Upgraded units \n Limited to 3 \n\n By night and mist, dark things stalk the hills and woodlands of the Anduin Vale. The Woodmen say they were once noble lords of Rhovanion, their bones now beholden to the Necromancer's will."
+"Requiert la Tour de Sorcellerie \n Unité spécialisée \n Forte contre les unités d'élite et améliorées \n Limité à 3 \n\n La nuit et la brume, de sombres créatures rôdent dans les collines et les forêts de la vallée de l'Anduin. Les Woodmen disent qu'ils étaient autrefois de nobles seigneurs du Rhovanion, leurs os maintenant soumis à la volonté du Nécromancien."
 END
 
 CONTROLBAR:ToolTipBuildGuldurUnburiedWight_WOTR
-"Specialist Unit\nStrong vs. Elite and Upgraded units \n Limited to 3 \n\n By night and mist, dark things stalk the hills and woodlands of the Anduin Vale. The Woodmen say they were once noble lords of Rhovanion, their bones now beholden to the Necromancer's will."
+"Unité spécialisée \n Forte contre les unités d'élite et améliorées \n Limité à 3 \n\n La nuit et la brume, de sombres créatures rôdent dans les collines et les forêts de la vallée de l'Anduin. Les Woodmen disent qu'ils étaient autrefois de nobles seigneurs du Rhovanion, leurs os maintenant soumis à la volonté du Nécromancien."
 END
 
 CONTROLBAR:ConstructGuldurRisenDeadHorde
-"Risen &Dead"
+"Morts Réanimés"
 END
 
 CONTROLBAR:ToolTipBuildGuldurRisenDeadHorde
-"Strong vs. Pikemen\n\nThe Necromancer is in command of a great number of phantoms and fell spirits, which he sends forth in number to inhabit the corpses of the fallen, both his own soldiers and those of the enemy. Their lifeless husks are re-animated and fight with a renewed vigour that few armies can withstand."
+"Forte contre les piquiers\n\nLe Nécromancien commande un grand nombre de fantômes et d'esprits maléfiques qu'il envoie en grand nombre pour habiter les cadavres des défunts, tant ses propres soldats que ceux de l'ennemi. Leurs coques sans vie sont réanimées et combattent avec une vigueur renouvelée que peu d'armées peuvent supporter."
 END
 
 CONTROLBAR:ConstructGuldurHarbingerHorde
-"Harbingers of Shadow (&E)"
+"Précurseurs de l'Ombre (&E)"
 END
 
 CONTROLBAR:ToolTipBuildGuldurHarbingerHorde
-"Requires Level 2 Spire of Sorcery \n Specialist Unit\nStrong vs. Heroes, Infantry and Structures\nLimited to 3\n\nDuring Sauron's long hiding in the mysterious lands of the East he attracted a dark following of sorcerers and Witch-lords. These evil men would grow learned in the dark arts of Morgoth, in time transforming themselves into the half-living Harbingers of Shadow and following Sauron on his journey back into the lands and affairs of his sworn enemies."
+"Requiert le niveau 2 Tour de Sorcellerie \n Unité spécialisée \n Forte contre les héros, l'infanterie et les structures \n Limité à 3 \n\n Pendant la longue période où Sauron se cachait dans les terres mystérieuses de l'Est, il a attiré à lui une sombre confrérie de sorciers et de Seigneurs des Sorciers. Ces hommes maléfiques se sont initiés aux arts sombres de Morgoth, se transformant avec le temps en Précurseurs de l'Ombre mi-vivants, suivant Sauron dans son retour sur les terres et les affaires de ses ennemis jurés."
 END
 
 CONTROLBAR:DarkPresence
-"Dark Presence"
+"Présence Sombre"
 END
 
 CONTROLBAR:DreadfulPresence
-"Dreadful Presence"
+"Présence Effroyable"
 END
 
 CONTROLBAR:ToolTipDarkPresence
-"Modifier Type: Spell\nNearby Dol Guldur units afflicted by Slow Decay are no longer drained over time, receive +15% damage and armour, and are healed by a small amount\nPassive ability"
+"Type de modification : Sort\nLes unités de Dol Guldur à proximité affectées par la Décadence Lente ne sont plus affaiblies avec le temps, elles reçoivent +15% de dégâts et d'armure, et sont soignées d'une petite quantité\n Capacité passive"
 END
 
 CONTROLBAR:ToolTipNecromancerDarkPresence
-"Modifier Type: Spell\nNearby Dol Guldur units afflicted by Slow Decay are no longer drained over time, become resistant to fear and terror, receive +33% damage and armour, and are healed by a small amount\nPassive ability"
+"Type de modification : Sort\nLes unités de Dol Guldur à proximité affectées par la Décadence Lente ne sont plus affaiblies avec le temps, elles deviennent résistantes à la peur et à la terreur, elles reçoivent +33% de dégâts et d'armure, et sont soignées d'une petite quantité\n Capacité passive"
 END
 
 CONTROLBAR:ToolTipDarkPresenceWithRing
-"Modifier Type: Spell\nNearby Dol Guldur units afflicted by Slow Decay are no longer drained over time, become resistant to fear and terror, receive +33% damage and armour, and are healed by a small amount\nDeals damages to nearby enemies\nPassive ability"
+"Type de modification : Sort\nLes unités de Dol Guldur à proximité affectées par la Décadence Lente ne sont plus affaiblies avec le temps, elles deviennent résistantes à la peur et à la terreur, elles reçoivent +33% de dégâts et d'armure, et sont soignées d'une petite quantité\n Inflige des dégâts aux ennemis à proximité\n Capacité passive"
 END
 
 CONTROLBAR:GuldurInfestation
@@ -75344,7 +75344,7 @@ CONTROLBAR:GuldurInfestation
 END
 
 CONTROLBAR:ToolTipGuldurInfestation
-"Requires a Spider Lair\nSummons a temporary swarm of spiders around the structure\nthat slows nearby enemies' attack and movement speed by 20% and deals minor damage for 30 seconds\nLeft click to activate"
+"Requiert un Repaire d'Araignées\nInvoque un essaim temporaire d'araignées autour de la structure\nqui ralentit les attaques et la vitesse de déplacement des ennemis à proximité de 20% et leur inflige de légers dégâts pendant 30 secondes\nCliquez gauche pour activer"
 END
 
 CONTROLBAR:SpiderLairInfestation
@@ -75352,116 +75352,115 @@ CONTROLBAR:SpiderLairInfestation
 END
 
 CONTROLBAR:ToolTipSpiderLairInfestation
-"Once constructed, Spider Lairs allow most structures\nto use the Infestation power\nInfestation summons a swarm of spiders around a structure\nthat slows nearby enemies' attack and movement speed by 20% and deals minor damage\nPassive ability"
+"Une fois construit, les Repaires d'Araignées permettent à la plupart des structures\nd'utiliser le pouvoir Infestation\nL'infestation invoque un essaim d'araignées autour d'une structure\nqui ralentit les attaques et la vitesse de déplacement des ennemis à proximité de 20% et leur inflige de légers dégâts\n Capacité passive"
 END
 
 CONTROLBAR:GuldurDrain
-"Slow Decay"
+"Lent Pourissement"
 END
 
 CONTROLBAR:ToolTipGuldurDrain
-"Units are continually drained by the Necromancer's magic, slowly losing health over time\nSlow Decay can be countered by Dark Presence from nearby Dol Guldur structures and the Necromancer\nPassive ability"
+"Les unités sont continuellement affaiblies par la magie du Nécromancien, perdant lentement des points de vie avec le temps\nLa Décadence Lente peut être contrée par la Présence Sombre des structures de Dol Guldur et du Nécromancien\n Capacité passive"
 END
 
 CONTROLBAR:BulwarkBuff
-"Bulwarks"
+"Boucliers"
 END
 
 CONTROLBAR:ToolTipBulwarkBuff
-"As the unit levels the power improves\n Rank 1: Nearby allied units gain 10% armour \n Rank 2: Nearby enemy units lose 10% speed \n Rank 4: Nearby allied units gain 20% armour \n Buff Modifier Type: Leadership\n Debuff Modifier Type: Passive Debuff\nPassive ability"
+"À mesure que l'unité monte de niveau, le pouvoir s'améliore\n Rang 1 : Les unités alliées à proximité gagnent 10% d'armure \n Rang 2 : Les unités ennemies à proximité perdent 10% de vitesse \n Rang 4 : Les unités alliées à proximité gagnent 20% d'armure \n Type de modification pour le buff : Leadership\n Type de modification pour le debuff : Débuff passif\n Capacité passive"
 END
 
 CONTROLBAR:EternalServitude
-"Eternal Servitude"
+"Servitude Éternelle"
 END
 
 CONTROLBAR:ToolTipEternalServitude
-"Requires Level 2 \n Each killed unit is reanimated as Risen Dead \n Risen Dead do not suffer from Slow Decay \n Passive ability"
+"Requiert le niveau 2 \n Chaque unité tuée est réanimée en tant que Risen Dead \n Les Risen Dead ne subissent pas la Décadence Lente \n Capacité passive"
 END
 
 CONTROLBAR:PurchaseTechnologyGuldurNecromancy
-"Necromanc&y"
+"Nécromanc&ie"
 END
 
 CONTROLBAR:ToolTipPurchaseTechnologyGuldurNecromancy
-"Orc Hunters and Gaolers may be turned into Risen Dead,\nfast-moving shock troops that do not suffer from Slow Decay\nAlso spawns Risen Dead to defend Dol Guldur structures"
+"Les Chasseurs Orcs et les Gardiens de Geôle peuvent être transformés en Risen Dead, des troupes de choc rapides qui ne subissent pas la Décadence Lente\nFait également apparaître des Risen Dead pour défendre les structures de Dol Guldur"
 END
 
 CONTROLBAR:TechnologyGuldurNecromancy
-"Necromancy"
+"Nécromancie"
 END
 
 CONTROLBAR:ToolTipTechnologyGuldurNecromancy
-"Orc Hunters and Gaolers may be turned into Risen Dead,\nfast-moving shock troops that do not suffer from the Necromancer's Corruption\nAlso spawns Risen Dead to defend Dol Guldur structures\nPassive ability"
+"Les Chasseurs Orcs et les Gardiens de Geôle peuvent être transformés en Risen Dead, des troupes de choc rapides qui ne subissent pas la Corruption du Nécromancien\nFait également apparaître des Risen Dead pour défendre les structures de Dol Guldur\n Capacité passive"
 END
 
 CONTROLBAR:NecromancySummon
-"Necromancy (&T)"
+"Nécromancie (&T)"
 END
 
 CONTROLBAR:ToolTipNecromancySummon
-"Requires a Spire of Sorcery\nTurn the horde into Risen Dead\nLeft click to activate"
+"Requiert une Tour de Sorcellerie\nTransforme la horde en Risen Dead\nCliquez gauche pour activer"
 END
 
 OBJECT:GuldurEntwife
-"Corrupted Entwife"
+"Ent-Femme Corrompue"
 END
 
 CONTROLBAR:ConstructEntwife
-"Corrupted Entwife (&R)"
+"Ent-Femme Corrompue (&R)"
 END
 
 CONTROLBAR:ConstructEntwifeWotR
-"Corrupted Entwife (&E)"
+"Ent-Femmes Corrompue (&E)"
 END
 
 CONTROLBAR:ToolTipBuildEntwife
-"Requires Level 3 Fount of Corruption\nStrong vs. Structures, Swordsmen and Archers\n Limited to 8 \n\n During the War of the Last Alliance, Sauron set fire to the Brown Lands, which had long been the home of the Entwives. Most perished in the inferno, but some were captured by the Dark Forces and subsequently corrupted."
+"Requiert le niveau 3 Source de Corruption\nStrong contre les structures, les épéistes et les archers\n Limité à 8 \n\n Pendant la Guerre de la Dernière Alliance, Sauron incendia les Terres Brunes, qui avaient longtemps été le foyer des Épouses Ents. La plupart périrent dans l'incendie, mais certaines furent capturées par les Forces des Ténèbres et corrompues par la suite."
 END
 
 CONTROLBAR:ToolTipBuildEntwifeWOTR
-"Strong vs. Structures, Swordsmen and Archers\n Limited to 8 \n\n During the War of the Last Alliance, Sauron set fire to the Brown Lands, which had long been the home of the Entwives. Most perished in the inferno, but some were captured by the Dark Forces and subsequently corrupted."
+"Strong contre les structures, les épéistes et les archers\n Limité à 8 \n\n Pendant la Guerre de la Dernière Alliance, Sauron incendia les Terres Brunes, qui avaient longtemps été le foyer des Épouses Ents. La plupart périrent dans l'incendie, mais certaines furent capturées par les Forces des Ténèbres et corrompues par la suite."
 END
 
 CONTROLBAR:TwistedBotany
-"Twisted Botany"
+"Botanique Tordue"
 END
 
 CONTROLBAR:TwistedBotanyExit
-"Twisted Botany (&T)"
+"Botanique Tordue (&T)"
 END
 
 CONTROLBAR:ToolTipTwistedBotany
-"Entwives regain health while outside of combat\nPassive ability \n \n Entwives can enter the Fount to grant it\n+30% resource production\nPassive ability"
+"Les Ent-Femmes régénèrent leur santé lorsqu'elles ne sont pas en combat\n Capacité passive\n\n Les Épouses Ents peuvent entrer dans la Source pour lui accorder\n +30% de production de ressources\n Capacité passive"
 END
 
 CONTROLBAR:ToolTipTwistedBotanyExit
-// context: Appears when you mouse over the Evacuate cameo on any garrisonable structure
-"Entwives can enter the Fount to grant it\n+30% resources production\nOrder the Entwife to leave the Fount of Corruption"
+"Les Ent-Femmes peuvent entrer dans la Source pour lui accorder\n +30% de production de ressources\n Ordonnez à l'Épouse Ent de quitter la Source de Corruption"
 END
 
 OBJECT:GuldurTumorousAcorn
-"Tumorous Acorn"
+"Gland Maléfique"
 END
 
 CONTROLBAR:TumorousAcorn
-"Tumorous Acorn"
+"Gland Maléfique"
 END
 
 CONTROLBAR:ToolTipTumorousAcorn
-"Once Entwives are killed, they drop a Tumorous Acorn,\nwhich will respawn the Entwife if left alone\nPassive ability"
+"Lorsque les Ent-Femmes sont tuées, elles laissent tomber un Gland Tumoral,\nqui fera réapparaître l'Épouse Ent si on le laisse tranquille\n Capacité passive"
 END
 
 CONTROLBAR:GuldurMirkwood
-"Mir&kwood"
+"Forêt Noir"
 END
 
 CONTROLBAR:ToolTipGuldurMirkwood
-"Corrupts targeted trees and extracts additional resources from them\nLeft click icon then left click on target"
+"Corrompt les arbres ciblés et en extrait des ressources supplémentaires\n Cliquez sur l'icône puis cliquez gauche sur la cible"
 END
 
 OBJECT:GuldurGaol
-"Guldur Gaol"
+"Geôle de Dol Guldur"
 END
 
 OBJECT:GuldurGaolDescription
@@ -75469,364 +75468,364 @@ OBJECT:GuldurGaolDescription
 END
 
 CONTROLBAR:ConstructGuldurGaol
-"Summon Guldur Gaol (&T)"
+"Construire la Geôle de Dol Guldur (&T)"
 END
 
 CONTROLBAR:ConstructGuldurGaolWotRRealTime
-"Summon Guldur Gaol (&W)"
+"Construire la Geôle de Dol Guldur (&W)"
 END
 
 CONTROLBAR:ToolTipConstructGuldurGaol
-"Trains Broken Rabble and Orc units"
+"Entraîne des Racailles Brisées et des unités Orc"
 END
 
 CONTROLBAR:ToolTipConstructGuldurGaolWotR
-"Primary Barracks \n Trains Broken Rabble and basic Orc units \n Limited to 3"
+"Quartier général principal \n Entraîne des Racailles Brisées et des unités Orc de base \n Limité à 3"
 END
 
 CONTROLBAR:ConstructGuldurGaol2Upgrade
-"Upgrade Guldur Gaol to Level 2 (&A)"
+"Améliorer la Geôle de Dol Guldur au niveau 2 (&A)"
 End
 
 CONTROLBAR:ConstructGuldurGaol3Upgrade
-"Upgrade Guldur Gaol to Level 3 (&A)"
+"Améliorer la Geôle de Dol Guldur au niveau 3 (&A)"
 End
 
 CONTROLBAR:ToolTipBuildGuldurGaol2Upgrade
-"Allows training of Orc Ravagers\n+10% faster build speed"
+"Permet l'entraînement des Ravageurs Orc\nVitesse de construction +10%"
 End
 
 CONTROLBAR:ToolTipBuildGuldurGaol3Upgrade
-"Allows training of Tomb Guard\n+25% faster build speed \n Adds defensive arrow tower"
+"Permet l'entraînement des Gardes de Tombe\nVitesse de construction +25% \n Ajoute une tour de flèches défensive"
 End
 
 OBJECT:GuldurSpiderLair
-"Spider Lair"
+"Antre à Araignées de Dol Guldur"
 END
 
 OBJECT:GuldurSpiderLairDescription
-"Level 2: +10% faster build speed \n Level 3: +25% faster build speed"
+"Niveau 2 : vitesse de construction +10%. \n Niveau 3 : vitesse de construction +25%."
 END
 
 CONTROLBAR:ConstructGuldurSpiderLair
-"Summon Spider Lair (&C)"
+"Construire l'Antre à Araignées de Dol Guldur (&C)"
 END
 
 CONTROLBAR:ConstructGuldurSpiderLairWotRRealTime
-"Summon Spider Lair (&R)"
+"Construire l'Antre à Araignées de Dol Guldur (&R)"
 END
 
 CONTROLBAR:ToolTipConstructGuldurSpiderLair
-"Trains and upgrades Spiders"
+"Entraîne et améliore les Araignées"
 END
 
 CONTROLBAR:ToolTipConstructGuldurSpiderLairWotR
-"Secondary Barracks \n Trains Fell Brood \n Limited to 1"
+"Quartier général secondaire \n Entraîne les Essaims Malfaisants \n Limité à 1"
 END
 
 OBJECT:GuldurFellBrood
-"Fell Brood"
+"Vile Couvée"
 END
 
 OBJECT:GuldurFellBroodMatriarch
-"Matriarch"
+"Matriarche"
 END
 
 CONTROLBAR:ConstructGuldurFellBroodHorde
-"Fell Brood (&W)"
+"Vile Couvée (&W)"
 END
 
 CONTROLBAR:ToolTipBuildGuldurFellBroodHorde
-"Strong vs. Infantry\nMay trample enemy units\nCan stealth near trees\n\n A horde of large Mirkwood spiders"
+"Fort contre l'infanterie\nPeut piétiner les unités ennemies\nPeut se camoufler près des arbres\n\n Un essaim d'araignées géantes du Mirkwood"
 END
 
 CONTROLBAR:FellBroodShriek
-"Shriek (&T)"
+"Cri strident (&T)"
 END
 
 CONTROLBAR:TooltipFellBroodShriek
-"Requires Level 2\nNearby enemy cavalry are terrified\nAlso passively decreases cavalry speed by -15%\nLeft click to activate"
+"Requiert le niveau 2\nLes cavaleries ennemies à proximité sont terrifiées\nDiminue passivement la vitesse de la cavalerie de -15%\nCliquez gauche pour activer"
 END
 
 CONTROLBAR:ConstructGuldurGreatSpider
-"Saenathra's Sister (&E)"
+"Soeur de Saenathra (&E)"
 END
 
 CONTROLBAR:ToolTipBuildGuldurGreatSpider
-"Requires Level 2 Spider Lair\nStrong vs. infantry and structures\n\n A single giant spider that tramples enemy units and deals powerful siege damage"
+"Requiert le niveau 2 de la Tanière d'Araignées\nFort contre l'infanterie et les structures\n\n Une seule araignée géante qui piétine les unités ennemies et inflige de puissants dégâts de siège"
 END
 
 OBJECT:GuldurGreatSpider
-"Saenathra's Sister"
+"Soeur de Saenathra"
 END
 
 CONTROLBAR:SpecialAbilityGreatSpiderTunnel
-"Burrow (&R)"
+"Tunnel (&R)"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityGreatSpiderTunnel
-"Requires level 2 \n Allows the Spider to tunnel under the ground and emerge at any unshrouded location \n Left click icon then left click on target location"
+"Requiert le niveau 2\nPermet à l'Araignée de creuser sous terre et d'émerger à n'importe quel endroit non dissimulé\nCliquez gauche sur l'icône, puis cliquez gauche sur l'emplacement cible"
 END
 
 CONTROLBAR:EncasingWebs
-"Encasing Webs (&T)"
+"Toiles Enveloppantes (&T)"
 END
 
 CONTROLBAR:ToolTipEncasingWebs
-"Requires Level 3\nDisables enemy structures and deals minor damage for 15 seconds\n Left click icon then left click on target"
+"Requiert le niveau 3\nDésactive les structures ennemies et inflige de légers dégâts pendant 15 secondes\nCliquez gauche sur l'icône, puis cliquez gauche sur la cible"
 END
 
 CONTROLBAR:ConstructGuldurSpiderLairLevel2Upgrade
-"Upgrade Spider Lair to Level 2 (&A)"
+"Améliorer la Tanière d'Araignées au niveau 2 (&A)"
 END
 
 CONTROLBAR:ConstructGuldurSpiderLairLevel3Upgrade
-"Upgrade Spider Lair to Level 3 (&A)"
+"Améliorer la Tanière d'Araignées au niveau 3 (&A)"
 END
 
 CONTROLBAR:ToolTipBuildGuldurSpiderLairLevel2Upgrade
-"Allows training of Saenathra's Sisters\n+10% faster build speed"
+"Permet l'entraînement des Sœurs de Saenathra\nVitesse de construction +10%"
 END
 
 CONTROLBAR:ToolTipBuildGuldurSpiderLairLevel3Upgrade
-"+25% faster build speed"
+"Vitesse de construction +25%"
 END
 
 OBJECT:GuldurRestlessBarrow
-"Restless Barrow"
+"Tombeau souillé"
 END
 
 CONTROLBAR:ConstructGuldurRestlessBarrow
-"Summon Restless Barrow (&M)"
+"Invoquer un Tombeau souillé (&M)"
 END
 
 CONTROLBAR:ToolTipConstructGuldurRestlessBarrow
-"Defensive units that will attack nearby enemies \n Unearths Unburied Wights"
+"Unités défensives qui attaqueront les ennemis à proximité\nDégage des Spectres non inhumés"
 END
 
 OBJECT:GuldurRestlessWarrior
-"Restless Warrior"
+"Guerrier Inquiet"
 END
 
 OBJECT:OathbreakerWarriorGC
-"Oathbreaker Warrior"
+"Guerrier Parjure"
 END
 
 CONTROLBAR:ConstructGuldurSorceryTower
-"Summon Spire of Sorcery (&V)"
+"Invoquer une Tour de la Sorcellerie (&N)"
 End
 
 CONTROLBAR:ToolTipConstructGuldurSorceryTower
-"Trains specialist units\nDamage nearby enemies and turns them into wraiths upon dying\nGrants access to Necromancy upgrade"
+"Entraîne des unités spécialisées\nInflige des dégâts aux ennemis à proximité et les transforme en spectres lorsqu'ils meurent\nDonne accès à l'amélioration Nécromancie"
 END
 
 CONTROLBAR:ToolTipConstructGuldurSorceryTower_WOTR
-"Trains specialist units\nDamage nearby enemies and turns them into wraiths upon dying"
+"Entraîne des unités spécialisées\nInflige des dégâts aux ennemis à proximité et les transforme en spectres lorsqu'ils meurent"
 END
 
 CONTROLBAR:HarbingerDeepRot
-"Deep Rot (&W)"
+"Pourriture Profonde (&W)"
 END
 
 CONTROLBAR:ToolTipHarbingerDeepRot
-"Can be cast on a structure to deal damage over time\nAt rank 3, spawns several uncontrollable Wraiths around the targeted structure\nThese Wraiths last a short time but can turn enemy units\ninto Wraiths\nLeft click icon then left click on target building"
+"Peut être lancé sur une structure pour infliger des dégâts sur la durée\nAu rang 3, invoque plusieurs spectres incontrôlables autour de la structure ciblée\nCes spectres durent peu de temps mais peuvent transformer les unités ennemies en spectres\nCliquez gauche sur l'icône, puis cliquez gauche sur la structure cible"
 END
 
 CONTROLBAR:HarbingerColdSteel
-"Cold Steel"
+"Acier Froid"
 END
 
 CONTROLBAR:ToolTipHarbingerColdSteel
-"Requires Level 2\nThe Harbingers' attacks passively decrease armour by -15%\nand movement speed by -10% per hit\nDebuff does not stack with itself\nPassive ability"
+"Requiert le niveau 2\nLes attaques des Messagers réduisent passivement l'armure de -15%\net la vitesse de déplacement de -10% par coup\nLa pénalité ne se cumule pas avec elle-même\nCapacité passive"
 END
 
 CONTROLBAR:HarbingerWitheringTouch
-"Withering Touch (&T)"
+"Toucher Flétrissant (&T)"
 END
 
 CONTROLBAR:OathbreakerHuskarlWitheringTouch
-"Withering Touch (&R)"
+"Toucher Flétrissant (&R)"
 END
 
 
 CONTROLBAR:ToolTipHarbingerWitheringTouch
-"Requires Level 3\nUnits within the radius take damage over time for 20 seconds\nAffects both enemies and allies\nRisen Dead are immune\nLeft click icon then left click on target area"
+"Requiert le niveau 3\nLes unités à portée subissent des dégâts sur la durée pendant 20 secondes\nAffecte les ennemis et les alliés\nLes Morts Ressuscités sont immunisés\nCliquez gauche sur l'icône, puis cliquez gauche sur la zone cible"
 END
 
 CONTROLBAR:ToolTipOathbreakerHuskarlWitheringTouch
-"Requires Level 3\nUnits within the radius take damage over time for 20 seconds\nAffects both enemies and allies\nOathbreaker Warriors are immune\nLeft click icon then left click on target area"
+"Requiert le niveau 3\nLes unités à portée subissent des dégâts sur la durée pendant 20 secondes\nAffecte les ennemis et les alliés\nLes Guerriers Parjures sont immunisés\nCliquez gauche sur l'icône, puis cliquez gauche sur la zone cible"
 END
 
 OBJECT:GuldurBarricadeExpansion
-"Unquiet Ruin Expansion"
+"Extension de la Ruine Tourmentée"
 END
 
 OBJECT:GuldurBoneyardExpansion
-"Boneyard Expansion"
+"Extension Cimetière"
 END
 
 OBJECT:GuldurCatapultExpansion
-"Orc Catapult Expansion"
+"Extension Catapulte Orque"
 END
 
 CONTROLBAR:ConstructGuldurBoneyardExpansion
-"Boneyard Expansion (&E)"
+"Extension Cimetière (&E)"
 END
 
 CONTROLBAR:ToolTipConstructGuldurBoneyardExpansion
-"Risen Dead will emerge and attack nearby enemy units"
+"Les Morts Ressuscités émergeront et attaqueront les unités ennemies à proximité"
 END
 
 OBJECT:GuldurStatueExpansion
-"Forlorn Statue"
+"Statue Abandonnée"
 END
 
 OBJECT:GuldurStatueExpansionDescription
-"Nearby enemies suffer -25% damage and -20% armour \n Causes enemy units to flee in terror \n Can summon a horde of skeletal warriors onto enemy battalions and siege engines"
+"Les ennemis à proximité subissent -25% de dégâts et ont -20% d'armure\nFait fuir en terrorisant les unités ennemies\nPeut invoquer une horde de guerriers squelettes sur des bataillons ennemis et des machines de siège"
 END
 
 CONTROLBAR:ConstructGuldurStatueExpansion
-"Forlorn Statue Expansion (&R)"
+"Extension de la Statue Abandonnée (&R)"
 END
 
 CONTROLBAR:ToolTipConstructGuldurStatueExpansion
-"Nearby enemies suffer -25% damage and -20% armour \n Causes enemy units to flee in terror \n May purchase Restless Bones upgrade, which allows the Forlorn Statue to summon a horde of skeletal warriors onto enemy battalions and siege engines"
+"Les ennemis à proximité subissent -25% de dégâts et ont -20% d'armure\nFait fuir en terrorisant les unités ennemies\nPossibilité d'acheter l'amélioration Restless Bones, qui permet à la Statue Abandonnée d'invoquer une horde de guerriers squelettes sur des bataillons ennemis et des machines de siège"
 END
 
 CONTROLBAR:PurchaseGuldurRestlessBones
-"Purchase Restless Bones Upgrade (&W)"
+"Acheter l'amélioration Os Agités (&W)"
 END
 
 CONTROLBAR:ToolTipPurchaseGuldurRestlessBones
-"Allows the Forlorn Statue to summon a horde\nof skeletal warriors"
+"Permet à la Statue Abandonnée d'invoquer une horde de guerriers squelettes"
 END
 
 CONTROLBAR:GuldurRestlessBones
-"Restless Bones (&W)"
+"Os Agités (&W)"
 END
 
 CONTROLBAR:ToolTipGuldurRestlessBones
-"Summons a horde of skeletal warriors\nLeft click icon then left click on target"
+"Invoque une horde de guerriers squelettes\nCliquez gauche sur l'icône, puis cliquez gauche sur la cible"
 END
 
 UPGRADE:ToolTipGuldurRestlessBones
-"Restless Bones Upgrade"
+"Amélioration Os Agités"
 END
 
 CONTROLBAR:ConstructGuldurBarricadeExpansion
-"Unquiet Ruin Expansion (&W)"
+"Extension Ruine Tourmentée (&W)"
 END
 
 CONTROLBAR:ToolTipConstructGuldurBarricadeExpansion
-"Fires arrows at nearby enemy units \n Benefits from the Pale Torches upgrade"
+"Tire des flèches sur les unités ennemies à proximité\nBénéficie de l'amélioration Pale Torches"
 END
 
 CONTROLBAR:ConstructGuldurCatapultExpansion
-"Orc &Catapult Expansion"
+"Extension Catapulte Orque"
 END
 
 CONTROLBAR:ToolTipConstructGuldurCatapultExpansion
-"Long range defensive weapon"
+"Arme défensive à longue portée."
 END
 
 CONTROLBAR:PurchaseUpgradeGuldurFortressBatCloud
-"Swarm of Bats (&W)"
+"Nuée de chauves-souris (&W)"
 END
 
 Upgrade:GuldurFortressBatCloud
-"Swarm of Bats"
+"Nuée de chauves-souris"
 END
 
 CONTROLBAR:PurchaseUpgradeGuldurFortressFireArrows
-"Pale Torches (&T)"
+"Torches pâles (&T)"
 END
 
 Upgrade:GuldurFortressFireArrows
-"Pale Torches"
+"Torches pâles"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeGuldurFortressFireArrows
-"Adds fire damage to Fortress and all attached Unquiet Ruins"
+"Ajoute des dégâts de feu à la forteresse et à toutes les Unquiet Ruins associées"
 END
 
 CONTROLBAR:PurchaseUpgradeGuldurFortressBlight
-"Blight (&S)"
+"Fléau (&S)"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeGuldurFortressBlight
-"Prerequisite to Hill of Sorcery \n Enemy units surrounding the fortress take damage \n and turn into Wraiths upon dying"
+"Condition préalable Colline de la Sorcellerie.\nLes unités ennemies entourant la forteresse subissent des dégâts\net se transforment en Wraiths lorsqu'elles meurent"
 END
 
 UPGRADE:FortressGuldurBlight
-"Blight"
+"Peste"
 END
 
 CONTROLBAR:PurchaseUpgradeGuldurFortressEncroachment
-"Dark Encroachment (&R)"
+"Sombres Cachots (&R)"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeGuldurFortressEncroachment
-"Permanently reduces all structure costs by 33% \nDoesn't affect fortress"
+"Réduit de façon permanente tous les coûts de construction de 33%\nN'affecte pas la forteresse"
 END
 
 CONTROLBAR:PurchaseUpgradeGuldurFortressNecromancy_Wotr
-"Necromancy (&R)"
+"Nécromancie (&R)"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeGuldurFortressNecromancy_Wotr
-"Unlocks Necromancy ability for Orc Gaolers and Orc Hunters"
+"Débloque la capacité de Nécromancie pour les Gaolers Orc et les Chasseurs Orc"
 END
 
 CONTROLBAR:GuldurFortressEncroachment
-"Dark Encroachment (&T)"
+"Sombres Cachots (&R)"
 END
 
 CONTROLBAR:ToolTipGuldurFortressEncroachment
-"Requires the Dark Encroachment upgrade \n Reduces all structure costs by 33% for a limited time \n Left click to activate"
+"Requiert l'amélioration Emprise ténébreuse\nRéduit temporairement de 33% tous les coûts de construction\nCliquez pour activer"
 END
 
 UPGRADE:FortressGuldurEncroachment
-"Dark Encroachment"
+"Sombres Cachots"
 END
 
 CONTROLBAR:PurchaseUpgradeGuldurFortressPalantir
-"Guldur Palantir (&E)"
+"Palantir de Guldur (&E)"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeGuldurFortressPalantir
-"Can be cast to reveal part of the map\nEnemy units caught in the radius take minor damage over time"
+"Peut être utilisé pour révéler une partie de la carte\nLes unités ennemies prises dans le rayon subissent des dégâts minimes dans le temps"
 END
 
 UPGRADE:FortressGuldurPalantir
-"Guldur Palantir"
+"Palantir de Guldur"
 END
 
 CONTROLBAR:GuldurPalantir
-"Guldur Palantir (&T)"
+"Palantir de Guldur (&T)"
 END
 
 CONTROLBAR:ToolTipGuldurPalantir
-"Requires the Guldur Palantir upgrade\nCan be cast to reveal part of the map for 2 minutes\nEnemy units caught in the radius take minor damage over time\nLeft click icon then left click on target area"
+"Requiert l'amélioration Palantir de Guldur\nPeut être utilisé pour révéler une partie de la carte pendant 2 minutes\nLes unités ennemies prises dans le rayon subissent des dégâts minimes dans le temps\nCliquez sur l'icône, puis cliquez sur la zone cible"
 END
 
 CONTROLBAR:PurchaseUpgradeGuldurFortressSorcery
-"Hill of Sorcery (&D)"
+"Colline de la Sorcellerie (&D)"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeGuldurFortressSorcery
-"Requires the Blight upgrade \n Increases Fortress armour by 65% \n Allows use of Ensnare ability \n Ensnare takes control of enemy units within the radius for 30 seconds\n When Ensnare runs out, ensnared enemies take damage"
+"Requiert l'amélioration Peste\nAugmente l'armure de la forteresse de 65%\nPermet d'utiliser la capacité Ensnare\nEnsnare prend le contrôle des unités ennemies dans le rayon pendant 30 secondes\nLorsque l'effet d'Ensnare se termine, les ennemis enchevêtrés subissent des dégâts"
 END
 
 UPGRADE:FortressGuldurSorcery
-"Hill of Sorcery"
+"Colline de sorcellerie"
 END
 
 CONTROLBAR:GuldurSorcery
-"H&ill of Sorcery"
+"Colline de sorcellerie"
 END
 
 CONTROLBAR:TooltipGuldurSorcery
-"Requires the Hill of Sorcery upgrade \n Castable, destructive spell that sunders the earth beneath \n the enemy and causes it to erupt in pale flame\nLeft click icon then left click on target area"
+"Requiert l'amélioration Colline de sorcellerie\nSort destructeur pouvant être lancé qui fend la terre sous\nl'ennemi et provoque son éruption en flammes pâles\nCliquez sur l'icône, puis cliquez sur la zone cible"
 END
 
 CONTROLBAR:GuldurEnsnare
@@ -75834,7 +75833,7 @@ CONTROLBAR:GuldurEnsnare
 END
 
 CONTROLBAR:TooltipGuldurEnsnare
-"Requires the Hill of Sorcery upgrade \n Ensnare takes control of enemy units within the radius for 30 seconds\n Ensnared enemies are invulnerable but when the spell runs out, they take damage \nLeft click icon then left click on target"
+"Requiert l'amélioration Colline de sorcellerie\nEnsnare prend le contrôle des unités ennemies dans le rayon pendant 30 secondes\nLes ennemis enchevêtrés sont invulnérables, mais lorsqu'il expire, ils subissent des dégâts\nCliquez sur l'icône, puis cliquez sur la cible"
 END
 
 OBJECT:DwarfStatue
@@ -76067,11 +76066,11 @@ CONTROLBAR:ToolTipBlackEasterling
 END
 
 CONTROLBAR:WordsofDeath
-"Fell Ward (&C)"
+"Quartier de la Bourse (&C)"
 END
 
 CONTROLBAR:ToolTipWordsofDeath
-"Requires Level 5 \n Enemy units nearby Khamûl suffer damage over time\n Passive ability \n\n When activated, places a Rune Circle around Khamûl\nFriendly units within the Rune Circle gain +75% armour to Ranged, Fire, Frost and Magic damage for 60 seconds\n Left click icon then left click on pathable location"
+"Requiert le niveau 5\nLes unités ennemies à proximité de Khamûl subissent des dégâts dans le temps\nCapacité passive\n\nLorsqu'elle est activée, place un Cercle de Rune autour de Khamûl\nLes unités amicales à l'intérieur du Cercle de Rune bénéficient d'une armure supplémentaire de +75% contre les dégâts de projectiles, de feu, de givre et de magie pendant 60 secondes\nCliquez sur l'icône, puis cliquez sur un emplacement accessible"
 END
 
 //------------ Necromancer ---------------
@@ -76437,91 +76436,91 @@ CONTROLBAR:ToolTipBuildGuldurSorceryTowerLevel2Upgrade
 End
 
 CONTROLBAR:TooltipBuildGuldurSorceryTowerLevel3Upgrade
-"Allows research of the Greater Blight upgrade\n +25% faster build speed"
-End
+"Permet de rechercher l'amélioration Greater Blight\n+25% vitesse de construction"
+END
 
 CONTROLBAR:IntrepidCorpse
-"Intrepid Corpse"
+"Corps Intrépide"
 END
 
 CONTROLBAR:ToolTipIntrepidCorpse
-"Risen Dead are immune to all fear and terror effects\nPassive ability"
+"Les Morts ressuscités sont immunisé contre les effets de la Peur et la Terreur. \n\n Capacité Passive."
 END
 
 OBJECT:RestlessArcher
-"Restless Archer"
+"Archer Agile"
 END
 
 OBJECT:HordeRestlessArcher
-"Restless Archers"
+"Archers Agiles"
 END
 
 CONTROLBAR:ConstructGuldurRestlessArcherHorde
-"Restless Archers"
+"Archers Agiles"
 END
 
 CONTROLBAR:ConstructGuldurRestlessArcherHordeWotrInn
-"Restless Archers (&R)"
+"Archers Agiles (&R)"
 END
 
 CONTROLBAR:ToolTipBuildGuldurRestlessArcherHorde
-"Strong vs. Infantry and Monsters\n\nThe restless bones of the dead sometimes retain shreds of memory and long-lost identity. When reanimated, they might be inclined to choose familiar arms, whether they be bow, spear or sword."
+"Fort contre l'infanterie et les monstres\n\nLes ossements agités des morts conservent parfois des bribes de mémoire et d'identité perdue. Lorsqu'ils sont réanimés, ils peuvent être enclins à choisir des armes familières, qu'il s'agisse d'arcs, de lances ou d'épées."
 END
 
 CONTROLBAR:ToolTipIntrepidCorpseRestlessArchers
-"Restless Archers are immune to all fear and terror effects\nPassive ability"
+"Les Archers Agiles sont immunisés contre tous les effets de peur et de terreur\nCapacité passive"
 END
 
 CONTROLBAR:ToolTipDarkSustenanceRestlessArchers
-"Requires Level 2\nRestless Archers quickly regain health and restore their horde while outside of combat\nPassive ability"
+"Requiert le niveau 2\nLes Archers Agiles récupèrent rapidement leur santé et restaurent leur horde lorsqu'ils ne sont pas engagés dans un combat\nCapacité passive"
 END
 
 CONTROLBAR:DarkSustenance
-"Dark Sustenance"
+"Subsistance Noir"
 END
 
 CONTROLBAR:ToolTipDarkSustenance
-"Requires Level 2\nRisen Dead quickly regain health and restore their horde while outside of combat\nPassive ability"
+"Requiert : Niveau 2 \n Les Morts ressuscités récupèrent de la vie et l'unité se régénère en dehors du combat. \n\n Capacité Passive."
 END
 
 CONTROLBAR:ToolTipDarkSustenance_Individual
-"Requires Level 2\nRisen Dead quickly regain health while outside of combat\nPassive ability"
+"Requiert : Niveau 2 \n Les Morts ressuscités récupèrent de la vie en dehors du combat. \n\n Capacité Passive."
 END
 
 CONTROLBAR:RDSickness
-"Down With The Sickness"
+"Tomber par la Maladie"
 END
 
 CONTROLBAR:ToolTipRDSickness
-"Requires Level 5\nEnemies slain by Risen Dead have a small chance to be temporarily reanimated on the player's side\nPassive ability"
+"Requiert : Niveau 5 \n Les ennemis tués par les Morts ressuscités ont une petite chance d'être temporairament réanimés du coté du joueur. \n\n Capacité Passive."
 END
 
 CONTROLBAR:ToolTipRDSickness_Individual
-"Requires Level 5\nEnemies slain by Risen Dead are temporarily reanimated on the player's side\nPassive ability"
+"Requiert : Niveau 5 \n Les ennemis tués par les Morts ressuscités ont une petite chance d'être temporairament réanimés du coté du joueur. \n\n Capacité Passive."
 END
 
 CONTROLBAR:CastellanLeadership
-"Castellan of Dol Guldur"
+"Châtelain de Dol Guldur"
 END
 
 CONTROLBAR:ToolTipCastellanLeadership
-"Provides +25% armour to nearby allied structures \n Attacking enemy units are poisoned and lose -15% armour for 5 seconds\n Passive ability"
+"Fournit +25% d'armure aux structures alliées à proximité\nLes unités ennemies attaquantes sont empoisonnées et perdent -15% d'armure pendant 5 secondes\nCapacité passive"
 END
 
 CONTROLBAR:CastellanIncorporeal
-"Incorporeal (&R)"
+"Immatériel (&R)"
 END
 
 CONTROLBAR:ToolTipCastellanIncorporeal
-"Requires Level 3\nThe Armoured Castellan becomes immune to damage\nfor 30 seconds but cannot move or attack\nLeft click to activate"
+"Requiert le niveau 3\nLe Castellan Armoured devient invulnérable aux dégâts pendant 30 secondes, mais ne peut ni se déplacer ni attaquer\nCliquez gauche pour activer"
 END
 
 CONTROLBAR:NecromanticBlast
-"Necromantic Blast (&T)"
+"Explosion Nécromantique (&T)"
 END
 
 CONTROLBAR:ToolTipNecromanticBlast
-"Requires Level 7\nEnemy units are blasted back and take damage\nKilled units become wraiths\nLeft click to activate"
+"Requiert le niveau 7\nLes unités ennemies sont projetées en arrière et subissent des dégâts\nLes unités tuées deviennent des spectres\nCliquez gauche pour activer"
 END
 
 //------------ Mirkwood Palace Guard ---------------
@@ -76534,15 +76533,15 @@ OBJECT:HordeMirkwoodPalaceGuard
 END
 
 OBJECT:HordeMirkwoodPalaceGuardDoubleHorde
-"Tamastirnyr Double Horde"
+"Escadron Double Tamastirnyr"
 END
 
 OBJECT:HordeMirkwoodPalaceGuardWarriorComboHorde
-"Tamastirnyr-Megilherdir Combo Horde"
+"Escadron Combo Tamastirnyr-Megilherdir"
 END
 
 OBJECT:HordeMirkwoodPalaceGuardSlayerComboHorde
-"Tamastirnyr-Theladagnyr Combo Horde"
+"Escadron Combo Tamastirnyr-Theladagnyr"
 END
 
 CONTROLBAR:ConstructMirkwoodPalaceGuardHorde
@@ -76550,31 +76549,31 @@ CONTROLBAR:ConstructMirkwoodPalaceGuardHorde
 END
 
 CONTROLBAR:LW_Unit_MirkwoodPalaceGuardHorde
-"Tamastirnyr Battalion"
+"Bataillon de Tamastirnyr"
 END
 
 CONTROLBAR:LW_Unit_MirkwoodPalaceGuardHordePlural
-"Tamastirnyr Battalions"
+"Bataillons de Tamastirnyr"
 END
 
 CONTROLBAR:LW_Unit_MirkwoodPalaceGuardComboHorde
-"Tamastirnyr Combo Battalion"
+"Bataillon Combo de Tamastirnyr"
 END
 
 CONTROLBAR:LW_Unit_MirkwoodPalaceGuardComboHordePlural
-"Tamastirnyr Combo Battalions"
+"Bataillons Combo de Tamastirnyr"
 END
 
 CONTROLBAR:LW_ToolTip_MirkwoodPalaceGuardHorde
-"Hall-watchers \n Unit Type: Elite Pikemen\nStrong vs. Cavalry"
+"Gardiens des salles\nType d'unité : Piquiers d'élite\nEfficaces contre la cavalerie"
 END
 
 CONTROLBAR:ToolTipBuildMirkwoodPalaceGuardHorde
-"Hall-watchers \n Requires Level 2 Barracks\nStrong vs. Cavalry and Heroes \n \n Charged with the protection of the Elvenking's halls, the Palace Guard is a cadre of skilled Elven warriors."
+"Gardiens des salles\nRequiert une caserne de niveau 2\nEfficaces contre la cavalerie et les héros\n\nChargée de la protection des salles du Roi des Elfes, la Garde du Palais est un groupe de guerriers Elfes expérimentés."
 END
 
 CONTROLBAR:LW_ToolTipBuild_MirkwoodPalaceGuardHorde
-"Hall-watchers \n Unit Type: Elite Pikemen\nStrong vs. Cavalry\n"
+"Gardiens des salles\nType d'unité : Piquiers d'élite\nEfficaces contre la cavalerie\n"
 END
 
 CONTROLBAR:ConstructGreenwoodSpearmanHorde
@@ -76582,56 +76581,56 @@ CONTROLBAR:ConstructGreenwoodSpearmanHorde
 END
 
 CONTROLBAR:ToolTipBuildGreenwoodSpearmenHorde
-"Hall-watchers \n Requires Level 2 Barracks\nStrong vs. Cavalry and Heroes \n \n Armed with long spears and tall shields, these Elven warriors solemnly carried out the Elvenking's will with deadly precision."
+"Gardiens du hall\nRequiert une caserne de niveau 2\nEfficaces contre la cavalerie et les héros\n\nArmés de longues lances et de grands boucliers, ces guerriers Elfes exécutent solennellement la volonté du Roi des Elfes avec une précision mortelle."
 END
 
 CONTROLBAR:ToolTipBuildGreenwoodSpearmenHordeBotFA
-"Hall-watchers \n Requires Level 2 Elvenking's Barracks\nStrong vs. Cavalry and Heroes \n \n Armed with long spears and tall shields, these Elven warriors solemnly carried out the Elvenking's will with deadly precision."
+"Gardiens du hall\nRequiert une caserne de niveau 2 du Roi des Elfes\nEfficaces contre la cavalerie et les héros\n\nArmés de longues lances et de grands boucliers, ces guerriers Elfes exécutent solennellement la volonté du Roi des Elfes avec une précision mortelle."
 END
 //--------------Prison Guard Swords-------------
 CONTROLBAR:ConstructPrisonGuardSwordHorde
-"Prison Guards (&W)"
+"Gardiens de prison (&W)"
 END
 
 CONTROLBAR:ToolTipBuildPrisonGuardSwordHorde
-"Strong vs. Pikemen \n \n Charged with the protection of the Elvenking's dungeons, the Prison Guard is a cadre of skilled Elven warriors."
+"Efficaces contre les piquiers\n\nChargés de la protection des cachots du Roi des Elfes, les Gardiens de prison sont un groupe de guerriers Elfes expérimentés."
 END
 
 OBJECT:HordePrisonGuard
-"Prison Guards"
+"Gardiens de prison"
 END
 
 OBJECT:PrisonGuard
-"Prison Guard"
+"Gardien de prison"
 END
 
 CONTROLBAR:LW_Unit_PrisonGuardSwordHorde
-"Prison Guard Battalion"
+"Bataillon des Gardiens de prison"
 END
 
 CONTROLBAR:LW_Unit_PrisonGuardSwordHordePlural
-"Prison Guard Battalions"
+"Bataillons des Gardiens de prison"
 END
 
 CONTROLBAR:LW_ToolTip_PrisonGuardSwordHorde
-"Unit Type: Elite Infantry\nStrong vs. Infantry"
+"Type d'unité : Infanterie d'élite\nEfficace contre l'infanterie"
 END
 
 OBJECT:DwarvenThorinHelm
-"Thorin III Stonehelm"
+"Thorin III Heaume de Pierre"
 END
 
 CONTROLBAR:ToolTipBuildDwarvenThorinHelm
-"Recruit the Prince of Erebor"
+"Recrutez le Prince d'Erebor"
 END
 CONTROLBAR:DwarvenThorinHelmRecruit
-"Recruit Thorin III Stonehelm, Prince of Erebor \n \n When news of Sauron's defeat reached the Easterling host that lay siege to Erebor, they were filled with dismay. It was at this moment that Thorin Stonehelm, Prince of Erebor, led a brazen counterattack that broke the siege and routed the enemy."
+"Recrutez Thorin III Heaume de Pierre, Prince d'Erebor. \n\n Lorsque la nouvelle de la défaite de Sauron parvint au Roi oriental qui assiégeait Erebor, ils furent remplis de consternation. \n C'est à ce moment que Thorin III Heaume de Pierre, Prince d'Erebor, mena une contre-attaque effrontée qui brisa le siège et mit l'ennemi en déroute. \n\n 'La lignée de Durin perdurera à jamais. Quoi qu'il en coûte !'"
 END
 CONTROLBAR:DwarvenThorinHelmRevive
-"Revive the fallen Hero, Thorin III Stonehelm"
+"Ressuscitez le héros déchu, Thorin III Heaume de Pierre"
 END
 CONTROLBAR:DwarvenThorinHelmHotkey
-"Thorin III Stonehelm (&D)"
+"Thorin III Heaume de Pierre (&D)"
 END
 
 OBJECT:DwarvenHadhod
@@ -76639,70 +76638,70 @@ OBJECT:DwarvenHadhod
 END
 
 CONTROLBAR:ToolTipBuildDwarvenHadhod
-"Recruit the Prince of Erebor"
+"Recrutez le Prince d'Erebor"
 END
 CONTROLBAR:DwarvenHadhodRecruit
-"Recruit the proud warrior of the clan of Fundin \n \n Hadhod is a veteran of many battles, having traveled far and wide before finally settling down in Erebor."
+"Recrutez le fier nain Hadhod du Clan de Fundin. \n\n Hadhod est un vétéran de nombreuses batailles, ayant beaucoup voyagé avant de s'installer à Erebor. Très compétent en démolition, il pouvait identifier les faiblesses subtiles des défenses ennemies que les Nains pouvaient exploiter dans leurs nombreux assauts contre les Forteresses Orques. \n\n 'Nous devrions ouvrir de nouvelles voies, et afficher de loin des chambres encore sombres, entrevues seulement comme un vide au-delà des fissures de la roche.'"
 END
 CONTROLBAR:DwarvenHadhodRevive
-"Revive the fallen Hero, Hadhod the Dwarf"
+"Rappelez Hadhod à la vie"
 END
 CONTROLBAR:DwarvenHadhodHotkey
-"Hadhod the Dwarf (&R)"
+"Hadhod le Nain (&R)"
 END
 
 
 OBJECT:LaketownMaster
-"Master of Laketown"
+"Maître de Lac-ville"
 END
 CONTROLBAR:LaketownMasterRecruit
-"Recruit the Master of the Men of the Lake \n \n 'All this talk of a change must be suppressed. We can't afford to let the rabble band together, start making noises. The next you know, they'll start asking questions, forming committees.'"
+"Recrutez le Maître des Hommes du lac. \n\n Le maître de Lac-ville était le souverain d'Esgaroth, c'était un chef corrompu et glouton consumé par la paranoùa de perdre son pouvoir. Il a accepté de permettre à la Compagnie de Thorin de traverser en toute sécurité la ville du lac pendant leur quête pour récupérer Erebor seulement après qu'on lui ait promis une part des richesses de la Montagne Solitaire. \n\n 'Toute cette discussion sur un changement doit être supprimée. Nous ne pouvons pas nous permettre de laisser la racaille s’unir, commencer à faire du bruit. La suite, vous la connaissez. Ils poseront des questions et formeront des comités.'"
 END
 CONTROLBAR:LaketownMasterRevive
-"Revive the fallen Hero, Master of laketown"
+"Rappelez le Maître de Lac-ville à la vie"
 END
 CONTROLBAR:LaketownMasterHotkey
-"Master of Laketown (&E)"
+"Maître de Lac-ville (&E)"
 END
 
 CONTROLBAR:PurchaseUpgradeDwarvenFortressHobbitEra
-"Reign of Oakenshield (&R)"
+"Règne d'Écu-de-chêne (&R)"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeDwarvenFortressHobbitEra
-"Choose to fight with Thorin Oakenshield and his loyal companions!"
+"Choisissez de combattre avec Thorin Écu-de-chêne et ses loyaux compagnons !"
 END
 
 CONTROLBAR:PurchaseUpgradeDwarvenFortressLotREra
-"Reign of Ironfoot (&E)"
+"Règne de Pied d'Acier (&E)"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeDwarvenFortressLotREra
-"Choose to fight with Dain Ironfoot and his staunch allies!"
+"Choisissez de combattre avec Dain Pied d'Acier et ses fervents alliés !"
 END
 
 CONTROLBAR:EreborEraChoiceButton
-"Erebor Era Choice"
+"Ère d'Erebor choisie"
 END
 
 CONTROLBAR:ToolTipEreborEraChoiceButton
-"Choose your era at the fortress"
+"Choisisez votre règne à la Forteresse."
 END
 
 CONTROLBAR:HobbitEraChoiceButton
-"Reign of Oakenshield"
+"Règne d'Écu-de-Chêne"
 END
 
 CONTROLBAR:ToolTipHobbitEraChoiceButton
-"You have chosen the Reign of Oakenshield"
+"Vous avez choisi le Règne d'Écu-de-Chêne."
 END
 
 CONTROLBAR:LotREraChoiceButton
-"Reign of Ironfoot"
+"Règne de Pied d'Acier"
 END
 
 CONTROLBAR:ToolTipLotREraChoiceButton
-"You have chosen the Reign of Ironfoot"
+"Vous avez choisi le Règne de Pied d'Acier."
 END
 
 //------------ True Azog ---------------
@@ -76710,40 +76709,40 @@ OBJECT:TrueAzog
 "Azog"
 END
 CONTROLBAR:TrueAzogRecruit
-"Recruit the Despoiler of Moria\n\n 'But if his family wish to know who is now king here, the name is written on his face. I wrote it! I killed him! I am the master!'"
+"Recrutez le Pillard de la Moria\n\n'Mais si sa famille souhaite savoir qui est désormais le roi ici, son nom est écrit sur son visage. C'est moi qui l'ai écrit ! Je l'ai tué ! Je suis le maître !'"
 END
 CONTROLBAR:TrueAzogRevive
-"Revive the fallen Hero, Azog"
+"Ressuscitez le héros déchu, Azog"
 END
 CONTROLBAR:TrueAzogHotkey
 "Azog"
 END
 CONTROLBAR:TrueAzogLeadership
-"Orcish Chieftain"
+"Chef Orque"
 END
 CONTROLBAR:ToolTipTrueAzogLeadership
-"Modifier Type: Leadership\nNearby Orcs receive +50% armour, experience and resistance to fear and terror\nPassive ability"
+"Type de modification : Leadership\nLes Orques à proximité bénéficient de +50% d'armure, d'expérience et de résistance à la peur et à la terreur\nCapacité passive"
 END
 CONTROLBAR:TrueAzogDespoiler
-"Despoiler of Moria (&R)"
+"Pilleur de la Moria (&R)"
 END
 CONTROLBAR:ToolTipTrueAzogDespoiler
-"Taints an area around Azog for 60 seconds\n Nearby allies near this area earn extra resources on kills \n Enemy units near this area suffer -25% damage and -20% armour\n Nullifies enemy leadership\n Left click to activate"
+"Souille une zone autour d'Azog pendant 60 secondes\nLes alliés à proximité de cette zone gagnent des ressources supplémentaires en tuant des ennemis\nLes unités ennemies près de cette zone subissent -25% de dégâts et -20% d'armure\nNeutralise le leadership ennemi\nCliquez gauche pour activer"
 END
 CONTROLBAR:TrueAzogGrowingHatred
-"Growing Hatred (&T)"
+"Haine grandissante (&T)"
 END
 CONTROLBAR:ToolTipTrueAzogGrowingHatred
-"Requires Level 3\n Azog deals increased damage against Dwarves \n Passive ability \n\n When activated, Azog deals knockback damage with a greater attack radius for 30 seconds\n Consecutive attacks temporarily increase attack damage by 10% up to a maximum of 50% \n Left click to activate"
+"Requiert le niveau 3\nAzog inflige plus de dégâts contre les Nains\nCapacité passive\n\nLorsqu'elle est activée, Azog inflige des dégâts de recul avec un rayon d'attaque plus grand pendant 30 secondes\nLes attaques consécutives augmentent temporairement les dégâts d'attaque de 10% jusqu'à un maximum de 50%\nCliquez gauche pour activer"
 END
 CONTROLBAR:TrueAzogRuledByFear
-"Ruled by Fear (&C)"
+"Sous la domination de la peur (&C)"
 END
 CONTROLBAR:TrueAzogHewingBlow
-"Hewing Blow (&V)"
+"Coup tranchant (&V)"
 END
 CONTROLBAR:ToolTipTrueAzogHewingBlow
-"Requires Level 7\nKnocks down and damages targeted units\nStuns targeted heroes for 5 seconds\nLeft click icon then left click on target"
+"Requiert le niveau 7\nRenverse et endommage les unités ciblées\nÉtourdit les héros ciblés pendant 5 secondes\nCliquez sur l'icône, puis cliquez sur la cible"
 END
 
 OBJECT:MordorGorbag
@@ -76751,11 +76750,11 @@ OBJECT:MordorGorbag
 END
 
 CONTROLBAR:MordorGorbagRecruit
-"Recruit the orc captain of Cirith Ungol \n \n 'It's going to the Great Eye! Along with everything else.'"
+"Recrutez le capitaine Orque de Cirith Ungol. \n\n Capitaine Orque stationné à Minas Morgul sous le commandement des Nazgûls, Gorbag a été envoyé pour patrouiller les escaliers à Cirith Ungol, où il a rencontré le Capitaine Uruk Shagrat. Les deux capitaines ont découvert le corps de Frodon après qu'il ait été piqué par Arachne et l'ont porté à la tour de Cirith Ungol. \n\n 'C'est pour le Grand Oeil ! Comme tous le reste d'ailleurs.'"
 END
 
 CONTROLBAR:MordorGorbagRevive
-"Revive the fallen Hero, Gorbag"
+"Rappellez Gorbag à la vie"
 END
 
 CONTROLBAR:MordorGorbagHotkey
@@ -76767,11 +76766,11 @@ OBJECT:MordorShagrat
 END
 
 CONTROLBAR:MordorShagratRecruit
-"Recruit the Uruk chieftain of Cirith Ungol \n \n 'I don't take orders from stinking Morgul rats!'"
+"Recrutez le Chef de Clan Uruk de Cirith Ungol. \n\n Shagrat était un Capitaine Uruk stationné dans la tour de Cirith Ungol vers la fin de la Guerre de l'Anneau. Il nourrissait une terrible rancune envers Gorbag, le Capitaine Orque de Minas Morgul, avec qui il découvrit le corps de Frodon dans le repaire d'Arachne. Les deux capitaines emmenèrent Frodon à Cirith Ungol et ont revendiqué ses possessions, jusqu'à ce que Gorbag déclencha une bagarre entre ses Orques et les Uruks de Shagrat au sujet de la côte en mithril de Frodon. \n\n 'Je ne reçois pas d'ordre de rat puant de Morgul !'"
 END
 
 CONTROLBAR:MordorShagratRevive
-"Revive the fallen Hero, Shagrat"
+"Rappellez Shagrat à la vie"
 END
 
 CONTROLBAR:MordorShagratHotkey
@@ -76779,103 +76778,103 @@ CONTROLBAR:MordorShagratHotkey
 END
 
 CONTROLBAR:FierceRivalry
-"Fierce Rivalry"
+"Rivalité Féroce"
 END
 
 CONTROLBAR:ToolTipGorbagFierceRivalry
-"When near Shagrat, Gorbag slowly takes damage over time \n Passive ability"
+"A proximité de Shagrat, Gorbag subit lentement des dégâts au fil du temps. \n\n Capacité passive."
 END
 
 CONTROLBAR:ToolTipShagratFierceRivalry
-"When near Gorbag, Shagrat slowly takes damage over time \n Unlocks Brawl ability for Black Uruk Marauders allowing to kill friendly Orc Warriors or Legions of Morgul to gain combat experience\nPassive ability"
+"A proximité de Gorbag, Shagrat subit lentement des dégâts au fil du temps. \n Débloque la capacité Bagarre pour les Maraudeurs Noir Uruk permettant de tuer des Guerriers Orques ou des Légions de Morgul pour gagner de l'éxpérience de combat. \n\n Capacité Passive."
 END
 
 CONTROLBAR:GorbagMorgulCunning
-"Orcish Cunning (&R)"
+"Ruse de Morgul (&R)"
 END
 
 CONTROLBAR:ToolTipGorbagMorgulCunning
-"Grows in power as Gorbag levels\nAt rank 1, Gorbag's ranged avoidance is increased\nAt rank 3, Gorbag is able to stealth for 30 seconds - Gorbag loses stealth if he attacks\nAt rank 5, +25% damage for 30 seconds plus prior effects\nAt rank 7, passively gains +25% damage\nAt rank 10, passively gains +25% armour\nLeft click to activate"
+"Gagne en puissance avec le niveau de Gorbag\nAu rang 1, l'évitement à distance de Gorbag est augmenté\nAu rang 3, Gorbag peut se camoufler pendant 30 secondes - Gorbag perd son camouflage s'il attaque\nAu rang 5, +25% de dégâts pendant 30 secondes, en plus des effets précédents\nAu rang 7, gagne passivement +25% de dégâts\nAu rang 10, gagne passivement +25% d'armure\nCliquez gauche pour activer"
 END
 
 CONTROLBAR:GorbagDropkick
-"Dropkick (&T)"
+"Coup de pied retourné (&T)"
 END
 
 CONTROLBAR:ToolTipGorbagDropkick
-"Requires Level 2\n Knocks down nearby units \n Stuns targeted heroes for 5 seconds \nCan be used with Orcish Cunning\nLeft click icon then left click on target"
+"Requiert le niveau 2\nRenverse les unités à proximité\nÉtourdit les héros ciblés pendant 5 secondes\nPeut être utilisé avec la Ruse Orcique\nCliquez sur l'icône, puis cliquez sur la cible"
 END
 
 CONTROLBAR:GorbagBleedWeapon
-"I'll Bleed You (&C)"
+"Je vais te saigner ! (&C)"
 END
 
 CONTROLBAR:ToolTipGorbagBleedWeapon
-"Requires Level 4\nTargeted enemy hero takes heavy damage over time for 15 seconds\nLeft click icon then left click on target"
+"Requiert le niveau 4\nLe héros ennemi ciblé subit des dégâts importants sur la durée pendant 15 secondes\nCliquez sur l'icône, puis cliquez sur la cible"
 END
 
 CONTROLBAR:GorbagLoyaltyWeapon
-"Loyalty to the Red Eye (&V)"
+"Loyauté envers l'Œil Rouge (&V)"
 END
 
 CONTROLBAR:ToolTipGorbagLoyaltyWeapon
-"Requires Level 7\nGorbag passively gains +15% speed\nPassive ability\n\nTargeted enemy hero loses -25% armour for 30 seconds\nGorbag deals +25% damage to targeted hero for the duration\nLeft click icon then left click on target"  ;\nwhile Gorbag gains +50% armour for the duration
+"Requiert le niveau 7\nGorbag gagne passivement +15% de vitesse\nCapacité passive\n\nLe héros ennemi ciblé perd -25% d'armure pendant 30 secondes\nGorbag inflige +25% de dégâts au héros ciblé pendant la durée\nCliquez sur l'icône, puis cliquez sur la cible"
 END
 
 CONTROLBAR:ShagratTowersCaptain
-"Captain of the Tower"
+"Capitaine de la Tour"
 END
 
 CONTROLBAR:ShagratTowersCaptainLevel3
-"Captain of the Tower (&R)"
+"Capitaine de la Tour (&R)"
 END
 
 CONTROLBAR:ToolTipShagratTowersCaptain
-"Mordor Towers and Orc Archers near Shagrat gain +15% vision,\n+15% range, and +15% damage\nPassive ability\n\nAt rank 3, spawns a temporary horde of Black Uruk Marauders when used on a allied or enemy building\nLeft click icon then left click on target building"
+"Les Tours de Mordor et les Archers Orques à proximité de Shagrat gagnent +15% de vision,\n+15% de portée et +15% de dégâts\nCapacité passive\n\nAu rang 3, invoque une horde temporaire de Maraudeurs Orques Noirs lorsqu'il est utilisé sur un bâtiment allié ou ennemi\nCliquez gauche sur l'icône, puis cliquez sur le bâtiment cible"
 END
 
 CONTROLBAR:ShagratLeadership
-"Loyalty to Lugbúrz (&T)"
+"Loyauté envers Lugbúrz (&T)"
 END
 
 CONTROLBAR:ToolTipShagratLeadership
-"Requires Level 5\nNearby Black Uruk Marauders gain +25% armour\nPassive ability\n\nCan be activated to grant +25% damage to nearby Orc Warriors and Black Uruk Marauders\nas well as knockback damage to Shagrat for 20 seconds\nLeft click to activate"
+"Requiert le niveau 5\nLes Maraudeurs Orques Noirs à proximité gagnent +25% d'armure\nCapacité passive\n\nPeut être activé pour accorder +25% de dégâts aux Guerriers Orques et aux Maraudeurs Orques Noirs à proximité,\net infliger des dégâts de renversement à Shagrat pendant 20 secondes\nCliquez gauche pour activer"
 END
 
 CONTROLBAR:ShagratCovetousUruk
-"Covetous Uruk"
+"Uruk Avide"
 END
 
 CONTROLBAR:ToolTipShagratCovetousUruk
-"Requires Level 7\nShagrat and nearby Black Uruk Marauders steal resources\nfrom slain foes\nPassive ability"
+"Requiert le niveau 7\nShagrat et les Maraudeurs Orques Noirs à proximité dérobent des ressources\ndans les cadavres des ennemis tués\nCapacité passive"
 END
 
 CONTROLBAR:GothmogOrcSummon
-"Form Ranks, Maggots! (&T)"
+"Formation, Vermisseaux ! (&T)"
 END
 
 CONTROLBAR:MorgulPikemenLeadership
-"Form Ranks, Maggots!"
+"Formation, Vermisseaux !"
 END
 
 CONTROLBAR:ToolTipGothmogOrcSummon
-"Requires Level 3\nSummons a horde of Morgul Pikemen around Gothmog\nMorgul Pikemen grant a small damage boost\nto nearby orc archers\nAt rank 7, summons an additional horde of Morgul Pikemen\nLeft click to activate"
+"Requiert le niveau 3\nInvoque une horde de Piquiers de Morgul autour de Gothmog\nLes Piquiers de Morgul accordent un léger bonus de dégâts\naux archers orques à proximité\nAu rang 7, invoque une horde supplémentaire de Piquiers de Morgul\nCliquez gauche pour activer"
 END
 
 CONTROLBAR:ToolTipMorgulPikeBuff
-"Morgul Pikemen grant +15% damage to nearby orc archers\nPassive ability"
+"Les Piquiers de Morgul accordent +15% de dégâts aux archers orques à proximité\nCapacité passive"
 END
 
 CONTROLBAR:MordorShelobSummon
-"Terror of Cirith Ungol"
+"Terreur de Cirith Ungol"
 END
 
 CONTROLBAR:TooltipMordorShelobSummon
-"Summons Shelob and three hordes of Brood of Shelob\nEnemy units within the radius of the web are slowed by 33%\nLeft click on icon then left click on target area"
+"Invoque Arachne et trois hordes de la Progéniture d'Arachne\nLes unités ennemies dans le rayon de la toile sont ralenties de 33%\nCliquez sur l'icône, puis cliquez sur la zone cible"
 END
 
 OBJECT:ShelobBrood
-"Brood of Shelob"
+"Progéniture d'rachne"
 END
 
 OBJECT:IsengardGrishnakh
@@ -76883,11 +76882,11 @@ OBJECT:IsengardGrishnakh
 END
 
 OBJECT:IsengardGrishnakhRecruit
-"Recruit the Orcish captain of Barad-dûr\n'My dear tender little fools,' hissed Grishnákh, 'everything you have, and everything you know, will be got out of you in due time: everything! You'll wish there was more that you could tell to satisfy the Questioner, indeed you will: quite soon."
+"Recruter le capitaine orque de Barad-dûr\n'Mes chers petits fous fragiles', siffla Grishnákh, 'tout ce que vous avez et tout ce que vous savez sera extrait de vous en temps voulu : tout ! Vous souhaiterez pouvoir en dire plus pour satisfaire l'Interrogateur, en effet : très bientôt."
 END
 
 CONTROLBAR:IsengardGrishnakhRevive
-"Revive the fallen hero, Grishnákh"
+"Ressusciter le héros tombé, Grishnákh"
 END
 
 CONTROLBAR:IsengardGrishnakhHotkey
@@ -76895,283 +76894,282 @@ CONTROLBAR:IsengardGrishnakhHotkey
 END
 
 CONTROLBAR:ToolTipSpecialAbilityGrishnakhPillage
-"Grishnákh steals resources whenever dealing damage\nto enemy structures\nPassive ability"
+"Grishnákh vole des ressources chaque fois qu'il inflige des dégâts\naux structures ennemies\nCapacité passive"
 End
 
 CONTROLBAR:SpecialAbilityGrishnakhTenacity
-"Orcish Tenacity"
+"Ténacité orque"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityGrishnakhTenacity
-"If Grishnákh reaches 30% health, he gains +100% armour for 20 seconds\nPassive ability"
+"Si Grishnákh atteint 30% de sa vie, il gagne +100% d'armure pendant 20 secondes\nCapacité passive"
 END
 
 CONTROLBAR:GrishnakhWickedJab
-"Wicked Jab (&T)"
+"Coup fourbe (&T)"
 END
 
 CONTROLBAR:ToolTipGrishnakhWickedJab
-"Powerful attack that deals heavy damage over time to target hero for 20 seconds\nLeft click icon then left click on target"
+"Attaque puissante qui inflige de lourds dégâts sur la durée au héros ciblé pendant 20 secondes\nCliquez sur l'icône, puis cliquez sur la cible"
 END
 
 CONTROLBAR:PurchaseUpgradeMordorFortressMorgulSpire
-"Morgul Spire (&D)"
+"Flèche de Morgul (&D)"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeMordorFortressMorgulSpire
-"Requires the Morgul Sorcery upgrade\n Allows recruitment of Morgul Vanguard\n\n His Deadliest Servants:\nPassively grants +20% damage and 20% armour\nto all Nazgûl on the battlefield\nDoes not affect Fellbeasts\n\nAllows the Fortress to use the Beacon of Morgul:\nAll orcs on the battlefield gain 15% speed and +50% damage and armour for 30 seconds"
+"Requiert l'amélioration Sorcellerie de Morgul\nPermet le recrutement de la Vanguard de Morgul\n\nSes Serviteurs les Plus Létaux :\nAccorde passivement +20% de dégâts et +20% d'armure\nà tous les Nazgûl sur le champ de bataille\nN'affecte pas les Bestioles ailées\n\nPermet à la forteresse d'utiliser le Flambeau de Morgul :\nTous les orques sur le champ de bataille gagnent 15% de vitesse et +50% de dégâts et d'armure pendant 30 secondes"
 END
 
 ToolTip:LackMorgulSorcery
-"Requires the Morgul Sorcery upgrade\nHis Deadliest Servants:\nPassively grants +20% damage and +20% armour to all Nazgûl on the battlefield\nDoes not affect Fellbeasts\n\nAllows the Fortress to use the Beacon of Morgul:\nAll orcs on the battlefield gain 15% speed and +50% damage and armour for 30 seconds"
+"Requiert l'amélioration Sorcellerie de Morgul\nSes Serviteurs les Plus Létaux :\nAccorde passivement +20% de dégâts et +20% d'armure à tous les Nazgûl sur le champ de bataille\nN'affecte pas les Bestioles ailées\n\nPermet à la forteresse d'utiliser le Flambeau de Morgul :\nTous les orques sur le champ de bataille gagnent 15% de vitesse et +50% de dégâts et d'armure pendant 30 secondes"
 END
 
 CONTROLBAR:MordorFortressDeadliestServants
-"His Deadliest Servants"
+"Ses Serviteurs Mortels"
 END
 
 CONTROLBAR:ToolTipMordorFortressDeadliestServants
-"Requires the Morgul Spire upgrade\nGrants +20% damage and +30% armour\nto all Nazgûl on the battlefield\nDoes not affect Fellbeasts\nPassive ability"
+"Requiert l'amélioration Flèche de Morgul\nAccorde +20% de dégâts et +30% d'armure\nà tous les Nazgûl sur le champ de bataille\nN'affecte pas les Bestioles ailées\nCapacité passive"
 END
 
 CONTROLBAR:MordorFortressMorgulSpire
-"Beacon of Morgul (&G)"
+"Flambeau de Morgul (&G)"
 END
 
 CONTROLBAR:ToolTipMordorFortressMorgulSpire
-"Requires the Morgul Spire upgrade\nAll orcs on the battlefield gain 15% speed and +50% damage and armour for 30 seconds\nLeft click to activate"
+"Requiert l'amélioration Flèche de Morgul\nTous les orques sur le champ de bataille gagnent 15% de vitesse et +50% de dégâts et d'armure pendant 30 secondes\nCliquez pour activer"
 END
 
 CONTROLBAR:GuldurSpireBlight
-"Blight"
+"Corruption"
 END
 
 CONTROLBAR:ToolTipGuldurSpireBlight
-"Requires Level 2 Spire of Sorcery\nEnemy units surrounding the Spire take damage \n and turn into Wraiths upon dying\nPassive ability"
+"Requiert le niveau 2 de la Flèche de Sorcellerie\nLes unités ennemies entourant la Flèche subissent des dégâts\net se transforment en Spectres à leur mort\nCapacité passive"
 END
 
 CONTROLBAR:GreaterBlight
-"Greater Blight (&T)"
+"Corruption supérieure (&T)"
 END
 
 CONTROLBAR:ToolTipGreaterBlight
-"Requires Level 3 Spire of Sorcery\nGreatly increases the radius of the Blight passive, which damages nearby enemies and\nturns them into wraiths upon dying"
+"Requiert le niveau 3 de la Flèche de Sorcellerie\nAugmente considérablement le rayon de l'effet passif Corruption,\nqui inflige des dégâts aux ennemis à proximité et\nles transforme en Spectres à leur mort"
 END
 
 CONTROLBAR:GwanthaurSoulTrap
-"Soul Trap (&W)"
+"Piège d'âme (&W)"
 END
 
 CONTROLBAR:ToolTipGwanthaurSoulTrap
-"Enemy units within the radius take damage over time\nIf a unit dies, the Gwanthaur receives +5% armour and damage for 8 seconds\nStacks up to 25% armour and damage\nLeft click icon then left click on target area"
+"Les unités ennemies dans le rayon subissent des dégâts sur la durée\nSi une unité meurt, le Gwanthaur gagne +5% d'armure et de dégâts pendant 8 secondes\nS'accumule jusqu'à +25% d'armure et de dégâts\nCliquez sur l'icône, puis cliquez sur la zone cible"
 END
 
 CONTROLBAR:GwanthaurReclamation
-"Dark Reclamation (&T)"
+"Récupération sombre (&T)"
 END
 
 CONTROLBAR:ToolTipGwanthaurReclamation
-"Targeted structure is destroyed\nTwisted trees appear in its place\nDoesn't affect Fortresses\nLeft click icon then left click on target structure"
+"La structure ciblée est détruite\nDes arbres déformés apparaissent à sa place\nN'affecte pas les forteresses\nCliquez sur l'icône, puis cliquez sur la structure cible"
 END
 
 GUI:SHADEDiscount
-// Context: used to display shade discount modifier in palantir
-"Deepening Darkness \n -%d%%"
+"Obscurcissement profond \n -%d%%"
 END
 
 CONTROLBAR:Inoculation
 "Inoculation"
-//Shared by all Dol Guldur "corrupted nature" units
+
 END
 
 CONTROLBAR:ToolTipInoculation
-"The Slow Decay of the Necromancer's magic does not affect\nthose already consumed by it\nPassive ability"
+"La lente décadence de la magie du Nécromancien n'affecte pas\ncelles et ceux qui ont déjà été consumés par celle-ci\nCapacité passive"
 END
 
 GUI:MISERY_DISCOUNT
-"Misery Bonus -%d%%"
+"Bonus de Misère -%d%%"
 END
 
 GUI:CORRUPTION_DISCOUNT
-"Corruption Bonus -%d%%"
+"Bonus de Corruption -%d%%"
 END
 CONTROLBAR:ChitteringSwarm
-"Chittering Swarm"
+"Essaim scintillant"
 END
 
 CONTROLBAR:ToolTipChitteringSwarm
-"Horde Bonus \n Modifier Type: Spell \n All Fell Brood gain +25% damage and +25% armour when gathered in numbers of 30 or more"
+"Bonus de Horde\nType de modificateur : Sort\nTous les Essaims démons gagnent +25% de dégâts et +25% d'armure lorsqu'ils sont réunis en nombre de 30 ou plus"
 END
 
 CONTROLBAR:BitingCold
-"Biting Cold"
+"Froid mordant"
 END
 
 CONTROLBAR:DesecrateHoard
-"Desecrate Hoard (&W)"
+"Profaner le butin (&W)"
 END
 
 CONTROLBAR:DesecrateHoard5
-"Desecrate Hoard"
+"Profaner le butin"
 END
 
 CONTROLBAR:ToolTipBitingCold
-"Nearby enemy units suffer -10% armour and damage\n Debuff increases by 10% with every time Unburied Wights desecrate their hoard\nPassive ability"
+"Les unités ennemies à proximité subissent -10% d'armure et de dégâts\nLe malus augmente de 10% à chaque fois que les Spectres profanés détruisent leur butin\nCapacité passive"
 END
 
 CONTROLBAR:ToolTipDesecrateHoard
-"The Unburied Wights delve deeper into their ancestral hoard, uncovering time-lost artifacts that increase their strength\nUnburied Wights rank up a level\nLeft click to purchase"
+"Les Spectres profanés explorent plus en profondeur leur butin ancestral, découvrant des artefacts perdus dans le temps qui augmentent leur puissance\nLes Spectres profanés gagnent un niveau supplémentaire\nCliquez gauche pour acheter"
 END
 
 CONTROLBAR:ToolTipDesecrateHoard5
-"The Unburied Wights have desecrated their ancestral hoard in its entirety and cannot be ranked up any further\nPassive ability"
+"Les Spectres profanés ont entièrement profané leur butin ancestral et ne peuvent pas gagner de niveau supplémentaire\nCapacité passive"
 END
 
 CONTROLBAR:RavenousHunger
-"Ravenous Hunger"
+"Faim insatiable"
 END
 
 CONTROLBAR:ToolTipRavenousHunger
-"Requires Level 2 \n Attacks against living units restore health to the Unburied Wights\nPassive ability"
+"Requiert le niveau 2\nLes attaques contre les unités vivantes restaurent la santé des Spectres profanés\nCapacité passive"
 END
 
 CONTROLBAR:LordofWightsWL
-"Lord of Wights"
+"Seigneur des Spectres"
 END
 
 CONTROLBAR:ToolTipLordofWightsWL
-"The Mound-dweller is immune to all fear and terror effects\nPassive ability"
+"Le Résident des Monticules est immunisé contre tous les effets de peur et de terreur\nCapacité passive"
 END
 
 CONTROLBAR:LeechingStrikes
-"Leeching Strikes"
+"Attaques vampiriques"
 END
 
 CONTROLBAR:ToolTipLeechingStrikes
-"Requires Level 2 \n Attacks against living units restore health to the Mound-dweller\nPassive ability"
+"Requiert le niveau 2\nLes attaques contre les unités vivantes restaurent la santé du Résident des Monticules\nCapacité passive"
 END
 
 CONTROLBAR:SpecialAbilityTouchofRuinWL
-"Touch of Ruin (&R)"
+"Toucher de Ruine (&R)"
 End
 
 CONTROLBAR:ToolTipSpecialAbilityTouchofRuinWL
-"Requires level 2\nFor 20 seconds, the Mound-dweller reduces the armour of those they strike by 10%\nLeft click to activate"
+"Requiert le niveau 2\nPendant 20 secondes, le Résident des Monticules réduit l'armure des ennemis qu'il frappe de 10%\nCliquez gauche pour activer"
 End
 
 CONTROLBAR:SpecialAbilityPlagueFromAngmar
-"Plague From Angmar (&C)"
+"Plague d'Angmar (&C)"
 End
 
 CONTROLBAR:ToolTipSpecialAbilityPlagueFromAngmar
-"Requires Level 5 \n The Mound-dweller curses target area with fell sorcery\nEnemy units within the radius take damage over time and become Risen Dead if killed\nLeft click icon then left click on target area"
+"Requiert le niveau 5\nLe Résident des Monticules maudit la zone ciblée avec de la sorcellerie démoniaque\nLes unités ennemies à l'intérieur du rayon subissent des dégâts sur la durée et se transforment en Morts Ressuscités en mourant\nCliquez gauche sur l'icône, puis cliquez gauche sur la zone cible"
 End
 
 CONTROLBAR:BlackWinds
-"Black Winds (&C)"
+"Vents Noirs (&C)"
 END
 
 CONTROLBAR:ToolTipBlackWinds
-"Requires Level 3\nFor 10 seconds, the Unburied Wights gain\n+300% armour, +200% damage, +50% speed and fear immunity\nAfter 10 seconds, the Unburied Wights battalion\nis destroyed\nNearby enemies take damage\nand temporarily lose -15% damage and armour\nLeft click to activate"
+"Requiert le niveau 3\nPendant 10 secondes, les Spectres profanés gagnent\n+300% d'armure, +200% de dégâts, +50% de vitesse et une immunité contre la peur\nAprès 10 secondes, le bataillon des Spectres profanés\nest détruit\nLes ennemis à proximité subissent des dégâts\net perdent temporairement -15% de dégâts et d'armure\nCliquez gauche pour activer"
 END
 
 CONTROLBAR:BTKhazadBannerUpgradedPillar
-"Ancestral Home"
+"Foyer ancestral"
 END
 
 CONTROLBAR:ToolTipBTKhazadBannerUpgradedPillar
-"Modifier Type: Spell \n Allies near the pillar become immune to fear and terror \nPassive ability"
+"Type de modification : Sort \nLes alliés près du pilier deviennent immunisés contre la peur et la terreur\nCapacité passive"
 END
 CONTROLBAR:PurchaseUpgradeFountofCorruptionLevel2
-"Upgrade Fount of Corruption to Level 2 (&A)"
+"Améliorer la Source de Corruption au niveau 2 (&A)"
 END
 
 CONTROLBAR:ToolTipBuildFountofCorruptionLevel2
-"Increases resource production \n Allows training of Blighted Trappers"
+"Augmente la production de ressources\nPermet de former des Piégeurs Maudits"
 END
 
 CONTROLBAR:PurchaseUpgradeFountofCorruptionLevel3
-"Upgrade Fount of Corruption to Level 3 (&A)"
+"Améliorer la Source de Corruption au niveau 3 (&A)"
 END
 
 CONTROLBAR:ToolTipBuildFountofCorruptionLevel3
-"Increases resource production \n Allows training of Corrupted Entwives \n Blights the area surrounding the Fount"
+"Augmente la production de ressources\nPermet de former des Entwives Corrompues\nContamine la zone entourant la Source"
 END
 
 CONTROLBAR:BuildPlotLargeUmbarBallista
-"Build Umbarian Ballista"
+"Construire une Baliste d'Umbar"
 END
 
 CONTROLBAR:ToolTipBuildPlotLargeUmbarBallista
-"Builds an Umbarian Ballista on the platform"
+"Construit une Baliste d'Umbar sur la plateforme"
 END
 
 CONTROLBAR:BuildPlotSmallUmbarBallista
-"Build small Umbarian Ballista"
+"Construire une petite Baliste d'Umbar"
 END
 
 CONTROLBAR:ToolTipBuildPlotSmallUmbarBallista
-"Builds a small Umbarian Ballista on the platform"
+"Construit une petite Baliste d'Umbar sur la plateforme"
 END
 
 CONTROLBAR:PurchaseUpgradeSentryTowerHiddenSentry
-"Hidden Sentry (&E)"
+"Sentinelle dissimulée (&E)"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeSentryTowerHiddenSentry
-"Allows this Tower to fire arrows at enemies\nAllows purchase of the Fire Arrows upgrade"
+"Permet à cette Tour de tirer des flèches sur les ennemis\nPermet d'acheter l'amélioration des Flèches de Feu"
 END
 
 CONTROLBAR:PurchaseUpgradeSentryTowerDarkPresence
-"Dreadful Presence (&R)"
+"Présence redoutable (&R)"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeSentryTowerDarkPresence
-"Increases the radius of Dark Presence from this Tower by 50%\nIncreases Tower's armour by 33%"
+"Augmente le rayon de la Présence redoutable de cette Tour de 50%\nAugmente l'armure de la Tour de 33%"
 END
 
 CONTROLBAR:DolAmrothHealing
-"Blood of the Eldar"
+"Sang des Eldars"
 END
 
 CONTROLBAR:ToolTipDolAmrothHealing
-"Dol Amroth's units slowly recover outside of combat\nPassive ability"
+"Les unités de Dol Amroth se régénèrent lentement hors combat\nCapacité passive"
 END
 
 CONTROLBAR:SallyForth
-"Sally Forth (&R)"
+"S'en aller courageusement (&R)"
 END
 
 CONTROLBAR:TooltipSallyForth
-"Requires Level 2 \n Men-at-Arms and nearby Fiefdom troops gain\n+25% damage and resistance to knockback for 15 seconds\nLeft click to activate"
+"Requiert le niveau 2\nLes Hommes d'Armes et les troupes des Fiefs à proximité gagnent\n+25% de dégâts et une résistance aux repoussages pendant 15 secondes\nCliquez gauche pour activer"
 END
 
 CONTROLBAR:BlackUrukDespoiler
-"Despoiler (&T)"
+"Pilleur (&T)"
 END
 
 CONTROLBAR:ToolTipBlackUrukDespoiler
-"Requires Level 3\nBlack Uruk Marauders gain +25% damage against structures\nand leech resources when attacking structures for 20 seconds\nLeft click to activate"
+"Requiert le niveau 3\nLes Maraudeurs Uruk-hai gagnent +25% de dégâts contre les structures\net pillent des ressources lorsqu'ils attaquent des structures pendant 20 secondes\nCliquez gauche pour activer"
 END
 
 CONTROLBAR:BlackUrukBrawl
-"Brawl (&R)"
+"Bagarre (&R)"
 END
 
 CONTROLBAR:ToolTipBlackUrukBrawl
-"Requires Shagrat\nOrder this unit to kill friendly Orcs\nor Legions of Morgul to gain combat experience \nLeft click icon then left click on target"
+"Requiert Shagrat\nOrdonnez à cette unité de tuer des Orcs amicaux\nou des Légions de Morgul pour gagner de l'expérience au combat\nCliquez gauche sur l'icône, puis cliquez gauche sur la cible"
 END
 
 CONTROLBAR:ToolTipBlackUrukBrawl_Inn
-"Order this unit to kill friendly Moria Orcs\nor Goblin-town Warriors to gain combat experience \nLeft click icon then left click on target"
+"Ordonnez à cette unité de tuer des Orcs de la Moria\nou des Guerriers de la Cité des Gobelins pour gagner de l'expérience au combat\nCliquez gauche sur l'icône, puis cliquez gauche sur la cible"
 END
 
 CONTROLBAR:UrukScoutHuntingArrows
-"Hunting Arrows (&T)"
+"Flèches de Chasse (&T)"
 END
 
 CONTROLBAR:ToolTipUrukScoutHuntingArrows
-"Requires Level 3\nFor 20 seconds, Uruk-hai Scouts' arrows slow targets by 33% for 5 seconds\nCan only be used with bows equipped\nLeft click to activate"
+"Requiert le niveau 3\nPendant 20 secondes, les flèches des Éclaireurs Uruk-hai ralentissent les cibles de 33% pendant 5 secondes\nPeut uniquement être utilisé avec des arcs équipés\nCliquez gauche pour activer"
 END
 
 //------------ Galion ---------------
@@ -77180,11 +77178,11 @@ OBJECT:MirkwoodGalion
 END
 
 CONTROLBAR:MirkwoodGalionRecruit
-"Recruit the Master of Wines, Galion \n \n 'Say what you like about our ill-tempered King - he has excellent taste in wine...'"
+"Recrutez le Maître des Vins, Galion. \n\n Galion, le Maître des Vins, servait de majordome et de grand connaisseur en vins au Roi des Elfes. Le Royaume des forêts recevait du vin de Dorwinion pour sa multitude de festins et de fêtes. Il était chargé de s'assurer que tout le vin qui atteignait le Roi des Elfes était de la plus haute qualité. Bien que connu pour son comportement calme et sobre, Galion pouvait avoir un tempérament fougueux provoqué par un excès de Miruvor et de Dorwinion rouge... \n\n 'Dites ce que vous voulez sur notre Roi au mauvais caractère - il a un excellent goût en matière de vin...'"
 END
 
 CONTROLBAR:MirkwoodGalionRevive
-"Revive the fallen hero, Galion"
+"Rappellez Galion à la vie"
 END
 
 CONTROLBAR:MirkwoodGalionHotkey
@@ -77196,11 +77194,11 @@ CONTROLBAR:MirkwoodGalionHotkey_Dorwinion
 END
 
 CONTROLBAR:MasterofWines
-"Angry Drunk"
+"Ivrogne en colère"
 END
 
 CONTROLBAR:ToolTipMasterofWines
-"When near Vineyards and Wells of Wine, Galion gains +33% damage\nPassive ability"
+"Quand il est proche d'un Vignoble ou d'une fontaine de vin, Galion gagne +33% de dégâts. \n\n Capacité passive."
 END
 
 CONTROLBAR:GalionMiruvor
@@ -77208,23 +77206,23 @@ CONTROLBAR:GalionMiruvor
 END
 
 CONTROLBAR:ToolTipGalionMiruvor
-"Moderately heals friendly units nearby Galion\n Heals by a larger amount at levels 6 and 9 \n Left click to activate"
+"Soigne modérément les unités amicales à proximité de Galion\nSoigne davantage aux niveaux 6 et 9\nCliquez gauche pour activer"
 END
 
 CONTROLBAR:GalionDorwinionRed
-"Dorwinion Red (&T)"
+"Dorwinion Rouge (&T)"
 END
 
 CONTROLBAR:ToolTipGalionDorwinionRed
-"Requires Level 3 \n Friendly units within the radius gain +50% damage but lose -25% armour for 30 seconds\n Increased radius at levels 5 and 7 \n Left click on icon then left click on target battalion"
+"Requiert le niveau 3\nLes unités amicales dans le rayon gagnent +50% de dégâts mais perdent -25% d'armure pendant 30 secondes\nRayon accru aux niveaux 5 et 7\nCliquez gauche sur l'icône, puis cliquez gauche sur le groupe cible"
 END
 
 CONTROLBAR:GalionBadBatch
-"Bad Batch (&C)"
+"Mauvaise Fournée (&C)"
 END
 
 CONTROLBAR:ToolTipGalionBadBatch
-"Requires Level 7 \n Causes targeted units to become hostile towards each other for 15 seconds\n Left click icon then left click on target area"
+"Requiert le niveau 7\nFait en sorte que les unités ciblées deviennent hostiles les unes envers les autres pendant 15 secondes\nCliquez gauche sur l'icône, puis cliquez gauche sur la zone cible"
 END
 
 //------------ Feren ---------------
@@ -77233,11 +77231,11 @@ OBJECT:MirkwoodFeren
 END
 
 CONTROLBAR:MirkwoodFerenRecruit
-"Recruit the Royal Guard, Feren \n \n Loyal and severe in character, Feren spent the majority of his long years in solemn duty to the Elvenking, keeping safe the borders of the Greenwood."
+"Recrutez le Garde Royal, Feren. \n\n Alors que la menace du Nécromancien grandissait, le Roi Thranduil et les elfes des bois se retirèrent vers le Nord et se réfugièrent dans les grottes des salles du Roi elfe. Les années se sont allongées et le Roi Thranduil était devenu insulaire et méfiant envers quiconque pénétrait dans son domaine ; il s'assura qu'il était entouré de sa garde royale dans les moments de moins en moins nombreux où il quittait ses salles. Feren était le capitaine de la Garde Royale, il était d'une loyauté sans failles et protégeait son Roi et son Royaume, peu importe le prix. \n\n 'Loyal et sévère de caractère, Feren a passé la majorité de ses longues années de service solennel auprès des Rois elfiques, à garder en sécurité les frontières de la Forêt Noire.'"
 END
 
 CONTROLBAR:MirkwoodFerenRevive
-"Revive the fallen hero, Feren"
+"Rappellez Feren à la vie"
 END
 
 CONTROLBAR:MirkwoodFerenHotkey
@@ -77249,27 +77247,27 @@ CONTROLBAR:MirkwoodFerenHotkeyBotFA
 END
 
 CONTROLBAR:FerenShieldBash
-"Shield Bash (&W)"
+"Coup de bouclier (&W)"
 END
 
 CONTROLBAR:ToolTipFerenShieldBash
-"Powerful attack that knocks back enemy units\nAt rank 5, radius is increased\n Left click icon then left click on target"
+"Attaque puissante qui repousse les unités ennemies\nAu niveau 5, le rayon est augmenté\nCliquez gauche sur l'icône, puis cliquez gauche sur la cible"
 END
 
 CONTROLBAR:FerenSoundAlarm
-"Sound the Alarm! (&T)"
+"Sonner l'alarme ! (&T)"
 END
 
 CONTROLBAR:ToolTipFerenSoundAlarm
-"Requires Level 5\nFeren blows his horn\nCan be cast on a structure to decrease recruitment time by 75% for 90 seconds,\n on friendly units to increase movement speed by 25% for 15 seconds,\nor on enemy units to decrease movement speed by 25% for 15 seconds\nCannot be cast on Beorning Lodge\nLeft click icon then left click on target"
+"Requiert le niveau 5\nFeren souffle dans sa corne\nPeut être lancé sur une structure pour réduire le temps de recrutement de 75% pendant 90 secondes,\nsur des unités amicales pour augmenter leur vitesse de déplacement de 25% pendant 15 secondes,\nou sur des unités ennemies pour réduire leur vitesse de déplacement de 25% pendant 15 secondes\nNe peut pas être lancé sur la Loge des Beornings\nCliquez gauche sur l'icône, puis cliquez gauche sur la cible"
 END
 
 CONTROLBAR:FerenBanishment
-"Banishment (&C)"
+"Bannissement (&C)"
 END
 
 CONTROLBAR:ToolTipFerenBanishment
-"Requires Level 7\nTarget enemy hero is pinned and takes +33% damage from all damage sources for 20 seconds\nLeft click icon then left click on target"
+"Requiert le niveau 7\nLe héros ennemi ciblé est immobilisé et subit +33% de dégâts de toutes les sources de dégâts pendant 20 secondes\nCliquez gauche sur l'icône, puis cliquez gauche sur la cible"
 END
 
 //------------ Grimbeorn ---------------
@@ -77278,11 +77276,11 @@ OBJECT:MirkwoodGrimbeorn
 END
 
 CONTROLBAR:MirkwoodGrimbeornRecruit
-"Requires a Beorning Lodge to be built\nRecruit the son of Beorn\n\nGrimbeorn the Old, son of Beorn, was now the lord of many sturdy men, and to their land between the Mountains and Mirkwood neither orc nor wolf dared to go."
+"Requiert : Pavillon de Beorn. \n Recrutez le fils de Beorn. \n\n Grimbeorn le Vieux, fils de Beorn, était désormais le Seigneur de nombreux hommes robustes, et dans leur pays entre les Montagnes et la Forêt Noire, ni Orques ni loups n'osaient s'aventurer. \n\n 'Ce sont des hommes vaillants qui gardent ouverts le Haut Col et le Gué de Carrock. Mais leurs péages sont élevés...'"
 END
 
 CONTROLBAR:MirkwoodGrimbeornRevive
-"Revive the fallen hero, Grimbeorn"
+"Rappellez Grimbeorn à la vie"
 END
 
 CONTROLBAR:MirkwoodGrimbeornHotkey
@@ -77294,43 +77292,43 @@ CONTROLBAR:MirkwoodGrimbeornHotkey_Dorwinion
 END
 
 CONTROLBAR:SonOfBeorn
-"Son of Beorn (&W)"
+"Fils de Beorn (&W)"
 END
 
 CONTROLBAR:ToolTipSonOfBeorn
-"Modifier Type: Leadership\nProvides +33% armour to nearby Beornings\nGrimbeorn deals +33% additional damage against Bolg\nPassive ability\n\nWhen activated, Grimbeorn instills fear into the hearts of all Orc and Warg units for 15 seconds\nLeft click to activate"
+"Type de modification : Charisme\nConfère +33 % d'armure aux Beornings à proximité\nGrimbeorn inflige +33 % de dégâts supplémentaires à Bolg\nCompétence passive\n\nLorsqu'elle est activée, Grimbeorn inspire la peur dans le cœur de toutes les unités orques et wargs pendant 15 secondes\nCliquez gauche pour activer"
 END
 
 CONTROLBAR:GrimbeornStrongman
-"Strongman (&R)"
+"Costaud (&R)"
 END
 
 CONTROLBAR:ToolTipGrimbeornStrongman
-"Grimbeorn powerfully swings his massive axe, dealing damage to everything around him\nGrows in strength as Grimbeorn ranks up\nLeft click to activate"
+"Grimbeorn balance puissamment sa massive hache, infligeant des dégâts à tout ce qui l'entoure\nSa force augmente à mesure que Grimbeorn monte en niveau\nCliquez gauche pour activer"
 END
 
 CONTROLBAR:TollKeepers
-"Toll-keepers (&T)"
+"Droit de passage (&T)"
 END
 
 CONTROLBAR:ToolTipTollKeepers
-"Requires Level 3\nCan be cast on any resource structure to spawn a chest of 850 resources\nPauses resource production for 30 seconds as a result\nLeft click icon then left click on target structure"
+"Requiert le niveau 3\nPeut être lancé sur n'importe quelle structure de ressources pour faire apparaître un coffre contenant 850 ressources\nInterrompt la production de ressources pendant 30 secondes en conséquence\nCliquez sur l'icône, puis cliquez gauche sur la structure cible"
 END
 
 CONTROLBAR:GrimbeornBodyguard
-"Beorning Bodyguard (&C)"
+"Garde du corps Béornides (&C)"
 END
 
 CONTROLBAR:ToolTipGrimbeornBodyguard
-"Requires Level 6\n Grimbeorn summons three Beornings to guard an allied hero or structure for 45 seconds \n Left click icon then left click on target hero or structure"
+"Requiert le niveau 6\nGrimbeorn invoque trois Beornings pour protéger un héros ou une structure alliée pendant 45 secondes\nCliquez sur l'icône, puis cliquez gauche sur le héros ou la structure cible"
 END
 
 CONTROLBAR:SpecialAbilityUrsineSoul
-"Ursine Soul (&V)"
+"Esprit des Ours (&V)"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityUrsineSoul
-"Required: Rank 10\n Grimbeorn permanently deals knockback damage \n Passive ability\n\nWhen activated, Grimbeorn transforms into a bear for 90 seconds to wreak havoc among the enemy\ngaining additional +25% damage and +50% armour\nCauses nearby enemies to flee in terror\n Whilst active, Grimbeorn deals +50% additional damage against Bolg\nLeft click to activate"
+"Requis : Niveau 10\nGrimbeorn inflige en permanence des dégâts de repoussement\nCompétence passive\n\nLorsqu'elle est activée, Grimbeorn se transforme en ours pendant 90 secondes pour semer le chaos parmi l'ennemi\net gagne +25 % de dégâts supplémentaires et +50 % d'armure\nFait fuir en terreur les ennemis à proximité\nPendant son activation, Grimbeorn inflige +50 % de dégâts supplémentaires à Bolg\nCliquez gauche pour activer"
 END
 
 //------------ Beorn ---------------
@@ -77338,30 +77336,30 @@ OBJECT:BotFABeorn
 "Beorn"
 END
 CONTROLBAR:BotFABeornRecruit
-"Recruit the Beorn the Skin-changer\n\In that last hour Beorn himself had appeared — no one knew how or from where. He came alone, and in bear's shape; and he seemed to have grown almost to giant-size in his wrath."
+"Recruter Beorn le changeur de peau\nDans cette dernière heure, Beorn lui-même était apparu - personne ne savait comment ni d'où. Il était venu seul, sous la forme d'un ours ; et il semblait avoir presque atteint une taille gigantesque dans sa colère."
 END
 CONTROLBAR:BotFABeornRevive
-"Revive the fallen hero, Beorn"
+"Réanimer le héros tombé, Beorn"
 END
 
 CONTROLBAR:BotFABeornHotkey
-"Beorn the Skin-changer"
+"Beorn le changeur de peau"
 END
 
 CONTROLBAR:SummonBeorn
-"Beorn the Skin-changer"
+"Beorn le changeur de peau"
 END
 
 CONTROLBAR:TooltipSummonBeorn
-"Summon Beorn the Skin-changer to wreak havoc on the battlefield\nLeft click then left click target area"
+"Appelle Beorn le changeur de peau pour semer le chaos sur le champ de bataille\nCliquez gauche puis cliquez gauche sur la zone cible"
 END
 
 CONTROLBAR:HatredofOrcsBeorn
-"Hatred of Orcs"
+"Haine des Orcs"
 END
 
 CONTROLBAR:ToolTipHatredofOrcsBeorn
-"Modifier Type: Passive Nullifier Debuff \n Nearby enemy Orcs and Ouargues suffer -33% damage and -25% armour \nNullifies enemy leadership \n Takes precedence over other Debuffs\nPassive ability"
+"Type de modification : Affaiblissement passif nul\nLes Orcs et les Ouargues ennemis à proximité subissent -33 % de dégâts et -25 % d'armure\nNeutralise le leadership ennemi\nPrend le pas sur les autres affaiblissements\nCompétence passive"
 END
 
 //------------ Radagast ---------------
@@ -77370,11 +77368,11 @@ OBJECT:MirkwoodRadagast
 END
 
 CONTROLBAR:MirkwoodRadagastRecruit
-"Recruit the Brown Wizard\n\n'Radagast is, of course, a worthy Wizard, a master of shapes and changes of hue; and he has much lore of herbs and beasts, and birds are especially his friends.'"
+"Recrutez le Magicien Brun. \n\n Radagast le Brun était l'un des Istari envoyés sur la Terre du Milieu pour combattre Sauron. Il avait beaucoup d'expérience avec les plantes et les animaux de la Terre du Milieu et avait de bonnes relations avec les Grands Aigles des Montagnes. Sa maison se situe à l'intérieur de la Forêt noire et il fût l'un des premiers Sages à remarquer les effets du Nécromancien de Dol Guldur. Il enseigna à divers hommes du Nord les propriétés des herbes du Rhovanion et de l'ancienne magie protectrice invoquée à partir des pierres protectrices. Pendant la Guerre de l'Anneau, il envoya ses animaux servir de messagers et d'éclaireurs. \n\n 'Radagast est, bien sûr, un digne sorcier, un maître des formes et des changements de couleurs ; il a aussi grande connaissance des herbes et des bêtes, et les oiseaux sont particulièrement ses amis.'"
 END
 
 CONTROLBAR:MirkwoodRadagastRevive
-"Revive the fallen hero, Radagast"
+"Rappellez Radagast à la vie"
 END
 
 CONTROLBAR:MirkwoodRadagastHotkey
@@ -77382,11 +77380,11 @@ CONTROLBAR:MirkwoodRadagastHotkey
 END
 
 CONTROLBAR:RadagastUnseen
-"Master of Hues and Shapes (&W)"
+"Maître des couleurs et des formes (&W)"
 END
 
 CONTROLBAR:ToolTipRadagastUnseen
-"Radagast is invisible while standing still\nPassive ability\n\nAllows all targeted allies to become stealthed for 30 seconds\n Left click icon then left click on target units"
+"Radagast est invisible lorsqu'il est immobile\nCompétence passive\n\nPermet à tous les alliés ciblés de devenir furtifs pendant 30 secondes\nCliquez gauche sur l'icône, puis cliquez gauche sur les unités ciblées"
 END
 
 CONTROLBAR:RadagastAiwendil
@@ -77394,23 +77392,23 @@ CONTROLBAR:RadagastAiwendil
 END
 
 CONTROLBAR:ToolTipRadagastAiwendil
-"Nearby Woodmen and Beorning units gain +75% experience\n Woodmen additionally gain +33% damage and armour\nPassive ability\n\nTargeted enemy units are beset by a flock of birds,\ncausing them to lose 50% vision and 25% armour\nand take damage over time for 15 seconds\nLeft click icon then left click on target"
+"Les chasseurs et les unités Béornides à proximité gagnent +75 % d'expérience\nLes Woodmen gagnent également +33 % de dégâts et d'armure\nCompétence passive\n\nLes unités ennemies ciblées sont attaquées par un groupe d'oiseaux,\nce qui leur fait perdre 50 % de vision et 25 % d'armure\net leur inflige des dégâts dans le temps pendant 15 secondes\nCliquez gauche sur l'icône, puis cliquez gauche sur la cible"
 END
 
 CONTROLBAR:RadagastGuardian
-"Faithful Guardian (&T)"
+"Gardien fidèle (&T)"
 END
 
 CONTROLBAR:ToolTipRivendellRadagastGuardian
-"Requires Level 3\nRadagast slams his staff into the soil,\nstunning enemies before him for 5 seconds\nAt rank 8, stun duration is increased to 10 seconds\nLeft click to activate"
+"Requiert le niveau 3\nRadagast frappe son bâton dans le sol,\nétourdissant les ennemis devant lui pendant 5 secondes\nAu rang 8, la durée de l'étourdissement est augmentée à 10 secondes\nCliquez gauche pour activer"
 END
 
 CONTROLBAR:RadagastTransform
-"A Very Great Wizard (&V)"
+"Un très grand Magicien (&V)"
 END
 
 CONTROLBAR:ToolTipRadagastTransform
-"Requires Level 10\nTurns enemy units within a radius into wild animals\nthat subsequently disperse \n Does not work on heroic units\nLeft click icon then left click on target"
+"Requiert le niveau 10\nTransforme les unités ennemies dans un certain rayon en animaux sauvages\nqui se dispersent ensuite\nNe fonctionne pas sur les unités héroïques\nCliquez gauche sur l'icône, puis cliquez gauche sur la cible"
 End
 
 //------------ Tauriel ---------------
@@ -77419,11 +77417,11 @@ OBJECT:MirkwoodTauriel
 END
 
 CONTROLBAR:MirkwoodTaurielRecruit
-"Recruit the Captain of the Guard \n \n 'When did we allow evil to become stronger than us?'"
+"Recrutez la Capitaine de la Garde. \n\n Tauriel est la capitaine sylvestre de la garde du Roi aux côtés de son fils, Legolas. Tauriel et ses Rangers ont été très efficaces dans leurs patrouilles et ont gardé la forêt du Roi des Elfes exempte d'araignées et d'autres créatures immondes qui ont osé s'introduire dans le Royaume des forêts. Au cours de la bataille sous les arbres, le Nécromancien de Dol Guldur envoya des légions de morts-vivants pour raser la forêt verte. Le Roi Thranduil a pu remporter la victoire grâce aux actions de Tauriel et de sa force d'elfes sylvestres qui ont mené les différentes embuscades contre les hordes de morts-vivants. \n\n 'Quand avons-nous laissé le mal devenir plus fort que nous ?'"
 END
 
 CONTROLBAR:MirkwoodTaurielRevive
-"Revive the fallen hero, Tauriel"
+"Rappellez Tauriel à la vie"
 END
 
 CONTROLBAR:MirkwoodTaurielHotkey
@@ -77431,69 +77429,69 @@ CONTROLBAR:MirkwoodTaurielHotkey
 END
 
 CONTROLBAR:TaurielLeadership
-"Silvan Captain"
+"Capitaine Sylvestre"
 END
 
 CONTROLBAR:ToolTipTaurielLeadership
-"Nearby Silvan units gain +25% vision & attack range and +25% experience gain\n At Level 3, nearby Silvan units ability cooldown times are reduced by 25% \n Passive ability"
+"Les unités Sylvestres à proximité gagnent +25 % de vision et de portée d'attaque et +25 % d'expérience\n Au niveau 3, les temps de recharge des compétences des unités Sylvains à proximité sont réduits de 25 %\n Compétence passive"
 END
 
 CONTROLBAR:TaurielSummon
-"Eyes and Ears (&R)"
+"Écoutez la forêt (&R)"
 END
 
 CONTROLBAR:ToolTipTaurielSummon
-"Requires Level 3 \n Tauriel calls a group of stationary Silvan Rangers to defend targeted location\nThey are immobile, but remain stealthed when not attacking\n Left click icon then left click on pathable location"
+"Requiert le niveau 3\nTauriel appelle un groupe de Rangers Sylvains stationnaires pour défendre l'emplacement ciblé\nIls sont immobiles, mais restent furtifs lorsqu'ils n'attaquent pas\nCliquez gauche sur l'icône, puis cliquez gauche sur l'emplacement accessible"
 END
 
 CONTROLBAR:TaurielDecisiveStrike
-"Close Quarter Combat (&C)"
+"Combat Rapproché (&C)"
 END
 
 CONTROLBAR:TaurielEscape
-"Daughter of the Forest (&V)"
+"Fille de la Forêt (&V)"
 END
 
 CONTROLBAR:TooltipTaurielEscape
-"Requires Level 8 \n Tauriel is able to disappear into the trees when she wishes \nTauriel teleports to target area \nLeft click icon then left click on pathable location"
+"Requiert le niveau 8\nTauriel est capable de disparaître dans les arbres à sa guise\nTauriel se téléporte vers la zone ciblée\nCliquez gauche sur l'icône, puis cliquez gauche sur l'emplacement accessible"
 END
 
 CONTROLBAR:ToolTipTaurielDecisiveStrike
-"Requires Level 5\nTauriel uses her twin daggers for 30 seconds\nIncreases attack damage by +33% and deals splash damage\nLeft click to activate"
+"Requiert le niveau 5\nTauriel utilise ses deux dagues pendant 30 secondes\nAugmente les dégâts d'attaque de +33 % et inflige des dégâts en zone\nCliquez gauche pour activer"
 END
 
 CONTROLBAR:TaurielFleetFooted
-"Fleet-footed (&T)"
+"Pied Léger (&T)"
 END
 
 CONTROLBAR:ToolTipTaurielFleetFooted
-"Requires Level 4 \n Modifier Type: Spell \n Nearby infantry gains +20% movement speed for 30 seconds\nLeft click to activate"
+"Requiert le niveau 4\nType de modification : Sort\nL'infanterie à proximité gagne +20 % de vitesse de déplacement pendant 30 secondes\nCliquez gauche pour activer"
 END
 
 //------------ Legolas ---------------
 CONTROLBAR:LegolasDwarfFriend
-"Dwarf-friend (&V)"
+"Ami-nain (&V)"
 END
 
 CONTROLBAR:TooltipLegolasDwarfFriend
-"Requires Level 10\nSummons Gimli son of Glóin to the battlefield\nLeft click to activate"
+"Requiert : Niveau 10 \n Invoque Gimli, fils de Glóin sur le champ de bataille. \n\n Clic gauche pour l'activer."
 END
 
 //------------ Thranduil ---------------
 CONTROLBAR:NoneMayEnter
-"None May Enter (&T)"
+"Personne ne peut entrer (&T)"
 END
 
 CONTROLBAR:ToolTipNoneMayEnter
-"Requires Level 4\n Targeted terrain becomes hostile to enemy units for 60 seconds\nWhen passed over, enemy units are slowed by -15% and take damage over time\nLeft click icon then left click on pathable location"
+"Requiert le niveau 4\nLe terrain ciblé devient hostile aux unités ennemies pendant 60 secondes\nLorsqu'ils passent dessus, les unités ennemies sont ralenties de -15 % et subissent des dégâts sur la durée\nCliquez gauche sur l'icône, puis cliquez gauche sur l'emplacement accessible"
 END
 
 CONTROLBAR:MemoryOfMordor
-"Memory Of Mordor (&V)"
+"Souvenirs du Mordor (&V)"
 END
 
 CONTROLBAR:ToolTipMemoryOfMordor
-"Requires Level 10\nThranduil is surrounded by memories of the Black Land for 30 seconds\nEnemy units are terrified, take damage,\n lose all leadership and deal -50% damage\nThranduil is invulnerable while the power is active but cannot attack and is slower by 75%\nLeft click to activate"
+"Requiert le niveau 10\nThranduil est entouré de souvenirs de la Terre Noire pendant 30 secondes\nLes unités ennemies sont terrifiées, subissent des dégâts,\nperdent tout leadership et infligent -50 % de dégâts\nThranduil est invulnérable pendant la durée de la capacité, mais ne peut pas attaquer et est plus lent de 75 %\nCliquez gauche pour activer"
 END
 
 //------------ Frumgar ---------------
@@ -77503,79 +77501,79 @@ OBJECT:MirkwoodFrumgar
 END
 
 CONTROLBAR:MirkwoodFrumgarRecruit
-"Recruit Frumgar the Younger, son of Frumgar the Elder, Champion of the Anduin Vale. \n \n The latest scion in a long line of namesakes, Frumgar is the Lord of the Éothéod, and a fearsome warrior. With many daring feats of strength to his name, few now dare to oppose him on the green and rolling fields of Rhovanion."
+"Recrutez Frumgar le Cadet, fils de Frumgar l'Aïné, Champion de la Vallée de l'Anduin."
 END
 CONTROLBAR:MirkwoodFrumgarRevive
-"Revive the fallen Hero, Frumgar"
+"Rappelez Frumgar à la vie"
 END
 CONTROLBAR:MirkwoodFrumgarHotkey
 "Frumgar (&E)"
 END
 
 CONTROLBAR:WrathoftheDragonSlayer
-"Wrath of the Dragon Slayer"
+"Fureur du Tueur de Dragons"
 END
 
 CONTROLBAR:ToolTipWrathoftheDragonSlayer  
-"Modifier Type: Leadership\nAllies near Frumgar gain +33% damage, +50% armour against fire and are immune to fear and terror\nPassive ability"
+"Type de modificateur : Leadership\nLes alliés près de Frumgar infligent +33 % de dégâts, bénéficient de +50 % d'armure contre le feu et sont immunisés contre la peur et la terreur\nCapacité passive"
 END
 
 CONTROLBAR:OrcWarVeteran
-"Orc War Veteran (&R)"
+"Vétéran de la Guerre contre les Orques (&R)"
 End
 
 CONTROLBAR:ToolTipOrcWarVeteran
-"Frumgar tells of the day he slew Mûzgash \n Targeted units gain experience \n Left click icon then left click on target units"
+"Frumgar raconte le jour où il a tué Mûzgash\nLes unités ciblées gagnent de l'expérience\nCliquez gauche sur l'icône, puis cliquez gauche sur les unités ciblées"
 End
 
 CONTROLBAR:ToolTipDorwinionOrcWarVeteran
-"Requires Level 3\nFrumgar tells of the day he slew Mûzgash \n Targeted units gain experience \n Left click icon then left click on target units"
+"Requiert le niveau 3\nFrumgar raconte le jour où il a tué Mûzgash\nLes unités ciblées gagnent de l'expérience\nCliquez gauche sur l'icône, puis cliquez gauche sur les unités ciblées"
 End
 
 CONTROLBAR:FeatofLegends
-"Feat of Legends (&T)"
+"Exploit légendaire (&T)"
 END
 CONTROLBAR:ToolTipDorwinionFrumgarSpear
-"Requires Level 5\nPowerful ranged attack with radius damage \n Left click icon then left click on target"
+"Requiert le niveau 5\nPuissante attaque à distance avec des dégâts en zone\nCliquez gauche sur l'icône, puis cliquez gauche sur la cible"
 END
 
 //-------------EOTHEOD WARRIORS---------------------------
 
 OBJECT:Eotheod
-"Éotheod Warrior"
+"Guerrier Eotheod"
 END
 
 OBJECT:HordeEotheod
-"Éotheod Warriors"
+"Guerriers Eotheod"
 END
 
 //------------ White Stag ---------------
 OBJECT:MirkwoodWhiteStag
-"White Stag"
+"Cerf Blanc"
 END
 
 CONTROLBAR:WhiteStagEthereal
-"Ethereal"
+"Éthéré"
 END
 
 CONTROLBAR:ToolTipWhiteStagEthereal
-"The White Stag is immune to all enemy attacks, but may trample enemy units\n Enemy units are terrified by the White Stag\n Passive ability"
+"Le Cerf Blanc est immunisé à toutes les attaques ennemis, mais peut piétiner les unités ennemies. \n Les unités ennemis sont terrifiées par le Cerf Blanc. \n\n Capacité passive."
 END
 
 CONTROLBAR:SGoodFortune
-"A Sign of Good Fortune"
+"Signe de bonne fortune"
 End
 
 CONTROLBAR:ToolTipSGoodFortune
-"Modifier Type: Spell \n Nearby friendly units gain +300% armour and resistance to fear and terror \nPassive Ability"
+"Type d'Action: Sort. \n Les unités alliées proches gagnent +300% d'armure et de résistance à la peur et à la terreur (bonus cumulable). \n\n Capacité passive."
 End
 
 CONTROLBAR:FeyWisdom
-"Fey Wisdom (&T)"
+"Sagesse Extralucide (&T)"
 End
 
 CONTROLBAR:ToolTipFeyWisdom
-"For 60 seconds, nearby units and heroes gain 300% experience gain and immunity to magic and elemental damage\nLeft click to activate"
+"Pendant 1 minute, les unités alliées proches et les héros gagnent 300% d'expérience et gagnent l'immunité aux dégats magiques et élémentaires. \n\n Clic gauche pour l'activer."
 End
 
 //---------------------------------------------------------------------------
