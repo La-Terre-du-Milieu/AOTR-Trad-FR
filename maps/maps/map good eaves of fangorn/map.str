@@ -1,0 +1,160 @@
+////////////////EAVES OF FANGORN//////////////////
+
+
+////////////////HINTS//////////////////
+
+SCRIPT:Hint_Eaves_Clue_Armour
+"Les Uruks ont abandonné leur armure pour maintenir leur vitesse. Leur force doit s'affaiblir..."
+End
+
+SCRIPT:Hint_Eaves_Clue_Farm
+"Cette ferme semble avoir été pillée et incendiée par une bande d'orcs de passage..."
+End
+
+SCRIPT:Hint_Eaves_Gorge_Path Blocked
+"Le passage est bloqué. Il va falloir trouver un autre itinéraire."
+End
+
+SCRIPT:Hint_Eaves_Gorge_Wargs
+"Je ne pense pas que nous devrions être ici..."
+End
+
+SCRIPT:Hint_Eaves_Grishnakh
+"Échappez-vous de Grishnakh"
+End
+
+SCRIPT:Hint_Eaves_Patrol warnings
+"Les Orcs et Uruk-hai parcourent Fangorn. Il faut les éviter."
+End
+
+SCRIPT:Hint_Eaves_Rock Lure
+"Merry et Pippin peuvent lancer des pierres pour distraire les patrouilles."
+End
+
+SCRIPT:Hint_Eaves_Rock Lure2
+"Des pierres peuvent être lancées pendant que Merry et Pippin utilisent des capes elfiques."
+End
+
+SCRIPT:Hint_Eaves_Refugees Saved
+"Les réfugiés nous ont laissé une récompense et leurs porteurs transportent des améliorations pour nos troupes."
+End
+
+SCRIPT:Hint_Eaves_Village Transfer
+"Les incendies ont été éteints. Nous pouvons maintenant construire dans ce village."
+End
+
+SCRIPT:Hint_Eaves_Village Fires Reminder
+"Tous les incendies doivent être éteints avant que les villages puissent être reconstruits."
+End
+
+SCRIPT:Hint_Eaves_Village Build Reminder
+"Tous les villages ont été trouvés. Construisez sur toutes les parcelles pour renforcer la zone contre d'autres raids."
+End
+
+SCRIPT:Hint_Eaves_Porters Dead
+"Tous nos chariots à eau ont été détruits. Nous devrons attendre qu'un autre arrive à notre camp."
+End
+
+SCRIPT:Hint_Eaves_Porters Arrived
+"Un nouveau chariot à eau est arrivé."
+End
+
+SCRIPT:Hint_Eaves_Porters Arrived Village
+"Un autre chariot à eau est à notre disposition."
+End
+
+////////////////DIALOGUE//////////////////
+
+SCRIPT:Dialogue_Eaves_Villages 01
+"ÉCLAIREUR : Seigneur Eomer ! Les villages du nord sont attaqués par des pillards !"
+End
+
+SCRIPT:Dialogue_Eaves_Villages 02
+"ÉCLAIREUR : Ils résistent du mieux qu'ils peuvent, mais si nous ne nous dépêchons pas, il ne restera plus que des cadavres calcinés et des braises."
+End
+
+SCRIPT:Dialogue_Eaves_Villages 03
+"EOMER : Nous devons rassembler autant de forces que possible et partir avant qu'il ne soit trop tard !"
+End
+
+SCRIPT:Dialogue_Eaves_Villages 04
+"EOMER : Cependant, nous devons nous assurer que notre camp est bien défendu contre d'autres attaques."
+End
+
+SCRIPT:Dialogue_Eaves_Villages 05
+"EOMER : Nous devons d'abord éteindre tous ces incendies."
+End
+
+SCRIPT:Dialogue_Eaves_Villages 06
+"EOMER : Ce n'est qu'alors que nous pourrons reconstruire nos fermes en toute sécurité."
+End
+
+SCRIPT:Dialogue_Eaves_Eomer Intro 01
+"EOMER : Le roi Théoden a été ensorcelé par Saroumane ! Je suis venu rallier tous ceux qui sont fidèles au Rohan, avant que cette terre ne soit perdue !"
+End
+
+SCRIPT:Dialogue_Eaves_Eomer Intro 02
+"EOMER : Regardez là ! Ce village est attaqué !"
+End
+
+SCRIPT:Dialogue_Eaves_Eomer Intro 03
+"EOMER : Éclaireurs ! Cherchez vers le nord. Nous devons être conscients des mouvements de l'Isengard si nous voulons résister à leur assaut !"
+End
+
+SCRIPT:Dialogue_Eaves_Eomer Midtro 02 01
+"Les pistes avancent. Nous devons bientôt retrouver les Uruks, avant qu'ils ne disparaissent dans l'obscurité de la nuit."
+End
+
+SCRIPT:Dialogue_Eaves_Eomer Midtro 02 02
+"Seigneur Eomer, nous avons localisé les Uruks-hai. Ils campent aux confins du Fangorn."
+End
+
+SCRIPT:Dialogue_Eaves_Eomer Midtro 02 03
+"Ils sont désorganisés et se disputent. Si nous agissons maintenant, nous pouvons les prendre au dépourvu."
+End
+
+SCRIPT:Dialogue_Eaves_Eomer Midtro 02 04
+"Nous prendrons nos chevaux et les surprendrons avant de perdre cette opportunité."
+End
+
+SCRIPT:Dialogue_Eaves_Eomer Scouts 01
+"Regardez ! Ils se battent entre eux !"
+End
+
+SCRIPT:Dialogue_Eaves_Eomer Scouts 02
+"À ce rythme, ils s'entretueront avant que nous n'ayons à intervenir."
+End
+
+SCRIPT:Dialogue_Eaves_Eomer Scouts 03
+"Vite ! Revenons en arrière et informons Eomer"
+End
+
+SCRIPT:Dialogue_Eaves_Eomer Camp 01
+"Nos remerciements, Seigneur Eomer."
+End
+
+SCRIPT:Dialogue_Eaves_Eomer Camp 02
+"Nous vous rejoindrons dans votre combat contre ces créatures !"
+End
+
+SCRIPT:Dialogue_Eaves_Eomer Camp 03
+"Capitaine Eomer, nos provisions sont faibles et les hommes sont fatigués..."
+End
+
+SCRIPT:Dialogue_Eaves_Eomer Camp 04
+"Frères ! Nous avons du travail ! Nous allons camper ici."
+End
+
+////////////////DEBUG//////////////////
+
+SCRIPT:Debug_Plots UnBuilt
+"Debug - Empty Plots:"
+End
+
+SCRIPT:Debug_Plots Built
+"Debug - Built Plots:"
+End
+
+SCRIPT:Egg
+"You saw nothing."
+End

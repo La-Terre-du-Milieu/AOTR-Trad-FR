@@ -1,0 +1,330 @@
+////////////////ITHILIEN//////////////////
+
+SCRIPT:Hint_Ithilien_Lure
+"Faramir et ses Rangers peuvent utiliser la capacité Leurre pour attirer des patrouilles orques."
+End
+
+SCRIPT:Hint_Ithilien_Flank
+"Les Orcs et les Corsaires du Sud sont faibles face aux attaques par derrière et sur les flancs."
+End
+
+SCRIPT:Hint_Ithilien_Forbidden Pool
+"Les forces du Mordor s'approchent du lac interdit"
+End
+
+SCRIPT:Hint_Ithilien_Warden
+"Marchez doucement ! Si ces orcs nous repèrent, ils avertiront les forces du Mordor de notre localisation !"
+End
+
+SCRIPT:Hint_Ithilien_Warden 2
+"Les guetteurs orcs s'enfuiront s'ils sont alertés. S'ils s'échappent, le Mordor enverra une force plus importante pour fouiller la zone."
+End
+
+SCRIPT:Hint_Ithilien_Warden 3
+"Les guetteurs orcs n'enquêteront pas sur les leurres."
+End
+
+SCRIPT:Hint_Ithilien_Warden Warning
+"Ces orcs tentent de s'échapper, arrêtez-les avant qu'ils n'alertent le Mordor !"
+End
+
+SCRIPT:Hint_Ithilien_Warden Warning 2
+"Un guetteur s'est échappé. Échappez-vous de la zone et préparez-vous pour l'équipe de recherche du Mordor !"
+End
+
+SCRIPT:Hint_Ithilien_Warden Warning 3
+"Une équipe de recherche du Mordor est arrivée. Nous devons les éliminer avant d'être envahis !"
+End
+
+SCRIPT:Hint_Ithilien_Warden Timer
+"L'équipe de recherche du Mordor arrivera dans :"
+End
+
+SCRIPT:Hint_Ithilien_Madril_Arrived
+"Madril et Damrod sont de retour. Retrouvez-les à Henneth Annun."
+End
+
+SCRIPT:Hint_Ithilien_Damrod Camps 01
+"Les rangers d'Anborn campent dans les bois du nord, tandis que Mablung et ses hommes sont piégés dans la région du sud."
+End
+
+SCRIPT:Hint_Ithilien_Damrod Camps 02
+"Il y a aussi quelques éclaireurs dispersés avec qui nous devrions essayer de prendre contact avant qu'ils ne soient découverts."
+End
+
+SCRIPT:Hint_Ithilien_Anborn Reached
+"Capitaine Faramir ! Mes rangers et moi sommes à votre disposition !"
+End
+
+SCRIPT:Hint_Ithilien_Mablung Reached
+"Une arrivée des plus opportunes, mon capitaine. Le commandement est à vous !"
+End
+
+SCRIPT:Hint_Ithilien_Rangers Reveal
+"Les groupes de rangers cachés à proximité peuvent être localisés en utilisant la capacité Leurre et en écoutant une réponse."
+End
+
+SCRIPT:Hint_Ithilien_Gollum 01
+"Vaincre et capturer Gollum"
+End
+
+SCRIPT:Hint_Ithilien_Gollum 02
+"Ramenez Gollum à Henneth Annun"
+End
+
+SCRIPT:Hint_Ithilien_Bodkin Arrows
+"Les rangers d'Ithilien peuvent désormais acheter des flèches alênes et des lames forgées"
+End
+
+SCRIPT:Timer_Ithilien_Convoy
+"Le convoi Haradrim arrivera dans :"
+End
+
+SCRIPT:Hint_Ithilien_Convoy Tent
+"Nous pouvons monter une tente dans la clairière à l'extrémité nord du ravin."
+End
+
+SCRIPT:Hint_Ithilien_Convoy Rangers
+"Nous devons recruter plus de rangers si nous voulons avoir une chance contre ce convoi."
+End
+
+SCRIPT:Hint_Ithilien_Convoy Hold
+"Placez les rangers et les héros en position défensive pour attirer le convoi dans une embuscade avant d'attaquer."
+End
+
+SCRIPT:Hint_Ithilien_Convoy Stop
+"Utilisez la commande S pour empêcher les rangers de quitter leurs positions le long des crêtes."
+End
+
+SCRIPT:Hint_Ithilien_Convoy 01
+"Le convoi Haradrim est arrivé dans le sud."
+End
+
+SCRIPT:Dialogue_Ithilien_Cine_Madril_00
+"MADRIL : Capitaine Faramir, nous sommes revenus avec des nouvelles des éclaireurs. Suivez-nous jusqu'au bord de la rivière."
+End
+
+SCRIPT:Dialogue_Ithilien_Cine_Madril_01A
+"MADRIL : Capitaine Faramir, nous sommes revenus avec des nouvelles des éclaireurs."
+End
+
+SCRIPT:Dialogue_Ithilien_Cine_Madril_01B
+"MADRIL : Capitaine Faramir ! Les éclaireurs ont fait leur rapport."
+End
+
+SCRIPT:Dialogue_Ithilien_Cine_Madril_02
+"MADRIL : Un grand convoi de forces Haradrim a été aperçu en train de remonter des frontières sud."
+End
+
+SCRIPT:Dialogue_Ithilien_Cine_Madril_03
+"MADRIL : Ils devraient atteindre le col oriental d'ici demain."
+End
+
+SCRIPT:Dialogue_Ithilien_Cine_Madril_04
+"FARAMIR : C'est une mauvaise nouvelle en effet. Déjà les orcs ont doublé leur nombre \n et leurs patrouilles nous ont maintenant atteint ici à Henneth Annun..."
+End
+
+SCRIPT:Dialogue_Ithilien_Cine_Madril_05
+"FARAMIR : Si nous voulons arrêter ce convoi, nous devons d'abord regrouper les hommes qui nous restent et frapper au pied du Mordor en Ithilien."
+End
+
+SCRIPT:Dialogue_Ithilien_Cine_Madril_06
+"FARAMIR : Reposez vos hommes, car nous devons partir aux premières lueurs du jour."
+End
+
+SCRIPT:Debug
+"DEBUG - CAMP COMPLETE IN:"
+End
+
+SCRIPT:Dialogue_Ithilien_Camp warning
+"Méfiez-vous de leurs hommes de camp. Nous ne pouvons pas risquer d'alerter les gardes avant d'avoir rassemblé toutes nos forces."
+End
+
+
+///////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////
+
+DIALOGEVENT:mgfotr_ithilienofficer001
+"Nous devons éliminer toutes les patrouilles du Mordor avant qu'elles ne découvrent notre refuge secret !" 
+END
+
+DIALOGEVENT:mgfotr_ithilienofficer002
+"L'ennemi ne nous verra pas, tant que nous restons près des arbres et à une courte distance." 
+END
+
+DIALOGEVENT:mgfotr_ithilienofficer003
+"Si nous sommes repérés, nous pouvons perdre l'ennemi en nous déplaçant dans les bois." 
+END
+
+DIALOGEVENT:mgfotr_ithilienofficer004
+"Nous devrions attirer les ennemis et les tuer tranquillement..." 
+END
+
+DIALOGEVENT:mgfotr_ithilienofficer005
+"Nous ferons plus de dégâts si nous attaquons par derrière et sur les flancs." 
+END
+
+DIALOGEVENT:mgfotr_ithilienofficer006
+"Madril et Damrod sont de retour. Nous devrions retourner au refuge de Henneth Annun." 
+END
+
+DIALOGEVENT:mgfotr_ithilienofficer007
+"Attention à ce groupe d'orc !" 
+END
+
+DIALOGEVENT:mgfotr_ithilienofficer008
+"Ces guetteurs alerteront le Mordor sur nos positions s'ils nous découvrent !" 
+END
+
+DIALOGEVENT:mgfotr_ithilienofficer009
+"Les guetteurs orcs se sont échappés ! Nous devons fuir la zone et nous préparer aux renforts du Mordor !" 
+END
+
+DIALOGEVENT:mgfotr_ithilienofficer010
+"Les orcs brûlent les arbres ! Ne les laissez pas enlever notre couverture !" 
+END
+
+DIALOGEVENT:mgfotr_ithilienofficer011
+"D'autres guetteurs orcs ont fui !" 
+END
+
+DIALOGEVENT:mgfotr_ithilienofficer012
+"Encore plus de guetteurs se sont échappés ! Battez en retraite pour vous cachez !" 
+END
+
+DIALOGEVENT:mgfotr_ithilienofficer013
+"Ces guetteurs révéleront notre position !" 
+END
+
+DIALOGEVENT:mgfotr_ithilienofficer014
+"Nous ne pouvons plus permettre à d'autres guetteurs orcs de s'échapper !" 
+END
+
+DIALOGEVENT:mgfotr_ithilienofficer015
+"Nos rangers ont rapporté que le Mordor a établi un grand camp au nord-est." 
+END
+
+DIALOGEVENT:mgfotr_ithilienofficer016
+"C'est le poste de relais du Mordor pour les raids sur le territoire gondorien." 
+END
+
+DIALOGEVENT:mgfotr_ithilienofficer017
+"Si nous détruisons ce camp, l'avancée de l'ennemi sera ralentie !" 
+END
+
+DIALOGEVENT:mgfotr_ithilienofficer018
+"Pour frapper à la base du Mordor, nous aurons besoin de toutes les forces en Ithilien." 
+END
+
+DIALOGEVENT:mgfotr_ithilienofficer019
+"Nous devons prendre contact avec les autres capitaines des Rangers." 
+END
+
+DIALOGEVENT:mgfotr_ithilienofficer020
+"Les rangers d'Anborn campent dans les bois du nord, tandis que Mablung et ses hommes sont envoyés vers le sud." 
+END
+
+DIALOGEVENT:mgfotr_ithilienofficer021
+"Il y a aussi d'autres rangers cachés dans toute la région. Nous devrions essayer d'en trouver autant que possible." 
+END
+
+DIALOGEVENT:mgfotr_ithilienofficer022
+"Nous devons trouver les rôdeurs restants au camp d'Anborn." 
+END
+
+DIALOGEVENT:mgfotr_ithilienofficer023
+"Nous devons trouver les rangers restants au camp de Mablung." 
+END
+
+DIALOGEVENT:mgfotr_ithilienofficer024
+"Les rangers seront cachés. Appelez-les ! Ils répondront et nous indiqueront leur emplacement." 
+END
+
+DIALOGEVENT:mgfotr_ithilienofficer025
+"Il y a des rapports de scieries à travers l'Ithilien. Ils défrichent les arbres, et avec eux, notre couverture." 
+END
+
+DIALOGEVENT:mgfotr_ithilienofficer026
+"Nous devons éliminer ces scieries ou bien nous allons bientôt nous battre dans une plaine aride." 
+END
+
+DIALOGEVENT:mgfotr_ithilienofficer027
+"Il reste cinq scieries, il faut les détruire !" 
+END
+
+DIALOGEVENT:mgfotr_ithilienofficer028
+"Il ne reste que quatre scieries" 
+END
+
+DIALOGEVENT:mgfotr_ithilienofficer029
+"Nous devons détruire les trois dernières scieries" 
+END
+
+DIALOGEVENT:mgfotr_ithilienofficer030
+"Il ne reste que deux scieries" 
+END
+
+DIALOGEVENT:mgfotr_ithilienofficer031
+"Il ne reste qu'une scierie !" 
+END
+
+DIALOGEVENT:mgfotr_ithilienofficer032
+"C'est la dernière de leurs misérables scieries !" 
+END
+
+DIALOGEVENT:mgfotr_ithilienofficer033
+"Une étrange créature a été aperçue sur les falaises au nord-est. Nous devrions envoyer le capitaine Anborn là-bas pour enquêter." 
+END
+
+DIALOGEVENT:mgfotr_ithilienofficer034
+"La créature Gollum a été capturée. Ramenez-le à Henneth Annun. Le capitaine Faramir pourra l'interroger plus tard." 
+END
+
+DIALOGEVENT:mgfotr_ithilienofficer035
+"Félicitations, Hommes du Gondor ! Sans leur camp, les forces du Mordor seront coupées !" 
+END
+
+DIALOGEVENT:mgfotr_ithilienofficer036
+"Un grand convoi Haradrim arrivera bientôt. Nous devons être prêts à les arrêter !" 
+END
+
+DIALOGEVENT:mgfotr_ithilienofficer037
+"Nous devrions tendre une embuscade et placer des hommes le long du col oriental." 
+END
+
+DIALOGEVENT:mgfotr_ithilienofficer038
+"Ces crêtes cacheront nos hommes de l'ennemi et nous permettront de frapper lorsqu'ils seront vulnérables." 
+END
+
+DIALOGEVENT:mgfotr_ithilienofficer039
+"Nous aurons besoin de toutes nos forces pour vaincre les Haradrim et leurs Mumakil. Nous pouvons recruter plus de rangers dans notre camp." 
+END
+
+DIALOGEVENT:mgfotr_ithilienofficer040
+"Il y a encore des rangers qui se cachent en Ithilien. On devrait les trouver avant l'arrivée du convoi." 
+END
+
+DIALOGEVENT:mgfotr_ithilienofficer041
+"Il y a encore des zones de la crête non protégées. Nous devrions nous rendre rapidement compte de ces points de vue !" 
+END
+
+DIALOGEVENT:mgfotr_ithilienofficer042
+"Le dernier convoi est arrivé ! Détruisez les derniers de ces envahisseurs immondes !" 
+END
+
+DIALOGEVENT:mgfotr_ithilienofficer043
+"C'est fini ! La force Haradrim a été détruite !" 
+END
+
+DIALOGEVENT:mgfotr_ithilienofficer044
+"Nos éclaireurs rapportent que Sauron a rassemblé son armée et se prépare à envahir le Gondor."
+END
+
+DIALOGEVENT:mgfotr_ithilienofficer045
+"Les orcs sont en mouvement, les Corsaires du Sud ont été repérés près de nos frontières. Les terres Ithilien seront bientôt attaquées."
+END
+
+DIALOGEVENT:mgfotr_ithilienofficer046
+"Le capitaine Faramir ordonnera à ses rangers les plus fiables de caler et de repousser l'ennemi. \n Nous devons détruire les équipes d'éclaireurs avant d'être découverts."
+END

@@ -1,0 +1,162 @@
+////////////////TAMING OF SMEAGOL//////////////////
+
+SCRIPT:Hint_Marshes_Bloked Path
+"Détruisez les Galgals à proximité pour ouvrir les chemins bloqués à travers les marais."
+END
+
+SCRIPT:Hint_Marshes_Barrows
+"Détruisez les Galgals pour ouvrir les chemins à travers les marais."
+END
+
+SCRIPT:Hint_Marshes_Firewood
+"Nous devrions ramasser du bois pour un feu et nous reposer ici pendant un moment"
+END
+
+SCRIPT:Hint_Marshes_Firewood Counter
+"Morceaux de bois collectés :"
+END
+
+SCRIPT:Hint_Marshes_Hide
+"Cachez-vous dans un bosquet à proximité pour éviter d'être détecté par les Spectres de l'anneau"
+END
+
+SCRIPT:Hint_Marshes_Final Barrow
+"Tenez-vous près du Haut-Galgals pour l'incendier."
+END
+
+SCRIPT:Hint_Marshes_End trigger
+"Vous devez amener tous les héros de l'autre côté des marais pour vous échapper."
+END
+
+SCRIPT:Hint_Gollum_TEMP
+"TEMP CINEMATIC - CAMERA ANIMATION LATER"
+END
+
+//////////////////////////////////////////////
+//////////////////////////////////////////////
+//////////////////////////////////////////////
+
+
+DIALOGEVENT:mgfotr_oropher001
+"OROPHER : La volonté du Seigneur des Ténèbres est trop forte..." 
+END
+
+DIALOGEVENT:mgfotr_oropher002
+"OROPHER : Non ! Frodon !" 
+END
+
+DIALOGEVENT:mgfotr_oropher003
+"OROPHER : Brave Sam !" 
+END
+
+DIALOGEVENT:mgfotr_oropher004
+"OROPHER : Smeagol !" 
+END
+
+DIALOGEVENT:mgfotr_oropher005
+"OROPHER : Les morts nous entourent !" 
+END
+
+DIALOGEVENT:mgfotr_oropher006
+"OROPHER : Ils sont légions ! Nous devons détruire leurs Galgals !" 
+END
+
+DIALOGEVENT:mgfotr_oropher007
+"OROPHER : Je sens un grand mal ici." 
+END
+
+DIALOGEVENT:mgfotr_oropher008
+"OROPHER : Regardez ! Les Onodrims sont là !" 
+END
+
+DIALOGEVENT:mgfotr_oropher009
+"OROPHER : Nous devons fuir, nous ne pouvons pas les combattre." 
+END
+
+DIALOGEVENT:mgfotr_oropher010
+"OROPHER : Nous devons restez prudents. Ces marais contiennent beaucoup de maléfices." 
+END
+
+DIALOGEVENT:mgfotr_oropher011
+"OROPHER : Vous ne devez pas aller plus loin, Hobbits. Les esprits vous guettent. Ils vous tueront si vous continuez votre chemin." 
+END
+
+DIALOGEVENT:mgfotr_oropher012
+"OROPHER : Ces esprits appartiennent à des guerriers autrefois sous mon commandement. Leur mort est sur ma conscience. \n Ils sont piégés dans cet endroit, incapables d'avancer. Consumé par la rage et le chagrin." 
+END
+
+DIALOGEVENT:mgfotr_oropher013
+"OROPHER : Vous devez briser le maléfice qui nous lie à cette terre misérable. \n Trouvez nos Galgals et détruisez-les. Ce n'est qu'après que vous pourrez traverser en toute sécurité." 
+END
+
+DIALOGEVENT:mgfotr_oropher014
+"OROPHER : Je vais vous aider. Suivez-moi, afin que nous puissions libérer mon peuple de cette malédiction de la non-mort." 
+END
+
+DIALOGEVENT:mgfotr_oropher015
+"OROPHER : Armez vos cœurs ! Un Nazgul approche !" 
+END
+
+DIALOGEVENT:mgfotr_oropher016
+"OROPHER : Vos capes ne vous dissimuleront pas de leur regard. Cherchez un abri à proximité !" 
+END
+
+DIALOGEVENT:mgfotr_oropher017
+"OROPHER : Ce spectre ne me fera pas de mal." 
+END
+
+DIALOGEVENT:mgfotr_oropher018
+"OROPHER : Les Nazguls patrouillent dans les marais. Méfiez-vous et préparez-vous à vous cacher à leur approche !" 
+END
+
+DIALOGEVENT:mgfotr_oropher019
+"OROPHER : Semi-hommes !! Le Nazgul revient !" 
+END
+
+DIALOGEVENT:mgfotr_oropher020
+"OROPHER : Ce Galgals a été nettoyé. Mes soldats cesseront d'entraver votre passage." 
+END
+
+DIALOGEVENT:mgfotr_oropher021
+"OROPHER : Regardez ! Un autre Galgals nous attend." 
+END
+
+DIALOGEVENT:mgfotr_oropher022
+"OROPHER : Ne vous arrêtez pas pour vous reposer, jeunes Hobbits !" 
+END
+
+DIALOGEVENT:mgfotr_oropher023
+"OROPHER : La brume dévoile un autre Galgals. Faisons ce qu'il faut faire." 
+END
+
+DIALOGEVENT:mgfotr_oropher024
+"OROPHER : Nous approchons de l'autre côté du marais. Continuons d'avancer !" 
+END
+
+DIALOGEVENT:mgfotr_oropher025
+"OROPHER : Nous ne pourrons pas nous battre pour nous frayer un chemin." 
+END
+
+DIALOGEVENT:mgfotr_oropher026
+"OROPHER : Ce Haut-Galgals est l'ancre du sortilège du Seigneur des Ténèbres. Il attache ces ombres maudites. Nous devons le brûler pour les libérer." 
+END
+
+DIALOGEVENT:mgfotr_oropher027
+"OROPHER : Le Haut-Galgals a été nettoyé. Mes guerriers sont libérés !" 
+END
+
+DIALOGEVENT:mgfotr_oropher028
+"OROPHER : Le passage à travers les marais vous est désormais ouvert. Venez ! Il faut faire vite." 
+END
+
+DIALOGEVENT:mgfotr_oropher029
+"OROPHER : Avec votre aide, j'ai expié mes actes passés... Je peux sentir l'attraction \n de l'Ouest absolu... mon esprit crie pour partir. Merci, Frodon Sacquet."
+END
+
+DIALOGEVENT:mgfotr_oropher030
+"OROPHER : Bien que vous ne me l'ayez pas dit, j'ai deviné votre but. Vous portez un grand mal avec vous, mais vous \n avez la force d'y résister. Allez maintenant, et que les bénédictions du Cerf Blanc soient avec vous." 
+END
+
+DIALOGEVENT:mgfotr_oropher031
+"OROPHER : Adieu..." 
+END

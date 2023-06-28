@@ -1,0 +1,1008 @@
+////////////////GREY COMPANY//////////////////
+
+SCRIPT:Objective01_GC_Annuminas
+"Trouver Halbarad Dunadan"
+END
+
+SCRIPT:Objective02_GC_Annuminas
+"Rassemblez assez de Dunedain pour marcher sur les Landes d'Etten et chevauchez vers le sud pour aider Aragorn"
+END
+
+SCRIPT:Objective03_GC_Annuminas
+"Voyagez jusqu'aux Galgals et trouvez les Dunedain"
+END
+
+SCRIPT:Objective04_GC_Annuminas
+"Voyagez jusqu'au Marish et trouvez les Dunedain"
+END
+
+SCRIPT:Objective05_GC_Annuminas
+"Voyagez jusqu'à Fornost Erain et trouvez les Dunedain"
+END
+
+SCRIPT:Objective06_GC_Annuminas
+"Voyagez jusqu'aux Trouées des Trolls et trouvez les Dunedain"
+END
+
+SCRIPT:BonusObjective01_GC_Annuminas
+"Explorez les ruines d'Annuminas et ses environs"
+END
+
+////////////////RIVENDELL//////////////////
+
+SCRIPT: Dialogue_GC_Rivendell_Idrial001
+"IDRIAL : Seigneur Elrond, j'apporte des nouvelles de la part de la dame Galadriel."
+END
+
+SCRIPT: Dialogue_GC_Rivendell_Idrial002
+"IDRIAL : Elessar a traversé le pays du Rohan. La grande guerre a commencé. \n Il aura besoin de toute l'aide possible. Rassemblez ses forces et envoyez-les sous son étendard !"
+END
+
+SCRIPT: Dialogue_GC_Rivendell_Elrond001
+"ELROND : J'avais prédit ce moment. Béni soit ce don de prévoyance, \n ma fille a tissé nos valeurs."
+END
+
+SCRIPT: Dialogue_GC_Rivendell_Elrond002
+"ELROND : J'enverrais mes fils pour rassembler autant d'hommes qu'ils le peuvent."
+END
+
+////////////////ANNUMINAS//////////////////
+
+SCRIPT:Timer_GC_Annuminas_Decal Barrows
+"Voyagez jusqu'aux Galgals avant :"
+END
+
+SCRIPT:Timer_GC_Annuminas_Decal Fornost
+"Voyagez jusqu'à Fornost Erain avant :"
+END
+
+SCRIPT:Timer_GC_Annuminas_Decal Shire
+"Voyagez jusqu'au Marish avant :"
+END
+
+SCRIPT:Timer_GC_Annuminas_Decal Trollshaws
+"Voyagez jusqu'aux Trouées des Trolls avant :"
+END
+
+SCRIPT:Timer_GC_Annuminas_Decal Ettenmoors
+"Voyagez jusqu'aux Landes d'Etten avant :"
+END
+
+///////////////BARROWS/////////////////
+
+SCRIPT:Hint_GC_Barrows Watstone
+"La seconde clé en pierre doit être cachée ailleurs dans la Tumulus. Nous devrions nous assurer de fouiller chaque chambre."
+END
+
+///////////////SHIRE/////////////////
+
+SCRIPT:Hint_GC_Shire_Farm Attacked
+"Bamfurlong est attaqué. Il faut le défendre."
+END
+
+SCRIPT:Hint_GC_Shire_Farm Damaged
+"Bamfurlong sera bientôt détruit."
+END
+
+SCRIPT:Hint_GC_Shire_Farm Health half
+"Bamfurlong est fortement endommagé."
+END
+
+////////////////FORNOST//////////////////
+
+SCRIPT:Counter_GC_Fornost_Rangers Alive
+"Groupes de Rangers laissés en vie :"
+END
+
+///////////////TROLLSHAWS/////////////////
+
+SCRIPT:Hint_GC_Trollshaws_Books
+"Elladan et Elrohir infligeront en permanence 20% de dégâts supplémentaires."
+END
+
+///////////////ETTENMOORS/////////////////
+
+SCRIPT:Hint_GC_Ettenmoors_Camp
+"Vous devez garder une garnison au camp pour empêcher Golfimbul de s'échapper."
+END
+
+
+SCRIPT:Dialogue_GC_Ettenmoors_Grey Company
+"Nous retournerons au camp et attendrons l'ennemi."
+END
+
+
+SCRIPT:Timer_GC_Ettenmoors_Camp
+"Le camp sera abandonné dans :"
+END
+
+
+
+/////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////
+
+DIALOGEVENT:mgfotr_TrollA001
+"Les Dunedains. Vous voulez vous rendre à l'intérieur des Trouées aux Trolls ?" 
+END
+
+DIALOGEVENT:mgfotr_TrollA002
+"Oh. Pardon." 
+END
+
+DIALOGEVENT:mgfotr_TrollB001
+"Ce ne sont pas des antres de Trolls ! Mais bien des Trouées de Trolls !" 
+END
+
+DIALOGEVENT:mgfotr_TrollB002
+"Nous n'avons vu personne ici. Vous ne pouvez pas aller à l'intérieur." 
+END
+
+DIALOGEVENT:mgfotr_elegost001
+"ELEGOST : Elrohir ! Et Elladan ? Quoi qu'il en soit, qu'est-ce qui amène les Fils d'Elrond ici ?" 
+END
+
+DIALOGEVENT:mgfotr_elegost002
+"ELEGOST : Très bien. J'ai suivi un groupe de Rangers dans ces bois. Ils ne sont pas sortis, et je crains le pire. \nJe vais voir ce qu'il y a à voir et tuer tous les trolls que je peux." 
+END
+
+DIALOGEVENT:mgfotr_elegost003
+"ELEGOST : Troll ! Laisse-nous passer et nous vous laisserons sain et sauf." 
+END
+
+DIALOGEVENT:mgfotr_elegost004
+"ELEGOST : Oui. Nous recherchons nos amis." 
+END
+
+DIALOGEVENT:mgfotr_elegost005
+"ELEGOST : Peu de choses plus fastidieuses que de parler aux trolls..." 
+END
+
+DIALOGEVENT:mgfotr_elegost006
+"ELEGOST : Les gens qui vivaient ici étaient des gens honnêtes. Leur meurtre doit être vengé." 
+END
+
+DIALOGEVENT:mgfotr_elegost007
+"ELEGOST : Je n'ai jamais su que les trolls étaient lettrés." 
+END
+
+DIALOGEVENT:mgfotr_elegost008
+"ELEGOST : C'est comme je le craignais." 
+END
+
+DIALOGEVENT:mgfotr_elegost009
+"ELEGOST : C'est une embuscade !" 
+END
+
+DIALOGEVENT:mgfotr_elegost010
+"ELEGOST : Sale affaire, mais c'est fait, et nous sommes tous en un seul morceau. \n Aidez-moi à enterrer mes frères. Puis nous irons jusqu'à Annunimas." 
+END
+
+DIALOGEVENT:mgfotr_elegost011
+"ELEGOST : On peut essayer d'en trouver un." 
+END
+
+DIALOGEVENT:mgfotr_elegost012
+"ELEGOST : Les trolls sont gros, maladroits et faciles à suivre. Nous suivrons leurs traces."
+END
+
+DIALOGEVENT:mgfotr_elegost013
+"ELEGOST : Allons discuter. Je peux sentir l'alcool d'ici. Ils ne sont pas une menace comme ils le sont."
+END
+
+DIALOGEVENT:mgfotr_elegost014
+"ELEGOST : Cela s'est bien passé. Maintenant, reprenons notre chasse."
+END
+
+DIALOGEVENT:mgfotr_elegost015
+"ELEGOST : Chut ! Soyez silencieux. Il y a un troll qui passe."
+END
+
+DIALOGEVENT:mgfotr_elegost016
+"ELEGOST : Nous pouvons rester dans les arbres et l'éviter, mais si nous trouvons une clairière, je peux attirer la bête dans une embuscade."
+END
+
+DIALOGEVENT:mgfotr_elegost017
+"ELEGOST : Cela a attiré son attention. Soyez prêts !"
+END
+
+DIALOGEVENT:mgfotr_elegost018
+"ELEGOST : Les trolls se cachent du soleil dans leurs repaires. Nous devrions y mettre un flambeau si nous le pouvons. Mais toute attaque serait un grand péril."
+END
+
+DIALOGEVENT:mgfotr_elegost019
+"ELEGOST : Ce grog est une chose volatile. Une flèche bien placée pourrait l'allumer."
+END
+
+DIALOGEVENT:mgfotr_elegost020
+"ELEGOST : Fils d'Elrond ! Nous avons besoin de vos lames !"
+END
+
+DIALOGEVENT:mgfotr_elladan001
+"ELLADAN : Nous sommes partis de Fondcombe à toute hâte. Le Seigneur Elrond apporte des nouvelles ! Votre chef a besoin d'aide." 
+END
+
+DIALOGEVENT:mgfotr_elladan002
+"ELLADAN : Alors nous devons faire ce que nous pouvons pour les aider !" 
+END
+
+DIALOGEVENT:mgfotr_elladan003
+"ELLADAN : Un lieu d'importance semble-t-il, quel était selon vous son but ?" 
+END
+
+DIALOGEVENT:mgfotr_elladan004
+"ELLADAN : Un siège d'un des Palantiri du Nord. Depuis longtemps la pierre d'Annuminas a été perdue, noyée dans les baies glacées de Forochel avec Arvedui, dernier roi d'Arthedain, avec d'autres objets de sa maison." 
+END
+
+DIALOGEVENT:mgfotr_elladan005
+"ELLADAN : Si nous avions vu Annuminas dans la hauteur de sa gloire." 
+END
+
+DIALOGEVENT:mgfotr_elladan006
+"ELLADAN : Peut-être peut-on en dire autant de la vie mortelle des hommes ?" 
+END
+
+DIALOGEVENT:mgfotr_elladan007
+"ELLADAN : Merveilleuses sont les tours de l'Arnor antique, et également les tours de pierre de l'Aule." 
+END
+
+DIALOGEVENT:mgfotr_elladan008
+"ELLADAN : Juste sont les restes d'Arnor même dans son déclin. Mais nous ne devrions pas nous attarder longtemps, le besoin d'Halbarad et d'Aragorn est grand." 
+END
+
+DIALOGEVENT:mgfotr_elladan009
+"ELLADAN : Que s'est-il passé ici, où est le reste de votre compagnie ?" 
+END
+
+DIALOGEVENT:mgfotr_elladan010
+"ELLADAN : Un certain mal occupe les os des morts. De la sorcellerie immonde d'Angmar..." 
+END
+
+DIALOGEVENT:mgfotr_elladan011
+"ELLADAN : Derrière la pierre de chemin ! Un levier caché !" 
+END
+
+DIALOGEVENT:mgfotr_elladan012
+"ELLADAN : Bientôt, peut-être. Nous venons d'Annuminas, où Halbarad vous invite à revenir." 
+END
+
+DIALOGEVENT:mgfotr_elladan013
+"ELLADAN : Alors nous vous aiderons ! Sauvegardez vos récoltes et nous vous escorterons jusqu'à l'eau." 
+END
+
+DIALOGEVENT:mgfotr_elladan014
+"ELLADAN : En effet, mais ne reviendront-ils pas pour se venger ?" 
+END
+
+DIALOGEVENT:mgfotr_elladan015
+"ELLADAN : Non, ce n'était que par chance, et au mot d'Halbarad votre capitaine." 
+END
+
+DIALOGEVENT:mgfotr_elladan016
+"ELLADAN : Elegost des Dunedain. Vous nous êtes connus." 
+END
+
+DIALOGEVENT:mgfotr_elladan017
+"ELLADAN : Nous devons pleurer vos amis tombés plus tard. Entendez-vous cela ?" 
+END
+
+DIALOGEVENT:mgfotr_elladan018
+"ELLADAN : Ils commenceront à se battre entre eux." 
+END
+
+DIALOGEVENT:mgfotr_elladan019
+"ELLADAN : Autrefois, les Dunedains ont habité les ruines d'Annuminas, sur les rives des Evendim."
+END
+
+DIALOGEVENT:mgfotr_elladan020
+"ELLADAN : Reste avec lui mon frère. Je vais chercher des Athelas."
+END
+
+DIALOGEVENT:mgfotr_elladan021
+"ELLADAN : Un boisseau abondant. Je devrais retourner voir Elrohir."
+END
+
+DIALOGEVENT:mgfotr_elladan022
+"ELLADAN : Attention, les esprits des morts se réveillent !"
+END
+
+DIALOGEVENT:mgfotr_elladan023
+"ELLADAN : Les esprits sont bannis."
+END
+
+DIALOGEVENT:mgfotr_elladan024
+"ELLADAN : Regardez ! Les morts reviennent !"
+END
+
+DIALOGEVENT:mgfotr_elladan025
+"ELLADAN : Ces créatures deviennent de plus en plus puissantes au fur et à mesure que nous avançons..."
+END
+
+DIALOGEVENT:mgfotr_elladan026
+"ELLADAN : Nous devrons utiliser les deux leviers en même temps pour ouvrir la porte principale."
+END
+
+DIALOGEVENT:mgfotr_elladan027
+"ELLADAN : Ils sont retenus dans cet endroit par cet ignoble seigneur des esprits."
+END
+
+DIALOGEVENT:mgfotr_elladan028
+"ELLADAN : Ce Galgals descend autour de nous. Nous devons fuir avant d'être piégés."
+END
+
+DIALOGEVENT:mgfotr_elladan029
+"ELLADAN : Regardez ! Des Ruffians approchent !"
+END
+
+DIALOGEVENT:mgfotr_elladan030
+"ELLADAN : Expédiez-les rapidement !"
+END
+
+DIALOGEVENT:mgfotr_elladan031
+"ELLADAN : Je crains que l'emprise des Dunedains sur cet endroit ne vacille..."
+END
+
+DIALOGEVENT:mgfotr_elladan032
+"ELLADAN : On devrait trouver les gardiens de cette ville. Viens, mon frère !"
+END
+
+DIALOGEVENT:mgfotr_elladan033
+"ELLADAN : Nous avons eu de la chance. Les trolls ne sont pas une mince menace."
+END
+
+DIALOGEVENT:mgfotr_elladan034
+"ELLADAN : Ce sera fait."
+END
+
+DIALOGEVENT:mgfotr_elladan035
+"ELLADAN : C'est fini. Mais nous ne pouvons risquer plus de retard. Nous devons trouver Gorg et le détruire avant qu'il ne se retire de la lumière du soleil."
+END
+
+DIALOGEVENT:mgfotr_elladan036
+"ELLADAN : Nous devons les vaincre. Nous ne pouvons pas laisser Golfimbul s'échapper."
+END
+
+DIALOGEVENT:mgfotr_elrohir001
+"ELROHIR : Nous avons l'intention de chevaucher bientôt vers le sud et de participer à la Grande Guerre. Nous vous demandons de rassembler tous les hommes que vous pouvez et de vous joindre à nous." 
+END
+
+DIALOGEVENT:mgfotr_elrohir002
+"ELROHIR : Dites-nous où aller." 
+END
+
+DIALOGEVENT:mgfotr_elrohir003
+"ELROHIR : Qui peut le dire ? Nombreux sont les étranges rituels oubliés des Hommes." 
+END
+
+DIALOGEVENT:mgfotr_elrohir004
+"ELROHIR : Une table de marbre noir, avec une dépression ronde en son centre." 
+END
+
+DIALOGEVENT:mgfotr_elrohir005
+"ELROHIR : Pourtant, il y a encore une beauté tranquille dans sa ruine et le temps qui passe." 
+END
+
+DIALOGEVENT:mgfotr_elrohir006
+"ELROHIR : Ses traits sont lisses et patinés. Je me demande qui c'est." 
+END
+
+DIALOGEVENT:mgfotr_elrohir007
+"ELROHIR : Peut-être, contre toute espérance, retournerons-nous dans le temps et habiterons-nous à Annuminas, près de nos soldats et des rives de Lindon." 
+END
+
+DIALOGEVENT:mgfotr_elrohir008
+"ELROHIR : C'est une mauvaise nouvelle, personne d'autre n'a survécu ?" 
+END
+
+DIALOGEVENT:mgfotr_elrohir009
+"ELROHIR : Quoi qu'il en soit, nous devons y mettre un terme." 
+END
+
+DIALOGEVENT:mgfotr_elrohir010
+"ELROHIR : Une autre clé de voûte, mais elle ne bougera pas. Peut-être y en a-t-il un autre ?" 
+END
+
+DIALOGEVENT:mgfotr_elrohir011
+"ELROHIR : Nous devons rassembler nos forces et chevaucher vers le sud au secours d'Aragorn." 
+END
+
+DIALOGEVENT:mgfotr_elrohir012
+"ELROHIR : Nous portons la parole à Annuminas et à notre père. Aragorn a besoin d'aide dans notre guerre contre l'ennemi." 
+END
+
+DIALOGEVENT:mgfotr_elrohir013
+"ELROHIR : Nous devons également garder la ferme. Ces voyous cherchent à faire plus que brûler vos récoltes." 
+END
+
+DIALOGEVENT:mgfotr_elrohir014
+"ELROHIR : Ils peuvent avoir de la chance. Ces bandits doivent camper à proximité pour attaquer aussi librement." 
+END
+
+DIALOGEVENT:mgfotr_elrohir015
+"ELROHIR : Ouvrez la voie ! Nos lames suivront." 
+END
+
+DIALOGEVENT:mgfotr_elrohir016
+"ELROHIR : Non, ce n'était que par chance, et au mot d'Halbarad, votre capitaine." 
+END
+
+DIALOGEVENT:mgfotr_elrohir017
+"ELROHIR : Nous sommes venus vous aider à faire face à cette menace troll. Après cela, vous devez chevauchez avec nous jusqu'à Annuminas. Halbarad rassemble une armée pour chevaucher vers le sud." 
+END
+
+DIALOGEVENT:mgfotr_elrohir018
+"ELROHIR : Voir! Un manuel de prouesses martiales, écrit par Turgon, le roi perdu de Gondolin ! Cela intéressera sûrement notre père." 
+END
+
+DIALOGEVENT:mgfotr_elrohir019
+"ELROHIR : Un troll des collines ? Non... ça a l'air plus gros..." 
+END
+
+DIALOGEVENT:mgfotr_elrohir020
+"ELROHIR : D'autres pourraient tenter de s'enfuir." 
+END
+
+DIALOGEVENT:mgfotr_elrohir021
+"ELROHIR : Il nous demande de vous aider et de retourner à Annuminas d'où nous pourrons rassembler nos forces et partir vers le sud, pour soutenir Aragorn." 
+END
+
+DIALOGEVENT:mgfotr_elrohir022
+"ELROHIR : Halbarad tient conseil dans une tour en ruine, de l'autre côté du pont."
+END
+
+DIALOGEVENT:mgfotr_elrohir023
+"ELROHIR : C'est Amdir ! Il est grièvement blessé, mais vivant."
+END
+
+DIALOGEVENT:mgfotr_elrohir024
+"ELROHIR : Nous devons le guérir rapidement."
+END
+
+DIALOGEVENT:mgfotr_elrohir025
+"ELROHIR : Un étrange sortilège s'abat sur cet endroit..."
+END
+
+DIALOGEVENT:mgfotr_elrohir026
+"ELROHIR : Le charme est rompu. Nous pouvons maintenant passer librement."
+END
+
+DIALOGEVENT:mgfotr_elrohir027
+"ELROHIR : Une autre pierre de sort... détruisez-la !"
+END
+
+DIALOGEVENT:mgfotr_elrohir028
+"ELROHIR : La porte s'est ouverte pour nous. Venez !"
+END
+
+DIALOGEVENT:mgfotr_elrohir029
+"ELROHIR : Il faut en finir avec lui avant qu'ils ne soient perdus !"
+END
+
+DIALOGEVENT:mgfotr_elrohir030
+"ELROHIR : C'est fait ! Il est tombé !"
+END
+
+DIALOGEVENT:mgfotr_elrohir031
+"ELROHIR : Des Loups blancs !"
+END
+
+DIALOGEVENT:mgfotr_elrohir032
+"ELROHIR : Ces bêtes féroces sont devenues audacieuses pour s'approcher de Fornost !"
+END
+
+DIALOGEVENT:mgfotr_elrohir033
+"ELROHIR : Là ! La bataille est en cours !"
+END
+
+DIALOGEVENT:mgfotr_elrohir034
+"ELROHIR : Regardez, il y a des trolls qui gardent le chemin devant nous."
+END
+
+DIALOGEVENT:mgfotr_elrohir035
+"ELROHIR : Viens, il faut continuer."
+END
+
+DIALOGEVENT:mgfotr_elrohir036
+"ELROHIR : C'est votre appel, Elegost."
+END
+
+DIALOGEVENT:mgfotr_elrohir037
+"ELROHIR : Nous devrions pouvoir nous y glisser sans être détectés."
+END
+
+DIALOGEVENT:mgfotr_elrohir038
+"ELROHIR : Avec moi, mon frère !"
+END
+
+DIALOGEVENT:mgfotr_amdir001
+"AMDIR : Merci mes amis, je craignais le pire." 
+END
+
+DIALOGEVENT:mgfotr_amdir002
+"AMDIR : Nous avons été pris dans la nuit par surprise. Une présence obscure a remué les morts et les cache de notre garde." 
+END
+
+DIALOGEVENT:mgfotr_amdir003
+"AMDIR : J'ai vu un membre de mon groupe pris, blessé mais vivant. Nous devrions chercher dans le camp tout signe d'un sentier." 
+END
+
+DIALOGEVENT:mgfotr_amdir004
+"AMDIR : Le sentier pénètre dans ce grand Galgals de l'ancienne Arnor. Longtemps oublié... et, jusqu'à présent, non dérangé." 
+END
+
+DIALOGEVENT:mgfotr_amdir005
+"AMDIR : Et découvrir le sort de nos soldats." 
+END
+
+DIALOGEVENT:mgfotr_amdir006a
+"AMDIR : Je suis content d'être sorti de là. Et plus heureux encore de retrouver les autres vivants. Ils sont affaiblis, mais la malédiction semble se lever." 
+END
+
+DIALOGEVENT:mgfotr_amdir006b
+"AMDIR : Merci. J'espère que nous pourrons bientôt rendre la pareille."
+END
+
+DIALOGEVENT:mgfotr_amdir007
+"AMDIR : Alors ne tardons plus. Nous allons rassembler nos fournitures au camp et revenir immédiatement." 
+END
+
+DIALOGEVENT:mgfotr_amdir008
+"AMDIR : Nous n'en avons pas besoin. On pourrait essayer de trouver un moyen d'entrer et d'abattre son vil châtelain. \n Aucune bande d'orcs ne reste en ligne une fois que son chef est mort." 
+END
+
+DIALOGEVENT:mgfotr_amdir009
+"AMDIR : Là, c'est notre camp. Il doit y avoir une piste."
+END
+
+DIALOGEVENT:mgfotr_amdir010
+"AMDIR : Il y a des empreintes de pas qui mènent à ce chemin."
+END
+
+DIALOGEVENT:mgfotr_amdir011
+"AMDIR : Je connais cette épée. Ils ont dû passer par là."
+END
+
+DIALOGEVENT:mgfotr_amdir012
+"AMDIR : Cette sacoche était portée par un de mes hommes."
+END
+
+DIALOGEVENT:mgfotr_amdir013
+"AMDIR : Les pistes mènent à cette crête. Venez !"
+END
+
+DIALOGEVENT:mgfotr_amdir014
+"AMDIR : Cette pierre semble les convoquer. Nous devons le détruire !"
+END
+
+DIALOGEVENT:mgfotr_amdir015
+"AMDIR : Nous devons nous approcher de son centre."
+END
+
+DIALOGEVENT:mgfotr_amdir016
+"AMDIR : Là ! La porte principale nous est maintenant ouverte."
+END
+
+DIALOGEVENT:mgfotr_amdir017
+"AMDIR : Je peux voir mes hommes ! Mais ils ont l'air froid et sans vie !"
+END
+
+DIALOGEVENT:mgfotr_amdir018
+"AMDIR : Mes soldats commencent à se réveiller ! Viens, finissons-en."
+END
+
+DIALOGEVENT:mgfotr_amdir019
+"AMDIR : Si nous détruisons leurs tambours, les orcs ne pourront pas appeler leurs renforts."
+END
+
+DIALOGEVENT:mgfotr_amdir020
+"AMDIR : Attention, ce n'est pas un orc ordinaire."
+END
+
+DIALOGEVENT:mgfotr_toradan001
+"TORADAN : Enchanté Fils d'Elrond ! Nous vous sommes redevables semble-t-il, et ce plus d'une fois ! Mais plus tard ! Nous sommes assaillis de toutes parts et devons agir rapidement pour aider nos forces dispersées."
+END
+
+DIALOGEVENT:mgfotr_toradan002
+"TORADAN : Ils sont enfin mis en déroute, même si l'histoire aurait pu être différente si vous n'étiez pas arrivé quand vous l'avez fait. Suivez-vous la piste des orcs ?"
+END
+
+DIALOGEVENT:mgfotr_toradan003
+"TORADAN : Je vois. Nous reviendrons à Annuminas ! Pourtant, ces orcs me troublent. Nos éclaireurs rapportent \n un grand rassemblement de leur hôte dans les Landes d'Etten. Nous devrons nous en occuper avant notre voyage vers le sud."
+END
+
+DIALOGEVENT:mgfotr_toradan004
+"TORADAN : Nous les éclaircirons une fois que nous serons à l'intérieur. Donnez-leur un vrai bon combat."
+END
+
+DIALOGEVENT:mgfotr_toradan005
+"TORADAN : Là ! Certains de mes guerriers !"
+END
+
+DIALOGEVENT:mgfotr_toradan006
+"TORADAN : Là-bas ! Mes hommes sont attaqués !"
+END
+
+DIALOGEVENT:mgfotr_toradan007
+"TORADAN : Regardez là ! Mes rangers sont attaqués !"
+END
+
+DIALOGEVENT:mgfotr_toradan008
+"TORADAN : Nous perdons trop d'hommes !"
+END
+
+DIALOGEVENT:mgfotr_toradan009
+"TORADAN : Si nous perdons d'autres hommes, je crains que nous ne soyons incapables de repousser les orcs !"
+END
+
+DIALOGEVENT:mgfotr_toradan010
+"TORADAN : Nous sommes à court de temps ! Si nous ne trouvons pas mes hommes bientôt, cette ville sera perdue !"
+END
+
+DIALOGEVENT:mgfotr_toradan011
+"TORADAN : Nous sommes arrivés trop tard pour les sauver..."
+END
+
+DIALOGEVENT:mgfotr_toradan012
+"TORADAN : Mes hommes ont été débordés..."
+END
+
+DIALOGEVENT:mgfotr_toradan013
+"TORADAN : Ils ne s'en sont pas sortis vivants..."
+END
+
+DIALOGEVENT:mgfotr_toradan014
+"TORADAN : Nous avons récupéré la plupart de mes hommes, mais certains sont toujours là."
+END
+
+DIALOGEVENT:mgfotr_toradan015
+"TORADAN : Excellent, nous avons trouvé toutes mes forces. Mettons fin à ces vils gobelins !"
+END
+
+DIALOGEVENT:mgfotr_toradan016
+"TORADAN : Ici, il y a une fissure dans le mur extérieur."
+END
+
+DIALOGEVENT:mgfotr_toradan017
+"TORADAN : Les orcs se mobilisent pour protéger leur chef !"
+END
+
+DIALOGEVENT:mgfotr_lothrandir001
+"LOTHRANDIR : Mes Salutations ! Qu'est-ce qui amène les Fils d'Elrond si loin à l'ouest ?"
+END
+
+DIALOGEVENT:mgfotr_lothrandir002
+"LOTHRANDIR : Alors aidez-le, nous le ferons, même si je crains que quelqu'un d'autre ait besoin de notre aide. Regardez ! La fumée monte vers le sud."
+END
+
+DIALOGEVENT:mgfotr_lothrandir003
+"LOTHRANDIR : Ces terres agricoles appartiennent à un brave hobbit. Le fermier Maggot. Nous échangeons souvent avec lui, \n même si je doute qu'il nous considère comme autre chose que des voyageurs fatigués..."
+END
+
+DIALOGEVENT:mgfotr_lothrandir004
+"LOTHRANDIR : Ils attaquent la ferme, il faut faire vite !"
+END
+
+DIALOGEVENT:mgfotr_lothrandir005
+"LOTHRANDIR : Les incendies ne se sont pas propagés loin, mais nous devons être rapides. Vous n'avez aucun moyen de les éteindre ?"
+END
+
+DIALOGEVENT:mgfotr_lothrandir006
+"LOTHRANDIR : Je suis d'accord. Chassez les autres, et ils ne reviendront pas de si tôt."
+END
+
+DIALOGEVENT:mgfotr_lothrandir007
+"LOTHRANDIR : Nous le ferons, mon cher hobbit. Comptez là-dessus! Et bon débarras à ces voyous. \n Ils ne reviendront pas de si tôt. Il semble maintenant que nous pouvons nous hâter."
+END
+
+DIALOGEVENT:mgfotr_lothrandir008
+"LOTHRANDIR : Je vais laisser quelques-uns de mes soldats ici. Tous les bandits qui restent y réfléchiront à deux fois avant de causer à nouveau des ennuis, en particulier lorsqu'ils nous verront sous surveillance. Aragorn comprendra, sans aucun doute."
+END
+
+DIALOGEVENT:mgfotr_lothrandir009
+"LOTHRANDIR : Y a-t-il un moyen d'entrer ?"
+END
+
+DIALOGEVENT:mgfotr_lothrandir010
+"LOTHRANDIR : Maggot est blessé ! Nous devons le défendre !"
+END
+
+DIALOGEVENT:mgfotr_lothrandir011
+"LOTHRANDIR : Il y a un autre camp à proximité. Nous devons le détruire !"
+END
+
+DIALOGEVENT:mgfotr_lothrandir012
+"LOTHRANDIR : Ces échafaudages sont instables. Nous pouvons peut-être utiliser cela à notre avantage."
+END
+
+DIALOGEVENT:mgfotr_lothrandir013
+"LOTHRANDIR : D'autres orcs arrivent !"
+END
+
+DIALOGEVENT:mgfotr_halbarad001
+"HALBARAD : Bienvenue, mes amis. Comment puis-je vous être utile ?"
+END
+
+DIALOGEVENT:mgfotr_halbarad002a
+"HALBARAD : Heureusement que je suis sorti de ma cachette. Je me rallierais à la cause d'Aragorn. Mais les terres d'Eriador sont troublées. \nL'ennemi est désormais omniprésent."
+END
+
+DIALOGEVENT:mgfotr_halbarad002b
+"HALBARAD : Les Orcs descendent des Landes d'Etten. Les loups rôdent dans les bois silencieux. Les trolls sont très éloignés. \nBien que nous soyons dispersés, j'ai envoyé tous les Rangers dont je pouvais disposer pour protéger le petit peuple."
+END
+
+DIALOGEVENT:mgfotr_halbarad002c
+"HALBARAD : Si nous abandonnions nos postes maintenant, ils seront en grand péril."
+END
+
+DIALOGEVENT:mgfotr_halbarad003
+"HALBARAD : J'ai marqué les dernières positions connues de mes hommes. \nLorsque vous êtes prêt, rendez-vous à chaque endroit et rassemblez tout ce que vous pouvez."
+END
+
+DIALOGEVENT:mgfotr_halbarad004
+"HALBARAD : Nous avons entendu des chuchotements d'un ignoble seigneur des esprits s'installant dans un ancien Galgals. J'ai envoyé des rangers pour enquêter, mais je n'ai reçu aucune nouvelle de leur part..."
+END
+
+DIALOGEVENT:mgfotr_halbarad005
+"HALBARAD : Merci, Fils d'Elrond. Je suis heureux de savoir que ce 'Cargast' a été détruit."
+END
+
+DIALOGEVENT:mgfotr_halbarad006
+"HALBARAD : J'ai reçu des rapports d'une présence de voyous dans le Marish, menaçant les frontières de la Comté. Aidez mes hommes à protéger le petit peuple, si vous le pouvez."
+END
+
+DIALOGEVENT:mgfotr_halbarad007
+"HALBARAD : Ces voyous sont de plus en plus audacieux. Qui les commande, je me demande..."
+END
+
+DIALOGEVENT:mgfotr_halbarad008
+"HALBARAD : Des orcs ont rampé hors des landes d'Etten. Ils ont attaqué notre avant-poste de Fornost. Nous devons le renforcer, avant que l'Ennemi ne le transforme en un point d'appui pour son assaut sur l'Eriador !"
+END
+
+DIALOGEVENT:mgfotr_halbarad009
+"HALBARAD : Le capitaine Toradan m'a informé de votre valeur à Fornost. Bien joué !"
+END
+
+DIALOGEVENT:mgfotr_halbarad010
+"HALBARAD : Les Trouées de Trolls sont à nouveau infestés de Trolls, menés par un spécimen particulièrement vil connu sous le nom de Gorg. Le courageux Elegost est parti enquêter sur la disparition d'un groupe de chasseurs censés éclaircir le troupeau..."
+END
+
+DIALOGEVENT:mgfotr_halbarad011
+"HALBARAD : Un tel sort maléfique pour ces guerriers ! Je suis heureux de savoir que cet horrible troll a été abattu."
+END
+
+DIALOGEVENT:mgfotr_halbarad012
+"HALBARAD : Vous avez rassemblé ce que les Hommes pouvaient être trouvés. Il est temps de combattre dans les Landes d'Etten et de porter un coup final à l'effort de guerre de l'Ennemi. Faites-moi savoir quand vous serez prêt et nous partirons, mais ne tardez pas trop."
+END
+
+DIALOGEVENT:mgfotr_halbarad013
+"HALBARAD : Il y a encore beaucoup à explorer dans les vestiges d'Annuminas, ancien siège de mon peuple. Son environnement peut réconforter les yeux fatigués par la bataille, si vous le désirez, alors que vous faites face aux épreuves qui vous attendent."
+END
+
+DIALOGEVENT:mgfotr_halbarad014
+"HALBARAD : Nous n'avons pas le nombre suffisant pour assiéger cette forteresse orque"
+END
+
+DIALOGEVENT:mgfotr_halbarad015
+"HALBARAD : Coupez la tête du serpent. Cela pourrait fonctionner."
+END
+
+DIALOGEVENT:mgfotr_halbarad016
+"HALBARAD : Envoyez un mot aux autres. Nous allons à l'intérieur. Vous devez vous rassembler près de la porte d'entrée. Restez hors de vue. \n Une fois que nous aurons tué le chef orc, nous mettrons le feu à sa salle. Une fois que vous voyez les flammes, préparez-vous au combat."
+END
+
+DIALOGEVENT:mgfotr_halbarad017
+"HALBARAD : Soyez prudent. Il y a des guetteurs. Si nous sommes repérés, nous combattrons toute la garnison."
+END
+
+DIALOGEVENT:mgfotr_halbarad018
+"HALBARAD : Tuez ces guetteurs rapidement."
+END
+
+DIALOGEVENT:mgfotr_halbarad019
+"HALBARAD : Attention ! Nous avons alerté un guetteur !"
+END
+
+DIALOGEVENT:mgfotr_halbarad020
+"HALBARAD : Nous devons nous approcher de la forteresse."
+END
+
+DIALOGEVENT:mgfotr_halbarad021
+"HALBARAD : Golfimbul ! Le temps est venu de payer pour vos vils méfaits !"
+END
+
+DIALOGEVENT:mgfotr_halbarad022
+"HALBARAD : Allez, finissons-en !"
+END
+
+DIALOGEVENT:mgfotr_halbarad023
+"HALBARAD : Golfimbul est mort. Démolissons son vile emprise une fois pour toutes."
+END
+
+DIALOGEVENT:mgfotr_halbarad024a
+"HALBARAD : Cette bataille est gagnée, et pour un temps le nord est libéré de la tyrannie du mal ! Mais cette guerre ne fait que commencer."
+END
+
+DIALOGEVENT:mgfotr_halbarad024b
+"HALBARAD : Maintenant, mes frères, nous chevaucherons vers le sud ! Au secours d'Aragorn et de nos lointains parents ! Notre temps de gardiens silencieux est terminé."
+END
+
+DIALOGEVENT:mgfotr_halbarad024c
+"HALBARAD : Nous entrerons dans la lumière et participerons au grand récit de cet âge, et le mènerons jusqu'au bout."
+END
+
+DIALOGEVENT:mgfotr_halbarad024d
+"HALBARAD : Pour l'Arnor ! Pour le Gondor ! Au nom d'Elendil ! Nous partirons le lendemain, avant le lever du soleil !"
+END
+
+DIALOGEVENT:mgfotr_ranger004
+"RANGER : Fils d'Elrond ! Nous sommes -"
+END
+
+DIALOGEVENT:mgfotr_maggot001
+"MAGGOT : Oh là-bas ! Vous êtes arrivé juste à temps ! Mais qu'est-ce que je vais faire de mes récoltes !" 
+END
+
+DIALOGEVENT:mgfotr_maggot002
+"MAGGOT : J'ai un barrage en bas du chemin, avec un seul chariot. Mais ces voyous n'aiment pas me laisser errer sans contrôle !" 
+END
+
+DIALOGEVENT:mgfotr_maggot003
+"MAGGOT : Mes chiens pourront vous aider. Fang ! Grip ! Wolf !" 
+END
+
+DIALOGEVENT:mgfotr_maggot004
+"MAGGOT : Ces connards sont partis ! Mais au moins, nous n'aurons pas faim. J'aimerais vraiment que mes chiens leur apprennent une chose ou deux." 
+END
+
+DIALOGEVENT:mgfotr_maggot005
+"MAGGOT : Ça leur apprendra ! Mes amis, je serais perdu sans vous. Si jamais vous descendez aux confins, \n n'hésitez pas à venir frapper à ma porte. Le thé et les champignons seront toujours prêts pour vous !" 
+END
+
+DIALOGEVENT:mgfotr_maggot006
+"MAGGOT : Aidez-moi ! Ces bougres essaient de brûler ma ferme !"
+END
+
+DIALOGEVENT:mgfotr_maggot007
+"MAGGOT : A l'aide ! Ces voyous me détruisent le chariot !"
+END
+
+DIALOGEVENT:mgfotr_maggot008
+"MAGGOT : Gardez-moi en sécurité pendant que j'éteins le dernier de ces incendies !"
+END
+
+DIALOGEVENT:mgfotr_maggot009
+"MAGGOT : Je vais devoir y retourner pour plus d'eau!"
+END
+
+DIALOGEVENT:mgfotr_maggot010
+"MAGGOT : Ces incendies se propageront si nous ne les éteignons pas rapidement !"
+END
+
+DIALOGEVENT:mgfotr_maggot011
+"MAGGOT : Non! Mes précieux chiens ! Vous allez payer pour ça !"
+END
+
+DIALOGEVENT:mgfotr_gorg001
+"GORG : Des elfes intelligents et un homme pas si intelligent après tout !" 
+END
+
+DIALOGEVENT:mgfotr_gorg002
+"GORG : Dunedains ! VOUS ÊTES FAIBLES !" 
+END
+
+DIALOGEVENT:mgfotr_gorg003
+"GORG : VOUS ÊTES NÉS SOUS LES JUPONS DE VOS MÈRES !" 
+END
+
+DIALOGEVENT:mgfotr_gorg004
+"GORG : Vous êtes deux elfes, mais ressemblez à un seul elfe !" 
+END
+
+DIALOGEVENT:mgfotr_gorg005
+"GORG : JE SUIS LE PLUS GRAND TROLL DES TROUÉES DE TROLLS !" 
+END
+
+DIALOGEVENT:mgfotr_gorg006
+"GORG : Gorg vous écrasera en gelée !" 
+END
+
+DIALOGEVENT:mgfotr_gorg007
+"[Lente agonie]" 
+END
+
+DIALOGEVENT:mgfotr_cargast001
+"CARGAST : Je te souhaite la bienvenue." 
+END
+
+DIALOGEVENT:mgfotr_cargast002
+"CARGAST : Ce Galgals était autrefois le lieu de repos des rois." 
+END
+
+DIALOGEVENT:mgfotr_cargast003
+"CARGAST : Maintenant, c'est le domaine de Cargast." 
+END
+
+DIALOGEVENT:mgfotr_cargast004
+"CARGAST : Vous allez tous mourir." 
+END
+
+DIALOGEVENT:mgfotr_cargast005
+"CARGAST : Vos tentatives pour me renverser sont faibles et pathétiques." 
+END
+
+DIALOGEVENT:mgfotr_cargast006
+"CARGAST : Vous ne pouvez pas arrêter ce qui a été mis en mouvement ici !" 
+END
+
+DIALOGEVENT:mgfotr_cargast007
+"CARGAST : Nooon ! Ma moelle osseuse !" 
+END
+
+DIALOGEVENT:mgfotr_cargast008
+"CARGAST : Mes serviteurs prendront soin de vous !" 
+END
+
+DIALOGEVENT:mgfotr_cargast009
+"CARGAST : Vous allez me rejoindre ! Mort ou vivant !" 
+END
+
+DIALOGEVENT:mgfotr_cargast010
+"CARGAST : RAAAAAH !" 
+END
+
+DIALOGEVENT:mgfotr_cargast011
+"CARGAST : Qui entre dans le domaine de Cargast..."
+END
+
+DIALOGEVENT:mgfotr_cargast012
+"CARGAST : Vous vous croyez victorieux... ils reviendront..."
+END
+
+DIALOGEVENT:mgfotr_cargast013
+"CARGAST : Un sursis temporaire... les morts ne vacillent pas..."
+END
+
+DIALOGEVENT:mgfotr_cargast014
+"CARGAST : Hum... ça ne change rien..."
+END
+
+DIALOGEVENT:mgfotr_cargast015
+"CARGAST : Bien joué... maintenant, approchez-vous..."
+END
+
+DIALOGEVENT:mgfotr_cargast016
+"CARGAST : Je vous attends... dans la Chambre des Rois..."
+END
+
+DIALOGEVENT:mgfotr_cargast017
+"CARGAST : Tes amis n'ont pas longtemps à vivre, Ranger..."
+END
+
+DIALOGEVENT:mgfotr_golfimbul001
+"GOLFIMBUL : Vous êtes courageux, mais stupide ! Cet endroit sera votre tombeau ! Mes orcs se régaleront de vos restes !"
+END
+ 
+DIALOGEVENT:mgfotr_golfimbul002
+"GOLFIMBUL : Argh ! Orcs, tuez ces intrus !"
+END
+ 
+DIALOGEVENT:mgfotr_golfimbul003
+"GOLFIMBUL : Futile ! Pathétique! Votre bande chétive ne peut pas arrêter la horde de Golfimbul !"
+END
+ 
+DIALOGEVENT:mgfotr_golfimbul004
+"GOLFIMBUL : Tuez-les tous! "
+END
+ 
+DIALOGEVENT:mgfotr_golfimbul005
+"GOLFIMBUL : Les terres d'Eriador ne peuvent résister à l'Ombre grandissante !"
+END
+ 
+DIALOGEVENT:mgfotr_golfimbul006
+"GOLFIMBUL : Argh ! Cela suffit ! Tuez-les, mes guerriers !"
+END
+ 
+DIALOGEVENT:mgfotr_golfimbul007
+"GOLFIMBUL : Les plans du Grand Oeil ne seront pas défaits si facilement !"
+END
+ 

@@ -1,0 +1,389 @@
+////////////////FORDS OF ISEN//////////////////
+
+SCRIPT:Hint_Fords_Theodred Arrived
+"Le prince Théodred est arrivé avec des renforts"
+END
+
+SCRIPT:Hint_Fords_Builder Arrived
+"Un bâtisseur est arrivé sur la rive Est !"
+END
+
+SCRIPT:Hint_Fords_Builder01
+"Il n'est pas prudent d'envoyer le constructeur dans les gués"
+END
+
+SCRIPT:Hint_Fords_Builder02
+"Nous devrions établir notre camp derrière la forêt sur la rive Est."
+END
+
+SCRIPT:Hint_Fords_Second Wave 
+"Les Hommes du Pays de Duns se rassemblent pour un deuxième assaut. Abandonnez la rive Ouest et rassemblez des troupes dans les gués."
+END
+
+SCRIPT:Hint_Fords_Second Wave 2
+"Les Hommes du Pays de Duns s'approchent des Gués."
+END
+
+SCRIPT:Hint_Fords_Final Wave 1
+"Les forces d'Isengard ont atteint les Gués."
+END
+
+SCRIPT:Hint_Fords_Final Wave 2
+"Les forces de l'Isengard et du Pays de Duns se préparent pour un assaut final."
+END
+
+SCRIPT:Hint_Fords_Overrun
+"Les Gués doivent être défendus. Envoyez plus de troupes dans l'Isen avant qu'elles ne soient envahies !"
+END
+
+SCRIPT:Hint_Fords_Abandon
+"Abandonnez la rive ouest avant l'arrivée d'Isengard."
+END
+
+SCRIPT:Hint_Fords_Porters Dead
+"Tous nos constructeurs ont été tués. Nous devrons attendre qu'un autre arrive à notre camp."
+End
+
+SCRIPT:Hint_Fords_Porters Arrived
+"Un nouveau constructeur est arrivé."
+End
+
+SCRIPT: Dialogue_Fords_Lug 01
+"LUG : Regardez les garçons, ce sont les têtes de paille ! Nos festins nous attendent !"
+END
+
+SCRIPT: Dialogue_Fords_Lug 02
+"LUG : Ha ha ! Vous êtes tombés droit dans mon piège savamment conçu !"
+END
+
+SCRIPT: Dialogue_Fords_Lug 03
+"LUG : Combattez jusqu'à vos derniers membres Uruk-hai !! Tuez ce prince fou !"
+END
+
+SCRIPT: Dialogue_Fords_Halifirien Theodred 01
+"Archers ! Nous avons besoin de votre aide. Ralliez-vous aux Gués de l'Isen en toute hâte !"
+END
+
+SCRIPT: Dialogue_Fords_Farm Theodred 01
+"Hommes du Rohan ! L'ennemi cherche à envahir nos terres ! Hâtez-vous aux Gués d'Isen, où Grimbold se défend !"
+END
+
+SCRIPT: Dialogue_Fords_
+"Compatriotes, rassemblez les armes et courez aux Gués !"
+END
+
+SCRIPT:Timer_Fords_Second Wave
+"Les Hommes du Pays de Duns reviendront dans :"
+End
+
+SCRIPT:Timer_Fords_Final Wave
+"L'assaut final arrivera dans :"
+End
+
+SCRIPT:Timer_Fords_Overrun
+"Les gués de l'Isen seront envahis dans :"
+END
+
+SCRIPT:Timer_Fords_Abandon
+"Abandonnez la rive ouest avant l'arrivée d'Isengard :"
+END
+
+/////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////
+
+DIALOGEVENT:mgfotr_mog001
+"MOG : Venez à moi ! Venez à Mog, têtes de pailles! Venez !"
+END
+
+DIALOGEVENT:mgfotr_mog002
+"MOG : Uruks ! Apportez-moi sa tête !"
+END
+
+DIALOGEVENT:mgfotr_mog003
+"MOG : Vous allez tous mourir !"
+END
+
+DIALOGEVENT:mgfotr_mog004
+"MOG : Ce soir nous nous régalerons de chair humaine !"
+END
+
+DIALOGEVENT:mgfotr_mog005
+"MOG : Argh ! La Main Blanche ne peut pas être arrêtée !"
+END
+
+DIALOGEVENT:mgfotr_mog006
+"MOG : Avec moi, Uruks ! Avec moi, pourritures !"
+END
+
+DIALOGEVENT:mgfotr_theodred001
+"THEODRED : Rohirrim ! Traversez maintenant l'Isen !"
+END
+
+DIALOGEVENT:mgfotr_theodred002
+"THEODRED : Nous allons renvoyer ces vils orcs dans les fosses de l'Isengard !"
+END
+
+DIALOGEVENT:mgfotr_theodred003
+"THEODRED : Grimbold, je suis heureux de voir que vous avez retenu l'ennemi."
+END
+
+DIALOGEVENT:mgfotr_theodred004
+"THEODRED : Il semblerait donc. Détruisons ces créatures immondes, avant qu'elles ne se regroupent dans la forêt."
+END
+
+DIALOGEVENT:mgfotr_theodred005
+"THEODRED : Leurs attaques ont stoppées."
+END
+
+DIALOGEVENT:mgfotr_theodred006
+"THEODRED : Je prendrai ce qu'il reste de cavaliers et j'irai aux portes de l'Isengard."
+END
+
+DIALOGEVENT:mgfotr_theodred007
+"THEODRED : Saroumane doit répondre de son bellicisme !"
+END
+
+DIALOGEVENT:mgfotr_theodred008
+"THEODRED : La route de l'Isengard est par ici ! Venez !"
+END
+
+DIALOGEVENT:mgfotr_theodred009
+"THEODRED : Là ! Je peux voir les portes de l'Isengard devant moi."
+END
+
+DIALOGEVENT:mgfotr_theodred010
+"THEODRED : Ne perds pas mon temps, orc ! Dites à votre maître de s'avancer !"
+END
+
+DIALOGEVENT:mgfotr_theodred011
+"THEODRED : Une embuscade ! Nous sommes en infériorité numérique ! Il faut se replier sur les Gués en toute hâte !"
+END
+
+DIALOGEVENT:mgfotr_theodred012
+"THEODRED : Regardez !"
+END
+
+DIALOGEVENT:mgfotr_theodred013
+"THEODRED : Grimbold ! Nous avons été trompés !"
+END
+
+DIALOGEVENT:mgfotr_theodred014
+"THEODRED : Saroumane a amassé une grande armée d'hommes et d'orcs. Nous ne pouvons pas leur permettre de traverser l'Isen."
+END
+
+DIALOGEVENT:mgfotr_theodred015
+"THEODRED : De nouveau, l'ennemi avance. Nous devons faire notre dernier combat ici !"
+END
+
+DIALOGEVENT:mgfotr_theodred016
+"THEODRED : Venez, orc putrides. Je te tomberai face à vous !"
+END
+
+DIALOGEVENT:mgfotr_theodred017
+"THEODRED : Leurs forces ne faiblit pas !"
+END
+
+DIALOGEVENT:mgfotr_theodred018
+"THEODRED : La voix de leur maître les anime..."
+END
+
+DIALOGEVENT:mgfotr_theodred019
+"THEODRED : Gardez-les à distance !"
+END
+
+DIALOGEVENT:mgfotr_theodred020
+"THEODRED : Repoussez-les, fils de Rohan !"
+END
+
+DIALOGEVENT:mgfotr_theodred021
+"THEODRED : Pour le Riddermark !"
+END
+
+DIALOGEVENT:mgfotr_theodred022
+"THEODRED : Laisse-moi m'allonger ici... pour tenir le Gué... jusqu'à ce qu'Eomer vienne..."
+END
+
+DIALOGEVENT:mgfotr_theodred023
+"THEODRED : Ce gros orc là-haut ! Il commande les troupes ennemies ! Il faut en finir avec lui pour briser leur volonté !"
+END
+
+DIALOGEVENT:mgfotr_theodred024
+"THEODRED : Suivez-moi, Hommes du Rohan !"
+END
+
+DIALOGEVENT:mgfotr_theodred025
+"THEODRED : Archers ! Nous avons besoin de votre aide. Ralliez-vous aux Gués de l'Isen en toute hâte !"
+END
+
+DIALOGEVENT:mgfotr_theodred026
+"THEODRED : Ces misérables scieries alimentent les feux de l'Isengard ! Mettons-y un terme !"
+END
+
+DIALOGEVENT:mgfotr_theodred027
+"THEODRED : Retournez voir Wulfgar et dites-lui que vous avez échoué !"
+END
+
+DIALOGEVENT:mgfotr_theodred028
+"THEODRED : Rasez leur camp !"
+END
+
+DIALOGEVENT:mgfotr_theodred029
+"THEODRED : Des piquiers ! Il faut trouver un autre moyen !"
+END
+
+DIALOGEVENT:mgfotr_theodred030
+"THEODRED : Les camps des Hommes du Pays de Duns ont été détruits. Cela devrait soulager nos forces aux Gués."
+END
+
+DIALOGEVENT:mgfotr_grimbold001
+"GRIMBOLD : Les forces d'Isengard se sont rassemblées à notre porte."
+END
+
+DIALOGEVENT:mgfotr_grimbold002
+"GRIMBOLD : Saroumane a envoyé une armée d'hommes pour prendre le contrôle des gués de l'Isen et lui permettre d'envahir le Rohan."
+END
+
+DIALOGEVENT:mgfotr_grimbold003
+"GRIMBOLD : Nous devons garder ces Gués jusqu'à ce que Theodred revienne avec des renforts."
+END
+
+DIALOGEVENT:mgfotr_grimbold004
+"GRIMBOLD : Au combat, fils d'Eorl !"
+END
+
+DIALOGEVENT:mgfotr_grimbold005
+"GRIMBOLD : Seigneur Théodred ! Votre arrivée est la plus opportune."
+END
+
+DIALOGEVENT:mgfotr_grimbold006
+"GRIMBOLD : Encore ! Soldats, avec moi !"
+END
+
+DIALOGEVENT:mgfotr_grimbold007
+"GRIMBOLD : Ils sentiront la morsure de nos lames ! Soldats, au combat !"
+END
+
+DIALOGEVENT:mgfotr_grimbold008
+"GRIMBOLD : Leur attaque semble avoir ralenti, nous devrions faire appel à plus de troupes pour renforcer nos défenses."
+END
+
+DIALOGEVENT:mgfotr_grimbold009
+"GRIMBOLD : Théodred... Noooooon !"
+END
+
+DIALOGEVENT:mgfotr_grimbold010
+"GRIMBOLD : Hommes du Rohan... Vengez votre prince !"
+END
+
+DIALOGEVENT:mgfotr_grimbold011
+"GRIMBOLD : Nos alliés sont arrivés, nous pouvons encore survivre à ce jour !"
+END
+
+DIALOGEVENT:mgfotr_grimbold012
+"GRIMBOLD : Je ne les laisserai pas avancer plus loin sur nos terres !"
+END
+
+DIALOGEVENT:mgfotr_grimbold013
+"GRIMBOLD : Seigneur Erkenbrand... permettez-moi de maintenir une petite garnison ici afin que l'ennemi puisse être retardé."
+END
+
+DIALOGEVENT:mgfotr_grimbold014
+"GRIMBOLD : Retournez dans les fosses qui vous ont engendré !"
+END
+
+DIALOGEVENT:mgfotr_grimbold015
+"GRIMBOLD : Le Rohan ne faillira jamais !"
+END
+
+DIALOGEVENT:mgfotr_grimbold016
+"GRIMBOLD : Votre maître ne prévaudra jamais !"
+END
+
+DIALOGEVENT:mgfotr_grimbold017
+"GRIMBOLD : Des Wargs !!"
+END
+
+DIALOGEVENT:mgfotr_grimbold018
+"GRIMBOLD : Nous nous prenons une raclée !"
+END
+
+DIALOGEVENT:mgfotr_grimbold019
+"GRIMBOLD : Les forces d'Isengard ont atteint la rive ouest ! Nous devons les mettre en déroute !"
+END
+
+DIALOGEVENT:mgfotr_grimbold020
+"GRIMBOLD : Vous et votre espèce ne prendrez jamais le Riddermark !"
+END
+
+DIALOGEVENT:mgfotr_grimbold021
+"GRIMBOLD : Ces Gués seront vos tombeaux !"
+END
+
+DIALOGEVENT:mgfotr_grimbold022
+"GRIMBOLD : En avant, Hommes du Rohan !"
+END
+
+DIALOGEVENT:mgfotr_grimbold023
+"GRIMBOLD : Mais combien sont-ils ? Ils sont légions !"
+END
+
+DIALOGEVENT:mgfotr_grimbold024
+"GRIMBOLD : Il y a un village au nord d'ici. Nous devrions envoyer des cavaliers là-bas pour rassembler tous les hommes que nous pouvons."
+END
+
+DIALOGEVENT:mgfotr_grimbold025
+"GRIMBOLD : Nous devrions explorer la forêt au nord-est tant que nous le pouvons encore."
+END
+
+DIALOGEVENT:mgfotr_grimbold026
+"GRIMBOLD : Saroumane exploite ces bois comme combustible. Nous avons peut-être encore une chance de trouver et de détruire ses scieries."
+END
+
+DIALOGEVENT:mgfotr_elfhelm001
+"ELFHELM : Cavaliers ! Défendez le Prince !"
+END
+
+DIALOGEVENT:mgfotr_elfhelm002
+"ELFHELM : Recouvrez les Gués de l'Isen de leur sang !"
+END
+
+DIALOGEVENT:mgfotr_elfhelm003
+"ELFHELM : Reposez-vous maintenant... Theodred... fils de Theoden."
+END
+
+DIALOGEVENT:mgfotr_elfhelm004
+"ELFHELM : Bientôt, vous vous prélasserez en présence de vos ancêtres."
+END
+
+DIALOGEVENT:mgfotr_elfhelm005
+"ELFHELM : Si Saroumane veut sécuriser les Gués pour mieux nous envahir, nous ne pourrons pas l'arrêter."
+END
+
+DIALOGEVENT:mgfotr_elfhelm006
+"ELFHELM : Nous devons battre en retraite et renforcer nos forces ailleurs."
+END
+
+DIALOGEVENT:mgfotr_erkenbrand001
+"ERKENBRAND : Au combat, Hommes du Westfold !"
+END
+
+DIALOGEVENT:mgfotr_erkenbrand002
+"ERKENBRAND : Les forces de l'Isengard se dispersent comme des rats !"
+END
+
+DIALOGEVENT:mgfotr_erkenbrand003
+"ERKENBRAND : Aujourd'hui, nous sommes victorieux mes amis !"
+END
+
+DIALOGEVENT:mgfotr_erkenbrand004
+"ERKENBRAND : Ceci n'est qu'un aperçu des profondeurs de la trahison de Saroumane."
+END
+
+DIALOGEVENT:mgfotr_erkenbrand005
+"ERKENBRAND : Wulfgar a engagé ses guerriers à la cause du sorcier, et chaque jour \n plus d'orcs descendent des montagnes et de l'est qui s'assombrit..."
+END
+
+DIALOGEVENT:mgfotr_rohanguy002
+"ROHIRRIM : Les orcs sont trop nombreux, et d'autres continuent d'affluer ! Si nous ne nous rassemblons pas bientôt, nous serons tous tués !"
+End

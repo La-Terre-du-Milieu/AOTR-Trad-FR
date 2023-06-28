@@ -1,0 +1,237 @@
+////////////////WESTFOLD//////////////////
+
+SCRIPT:Hint_Westfold_Gate 01
+"La porte sud ne doit pas céder ou la ville sera envahie."
+End
+
+SCRIPT:Hint_Westfold_Refugees 01
+"Détruire les poutres effondrées libérera les villageois piégés."
+End
+
+SCRIPT:Hint_Westfold_Crossing 01
+"Choisissez la route du Nord ou du Sud."
+End
+
+SCRIPT:Hint_Westfold_Crossing 02
+"La porte et la zone intérieure doivent être dégagées des forces de l'Isengard pour que les portes soient fermées."
+End
+
+SCRIPT:Hint_Westfold_Crossing 03
+"Retournez à la porte sud."
+End
+
+SCRIPT:Hint_Westfold_Crossing 04
+"Mes seigneurs, la porte a été barricadée et ne peut pas être ouverte. Il y a une poterne au nord qui vous offrira un passage gratuit."
+End
+
+SCRIPT:Hint_Westfold_Crossing 05
+"Poussez les assaillants hors de la ville."
+End
+
+SCRIPT:Hint_Westfold_Crossing 06
+"Retournez voir Dunhere."
+End
+
+SCRIPT:Hint_Westfold_Waves 01
+"L'Isengard a percé le mur nord-est."
+End
+
+SCRIPT:Hint_Westfold_Waves 02
+"L'Isengard attaque la porte sud."
+End
+
+SCRIPT:Hint_Westfold_Waves 03
+"L'Isengard attaque la porte nord."
+End
+
+SCRIPT:Hint_Westfold_Waves 04
+"L'Isengard attaque depuis l'Est."
+End
+
+SCRIPT:Hint_Westfold_Waves 05
+"Les feux d'alarmes ont été allumés. Les forces d'Erkenbrand arriveront bientôt."
+End
+
+SCRIPT:Hint_Westfold_Waves 06
+"Erkenbrand est revenu avec des renforts."
+End
+
+SCRIPT:Timer_Westfold_Gatehouse
+"La porte sera fermée dans :"
+End
+
+SCRIPT:Timer_Westfold_Waves South
+"L'Isengard attaquera la porte sud-ouest dans :"
+End
+
+SCRIPT:Timer_Westfold_Waves
+"L'Isengard attaquera dans :"
+End
+
+SCRIPT:Timer_Westfold_Erkenbrand
+"Erkenbrand arrivera dans :"
+End
+
+SCRIPT:Dialogue_Westfold_Gate 01
+"Gandalf le Gris, en voici une bonne surprise."
+End
+
+SCRIPT:Dialogue_Westfold_Gate 02
+"Nos défenses s'affaiblissent et l'Isengard a submergé notre garde orientale."
+End
+
+SCRIPT:Dialogue_Westfold_Gate 03
+"Veuillez rencontrer Dunhere, mon capitaine, au centre-ville. Il aura sûrement besoin de votre aide."
+End
+
+SCRIPT:Dialogue_Westfold_Keep 07
+"GANDALF : Rassemblez vos hommes sur le pont. Mes compagnons et moi ferons tout notre possible pour vous aider dans ce combat."
+End
+
+SCRIPT:Dialogue_Westfold_Keep 08
+"LEGOLAS : Gandalf, je resterai en arrière pour apporter mon aide aux défenseurs."
+End
+
+SCRIPT:Dialogue_Westfold_Keep 09
+"GIMLI : Je resterai avec l'elfe. Il y aura probablement un travail de hache à faire."
+End
+
+DIALOGEVENT:mgfotr_dunhere001
+"DUNHERE : Gandalf le Gris. C'est effectivement une rencontre inattendue. \n Je suis Dunhere, capitaine de la garde à Upbourn pendant l'absence de mon seigneur Erkenbrand."
+END
+
+DIALOGEVENT:mgfotr_dunhere002
+"DUNHERE : Votre arrivée nous apporte un soulagement bien nécessaire. Nous sommes assaillis de toutes parts."
+END
+
+DIALOGEVENT:mgfotr_dunhere003
+"DUNHERE : Les portes ouest ont été détruites. Les pillards de l'Isengard envahissent maintenant la ville."
+END
+
+DIALOGEVENT:mgfotr_dunhere004
+"DUNHERE : Mes hommes et moi pouvons tenir le pont, mais nous sommes coupés de la garde orientale."
+END
+
+DIALOGEVENT:mgfotr_dunhere005
+"DUNHERE : Il y a une route de secours au nord et une au sud."
+END
+
+DIALOGEVENT:mgfotr_dunhere006
+"DUNHERE : Une attaque inattendue devrait nous donner l'occasion de briser leurs lignes et de libérer la ville."
+END
+
+DIALOGEVENT:mgfotr_dunhere007
+"DUNHERE : Je te dois mes remerciements, Gandalf. Sans vous et vos \n compagnons, nous n'aurions pas pu résister à ces pillards."
+END
+
+DIALOGEVENT:mgfotr_dunhere008
+"DUNHERE : Cependant, je dois encore une fois vous demander votre aide pour défendre Upbourn."
+END
+
+DIALOGEVENT:mgfotr_dunhere009
+"DUNHERE : Mes cavaliers ont signalé qu'une armée plus nombreuse et plus redoutable s'approchait."
+END
+
+DIALOGEVENT:mgfotr_dunhere010
+"DUNHERE : Leur force s'est dispersée, afin qu'ils puissent attaquer les trois entrées de la ville."
+END
+
+DIALOGEVENT:mgfotr_dunhere011
+"DUNHERE : Les portes nord et sud tiennent toujours pour le moment, \n mais nous ne pouvons pas les empêcher d'entrer dans la partie est de la ville."
+END
+
+DIALOGEVENT:mgfotr_dunhere012
+"DUNHERE : Ils ont également établi une base avancée dans le sud-est des bois de la plaine."
+END
+
+DIALOGEVENT:mgfotr_dunhere013
+"DUNHERE : Upbourn brûle... Je crains qu'il ne soit perdu. Mais si nous vainquons cette force et \n détruisons leur camp, nous aurons peut-être encore une chance de sauver les réfugiés."
+END
+
+DIALOGEVENT:mgfotr_dunhere014
+"DUNHERE : Mon seigneur Erkenbrand revient des Gués d'Isen... Je crains les mauvaises nouvelles qu'il apportera. \nMais si nous allumons les feux d'alarmes à l'est et à l'ouest, ils se hâteront à notre secours !"
+END
+
+DIALOGEVENT:mgfotr_dunhere015
+"DUNHERE : Les feux d'alarmes ont été allumés ! Les forces du Seigneur Erkenbrand verront notre signal et devraient bientôt arriver."
+END
+
+DIALOGEVENT:mgfotr_dunhere016
+"DUNHERE : Erkenbrand est de retour avec des renforts !"
+END
+
+DIALOGEVENT:mgfotr_dunhere017
+"DUNHERE : Seigneur Erkenbrand ! Je suis très soulagé de vous voir en vie et en bonne santé. \nLa main de Saroumane nous est parvenue ici à Upbourn... battons-le ensemble !"
+END
+
+DIALOGEVENT:mgfotr_dunhere018
+"DUNHERE : L'Isengard a franchi le mur nord-est !"
+END
+
+DIALOGEVENT:mgfotr_dunhere019
+"DUNHERE : Les forces de Saroumane s'approchent de la porte sud !"
+END
+
+DIALOGEVENT:mgfotr_dunhere020
+"DUNHERE : L'Isengard attaque la Porte Nord !"
+END
+
+DIALOGEVENT:mgfotr_dunhere021
+"DUNHERE : L'Isengard s'approche de la Porte de l'Est !"
+END
+
+DIALOGEVENT:mgfotr_dunhere022
+"DUNHERE : Regardez ! Des Trolls en armure d'Isengard !"
+END
+
+DIALOGEVENT:mgfotr_dunhere023
+"DUNHERE : La porte est tombée ! Restez forts, Hommes du Rohan !"
+END
+
+DIALOGEVENT:mgfotr_dunhere024
+"DUNHERE : Les Loups de l'Isengard approchent !"
+END
+
+DIALOGEVENT:mgfotr_dunhere025
+"DUNHERE : Nous devons vaincre leur chef avant qu'il ne déchire Upbourn !"
+END
+
+DIALOGEVENT:mgfotr_dunhere026
+"DUNHERE : Sharcoux ? Était-ce son sale nom ? Euh. Il gît mort dans la boue."
+END
+
+DIALOGEVENT:mgfotr_dunhere027
+"DUNHERE : C'est fini ! Nous les avons tous vaincus !"
+END
+
+DIALOGEVENT:mgfotr_dunhere028
+"DUNHERE : Il ne reste plus qu'à détruire leur campement fétide..."
+END
+
+DIALOGEVENT:mgfotr_dunhere029
+"DUNHERE : En avant, Hommes du Rohan ! Béma est avec vous !"
+END
+
+DIALOGEVENT:mgfotr_dunhere030
+"DUNHERE : Pour Upbourn !"
+END
+
+DIALOGEVENT:mgfotr_dunhere031
+"DUNHERE : Protégez les femmes et les enfants !"
+END
+
+DIALOGEVENT:mgfotr_dunhere032
+"DUNHERE : Au nom de Thengel !"
+END
+
+DIALOGEVENT:mgfotr_dunhere033
+"DUNHERE : Retournez vers l'Isengard, créature déchue !"
+END
+
+DIALOGEVENT:mgfotr_dunhere034
+"DUNHERE : Le Rohan ne tombera pas !"
+END
+
+DIALOGEVENT:mgfotr_dunhere035
+"DUNHERE : Gandalf ! Nous avons besoin de votre aide !"
+END
