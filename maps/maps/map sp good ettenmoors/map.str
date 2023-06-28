@@ -1,7 +1,28 @@
-SCRIPT:MGEttenmoors_Archers01X
-"Les archers de Fondcombe ont rejoint votre groupe."
+CONTROLBAR:ToolTipGloinGloriousChargeX
+"Requiert le niveau 3\n Type de modification : Sort\n Les unités à proximité bénéficient d'un bonus de vitesse de +15 %, d'un bonus d'expérience de +50 % et d'une résistance à la peur et à la terreur pendant 20 secondes\nCliquez gauche pour activer"
 END
 
-SCRIPT:MGEttenmoors_Archers02X
-"Les archers de Fondcombe ont rejoint votre groupe."
+CONTROLBAR:ToolTipVentureCapitalismX
+"Requiert le niveau 5\nLa mine, le verger ou la grande forge ciblés ont une production accrue de +200 % pendant 30 secondes\nCliquez sur l'icône, puis cliquez gauche sur la cible"
 END
+
+CONTROLBAR:ConstructIthilienRamX
+"Bélier d'Ithilien dûnedain (&S)"
+END
+
+CONTROLBAR:ToolTipBuildIthilienRamX
+"Détruit les portes du château et les structures ennemies\n\nRapidement construits pour répondre aux besoins des Rôdeurs, ces béliers sont manœuvrés par des guerriers solides, et peu de portes ennemies peuvent leur résister."
+END
+
+SCRIPT:ANNOUNCEMENT_Twins
+"Continuez sans nous. Nous emprunterons les chemins cachés et découvrirons si les Dúnedain errent encore dans ces collines."
+END
+
+SCRIPT:ANNOUNCEMENT_Reinforcements
+"Nous sommes revenus avec des renforts. Mettons ces odieuses créatures au fil de l'épée !"
+END
+
+SCRIPT:ANNOUNCEMENT_Dunedain
+"Nous avons découvert qu'il y a encore des Dúnedain qui persistent dans cette contrée. Trouvons-les et assaillons ensemble l'ennemi."
+END
+
