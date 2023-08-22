@@ -15891,7 +15891,7 @@ CONTROLBAR:ToolTipConstructMenWorkshopWotRRealTime
 END
 
 CONTROLBAR:ToolTipConstructRohanWorkshop
-"Construit et améliore les engins de siège. \n Au niveau 2, répare les engins de siège proches. \n Génère une petite quantité de ressources basées sur le terrain disponible. \n Réduit le coût des améliorations. \n Augmente la limite de points de commandement de 25."
+"Construit les engins de siège. \n Au niveau 2, répare les engins de siège proches. \n Génère une petite quantité de ressources basées sur le terrain disponible. \n Réduit le coût des améliorations. \n Augmente la limite de points de commandement de 25."
 END
 
 CONTROLBAR:ToolTipConstructRohanWorkshopWotR
@@ -16390,11 +16390,11 @@ CONTROLBAR:ToolTipMordorMumakilPenPlot
 END
 
 CONTROLBAR:ToolTipConstructLumberMill
-"Récolte des ressources avec les arbres alentours. \n Réduit le coût des structures. \n Augmente la limite de points commandement de 25."
+"Récolte des ressources avec les arbres alentours. \n Réduit le coût des structures."
 END
 
 CONTROLBAR:ToolTipConstructGuldurLumberMill
-"Récolte des ressources avec les arbres alentours. \n Augmente la limite de points commandement de 25."
+"Récolte des ressources avec les arbres alentours."
 END
 
 CONTROLBAR:ToolTipLumberMill
@@ -16481,7 +16481,7 @@ CONTROLBAR:ConstructWildLumberMill
 END
 
 CONTROLBAR:ToolTipConstructWildLumberMill
-"Récolte des ressources avec les arbres alentour. \n Réduit le coût des bâtiments. \n Augmente la limite de points de commandement de 25."
+"Récolte des ressources avec les arbres alentour. \n Réduit le coût des bâtiments."
 END
 
 CONTROLBAR:ConstructWildGoblinCave
@@ -16795,7 +16795,7 @@ CONTROLBAR:Draft
 End
 
 CONTROLBAR:ToolTipDraft
-"Tous les paysans deviennent armés, gagnant de manière permanente +5 de dégâts et +40 de santé\nLe sort a un temps de recharge plus court\nCliquez gauche pour activer"
+"Tous les paysans deviennent armés, gagnant de manière permanente +5 de dégâts et +20 de santé\n Les unités du Rohan gagnent +15% d'armures pendant 30 secondes \nLe sort a un temps de recharge plus court\nCliquez gauche pour activer"
 END
 
 CONTROLBAR:ElvenGifts
@@ -17480,6 +17480,10 @@ END
 CONTROLBAR:RohanGimliHotkey
 "Gimli [&S]"
 END
+CONTROLBAR:RohanGimliHotkeyAdventure
+"Gimli (&D)"
+END
+CONT
 CONTROLBAR:FellowshipGimliHotkey
 "Gimli [&T]"
 END
@@ -19445,7 +19449,7 @@ CONTROLBAR:Disguise
 END
 
 CONTROLBAR:Smite
-"Begone, Foul Dwimmerlaik [&C]"
+"Begone, Foul Dwimmerlaik [&T]"
 END
 
 CONTROLBAR:ShieldMaiden
@@ -27203,11 +27207,11 @@ CONTROLBAR:PurchaseTechnologyRohanFireArrows
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeRohanFireArrows
-"Clic gauche pour améliorer cette unité."
+"Améliorez ce bataillon avec des Flèches Enflammées \n Augmente significativement les dégâts infligés par les flèches"
 END
 
 CONTROLBAR:PurchaseTechnologyRohanForgedBlades
-"Rechercher Lames forgées [&D]"
+"Rechercher Lames forgées [&S]"
 END
 
 CONTROLBAR:ToolTipPurchaseTechnologyRohanForgedBlades
@@ -27219,7 +27223,7 @@ CONTROLBAR:ToolTipPurchaseUpgradeRohanForgedBlades
 END
 
 CONTROLBAR:PurchaseTechnologyRohanHeavyArmor
-"Rechercher Armures lourdes [&F]"
+"Rechercher Armures lourdes [&D]"
 END
 
 CONTROLBAR:ToolTipPurchaseTechnologyRohanHeavyArmor
@@ -28273,7 +28277,7 @@ END
 ///////////////////////////////////////
 
 CONTROLBAR:RadialBack
-"Retour"
+"Retour (&A)"
 END
 
 CONTROLBAR:ToolTipCommandRadialBack
@@ -28405,6 +28409,10 @@ END
 
 CONTROLBAR:ToolTipPurchaseUpgradeMenFortressIvoryTower_WOTR
 "Provides Palantir Vision Power \n Increases Fortress vision range"
+END
+
+CONTROLBAR:ToolTipPurchaseUpgradeMenFortressIvoryTowerFortressMap_GC
+"Permet le recrutement de la Compagnie Grise \n Augmente la portée de vision de la forteresse"
 END
 
 CONTROLBAR:PurchaseUpgradeMenFortressBoilingOil
@@ -29949,7 +29957,7 @@ OBJECT:NimrodelStatue
 END
 
 OBJECT:NimrodelStatueDescription
-"Friendly units within the pool are immune to debuffs \n Nearby Mallorn Trees gain +25% faster resource production \n Possesses ability to repair selected structure"
+"Les unités alliés dans le groupe sont immunisées contre les affaiblissements \n Tous les Mallorn gagnent une production de ressources 10% plus rapide \n Possède la capacité de réparer la structure sélectionnée"
 END
 
 CONTROLBAR:NimrodelRebuild
@@ -29961,7 +29969,7 @@ CONTROLBAR:BlessingofNimrodel
 END
 
 CONTROLBAR:ToolTipBlessingofNimrodel
-"Friendly units within the pool are immune to debuffs \n Nearby Mallorn Trees gain +25% faster resource production \n Passive ability"
+"Les unités alliés dans le groupe sont immunisées contre les affaiblissements \n Tous les Mallorn gagnent une production de ressources 10 % plus rapide \n Capacité passive"
 END
 
 OBJECT:RivendellStatue
@@ -33754,7 +33762,7 @@ CONTROLBAR:SpecialAbilityWayRagingDragon
 "Voie du Dra&gon Furieux"
 END
 CONTROLBAR:ToolTipSpecialAbilityWayRagingDragon
-"Requiert les Voies de la Guerre\nToutes les unités de Cataphractes Dorés et de Chars Dorés alliées gagnent +50% d'armure et -25% de décélération au broyage pendant 120 secondes\nLe coût et le temps de recrutement des Cataphractes Dorés et des Chars Dorés sont réduits de 25% pendant 120 secondes\nUne seule Tactique de Guerre peut être active à la fois\nCliquez gauche pour activer"
+"Requiert les Voies de la Guerre\nToutes les unités de Cataphractes Dorés et de Chars Dorés alliées gagnent +50% d'armure et -25% de décélération au broyage pendant 120 secondes\nLe coût et le temps de recrutement des Cataphractes Dorés et des Chars Dorés sont réduits de 50% pendant 120 secondes\nUne seule Tactique de Guerre peut être active à la fois\nCliquez gauche pour activer"
 END
 CONTROLBAR:PurchaseUpgradeRhunFortressBanners
 "Héraldique du Grand Khân [&Z]"
@@ -33950,7 +33958,7 @@ CONTROLBAR:ConstructIsengardLumberMill
 END
 
 CONTROLBAR:ToolTipConstructIsengardLumberMill
-"Récolte des ressources avec les arbres alentour. Réduit le coût des bâtiments : \n 2 Scieries: -10% \n 3 Scieries: -20% \n 4+ Scieries: -30% \n\n Augmente la limite de points de commandement de 25."
+"Récolte des ressources avec les arbres alentour. Réduit le coût des bâtiments : \n 2 Scieries: -10% \n 3 Scieries: -20% \n 4+ Scieries: -30%"
 END
 
 CONTROLBAR:ConstructIsengardWargSentry
@@ -33990,7 +33998,7 @@ CONTROLBAR:ConstructMordorLumberMill
 END
 
 CONTROLBAR:TooltipConstructMordorLumberMill
-"Récolte des ressources avec les arbres alentours. \n Réduit le coût des bâtiments. \n Augmente la limite de points de commandement de 25."
+"Récolte des ressources avec les arbres alentours. \n Réduit le coût des bâtiments."
 END
 
 
@@ -34653,7 +34661,7 @@ CONTROLBAR:ProudFather
 END
 
 CONTROLBAR:ToolTipProudFather
-"Glóin gagne +33% d'armure et de dégâts aux côtés de Gimli. \n\n Capacité passive."
+"Glóin gagne +25% d'armure et de dégâts aux côtés de Gimli. \n\n Capacité passive."
 END
 
 CONTROLBAR:GloinGloriousCharge
@@ -34708,7 +34716,7 @@ CONTROLBAR:UnderhandedStrike
 END
 
 CONTROLBAR:ToolTipUnderhandedStrike
-"Inflige de lourds dégâts en mêlée à une unité ennemie\nL'unité ou le héros ennemi ciblé est affaibli et perd 25 % d'armure pendant 10 secondes\nCliquez sur l'icône, puis cliquez sur la cible"
+"Inflige de lourds dégâts en mêlée à une unité ennemie\nL'unité ou le héros ennemi ciblé est paralysé pendant 10 secondes\nCliquez sur l'icône, puis cliquez sur la cible"
 END
 
 CONTROLBAR:LaketownCallGuard
@@ -43971,7 +43979,7 @@ CONTROLBAR:ToolTipPurchaseUpgradeGuldurFireArrows
 END
 
 CONTROLBAR:PurchaseTechnologyRohanBasicTraining
-"Rechercher Héraldique du Riddermark [&S]"
+"Rechercher Héraldique du Riddermark [&T]"
 END
 
 CONTROLBAR:PurchaseUpgradeRohanBasicTraining
@@ -44475,7 +44483,7 @@ TOOLTIP:LackRohanBasicTrainingHD
 END
 
 TOOLTIP:LackRohanFireArrows
-"Achetez l'amélioration à la Plage d'entraînement à l'Arc pour activer cet équipement \n Lorsqu'il est équipé, réduit significativement la quantité de dégâts subis"
+"Achetez l'amélioration à la Plage d'entraînement à l'Arc pour activer cet équipement \n Lorsqu'il est équipé, augmente significativement les dégâts infligés par les flèches"
 END
 
 TOOLTIP:LackRohanFireArrowsHD
@@ -52039,7 +52047,7 @@ END
 CONTROLBAR:ToolTipMasterTrackerAbility
 //"Requires Level 2 \n Aragorn temporarily gains +100% damage and +100% armour \n Left click to activate"
 //"Requires Level 3 \n Aragorn temporarily gains +100% damage and +100% armour \n Left click to activate"
-"Requiert le niveau 3 \nType de modification : Sort \nAragorn bénéficie d'une augmentation de +150% de la portée de vision, +25% de la portée et +15% de la vitesse tandis que les alliés à proximité bénéficient d'une augmentation de +15% de la vitesse de déplacement pendant 25 secondes \nCliquez gauche pour activer"
+"Requiert le Niveau 3 \nType de Modificateur : Sort\nAragorn gagne une portée de vision de +150 % et une portée de +25 %, tandis que les alliés à proximité gagnent une vitesse de déplacement accrue de +15 % pendant 25 secondes\nCliquez gauche pour activer"
 END
 
 CONTROLBAR:ToolTipMasterTrackerLeadership
@@ -54135,7 +54143,7 @@ OBJECT:HordeRohanSpearmen
 END
 
 CONTROLBAR:ConstructRohanSpearmenHorde
-"Lanciers Yeoman [&Z]"
+"Lanciers Yeoman [&R]"
 END
 
 CONTROLBAR:ToolTipBuildRohanSpearmenHorde
@@ -54156,6 +54164,42 @@ END
 
 CONTROLBAR:KnightsofDolChargeofGlory
 "Am&roth pour le Gondor"
+END
+
+OBJECT:GondorBlackSwanCaptain
+"Capitaine du Cygne Noir"
+END
+
+CONTROLBAR:ConstructGondorBlackSwanCaptain
+"Capitaine du Cygne Noir (&W)"
+END
+
+CONTROLBAR:ToolTipBuildGondorBlackSwanCaptain
+"Fort contre l'infanterie, les archers\n\nLes Capitaines du Cygne Noir sont des chevaliers au but unique : tuer les ennemis du prince. Orphelins de guerre, ces guerriers ont été recueillis par Imrahil et formés par le Maître-d'Armes royal."
+END
+
+CONTROLBAR:BlackSwanLeadership
+"Chef de l'Assaut"
+END
+
+CONTROLBAR:ToolTipBlackSwanLeadership
+"Type de modification : Leadership\nLes cavaliers alliés à proximité du Capitaine du Cygne Noir gagnent +15 % d'armure contre les dégâts spécialisés et subissent -15 % de décélération au piétinement\nCapacité passive"
+END
+
+CONTROLBAR:BlackSwanCripple
+"Coup Dévastateur (&R)"
+END
+
+CONTROLBAR:ToolTipBlackSwanCripple
+"Requiert le Niveau 3\nLe héros ou le monstre ennemi ciblé est immobilisé pendant 7 secondes\nÀ Niveau 7, la durée de l'étourdissement est augmentée à 10 secondes\nCliquez gauche sur l'icône, puis cliquez gauche sur la cible"
+END
+
+CONTROLBAR:SpecialAbilityDreadedWarrior
+"Guerrier Redouté (&T)"
+END
+
+CONTROLBAR:ToolTipSpecialAbilityDreadedWarrior
+"Requiert le Niveau 5\nLes attaques du Capitaine du Cygne Noir repoussent et réduisent l'armure de l'ennemi de -25 % pendant 5 secondes\nL'effet dure 30 secondes\nCliquez gauche pour activer"
 END
 
 
@@ -57995,7 +58039,7 @@ END
 
 CONTROLBAR:ToolTipIndustry
 //"Selected structure's resource output is permanently raised to 300% \n Left click icon then left click on target resource structure"
-"L'industrie de guerre de Saroumane déploie des hordes d'ouvriers Gobelins et d'Orques snagas pour alimenter ses forges et ses fonderies souterraines. \n La production de ressources de la structure sélectionnée augmente de 300% pendant 5 minutes. \n Affecte les fournaises et les armureries. \n\n Clic gauche sur l'icône puis clic gauche sur un bâtiment de production."
+"L'industrie de guerre de Saroumane déploie des hordes d'ouvriers Gobelins et d'Orques snagas pour alimenter ses forges et ses fonderies souterraines. \n La production de ressources de la structure sélectionnée augmente de 275% pendant 5 minutes. \n Affecte les fournaises et les armureries. \n\n Clic gauche sur l'icône puis clic gauche sur un bâtiment de production."
 End
 
 CONTROLBAR:TooltipUntamedAllegiance
@@ -58262,7 +58306,7 @@ END
 
 CONTROLBAR:ToolTipSmite
 //"Powerful ranged attack against a single target \n Left click icon then left click on target"
-"Requiert \n Puissante attaque à distance contre une seule cible \n Inflige d'importants dégâts aux unités volantes \n Inflige 200% de dégâts supplémentaires au Roi Sorcier d'Angmar\n Clic gauche sur l'icône puis clic gauche sur la cible"
+"Requiert le Niveau 4\nPuissante attaque à distance contre une seule cible\nInflige 200 % de dégâts supplémentaires au Roi-Sorcier d'Angmar\nRéduit la vitesse de l'ennemi ciblé de -25 % pendant 15 secondes\nCliquez gauche sur l'icône, puis cliquez gauche sur la cible"
 END
 
 CONTROLBAR:ToolTipEomerLeadership
@@ -58892,7 +58936,7 @@ CONTROLBAR:TooltipIsengardWargRiderHowl
 END
 
 CONTROLBAR:TooltipWhiteWolvesHowl
-"Les Loups Blancs poussent un hurlement glacial, \n terrifiant les unités ennemies à proximité pendant 10 secondes \n Cliquez gauche pour l'activer"
+"Requiert le Niveau 3\nLes Loups Blancs poussent un hurlement glaçant,\nterrorisant les unités ennemies proches pendant 10 secondes\nCliquez gauche pour activer"
 END
 
 
@@ -59650,7 +59694,7 @@ CONTROLBAR:TooltipNecromancerDeathMask
 End
 
 CONTROLBAR:ToolTipBuildWildSnowTrollHorde
-"Requiert un Repaire de Trolls de niveau 2. \nEfficace contre les fantassins et les monstres. \n\nLes trolls des neiges sont souvent considérés comme une créature de conte de fées dans les régions plus civilisées de la Terre du Milieu, mais ceux qui habitent dans le climat rigoureux des Montagnes Brumeuses du nord et au-delà savent mieux. Ces trolls maléfiques sont minces, d'une puissance trompeuse et possèdent un grand talent pour la cruauté."
+"Requiert un Repaire de Trolls de Niveau 2\n\nFort contre l'infanterie d'élite et les monstres\n\nLes Trolls des Neiges sont souvent considérés comme des créatures de contes de fées dans les régions plus civilisées de la Terre du Milieu, mais ceux qui vivent dans le climat rude des Montagnes Brumeuses du nord et au-delà en savent plus. Ces trolls maléfiques sont agiles, déceptivement puissants et possèdent un grand talent pour la cruauté."
 End
 
 CONTROLBAR:ToolTipBuildAngmarSnowTrollHorde
@@ -61257,7 +61301,7 @@ CONTROLBAR:DainEmissary
 END
 
 CONTROLBAR:ToolTipDainEmissary
-"Niveau 7 requis\nLe héros ciblé est immunisé contre les dégâts mais incapable d'attaquer pendant 15 secondes\nPeut être lancé sur les héros alliés ou ennemis\nClic gauche sur l'icône puis clic gauche sur le héros ciblé"
+"Requiert le Niveau 7\nLe héros allié ciblé est immunisé contre les dégâts pendant 15 secondes\nLe héros ennemi ciblé est incapable d'attaquer pendant 15 secondes\nCliquez gauche sur l'icône, puis cliquez gauche sur le héros ciblé"
 END
 
 CONTROLBAR:ToolTipSummonRoyalGuard
@@ -61419,7 +61463,7 @@ CONTROLBAR:ToolTipToggleTowerGuardLineToPorcupineFormation
 End
 
 CONTROLBAR:ToolTipToggleLineToSchiltronFormation
-"Les Gardes Royaux d'Edoras se mettent en formation Schiltron. \n Ils perdent 33% de vitesse mais gagnent +10% d'armure et de dégâts bonus face à la cavalerie."
+"Les Gardes Royaux d'Edoras se mettent en formation Schiltron. \n Ils perdent 30% de vitesse mais gagnent +15% de dégâts et d'armure et immunisé au renversement."
 End
 
 CONTROLBAR:ToolTipToggleLorienSentryLineToPorcupineFormation
@@ -61437,7 +61481,7 @@ END
 
 CONTROLBAR:ToolTipNewEowynMount
 //"Requires Level 3 \n Left click to switch between \n mounted and on foot"
-"Niveau 5 requis \n Clic gauche pour basculer entre monté sur Windfola et à pied \n Lorsqu'il est monté sur Windfola, Eowyn gagne + 25% d'armure près des unités Rohirrim"
+"Niveau 4 requis \n Clic gauche pour basculer entre monté sur Windfola et à pied \n Lorsqu'il est monté sur Windfola, Eowyn gagne + 25% d'armure près des unités Rohirrim"
 END
 
 CONTROLBAR:ToolTipShieldMaiden
@@ -61488,7 +61532,7 @@ End
 
 CONTROLBAR:TooltipUpgradeMordorTrollCageLevel2
 //"Allows training of the Drummer Troll \n +10% faster build speed"
-"+10 % de vitesse de construction plus rapide"
+"Permet de former le Troll Tambour\n+10 % de vitesse de construction accrue"
 End
 
 CONTROLBAR:TooltipUpgradeMordorSiegeWorksLevel3
@@ -61866,6 +61910,12 @@ CONTROLBAR:ToolTipUpgradeDwarvenForgeWorksLevel3
 "+25 % de vitesse de construction plus rapide \n Permet l'entraînement de Khazâd-uzbadul"
 END
 
+CONTROLBAR:ToolTipUpgradeDwarvenForgeWorksLevel3Custom
+//"+25% faster build speed \n Allows research of Mithril Mail, Siege Hammers, and Flaming Shot upgrades \n Adds Defensive Guard Tower"
+//"+25% faster build speed \n Allows research of Khûzdul Runes, Dwarven Plate, and Flaming Shot upgrades \n Adds Defensive Axe Throwers"
+"+25 % de vitesse de construction plus rapide \n Permet l'entraînement de Khazâd-uzbadul et les vétérans de Khazad-dum"
+END
+
 CONTROLBAR:ToolTipUpgradeDwarvenForgeWorksLevel3BotFA
 //"+25% faster build speed \n Allows research of Mithril Mail, Siege Hammers, and Flaming Shot upgrades \n Adds Defensive Guard Tower"
 //"+25% faster build speed \n Allows research of Khûzdul Runes, Dwarven Plate, and Flaming Shot upgrades \n Adds Defensive Axe Throwers"
@@ -62058,7 +62108,8 @@ Version:Format2
 //"Age of the Ring Version 6.1"
 //"Age of the Ring Version 7.0"
 //"Age of the Ring Version 7.1"
-"Age of the Ring Version 8.1"
+//"Age of the Ring Version 8.1"
+"Age of the Ring Version 8.2"
 END
 
 Version:Format3
@@ -62408,7 +62459,7 @@ CONTROLBAR:PippinCourage
 END
 
 CONTROLBAR:ToolTipPippinCourage
-"Requiert : Niveau 5 \n Type d'Action : Sort \n Les héros alliés proches de Pippin gagnent de l'expérience 60% plus rapidement (bonus cumulable). \n\n Capacité passive."
+"Requiert : Niveau 5 \n Type d'Action : Sort \n Les héros alliés proches de Pippin gagnent de l'expérience 33% plus rapidement (bonus cumulable). \n\n Capacité passive."
 END
 
 CONTROLBAR:GondorArcherBonus
@@ -63926,7 +63977,7 @@ CONTROLBAR:ToolTipRumilWoundingArrow
 END
 
 CONTROLBAR:ToolTipRumilWoundingArrowGifts
-"Requiert le niveau 3 \n Attaque à distance unique\nLe héros ennemi ciblé est étourdi pendant 10 secondes\nFait fuir la créature cible\nCliquez sur l'icône, puis cliquez gauche sur la cible"
+"Requiert le Niveau 3\nAttaque à distance unique\nLe héros ennemi ciblé est ralenti de -75 % pendant 10 secondes\nFait fuir le monstre ciblé\nCliquez gauche sur l'icône, puis cliquez gauche sur la cible"
 END
 
 CONTROLBAR:OrophinBladeMaster
@@ -64851,10 +64902,10 @@ CONTROLBAR:ToolTipRendingArrow
 "Requiert le niveau 5\nLes flèches du Maitre des chiens infligent des dégâts au fil du temps pendant 10 secondes aux ennemis\nCapacité passive"
 End
 CONTROLBAR:MasterSteppes
-"Maitre des Steppes Khandiennes"
+"Maitre des Steppes Khandiennes (&R)"
 END
 CONTROLBAR:TooltipMasterSteppes
-"Requiert le niveau 3\nType de modification : Leadership\nLes Variags, Chiens de guerre et Serfs du Rhûn à proximité gagnent +15% d'armure et +15% de dégâts\nCapacité passive"
+"Requiert le niveau 3\nType de modification : Leadership\nLes Variags, Chiens de guerre et Serfs du Rhûn à proximité gagnent +15% d'armure et +15% de dégâts\nCapacité passive \n\n Cliquez gauche pour passer entre monté et à pied"
 END
 CONTROLBAR:WarmongersShot
 "&Tir du Guerrier"
@@ -66293,7 +66344,7 @@ CONTROLBAR:ConstructWildRisenDeadHordeAdventureAngmar
 END
 
 CONTROLBAR:ToolTipBuildWildRisenDeadHorde
-"Les Esprits tombés hantent depuis longtemps les anciens Châteaux en ruine d'Angmar. Lorsque le Roi-Sorcier est partie vers le Nord à la poursuite de l'Anneau, il envoya ces Esprits en avant pour habiter les corps des soldats Arnoriens mort depuis longtemps."
+"Fort contre les piquiers \n\nLes Esprits tombés hantent depuis longtemps les anciens Châteaux en ruine d'Angmar. Lorsque le Roi-Sorcier est partie vers le Nord à la poursuite de l'Anneau, il envoya ces Esprits en avant pour habiter les corps des soldats Arnoriens mort depuis longtemps."
 END
 
 CONTROLBAR:MOSLieutenant
@@ -66420,7 +66471,7 @@ CONTROLBAR:AmrothKnights
 End
 
 CONTROLBAR:ToolTipAmrothKnights
-"Les héros ciblés de Lothlórien obtiennent des bonus pour l'une de leurs compétences :\n Galadriel : La Lumière de Valinor inflige des dégâts aux ennemis\n Celeborn : Seigneur des Galadhrim accorde aux unités une armure +33%\n Idrial : Purification des Ombres ravive les unités tombées dans une grande zone\n Haldir : Capitaine des Galadhrim confère une résistance aux repoussages et aux piétinements\n Rumil : Cúthalion étourdit l'ennemi héros ciblé pendant 10 secondes\n Orophin : Megilherdir inflige des dégâts de zone et repousse les ennemis\n Sylvebarbe : Rugissement fait fuir les ennemis proches dans la terreur\n Cliquez sur l'icône avec le bouton gauche de la souris, puis cliquez sur la cible"
+"Les héros ciblés de Lothlórien obtiennent des bonus pour l'une de leurs compétences :\n Galadriel : La Lumière de Valinor inflige des dégâts aux ennemis\n Celeborn : Seigneur des Galadhrim accorde aux unités une armure +33%\n Idrial : Purification des Ombres ravive les unités tombées dans une grande zone\n Haldir : Capitaine des Galadhrim confère une résistance aux repoussages et aux piétinements\n Rumil : Cúthalion ralentie l'ennemi héros ciblé pendant 10 secondes\n Orophin : Megilherdir inflige des dégâts de zone et repousse les ennemis\n Sylvebarbe : Rugissement fait fuir les ennemis proches dans la terreur\n Cliquez sur l'icône avec le bouton gauche de la souris, puis cliquez sur la cible"
 END
 
 UPGRADE:GiftsofLorien
@@ -66469,7 +66520,7 @@ CONTROLBAR:TooltipSummonRadagast
 END
 
 CONTROLBAR:TooltipSummonRadagastLorien
-"Invoque une statue de Nimrodel au centre d'un grand bassin d'eau\n Les unités amicales dans le bassin sont immunisées contre les affaiblissements\n Augmente la production de ressources des Arbres de Mallorn à proximité de 25%\n Possède la capacité de réparer une structure sélectionnée\n Limité à 1\n Cliquez sur l'icône avec le bouton gauche de la souris, puis cliquez sur un emplacement praticable"
+"Invoque une statue de Nimrodel au centre d'un grand bassin d'eau\n Les unités amicales dans le bassin sont immunisées contre les affaiblissements\n Augmente la production de ressources des Arbres de Mallorn de 10%\n Possède la capacité de réparer une structure sélectionnée\n Limité à 1\n Cliquez sur l'icône avec le bouton gauche de la souris, puis cliquez sur un emplacement praticable"
 END
 
 CONTROLBAR:SummonEagleAlliesLorien
@@ -66955,7 +67006,7 @@ CONTROLBAR:Buildmeanarmy
 END
 
 CONTROLBAR:TooltipBuildmeanarmy
-"Temporairement invoque un Camp de Guerre d'Isengard\nToutes les 45 secondes, une horde d'Uruk-hai choisis est engendrée\nRespecte la limite de points de commandement\nLimité à 1\nCliquez sur l'icône puis cliquez sur la position cible"
+"Temporairement invoque un Camp de Guerre d'Isengard\nToutes les 45 secondes, une horde d'Uruk-hai en armure lourde choisis est engendrée\nRespecte la limite de points de commandement\nLimité à 1\nCliquez sur l'icône puis cliquez sur la position cible"
 END
 
 CONTROLBAR:BuildmeanarmyActivate
@@ -66963,7 +67014,7 @@ CONTROLBAR:BuildmeanarmyActivate
 END
 
 CONTROLBAR:TooltipBuildmeanarmyActivate
-"Activer le Camp de Guerre d'Isengard\nToutes les 45 secondes, une horde d'Uruk-hai choisis est engendrée\nRespecte la limite de points de commandement"
+"Activer le Camp de Guerre d'Isengard\nToutes les 45 secondes, une horde d'Uruk-hai en armure lourde choisis est engendrée\nRespecte la limite de points de commandement"
 END
 
 CONTROLBAR:BuildmeanarmyDeactivate
@@ -67769,7 +67820,7 @@ CONTROLBAR:BardBeastSlayerArrow
 END
 
 CONTROLBAR:ToolTipBardSlamArrow
-"Un tir précis à la flèche qui ralentit une unité ennemie de -70% pendant 15 secondes\n Cliquez gauche sur l'icône, puis cliquez gauche sur l'unité ciblée"
+"Un tir de flèche précis qui réduit l'armure de l'ennemi de -25 % pendant 30 secondes\nCliquez gauche sur l'icône, puis cliquez gauche sur l'unité ciblée"
 End
 
 CONTROLBAR:ToolTipBardBeastSlayerArrow
@@ -67836,6 +67887,14 @@ CONTROLBAR:TooltipBalinLookout
 "Type de modification : Leadership\nLes alliés près de Balin gagnent +25% de portée de vision\n Capacité passive\n\n Au niveau 10, téléporte les unités ciblées vers l'emplacement ciblé\n Ne fonctionne pas sur les unités de siège\n Cliquez gauche sur l'icône, puis cliquez gauche sur les unités ciblées, puis cliquez gauche sur l'emplacement accessible"
 END
 
+CONTROLBAR:BalinLookoutDurinsFolk
+"Vigie de la Compagnie"
+End
+
+CONTROLBAR:TooltipBalinLookoutDurinsFolk
+"Type de Modification : Charisme\nLes alliés à proximité de Balin gagnent un rayon de vision augmenté de +25 %\n\nCapacité Passive"
+END
+
 CONTROLBAR:BalinDwarvenWisdom
 "Sagesse Naine [&T]"
 End
@@ -67858,6 +67917,10 @@ END
 
 CONTROLBAR:TooltipBalinFlag
 "Requiert le niveau 3\n Balin plante une bannière de Durin.\n Les troupes à proximité gagnent +50% d'expérience, +25% d'armure, +33% de dégâts et sont partiellement soignées.\n Au niveau 7, les unités affectées sont immunisées contre les repoussions et sont soignées d'une plus grande quantité.\n Cliquez gauche sur l'icône, puis cliquez gauche sur la zone cible"
+END
+
+CONTROLBAR:TooltipBalinFlagDurinsFolk
+"Requiert le Niveau 3\nBalin plante une bannière de Durin.\nLes troupes à proximité gagnent +50 % d'expérience, +25 % d'armure, +33 % de dégâts et sont partiellement soignées.\nAu Niveau 7, les unités affectées sont immunisées contre les repoussées et sont soignées davantage.\nAu Niveau 10, invoque un bataillon de Repreneurs de la Moria.\nCliquez gauche pour activer."
 END
 
 OBJECT:BalinBanner
@@ -67953,7 +68016,7 @@ CONTROLBAR:ToolTipYoungDwalinSmash
 END
 
 CONTROLBAR:YoungDwalinGloriousCharge
-"Ba&ruk Khazâd!"
+"Ba&ruk Khazâd! (&T)"
 END
 
 CONTROLBAR:ToolTipYoungDwalinGloriousCharge
@@ -68583,11 +68646,11 @@ CONTROLBAR:TooltipKhazadAllies
 END
 
 CONTROLBAR:ConstructDwarvenKhazadGuardHorde
-"Âzugh-Khazad-dûm [&F]"
+"Âzugh-Khazad-dûm [&T]"
 END
 
 CONTROLBAR:ToolTipBuildKhazadGuardHorde
-"Vétérans de Khazad-dûm \n Requiert l'assemblée d'Erebor de niveau 3 et l'Arkenstone \n Forts contre l'infanterie et les structures \n Limité à 3\n\n Les robustes et intrépides descendants de Khazad-dûm, ces guerriers nains d'élite ne craignent aucun ennemi."
+"Vétérans de Khazad-dûm\nRequiert le Niveau 3 du Fort d'Erebor et Balin\nFort contre l'infanterie et les structures\nLimité à 3\n\nLes descendants robustes et endurcis de Khazad-dûm, ces guerriers nains d'élite ne craignent aucun ennemi."
 END
 
 CONTROLBAR:ThrorHoard
@@ -68773,7 +68836,7 @@ CONTROLBAR:DeepDelving
 END
 
 CONTROLBAR:TooltipDeepDelving
-"+15% de ressources provenant des Mines Naines \n Capacité passive"
+"+12% de ressources provenant des Mines Naines \n Capacité passive"
 END
 
 CONTROLBAR:RekindledHearths
@@ -68860,13 +68923,24 @@ END
 CONTROLBAR:DwalinHotkey_Adventure
 "&Dwalin"
 END
+CONTROLBAR:DwalinOldHotkey_Adventure
+"Dwalin (&S)"
+END
 
 CONTROLBAR:DwalinLeadership
 "Frères d'Armes"
 END
 
+CONTROLBAR:DwalinLeadership_Old
+"Fils de Fundin"
+END
+
 CONTROLBAR:ToolTipDwalinLeadership
 "Type de modification : Sort \n Lorsqu'il est près de Thorin, Dwalin obtient\n+15 % de dégâts, +15 % d'armure et +15 % de vitesse d'attaque\nCapacité passive"
+END
+
+CONTROLBAR:ToolTipDwalinLeadership_Old
+"Type de Modification : Sort\nLorsqu'à proximité de Balin, Dwalin gagne\n+15 % de dégâts, +15 % d'armure et +15 % de vitesse d'attaque\nCapacité Passive"
 END
 
 CONTROLBAR:OldDwalinLeadership
@@ -68893,8 +68967,40 @@ CONTROLBAR:ToolTipLonglivedWarrior
 "Dwalin obtient temporairement +50 % d'armure et récupère de la santé à chaque coup\nCliquez gauche pour activer"
 END
 
+CONTROLBAR:tooltipCommand_ToggleDwalinHammer
+"Basculer vers le Marteau de Guerre (&W)"
+END
+
+CONTROLBAR:tooltipCommand_ToggleDwalinAxesBasic
+"Basculer vers le Saisisseur et le Gardien (&W)"
+END
+
+CONTROLBAR:ToolTipDwalinHammer
+"Passer au Marteau de Guerre\nDwalin gagne +33 % de dégâts contre les héros et les bâtiments, ainsi que +25 % d'armure, mais perd -50 % de rayon de dégâts."
+END
+
+CONTROLBAR:ToolTipDwalinAxesBasic
+"Passer au Saisisseur et au Gardien\nDwalin gagne +33 % de dégâts contre l'infanterie et +50 % de rayon de dégâts."
+END
+
+CONTROLBAR:tooltipCommand_ToggleWarAxe
+"Basculer vers la Hache de Guerre (&W)"
+END
+
+CONTROLBAR:tooltipCommand_ToggleDwalinAxesUpg
+"Basculer vers les Haches Doubles (&W)"
+END
+
+CONTROLBAR:ToolTipDwalinWarAxe
+"Passer à la Hache de Guerre\nDwalin gagne +33 % de dégâts contre les héros et les bâtiments, ainsi que +25 % d'armure, mais perd -50 % de rayon de dégâts."
+END
+
+CONTROLBAR:ToolTipDwalinAxesUpg
+"Passer aux Haches Doubles\nDwalin gagne +33 % de dégâts contre l'infanterie et +50 % de rayon de dégâts."
+END
+
 CONTROLBAR:DwalinJuggernaut
-"Mastodonte Nain [&C]"
+"Mastodonte Nain [&V]"
 END
 
 CONTROLBAR:ToolTipDwalinJuggernaut
@@ -68902,7 +69008,7 @@ CONTROLBAR:ToolTipDwalinJuggernaut
 END
 
 CONTROLBAR:DwalinSmash
-"Coup Furieux [&T]"
+"Coup Furieux [&C]"
 END
 
 CONTROLBAR:ToolTipDwalinSmash
@@ -68910,7 +69016,7 @@ CONTROLBAR:ToolTipDwalinSmash
 END
 
 CONTROLBAR:DwalinGloriousCharge
-"Ba&ruk Khazâd !"
+"Ba&ruk Khazâd ! [&T]"
 END
 
 CONTROLBAR:ToolTipDwalinGloriousCharge
@@ -69195,7 +69301,7 @@ CONTROLBAR:KeenEye
 END
 
 CONTROLBAR:ToolTipKeenEye
-"Les structures proches reçoivent +25% d'armure. \n Les mangonneaux proches gagnent +10% de portée. \n Capacité passive. \n Au niveau 3, peut être lancé sur une structure ennemie pour réduire temporairement son armure de 33% pendant 10 secondes. \n\n Clic gauche sur l'icône puis clic gauche sur la cible."
+"Les structures à proximité reçoivent +25 % d'armure\nLes Mangonneaux à proximité gagnent +10 % de portée\nCapacité Passive\n\nPeut être lancé sur les structures ennemies pour réduire leur armure de 33 % pendant 10 secondes\nCliquez gauche sur l'icône, puis cliquez gauche sur la cible"
 END
 
 CONTROLBAR:HadhodSabotage
@@ -69211,7 +69317,7 @@ CONTROLBAR:HadhodStoneHewer
 END
 
 CONTROLBAR:ToolTipHadhodStoneHewer
-"Requiert Niveau 6 \n Les unités naines proches infligent +25% de dégâts aux structures. \n Capacité passive. \n\n Au niveau 8, peut être activé pour fournir des marteaux de siège aux Gardiens situés dans le rayon. \n Clic gauche sur l'icône puis clic gauche sur le bataillon ciblé."
+"Requiert Niveau 5 \n Les unités naines proches infligent +25% de dégâts aux structures. \n Capacité passive. \n\n Au niveau 8, peut être activé pour fournir des marteaux de siège aux Gardiens situés dans le rayon. \n Clic gauche sur l'icône puis clic gauche sur le bataillon ciblé."
 END
 
 CONTROLBAR:BondsofFriendship
@@ -69219,7 +69325,7 @@ CONTROLBAR:BondsofFriendship
 END
 
 CONTROLBAR:TooltipBondsofFriendship
-"Requiert Niveau 10 \n Invoque Elegost le Dunedain sur le champ de bataille \n Clic gauche pour l'activer."
+"Requiert Niveau 7 \n Invoque Elegost le Dunedain sur le champ de bataille \n Clic gauche pour l'activer."
 END
 
 CONTROLBAR:ElegostTrueShot
@@ -69235,7 +69341,7 @@ CONTROLBAR:ElegostHeal
 END
 
 CONTROLBAR:ToolTipElegostHeal
-"Pendant 15 secondes, Elegost soigne les unités proches et les héros au cours du temps. \n\n Clic gauche pour l'activer."
+"Pendant 10 secondes, Elegost soigne les unités proches et les héros au cours du temps. \n\n Clic gauche pour l'activer."
 END
 
 CONTROLBAR:ElegostRangerCraft
@@ -69584,6 +69690,10 @@ END
 
 CONTROLBAR:ToolTipArcahMessenger
 "Requiert : Niveau 5 \n Invoque un bataillon de Cavaliers de Bard. \n\n Clic gauche sur l'icône puis clic gauche sur une zone praticable."
+END
+
+CONTROLBAR:ToolTipRoacArcahMessengerDurinsFolk
+"Requiert le Niveau 5\nInvoque un bataillon de Guerriers des Collines de Fer\nCliquez gauche sur l'icône, puis cliquez gauche sur un emplacement praticable."
 END
 
 UPGRADE:RoacLevel3
@@ -70518,6 +70628,10 @@ END
 
 CONTROLBAR:DwarvenKingDainHotkey
 "Dáin II Pied-d'Acier [&F]"
+END
+
+CONTROLBAR:DwarvenKingDainAdventureHotkey
+"Roi Dáin (&G)"
 END
 
 //////////////
@@ -71495,7 +71609,7 @@ CONTROLBAR:DwarvenWagonButtonBC
 END
 
 CONTROLBAR:TooltipDwarvenWagonButtonBC
-"Requiert : Niveau 2\nLes Nains à proximité bénéficient d'un bonus de +33 % de dégâts, +33 % d'armure et d'une augmentation de 50 % de l'expérience gagnée\nCapacité passive"
+"Requiert le Niveau 2\nType de Modification : Charisme\nLes Nains à proximité gagnent +33% de dégâts, +33% d'armure et +50% d'expérience\nCumulable avec les Améliorations et les Sorts\nCapacité Passive"
 END
 
 CONTROLBAR:DwarvenWagonButon1
@@ -72751,7 +72865,7 @@ CONTROLBAR:ElrondRingOfAir
 END
 
 CONTROLBAR:TooltipElrondRingOfAir
-"Niveau requis : 3\nType de modification : Buff\nCrée un sanctuaire circulaire autour d'Elrond pendant 30 secondes\nLes unités alliées gagnent +100 % d'armure lorsqu'elles se trouvent dans la zone\nRang 5 : Les unités ennemies à proximité subissent -25 % de dégâts, -20 % d'armure et perdent tout leadership, tandis que les alliés à proximité sont immunisés contre la peur et la terreur\nRang 8 : Le rayon du sanctuaire augmente et les unités ennemies sont repoussées toutes les 7 secondes\nCliquez sur l'icône gauche pour l'activer"
+"Niveau requis : 3\nType de modification : Buff\nCrée un sanctuaire circulaire autour d'Elrond pendant 30 secondes\nLes unités alliées gagnent +75% d'armure lorsqu'elles se trouvent dans la zone\nRang 5 : Les unités ennemies à proximité subissent -25 % de dégâts, -20 % d'armure et perdent tout leadership, tandis que les alliés à proximité sont immunisés contre la peur et la terreur\nRang 8 : Le rayon du sanctuaire augmente et les unités ennemies sont repoussées toutes les 7 secondes\nCliquez sur l'icône gauche pour l'activer"
 END
 
 CONTROLBAR:ElrondMountTooltip
@@ -72960,7 +73074,7 @@ OBJECT:RohanErkenbrand
 "Erkenbrand"
 END
 CONTROLBAR:RohanErkenbrandRecruit
-"Requiert l'utilisation du pouvoir Cor du Westfold\nRecrute le Seigneur du Westfold\n\nParmi eux marchait un homme grand et fort. Son bouclier était rouge. Lorsqu'il arriva au bord de la vallée, il porta à ses lèvres une grande corne noire et souffla un son retentissant. 'Erkenbrand !' crièrent les Cavaliers. 'Erkenbrand !'"
+"Recrute le Seigneur du Westfold\n\nParmi eux marchait un homme grand et fort. Son bouclier était rouge. Lorsqu'il arriva au bord de la vallée, il porta à ses lèvres une grande corne noire et souffla un son retentissant. 'Erkenbrand !' crièrent les Cavaliers. 'Erkenbrand !'"
 END
 CONTROLBAR:RohanErkenbrandRevive
 "Ressuscite le Héros tombé, Erkenbrand"
@@ -72993,11 +73107,11 @@ OBJECT:RohanWestfolderHorde
 END
 
 CONTROLBAR:ConstructRohanWestfolderHorde
-"Compagni&e des Guerriers du Westfold"
+"Compagni&e des Guerriers du Westfold (&W)"
 END
 
 CONTROLBAR:ToolTipBuildRohanWestfolderHorde
-"Requiert le Niveau 2 Caserne\net l'utilisation du pouvoir Cor du Westfold\n Fort contre les Piquiers\nCapable de changer de formation\n\nCes hommes robustes et disciplinés étaient parmi les guerriers les mieux armés du Riddermark. Leur mur de boucliers était redouté par les ennemis du Westfold, en particulier les hommes du Dunland."
+"Requiert Erkenbrand\nFort contre les piquiers\nCapacité de changer de formation\n\nCes hommes robustes et disciplinés étaient parmi les guerriers les mieux armés du Riddermark. Leur mur de boucliers était craint parmi les ennemis de l'Ouestfolde, en particulier les hommes de Dunland."
 END
 
 CONTROLBAR:ToolTipToggleWestfolderBlockToLineFormationElite
@@ -73079,19 +73193,19 @@ OBJECT:HordeRohanDoorWarden
 END
 
 CONTROLBAR:ConstructRohanDoorWardenHorde
-"Ga&rde du Roi d'Edoras"
+"Ga&rde du Roi d'Edoras (&E)"
 END
 
 CONTROLBAR:ToolTipBuildRohanDoorWardenHorde
-"Requiert une caserne de niveau 3 \n Efficaces contre les piquiers \n \n Également appelés les Gardiens de la Porte, ces guerriers ont été choisis personnellement par le Roi et chargés de la sécurité de Meduseld. En temps de guerre, ils dirigeaient chacun une petite partie d'une plus grande Éored."
+"Requiert une caserne de niveau 2 \n Efficaces contre les piquiers \n \n Également appelés les Gardiens de la Porte, ces guerriers ont été choisis personnellement par le Roi et chargés de la sécurité de Meduseld. En temps de guerre, ils dirigeaient chacun une petite partie d'une plus grande Éored."
 END
 
 CONTROLBAR:ToolTipConstructRohanFarm
-"Fournit des champs en tant que ressource en fonction du terrain disponible \n Coût réduit pour la cavalerie \n Accorde aux paysans à proximité +35% de vitesse \n Augmente la limite de points de commandement de 50"
+"Fournit des champs en tant que ressource en fonction du terrain disponible \n Coût réduit pour la cavalerie \n Accorde aux paysans à proximité +10% de dégâts et d'armure \n Augmente la limite de points de commandement de 50"
 END
 
 CONTROLBAR:ToolTipDescriptionRohanFarm
-"Génère des ressources en fonction du terrain disponible \n Bonus champ - Coût réduit pour la cavalerie \n 2 fermes : 5% \n 3 fermes : 10% \n 4 fermes : 15% \n 5 fermes : 20% \n 6+ fermes : 25% \n \n Les paysans à proximité gagnent +35% de vitesse"
+"Génère des ressources en fonction du terrain disponible \n Bonus champ - Coût réduit pour la cavalerie \n 2 fermes : 5% \n 3 fermes : 10% \n 4 fermes : 15% \n 5 fermes : 20% \n 6+ fermes : 25% \n \n Les paysans à proximité gagnent +10 de dégâts et d'armure"
 END
 
 OBJECT:RohanWindmill
@@ -73103,11 +73217,11 @@ CONTROLBAR:ConstructRohanWindmill
 END
 
 CONTROLBAR:ToolTipConstructRohanWindmill
-"Fournit du pain en tant que ressource en fonction du terrain disponible \n Coût réduit pour l'infanterie \n Accorde aux paysans à proximité +35% de vitesse \n Augmente la limite de points de commandement de 50"
+"Fournit du pain en tant que ressource en fonction du terrain disponible \n Coût réduit pour l'infanterie \n Accorde aux paysans à proximité +10% de dégâts et d'armure \n Augmente la limite de points de commandement de 50"
 END
 
 CONTROLBAR:ToolTipDescriptionRohanWindmill
-"Génère des ressources en fonction du terrain disponible \n Bonus pain - Coût réduit pour l'infanterie \n 2 moulins à vent : 5% \n 3 moulins à vent : 10% \n 4 moulins à vent : 15% \n 5 moulins à vent : 20% \n 6+ moulins à vent : 25% \n \n Les paysans à proximité gagnent +35% de vitesse"
+"Génère des ressources en fonction du terrain disponible \n Bonus pain - Coût réduit pour l'infanterie \n 2 moulins à vent : 5% \n 3 moulins à vent : 10% \n 4 moulins à vent : 15% \n 5 moulins à vent : 20% \n 6+ moulins à vent : 25% \n \n Les paysans à proximité gagnent +10% de dégâts et d'armure"
 END
 
 OBJECT:RohanStablesDescription
@@ -73135,7 +73249,7 @@ CONTROLBAR:SummonLoneScout
 End
 
 CONTROLBAR:ToolTipSummonLoneScout
-"Convoque un éclaireur temporaire des Rohirrim qui confère +15% de vitesse, +25% d'armure et +25% de dégâts aux unités alliées à proximité\n Cliquez gauche sur l'icône, puis cliquez gauche sur l'emplacement accessible"
+"Convoque un éclaireur temporaire des Rohirrim qui confère +15% de vitesse et +35% de dégâts aux unités alliées à proximité\n Cliquez gauche sur l'icône, puis cliquez gauche sur l'emplacement accessible"
 END
 
 CONTROLBAR:SummonCirionOath
@@ -73151,7 +73265,7 @@ CONTROLBAR:WestfoldHorn
 END
 
 CONTROLBAR:TooltipWestfoldHorn
-"Type de modification : Buff\nLes alliés ciblés gagnent +60% de dégâts et +60% d'armure pendant 60 secondes\nUne fois utilisé, débloque passivement Erkenbrand et les Westfolders\nCliquez gauche sur l'icône, puis cliquez gauche sur les unités cibles"
+"Type de modification : Buff\nLes alliés ciblés gagnent +60% de dégâts et +60% d'armure pendant 60 secondes\nCliquez gauche sur l'icône, puis cliquez gauche sur les unités cibles"
 END
 
 CONTROLBAR:TooltipWestfoldHorn_WOTR
@@ -73163,7 +73277,7 @@ CONTROLBAR:PukelStatue
 END
 
 CONTROLBAR:TooltipPukelStatue
-"Convoque une statue d'homme Púkel renfermant une étrange magie\nLes ennemis à proximité perdent tout leadership et subissent -25% de dégâts et -25% d'armure écrasante\nLimité à 2\nCliquez gauche sur l'icône, puis cliquez gauche sur l'emplacement accessible"
+"Invoque une statue d'Homme de Púkel abritant une magie étrange\nLes ennemis à proximité subissent -25 % de dégâts et d'armure\nLimité à 2\nCliquez gauche sur l'icône, puis cliquez gauche sur un emplacement praticable."
 END
 
 CONTROLBAR:MusterRohirrim
@@ -73195,7 +73309,7 @@ CONTROLBAR:EverholtBoar
 End
 
 CONTROLBAR:ToolTipEverholtBoar
-"Convoque le Grand Sanglier d'Everholt\nLe sanglier piétine, inflige de bons dégâts de siège et attaque tout ce qui est en vue\nCliquez gauche sur l'icône, puis cliquez gauche sur l'emplacement accessible"
+"Invoque le Grand Sanglier d'Everholt\nLe sanglier piétine et attaque tout ce qu'il voit\nLes ennemis à proximité du sanglier subissent -33 % de vitesse et perdent tout leadership\nÀ sa mort, le Grand Sanglier invoque le Trophée du Chasseur qui reste sur le champ de bataille pendant 60 secondes\nLes alliés à proximité gagnent +25 % de dégâts et sont immunisés contre la peur et la terreur\nCliquez gauche sur l'icône, puis cliquez gauche sur un emplacement praticable."
 END
 
 CONTROLBAR:SummonLastMarch
@@ -73215,11 +73329,11 @@ CONTROLBAR:ToolTipSummonStormcrow
 END
 
 CONTROLBAR:ToolTipBuildRohanBarracksLevel2Upgrade
-"Permet l'entraînement des Westfolders et la recherche de l'amélioration des Lames Forgées\n+10% de vitesse de construction accrue"
+"Permet l'entraînement des Gardes du Roi d'Edoras et la recherche de l'amélioration des Lames Forgées\n+10% de vitesse de construction accrue"
 END
 
 CONTROLBAR:ToolTipBuildRohanBarracksLevel3Upgrade
-"Permet l'entraînement des Gardes du Roi d'Edoras, des Guerriers d'Helmingas et la recherche de l'amélioration de l'Armure Lourde\n+25% de vitesse de construction accrue\nAjoute une tour de flèches défensive"
+"Permet l'entraînement des Guerriers d'Helmingas et la recherche de l'amélioration de l'Armure Lourde\n+25% de vitesse de construction accrue\nAjoute une tour de flèches défensive"
 END
 
 CONTROLBAR:ToolTipBuildRohanBarracksLevel3Upgrade_WOTR
@@ -73228,10 +73342,6 @@ END
 
 CONTROLBAR:ToolTipBuildRohanArcherRangeLevel2Upgrade
 "Permet l'entraînement des Gardes de Halifirien et la recherche de l'amélioration des Flèches de Feu\n+10% de vitesse de construction accrue"
-END
-
-CONTROLBAR:ToolTipBuildRohanArcherRangeLevel2UpgradeFoI
-"+10% de vitesse de construction accrue"
 END
 
 CONTROLBAR:ToolTipBuildRohanArcherRangeLevel3Upgrade
@@ -73311,11 +73421,15 @@ UPGRADE:DraftTowerEored
 END
 
 CONTROLBAR:DraftTowerOath
-"Le Serment que vous ave&z prêtés..."
+"Le Serment que vous avez prêtés... (&E)"
+END
+
+CONTROLBAR:DraftTowerOathPeasants
+"Défenseurs Féroces (&W)"
 END
 
 CONTROLBAR:ToolTipDraftTowerOathPeasant
-"Invoque deux bataillons de paysans enrôlés pour défendre la Tour."
+"Invoque temporairement deux bataillons de paysans enrôlés pour défendre la Tour."
 END
 
 CONTROLBAR:PurchaseDraftTowerWestfolder
@@ -73323,11 +73437,11 @@ CONTROLBAR:PurchaseDraftTowerWestfolder
 END
 
 CONTROLBAR:ToolTipPurchaseDraftTowerWestfolder
-"Nécessite le Pouvoir de la Corne de Westfold. \n Modifie de façon permanente le Serment actif pour invoquer un bataillon de Guerriers du Westfold."
+"Requiert l'utilisation d'Erkenbrand\nModifie le Serment actif pour invoquer un bataillon permanent de Défenseurs de l'Ouestfolde\nDoit être racheté après utilisation."
 END
 
 CONTROLBAR:ToolTipDraftTowerOathWestfolder
-"Invoque un bataillon de Guerriers du Westfold pour défendre la Tour."
+"Invoque un bataillon permanent de Défenseurs de l'Ouestfolde\nPeut être lancé près de n'importe quelle Tour de Recrutement ou Forteresse\nRespecte la limite de points de commandement\nRequiert 75 points de commandement pour être invoqué\nCliquez gauche, puis cliquez gauche sur la zone cible."
 END
 
 CONTROLBAR:PurchaseDraftTowerFirienholt
@@ -73335,11 +73449,11 @@ CONTROLBAR:PurchaseDraftTowerFirienholt
 END
 
 CONTROLBAR:ToolTipPurchaseDraftTowerFirienholt
-"Modifie de façon permanente le serment actif d'invoquer un bataillon de Gardiens Halifiriens."
+"Modifie le Serment actif pour invoquer un bataillon permanent des Gardiens de Halifirien\nDoit être racheté après utilisation."
 END
 
 CONTROLBAR:ToolTipDraftTowerOathFirienholt
-"Invoque un bataillon de Gardiens Halifiriens pour défendre la Tour."
+"Invoque un bataillon permanent des Gardiens de Halifirien\nPeut être lancé près de n'importe quelle Tour de Recrutement ou Forteresse\nRespecte la limite de points de commandement\nRequiert 72 points de commandement pour être invoqué\nCliquez gauche, puis cliquez gauche sur la zone cible."
 END
 
 CONTROLBAR:PurchaseDraftTowerRohirrim
@@ -73347,11 +73461,11 @@ CONTROLBAR:PurchaseDraftTowerRohirrim
 END
 
 CONTROLBAR:ToolTipPurchaseDraftTowerRohirrim
-"Modifie de façon permanente le Serment actif pour invoquer un bataillon de Guerriers Rohirrims améliorés."
+"Modifie le Serment actif pour invoquer un bataillon permanent de Guerriers Rohirrim\nDoit être racheté après utilisation."
 END
 
 CONTROLBAR:ToolTipDraftTowerOathRohirrim
-"Invoque un bataillon de Guerriers Rohirrims améliorés pour défendre la Tour."
+"Invoque un bataillon permanent de Guerriers Rohirrim\nPeut être lancé près de n'importe quelle Tour de Recrutement ou Forteresse\nRespecte la limite de points de commandement\nRequiert 80 points de commandement pour être invoqué\nCliquez gauche, puis cliquez gauche sur la zone cible."
 END
 
 OBJECT:RohanLoneScout
@@ -73383,11 +73497,19 @@ CONTROLBAR:ToolTipHarkenToMeLeadership
 END
 
 CONTROLBAR:DoorWardenKingsguardLeadership
-"Les Gardiens de la Porte"
+"Les Gardiens de la Porte (&R)"
 END
 
 CONTROLBAR:TooltipDoorWardenKingsguardLeadership
-"Type d'Action : Charisme. \n La Garde Royale confère aux structures voisines +33% d'armure. \n S'accumule avec les Bonus et les Sorts. \n\n Capacité passive."
+"Type de Modification : Charisme\nLes Gardes du Roi confèrent aux structures à proximité +33 % d'armure\nCapacité Passive\n\nLors de l'achat, équipe définitivement les Portiers d'Épées\nCliquez gauche pour améliorer cette unité."
+END
+
+CONTROLBAR:DoorWardenKingsguardLeadershipFake
+"Portiers"
+END
+
+CONTROLBAR:TooltipDoorWardenKingsguardLeadershipFake
+"Type de Modification : Leadership\nLes Gardes du Roi confèrent aux structures à proximité +33 % d'armure\nCapacité Passive\n\nLes épées ont été équipées."
 END
 
 CONTROLBAR:KingsguardLeadership
@@ -73446,7 +73568,7 @@ CONTROLBAR:RohanPeasantHasDraft
 END
 
 CONTROLBAR:ToolTipRohanPeasantHasDraft
-"Requiert le pouvoir Résistance. \n Les paysans reçoivent des épées et des boucliers, gagnant +5 de dégâts et +40 de points de vie. \n Les paysans peuvent désormais être améliorés avec des lames forgées et une armure lourde."
+"Requiert le pouvoir Résistance. \n Les paysans reçoivent des épées et des boucliers, gagnant +5 de dégâts et +20 de points de vie. \n Les paysans peuvent désormais être améliorés avec des lames forgées et une armure lourde."
 END
 
 CONTROLBAR:PurchaseUpgradeRohanDraft
@@ -73454,7 +73576,7 @@ CONTROLBAR:PurchaseUpgradeRohanDraft
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeRohanDraft
-"Les paysans reçoivent des épées et des boucliers, gagnent +5 de dégâts et +40 de santé. \n Les paysans peuvent être améliorés avec des Lames forgées et des Armures Lourdes."
+"Les paysans reçoivent des épées et des boucliers, gagnent +5 de dégâts et +20 de santé. \n Les paysans peuvent être améliorés avec des Lames forgées et des Armures Lourdes."
 END
 
 CONTROLBAR:ErkenbrandHorn
@@ -73462,7 +73584,7 @@ CONTROLBAR:ErkenbrandHorn
 END
 
 CONTROLBAR:ToolTipErkenbrandHorn
-"L'infanterie proche gagne +20% de bonus de vitesse et de la résistance à la peur, au renversement et au piétinement pendant 30 secondes."
+"L'infanterie et les héros proche gagne +20% de bonus de vitesse et de la résistance à la peur, terreur, au renversement et au piétinement pendant 30 secondes."
 END
 
 CONTROLBAR:ErkenbrandShieldCrush
@@ -73614,7 +73736,7 @@ CONTROLBAR:EowynReadiness
 END
 
 CONTROLBAR:ToolTipEowynReadiness
-"Requiert le niveau 3 \n Invoque un bataillon permanent de paysans enrôlés \n Respecte la limite de points de commandement \n Cliquez gauche pour activer"
+"Requiert le niveau 2 \n Invoque un bataillon permanent de paysans enrôlés \n Respecte la limite de points de commandement \n Cliquez gauche pour activer"
 END
 
 CONTROLBAR:ToggleEowynDernhelm
@@ -73622,7 +73744,7 @@ CONTROLBAR:ToggleEowynDernhelm
 END
 
 CONTROLBAR:ToolTipToggleEowynDernhelm
-"Requiert le niveau 5 \n Éowyn revêt l'armure de Dernhelm \n Basculer entre Dame blanche et Dernhelm"
+"Requiert le niveau 4 \n Éowyn revêt l'armure de Dernhelm \n Basculer entre Dame blanche et Dernhelm"
 END
 
 CONTROLBAR:ToggleEowynLady
@@ -73630,7 +73752,7 @@ CONTROLBAR:ToggleEowynLady
 END
 
 CONTROLBAR:ToolTipToggleEowynLady
-"Requiert le niveau 5 \n Éowyn revêt sa robe \n Basculer entre Dame blanche et Dernhelm"
+"Requiert le niveau 4 \n Éowyn revêt sa robe \n Basculer entre Dame blanche et Dernhelm"
 END
 
 CONTROLBAR:EowynIthilienGarden
@@ -73642,11 +73764,11 @@ CONTROLBAR:ToolTipEowynIthilienGarden
 END
 
 CONTROLBAR:EowynCourage
-"Courage pour nos Amis [&T]"
+"Courage pour nos Amis [&C]"
 END
 
 CONTROLBAR:ToolTipEowynCourage
-"Requiert le niveau 5 \n Modifier Type: Sort \n Éowyn gagne +33% de dégâts et d'armure tandis que les alliés à proximité acquièrent une résistance à la peur et à la terreur pendant 30 secondes \n Cliquez gauche pour activer"
+"Requiert le niveau 6 \n Modifier Type: Sort \n Éowyn gagne +33% de dégâts et d'armure tandis que les alliés à proximité acquièrent une résistance à la peur et à la terreur pendant 30 secondes \n Cliquez gauche pour activer"
 END
 
 CONTROLBAR:ElfhelmQuickRescue
@@ -73654,7 +73776,7 @@ CONTROLBAR:ElfhelmQuickRescue
 END
 
 CONTROLBAR:ToolTipElfhelmQuickRescue
-"Requiert le niveau 3 \n Modifier Type: Sort \n Les cavaleries à proximité gagnent +15% de vitesse tandis que l'infanterie à proximité gagne +15% d'armure pendant 30 secondes \n Les cavaleries et l'infanterie infligent des dégâts bonus aux machines pendant la durée \n Cliquez gauche pour activer"
+"Requiert le niveau 3 \n Modifier Type: Sort \n Les cavaleries à proximité gagnent +15% de vitesse tandis que l'infanterie à proximité gagne +15% d'armure pendant 30 secondes \n Les cavaleries et l'infanterie infligent +25% de dégâts aux machines pendant la durée \n Cliquez gauche pour activer"
 END
 
 CONTROLBAR:ElfhelmPromotion
@@ -73670,7 +73792,7 @@ CONTROLBAR:ElfhelmLeadership
 END
 
 CONTROLBAR:ToolTipElfhelmLeadership
-"Requiert le niveau 9 \n Modifier Type: Leadership \n Les Gardiens de Halifirien, les Archers Yeomen et les Archers Rohirrim près d'Elfhelm gagnent +15% de portée d'attaque et +33% de dégâts\nLes Cavaliers de Snowbourn près d'Elfhelm gagnent +33% d'armure\n Capacité passive"
+"Requiert le niveau 7 \n Modifier Type: Leadership \n Les Gardiens de Halifirien, les Archers Yeomen et les Archers Rohirrim près d'Elfhelm gagnent +15% de portée d'attaque et +33% de dégâts\nLes Cavaliers de Snowbourn près d'Elfhelm gagnent +33% d'armure\n Capacité passive"
 END
 
 CONTROLBAR:MerryLeadership
@@ -73678,7 +73800,7 @@ CONTROLBAR:MerryLeadership
 END
 
 CONTROLBAR:ToolTipMerryLeadership
-"Requiert le niveau 5 \n Modifier Type: Leadership \n Merry gagne +25% d'armure et +25% de dégâts lorsqu'il est près d'Éowyn \n Les héros à proximité gagnent de l'expérience 50% plus rapidement \n La santé de Merry est augmentée \n Capacité passive"
+"Requiert le niveau 5 \n Modifier Type: Leadership \n Merry gagne +25% d'armure et +25% de dégâts lorsqu'il est près d'Éowyn \n Les héros à proximité gagnent de l'expérience 33% plus rapidement \n La santé de Merry est augmentée \n Capacité passive"
 END
 
 CONTROLBAR:FellowshipAthelasElladan
@@ -73698,7 +73820,7 @@ OBJECT:RohanPukelStatue
 END
 
 OBJECT:RohanPukelStatueDescription
-"Une statue d'homme de Púkel renfermant une étrange magie \n\n Les ennemis à proximité perdent tout leadership et subissent -25% de dégâts et -25% d'armure contre les écrasements"
+"Une statue d'homme de Púkel renfermant une étrange magie \n\n Les ennemis à proximité subissent -25% de dégâts et -25% d'armure contre les écrasements"
 END
 
 CONTROLBAR:PukelMoveUnseen
@@ -73794,7 +73916,7 @@ CONTROLBAR:ToolTipBuildImladrisBatteringRam
 END
 
 CONTROLBAR:ConstructRohanHelmingasWardenHorde
-"Guerriers Helmingas [&T]"
+"Guerriers Helmingas [&R]"
 END
 
 CONTROLBAR:ToolTipBuildRohanHelmingasWardenHorde
@@ -74375,7 +74497,7 @@ CONTROLBAR:RohanPeasantry
 END
 
 CONTROLBAR:ToolTipRohanPeasantry
-"Passer au recrutement de paysans"
+"Passer au recrutement de Paysans et de Lanciers"
 END
 
 CONTROLBAR:SpecialAbilityTheArkenstone
@@ -74503,7 +74625,7 @@ CONTROLBAR:ChillofAngmar
 END
 
 CONTROLBAR:ToolTipChillofAngmar
-"Les unités ennemies à proximité sont ralenties et perdent tout commandement \n Capacité passive"
+"Les unités ennemies à proximité sont ralenties de 25 % et perdent tout leadership\nCapacité Passive"
 END
 
 CONTROLBAR:HelmingasShieldCrush
@@ -74511,23 +74633,23 @@ CONTROLBAR:HelmingasShieldCrush
 END
 
 CONTROLBAR:ToolTipHelmingasShieldCrush
-"Les Helmingas peuvent écraser les ennemis et sont immunisés contre les flèches pendant 20 secondes\nClic gauche pour activer"
+"Type de Modification : Sort\nLes alliés à proximité des Helmingas deviennent immunisés contre la peur et la terreur\nCapacité Passive\n\nLorsqu'activé, les Helmingas peuvent écraser les ennemis et sont immunisés contre les flèches pendant 20 secondes\nCliquez gauche pour activer"
 End
 
 CONTROLBAR:MarkOfHelm
-"La Marque de Helm [&T]"
+"La Marque de Helm [&C]"
 END
 
 CONTROLBAR:ToolTipMarkOfHelm
-"Nécessite le niveau 3 \n Les Helmingas accordent la marque de Helm à une unité alliée, lui faisant gagner + 100% de dégâts d'attaque pendant 60 secondes\n Clic gauche sur l'icône puis clic gauche sur le bataillon cible"
+"Nécessite le niveau 6 \n Les Helmingas accordent la marque de Helm à une unité alliée, lui faisant gagner + 100% de dégâts d'attaque pendant 60 secondes\n Clic gauche sur l'icône puis clic gauche sur le bataillon cible"
 END
 
 CONTROLBAR:MarkOfFreca
-"la Marque de Fre&ca"
+"la Marque de Fre&ca [&T]"
 END
 
 CONTROLBAR:ToolTipMarkOfFreca
-"Requires Level 6 \n Les Helmingas accordent la marque de Freca à une unité alliée, \n les faisant fuir dans la peur et perdre -33% d'armure pendant 60 secondes\n Clic gauche sur l'icône puis clic gauche sur le bataillon cible"
+"Requiert le Niveau 3\nLes Helmingas octroient la Marque de Freca à une unité ennemie,\nce qui les fait fuir de peur, perdre tout leadership et -33 % d'armure pendant 60 secondes\nCliquez gauche sur l'icône, puis cliquez gauche sur le bataillon cible"
 END
 
 CONTROLBAR:SurrenderArms
@@ -74667,7 +74789,7 @@ CONTROLBAR:MerryBlade
 END
 
 CONTROLBAR:ToolTipMerryBlade
-"Requiert le niveau 10 \n Merry plonge sa Lame de l'Ouistrenesse dans un héros ennemi,\n infligeant de gros dégâts et réduisant l'armure de -33 % pendant 10 secondes \n Ne peut être utilisé que lorsque l'épée est équipée \n Clic gauche sur l'icône puis clic gauche sur la cible"
+"Requiert le niveau 7 \n Merry plonge sa Lame de l'Ouistrenesse dans un héros ennemi,\n infligeant de gros dégâts et réduisant l'armure de -33 % pendant 10 secondes \n Ne peut être utilisé que lorsque l'épée est équipée \n Clic gauche sur l'icône puis clic gauche sur la cible"
 End
 
 /////
@@ -74909,7 +75031,7 @@ CONTROLBAR:LoneScoutLeadership
 END
 
 CONTROLBAR:TooltipLoneScoutLeadership
-"Type d'Action : Bonus. \n Le Cavalier accorde aux unités proches +15% de vitesse, +25% d'armure et +25% de dégâts. \n Capacité passive."
+"Type d'Action : Bonus. \n Le Cavalier accorde aux unités proches +15% de vitesse et +35% de dégâts. \n Capacité passive."
 END
 
 CONTROLBAR:FrodoMithrilShirt
@@ -75355,7 +75477,7 @@ CONTROLBAR:GuldurInfestation
 END
 
 CONTROLBAR:ToolTipGuldurInfestation
-"Requiert un Repaire d'Araignées\nInvoque un essaim temporaire d'araignées autour de la structure\nqui ralentit les attaques et la vitesse de déplacement des ennemis à proximité de 20% et leur inflige de légers dégâts pendant 30 secondes\nCliquez gauche pour activer"
+"Requiert un Repaire d'Araignées\nInvoque un essaim d'araignées autour de la structure pendant 30 secondes\nqui ralentit les attaques et la vitesse de déplacement des ennemis à proximité de 20% et leur inflige de légers dégâts\nCliquez gauche pour activer"
 END
 
 CONTROLBAR:SpiderLairInfestation
@@ -76641,7 +76763,11 @@ CONTROLBAR:DwarvenThorinHelmRevive
 "Ressuscitez le héros déchu, Thorin III Heaume de Pierre"
 END
 CONTROLBAR:DwarvenThorinHelmHotkey
-"Thorin III Heaume &de Pierre"
+"Thorin III Heaume &de Pierre [&D]"
+END
+
+CONTROLBAR:DwarvenThorinHelmAdventureHotkey
+"Thorin III Heaume &de Pierre (&F)"
 END
 
 OBJECT:DwarvenHadhod
@@ -76941,7 +77067,7 @@ CONTROLBAR:MordorFortressDeadliestServants
 END
 
 CONTROLBAR:ToolTipMordorFortressDeadliestServants
-"Requiert l'amélioration Flèche de Morgul\nAccorde +20% de dégâts et +30% d'armure\nà tous les Nazgûl sur le champ de bataille\nN'affecte pas les Bestioles ailées\nCapacité passive"
+"Requiert l'amélioration Flèche de Morgul\nAccorde +20% de dégâts et +20% d'armure\nà tous les Nazgûl sur le champ de bataille\nN'affecte pas les Bestioles ailées\nCapacité passive"
 END
 
 CONTROLBAR:MordorFortressMorgulSpire
@@ -81512,7 +81638,7 @@ CONTROLBAR:UpgradeMallornGaladhrimGarrisonFake
 END
 
 CONTROLBAR:ToolTipUpgradeMallornGaladhrimGarrisonFake
-"Permet le recrutement des unités d'infanterie de la Lothlórien \n Augmente la limite de points de commandement de 25"
+"Permet le recrutement des unités d'infanterie de Lothlórien\nAugmente l'armure du Mallorn de 33%\nAugmente la limite de points de commandement de 25"
 End
 
 CONTROLBAR:UpgradeMallornGaladhrimGarrison
@@ -81520,7 +81646,7 @@ CONTROLBAR:UpgradeMallornGaladhrimGarrison
 END
 
 CONTROLBAR:ToolTipUpgradeMallornGaladhrimGarrison
-"Transforme le Mallorn en Garnison Galadhrim \n Permet le recrutement des unités d'infanterie de la Lothlórien \n Augmente la limite de points de commandement de 25"
+"Transforme le Mallorn en une Garnison Galadhrim\nPermet le recrutement des unités d'infanterie de Lothlórien\nAugmente l'armure du Mallorn de 33 %\nAugmente la limite de points de commandement de 25"
 END
 
 CONTROLBAR:UpgradeMallornGreenPasture
@@ -81528,7 +81654,7 @@ CONTROLBAR:UpgradeMallornGreenPasture
 END
 
 CONTROLBAR:ToolTipUpgradeMallornGreenPasture
-"Transforme le Mallorn en Verts Pâturages \n Permet de recruter des cavaliers du Naith \n Augmente la limite de points de commandement de 25"
+"Transforme le Mallorn en Verts Pâturages \n Permet de recruter des cavaliers du Naith \n Augmente l'armure du Mallorn de 33 % \n Augmente la limite de points de commandement de 25"
 END
 
 CONTROLBAR:UpgradeMallornGreenPastureFake
@@ -81536,7 +81662,7 @@ CONTROLBAR:UpgradeMallornGreenPastureFake
 END
 
 CONTROLBAR:ToolTipUpgradeMallornGreenPastureFake
-"Permet de recruter des cavaliers du Naith \n Augmente la limite de points de commandement de 25"
+"Permet de recruter des cavaliers du Naith \n Augmente l'armure du Mallorn de 33 % \n Augmente la limite de points de commandement de 25"
 END
 
 CONTROLBAR:UpgradeMallornStorehouse
@@ -81544,7 +81670,7 @@ CONTROLBAR:UpgradeMallornStorehouse
 END
 
 CONTROLBAR:ToolTipUpgradeMallornStorehouse
-"Transforme le Mallorn en Entrepôt \n Permet la recherche d'améliorations diverses \n  Réduit le coût des améliorations \n Augmente la limite de points de commandement de 25"
+"Transforme le Mallorn en Entrepôt \n Augmente l'armure du Mallorn de 33 % \n Permet la recherche d'améliorations diverses \n  Réduit le coût des améliorations \n Augmente la limite de points de commandement de 25"
 END
 
 CONTROLBAR:UpgradeMallornStorehouseFake
@@ -81552,7 +81678,7 @@ CONTROLBAR:UpgradeMallornStorehouseFake
 END
 
 CONTROLBAR:ToolTipUpgradeMallornStorehouseFake
-"Permet la recherche d'améliorations diverses \n Augmente la limite de points de commandement de 25"
+"Permet la recherche d'améliorations diverses \n Augmente l'armure du Mallorn de 33 % \n Augmente la limite de points de commandement de 25"
 END
 
 CONTROLBAR:SecondaryUpgrades
@@ -83620,8 +83746,14 @@ End
 CONTROLBAR:ToolTipPurchaseUpgradeWildFortressDrumsInTheDeepMoria
 "La forteresse gagne la capacité d'utiliser les Tambours des Profondeurs\nInvoque temporairement 5 hordes de Hurleurs Orques de Moria\nPermet aux structures de Moria d'utiliser la capacité Tambours des Profondeurs pour invoquer temporairement 2 hordes de Hurleurs Orques de Moria"
 END
+CONTROLBAR:ToolTipPurchaseUpgradeWildFortressDrumsInTheDeepMoria_Fortress
+"Accorde aux structures de la Moria la capacité de lancer les Tambours dans les Profondeurs pour invoquer temporairement 2 hordes de Hurleurs Orques de la Moria."
+END
 TOOLTIP:LackDragonNestWebCocoonMoria
 "Requiert l'amélioration Salles Profanées\nInvoque temporairement 5 hordes de Hurleurs Orques de Moria et débloque la capacité Tambours des Profondeurs pour les structures de Moria"
+END
+TOOLTIP:LackDragonNestWebCocoonMoria_Fortress
+"Requiert l'amélioration des Salles Profanées\nAccorde aux structures de la Moria la capacité de lancer les Tambours dans les Profondeurs pour invoquer temporairement 2 hordes de Hurleurs Orques de la Moria."
 END
 CONTROLBAR:DrumsInTheDeepSaF
 "Tambours des Profondeurs"
@@ -85115,6 +85247,16 @@ Map:MAPMPcentralithilien/Desc
 "Une terre à l'Est du Gondor, en bordure des montagnes qui séparent le Gondor du Mordor. \n\n Capturables : Auberge. \n Antres : Trolls des Cavernes, Spectres des Galgals. \n Région : Gondor. \n"
 End
 
+/////
+
+Map:MAPMPchetwood
+"Chetwood*"
+End
+
+Map:MAPMPchetwood/Desc
+"Chetwood est la vaste forêt qui s'étendait au nord et à l'est de la Colline de Bree. Le village d'Archet a été construit parmi les arbres près de son bord.\nCapturable : Taverne\nCréatures : Warg\nRégion : Arnor"
+End
+
 ///////////////////////
 
 Map:MAPMPcirithungol
@@ -85352,7 +85494,7 @@ End
 ///////////////////////
 
 Map:MAPMPeastbight
-"Brèche Est*"
+"Brèche Est"
 End
 
 Map:MAPMPeastbight/Desc
@@ -85511,6 +85653,16 @@ End
 
 /////
 
+Map:MAPMPeredwethrin
+"Ered Wethrin*"
+End
+
+Map:MAPMPeredwethrin/Desc
+"Les Ered Wethrin, ou les Montagnes de l'Ombre, étaient une chaîne de montagnes située dans le nord de Beleriand.\nCapturable : Taverne\nCréatures : Troll des Cavernes, Warg\nRégion : Lindon"
+End
+
+/////
+
 Map:MAPMPeregion
 "Eregion"
 End
@@ -85537,7 +85689,7 @@ Map:MAPMPerynvorn
 End
 
 Map:MAPMPerynvorn/Desc
-"Eryn Vorn est une région boisée de pins sombres sur la côte de Minhiriath en Eriador. Dernier vestige des vastes forêts qui couvraient autrefois Eriador avant leur déforestation par les Númenóréens, la forêt abrite désormais seulement quelques chasseurs éparpillés. \n Capturable: Feu d'Alarme \n Antres: Troll des collines, Warg \n Région: Eriador"
+"Eryn Vorn est une région boisée de pins sombres sur la côte de Minhiriath en Eriador. Dernier vestige des vastes forêts qui couvraient autrefois Eriador avant leur déforestation par les Númenóréens, la forêt abrite désormais seulement quelques chasseurs éparpillés. \n Capturable: Feu d'Alarme, Auberge \n Antres: Warg \n Région: Eriador"
 End
 
 
@@ -85759,11 +85911,11 @@ End
 
 
 Map:MAPMPfortressamonsul
-"Forteresse: Galgals de Cárgast*"
+"Fortress: Amon Sûl*"
 End
 
 Map:MAPMPfortressbarrowofcargast/Desc
-"C'est l'ancien lieu de repos d'un grand Roi-Guerrier, corrompu par l'ignoble nécromancie. Les morts agités se rassemblent maintenant près de lui sous la direction de Cárgast, le seigneur des tombeaux. \n\n Antres : Wargs, Araignées. \n Dangers : Brouillard. \n Région : Rhovanion. \n"
+"La forteresse sur la colline venteuse d'Amon Sûl abritait un palantír jusqu'à ce que la forteresse soit détruite par l'armée du Roi-Sorcier. Plus tard, elle fut connue sous le nom de Colline du Temps. \nCapturable : Feu de Signalisation, Taverne\nRégion : Arnor"
 End
 
 /////
@@ -86425,7 +86577,7 @@ End
 
 /////
 Map:MAPMPindela
-"Indela*"
+"Indlela*"
 End
 
 Map:MAPMPindela/Desc
@@ -86646,6 +86798,16 @@ Map:MAPMPlongmarshes/Desc
 "Des marais et des zones peu profondes entourent les deux côtés de la rivière forestière, s'étendant de la bordure orientale de la Forêt Noire jusqu'aux rives du Long Lac. Seuls quelques chemins sûrs mènent à travers les nombreux cours d'eau sinueux de la rivière. \n\n Antres : Spectres des Galgals. \n Région : Erebor. \n"
 End
 
+/////
+
+Map:MAPMPlonddaerenedh
+"Lond Daer Enedh*"
+End
+
+Map:MAPMPlonddaerenedh/Desc
+"Lond Daer a été fondée par le prince héritier de Númenor et futur 'Roi des Navires' Tar-Aldarion à l'embouchure de la rivière Gwathló au début du Second Âge. C'était le premier établissement permanent des Númenóréens en Terre du Milieu. \nCapturable : Taverne\nCréatures : Troll des Cavernes, Warg\nRégion : Enedwaith"
+End
+
 ///////////////////////
 
 Map:MAPMPlorien
@@ -86850,6 +87012,16 @@ End
 
 Map:MAPMPnancelebrant/Desc
 "Les incursions Orques ont transformé les passages du Célébrant, jadis si paisibles, en un champ de bataille meurtri et ruineux. \n\n Antres : Gobelins, Trolls des Cavernes. \n Région : Rhovanion. \n"
+End
+
+/////
+
+Map:MAPMPnanharlond
+"Nan Harlond*"
+End
+
+Map:MAPMPnanharlond/Desc
+"Une zone luxuriante de Lossarnach, autrefois le site de tours de colonies númenóréennes. Depuis longtemps en ruine, elles servirent de lieux de rassemblement pour les forces de Forlong avant qu'elles ne marchent vers Minas Tirith. \nCapturable : Taverne\nCréatures : Warg\nRégion : Gondor"
 End
 
 ///////////////////////
@@ -87332,6 +87504,16 @@ End
 
 /////
 
+Map:MAPMPspringofloudwater
+"Source du Loudwater*"
+End
+
+Map:MAPMPspringofloudwater/Desc
+"Le Loudwater commence avec deux affluents qui coulent des pentes occidentales des Montagnes Brumeuses, l'un d'entre eux provenant de la Haute Passe où existait la Ville des Gobelins. \nCapturable : Taverne\nCréatures : Troll des Cavernes, Gobelin\nRégion : Montagnes Brumeuses"
+End
+
+/////
+
 
 Map:MAPMPspookyisen
 "Isen effrayante*"
@@ -87350,6 +87532,16 @@ End
 
 Map:MAPMPsteppesofsarakhax/Desc
 "Dans l'est lointain de Rhûn, le soleil levant baigne les interminables champs d'herbes ondulantes des 'Champs Dorés' d'une douce lumière matinale. Les vastes steppes sont habitées par des peuples robustes qui ont forgé une existence nomade parmi les plaines vallonnées. \n Capturable : Feu d'Alarme \n Région : Rhûn"
+End
+
+/////
+
+Map:MAPMPstonedeans
+"Collines de Pierre"
+End
+
+Map:MAPMPstonedeans/Desc
+"Une région parmi les contreforts des Montagnes Brumeuses, les Collines de Pierre sont constituées de pitons rocheux, de pierres brisées, de grands chênes et sapins, ainsi que de rivières tumultueuses. Une source de nombreux métaux travaillés par les Rohirrim, en particulier le fer extrait des basses montagnes qui entourent Nan Curunír. \nCapturable : Taverne\nCréatures : Troll, Warg\nRégion : Rohan"
 End
 
 /////
@@ -87482,6 +87674,16 @@ End
 
 Map:MAPMPtaurnavereth/Desc
 "La secluded 'Forêt des Festivités' renferme de nombreux petits clairières cachées où les elfes du Royaume Sylvestre se délectent de festins et de réjouissances, à moins d'être dérangés par des invités indésirables. \n Région : Rhovanion"
+End
+
+/////
+
+Map:MAPMPtaurorthon
+"Taur Orthon*"
+End
+
+Map:MAPMPtaurorthon/Desc
+"Ce sont des terres frontalières entre le nord venteux d'Eriador et les étendues glacées de Forodwaith. \nCapturable : Taverne\nCréatures : Wargs Blancs\nRégion : Forodwaith"
 End
 
 /////
@@ -87639,7 +87841,7 @@ Map:MAPMPultala
 End
 
 Map:MAPMPultala/Desc
-"Les collines vallonnées d'Ul-tâla, la 'Grande Steppe', se trouvent à l'est lointain de Rhûn. Ces prairies fleuries sont en grande partie inhabitées, à l'exception des avant-postes fortifiés qui protègent les routes commerciales stratégiques et les tribus nomades avoisinantes. \n Antres : Warg \n Région : Rhûn"
+"Les collines vallonnées d'Ul-tâla, la 'Grande Steppe', se trouvent à l'est lointain de Rhûn. Ces prairies fleuries sont en grande partie inhabitées, à l'exception des avant-postes fortifiés qui protègent les routes commerciales stratégiques et les tribus nomades avoisinantes. \n Capturables: Auberge \n Antres : Warg \n Région : Rhûn"
 End
 
 
