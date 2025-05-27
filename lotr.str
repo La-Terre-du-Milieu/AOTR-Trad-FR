@@ -8012,12 +8012,16 @@ CONTROLBAR:ToolTipToggleHaradrimLineToWedgeFormation
 "+25% de dégâts, -25% d'armure et -25% de décélération par écrasement"
 END
 
+CONTROLBAR:ToolTipToggleWargArcherHuntingFormation
+"+25% de dégâts, +25% distance, and -50% vitesse"
+END
+
 CONTROLBAR:ToolTipToggleHaradrimWedgeToLineFormation
 "Aucun bonus"
 END
 
 CONTROLBAR:ToolTipToggleEasterlingLineToPorcupineFormation
-"Les unités forment un Mur de Lances. Les unités perdent 40% de vitesse, deviennent résistantes aux repoussages, subissent une décélération par écrasement et gagnent +33% d'armure."
+"Les unités forment un Mur de Lances. Les unités perdent 33% de vitesse, deviennent résistantes aux repoussages, subissent une décélération par écrasement et gagnent +40% d'armure."
 END
 
 CONTROLBAR:ToolTipToggleEasterlingPorcupineToLineFormation
@@ -8050,6 +8054,10 @@ END
 
 CONTROLBAR:ToolTipToggleRArcherLineToSkirmishFormation
 "Requiert niveau 2 : +25% de dégâts, +15% de vitesse, -50% d'armure"
+END
+
+CONTROLBAR:ToolTipToggleRArcherLineToSkirmishFormation_BG
+"+25% dégâts, +15% vitesse, -50% armure"
 END
 
 CONTROLBAR:ToolTipToggleRestlessArcherLineToSkirmishFormation
@@ -9273,6 +9281,10 @@ OBJECT:GondorBanner
 "Porte-Etendard"
 END
 
+OBJECT:GondorHerald
+"Héraut gondorien"
+END
+
 // Dwarven Units
 
 OBJECT:DaleBanner
@@ -9285,6 +9297,10 @@ END
 
 OBJECT:DwarvenAxeThrower
 "Lanceur de haches d'Erebor"
+END
+
+OBJECT:EredLuinTrollSlayer
+"Utasu-id-darâh"
 END
 
 OBJECT:DwarvenBanner
@@ -9360,6 +9376,10 @@ END
 
 CONTROLBAR:ToolTipPickpockets
 "Requiert Niveau 2 \n Les ruffians pillent les ressources des ennemis tués\nCapacité passive"
+END
+
+CONTROLBAR:ToolTipPickpockets_Summoned
+"Les Racailles volent des ressources aux ennemis tués\nCapacité passive"
 END
 
 CONTROLBAR:LightEmUp
@@ -9456,6 +9476,10 @@ END
 
 OBJECT:IsengardLurtz
 "Lurtz"
+END
+
+OBJECT:IsengardMog
+"Móg"
 END
 
 OBJECT:IsengardPorter
@@ -9664,12 +9688,40 @@ OBJECT:DeadOrc
 "Orque mort"
 END
 
+OBJECT:DeadOrcs
+"Orques Morts"
+END
+
 OBJECT:DeadUruk
 "Uruk mort"
 END
 
+OBJECT:DeadHaradrim
+"Haradrim mort"
+END
+
 OBJECT:DeadSoldier
 "Soldat mort"
+END
+
+OBJECT:DeadElf
+"Elfe mort"
+END
+
+OBJECT:DeadDwarf
+"Nain mort"
+END
+
+OBJECT:DeadDwarves
+"Nains morts"
+END
+
+OBJECT:DeadRohirrim
+"Rohirrim mort"
+END
+
+OBJECT:DeadHorse
+"Cheval mort"
 END
 
 OBJECT:OrcMeatRack
@@ -9792,6 +9844,10 @@ OBJECT:VineBarricade
 "Barricade de Vigne"
 END
 
+OBJECT:Moss
+"Mousse"
+END
+
 OBJECT:Urn
 "Urne"
 END
@@ -9838,6 +9894,14 @@ END
 
 OBJECT:Spear
 "Lance"
+END
+
+OBJECT:Bow
+"Arc"
+END
+
+OBJECT:Axe
+"Hache"
 END
 
 OBJECT:Shield
@@ -10025,7 +10089,7 @@ END
 
 CONTROLBAR:ToolTipMallornRoots
 //"Requires Level 2 Mallorn Tree \n Nearby enemies are slowed"
-"Type de modificateur Débuff : les ennemis proches sont ralentis et subissent des dégâts mineurs sur la durée. Le Mallorn reçoit +33% d'armure"
+"Type de modificateur Débuff : les ennemis proches sont ralentis et subissent des dégâts mineurs sur la durée. Le Mallorn reçoit +25% d'armure"
 END
 
 OBJECT:Obsolete
@@ -10285,6 +10349,10 @@ END
 
 OBJECT:GondorFarm
 "Ferme"
+END
+
+OBJECT:GondorGranary
+"Grange"
 END
 
 OBJECT:GondorBlackSmith
@@ -11029,6 +11097,10 @@ OBJECT:Torch
 "Torche"
 END
 
+OBJECT:Candle
+"Chandelle"
+END
+
 OBJECT:Lamp
 "Lampe"
 END
@@ -11157,6 +11229,14 @@ OBJECT:MTDoor
 "Porte de Minas Tirith"
 END
 
+OBJECT:MTWoodenGate
+"Porte en bois"
+END
+
+OBJECT:PelargirBridgeGate
+"Pont-levis"
+END
+
 OBJECT:MTBridge
 "Pont de Minas Tirith"
 END
@@ -11223,6 +11303,10 @@ OBJECT:CampaignStrider
 "Rôdeur"
 END
 
+OBJECT:CampaignFellbeast
+"Ombre Ailée"
+END
+
 OBJECT:CampaignRingwraith
 "Spectre de l'Anneau"
 END
@@ -11244,7 +11328,7 @@ OBJECT:CampaignAthelas
 END
 
 OBJECT:BalinsAxe
-"Hache de Balin"
+"Hache de Durin"
 END
 
 OBJECT:FireWood
@@ -11279,6 +11363,10 @@ OBJECT:CampaignGrog
 "Grog"
 END
 
+OBJECT:CampaignFirebombCache
+"Cache de bombes incendiaires"
+END
+
 OBJECT:CampaignBooks
 "Livres"
 END
@@ -11288,7 +11376,7 @@ OBJECT:CampaignWaystone
 END
 
 OBJECT:CampaignMog
-"Mog"
+"Móg"
 END
 
 OBJECT:GarrisonableBush
@@ -11301,6 +11389,10 @@ END
 
 OBJECT:Shane
 "Shane"
+END
+
+OBJECT:CampaignRammasGate
+"Rammas Gate"
 END
 
 //////////CAMPAIGN MISSIONS/////////////
