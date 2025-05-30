@@ -15930,7 +15930,7 @@ CONTROLBAR:ConstructMenBarracksWotRRealTime
 END
 
 CONTROLBAR:ConstructDolAmrothBarracks
-"&Construire la caserne de Dol Amroth"
+"Construire la caserne de Dol Amroth (&V)"
 END
 
 CONTROLBAR:ToolTipConstructDolAmrothBarracks
@@ -44588,7 +44588,7 @@ CONTROLBAR:PurchaseUpgradeRohanHorseShield
 END
 
 CONTROLBAR:PurchaseUpgradeRohanHorseShieldSnowbourn
-"Acheter des Boucliers de Cavalerie (&C)"
+"Acheter des Boucliers de Cavalerie (&T)"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeRohanHorseShield
@@ -63159,7 +63159,7 @@ Version:Format2
 //"Age of the Ring Version 8.1"
 //"Age of the Ring Version 8.2"
 "Age of the Ring Version 8.3.1"
-"Age of the Ring Version 9.0"
+"Age of the Ring Version 9.0.2"
 END
 
 Version:Format3
@@ -70184,7 +70184,7 @@ CONTROLBAR:TooltipKhazadAllies
 END
 
 CONTROLBAR:ConstructDwarvenKhazadGuardHorde
-"Âzugh-Khazad-dûm [&T]"
+"Âzugh-Khazad-dûm [&S]"
 END
 
 CONTROLBAR:ToolTipBuildKhazadGuardHorde
@@ -89682,6 +89682,16 @@ End
 
 /////
 
+Map:MAPMPadventuremorgul
+"Aventure : Minas Morgul*"
+End
+
+Map:MAPMPadventuremorgul/Desc
+"Minas Morgul, la Cité des Morts, était autrefois la splendide Minas Ithil avant d’être capturée par le Seigneur des Nazgûl. Elle est désormais le repaire des Neuf, qui ont profané la Tour de la Lune par une sorcellerie indicible.\nCarte d’aventure solo\nJoueur humain : Mordor"
+End
+
+/////
+
 Map:MAPMPadventurerhun
 "Aventure: Rhûn*"
 End
@@ -89700,6 +89710,17 @@ End
 Map:MAPMPadventureshadowandflame/Desc
 "Khazad-dûm, l'ancien grand royaume nain, a été profané par les Orques qui ont désormais envahi les salles abandonnées. Pourtant, il existe des choses plus anciennes et plus répugnantes que les orques tapies dans les profondeurs du monde.\n Carte d'aventure en solo \n Joueur humain : Monts Brumeux"
 End
+
+/////
+
+Map:MAPMPadventurewhitehand
+"Aventure : La Main Blanche*"
+End
+
+Map:MAPMPadventurewhitehand/Desc
+"La Main Blanche de Saroumane marquait les serviteurs orques et les bêtes monstrueuses que le sorcier avait créés dans sa tentative de détruire le monde des Hommes.\nCarte d’aventure solo\nJoueur humain : Isengard"
+End
+
 
 
 /////
@@ -89732,15 +89753,6 @@ Map:MAPMPaldamori/Desc
 "Aldamóri est une terre isolée, cachée dans les forêts du nord de Rhun, où une tribu d'elfes Kinn-lai et d'hommes coexistent pacifiquement.\nCapturable : Taverne\nCréatures : Warg\nRégion : Rhûn"
 END
 
-/////
-
-Map:MAPMPaldamori
-"Aldamóri*"
-End
-
-Map:MAPMPaldamori/Desc
-"Aldamóri est une terre isolée, cachée dans les forêts du nord de Rhun, où une tribu d'elfes Kinn-lai et d'hommes coexistent pacifiquement.\nCapturable : Taverne\nCréatures : Warg\nRégion : Rhun"
-END
 
 /////
 
@@ -90189,6 +90201,17 @@ End
 
 /////
 
+Map:MAPMPbrandford
+"Brandford*"
+End
+
+Map:MAPMPbrandford/Desc
+"Autrefois un petit avant-poste frontalier près d’un gué du Celduin, Brandford est devenue une ville importante et une forteresse du Royaume de Dale, désormais grandement étendu.\nEnnemis : Wargs\nRégion : Rhovanion"
+End
+
+
+/////
+
 Map:MAPMPbree
 "Bree*"
 End
@@ -90614,6 +90637,17 @@ End
 
 /////
 
+Map:MAPMPegladil
+"Egladil*"
+End
+
+Map:MAPMPegladil/Desc
+"L’Egladil, ou l’Angle en commun, se trouvait nichée entre les cours des rivières Anduin et Celebrant. Terre magnifique protégée par Nenya, l’Egladil était la partie la plus peuplée du royaume des Galadhrim.\nCapturables : Feux de signalisation\nRégion : Rhovanion"
+End
+
+
+/////
+
 Map:MAPMPemynarnen
 "Emyn Arnen*"
 End
@@ -90671,6 +90705,17 @@ End
 Map:MAPMPerebor/Desc
 "Cette Forteresse naine située dans la Montagne Solitaire est le fier domaine du Roi Dáin II Pied d'Acier. \n\n Capturables : Feu d'alarme, Avant-Poste, Auberge. \n Antres : Wargs. \n Région : Erebor. \n"
 End
+
+/////////////
+
+Map:MAPMPereborhighlands
+"Hauteurs d’Erebor*"
+End
+
+Map:MAPMPereborhighlands/Desc
+"Les Hauteurs d’Erebor, autrefois connues sous le nom de Désolation de Smaug, ont été largement repeuplées depuis l’avènement de Dáin Pied-d’Acier. Riches en métaux et en minerais, elles sont redevenues le cœur du royaume du peuple de Durin.\nCapturables : Auberges\nEnnemis : Wargs\nRégion : Erebor"
+End
+
 
 ///////////////////////
 
@@ -91011,6 +91056,17 @@ End
 Map:MAPMPfortressdimrillgate/Desc
 "La Porte Est de la Moria est l'entrée originale de Khazad-dûm qui donne sur la vallée de Nanduhirion, où Durin a eu sa vision dans le Kheled-zâram. \n\n Capturables : Avant-Poste, Mines d'Argent, Pierre de Durin. \n Antres : Gobelins. \n Région : Monts Brumeux. \n"
 End
+
+/////
+
+Map:MAPMPbesiegedolamroth
+"Siège : Dol Amroth*"
+End
+
+Map:MAPMPbesiegedolamroth/Desc
+"Principale cité et port du fief de Belfalas, au sud du Gondor. Dol Amroth est située sur la côte de la baie de Belfalas, sur un haut promontoire surplombant l’anse appelée Cobas Haven.\nCapturables : Avant-poste, Auberge, Quai\nEnnemis : Revenants des tertres\nRégion : Gondor"
+End
+
 
 /////
 
@@ -91442,6 +91498,17 @@ Map:MAPMPhallofoak/Desc
 "Le lieu sacré de rassemblement des druides forestiers se trouve au coeur de la forêt, dans une clairière luxuriante et un autel entouré de chênes anciens. \n\n Capturables : Altar. \n Antres : Wargs, Araignées. \n Région : Rhovanion. \n"
 End
 
+///////////////
+
+Map:MAPMPhammerstead
+"Hammerstead*"
+End
+
+Map:MAPMPhammerstead/Desc
+"Autrefois animées par le fracas des pioches et les chants des Nains, ces cavernes sont désormais silencieuses, leurs tunnels serpentant comme des veines au cœur de la terre.\nCapturable : Auberge\nEnnemis : Wargs, Gobelins\nRégion : Erebor"
+End
+
+
 ///////////////////////
 
 Map:MAPMPharadcoast
@@ -91647,6 +91714,17 @@ END
 
 /////
 
+Map:MAPMPintaba
+"Intaba*"
+End
+
+Map:MAPMPintaba/Desc
+"Le paysage d’Intaba se distingue par d’impressionnantes formations rocheuses rouges qui surgissent de la terre.\nCapturable : Auberge\nEnnemis : Troll, Warg\nRégion : Haradwaith"
+End
+
+
+/////
+
 
 Map:MAPMPironfoothills
 "Collines des Monts du Fer*"
@@ -91807,6 +91885,17 @@ End
 Map:MAPMPkunin/Desc
 "Kûnin est l'ancien nom donné à cette vallée ensoleillée dans la mystérieuse langue de Rhûn. Le nom appartient maintenant à la forteresse qui occupe le sommet rocheux de la colline et les terres environnantes, gouvernée par son Khân féroce et guerrier. \n Capturable: Feu d'Alarme, Auberge \n Région: Rhûn"
 End
+
+/////
+
+Map:MAPMPlaeglind
+"Laeglind*"
+End
+
+Map:MAPMPlaeglind/Desc
+"Bras secondaire du grand Fleuve de la Forêt, la Laeglind traversait une région paisible et verdoyante du royaume de Thranduil.\nCapturables : Feu de signalisation, Auberge\nEnnemis : Araignées, Wargs\nRégion : Rhovanion"
+End
+
 
 /////
 
@@ -92255,6 +92344,37 @@ Map:MAPMPosgiliath/Desc
 "Cette ville gondorienne est la dernière ligne de défense entre le Mordor et Minas Tirith. La rivière Anduin traverse le centre de la ville. \n\n Capturables : Avant-Poste, Quai. \n Région : Gondor. \n"
 End
 
+/////
+
+Map:MAPMPostinmirybin
+"Ost-in-Mirybin*"
+End
+
+Map:MAPMPostinmirybin/Desc
+"L’immense domaine de l’ancienne famille Turmiru, dont la richesse et l’influence ont longtemps assuré à leurs fils aînés une place au conseil des Seigneurs de la Vigne et de la Vallée.\nEnnemis : Warg\nRégion : Rhovanion"
+End
+
+/////
+
+Map:MAPMPparthaduial
+"Parth Aduial*"
+End
+
+Map:MAPMPparthaduial/Desc
+"Parth Aduial est connu pour ses collines ondulantes, ses prairies et ses ruines dispersées, incarnant à la fois beauté et mélancolie.\nCapturable : Auberge\nEnnemis : Warg\nRégion : Lindon"
+End
+
+/////
+
+Map:MAPMPparthithil
+"Parth Ithil*"
+End
+
+Map:MAPMPparthithil/Desc
+"Parth Ithil est une clairière lunaire sylvestre à l’est de la Forêt Verte, appréciée pour sa tranquillité. On y trouve souvent des Elfes des Bois errant sous les étoiles.\nRégion : Rhovanion"
+End
+
+
 ///////////////////////
 
 Map:MAPMPpathsofthedead
@@ -92264,6 +92384,17 @@ End
 Map:MAPMPpathsofthedead/Desc
 "Un passage caverneux à travers les Montagnes Blanches allant de Dwimorberg au Nord à la vallée de Morthond au Sud. \n\n Région : Gondor. \n"
 End
+
+//////////
+
+Map:MAPMPpinnathgelin
+"Pinnath Gelin*"
+End
+
+Map:MAPMPpinnathgelin/Desc
+"Les Pinnath Gelin, ou Collines Vertes, étaient une région fertile et vallonnée dans l’ouest du Gondor, entre les Montagnes Blanches occidentales et Anfalas.\nCapturables : Auberge, Feu de signalisation\nEnnemis : Warg\nRégion : Gondor"
+End
+
 
 ///////////////////////
 
@@ -92543,6 +92674,17 @@ Map:MAPMPsnowbourn/Desc
 "Cette rivière du Rohan commence sous le Starkhorn dans les Montagnes Blanches et coule vers le Nord, avant de passer par Édoras pour rejoindre la rivière Entalluve. \n\n Capturables : Avant-Poste. \n Antres : Trolls des Cavernes, Gobelins. \n Région : Rohan. \n"
 End
 
+//////
+
+Map:MAPMPsnowdriftsofgundabad
+"Congères de Gundabad*"
+End
+
+Map:MAPMPsnowdriftsofgundabad/Desc
+"Cette forêt gelée au sud du mont Gundabad est redoutée par tous ceux qui traversent les Monts Brumeux du Nord.\nCapturables : Feu de signalisation, Auberge\nEnnemis : Troll des cavernes, Warg, Gobelin\nRégion : Monts Brumeux"
+End
+
+
 ///////////////////////
 
 Map:MAPMPsouthrhun
@@ -92654,6 +92796,15 @@ End
 Map:MAPMPsummerhall/Desc
 "Frumgar Frumgarsson, chef des Éothéod, a acquis à la fois gloire et richesse à travers les terres de Rhovanion. La gloire attend également le vainqueur de ce grand tournoi ! \n La Coupe de mi-été des Meilleurs de Frumgar 2022 \n Capturable : Auberge \n Antres : Troll des collines, Spectre de barrow \n Région : Rhovanion"
 End
+
+Map:MAPMPsutcrofts
+"Sutcrofts*"
+End
+
+Map:MAPMPsutcrofts/Desc
+"Sutcrofts est la partie la plus au sud-est de l’Estemnet, une vaste prairie vallonnée bordant la Grande Rivière et l’Entwash.\nCapturables : Auberge, Feu de signalisation\nEnnemis : Warg\nRégion : Rohan"
+End
+
 
 /////
 
@@ -92841,6 +92992,17 @@ End
 Map:MAPMPtolfalas/Desc
 "Une grande île dans la baie de Belfalas, au-delà de l'embouchure de l'Anduin. Son Cap Sud acéré était traditionnellement considéré comme marquant le point le plus méridional du Gondor. \n\n Capturables : Feu d'alarme, Quai. \n Antres : Trolls des Cavernes. \n Région : Gondor. \n"
 End
+
+////
+
+Map:MAPMPtolmorwen
+"Tol Morwen*"
+End
+
+Map:MAPMPtolmorwen/Desc
+"Tol Morwen était l’une des trois îles au large de la côte de Lindon. Elle était un vestige du submersion de Beleriand, et portait la pierre commémorative de Túrin Turambar, Nienor et Morwen.\nCapturables : Feu de signalisation, Auberge\nEnnemis : Warg, Troll de pierre\nRégion : Lindon"
+End
+
 
 /////
 
