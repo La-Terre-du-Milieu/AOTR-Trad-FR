@@ -1,5 +1,9 @@
 ////////////////ITHILIEN//////////////////
 
+CONTROLBAR:ToolTipRangerLureIthilienNew
+"Appelle les unités de rôdeurs cachées \n Clic gauche pour activer"
+End
+
 SCRIPT:Hint_Ithilien_Lure
 "Faramir et ses Rangers peuvent utiliser la capacité Leurre pour attirer des patrouilles orques."
 End
@@ -327,4 +331,8 @@ END
 
 DIALOGEVENT:mgfotr_ithilienofficer046
 "Le capitaine Faramir ordonnera à ses rangers les plus fiables de caler et de repousser l'ennemi. \n Nous devons détruire les équipes d'éclaireurs avant d'être découverts."
+END
+
+SCRIPT:FailsafeTimer
+"La mission se terminera dans :"
 END
