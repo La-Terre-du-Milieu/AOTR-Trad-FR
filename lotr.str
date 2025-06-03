@@ -28886,16 +28886,20 @@ TOOLTIP:LackIvoryTower
 "Confère le pouvoir de vision du Palantír et permet de recruter les Gardes de la Cour de la Fontaine. \n \n Augmente la portée de la vue de la Forteresse."
 END
 
+CONTROLBAR:ToolTipPurchaseUpgradeMenFortressIvoryTower
+"Confère le pouvoir Vision du Palantír et permet le recrutement des Gardes de la Fontaine\nAugmente la portée de vision de la Forteresse"
+END
+
 CONTROLBAR:ToolTipPurchaseUpgradeMenFortressIvoryTower_GC
-"Provides Palantir Vision Power and allows recruitment of Grey Company \n Increases Fortress vision range"
+"Confère le pouvoir Vision du Palantír et permet le recrutement de la Compagnie Grise\nAugmente la portée de vision de la Forteresse"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeMenFortressIvoryTowerFortressMap
-"Allows recruitment of Fountain Guard \n Increases Fortress vision range"
+"Permet le recrutement des Gardes de la Fontaine\nAugmente la portée de vision de la Forteresse"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeMenFortressIvoryTower_WOTR
-"Provides Palantir Vision Power \n Increases Fortress vision range"
+"Confère le pouvoir Vision du Palantír\nAugmente la portée de vision de la Forteresse"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeMenFortressIvoryTowerFortressMap_GC
@@ -34005,6 +34009,22 @@ CONTROLBAR:ToolTipBloodRapture
 "Tous les Orques et Uruk-hai d’Isengard sur le champ de bataille gagnent de façon permanente la Soif de Sang, leur conférant +25% de dégâts supplémentaires \nPendant 60 secondes, tous les Uruk-hai Guerriers, Piquiers, Porte-boucliers, Haches, ainsi que les Orques Guerriers et Piquiers d’Isengard entrent dans une frénésie extatique, siphonnant de la vie à chaque coup porté \n \n Cliquez pour activer"
 END
 
+OBJECT:IsengardSharkusBoysHorde
+"Les garçons de Sharcoux"
+END
+
+OBJECT:IsengardSharkusBoys
+"Les garçons de Sharcoux"
+END
+
+CONTROLBAR:SharkusBoysHorseEaters
+"Mangeurs de chevaux"
+END
+
+CONTROLBAR:ToolTipSharkusBoysHorseEaters
+"Type de modification : Affaiblissement\nLa cavalerie ennemie à proximité perd 33% d'armure et ralentit de 33%\nCapacité passive"
+END
+
 /////////////////////
 // Goblin Fortress //
 /////////////////////
@@ -34702,6 +34722,14 @@ END
 CONTROLBAR:ToolTipSendintheWargs
 "Requiert : Niveau 3 \n Invoque une vague de Wargs en charge pour écraser l'ennemi. \n\n Clic gauche sur l'icône puis clic gauche sur la cible."
 End
+
+CONTROLBAR:SharkuRaidersSummon
+"Rôdeurs orques (&R)"
+END
+
+CONTROLBAR:ToolTipSharkuRaidersSummon
+"Requiert : Niveau 3\nInvoque une horde des Garçons de Sharcoux\nLes Garçons de Sharcoux réduisent l’armure et ralentissent la cavalerie ennemie\nAu niveau 7, invoque une horde supplémentaire des Garçons de Sharcoux\nClique gauche pour activer"
+END
 
 CONTROLBAR:BloodHunt
 "Chasse Sanglante (&W)"
@@ -44162,7 +44190,7 @@ CONTROLBAR:SauronConflagaration
 END
 
 CONTROLBAR:ToolTipSauronConflagaration
-"Des flammes ardentes jaillissent du héros ennemi ciblé, qui s'embrase et meurt carbonisé (n'inflige que 50% des dégâts totaux à Gandalf, Elessar, Saroumane, le Roi-Sorcier, Bolg, Galadriel, Elrond, Thranduil, Thorin, le Nécromancien, le Roi Doré)."
+"Des flammes ardentes jaillissent du héros ennemi ciblé, qui s'embrase et meurt carbonisé (n'inflige que 50% des dégâts totaux à Gandalf, Elessar, Saroumane, le Roi-Sorcier, Bolg, Galadriel, Elrond, Thranduil, Thorin, le Nécromancien, le Roi Doré, Durin l'Immortel)."
 END
 
 CONTROLBAR:SauronDominate
@@ -60109,6 +60137,18 @@ CONTROLBAR:ToolTipSharkuManEater
 "Requiert le niveau 5 \n Tuez une unité d'infanterie ennemie ciblée pour restaurer 30% de la santé de Sharku et accorder\n+25% de dégâts et d'armure pendant 20 secondes\n Clic gauche sur l'icône puis clic gauche sur l'unité d'infanterie ennemie ciblée"
 END
 
+CONTROLBAR:ToolTipSharkuManEaterWH
+"Requiert le niveau 5\nTue une unité d’infanterie ennemie ciblée pour restaurer 30% de la santé de Sharcoux et conférer\n+25 % de dégâts et d’armure pendant 20 secondes\nSharcoux ne peut pas se mettre pied à terre pendant la durée de cet effet\nClique gauche sur l’icône puis clique gauche sur une unité d’infanterie ennemie ciblée"
+END
+
+CONTROLBAR:SharkuDirtyTricks
+"Coups tordus (&C)"
+END
+
+CONTROLBAR:ToolTipSharkuDirtyTricks
+"Requiert le niveau 5\nRenverse les unités à proximité\nÉtourdît les héros ciblés pendant 5 secondes\nLe héros ennemi ciblé perd 25 % d’armure pendant 30 secondes\nSharcoux inflige +25 % de dégâts au héros ciblé pendant la durée, s’il est à pied\nClique gauche sur l’icône puis clique gauche sur la cible"
+END
+
 CONTROLBAR:ToolTipSpeechCraft
 //"Requires Level 5 \n Give targeted units experience \n Left click icon then left click on target units"
 //"Requires Level 5 \n Give targeted units superior experience \n Left click icon then left click on target units"
@@ -63159,7 +63199,7 @@ Version:Format2
 //"Age of the Ring Version 8.1"
 //"Age of the Ring Version 8.2"
 //"Age of the Ring Version 8.3.1"
-"Age of the Ring Version 9.0.2"
+"Age of the Ring Version 9.0.3"
 END
 
 Version:Format3
@@ -63801,7 +63841,7 @@ CONTROLBAR:BolgTerrorOfNorth
 "Terreur du Nord [&V]"
 END
 CONTROLBAR:ToolTipBolgTerrorOfNorth
-"Requiert : Niveau 10 \n Bolg invoque une petite armée d'Orques des Montagnes, de Chevaucheurs de Wargs de Gundabad et de Chauves-souris géantes. \n\n Clic gauche sur l'icône puis clic gauche sur la zone cible."
+"Requiert : Niveau 10 \n Bolg invoque une petite armée d'Orques des Montagnes, de Chevaucheurs de Wargs de Gundabad et une Chauves-souris géante. \n\n Clic gauche sur l'icône puis clic gauche sur la zone cible."
 END
 OBJECT:BolgBodyGuard
 "Garde rapproché de Bolg"
@@ -84396,8 +84436,12 @@ CONTROLBAR:ToolTipUrukAxeBrawl_WhiteHand
 "Ordonnez à cette unité de tuer des Orcs Isengard alliés\npour gagner de l’expérience au combat\nCliquez gauche puis cliquez gauche sur la cible"
 END
 
+CONTROLBAR:BloodHuntWhiteHand
+"Chasse sanglante (&W)"
+END
+
 CONTROLBAR:ToolTipGBloodHuntWhiteHand
-"Type de modificateur : Commandement\nLes Wargs alliés et leurs cavaliers près de Sharku gagnent +33?% de dégâts, +33?% d’armure et gagnent de l’expérience 50?% plus vite\nCapacité passive"
+"Clique gauche pour monter\nType de modificateur : Commandement\nLes Wargs alliés et leurs cavaliers près de Sharku gagnent +33?% de dégâts, +33?% d’armure et gagnent de l’expérience 50?% plus vite\nCapacité passive"
 END
 
 CONTROLBAR:SpecialAbilityIsengardTrollCarnage
@@ -84429,7 +84473,7 @@ CONTROLBAR:GrishnakhConnivingSchemer
 END
 
 CONTROLBAR:ToolTipGrishnakhConnivingSchemer
-"Requiert niveau 4\nGrishnákh devient furtif et se déplace 15?% plus vite pendant 20 secondes\nAttaquer des unités ennemies annule la furtivité\nAu niveau 5, entrer en furtivité inflige des dégâts et repousse les unités ennemies proches\n\nCliquez gauche sur l’icône pour activer"
+"Requiert niveau 4\nGrishnákh devient furtif et se déplace 15?% plus vite pendant 20 secondes\nAttaquer des unités ennemies annule la furtivité\nAu niveau 7, entrer en furtivité inflige des dégâts et repousse les unités ennemies proches\n\nCliquez gauche sur l’icône pour activer"
 END
 
 CONTROLBAR:GrishnakhSneakyGit
@@ -86337,7 +86381,7 @@ CONTROLBAR:ToolTipDurinsBane
 "Détruit un héros nain ennemi ciblé\nCliquez gauche puis cliquez gauche sur le héros ciblé"
 END
 CONTROLBAR:ToolTipDurinsBaneRing
-"Le Fléau de Durin est enflammé en permanence et les unités ennemies à proximité subissent des dégâts de feu\nCapacité passive\nLorsqu'elle est activée, détruit un héros ennemi ciblé\nCliquez gauche puis cliquez gauche sur le héros ciblé"
+"Le Fléau de Durin est enflammé en permanence et les unités ennemies à proximité subissent des dégâts de feu\nCapacité passive\nLorsqu’elle est activée, détruit le héros ennemi ciblé\n(n’inflige que 50 % des dégâts totaux à Gandalf, Elessar, Saroumane, Roi-Sorcier, Bolg, Galadriel, Elrond, Glorfindel, Thranduil, Théoden, Nécromancien, Roi Doré)\nClique gauche puis clique gauche sur le héros ciblé"
 END
 CONTROLBAR:SpecialAbilityDurinsBaneIgnite
 "Enflamme&r"
