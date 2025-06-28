@@ -2697,17 +2697,17 @@ END
 
 APT:EasyDifficulty
 // context: Difficulty Popup
-"FACILE"
+"Juste l'histoire"
 END
 
 APT:MediumDifficulty
 // context: Medium difficulty setting
-"MOYENNE"
+"Un bon défi"
 END
 
 APT:HardDifficulty
 // context: Difficulty Popup
-"DIFFICILE"
+"Une épreuve difficile"
 END
 
 APT:DifficultyTitle
@@ -10080,7 +10080,7 @@ CONTROLBAR:NimrodelWaters
 END
 
 CONTROLBAR:ToolTipNimrodelWaters
-"Le Mallorn est baigné des eaux de la Nimrodel, un affluent de la rivière Celebrant qui naît dans les Monts Brumeux et traverse la Lothlórien. \n Les alliés proches du Mallorn sont soignés."
+"Le Mallorn est baigné dans des eaux bénies. Les unités proches sont soignées et les unités tombées sont régénérées en sa présence"
 END
 
 CONTROLBAR:MallornRoots
@@ -16111,7 +16111,7 @@ CONTROLBAR:ConstructMonumenttoElendil
 "Construire un monument à Elendil (&U)"
 END
 CONTROLBAR:MonumenttoElendilBuildTooltip
-"Fournit un bonus de leadership aux unités à proximité\nSoigne les alliés à proximité\nDétecte l'infiltration\n\nLe Haut Roi de Gondor et d'Arnor était toujours rappelé dans le Royaume du Sud, même à l'époque de son déclin."
+"Confère un bonus de commandement aux unités proches\nSoigne les alliés à proximité et régénère les unités tombées\nDétecte les unités furtives\n\nLe Haut Roi du Gondor et d’Arnor fut toujours honoré dans le royaume du Sud, même durant ses jours de déclin."
 END
 OBJECT:MonumenttoElendil
 "Monument à Elendil"
@@ -19240,7 +19240,7 @@ CONTROLBAR:ToggleDefaultFormation
 END
 
 CONTROLBAR:ToolTipToggleSnowbourneLineFormation
-"+75% d’armure, -25% de dégâts et -40% de vitesse"
+"+60% d’armure, -25% de dégâts et -40% de vitesse"
 END
 
 CONTROLBAR:ToolTipToggleSnowbourneDefualtFormation
@@ -19472,7 +19472,7 @@ CONTROLBAR:WizardBlast
 END
 
 CONTROLBAR:ToolTipWizardBlast
-"A pied : Attaque à courte portée qui repousse les ennemis. \n Clic gauche sur l'icône puis clic gauche sur la cible. \n\n En monture : Le héros ciblé est immobilisé pendant 10 secondes et subit des dégâts. \n Clic gauche sur l'icône puis clic gauche sur la cible. \n\n Type d'Action : Charisme. \n Les alliés proches de Gandalf deviennt immunisés contre la magie et aux dégâts élémentaires, gagnent de l'expérience 100% plus rapidement et deviennent immunisés face à la peur et à la terreur (bonus cumulable). \n\n Capacité passive. \n\n Bouclier Mystique : Gandalf gagne occasionnellement +300% armure et une résistance au renversement s'il est attaqué. \n\n Capacité passive mais peut être activée manuellement par le raccourci (U)."
+"A pied : Attaque à courte portée qui repousse les ennemis. \n Clic gauche sur l'icône puis clic gauche sur la cible. \n\n En monture : Le héros ciblé est immobilisé pendant 10 secondes et subit des dégâts. \n Clic gauche sur l'icône puis clic gauche sur la cible. \n\n Type d'Action : Charisme. \n Les alliés proches de Gandalf deviennt immunisés contre la magie et aux dégâts élémentaires, gagnent de l'expérience 100% plus rapidement et deviennent immunisés face à la peur et à la terreur (bonus cumulable). \n\n Capacité passive. \n\n Bouclier Mystique : Gandalf gagne occasionnellement +300% armure et une résistance au renversement s'il est attaqué. \nLa bulle dure 10 secondes et ne peut pas être réactivée avant 75 secondes \n\n Capacité passive mais peut être activée manuellement par le raccourci (U)."
 END
 
 CONTROLBAR:ToolTipWizardBlastCampaign
@@ -21177,8 +21177,7 @@ GUI:WATER_DISCOUNT
 END
 
 GUI:IrrigationBonus
-
-"Irrigation\nBonus +20%"
+"Irrigation\nBonus +10%"
 END
 
 GUI:UPGRADE_DISCOUNT
@@ -25861,7 +25860,7 @@ OBJECT:RohanArmoryDescription
 END
 
 OBJECT:RohanWellDescription
-"Soigne les alliés à proximité\nDétecte l'infiltration\nAugmente le gain de ressources des fermes et des moulins à vent à proximité de 20 %\nNe s'accumule pas avec Récolte Abondante"
+"Soigne les alliés à proximité et régénère les unités tombées\nDétecte les unités furtives\nAugmente de 10 % la production des fermes et moulins à vent à proximité"
 END
 
 OBJECT:GondorWellDescription
@@ -28875,7 +28874,7 @@ CONTROLBAR:PurchaseUpgradeMenFortressHouseOfHealing
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeMenFortressHouseOfHealing
-"Réduit le coût de réapparition du héros de 20%.\n Réduit le temps de réapparition du héros de 20%.\n Soigne les alliés proches."
+"Réduit le coût de réapparition du héros de 20%.\n Réduit le temps de réapparition du héros de 20%.\n Soigne les alliés proches et régénère les unités tombées."
 END
 
 CONTROLBAR:PurchaseUpgradeMenFortressIvoryTower
@@ -29286,7 +29285,7 @@ CONTROLBAR:PurchaseUpgradeDwarvenFortressSiegeKegs
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeDwarvenFortressSiegeKegs
-"Soigne les alliés proches de la Forteresse. \n Ajoute 1000 points de vie à la Forteresse."
+"Soigne les alliés et régénère les unités tombées proches de la Forteresse. \n Ajoute 1000 points de vie à la Forteresse."
 END
 
 CONTROLBAR:PurchaseUpgradeDwarvenFortressMightyCatapult
@@ -54334,6 +54333,10 @@ OBJECT:SnowTrollLairDescription
 "Permet de recruter les Trolls des neiges"
 END
 
+OBJECT:StoneTrollLairDescription
+"Permet de recruter les Trolls de pierre"
+END
+
 OBJECT:HillTrollLairDescription
 "Permet de recruter les Trolls des collines"
 END
@@ -54844,7 +54847,7 @@ CONTROLBAR:TooltipUpgradeMordorHaradrimPalaceLevel2
 End
 
 CONTROLBAR:FellBeastMountTooltip
-"Plus les Nazgûls se rassemblent, plus leur puissance augmente \n +10% de dégâts et +10% d'armure par chaque Nazgûl à proximité \n Capacité passive\n\nRequiert le niveau 2 \n Type de modification : Débuff passif \n Les unités ennemies à proximité subissent -25% de dégâts et -20% d'armure\nCapacité passive\n\nCliquez gauche puis cliquez gauche sur un emplacement accessible."
+"Plus les Nazgûls se rassemblent, plus leur puissance augmente \n +10% de dégâts et +10% d'armure par chaque Nazgûl à proximité \n Capacité passive\n\n Type de modification : Débuff passif \n Les unités ennemies à proximité subissent -25% de dégâts et -20% d'armure\nCapacité passive\n\nCliquez gauche puis cliquez gauche sur un emplacement accessible."
 END
 
 
@@ -58957,7 +58960,7 @@ CONTROLBAR:ToolTipToggleErynGalenAmbushFormation
 END
 
 CONTROLBAR:ToolTipToggleTowerGuardLineToSpearWallFormation
-"Les unités forment un Mur de Lances\nLes unités perdent 33% de vitesse, gagnent une résistance aux projections, au ralentissement par écrasement, et +40% d’armure"
+"Les unités forment un Mur de Lances\nLes unités perdent 40% d'armure, gagnent une résistance aux projections et au ralentissement par écrasement, mais perd +33% de vitesse de déplacement"
 END
 
 CONTROLBAR:ToolTipToggleFountainGuardLineToSpearWallFormation
@@ -59259,11 +59262,11 @@ CONTROLBAR:ToolTipConstructMenStableWotRRealTime
 END
 
 CONTROLBAR:ToolTipConstructRohanStable
-"Entraîne la cavalerie de Rohan\nGénère une petite quantité de ressources en fonction du terrain disponible\nAugmente l'armure des unités de cavalerie"
+"Entraîne la cavalerie de Rohan\nGénère une petite quantité de ressources en fonction du terrain disponible"
 END
 
 CONTROLBAR:ToolTipConstructRohanStableWotR
-"Caserne secondaire\nEntraîne les cavaliers du Rohan\nAugmente l'armure des unités de cavalerie\nLimité à 1"
+"Caserne secondaire\nEntraîne les cavaliers du Rohan\nLimité à 1"
 END
 
 CONTROLBAR:ToolTipBuildGondorStableLevel2Upgrade
@@ -59356,7 +59359,7 @@ CONTROLBAR:ToolTipDainKingsFavor
 "Requiert : Niveau 6 \n Octroie beaucoup d'expérience aux unités ciblées \n Clic gauche pour activer puis clic gauche sur les unités ciblées"
 END
 CONTROLBAR:ToolTipGloriousCharge
-"Requiert : Niveau 5 \n Théoden doit être à cheval pour utiliser cette capacité. \n Type d'Action : Sort. \n Théoden et la cavalerie proche gagnent +100% d'armure pendant 20 secondes. \n Plus il y a de cavaliers près de Théoden, plus le bonus est important (+10% d'armure par bataillon), maximum de +100%. \n Aucune force ne peut ralentir cette charge. \n\n \n\nAu niveau 10, les unités affectées sont immunisées contre la peur et la terreur \n Clic gauche pour l'activer."
+"Requiert : Niveau 5 \n Théoden doit être à cheval pour utiliser cette capacité. \n Type d'Action : Sort. \n Théoden et la cavalerie proche gagnent +100% d'armure et immunisés contre la peur et la terreur pendant 20 secondes. \n Plus il y a de cavaliers près de Théoden, plus le bonus est important (+10% d'armure par bataillon), maximum de +100%. \n Aucune force ne peut ralentir cette charge. \n\n \n\nAu niveau 10, les unités affectées sont immunisées contre la peur et la terreur \n Clic gauche pour l'activer."
 END
 
 CONTROLBAR:ToolTipFaramirLeadership
@@ -59587,7 +59590,7 @@ CONTROLBAR:ToolTipPurchaseUpgradeElvenFortressBlessedMist
 "Les alliés proches sont camouflés. \n Type d'Action : Pénalité passive. \n Les ennemis proches subissent -25% de dégâts et -20% d'armure (Pénalité non cumulable)."
 END
 CONTROLBAR:ToolTipPurchaseUpgradeElvenFortressMysticFountains
-"Soigne les troupes proches. \n Les héros ressuscitent 25% plus vite dans cette Forteresse."
+"Soigne les troupes proches et régénère les unités tombées. \n Les héros ressuscitent 25% plus vite dans cette Forteresse."
 END
 TOOLTIP:LackEagleNest
 "Requiert : le Nid d'aigle"
@@ -60099,12 +60102,12 @@ CONTROLBAR:ToolTipSpecialAbilityLurtzCarnage
 //"Requires Level 3 \n Lurtz gains +100% damage and +50% armour \n Can only use with sword equipped \n Left click to activate"
 //"Requires Level 3 \n Lurtz gains +300% damage and +25% armour\nCan only use with sword equipped \n Left click to activate"
 //"Requires Level 2 \n Lurtz gains +300% damage and +25% armour\nCan only use with sword equipped \n Left click to activate"
-"Requires Level 3 \n Lurtz gains +75% damage, +25% armour and deals splash damage for 20 seconds\nCan only use with sword equipped \n With each level gained, damage is increased by 25% up to a maximum of +200% at level 8 \n Left click to activate"
+"Requires Level 3 \n Lurtz gains +50% damage, +25% armour and deals splash damage for 20 seconds\nCan only use with sword equipped \n With each level gained, damage is increased by 25% up to a maximum of +150% at level 7 \n Left click to activate"
 END
 CONTROLBAR:ToolTipSpecialAbilityLurtzCripple
 //"Pins enemy Hero in place \n Can only use with bow equipped \n Left click icon then left click on target"
 //"Requires Level 2 \n Pins enemy Hero in place \n Can only use with bow equipped \n Left click icon then left click on target"
-"Requiert : Niveau 5 \n Lurtz décoche une flèche puissante sur un héros ennemi et l'immobilise pendant 10 secondes. \n Au niveau 8, instaure la peur face aux unités ennemies. \n Utilisable seulement avec l'arc. \n\n Clic gauche sur l'icône puis clic gauche sur la cible."
+"Requiert : Niveau 5 \n Lurtz décoche une flèche puissante sur un héros ennemi et l'immobilise pendant 15 secondes. \n Au niveau 8, instaure la peur face aux unités ennemies. \n Utilisable seulement avec l'arc. \n\n Clic gauche sur l'icône puis clic gauche sur la cible."
 END
 CONTROLBAR:LurtzLeadership
 "Leade&r de la chasse"
@@ -60114,7 +60117,7 @@ CONTROLBAR:ToolTipLurtzLeadership
 //"Requires Level 5 \n Allies near Lurtz gain \n +33% damage, +33% armour, \n and earn experience twice as fast \nPassive ability"
 //"Requires Level 5 \n Allies near Lurtz gain \n +33% damage, +33% armour, \n and earn experience 50% faster\nPassive ability"
 //"Requires Level 5 \n Modifier Type: Leadership \n Uruk-hai near Lurtz gain +33% damage and +33% armour \n Stacks with Buffs and Spells \n Passive ability"
-"Type d'Action : Charisme. \n Les Uruk-hai proches de Lurtz gagnent +33% de dégâts et +33% d'armure (bonus cumulable). \n Au niveau 4, les Uruk-hai proches gagnent également +33 % de dégâts\nCapacité passive. \n\n Peut être lancé sur les héros ennemis pour suivre leurs mouvements pendant 60 secondes."
+"Type d'Action : Charisme. \n Les Uruk-hai proches de Lurtz gagnent +15% de dégâts et d'armure (bonus cumulable). \n Au niveau 4, les Uruk-hai proches gagnent également +33 % de dégâts et d'armure\nCapacité passive."
 END
 CONTROLBAR:ToolTipLurtzPillage
 //"Requires Level 6 \n Loot enemy kills for resources \n Passive ability"
@@ -62804,7 +62807,7 @@ END
 CONTROLBAR:ToolTipBuildMordorOrcArcherHorde
 //"Strong at Range"
 //"Strong vs. Infantry \n Horde Bonus \n All Orc Warriors, Orc Archers and Black Uruks gain +50% damage when gathered in numbers of 150 or more \n \n Largely unskilled and ill-equipped, Mordor's archers are a prime example of strength in numbers."
-"Fort contre l'infanterie \n\n Bonus Horde \n Type de modificateur : Sort \n Les guerriers orcs, les piquiers orcs et les archers orcs gagnent +50 % de dégâts lorsqu'ils sont rassemblés en nombre de 150 ou plus\n\n Largement non qualifiés et mal équipés , les archers du Mordor sont un excellent exemple de la force du nombre."
+"Fort contre l'infanterie \n\n Bonus Horde \n Type de modificateur : Sort \n Les guerriers orcs, les piquiers orcs et les archers orcs gagnent +25 % de dégâts et d'armure lorsqu'ils sont rassemblés en nombre de 150 ou plus\n\n Largement non qualifiés et mal équipés , les archers du Mordor sont un excellent exemple de la force du nombre."
 END
 
 CONTROLBAR:ToolTipBuildIsengardOrcArcherHorde
@@ -63059,7 +63062,7 @@ CONTROLBAR:BrandLeadership
 END
 
 CONTROLBAR:ToolTipBrandLeadership
-"Type d'action : commandement\nLa marque royale gagne +33 % d'armure lorsqu'elle est proche du roi Dáin\nAu niveau 3, les alliés humains à proximité gagnent +33% de dégâts et +33 % d'armure\n Capacité passive \n\n Au niveau 8, la marque peut invoquer un bataillon de Barding Outriders \n Clic gauche pour activer"
+"Type d'action : commandement\nLa marque royale gagne +33 % d'armure lorsqu'elle est proche du roi Dáin\n Les alliées Mannish proche gagne +15% de dégâts et d'armure\nAu niveau 4, les alliés humains à proximité gagnent +25% de dégâts et +33 % d'armure\n Capacité passive \n\n Au niveau 8, la marque peut invoquer un bataillon de Barding Outriders \n Clic gauche pour activer"
 END
 
 CONTROLBAR:ToolTipBrandTrainArchers
@@ -63199,7 +63202,7 @@ Version:Format2
 //"Age of the Ring Version 8.1"
 //"Age of the Ring Version 8.2"
 //"Age of the Ring Version 8.3.1"
-"Age of the Ring Version 9.0.3"
+"Age of the Ring Version 9.1"
 END
 
 Version:Format3
@@ -63223,7 +63226,7 @@ CONTROLBAR:WarCry
 END
 
 CONTROLBAR:ToolTipWarCry
-"Niveau 5 requis\n Type de modificateur : Sort \n Les unités amies ciblées gagnent\n+33 % de dégâts, +20 % de vitesse et une résistance à la peur et à la terreur pendant 30 secondes\nClic gauche sur l'icône puis clic gauche sur les unités ciblées"
+"Niveau 5 requis\n Type de modificateur : Sort \n Les unités amies ciblées gagnent +33 % de dégâts, +20 % de vitesse et une résistance à la peur et à la terreur pendant 30 secondes\nClic gauche sur l'icône puis clic gauche sur les unités ciblées"
 END
 
 CONTROLBAR:AnarionForGondor_LAS
@@ -63928,7 +63931,7 @@ CONTROLBAR:MuzgashDiscipline
 END
 
 CONTROLBAR:ToolTipMuzgashDiscipline
-"Requiert : Niveau 6 \n Mûzgash fouette ses sous-fifres en bonne et due forme, leur donnant +25% de vitesse de mouvement pour un temps limité. \n\n Clic gauche sur l'icone puis clic gauche sur la cible."
+"Requiert : Niveau 6 \n Mûzgash fouette ses sous-fifres en bonne et due forme, leur donnant +25% de vitesse de mouvement pour un temps limité. \n\n Clic gauche pour l'activer."
 End
 
 CONTROLBAR:MuzgashSupremacy
@@ -64801,7 +64804,7 @@ CONTROLBAR:TooltipChiefoftheNine
 End
 
 CONTROLBAR:TooltipNazgulMount
-"Plus les Nazgûl se rassemblent, plus leur force grandit\n+10% de dégâts et +10% d'armure par Nazgûl à proximité\nCapacité passive\n\nRequiert le niveau 2\nType de modificateur : Débuff passif\nLes unités ennemies à proximité subissent -25% de dégâts et -20% d'armure\nCapacité passive\n\nClic gauche pour passer du mode monté au mode à pied"
+"Plus les Nazgûl se rassemblent, plus leur force grandit\n+10% de dégâts et +10% d'armure par Nazgûl à proximité\nCapacité passive\n\nType de modificateur : Débuff passif\nLes unités ennemies à proximité subissent -25% de dégâts et -20% d'armure\nCapacité passive\n\nClic gauche pour passer du mode monté au mode à pied"
 END
 
 CONTROLBAR:TooltipChiefoftheNineFellbeast
@@ -65259,11 +65262,11 @@ CONTROLBAR:HaldirLeadership
 END
 
 CONTROLBAR:ToolTipHaldirLeadership
-"Type de modification : Leadership \n Les alliés à proximité obtiennent +25% de dégâts \n Au niveau 3, les alliés proches gagnent +20% d'armure\n Capacité passive \n\n Type de modification : Niveau 5 \n Haldir revêt son armure lourde et obtient une augmentation de 25% de l'armure\n Capacité passive \n\n Requiert : Niveau 7\n Type de modification : Sort \n Les unités à proximité obtiennent +50% de dégâts et +15% de vitesse pendant 30 secondes \nCliquez gauche pour activer"
+"Type de modification : Leadership \n Les alliés à proximité obtiennent +15% de dégâts \n Au niveau 4, les alliés proches gagnent +25% de dégâts et d'armure\n Capacité passive \n\n Type de modification : Niveau 5 \n Haldir revêt son armure lourde et obtient une augmentation de 25% de l'armure\n Capacité passive \n\n Requiert : Niveau 7\n Type de modification : Sort \n Les unités à proximité obtiennent +33% de dégâts et +15% de vitesse pendant 30 secondes \nCliquez gauche pour activer"
 END
 
 CONTROLBAR:ToolTipHaldirLeadershipGifts
-"Type de modificateur : Commandement \n Les alliés proches gagnent +25?% de dégâts\nAu niveau 3, les alliés proches gagnent +25?% d’armure\nCapacité passive \n\n Type de modificateur : Niveau \n Au niveau 5, Haldir revêt son armure lourde et gagne +25?% d’armure\n Capacité passive \n\n Nécessite le niveau 7\nType de modificateur : Sort \n Les unités proches gagnent +50?% de dégâts, +15?% de vitesse et une résistance au recul et au piétinement pendant 30 secondes \nClic gauche pour activer"
+"Type de modificateur : Commandement \n Les alliés proches gagnent +15?% de dégâts\nAu niveau 4, les alliés proches gagnent +25% de dégâts et d’armure\nCapacité passive \n\n Type de modificateur : Niveau \n Au niveau 5, Haldir revêt son armure lourde et gagne +25?% d’armure\n Capacité passive \n\n Nécessite le niveau 7\nType de modificateur : Sort \n Les unités proches gagnent +33% de dégâts, +15% de vitesse et une résistance au recul et au piétinement pendant 30 secondes \nClic gauche pour activer"
 END
 
 CONTROLBAR:HaldirLeadershipCampaign
@@ -65390,7 +65393,7 @@ CONTROLBAR:GaladrielLeadership
 END
 
 CONTROLBAR:ToolTipGaladrielLeadership
-"Requiert le niveau 3 \n Type de modification : Leadership \n Tous les héros alliés à proximité gagnent +50% d'expérience et leurs temps de recharge sont réduits de 20%\n Capacité passive\n\n Type de modification : Affaiblissement passif \n Les héros ennemis et les unités héroïques à proximité subissent -15% de dégâts\n Capacité passive"
+"Requiert le niveau 3 \n Type de modification : Leadership \n Tous les héros alliés à proximité gagnent +33% d'expérience et leurs temps de recharge sont réduits de 20%\n Capacité passive\n\n Type de modification : Affaiblissement passif \n Les héros ennemis et les unités héroïques à proximité subissent -15% de dégâts\n Capacité passive"
 END
 
 CONTROLBAR:SpecialPowerGaladrielNenya
@@ -65446,11 +65449,11 @@ CONTROLBAR:CelebornLeadership
 END
 
 CONTROLBAR:ToolTipCelebornLeadership
-"Type de modification : Leadership \n Toutes les unités amies à proximité gagnent +10% de vitesse, +50% d'expérience et une résistance à la peur\n Celeborn provoque également la peur chez les ennemis à proximité \n Capacité passive \n\n Requiert le niveau 3\n Celeborn est accompagné de trois Sentinelles de l'Arbre d'Argent armées d'épées \n Capacité passive \n\n Requiert le niveau 7 \n Celeborn invoque trois Sentinelles de l'Arbre d'Argent armées d'épées pour protéger un héros allié pendant 45 secondes \n Cliquez sur l'icône, puis cliquez gauche sur le héros cible"
+"Type de modification : Leadership \n Toutes les unités amies à proximité gagnent +10% de vitesse, +50% d'expérience et une résistance à la peur\n Celeborn provoque également la peur chez les ennemis à proximité \n Capacité passive"
 END
 
 CONTROLBAR:ToolTipCelebornLeadershipGifts
-"Type de modification : Leadership \n Toutes les unités amies à proximité gagnent +10% de vitesse, +50% d'expérience et une résistance à la peur\n Les unités alliées à proximité gagnent également +33% d'armure\n Celeborn provoque également la peur chez les ennemis à proximité \n Capacité passive \n\n Requiert le niveau 3\n Celeborn est accompagné de trois Sentinelles de l'Arbre d'Argent armées d'épées \n Capacité passive \n\n Requiert le niveau 7 \n Celeborn invoque trois Sentinelles de l'Arbre d'Argent armées d'épées pour protéger un héros allié pendant 45 secondes \n Cliquez sur l'icône, puis cliquez gauche sur le héros cible"
+"Type de modification : Leadership \n Toutes les unités amies à proximité gagnent +33% d'armure, +10% de vitesse, +50% d'expérience et une résistance à la peur\n Les unités alliées à proximité gagnent également +33% d'armure\n Celeborn provoque également la peur chez les ennemis à proximité \n Capacité passive"
 END
 
 CONTROLBAR:CelebornAthelas
@@ -65673,11 +65676,11 @@ END
 END
 
 CONTROLBAR:TooltipMordorAllies
-"Invoque une horde de Guerriers Orcs, une horde de Lanciers Orcs, deux hordes d’Archers Orcs équipés de flèches enflammées ainsi que Grishnákh pour combattre à vos côtés \n Clic gauche sur l'icône puis clic gauche sur un emplacement accessible"
+"Invoque deux hordes de Guerriers Orcs, une horde de Lanciers Orcs, une horde d’Archers Orcs équipés de flèches enflammées ainsi que Grishnákh pour combattre à vos côtés \n Clic gauche sur l'icône puis clic gauche sur un emplacement accessible"
 END
 
 CONTROLBAR:TooltipSummonMordorAllies
-"Invoque une horde de Guerriers Orcs, une horde de Lanciers Orcs, deux hordes d’Archers Orcs équipés de flèches enflammées ainsi que Grishnákh pour combattre à vos côtés \n Clic gauche sur l'icône puis clic gauche sur un emplacement accessible"
+"Invoque deux hordes de Guerriers Orcs, une horde de Lanciers Orcs, une horde d’Archers Orcs équipés de flèches enflammées ainsi que Grishnákh pour combattre à vos côtés \n Clic gauche sur l'icône puis clic gauche sur un emplacement accessible"
 END
 
 CONTROLBAR:TooltipSummonMordorAllies_WOTR
@@ -66490,7 +66493,7 @@ CONTROLBAR:DenethorHighAuthority
 END
 
 CONTROLBAR:ToolTipDenethorHighAuthority
-"Requiert le niveau 3 \n Ordonne aux unités ennemies ciblées de fuir pour leur vie \n Cliquez gauche sur l'icône puis cliquez gauche sur les unités cibles"
+"Requiert le niveau 3 \n Ordonne aux unités ennemies ciblées à fuir de terreur \n Cliquez gauche sur l'icône puis cliquez gauche sur les unités cibles"
 END
 
 CONTROLBAR:DenethorContest
@@ -66654,7 +66657,7 @@ CONTROLBAR:GreatGoblinSwarm
 END
 
 CONTROLBAR:ToolTipGreatGoblinSwarm
-"Invoque des Guerriers de Gobelinville. \n Le nombre de hordes invoquées est associé au niveau du Grand Gobelin. \n\n Type d'Action: Bonus. \n Lorsqu'ils sont activés, les Orques de la Moria et les Tours gobelins à proximité gagnent +15% de vitesse et de dégâts pendant 20 secondes (bonus cumulable). \n\n Clic gauche pour l'activer."
+"Invoque des Guerriers de Gobelinville. \n Le nombre de hordes invoquées est associé au niveau du Grand Gobelin. \n\n Type d'Action: Bonus. \n Lorsqu'ils sont activés, les Orques de la Moria et les Tours gobelins à proximité gagnent +15% de dégâts pendant 20 secondes (bonus cumulable). \n\n Clic gauche pour l'activer."
 END
 
 CONTROLBAR:GreatGoblinSwarm2
@@ -66686,7 +66689,7 @@ CONTROLBAR:GreatGoblinDemand
 END
 
 CONTROLBAR:ToolTipGreatGoblinDemand
-"Requiert : Niveau 5 \n Invoque un totem de l'essaim à l'emplacement ciblé. \n Le Totem peut recruter des Guerriers de la Gobelinville et révéler les unités furtives. \n La vitesse de déplacement de l'ennemi à proximité est réduite de -25%. \n Limités à 3 totems seulement. \n\n Clic gauche sur l'icône puis clic gauche sur l'emplacement cible."
+"Requiert : Niveau 5 \n Invoque un totem de l'essaim à l'emplacement ciblé. \n Le Totem peut recruter des Guerriers de la Gobelinville et révéler les unités furtives. \n Limités à 3 totems seulement. \n\n Clic gauche sur l'icône puis clic gauche sur l'emplacement cible."
 END
 
 CONTROLBAR:GreatGoblinAntiquarian
@@ -66911,7 +66914,7 @@ END
 
 CONTROLBAR:ToolTipKhamulLieutnant
 //"Requires Level 7 \n Khamûl takes on his role as the Lieutenant of Dol Guldur and dons his armour. \n Enemies around Khamûl slowly take damage. \n Passive ability"
-"Requiert : Niveau 3 \n Khamûl devient Lieutenant de la Forteresse de Dol Guldur. \n Les Morts ressuscités proches, les Ravageurs Orques, les Gardes des Tombes, les Fantômes d'Outre-Tombe et les Messagers des Ténèbres gagnent +33% de dégâts. \n Capacité passive. \n\n Au Niveau 5, Khamûl revêt son armure noire sinistre, dont l'aura de décrépitude affaiblit les mortels, lui accordant +50% d'armure."
+"Requiert : Niveau 3 \n Khamûl devient Lieutenant de la Forteresse de Dol Guldur. \n Les Morts ressuscités proches, les Ravageurs Orques, les Gardes des Tombes, les Fantômes d'Outre-Tombe et les Messagers des Ténèbres gagnent +33% de dégâts. \n Capacité passive. \n\n Au Niveau 5, Khamûl revêt son armure noire sinistre, dont l'aura de décrépitude affaiblit les mortels, lui accordant +25% d'armure et infligeant des dégâts sur la durée aux unités ennemies à proximité."
 END
 
 CONTROLBAR:KhamulLieutnantRhun
@@ -67127,7 +67130,7 @@ CONTROLBAR:ConstructMordorPikeHorde
 END
 
 CONTROLBAR:ToolTipBuildMordorPikeHorde
-"Les Orques sont des créatures malfaisantes, des monstres qui se complaisent dans la destruction et la mort. Ils ne sont loyaux envers personne, pas même envers leurs compagnons, et ils n'hésiteront pas à se battre entre eux pour se disputer leurs conquêtes. \n Les piquiers sont armés de longues et cruelles piques afin de former un mur de fer face à l'ennemi. \n\n Forts contre la cavalerie et les héros. \n\n Type d'Action : Sort. \n Bonus de horde : tous les combattants Orques et Uruk-Haï du Mordor gagnent +50% de dégâts lorsqu'ils sont rassemblés en nombre de 150 ou plus (bonus cumulable)."
+"Les Orques sont des créatures malfaisantes, des monstres qui se complaisent dans la destruction et la mort. Ils ne sont loyaux envers personne, pas même envers leurs compagnons, et ils n'hésiteront pas à se battre entre eux pour se disputer leurs conquêtes. \n Les piquiers sont armés de longues et cruelles piques afin de former un mur de fer face à l'ennemi. \n\n Forts contre la cavalerie et les héros. \n\n Type d'Action : Sort. \n Bonus de horde : tous les combattants Orques et Uruk-Haï du Mordor gagnent +25% de dégâts et d'armure lorsqu'ils sont rassemblés en nombre de 110 ou plus (bonus cumulable)."
 END
 
 OBJECT:WhiteWarg
@@ -68328,7 +68331,15 @@ CONTROLBAR:UrshakIntimidation
 END
 
 CONTROLBAR:ToolTipUrshakIntimidation
-"Type de modificateur : Leadership\nLes Trolls, Chauves-souris et Géants près d’Urshak gagnent +15 % de vitesse et de vision\nCapacité passive\n\nType de modificateur : Malus passif\nLes unités ennemies proches subissent -15 % de dégâts et -10 % d’armure\nAu rang 5, les unités ennemies proches subissent -25 % de dégâts, -20 % d’armure et -10 % de vitesse\nCapacité passive\n\nAu niveau 10, ensorcelle les unités ciblées, les poussant à s’attaquer entre elles\nCliquez gauche sur l’icône puis sur la zone cible"
+"Type de modificateur : Leadership\nLes Trolls, Chauves-souris et Géants près d’Urshak gagnent +15 % de vitesse et de vision\nCapacité passive\n\nType de modificateur : Malus passif\nLes unités ennemies proches subissent -15 % de dégâts et -10 % d’armure\nAu rang 5, les unités ennemies proches subissent -25 % de dégâts, -20 % d’armure et -10 % de vitesse\nCapacité passive"
+END
+
+CONTROLBAR:UrshakIntimidationActive
+"Prophétie Sombre (&V)"
+END
+
+CONTROLBAR:ToolTipUrshakIntimidationActive
+"Requiert niveau 10\nUrshak ensorcelle les unités ciblées, les rendant hostiles les unes envers les autres\nCliquez gauche sur l’icône puis cliquez gauche sur la zone ciblée"
 END
 
 CONTROLBAR:UrshakShakeFoundation
@@ -69168,7 +69179,7 @@ CONTROLBAR:ThorinOrcrist
 End
 
 CONTROLBAR:TooltipThorinOrcrist
-"Requiert le niveau 5 \n Thorin gagne\n+75% de dégâts magiques et +100% d'armure pendant 30 secondes\n Cliquez gauche pour activer"
+"Requiert le niveau 5 \n Thorin gagne +75% de dégâts magiques et +100% d'armure pendant 30 secondes\n Cliquez gauche pour activer"
 END
 
 CONTROLBAR:ThorinOrcristCampaign
@@ -69220,7 +69231,7 @@ CONTROLBAR:BardBeastSlayerArrow
 END
 
 CONTROLBAR:ToolTipBardSlamArrow
-"Tir précis infligeant des dégâts de zone et réduisant l'armure ennemie de 33% pendant 15 secondes\nClique gauche sur l’icône puis sur l’unité cible"
+"Tir précis infligeant des dégâts et réduisant l'armure ennemie de 33% pendant 15 secondes\nClique gauche sur l’icône puis sur l’unité cible"
 END
 
 CONTROLBAR:ToolTipBardBeastSlayerArrow
@@ -69325,7 +69336,7 @@ CONTROLBAR:BalinFlag
 END
 
 CONTROLBAR:TooltipBalinFlag
-"Requiert le niveau 3\n Balin plante une bannière de Durin.\n Les troupes à proximité gagnent +50% d'expérience, +25% d'armure, +33% de dégâts et sont partiellement soignées.\n Au niveau 7, les unités affectées sont immunisées contre les repoussions et sont soignées d'une plus grande quantité.\n Cliquez gauche sur l'icône, puis cliquez gauche sur la zone cible"
+"Requiert le niveau 3\n Balin plante une bannière de Durin.\n Les troupes à proximité gagnent +50% d'expérience, +25% d'armure, +33% de dégâts et sont partiellement soignées.\n Au niveau 7, les unités affectées sont immunisées contre les repoussions et sont soignées d'une plus grande quantité.\n Cliquez gauche pour activer"
 END
 
 CONTROLBAR:TooltipBalinFlagDurinsFolk
@@ -70987,7 +70998,7 @@ CONTROLBAR:KeenEye
 END
 
 CONTROLBAR:ToolTipKeenEye
-"Les mangonneaux proches gagnent +10% de portée \n Capacité passive \n\n Au niveau 3, peut être lancée sur les structures ennemies pour réduire leur armure de 33% pendant 10 secondes\n Clic gauche sur l’icône puis clic gauche sur la cible"
+"Peut être lancé sur des structures ennemies pour réduire leur armure de 25 % pendant 10 secondes\nCliquez gauche sur l’icône puis cliquez gauche sur la cible"
 END
 
 CONTROLBAR:HadhodSabotage
@@ -70999,15 +71010,23 @@ CONTROLBAR:ToolTipHadhodSabotage
 END
 
 CONTROLBAR:HadhodStoneHewer
-"Mineur de pierres [&T]"
+"Mineur de pierres"
 END
 
 CONTROLBAR:ToolTipHadhodStoneHewer
-"Requiert Niveau 6 \n Les unités naines proches infligent +25% de dégâts aux structures. \n Capacité passive. \n\n Au niveau 8, peut être activé pour fournir des marteaux de siège aux Gardiens situés dans le rayon. \n Clic gauche sur l'icône puis clic gauche sur le bataillon ciblé."
+"Requiert Niveau 6 \n Les unités naines proches infligent +25% de dégâts aux structures. \n Capacité passive."
+END
+
+CONTROLBAR:HadhodSiegeMaster
+"Maître des Sièges (&C)"
+END
+
+CONTROLBAR:ToolTipHadhodSiegeMaster
+"Requiert Niveau 8\nLes Âzagh-baruk ciblés reçoivent des Marteaux de Siège\nLes Mangonels ciblés bénéficient d’un bonus permanent de 15 % aux dégâts et à la portée\nCliquez gauche sur l’icône puis cliquez gauche sur le bataillon ou le Mangonel ciblé"
 END
 
 CONTROLBAR:BondsofFriendship
-"Liens d'amitié [&C]"
+"Liens d'amitié [&V]"
 END
 
 CONTROLBAR:TooltipBondsofFriendship
@@ -71880,6 +71899,10 @@ Tooltip:LackDunedainCaptainBasicTraining
 "Rechercher l'amélioration à la forge pour activer cet équipement. Lorsqu'il est équipé, fait passer le bataillon au niveau 2 et débloque le pouvoir spécial Cape elfique."
 End
 
+Tooltip:LackDunedainCaptainBasicTrainingBree
+"Rechercher l'amélioration à la forge pour activer cet équipement. Lorsqu'il est équipé, fait passer le bataillon au niveau 2"
+End
+
 Tooltip:LackDunedainCaptainBasicTrainingProtectors
 "Rechercher l'amélioration à la forge pour activer cet équipement. Lorsqu'il est équipé, fait passer le bataillon au niveau 2 et débloque le pouvoir spécial Protecteurs de petit peuple."
 End
@@ -72254,7 +72277,7 @@ CONTROLBAR:ArwenEvenstar
 END
 
 CONTROLBAR:ToolTipArwenEvenstar
-"Requiert : Niveau 10 \n Les unité alliées dans le rayon acquièrent temporairement une immunité contre la Peur et sont soignées lorsqu'elles infligent des dégâts pendant 60. \n N'affecte pas les Héros, La Compagnie Grise ou les Laurëthelyn. \n Les unités ennemies dans le rayon perdent tout leur Charisme. \n\n Clic gauche sur l'icône puis clic gauche sur la zone ciblée."
+"Requiert : Niveau 10 \n Les unité alliées dans le rayon acquièrent temporairement une immunité contre la Peur et sont soignées lorsqu'elles infligent des dégâts pendant 60. \n N'affecte pas les Héros, La Compagnie Grise ou les Laurëthelyn. \n\n Clic gauche sur l'icône puis clic gauche sur la zone ciblée."
 END
 
 CONTROLBAR:ArwenFlood
@@ -72274,7 +72297,7 @@ CONTROLBAR:TinuvielBlessing
 END
 
 CONTROLBAR:ToolTipTinuvielBlessing
-"Requiert : Niveau 3 \n Les unités ennemies dans le rayon sont ralenties de 15% et perdent -20% d'armures et de dégâts pendant 30 secondes. \n\n Clic gauche sur l'icône puis clic gauche sur la zone ciblée."
+"Requiert : Niveau 3 \n Les unités ennemies dans le rayon perdent leurs charismes sont ralenties de 15% et perdent -20% d'armures et de dégâts pendant 30 secondes. \n\n Clic gauche sur l'icône puis clic gauche sur la zone ciblée."
 END
 
 CONTROLBAR:ArwenImage
@@ -72378,7 +72401,7 @@ END
 
 CONTROLBAR:ToolTipToggleStanceAggressiveDain
 //"Shortcut: D \n Units gain an increase to their attack damage, but a decrease to their armour \n They will auto-acquire enemies when sighted"
-"Raccourci : D \n Dáin utilise sa hache rouge : il gagne +10% de dégâts mais perd -20% d'armure. \n Inflige des dégâts de zone."
+"Raccourci : D \n Dáin utilise sa hache rouge : il gagne +10% de dégâts, +10% de vitesse mais perd -20% d'armure. \n Inflige des dégâts de zone."
 END
 
 CONTROLBAR:ToolTipToggleStanceHoldGroundDain
@@ -72734,7 +72757,7 @@ CONTROLBAR:ToolTipPunchThrough
 END
 
 CONTROLBAR:ToolTipKiliArrowDodge
-"Kili bénéficie en permanence d'une augmentation de l'évasion face aux attaques à distance\n Au niveau 5, Kili devient résistant au repoussement\n Capacité passive"
+"Kili bénéficie en permanence d'une augmentation de l'évasion face aux attaques à distance\n Capacité passive"
 END
 
 CONTROLBAR:KiliArrowDodge
@@ -73741,11 +73764,7 @@ CONTROLBAR:DwarvenWagonButon2
 END
 
 CONTROLBAR:TooltipDwarvenWagonButon2
-"Requiert : Niveau 4\nLes roues du char de combat sont équipées de lames tranchantes\nRéduit la décélération de l'écrasement du char"
-END
-
-CONTROLBAR:TooltipDwarvenWagonButon2
-"Requiert : Niveau 4\nLes roues du char de combat sont équipées de lames tranchantes\nLes chariots de bataille infligent plus de dégâts et subissent -50 % de ralentissement dû aux écrasements\nCapacité passive"
+"Requiert : Niveau 4\nLes roues du char de combat sont équipées de lames tranchantes\nLes chariots de bataille infligent +20 de dégâts de renversement et subissent -50 % de ralentissement dû aux écrasements\nCapacité passive"
 END
 
 CONTROLBAR:DwarvenWagonButon3
@@ -75362,7 +75381,7 @@ CONTROLBAR:ToolTipConstructRohanWindmill
 END
 
 CONTROLBAR:ToolTipDescriptionRohanWindmill
-"Génère des ressources en fonction du terrain disponible \n Bonus pain - Coût réduit pour l'infanterie \n 2 moulins à vent : 5% \n 3 moulins à vent : 10% \n 4 moulins à vent : 15% \n 5 moulins à vent : 20% \n 6+ moulins à vent : 25% \n Type de modificateur : Pouvoir \n Les paysans à proximité gagnent +10% de dégâts et d'armure"
+"Génère des ressources en fonction du terrain disponible \n Bonus pain - Coût réduit pour l'infanterie \n 2 moulins à vent : 5% \n 4 moulins à vent : 10% \n 6 moulins à vent : 15% \n 8+ moulins à vent : 20% \n Type de modificateur : Pouvoir \n Les paysans à proximité gagnent +10% de dégâts et d'armure"
 END
 
 OBJECT:RohanStablesDescription
@@ -75390,7 +75409,7 @@ CONTROLBAR:SummonLoneScout
 End
 
 CONTROLBAR:ToolTipSummonLoneScout
-"Convoque un éclaireur temporaire des Rohirrim qui confère +15% de vitesse et +35% de dégâts aux unités alliées à proximité\n Cliquez gauche sur l'icône, puis cliquez gauche sur l'emplacement accessible"
+"Convoque un éclaireur temporaire des Rohirrim qui confère +15% de vitesse et +33% de dégâts aux unités alliées à proximité\n Cliquez gauche sur l'icône, puis cliquez gauche sur l'emplacement accessible"
 END
 
 CONTROLBAR:SummonCirionOath
@@ -75406,11 +75425,11 @@ CONTROLBAR:WestfoldHorn
 END
 
 CONTROLBAR:TooltipWestfoldHorn
-"Type de modification : Buff\nLes alliés ciblés gagnent +60% de dégâts et +60% d'armure pendant 60 secondes\nCliquez gauche sur l'icône, puis cliquez gauche sur les unités cibles"
+"Type de modification : Buff\nLes alliés ciblés gagnent +50% de dégâts et +50% d'armure pendant 60 secondes\nCliquez gauche sur l'icône, puis cliquez gauche sur les unités cibles"
 END
 
 CONTROLBAR:TooltipWestfoldHorn_WOTR
-"Type de modification : Buff\nLes alliés ciblés gagnent +60% de dégâts et +60% d'armure pendant 60 secondes\nUne fois utilisé, débloque passivement les Westfolders\nCliquez gauche sur l'icône, puis cliquez gauche sur les unités cibles"
+"Type de modification : Buff\nLes alliés ciblés gagnent +50% de dégâts et +50% d'armure pendant 60 secondes\nUne fois utilisé, débloque passivement les Westfolders\nCliquez gauche sur l'icône, puis cliquez gauche sur les unités cibles"
 END
 
 CONTROLBAR:PukelStatue
@@ -75434,7 +75453,7 @@ CONTROLBAR:BountifulHarvest
 END
 
 CONTROLBAR:TooltipBountifulHarvest
-"+20% de ressources des Fermes et des Moulins à vent\n Non cumulable avec la prime à l'irrigation \nPouvoir passif"
+"+20% de ressources des Fermes et des Moulins à vent \nPouvoir passif"
 END
 
 CONTROLBAR:RohanCloudBreak
@@ -75482,7 +75501,7 @@ CONTROLBAR:ToolTipBuildRohanBarracksLevel3Upgrade_WOTR
 END
 
 CONTROLBAR:ToolTipBuildRohanArcherRangeLevel2Upgrade
-"Permet l'entraînement des Gardes de Halifirien et la recherche de l'amélioration des Flèches de Feu\n+10% de vitesse de construction accrue"
+"Permet l'entraînement des Gardes de Halifirien\n+10% de vitesse de construction accrue"
 END
 
 CONTROLBAR:ToolTipBuildRohanArcherRangeLevel2UpgradeFoI
@@ -75490,7 +75509,7 @@ CONTROLBAR:ToolTipBuildRohanArcherRangeLevel2UpgradeFoI
 END
 
 CONTROLBAR:ToolTipBuildRohanArcherRangeLevel3Upgrade
-"+25% de vitesse de construction accrue\nAjoute une tour de flèches défensive"
+"Permet la recherhe des flèches de feu \n+25% de vitesse de construction accrue\nAjoute une tour de flèches défensive"
 END
 
 CONTROLBAR:ToolTipBuildRohanStablesLevel2Upgrade
@@ -75841,7 +75860,7 @@ CONTROLBAR:TheodredPrinceRiddermark
 END
 
 CONTROLBAR:ToolTipTheodredPrinceRiddermark
-"Requiert : Niveau 5 \n Théodred équipe sa cape royale. \n Type d'Action : Charisme. \n\n Accorde +20% aux armures et +10% aux Dégâts d'Attaques et régénération de santé. \n Les unités proches gagnent +35% de Dégâts. \n\n S'accumule avec les Bonus et les Sorts. \n Capacité passive."
+"Requiert : Niveau 5 \n Théodred équipe sa cape royale. \n Type d'Action : Charisme. \n\n Accorde +20% aux armures et +10% aux Dégâts d'Attaques et régénération de santé. \n Les unités proches gagnent +33% de Dégâts. \n\n S'accumule avec les Bonus et les Sorts. \n Capacité passive."
 END
 
 CONTROLBAR:TheodredDetermination
@@ -75893,7 +75912,7 @@ CONTROLBAR:EowynLeadership
 END
 
 CONTROLBAR:ToolTipEowynLeadership
-"Modifier Type: Leadership \n Les paysans près d'Éowyn gagnent +25% d'armure et gagnent de l'expérience 100% plus rapidement \nCapacité passive"
+"Modifier Type: Leadership \n Les paysans près d'Éowyn gagnent +25% d'armure et gagnent de l'expérience 50% plus rapidement \nCapacité passive"
 END
 
 CONTROLBAR:EowynReadiness
@@ -75941,7 +75960,7 @@ CONTROLBAR:ElfhelmQuickRescue
 END
 
 CONTROLBAR:ToolTipElfhelmQuickRescue
-"Requiert le niveau 3 \n Modifier Type: Sort \n Les cavaleries à proximité gagnent +15% de vitesse tandis que l'infanterie à proximité gagne +15% d'armure pendant 30 secondes \n Les cavaleries et l'infanterie infligent +25% de dégâts aux machines pendant la durée \n Cliquez gauche pour activer"
+"Requiert le niveau 3 \n Modifier Type: Sort \n Les cavaleries à proximité gagnent +15% de vitesse tandis que l'infanterie à proximité gagne +15% d'armure pendant 30 secondes \n Cliquez gauche pour activer"
 END
 
 CONTROLBAR:ElfhelmPromotion
@@ -77319,7 +77338,7 @@ CONTROLBAR:LoneScoutLeadership
 END
 
 CONTROLBAR:TooltipLoneScoutLeadership
-"Type d'Action : Bonus. \n Le Cavalier accorde aux unités proches +15% de vitesse et +35% de dégâts. \n Capacité passive."
+"Type d'Action : Bonus. \n Le Cavalier accorde aux unités proches +15% de vitesse et +33% de dégâts. \n Capacité passive."
 END
 
 CONTROLBAR:FrodoMithrilShirt
@@ -78345,12 +78364,21 @@ CONTROLBAR:TooltipThrainDiminished
 END
 
 CONTROLBAR:ThrainLeadership
-"Noi&rs Souvenirs"
+"Otages Captifs"
 End
 
 CONTROLBAR:ToolTipThrainLeadership
-"Requiert : Niveau 2 \n Les Brisés près de Thráin gagnent +50% d'expérience et +35% d'armure. \n Capacité passive. \n\n Au Niveau 7, les Brisés ciblés gagnent beaucoup d'expérience. \n Clic gauche puis clic gauche sur les unités ciblées."
+"Requiert : Niveau 2 \n Les Brisés près de Thráin gagnent +50% d'expérience et +35% d'armure. \n Capacité passive."
 END
+
+CONTROLBAR:ThrainExperience
+"Noi&rs Souvenirs"
+End
+
+CONTROLBAR:ToolTipThrainExperience
+"Requiert : Niveau 7\nLes Brisées ciblées gagnent beaucoup d’expérience\nCliquez gauche puis cliquez gauche sur les unités ciblées"
+END
+
 
 CONTROLBAR:ThrainNoEscape
 "Sans Issue"
@@ -78548,7 +78576,7 @@ CONTROLBAR:WordsofDeath
 END
 
 CONTROLBAR:ToolTipWordsofDeath
-"Requiert le niveau 5\nLes unités ennemies à proximité de Khamûl subissent des dégâts dans le temps\nCapacité passive\n\nLorsqu'elle est activée, place un Cercle de Rune autour de Khamûl\nLes unités amicales à l'intérieur du Cercle de Rune bénéficient d'une armure supplémentaire de +75% contre les dégâts de projectiles, de feu, de givre et de magie pendant 60 secondes\nCliquez sur l'icône, puis cliquez sur un emplacement accessible"
+"Requiert le niveau 5\nLorsqu'elle est activée, place un Cercle de Rune autour de Khamûl\nLes unités amicales à l'intérieur du Cercle de Rune bénéficient d'une armure supplémentaire de +75% contre les dégâts de projectiles, de feu, de givre et de magie pendant 60 secondes\nCliquez sur l'icône, puis cliquez sur un emplacement accessible"
 END
 
 //------------ Necromancer ---------------
@@ -79284,7 +79312,7 @@ CONTROLBAR:GorbagMorgulCunning
 END
 
 CONTROLBAR:ToolTipGorbagMorgulCunning
-"Gagne en puissance avec le niveau de Gorbag\nAu rang 1, l'évitement à distance de Gorbag est augmenté\nAu rang 3, Gorbag peut se camoufler pendant 30 secondes - Gorbag perd son camouflage s'il attaque\nAu rang 5, +25% de dégâts pendant 30 secondes, en plus des effets précédents\nAu rang 7, gagne passivement +25% de dégâts\nAu rang 10, gagne passivement +25% d'armure\nCliquez gauche pour activer"
+"Gagne en puissance avec le niveau de Gorbag\nAu rang 1, l'évitement à distance de Gorbag est augmenté\nAu rang 3, Gorbag peut se camoufler pendant 30 secondes - Gorbag perd son camouflage s'il attaque\nAu rang 5, +25% de dégâts et +15% de vitesse pendant 30 secondes, en plus des effets précédents\nAu rang 7, gagne passivement +25% de dégâts\nAu rang 10, gagne passivement +25% d'armure\nCliquez gauche pour activer"
 END
 
 CONTROLBAR:GorbagDropkick
@@ -79308,7 +79336,7 @@ CONTROLBAR:GorbagLoyaltyWeapon
 END
 
 CONTROLBAR:ToolTipGorbagLoyaltyWeapon
-"Requiert le niveau 7\nGorbag gagne passivement +15% de vitesse\nCapacité passive\n\nLe héros ennemi ciblé perd -25% d'armure pendant 30 secondes\nGorbag inflige +25% de dégâts au héros ciblé pendant la durée\nCliquez sur l'icône, puis cliquez sur la cible"
+"Requiert le niveau 7\nLe héros ennemi ciblé perd 25 % d’armure pendant 30 secondes\nGorbag inflige 25 % de dégâts supplémentaires au héros ciblé pendant la durée\nCliquez gauche sur l’icône puis cliquez gauche sur la cible\nGorbag gagne également 50 % d’armure pendant la durée"
 END
 
 CONTROLBAR:ShagratTowersCaptain
@@ -79320,7 +79348,15 @@ CONTROLBAR:ShagratTowersCaptainLevel3
 END
 
 CONTROLBAR:ToolTipShagratTowersCaptain
-"Les Tours de Mordor et les Archers Orques à proximité de Shagrat gagnent +15% de vision,\n+15% de portée et +15% de dégâts\nCapacité passive\n\nAu rang 3, invoque une horde temporaire de Maraudeurs Orques Noirs lorsqu'il est utilisé sur un bâtiment allié ou ennemi\nCliquez gauche sur l'icône, puis cliquez sur le bâtiment cible"
+"Type de modificateur : Commandement\nLes Tours du Mordor et les Archers Orques près de Shagrat gagnent +15 % de vision, +15 % de portée et +15 % de dégâts\nAu niveau 5, les Maraudeurs Uruk Noirs à proximité gagnent +25 % d’armure\nCapacité passive"
+END
+
+CONTROLBAR:ShagratPillagers
+"Pillards de Cirith Ungol (&T)"
+END
+
+CONTROLBAR:ToolTipShagratPillagers
+"Requiert le niveau 3\nShagrat invoque une horde temporaire de Maraudeurs Uruk Noirs lorsqu’il est utilisé sur un bâtiment allié ou ennemi\nCliquez gauche sur l’icône puis cliquez gauche sur le bâtiment ciblé"
 END
 
 CONTROLBAR:ShagratLeadership
@@ -79328,7 +79364,7 @@ CONTROLBAR:ShagratLeadership
 END
 
 CONTROLBAR:ToolTipShagratLeadership
-"Requiert : Niveau 5\nLes Maraudeurs Uruk Noirs proches gagnent +25% d’armure\nCapacité passive\n\nPeut être activée pour accorder +25% de dégâts aux Guerriers Orcs et Maraudeurs Uruk Noirs proches,\nainsi que des dégâts de zone et de recul à Shagrat pendant 20 secondes\nClique gauche pour activer"
+"Requiert le niveau 5\nConfère +25 % de dégâts aux Guerriers Orques et aux Maraudeurs Uruk Noirs à proximité, ainsi que des dégâts de zone et de repoussement à Shagrat pendant 20 secondes\nCliquez gauche pour activer"
 END
 
 CONTROLBAR:ShagratCovetousUruk
@@ -79790,7 +79826,7 @@ CONTROLBAR:SonOfBeorn
 END
 
 CONTROLBAR:ToolTipSonOfBeorn
-"Type de modification : Charisme\nConfère +33 % d'armure aux Beornings à proximité\nGrimbeorn inflige +33 % de dégâts supplémentaires à Bolg\nCompétence passive\n\nLorsqu'elle est activée, Grimbeorn inspire la peur dans le cœur de toutes les unités orques et wargs pendant 15 secondes\nCliquez gauche pour activer"
+"Type de modification : Charisme\nConfère +33 % d'armure aux Beornings à proximité\nGrimbeorn inflige +33 % de dégâts supplémentaires à Bolg\nCompétence passive\n\nLorsqu'elle est activée, Grimbeorn inspire la terreur dans le cœur de toutes les unités orques et wargs pendant 15 secondes\nCliquez gauche pour activer"
 END
 
 CONTROLBAR:GrimbeornStrongman
@@ -81717,8 +81753,9 @@ CONTROLBAR:ThreatofMordor
 "Marche à la Guerre"
 End
 CONTROLBAR:TooltipThreatofMordor
-"Pendant 60 secondes, toutes les unités Haradwaith gagnent +20% de dégâts et +15% d'armure et sont immunisées contre les affaiblissements. \n Clic gauche pour activer"
+"Pendant 60 secondes, les unités alliées sur toute la carte gagnent +20 % de dégâts, +15 % d’armure et deviennent immunisées aux malus\nCliquez gauche pour activer"
 End
+
 CONTROLBAR:TribesofHarad
 "Tribus du Harad"
 End
@@ -82007,7 +82044,7 @@ CONTROLBAR:SpecialAbilityGiveNothingBack
 "Ne rien donner en re&tour"
 END
 CONTROLBAR:ToolTipSpecialAbilityGiveNothingBack
-"Requiert niveau 6\nMet le feu à la zone sélectionnée, en infligeant de lourds dégâts aux unités et aux structures. \n Clic gauche sur l'icône puis clic gauche sur la zone cible"
+"Requiert niveau 6\nMet le feu à la zone sélectionnée, en infligeant de lourds dégâts aux unités. \n Clic gauche sur l'icône puis clic gauche sur la zone cible"
 END
 CONTROLBAR:HornofKarna
 "Cor de Kârna [&V]"
@@ -82160,7 +82197,7 @@ CONTROLBAR:MadChieftain
 "Chef Fou"
 END
 CONTROLBAR:ToolTipMadcheiftain
-"Type de modification : Leadership\nPour chaque groupe de 15 unités Haradwaith alliées à proximité, Caran-Lambar gagne\n+5 % de dégâts et de vitesse de déplacement, jusqu'à un maximum de 25 %\nAu niveau 5, les unités Nâfarati à proximité gagnent +30 % d'armure\nCapacité passive"
+"Type de modification : Leadership\nPour chaque groupe de 15 unités Haradwaith alliées à proximité, Caran-Lambar gagne +5% de dégâts et de vitesse de déplacement, jusqu'à un maximum de 25 %\nAu niveau 5, les unités Nâfarati à proximité gagnent +30 % d'armure\nCapacité passive"
 END
 CONTROLBAR:BreakerofStone
 "B&riseur de Pierres"
@@ -82172,7 +82209,7 @@ CONTROLBAR:Derangement
 "Derangemen&t"
 END
 CONTROLBAR:ToolTipDerangement
-"Requiert niveau 5 \n Modifier Type: Leadership \n Les unités amies proches gagnent une résistance à la peur et à la terreur \nCapacité passive \n\nModifier Type: Debuff\nLorsqu'il est activé, Caran-Lambar s'inflige des dégâts à lui-même.  \n Les unités ennemies proches perdent -50% de dégâts d'attaque et de vitesse d'attaque pendant 30 secondes.\n Clic gauche pour activer"
+"Requiert niveau 5 \n Modifier Type: Leadership \n Les unités amies proches gagnent une résistance à la peur et à la terreur \nCapacité passive \n\nModifier Type: Debuff\nLorsqu'il est activé, Caran-Lambar s'inflige des dégâts à lui-même.  \n Les unités ennemies proches perdent -50% de dégâts et de vitesse pendant 30 secondes.\n Clic gauche pour activer"
 END
 CONTROLBAR:DireStraits
 "Situation Désespérée"
@@ -83883,7 +83920,7 @@ CONTROLBAR:CultistsHeartsofFire
 End
 
 CONTROLBAR:ToolTipCultistsHeartsofFire
-"Les unités alliées ciblées infligent en permanence des dégâts de feu supplémentaires \n avec leurs attaques et aux ennemis qui les attaquent \n Octroie également 50 % d'armure contre le feu \nNe peut être utilisé que sur les unités de mêlée Haradwaith\nN'affecte pas les unités héroïques ou les monstres\nClic gauche sur l'icône puis clic gauche sur les unités ciblées"
+"Les unités alliées ciblées infligent en permanence des dégâts de feu supplémentaires avec leurs attaques et aux ennemis qui les attaquent \n Octroie également 50 % d'armure contre le feu \nNe peut être utilisé que sur les unités de mêlée Haradwaith\nN'affecte pas les unités héroïques ou les monstres\nClic gauche sur l'icône puis clic gauche sur les unités ciblées"
 End
 
 CONTROLBAR:PurchaseUpgradeHeartsofFire
@@ -87788,8 +87825,721 @@ CONTROLBAR:ToolTipGreyCompanyWesternesse
 END
 
 //-----------------------------
-// HIGH PASS ADVENTURE MAP
+// FACTION ALTERNATIVE : LA COMTÉ
 //-----------------------------
+
+OBJECT:ShireCitadel
+"Pierre des Trois Quartiers"
+END
+
+CONTROLBAR:ConstructShireHobbitHole
+"Trou de Hobbit (&W)"
+END
+
+CONTROLBAR:ToolTipConstructShireHobbitHole
+"Produit des ressources\nDonne accès au réseau de tunnels\nAugmente la limite de points de commandement de 100\n\n'Dans un trou vivait un hobbit. Pas un trou sale, humide, rempli de bouts de vers et d'une odeur visqueuse, ni un trou sec, nu, sablonneux, sans rien pour s'asseoir ou manger : c'était un trou de hobbit, et cela signifie le confort.'"
+END
+
+OBJECT:ShireHobbitHole
+"Trou de Hobbit"
+END
+
+CONTROLBAR:GreatSmial
+"Le Grand Smial (&W)"
+END
+
+CONTROLBAR:ToolTipGreatSmial
+"Invoque un Trou de Hobbit à l'emplacement ciblé\nLe Trou invoqué est connecté au réseau de tunnels mais ne produit pas de ressources\nCliquez gauche puis cliquez gauche sur la zone ciblée\n\n'Les maisons et les trous des hobbits de la Comté étaient souvent vastes, et habités par de grandes familles... Parfois, comme dans le cas des Touc des Grands Smials ou des Brandebouc de Château-Brande, de nombreuses générations de parents vivaient (relativement) en paix ensemble dans un manoir ancestral aux innombrables tunnels...'"
+END
+
+CONTROLBAR:ConstructShireHobbitFarm
+"Ferme Hobbit (&E)"
+END
+
+CONTROLBAR:ToolTipConstructShireHobbitFarm
+"Produit des ressources\nÉlève des Chiens du Marais\nSoigne les alliés à proximité\nAugmente la limite de points de commandement de 100\n\n'Les hobbits vivent et cultivent dans les quatre quartiers de la Comté depuis des centaines d’années. Parfaitement heureux d’ignorer et d’être ignorés par le monde des Grandes Gens...'"
+END
+
+OBJECT:ShireHobbitFarm
+"Ferme Hobbit"
+END
+
+OBJECT:ShireHobbitFarmDescription
+"Élève des Chiens du Marais\nSoigne les alliés à proximité"
+END
+
+CONTROLBAR:ConstructShireMarishHoundHorde
+"Chiens du Marais (&W)"
+END
+
+CONTROLBAR:ToolTipShireMarishHoundHorde
+"Fort contre les épéistes et les archers\n\nLes terres frontalières du Marais sont plus sauvages que la plupart des régions de la Comté, et ceux qui y vivent avaient besoin d’une protection supplémentaire, souvent sous la forme de grands chiens fidèles."
+END
+
+OBJECT:ShireMarishHound
+"Chien du Marais"
+END
+
+OBJECT:ShireMarishHoundHorde
+"Chiens du Marais"
+END
+
+CONTROLBAR:ToolTipSpecialAbilityShirePackTactics
+"Bonus de Horde\nType de modificateur : Sort\nTous les Chiens du Marais gagnent +25 % de dégâts et +25 % d’armure lorsqu’ils sont rassemblés à 30 ou plus"
+END
+
+CONTROLBAR:MarishMushrooms
+"Champignons du Marais (&E)"
+END
+
+CONTROLBAR:ToolTipMarishMushrooms
+"Augmente de façon permanente de 50 % la vitesse et le rayon de soin de la Ferme Hobbit\nRégénère également les unités tombées à proximité de la Ferme Hobbit\n\n'Les hobbits ont une passion pour les champignons, surpassant même les penchants les plus gourmands des Grandes Gens. Ce fait explique en partie les longues expéditions du jeune Frodon dans les célèbres champs du Marais, et la colère du blessé Maggot.'"
+END
+
+CONTROLBAR:WatchfulProtectors
+"Gardiens Vigilants (&R)"
+END
+
+CONTROLBAR:ToolTipWatchfulProtectors
+"Une fois recherchée, cette amélioration fait que toutes les structures de la Comté sont patrouillées en permanence par les Rôdeurs du Nord"
+END
+
+CONTROLBAR:ConstructShireShirriffsQuarters
+"Bureau du Shirriff (&R)"
+END
+
+CONTROLBAR:ToolTipShireShirriffsQuarters
+"Produit des ressources\nEntraîne des Hobbits de la Comté\nAugmente la limite de points de commandement de 100\n\n'Le seul véritable fonctionnaire officiel de la Comté à cette époque était le Maire de Grand'Cave (ou de la Comté), élu tous les sept ans... Les fonctions de Maître de la Poste et de Premier Shirriff étaient rattachées à la mairie, si bien qu’il gérait à la fois le service des messagers et la garde.'"
+END
+
+OBJECT:ShireShirriffsQuarters
+"Bureau du Shirriff"
+END
+
+OBJECT:ShireShirriffsQuartersDescription
+"Entraîne des Hobbits de la Comté"
+END
+
+CONTROLBAR:PurchaseTechnologyArnorBasicTraining_Shire
+"Rechercher les Shirriffs (&S)"
+END
+
+CONTROLBAR:ToolTipPurchaseTechnologyArnorBasicTraining_Shire
+"Permet aux hordes d’acheter l’amélioration Shirriffs\nFait passer un bataillon au niveau 2"
+END
+
+CONTROLBAR:ConstructShireHalflingInn
+"Auberge Animée (&T)"
+END
+
+CONTROLBAR:ToolTipConstructShireHalflingInn
+"Appelle à l’aide les Vagabonds d’Eriador\nProduit des ressources\nAugmente la limite de points de commandement de 100"
+END
+
+OBJECT:ShireHalflingInn
+"Auberge Animée"
+END
+
+OBJECT:ShireHalflingInnDescription
+"Appelle à l’aide les Vagabonds d’Eriador"
+END
+
+CONTROLBAR:StrangeFolkAbroad
+"Gens Étranges en Vadrouille (&W)"
+END
+
+CONTROLBAR:ToolTipStrangeFolkAbroad
+"Invoque de façon permanente un bataillon aléatoire de troupes d’Eriador\n\n'Il y a eu des gens bien étranges qui ont traversé la Comté... des Nains, et d’autres de nature moins recommandable...'"
+END
+
+CONTROLBAR:ConstructShireSupplyCart
+"Charrette d’Approvisionnement (&S)"
+END
+
+CONTROLBAR:ToolTipConstructShireSupplyCart
+"Produit des ressources\nOctroie un bonus de commandement aux alliés proches\nPermet de rechercher des améliorations de faction\nAugmente la limite de points de commandement de 100"
+END
+
+OBJECT:ShireSupplyCart
+"Charrette d’Approvisionnement"
+END
+
+OBJECT:ShireSupplyCartDescription
+"Type de modificateur : Commandement\nLes alliés proches de la Charrette d’Approvisionnement gagnent +25 % de dégâts, +25 % d’armure, gagnent de l’expérience 33 % plus vite et deviennent immunisés à la peur et à la terreur"
+END
+
+CONTROLBAR:SelectRevivablesShireFortress
+"Héros (&W)"
+END
+
+CONTROLBAR:PurchaseTechnologyStrawberriesAndCream
+"Fraises et Crème (&W)"
+END
+
+CONTROLBAR:ToolTipPurchaseTechnologyStrawberriesAndCream
+"Une fois recherchée, tous les Hobbits gagnent passivement +10 % de vitesse de déplacement et se soignent hors combat\n\n'Les fruits étaient si abondants que les jeunes hobbits semblaient presque se baigner dans les fraises et la crème ; puis ils s’asseyaient sur les pelouses sous les pruniers pour manger, jusqu’à former des tas de noyaux semblables à de petites pyramides ou aux crânes entassés d’un conquérant, avant de passer à autre chose. Et nul ne tomba malade, et tout le monde était content, sauf ceux qui devaient tondre la pelouse.'"
+END
+
+CONTROLBAR:PurchaseTechnologyLongbottomLeaf
+"Feuille de Longoulet (&E)"
+END
+
+CONTROLBAR:ToolTipPurchaseTechnologyLongbottomLeaf
+"Débloque la compétence Fête Inattendue pour les structures de la Comté\nQuand elle est activée, les unités ennemies proches subissent -33 % d’armure et de dégâts, et sont ralenties de -50 %\n\n'Tous les récits s’accordent à dire que Tobold Cornemuse du Longoulet dans le Quartier Sud fut le premier à cultiver la véritable herbe à pipe dans ses jardins... Le meilleur produit vient encore de cette région, en particulier les variétés connues aujourd’hui sous les noms de Feuille de Longoulet, Vieux Toby et Étoile du Sud.'"
+END
+
+CONTROLBAR:UnexpectedPartyHole
+"Fête Inattendue (&W)"
+END
+
+CONTROLBAR:UnexpectedPartyHoleBuilt
+"Fête Inattendue (&R)"
+END
+
+CONTROLBAR:UnexpectedPartyInn
+"Fête Inattendue (&E)"
+END
+
+CONTROLBAR:UnexpectedPartyFarm
+"Fête Inattendue (&T)"
+END
+
+CONTROLBAR:UnexpectedPartyCart
+"Fête Inattendue (&D)"
+END
+
+CONTROLBAR:UnexpectedPartyQuarters
+"Fête Inattendue (&D)"
+END
+
+CONTROLBAR:ToolTipUnexpectedParty
+"Type de modificateur : Affaiblissement\nLes unités ennemies proches perdent -33 % d’armure et de dégâts et sont ralenties de -50 %\nActif pendant 30 secondes\nClic gauche pour activer"
+END
+
+CONTROLBAR:PurchaseTechnologyGandalfsFireworks
+"Feux d’Artifice de Gandalf (&R)"
+END
+
+CONTROLBAR:ToolTipPurchaseTechnologyGandalfsFireworks
+"Débloque le recrutement des Lanceurs de Feux d’Artifice depuis les Charrettes d’Approvisionnement\n\n'Les plus beaux fusées jamais vues\nÉclataient en étoiles bleues et vertes\nPuis, après le tonnerre, des gerbes d’argent\nTombaient comme une pluie de fleurs.'"
+END
+
+CONTROLBAR:HobbitFleetFooted
+"Pieds Légers (&W)"
+END
+
+CONTROLBAR:ToolTipHobbitFleetFooted
+"Requiert le niveau 2\nLes Hobbits gagnent +25 % d’armure, +10 % de vitesse et une résistance au repoussement pendant 20 secondes\nClic gauche pour activer"
+END
+
+CONTROLBAR:PurchaseUpgradeShireBasicTraining
+"Acheter l’Amélioration Shirriff (&V)"
+END
+
+CONTROLBAR:PurchaseUpgradeShireBasicTrainingHounds
+"Acheter Alpha de Meute (&V)"
+END
+
+Tooltip:LackShireBasicTraining
+"Recherchez l’amélioration au Bureau du Shirriff pour permettre cet équipement\nUne fois équipé, ce bataillon passe au niveau 2"
+END
+
+CONTROLBAR:HobbitKeenEyed
+"Regard perçant (&R)"
+END
+
+CONTROLBAR:ToolTipHobbitKeenEyed
+"Requiert le niveau 2\nAugmente la portée et les dégâts de 25 %, mais réduit la vitesse de déplacement de 15 % pendant 25 secondes\nClic gauche pour activer"
+END
+
+TOOLTIP:LackShireFireArrows
+"Recherchez l’amélioration à la Charrette d’Approvisionnement pour débloquer cet équipement\nUne fois équipé, augmente considérablement les dégâts infligés par les flèches"
+END
+
+Tooltip:LackShireBasicTrainingForElves
+"Recherchez l’amélioration au Bureau du Shirriff pour débloquer cet équipement\nUne fois équipé, ce bataillon passe au niveau 2\net peut récupérer des points de vie hors combat"
+END
+
+CONTROLBAR:ConstructShireBucklandBraveHorde
+"Braves du Pays-de-Bouc (&R)"
+END
+
+CONTROLBAR:ToolTipShireBucklandBraveHorde
+"Fort contre la Cavalerie et les Héros\nPeut se camoufler près des arbres\n\nLes habitants du pays-de-Bouc sont un peuple singulier, avec leurs propres coutumes et dictons. Il n’est guère surprenant qu’ils défendent leurs foyers par tous les moyens possibles."
+END
+
+OBJECT:ShireBucklandBrave
+"Brave du Pays-de-Bouc"
+END
+
+OBJECT:ShireBucklandBraveHorde
+"Braves du Pays-de-Bouc"
+END
+
+CONTROLBAR:ConstructShireHornblower
+"Corneur Hobbit (&T)"
+END
+
+CONTROLBAR:ToolTipShireHornblower
+"Unité de soutien unique\n\nLes corneurs jouent un rôle clé dans la communication rapide en cas de danger. Beaucoup de hobbits possédaient une corne, neuve ou héritée de génération en génération, pour avertir de l’arrivée d’indésirables."
+END
+
+OBJECT:ShireHornblower
+"Corneur Hobbit"
+END
+
+CONTROLBAR:HornblowerSoundAlarm
+"Sonnez l’Alarme ! (&W)"
+END
+
+CONTROLBAR:ToolTipHornblowerSoundAlarm
+"Type de modificateur : Commandement\nLes unités hobbits proches gagnent +10 % de dégâts et d’armure\nCumulable avec sorts et bonus\nCapacité passive\n\nLorsqu’activé, le corneur sonne l’alarme\nPeut être lancé sur unités amies pour accorder 15 secondes de résistance à la peur et à la terreur,\nou sur unités ennemies pour réduire dégâts et armure de 25 % pendant 15 secondes\nClic gauche sur l’icône puis sur la cible"
+END
+
+CONTROLBAR:HornblowerSummon
+"Appelez la Garde ! (&R)"
+END
+
+CONTROLBAR:ToolTipHornblowerSummon
+"Requiert niveau 2\nInvoque un bataillon temporaire de Gardes\nAu niveau 3, invoque aussi un bataillon temporaire de Braves de Buckland\nAu niveau 5, invoque deux bataillons de chaque\nClic gauche pour activer"
+END
+
+Tooltip:LackDunedainCaptainBasicTrainingProtectors_Shire
+"Recherchez l’amélioration aux Quartiers du Shérif pour débloquer cet équipement\nUne fois équipé, ce bataillon passe au niveau 2 et débloque le pouvoir spécial Protecteurs des Petits-peuples"
+END
+
+OBJECT:ShireGafferGamgee
+"Hamfast Gamgie"
+END
+
+CONTROLBAR:ShireGafferGamgeeRecruit
+"Recruter le Vieux Gamgie\n\n« Il n’y a pas de vent mauvais qui ne porte quelque bien, comme je le dis toujours. Et tout finit bien quand ça finit mieux ! »"
+END
+
+CONTROLBAR:ShireGafferGamgeeRevive
+"Réanimer le héros tombé, Hamfast Gamgie"
+END
+
+CONTROLBAR:ShireGafferGamgeeHotkey
+"Hamfast Gamgie (&W)"
+END
+
+CONTROLBAR:ToolTipProudFatherGaffer
+"Hamfast gagne +33 % d’armure et de dégâts quand il est près de Samwise\nCapacité passive"
+END
+
+CONTROLBAR:GafferLeadership
+"Le Vieux Gamgie"
+END
+
+CONTROLBAR:ToolTipGafferLeadership
+"Requiert niveau 3\nType de modificateur : Sort\nLes structures proches gagnent +15 % d’armure\nCapacité passive"
+END
+
+CONTROLBAR:GafferStoutHeart
+"Cœur Vaillant (&C)"
+END
+
+CONTROLBAR:ToolTipGafferStoutHeart
+"Requiert niveau 5\nType de modificateur : Malus actif\nLes unités ennemies dans la zone ciblée ne gagnent pas d’expérience pendant 30 secondes\nAnnule le leadership ennemi\nClic gauche puis clic gauche sur la zone ciblée"
+END
+
+CONTROLBAR:ShireFarmerMaggotHotkey
+"Fermier Maggot (&E)"
+END
+
+CONTROLBAR:ShireFarmerMaggotRecruit
+"Recruter le courageux fermier Hobbit\n\n« Tu as de la chance que je te connaisse. J’allais justement lâcher mes chiens sur les étrangers. Il se passe des choses étranges aujourd’hui. »"
+END
+
+CONTROLBAR:ShireFarmerMaggotRevive
+"Réanimer le héros tombé, le Fermier Maggot"
+END
+
+CONTROLBAR:ToolTipShireMaggotsHoundsLeadership
+"Grip, Fang et Wolf protègent passivement le Fermier Maggot\nType de modificateur : Leadership\nLes Chiens de Marish proches gagnent +33 % de dégâts et d’armure\nCapacité passive"
+END
+
+CONTROLBAR:ToolTipShireMaggotsFarmSummon
+"Requiert niveau 3\nInvoque la ferme du Fermier Maggot pendant 30 secondes\nGénère une grande quantité de ressources\nClic gauche sur l’icône puis clic gauche sur la zone ciblée"
+END
+
+CONTROLBAR:MaggotSweepingStrike
+"Frappe Circulaire (&T)"
+END
+
+CONTROLBAR:ToolTipMaggotSweepingStrike
+"Requiert niveau 5\nAttaque puissante qui repousse les unités ennemies\nAu rang 8, le rayon et les dégâts sont augmentés\nClic gauche sur l’icône puis clic gauche sur la cible"
+END
+
+CONTROLBAR:ShireFattyBolgerRecruit
+"Recruter le sympathique Hobbit, Fredegar Bolgeurre\n\n« Fredegar Bolgeurre n’était pas resté inactif. Dès qu’il vit les ombres sombres sortir du jardin, il sut qu’il devait fuir ou périr. Et il courut, par la porte arrière, à travers le jardin, puis sur les champs. »"
+END
+
+CONTROLBAR:ShireFattyBolgerRevive
+"Réanimer le héros tombé, Fredegar Bolgeurre"
+END
+
+CONTROLBAR:ShireFattyBolgerHotkey
+"Fredegar Bolgeurre (&R)"
+END
+
+CONTROLBAR:ToolTipShireHornofBuckland
+"Requiert niveau 3\nLe Cor de Buckland est sonné, réduisant les temps de recrutement de toutes les unités Hobbit de 300 % pendant 30 secondes\nClic gauche pour activer"
+END
+
+CONTROLBAR:FattyConspirator
+"Complice (&T)"
+END
+
+CONTROLBAR:ToolTipFattyConspirator
+"Requiert niveau 5\nType de modificateur : Sort\nFatty confère temporairement à un héros allié 50 % d’armure, 50 % de gain d’expérience plus rapide, et 75 % de recharge des pouvoirs plus rapide\nCumulable avec Leadership et Sorts\nClic gauche sur l’icône puis clic gauche sur le héros ciblé"
+END
+
+CONTROLBAR:FattyPrecision
+"Précision Hobbit (&C)"
+END
+
+CONTROLBAR:ToolTipFattyPrecision
+"Requiert niveau 7\nPendant 15 secondes, les attaques de Fatty ignorent l’armure ennemie\nClic gauche pour activer"
+END
+
+OBJECT:ShirePippin
+"Peregrin Touc"
+END
+
+CONTROLBAR:ShirePippinRecruit
+"Recruter le Chevalier de Gondor, Peregrin Touc\n\n« Je suis un messager du Roi », dit-il. « Tu parles à l’ami du Roi, et l’un des plus célèbres de toutes les terres de l’Ouest. Tu es un vaurien et un imbécile. Mets-toi à genoux sur la route et demande pardon, ou je te planterai ce venin de troll ! »"
+END
+
+CONTROLBAR:ShirePippinRevive
+"Réanimer le héros tombé, Peregrin Touc"
+END
+
+CONTROLBAR:ShirePippinHotkey
+"Peregrin Touc (&T)"
+END
+
+CONTROLBAR:BondsofFellowship
+"Liens de Fraternité (&R)"
+END
+
+CONTROLBAR:ToolTipBondsofFellowshipPippin
+"Type de modificateur : Leadership\nPeregrin gagne +15 % de dégâts lorsqu’il est proche de Meriadoc, Samwise ou Frodo\nCapacité passive\nS’active pour devenir invisible en restant immobile\nClic gauche pour activer"
+END
+
+CONTROLBAR:TookishTenacity
+"Ténacité Touc (&T)"
+END
+
+CONTROLBAR:ToolTipTookishTenacity
+"Requiert niveau 3\nType de modificateur : Leadership\nLes unités Hobbit proches gagnent +25 % de dégâts et de portée\nCapacité passive\nPeregrin appelle un groupe d’archers Took stationnaires pour défendre un emplacement ciblé\nIls sont immobiles, mais restent en mode furtif quand ils n’attaquent pas\nClic gauche sur l’icône puis clic gauche sur une zone accessible"
+END
+
+CONTROLBAR:PippinKnight
+"Chevalier de Gondor (&C)"
+END
+
+CONTROLBAR:ToolTipPippinKnight
+"Requiert niveau 5\nType de modificateur : Sort\nLes héros proches gagnent de l’expérience 50 % plus vite\nCumulable avec leadership, sorts et buffs\nÀ l’activation, le héros allié ciblé devient immunisé aux dégâts pendant 10 secondes\nClic gauche puis clic gauche sur le héros ciblé"
+END
+
+CONTROLBAR:PippinInquisitive
+"Inquisiteur (&V)"
+END
+
+CONTROLBAR:ToolTipPippinInquisitive
+"Requiert niveau 7\nTéléporte les unités ciblées à l’emplacement ciblé\nNe fonctionne pas sur les unités de siège\nClic gauche sur l’icône, clic gauche sur les unités ciblées, puis clic gauche sur la zone accessible"
+END
+
+OBJECT:ShireMeriadoc
+"Meriadoc Brandibouc"
+END
+
+CONTROLBAR:ShireMeriadocRecruit
+"Recruter le Chevalier de Rohan, Meriadoc Brandibouc\n\n« Garde ton souffle ! » rit Merry. « J’en ai un meilleur. » Puis, levant son cor d’argent, il le souffla, et son appel clair résonna sur la colline ; et des trous, des hangars et des maisons délabrées de Hobbiton, les hobbits répondirent, jaillirent en foule, et, avec des acclamations et des cris, suivirent la compagnie sur la route vers Cul-de-Sac."
+END
+
+CONTROLBAR:ShireMeriadocRevive
+"Réanimer le héros tombé, Meriadoc Brandibouc"
+END
+
+CONTROLBAR:ShireMeriadocHotkey
+"Meriadoc Brandibouc (&S)"
+END
+
+CONTROLBAR:ToolTipBondsofFellowshipMerry
+"Type de modificateur : Leadership\nMeriadoc gagne +15 % de dégâts quand il est proche de Peregrin, Samwise ou Frodo\nCapacité passive\nS’active pour devenir invisible en restant immobile\nClic gauche pour activer"
+END
+
+CONTROLBAR:MerryKnight
+"Chevalier de Rohan (&T)"
+END
+
+CONTROLBAR:ToolTipMerryKnight
+"Requiert niveau 3\nType de modificateur : Leadership\nLes unités Hobbit proches gagnent +25 % d’armure et d’expérience\nCapacité passive\nMeriadoc plante sa Lame de l’Ouest dans un héros ennemi, infligeant de lourds dégâts et le handicapant pendant 10 secondes\nClic gauche sur l’icône puis clic gauche sur le héros ennemi ciblé"
+END
+
+CONTROLBAR:MerryHorn
+"Cor rohirrim (&C)"
+END
+
+CONTROLBAR:ToolTipMerryHorn
+"Requiert niveau 5\nMeriadoc souffle dans le cor d’argent du Rohan, effrayant les unités ennemies proches pendant 15 secondes\nNe peut être utilisé que monté\nClic gauche pour activer"
+END
+
+CONTROLBAR:MerryMagnificent
+"Meriadoc le Magnifique (&V)"
+END
+
+CONTROLBAR:ToolTipMerryMagnificent
+"Requiert niveau 7\nType de modificateur : Sort\nLes unités proches gagnent +15 % de vitesse et une résistance à la peur, la terreur, le recul et l’écrasement pendant 30 secondes\nClic gauche pour activer"
+END
+
+OBJECT:ShireSam
+"Samsaget Gamgie"
+END
+
+CONTROLBAR:ShireSamRecruit
+"Recruter Samwise le Courageux\n\n« Un petit jardin tenu par un jardinier libre suffisait à ses besoins et droits, pas un jardin étendu comme un royaume ; ses propres mains pour travailler, pas celles des autres pour commander. »"
+END
+
+CONTROLBAR:ShireSamRevive
+"Réanimer le héros tombé, Samsaget Gamgie"
+END
+
+CONTROLBAR:ShireSamHotkey
+"Samsaget Gamgie (&D)"
+END
+
+CONTROLBAR:ToolTipBondsofFellowshipSam
+"Type de modificateur : Leadership\nSamwise gagne +15 % de dégâts quand il est proche de Peregrin, Meriadoc ou Frodo\nCapacité passive\nS’active pour devenir invisible en restant immobile\nClic gauche pour activer"
+END
+
+CONTROLBAR:ShireStewPot
+"Ragoût de lapin (&T)"
+END
+
+CONTROLBAR:ToolTipShireStewPot
+"Requiert niveau 3\nInvoque un chaudron de ragoût qui soigne les unités proches, réanime les unités tombées et accorde +50 % d’armure\nClic gauche sur l’icône puis clic gauche sur la position ciblée"
+END
+
+CONTROLBAR:ShireSamwiseBlademaster
+"Pour mon vieux Gaffer (&C)"
+END
+
+CONTROLBAR:TooltipShireSamwiseBlademaster
+"Requiert niveau 5\nType de modificateur : Buff\nSam gagne +100 % de dégâts, +50 % d’armure pendant 30 secondes\nClic gauche pour activer"
+END
+
+CONTROLBAR:ShireSamTheBrave
+"Samwise le Courageux (&V)"
+END
+
+CONTROLBAR:ToolTipShireSamTheBrave
+"Requiert niveau 10\nType de modificateur : Sort\nLes unités amies proches dans un large rayon deviennent invulnérables tandis que les unités ennemies proches subissent des dégâts sur la durée pendant 30 secondes\nClic gauche pour activer"
+END
+
+OBJECT:ShireFrodo
+"Frodo Bessac"
+END
+
+CONTROLBAR:ShireFrodoRecruit
+"Recruter le noble Hobbit du Comté\n\n« Cela doit souvent être ainsi, Sam, quand les choses sont en danger : quelqu’un doit les abandonner, les perdre, pour que d’autres puissent les garder. »"
+END
+
+CONTROLBAR:ShireFrodoRevive
+"Réanimer le héros tombé, Frodo"
+END
+
+CONTROLBAR:ShireFrodoHotkey
+"Frodo Bessac (&F)"
+END
+
+CONTROLBAR:ToolTipBondsofFellowshipFrodo
+"Type de modificateur : Leadership\nFrodo gagne +15 % de dégâts quand il est proche de Peregrin, Meriadoc ou Samwise\nCapacité passive\nS’active pour devenir invisible en restant immobile\nClic gauche pour activer"
+END
+
+CONTROLBAR:ShirePhialOfGaladriel
+"Lumière d’Eärendil (&T)"
+END
+
+CONTROLBAR:ToolTipShirePhialOfGaladriel
+"Les ennemis proches prennent la fuite de peur et subissent des dégâts sur la durée pendant 10 secondes\nClic gauche pour activer"
+END
+
+CONTROLBAR:FrodoDissent
+"Frodo aux Neuf Doigts (&C)"
+END
+
+CONTROLBAR:ToolTipFrodoDissent
+"Requiert niveau 3\nProvoque des combats entre unités ennemies et monstres dans la zone pendant 45 secondes\nClic gauche sur l’icône puis clic gauche sur la zone ciblée"
+END
+
+CONTROLBAR:ShireFrodoLeadership
+"Héros de la Terre du Milieu"
+END
+
+CONTROLBAR:ToolTipShireFrodoLeadership
+"Requiert niveau 5\nType de modificateur : Leadership\nLes alliés proches gagnent +50 % de dégâts, +50 % d’armure,\net gagnent de l’expérience deux fois plus vite\nLes temps de recharge des capacités des unités et héros proches sont réduits de 25 %\nCapacité passive"
+END
+
+OBJECT:FireworkCrew
+"Pyrotechnicien"
+END
+
+OBJECT:ShireFireworkLauncher
+"Lanceur de feux d’artifice"
+END
+
+CONTROLBAR:ConstructShireFireworkLauncher
+"Lanceur de feux d’artifice (&S)"
+END
+
+CONTROLBAR:ToolTipBuildShireFireworkLauncher
+"Requiert Gandalf’s Fireworks\nEfficace contre les structures\nIntroduits par le magicien errant appelé Gandalf, les feux d’artifice sont devenus un élément célébré des festivités hobbits."
+END
+
+CONTROLBAR:SquibsCrackersBackarappers
+"Petards, pétards d’artifice et coups de dos (&W)"
+END
+
+CONTROLBAR:ToolTipSquibsCrackersBackarappers
+"Lance un feu d’artifice-dragon sur les unités ennemies, les repoussant\nClic gauche sur l’icône puis clic gauche sur la cible"
+END
+
+OBJECT:ShirePartyTree
+"L’Arbre de la Fête"
+END
+
+CONTROLBAR:OldToby
+"Vieux Toby"
+END
+
+CONTROLBAR:TooltipOldToby
+"Soigne partiellement les unités et remplace un mort par bataillon\nType de modificateur : Malus\nLes unités alliées et ennemies ciblées perdent -25 % de vitesse de déplacement pendant 30 secondes\nClic gauche sur l’icône puis clic gauche sur les unités ciblées"
+END
+
+CONTROLBAR:ShireWatchfulProtectors
+"Défenseurs Silencieux"
+END
+
+CONTROLBAR:TooltipShireWatchfulProtectors
+"Révèle le brouillard de guerre et invoque trois Rôdeurs du Nord dans la zone ciblée pour 60 secondes\nType de modificateur : Bonus\nAccorde un bonus temporaire de +15 % de vitesse aux unités dans la zone ciblée pendant 35 secondes\nS’empile toujours\nClic gauche sur l’icône puis clic gauche sur la zone ciblée"
+END
+
+CONTROLBAR:RallyingCallShire
+"Peur ! Feu ! Ennemis !"
+END
+
+CONTROLBAR:ShireGildorSummon
+"Compagnies Errantes"
+END
+
+CONTROLBAR:TooltipShireGildorSummon
+"Invoque deux bataillons d’Exilés Noldor et Gildor\nClic gauche sur l’icône puis clic gauche sur la zone ciblée"
+END
+
+CONTROLBAR:ShireGildorTelperion
+"Lumière de Telperion (&R)"
+END
+
+CONTROLBAR:ToolTipShireGildorTelperion
+"Gildor révèle sa Lanterne bénie, forçant les unités ennemies à fuir de terreur\nClic gauche pour activer"
+END
+
+CONTROLBAR:ArrowVolleyShire
+"Tir précis"
+END
+
+CONTROLBAR:SpellBookShireHuorn
+"La Vieille Forêt s’éveille"
+END
+
+CONTROLBAR:ShirePartyTree
+"L’Arbre de la Fête"
+END
+
+CONTROLBAR:TooltipShirePartyTree
+"Invoque l’Arbre de la Fête\nLes unités proches se soignent avec le temps et gagnent +33 % de dégâts et d’armure\nL’Arbre de la Fête peut lancer Fête Inattendue pour affaiblir les unités ennemies proches\nClic gauche sur l’icône puis clic gauche sur l’emplacement ciblé"
+END
+
+CONTROLBAR:SummonDunedainOutriders
+"Défenseurs du Nord"
+END
+
+CONTROLBAR:TooltipSummonDunedainOutriders
+"Invoque trois bataillons de Cavaliers Dúnedain\nClic gauche sur l’icône puis clic gauche sur un emplacement praticable"
+END
+
+CONTROLBAR:ShireCloudBreak
+"Vent de l’Ouest"
+END
+
+CONTROLBAR:ShireHalflingBravery
+"Courage des Halfelins"
+END
+
+CONTROLBAR:TooltipShireHalflingBravery
+"Type de modificateur : Bonus\nLes unités amies gagnent +15 % de vitesse, +75 % de dégâts, +75 % d’armure et résistance à la peur, la terreur et aux repousses pendant 20 secondes\nClic gauche sur l’icône puis clic gauche sur les unités ciblées"
+END
+
+CONTROLBAR:ShireHornBuckland
+"Appel du Cor du Pays de Bouc"
+END
+
+CONTROLBAR:ToolTipShireHornBuckland
+"Les unités ennemies dans le rayon subissent -50 % d’armure\net -50 % de dégâts pendant 30 secondes\nLes héros dans le rayon voient leurs temps de recharge réinitialisés et sont modérément soignés\nToutes les unités amies sur le champ de bataille peuvent temporairement\npiétiner les ennemis\nToutes les unités de cavalerie sur le champ de bataille gagnent +50 % d’armure\ncontre les lanceurs de javelots pendant 30 secondes\nClic gauche sur l’icône puis clic gauche sur les unités ciblées"
+END
+
+CONTROLBAR:ShireBilboRecruit
+"Recruter le noble Hobbit du Comté\n\nLa route continue sans fin\nDepuis la porte où elle a commencé.\nMaintenant, loin devant, la route s’étend,\nEt je dois la suivre, si je peux,\nLa poursuivant avec des pieds impatients,\nJusqu’à ce qu’elle rejoigne une voie plus large\nOù beaucoup de chemins et de tâches se rencontrent.\nEt où alors ? Je ne peux dire."
+END
+
+CONTROLBAR:ShireBilboRevive
+"Réanimer le héros tombé, Bilbo."
+END
+
+CONTROLBAR:RetiredBurglar
+"Cambrioleur Retraité"
+END
+
+CONTROLBAR:ToolTipRetiredBurglar
+"Type de modificateur : Sort\nBilbo peut cibler des unités ennemies\nLes alliés autour de la cible gagnent 100 % d’armure, +100 % de dégâts et résistance à la peur et à la terreur\nCapacité passive"
+END
+
+CONTROLBAR:VeryFondFarewell
+"Un Adieu Très Affectueux (&R)"
+END
+
+CONTROLBAR:ToolTipVeryFondFarewell
+"Bilbo enfile l’Anneau Unique et disparaît de la vue pendant 2 minutes\nBilbo ne peut pas attaquer mais ses capacités restent utilisables\nClic gauche pour activer"
+END
+
+CONTROLBAR:TunnelsFilled
+"Les Tunnels Remplis d’Or (&T)"
+END
+
+CONTROLBAR:ToolTipTunnelsFilled
+"Peut être lancé sur un trou de Hobbit pour faire apparaître un Coffre d’Or toutes les 20 secondes pendant 2 minutes\nClic gauche puis clic gauche sur la structure ciblée"
+END
+
+CONTROLBAR:PartyInvitations
+"Invitations à la Fête (&C)"
+END
+
+CONTROLBAR:ToolTipPartyInvitations
+"Bilbo envoie ses invitations à la fête\nInvoque un bataillon aléatoire d’unités Hobbits\nClic gauche pour activer"
+END
+
+CONTROLBAR:RoadGoesEverOn
+"La Route Continue Sans Fin (&V)"
+END
+
+CONTROLBAR:TooltipRoadGoesEverOn
+"Bilbo est prêt pour une nouvelle aventure\nBilbo se téléporte à l’emplacement ciblé\nClic gauche sur l’icône puis clic gauche sur un emplacement praticable"
+END
+
 
 OBJECT:HighPassGwaihir
 "Gwaihir"
@@ -89645,123 +90395,134 @@ END
 
 /////ADVENTURE MAPS/////
 
-Map:MAPMPadventureangmar
-"Aventure: Angmar*"
+Map:MAPMPalternateangmar
+"Faction alternative : Angmar*"
 End
 
-Map:MAPMPadventureangmar/Desc
+Map:MAPMPalternateangmar/Desc
 "Sorti de sa cachette, le Seigneur des Nazgûl établit le royaume d'Angmar et entreprend de détruire les Dúnedain du Nord alors vulnérables à cause des conflits politiques.\N- Carte d'aventure en mode solo.\N- Joueur humain : Dol Guldur"
 End
 
 /////
 
-Map:MAPMPadventureangmarwars
-"Aventure: Les guerres d'Angmar*"
+Map:MAPMPalternateangmarwars
+"Faction alternative : Les guerres d'Angmar*"
 End
 
-Map:MAPMPadventureangmarwars/Desc
+Map:MAPMPalternateangmarwars/Desc
 "L'ancien conflit qui a vu Arnor et les royaumes qui lui ont succédé détruits par le royaume maléfique d'Angmar a duré des générations. Malgré leur défaite, les armées des Dúnedain ont remporté de nombreuses victoires contre le Roi-Sorcier. \n Carte d'aventure multijoueur \n Joueurs humains : Dol Guldur et Gondor"
 End
 
 /////
 
-Map:MAPMPadventurearthedain
-"Aventure: Arthedain*"
+Map:MAPMPalternatearthedain
+"Faction alternative : Arthedain*"
 End
 
-Map:MAPMPadventurearthedain/Desc
+Map:MAPMPalternatearthedain/Desc
 "Dernier vestige du Royaume du Nord, l'Arthedain tente vaillamment d'endiguer la marée du mal qui déferle sur l'Angmar déchu. Le roi Arvedui, descendant de Numenor, déploie ses armées bardées d'acier et scintillantes sous le soleil qui se couche sur son royaume.\NCarte d'aventure en solo.\NJoueur humain : Gondor"
 End
 
 /////
 
-Map:MAPMPadventurebattleofthefivearmies
-"Aventure: Bataille des Cinq Armées*"
+Map:MAPMPalternatebattleofthefivearmies
+"Faction alternative : Bataille des Cinq Armées*"
 End
 
-Map:MAPMPadventurebattleofthefivearmies/Desc
+Map:MAPMPalternatebattleofthefivearmies/Desc
 "'... au coeur des montagnes orques, les forges s'activent et on s'arme jusqu'aux dents. Puis ils se mirent en branle... jusqu'à ce qu'aux alentours et en dessous des Monts Gundabad, ou se trouvait leur capitale, une vaste armée fut rassemblée, prête à déferler à l'improviste sur le Sud en cas de tempête. \N- Carte d'aventure en solo \N- Joueur humain : Erebor"
 END
 
 /////
 
-Map:MAPMPadventuredorwinion
-"Aventure: Dorwinion*"
+Map:MAPMPalternatedorwinion
+"Faction alternative : Dorwinion*"
 End
 
-Map:MAPMPadventuredorwinion/Desc
+Map:MAPMPalternatedorwinion/Desc
 "Envoyés comme émissaires des Valar, les Ithryn Luin parcoururent l'extrême Est à la recherche de l'Ennemi. Ils semèrent la discorde parmi ses serviteurs, entravant ainsi leurs efforts pour submerger Dorwinion. \n Carte d'aventure en solo\n Joueur humain : Royaume des forêts."
 END
 
 /////
 
-Map:MAPMPadventuredurinsfolk
-"Aventure: le Peuple de Durin*"
+Map:MAPMPalternatedurinsfolk
+"Faction alternative : le Peuple de Durin*"
 End
 
-Map:MAPMPadventuredurinsfolk/Desc
+Map:MAPMPalternatedurinsfolk/Desc
 "Bien que de nombreux Nains aient émigré vers le nouveau royaume d'Erebor après la mort de Smaug, certains sont restés dans les collines de fer, exploitant le minerai ferreux et formant des colonies de Nains robustes dont les compétences martiales sont indéniables.\n Carte d'aventure en solo \n Joueur humain : Erebor"
 END
 
 
 /////
 
-Map:MAPMPadventuregreycompany
-"Aventure: Compagnie Grise*"
+Map:MAPMPalternategreycompany
+"Faction alternative : Compagnie Grise*"
 End
 
-Map:MAPMPadventuregreycompany/Desc
+Map:MAPMPalternategreycompany/Desc
 "Émergeant des Chemins des Morts, Aragorn et la Compagnie Grise se hâtèrent à travers les terres du sud du Gondor en direction de Minas Tirith, arrivant d'abord à la rivière Morthond et à la Vallée de la Racine Noire. \n Carte d'aventure en solo \n Joueur humain : Gondor"
 End
 
 /////
 
-Map:MAPMPadventureithilien
-"Aventure: Ithilien*"
+Map:MAPMPalternateithilien
+"Faction alternative : Ithilien*"
 End
 
-Map:MAPMPadventureithilien/Desc
+Map:MAPMPalternateithilien/Desc
 "L'ennemi s'attaque au Gondor : Les orques et les uruks saccagent les forêts verdoyantes d'Ithilien, les légions de Suderons marchent vers les Terres Noires sans être réfrénées . Faramir, capitaine du Gondor, et ses Rôdeurs ont pour mission d'arrêter ces ennemis avant qu'ils ne submergent la Cité Blanche.\n Carte d'aventure en solo.\n Joueur humain : Gondor"
 End
 
 /////
 
-Map:MAPMPadventuremorgul
-"Aventure : Minas Morgul*"
+Map:MAPMPalternatemorgul
+"Faction alternative : Minas Morgul*"
 End
 
-Map:MAPMPadventuremorgul/Desc
+Map:MAPMPalternatemorgul/Desc
 "Minas Morgul, la Cité des Morts, était autrefois la splendide Minas Ithil avant d’être capturée par le Seigneur des Nazgûl. Elle est désormais le repaire des Neuf, qui ont profané la Tour de la Lune par une sorcellerie indicible.\nCarte d’aventure solo\nJoueur humain : Mordor"
 End
 
 /////
 
-Map:MAPMPadventurerhun
-"Aventure: Rhûn*"
+Map:MAPMPalternaterhun
+"Faction alternative : Rhûn*"
 End
 
-Map:MAPMPadventurerhun/Desc
+Map:MAPMPalternaterhun/Desc
 "Les Orientaux comptaient parmi les serviteurs les plus fanatiques et les plus dévoués au Seigneur des Ténèbres. Originaires des vastes terres du Rhûn, ils étaient réputés pour leurs prouesses martiales et leur intrépidité au combat. \n Carte d'aventure en solo \n Joueur humain : Mordor"
 End
 
 /////
 
 
-Map:MAPMPadventureshadowandflame
-"Aventure: l'Ombre et la Flamme*"
+Map:MAPMPalternateshadowandflame
+"Faction alternative :l'Ombre et la Flamme*"
 End
 
-Map:MAPMPadventureshadowandflame/Desc
+Map:MAPMPalternateshadowandflame/Desc
 "Khazad-dûm, l'ancien grand royaume nain, a été profané par les Orques qui ont désormais envahi les salles abandonnées. Pourtant, il existe des choses plus anciennes et plus répugnantes que les orques tapies dans les profondeurs du monde.\n Carte d'aventure en solo \n Joueur humain : Monts Brumeux"
 End
 
 /////
 
-Map:MAPMPadventurewhitehand
-"Aventure : La Main Blanche*"
+Map:MAPMPalternateshire
+"Faction alternative : La Comté*"
 End
 
-Map:MAPMPadventurewhitehand/Desc
+Map:MAPMPalternateshire/Desc
+"La Comté était une terre verte et fertile, habitée par les Hobbits. Les Hobbits étaient une race paisible qui appréciait grandement les plaisirs de la vie ; pourtant, malgré leur petite taille et leur nature discrète, ils pouvaient faire preuve d'une remarquable résilience et accomplir de grandes choses.\nCarte de faction alternative\nFaction remplacée : Fondcombe"
+End
+
+
+/////
+
+Map:MAPMPalternatewhitehand
+"Faction alternative : La Main Blanche*"
+End
+
+Map:MAPMPalternatewhitehand/Desc
 "La Main Blanche de Saroumane marquait les serviteurs orques et les bêtes monstrueuses que le sorcier avait créés dans sa tentative de détruire le monde des Hommes.\nCarte d’aventure solo\nJoueur humain : Isengard"
 End
 
@@ -91492,6 +92253,14 @@ Map:MAPMPgreylin/Desc
 "Un grand fleuve ramifié qui s'écoule vers le Sud depuis les Montagnes grises, pour finalement rejoindre l'Anduin près de sa source. \n\n Antres : Wargs, Gobelins. \n Dangers : Froid glacial. \n Région : Monts Brumeux. \n"
 End
 
+Map:MAPMPgreywood
+"Forêt Grise*"
+End
+
+Map:MAPMPgreywood/Desc
+"Une forêt s’étendant entre le mont Mindolluin en Gondor et la colline du feu de signal d’Amon Dín.\nCréatures : Esprit de tombe, Gobelin\nCapturable : Auberge\nRégion : Gondor"
+End
+
 /////
 
 Map:MAPMPgulfoflune
@@ -91917,6 +92686,17 @@ End
 Map:MAPMPkinefieldsofrhun/Desc
 "Les Kine d'Araw sont une espèce de bœufs robustes qui habitent les vastes champs entourant la Mer de Rhûn dans l'Est lointain. La Corne de Gondor a été façonnée à partir d'une corne de l'une de ces grandes bêtes. \n Capturable: Feu d'Alarme \n Région: Rhûn"
 End
+
+/////
+
+Map:MAPMPkingsfell
+"Kingsfell*"
+End
+
+Map:MAPMPkingsfell/Desc
+"Au cœur des North Downs, Kingsfell est principalement composé de plaines ondulantes aux sols fertiles et de petites collines, traversées par une rivière. Dispersées dans la région, des ruines du passé servent d’abri aux patrouilles des Dúnedain.\nCapturable : Feu de signalisation, Auberge\nCréatures : Wargs, Esprits de tombe\nRégion : Arnor"
+End
+
 
 /////
 
@@ -92959,7 +93739,7 @@ Map:MAPMPtaurorthon
 End
 
 Map:MAPMPtaurorthon/Desc
-"Ce sont des terres frontalières entre le nord venteux d'Eriador et les étendues glacées de Forodwaith. \nCapturable : Taverne\nCréatures : Wargs Blancs\nRégion : Forodwaith"
+"Ce sont des terres frontalières entre le nord venteux d'Eriador et les étendues glacées de Forodwaith. \nCapturable : Taverne\nCréatures : Wargs Blancs, Trolls\nRégion : Forodwaith"
 End
 
 /////
