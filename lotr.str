@@ -72277,7 +72277,7 @@ CONTROLBAR:ArwenEvenstar
 END
 
 CONTROLBAR:ToolTipArwenEvenstar
-"Requiert : Niveau 10 \n Les unité alliées dans le rayon acquièrent temporairement une immunité contre la Peur et sont soignées lorsqu'elles infligent des dégâts pendant 60. \n N'affecte pas les Héros, La Compagnie Grise ou les Laurëthelyn. \n\n Clic gauche sur l'icône puis clic gauche sur la zone ciblée."
+"Requiert : Niveau 10 \n Les unité alliées dans le rayon acquièrent temporairement une immunité contre la Peur et sont soignées lorsqu'elles infligent des dégâts pendant 60. \n Clic gauche sur l'icône puis clic gauche sur la zone ciblée."
 END
 
 CONTROLBAR:ArwenFlood
@@ -75256,6 +75256,14 @@ CONTROLBAR:RohanTheodredRevive
 END
 CONTROLBAR:RohanTheodredHotkey
 "Théodred [&S]"
+END
+
+OBJECT:RohanWestfolderOutrider
+"Éclaireur du Ouestfolde"
+END
+
+OBJECT:RohanWestfoldOutriderHorde
+"Éclaireurs du Ouestfolde"
 END
 
 OBJECT:RohanWestfolder
@@ -80905,11 +80913,11 @@ CONTROLBAR:PurchaseUpgradeBeekeeping
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeBeekeeping
-"Requiert : Pavillon des Béornides Niveau 3\nLa production de ressources des Loges Beorning est augmentée de 2500%"
+"Requiert : Pavillon des Béornides Niveau 3\nLa production de ressources des Loges Beorning est augmentée de 250%"
 END
 
 CONTROLBAR:ToolTipBeekeeping
-"La production de ressources du Pavillon des Béornides est augmentée de 2500%\nCompétence passive"
+"La production de ressources du Pavillon des Béornides est augmentée de 250%\nCompétence passive"
 END
 
 CONTROLBAR:Beekeeping
@@ -85683,7 +85691,7 @@ CONTROLBAR:AngmarAvalanche
 END
 
 CONTROLBAR:PurchaseUpgradeCapturedPalantir
-"Palanti&r capturé"
+"Palantir capturé (&E)"
 END
 CONTROLBAR:CapturedPalantir
 "Palan&tir capturé"
@@ -88461,7 +88469,7 @@ CONTROLBAR:ShirePartyTree
 END
 
 CONTROLBAR:TooltipShirePartyTree
-"Invoque l’Arbre de la Fête\nLes unités proches se soignent avec le temps et gagnent +33 % de dégâts et d’armure\nL’Arbre de la Fête peut lancer Fête Inattendue pour affaiblir les unités ennemies proches\nClic gauche sur l’icône puis clic gauche sur l’emplacement ciblé"
+"Invoque l’Arbre de la Fête\nLes unités proches se soignent avec le temps et gagnent +25% de dégâts et d’armure\nL’Arbre de la Fête peut lancer Fête Inattendue pour affaiblir les unités ennemies proches\nClic gauche sur l’icône puis clic gauche sur l’emplacement ciblé"
 END
 
 CONTROLBAR:SummonDunedainOutriders
