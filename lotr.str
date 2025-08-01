@@ -18171,7 +18171,7 @@ CONTROLBAR:ToggleMogWeapon
 END
 
 CONTROLBAR:ToolTipToggleMogWeapon
-"Móg gagne +5?% d’armure supplémentaire à chaque attaque, jusqu’à un maximum de 20?%\nPeut être basculé pour obtenir +5?% de dégâts supplémentaires à la place, jusqu’à un maximum de 20?%\nClique gauche pour basculer entre les bonus"
+"Móg gagne +5% d’armure supplémentaire à chaque attaque, jusqu’à un maximum de 20%\nPeut être basculé pour obtenir +5% de dégâts supplémentaires à la place, jusqu’à un maximum de 20%\nClique gauche pour basculer entre les bonus"
 END
 
 CONTROLBAR:MogBrutishCleave
@@ -18187,7 +18187,7 @@ CONTROLBAR:MogBloodFrenzy
 END
 
 CONTROLBAR:ToolTipMogBloodFrenzy
-"Nécessite le niveau 5\nLorsque Móg tombe en dessous de 35?% de santé, il entre en frénésie, gagne +150?% de dégâts et absorbe de la vie à chaque coup pendant 15 secondes\nNe peut être déclenché qu’une fois toutes les 60 secondes\nCapacité passive"
+"Nécessite le niveau 5\nLorsque Móg tombe en dessous de 35% de santé, il entre en frénésie, gagne +150% de dégâts et absorbe de la vie à chaque coup pendant 15 secondes\nNe peut être déclenché qu’une fois toutes les 60 secondes\nCapacité passive"
 END
 
 CONTROLBAR:MogWrathfulSpawn
@@ -18195,7 +18195,7 @@ CONTROLBAR:MogWrathfulSpawn
 END
 
 CONTROLBAR:ToolTipMogWrathfulSpawn
-"Nécessite le niveau 7\nMóg pousse un hurlement de rage, effrayant les ennemis proches\nPendant 30 secondes, Móg gagne +15?% de vitesse de déplacement et peut piétiner les ennemis\nClique gauche pour activer"
+"Nécessite le niveau 7\nMóg pousse un hurlement de rage, effrayant les ennemis proches\nPendant 30 secondes, Móg gagne +15% de vitesse de déplacement et peut piétiner les ennemis\nClique gauche pour activer"
 END
 
 CONTROLBAR:MogDecimate
@@ -18612,7 +18612,7 @@ CONTROLBAR:SpecialAbilityCommanderSword
 END
 
 CONTROLBAR:ToolTipCommanderSword
-"Type de modificateur : Malus actif\nLes unités ennemies ciblées subissent -25?% de dégâts et -20?% d’armure pendant 30 secondes\nAnnule le leadership ennemi\nClique gauche sur l’icône puis clique gauche sur les unités ciblées"
+"Type de modificateur : Malus actif\nLes unités ennemies ciblées subissent -25% de dégâts et -20% d’armure pendant 30 secondes\nAnnule le leadership ennemi\nClique gauche sur l’icône puis clique gauche sur les unités ciblées"
 END
 
 CONTROLBAR:SpecialAbilityCommanderWords
@@ -18620,7 +18620,7 @@ CONTROLBAR:SpecialAbilityCommanderWords
 END
 
 CONTROLBAR:ToolTipCommanderWords
-"Les unités alliées dans le rayon gagnent +25?% d’armure pendant 30 secondes\nClique gauche sur l’icône puis clique gauche sur le bataillon ciblé"
+"Les unités alliées dans le rayon gagnent +25% d’armure pendant 30 secondes\nClique gauche sur l’icône puis clique gauche sur le bataillon ciblé"
 END
 
 CONTROLBAR:AragornSwiftDispatch
@@ -18636,7 +18636,7 @@ CONTROLBAR:AragornRangerSubtlety
 END
 
 CONTROLBAR:ToolTipAragornRangerSubtlety
-"Aragorn gagne +150?% de portée de vision pendant 25 secondes\nCapacité passive"
+"Aragorn gagne +150% de portée de vision pendant 25 secondes\nCapacité passive"
 END
 
 CONTROLBAR:AragornRareGift
@@ -18949,7 +18949,7 @@ CONTROLBAR:OropherLastStand
 END
 
 CONTROLBAR:ToolTipOropherLastStand
-"Requiert : Niveau 8\nCrée un cercle autour d’Oropher\nLes ennemis subissent des dégâts sur la durée et sont ralentis de 15?%\nDure 60 secondes\nClique gauche pour activer"
+"Requiert : Niveau 8\nCrée un cercle autour d’Oropher\nLes ennemis subissent des dégâts sur la durée et sont ralentis de 15%\nDure 60 secondes\nClique gauche pour activer"
 END
 
 
@@ -19003,7 +19003,7 @@ CONTROLBAR:SuladanMount
 END
 
 CONTROLBAR:SuladanMountTooltip
-"Clic gauche pour basculer entre monté et à pied\n\nType de modificateur : Charisme\nLorsque montés, les cavaliers d'Harondor proches de Sûladan gagnent +20?% d’armure et -15?% de ralentissement au piétinement\n\nLorsque à pied, l’infanterie Harondor gagne +33% d’armure et de dégâts ainsi que +25% d’expérience\nCapacité passive"
+"Clic gauche pour basculer entre monté et à pied\n\nType de modificateur : Charisme\nLorsque montés, les cavaliers d'Harondor proches de Sûladan gagnent +20% d’armure et -15% de ralentissement au piétinement\n\nLorsque à pied, l’infanterie Harondor gagne +33% d’armure et de dégâts ainsi que +25% d’expérience\nCapacité passive"
 END
 
 CONTROLBAR:LordDainMount
@@ -19304,7 +19304,7 @@ CONTROLBAR:ToggleAmbushFormation
 END
 
 CONTROLBAR:ToolTipTogglePorcupineFormation
-"-40?% de vitesse \n+25?% d’armure \nDégâts bonus contre la cavalerie"
+"-40% de vitesse \n+25% d’armure \nDégâts bonus contre la cavalerie"
 END
 
 CONTROLBAR:ToggleSpearWallFormation
@@ -62369,7 +62369,7 @@ END
 
 CONTROLBAR:ToolTipFellowshipLegolasSlayer
 //"Requires Level 6 \n For 15 seconds, Legolas ignores enemy armour and slows down his targets by 40%\n Left click to activate"
-"Requiert : Niveau 6 \n Pendant 15 secondes, les flèches de Legolas ignorent l’armure ennemie et ralentissent leurs cibles de 40?% pendant 5 secondes\n Clic gauche pour activer"
+"Requiert : Niveau 6 \n Pendant 15 secondes, les flèches de Legolas ignorent l’armure ennemie et ralentissent leurs cibles de 40% pendant 5 secondes\n Clic gauche pour activer"
 END
 
 
@@ -62472,7 +62472,7 @@ CONTROLBAR:ToolTipMumakBigAsHouse
 END
 
 CONTROLBAR:ToolTipGothmogIronHand
-"Type de modificateur : Commandement\nLes Orques proches de Gothmog gagnent \n +33?% de dégâts, +33?% d’armure,\n Immunité à la peur et à la terreur \net gagnent de l’expérience 33% plus rapidement\nCapacité passive\n\nAu niveau 5, peut être activée pour faire pleuvoir une volée de têtes coupées sur une zone ciblée, ce qui provoque la peur chez les unités ennemies et inflige des dégâts de poison pendant 20 secondes\nClic gauche sur l’icône puis clic sur la zone ciblée"
+"Type de modificateur : Commandement\nLes Orques proches de Gothmog gagnent \n +33% de dégâts, +33% d’armure,\n Immunité à la peur et à la terreur \net gagnent de l’expérience 33% plus rapidement\nCapacité passive\n\nAu niveau 5, peut être activée pour faire pleuvoir une volée de têtes coupées sur une zone ciblée, ce qui provoque la peur chez les unités ennemies et inflige des dégâts de poison pendant 20 secondes\nClic gauche sur l’icône puis clic sur la zone ciblée"
 END
 
 CONTROLBAR:ToolTipGothmogDayoftheOrc
@@ -62616,7 +62616,7 @@ CONTROLBAR:ToolTipBloodthirstyMordorFighter
 END
 
 CONTROLBAR:ToolTipBloodthirsty_WhiteHand
-"Requiert : Niveau 3 ou que Frénésie sanguinaire ait été utilisée\n Soif de sang confère en permanence +25?% de dégâts à l’unité\nCapacité passive"
+"Requiert : Niveau 3 ou que Frénésie sanguinaire ait été utilisée\n Soif de sang confère en permanence +25% de dégâts à l’unité\nCapacité passive"
 END
 
 CONTROLBAR:TooltipScreechBlackRider
@@ -62641,7 +62641,7 @@ CONTROLBAR:TooltipUpgradeMordorTrollCageLevel2
 End
 
 CONTROLBAR:TooltipUpgradeMordorSiegeWorksLevel3
-"Permet le recrutement de Grond\nSoigne les Grandes Bêtes proches et augmente les soins prodigués aux machines de siège endommagées à proximité \n+25?% de vitesse de construction"
+"Permet le recrutement de Grond\nSoigne les Grandes Bêtes proches et augmente les soins prodigués aux machines de siège endommagées à proximité \n+25% de vitesse de construction"
 End
 
 
@@ -62725,7 +62725,7 @@ CONTROLBAR:ToolTipZerkSlayer
 END
 
 CONTROLBAR:ToolTipWyrmVetZerkSlayer
-"Requiert Niveau 3 \n Les Tueurs de dragons infligent des dégâts de feu par attaque, gagnent +20?% de vitesse de déplacement et +33?% d’armure pendant 20 secondes\nClic gauche pour activer"
+"Requiert Niveau 3 \n Les Tueurs de dragons infligent des dégâts de feu par attaque, gagnent +20% de vitesse de déplacement et +33% d’armure pendant 20 secondes\nClic gauche pour activer"
 END
 
 CONTROLBAR:TooltipSunflare
@@ -63535,7 +63535,7 @@ CONTROLBAR:FellPursuit
 END
 
 CONTROLBAR:TooltipFellPursuit
-"Requiert : Niveau 6\n Les Nazgûl gagnent +20% de vitesse de déplacement et +33?% d’armure pendant 30 secondes\nLes Nazgûl infligent +100?% de dégâts aux machines de siège tant que la capacité est active\nNe peut être utilisé que monté\nClic gauche pour activer"
+"Requiert : Niveau 6\n Les Nazgûl gagnent +20% de vitesse de déplacement et +33% d’armure pendant 30 secondes\nLes Nazgûl infligent +100% de dégâts aux machines de siège tant que la capacité est active\nNe peut être utilisé que monté\nClic gauche pour activer"
 END
 
 
@@ -63564,7 +63564,7 @@ CONTROLBAR:IndustryMordor
 End
 
 CONTROLBAR:ToolTipIndustryMordor
-"La production de ressources de la structure sélectionnée est doublée à 200?% pendant 5 minutes\n N'affecte pas les scieries \n Clic gauche sur l’icône puis clic gauche sur la structure de ressource ciblée"
+"La production de ressources de la structure sélectionnée est doublée à 200% pendant 5 minutes\n N'affecte pas les scieries \n Clic gauche sur l’icône puis clic gauche sur la structure de ressource ciblée"
 End
 
 CONTROLBAR:PippinCourage
@@ -63714,7 +63714,7 @@ CONTROLBAR:HalbaradDevotedCaptain
 END
 
 CONTROLBAR:TooltipHalbaradDevotedCaptain
-"Requiert : Niveau 3 \n Halbarad se téléporte vers un héros allié proche\nÀ son arrivée, les unités ennemies proches perdent 20?% d’armure pendant 30 secondes\nClic gauche puis clic gauche sur la cible"
+"Requiert : Niveau 3 \n Halbarad se téléporte vers un héros allié proche\nÀ son arrivée, les unités ennemies proches perdent 20% d’armure pendant 30 secondes\nClic gauche puis clic gauche sur la cible"
 END
 
 CONTROLBAR:HalbaradBannerOfArwen
@@ -64015,7 +64015,7 @@ CONTROLBAR:ToolTipBuildFireWyrmLairLevel2Upgrade
 "Permet d'apprivoiser les drakes de glaces et de rechercher l'armure Wyrm\n+10 % de vitesse de construction plus rapide"
 END
 CONTROLBAR:ToolTipBuildFireWyrmLairLevel3Upgrade
-"Les Wyrms de feu et Drakes des glaces alliés proches de la Tanière sont soignés passivement au fil du temps\n+25?% de vitesse de construction"
+"Les Wyrms de feu et Drakes des glaces alliés proches de la Tanière sont soignés passivement au fil du temps\n+25% de vitesse de construction"
 END
 
 //------------ Cerin Amroth ---------------
@@ -64056,7 +64056,7 @@ CONTROLBAR:LW_ToolTipBuild_CerinAmrothSentinelHorde
 END
 
 CONTROLBAR:ToolTipCerinAmrothActive
-"Requiert : Niveau 3\n Les Sentinelles de Cerin Amroth gagnent +25?% d’armure pendant 30 secondes\n Clic gauche pour activer"
+"Requiert : Niveau 3\n Les Sentinelles de Cerin Amroth gagnent +25% d’armure pendant 30 secondes\n Clic gauche pour activer"
 END
 
 CONTROLBAR:CerinAmrothActive
@@ -64149,8 +64149,8 @@ END
 
 CONTROLBAR:TooltipLorienShadowstrike
 //"Morlos devient invisible et ne peut\n ni être attaqué ni attaquer\nClic gauche sur l’icône pour activer"
-//"Nécessite le niveau 2 \n Les Traqueurs Sindar deviennent brièvement totalement invisibles. \n +150?% de dégâts pendant la durée. \n Clic gauche sur l’icône pour activer"
-"Requiert niveau 2 \n Les Traqueurs Sindar deviennent brièvement totalement invisibles et infligent +100?% de dégâts pendant 20 secondes\n Clic gauche sur l’icône pour activer"
+//"Nécessite le niveau 2 \n Les Traqueurs Sindar deviennent brièvement totalement invisibles. \n +150% de dégâts pendant la durée. \n Clic gauche sur l’icône pour activer"
+"Requiert niveau 2 \n Les Traqueurs Sindar deviennent brièvement totalement invisibles et infligent +100% de dégâts pendant 20 secondes\n Clic gauche sur l’icône pour activer"
 END
 
 //------------ Sindar Warriors---------------
@@ -64860,7 +64860,7 @@ CONTROLBAR:WordsofDeathMorgul
 END
 
 CONTROLBAR:ToolTipWordsofDeathMorgul
-"Requiert niveau 6 \n Le Nazgûl place un Cercle de Rune sur la zone ciblée\nLes unités alliées dans le Cercle de Rune gagnent +75?% d’armure contre les dégâts à distance, de feu, de givre et magiques pendant 60 secondes\n Clic gauche sur l’icône puis clic gauche sur un emplacement praticable"
+"Requiert niveau 6 \n Le Nazgûl place un Cercle de Rune sur la zone ciblée\nLes unités alliées dans le Cercle de Rune gagnent +75% d’armure contre les dégâts à distance, de feu, de givre et magiques pendant 60 secondes\n Clic gauche sur l’icône puis clic gauche sur un emplacement praticable"
 END
 
 CONTROLBAR:WordsofPestilenceMorgul
@@ -64942,7 +64942,7 @@ CONTROLBAR:MordorMollokReapingSlash
 END
 
 CONTROLBAR:ToolTipMordorMollokReapingSlash
-"Nécessite le niveau 8 \n Mollok gagne +100?% de dégâts et +25?% d’armure et se soigne passivement au fil du temps pendant 20 secondes\n Clic gauche sur l’icône pour activer"
+"Nécessite le niveau 8 \n Mollok gagne +100% de dégâts et +25% d’armure et se soigne passivement au fil du temps pendant 20 secondes\n Clic gauche sur l’icône pour activer"
 END
 
 CONTROLBAR:MollokLeadership
@@ -64959,7 +64959,7 @@ CONTROLBAR:ToolTipSpecialAbilityGondorChargeAttack
 END
 
 CONTROLBAR:ToolTipSpecialAbilityLADunedainChargeAttack
-"Requiert : Niveau 3 \n Les soldats Dúnedain gagnent +15?% de vitesse de déplacement et peuvent écraser les unités ennemies pendant 5 secondes\nLes soldats gagnent également +50?% de dégâts et +50?% d’armure pendant 10 secondes\nClic gauche pour activer"
+"Requiert : Niveau 3 \n Les soldats Dúnedain gagnent +15% de vitesse de déplacement et peuvent écraser les unités ennemies pendant 5 secondes\nLes soldats gagnent également +50% de dégâts et +50% d’armure pendant 10 secondes\nClic gauche pour activer"
 END
 
 CONTROLBAR:GondorArmaments
@@ -65119,7 +65119,7 @@ CONTROLBAR:RumilSummon
 END
 
 CONTROLBAR:ToolTipRumilSummon
-"Requiert le niveau 8 \n Invoque une illusion d’éclaireurs sylvains à l’emplacement ciblé \n Les flèches des archers illusions ne font pas de dégâts mais réduisent la vitesse et les dégâts des unités ennemies de 33?% pendant 3 secondes\nN’affecte pas les unités héroïques ni les héros\nClic gauche sur l’icône puis clic gauche sur un emplacement praticable"
+"Requiert le niveau 8 \n Invoque une illusion d’éclaireurs sylvains à l’emplacement ciblé \n Les flèches des archers illusions ne font pas de dégâts mais réduisent la vitesse et les dégâts des unités ennemies de 33% pendant 3 secondes\nN’affecte pas les unités héroïques ni les héros\nClic gauche sur l’icône puis clic gauche sur un emplacement praticable"
 END
 
 CONTROLBAR:OrophinLeadership
@@ -65127,7 +65127,7 @@ CONTROLBAR:OrophinLeadership
 END
 
 CONTROLBAR:ToolTipOrophinLeadership
-"Requiert le niveau 5 \nType de modificateur : Commandement\nLes unités alliées proches gagnent +15?% de dégâts\nCapacité passive"
+"Requiert le niveau 5 \nType de modificateur : Commandement\nLes unités alliées proches gagnent +15% de dégâts\nCapacité passive"
 END
 
 CONTROLBAR:OrophinGloriousCharge
@@ -65135,7 +65135,7 @@ CONTROLBAR:OrophinGloriousCharge
 END
 
 CONTROLBAR:ToolTipOrophinGloriousCharge
-"Requiert le niveau 7\nType de modificateur : Sort \n Orophin et les unités proches gagnent +50?% d’armure pendant 30 secondes\nClic gauche pour activer"
+"Requiert le niveau 7\nType de modificateur : Sort \n Orophin et les unités proches gagnent +50% d’armure pendant 30 secondes\nClic gauche pour activer"
 END
 
 CONTROLBAR:AmrothLeadership
@@ -65151,7 +65151,7 @@ CONTROLBAR:AmrothLeadership_LAA
 END
 
 CONTROLBAR:ToolTipAmrothLeadership_LAA
-"Type de modificateur : Sort \n Amroth et les unités proches gagnent +50?% d’armure pendant 30 secondes\nClic gauche pour activer"
+"Type de modificateur : Sort \n Amroth et les unités proches gagnent +50% d’armure pendant 30 secondes\nClic gauche pour activer"
 END
 
 CONTROLBAR:GwedhanarLeadership
@@ -65175,7 +65175,7 @@ CONTROLBAR:HaldirFaithfulCompanion
 END
 
 CONTROLBAR:ToolTipHaldirFaithfulCompanion
-"Type de modificateur : Commandement \n Aragorn, Gimli et Legolas gagnent +10?% de dégâts lorsqu’ils sont proches de Haldir\nCapacité passive"
+"Type de modificateur : Commandement \n Aragorn, Gimli et Legolas gagnent +10% de dégâts lorsqu’ils sont proches de Haldir\nCapacité passive"
 END
 
 CONTROLBAR:HaldirSkillMarchwardens
@@ -65183,7 +65183,7 @@ CONTROLBAR:HaldirSkillMarchwardens
 END
 
 CONTROLBAR:ToolTipHaldirSkillMarchwardens
-"Requiert niveau 3 \n Les ennemis dans le rayon subissent +33?% de dégâts des attaques à distance pendant 30 secondes\n Clic gauche puis clic gauche sur la zone ciblée"
+"Requiert niveau 3 \n Les ennemis dans le rayon subissent +33% de dégâts des attaques à distance pendant 30 secondes\n Clic gauche puis clic gauche sur la zone ciblée"
 END
 
 CONTROLBAR:RumilWoundingArrow
@@ -65233,7 +65233,7 @@ CONTROLBAR:AmdirBladeMasterLAA
 END
 
 CONTROLBAR:TooltipAmdirBladeMasterLAA
-"Nécessite le niveau 4 \n Amdír repousse les unités ennemies et gagne +33?% de vitesse d’attaque, mais perd 20?% d’armure pendant 30 secondes\n Le soin de Malgalad est augmenté pendant la durée \n Clic gauche puis clic gauche sur la cible"
+"Nécessite le niveau 4 \n Amdír repousse les unités ennemies et gagne +33% de vitesse d’attaque, mais perd 20% d’armure pendant 30 secondes\n Le soin de Malgalad est augmenté pendant la durée \n Clic gauche puis clic gauche sur la cible"
 END
 
 CONTROLBAR:AmdirJoyBattleLAA
@@ -65282,7 +65282,7 @@ CONTROLBAR:ToolTipHaldirLeadership
 END
 
 CONTROLBAR:ToolTipHaldirLeadershipGifts
-"Type de modificateur : Commandement \n Les alliés proches gagnent +15?% de dégâts\nAu niveau 4, les alliés proches gagnent +25% de dégâts et d’armure\nCapacité passive \n\n Type de modificateur : Niveau \n Au niveau 5, Haldir revêt son armure lourde et gagne +25?% d’armure\n Capacité passive \n\n Nécessite le niveau 7\nType de modificateur : Sort \n Les unités proches gagnent +33% de dégâts, +15% de vitesse et une résistance au recul et au piétinement pendant 30 secondes \nClic gauche pour activer"
+"Type de modificateur : Commandement \n Les alliés proches gagnent +15% de dégâts\nAu niveau 4, les alliés proches gagnent +25% de dégâts et d’armure\nCapacité passive \n\n Type de modificateur : Niveau \n Au niveau 5, Haldir revêt son armure lourde et gagne +25% d’armure\n Capacité passive \n\n Nécessite le niveau 7\nType de modificateur : Sort \n Les unités proches gagnent +33% de dégâts, +15% de vitesse et une résistance au recul et au piétinement pendant 30 secondes \nClic gauche pour activer"
 END
 
 CONTROLBAR:HaldirLeadershipCampaign
@@ -65290,8 +65290,8 @@ CONTROLBAR:HaldirLeadershipCampaign
 END
 
 CONTROLBAR:ToolTipHaldirLeadershipCampaign
-//"Nécessite le niveau 3 \n Les guerriers Sindarins et sentinelles de Cerin Amroth proches gagnent +33?% de dégâts et +33?% d’armure\n Capacité passive"
-"Requiert niveau 6 \n Type de modificateur : Commandement \n Les alliés proches gagnent +33?% de dégâts et +20?% d’armure\n Capacité passive \n\n Type de modificateur : Niveau \n Haldir revêt son armure lourde et gagne +25?% d’armure\n Capacité passive \n\n Type de modificateur : Sort \n Les unités proches gagnent +50?% de dégâts et +15?% de vitesse pendant 30 secondes \nClic gauche pour activer"
+//"Nécessite le niveau 3 \n Les guerriers Sindarins et sentinelles de Cerin Amroth proches gagnent +33% de dégâts et +33% d’armure\n Capacité passive"
+"Requiert niveau 6 \n Type de modificateur : Commandement \n Les alliés proches gagnent +33% de dégâts et +20% d’armure\n Capacité passive \n\n Type de modificateur : Niveau \n Haldir revêt son armure lourde et gagne +25% d’armure\n Capacité passive \n\n Type de modificateur : Sort \n Les unités proches gagnent +50% de dégâts et +15% de vitesse pendant 30 secondes \nClic gauche pour activer"
 END
 
 
@@ -66613,7 +66613,7 @@ CONTROLBAR:SwornAllegiance
 END
 
 CONTROLBAR:TooltipSwornAllegiance
-"Toutes les Casernes, Archeries, Écuries et Citadelles de Dol Amroth du Gondor voient leur temps de recrutement des troupes des Fiefs réduit de 33?% \n Les troupes arrivent équipées des Armements de la Cité Blanche \n Effet pendant 60 secondes \n N’affecte pas les Chevaliers du Cygne \n Clic gauche pour activer"
+"Toutes les Casernes, Archeries, Écuries et Citadelles de Dol Amroth du Gondor voient leur temps de recrutement des troupes des Fiefs réduit de 33% \n Les troupes arrivent équipées des Armements de la Cité Blanche \n Effet pendant 60 secondes \n N’affecte pas les Chevaliers du Cygne \n Clic gauche pour activer"
 END
 
 CONTROLBAR:TooltipSummonDolAmrothAllies
@@ -66889,6 +66889,10 @@ END
 
 CONTROLBAR:UvathaRevive
 "Rappelez le Nazgûl ûvatha à la vie"
+END
+
+CONTROLBAR:UvathaHotkey
+"Ûvatha (&T)"
 END
 
 CONTROLBAR:LW_ToolTip_Uvatha
@@ -81101,7 +81105,7 @@ CONTROLBAR:TheElvesAwokeThemMirkwood
 End
 
 CONTROLBAR:TooltipTheElvesAwokeThemMirkwood
-"Invoque un arbre qui repousse les unités ennemies\nN’affecte pas les héros\nLes ennemis proches subissent -15?% de dégâts et d’armure\nCliquez gauche sur l’icône puis cliquez gauche sur la zone ciblée"
+"Invoque un arbre qui repousse les unités ennemies\nN’affecte pas les héros\nLes ennemis proches subissent -15% de dégâts et d’armure\nCliquez gauche sur l’icône puis cliquez gauche sur la zone ciblée"
 End
 
 CONTROLBAR:ElvenkingRoad
@@ -81547,7 +81551,7 @@ CONTROLBAR:PurchaseUpgradePotionofPotency
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradePotionofPotency
-"Le Druide gagne 200 points de vie de façon permanente\nPermet au Druide d’utiliser la capacité Potion de Puissance\nLe héros ciblé est partiellement soigné\net gagne +25?% d’armure pendant 30 secondes"
+"Le Druide gagne 200 points de vie de façon permanente\nPermet au Druide d’utiliser la capacité Potion de Puissance\nLe héros ciblé est partiellement soigné\net gagne +25% d’armure pendant 30 secondes"
 END
 
 OBJECT:SacredOak
@@ -81611,7 +81615,7 @@ CONTROLBAR:ElvenAffinity
 END
 
 CONTROLBAR:ToolTipElvenAffinity
-"Nécessite le niveau 2\nMegilherdir et tous les Elfes alliés du Royaume Sylvestre à proximité gagnent +20?% d’armure pendant 30 secondes\nNe se cumule pas avec lui-même\nCliquez gauche pour activer"
+"Nécessite le niveau 2\nMegilherdir et tous les Elfes alliés du Royaume Sylvestre à proximité gagnent +20% d’armure pendant 30 secondes\nNe se cumule pas avec lui-même\nCliquez gauche pour activer"
 END
 
 CONTROLBAR:RoughExterior
@@ -82513,8 +82517,8 @@ CONTROLBAR:HasharinBurredBolt
 END
 
 CONTROLBAR:ToolTipHasharinBurredBolt
-//"Nécessite le niveau 3\nHasharin lance un couteau empoisonné sur une unité ennemie, infligeant de lourds dégâts sur la durée et ralentissant la cible de 50?%\nL’effet dure 30 secondes\nCliquez gauche sur l’icône puis cliquez gauche sur l’unité ennemie ciblée"
-"Hasharin tire une flèche crantée sur une unité ennemie, infligeant de lourds dégâts sur la durée et ralentissant la cible de 50?%\nL’effet dure 10 secondes\nCliquez gauche sur l’icône puis cliquez gauche sur l’unité ennemie ciblée"
+//"Nécessite le niveau 3\nHasharin lance un couteau empoisonné sur une unité ennemie, infligeant de lourds dégâts sur la durée et ralentissant la cible de 50%\nL’effet dure 30 secondes\nCliquez gauche sur l’icône puis cliquez gauche sur l’unité ennemie ciblée"
+"Hasharin tire une flèche crantée sur une unité ennemie, infligeant de lourds dégâts sur la durée et ralentissant la cible de 50%\nL’effet dure 10 secondes\nCliquez gauche sur l’icône puis cliquez gauche sur l’unité ennemie ciblée"
 END
 
 OBJECT:HaradBazaar
@@ -83773,7 +83777,7 @@ CONTROLBAR:PurchaseUpgradeHaradFortressHarondor
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeHaradFortressHarondor
-"Diminue de façon permanente le temps de construction des unités de Harondor de 20?%\nRequis pour le recrutement des Gardes du Serpent\nPermet aux Camps tribaux d’invoquer des unités de Harondor\nAjoute des dégâts de feu à toutes les tours attachées"
+"Diminue de façon permanente le temps de construction des unités de Harondor de 20%\nRequis pour le recrutement des Gardes du Serpent\nPermet aux Camps tribaux d’invoquer des unités de Harondor\nAjoute des dégâts de feu à toutes les tours attachées"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeHaradFortressHarondorFortressMap
@@ -84526,7 +84530,7 @@ END
 //------------ ---------------------------- --------------
 //------------ Chaînes Adventure Main Blanche --------------
 CONTROLBAR:ToolTipBuildIsengardOrcPikeHorde
-"Fort contre la Cavalerie et les Héros\n\nBonus de Horde\nType de modificateur : Sort\nLes Guerriers Orcs, Fantassins Orcs et Archers Orcs gagnent +50?% de dégâts lorsqu’ils sont rassemblés en nombre de 100 ou plus\n\nPour lever une armée digne du Mordor, Saruman amena de nombreuses hordes d’orcs à Orthanc afin de mettre en œuvre ses machinations infâmes."
+"Fort contre la Cavalerie et les Héros\n\nBonus de Horde\nType de modificateur : Sort\nLes Guerriers Orcs, Fantassins Orcs et Archers Orcs gagnent +50% de dégâts lorsqu’ils sont rassemblés en nombre de 100 ou plus\n\nPour lever une armée digne du Mordor, Saruman amena de nombreuses hordes d’orcs à Orthanc afin de mettre en œuvre ses machinations infâmes."
 END
 
 CONTROLBAR:ToolTipUrukAxeBrawl_WhiteHand
@@ -84538,7 +84542,7 @@ CONTROLBAR:BloodHuntWhiteHand
 END
 
 CONTROLBAR:ToolTipGBloodHuntWhiteHand
-"Clique gauche pour monter\nType de modificateur : Commandement\nLes Wargs alliés et leurs cavaliers près de Sharku gagnent +33?% de dégâts, +33?% d’armure et gagnent de l’expérience 50?% plus vite\nCapacité passive"
+"Clique gauche pour monter\nType de modificateur : Commandement\nLes Wargs alliés et leurs cavaliers près de Sharku gagnent +33% de dégâts, +33% d’armure et gagnent de l’expérience 50% plus vite\nCapacité passive"
 END
 
 CONTROLBAR:SpecialAbilityIsengardTrollCarnage
@@ -84546,7 +84550,7 @@ CONTROLBAR:SpecialAbilityIsengardTrollCarnage
 END
 
 CONTROLBAR:ToolTipSpecialAbilityIsengardTrollCarnage
-"Requiert niveau 3\nLe Troll de Siège gagne +50?% de dégâts et +100?% d’armure pendant 20 secondes\n\nCliquez gauche pour activer"
+"Requiert niveau 3\nLe Troll de Siège gagne +50% de dégâts et +100% d’armure pendant 20 secondes\n\nCliquez gauche pour activer"
 END
 
 CONTROLBAR:ConstructIsengardAttackTroll
@@ -84570,7 +84574,7 @@ CONTROLBAR:GrishnakhConnivingSchemer
 END
 
 CONTROLBAR:ToolTipGrishnakhConnivingSchemer
-"Requiert niveau 4\nGrishnákh devient furtif et se déplace 15?% plus vite pendant 20 secondes\nAttaquer des unités ennemies annule la furtivité\nAu niveau 7, entrer en furtivité inflige des dégâts et repousse les unités ennemies proches\n\nCliquez gauche sur l’icône pour activer"
+"Requiert niveau 4\nGrishnákh devient furtif et se déplace 15% plus vite pendant 20 secondes\nAttaquer des unités ennemies annule la furtivité\nAu niveau 7, entrer en furtivité inflige des dégâts et repousse les unités ennemies proches\n\nCliquez gauche sur l’icône pour activer"
 END
 
 CONTROLBAR:GrishnakhSneakyGit
@@ -84578,7 +84582,7 @@ CONTROLBAR:GrishnakhSneakyGit
 END
 
 CONTROLBAR:ToolTipGrishnakhSneakyGit
-"Nécessite le niveau 2\nGrishnákh ralentit les ennemis ciblés et réduit leur portée de vision de 50?% pendant 10 secondes\n\nCliquez gauche puis cliquez gauche sur la cible"
+"Nécessite le niveau 2\nGrishnákh ralentit les ennemis ciblés et réduit leur portée de vision de 50% pendant 10 secondes\n\nCliquez gauche puis cliquez gauche sur la cible"
 END
 
 CONTROLBAR:SpecialAbilityGrishnakhTenacityWhiteHand
@@ -84586,7 +84590,7 @@ CONTROLBAR:SpecialAbilityGrishnakhTenacityWhiteHand
 END
 
 CONTROLBAR:ToolTipSpecialAbilityGrishnakhTenacityWhiteHand
-"Nécessite le niveau 6\nSi Grishnákh atteint 30?% de santé, il gagne +100?% d’armure pendant 20 secondes\nCapacité passive"
+"Nécessite le niveau 6\nSi Grishnákh atteint 30% de santé, il gagne +100% d’armure pendant 20 secondes\nCapacité passive"
 END
 
 CONTROLBAR:GrishnakhWickedJabWhiteHand
@@ -84598,7 +84602,7 @@ CONTROLBAR:ToolTipGrishnakhWickedJabWhiteHand
 END
 
 CONTROLBAR:ToolTipSpecialAbilityGrishnakhPillageWhiteHand
-"Grishnákh vole des ressources à chaque fois qu’il inflige des dégâts aux structures ennemies\nLes orcs d’Isengard proches de Grishnákh se déplacent 10?% plus vite\nAu niveau 7, les orcs d’Isengard proches gagnent +25?% d’armure\n\nCapacité passive"
+"Grishnákh vole des ressources à chaque fois qu’il inflige des dégâts aux structures ennemies\nLes orcs d’Isengard proches de Grishnákh se déplacent 10% plus vite\nAu niveau 7, les orcs d’Isengard proches gagnent +25% d’armure\n\nCapacité passive"
 END
 
 CONTROLBAR:RuffianAllies
