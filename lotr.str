@@ -8009,7 +8009,7 @@ CONTROLBAR:ToolTipToggleGArcherWedgeToLineFormation
 END
 
 CONTROLBAR:ToolTipToggleHaradrimLineToWedgeFormation
-"+25% de dégâts, -25% d'armure et -25% de décélération par écrasement"
+"+15% de dégâts, -25% d'armure et -25% de décélération par écrasement"
 END
 
 CONTROLBAR:ToolTipToggleWargArcherHuntingFormation
@@ -8029,7 +8029,7 @@ CONTROLBAR:ToolTipToggleEasterlingPorcupineToLineFormation
 END
 
 CONTROLBAR:ToolTipToggleGKnightLineToWedgeFormation
-"+25% de dégâts, -25% d'armure et -50% de ralentissement au piétinement."
+"-25% d'armure et -50% de ralentissement au piétinement."
 END
 
 CONTROLBAR:ToolTipToggleGKnightWedgeToLineFormation
@@ -18902,7 +18902,11 @@ CONTROLBAR:GloriousCharge
 END
 
 CONTROLBAR:TheodenMount
-"Monter / Descendre [&Z]"
+"Monter / Descendre [&R]"
+END
+
+CONTROLBAR:TheodenMountW
+"Monter / Descendre [&W]"
 END
 
 CONTROLBAR:GamlingMount
@@ -18999,7 +19003,7 @@ CONTROLBAR:SuladanMount
 END
 
 CONTROLBAR:SuladanMountTooltip
-"Clic gauche pour basculer entre monté et à pied\n\nType de modificateur : Charisme\nLorsque montés, les cavaliers d'Harondor proches de Sûladan gagnent +20?% d’armure et -15?% de ralentissement au piétinement\n\nLorsque à pied, l’infanterie Harondor gagne +33?% d’armure et de dégâts ainsi que +50?% d’expérience\nCapacité passive"
+"Clic gauche pour basculer entre monté et à pied\n\nType de modificateur : Charisme\nLorsque montés, les cavaliers d'Harondor proches de Sûladan gagnent +20?% d’armure et -15?% de ralentissement au piétinement\n\nLorsque à pied, l’infanterie Harondor gagne +33% d’armure et de dégâts ainsi que +25% d’expérience\nCapacité passive"
 END
 
 CONTROLBAR:LordDainMount
@@ -19472,7 +19476,7 @@ CONTROLBAR:WizardBlast
 END
 
 CONTROLBAR:ToolTipWizardBlast
-"A pied : Attaque à courte portée qui repousse les ennemis. \n Clic gauche sur l'icône puis clic gauche sur la cible. \n\n En monture : Le héros ciblé est immobilisé pendant 10 secondes et subit des dégâts. \n Clic gauche sur l'icône puis clic gauche sur la cible. \n\n Type d'Action : Charisme. \n Les alliés proches de Gandalf deviennt immunisés contre la magie et aux dégâts élémentaires, gagnent de l'expérience 100% plus rapidement et deviennent immunisés face à la peur et à la terreur (bonus cumulable). \n\n Capacité passive. \n\n Bouclier Mystique : Gandalf gagne occasionnellement +300% armure et une résistance au renversement s'il est attaqué. \nLa bulle dure 10 secondes et ne peut pas être réactivée avant 75 secondes \n\n Capacité passive mais peut être activée manuellement par le raccourci (U)."
+"A pied : Attaque à courte portée qui repousse les ennemis. \n Clic gauche sur l'icône puis clic gauche sur la cible. \n\n En monture : Le héros ciblé est immobilisé pendant 10 secondes et subit des dégâts. \n Clic gauche sur l'icône puis clic gauche sur la cible. \n\n Type d'Action : Charisme. \n Les alliés proches de Gandalf deviennt immunisés contre la magie et aux dégâts élémentaires, gagnent de l'expérience 50% plus rapidement et deviennent immunisés face à la peur et à la terreur (bonus cumulable). \n\n Capacité passive. \n\n Bouclier Mystique : Gandalf gagne occasionnellement +300% armure et une résistance au renversement s'il est attaqué. \nLa bulle dure 10 secondes et ne peut pas être réactivée avant 75 secondes \n\n Capacité passive mais peut être activée manuellement par le raccourci (U)."
 END
 
 CONTROLBAR:ToolTipWizardBlastCampaign
@@ -54795,7 +54799,7 @@ CONTROLBAR:MorgulGothmogRecruit
 END
 
 CONTROLBAR:ToolTipMorgulGothmogIronHand
-"Type de modificateur : Charisme\nLes orcs proches de Gothmog gagnent \n +33 % de dégâts, +33 % d’armure,\n Immunité à la peur et à la terreur \net gagnent de l’expérience 50 % plus vite\nCapacité passive\n\nAu rang 5, peut être lancé sur une garnison amie de Morgul pour réduire de moitié le temps de production des orcs de Morgul pendant 60 secondes\nLes orcs recrutés pendant cette période sont entièrement améliorés\nClic gauche sur l’icône puis clic sur la structure cible"
+"Type de modificateur : Charisme\nLes orcs proches de Gothmog gagnent \n +33 % de dégâts, +33 % d’armure,\n Immunité à la peur et à la terreur \net gagnent de l’expérience 33 % plus vite\nCapacité passive\n\nAu rang 5, peut être lancé sur une garnison amie de Morgul pour réduire de moitié le temps de production des orcs de Morgul pendant 60 secondes\nLes orcs recrutés pendant cette période sont entièrement améliorés\nClic gauche sur l’icône puis clic sur la structure cible"
 END
 
 CONTROLBAR:GothmogIronHand
@@ -59174,7 +59178,7 @@ CONTROLBAR:ToggleIthilienWeapons
 END
 
 CONTROLBAR:ToolTipToggleIthilienWeapons
-"Permet aux Rôdeurs d'alterner entre l'arc et l'épée. \n Avec l'épée, ils gagnent +50% armure et +50% dégâts contre les engins de siège. \n\n Clic gauche pour changer d'arme."
+"Permet aux Rôdeurs d'alterner entre l'arc et l'épée. \n Avec l'épée, ils gagnent +50% armure contre les engins de siège. \n\n Clic gauche pour changer d'arme."
 END
 
 CONTROLBAR:ToggleBelfalasWeapons
@@ -59420,7 +59424,7 @@ CONTROLBAR:ToolTipElessarLeadership
 //"Requires Level 4 \n Allies near Aragorn gain \n +50% damage, +50% armour, \n and earn experience twice as fast \n \n Passive ability       Does not stack"
 //"Requires Level 4 \n Allies near Aragorn gain \n +33% damage, +33% armour, \n and earn experience twice as fast \nPassive ability"
 //"Requires Level 4 \n Allies near Aragorn gain \n +33% damage, +33% armour, \n and earn experience 50% faster\nPassive ability"
-"Type de modification : Leadership\nLes alliés près d'Elessar bénéficient de +33% de dégâts, +33% d'armure et gagnent de l'expérience 50% plus rapidement\nCapacité passive"
+"Type de modification : Leadership\nLes alliés près d'Elessar bénéficient de +33% de dégâts, +33% d'armure et gagnent de l'expérience 33% plus rapidement\nCapacité passive"
 END
 
 CONTROLBAR:GandalfNewMount
@@ -59694,7 +59698,7 @@ CONTROLBAR:TooltipElrondLeadership
 //"Requires Level 3 \n Allies near Elrond gain \n +50% damage, +50% armour, \n and earn experience twice as fast \n \n Passive ability       Does not stack"
 //"Requires Level 3 \n Allies near Elrond gain \n +33% damage, +33% armour, \n and earn experience twice as fast \nPassive ability"
 //"Requires Level 3 \n Allies near Elrond gain \n +33% damage, +33% armour, \n and earn experience 50% faster\nPassive ability"
-"Type d'Action : Charisme. \n Les alliée proches d'Elrond gagnent +25% de dégâts, +25% d'armure, et gagnent de l'expérience plus rapidement (bonus cumulable).\n\n Tant qu'Elrond est sur le terrain, sa bibliothèque peut être construite gratuitement.  \n\n Capacité passive."
+"Type d'Action : Charisme. \n Les alliée proches d'Elrond gagnent +25% de dégâts, +25% d'armure, et gagnent +50% d'expérience plus rapidement (bonus cumulable).\n\n Tant qu'Elrond est sur le terrain, sa bibliothèque peut être construite gratuitement.  \n\n Capacité passive."
 END
 
 CONTROLBAR:ToolTipElrondRestoration
@@ -59772,7 +59776,7 @@ OBJECT:DwarvenMenOfDale
 "Archer de Dale"
 END
 CONTROLBAR:ToolTipBlackArrows
-"Requiert : Niveau 2 \n Effraie les monstres ennemis ciblés qui s'enfuient de terreur. \n\n Clic gauche sur l'icône puis clic gauche sur la cible."
+"Requiert : Niveau 2 \n Capacité à longue portée qui inflige des dégâts accrus \nEffraie les monstres ennemis ciblés qui s'enfuient de terreur. \n\n Clic gauche sur l'icône puis clic gauche sur la cible."
 End
 CONTROLBAR:ToolTipHalifirienGuard_Summoned
 "Effraie les monstres ennemis ciblés qui s'enfuient de terreur. \n\n Clic gauche sur l'icône puis clic gauche sur la cible."
@@ -60117,7 +60121,7 @@ CONTROLBAR:ToolTipLurtzLeadership
 //"Requires Level 5 \n Allies near Lurtz gain \n +33% damage, +33% armour, \n and earn experience twice as fast \nPassive ability"
 //"Requires Level 5 \n Allies near Lurtz gain \n +33% damage, +33% armour, \n and earn experience 50% faster\nPassive ability"
 //"Requires Level 5 \n Modifier Type: Leadership \n Uruk-hai near Lurtz gain +33% damage and +33% armour \n Stacks with Buffs and Spells \n Passive ability"
-"Type d'Action : Charisme. \n Les Uruk-hai proches de Lurtz gagnent +15% de dégâts et d'armure (bonus cumulable). \n Au niveau 4, les Uruk-hai proches gagnent également +33 % de dégâts et d'armure\nCapacité passive."
+"Type d'Action : Charisme. \n Les Uruk-hai proches de Lurtz gagnent +15% de dégâts et +15% d'armure (bonus cumulable). \n Au niveau 4, les Uruk-hai proches gagnent également +33 % de dégâts et +33% d'armure\nCapacité passive."
 END
 CONTROLBAR:ToolTipLurtzPillage
 //"Requires Level 6 \n Loot enemy kills for resources \n Passive ability"
@@ -62456,11 +62460,19 @@ CONTROLBAR:ToolTipSpecialAbilityChargeAttack
 END
 
 CONTROLBAR:ToolTipSpecialAbilityChargeAttackHarad
-"Type de modificateur : Commandement \n Les unités alliées proches gagnent +15?% d’armure contre les attaques à distance \n Les structures proches gagnent +15?% d’armure \nCapacité passive \n\n Lorsqu’elle est activée, le Mûmak gagne +33?% de vitesse de déplacement pendant 5 secondes\n Clic gauche pour activer"
+"Lorsqu’elle est activée, le Mûmak gagne +33% de vitesse de déplacement pendant 5 secondes\n Clic gauche pour activer"
+END
+
+CONTROLBAR:MumakBigAsHouse
+"Grand comme une maison"
+END
+
+CONTROLBAR:ToolTipMumakBigAsHouse
+"Type de modificateur : Commandement \n Les unités alliées à proximité gagnent +15 % d’armure contre les attaques à distance \n Les structures à proximité gagnent +15 % d’armure \nCapacité passive"
 END
 
 CONTROLBAR:ToolTipGothmogIronHand
-"Type de modificateur : Commandement\nLes Orques proches de Gothmog gagnent \n +33?% de dégâts, +33?% d’armure,\n Immunité à la peur et à la terreur \net gagnent de l’expérience 50?% plus rapidement\nCapacité passive\n\nAu niveau 5, peut être activée pour faire pleuvoir une volée de têtes coupées sur une zone ciblée, ce qui provoque la peur chez les unités ennemies et inflige des dégâts de poison pendant 20 secondes\nClic gauche sur l’icône puis clic sur la zone ciblée"
+"Type de modificateur : Commandement\nLes Orques proches de Gothmog gagnent \n +33?% de dégâts, +33?% d’armure,\n Immunité à la peur et à la terreur \net gagnent de l’expérience 33% plus rapidement\nCapacité passive\n\nAu niveau 5, peut être activée pour faire pleuvoir une volée de têtes coupées sur une zone ciblée, ce qui provoque la peur chez les unités ennemies et inflige des dégâts de poison pendant 20 secondes\nClic gauche sur l’icône puis clic sur la zone ciblée"
 END
 
 CONTROLBAR:ToolTipGothmogDayoftheOrc
@@ -62570,7 +62582,7 @@ END
 
 CONTROLBAR:ToolTipNewEowynMount
 //"Requires Level 3 \n Left click to switch between \n mounted and on foot"
-"Niveau 4 requis \n Clic gauche pour basculer entre monté sur Windfola et à pied \n Lorsqu'il est monté sur Windfola, Eowyn gagne + 25% d'armure près des unités Rohirrim"
+"Niveau 5 requis \n Clic gauche pour basculer entre monté sur Windfola et à pied \n Lorsqu'il est monté sur Windfola, Eowyn gagne + 25% d'armure près des unités Rohirrim"
 END
 
 CONTROLBAR:ToolTipShieldMaiden
@@ -62789,7 +62801,7 @@ END
 CONTROLBAR:ToolTipBuildMordorOrcFighterHorde
 //"Strong vs. Pikemen"
 //"Strong vs. Pikemen \n Horde Bonus \n All Orc Warriors, Orc Archers and Black Uruks gain +50% damage when gathered in numbers of 150 or more \n \n Ever since Sauron's return to Mordor, his orcs have multiplied and organized into great legions in service to Barad-dûr."
-"Fort contre Piquiers \n\n Bonus Horde \n Type de modificateur : Sort \n Tous les Guerriers Orcs, Piquiers Orcs et Archers Orcs gagnent +50 % de dégâts lorsqu'ils sont rassemblés en nombre de 150 ou plus\n\n Depuis le retour de Sauron à Mordor, ses orcs se sont multipliés et organisés en grandes légions au service de Barad-dûr."
+"Fort contre Piquiers \n\n Bonus Horde \n Type de modificateur : Sort \n Tous les Guerriers Orcs, Piquiers Orcs et Archers Orcs gagnent +50 % de dégâts lorsqu'ils sont rassemblés en nombre de 90 ou plus\n\n Depuis le retour de Sauron à Mordor, ses orcs se sont multipliés et organisés en grandes légions au service de Barad-dûr."
 END
 
 CONTROLBAR:ToolTipBuildIsengardOrcFighterHorde
@@ -62807,7 +62819,7 @@ END
 CONTROLBAR:ToolTipBuildMordorOrcArcherHorde
 //"Strong at Range"
 //"Strong vs. Infantry \n Horde Bonus \n All Orc Warriors, Orc Archers and Black Uruks gain +50% damage when gathered in numbers of 150 or more \n \n Largely unskilled and ill-equipped, Mordor's archers are a prime example of strength in numbers."
-"Fort contre l'infanterie \n\n Bonus Horde \n Type de modificateur : Sort \n Les guerriers orcs, les piquiers orcs et les archers orcs gagnent +25 % de dégâts et d'armure lorsqu'ils sont rassemblés en nombre de 150 ou plus\n\n Largement non qualifiés et mal équipés , les archers du Mordor sont un excellent exemple de la force du nombre."
+"Fort contre l'infanterie \n\n Bonus Horde \n Type de modificateur : Sort \n Les guerriers orcs, les piquiers orcs et les archers orcs gagnent +25 % de dégâts et d'armure lorsqu'ils sont rassemblés en nombre de 90 ou plus\n\n Largement non qualifiés et mal équipés , les archers du Mordor sont un excellent exemple de la force du nombre."
 END
 
 CONTROLBAR:ToolTipBuildIsengardOrcArcherHorde
@@ -62819,7 +62831,7 @@ END
 CONTROLBAR:ToolTipBuildMordorBlackOrcHorde
 //"Requires Level 2 Orc Barracks \n Strong vs. Pikemen"
 //"Requires Level 2 Orc Barracks \n Strong vs. Pikemen \n Horde Bonus \n All Orc Warriors, Orc Archers and Black Uruks gain +50% damage when gathered in numbers of 150 or more \n \n The Black Uruks of Barad-dûr are the elite of Sauron's orc armies, first bred to devastate Ithilien."
-"Niveau 2 requis Forteresse orque \n Fort contre Piquiers\n\n Les Uruks noirs de Barad-dûr sont l'élite des armées orcs de Sauron, d'abord élevés pour dévaster l'Ithilien."
+"Niveau 2 requis Forteresse orque \n Fort contre Piquiers et structures\n\n Les Uruks noirs de Barad-dûr sont l'élite des armées orcs de Sauron, d'abord élevés pour dévaster l'Ithilien."
 END
 
 CONTROLBAR:ToolTipBuildMordorBlackOrcHordeInn
@@ -63202,7 +63214,7 @@ Version:Format2
 //"Age of the Ring Version 8.1"
 //"Age of the Ring Version 8.2"
 //"Age of the Ring Version 8.3.1"
-"Age of the Ring Version 9.1"
+"Age of the Ring Version 9.1.4"
 END
 
 Version:Format3
@@ -63229,6 +63241,10 @@ CONTROLBAR:ToolTipWarCry
 "Niveau 5 requis\n Type de modificateur : Sort \n Les unités amies ciblées gagnent +33 % de dégâts, +20 % de vitesse et une résistance à la peur et à la terreur pendant 30 secondes\nClic gauche sur l'icône puis clic gauche sur les unités ciblées"
 END
 
+CONTROLBAR:ToolTipWarCryBoromir
+"Requiert niveau 5\n Type de modificateur : Sort \n Les unités alliées à proximité gagnent +33 % de dégâts, +20 % de vitesse, et une résistance à la peur et à la terreur pendant 30 secondes\nClique gauche pour activer"
+END
+
 CONTROLBAR:AnarionForGondor_LAS
 "Pour le Gondor ! [&Z]"
 END
@@ -63242,7 +63258,7 @@ CONTROLBAR:ToolTipAnarionForGondor_LAS
 END
 
 CONTROLBAR:ToolTipFellowshipWarCry
-"Niveau 6 requis\n Type de modificateur : Commandement \n Les alliés à proximité gagnent +33 % de dégâts, +25 % d'armure et gagnent de l'expérience 50 % plus rapidement\nCapacité passive \n \n Lorsqu'il est activé, les unités amies ciblées gagnent\n+33 % de dégâts , +20 % de vitesse et résistance à la peur et à la terreur pendant 30 secondes\nClic gauche sur l'icône puis clic gauche sur les unités ciblées"
+"Niveau 6 requis\n Type de modificateur : Commandement \n Les alliés à proximité gagnent +33 % de dégâts, +25 % d'armure et gagnent de l'expérience 50 % plus rapidement\nCapacité passive \n \n Lorsqu'il est activé, les unités alliées proches gagnent\n+33 % de dégâts , +20 % de vitesse et résistance à la peur et à la terreur pendant 30 secondes\nClic gauche pour activer"
 END
 
 CONTROLBAR:GuardianStrike
@@ -63274,7 +63290,7 @@ CONTROLBAR:ShatteringStrike
 END
 
 CONTROLBAR:ToolTipShatteringStrike
-"L'unité ennemie ou le héros ciblé subit de lourds dégâts et inflige -25 % de dégâts pendant 10 secondes\n Clic gauche sur l'icône puis clic gauche sur la cible"
+"Berethor effectue une frappe puissante qui inflige de lourds dégâts dans un large rayon\n Cliquez sur l’icône puis cliquez sur la cible"
 END
 
 CONTROLBAR:StandFast
@@ -63519,7 +63535,7 @@ CONTROLBAR:FellPursuit
 END
 
 CONTROLBAR:TooltipFellPursuit
-"Requiert : Niveau 6\n Les Nazgûl gagnent +20?% de vitesse de déplacement et +33?% d’armure pendant 30 secondes\nLes Nazgûl infligent +100?% de dégâts aux machines de siège tant que la capacité est active\nNe peut être utilisé que monté\nLes Nazgûl ne peuvent pas descendre de leur monture pendant que la capacité est active \nClic gauche pour activer"
+"Requiert : Niveau 6\n Les Nazgûl gagnent +20% de vitesse de déplacement et +33?% d’armure pendant 30 secondes\nLes Nazgûl infligent +100?% de dégâts aux machines de siège tant que la capacité est active\nNe peut être utilisé que monté\nClic gauche pour activer"
 END
 
 
@@ -66573,7 +66589,7 @@ CONTROLBAR:SummonElessar
 END
 
 CONTROLBAR:TooltipSummonElessar
-"Invoque le Roi Elessar accompagné de sa Garde Royale. Ses gardes sont temporaires, mais le Roi persiste jusqu'à sa mort. Type d'Action : Bonus. \n\n Les unités proches gagnent +50% d'armure, et sont immunisés face à la peur et au renversement et obtiennent une résistance au piétinement pendant 20 secondes. \n\n Clic gauche sur l'icône puis clic gauche sur la zone cible."
+"Invoque le Roi Elessar accompagné de sa Garde Royale. Ses gardes sont temporaires, mais le Roi persiste jusqu'à sa mort. Type d'Action : Bonus. \n\n Les unités proches sont immunisés face à la peur et la terreur \n\n Clic gauche sur l'icône puis clic gauche sur la zone cible."
 END
 
 CONTROLBAR:SummonSpawnDenethor
@@ -67130,7 +67146,7 @@ CONTROLBAR:ConstructMordorPikeHorde
 END
 
 CONTROLBAR:ToolTipBuildMordorPikeHorde
-"Les Orques sont des créatures malfaisantes, des monstres qui se complaisent dans la destruction et la mort. Ils ne sont loyaux envers personne, pas même envers leurs compagnons, et ils n'hésiteront pas à se battre entre eux pour se disputer leurs conquêtes. \n Les piquiers sont armés de longues et cruelles piques afin de former un mur de fer face à l'ennemi. \n\n Forts contre la cavalerie et les héros. \n\n Type d'Action : Sort. \n Bonus de horde : tous les combattants Orques et Uruk-Haï du Mordor gagnent +25% de dégâts et d'armure lorsqu'ils sont rassemblés en nombre de 110 ou plus (bonus cumulable)."
+"Les Orques sont des créatures malfaisantes, des monstres qui se complaisent dans la destruction et la mort. Ils ne sont loyaux envers personne, pas même envers leurs compagnons, et ils n'hésiteront pas à se battre entre eux pour se disputer leurs conquêtes. \n Les piquiers sont armés de longues et cruelles piques afin de former un mur de fer face à l'ennemi. \n\n Forts contre la cavalerie et les héros. \n\n Type d'Action : Sort. \n Bonus de horde : tous les combattants Orques et Uruk-Haï du Mordor gagnent +25% de dégâts et d'armure lorsqu'ils sont rassemblés en nombre de 90 ou plus (bonus cumulable)."
 END
 
 OBJECT:WhiteWarg
@@ -67338,7 +67354,7 @@ CONTROLBAR:VanguardWitchKingCommand
 END
 
 CONTROLBAR:TooltipVanguardWitchKingCommand
-"L’Avant-garde du Roi-Sorcier fend les lignes ennemies comme le vent et devient immunisée aux renversements pendant 30 secondes\nAu niveau 3, les attaques de mêlée réduisent l’armure ennemie de 15% pendant 5 secondes tant que la capacité est active\nLe malus ne se cumule pas avec lui-même\n\nUtilisable uniquement monté\nClic gauche pour activer"
+"L’Avant-garde du Roi-Sorcier fend les lignes ennemies comme le vent et devient immunisée aux renversements pendant 30 secondes\n\nUtilisable uniquement monté\nClic gauche pour activer"
 END
 
 CONTROLBAR:VanguardRanksOfIron
@@ -67777,7 +67793,7 @@ CONTROLBAR:SarumanWizardBlast
 "Seigneur d'Orthanc [&Z]"
 END
 CONTROLBAR:ToolTipSarumanWizardBlast
-"Attaque à courte portée qui repousse les ennemis. \n Clic gauche sur l'icône puis clic gauche sur la cible. \n\n Type d'Action: Charisme. \n Les alliés proches de Saroumane gagne +300% d'armure contre les dégâts magiques et élémentaires, gagnent de l'expérience 100% plus rapidement et deviennent immunisés contre la peur et terreur. \n Se cumule avec d'autres Bonus et Sorts. \n\n Capacité passive."
+"Attaque à courte portée qui repousse les ennemis. \n Clic gauche sur l'icône puis clic gauche sur la cible. \n\n Type d'Action: Charisme. \n Les alliés proches de Saroumane gagne +100% d'armure contre les dégâts magiques et élémentaires, gagnent de l'expérience 100% plus rapidement et deviennent immunisés contre la peur et terreur. \n Se cumule avec d'autres Bonus et Sorts. \n\n Capacité passive."
 END
 CONTROLBAR:SpecialAbilitySarumanImprovedBlast
 "Saruman aux multiples couleurs [&Z]"
@@ -69171,7 +69187,7 @@ CONTROLBAR:ThorinLeadership
 End
 
 CONTROLBAR:ToolTipThorinLeadership
-"Type de modification : Leadership\nLes Nains près de Thorin gagnent 25 % d'armure, une résistance à la peur et à la terreur et gagnent de l'expérience 75 % plus rapidement\nCapacité passive"
+"Type de modification : Leadership\nLes Nains près de Thorin gagnent 25 % d'armure, une résistance à la peur et à la terreur et gagnent de l'expérience 50% plus rapidement\nCapacité passive"
 END
 
 CONTROLBAR:ThorinOrcrist
@@ -72139,7 +72155,7 @@ CONTROLBAR:ToggleVeteranLAWeapons
 END
 
 CONTROLBAR:ToolTipToggleVeteranLAWeapons
-"Clic gauche pour changer d'arme \n \n "Les vétérans ont mené de nombreuses batailles et ont été témoins de grands triomphes et de tragiques défaites.\n Ils sont experts dans l'art de la guerre.\n\n Les troupes alliées proches bénéficient d'un gain d'expérience de +25%.\nCapacité passive"
+"Clic gauche pour changer d'arme \n \n "Les vétérans ont mené de nombreuses batailles et ont été témoins de grands triomphes et de tragiques défaites.\n Ils sont experts dans l'art de la guerre."
 END
 
 CONTROLBAR:LAVeteranManyWars
@@ -73976,7 +73992,7 @@ CONTROLBAR:HornofBuckland
 END
 
 CONTROLBAR:ToolTipHornofBuckland
-"Requiert un niveau 2\nLa corne du Pays de Bouc a sonné, réduisant les temps de recrutement de toutes les unités Hobbits de 300 % pendant 30 secondes\nCliquez gauche pour activer"
+"Requiert un niveau 2\nLa corne du Pays de Bouc a sonné, réduisant les temps de recrutement de toutes les unités Hobbits de 300% pendant 30 secondes\nCliquez gauche pour activer"
 END
 
 OBJECT:ArnorFarmerMaggot
@@ -75259,6 +75275,14 @@ CONTROLBAR:RohanTheodredHotkey
 END
 
 OBJECT:RohanWestfolderOutrider
+"Cavalier du Ouestfolde"
+END
+
+OBJECT:RohanWestfoldOutriderHorde
+"Cavaliers du Ouestfolde"
+END
+
+OBJECT:RohanWestfolderOutrider
 "Éclaireur du Ouestfolde"
 END
 
@@ -75493,7 +75517,7 @@ CONTROLBAR:SummonStormcrow
 End
 
 CONTROLBAR:ToolTipSummonStormcrow
-"Convoque Gandalf le Blanc et les Trois Chasseurs\nLes unités alliées sont modérément soignées\nCliquez gauche sur l'icône, puis cliquez gauche sur l'emplacement accessible"
+"Convoque Gandalf le Blanc et les Trois Chasseurs\nCliquez gauche sur l'icône, puis cliquez gauche sur l'emplacement accessible"
 END
 
 CONTROLBAR:ToolTipBuildRohanBarracksLevel2Upgrade
@@ -75728,7 +75752,7 @@ CONTROLBAR:GamlingWhateverEnd
 END
 
 CONTROLBAR:ToolTipGamlingWhateverEnd
-"Type d'Action : Bonus. \n Le Héros ciblé gagne +25% d'armure pendant 30 secondes. \n Ne peut être utilisé que sur Théoden, Éomer, Éowyn ou Théodred. \n S'accumule avec le Charisme et les Sorts. \n Clic gauche sur l'icône puis clic gauche sur le héros ciblé."
+"Type d'Action : Bonus. \n Le Héros ciblé gagne +25% d'armure pendant 30 secondes. \n S'accumule avec le Charisme et les Sorts. \n Clic gauche sur l'icône puis clic gauche sur le héros ciblé."
 END
 
 CONTROLBAR:ToolTipGamlingWhateverEndCampaign
@@ -75768,7 +75792,7 @@ CONTROLBAR:ErkenbrandHorn
 END
 
 CONTROLBAR:ToolTipErkenbrandHorn
-"L'infanterie et les héros proche gagne +10% de bonus de vitesse et de la résistance à la peur, terreur, au renversement et au piétinement pendant 30 secondes."
+"L'infanterie gagne une  résistance au renversement et au piétinement pendant 30 secondes."
 END
 
 CONTROLBAR:ErkenbrandShieldCrush
@@ -75920,7 +75944,7 @@ CONTROLBAR:EowynLeadership
 END
 
 CONTROLBAR:ToolTipEowynLeadership
-"Modifier Type: Leadership \n Les paysans près d'Éowyn gagnent +25% d'armure et gagnent de l'expérience 50% plus rapidement \nCapacité passive"
+"Modifier Type: Leadership \n Les paysans près d'Éowyn gagnent +25% d'armure et gagnent de l'expérience 33% plus rapidement \nCapacité passive"
 END
 
 CONTROLBAR:EowynReadiness
@@ -75968,7 +75992,7 @@ CONTROLBAR:ElfhelmQuickRescue
 END
 
 CONTROLBAR:ToolTipElfhelmQuickRescue
-"Requiert le niveau 3 \n Modifier Type: Sort \n Les cavaleries à proximité gagnent +15% de vitesse tandis que l'infanterie à proximité gagne +15% d'armure pendant 30 secondes \n Cliquez gauche pour activer"
+"Requiert le niveau 3 \n Modifier Type: Sort \n L'infanterie et la cavalerie à proximité gagnent +15% de vitesse et +15% d'armure pendant 30 secondes \n Cliquez gauche pour activer"
 END
 
 CONTROLBAR:ElfhelmPromotion
@@ -75976,7 +76000,7 @@ CONTROLBAR:ElfhelmPromotion
 END
 
 CONTROLBAR:ToolTipElfhelmPromotion
-"Requiert le niveau 5 \n Sélectionnez un bataillon cible pour l'améliorer, lui accordant de manière permanente +25% de dégâts \n Ne peut pas être utilisé sur les guerriers de Helmingas \n Cliquez gauche sur l'icône puis cliquez gauche sur le bataillon cible"
+"Requiert le niveau 5 \n Sélectionnez un bataillon cible pour l'améliorer, lui accordant de manière permanente +25% de dégâts \n Cliquez gauche sur l'icône puis cliquez gauche sur le bataillon cible"
 END
 
 CONTROLBAR:ToolTipCampaignElfhelmPromotion
@@ -76152,7 +76176,7 @@ CONTROLBAR:GreyCompanyGrimResolve
 END
 
 CONTROLBAR:ToolTipGreyCompanyGrimResolve
-"Les ennemis à proximité perdent 10% d'armure et de dégâts et ont une résistance réduite à la peur\nÀ chaque fois qu'un membre de la Compagnie Grise tombe, les autres membres du bataillon gagnent un bonus de +10% de dégâts et d'armure pendant 3 secondes\nNe se cumule pas avec lui-même\nPouvoir passif"
+"Les ennemis à proximité perdent 10% d'armure et 10% de dégâts \nÀ chaque fois qu'un membre de la Compagnie Grise tombe, les autres membres du bataillon gagnent un bonus de +10% de dégâts et d'armure pendant 3 secondes\nNe se cumule pas avec lui-même\nPouvoir passif"
 END
 
 CONTROLBAR:GreyCompanySilentDefenders
@@ -76809,7 +76833,7 @@ CONTROLBAR:PurchaseTunnelCollapse
 END
 
 CONTROLBAR:ToolTipPurchaseTunnelCollapse
-"Permet à la Mine Naine de causer des dégâts et d'étourdir les unités à proximité pendant 10 secondes,\nmais réduit la production de ressources de 50% pendant 30 secondes\nCliquez gauche pour activer"
+"Permet à la Mine Naine de causer des dégâts et d'étourdir les unités à proximité pendant 10 secondes,\nmais suspend la production de ressources pendant 30 secondes\nCliquez gauche pour activer"
 END
 
 CONTROLBAR:TunnelCollaspe
@@ -76817,7 +76841,7 @@ CONTROLBAR:TunnelCollaspe
 END
 
 CONTROLBAR:ToolTipTunnelCollaspe
-"Inflige des dégâts et étourdit les unités à proximité pendant 10 secondes,\nmais réduit la production de ressources de 50 % pendant 30 secondes"
+"Inflige des dégâts et étourdit les unités à proximité pendant 10 secondes,\nmais suspend la production de ressources pendant 30 secondes"
 END
 
 UPGRADE:ToolTipTunnelCollapse
@@ -79930,7 +79954,7 @@ CONTROLBAR:RadagastAiwendil
 END
 
 CONTROLBAR:ToolTipRadagastAiwendil
-"Type de modificateur : Charisme\nLes chasseurs et les unités Béornides à proximité gagnent +75 % d'expérience\nLes Woodmen gagnent également +33 % de dégâts et d'armure\nCompétence passive\n\nLes unités ennemies ciblées sont attaquées par un groupe d'oiseaux,\nce qui leur fait perdre 50 % de vision et 25 % d'armure\net leur inflige des dégâts dans le temps pendant 15 secondes\nCliquez gauche sur l'icône, puis cliquez gauche sur la cible"
+"Type de modificateur : Charisme\nLes chasseurs et les unités Béornides à proximité gagnent +25 % d'expérience\nLes Woodmen gagnent également +33 % de dégâts et d'armure\nCompétence passive\n\nLes unités ennemies ciblées sont attaquées par un groupe d'oiseaux,\nce qui leur fait perdre 50 % de vision et 25 % d'armure\net leur inflige des dégâts dans le temps pendant 15 secondes\nCliquez gauche sur l'icône, puis cliquez gauche sur la cible"
 END
 
 CONTROLBAR:RadagastGuardian
@@ -80131,7 +80155,7 @@ OBJECT:MirkwoodHuntingLodge
 END
 
 OBJECT:MirkwoodHuntingLodgeDescription
-"Génère du gibier en tant que ressource en fonction du terrain disponible \n Permet la formation de Feredir \n Bonus de gibier - Coût réduit des unités d'infanterie Silvan\n 2 Pavillons : 5% \n 4 Pavillons : 10% \n 6 Pavillons : 15% \n 8+ Pavillons : 20%"
+"Génère du gibier en tant que ressource en fonction du terrain disponible \n Permet la formation de Feredir \n Bonus de gibier - Coût réduit des unités d'infanterie Silvan\n 2 Pavillons : 5% \n 4 Pavillons : 10% \n 6 Pavillons : 15% \n 8 Pavillons : 20% \n +10 Pavillons : 25%"
 END
 
 CONTROLBAR:ConstructMirkwoodVineyard
@@ -80439,7 +80463,7 @@ CONTROLBAR:PurchaseUpgradeMirkwoodFortressOromeTribute
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeElvenFortressOromeTribute
-"Requiert l'amélioration Garnison Sylvestre\nLes unités à proximité bénéficient de +33% de dégâts d'attaque\nCapacité passive\nDébloque le recrutement de la Garde Dorée\nDébloque la capacité Cor de Tauron, qui, lorsqu'elle est activée, fait perdre 50% d'armure aux ennemis à proximité de la forteresse et les fait fuir en terror"
+"Requiert l'amélioration Garnison Sylvestre\nDébloque le recrutement de la Garde Dorée\nDébloque la capacité Cor de Tauron, qui, lorsqu'elle est activée, fait perdre 50% d'armure aux ennemis à proximité de la forteresse et les fait fuir en terror"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeElvenMonumentFortressOromeTribute
@@ -80630,12 +80654,24 @@ CONTROLBAR:LW_ToolTip_GildedGuardHorde_WOTR
 "10 Tawartirion\n\nType d'unité : Unité de héros\nFort contre tous"
 END
 
+CONTROLBAR:GildedGuardLeadership
+"Rempart du Roi des Elfes"
+END
+
+CONTROLBAR:ToolTipGildedGuardLeadership
+"Type de modificateur : Commandement\nTous les héros à proximité gagnent +15 % de dégâts d’attaque, +15 % de vitesse de déplacement et +15 % d’armure\nAu niveau 4, la Garde Dorée renvoie une petite partie des dégâts subis\nCapacité passive"
+END
+
 CONTROLBAR:CallOfTheWild
 "Appel de la Nature [&Z]"
 END
 
 CONTROLBAR:ToolTipCallOfTheWild
-"Tous les héros à proximité gagnent +15% de dégâts d'attaque,\n15% de vitesse de déplacement et +15% d'armure\nCapacité passive\n\nLorsqu'elle est activée, la Garde Dorée sonne de ses cors,\nce qui permet aux victoires amicales de générer des ressources pendant 20 secondes\nCliquez gauche pour activer"
+"La Garde Dorée sonne de la corne,\nce qui permet aux éliminations alliées de générer des ressources pendant 20 secondes\nClique gauche pour activer"
+END
+
+CONTROLBAR:ToolTipCallOfTheWildDismounted
+"Type de modificateur : Commandement\nTous les héros à proximité gagnent +15 % de dégâts d’attaque, +15 % de vitesse de déplacement et +15 % d’armure\nCapacité passive\n\nLorsqu’elle est activée, la Garde Dorée sonne de la corne,\nce qui permet aux éliminations alliées de générer des ressources pendant 20 secondes\nClique gauche pour activer"
 END
 
 CONTROLBAR:WeepingBlades
@@ -80647,7 +80683,11 @@ CONTROLBAR:WeepingBladesDismounted
 END
 
 CONTROLBAR:ToolTipWeepingBlades
-"Requiert le niveau 4\nLa Garde Dorée renvoie une petite quantité de dégâts qui lui est infligée\nCapacité passive\n\nLorsqu'elle est activée, la Garde Dorée ignore l'armure pendant 30 secondes\nCliquez gauche pour activer"
+"Requiert Niveau 4\nLes attaques de la Garde Dorée ignorent l’armure pendant 30 secondes\nClique gauche pour activer"
+END
+
+CONTROLBAR:ToolTipWeepingBladesDismounted
+"Requiert Niveau 4\nLa Garde Dorée renvoie une petite partie des dégâts subis\nCapacité passive\n\nLorsqu’elle est activée, la Garde Dorée ignore l’armure pendant 30 secondes\nClique gauche pour activer"
 END
 
 CONTROLBAR:FuryOfNahar
@@ -81543,6 +81583,10 @@ CONTROLBAR:MarkofBema
 END
 
 CONTROLBAR:ToolTipMarkofBema
+"L’unité ou le héros ciblé est marqué par les Chasseurs des Bois\nLes unités marquées perdent -10 % d’armure pendant 20 secondes\nClique gauche puis cliquez sur la cible"
+END
+
+CONTROLBAR:ToolTipMarkofBemaOLD
 "Durant 30 secondes, les héros et unités ciblés sont marqués par les chasseurs. \n Les cibles se voient infliger +15 de dégats supplémentaires par les Chasseurs. \n\n Clic gauche puis clic gauche sur les unités ciblées."
 END
 
@@ -82040,7 +82084,7 @@ CONTROLBAR:LordofWaves
 "Seigneur des Vagues"
 END
 CONTROLBAR:ToolTipLordofWaves
-"Modifier Type: Leadership \n Les Corsaires proches gagnent +33% d'armure et de dégâts et +50% d'expérience.\nAu niveau 5, Burôdapân et les Corsaires proches gagnent des ressources à chaque meurtre.\nCapacité passive"
+"Modifier Type: Leadership \n Les Corsaires proches gagnent +33% d'armure et de dégâts et +33% d'expérience.\nAu niveau 5, Burôdapân et les Corsaires proches gagnent des ressources à chaque meurtre.\nCapacité passive"
 END
 CONTROLBAR:TakeAllYouCan
 "Pillez tous azimuts [&R]"
@@ -82091,7 +82135,7 @@ CONTROLBAR:LordofStones
 "Seigneur des Pierres [&Z]"
 END
 CONTROLBAR:ToolTipLordofStones
-"Modifier Type: Leadership\nLes Numénoréens Noirs proches gagnent +33% d'armure et de dégâts et +50% d'expérience.\nCapacité passive\n\n Requiert nivau 8\nModifier Type: Sort\n Toutes les unités alliés proches +50% d'armure pendant 30 secondes\nClic gauche pour activer"
+"Modifier Type: Leadership\nLes Numénoréens Noirs proches gagnent +33% d'armure et de dégâts et +25% d'expérience.\nCapacité passive\n\n Requiert nivau 8\nModifier Type: Sort\n Toutes les unités alliés proches +50% d'armure pendant 30 secondes\nClic gauche pour activer"
 END
 CONTROLBAR:RuleoftheKingsMen
 "Règle des Hommes du Roi [&T]"
@@ -83641,7 +83685,15 @@ CONTROLBAR:BlackenedBlood
 END
 
 CONTROLBAR:ToolTipBlackenedBlood
-"Les Maraudeurs se soignent rapidement une fois hors combat et sont immunisés contre les coups et les piétinements.\n Capacité Passive \n Au rang 3, peut être activée pour que les attaques drainent la santé des unités ennemies pendant 20 secondes\nClic gauche pour activer"
+"Les Maraudeurs se soignent rapidement une fois hors combat et sont immunisés contre les coups et les piétinements.\n Capacité Passive"
+END
+
+CONTROLBAR:AnaemicEmbrace
+"Étreinte Anémique (&R)"
+END
+
+CONTROLBAR:ToolTipAnaemicEmbrace
+"Requiert niveau 3\nLorsqu’elle est activée, les attaques des Maraudeurs drainent la santé des unités ennemies pendant 20 secondes\nClique gauche pour activer"
 END
 
 CONTROLBAR:AccursedBastion
@@ -87550,7 +87602,7 @@ CONTROLBAR:WarCryIthilien
 "Pou&r Gondor !"
 END
 CONTROLBAR:ToolTipWarCryIthilien
-"Type de modification : Sort\nLes unités amies ciblées gagnent +33% de dégâts, +20% de vitesse et une résistance à la peur et à la terreur pendant 30 secondes\nCliquez gauche sur l'icône, puis cliquez gauche sur les unités cibles"
+"Type de modification : Sort\nLes unités amies proches gagnent +33% de dégâts, +20% de vitesse et une résistance à la peur et à la terreur pendant 30 secondes\nCliquez gauche pour l'activer"
 END
 CONTROLBAR:CaptainofGondorIthilien
 "Fier, &têtu, fort"
