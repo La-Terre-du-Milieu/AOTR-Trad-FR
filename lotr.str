@@ -19480,7 +19480,7 @@ CONTROLBAR:ToolTipWizardBlast
 END
 
 CONTROLBAR:ToolTipWizardBlastCampaign
-"Close range attack that blasts back enemies\n Left click icon then left click on target \n\n Modifier Type: Leadership \n Allies near Gandalf gain 300% armour to magic and elemental damage, earn experience 100% faster and become immune to fear and terror\nPassive ability \n\n Shield Bubble \n Gandalf occasionally gains +300% armour and resistance to knockback when attacked\nBubble lasts for 20 seconds and cannot be activated again for 60 seconds\n Passive ability but can be manually activated using the shortcut (U)"
+"Attaque à courte portée qui repousse les ennemis\n Clic gauche sur l’icône puis clic gauche sur la cible \n\n Type de modificateur : Commandement \n Les alliés proches de Gandalf gagnent +300 % d’armure contre les dégâts magiques et élémentaires, gagnent de l’expérience 100 % plus rapidement et deviennent immunisés à la peur et à la terreur\nCapacité passive \n\n Bulle de Protection \n Gandalf gagne occasionnellement +300 % d’armure et une résistance au repoussement lorsqu’il est attaqué\nLa bulle dure 20 secondes et ne peut pas être réactivée pendant 60 secondes\nCapacité passive, mais peut être activée manuellement avec le raccourci (U)"
 END
 
 CONTROLBAR:WordofPower
@@ -19488,7 +19488,7 @@ CONTROLBAR:WordofPower
 END
 
 CONTROLBAR:ToolTipWordofPower
-"Requires Level 10 \n Blasts back and damages units and heroes in a wide radius surrounding Gandalf \n Left click to activate"
+"Requiert le niveau 10 \n Repousse et inflige des dégâts aux unités et héros dans un large rayon autour de Gandalf \n Clic gauche pour activer"
 END
 
 CONTROLBAR:Shadowfax
@@ -19747,7 +19747,7 @@ END
 
 CONTROLBAR:CaptainofGondor
 //"Wizard's Pupil"
-"Fier, Têtu, Fort" [&V]"
+"Fier, Têtu, Fort [&V]"
 END
 
 CONTROLBAR:CaptainofGondorF
@@ -28826,6 +28826,10 @@ CONTROLBAR:ConstructMenDormitory
 "&Extension Quartier"
 END
 
+CONTROLBAR:ToolTipConstructMenArrowTowerExpansion
+"Tour défensive à courte portée \n Bénéficie de l’amélioration Munitions Enflammées"
+END
+
 CONTROLBAR:ToolTipConstructMenDormitory
 "Structure défensive pouvant accueillir une garnison. \n Augmente la valeur de désaffectation des unités. \n Les unités en garnison gagnent +20% experience. \n Augmente la limite de points de commandement de 25."
 END
@@ -28910,11 +28914,11 @@ CONTROLBAR:ToolTipPurchaseUpgradeMenFortressIvoryTowerFortressMap_GC
 END
 
 CONTROLBAR:PurchaseUpgradeMenFortressBoilingOil
-"Bulwa&rk of the West"
+"Rempart de l'Ouest"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeMenFortressBoilingOil
-"Unlocks the Stalwart Defense ability \n Can be used to summon two battalions of Guards of the Citadel to defend the fortress"
+"Débloque la capacité Défense Inébranlable \n Peut être utilisée pour invoquer deux bataillons de Gardes de la Citadelle afin de défendre la forteresse"
 END
 
 
@@ -29245,11 +29249,11 @@ CONTROLBAR:ConstructDwarvenEreborTowerTowerExpansion
 END
 
 CONTROLBAR:ToolTipConstructDwarvenEreborTowerTowerExpansion
-"Construct Guard Tower Expansion"
+"Construire une extension de tour de garde"
 END
 
 CONTROLBAR:Command_ConstructDwarvenWallHubExpansion
-"Cons&truit une Tour de garde qui tire des flèches sur les ennemis proches."
+"&Extension Tour de garde"
 END
 
 CONTROLBAR:TooltipCommand_ConstructDwarvenWallHubExpansion
@@ -52967,7 +52971,7 @@ OBJECT:HordeAngmarRanger
 "Rôdeurs Noirs"
 END
 
-CONTROLBAR:RecrutementRoiSorcierAngmar
+CONTROLBAR:AngmarWitchKingRecruit
 "Recrutez le Seigneur d'Angmar\n\n'Le Seigneur des Nazgûl chevaucha. Une grande silhouette noire se dressa devant les flammes, devenue une vaste menace de désespoir. Le Seigneur des Nazgûl chevaucha, sous la voûte que nul ennemi n'avait encore franchie, et tous fuirent devant lui.'"
 END
 CONTROLBAR:AngmarWitchKingRevive
@@ -59363,7 +59367,7 @@ CONTROLBAR:ToolTipDainKingsFavor
 "Requiert : Niveau 6 \n Octroie beaucoup d'expérience aux unités ciblées \n Clic gauche pour activer puis clic gauche sur les unités ciblées"
 END
 CONTROLBAR:ToolTipGloriousCharge
-"Requiert : Niveau 5 \n Théoden doit être à cheval pour utiliser cette capacité. \n Type d'Action : Sort. \n Théoden et la cavalerie proche gagnent +100% d'armure et immunisés contre la peur et la terreur pendant 20 secondes. \n Plus il y a de cavaliers près de Théoden, plus le bonus est important (+10% d'armure par bataillon), maximum de +100%. \n Aucune force ne peut ralentir cette charge. \n\n \n\nAu niveau 10, les unités affectées sont immunisées contre la peur et la terreur \n Clic gauche pour l'activer."
+"Requiert : Niveau 5 \n Théoden doit être à cheval pour utiliser cette capacité. \n Type d'Action : Sort. \n Théoden et la cavalerie proche gagnent +100% d'armure et immunisés contre la peur et la terreur pendant 20 secondes. \n Plus il y a de cavaliers près de Théoden, plus le bonus est important (+10% d'armure par bataillon), maximum de +100%. \n Aucune force ne peut ralentir cette charge. \n\nAu niveau 10, les unités affectées sont immunisées contre la peur et la terreur \n Clic gauche pour l'activer."
 END
 
 CONTROLBAR:ToolTipFaramirLeadership
@@ -65274,7 +65278,7 @@ CONTROLBAR:TooltipOrophinBorderGuardsJudgement
 END
 
 CONTROLBAR:HaldirLeadership
-"&Capitaine des Galadhrim (%R)"
+"&Capitaine des Galadhrim (&R)"
 END
 
 CONTROLBAR:ToolTipHaldirLeadership
@@ -65688,6 +65692,8 @@ CONTROLBAR:ToolTipBuildIsengardMineBerserker
 END
 
 //---------------- Mordor Orc Summon -----------------
+
+CONTROLBAR:MordorAllies
 "Raclure de Lugbúrz"
 END
 
@@ -65772,7 +65778,7 @@ CONTROLBAR:TooltipIsengardUglukOrcMedicine
 "Uglúk connaît les pratiques de soins occultes : les unités Uruk-haî et les héros alliés proches sont soignés. \n\n Clic gauche pour l'activer."
 END
 
-CONTROLBAR : IsengardUglukHuntfortheRing
+CONTROLBAR:IsengardUglukHuntfortheRing
 "Traque de l'Anneau (&R)"
 END
 
@@ -65788,7 +65794,7 @@ CONTROLBAR:ToolTipIsengardUglukHeadhunter
 "Requiert : Niveau 5 \n Type d'Action : Sort. \n Uglúk se régale du sang de ses victimes : pendant 20 secondes il gagne autant de santé que de dégâts infligés à ses ennemis et les Uruks proches de lui, exaltés par l'odeur du sang, gagnent +75% de dégâts (bonus cumulable). \n\n Clic gauche pour l'activer."
 END
 
-CONTROLBAR : IsengardUglukReinforcements
+CONTROLBAR:IsengardUglukReinforcements
 "Renforts de Saruman (&C)"
 END
 
@@ -70116,8 +70122,7 @@ CONTROLBAR:ToolTipTraderMerchantsLeadership
 END
 
 CONTROLBAR:ToolTipTraderTinkersLeadership
-//"Requires Level 3 \n Passive Ability \n Modifier Type: Leadership \n All nearby siege units gain +15% damage, +15% speed, and an increased firing rate"
-"Requires Level 3 \n Passive Ability \n Modifier Type: Leadership \n All nearby siege units gain +15% damage and +15% speed"
+"Requiert le niveau 3 \n Capacité passive \n Type de modificateur : Commandement \n Toutes les unités de siège à proximité gagnent +15 % de dégâts et +15 % de vitesse"
 END
 
 CONTROLBAR:TraderToymakers1
@@ -71150,7 +71155,7 @@ CONTROLBAR:BrotherhoodLeadership
 "Frères d'Armes"
 END
 
-CONTROLBAR:ToolTipBrotherhoodKili
+CONTROLBAR:ToolTipBrotherhoodFili
 "Type d'Action : Charisme. \n Kíli gagne +20% de dégâts lorsqu'il est proche de son frère Fíli.\n\n Capacité passive."
 END
 CONTROLBAR:ToolTipBrotherhoodKili
@@ -72793,7 +72798,7 @@ CONTROLBAR:MordorGuritzRecruit
 END
 
 CONTROLBAR:GuritzSweepingStrike
-"Frappe Circulaire (&W)"
+"Frappe Circulaire (&Z)"
 END
 
 CONTROLBAR:ToolTipGuritzSweepingStrike
@@ -72849,7 +72854,7 @@ CONTROLBAR:MordorMurgashHotkey
 END
 
 CONTROLBAR:MurgashEnforcer
-"Bourreau de la Cité des Morts (&W)"
+"Bourreau de la Cité des Morts (&Z)"
 END
 
 CONTROLBAR:ToolTipMurgashEnforcer
@@ -73971,7 +73976,7 @@ OBJECT:ArnorFattyBolger
 "Fredegar Bolgeurre (&S)"
 END
 
-OBJECT:ArnorFattyBolger
+OBJECT:ArnorFattyBolgerHotkey
 "Fredegar Bolgeurre"
 END
 
@@ -74089,6 +74094,18 @@ END
 
 CONTROLBAR:TooltipHallOfFireSpawnFingolfin
 "Le défi de Fingolfin : un récit vivant. \n\n Après que Morgoth ait dévasté les Elfes du Beleriand pendant la Bataille de la Flamme Subite, Fingolfin s'est rendu aux portes d'Angband et a défié le Seigneur des Ténèbres de mener un seul combat. Morgoth essaya de le terrasser, mais le Grand Roi esquiva ses coups et le blessa sept fois avant que la fatigue ne le fasse trébucher. Morgoth le tua, mais pas avant que Fingolfin ne lui coupe le talon, lui laissant une cicatrice qu'il portera toujours."
+END
+
+CONTROLBAR:HallOfFireSpawnCelebrimbor
+"Le Forgeron d’Eregion (&T)"
+END
+
+CONTROLBAR:TooltipHallOfFireSpawnCelebrimbor
+"\nInvoque une reconstitution vivante de la mort de Celebrimbor\n\nCelebrimbor, le grand forgeron elfe, a forgé de nombreux artefacts de beauté et de puissance. Lorsque Sauron arriva en Eregion – déguisé en Annatar le Beau – il enseigna à Celebrimbor l'art de forger les Anneaux de Pouvoir, ce qui conduisit à la création des Trois Anneaux des Elfes. Sauron repartit alors pour Orodruin, où il forgea l’Anneau Unique afin de dominer les autres. Celebrimbor, comprenant la trahison, envoya les Trois Anneaux en lieu sûr et déclara la guerre à Sauron, perdant finalement la vie. \nClic gauche sur l’icône puis clic gauche sur la zone ciblée"
+END
+
+CONTROLBAR:HallOfFireSpawnElendil
+"Le Roi Fidèle (&S)"
 END
 
 CONTROLBAR:TooltipHallOfFireSpawnElendil
@@ -78517,7 +78534,7 @@ CONTROLBAR:ToolTipCargastBarrowLord
 END
 
 CONTROLBAR:CargastLeadership
-"Marche des Morts""
+"Marche des Morts"
 End
 
 CONTROLBAR:ToolTipCargastLeadership
@@ -81435,7 +81452,7 @@ TOOLTIP:LoyalCompanions
 END
 
 CONTROLBAR:PurchaseUpgradeLoyalCompanions
-"Compagnons loyaux" [&T]"
+"Compagnons loyaux [&T]"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeLoyalCompanions
@@ -85459,7 +85476,7 @@ OBJECT:SnowTrollDespoiler
 "Pillard Troll des Neiges"
 END
 CONTROLBAR:SpecialAbilityFrenziedBlow
-"Coup Frénétique (&W)"
+"Coup Frénétique (&Z)"
 END
 CONTROLBAR:ToolTipSpecialAbilityFrenziedBlow
 "Requiert Niveau 2\nLe Pillard Troll des Neiges frappe le sol, infligeant des dégâts et repoussant les unités ennemies, causant aussi de lourds dégâts aux structures dans un petit rayon\nClique gauche sur l'icône puis sur la cible"
@@ -85477,7 +85494,7 @@ CONTROLBAR:ToolTipBuildSnowTrollStalker
 "Requiert Niveau 3 Cairn Sauvage\nLimité à 5\nFort contre les Structures et les Epéistes\n\nRusé et étonnamment silencieux, le Pillard Troll des Neiges est exceptionnellement doué pour traquer les voyageurs aveuglés par la neige. Certains portent de grands arcs rudimentaires, écrasant leur proie à grande distance."
 END
 CONTROLBAR:SpecialAbilityLineBreaker
-"Briseur de Ligne (&W)"
+"Briseur de Ligne (&Z)"
 END
 CONTROLBAR:ToolTipSpecialAbilityLineBreaker
 "Requiert Niveau 2\nInflige des dégâts et repousse les unités ennemies dans un large rayon\nClique gauche sur l’icône puis sur l’unité ciblée"
