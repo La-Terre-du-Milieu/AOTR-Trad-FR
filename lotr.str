@@ -16837,7 +16837,7 @@ CONTROLBAR:MordorCalltheHorde
 End
 
 CONTROLBAR:ToolTipMordorCalltheHorde
-"Augmente la vitesse de production des Orques et Uruks pendant 45 secondes\nPendant que l’Appel de la Horde est actif, les Orques recrutés reçoivent la Marque de l’Œil Rouge\nLes Uruks Noirs ne reçoivent pas la Marque de l’Œil Rouge\nClique gauche pour activer"
+"Augmente la vitesse de production des Orques et Uruks pendant 45 secondes\nPendant que l’Appel de la Horde est actif, les Orques recrutés reçoivent la Marque de l'Oeil Rouge\nLes Uruks Noirs ne reçoivent pas la Marque de l'Oeil Rouge\nClique gauche pour activer"
 END
 
 CONTROLBAR:ToolTipMorgulCalltheHorde
@@ -18475,7 +18475,7 @@ CONTROLBAR:ToolTipSpecialAbilityEntFindRock
 END
 
 CONTROLBAR:tooltipCommand_ToggleEntRockThrow
-"Lancer des rochers (&W)"
+"Lancer des rochers (&Z)"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityGrabBuildingChunk
@@ -19284,7 +19284,7 @@ CONTROLBAR:TogglePhalanxFormation
 END
 
 CONTROLBAR:ToggleHarseldPhalanxFormation
-"Mur de Lances (&W)"
+"Mur de Lances (&Z)"
 END
 
 CONTROLBAR:ToggleMorgulPikeFormation
@@ -25697,8 +25697,7 @@ End
 
 
 APT:AreYouSureYouWantToExitMessage
-// Text prompt of the Exit mission confirm dialog.
-"Are you sure you want to exit?"
+"Êtes-vous sûr de vouloir quitter ?"
 End
 
 APT:PleaseCreateaProfile
@@ -44771,15 +44770,15 @@ CONTROLBAR:ToolTipPurchaseUpgradeIsengardBasicTraining
 END
 
 CONTROLBAR:PurchaseTechnologyMordorBasicTraining
-"Rechercher Bannières de l'Œil Rouge [&Z]"
+"Rechercher Bannières de l'Oeil Rouge [&Z]"
 END
 
 CONTROLBAR:ToolTipPurchaseTechnologyMordorBasicTraining
-"Permet aux hordes d'acheter l'amélioration des Bannières de l'Œil Rouge \n Augmente une horde au Niveau 2"
+"Permet aux hordes d'acheter l'amélioration des Bannières de l'Oeil Rouge \n Augmente une horde au Niveau 2"
 END
 
 CONTROLBAR:PurchaseUpgradeMordorBasicTraining
-"Acheter Bannières de l'Œil Rouge [&V]"
+"Acheter Bannières de l'Oeil Rouge [&V]"
 END
 
 CONTROLBAR:PurchaseUpgradeMordorBasicTrainingWardog
@@ -50067,7 +50066,7 @@ DIALOGEVENT:MGDolGu_Elf1009subtitle
 END
 
 DIALOGEVENT:MGDolGu_OffE031subtitle
-"*L'Œil du Seigneur Ténébreux erre loin... même au Mordor, nos desseins ne peuvent échapper à sa pensée ! Préparez nos défenses, car l'Ennemi approche !"
+"*L'Oeil du Seigneur Ténébreux erre loin... même au Mordor, nos desseins ne peuvent échapper à sa pensée ! Préparez nos défenses, car l'Ennemi approche !"
 END
 
 DIALOGEVENT:MGDolGu_OffE032subtitle
@@ -59379,11 +59378,11 @@ CONTROLBAR:ToolTipCaptainofGondor
 END
 
 CONTROLBAR:ToolTipHornofGondor
-"Requiert : Niveau 4 \n Boromir souffle puissamment dans son cor et effraye les ennemis qui sont pétrifiés de terreur pendant 15 secondes. \n\n Clic gauche pour l'activer."
+"Requiert le niveau 4 \n Étourdit les ennemis par la peur pendant 15 secondes \n Clic gauche pour activer"
 END
 
 CONTROLBAR:ToolTipFellowshipHornofGondor
-"Requiert : Niveau 3 \n Boromir souffle puissamment dans son cor et effraye les ennemis qui sont pétrifiés de terreur pendant 15 secondes. \n\n Clic gauche pour l'activer."
+"Requiert le niveau 3 \n Étourdit les ennemis par la peur pendant 15 secondes \n Clic gauche pour activer"
 END
 
 CONTROLBAR:ToolTipBoromirLeadership
@@ -72929,7 +72928,7 @@ CONTROLBAR:ToolTipDorwinionViduChallenge
 END
 
 CONTROLBAR:ViduWineCourage
-"Par le vin, le courage (&W)"
+"Par le vin, le courage (&Z)"
 END
 
 CONTROLBAR:ToolTipViduWineCourage
@@ -72953,7 +72952,7 @@ CONTROLBAR:ViduLegionFriend
 END
 
 CONTROLBAR:ToolTipViduLegionFriend
-"Requiert Niveau 9\nLorsqu’activée, chaque attaque de Vidú invoque une unité aléatoire de Dorwinion pendant 30 secondes\nClic gauche pour activer"
+"Requiert le niveau 9\nLorsqu'elle est activée, chaque attaque de Vidú invoque une unité aléatoire de Dorwinion pendant 30 secondes\nClic gauche pour activer"
 END
 
 OBJECT:MinasTirithNoble
@@ -75125,7 +75124,7 @@ CONTROLBAR:ToolTipMadrilSnare
 END
 
 CONTROLBAR:MablungKeenEyed
-"Œil perçan&t"
+"Oeil perçan&t"
 End
 
 CONTROLBAR:TooltipMablungKeenEyed
@@ -79388,7 +79387,7 @@ CONTROLBAR:ToolTipGorbagBleedWeapon
 END
 
 CONTROLBAR:GorbagLoyaltyWeapon
-"Loyauté en&vers l'Œil Rouge"
+"Loyauté en&vers l'Oeil Rouge"
 END
 
 CONTROLBAR:ToolTipGorbagLoyaltyWeapon
@@ -85108,7 +85107,7 @@ OBJECT:HeroicEquiteHorde
 "Équites Héroïques"
 END
 CONTROLBAR:SpecialAbilityBountifulHarvest
-"Moisson Abondante (&W)"
+"Moisson Abondante (&Z)"
 END
 CONTROLBAR:ToolTipSpecialAbilityBountifulHarvest
 "Tous les héros proches gagnent +15 % de dégâts d’attaque,\n +15 % de vitesse de déplacement et +15 % d’armure\nCapacité passive\n\nLorsqu’activée, les éliminations amies à proximité génèrent des ressources pendant 20 secondes\nClique gauche pour activer"
@@ -86113,7 +86112,7 @@ CONTROLBAR:ConstructArthedainWatchtower
 "Tour de guet d'Arthedain [&Y]"
 END
 CONTROLBAR:EyeOfAmonSul
-"Œil d'Amon-Sûl [&Z]"
+"Oeil d'Amon-Sûl [&Z]"
 END
 CONTROLBAR:ToolTipPurchaseEyeOfAmonSul
 "Requiert la Vision de la Pierre de Vision\nLorsqu'il est acheté, permet à la Tour de guet d'Arthedain de révéler une partie de la carte pendant 60 secondes"
@@ -86246,7 +86245,7 @@ CONTROLBAR:PurchaseTechnologyVisionofSeeingStone
 "Vision de la Pierre de Vision [&T]"
 END
 CONTROLBAR:ToolTipPurchaseTechnologyVisionofSeeingStone
-"Rédigé par Malbeth lui-même, ce livre est essentiel pour ceux qui souhaitent percer les secrets des Palantíri.\n\nPermet aux Arthedain Watchtowers d'acquérir la compétence Œil d'Amon-Sûl, permettant une reconnaissance temporaire d'un emplacement ciblé."
+"Rédigé par Malbeth lui-même, ce livre est essentiel pour ceux qui souhaitent percer les secrets des Palantíri.\n\nPermet aux Arthedain Watchtowers d'acquérir la compétence Oeil d'Amon-Sûl, permettant une reconnaissance temporaire d'un emplacement ciblé."
 END
 CONTROLBAR:PurchaseTechnologyMemoryofNumenor
 "Mémoire d'Anadûnê [&S]"
@@ -86350,7 +86349,7 @@ CONTROLBAR:LoneTowerArnor
 "Vigilance du Nord"
 END
 CONTROLBAR:TooltipLoneTowerArnor
-"Invoque une Tour de guet arthédain protégée par des Soldats et des Gardiens de Fornost\nLa Tour de guet arthédain peut utiliser la capacité Œil d'Amon-Sûl pour révéler une partie de la carte pendant 60 secondes\nCliquez gauche puis cliquez gauche sur un emplacement praticable"
+"Invoque une Tour de guet arthédain protégée par des Soldats et des Gardiens de Fornost\nLa Tour de guet arthédain peut utiliser la capacité Oeil d'Amon-Sûl pour révéler une partie de la carte pendant 60 secondes\nCliquez gauche puis cliquez gauche sur un emplacement praticable"
 END
 CONTROLBAR:StarOfEarendil
 "Étoile d'Eärendil"
@@ -86738,7 +86737,7 @@ CONTROLBAR:TooltipUpgradeMorgulGarrisonLevel3
 END
 
 CONTROLBAR:ConstructMorgulSlaveMill
-"Moulin à esclaves (&W)"
+"Moulin à esclaves (&Z)"
 END
 
 CONTROLBAR:TooltipConstructMorgulSlaveMill
@@ -87078,7 +87077,7 @@ CONTROLBAR:ToolTipDarkFate
 END
 
 CONTROLBAR:PurchaseUpgradeMorgulFortressDoomPyres
-"Héraldique de la Lune Pale (&W)"
+"Héraldique de la Lune Pale (&Z)"
 END
 
 CONTROLBAR:PurchaseUpgradeMorgulFortressLavaMoat
@@ -87557,7 +87556,7 @@ CONTROLBAR:IthilienMablungHotkey
 "Mablung [&E]"
 END
 CONTROLBAR:MablungKeenEyedIthilien
-"Œil pe&rçant"
+"Oeil pe&rçant"
 END
 CONTROLBAR:ToolTipIthilienMablungLethalAim
 "Requiert un niveau 3\nLes ennemis dans le rayon perdent -33% d'armure\ncontre les attaques à distance pendant 30 secondes\nCliquez gauche, puis cliquez gauche sur la zone cible"
