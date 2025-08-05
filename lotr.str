@@ -29253,7 +29253,7 @@ CONTROLBAR:ToolTipConstructDwarvenEreborTowerTowerExpansion
 END
 
 CONTROLBAR:Command_ConstructDwarvenWallHubExpansion
-"&Extension Tour de garde"
+"Extension Assise (&T)"
 END
 
 CONTROLBAR:TooltipCommand_ConstructDwarvenWallHubExpansion
@@ -34417,7 +34417,7 @@ CONTROLBAR:ConstructMordorGateWatchersExpansion
 END
 
 CONTROLBAR:PurchaseUpgradeMordorFortressFireArrows
-""&Terrains de reproduction"
+"&Terrains de reproduction"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeMordorFortressFireArrows
@@ -54138,7 +54138,7 @@ CONTROLBAR:TrollishStew
 End
 
 CONTROLBAR:TooltipTrollishStew
-"Invoque temporairement une bouilloire de ragoûts des Trolls, gardée par Tom, Hubert et Léon. \ n Le ragoût fournit des soins et accorde +15% d'armure et de dégâts aux unités à proximité et détecte la furtivité. \n\n Clic gauche sur l'icône puis clic gauche sur la zone cible."
+"Invoque temporairement une bouilloire de ragoûts des Trolls, gardée par Tom, Hubert et Léon. \n Le ragoût fournit des soins et accorde +15% d'armure et de dégâts aux unités à proximité et détecte la furtivité. \n\n Clic gauche sur l'icône puis clic gauche sur la zone cible."
 End
 
 OBJECT:WildTrollBert
@@ -68299,6 +68299,9 @@ END
 CONTROLBAR:ConstructGrandHarvestUpgradeLorien
 "Choses qui se&ront"
 END
+CONTROLBAR:ToolTipBuildGrandHarvestUpgradeLorien
+"Confère +25 % d’armure aux Arbres de Mallorn non améliorés, \n aux Arbres de Niphredil en Fleurs et aux Entrepôts \n Le joueur doit maintenir un Miroir pour bénéficier de cette amélioration"
+END
 CONTROLBAR:ToolTipAmrothSeasonedRidersLAA
 "Type de modificateur : Leadership\nLes Cavaliers de Dor-en-Ernil à proximité gagnent +33 % d’armure\nCapacité passive"
 END
@@ -73973,11 +73976,11 @@ CONTROLBAR:ToolTipBuildRisenDeadHorde
 END
 
 OBJECT:ArnorFattyBolger
-"Fredegar Bolgeurre (&S)"
+"Fredegar Bolgeurre"
 END
 
-OBJECT:ArnorFattyBolgerHotkey
-"Fredegar Bolgeurre"
+CONTROLBAR:ArnorFattyBolgerHotkey
+"Fredegar Bolgeurre (&S)"
 END
 
 CONTROLBAR:ArnorFattyBolgerRecruit
@@ -76229,7 +76232,7 @@ CONTROLBAR:DancingHobbits
 END
 
 CONTROLBAR:ToolTipDancingHobbits
-"\nHo ! Ho ! Ho ! Vers la bouteille je vais\nPour guérir mon cœur et noyer ma peine\nLa pluie peut tomber et le vent souffler\nEt de nombreux kilomètres restent à parcourir\nMais sous un grand arbre je me coucherai\nEt laisserai les nuages voguer"
+"\nHo ! Ho ! Ho ! Vers la bouteille je vais\nPour guérir mon coeur et noyer ma peine\nLa pluie peut tomber et le vent souffler\nEt de nombreux kilomètres restent à parcourir\nMais sous un grand arbre je me coucherai\nEt laisserai les nuages voguer"
 END
 
 CONTROLBAR:FattyBolgerSpeed
