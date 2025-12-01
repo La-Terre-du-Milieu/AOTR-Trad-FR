@@ -8032,6 +8032,10 @@ CONTROLBAR:ToolTipToggleGKnightLineToWedgeFormation
 "-25% d'armure et -50% de ralentissement au piétinement."
 END
 
+CONTROLBAR:ToolTipToggleRohirrimWarriorLineToWedgeFormation
+"-25% d'armure et -50% de ralentissement au piétinement."
+END
+
 CONTROLBAR:ToolTipToggleGKnightWedgeToLineFormation
 "Aucun bonus"
 END
@@ -15946,7 +15950,7 @@ CONTROLBAR:ToolTipMenArcheryRange
 END
 
 CONTROLBAR:ToolTipRohanArcheryRange
-"Entraine et améliore les Archers du Rohan. \n Génère une petite quantité de ressources basées sur le terrain disponible. \n Augmente la limite de points de commandement de 25."
+"Entraine et améliore les Archers du Rohan. \n Génère une petite quantité de ressources."
 END
 
 CONTROLBAR:ConstructMenStable
@@ -15986,7 +15990,7 @@ CONTROLBAR:ToolTipConstructMenWorkshopWotRRealTime
 END
 
 CONTROLBAR:ToolTipConstructRohanWorkshop
-"Construit les engins de siège. \n Au niveau 2, répare les engins de siège proches. \n Génère une petite quantité de ressources basées sur le terrain disponible. \n Réduit le coût des améliorations. \n Augmente la limite de points de commandement de 25."
+"Construit les engins de siège. \n Au niveau 2, répare les engins de siège proches. \n Génère une petite quantité de ressources. \n Réduit le coût des améliorations."
 END
 
 CONTROLBAR:ToolTipConstructRohanWorkshopWotR
@@ -15994,7 +15998,7 @@ CONTROLBAR:ToolTipConstructRohanWorkshopWotR
 END
 
 OBJECT:RohanWorkshopDescription
-"Génère des ressources basées sur le terrain disponible. \n Niveau 2 : +10% Vitesse de construction. \n Niveau 3 : +25% Vitesse de construction. \n Bonus d'artisan - Réduit le coût des améliorations \n 1 Atelier: -5% \n 2 Ateliers: -10% \n 3 Ateliers: -15% \n 4+ Ateliers: -20%"
+"Génère une petite quantité de ressources. \n Niveau 2 : +10% Vitesse de construction. \n Niveau 3 : +25% Vitesse de construction. \n Bonus d'artisan - Réduit le coût des améliorations \n 1 Atelier: -5% \n 2 Ateliers: -10% \n 3 Ateliers: -15% \n 4+ Ateliers: -20%"
 END
 
 CONTROLBAR:ConstructMenSentryTower
@@ -16857,7 +16861,7 @@ CONTROLBAR:ToolTipMordorCalltheHordeWild
 END
 
 CONTROLBAR:ToolTipTheyAreComing
-"Le tunnel ciblé d’Orques ou de Vers des sables génère 4 bataillons permanents de Hurleurs Orques de la Moria et un Destructeur Troll des Cavernes\nLes Orques de la Moria respectent la limite de points de commandement, tandis que le Destructeur Troll des Cavernes ne la respecte pas\nClique gauche puis clique gauche sur la cible"
+"Le tunnel ciblé d’Orques ou de Vers des sables génère 2 bataillons permanents de Hurleurs Orques de la Moria et un Destructeur Troll des Cavernes\nLes Orques de la Moria respectent la limite de points de commandement, tandis que le Destructeur Troll des Cavernes ne la respecte pas\nClique gauche puis clique gauche sur la cible"
 END
 
 CONTROLBAR:CalltheHorde
@@ -16935,7 +16939,7 @@ CONTROLBAR:Draft
 End
 
 CONTROLBAR:ToolTipDraft
-"Tous les paysans deviennent armés, gagnant de manière permanente +5 de dégâts et +10 de santé\n Les unités du Rohan gagnent +15% d'armures pendant 30 secondes \nLe sort a un temps de recharge plus court\nCliquez gauche pour activer"
+"Tous les paysans deviennent armés, gagnant de manière permanente +5 de dégâts et +20 de santé\n Les unités du Rohan gagnent +15% d'armures pendant 30 secondes \nLe sort a un temps de recharge plus court\nCliquez gauche pour activer"
 END
 
 CONTROLBAR:ElvenGifts
@@ -17531,13 +17535,13 @@ CONTROLBAR:ToolTipBuildRohanKingsguardHorde
 END
 CONTROLBAR:ToolTipBuildRohanSnowbournRiderHorde
 //"Requires Level 2 Stables \n Strong vs. Archers"
-"Requiert: Écurie niveau 2. \n Forts contre les épéistes et les archers. \n\n Les Cavaliers du Snawburna sont une unité de cavalerie lourde, capable de briser les rangs les plus féroces de l'ennemi et d'ouvrir une brèche pour le reste de l'armée."
+"Requiert: Écurie niveau 2. \n Forts contre la cavalerie, monstres et les héros. \n À la hache l'unité de première ligne faible contre la cavalerie et les archers \n\n Les Cavaliers du Snawburna sont une unité de cavalerie lourde, capable de briser les rangs les plus féroces de l'ennemi et d'ouvrir une brèche pour le reste de l'armée."
 END
 CONTROLBAR:ToolTipBuildRohanHorsemenHorde
 "Forts contre les épéistes et les archers. \n\n Artisan ou paysan, au Rohan, chaque homme possédait un cheval, et avait appris à se défendre en montant. Lorsque le besoin s'en faisait sentir, ces hommes partaient au combat pour défendre leurs foyers."
 END
 CONTROLBAR:ToolTipBuildRohanRohirrimArcherHorde
-"Requiert : Écurie niveau 2. \n Forts contre l'infanterie. \n Les Rohirrims les plus habiles au tir à l'arc équestre se formaient en régiments spécialisés pour flanquer à plusieurs reprises l'ennemi avec des tirs de flèches avant de se retirer hors de portée."
+"Requiert : Écurie niveau 2. \n Forts contre l'infanterie et les héros. \n Les Rohirrims les plus habiles au tir à l'arc équestre se formaient en régiments spécialisés pour flanquer à plusieurs reprises l'ennemi avec des tirs de flèches avant de se retirer hors de portée."
 END
 CONTROLBAR:ToolTipBuildRohanHeavyArmorPorter
 "+100% points de vie aux Rohirrims et à l'infanterie"
@@ -18143,7 +18147,7 @@ CONTROLBAR:LW_Hero_Lurtz
 "Lurtz (&T)"
 END
 CONTROLBAR:IsengardLurtzHotkey
-"Lurtz (&T)"
+"Lurtz (&S)"
 END
 
 CONTROLBAR:IsengardLurtzHotKey_WhiteHand
@@ -18720,6 +18724,14 @@ CONTROLBAR:ElessarLeadership
 "Estel"
 END
 
+CONTROLBAR:ElessarEstelActive
+"Estel (&C)"
+END
+
+CONTROLBAR:ToolTipElessarEstelActive
+"Type de modification : Sort\nLorsqu'il est activé, les unités proches gagnent +33% de dégâts et +33% d'armure pendant 60 secondes\nCliquez avec le bouton gauche pour activer"
+END
+
 CONTROLBAR:ElessarOathbreaker
 "Honorez &votre Serment !"
 END
@@ -19244,7 +19256,7 @@ CONTROLBAR:ToggleDefaultFormation
 END
 
 CONTROLBAR:ToolTipToggleSnowbourneLineFormation
-"+60% d’armure, -25% de dégâts et -40% de vitesse"
+"+60% d’armure et -40% de vitesse"
 END
 
 CONTROLBAR:ToolTipToggleSnowbourneDefualtFormation
@@ -19734,7 +19746,7 @@ CONTROLBAR:ToolTipSeveringStrike
 END
 
 CONTROLBAR:HornofGondor
-"Co&r du Gondor"
+"Co&r du Gondor (&T)"
 END
 
 CONTROLBAR:HornofGondorFellowship
@@ -19754,8 +19766,16 @@ CONTROLBAR:CaptainofGondorF
 "La Qualité de Faramir [&C]"
 END
 
+CONTROLBAR:CaptainofGondorFDolAmroth
+"La Qualité de Faramir [&V]"
+END
+
 CONTROLBAR:FaramirSummonLeadership
 "&Capitaine de l'Ithilien"
+END
+
+CONTROLBAR:FaramirSummonLeadershipDolAmroth
+"Capitaine de l'Ithilien (&T)"
 END
 
 CONTROLBAR:ToolTipFaramirSummonLeadership
@@ -25935,7 +25955,7 @@ OBJECT:GondorBarracksDescription
 END
 
 OBJECT:RohanBarracksDescription
-"Génère des ressources selon le terrain disponible. \n Niveau 2: +10% de vitesse de construction. \n Niveau 3: +25% de vitesse de construction."
+"Génère une petite quantité de ressources selon le terrain disponible. \n Niveau 2: +10% de vitesse de construction. \n Niveau 3: +25% de vitesse de construction."
 END
 
 OBJECT:GondorArcheryRangeDescription
@@ -25943,7 +25963,7 @@ OBJECT:GondorArcheryRangeDescription
 END
 
 OBJECT:RohanArcheryRangeDescription
-"Génère des ressources selon le terrain disponible. \n Niveau 2: +10% de vitesse de construction. \n Niveau 3: +25% de vitesse de construction."
+"Génère une petite quantité de ressources selon le terrain disponible. \n Niveau 2: +10% de vitesse de construction. \n Niveau 3: +25% de vitesse de construction."
 END
 
 OBJECT:GondorStablesDescription
@@ -35703,7 +35723,7 @@ End
 
 CONTROLBAR:ToolTipConstructGuldurRuinousTower
 //"Short range defensive tower"
-"Tour défensive qui tire des flèches sur les ennemis proches. \n Stealthed near trees \n Generates a small amount of resources based on available terrain \n Reduces cost of Shades"
+"Tour défensive qui tire des flèches sur les ennemis proches. \n Stealthed near trees \n Reduces cost of Shades"
 End
 
 OBJECT:GuldurRuinousTower
@@ -35711,7 +35731,7 @@ OBJECT:GuldurRuinousTower
 END
 
 OBJECT:GuldurRuinousTowerDescription
-"Tire des flèches sur les ennemis proches. \n Furtif près des arbres. \n Génère une petite quantité de ressources basée sur le terrain disponible. \n\n Approfondissement des ténèbres - Réduit le coût des Ombres. \n 2 Tours: 10% \n 3 Tours: 20% \n 4 Tours: 30% \n 5 Tours: 40% \n 6+ Tours: 50% "
+"Tire des flèches sur les ennemis proches. \n Furtif près des arbres. \n Approfondissement des ténèbres - Réduit le coût des Ombres. \n 1 Tour: 10% \n 2 Tours: 20% \n 3 Tours: 30% \n 4 Tours: 40% \n 5+ Tours: 50% "
 END
 
 CONTROLBAR:ToolTipConstructMordorPorter
@@ -45191,6 +45211,10 @@ END
 
 TOOLTIP:LackGreyCompanyFireArrows
 "Recherchez l'amélioration à la Forge pour activer cet équipement \n Lorsqu'il est équipé, augmente considérablement les dégâts infligés par les flèches"
+END
+
+TOOLTIP:LackGondorFireArrowsDolAmroth
+"Recherchez l'amélioration des lames imprégnées à la Forge pour activer cet équipement \n Lorsqu'il est équipé, augmente considérablement les dégâts infligés par les flèches"
 END
 
 TOOLTIP:LackGondorForgedBlades
@@ -58094,7 +58118,7 @@ CONTROLBAR:SnowbournCharge
 END
 
 CONTROLBAR:TooltipSnowbournCharge
-"Au lieu de piétiner, quand ils reçoivent l’ordre d’attaquer, les Cavaliers de Snowbourn chargent avec leurs lances, infligeant +400% de dégâts à leur première attaque contre les unités au prix de leurs lances\nLes Cavaliers de Snowbourn rééquipent leurs lances 25 secondes après avoir quitté le combat\nLe temps de recharge diminue avec chaque niveau des Écuries présentes sur la carte\nRéduit à 20 secondes au niveau 1, 15 secondes au niveau 2 et 10 secondes au niveau 3\nCapacité passive"
+"Au lieu de piétiner, quand ils reçoivent l’ordre d’attaquer, les Cavaliers de Snowbourn chargent avec leurs lances, infligeant +400% de dégâts à leur première attaque contre les unités au prix de leurs lances\nLes Cavaliers de Snowbourn rééquipent leurs lances 20 secondes après avoir quitté le combat\nLe temps de recharge diminue avec chaque niveau des Écuries présentes sur la carte\nRéduit à 15 secondes au niveau 2, 10 secondes au niveau 3\nCapacité passive"
 END
 
 BANNERUI:RohanRoyalGuardMounted
@@ -59185,7 +59209,7 @@ CONTROLBAR:ToolTipToggleIthilienWeapons
 END
 
 CONTROLBAR:ToggleBelfalasWeapons
-"Changer d'arme (&R)"
+"Changer d'arme (&T)"
 END
 
 CONTROLBAR:ToolTipToggleBelfalasWeapons
@@ -59219,7 +59243,7 @@ END
 
 
 CONTROLBAR:ToolTipConstructRohanBarracks
-"Entraîne l'infanterie de mêlée de Rohan \n Recherche des améliorations d'armes et d'armures \n Génère une petite quantité de ressources en fonction du terrain disponible"
+"Entraîne l'infanterie de mêlée de Rohan \n Recherche des améliorations d'armes et d'armures"
 END
 
 CONTROLBAR:ToolTipConstructRohanBarracksWotR
@@ -59269,7 +59293,7 @@ CONTROLBAR:ToolTipConstructMenStableWotRRealTime
 END
 
 CONTROLBAR:ToolTipConstructRohanStable
-"Entraîne la cavalerie de Rohan\nGénère une petite quantité de ressources en fonction du terrain disponible"
+"Entraîne la cavalerie de Rohan"
 END
 
 CONTROLBAR:ToolTipConstructRohanStableWotR
@@ -59323,6 +59347,9 @@ END
 CONTROLBAR:ToolTipBuildGondorKnightsofDolHorde_WOTR
 //"Strong vs. All Normal Troops \n Requires Level 2 Stables."
 "Requiert : Écurie Niveau 2 et Citadelle de Dol Amroth. \n Forts contre l'infanterie et les archers. \n\n Les chevaliers au cygne argenté de Dol Amroth sont reconnus comme étant l'un des régiments de cavalerie les plus puissants de la Terre du Milieu.\n Limité à 3"
+END
+CONTROLBAR:ToolTipBuildGondorKnightsofDolHordeDA
+"Requiert : Écurie royales Niveau 3\nFort contre l'infanterie et les archers\nLimité à 3\n\n Les chevaliers du cygne de Dol Amroth étaient réputés comme l'un des plus grands régiments de cavalerie de la Terre du Milieu."
 END
 CONTROLBAR:TooltipKnightsofDolInspiration
 //"Requires Level 2 \n Mounted units near the Knights gain +50% damage and +50% armour \n Passive ability"
@@ -59396,7 +59423,7 @@ CONTROLBAR:ToolTipBoromirNewLeadership
 //"Requires Level 5 \n Allies near Boromir gain \n +50% damage, +50% armour, \n and earn experience twice as fast \n \n Passive ability       Does not stack"
 //"Requires Level 5 \n Allies near Boromir gain \n +33% damage, +33% armour, \n and earn experience twice as fast \nPassive ability"
 //"Requires Level 5 \n Allies near Boromir gain \n +33% damage, +33% armour, \n and earn experience 50% faster\nPassive ability"
-"Requiert Niveau 5\nBoromir enfile son armure gondorienne et gagne +10% armure\nType de modification : Charisme\nLes Soldats, les Lanciers et les Archers de Minas Tirith près de Boromir bénéficient de +33% de dégâts, +33% d'armure et gagnent de l'expérience 50% plus rapidement\nCapacité passive"
+"Type de modification : Commandement \n Les soldats, les piquiers et les archers de Minas Tirith près de Boromir gagnent +33% de dégâts et +33% d'armure \n \n Au niveau 5, Boromir revêt son armure gondorienne et gagne +15% d'armure de manière permanente \n Capacité passive"
 END
 
 CONTROLBAR:ToolTipCaptainofGondorBoromir
@@ -60102,7 +60129,7 @@ CONTROLBAR:ToolTipVenomousWords
 END
 CONTROLBAR:ToolTipBackstab
 //"Requires Level 6 \n High damage melee attack that also poisons targeted enemy \n Left click icon then left click on target"
-"Requiert : Niveau 5 \n Cette attaque au corps-à-corps provoque de lourds dégâts et empoisonne l'ennemi ciblé. \n\n Au niveau 10, le héros ennemi ciblé ne peut pas acquérir d'expérience, voit ses dégâts infligés réduits de +50% et perd -25% de sa vitesse de déplacement pendant 30 secondes. \n\n Clic gauche sur l'icône puis clic gauche sur la cible."
+"Requiert : Niveau 4 \n Cette attaque au corps-à-corps provoque de lourds dégâts et empoisonne l'ennemi ciblé. \n\n Au niveau 10, le héros ennemi ciblé ne peut pas acquérir d'expérience, voit ses dégâts infligés réduits de +50% et perd -25% de sa vitesse de déplacement pendant 30 secondes. \n\n Clic gauche sur l'icône puis clic gauche sur la cible."
 END
 
 CONTROLBAR:ToolTipSpecialAbilityLurtzCarnage
@@ -60114,7 +60141,7 @@ END
 CONTROLBAR:ToolTipSpecialAbilityLurtzCripple
 //"Pins enemy Hero in place \n Can only use with bow equipped \n Left click icon then left click on target"
 //"Requires Level 2 \n Pins enemy Hero in place \n Can only use with bow equipped \n Left click icon then left click on target"
-"Requiert : Niveau 5 \n Lurtz décoche une flèche puissante sur un héros ennemi et l'immobilise pendant 15 secondes. \n Au niveau 8, instaure la peur face aux unités ennemies. \n Utilisable seulement avec l'arc. \n\n Clic gauche sur l'icône puis clic gauche sur la cible."
+"Requiert : Niveau 5 \n Lurtz décoche une flèche puissante sur un héros ennemi et l'immobilise pendant 15 secondes. \n \n Au niveau 8, instaure la peur face aux unités ennemies. \n Utilisable seulement avec l'arc. \n\n Clic gauche sur l'icône puis clic gauche sur la cible."
 END
 CONTROLBAR:LurtzLeadership
 "Leade&r de la chasse"
@@ -60132,7 +60159,7 @@ CONTROLBAR:ToolTipLurtzPillage
 END
 
 CONTROLBAR:ToolTipGBloodHunt
-"Type d'Action : Charisme. \n Les Chevaucheurs de Wargs proches de Sharcoux gagnent +33% de dégâts, +33% d'armure et gagnent de l'expérience 50% plus rapidement (bonus cumulable). \n\n Capacité passive."
+"Type d'Action : Charisme. \n Les Chevaucheurs de Wargs proches de Sharcoux gagnent +25% de dégâts, +25% d'armure et gagnent de l'expérience 50% plus rapidement (bonus cumulable). \n\n Capacité passive."
 END
 
 CONTROLBAR:SharkuArmouredWolves
@@ -60557,7 +60584,7 @@ CONTROLBAR:ToolTipBuildWildFissureLevel2Upgrade
 END
 CONTROLBAR:ToolTipBuildWildFissureLevel3Upgrade
 //"Level 3: +25% faster build speed \n Allows training of Mountain Giants and Fire Drake Brood"
-"Permet de recruter les Trolls de Pierre de Gundabad et les Géants des montagnes. \n Vitesse de construction +25%.\nAjoute un Troll des cavernes défensif à la Tanière"
+"Permet de recruter les Trolls de Pierre de Gundabad et les Géants des montagnes. \n Vitesse de construction +25%.\nAjoute un Troll des cavernes défensif à la Tanière \n Les géants des montagnes alliés près du repaire sont soignés passivement au fil du temps"
 END
 
 CONTROLBAR:ToolTipBuildWildFissureLevel3Upgrade_WOTR
@@ -63217,7 +63244,8 @@ Version:Format2
 //"Age of the Ring Version 8.1"
 //"Age of the Ring Version 8.2"
 //"Age of the Ring Version 8.3.1"
-"Age of the Ring Version 9.1.4"
+//"Age of the Ring Version 9.1.4"
+"Age of the Ring Version 9.2"
 END
 
 Version:Format3
@@ -63851,7 +63879,7 @@ CONTROLBAR:BolgRuledByFear
 "Dirigé par la peur [&T]"
 END
 CONTROLBAR:ToolTipBolgRuledByFear
-"Requiert : Niveau 5 \n Type d'Action: Sort. \n Les unités alliées à proximité infligent temporairement +125% de dégâts, mais perdent -50% d'armure et ne gagnent pas d'expérience tant que l'effet dure (bonus cumulable). \n Fait fuire de terreur les unités ennemies à proximité pendant 15 secondes. \n\n Clic gauche pour l'activer."
+"Requiert : Niveau 4 \n Type d'Action: Sort. \n Les unités alliées à proximité infligent temporairement +125% de dégâts, mais perdent -50% d'armure et ne gagnent pas d'expérience tant que l'effet dure (bonus cumulable). \n Fait fuire de terreur les unités ennemies à proximité pendant 15 secondes. \n\n Clic gauche pour l'activer."
 END
 CONTROLBAR:BolgUnpierceableRanks
 "Rangs infran&chissables"
@@ -64059,7 +64087,7 @@ CONTROLBAR:LW_ToolTipBuild_CerinAmrothSentinelHorde
 END
 
 CONTROLBAR:ToolTipCerinAmrothActive
-"Requiert : Niveau 3\n Les Sentinelles de Cerin Amroth gagnent +25% d’armure pendant 30 secondes\n Clic gauche pour activer"
+"Requiert : Niveau 2\n Les Sentinelles de Cerin Amroth gagnent +25% d’armure pendant 30 secondes\n Clic gauche pour activer"
 END
 
 CONTROLBAR:CerinAmrothActive
@@ -65186,7 +65214,7 @@ CONTROLBAR:HaldirSkillMarchwardens
 END
 
 CONTROLBAR:ToolTipHaldirSkillMarchwardens
-"Requiert niveau 3 \n Les ennemis dans le rayon subissent +33% de dégâts des attaques à distance pendant 30 secondes\n Clic gauche puis clic gauche sur la zone ciblée"
+"Requiert niveau 3 \n Cible les ennemis qui subissent +33% de dégâts des attaques à distance pendant 30 secondes\n Clic gauche puis clic gauche sur la cible"
 END
 
 CONTROLBAR:RumilWoundingArrow
@@ -65504,7 +65532,7 @@ CONTROLBAR:VeteransOsgiliathSummonLAA
 END
 
 CONTROLBAR:ToolTipVeteransOsgiliathSummonLAA
-"Requiert niveau 10 \n Invoque deux bataillons de Vétérans d’Osgiliath\nClic gauche pour activer"
+"Requiert niveau 10 \n Invoque deux bataillons de Bârim an-Nimruzîrim\nClic gauche pour activer"
 END
 
 
@@ -66674,11 +66702,11 @@ OBJECT:HordeGoblinTownFighters
 END
 
 CONTROLBAR:GreatGoblinSwarm
-"Gobelinville [&Z]"
+"Gobelinville [&T]"
 END
 
 CONTROLBAR:ToolTipGreatGoblinSwarm
-"Invoque des Guerriers de Gobelinville. \n Le nombre de hordes invoquées est associé au niveau du Grand Gobelin. \n\n Type d'Action: Bonus. \n Lorsqu'ils sont activés, les Orques de la Moria et les Tours gobelins à proximité gagnent +15% de dégâts pendant 20 secondes (bonus cumulable). \n\n Clic gauche pour l'activer."
+"Requiert : Niveau 4 \n Invoque 3 Hordes de Guerriers de Gobelinville. \n Le nombre de hordes invoquées augmente de 1 par niveau \n\n Type d'Action: Bonus. \n Lorsqu'ils sont activés, les Orques de la Moria et les Tours gobelins à proximité gagnent +15% de dégâts pendant 20 secondes (bonus cumulable). \n\n Clic gauche pour l'activer."
 END
 
 CONTROLBAR:GreatGoblinSwarm2
@@ -66706,11 +66734,11 @@ CONTROLBAR:ToolTipGreatGoblinLeadership
 END
 
 CONTROLBAR:GreatGoblinDemand
-"Demande du Roi Gobelin [&T]"
+"Demande du Roi Gobelin [&W]"
 END
 
 CONTROLBAR:ToolTipGreatGoblinDemand
-"Requiert : Niveau 5 \n Invoque un totem de l'essaim à l'emplacement ciblé. \n Le Totem peut recruter des Guerriers de la Gobelinville et révéler les unités furtives. \n Limités à 3 totems seulement. \n\n Clic gauche sur l'icône puis clic gauche sur l'emplacement cible."
+"Invoque un totem de l'essaim à l'emplacement ciblé. \n Le Totem peut recruter des Guerriers de la Gobelinville et révéler les unités furtives. \n Limités à 3 totems seulement. \n\n Clic gauche sur l'icône puis clic gauche sur l'emplacement cible."
 END
 
 CONTROLBAR:GreatGoblinAntiquarian
@@ -66813,7 +66841,7 @@ CONTROLBAR:TooltipSummonWraith
 END
 
 CONTROLBAR:TooltipSummonHaradrimRaiders
-"Permet de faire apparaître deux bataillons de Pillards Haradrim sur le champ de bataille \n Une fois utilisé, débloque passivement les Cataphractes dorés et les Hacheurs dorés \n Cliquez gauche sur l'icône puis cliquez gauche sur la zone cible"
+"Permet de faire apparaître deux bataillons de Pillards Haradrim sur le champ de bataille \n Une fois utilisé, débloque passivement les Hacheurs dorés \n Cliquez gauche sur l'icône puis cliquez gauche sur la zone cible"
 END
 
 CONTROLBAR:TooltipSummonHarondorRaiders
@@ -67075,7 +67103,7 @@ CONTROLBAR:MollokkWillofSauron
 END
 
 CONTROLBAR:ToolTipMollokkWillofSauron
-"Requiert : Niveau 3 \n Type d'Action : Sort. \n Mollock gagne +20% de résistance contre les flèches normales (bonus cumulable). \n\n Capacité passive."
+"Requiert : Niveau 3 \n Type d'Action : Sort. \n Mollock gagne +15% de résistance contre les flèches normales (bonus cumulable). \n\n Capacité passive."
 END
 
 CONTROLBAR:FaithfulGuardianLeadership
@@ -67897,7 +67925,7 @@ CONTROLBAR:ElvenWoodLorien
 END
 
 CONTROLBAR:ToolTipElvenWoodLorien
-"Appelle de manière permanente un Huorn sur le champ de bataille\n Respecte la limite de points de commandement\n Nécessite 50 points de commandement pour être invoqué\n Cliquez sur l'icône avec le bouton gauche de la souris, puis cliquez sur un emplacement praticable"
+"Appelle de manière permanente un Huorn sur le champ de bataille\n Nécessite 50 points de commandement pour être invoqué\n Cliquez sur l'icône avec le bouton gauche de la souris, puis cliquez sur un emplacement praticable"
 END
 
 CONTROLBAR:IthilienGarden
@@ -67953,7 +67981,7 @@ CONTROLBAR:EnshroudingMistLorien
 END
 
 CONTROLBAR:TooltipEnshroudingMistLorien
-"Conjure des Brumes Enveloppantes pendant 60 secondes\n Les unités amicales dans les brumes deviennent furtives, les unités ennemies prises dans les brumes subissent des dégâts sur la durée\n Type de modificateur : Sort\n Les unités ennemies à proximité subissent -25% de dégâts, -60% de vitesse et -20% d'armure\n Annule le leadership ennemi\n Cliquez sur l'icône avec le bouton gauche de la souris, puis cliquez sur la zone cible"
+"Conjure des Brumes Enveloppantes pendant 60 secondes\n Les unités amicales dans les brumes deviennent furtives, les unités ennemies prises dans les brumes subissent des dégâts sur la durée\n Type de modificateur : Sort\n Les unités ennemies à proximité subissent -33% de dégâts, -60% de vitesse et -33% d'armure\n Annule le leadership ennemi\n La malédiction persiste pendant 15 secondes \nCliquez sur l'icône avec le bouton gauche de la souris, puis cliquez sur la zone cible"
 END
 
 CONTROLBAR:ElvenWoodAdamant
@@ -68491,7 +68519,7 @@ CONTROLBAR:IsengardWulfgarRevive
 END
 
 CONTROLBAR:IsengardWulfgarHotKey
-"Wulfgar [&S]"
+"Wulfgar [&T]"
 END
 
 CONTROLBAR:WulfgarSubjugation
@@ -68812,7 +68840,7 @@ CONTROLBAR:LW_ToolTip_MordorEasterlingKataphractHorde
 END
 
 CONTROLBAR:ToolTipBuildMordorEasterlingKataphractHorde
-"Cataphractes dorés\nNécessite le Niveau 3 de la Garnison easterling et l'amélioration Il Rassemble Tout le Mal en Lui \nCavalerie d'élite\nEfficace contre les archers\n\nLes Khân-kâtaphranax étaient composés de nobles de haut rang et de moindre rang. Ces destriers lourdement armés qui fonçaient en avant, secouant la terre, tonnant à travers la plaine, représentaient une force que peu d'armées pouvaient endurer."
+"Cataphractes dorés\nNécessite le Niveau 3 de la Garnison easterling \nCavalerie d'élite\nEfficace contre les archers\n\nLes Khân-kâtaphranax étaient composés de nobles de haut rang et de moindre rang. Ces destriers lourdement armés qui fonçaient en avant, secouant la terre, tonnant à travers la plaine, représentaient une force que peu d'armées pouvaient endurer."
 END
 
 CONTROLBAR:ToolTipBuildMordorEasterlingKataphractHordeWotrInn
@@ -68901,7 +68929,7 @@ CONTROLBAR:ColdDrakeScreech
 END
 
 CONTROLBAR:TooltipColdDrakeScreech
-"Requiert le niveau 3\nStunne les ennemis par la peur pendant 15 secondes\nCliquez gauche pour activer"
+"Requiert le niveau 2\nStunne les ennemis par la peur pendant 15 secondes\nCliquez gauche pour activer"
 END
 
 CONTROLBAR:LW_Unit_WildColdDrake
@@ -69291,7 +69319,7 @@ CONTROLBAR:BrandSlamArrow
 END
 
 CONTROLBAR:ToolTipBrandSlamArrowNew
-"Tir précis infligeant des dégâts de zone\nAu niveau 2, repousse les unités et héros ciblés\nAu niveau 5, réduit l'armure des unités et héros ciblés de 33 % pendant 30 secondes\nAu niveau 8, réduit la vitesse de déplacement des unités et héros ciblés de 25 % pendant 30 secondes\nClique gauche sur l’icône puis sur l’unité cible"
+"Tir précis infligeant des dégâts de zone and repousse les unités et héros ciblés\nAu niveau 5, réduit l'armure des unités et héros ciblés de 33 % pendant 30 secondes\nAu niveau 8, réduit la vitesse de déplacement des unités et héros ciblés de 25 % pendant 30 secondes\nClique gauche sur l’icône puis sur l’unité cible"
 END
 
 CONTROLBAR:BrandPommelStrike
@@ -69877,7 +69905,7 @@ CONTROLBAR:SongOfDurinLA
 END
 
 CONTROLBAR:ToolTipSongOfDurinLastAlliance
-"Requiert niveau 2\nLes guerriers de Khazad-dûm entonnent un chant intimidant,\nréduisant l’armure des unités ennemies proches de 35 % pendant 20 secondes\nClic gauche pour activer"
+"Les guerriers de Khazad-dûm entonnent un chant intimidant,\nréduisant l’armure des unités ennemies proches de 20% pendant 20 secondes\nClic gauche pour activer"
 END
 
 CONTROLBAR:ToolTipSongOfDurinIH
@@ -72712,7 +72740,11 @@ OBJECT:RohanSiegeCrew
 END
 
 CONTROLBAR:WannaBoroMiKnife
-"Lancer de couteau [&Z]"
+"Lancer de couteau [&R]"
+END
+
+CONTROLBAR:WannaBoroMiKnifeDolAmroth
+"Lancer de couteau (&R)"
 END
 
 CONTROLBAR:TooltipWannaBoroMiKnife
@@ -72724,7 +72756,7 @@ CONTROLBAR:TooltipFellowshipWannaBoroMiKnife
 END
 
 CONTROLBAR:FellowshipBoromirShieldBash
-"Choc du Bouclier (&R)"
+"Choc du Bouclier (&W)"
 END
 
 CONTROLBAR:ToolTipFellowshipBoromirShieldBash
@@ -75440,7 +75472,7 @@ CONTROLBAR:ToolTipDescriptionRohanWindmill
 END
 
 OBJECT:RohanStablesDescription
-"Génère des ressources en fonction du terrain disponible\nNiveau 2 : Vitesse de construction +10%\nNiveau 3 : Vitesse de construction +25%"
+"Génère une petite quantité de ressources \nNiveau 2 : Vitesse de construction +10%\nNiveau 3 : Vitesse de construction +25%"
 END
 
 GUI:FIELD_DISCOUNT
@@ -75500,7 +75532,7 @@ CONTROLBAR:MusterRohirrim
 End
 
 CONTROLBAR:ToolTipMusterRohirrim
-"Le bataillon d'infanterie ciblé est entièrement réapprovisionné et devient définitivement monté\nNe fonctionne pas sur les unités étourdies\nSort a un temps de recharge plus court\nCliquez gauche sur l'icône, puis cliquez gauche sur le bataillon cible"
+"Le bataillon d'infanterie ciblé est entièrement réapprovisionné et devient définitivement monté \n Peut être utilisé pour convertir les gardiens de porte d'Edoras en garde royale montée au-delà de la limite de 3 \nNe fonctionne pas sur les unités étourdies\nSort a un temps de recharge plus court\nCliquez gauche sur l'icône, puis cliquez gauche sur le bataillon cible"
 END
 
 CONTROLBAR:BountifulHarvest
@@ -75799,7 +75831,7 @@ CONTROLBAR:RohanPeasantHasDraft
 END
 
 CONTROLBAR:ToolTipRohanPeasantHasDraft
-"Requiert le pouvoir Résistance. \n Les paysans reçoivent des épées et des boucliers, gagnant +5 de dégâts et +10 de points de vie. \n Les paysans peuvent désormais être améliorés avec des lames forgées et une armure lourde."
+"Requiert le pouvoir Résistance. \n Les paysans reçoivent des épées et des boucliers, gagnant +5 de dégâts et +20 de points de vie. \n Les paysans peuvent désormais être améliorés avec des lames forgées et une armure lourde."
 END
 
 CONTROLBAR:PurchaseUpgradeRohanDraft
@@ -75807,7 +75839,7 @@ CONTROLBAR:PurchaseUpgradeRohanDraft
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeRohanDraft
-"Les paysans reçoivent des épées et des boucliers, gagnent +5 de dégâts et +10 de santé. \n Les paysans peuvent être améliorés avec des Lames forgées et des Armures Lourdes."
+"Les paysans reçoivent des épées et des boucliers, gagnent +5 de dégâts et +20 de santé. \n Les paysans peuvent être améliorés avec des Lames forgées et des Armures Lourdes."
 END
 
 CONTROLBAR:ErkenbrandHorn
@@ -76916,7 +76948,7 @@ CONTROLBAR:ThickSkull
 END
 
 CONTROLBAR:ToolTipThickSkull
-"Requiert le Niveau 2\nPendant 15 secondes, le Troll inflige +100 % de dégâts aux structures\nmais perd -50 % d’armure\nLe Troll ne peut pas infliger de dégâts de zone aux structures pendant que Cerveau Epais est actif\nClic gauche pour activer"
+"Requiert le Niveau 2\nPendant 15 secondes, le Troll inflige +50% de dégâts aux structures\nmais perd -50 % d’armure\nLe Troll ne peut pas infliger de dégâts de zone aux structures pendant que Cerveau Epais est actif\nClic gauche pour activer"
 END
 
 OBJECT:WildLodge
@@ -77637,7 +77669,7 @@ CONTROLBAR:BringItDown
 END
 
 CONTROLBAR:ToolTipBringItDown
-"Requiert le niveau 2 \n Augmente les dégâts contre les unités volantes de 200% pendant 20 secondes \n Cliquez gauche pour activer"
+"Requiert Niveau 2 \n Pendant 20 secondes, les chasseurs orcs gagnent +85% de dégâts contre les monstres et les unités volantes\nCliquez gauche pour activer"
 END
 
 OBJECT:GuldurOrcPikeman
@@ -77828,6 +77860,14 @@ END
 
 CONTROLBAR:DarkPresence
 "Présence Sombre"
+END
+
+CONTROLBAR:SeepingPresence
+"Malveillance sourdante"
+END
+
+CONTROLBAR:ToolTipSeepingPresence
+"La malveillance de la Tour dévastatrice s'infiltre dans la terre qui l'entoure\nLorsqu'elle est proche d'unités ennemies, les Tours dévastatrices génèrent des ressources\nCapacité passive"
 END
 
 CONTROLBAR:DreadfulPresence
@@ -78741,7 +78781,7 @@ CONTROLBAR:GwanthaurSacrifice
 END
 
 CONTROLBAR:ToolTipGwanthaurSacrifice
-"Le Gwanthaur peut sélectionner une unité alliée pour la dévorer et regagner 50% de sa vient. \n\n Clic gauche sur l'icône puis clic gauche sur la cible."
+"Le Gwanthaur peut sélectionner un ennemi ou une unité alliée pour la dévorer et regagner 20% de sa vie et inflige +33% de dégâts pendant 15 secondes. \n Clic gauche sur l'icône puis clic gauche sur la cible."
 END
 
 CONTROLBAR:GwanthaurExpulsion
@@ -81809,7 +81849,7 @@ CONTROLBAR:HaradSentry
 "Tour de Guet"
 End
 CONTROLBAR:TooltipHaradSentry
-"Invoque une Tour de Guet qui accroit le champ de vision et détecte la furtivité \n Limité à 4 \n Clic gauche sur l'icône puis clic gauche sur la zone cible"
+"Invoque une Tour de Guet qui génère une petite quantité de ressources qui accroit le champ de vision et détecte la furtivité \n Limité à 4 \n Clic gauche sur l'icône puis clic gauche sur la zone cible"
 End
 CONTROLBAR:ForthMenDarkness
 "A l'assaut, Hommes des Ténèbres"
@@ -82479,7 +82519,7 @@ CONTROLBAR:HasharinSubtlety
 "Lames de Syâ&r-Rhul"
 END
 CONTROLBAR:TooltipHasharinSubtlety
-"Les lames d'Hasharin infligent des dégâts importants aux héros ennemis et aux unités héroïques.\nCapacité passive\n\n Lorsqu'elles sont activées, les Lames de Hasharin deviennent stellaires pendant 20 secondes. \nPendant ce temps, leurs attaques infligent des dégâts sur la durée aux héros ennemis et aux unités héroïques.\n\n Clic gauche pour activer"
+"Les lames d'Hasharin infligent des dégâts importants aux héros ennemis et aux unités héroïques.\nCapacité passive\n\n Lorsqu'elles sont activées, les Lames de Hasharin deviennent stellaires pendant 35 secondes. \nPendant ce temps, leurs attaques infligent des dégâts sur la durée aux héros ennemis et aux unités héroïques.\n\n Clic gauche pour activer"
 END
 CONTROLBAR:EyesofSyarRhul
 "Eyes of Syâr-Rhul [&Z]"
@@ -82524,7 +82564,7 @@ END
 
 CONTROLBAR:ToolTipHasharinMarkedForDeath
 //"Niveau 3 requis \n Hasharin lance un couteau empoisonné sur une unité ennemie, infligeant des dégâts importants sur la durée et ralentissant la cible de 50 %. \nL'effet dure 30 secondes. \nClic gauche sur l'icône puis clic gauche sur l'unité ennemie ciblée."
-"Niveau 3 requis \n Hasharin lance un couteau empoisonné sur une unité ennemie, infligeant des dégâts importants sur la durée et ralentissant la cible de 50 %. \nL'effet dure 30 secondes. \nClic gauche sur l'icône puis clic gauche sur l'unité ennemie ciblée"
+"Niveau 2 requis \n Hasharin lance un couteau empoisonné sur une unité ennemie, infligeant des dégâts importants sur la durée et ralentissant la cible de 50 %. \nL'effet dure 30 secondes. \nClic gauche sur l'icône puis clic gauche sur l'unité ennemie ciblée"
 END
 
 CONTROLBAR:HasharinMarkedForDeath
@@ -83684,7 +83724,7 @@ CONTROLBAR:ArmouredCharge
 END
 
 CONTROLBAR:ToolTipArmouredCharge
-"Requiert Niveau 3 \n Pendant 15 secondes, l'Avant-Garde inflige -25% de dégâts en mêlée mais bénéficie d'une réduction de -50% de la décélération de l'écrasement.\nClic gauche pour activer"
+"Requiert Niveau 2 \n Pendant 15 secondes, l'Avant-Garde inflige -25% de dégâts en mêlée mais bénéficie d'une réduction de -50% de la décélération de l'écrasement.\nClic gauche pour activer"
 END
 
 CONTROLBAR:SerpentsSting
@@ -84561,7 +84601,7 @@ CONTROLBAR:BloodHuntWhiteHand
 END
 
 CONTROLBAR:ToolTipGBloodHuntWhiteHand
-"Clique gauche pour monter\nType de modificateur : Commandement\nLes Wargs alliés et leurs cavaliers près de Sharku gagnent +33% de dégâts, +33% d’armure et gagnent de l’expérience 50% plus vite\nCapacité passive"
+"Clique gauche pour monter\nType de modificateur : Commandement\nLes Wargs alliés et leurs cavaliers près de Sharku gagnent +25% de dégâts, +25% d’armure et gagnent de l’expérience 50% plus vite\nCapacité passive"
 END
 
 CONTROLBAR:SpecialAbilityIsengardTrollCarnage
@@ -84824,6 +84864,10 @@ END
 
 CONTROLBAR:ToolTipBuildDaleRoyalGuardAdventure
 "Nécessite le Niveau 3 de l’Assemblée de Dorwinion et l'amélioration du Conseil des Seigneurs\nUnité Héroïque. Limitée à 1.\nForte contre la Cavalerie\nPeut changer de formation pour améliorer ses capacités défensives\n\nLes Gardiens de Hársald - ou la Grande Salle en Westron - servent de fidèles protecteurs du Roi de Dale, depuis que Bard a revendiqué ce titre après la reconstruction de la cité."
+END
+
+CONTROLBAR:ToolTipBuildDaleRoyalGuardAdventure_Erebor
+"Nécessite une garnison de Dale de niveau 3 et le roi Brand\nUnité héroïque. Limitée à 1.\nFort contre la cavalerie\nCapable de changer de formation pour des capacités défensives améliorées\n\nLes gardiens du Haut Hall - ou Hársald en commun - servent de protecteurs fidèles au roi de Dale, depuis que Bard a revendiqué ce titre après la reconstruction de la cité."
 END
 
 CONTROLBAR:PurchaseTechnologyMirkwoodBasicTrainingAdventure
@@ -85607,13 +85651,13 @@ CONTROLBAR:ToolTipAncestralHall
 "Nécessite Úlf le Váldúgr\nPermet de recruter les Hommes des Collines de Rhudaur"
 END
 CONTROLBAR:ConstructOathswornWarriorHorde
-"Gu&erriers Jurés"
+"Carn Dûm Oathsworn (&E)"
 END
 OBJECT:OathswornWarrior
-"Guerrier Juré"
+"Carn Dûm Oathsworn"
 END
 OBJECT:OathswornWarriorHorde
-"Guerriers Jurés"
+"Carn Dûm Oathsworn"
 END
 CONTROLBAR:ToolTipBuildOathswornWarriorHorde
 "Fort contre les Piquiers\n\nAprès avoir usurpé le trône des Dúnedain de Rhudaur, les Hommes des Collines ont prêté de nombreux serments au Roi-Sorcier, se liant ainsi en servitude envers leur sombre maître."
@@ -85622,16 +85666,16 @@ CONTROLBAR:NorthernFury
 "Fureur du Nord [&T]"
 END
 CONTROLBAR:ToolTipNorthernFury
-"Requiert le niveau 2\nLes Guerriers Jurés gagnent +15% de dégâts et +50% de résistance au renversement pendant 30 secondes\nCliquez gauche pour activer"
+"Requiert le niveau 2\nCarn Dûm Oathsworn gagnent +15% de dégâts et +50% de résistance au renversement pendant 30 secondes\nCliquez gauche pour activer"
 END
 OBJECT:OathswornTrapper
-"Piégeur Juré"
+"Piégeur Váldgoil"
 END
 OBJECT:OathswornTrapperHorde
-"Piégeurs Jurés"
+"Piégeurs Váldgoil"
 END
 CONTROLBAR:ConstructOathswornTrapperHorde
-"Piégeurs Jurés (&R)"
+"Piégeurs Váldgoil (&R)"
 END
 CONTROLBAR:ToolTipBuildOathswornTrapperHorde
 "Nécessite niveau 2 Salle ancestrale\nFort contre l'infanterie\n\nConnaissant les sombres secrets des terres gelées, ces redoutables forestiers peuvent disparaître dans la neige, pour réapparaître au moment le plus opportun, tendant une embuscade aux adversaires les plus méfiants."
@@ -85646,16 +85690,16 @@ CONTROLBAR:SpecialAbilitySerratedBlades
 "Lames Dentelées (&T)"
 END
 CONTROLBAR:ToolTipSpecialAbilitySerratedBlades
-"Nécessite niveau 2\nLes Piégeurs Jurés ignorent l’armure ennemie pendant 30 secondes\nClique gauche pour activer"
+"Nécessite niveau 2\nLes Piégeurs Váldgoil ignorent l’armure ennemie pendant 30 secondes\nClique gauche pour activer"
 END
 OBJECT:OathswornOutrider
-"Eclaireur Juré"
+"Eclaireur Váldgoil"
 END
 OBJECT:OathswornOutriderHorde
-"Eclaireurs Jurés"
+"Eclaireurs Váldgoil"
 END
 CONTROLBAR:ConstructOathswornOutriderHorde
-"Eclaireurs Jurés (&T)"
+"Eclaireurs Váldgoil (&T)"
 END
 CONTROLBAR:ToolTipBuildOathswornOutriderHorde
 "Nécessite niveau 3 Salle ancestrale\nCavalerie d'élite\nFort contre les archers\n\nFranchissant sans encombre grêle et neige, les éclaireurs des tribus des collines sont redoutés pour la rapidité de leurs attaques. Fantomatiques dans le brouillard blanc, ils prennent ce qu’ils veulent et disparaissent avant que la cloche ait fini de sonner."
@@ -85673,13 +85717,13 @@ CONTROLBAR:ToolTipValdgoilFanatic
 "Les Hommes de Carn Dûm sont immergés dans la scholomance du Roi-Sorcier et ne sont pas affectés par la Décadence lente\nCapacité passive"
 END
 OBJET:AngmarHarbinger
-"Annonciateur du Gel"
+"Annonciateur du Váldgoil"
 END
 OBJET:AngmarHarbingerHorde
-"Annonciateurs du Gel"
+"Annonciateurs du Váldgoil"
 END
 CONTROLBAR:ConstructAngmarHarbingerHorde
-"Annonciateu&rs du Gel (&S)"
+"Annonciateu&rs du Váldgoil (&S)"
 END
 CONTROLBAR:ToolTipBuildAngmarHarbingerHorde
 "Requiert un Hall Ancestral de niveau 3\nUnité Héros\n Limité à 2\nEfficace contre tout type d'unités, l'infanterie et les structures\nLimité à 3\n\nTrès peu de Hillmen cherchant à apprendre la sorcellerie survivent à l'école pénible de Carn Dûm. Ceux qui le font accèdent à des positions de grande importance parmi les leurs, maniant les sombres reliquats de l'influence de Morgoth pour commander le froid d'Angmar."
@@ -85700,13 +85744,13 @@ CONTROLBAR:UpgradeAncestralHallLevel2
 "&Améliorer le Hall Ancestral au niveau 2"
 END
 CONTROLBAR:TooltipUpgradeAncestralHallLevel2
-"Permet d'entraîner les Chasseurs Oathsworn\n+10 % de vitesse de construction"
+"Permet d'entraîner les Chasseurs Váldgoil\n+10 % de vitesse de construction"
 End
 CONTROLBAR:UpgradeAncestralHallLevel3
 "&Améliorer le Hall Ancestral au niveau 3"
 END
 CONTROLBAR:TooltipUpgradeAncestralHallLevel3
-"Permet d'entraîner les Cavaliers Oathsworn et les Annonciateurs du Gel\n+25 % de vitesse de construction"
+"Permet d'entraîner Avant-garde de Carn Dû et les Annonciateurs du Váldgoil\n+25 % de vitesse de construction"
 End
 
 CONTROLBAR:BloodFreezingPresence
@@ -88832,6 +88876,335 @@ CONTROLBAR:ToolTipBuildHighPassEaglesBuildingLevel3Upgrade
 "+25% de vitesse de recrutement \n Augmente le champ de vision du Monument \n Permet de recruter Gwaihir, Landroval et Meneldor"
 END
 
+//--------------------------
+//Alternate Faction: Dol Amroth
+//--------------------------
+OBJECT:DolAmrothLothiriel
+"Princesse Lothíriel"
+END
+CONTROLBAR:DolAmrothLothirielRecruit
+"Recrutez la princesse de Dol Amroth \n\nLa plus jeune enfant et seule fille d'Imrahil n'est pas une guerrière mais une dame parfaite aux manières impeccables, à l'administration rigoureuse et à l'obstination inégalée\nLa princesse gagne de l'expérience avec son peuple : elle monte de niveau avec les améliorations de la forteresse"
+END
+CONTROLBAR:DolAmrothLothirielRevive
+"Ramenez à la vie le héros tombé, Lothíriel"
+END
+CONTROLBAR:DolAmrothLothirielHotkey
+"Lothíriel (&W)"
+END
+CONTROLBAR:LothirielSummon
+"Princesse de Dol Amroth (&W)"
+END
+CONTROLBAR:ToolTipLothirielSummon
+"Type de modification : Commandement\nLes attaques de la princesse augmentent l'armure des alliés proches de +25 % pendant 7 secondes\nCapacité passive\n\nLorsqu'elle est activée, la princesse appelle à l'aide et convoque un bataillon de miliciens d'Amroth\nAu niveau 3, la milice est remplacée par des soldats d'élite de Dol Amroth\nAu niveau 6, le bataillon convoqué est entièrement amélioré\nAu niveau 10, convoque un bataillon de guerriers Rohirrim."
+END
+CONTROLBAR:LothirielFavour
+"Faveur de la dame (&R)"
+END
+CONTROLBAR:ToolTipLothirielFavour
+"Unité sélectionnée gagne +100 % de portée de vision de manière permanente\nSi utilisé sur Éomer, accorde également +10 % de vitesse de déplacement\nCliquez gauche sur l'icône puis cliquez gauche sur l'unité ciblée"
+END
+CONTROLBAR:LothirielBanquet
+"Banquet (&T)"
+END
+CONTROLBAR:ToolTipLothirielBanquet
+"Nécessite le niveau 3\nLothíriel prépare un banquet pour les alliés de sa maison\nLe banquet soigne les unités proches et accorde à Éomer +50 % de vitesse de guérison\nCliquez gauche sur l'icône puis cliquez gauche sur la zone ciblée"
+END
+OBJECT:LothirielBanquet
+"Banquet"
+END
+CONTROLBAR:LothirielAdministrator
+"Administratrice rusée (&C)"
+END
+CONTROLBAR:ToolTipLothirielAdministrator
+"Nécessite le niveau 6\nAugmente la production de ressources du bâtiment sélectionné de 100 % pendant 30 secondes\nLorsque utilisé sur Éomer, la production d'Éadig est augmentée de manière permanente\nCliquez gauche sur l'icône puis cliquez gauche sur la cible"
+END
+CONTROLBAR:LothirielMount
+"Reine du Mark (&V)"
+END
+CONTROLBAR:ToolTipLothirielMount
+"Nécessite le niveau 10\nLothíriel est toujours accompagnée de 3 gardes royaux d'Edoras, ces gardes montent ou descendent avec Lothíriel\nLorsqu'elle est proche d'Éomer, Lothíriel gagne une grande évitement à distance et +25 % d'armure\nCliquez pour monter/descendre Lothíriel sur sa jument Aileneige"
+END
+OBJECT:DolAmrothAmrothos
+"Prince Amrothos"
+END
+CONTROLBAR:DolAmrothAmrothosRecruit
+"Recrutez le plus jeune prince de Dol Amroth \n\nAmrothos est un marin dans l'âme et est souvent absent de chez lui en grand voyage. Pourtant, dans son cœur, il est un vrai fils d'Imrahil, portant un grand amour pour sa terre et sa famille."
+END
+CONTROLBAR:DolAmrothAmrothosRevive
+"Ramenez à la vie le héros tombé, Amrothos"
+END
+CONTROLBAR:DolAmrothAmrothosHotkey
+"Amrothos (&E)"
+END
+CONTROLBAR:AmrothosMount
+"Falmarínin (&W)"
+END
+CONTROLBAR:TooltipAmrothosMount
+"Cliquez gauche pour basculer entre\nmonté sur Falmarínin et à pied"
+END
+CONTROLBAR:AmrothosCaptain
+"Capitaine renommé (&R)"
+END
+CONTROLBAR:TooltipAmrothosCaptain
+"Type de modification : Commandement\nLes marines de Belfalas proches gagnent +20 % de portée et +20 % de vitesse d'attaque\nTous les navires alliés gagnent +25 % d'armure et +25 % de dégâts\nCapacité passive\nAu niveau 7, accorde une armure lourde aux marines de Belfalas dans la zone sélectionnée\nCliquez gauche sur l'icône puis cliquez gauche sur la zone ciblée"
+END
+CONTROLBAR:AmrothosSwashbuckler
+"Langue acérée (&T)"
+END
+CONTROLBAR:ToolTipAmrothosSwashbuckler
+"Nécessite le niveau 3\nAmrothos frappe un héros ciblé avec une remarque verbale et un coup physique et réduit sa vitesse de 50 % pendant 10 secondes\nAu niveau 6, cloue la cible pendant 10 secondes\nCliquez gauche puis cliquez gauche sur l'unité ciblée"
+END
+CONTROLBAR:AmrothosHeartOfGold
+"Cœur d'or (&V)"
+END
+CONTROLBAR:ToolTipAmrothosHeartOfGold
+"Nécessite le niveau 8\nAmrothos montre sa résilience et son cœur\nLes unités proches gagnent +50 % de résistance au piétinement et une immunité à la peur, la terreur et le recul pendant 30 secondes\nCliquez gauche pour activer\n\nAmrothos revêt son armure princière, gagnant +50 % d'armure\nCapacité passive"
+END
+OBJECT:DolAmrothErchirion
+"Prince Erchirion"
+END
+CONTROLBAR:DolAmrothErchirionRecruit
+"Recrutez le deuxième prince de Dol Amroth \n\nErchirion est un guerrier redoutable doté d'un tempérament froid et mortel. Plus semblable à son cousin Boromir que tous les autres royaux d'Amroth, il est très aimé de tous et aime tous profondément."
+END
+CONTROLBAR:DolAmrothErchirionRevive
+"Ramenez à la vie le héros tombé, Erchirion"
+END
+CONTROLBAR:DolAmrothErchirionHotkey
+"Erchirion (&R)"
+END
+CONTROLBAR:ErchirionMount
+"Lïrdagnir (&W)"
+END
+CONTROLBAR:TooltipErchirionMount
+"Cliquez gauche pour basculer entre\nmonté sur Lïrdagnir et à pied"
+END
+CONTROLBAR:ErchirionColdRage
+"Rage froide (&R)"
+END
+CONTROLBAR:TooltipErchirionColdRage
+"Nécessite le niveau 3\nErchirion repousse les unités ennemies et les unités ennemies proches subissent -15 % d'armure pendant 30 secondes\nAu niveau 6, Erchirion gagne également +50 % de dégâts pendant 30 secondes\nCliquez gauche pour activer"
+END
+CONTROLBAR:ErchirionVeteranCommander
+"Commandant vétéran (&T)"
+END
+CONTROLBAR:TooltipErchirionVeteranCommander
+"Nécessite le niveau 5\nErchirion met en place des barrières pour se protéger des projectiles\nLes unités alliées gagnent +66 % d'armure contre les attaques à distance\nCliquez gauche sur l'icône puis cliquez gauche sur la zone ciblée\n\nLes ennemis qui attaquent Erchirion subissent -10 % de dégâts pendant 15 secondes\nCapacité passive"
+END
+CONTROLBAR:ErchirionStarPupil
+"Étoile montante (&C)"
+END
+CONTROLBAR:TooltipErchirionStarPupil
+"Nécessite le niveau 7\nErchirion prouve pourquoi il était le meilleur escrimeur de tous les frères d'Amroth et gagne +75 % d'armure pendant 30 secondes\nPendant l'activation, l'effet passif de débuff du Commandant vétéran est augmenté à -25 % de dégâts\nCliquez gauche pour activer"
+END
+CONTROLBAR:ErchirionSacrifice
+"Sacrifice désespéré (&V)"
+END
+CONTROLBAR:ToolTipErchirionSacrifice
+"Nécessite le niveau 8\nErchirion perd 25 % de santé et rend le héros ciblé immunisé aux dégâts pendant 10 secondes\nAu niveau 10, peut être lancé sur un héros ennemi pour remettre ses timers d'abilité à l'état utilisé\nCliquez gauche sur l'icône puis cliquez gauche sur la cible"
+END
+OBJECT:DolAmrothElphir
+"Prince Elphir"
+END
+CONTROLBAR:DolAmrothElphirRecruit
+"Recrutez l'aîné des enfants d'Imrahil \n\nL'héritier apparent de la Seigneurie de Belfalas, Elphir est sérieux et réfléchi. Plus philosophe que guerrier, il détient une grande sagesse dont tous ceux qui l'entourent bénéficient. Protecteur de sa famille et de son pays, il piège ses ennemis avec ruse."
+END
+CONTROLBAR:DolAmrothElphirRevive
+"Ramenez à la vie le héros tombé, Elphir"
+END
+CONTROLBAR:DolAmrothElphirHotkey
+"Elphir (&T)"
+END
+CONTROLBAR:ElphirHeirApparent
+"Héritier apparent (&W)"
+END
+CONTROLBAR:ToolTipElphirHeirApparent
+"Elphir monte/descend de son cheval de guerre Môrethir\nCliquez gauche pour activer\n\nQuand Elphir attaque, les unités proches gagnent +25 % de dégâts pendant 5 secondes\nAu niveau 3, Elphir est entouré de 3 champions de Tirith Aear, ils montent et descendent avec Elphir\nCapacité passive"
+END
+CONTROLBAR:ElphirProperPreparations
+"Préparatifs appropriés (&R)"
+END
+CONTROLBAR:ToolTipElphirProperPreparations
+"Nécessite le niveau 3\nElphir a appris de ses ennemis du Sud et a fait les préparatifs appropriés\nLes unités alliées proches d'Elphir gagnent +20 % de vitesse de déplacement et d'attaque et régénèrent régulièrement des soldats pendant 30 secondes\nCliquez gauche pour activer"
+END
+CONTROLBAR:ElphirEnsnare
+"Piéger (&T)"
+END
+CONTROLBAR:TooltipElphirEnsnare
+"Nécessite le niveau 5\nElphir apprend de ses alliés dans la Forêt Verte et prépare des pièges pour ses ennemis\nElphir place un piège, si le piège est touché par des unités ennemies, il ralentit les unités ennemies dans un large rayon de 33 % pendant 20 secondes\nAu niveau 8, les unités ennemies sont ralenties de 66 %.\nAu niveau 10, les ennemis subissent également -33 % de vitesse d'attaque\nCliquez gauche puis cliquez gauche sur la zone ciblée"
+END
+CONTROLBAR:ElphirArtofWar
+"L'Art de la Guerre (&C)"
+END
+CONTROLBAR:TooltipElphirArtofWar
+"Nécessite le niveau 7\nElphir apprend du passé : toute guerre est basée sur la tromperie\nTéléporte les unités dans la zone sélectionnée vers n'importe où sur la carte\nNe fonctionne pas sur les unités de siège\nCliquez gauche sur l'icône, puis cliquez gauche sur les unités ciblées, puis cliquez gauche sur un emplacement accessible"
+END
+CONTROLBAR:ElphirBitterLesson
+"Leçon amère apprise (&V)"
+END
+CONTROLBAR:ToolTipElphirBitterLesson
+"Nécessite le niveau 10\nElphir apprend de Mordor : tuez-les dans leurs foyers\nLa structure ciblée subit des dégâts lourds, est désactivée, et les ennemis dans une portée moyenne subissent des dégâts lourds sur la durée pendant 10 secondes\nCliquez gauche sur l'icône puis cliquez gauche sur la cible"
+END
+OBJECT:DolAmrothImrahil
+"Prince Imrahil"
+END
+CONTROLBAR:DolAmrothImrahilRecruit
+"Recrutez le dirigeant de Dol Amroth \n\nSeigneur de Belfalas et premier parmi les nobles du Gondor, Imrahil dirige la Principauté avec une action décisive, un courage impressionnant et une sagesse non négligeable."
+END
+CONTROLBAR:DolAmrothImrahilRevive
+"Ramenez à la vie le héros tombé, Imrahil"
+END
+CONTROLBAR:DolAmrothImrahilHotkey
+"Imrahil (&F)"
+END
+CONTROLBAR:ImrahilPrinceDolAmroth
+"Prince de Dol Amroth (&W)"
+END
+CONTROLBAR:TooltipImrahilPrinceDolAmroth
+"Type de modification : Commandement\nLes unités alliées proches d'Imrahil gagnent +33 % de dégâts et +33 % d'armure et sont immunisées à la peur et à la terreur\nS'empile avec les buffs et sorts\nCapacité passive\n\nCliquez gauche pour monter Imrahil sur son cheval Autharan."
+END
+CONTROLBAR:ImrahilProudFather
+"Père fier (&R)"
+END
+CONTROLBAR:ToolTipImrahilProudFather
+"Type de modification : Sort\nLorsqu'il est proche de ses enfants, Imrahil gagne plusieurs buffs\nLothíriel : +10 % de vitesse de déplacement\nAmrothos : +10 % de gain d'expérience\nErchirion : +10 % de dégâts\nElphir : +10 % d'armure\n\nAu niveau 8, peut être activé pour annuler les ralentissements de vitesse sur un héros et le rendre immunisé aux dégâts de héros et de magie, ainsi que rafraîchir les timers d'aptitude spéciale autour de la cible\nNe peut pas être utilisé sur Imrahil lui-même\nCliquez gauche sur l'icône puis cliquez gauche sur le héros ciblé"
+END
+CONTROLBAR:ImrahilInspirationDA
+"Inspiration (&T)"
+End
+CONTROLBAR:ToolTipImrahilInspirationDA
+"Nécessite le niveau 3\nLes unités alliées proches sont immunisées aux débuffs pendant 30 secondes\nAu niveau 5, donne également 75 % d'armure contre les dégâts élémentaires et magiques\nAu niveau 10, fait également fuir les unités ennemies dans la terreur\nCliquez gauche pour activer"
+End
+CONTROLBAR:SpecialPowerImrahilUnscathedDA
+"Indemne (&C)"
+END
+CONTROLBAR:ToolTipSpecialPowerImrahilUnscathedDA
+"Nécessite le niveau 4\nImrahil gagne +50 % d'armure, un grand évitement à distance et +50 % de dégâts pendant 30 secondes\nAu niveau 6, Imrahil gagne +75 % d'armure et de dégâts\nAu niveau 9, Imrahil gagne une immunité complète aux dégâts à distance\nCliquez gauche pour activer"
+END
+CONTROLBAR:SpecialAbilityImrahilAmrothForGondor
+"Amroth pour le Gondor ! (&V)"
+END
+CONTROLBAR:ToolTipSpecialAbilityImrahilAmrothForGondor
+"Nécessite le niveau 7\nLes unités proches gagnent +50 % d'armure, peuvent piétiner les ennemis et gagnent -25 % de décélération par piétinement pendant 30 secondes\nCliquez gauche pour activer"
+END
+CONTROLBAR:ToolTipFaramirWeaponToggleDA
+"Cliquez gauche pour basculer entre arc et épée\n\nType de modification : Commandement\nLes unités alliées proches de Faramir gagnent +33 % de dégâts et +10 % de vitesse de déplacement\nCapacité passive"
+END
+CONTROLBAR:ToolTipFaramirSummonDA
+"Nécessite le niveau 3\nFaramir appelle un groupe de rôdeurs et l'un de leurs lieutenants pour défendre l'emplacement ciblé\nIls sont immobiles, mais restent furtifs et attaqueront tout ennemi qui s'approche\nAu niveau 7, convoque un plus grand groupe de rôdeurs\nCliquez gauche sur l'icône puis cliquez gauche sur un emplacement accessible"
+END
+CONTROLBAR:DolAmrothFaramirHotkey
+"Faramir (&E)"
+END
+CONTROLBAR:ToolTipBoromirLeadershipDA
+"Type de modification : Commandement\nLes unités alliées proches de Boromir gagnent +33 % d'armure et gagnent de l'expérience +50 % plus rapidement\nAu niveau 5, Boromir revêt son armure gondorienne et gagne +10 % d'armure\nCapacité passive"
+END
+CONTROLBAR:DolAmrothBoromirHotkey
+"Boromir (&R)"
+END
+OBJECT:DolAmrothEomer
+"Roi Éomer Éadig"
+END
+CONTROLBAR:EomerKingOfTheMark
+"Roi du Mark (&W)"
+END
+CONTROLBAR:ToolTipEomerKingOfTheMark
+"Type de modification : Commandement\nLa cavalerie alliée proche gagne +33 % de dégâts et +33 % d'armure\nLorsqu'il est proche de Lothíriel, Éomer gagne +10 % de dégâts et +10 % d'armure\nCapacité passive\n\nCliquez gauche pour monter ou descendre de Patte-feu"
+END
+CONTROLBAR:KingEomerGuthwine
+"Soif de Guthwinë (&R)"
+END
+CONTROLBAR:TooltipKingEomerGuthwine
+"Éomer est l'un des escrimeurs les plus redoutables du Troisième Âge\nÉomer gagne +100 % de dégâts pendant 30 secondes\n\nSi Lothíriel est proche, elle gagne +33 % d'armure pendant 30 secondes\nCliquez gauche pour activer"
+END
+CONTROLBAR:KingEomerThrowSpear
+"Lancer de lance (&T)"
+END
+CONTROLBAR:ToolTipKingEomerThrowSpear
+"Attaque à distance unique avec dégâts de zone\nInflige +100 % de dégâts aux monstres\nCliquez gauche puis cliquez gauche sur l'unité ciblée"
+END
+CONTROLBAR:KingEomerRestoration
+"Restauration (&T)"
+END
+CONTROLBAR:ToolTipKingEomerRestoration
+"Saruman a causé des dommages inimaginables au Rohan, Éomer s'engage à réparer cela\n\nLes structures alliées dans la zone sont lentement réparées et gagnent une immunité aux dégâts élémentaires et magiques\nLes unités alliées dans la zone gagnent +33 % de dégâts\nLes structures ennemies dans la zone sont temporairement désactivées\nCliquez gauche puis cliquez gauche sur la zone ciblée"
+END
+CONTROLBAR:KingEomerEadig
+"Éadig"
+END
+CONTROLBAR:ToolTipKingEomerEadig
+"Connu comme le Béni, Éomer restaure son peuple à la richesse\nLes ennemis tués près d'Éomer rapportent des ressources\n\nÉomer est toujours accompagné de 3 gardes royaux du Rohan, ces gardes montent ou descendent avec Éomer"
+END
+CONTROLBAR:EomerKingOfAFellPeople
+"Roi d'un peuple farouche (&V)"
+END
+CONTROLBAR:ToolTipEomerKingOfAFellPeople
+"Éomer est fier de son peuple et de sa force\nLa cavalerie proche gagne +50 % d'armure et +75 % d'armure contre les dégâts de pique et à distance pendant 30 secondes\nCliquez gauche pour activer."
+END
+
+CONTROLBAR:DolAmrothDiscipline
+"Discipline"
+END
+CONTROLBAR:ToolTipDolAmrothDiscipline
+"Nécessite le niveau 2\nLes soldats de base de Dol Amroth sont bien entraînés\nAugmente la santé et l'armure de l'unité de 15 %\nCapacité passive"
+END
+CONTROLBAR:DolAmrothRushForward
+"En avant ! (&R)"
+END
+CONTROLBAR:ToolTipDolAmrothRushForward
+"Nécessite le niveau 2\nLes soldats de base de Dol Amroth chargent l'ennemi !\nAugmente temporairement la vitesse de déplacement de 15 % pendant 15 secondes\nCliquez gauche pour activer"
+END
+OBJECT:AmrothianMilitia
+"Milice amrothienne"
+END
+CONTROLBAR:RecruitAmrothianMilitia
+"Recruter la Milice amrothienne (&W)"
+End
+CONTROLBAR:ToolTipRecruitAmrothianMilitia
+"Fort contre les piquiers\n\nAux époques de bouleversements, le prince de Dol Amroth renforçait son armée en utilisant des miliciens conspués, provenant de diverses villes et villages environnants le promontoire."
+END
+OBJECT:AmrothianGuardsmen
+"Guardes amrothiens"
+END
+OBJECT:AmrothianGuardsman
+"Garde amrothien"
+END
+CONTROLBAR:RecruitAmrothianGuardsmen
+"Recruter les Guardes amrothiens (&E)"
+End
+CONTROLBAR:ToolTipRecruitAmrothianGuardsmen
+"Fort contre la cavalerie et les héros\n\nLes lois du principauté étaient respectées dans toutes ses villes par un ordre de gardes dont le commandant rendait directement des comptes à l'héritier apparent du prince."
+END
+OBJECT:BelfalasMarines
+"Marins de Belfalas"
+END
+OBJECT:BelfalasMarine
+"Marin de Belfalas"
+END
+CONTROLBAR:RecruitBelfalasMarines
+"Recruter les Marins de Belfalas (&R)"
+End
+CONTROLBAR:ToolTipRecruitBelfalasMarines
+"Nécessite la caserne de Dol Amroth niveau 2\nFort contre l'infanterie\nPeut basculer entre javelot et hache\n\nConformément à ses traditions maritimes, la terre côtière de Dol Amroth entretenait une force de soldats marins chargés de sécuriser les eaux entre le Gondor et le lointain Harad."
+END
+CONTROLBAR:RecruitBelfalasMarinesRotK
+"Recruter les Marins de Belfalas (&W)"
+End
+CONTROLBAR:ToolTipRecruitBelfalasMarinesRotK
+"Fort contre l'infanterie\n\nConformément à ses traditions maritimes, la terre côtière de Dol Amroth entretenait une force de soldats marins chargés de sécuriser les eaux entre le Gondor et le lointain Harad.\nArcher, peut basculer vers les épées\nPeut recevoir des Lames forgées et des Porteurs de bannière"
+END
+CONTROLBAR:BelfalasSinkThem
+"Coulez-les ! (&W)"
+End
+CONTROLBAR:ToolTipBelfalasSinkThem
+"Nécessite le niveau 2\nLes attaques des marines infligent des dégâts de feu pendant 30 secondes\nCliquez gauche pour activer"
+End
+CONTROLBAR:BelfalasIllOmens
+"Présages funestes"
+End
+CONTROLBAR:ToolTipBelfalasIllOmens
+"Nécessite le niveau 3\nLes marines croient que certaines créatures sont des présages funestes\nLes marines gagnent +20 % de dégâts contre les monstres et les unités volantes\nCapacité passive"
+End
+
 OBJECT:DolAmrothSwordsmen
 "Hommes d'Armes de Dol Amroth"
 END
@@ -88858,6 +89231,603 @@ END
 
 CONTROLBAR:TooltipDolAmrothShipAndSwanPike
 "Nécessite le niveau 2\nLes héros alliés proches gagnent +10% d'armure pendant 15 secondes\nClic gauche pour activer"
+END
+
+CONTROLBAR:DolAmrothThorongilTactics
+"Tactiques de Thorongil (&W)"
+END
+CONTROLBAR:ToolTipDolAmrothThorongilTactics
+"Nécessite le niveau 4\nUne tactique apprise du mystérieux capitaine Thorongil lors de l'attaque d'Umbar\nLes soldats d'élite lancent une volée de bombes incendiaires, mettant le feu à la zone sélectionnée\nCliquez gauche puis cliquez gauche sur l'unité ciblée"
+END
+OBJECT:DolAmrothPikemen
+"Piquiers de Dol Amroth"
+END
+OBJECT:DolAmrothPikeman
+"Piquier de Dol Amroth"
+END
+CONTROLBAR:ConstructDolAmrothPikemenHorde
+"Recruter les piquiers de Dol Amroth (&E)"
+END
+CONTROLBAR:ToolTipConstructDolAmrothPikemenHorde
+"Fort contre la cavalerie et les héros\n\nPorteurs de piques finement ouvragées, ces braves guerriers tiendront la ligne contre toute incursion du Sud."
+END
+CONTROLBAR:DolAmrothMonsterSlayers
+"Tueurs de monstres (&R)"
+END
+CONTROLBAR:TooltipDolAmrothMonsterSlayers
+"Nécessite le niveau 3\nLes piquiers de Dol Amroth sont expérimentés dans le combat contre les monstres du Sud\nLes piquiers infligent +33 % de dégâts contre les monstres, tandis que les unités alliées proches gagnent +25 % de résistance au recul pendant 20 secondes\nCliquez gauche pour activer"
+END
+OBJECT:RoyalSwanGuard
+"Champion de Tirith Aear"
+END
+OBJECT:RoyalSwanGuardHorde
+"Champions de Tirith Aear"
+END
+CONTROLBAR:ConstructRoyalSwanGuardHorde
+"Recruter les champions de Tirith Aear (&T)"
+END
+CONTROLBAR:ToolTipConstructRoyalSwanGuardHorde
+"Nécessite la caserne royale de Dol Amroth niveau 3 et l'amélioration de la forteresse Tirith Aear\nFort contre tous\n\nVainqueurs incontestés de joutes, mélées et autres concours chevaleresques, les champions de Tirith Aear représentent le summum de la chevalerie amrothienne.\nUnité héroïque. Limitée à 1"
+END
+CONTROLBAR:RoyalSwanMount
+"Monter (&W)"
+END
+CONTROLBAR:RoyalSwanMountTooltip
+"Cliquez gauche pour basculer entre monté et à pied"
+END
+CONTROLBAR:RoyalSwanDismount
+"Descendre (&W)"
+END
+CONTROLBAR:RoyalSwanDismountTooltip
+"Cliquez gauche pour basculer entre monté et à pied"
+END
+CONTROLBAR:RoyalSwanGuardActive
+"Ferveur radieuse (&T)"
+END
+CONTROLBAR:ToolTipRoyalSwanGuardActive
+"Si un champion de Tirith Aear meurt, les autres champions gagnent temporairement +15 % d'armure et +15 % de dégâts\nAu niveau 5, les attaques des gardes du cygne restaurent une petite quantité de santé aux alliés autour d'eux\nCapacité passive\n\nLe héros sélectionné gagne temporairement +25 % de gain d'expérience et +50 % d'armure pendant 30 secondes\nCliquez gauche sur l'icône puis cliquez gauche sur le héros allié ciblé"
+END
+CONTROLBAR:RoyalSwanValorousDeeds
+"Actions valeureuses (&C)"
+END
+CONTROLBAR:ToolTipRoyalSwanValorousDeeds
+"Nécessite le niveau 3\nLes champions de Tirith Aear deviennent immunisés à la peur et à la terreur\nCapacité passive\n\nLorsqu'elle est activée, les champions de Tirith Aear gagnent +50 % d'armure et de dégâts de recul pendant 30 secondes\nAu niveau 7, l'effet actif accorde également des dégâts de zone\nCliquez gauche pour activer"
+END
+CONTROLBAR:RoyalSwanIntoTheAbyss
+"Dans l'abîme !"
+END
+CONTROLBAR:ToolTipRoyalSwanIntoTheAbyss
+"Si l'un des royaux amrothiens meurt, les champions de Tirith Aear ripostent pendant 15 secondes et immobilisent les ennemis sur place pendant 5 secondes par attaque\nLes champions subissent -50 % d'armure pendant ce temps\nCapacité passive"
+END
+OBJECT:DolAmrothRohanBodyguard
+"Garde royal d'Edoras"
+END
+OBJECT:DolAmrothSquires
+"Écuyers de Dol Amroth"
+END
+OBJECT:DolAmrothSquire
+"Écuyer de Dol Amroth"
+END
+CONTROLBAR:ConstructDolAmrothSquiresHorde
+"Recruter les écuyers de Dol Amroth (&W)"
+END
+CONTROLBAR:ToolTipConstructDolAmrothSquiresHorde
+"Fort contre l'infanterie\n\nPour devenir chevalier de Dol Amroth, il faut parcourir une longue route de pratique et de service envers l'ordre chevaleresque établi."
+END
+OBJECT:DolAmrothBlackSwanCaptain
+"Capitaine du Cygne Noir"
+END
+OBJECT:DolAmrothBlackSwanSquire
+"Écuyer du Cygne Noir"
+END
+CONTROLBAR:ConstructDolAmrothBlackSwanCaptain
+"Capitaine du Cygne Noir (&E)"
+END
+CONTROLBAR:ToolTipBuildDolAmrothBlackSwanCaptain
+"Nécessite les écuries royales niveau 2\nFort contre l'infanterie, les archers\n\nLes capitaines du Cygne Noir sont des chevaliers à un seul objectif : tuer les ennemis du prince. Orphelins de guerre, ces guerriers ont été recueillis par Imrahil et formés par le maître d'armes royal."
+END
+CONTROLBAR:BlackSwanLeadership
+"Chef de la charge"
+END
+CONTROLBAR:ToolTipBlackSwanLeadership
+"Type de modification : Commandement\nLa cavalerie alliée proche du capitaine du Cygne Noir gagne +15 % d'armure contre les dégâts spécialisés et -15 % de décélération par piétinement\nCapacité passive"
+END
+CONTROLBAR:BlackSwanCripple
+"Coup dévastateur (&R)"
+END
+CONTROLBAR:ToolTipBlackSwanCripple
+"Nécessite le niveau 3\nLe héros ou monstre ennemi ciblé est cloué au sol pendant 7 secondes\nAu niveau 7, la durée d'étourdissement est augmentée à 10 secondes\nCliquez gauche sur l'icône puis cliquez gauche sur la cible"
+END
+CONTROLBAR:SpecialAbilityDreadedWarrior
+"Guerrier redoutable (&T)"
+END
+CONTROLBAR:ToolTipSpecialAbilityDreadedWarrior
+"Nécessite le niveau 5\nLes attaques du capitaine du Cygne Noir infligent un recul et réduisent l'armure ennemie de 50 % pendant 5 secondes\nEffet qui dure 30 secondes\nCliquez gauche pour activer"
+END
+
+OBJECT:DolAmrothHandmaiden
+"Dame de compagnie"
+End
+CONTROLBAR:ConstructDolAmrothHandmaiden
+"Recruter la dame de compagnie (&W)"
+END
+CONTROLBAR:ToolTipConstructDolAmrothHandmaiden
+"Unité de soutien non combattante\nLa dame de compagnie est défendue par plus d'escorte à mesure qu'elle monte de niveau\n\nLes dames de compagnie servent la princesse de Dol Amroth et bien qu'elles soient loyales, elles s'ennuient souvent beaucoup."
+END
+CONTROLBAR:DolAmrothBelecthorsGuide
+"Guide de Belecthor (&W)"
+END
+CONTROLBAR:ToolTipDolAmrothBelecthorsGuide
+"Les demoiselles d'honneur sont éduquées sur leur comportement approprié\nMonte la dame de compagnie sélectionnée du niveau 1 au niveau 3"
+END
+CONTROLBAR:ToolTipDolAmrothBelecthorsGuide2
+"Les demoiselles d'honneur sont éduquées sur leur comportement approprié\nMonte la dame de compagnie sélectionnée du niveau 3 au niveau 5"
+END
+CONTROLBAR:ToolTipDolAmrothBelecthorsGuide3
+"Les demoiselles d'honneur sont éduquées sur leur comportement approprié\nCette dame a atteint l'excellence de la cour"
+END
+CONTROLBAR:HandmaidenHighSociety
+"Haute société"
+END
+CONTROLBAR:ToolTipHandmaidenHighSociety
+"La dame de compagnie est accompagnée de divers personnages nobles à la cour\n\nAu niveau 1, elle est accompagnée d'un champion de Tirith Aear. Les unités alliées proches gagnent +25 % de résistance au recul\nAu niveau 3, elle est rejointe par un écuyer du Cygne Noir. Les héros alliés proches gagnent +10 % de vitesse. Les unités ennemies proches perdent -10 % de vitesse.\nAu niveau 5, elle est rejointe par une autre dame de compagnie. L'effet de Pâmoison est augmenté de 5 % et la dame de compagnie gagne 33 % d'armure."
+END
+CONTROLBAR:HandmaidenRumourmonger
+"Répandeur de rumeurs (&R)"
+END
+CONTROLBAR:ToolTipHandmaidenRumourmonger
+"Type de modification : Débuff\nLes secrets ne restent jamais secrets à la cour\nLes attaques de la demoiselle d'honneur réduisent l'armure ennemie de -25 % pendant 5 secondes\nCapacité passive\n\nActiver pour révéler le voile dans la zone ciblée\nAu niveau 5, toutes les unités dans le rayon perdent le commandement pendant 30 secondes\nCliquez gauche sur l'icône puis cliquez gauche sur la zone ciblée"
+END
+CONTROLBAR:HandmaidenSwoon
+"Pâmoison (&C)"
+END
+CONTROLBAR:ToolTipHandmaidenSwoon
+"Nécessite le niveau 3\nLa demoiselle d'honneur tombe en pâmoison ! Affection feinte ou amour sincère, qui sait ?\n\nSi utilisé sur une unité alliée, l'unité gagne +20 % de dégâts et d'armure pendant 30 secondes\nSi utilisé sur une unité ennemie, l'unité perd -25 % de dégâts pendant 30 secondes\nCliquez gauche sur l'icône puis cliquez gauche sur l'unité ciblée\n\nLa demoiselle d'honneur gagne également +33 % d'évitement à distance\nCapacité passive"
+END
+OBJECT:PelargirNoble
+"Noble de Pelargir"
+END
+CONTROLBAR:ConstructPelargirNoble
+"Recruter le noble de Pelargir (&E)"
+END
+CONTROLBAR:ToolTipBuildPelargirNoble
+"Nécessite la maison d'hôtes niveau 2\nUnité de soutien, accorde des buffs permanents aux héros et structures\n\nPelargir entretient des liens avec la Maison Royale et, en tant que telle, beaucoup de ses nobles aiment séjourner à Belfalas."
+END
+CONTROLBAR:PelargirNobleDanceLessons
+"Cours de danse (&W)"
+END
+CONTROLBAR:ToolTipPelargirNobleDanceLessons
+"Le noble donne des cours de danse !\nÉtonnamment, cela a des avantages\nLe héros sélectionné gagne +10 % de vitesse de déplacement de manière permanente\nCliquez gauche sur l'icône puis cliquez gauche sur l'unité ciblée"
+END
+CONTROLBAR:PelargirNobleMobilisation
+"Mobilisation (&R)"
+END
+CONTROLBAR:ToolTipPelargirNobleMobilisation
+"Nécessite le niveau 2\nLe noble supervise la mobilisation de l'armée, augmentant de manière permanente la vitesse de production du bâtiment sélectionné de 10 %\nCliquez gauche sur l'icône puis cliquez gauche sur le bâtiment ciblé"
+END
+CONTROLBAR:PelargirNobleCityPlanning
+"Urbanisme (&T)"
+END
+CONTROLBAR:ToolTipPelargirNobleCityPlanning
+"Nécessite le niveau 3\nLe noble connaît un ou deux trucs sur l'urbanisme\nLa structure ciblée gagne +25 % d'armure contre le siège.\nCliquez gauche sur l'icône puis cliquez gauche sur le bâtiment ciblé"
+END
+OBJECT:DolAmrothMasterAtArms
+"Maître d'armes"
+END
+CONTROLBAR:ConstructMasterAtArms
+"Recruter le maître d'armes (&R)"
+END
+CONTROLBAR:ToolTipBuildMasterAtArms
+"Nécessite la maison d'hôtes niveau 3\nUnité héroïque\nLimitée à 1\n\nLe maître d'armes amrothien a instruit tous les jeunes princes de Dol Amroth dans l'art de l'escrime. Méfiez-vous d'un vieil homme dans une profession où les hommes meurent jeunes !"
+END
+CONTROLBAR:MasterAtArmsDisarm
+"Désarmer (&W)"
+END
+CONTROLBAR:ToolTipMasterAtArmsDisarm
+"Le maître d'armes désarme son adversaire\nL'ennemi sélectionné ne peut pas infliger de dégâts pendant 7 secondes\n\nLorsqu'il est utilisé sur le Roi-sorcier, le Nécromancien, le Roi d'or, Gimli, Thorin, Elessar, Éomer, Elrond, Glorfindel, Bolg, Lurtz, Celeborn ou Thranduil, ils perdent plutôt -25 % de dégâts pendant 7 secondes\nCliquez gauche sur l'icône puis cliquez gauche sur la cible"
+END
+CONTROLBAR:MasterAtArmsGlory
+"Gloire d'autrefois (&R)"
+END
+CONTROLBAR:TooltipMasterAtArmsGlory
+"Nécessite le niveau 3\nLe maître d'armes combat avec la fougue de sa jeunesse une fois de plus\nLe maître d'armes gagne +50 % de dégâts et +50 % d'armure pendant 30 secondes mais perd 25 % de sa santé par la suite\nCliquez gauche pour activer"
+END
+CONTROLBAR:MasterAtArmsSilence
+"Silence ! (&T)"
+END
+CONTROLBAR:ToolTipMasterAtArmsSilence
+"Nécessite le niveau 4\nType de modification : Débuff\nLe maître d'armes commande le respect de ceux qui l'entourent\nLes archers ennemis dans le rayon sélectionné subissent -50 % de portée d'attaque pendant 30 secondes\nCliquez gauche puis cliquez gauche sur la zone ciblée"
+END
+CONTROLBAR:MasterAtArmsExtraLessons
+"Cours de perfectionnement (&C)"
+END
+CONTROLBAR:ToolTipMasterAtArmsExtraLessons
+"Nécessite le niveau 7\nLe maître d'armes enseigne à ses seigneurs une fois de plus\nMonte de niveau le héros sélectionné\nNe fonctionne pas sur Lothíriel\nCliquez gauche sur l'icône puis cliquez gauche sur le héros ciblé"
+END
+CONTROLBAR:DolAmrothIDubThee
+"Je te fais chevalier (&V)"
+END
+CONTROLBAR:ToolTipDolAmrothIDubThee
+"Nécessite le niveau 10\nLe maître d'armes fait chevalier une unité au nom d'Imrahil\nLorsqu'il est utilisé sur une unité améliorable, lui accorde toutes les améliorations d'unité\nLorsqu'il est utilisé sur une unité non améliorable, lui accorde +25 % de gain d'expérience\nCliquez gauche puis cliquez gauche sur la cible"
+END
+OBJECT:WardensOfTheWhiteTower
+"Gardiens de la Tour Blanche"
+END
+OBJECT:WardenOfTheWhiteTower
+"Gardien de la Tour Blanche"
+END
+CONTROLBAR:ConstructWhiteTowerWardenHorde
+"Gardiens de la Tour Blanche (&W)"
+END
+CONTROLBAR:ToolTipBuildWhiteTowerWardenHorde
+"Fort contre les piquiers\nLimité à 3\n\nLa dernière ligne de défense de la maison des Intendants, ces guerriers sont bien entraînés et lourdement armés"
+END
+CONTROLBAR:WhiteTowerWardenLoyalty
+"Fidélité farouche"
+END
+CONTROLBAR:ToolTipWhiteTowerWardenLoyalty
+"Type de modification : Commandement\nLes gardiens de la Tour Blanche sont farouchement fidèles à leurs commandants\nLorsqu'ils sont proches, Faramir et Boromir gagnent +10 % d'armure\nCapacité passive"
+END
+CONTROLBAR:WhiteTowerWardenDefenders
+"Défenseurs de la Tour"
+END
+CONTROLBAR:ToolTipWhiteTowerWardenDefenders
+"Nécessite le niveau 3\nLes structures alliées proches gagnent +15 % d'armure\n\nLorsqu'un gardien meurt, les gardiens proches gagnent temporairement +15 % d'armure et +15 % de dégâts pendant 5 secondes\nCapacité passive"
+END
+CONTROLBAR:WhiteTowerWardenLastStand
+"Dernier combat (&W)"
+END
+CONTROLBAR:TooltipWhiteTowerWardenLastStand
+"Nécessite le niveau 5\nLes gardiens sont la dernière ligne de défense, en tant que tels ils peuvent faire un digne dernier combat\nPeut être activé pour donner aux gardiens +75 % d'armure et une immunité au recul pendant 30 secondes\nCliquez gauche pour activer"
+END
+OBJECT:DolAmrothFarm
+"Marché aux poissons"
+END
+CONTROLBAR:ConstructDolAmrothFarm
+"Construire un marché aux poissons (&W)"
+END
+CONTROLBAR:ToolTipConstructDolAmrothFarm
+"Fournit du poisson frais comme ressource en fonction du terrain disponible\nAugmente la limite de points de commandement de 50"
+END
+CONTROLBAR:ConstructDolAmrothGuardhouse
+"Construire une caserne amrothienne (&T)"
+END
+CONTROLBAR:ToolTipConstructDolAmrothGuardhouse
+"Entraîne les gardes urbains amrothiens, la milice amrothienne et les marins de Belfalas"
+END
+CONTROLBAR:ConstructDolAmrothRoyalBarracks
+"Construire la caserne royale de Dol Amroth (&C)"
+END
+CONTROLBAR:ToolTipConstructDolAmrothRoyalBarracks
+"Entraîne les soldats d'élite de Dol Amroth, les piquiers de Dol Amroth, les trébuchets et les champions de Tirith Aear"
+END
+CONTROLBAR:ConstructDolAmrothRoyalStables
+"Construire les écuries royales de Dol Amroth (&V)"
+END
+CONTROLBAR:ToolTipConstructDolAmrothRoyalStables
+"Entraîne les écuyers de Dol Amroth, les capitaines du Cygne Noir et les chevaliers du Cygne"
+END
+CONTROLBAR:ConstructAmrothianGuestHouse
+"Construire une maison d'hôtes amrothienne (&N)"
+END
+CONTROLBAR:ToolTipConstructAmrothianGuestHouse
+"Entraîne les dames de compagnie, les nobles de Pelargir et le maître d'armes\nLimité à 1\n\nSouvent, la maison royale d'Amroth reçoit des invités du Gondor et de ses alliés. En plus de ceux-ci, il y a aussi des serviteurs de haut rang. Ces personnes importantes logent dans ces quartiers luxueux."
+END
+
+OBJECT:DolAmrothFortress
+"Forteresse de Dol Amroth"
+END
+CONTROLBAR:PurchaseUpgradeDAFortressBanners
+"Bannières du Cygne d'Argent (&W)"
+END
+CONTROLBAR:ToolTipPurchaseUpgradeDAFortressBanners
+"Type de modification : Commandement\nLes alliés proches de la forteresse gagnent +33 % de dégâts, +33 % d'armure, et gagnent de l'expérience 50 % plus rapidement\n\nRéduit le coût des héros de 10 %\nRéduit le temps de recrutement des héros de 10 %\nRéduit le coût des bâtisseurs de 20 %"
+END
+CONTROLBAR:PurchaseGuestQuarters
+"Quartiers d'hôtes (&E)"
+END
+CONTROLBAR:PurchaseGuestQuartersFortressMap
+"Quartiers d'hôtes (&R)"
+END
+CONTROLBAR:ToolTipPurchaseGuestQuarters
+"Augmente la vitesse de production de la maison d'hôtes et le gain d'expérience des unités de la maison d'hôtes de +25 %\nDéverrouille la capacité Diplomatie ennuyeuse\nMonte Lothíriel au niveau 3"
+END
+CONTROLBAR:ToolTipPurchaseGuestQuartersFortressMap
+"Augmente la vitesse de production de la maison d'hôtes et le gain d'expérience des unités de la maison d'hôtes de +25 %\nMonte Lothíriel au niveau 3"
+END
+CONTROLBAR:PurchaseUpgradeDolAmrothHealingQuarters
+"Jardins agréables (&R)"
+END
+CONTROLBAR:PurchaseUpgradeDolAmrothHealingQuartersFortressMap
+"Jardins agréables (&T)"
+END
+CONTROLBAR:ToolTipPurchaseUpgradeDolAmrothHealingQuarters
+"-20 % de coût de résurrection des héros, -10 % de temps de résurrection des héros, les unités autour de la forteresse sont soignées et les unités tombées sont réapprovisionnées\nMonte Lothíriel au niveau 6 lorsque les niveaux précédents sont atteints"
+END
+TOOLTIP:LackHealingQuartersFortressMap
+"Nécessite l'amélioration Quartiers d'hôtes\n-20 % de coût de résurrection des héros, -10 % de temps de résurrection des héros, les unités autour de la forteresse sont soignées et les unités tombées sont réapprovisionnées\nMonte Lothíriel au niveau 6"
+END
+CONTROLBAR:PurchaseUpgradeDolAmrothBelfalasGarrison
+"Garnison de la tour (&R)"
+END
+CONTROLBAR:ToolTipPurchaseUpgradeDolAmrothBelfalasGarrison
+"Accorde des flèches enflammées à la forteresse et aux forteresses côtières\nStationne également des marins de Belfalas sur la forteresse et sur les forteresses côtières"
+END
+CONTROLBAR:ToolTipConstructDolAmrothArrowTowerExpansion
+"Tour défensive à courte portée\nBénéficie de l'amélioration Garnison de la tour"
+END
+CONTROLBAR:ToolTipConstructDolAmrothTrebuchetExpansion
+"Arme défensive à longue portée\nBénéficie de l'amélioration Garnison de la tour"
+END
+CONTROLBAR:PurchaseUpgradeDolAmrothNumenorStonework
+"Fossé de Númenor (&S)"
+END
+CONTROLBAR:ToolTipPurchaseUpgradeDolAmrothNumenorStonework
+"Augmente l'armure de la forteresse et des murs de 65 %\nPrérequis pour Tirith Aear\nMonte Lothíriel au niveau 10 lorsque les niveaux précédents sont atteints"
+END
+CONTROLBAR:PurchaseUpgradeDolAmrothTirithAear
+"Tirith Aear (&D)"
+END
+CONTROLBAR:PurchaseUpgradeDolAmrothTirithAearFortressMap
+"Tirith Aear (&S)"
+END
+CONTROLBAR:ToolTipPurchaseUpgradeDolAmrothTirithAear
+"La tour de Tirith Aear est placée sur la forteresse\nAugmente considérablement la vision de la forteresse\nDéverrouille la capacité Lumière de Tirith Aear sur la forteresse\nDéverrouille les champions de Tirith Aear à la caserne royale"
+END
+CONTROLBAR:ToolTipPurchaseUpgradeDolAmrothTirithAearFortressMap
+"Déverrouille les champions de Tirith Aear à la caserne royale\nMonte Lothíriel au niveau 10 lorsque les niveaux précédents sont atteints"
+END
+TOOLTIP:LackTirithAear
+"Nécessite l'amélioration Maçonnerie de Númenor\nFournit la capacité Lumière de Tirith Aear et permet le recrutement des champions de Tirith Aear\nAugmente la portée de vision de la forteresse"
+END
+TOOLTIP:LackTirithAearFortressMap
+"Nécessite les améliorations Quartiers d'hôtes et Jardins agréables\nPermet le recrutement des champions de Tirith Aear\nMonte Lothíriel au niveau 10"
+END
+CONTROLBAR:DreadfulBoredom
+"Diplomatie ennuyeuse (&T)"
+END
+CONTROLBAR:ToolTipDreadfulBoredom
+"Nécessite l'amélioration Quartiers d'hôtes de la forteresse\nDol Amroth envoie un invité plutôt important pour négocier en leur nom. Perdu dans d'interminables stipulations autour des termes de la reddition, les unités ennemies autour de la forteresse perdent tout commandement pendant 30 secondes\nCliquez gauche pour activer"
+END
+CONTROLBAR:LightOfTirithAear
+"Lumière de Tirith Aear (&F)"
+END
+CONTROLBAR:ToolTipLightOfTirithAear
+"Nécessite l'amélioration Lumière de Tirith Aear de la forteresse\nAccélère le recrutement des unités de Dol Amroth pendant 60 secondes et inflige des dégâts sur la durée aux ennemis proches de la forteresse pendant 20 secondes\nCliquez gauche pour activer"
+END
+
+CONTROLBAR:PurchaseExpiredHaul
+"Acheter l'amélioration de la cargaison périmée (&W)"
+END
+
+CONTROLBAR:ToolTipPurchaseExpiredHaul
+"Permet au marché aux poissons de convoquer un tonneau de poisson périmé pendant 90 secondes\nL'odeur piquante du tonneau réduit les dégâts et la vitesse de déplacement des unités ennemies proches de -25 %\nCliquez gauche pour activer"
+END
+CONTROLBAR:SummonFishingBoat
+"Cargaison périmée (&W)"
+END
+CONTROLBAR:ToolTipSummonFishingBoat
+"Convoque un tonneau de poisson périmé à côté du marché pendant 90 secondes\nL'odeur piquante du tonneau réduit les dégâts et la vitesse de déplacement des unités ennemies proches de -25 %\nCliquez gauche pour activer"
+END
+CONTROLBAR:HighDemand
+"Grande demande"
+END
+CONTROLBAR:ToolTipHighDemand
+"Type de modification : Commandement\nLes bateaux de pêche alliés sur la carte gagnent +10 % de production de ressources\nNe s'empile pas\nCapacité passive"
+END
+
+CONTROLBAR:PungentSmell
+"Odeur piquante"
+END
+CONTROLBAR:ToolTipPungentSmell
+"Type de modification : Débuff\nLes unités ennemies proches perdent -25 % de dégâts et de vitesse de déplacement\nCapacité passive"
+END
+
+CONTROLBAR:PurchaseTechnologyDolAmrothBasicTraining
+"Rechercher les Bannières du Cygne (&W)"
+END
+CONTROLBAR:ToolTipPurchaseTechnologyDolAmrothBasicTraining
+"Permet aux bataillons d'acheter l'amélioration Bannières du Cygne\nMonte un bataillon au niveau 2"
+END
+CONTROLBAR:PurchaseUpgradeDolAmrothBasicTraining
+"Acheter les Bannières du Cygne (&V)"
+END
+
+CONTROLBAR:PurchaseTechnologyDolAmrothForgedBlades
+"Rechercher les Lames imprégnées (&E)"
+END
+CONTROLBAR:ToolTipPurchaseTechnologyDolAmrothForgedBlades
+"Permet aux bataillons d'acheter l'amélioration Lames imprégnées\nLorsqu'elles sont équipées, augmentent les dégâts infligés par les armes de mêlée\nAméliorera instantanément toutes les patrouilles une fois l'amélioration achetée"
+END
+CONTROLBAR:PurchaseUpgradeDolAmrothForgedBlades
+"Acheter les Lames imprégnées (&C)"
+END
+CONTROLBAR:ToolTipPurchaseUpgradeDolAmrothForgedBlades
+"Améliore ce bataillon avec les Lames imprégnées\nAugmente les dégâts infligés par les armes de mêlée"
+END
+
+CONTROLBAR:PurchaseTechnologyDolAmrothHeavyArmor
+"Rechercher la Cuirasse argentée (&R)"
+END
+CONTROLBAR:ToolTipPurchaseTechnologyDolAmrothHeavyArmor
+"Permet aux bataillons d'acheter l'amélioration Cuirasse argentée\nLorsqu'elle est équipée, réduit considérablement la quantité de dégâts subis\nAméliorera instantanément toutes les patrouilles une fois l'amélioration achetée"
+END
+CONTROLBAR:PurchaseUpgradeDolAmrothHeavyArmor
+"Acheter la Cuirasse argentée (&T)"
+END
+CONTROLBAR:ToolTipPurchaseUpgradeDolAmrothHeavyArmor
+"Améliore ce bataillon avec la Cuirasse argentée\nRéduit considérablement la quantité de dégâts subis"
+END
+
+OBJECT:DolAmrothGuardhouse
+"Caserne de Dol Amroth"
+END
+OBJECT:DolAmrothGuardhouseDescription
+"Niveau 2 : +10 % de vitesse de construction plus rapide\nNiveau 3 : +25 % de vitesse de construction plus rapide"
+END
+CONTROLBAR:ConstructDolAmrothGuardhouseLevel2Upgrade
+"Améliorer la caserne au niveau 2 (&A)"
+END
+CONTROLBAR:ToolTipBuildDolAmrothGuardhouseLevel2Upgrade
+"Permet l'entraînement des marins de Belfalas\n+10 % de vitesse de construction plus rapide"
+END
+CONTROLBAR:ConstructDolAmrothGuardhouseLevel3Upgrade
+"Améliorer la caserne au niveau 3 (&A)"
+END
+CONTROLBAR:ToolTipBuildDolAmrothGuardhouseLevel3Upgrade
+"+25 % de vitesse de construction plus rapide"
+END
+
+OBJECT:DolAmrothRoyalBarracks
+"Caserne royale de Dol Amroth"
+END
+OBJECT:DolAmrothRoyalBarracksDescription
+"Niveau 2 : +10 % de vitesse de construction plus rapide\nNiveau 3 : +25 % de vitesse de construction plus rapide"
+END
+CONTROLBAR:ConstructDolAmrothRoyalBarracksLevel2Upgrade
+"Améliorer la caserne royale au niveau 2 (&A)"
+END
+CONTROLBAR:ToolTipBuildDolAmrothRoyalBarracksLevel2Upgrade
+"Permet l'entraînement des trébuchets\n+10 % de vitesse de construction plus rapide"
+END
+CONTROLBAR:ConstructDolAmrothRoyalBarracksLevel3Upgrade
+"Améliorer la caserne royale au niveau 3 (&A)"
+END
+CONTROLBAR:ToolTipBuildDolAmrothRoyalBarracksLevel3Upgrade
+"Permet l'entraînement des champions de Tirith Aear et permet aux trébuchets de rechercher l'amélioration Pierres enflammées\n+25 % de vitesse de construction plus rapide"
+END
+
+OBJECT:DolAmrothRoyalStables
+"Écuries royales de Dol Amroth"
+END
+OBJECT:DolAmrothRoyalStablesDescription
+"Niveau 2 : +10 % de vitesse de construction plus rapide\nNiveau 3 : +25 % de vitesse de construction plus rapide"
+END
+CONTROLBAR:ToolTipBuildDolAmrothStableLevel2Upgrade
+"Permet l'entraînement des capitaines du Cygne Noir\n+10 % de vitesse de construction plus rapide"
+END
+CONTROLBAR:ToolTipBuildDolAmrothStableLevel3Upgrade
+"Permet l'entraînement des chevaliers du Cygne\n+25 % de vitesse de construction plus rapide\nAjoute une tour de flèches défensive"
+END
+
+OBJECT:AmrothianGuestHouse
+"Maison d'hôtes amrothienne"
+END
+OBJECT:AmrothianGuestHouseDescription
+"Niveau 2 : +10 % de vitesse de construction plus rapide\nNiveau 3 : +25 % de vitesse de construction plus rapide"
+END
+CONTROLBAR:PurchaseUpgradeGuestHouseLevel2
+"Améliorer la maison d'hôtes au niveau 2 (&A)"
+END
+CONTROLBAR:ToolTipBuildGuestHouseLevel2
+"Permet l'entraînement des nobles de Pelargir\n+10 % de vitesse de construction plus rapide"
+END
+CONTROLBAR:PurchaseUpgradeGuestHouseLevel3
+"Améliorer la maison d'hôtes au niveau 3 (&A)"
+END
+CONTROLBAR:ToolTipBuildGuestHouseLevel3
+"Permet l'entraînement du maître d'armes\n+25 % de vitesse de construction plus rapide\nAjoute une tour de flèches défensive"
+END
+
+CONTROLBAR:ConstructDolAmrothStatue
+"Construire le monument à Amroth Amdírion (&G)"
+END
+CONTROLBAR:ToolTipConstructDolAmrothStatue
+"Fournit un bonus de commandement aux unités proches\nSoigne les alliés proches et réapprovisionne les unités tombées\nDétecte l'invisibilité\n\nLorsque le roi elfe Amroth se noya au large de Belfalas, les Hommes du havre de Cobas proche renommèrent leur forteresse en son honneur."
+END
+OBJECT:DolAmrothStatue
+"Monument à Amroth Amdírion"
+END
+CONTROLBAR:SpecialPowerDolAmrothStatueUpgrade
+"Acheter la lignée elfique (&W)"
+END
+CONTROLBAR:ToolTipSpecialPowerDolAmrothStatueUpgrade
+"Permet au monument de soigner les unités dans un rayon."
+End
+CONTROLBAR:SpecialPowerDolAmrothStatueHeal
+"Lignée elfique (&W)"
+END
+CONTROLBAR:ToolTipSpecialPowerDolAmrothStatueHeal
+"Soigne les unités dans un rayon moyen.\nCliquez gauche puis cliquez gauche sur la zone ciblée."
+End
+OBJECT:DolAmrothKeep
+"Forteresse côtière"
+END
+CONTROLBAR:SpecialPowerDolAmrothTowerUpgrade
+"Acheter le Fanal du navire (&W)"
+END
+CONTROLBAR:ToolTipSpecialPowerDolAmrothTowerUpgrade
+"Peut être activé pour accorder de l'expérience au grimoire"
+End
+CONTROLBAR:ShipsBeacon
+"Fanal du navire (&W)"
+END
+CONTROLBAR:ToolTipShipsBeacon
+"Activer pour accorder de l'expérience au grimoire"
+END
+CONTROLBAR:ConstructDolAmrothSentryTower
+"Construire la forteresse côtière (&Y)"
+END
+CONTROLBAR:PurchaseTechnologyFreshFish
+"Poisson frais ! (&R)"
+END
+CONTROLBAR:ToolTipPurchaseTechnologyFreshFish
+"Les marchés de Dol Amroth ont reçu une nouvelle cargaison de poissons ! Et le prince assure de bons prix pour ses hommes\n\nAccorde un soin en dehors des combats à toutes les unités de Dol Amroth."
+END
+
+OBJECT:GondorBulwark
+"Délégation de la Cité Blanche"
+END
+//--------------------------
+//Dol Amroth SPELLBOOK STRINGS
+//--------------------------
+CONTROLBAR:DolAmrothRebuild
+"Protection du prince"
+END
+CONTROLBAR:RallyingCallDolAmroth
+"Appel claironnant"
+END
+CONTROLBAR:BelfalasBeach
+"Promontoire luxuriant"
+END
+CONTROLBAR:TooltipBelfalasBeach
+"Convoque un champ luxuriant parsemé de roches blanches sur le champ de bataille\nLes unités alliées sur le promontoire gagnent +50 % d'armure, les ennemis sont ralentis de 33 %\nLe promontoire est protégé par plusieurs chevaliers de Dol Amroth à pied\nCliquez gauche puis cliquez gauche sur la zone ciblée"
+END
+CONTROLBAR:ChiefFiefdom
+"Premier entre égaux"
+END
+CONTROLBAR:TooltipChiefFiefdom
+"Convoque temporairement 2 bataillons d'hommes d'armes de Lossarnach et 2 bataillons d'archers de la vallée de Blackroot\nCes troupes viennent équipées des armements de la Cité Blanche et d'améliorations d'armes\nCliquez gauche puis cliquez gauche sur la zone ciblée"
+END
+CONTROLBAR:SiegePreparations
+"Bastion courageux"
+END
+CONTROLBAR:ToolTipSiegePreparations
+"Accorde de manière permanente à la structure sélectionnée +50 % d'armure\nLorsqu'elle est utilisée sur la forteresse, accorde seulement +25 % d'armure\nCliquez gauche puis cliquez gauche sur la structure ciblée"
+END
+CONTROLBAR:SummonGondorBulwark
+"Délégation de la Cité Blanche"
+END
+CONTROLBAR:TooltipSummonGondorBulwark
+"Convoque une délégation de la Cité Blanche\nRecrute Faramir, Boromir et les Gardiens de la Tour Blanche\nLimité à 2\nCliquez gauche puis cliquez gauche sur la zone ciblée"
+END
+CONTROLBAR:DolAmrothSeaBreeze
+"Brise marine"
+END
+CONTROLBAR:TooltipDolAmrothSeaBreeze
+"Une douce brise marine dissipe les effets météorologiques et permet au soleil de briller à travers.\nAnnule Pluie glaçante, Bénédiction d'Ulmo, Les lumières s'éteignent, Hiver blanc et Obscurité\nÉtourdit les unités ennemies pendant 15 secondes\nAccorde un bonus de +33 % de vitesse aux unités alliées sur la carte pendant 15 secondes\nCliquez gauche pour activer"
+END
+CONTROLBAR:WrathOfBelegear
+"Colère de Belegaer"
+END
+CONTROLBAR:TooltipWrathOfBelegear
+"La Grande Mer est une force inexorable à Belfalas\nConvoque une grande vague qui inflige de lourds dégâts aux bâtiments\nInflige des dégâts médiocres aux unités\nCliquez gauche puis cliquez gauche sur la zone ciblée"
+END
+CONTROLBAR:SummonEomer
+"Lié par le sang"
+END
+CONTROLBAR:TooltipSummonEomer
+"Convoque de manière permanente le roi Éomer Éadig accompagné de gardes royaux montés\nSes gardes sont temporaires, mais le roi dure jusqu'à ce qu'il soit tué\nCliquez gauche puis cliquez gauche sur la zone ciblée"
 END
 
 OBJECT:DurinTheLast
@@ -89060,22 +90030,6 @@ CONTROLBAR:ToolTipGreatDeeds
 "Nécessite Niveau 5\nType de modificateur : Sort\nLes Gardes de Durin marquent un ennemi\nPendant 30 secondes, les alliés gagnent +25% de dégâts et d’armure quand ils sont proches de l’ennemi ciblé\nCliquez gauche puis cliquez sur l’unité ennemie ciblée"
 END
 
-CONTROLBAR:EreborGreatDeeds
-"Grandes Actions du Peuple de Durin (&R)"
-END
-
-CONTROLBAR:ToolTipEreborGreatDeeds
-"Nécessite Niveau 3\nType de modificateur : Sort\nLes Gardes de Durin marquent un ennemi\nPendant 30 secondes, les Gardes de Durin gagnent +25% de dégâts et d’armure quand ils sont proches de l’ennemi ciblé\nCliquez gauche puis cliquez sur l’unité ennemie ciblée"
-END
-
-CONTROLBAR:CustodianCharge
-"Yanâd Durinul (&T)"
-END
-
-CONTROLBAR:ToolTipCustodianCharge
-"Nécessite Niveau 5\nLes Gardes de Durin gagnent +15% de vitesse de déplacement et peuvent piétiner les ennemis pendant 20 secondes\nCliquez gauche pour activer"
-END
-
 CONTROLBAR:EreborCustodianDuty
 "Devoir de Garde (&C)"
 END
@@ -89120,7 +90074,7 @@ CONTROLBAR:ConstructLastAllianceHerald
 END
 
 CONTROLBAR:ToolTipBuildLastAllianceHerald
-"Peut planter des Étendards de la Dernière Alliance pour accorder divers bonus\n\nBESOIN DE CHAÎNE DE LORE"
+"Capable de planter les Étendards de la Dernière Alliance pour accorder divers bonus\n\nLes hérauts des Rois de l'Ouest portaient de grands étendards au combat, ralliant les armées autour d'eux et transmettant les ordres martiaux."
 END
 
 CONTROLBAR:SelectUpgradesLAFortress
@@ -89424,11 +90378,11 @@ CONTROLBAR:ToolTipBuildLastAllianceSiegeTentLevel3Upgrade
 END
 
 CONTROLBAR:ConstructLastAllianceTower
-"Construire Tour de Combat (&S)"
+"Construire le Rassemblement de la Garde (&S)"
 END
 
 OBJECT:LastAllianceTower
-"Tour de Combat"
+"Rassemblement de la Garde"
 END
 
 CONTROLBAR:UpgradeLastAllianceFireArrowsBattleTower
@@ -89619,6 +90573,10 @@ CONTROLBAR:LW_Unit_SecondAgeDunedainCavalryHordePlural
 "Bataillons de Cavaliers de Dor-en-Ernil"
 END
 
+CONTROLBAR:ToolTipToggleSecondAgeDunedainCavalryLineFormation
+"Les cavaliers de Dor-en-Ernil gagnent +15% d'armure et -15% de vitesse d'écrasement"
+END
+
 OBJECT:AnaduneCaptain
 "Bâr an-Nimruzîrim"
 END
@@ -89708,7 +90666,7 @@ CONTROLBAR:DurinPillar
 END
 
 CONTROLBAR:TooltipDurinPillar
-"Niveau 8 requis\nDurin l’Immortel frappe le sol de son arme, invoquant un pilier de Khazad-dûm du sous-sol et repoussant les unités ennemies\nLes unités ennemies près du Pilier subissent -33% dégâts\nClique gauche puis clique gauche sur la zone ciblée"
+"Requiert Nveau 8\nDurin l'Immortel convoque un pilier de Khazad-dûm depuis les profondeurs de la terre pour repousser les unités ennemies\nLes unités ennemies proches du pilier perdent -33% de dégâts\n Cliquez gauche et cliquez gauche sur la zone ciblée"
 END
 
 CONTROLBAR:DurinPillarDebuff
@@ -89927,19 +90885,19 @@ CONTROLBAR:ToolTipGreatDeeds
 END
 
 CONTROLBAR:EreborGreatDeeds
-"Grandes Actions du Peuple de Durin (&R)"
+"Grandes Actions du Peuple de Durin (&T)"
 END
 
 CONTROLBAR:ToolTipEreborGreatDeeds
-"Nécessite Niveau 3\n Type de modificateur : Sort\nLes Gardes de Durin marquent un ennemi\nPendant 30 secondes les Gardes de Durin gagnent +25% de dégâts et d’armure lorsqu’ils sont près de l’ennemi choisi\nCliquez gauche puis cliquez gauche sur l’unité ennemie ciblée"
+"Nécessite Niveau 5\n Type de modificateur : Sort\nLes Gardes de Durin marquent un ennemi\nPendant 30 secondes les Gardes de Durin gagnent +25% de dégâts et d’armure lorsqu’ils sont près de l’ennemi choisi\nCliquez gauche puis cliquez gauche sur l’unité ennemie ciblée"
 END
 
 CONTROLBAR:CustodianCharge
-"Yanâd Durinul (&T)"
+"Yanâd Durinul (&R)"
 END
 
 CONTROLBAR:ToolTipCustodianCharge
-"Nécessite Niveau 5\nLes Gardes de Durin gagnent +15% de vitesse de déplacement et peuvent piétiner les ennemis pendant 20 secondes\nCliquez gauche pour activer"
+"Nécessite Niveau 3\nLes Gardes de Durin gagnent +25% de dégâts, +20% de vitesse de déplacement et peuvent piétiner les ennemis pendant 20 secondes\nCliquez gauche pour activer"
 END
 
 CONTROLBAR:EreborCustodianDuty
@@ -90201,7 +91159,7 @@ CONTROLBAR:LastAllianceLorinandSummon
 END
 
 CONTROLBAR:TooltipLastAllianceLorinandSummon
-"Invoque trois bataillons de Tawarwaith sur le champ de bataille\nUne fois utilisé, débloque passivement la construction de l'Étendard de Lórinand\nCliquez gauche sur l’icône puis cliquez gauche sur la zone ciblée"
+"Invoque trois bataillons de Tawarwaith sur le champ de bataille lors de la première utilisation\nLors des utilisations suivantes, invoque un bataillon de Tawarwaith\nUne fois utilisé, débloque passivement la construction de l'Étendard de Lórinand\nCliquez gauche sur l’icône puis cliquez gauche sur la zone ciblée"
 END
 
 CONTROLBAR:LastAllianceGreenwoodSummon
@@ -90209,7 +91167,7 @@ CONTROLBAR:LastAllianceGreenwoodSummon
 END
 
 CONTROLBAR:TooltipLastAllianceGreenwoodSummon
-"Invoque trois bataillons d’Archers d’Eryn Galen sur le champ de bataille\nUne fois utilisé, débloque passivement la construction de l'Étendard d’Eryn Galen\nCliquez gauche sur l’icône puis cliquez gauche sur la zone ciblée"
+"Invoque trois bataillons d’Archers d’Eryn Galen sur le champ de bataille lors de la première utilisation\nLors des utilisations suivantes, invoque un bataillon d'archers d'Eryn Galen\nUne fois utilisé, débloque passivement la construction de l'Étendard d’Eryn Galen\nCliquez gauche sur l’icône puis cliquez gauche sur la zone ciblée"
 END
 
 CONTROLBAR:LastAllianceKhazadDumSummon
@@ -90217,7 +91175,7 @@ CONTROLBAR:LastAllianceKhazadDumSummon
 END
 
 CONTROLBAR:TooltipLastAllianceKhazadDumSummon
-"Invoque trois bataillons de Guerriers de Khazad-dûm sur le champ de bataille\nUne fois utilisé, débloque passivement la construction de l'Étendard de Khazad-dûm\nCliquez gauche sur l’icône puis cliquez gauche sur la zone ciblée"
+"Invoque trois bataillons de Guerriers de Khazad-dûm sur le champ de bataille lors de la première utilisation\nLors des utilisations suivantes, invoque un bataillon de guerriers de Khazad-dûm\nUne fois utilisé, débloque passivement la construction de l'Étendard de Khazad-dûm\nCliquez gauche sur l’icône puis cliquez gauche sur la zone ciblée"
 END
 
 CONTROLBAR:SummonCirdanLastAlliance
@@ -90514,6 +91472,14 @@ End
 
 Map:MAPMPalternatebattleofthefivearmies/Desc
 "'... au coeur des montagnes orques, les forges s'activent et on s'arme jusqu'aux dents. Puis ils se mirent en branle... jusqu'à ce qu'aux alentours et en dessous des Monts Gundabad, ou se trouvait leur capitale, une vaste armée fut rassemblée, prête à déferler à l'improviste sur le Sud en cas de tempête. \N- Carte d'aventure en solo \N- Joueur humain : Erebor"
+END
+
+Map:MAPMPalternatedolamroth
+"Faction alternative : Dol Amroth*"
+End
+
+Map:MAPMPalternatedolamroth/Desc
+"Dol Amroth était une forteresse qui se trouvait sur un promontoire côtier élevé, gouvernée par une ancienne famille de princes de sang noble dont on disait qu'ils descendaient des Elfes.\nCarte de faction alternative\nFaction remplacée : Lothlórien"
 END
 
 /////
@@ -92438,6 +93404,16 @@ End
 
 /////
 
+Map:MAPMPfortressharathdian
+"Forteresse : Harâth-diân*"
+End
+
+Map:MAPMPfortressharathdian/Desc
+"Le Palais Éternel se trouve loin à l'Est. Au fil des siècles, il fut rasé et reconstruit de nombreuses fois, selon le plaisir du seigneur de guerre qui régnait à chaque époque.\nRégion : Rhûn"
+END
+
+/////
+
 Map:MAPMPharfalas
 "Harfalas*"
 End
@@ -92711,6 +93687,15 @@ Map:MAPMPjarannit/Desc
 "En langue Lossoth, 'Côte de Glace', le littoral gelé de Jä-rannit borde les forêts denses d'Itä-mâ, avec son grand cap formant l'une des extrémités de la Baie de Glace de Forochel. \nCapturable : Auberge \nAntres : Wargs \nRégion : Forodwaith"
 End
 
+/////
+
+Map:MAPMPjarnsvild
+"Jarnsvild*"
+End
+
+Map:MAPMPjarnsvild/Desc
+"Les étendues orientales des Collines de Fer sont sauvages, leur richesse en minerai n'étant exploitée que par quelques opérations audacieuses, lourdement armées pour repousser les raids fréquents d'orcs.\nCapturable : Auberge, Feu de signal\nCréatures : Troll des collines, Gobelin, Warg\nRégion : Erebor"
+END
 
 /////
 
@@ -92974,7 +93959,7 @@ Map:MAPMPmitheithel
 End
 
 Map:MAPMPmitheithel/Desc
-"Le Mitheithel, ou Hoarwell, prend sa source dans les Montagnes Brumeuses. Rejoignant les rivières Bruinen et Glanduin, il deviendrait une partie du Gwathló, l'une des plus grandes rivières du Nord.\nCapturable : Taverne\nCréatures : Troll, Warg\nRégion : Eriador"
+"Le Mitheithel, ou Hoarwell, prend sa source dans les Montagnes Brumeuses. Rejoignant les rivières Bruinen et Glanduin, il deviendrait une partie du Gwathló, l'une des plus grandes rivières du Nord.\nCapturable : Taverne\nCréatures : Warg\nRégion : Eriador"
 END
 
 ///////////////////////
@@ -93263,6 +94248,16 @@ End
 
 /////
 
+Map:MAPMPpalespring
+"Source-pâle*"
+End
+
+Map:MAPMPpalespring/Desc
+"Dans les collines de Fer orientales se trouve un col isolé de bassins fumants, qui descendent en étapes brillantes de blanc et de rouge. Bien que riche en minerai, le sol fragile est trop instable pour y creuser, car il tremble faiblement sous la chaleur venant d'en dessous.\nCréatures : Gobelin\nRégion : Erebor"
+END
+
+/////
+
 Map:MAPMPparthaduial
 "Parth Aduial*"
 End
@@ -93382,6 +94377,16 @@ End
 
 Map:MAPMPrhudaur/Desc
 "Le Rhudaur était le plus petit des trois Royaumes issus de l'éclatement du royaume d'Arnor. Contrôlé plus tard par Angmar, jusqu'à sa défaite à la bataille de Fornost, il est devenu le foyer du reste des Dúnedains et des Rôdeurs du Nord. \n\n Capturables : Feu d'alarme, Avant-Poste, Auberge. \n Région : Monts Brumeux. \n"
+End
+
+/////
+
+Map:MAPMPrhun
+"Rhûn*"
+End
+
+Map:MAPMPrhun/Desc
+"Rhûn désigne les terres orientales méconnues de la Terre du Milieu. Son peuple humain connu sous le nom de Hommes de l'Est est sous la domination de Sauron, et a mené de nombreuses attaques contre l'Ouest au fil des âges.\nCréatures : Warg\nCapturable : Auberge\nRégion : Rhûn"
 End
 
 /////
