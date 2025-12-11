@@ -17191,6 +17191,9 @@ END
 CONTROLBAR:ConstructDolAmrothTrebuchet
 "Trébuchet (&Z)"
 END
+CONTROLBAR:ToolTipBuildDolAmrothTrebuchet
+"Requiert une Caserne Royale de Dol Amroth de niveau 2\nPuissant contre les structures\n\nUn trébuchet lance un énorme rocher à une vitesse terrifiante, brisant les défenses et écrasant les guerriers."
+END
 CONTROLBAR:ConstructGondorPorter
 "Bâtisseur"
 END
@@ -63245,7 +63248,7 @@ Version:Format2
 //"Age of the Ring Version 8.2"
 //"Age of the Ring Version 8.3.1"
 //"Age of the Ring Version 9.1.4"
-"Age of the Ring Version 9.2"
+"Age of the Ring Version 9.2.1"
 END
 
 Version:Format3
@@ -79539,11 +79542,11 @@ CONTROLBAR:PurchaseUpgradeMordorFortressMorgulSpire
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeMordorFortressMorgulSpire
-"Requiert l'amélioration Sorcellerie de Morgul\nPermet le recrutement de la Vanguard du Roi Sorcier\n\nSes Serviteurs les Plus Létaux :\nAccorde passivement +15% de dégâts et +15% d'armure\nà tous les Nazgûl sur le champ de bataille\nN'affecte pas les Bestioles ailées\n\nPermet à la forteresse d'utiliser le Flambeau de Morgul :\nTous les orques sur le champ de bataille gagnent 15% de vitesse et +50% de dégâts et d'armure pendant 30 secondes"
+"Requiert l'amélioration Sorcellerie de Morgul\nPermet le recrutement de la Vanguard du Roi Sorcier\n\nSes Serviteurs les Plus Létaux :\nAccorde passivement +10% de dégâts et +10% d'armure\nà tous les Nazgûl sur le champ de bataille\nN'affecte pas les Bestioles ailées\n\nPermet à la forteresse d'utiliser le Flambeau de Morgul :\nTous les orques sur le champ de bataille gagnent 15% de vitesse et +50% de dégâts et d'armure pendant 30 secondes"
 END
 
 ToolTip:LackMorgulSorcery
-"Requiert l'amélioration Sorcellerie de Morgul\nSes Serviteurs les Plus Létaux :\nAccorde passivement +15% de dégâts et +15% d'armure à tous les Nazgûl sur le champ de bataille\nN'affecte pas les Bestioles ailées\n\nPermet à la forteresse d'utiliser le Flambeau de Morgul :\nTous les orques sur le champ de bataille gagnent 15% de vitesse et +50% de dégâts et d'armure pendant 30 secondes"
+"Requiert l'amélioration Sorcellerie de Morgul\nSes Serviteurs les Plus Létaux :\nAccorde passivement +10% de dégâts et +10% d'armure à tous les Nazgûl sur le champ de bataille\nN'affecte pas les Bestioles ailées\n\nPermet à la forteresse d'utiliser le Flambeau de Morgul :\nTous les orques sur le champ de bataille gagnent 15% de vitesse et +50% de dégâts et d'armure pendant 30 secondes"
 END
 
 CONTROLBAR:MordorFortressDeadliestServants
@@ -79551,7 +79554,7 @@ CONTROLBAR:MordorFortressDeadliestServants
 END
 
 CONTROLBAR:ToolTipMordorFortressDeadliestServants
-"Requiert l'amélioration Flèche de Morgul\nAccorde +15% de dégâts et +15% d'armure\nà tous les Nazgûl sur le champ de bataille\nN'affecte pas les Bestioles ailées\nCapacité passive"
+"Requiert l'amélioration Flèche de Morgul\nAccorde +10% de dégâts et +10% d'armure\nà tous les Nazgûl sur le champ de bataille\nN'affecte pas les Bestioles ailées\nCapacité passive"
 END
 
 CONTROLBAR:MordorFortressMorgulSpire
@@ -89352,7 +89355,7 @@ CONTROLBAR:ConstructDolAmrothHandmaiden
 "Recruter la dame de compagnie (&W)"
 END
 CONTROLBAR:ToolTipConstructDolAmrothHandmaiden
-"Unité de soutien non combattante\nLa dame de compagnie est défendue par plus d'escorte à mesure qu'elle monte de niveau\n\nLes dames de compagnie servent la princesse de Dol Amroth et bien qu'elles soient loyales, elles s'ennuient souvent beaucoup."
+"Unité de soutien non combattante\n Limitée à 3.\nLa dame de compagnie est défendue par plus d'escorte à mesure qu'elle monte de niveau\n\nLes dames de compagnie servent la princesse de Dol Amroth et bien qu'elles soient loyales, elles s'ennuient souvent beaucoup."
 END
 CONTROLBAR:DolAmrothBelecthorsGuide
 "Guide de Belecthor (&W)"
@@ -89563,7 +89566,7 @@ CONTROLBAR:PurchaseUpgradeDolAmrothNumenorStonework
 "Fossé de Númenor (&S)"
 END
 CONTROLBAR:ToolTipPurchaseUpgradeDolAmrothNumenorStonework
-"Augmente l'armure de la forteresse et des murs de 65 %\nPrérequis pour Tirith Aear\nMonte Lothíriel au niveau 10 lorsque les niveaux précédents sont atteints"
+"Augmente l'armure de la forteresse de 65%\nPrérequis pour Tirith Aear\nMonte Lothíriel au niveau 10 lorsque les niveaux précédents sont atteints"
 END
 CONTROLBAR:PurchaseUpgradeDolAmrothTirithAear
 "Tirith Aear (&D)"
@@ -89578,7 +89581,7 @@ CONTROLBAR:ToolTipPurchaseUpgradeDolAmrothTirithAearFortressMap
 "Déverrouille les champions de Tirith Aear à la caserne royale\nMonte Lothíriel au niveau 10 lorsque les niveaux précédents sont atteints"
 END
 TOOLTIP:LackTirithAear
-"Nécessite l'amélioration Maçonnerie de Númenor\nFournit la capacité Lumière de Tirith Aear et permet le recrutement des champions de Tirith Aear\nAugmente la portée de vision de la forteresse"
+"Nécessite l'amélioration Douve de Númenor\nFournit la capacité Lumière de Tirith Aear et permet le recrutement des champions de Tirith Aear\nAugmente la portée de vision de la forteresse"
 END
 TOOLTIP:LackTirithAearFortressMap
 "Nécessite les améliorations Quartiers d'hôtes et Jardins agréables\nPermet le recrutement des champions de Tirith Aear\nMonte Lothíriel au niveau 10"
@@ -89688,13 +89691,13 @@ CONTROLBAR:ConstructDolAmrothRoyalBarracksLevel2Upgrade
 "Améliorer la caserne royale au niveau 2 (&A)"
 END
 CONTROLBAR:ToolTipBuildDolAmrothRoyalBarracksLevel2Upgrade
-"Permet l'entraînement des trébuchets\n+10 % de vitesse de construction plus rapide"
+"Permet l'entraînement des trébuchets\nRépare les engins de sièges proches\n+10 % de vitesse de construction plus rapide"
 END
 CONTROLBAR:ConstructDolAmrothRoyalBarracksLevel3Upgrade
 "Améliorer la caserne royale au niveau 3 (&A)"
 END
 CONTROLBAR:ToolTipBuildDolAmrothRoyalBarracksLevel3Upgrade
-"Permet l'entraînement des champions de Tirith Aear et permet aux trébuchets de rechercher l'amélioration Pierres enflammées\n+25 % de vitesse de construction plus rapide"
+"Permet l'entraînement des champions de Tirith Aear et permet aux trébuchets de rechercher l'amélioration Pierres enflammées\n Augmente la réparation des engins de sièges\n+25 % de vitesse de construction plus rapide"
 END
 
 OBJECT:DolAmrothRoyalStables
@@ -89891,7 +89894,7 @@ CONTROLBAR:DurinVIILeadership
 END
 
 CONTROLBAR:ToolTipDurinVIILeadership
-"Type de modificateur : Commandement\nLes structures d’Erebor proches gagnent +33% d’armure\nCapacité passive\nQuand activé, les alliés proches deviennent immunisés contre les projections et les piétinements pendant 30 secondes\nCliquez gauche pour activer\n\nÀ la mort de Durin l’Immortel, son corps se transforme en pierre, imperméable aux dégâts mais incapable d’attaquer ou de se déplacer\nCapacité passive"
+"Type de modificateur : Commandement\nLes structures d’Erebor proches gagnent +33% d’armure\nCapacité passive\nQuand activé, les nains proches deviennent immunisés contre les projections et les piétinements pendant 30 secondes\nCliquez gauche pour activer\n\nÀ la mort de Durin l’Immortel, son corps se transforme en pierre, imperméable aux dégâts mais incapable d’attaquer ou de se déplacer\nCapacité passive"
 END
 
 CONTROLBAR:DurinVIILitany
@@ -94469,7 +94472,7 @@ Map:mapmpruinsofost-in-edhil
 End
 
 Map:mapmpruinsofost-in-edhil/Desc
-"Des piliers et des falaises de pierre chantent maintenant tranquillement la ruine d'Ost-in-Edhil, autrefois grande Forteresse des Noldors. Il y a longtemps, Celebrimbor a habité ici, et aux côtés d'Annatar, a forgé les anneaux de pouvoir. \n\n Capturables : Feu d'alarme, Auberge. \n Antres : Araignées. \n Région : Eriador. \n"
+"Des piliers et des falaises de pierre chantent maintenant tranquillement la ruine d'Ost-in-Edhil, autrefois grande Forteresse des Noldors. Il y a longtemps, Celebrimbor a habité ici, et aux côtés d'Annatar, a forgé les anneaux de pouvoir. \n\n Capturables : Feu d'alarme, Auberge. \n Antres : Spectre des Galgals. \n Région : Eriador. \n"
 End
 
 
@@ -94634,7 +94637,7 @@ Map:MAPMPspringofcelduin
 End
 
 Map:MAPMPspringofcelduin/Desc
-"De vastes couloirs s'étendent entre la Grande Chambre de Thrór et la Porte d'entrée d'Erebor. D'un gouffre sombre dans la roche jaillit la rivière Celduin. \n\n Capturables : Foyer, Statue. \n Antres : Nains turbulents. \n Région : Erebor. \n"
+"De vastes couloirs s'étendent entre la Grande Chambre de Thrór et la Porte d'entrée d'Erebor. D'un gouffre sombre dans la roche jaillit la rivière Celduin. \n Antres : Nains turbulents. \n Région : Erebor. \n"
 End
 
 /////
