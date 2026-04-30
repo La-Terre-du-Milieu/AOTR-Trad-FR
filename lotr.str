@@ -222,6 +222,26 @@ GUI:ControlBarBack
 "RETOUR"
 END
 
+APT:PalantirFavourite
+"None"
+END
+
+APT:PalantirNameFaction
+"Observateur"
+END
+
+APT:PalantirRPM
+"0"
+END
+
+APT:PalantirMilitary
+"0"
+END
+
+APT:PalantirKD
+"0"
+END
+
 APT:Otherplayerisready
 "L'autre joueur est prêt."
 END
@@ -9450,6 +9470,10 @@ OBJECT:IsengardBanner
 "Porte-Etendard"
 END
 
+OBJECT:IsengardWildmanCaptain
+"Élu Hersir"
+END
+
 OBJECT:IsengardWargRider
 "Chavaucheur de Ouargues"
 END
@@ -16939,7 +16963,7 @@ CONTROLBAR:Draft
 End
 
 CONTROLBAR:ToolTipDraft
-"Tous les paysans deviennent armés, gagnant de manière permanente +5 de dégâts et +20 de santé\n Les unités du Rohan gagnent +15% d'armures pendant 30 secondes \nLe sort a un temps de recharge plus court\nCliquez gauche pour activer"
+"Tous les paysans deviennent armés, gagnant de manière permanente +5 de dégâts et +30 de santé\n Les unités du Rohan gagnent +15% d'armures pendant 30 secondes \nLe sort a un temps de recharge plus court\nCliquez gauche pour activer"
 END
 
 CONTROLBAR:ElvenGifts
@@ -24023,6 +24047,46 @@ LW:DisplayNameEvilCampaign8
 "Mission VIII: Fondcombe"
 END
 
+LW:DisplayNameAngmarCampaign1
+"Mission I: Angmar"
+END
+
+LW:DisplayNameAngmarCampaign2
+"Mission II: Gundabad"
+END
+
+LW:DisplayNameAngmarCampaign3
+"Mission III: Rhudaur"
+END
+
+LW:DisplayNameAngmarCampaign4
+"Mission IV: Amon Sûl"
+END
+
+LW:DisplayNameAngmarCampaign5
+"Mission V: Haut Nord"
+END
+
+LW:DisplayNameAngmarCampaign6
+"Mission VI: Cardolan"
+END
+
+LW:DisplayNameAngmarCampaign7
+"Mission VII: Carn Dûm"
+END
+
+LW:DisplayNameAngmarCampaign8
+"Mission VIII: Hauts des Galgals"
+END
+
+LW:DisplayNameAngmarCampaign9
+"Mission IX: Fornost"
+END
+
+LW:DisplayNameAngmarCampaign10
+"Mission X: Épilogue"
+END
+
 ////////////////////////////////////////////////////////
 //	WOTR Scenarios
 ////////////////////////////////////////////////////////
@@ -24132,6 +24196,14 @@ END
 
 LWScenario:WOTRScenarioBFME2EvilDescription
 "# de joueurs : 1\nIl s'agit d'une campagne scénarisée dans laquelle vous jouez à travers des missions pour submerger les régions nordiques de la Terre du Milieu avec les armées de Sauron.\n\nChoisissez Mordor et remportez ce scénario en terminant chaque mission.\nPerdre n'importe quel héros dans chaque mission entraînera un échec."
+END
+
+LWScenario:WOTRScenarioAngmarCampaign
+"Campagne : L'Avènement du Roi-Sorcier"
+END
+
+LWScenario:WOTRScenarioAngmarCampaignDescription
+"# Joueurs : 1   \n Il s’agit d’une campagne scénarisée dans laquelle vous enchaînez des missions pour détruire le royaume d’Arnor avec les hordes maléfiques du Roi-Sorcier. \n\nChoisissez Dol Guldur et terminez ce scénario en accomplissant chaque mission."
 END
 
 LWScenario:AOTRScenarioWarNorth
@@ -26625,7 +26697,7 @@ OBJECT:HordeIsengardFighterCrossbowCombo
 END
 
 OBJECT:HordeIsengardWildmenCombo
-"Hommes sauvages - Lanceurs de hâches du Pays de Dun"
+"Hommes sauvages - Tirailleurs hommes sauvages"
 END
 
 OBJECT:HordeIsengardCrossbow
@@ -29864,7 +29936,7 @@ CONTROLBAR:WildDrogothRecruit
 END
 
 CONTROLBAR:PurchaseWildFireDrake
-"Wyrm de feu [&Z]"
+"Drake de feu [&W]"
 END
 
 CONTROLBAR:PurchaseUpgradeWildFortressDragonNest
@@ -29872,7 +29944,7 @@ CONTROLBAR:PurchaseUpgradeWildFortressDragonNest
 END
 
 CONTROLBAR:PurchaseWildColdDrake
-"D&rake de glace"
+"Drake de glace (&E)"
 END
 
 CONTROLBAR:ToolTipWildColdDrake
@@ -29928,7 +30000,7 @@ CONTROLBAR:ToolTipStoreAnchor
 END
 
 CONTROLBAR:ToolTipPurchaseWildFireDrake
-"Invoque un Wyrm de feu que vous contrôlez."
+"Invoque un Drake de feu que vous contrôlez."
 END
 
 CONTROLBAR:ConstructWildSentryTower
@@ -30006,7 +30078,7 @@ OBJECT:WildMountainGiant
 END
 
 OBJECT:WildFireDrake
-"Wyrm de feu"
+"Drake de feu"
 END
 
 OBJECT:WildSpiderHolesExpansion
@@ -34115,11 +34187,11 @@ CONTROLBAR:PurchaseUpgradeWildFortressNorthernWastes
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeWildFortressNorthernWastes
-"Débloque les Géants des montagnes et l'antre de Wyrm. \nAugmente le nombre maximum disponible\n Permet à la Forteresse d'invoquer temporairement un Wyrm."
+"Débloque le Drake de glace \nAugmente le nombre maximum de Géants des montagnes disponibles de 2 à 5 \nAugmente le nombre maximum de Drakes de feu disponibles de 2 à 4 \n Permet à la forteresse d’invoquer temporairement un Wyrm"
 End
 
 CONTROLBAR:ToolTipPurchaseUpgradeWildFortressNorthernWastesForMap
-"Débloque l'antre de Wyrm."
+"Débloque le Drake de glace \nAugmente le nombre maximum de Géants des montagnes disponibles de 2 à 5 \nAugmente le nombre maximum de Drakes de feu disponibles de 2 à 4"
 End
 
 CONTROLBAR:ToolTipPurchaseUpgradeWildFortressWebCocoon_WOTR
@@ -34857,7 +34929,7 @@ CONTROLBAR:GoblinKingSpawnFireDrakes
 END
 
 CONTROLBAR:TooltipGoblinKingSpawnFireDrakes
-"Requiert : Niveau 10 \n Invoque trois Wyrms de feu contrôlés par le lanceur. \n\n Clic gauche sur l'icône puis clic gauche sur une zone praticable."
+"Requiert : Niveau 10 \n Invoque trois Drakes de feu contrôlés par le lanceur. \n\n Clic gauche sur l'icône puis clic gauche sur une zone praticable."
 END
 
 CONTROLBAR:GoblinKingSkullTotem
@@ -34879,6 +34951,38 @@ END
 
 CONTROLBAR:SpecialAbilityFireDrakeInferno
 "Souffle de l'Enfer [&Z]"
+END
+
+CONTROLBAR:ToggleOnFireDrakeFlameAttack
+"Activer le souffle de feu (&W)"
+END
+
+CONTROLBAR:ToolTipToggleOnFireDrakeFlameAttack
+"Toutes les 20 secondes, le Drake de feu \n crache automatiquement du feu avec ses attaques. \n Capacité passive \n\n Clic gauche pour désactiver le souffle de feu automatique"
+END
+
+CONTROLBAR:ToggleOffFireDrakeFlameAttack
+"Désactiver le souffle de feu (&W)"
+END
+
+CONTROLBAR:ToolTipToggleOffFireDrakeFlameAttack
+"Toutes les 20 secondes, le Drake de feu \n crache automatiquement du feu avec ses attaques. \n Capacité passive \n\n Clic gauche pour activer le souffle de feu automatique"
+END
+
+CONTROLBAR:SpecialAbilityCampaignWarDrakeStun
+"Regard de terreur (&R)"
+END
+
+CONTROLBAR:ToolTipSpecialAbilityCampaignWarDrakeStun
+"Type d’effet : affaiblissement (debuff)\n Lors de l’activation, neutralise le leadership ennemi à proximité du Drake de feu pendant 10 secondes\nClic gauche pour activer"
+END
+
+CONTROLBAR:SpecialAbilityFireDrakeJetOfFlame
+"Jet de flammes (&T)"
+END
+
+CONTROLBAR:ToolTipSpecialAbilityFireDrakeJetOfFlame
+"Nécessite le niveau 2 \nLe Drake de feu projette une boule de feu dévastatrice à longue portée\nClic gauche puis clic gauche sur la cible ennemie"
 END
 
 CONTROLBAR:SpecialAbilityFiresOfDoom
@@ -34979,6 +35083,10 @@ END
 
 CONTROLBAR:WKWordofPower
 "Heure du Roi-Sorcier [&V]"
+END
+
+CONTROLBAR:AngmarWKWordofPower
+"Chef des Neuf (&V)"
 END
 
 CONTROLBAR:ToolTipWKWordofPower
@@ -35734,7 +35842,7 @@ OBJECT:GuldurRuinousTower
 END
 
 OBJECT:GuldurRuinousTowerDescription
-"Tire des flèches sur les ennemis proches. \n Furtif près des arbres. \n Approfondissement des ténèbres - Réduit le coût des Ombres. \n 1 Tour: 10% \n 2 Tours: 20% \n 3 Tours: 30% \n 4 Tours: 40% \n 5+ Tours: 50% "
+"Tire des flèches sur les ennemis proches. \n Furtif près des arbres. \n Approfondissement des ténèbres - Réduit le coût des Ombres. \n 1 Tour: 20% \n 2 Tours: 40% \n 3 Tours: 60% \n 4 Tours: 80% \n 5+ Tours: 100% "
 END
 
 CONTROLBAR:ToolTipConstructMordorPorter
@@ -36549,7 +36657,7 @@ OBJECT:FarmerMaggots
 End
 
 OBJECT:FireDrakeLair
-"Antre de Wyrm de feu"
+"Antre de Drake de feu"
 End
 
 OBJECT:FlamingInfantry
@@ -36621,7 +36729,7 @@ OBJECT:Frozen
 End
 
 OBJECT:GenericFireDrake
-"Wyrm de feu"
+"Drake de feu"
 End
 
 OBJECT:GiantSkull01
@@ -44307,7 +44415,7 @@ OBJECT:CaveTrollLairDescription
 END
 
 OBJECT:FireDrakeLairDescription
-"Permet l'invocation des Wyrms de feu"
+"Permet l'invocation des drakes de feu"
 END
 
 OBJECT:GoblinLairDescription
@@ -44782,6 +44890,10 @@ END
 
 CONTROLBAR:PurchaseUpgradeIsengardBasicTrainingDunland
 "Acheter Bannières des Corbeaux [&V]"
+END
+
+CONTROLBAR:PurchaseUpgradeIsengardBasicTrainingWildman
+"Acheter Hersir élu (&V)"
 END
 
 CONTROLBAR:PurchaseUpgradeIsengardBasicTrainingRuffian
@@ -45849,7 +45961,7 @@ Upgrade:WildBasicTraining
 END
 
 Upgrade:FortressFireDrake
-"Wyrm de feu"
+"Drake de feu"
 END
 
 UPGRADE:WildHeavyArmor
@@ -52090,6 +52202,10 @@ CONTROLBAR:ToolTipBuildElvenImladrisWarriorHordeWithNoPrerequisites
 "Archers d'Imladris. \n Requiert Quartier niveau 2. \n Forts contre l'infanterie, les monstres et les engins de siège. \n\n La vallée d'Imladris est cachée en grande partie grâce à l'Anneau d'Elrond, mais aussi grâce à ces archers qui s'assurent qu'aucun ennemi n'empiète sur leur territoire pour en révéler l'emplacement..."
 END
 
+CONTROLBAR:ToolTipBuildElvenImladrisWarriorHordeWithNoPrerequisites_NoRequirement
+"Archers d'Imladris. \n Fort contre l’infanterie, les monstres et les engins de siège \n\nLa vallée d’Imladris est en grande partie dissimulée grâce à l’Anneau d’Elrond, et en partie grâce à ces archers qui veillent à ce qu’aucun ennemi approchant ne survive pour révéler son emplacement."
+END
+
 CONTROLBAR:ToolTipBuildArnorRangerHordeForGoodIthilien
 "Fort à distance."
 END
@@ -53200,7 +53316,7 @@ OBJECT:AngmarHallofTwilightDescription
 END
 
 CONTROLBAR:ToolTipAngmarHallofTwilight
-"Forme des Sorciers"
+"Forme des Sorciers de Carn Dûm"
 END
 
 CONTROLBAR:TooltipUpgradeAngmarHallofTwilightLevel2
@@ -53526,7 +53642,7 @@ OBJECT:HordeWildman
 End
 
 OBJECT:HordeWildmanAxeThrower
-"Lanceurs de haches du Pays de Dun"
+"Tirailleurs hommes sauvages"
 End
 
 OBJECT:AngmarRhudaurSpearmen
@@ -53585,12 +53701,52 @@ OBJECT:AngmarNecroAcolyte
 End
 
 OBJECT:AngmarNecromancerBanner
-"Sorcier"
+"Sorcier de Carn Dûm"
 End
 
 OBJECT:HordeNecromancerGuardian
-"Sorcier"
+"Sorcier de Carn Dûm"
 End
+
+CONTROLBAR:WarlockCorpseFire
+"Feu des cadavres"
+END
+
+CONTROLBAR:TooltipWarlockCorpseFire
+"Les attaques du Sorcier de Carn Dûm infligent des dégâts de givre et réduisent les dégâts ennemis de -15%\nCapacité passive"
+END
+
+CONTROLBAR:DarkestNight
+"Malédiction de la Nuit la plus sombre (&R)"
+END
+
+CONTROLBAR:EndlessWinter
+"Malédiction de l’Hiver sans fin (&T)"
+END
+
+CONTROLBAR:TooltipEndlessWinter
+"Les unités ennemies sont attirées vers le centre de la zone du sort\nLes ennemis affectés sont ralentis de -33% pendant 20 secondes et subissent des dégâts sur la durée pendant 15 secondes\nN’affecte pas la cavalerie\nClic gauche puis clic gauche sur la zone ciblée"
+END
+
+CONTROLBAR:TooltipDarkestNight
+"Invoque une Pierre de sort pendant 60 secondes\nDes Morts d’Arnor apparaissent en continu depuis la Pierre de sort jusqu’à sa destruction\nLimite de 5 Pierres de sort\nClic gauche puis clic gauche sur la zone ciblée"
+END
+
+CONTROLBAR:DreadfulGreed
+"Malédiction de l’Avarice funeste (&C)"
+END
+
+CONTROLBAR:ToolTipDreadfulGreed
+"La structure ciblée génère +100% de ressources mais toutes les unités proches perdent -15% d’armure pendant 30 secondes\nPeut cibler les structures de ressources ennemies\nClic gauche sur l’icône puis clic gauche sur la cible"
+END
+
+CONTROLBAR:WitheringSleet
+"Malédiction de la neige flétrissante (&V)"
+END
+
+CONTROLBAR:ToolTipWitheringSleet
+"Invoque une petite avalanche qui inflige des dégâts aux ennemis et éteint les incendies\nClic gauche sur l’icône puis clic gauche sur la zone ciblée"
+END
 
 OBJECT:AngmarCatapultExpansion
 "Trolls lanceurs de pierres"
@@ -54018,11 +54174,11 @@ CONTROLBAR:AngmarKarshHotkey
 End
 
 CONTROLBAR:ConstructAngmarNecromancerHorde
-"So&rcier"
+"Sorcier de Carn Dûm (&R)"
 End
 
 CONTROLBAR:TooltipBuildAngmarNecromancerHorde
-"Unité de soutien du champ de bataille"
+"Unité de soutien sur le champ de bataille\n\nLes hommes de Carn Dûm étaient connus pour pratiquer des sacrifices rituels, utilisant le sang de leurs ennemis et des habitants des collines pour instiller une frénésie terrifiante dans le cœur des Váldgoil."
 End
 
 CONTROLBAR:ConstructAngmarHallofTwilight2Upgrade
@@ -54036,19 +54192,27 @@ CONTROLBAR:ConstructAngmarHallofTwilightLevel3Upgrade
 End
 
 CONTROLBAR:PurchaseTechnologyAngmarSoulFreeze
-"Prison de Glace"
+"Prison de Glace (&E)"
 End
 
 CONTROLBAR:PurchaseTechnologyAngmarWellOfSouls
-"Puits des Âmes"
+"Puits des Âmes (&R)"
 End
 
 CONTROLBAR:PurchaseTechnologyAngmarCorpseRain
-"Pluie de Cadavres"
+"Pluie de Cadavres (&T)"
 End
 
 TOOLTIP:LackLevel2HallOfTwilight
 "Requiert : niveau 2 Temple du Crépuscule"
+End
+
+TOOLTIP:LackLevel2GuldurSorceryTower
+"Nécessite une Flèche de la Sorcellerie niveau 2"
+End
+
+TOOLTIP:LackLevel3GuldurSorceryTower
+"Nécessite une Flèche de la Sorcellerie niveau 3"
 End
 
 TOOLTIP:LackLevel3HallOfTwilight
@@ -54076,19 +54240,19 @@ TOOLTIP:PurchaseUpgradeAngmarDarkIronBlades
 End
 
 CONTROLBAR:NecroBlackIce
-"Glace No&ire"
+"Glace Noire (&W)"
 End
 
 CONTROLBAR:NecroFellStrength
-"Force Cruelle [&T]"
+"Force Cruelle (&R)"
 End
 
 CONTROLBAR:NecroSoulFreeze
-"Prison de G&lace"
+"Prison de Glace (&T)"
 End
 
 CONTROLBAR:PurchaseUpgradeSoulFreeze
-"Prison de G&lace"
+"Prison de Glace (&T)"
 End
 
 CONTROLBAR:ToolTipPurchaseUpgradeAngmarSoulFreeze
@@ -54104,11 +54268,11 @@ TOOLTIP:AngmarSoulFreeze
 End
 
 CONTROLBAR:NecroWellOfSouls
-"Puits des Âmes [&W]"
+"Puits des Âmes (&T)"
 End
 
 CONTROLBAR:PurchaseUpgradeWellOfSouls
-"Puits des Âmes [&W]"
+"Puits des Âmes (&C)"
 End
 
 TOOLTIP:AngmarWellOfSouls
@@ -54116,7 +54280,7 @@ TOOLTIP:AngmarWellOfSouls
 End
 
 CONTROLBAR:NecroCorpseRain
-"Pluie de &Cadavres"
+"Pluie de Cadavres (&T)"
 End
 
 CONTROLBAR:SanctumMelkorRuin
@@ -54128,7 +54292,7 @@ CONTROLBAR:ToolTipSanctumMelkorRuin
 End
 
 CONTROLBAR:PurchaseUpgradeCorpseRain
-"Pluie de &Cadavres"
+"Pluie de Cadavres (&V)"
 End
 
 CONTROLBAR:ToolTipPurchaseUpgradeAngmarCorpseRain
@@ -54443,7 +54607,7 @@ CampaignName:Rhudaur
 END
 
 CampaignName:Amonsul
-"Amon Sul"
+"Amon Sûl"
 END
 
 CampaignName:Darkeye
@@ -54485,7 +54649,7 @@ Map:MAPANGRhudaur
 END
 
 Map:MAPANGAmonSul
-"Campagne: Angmar 4 - Amon Sul"
+"Campagne: Angmar 4 - Amon Sûl"
 END
 
 Map:MAPANGDarkEye
@@ -54904,7 +55068,7 @@ CONTROLBAR:UpgradeIsengardTavernLevel3
 End
 
 CONTROLBAR:TooltipUpgradeIsengardTavernLevel2
-"Permet de recruter les Lanceurs de hâches du Pays de Dun. \n Vitesse de construction +10%."
+"Permet de recruter les Tirailleurs du Pays de Dun. \n Vitesse de construction +10%."
 End
 
 CONTROLBAR:TooltipIsengardTavern
@@ -54960,11 +55124,11 @@ CONTROLBAR:ConstructIsengardBerserkerHorde
 End
 
 OBJECT:IsengardWildmanAxe
-"Lanceurs de hâches du Pays de Dun"
+"Tirailleurs du Pays de Dun"
 End
 
 CONTROLBAR:ConstructIsengardWildmanAxeHorde
-"Lanceu&rs de hâches du Pays de Dun"
+"Tirailleurs du Pays de Dun (&R)"
 End
 
 CONTROLBAR:ToolTipBuildIsengardWildmanAxeHorde
@@ -54976,19 +55140,19 @@ CONTROLBAR:ToolTipBuildIsengardWildmanAxeHordeWotR
 END
 
 CONTROLBAR:LW_Unit_IsengardWildmanAxeHorde
-"Horde de Lanceurs de hâches du Pays de Dun"
+"Horde Tirailleurs du Pays de Dun"
 END
 
 CONTROLBAR:LW_Unit_IsengardWildmanAxeHordePlural
-"Horde de Lanceurs de hâches du Pays de Dun"
+"Tirailleurs  du Pays de Dun"
 END
 
 CONTROLBAR:LW_Unit_IsengardWildmanAxeSpearHorde
-"Lanceurs de hâches - Piquiers du Pays de Dun"
+"Tirailleurs - Piquiers du Pays de Dun"
 END
 
 CONTROLBAR:LW_Unit_IsengardWildmanAxeSpearHordePlural
-"Lanceurs de hâches - Piquiers du Pays de Dun"
+"Tirailleurs - Piquiers du Pays de Dun"
 END
 
 CONTROLBAR:LW_ToolTip_IsengardWildmanAxeSpearHorde
@@ -54996,11 +55160,11 @@ CONTROLBAR:LW_ToolTip_IsengardWildmanAxeSpearHorde
 END
 
 CONTROLBAR:LW_Unit_IsengardWildmanAxeComboHorde
-"Hommes sauvages - Lanceurs de hâches du Pays de Dun"
+"Hommes sauvages - Tirailleurs du Pays de Dun"
 END
 
 CONTROLBAR:LW_Unit_IsengardWildmanAxeSpearHordePlural
-"Hommes sauvages - Lanceurs de hâches du Pays de Dun"
+"Hommes sauvages - Tirailleurs du Pays de Dun"
 END
 
 CONTROLBAR:LW_ToolTip_IsengardWildmanAxeComboHorde
@@ -55113,7 +55277,7 @@ END
 //------------- Men of the West ------------------
 
 CONTROLBAR:TooltipEarnurBladeMaster
-"Requiert : niveau 2\n Earnur gagne +100% dégâts et +100% armure.\n\nClic gauche pour activer"
+"Requiert : niveau 2\n Eärnur gagne +100% dégâts et +100% armure.\n\nClic gauche pour activer"
 END
 
 OBJECT:GondorSpearmen
@@ -55130,6 +55294,10 @@ END
 
 CONTROLBAR:ToolTipBuildGondorSpearmenHorde
 "Requiert une Caserne de niveau 2 \n Fort contre la cavalerie et les héros \n \n Maintenir un grand régiment de lanciers s'est révélé inestimable lors des guerres d'Anórien contre les Haradrims équestres."
+END
+
+CONTROLBAR:ToolTipBuildGondorSpearmenHorde_NoRequirement
+"Fort contre la cavalerie et les héros \n Peut changer de formation pour améliorer ses capacités défensives \n \n Maintenir un large régiment de lanciers s’est révélé inestimable lors des guerres d’Anórien contre les Haradrim montés."
 END
 
 OBJECT:RohanSpearmen
@@ -55810,18 +55978,18 @@ END
 //////////////////////////  MISSION STRINGS FROM MAP.STRs  ////////////////////////
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-//AMON SUL
+//Amon Sûl
 
 SCRIPT:ANGAmonSulIntroText_01
 "ROI-SORCIER : Tant que cette forteresse subsiste, les terres à l'ouest sont à l'abri de ma vengeance."
 END
 
 SCRIPT:ANGAmonSulIntroText_02
-"HWALDAR : Alors elle ne subsistera plus, seigneur du roi-sorcier."
+"ÚLF : Alors elle ne subsistera plus, seigneur du roi-sorcier."
 END
 
 SCRIPT:ANGAmonSulIntroText_03
-"ROI-SORCIER : Nous devons frapper sans pitié. Les prétendants défendent les remparts d'Amon Sul avec plus que de la force et de l'acier."
+"ROI-SORCIER : Nous devons frapper sans pitié. Les prétendants défendent les remparts d'Amon Sûl avec plus que de la force et de l'acier."
 END
 
 SCRIPT:ANGAmonSulIntroText_03-1
@@ -55829,15 +55997,15 @@ SCRIPT:ANGAmonSulIntroText_03-1
 END
 
 //SCRIPT:ANGAmonSulIntroText_04
-//"HWALDAR: À couvert dans cette tour !"
+//"ÚLF: À couvert dans cette tour !"
 //END
 
 SCRIPT:ANGAmonSulObjectiveText_01
-"Détruisez la Tour d'Amon Sul."
+"Détruisez la Tour d'Amon Sûl."
 END
 
 SCRIPT:ANGAmonSulObjectiveText_02
-"Détruisez tous les Arbres de Mallorn qui alimentent les attaques magiques d'Amon Sul."
+"Détruisez tous les Arbres de Mallorn qui alimentent les attaques magiques d'Amon Sûl."
 END
 
 SCRIPT:ANGAmonSulObjectiveText_03
@@ -55853,11 +56021,11 @@ SCRIPT:ANGAmonSulBonusObjectiveText_01
 END
 
 SCRIPT:ANGAmonSulBonusObjectiveText_02
-"Hwaldar doit atteindre le niveau 6."
+"Úlf doit atteindre le niveau 6."
 END
 
 SCRIPT:ANGAmonSulBonusObjectiveText_03
-"Morgomir doit atteindre le niveau 10."
+"Akhôrahil doit atteindre le niveau 10."
 END
 
 SCRIPT:ANGAmonSulBonusObjectiveText_04
@@ -55865,11 +56033,11 @@ SCRIPT:ANGAmonSulBonusObjectiveText_04
 END
 
 SCRIPT:ANGAmonSulBonusObjectiveText_05
-"Détruisez l'Arbre de Mallorn dans le marais du nord-ouest, dont le pouvoir permet au Palantir d'Amon Sul de créer des forêts elfiques luxuriantes."
+"Détruisez l'Arbre de Mallorn dans le marais du nord-ouest, dont le pouvoir permet au Palantir d'Amon Sûl de créer des forêts elfiques luxuriantes."
 END
 
 SCRIPT:ANGAmonSulBonusObjectiveText_06
-"Détruisez l'Arbre de Mallorn qui se trouve à l'ombre de la Tour d'Amon Sul, ce qui permet à la forteresse de faire appel à ses alliés Dúnedain."
+"Détruisez l'Arbre de Mallorn qui se trouve à l'ombre de la Tour d'Amon Sûl, ce qui permet à la forteresse de faire appel à ses alliés Dúnedain."
 END
 
 SCRIPT:ANGAmonSulBonusObjectiveText_07
@@ -55885,7 +56053,7 @@ SCRIPT:ANGAmonSulObjectiveComplete_01
 END
 
 SCRIPT:ANGAmonSulObjectiveComplete_01-1
-"OFFICIER D'ANGMAR : Amon Sul le 'puissant' est tombé !"
+"OFFICIER D'ANGMAR : Amon Sûl le 'puissant' est tombé !"
 END
 
 SCRIPT:ANGAmonSulObjectiveComplete_02
@@ -55901,11 +56069,11 @@ SCRIPT:ANGAmonSulObjectiveComplete_04
 END
 
 SCRIPT:ANGAmonSulObjectiveComplete_05
-"Hwaldar a atteint le niveau 6 !"
+"Úlf a atteint le niveau 6 !"
 END
 
 SCRIPT:ANGAmonSulObjectiveComplete_05-1
-"Morgomir a atteint le niveau 10 !"
+"Akhôrahil a atteint le niveau 10 !"
 END
 
 SCRIPT:ANGAmonSulObjectiveComplete_06
@@ -55966,23 +56134,23 @@ SCRIPT:ANGAmonSulHintText_07
 END
 
 SCRIPT:ANGAmonSulHintText_08
-"Nous devons utiliser nos nouveaux Constructeurs pour reconstruire nos forces et contre-attaquer à Amon Sul !"
+"Nous devons utiliser nos nouveaux Constructeurs pour reconstruire nos forces et contre-attaquer à Amon Sûl !"
 END
 
 SCRIPT:ANGAmonSulHintText_09
-"Morgomir possède maintenant le pouvoir de la Ruine. Avec lui, il peut réduire même les structures les plus puissantes en poussière."
+"Akhôrahil possède maintenant le pouvoir de la Ruine. Avec lui, il peut réduire même les structures les plus puissantes en poussière."
 END
 
 SCRIPT:ANGAmonSulHintText_10
-"Détruisez tous les arbres Mallorn qui alimentent les attaques magiques d'Amon Sul. Consultez votre écran Objectifs pour vous rappeler où ils se trouvent et ce qu'ils sont."
+"Détruisez tous les arbres Mallorn qui alimentent les attaques magiques d'Amon Sûl. Consultez votre écran Objectifs pour vous rappeler où ils se trouvent et ce qu'ils sont."
 END
 
 SCRIPT:ANGAmonSulCloudBreakTreeVO
-"ANGMAR OFFICER: Cet arbre Mallorn permet à la Palantir d'Amon Sul d'écarteler les nuages, paralysant les serviteurs des ténèbres."
+"ANGMAR OFFICER: Cet arbre Mallorn permet à la Palantir d'Amon Sûl d'écarteler les nuages, paralysant les serviteurs des ténèbres."
 END
 
 SCRIPT:ANGAmonSulElvenWoodTreeVO
-"ANGMAR OFFICER: La Palantir d'Amon Sul peut canaliser le pouvoir de la nature avec cet arbre, créant des forêts elfiques luxuriantes pour protéger les forces de la lumière."
+"ANGMAR OFFICER: La Palantir d'Amon Sûl peut canaliser le pouvoir de la nature avec cet arbre, créant des forêts elfiques luxuriantes pour protéger les forces de la lumière."
 END
 
 SCRIPT:ANGAmonSulDunedainTreeVO
@@ -55990,31 +56158,31 @@ SCRIPT:ANGAmonSulDunedainTreeVO
 END
 
 SCRIPT:ANGAmonSulRebuildTreeVO
-"ANGMAR OFFICER: La Palantir d'Amon Sul utilise cet arbre Mallorn pour réparer miraculeusement les dommages causés aux bâtiments."
+"ANGMAR OFFICER: La Palantir d'Amon Sûl utilise cet arbre Mallorn pour réparer miraculeusement les dommages causés aux bâtiments."
 END
 
 SCRIPT:ANGAmonSulSunflareTreeVO
-"ANGMAR OFFICER: Le plus puissant des dons des Mallorn, cet arbre permet à la Palantir d'Amon Sul de concentrer la fureur du soleil lui-même contre tous ceux qui osent menacer la forteresse."
+"ANGMAR OFFICER: Le plus puissant des dons des Mallorn, cet arbre permet à la Palantir d'Amon Sûl de concentrer la fureur du soleil lui-même contre tous ceux qui osent menacer la forteresse."
 END
 
 SCRIPT:ANGAmonSulCloudBreakTreeTooltip
-"Cet arbre Mallorn confère le pouvoir de Briser les Nuages aux défenseurs d'Amon Sul."
+"Cet arbre Mallorn confère le pouvoir de Briser les Nuages aux défenseurs d'Amon Sûl."
 END
 
 SCRIPT:ANGAmonSulElvenWoodTreeTooltip
-"Cet arbre Mallorn confère le pouvoir de Bois Elfique aux défenseurs d'Amon Sul."
+"Cet arbre Mallorn confère le pouvoir de Bois Elfique aux défenseurs d'Amon Sûl."
 END
 
 SCRIPT:ANGAmonSulDunedainTreeTooltip
-"Cet arbre Mallorn confère le pouvoir d'Appeler les Dúnedain aux défenseurs d'Amon Sul."
+"Cet arbre Mallorn confère le pouvoir d'Appeler les Noldor aux défenseurs d'Amon Sûl."
 END
 
 SCRIPT:ANGAmonSulRebuildTreeTooltip
-"Cet arbre Mallorn confère le pouvoir de Reconstruire aux défenseurs d'Amon Sul."
+"Cet arbre Mallorn confère le pouvoir de Reconstruire aux défenseurs d'Amon Sûl."
 END
 
 SCRIPT:ANGAmonSulSunflareTreeTooltip
-"Cet arbre Mallorn confère le pouvoir de Rayon Solaire aux défenseurs d'Amon Sul."
+"Cet arbre Mallorn confère le pouvoir de Rayon Solaire aux défenseurs d'Amon Sûl."
 END
 
 SCRIPT:ANGAmonSulSunflareIntroText
@@ -56030,7 +56198,7 @@ SCRIPT:ANGAmonSulCloudBreakIntroText
 END
 
 SCRIPT:ANGAmonSulDunedainIntroText
-"\nCet arbre invoque des renforts des Rangers Dúnedain."
+"\nCet arbre invoque des renforts des elfes Noldor."
 END
 
 SCRIPT:ANGAmonSulElvenWoodIntroText
@@ -56039,7 +56207,7 @@ END
 
 
 SCRIPT:ANGAmonSulSunflareTimer
-"Attaque Rayon Solaire d'Amon Sul :"
+"Attaque Rayon Solaire d'Amon Sûl :"
 END
 
 
@@ -56050,7 +56218,7 @@ SCRIPT:ANGAngmarIntroText_01
 END
 
 SCRIPT:ANGAngmarIntroText_02
-"ROI-SORCIER : Il y a une grande malveillance en ce lieu... en particulier les Númenóréens Noirs, des hommes dont les loyautés sombres et la soif de domination nous devons raviver."
+"ROI-SORCIER : Il y a une grande malveillance en ce lieu... en particulier les hommes de Carn Dûm, des hommes dont les loyautés sombres et la soif de domination nous devons raviver."
 END
 
 SCRIPT:ANGAngmarIntroText_03
@@ -56062,7 +56230,7 @@ SCRIPT:ANGAngmarObjectiveText_01
 END
 
 SCRIPT:ANGAngmarObjectiveText_02
-"Morgomir doit survivre."
+"Akhôrahil doit survivre."
 END
 
 SCRIPT:ANGAngmarObjectiveText_03
@@ -56070,19 +56238,19 @@ SCRIPT:ANGAngmarObjectiveText_03
 END
 
 SCRIPT:ANGAngmarObjectiveText_04
-"Rogash doit survivre."
+"Gorg doit survivre."
 END
 
 SCRIPT:ANGAngmarObjectiveText_05
-"Amenez Rogash sur le plateau des Trolls des Neiges."
+"Amenez Gorg sur le plateau des Trolls des Neiges."
 END
 
 SCRIPT:ANGAngmarObjectiveText_06
-"Tuez les Númenóréens Noirs qui montent la garde sur le plateau des Trolls des Neiges."
+"Tuez les Hommes de Carn Dûm qui montent la garde sur le plateau des Trolls des Neiges."
 END
 
 SCRIPT:ANGAngmarObjectiveText_07
-"Assujettissez les Númenóréens Noirs des montagnes et ralliez les Trolls et les Loups restants à notre bannière."
+"Assujettissez les Hommes de Carn Dûm des montagnes et ralliez les Trolls et les Loups restants à notre bannière."
 END
 
 SCRIPT:ANGAngmarObjectiveText_08
@@ -56090,7 +56258,7 @@ SCRIPT:ANGAngmarObjectiveText_08
 END
 
 SCRIPT:ANGAngmarObjectiveText_09
-"Empêchez la contre-attaque des Númenóréens Noirs de détruire l'une de vos forteresses."
+"Empêchez la contre-attaque des Hommes de Carn Dûm de détruire l'une de vos forteresses."
 END
 
 SCRIPT:ANGAngmarNewObjectiveText_01
@@ -56114,15 +56282,15 @@ SCRIPT:ANGAngmarBonusObjectiveText_01
 END
 
 SCRIPT:ANGAngmarBonusObjectiveText_02
-"Morgomir doit atteindre le niveau 3."
+"Akhôrahil doit atteindre le niveau 3."
 END
 
 SCRIPT:ANGAngmarBonusObjectiveText_03
-"Rogash doit atteindre le niveau 4."
+"Gorg doit atteindre le niveau 4."
 END
 
 SCRIPT:ANGAngmarObjectiveComplete_01
-"Les Númenóréens Noirs viennent détruire nos forteresses - si une seule tombe, tout est perdu ! Utilisez vos ressources pour améliorer les forteresses et recruter de nouvelles troupes pour faire face à l'attaque !"
+"Les Hommes de Carn Dûm viennent détruire nos forteresses - si une seule tombe, tout est perdu ! Utilisez vos ressources pour améliorer les forteresses et recruter de nouvelles troupes pour faire face à l'attaque !"
 END
 
 SCRIPT:ANGAngmarObjectiveComplete_02
@@ -56130,7 +56298,7 @@ SCRIPT:ANGAngmarObjectiveComplete_02
 END
 
 SCRIPT:ANGAngmarObjectiveComplete_03
-"Nous avons repoussé les attaques des Númenóréens Noirs, et ils se soumettent maintenant à notre volonté ! Ceci n'est que la première victoire parmi tant d'autres !"
+"Nous avons repoussé les attaques des Hommes de Carn Dûm, et ils se soumettent maintenant à notre volonté ! Ceci n'est que la première victoire parmi tant d'autres !"
 END
 
 SCRIPT:ANGAngmarBonusObjectiveComplete_01
@@ -56138,11 +56306,11 @@ SCRIPT:ANGAngmarBonusObjectiveComplete_01
 END
 
 SCRIPT:ANGAngmarBonusObjectiveComplete_02
-"Morgomir a atteint le niveau 3."
+"Akhôrahil a atteint le niveau 3."
 END
 
 SCRIPT:ANGAngmarBonusObjectiveComplete_03
-"Rogash a atteint le niveau 4."
+"Gorg a atteint le niveau 4."
 END
 
 SCRIPT:ANGAngmarBonusObjectiveComplete_04
@@ -56158,15 +56326,15 @@ SCRIPT:ANGAngmarVOText_02
 END
 
 SCRIPT:ANGAngmarVOText_03
-"ROGASH: Venu tuer Hommes à la face de fer, vivre dans ruines anciennes au nord, garder Trolls se battant entre eux. Rogash rassemble Trolls, prend or et viande aux Hommes des terres verdoyantes."
+"GORG: Venu tuer Hommes à la face de fer, vivre dans ruines anciennes au nord, garder Trolls se battant entre eux. Gorg rassemble Trolls, prend or et viande aux Hommes des terres verdoyantes."
 END
 
 SCRIPT:ANGAngmarVOText_04
-"WITCH-KING: Ton destin est à mes côtés, Rogash, pas à quémander des miettes. Amène tes frères sous ma bannière, et il y aura de l'or à saisir, de la viande à dévorer, et du sang à souiller tes lames sans fin."
+"WITCH-KING: Ton destin est à mes côtés, Gorg, pas à quémander des miettes. Amène tes frères sous ma bannière, et il y aura de l'or à saisir, de la viande à dévorer, et du sang à souiller tes lames sans fin."
 END
 
 SCRIPT:ANGAngmarVOText_05
-"ROGASH: Combat arrêté ! Nouveau maître parle."
+"GORG: Arretez de combattre maintenant ! Nouveau maître parle."
 END
 
 SCRIPT:ANGAngmarVOText_06
@@ -56190,23 +56358,23 @@ SCRIPT:ANGAngmarVOText_10
 END
 
 SCRIPT:ANGAngmarVOText_11
-"Les Númenóréens Noirs ont invoqué un dragon pour les aider !"
+"Les Hommes de Carn Dûm ont invoqué un dragon pour les aider !"
 END
 
 SCRIPT:ANGAngmarVOText_12
-"ROGASH: Roi sombre, attention ! Géants à proximité, avec des Trolls esclaves !"
+"GORG: Roi sombre, attention ! Géants à proximité, avec des Trolls esclaves !"
 END
 
 SCRIPT:ANGAngmarVOText_13
-"Les Númenóréens Noirs sont arrivés ! Si ils détruisent l'une des forteresses, tout est perdu !"
+"Les Hommes de Carn Dûm sont arrivés ! Si ils détruisent l'une des forteresses, tout est perdu !"
 END
 
 SCRIPT:ANGAngmarHintText_01
-"Les Númenóréens Noirs sont toujours puissants dans ces montagnes - améliorez vos forteresses pour les protéger contre les contre-attaques !"
+"Les Hommes de Carn Dûm sont toujours puissants dans ces montagnes - améliorez vos forteresses pour les protéger contre les contre-attaques !"
 END
 
 SCRIPT:ANGAngmarHintText_02
-"Certaines troupes des Númenóréens Noirs sont arrivées en avance sur la force principale - éliminez-les avant que leurs frères n'arrivent !"
+"Certaines troupes des Hommes de Carn Dûm sont arrivées en avance sur la force principale - éliminez-les avant que leurs frères n'arrivent !"
 END
 
 SCRIPT:ANGAngmarHintText_03
@@ -56214,7 +56382,7 @@ SCRIPT:ANGAngmarHintText_03
 END
 
 SCRIPT:ANGAngmarHintText_04
-"C'est un camp des Númenóréens Noirs ! Tuez-les et saisissez le Moulin !"
+"C'est un camp des Hommes de Carn Dûm ! Tuez-les et saisissez le Moulin !"
 END
 
 SCRIPT:ANGAngmarHintText_05
@@ -56222,7 +56390,7 @@ SCRIPT:ANGAngmarHintText_05
 END
 
 SCRIPT:ANGAngmarHintText_06
-"Regardez ! Une tanière de Trolls des Collines est attaquée ! Elle pourrait être utile - ne la laissez pas tomber !"
+"Regardez ! Un Cairn de trolls des neiges est attaqué ! Elle pourrait être utile - ne la laissez pas tomber !"
 END
 
 SCRIPT:ANGAngmarHintText_07
@@ -56230,15 +56398,15 @@ SCRIPT:ANGAngmarHintText_07
 END
 
 SCRIPT:ANGAngmarHintText_08
-"Nous avons vaincu ces Númenóréens Noirs, et cette Tanière est à nous ! Nous pouvons l'utiliser pour recruter de nouveaux Trolls et Loups !"
+"Nous avons vaincu ces Hommes de Carn Dûm, et cette Tanière est à nous ! Nous pouvons l'utiliser pour recruter de nouveaux Trolls et Loups !"
 END
 
 SCRIPT:ANGAngmarHintText_09
-"Nous avons vaincu ces Númenóréens Noirs, mais ils ont réussi à détruire la Tanière !"
+"Nous avons vaincu ces Hommes de Carn Dûm, mais ils ont réussi à détruire la Tanière !"
 END
 
 SCRIPT:ANGAngmarHintText_10
-"Ces Númenóréens Noirs possèdent une Forge de Fer Sombre. Tuez-les et nous pourrons la saisir !"
+"Ces Hommes de Carn Dûm possèdent une Forge de Fer Sombre. Tuez-les et nous pourrons la saisir !"
 END
 
 SCRIPT:ANGAngmarHintText_11
@@ -56266,7 +56434,7 @@ SCRIPT:ANGAngmarHintText_16
 END
 
 SCRIPT:ANGAngmarHintText_17
-"Ils ont un Troll des Cavernes ! Mais Rogash peut soumettre ses frères Trolls à sa volonté."
+"Ils ont un Troll des Cavernes des Neiges ! Mais Gorg peut soumettre ses frères Trolls à sa volonté."
 END
 
 SCRIPT:ANGAngmarEndCineText_01
@@ -56274,7 +56442,7 @@ SCRIPT:ANGAngmarEndCineText_01
 END
 
 SCRIPT:ANGAngmarEndCineText_02
-"DARK RANGER: Votre volonté est nôtre, seigneur redouté, maintenant et à jamais."
+"HERAUT VÁLDGOIL: Votre volonté est nôtre, seigneur redouté, maintenant et à jamais."
 END
 
 SCRIPT:ANGAngmarEndCineText_03
@@ -56303,7 +56471,7 @@ SCRIPT:ANGAngmarCounterattackTimer
 END
 
 SCRIPT:ANGAngmarPlayerLostFortress
-"Les Númenóréens Noirs ont détruit l'une de nos forteresses ! Nous devons fuir, car tout est perdu !"
+"Les Hommes de Carn Dûm ont détruit l'une de nos forteresses ! Nous devons fuir, car tout est perdu !"
 END
 
 SCRIPT:ANGAngmarWKDead
@@ -56318,7 +56486,7 @@ SCRIPT:ANGBarrowDownsIntroText_01
 END
 
 SCRIPT:ANGBarrowDownsIntroText_02
-"ANGMAR OFFICER: La tombe des rois de Cardolan se trouve au sud-ouest. Hwaldar doit se tenir au sommet !"
+"ANGMAR OFFICER: La tombe des rois de Cardolan se trouve au sud-ouest. Úlf doit se tenir au sommet !"
 END
 
 SCRIPT:ANGBarrowDownsIntroText_021
@@ -56326,11 +56494,11 @@ SCRIPT:ANGBarrowDownsIntroText_021
 END
 
 SCRIPT:ANGBarrowDownsIntroText_03
-"Amenez Hwaldar au sommet de la tombe royale de Cardolan et tenez-la jusqu'à ce que le Prince de Cardolan s'expose au combat."
+"Amenez Úlf au sommet de la tombe royale de Cardolan et tenez-la jusqu'à ce que le Prince de Cardolan s'expose au combat."
 END
 
 SCRIPT:ANGBarrowDownsObjectiveText_01
-"Amenez Hwaldar au sommet de la tombe royale de Cardolan."
+"Amenez Úlf au sommet de la tombe royale de Cardolan."
 END
 
 SCRIPT:ANGBarrowDownsObjectiveText_02
@@ -56354,7 +56522,7 @@ SCRIPT:ANGBarrowDownsBonusObjectiveText_01
 END
 
 SCRIPT:ANGBarrowDownsObjectiveComplete_01
-"Hwaldar se tient au sommet de la tombe royale. Les Hommes de Cardolan ne pourront pas supporter longtemps ce défi."
+"Úlf se tient au sommet de la tombe royale. Les Hommes de Cardolan ne pourront pas supporter longtemps ce défi."
 END
 
 SCRIPT:ANGBarrowDownsObjectiveComplete_02
@@ -56382,7 +56550,7 @@ SCRIPT:ANGBarrowDownsHintText_02
 END
 
 SCRIPT:ANGBarrowDownsHintText_03
-"Morgomir est arrivé avec des renforts pour aider à tenir la tombe royale !"
+"Akhôrahil est arrivé avec des renforts pour aider à tenir la tombe royale !"
 END
 
 SCRIPT:ANGBarrowDownsHintText_04
@@ -56414,15 +56582,15 @@ SCRIPT:ANGBarrowDownsHintText_10
 END
 
 SCRIPT:ANGBarrowDownsHintText_11
-"Morgomir a amené des Sorciers, adeptes de la Couronne de Fer imprégnés du pouvoir du Palantir brisé d'Amon Sul !"
+"Akhôrahil a amené des Sorciers, adeptes de la Couronne de Fer imprégnés du pouvoir du Palantir brisé d'Amon Sûl !"
 END
 
 SCRIPT:ANGBarrowDownsHintText_12
-"Nous disposons maintenant des services des Sorciers, adeptes de la Couronne de Fer imprégnés du pouvoir du Palantir brisé d'Amon Sul !"
+"Nous disposons maintenant des services des Sorciers, adeptes de la Couronne de Fer imprégnés du pouvoir du Palantir brisé d'Amon Sûl !"
 END
 
 SCRIPT:ANGBarrowDownsHintText_13
-"Les pouvoirs des Sorciers peuvent guérir nos propres unités, semer la mort parmi nos ennemis et ralentir leurs attaques avec le froid de la mort."
+"Les pouvoirs des Sorciers peuvent invoquer les morts à travers des Pierres de sort, faire s’abattre l’hiver sur nos ennemis, et les disperser par des vents glacials."
 END
 
 SCRIPT:ANGBarrowDownsHintText_14
@@ -56449,6 +56617,14 @@ SCRIPT:ANGBarrowDownsBarrowTimer_01
 "Reprenez la tombe royale dans"
 END
 
+SCRIPT:mabardo_prince001
+"Hommes ! Cette racaille cherche à profaner la mémoire de nos rois ! Ici, ils apprendront la puissance de Cardolan ! Abattez-les jusqu’au dernier ! Au combat !"
+END
+
+SCRIPT:mabardo_ulf001
+"ÚLF : En avant ! Úlf fera couler le sang de Cardolan dans leur tertre !"
+END
+
 //BARROW WIGHTS
 
 ////////////Counters, Timers////////////
@@ -56470,7 +56646,7 @@ SCRIPT:ANGMAR_BarrowWights_ObjectiveText_03_1
 END
 
 SCRIPT:ANGMAR_BarrowWights_ObjectiveText_02
-"Morgomir doit survivre."
+"Akhôrahil doit survivre."
 END
 
 SCRIPT:ANGMAR_BarrowWights_ObjectiveText_03
@@ -56483,7 +56659,7 @@ SCRIPT:ANGMAR_BarrowWights_Hint_ObjectiveText_01
 END
 
 SCRIPT:ANGMAR_BarrowWights_Hint_ObjectiveText_02
-"Morgomir doit survivre."
+"Akhôrahil doit survivre."
 END
 
 SCRIPT:ANGMAR_BarrowWights_Hint_ObjectiveText_03
@@ -56571,24 +56747,32 @@ SCRIPT:ANGMAR_BarrowWights_AngOff_CarthaenSpawn_04
 "OFFICIER D'ANGMAR : Le Capitaine d'Arnor s'est révélé être un adversaire digne et persévérant.\nOublions les esprits en décomposition des pathétiques rois d'Arnor.\nRécompensons le Capitaine Carthaen en complétant le rituel avec son âme à la place !"
 END
 
+SCRIPT:mawight_morg005
+"AKHÔRAHIL : Futilité ! Vous menez une bataille déjà perdue !"
+END
+
 SCRIPT:ANGMAR_BarrowWights_FinalCutScene_Carthaen_01
 "CAPITAINE CARTHAEN : Je ne te crains pas. Tu ne peux que me tuer."
 END
 
+SCRIPT:mawight_kars001
+"KARSH : Je servirai l’Ombre !"
+END
+
 SCRIPT:ANGMAR_BarrowWights_FinalCutScene_Morgomir_01
-"MORGOMIR : <Rires>"
+"AKHÔRAHIL : <Rires>"
 END
 
 SCRIPT:ANGMAR_BarrowWights_FinalCutScene_Morgomir_02
-"MORGOMIR : Quelle parfaite punition pour cet homme."
+"AKHÔRAHIL : Quelle parfaite punition pour cet homme."
 END
 
 SCRIPT:ANGMAR_BarrowWights_FinalCutScene_Morgomir_03
-"MORGOMIR : Son dévouement en vie ne sera égalé que par sa dévotion après la mort."
+"AKHÔRAHIL : Son dévouement en vie ne sera égalé que par sa dévotion après la mort."
 END
 
 SCRIPT:ANGMAR_BarrowWights_FinalCutScene_Morgomir_04
-"MORGOMIR : Que son âme tourmentée traque les chefs de nos ennemis."
+"AKHÔRAHIL : Que son âme tourmentée traque les chefs de nos ennemis."
 END
 
 SCRIPT:ANGMAR_BarrowWights_YouLoseDaybreak
@@ -56598,20 +56782,20 @@ END
 
 //BONUS - DESTRUCTION OF ANGMAR
 
-SCRIPT:ANGBonusMissionIntroText_01
-"GLORFINDEL: Après de nombreuses batailles sanglantes, le Roi-Sorcier a fui devant nous vers les régions arides et lointaines d'Angmar,\noù il a commencé sa quête de vengeance."
+SCRIPT:madestr_elro001
+"ELROND : Le Roi-Sorcier est repoussé jusqu’à son dernier refuge. Ici, en Angmar, il fera son ultime résistance."
 END
 
-SCRIPT:ANGBonusMissionIntroText_02
-"GLORFINDEL: C'est ici qu'il et ses serviteurs livreront leur dernière bataille."
+SCRIPT:madestr_glor001
+"GLORFINDEL : C’est ici qu’il commença sa guerre contre le Nord, et c’est ici qu’elle prendra fin."
 END
 
-SCRIPT:ANGBonusMissionIntroText_03
-"EARNUR: Ensemble, Hommes et Elfes mettront fin au règne de la Couronne de Fer !"
+SCRIPT:madestr_earn001
+"EÄRNUR : Alors qu’il en soit ainsi aujourd’hui ! Ensemble, Hommes et Elfes renverseront la Couronne de Fer !"
 END
 
 SCRIPT:ANGBonusMissionObjectiveText_01
-"Earnur ou Glorfindel doivent survivre."
+"Eärnur ou Glorfindel doivent survivre."
 END
 
 SCRIPT:ANGBonusMissionObjectiveText_02
@@ -56619,15 +56803,19 @@ SCRIPT:ANGBonusMissionObjectiveText_02
 END
 
 SCRIPT:ANGBonusMissionObjectiveText_03
-"Tuez Morgomir, le Lieutenant de Carn Dum, ainsi que sa suite."
+"Tuez Akhôrahil, le Lieutenant de Carn Dum, ainsi que sa suite."
 END
 
 SCRIPT:ANGBonusMissionObjectiveText_04
-"Tuez Karsh, le Spectre Murmurant, et apaisez son âme pour toujours."
+"Abattez Carghûl, le Capitaine des Damnés, et apportez la paix à son âme pour toujours."
+END
+
+SCRIPT:ANGBonusMissionObjectiveText_04
+"Tuez Gorg, le Spectre Murmurant, et apaisez son âme pour toujours."
 END
 
 SCRIPT:ANGBonusMissionObjectiveText_05
-"Tuez Rogash, le Troll du Nord, et tous ceux qui se tiennent à ses côtés."
+"Tuez Gorg, le Troll du Nord, et tous ceux qui se tiennent à ses côtés."
 END
 
 SCRIPT:ANGBonusMissionObjectiveText_06
@@ -56638,64 +56826,136 @@ SCRIPT:ANGBonusMissionObjectiveText_07
 "Trouvez et vainquez le Roi-Sorcier et tous ses sbires."
 END
 
-SCRIPT:ANGBonusMissionScene1Text_01
-"MORGOMIR: Tu es allé assez loin, prince. Je vais répandre ton sang sur la glace d'Angmar."
+SCRIPT:madestr_naglur001
+"Hommes de l’Ouest ! Vous n’irez pas plus loin ! Naglûr vous arrachera la chair des os !"
 END
 
-SCRIPT:ANGBonusMissionScene1Text_02
-"Le chien loyal gronde ! Son maître sera fort déçu."
+SCRIPT:madestr_earn010
+"Orque impie ! Nous purifierons ces terres de votre engeance !"
 END
 
-SCRIPT:ANGBonusMissionScene1Text_03
-"Nous avons tué la main droite du Roi-Sorcier, mais cette vallée recèle encore de plus grands dangers."
+SCRIPT:madestr_elro009
+"Le chef orc est détruit !"
+END
+
+SCRIPT:madestr_glor008
+"Il semble que le Roi-Sorcier enverra ses meilleurs guerriers pour tenter de stopper notre avancée."
+END
+
+SCRIPT:madestr_elro003
+"Le passage devant nous sera lourdement gardé. Nous ne pouvons le franchir sans préparation. Nous devons établir notre camp et nous préparer."
 END
 
 SCRIPT:ANGBonusMissionScene2Text_01
-"KARSH: Mon maître m'ordonne de te réduire au silence. Viens avec moi et meurs pour toujours."
+"Mon maître m'ordonne de te réduire au silence. Viens avec moi et meurs pour toujours."
 END
 
-SCRIPT:ANGBonusMissionScene2Text_02
-"Calme-toi, fils perdu d'Arnor. Notre acier apaisera ton esprit tourmenté."
+SCRIPT:madestr_glor004
+"Paix, fils perdu d’Arnor ! Nos lames apaiseront ton esprit tourmenté !"
 END
 
-SCRIPT:ANGBonusMissionScene2Text_03
-"Il a beaucoup souffert et repose maintenant en tant que véritable Capitaine de Númenor.\nNous avons accompli une grande chose en ce jour."
+SCRIPT:madestr_earn003
+"Il a beaucoup souffert, et s’en va maintenant vers son repos en véritable Capitaine de Númenor. Nous avons accompli une grande chose en ce jour."
+END
+
+SCRIPT:madestr_elro004
+"Ce terrain est conquis, mais nous ne pouvons nous attarder. Nous devons avancer vers la forteresse d’Angmar."
 END
 
 SCRIPT:ANGBonusMissionScene3Text_01
-"ROGASH: Petit Homme aurait dû rester dans la cité blanche. Rogash te montre la force des Trolls !"
+"ROGASH: Petit Homme aurait dû rester dans la cité Blanche. Gorg te montre la force des Trolls !"
 END
 
-SCRIPT:ANGBonusMissionScene3Text_02
-"Ta force est grande, Troll du Nord, mais même toi ne nous empêcheras pas si près du repaire de ton maître."
+SCRIPT:madestr_earn007
+"Soyez vigilants ! L’ennemi a fortifié cette vallée."
 END
 
-SCRIPT:ANGBonusMissionScene3Text_03
-"C'était un adversaire redoutable. Espérons seulement qu'il n'y en aura jamais un autre comme lui."
+SCRIPT:madestr_earn004
+"Ta force est grande, Troll du Nord, mais même toi tu ne nous empêcheras pas d’approcher si près de la tanière de ton maître."
 END
 
-SCRIPT:ANGBonusMissionScene4Text_01
-"Enfin, ses sbires vaincus, son royaume en ruines, le Roi-Sorcier daigne se montrer."
+SCRIPT:madestr_glor005
+"Le troll est détruit !"
 END
 
-SCRIPT:ANGBonusMissionScene4Text_02
-"WITCH-KING: Les légions des morts d'Arnor chantent en silence ma vengeance éternelle. Maintenant, leur destin sera le vôtre."
+SCRIPT:madestr_elro005
+"C’est le moment. Nous devons exploiter notre avantage et frapper la forteresse ennemie tant que nous le pouvons."
 END
 
-SCRIPT:ANGBonusMissionScene4Text_03
-"Le Roi-Sorcier est enfin vaincu ! Une nouvelle paix est venue sur la terre !"
+SCRIPT:ANGBonusMissionScene1Text_01
+"Tu es allé assez loin, petit prince. Je répandrai ton sang sur la glace d’Angmar."
 END
 
-SCRIPT:ANGBonusMissionScene4Text_04
-"Le Roi-Sorcier quitte le champ de bataille ! Vite, éliminez ses sbires !"
+SCRIPT:madestr_earn002
+"Le fidèle chien grogne ! Son maître sera fort déçu."
 END
 
-SCRIPT:ANGBonusMissionScene4Text_05
-"Le Roi-Sorcier est de retour ! Maintenant, nous devons le vaincre une fois pour toutes !"
+SCRIPT:madestr_elro002
+"Spectre maléfique ! Tu périras, toi et ton Maître des Ténèbres !"
+END
+
+SCRIPT:ANGBonusMissionScene1Text_03
+"Nous avons abattu le bras droit du Roi-Sorcier, mais cette vallée recèle encore de plus grands dangers."
+END
+
+SCRIPT:madestr_earn005
+"Enfin, ses serviteurs tombés, son royaume en ruines, le Roi-Sorcier daigne se montrer."
+END
+
+SCRIPT:madestr_wtkg001
+"Les légions des morts d’Arnor chantent silencieusement ma vengeance pour l’éternité. Désormais, ton destin sera le même."
+END
+
+SCRIPT:madestr_earn009
+"Affronte-moi, serviteur de l’Ombre !"
+END
+
+SCRIPT:madestr_wtkg002
+"Fou… tu marches volontairement vers ta perte !"
+END
+
+SCRIPT:madestr_wtkg003
+"Vous ne pouvez arrêter l’Ombre ! Les ténèbres s’étendront !"
+END
+
+SCRIPT:madestr_glor003
+"Angmar tombera en ce jour !"
+END
+
+SCRIPT:madestr_glor007
+"Le Roi-Sorcier quitte le champ de bataille !"
+END
+
+SCRIPT:madestr_elro006
+"Vite, abattez les derniers sinistres piliers d’Angmar !"
+END
+
+SCRIPT:madestr_earn006
+"Le Roi-Sorcier revient ! Nous devons maintenant le vaincre une bonne fois pour toutes !"
+END
+
+SCRIPT:madestr_earn008
+"Nous devons poursuivre le Roi-Sorcier. Il est trop dangereux pour être laissé en vie !"
+END
+
+SCRIPT:madestr_glor006
+"Le Roi-Sorcier est enfin vaincu ! Une nouvelle paix est venue sur ces terres !"
+END
+
+SCRIPT:madestr_glor002
+"Ralliez-vous au Seigneur Elrond !"
+END
+
+SCRIPT:madestr_elro007
+"Eärnur, retraite !"
+END
+
+SCRIPT:madestr_elro008
+"Glorfindel est submergé !"
 END
 
 SCRIPT:ANGBonusMissionHintText_01
-"Soit Earnur, soit Glorfindel doit survivre à cette épreuve finale."
+"Soit Eärnur, soit Glorfindel doit survivre à cette épreuve finale."
 END
 
 SCRIPT:ANGBonusMissionHintText_02
@@ -56745,43 +57005,43 @@ SCRIPT:1STWAVETIMER
 End
 
 SCRIPT:2STWAVETIMER
-"Temps avant l'attaque des Elfes :"
+"Les Elfes attaquent dans :"
 End
 
 SCRIPT:CARNDUM_INITIALATTACK
-"OFFICIER D'ANGMAR : Les Elfes sont arrivés ! Préparez-vous à défendre le fort !"
+"Les Elfes sont arrivés ! Préparez-vous à défendre le fort !"
 End
 
 SCRIPT:Elvesattackgate
-"OFFICIER D'ANGMAR : Ils attaquent la porte principale !"
+"Ils attaquent la porte principale !"
 End
 
 SCRIPT:ElvesAttackWall
-"OFFICIER D'ANGMAR : Ils attaquent le mur affaibli !"
+"Ils attaquent le mur affaibli !"
 End
 
 SCRIPT:ELVESSOON
-"OFFICIER D'ANGMAR : Ils seront bientôt là !"
+"Ils seront bientôt là !"
 End
 
 SCRIPT:ELVESENTERGATE
-"OFFICIER D'ANGMAR : Ils ont franchi la porte !"
+"Ils ont franchi la porte !"
 End
 
 SCRIPT:ELVESENTERWall
-"OFFICIER D'ANGMAR : Ils ont franchi le mur !"
+"Ils ont franchi le mur !"
 End
 
 SCRIPT:ELVELENTER2NDGATE
-"OFFICIER D'ANGMAR : Ils ont percé la porte principale !"
+"Ils ont percé la porte principale !"
 End
 
 SCRIPT:ELVESENTERCITADELGATE
-"OFFICIER D'ANGMAR : Ils attaquent la porte de la citadelle !"
+"Ils attaquent la porte de la citadelle !"
 End
 
 SCRIPT:ElvesAttackingCitadel
-"OFFICIER D'ANGMAR : Les Elfes attaquent la citadelle !"
+"Les Elfes attaquent la citadelle !"
 End
 
 SCRIPT:ELVISHATTACKDRIVENOFF
@@ -56793,19 +57053,19 @@ SCRIPT:SEIGEWEAPONSARRIVE
 End
 
 SCRIPT:CARNDUMOPEN
-"OFFICIER D'ANGMAR : Seigneur de l'effroi, bientôt la forteresse de Carn Dum sera assiégée par l'armée des Elfes et des Hommes."
+"OFFICIER D’ANGMAR : Seigneur redouté, l’ennemi se rassemble à nos portes. Ils se préparent à assiéger Carn Dûm."
 End
 
 SCRIPT:CARNDUMOPEN2
-"OFFICIER D'ANGMAR : Nos éclaireurs signalent que Glorfindel sera bientôt là pour mener l'assaut final contre notre forteresse."
+"OFFICIER D’ANGMAR : Cependant, nos éclaireurs rapportent qu’Elrond de Fondcombe mène une grande armée d’Elfes depuis le sud.\nIls sont en marche et arriveront bientôt."
 End
 
 SCRIPT:CARNDUMOPEN3
-"OFFICIER D'ANGMAR : Et selon vos ordres, Rogash et ses forces attendent à l'ouest votre signal. \n Nous n'avons qu'à allumer le feu d'alarme et il viendra."
+"OFFICIER D’ANGMAR : Comme vous l’avez ordonné, Gorg et ses forces attendent à l’ouest votre signal. \n Il nous suffit d’allumer le feu de signal et il viendra."
 End
 
 SCRIPT:ROGASHARRIVES
-"OFFICIER D'ANGMAR : Rogash est revenu avec son armée !"
+"Gorg est revenu avec son armée !"
 End
 
 SCRIPT:CARNDUMOBJECTIVE1
@@ -56813,7 +57073,7 @@ SCRIPT:CARNDUMOBJECTIVE1
 End
 
 SCRIPT:CARNDUMOBJECTIVE2
-"Capturer le feu d'alarme pour appeler Rogash"
+"Capturer le feu d'alarme pour appeler Gorg"
 End
 
 SCRIPT:CARNDUMOBJECTIVE2PT2
@@ -56837,11 +57097,11 @@ SCRIPT:CARNDUM_FOURTHATTACK
 End
 
 SCRIPT:GETROGASH
-"Rogash et ses forces attendent un signal pour revenir. Si vous souhaitez le convoquer, allumez le feu d'alarme."
+"Gorg et ses forces attendent un signal pour revenir. Si vous souhaitez le convoquer, allumez le feu d'alarme."
 End
 
 SCRIPT:ROGASHTIMER
-"Rogash arrive dans :"
+"Gorg arrive dans :"
 End
 
 SCRIPT:RETAKEAREA
@@ -56865,7 +57125,7 @@ SCRIPT:GLOFINDELSPEEKS
 End
 
 SCRIPT:GLOFINDALSPEEKS2
-"GLORFINDEL : En avant vers la citadelle - Carn Dum tombera aujourd'hui !"
+"En avant vers la citadelle - Carn Dum tombera aujourd'hui !"
 End
 
 SCRIPT:GLOFINDELLEAVES
@@ -56873,11 +57133,11 @@ SCRIPT:GLOFINDELLEAVES
 End
 
 SCRIPT:GLORFINDELCLOSE
-"Mon seigneur, les forces de Glorfindel sont presque arrivées !"
+"Mon seigneur, l'armée d'Elrond est sur le point de nous rattraper !"
 End
 
 SCRIPT:GLORFINDELARRIVES
-"Glorfindel est là !"
+"L'armée d'Elrond est arrivée dans le sud !"
 End
 
 SCRIPT:CARN_DUM_LINDON_ELVES_ARRIVE
@@ -56889,7 +57149,7 @@ SCRIPT:GLOFINDELOBJ
 End
 
 SCRIPT:GLORFINDELOBJHINT
-"Les Elfes tentent une dernière attaque. Détruisez-les ainsi que Glorfindel, et la journée est à nous !"
+"Les Elfes tentent une dernière attaque. Détruisez-les ainsi que Elrond, et la journée est à nous !"
 End
 
 SCRIPT:LULLHINT
@@ -56901,21 +57161,72 @@ SCRIPT:POSTERNHINT
 End
 
 SCRIPT:ROGASHARRIVED
-"Rogash est arrivé pour vous aider à détruire la dernière attaque des Elfes. Cherchez-le au sud."
+"Gorg est arrivé pour vous aider à détruire la dernière attaque des Elfes. Cherchez-le au sud."
 End
 
 SCRIPT:ROGASHNOTREADY
-"Rogash n'est pas encore en position. Il nous avertira dès qu'il sera prêt."
+"Gorg n'est pas encore en position. Il nous avertira dès qu'il sera prêt."
 End
 
 SCRIPT:ROGASHALMOSTREADY
-"Rogash est presque en position pour attaquer les Elfes. Soyez patients - il sera bientôt là !"
+"Gorg est presque en position pour attaquer les Elfes. Soyez patients - il sera bientôt là !"
 End
 
 SCRIPT:SIGNALFIRELIT
 "Le Feu de signalisation a été allumé."
 End
 
+SCRIPT:macarnd_anof022
+"OFFICIER D’ANGMAR : Nous devons préparer la forteresse et organiser nos défenses !"
+END
+
+SCRIPT:macarnd_elro001
+"L’ombre d’Angmar prend fin en ce jour ! Ensemble, nous renverserons leurs murs et les repousserons dans l’Ombre !"
+END
+
+SCRIPT:macarnd_elro002
+"Restez unis ! Nous purifierons les terres de la sorcellerie d’Angmar !"
+END
+
+SCRIPT:macarnd_elro003
+"Maintenez l’assaut ! Nous ne pouvons reculer !"
+END
+
+SCRIPT:macarnd_elro004
+"Seigneur des ombres ! Tu tomberas là où tu te tiens !"
+END
+
+SCRIPT:macarnd_elro005
+"Glorfindel ! Vous êtes en infériorité ! Retirez votre compagnie !"
+END
+
+SCRIPT:macarnd_elro006
+"Repli ! Nous ne pouvons l’emporter ici !"
+END
+
+SCRIPT:macarnd_glor003
+"Seigneur Elrond ! Vous êtes en infériorité ! Retirez votre compagnie ! Je les retiendrai !"
+END
+
+SCRIPT:macarnd_glor004
+"Repli ! Repli ! Cette bataille est perdue, mais nous vivrons pour combattre un autre jour !"
+END
+
+SCRIPT:macarnd_wtkg001
+"ROI-SORCIER : Qu’ils viennent. Ici, nous briserons leurs armées et le Nord connaîtra la véritable puissance d’Angmar."
+END
+
+SCRIPT:macarnd_wtkg002
+"Appelez toutes les légions. Ils ne passeront pas nos murs vivants."
+END
+
+SCRIPT:macarnd_wtkg003
+"La gloire d'Imladris s’éteint… et vous mourrez avec son souvenir !"
+END
+
+SCRIPT:macarnd_roga001
+"Gorg est ici maintenant !"
+END
 
 
 //DARK LORD'S EYE
@@ -56925,7 +57236,11 @@ SCRIPT:ShardRecovered
 End
 
 SCRIPT:Shards_Collected
-"Éclats récupérés :"
+"Fragments collectés d'Angmar : "
+End
+
+SCRIPT:ARNORSHARDCOUNTER
+"Fragments collectés d'Arnor : "
 End
 
 SCRIPT:GOAL_DARKEYE_01
@@ -57009,7 +57324,7 @@ SCRIPT:DARKEYE_OBJ_HINT_06
 END
 
 SCRIPT:RANGERS_ARRIVE_01
-"DARK RANGER: The pursuit force was supposed to be here. Let's set up camp and search the area."
+"OFFICIER D’ANGMAR : The pursuit force was supposed to be here. Let's set up camp and search the area."
 End
 
 SCRIPT:DARKEYE_OBJ_COMP
@@ -57017,11 +57332,11 @@ SCRIPT:DARKEYE_OBJ_COMP
 End
 
 SCRIPT:RECOVER_SHARD_INTRO_02
-"RANGER NOIR : Je peux sentir la puissance dans cet objet. Nous devons le prendre au Roi-Sorcier."
+"OFFICIER D’ANGMAR : Je peux sentir la puissance dans cet objet. Nous devons le prendre au Roi-Sorcier."
 End
 
 SCRIPT:RECOVER_SHARD_INTRO_01
-"MORGOMIR : Je sens une mort dans cet endroit."
+"AKHÔRAHIL : Je sens une mort dans cet endroit."
 End
 
 SCRIPT:RECOVER_SHARD_INTRO_04
@@ -57044,10 +57359,6 @@ SCRIPT:ARNORHASSHARD
 "OFFICIER D'ANGMAR : Arnor a récupéré un éclat !"
 End
 
-SCRIPT:ARNORSHARDCOUNTER
-"Nombre d'éclats d'Arnor :"
-End
-
 SCRIPT:SHARD_RETURN_HINT
 "Envoyez l'unité qui transporte l'éclat de retour à la forteresse pour le déposer."
 End
@@ -57061,27 +57372,27 @@ SCRIPT:DARK_EYE_FAILED
 End
 
 SCRIPT:DARK_EYE_POWER_1
-"MORGOMIR : Nous n'avons aucun pouvoir ici. Il doit y avoir une raison."
+"AKHÔRAHIL : Nous n'avons aucun pouvoir ici. Il doit y avoir une raison."
 End
 
 SCRIPT:DARK_EYE_POWER_2
-"MORGOMIR : Notre force revient."
+"AKHÔRAHIL : Notre force revient."
 End
 
 SCRIPT:DARK_EYE_POWER_3
-"MORGOMIR : Nos pouvoirs nous sont à nouveau accessibles."
+"AKHÔRAHIL : Nos pouvoirs nous sont à nouveau accessibles."
 End
 
 SCRIPT:DARK_EYE_POWER_4
-"MORGOMIR : Oui, encore un et nous serons à nouveau à pleine puissance !"
+"AKHÔRAHIL : Oui, encore un et nous serons à nouveau à pleine puissance !"
 End
 
 SCRIPT:DARK_EYE_POWER_5
-"MORGOMIR : Nos pouvoirs sont à nouveau complets !"
+"AKHÔRAHIL : Nos pouvoirs sont à nouveau complets !"
 End
 
 SCRIPT:DARK_EYE_POWER_6
-"MORGOMIR : Je sens une mort dans cet endroit."
+"AKHÔRAHIL : Je sens une mort dans cet endroit."
 End
 
 SCRIPT:DARK_EYE_3_SHARDS_COLLECTED
@@ -57200,19 +57511,19 @@ SCRIPT:FORNOST_INTRO_3
 End
 
 SCRIPT:FORNOST_BATTLE_END_01
-"OFFICIER D'ARNOR : Le mal ne pénétrera jamais Fornost. EN AVANT !"
+"Le mal ne pénétrera jamais Fornost. EN AVANT !"
 End
 
 SCRIPT:FORNOST_BATTLE_END_GOOD
-"OFFICIER D'ARNOR : Voici le sort qui attend toutes les tentatives de pénétrer dans notre cité !"
+"Voici le sort qui attend toutes les tentatives de pénétrer dans notre cité !"
 End
 
 SCRIPT:FORNOST_BATTLE_END_EVIL
-"OFFICIER D'ARNOR : Retraite ! Retournez à la cité ! Qu'ils affrontent les remparts s'ils veulent aller plus loin !"
+"Retraite ! Retournez à la cité ! Qu'ils affrontent les remparts s'ils veulent aller plus loin !"
 End
 
 SCRIPT:FORNOST_ARCHERS_DEFENSE
-"OFFICIER D'ARNOR : Nous devons tenir la porte ! Archers, commencez à tirer !"
+"Nous devons tenir la porte ! Archers, commencez à tirer !"
 End
 
 SCRIPT:ELF_ATTACK_01
@@ -57228,7 +57539,7 @@ SCRIPT:FORNOST_HINT_BUILD_EVIL
 End
 
 SCRIPT:HOBBIT_ATTACK
-"OFFICIER D'ARNOR : Hobbits ! Arnor a besoin de votre aide ! Attaquez !"
+"Hobbits ! Arnor a besoin de votre aide ! Attaquez !"
 End
 
 SCRIPT:HOBBIT_ATTACK_HINT
@@ -57236,7 +57547,7 @@ SCRIPT:HOBBIT_ATTACK_HINT
 End
 
 SCRIPT:ELF_ATTACK
-"OFFICIER ELFIQUE : Elfes ! Le mal ne doit pas triompher aujourd'hui ! En avant !"
+"Elfes ! Le mal ne doit pas triompher aujourd'hui ! En avant !"
 End
 
 SCRIPT:ELF_ATTACK_HINT
@@ -57248,11 +57559,11 @@ SCRIPT:ELF_CAMP_ATTACK
 End
 
 SCRIPT:PRINCE_RIDES_OUT
-"ARVEDUI : Venez, mes frères ! Partons et vainquons cet ennemi !"
+"Venez, mes frères ! Partons et vainquons cet ennemi !"
 End
 
 SCRIPT:CAVALRY_WARNING
-"OFFICIER D'ANGMAR : Cavalerie ! Protégez les flancs !"
+"Cavalerie ! Protégez les flancs !"
 End
 
 SCRIPT:FORNOST_BLACKSMITH_HINT
@@ -57326,191 +57637,203 @@ End
 //"Anti lag"
 //End
 
-//SCRIPT:HEADS_ON_ROGASH
-//"Rogash Head total:"
-//End
+SCRIPT:HEADS_ON_ROGASH
+"Gorg Head total:"
+End
 
-//SCRIPT:GUNDABAD_OBJ_1
-//"Prevent the Orc Chieftains from winning by collecting 300 Goblin heads"
-//End
+SCRIPT:GUNDABAD_SKULLS_COUNTER
+"Piles de crânes restantes :"
+End
 
-//SCRIPT:GUNDABAD_OBJ_2
-//"Rogash Must Survive"
-//End
+SCRIPT:GUNDABAD_OBJ_1
+"Empêchez les chefs orcs de gagner en collectant 300 têtes de Snaga"
+End
 
-//SCRIPT:GUNDABAD_OBJ_3
-//"Rogash must break 3 Goblin Head piles in the Orc camps"
-//End
+SCRIPT:GUNDABAD_OBJ_2
+"Gorg doit survivre"
+End
 
-//SCRIPT:GUNDABAD_OBJ_5
-//"Dominate a Snow Troll"
-//End
+SCRIPT:GUNDABAD_OBJ_3
+"Gorg doit briser 3 piles de têtes de Snaga dans les camps orcs"
+End
 
-//SCRIPT:GUNDABAD_OBJ_6
-//"Destroy all of the Goblin Battle Towers"
-//End
+SCRIPT:GUNDABAD_OBJ_5
+"Dominez un troll des neiges"
+End
 
-//SCRIPT:GUNDABAD_OBJ_7
-//"Light The Signal Fire"
-//End
+SCRIPT:GUNDABAD_OBJ_6
+"Détruisez toutes les tours de bataille Snaga"
+End
 
-//SCRIPT:ORC_SPOT_ANG_1
-//"There they are! Kill!"
-//End
+SCRIPT:GUNDABAD_OBJ_7
+"Allumez le feu de signal"
+End
 
-//SCRIPT:GUN_INTRO_1
-//"ROGASH: Speak."
-//End
+SCRIPT:ORC_SPOT_ANG_1
+"Les voilà ! Tuez !"
+End
 
-//SCRIPT:GUN_INTRO_5
-//"DARK RANGER: The orcs are engaged in a competition to elect a new leader."
-//End
+SCRIPT:GUN_INTRO_1
+"GORG : Parle."
+End
 
-//SCRIPT:GUN_INTRO_8
-//"DARK RANGER: The first chieftain to kill 250 goblins becomes the new Headman of Gundabad."
-//End
+SCRIPT:GUN_INTRO_5
+"HÉRAUT VÁLDGOIL : Les Orques participent à une compétition pour élire un nouveau chef."
+End
 
-//SCRIPT:GUN_INTRO_2
-//"DARK RANGER: The chieftains are spread throughout the area, killing goblins and each other."
-//End
+SCRIPT:GUN_INTRO_8
+"HÉRAUT VÁLDGOIL : Le premier chef à tuer 250 Snaga devient le nouveau chef de Gundabad."
+End
 
-//SCRIPT:GUN_INTRO_9
-//"DARK RANGER: Some of the leaders have already been eliminated, by both treachery and goblin ambushes."
-//End
+SCRIPT:GUN_INTRO_2
+"HÉRAUT VÁLDGOIL : Les chefs sont dispersés dans la zone, tuant des Snaga et s’entretuant."
+End
 
-//SCRIPT:GUN_INTRO_3
-//"DARK RANGER: It seems the goblins don't like being hunted for sport."
-//End
+SCRIPT:GUN_INTRO_9
+"HÉRAUT VÁLDGOIL : Certains des chefs ont déjà été éliminés, à la fois par trahison et par des embuscades de Snaga."
+End
 
-//SCRIPT:GUN_INTRO_4
-//"ROGASH: Done well. Return unit, look more. I call when needed."
-//End
+SCRIPT:GUN_INTRO_3
+"HÉRAUT VÁLDGOIL : Il semble que les rats Snaga n’aiment pas être chassés pour le sport."
+End
 
-//SCRIPT:GUN_INTRO_6
-//"DARK RANGER: I obey."
-//End
+SCRIPT:GUN_INTRO_4
+"GORG : Bien fait. Retourne à l’unité, observe encore. J’appelle quand besoin."
+End
 
-//SCRIPT:GUN_INTRO_7
-//"ROGASH: Return; tell master that orcs be his soon. You stay. We kill goblins, make game ours."
-//End
+SCRIPT:GUN_INTRO_6
+"HÉRAUT VÁLDGOIL : J’obéis."
+End
 
-//SCRIPT:GUN_INTRO_10
-//"If we kill 300 goblins, none of the orcs can win."
-//End
+SCRIPT:GUN_INTRO_7
+"GORG : Retourne ; dis au maître que les Orques seront bientôt à lui. Toi reste. On tue Snaga, on gagne le jeu."
+End
 
-//SCRIPT:GUN_INTRO_11
-//"And as per your orders, reinforcements await your summons. You need only light the signal fire and they will come."
-//End
+SCRIPT:GUN_INTRO_10
+"Si nous tuons 300 Snaga, aucun des Orques ne pourra gagner."
+End
 
-//SCRIPT:TROLL_TO_BIG
-//"Run! There's better hunting elsewhere!"
-//End
+SCRIPT:GUN_INTRO_11
+"HÉRAUT VÁLDGOIL : Et selon vos ordres, des renforts attendent votre appel. \n Il suffit d’allumer le feu de signal et ils viendront."
+End
 
-//SCRIPT:GUN_END_01
-//"(raised Voices and Arguing)"
-//End
+SCRIPT:TROLL_TO_BIG
+"Fuyez ! Il y a de meilleures proies ailleurs !"
+End
 
-//SCRIPT:GUN_END_01
-//"ORC CHIEFTAINS: No one has enough. I have the most...No! I should lead!... Bah! You could never lead!...If not me, who then?"
-//End
+SCRIPT:GUN_END_01
+"(voix élevées et disputes)"
+End
 
-//SCRIPT:GUN_END_02
-//"ROGASH: Strongest Leads."
-//End
+SCRIPT:GUN_END_01X
+"CHEFS ORCS : Personne n’en a assez. J’en ai le plus...Non ! Je devrais diriger !... Bah ! Tu ne pourrais jamais diriger !... Si ce n’est pas moi, alors qui ?"
+End
 
-//SCRIPT:GUN_END_03
-//"ORC CHIEFTAIN: Gundabad will never follow a troll!"
-//End
+SCRIPT:GUN_END_02
+"GORG : Le plus fort dirige."
+End
 
-//SCRIPT:GUN_END_04
-//"ROGASH: Not me. Dark King!"
-//End
+SCRIPT:GUN_END_03
+"CHEF ORC : Gundabad ne suivra jamais un Troll !"
+End
 
-//SCRIPT:GOBLIN_TOWERS_01
-//"Those towers might have archers in them. Destroy the towers to get them out!"
-//End
+SCRIPT:GUN_END_04
+"GORG : Pas moi. Roi Noir !"
+End
 
-//SCRIPT:WARG_ATTACK_01
-//"The troll is coming this way. Don't let him kill any more goblins. Stop Him!"
-//End
+SCRIPT:magunda_wtkg001
+"ROI-SORCIER : Vos prétentions insignifiantes ne sont que poussière. Ces terres désolées appartiennent à la Couronne de Fer.\nVous marcherez sous ma bannière… ou vos os seront oubliés dans la glace"
+End
 
-//SCRIPT:GOB_CAMP_2_RUN
-//"RUN! Then let the spiderlings take care of them!"
-//End
+SCRIPT:GOBLIN_TOWERS_01
+"Ces tours pourraient abriter des archers. Détruisez-les pour les en faire sortir !"
+End
 
-//SCRIPT:SNOW_TROLLS_SEEN
-//"Those snow trolls would be welcome in our ranks. Use Rogash's Dominate Troll power to take them over."
-//End
+SCRIPT:WARG_ATTACK_01
+"Le Troll arrive par ici. Ne le laissez pas tuer davantage de Snaga. Arrêtez-le !"
+End
 
-//SCRIPT:GUN_OBJECTIVE_BOX
-//"You must kill at least 300 goblins to upset the competition."
-//End
+SCRIPT:GOB_CAMP_2_RUN
+"Fuyez ! Que les araignées de glace s’occupent d’eux !"
+End
 
-//SCRIPT:GUN_RUNAWAY_GOBS
-//"What's that! Back to the camp! RUN!"
-//End
+SCRIPT:SNOW_TROLLS_SEEN
+"Ces trolls des neiges seraient les bienvenus dans nos rangs. Utilisez le pouvoir Domination de Troll de Gorg pour les prendre."
+End
 
-//SCRIPT:ALL_TOWERS_GONE
-//"All of the Battle Towers have been destroyed."
-//End
+SCRIPT:GUN_OBJECTIVE_BOX
+"Vous devez tuer au moins 300 Snaga pour perturber la compétition."
+End
 
-//SCRIPT:TROLL_OBJECTIVE_COMPLETE
-//"Bonus Objective: Dominate Troll Completed"
-//End
+SCRIPT:GUN_RUNAWAY_GOBS
+"Qu’est-ce que c’est ! Retour au camp ! COUREZ !"
+End
 
-//SCRIPT:GUNDABAD_ORC_AMBUSH_01
-//"Now you die, troll!"
-//End
+SCRIPT:ALL_TOWERS_GONE
+"Toutes les tours de bataille ont été détruites."
+End
 
-//SCRIPT:GOBLIN_AMBUSH
-//"More for the SLAUGHTER!"
-//End
+SCRIPT:TROLL_OBJECTIVE_COMPLETE
+"Objectif bonus : Domination de Troll accomplie"
+End
 
-//SCRIPT:ORC_CHIEF_02_DEAD
-//"An orc chieftain has been removed from the competition."
-//End
+SCRIPT:GUNDABAD_ORC_AMBUSH_01
+"Maintenant tu meurs, Troll !"
+End
 
-//SCRIPT:GOBBO_CAMP_5_SEE
-//"Here they come! Get them!"
-//End
+SCRIPT:GOBLIN_AMBUSH
+"Encore de la chair pour le massacre !"
+End
 
-//SCRIPT:GUNDABAD_ORC_AMBUSH
-//"The intruder is here! Kill them! Kill the goblins!"
-//End
+SCRIPT:ORC_CHIEF_02_DEAD
+"Un chef orc a été éliminé de la compétition."
+End
 
-//SCRIPT:2ND_WARG_AMBUSH
-//"The Intruders are here! Kill them!"
-//End
+SCRIPT:GOBBO_CAMP_5_SEE
+"Les voilà ! Attrapez-les !"
+End
 
-//SCRIPT:KILL_THE_HEAD_PILES
-//"These must be the heads the orcs have already collected. Crush them and any others you may find."
-//End
+SCRIPT:GUNDABAD_ORC_AMBUSH
+"L’intrus est ici ! Tuez-les ! Tuez les Snaga !"
+End
 
-//SCRIPT:GOBLIN_Highway_AMBUSH
-//"Get them!"
-//End
+SCRIPT:2ND_WARG_AMBUSH
+"Les intrus sont là ! Tuez-les !"
+End
 
-//SCRIPT:RANGERS_ARRIVE
-//"Commander - just south of here lies a large goblin camp, well defended by towers and troops."
-//End
+SCRIPT:KILL_THE_HEAD_PILES
+"Les crânes de Snaga se trouvent dans leurs camps. Écrasez-les tous !"
+End
 
-//SCRIPT:GUNDABAD_HEADPILES_DESTROYED
-//"All Head Piles Destroyed"
-//End
+SCRIPT:GOBLIN_Highway_AMBUSH
+"Attrapez-les !"
+End
 
-//SCRIPT:GUNDABAD_SIGNALFIRE_REMINDER
-//"Light The Signal Fire to summon Reinforcements."
-//End
+SCRIPT:RANGERS_ARRIVE
+"Les Snaga se rassemblent en nombre juste au sud d’ici. Leur camp est solide et bien défendu."
+End
 
-//SCRIPT:GUNDABAD_FORCES_ARRIVE
-//"Your forces will be here soon."
-//End
+SCRIPT:GUNDABAD_HEADPILES_DESTROYED
+"Toutes les piles de têtes ont été détruites"
+End
+
+SCRIPT:GUNDABAD_SIGNALFIRE_REMINDER
+"Allumez le feu de signal pour appeler des renforts."
+End
+
+SCRIPT:GUNDABAD_FORCES_ARRIVE
+"Vos forces arriveront bientôt."
+End
 
 
 //RHUDAUR
 
+SCRIPT:marhuda_wtkg004
+"ROI-SORCIER : Rhudaur… ces terres connaîtront l’ombre d’Angmar."
+END
+
 SCRIPT:ANGRhudaurIntroText_01
-"OFFICIER D'ANGMAR : Avant que Hwaldar ne soit capturé, il a secrètement rassemblé des partisans dans les collines. Même maintenant, nos agents marchent parmi eux."
+"OFFICIER D'ANGMAR : Avant que Úlf ne soit capturé, il a secrètement rassemblé des partisans dans les collines. Même maintenant, nos agents marchent parmi eux."
 END
 
 SCRIPT:ANGRhudaurIntroText_02
@@ -57518,11 +57841,31 @@ SCRIPT:ANGRhudaurIntroText_02
 END
 
 SCRIPT:ANGRhudaurIntroText_03
-"OFFICIER D'ANGMAR : Si nous libérons Hwaldar de l'avant-poste d'Arnor au sud avant de soulever la rébellion dans les villages, plus de Hillmen se joindront à nous."
+"OFFICIER D'ANGMAR : Si nous libérons Úlf de l'avant-poste d'Arnor au sud avant de soulever la rébellion dans les villages, plus de Hillmen se joindront à nous."
 END
 
 SCRIPT:ANGRhudaurIntroText_04
-"HILLMAN DE RHUDAUR : Le Roi-Sorcier est ici, et nous sommes avec lui !"
+"JURÉ DE CARN DÛM : Le Roi-Sorcier est ici, et nous sommes avec lui !"
+END
+
+SCRIPT:marhuda_wtkg005
+"Laissez les Hommes des collines choisir. Ceux qui se soumettent serviront. Les autres seront balayés !"
+END
+
+SCRIPT:marhuda_hillm003
+"Nous combattrons pour le Roi-Sorcier !"
+END
+
+SCRIPT:marhuda_hillm004
+"Nous combattons pour la Couronne de Fer !"
+END
+
+SCRIPT:marhuda_hillm005
+"Nous marcherons pour Angmar !"
+END
+
+SCRIPT:marhuda_hillm006
+"Nous nous tenons aux côtés du seigneur redouté !"
 END
 
 SCRIPT:ANGRhudaurObjectiveText_01
@@ -57530,7 +57873,7 @@ SCRIPT:ANGRhudaurObjectiveText_01
 END
 
 SCRIPT:ANGRhudaurObjectiveText_02
-"Libérez Hwaldar des griffes d'Arnor."
+"Libérez Úlf des griffes d'Arnor."
 END
 
 SCRIPT:ANGRhudaurObjectiveText_03
@@ -57566,7 +57909,7 @@ SCRIPT:ANGRhudaurObjectiveComplete_01
 END
 
 SCRIPT:ANGRhudaurObjectiveComplete_02
-"Nous avons libéré Hwaldar de sa captivité."
+"Nous avons libéré Úlf de sa captivité."
 END
 
 SCRIPT:ANGRhudaurObjectiveComplete_03
@@ -57610,7 +57953,7 @@ SCRIPT:ANGRhudaurHintText_05
 END
 
 SCRIPT:ANGRhudaurHintText_06
-"Nous avons nettoyé ce village de tous sauf les partisans d'Hwaldar."
+"Nous avons nettoyé ce village de tous sauf les partisans de Úlf."
 END
 
 SCRIPT:ANGRhudaurHintText_07
@@ -57638,7 +57981,7 @@ SCRIPT:ANGRhudaurHintText_13
 END
 
 SCRIPT:ANGRhudaurHintText_14
-"Hwaldar est retenu captif dans l'une des tours de cet avant-poste ! Détruisez sa prison pour le libérer !"
+"Úlf est retenu captif dans l'une des tours de cet avant-poste ! Détruisez sa prison pour le libérer !"
 END
 
 SCRIPT:ANGRhudaurHintText_15
@@ -57654,7 +57997,7 @@ SCRIPT:ANGRhudaurHintText_17
 END
 
 SCRIPT:ANGRhudaurHintText_18
-"Hwaldar Hillchief est libre ! Mort aux Dúnedains !"
+"Úlf le Váldúgr est libre ! Mort aux Dúnedains !"
 END
 
 SCRIPT:ANGRhudaurHintText_19
@@ -57662,7 +58005,7 @@ SCRIPT:ANGRhudaurHintText_19
 END
 
 SCRIPT:ANGRhudaurHintText_20
-"Le mal ne régnera jamais en Rhudaur ! Mort à Hwaldar et à son sombre maître !"
+"Le mal ne régnera jamais en Rhudaur ! Mort à Úlf et à son sombre maître !"
 END
 
 SCRIPT:ANGRhudaurHintText_21
@@ -57675,6 +58018,30 @@ END
 
 SCRIPT:ANGRhudaurHintText_23
 "Plus de Hillmen ont rallié notre bannière !"
+END
+
+SCRIPT:ANGRhudaurHintText_24
+"Leur roi s’avance ! Son sang souillera la terre !"
+END
+
+SCRIPT:ANGRhudaurHintText_25
+"Váldgoil ! Le roi de Glace et des Ténèbres commande ! Suivez votre chef et écrasez les Dúnedain !"
+END
+
+SCRIPT:ANGRhudaurHintText_26
+"Le Váldúgr est libre ! Faites couler leur sang !"
+END
+
+SCRIPT:ANGRhudaurHintText_27
+"Tes chaînes sont brisées, Úlf. Lève-toi et prends ta place à mes côtés. Ensemble, nous balaierons les Dúnedain de ces terres."
+END
+
+SCRIPT:ANGRhudaurHintText_28
+"Le Váldúgr se tiendra aux côtés du roi de Glace et des Ténèbres !"
+END
+
+SCRIPT:ANGRhudaurHintText_29
+"Bien. Maintenant, nous marchons vers les tribus des collines. Elles s’inclineront devant la Couronne de Fer."
 END
 
 ////END OF MISSION STRINGS////
@@ -58324,7 +58691,7 @@ SUBTITLE:BABME_05
 END
 
 SUBTITLE:BABME_06
-"Earnur se précipita pour le poursuivre, mais je réalisai alors sa puissance."
+"Eärnur se précipita pour le poursuivre, mais je réalisai alors sa puissance."
 END
 
 SUBTITLE:BABME_07
@@ -58332,7 +58699,7 @@ SUBTITLE:BABME_07
 END
 
 SUBTITLE:BABME_08
-"J'ai levé la main et crié à Earnur : 'Ne le poursuis pas ! Il ne reviendra pas dans ces terres'."
+"J'ai levé la main et crié à Eärnur : 'Ne le poursuis pas ! Il ne reviendra pas dans ces terres'."
 END
 
 SUBTITLE:BABME_09
@@ -58348,7 +58715,7 @@ SUBTITLE:BABMO_02
 END
 
 SUBTITLE:BABMO_03
-"Earnur de Gondor conduira les Hommes. Les Elfes appellent Glorfindel, seigneur elfe de Fondcombe et de Gondolin, à les guider."
+"Eärnur de Gondor conduira les Hommes. Les Elfes appellent Glorfindel, seigneur elfe de Fondcombe et de Gondolin, à les guider."
 END
 
 SUBTITLE:BABMO_04
@@ -58356,7 +58723,7 @@ SUBTITLE:BABMO_04
 END
 
 SUBTITLE:BABMO_05
-"Je chevauche, Elrond à mes côtés, sous la bannière d'Earnur. Elfes et Hommes ensemble chasseront le mal du Nord pour toujours."
+"Je chevauche, Elrond à mes côtés, sous la bannière d'Eärnur. Elfes et Hommes ensemble chasseront le mal du Nord pour toujours."
 END
 
 SUBTITLE:BABMO_06
@@ -58460,11 +58827,11 @@ SUBTITLE:BAM1O_04
 END
 
 SUBTITLE:BAM30_03
-"Ils sont dirigés par Hwaldar, un chef de colline en ligue secrète avec Angmar."
+"Ils sont dirigés par Úlf, un chef de colline en ligue secrète avec Angmar."
 END
 
 SUBTITLE:BAM30_04
-"Pour écraser cette résistance, Argeleb fait capturer Hwaldar et avance vers Rhudaur."
+"Pour écraser cette résistance, Argeleb fait capturer Úlf et avance vers Rhudaur."
 END
 
 SUBTITLE:BAM30_07
@@ -58480,7 +58847,7 @@ SUBTITLE:BAM3E_02
 END
 
 SUBTITLE:BAM3E_03
-"Hwaldar prend sa place en tant que commandant de premier plan au service de la Couronne de Fer,"
+"Úlf prend sa place en tant que commandant de premier plan au service de la Couronne de Fer,"
 END
 
 SUBTITLE:BAM3E_04
@@ -58576,7 +58943,7 @@ SUBTITLE:BAM5O_03
 END
 
 SUBTITLE:BAM60_06
-"Le Roi-Sorcier donne l'ordre à ses lieutenants éprouvés, Hwaldar et Rogash, de s'emparer de la terre la plus sacrée d'Arnor, les Barrow Downs."
+"Le Roi-Sorcier donne l'ordre à ses lieutenants éprouvés, Úlf et Gorg, de s'emparer de la terre la plus sacrée d'Arnor, les Barrow Downs."
 END
 
 SUBTITLE:BAM6E_01
@@ -58760,7 +59127,7 @@ SUBTITLE:CAC12_01
 END
 
 SUBTITLE:CAC13_01
-"À cette réunion, le Roi-Sorcier envoie son lieutenant le plus redoutable, Rogash, Troll du Nord,"
+"À cette réunion, le Roi-Sorcier envoie son lieutenant le plus redoutable, Gorg, Troll du Nord,"
 END
 
 SUBTITLE:CAC13_02
@@ -58768,7 +59135,7 @@ SUBTITLE:CAC13_02
 END
 
 SUBTITLE:CAC14_01
-"Grâce au pouvoir et à la sauvagerie de Rogash, le Mont Gundabad s'est rendu."
+"Grâce au pouvoir et à la sauvagerie de Gorg, le Mont Gundabad s'est rendu."
 END
 
 SUBTITLE:CAC14_02
@@ -58798,7 +59165,7 @@ END
 
 BANNERUI:IsengardWildmenAxe
 // Plural name of the Isengard Wildman Axe thrower displayed in the army summary for WotR
-"Lanceurs de hâches du Pays de Dun"
+"Tirailleurs du Pays de Dun"
 END
 
 
@@ -58924,7 +59291,7 @@ END
 
 CONTROLBAR:ConstructFireDrake
 //"Summon &Fire Drake"
-"Wyrm de feu [&Z]"
+"Drake de feu [&Z]"
 END
 
 CONTROLBAR:HeroicStatueBuild
@@ -58970,9 +59337,9 @@ CONTROLBAR:ToolTipBuildGoodBombardShip
 End
 
 CONTROLBAR:ToolTipEarnurLeadership
-//"Requiert : niveau 4\n Les alliés proches d'Earnur gagnent +50% dégâts, +50% armure, et gagnent de l'expérience deux fois plus rapidement.\n\n Capacité passive       Ne peut pas s'utiliser avec d'autres bonus"
-//"Requiert : niveau 4\n Les alliés proches d'Earnur gagnent +33% dégâts, +33% armure, et gagnent de l'expérience deux fois plus rapidement.\n\n Capacité passive"
-"Requiert : niveau 4\n Les alliés proches d'Earnur gagnent +33% dégâts, +33% armure, et gagnent de l'expérience 50% plus rapidement.\n\n Capacité passive"
+//"Requiert : niveau 4\n Les alliés proches d'Eärnur gagnent +50% dégâts, +50% armure, et gagnent de l'expérience deux fois plus rapidement.\n\n Capacité passive       Ne peut pas s'utiliser avec d'autres bonus"
+//"Requiert : niveau 4\n Les alliés proches d'Eärnur gagnent +33% dégâts, +33% armure, et gagnent de l'expérience deux fois plus rapidement.\n\n Capacité passive"
+"Requiert : niveau 4\n Les alliés proches d'Eärnur gagnent +33% dégâts, +33% armure, et gagnent de l'expérience 50% plus rapidement.\n\n Capacité passive"
 END
 
 CONTROLBAR:ToolTipToggleTowerGuardPorcupineToLineFormation
@@ -60007,7 +60374,7 @@ CONTROLBAR:PurchaseUpgradeIsengardTorches
 End
 
 OBJECT:IsengardWildmanAxeHorde
-"Lanceurs de hâches du Pays de Dun"
+"Tirailleurs du Pays de Dun"
 END
 
 CONTROLBAR:TooltipWargRiderHowl
@@ -60649,12 +61016,12 @@ END
 
 OBJECT:BabyFireDrake
 //"Couvée de Drakes de feu"
-"Couvée de Wyrms de feu"
+"Couvée de Drake de feu"
 END
 
 OBJECT:HordeWildBabyDrake
 //"Couvée de Drakes de feu"
-"Horde de Couvées de Wyrms de feu "
+"Horde de Couvées de Drakes de feu "
 END
 
 CONTROLBAR:ToolTipWildBabyDrakeHorde
@@ -60663,7 +61030,7 @@ CONTROLBAR:ToolTipWildBabyDrakeHorde
 END
 
 CONTROLBAR:ToolTipWildDrake
-"Le Wyrm des Cavernes est un prédateur souterrain crâcheur de feu qui réside dans les endroits les plus sombres et froids des entrailles de la terre. Bien que dépourvus d'ailes et plus petits que les dragons, les Wyrms font partie des créatures les plus dangereuses de la Terre du Milieu. \n\n Limitées à 4 unités seulement. \n Forts contre l'infanterie et les structures."
+"Apprivoisez un Wyrm sauvage cracheur de feu\n\n Limité à 2 \n Progéniture du Nord augmente la limite à 4\nFort contre l’infanterie et les structures \n \n Bien qu’incapables de voler et plus petits que les Dragons, les Drakes de feu sont considérés comme parmi les créatures les plus dangereuses de la Terre du Milieu."
 END
 
 CONTROLBAR:ToolTipSpecialAbilityFireDrakeInferno
@@ -61088,6 +61455,10 @@ CONTROLBAR:TooltipAvalanche
 //"Invoque une avalanche qui endommagera les ennemis et éteindra les incendies\nClic gauche sur l'icône puis clic gauche sur la zone cible"
 //"Invoque une avalanche qui endommagera les ennemis\nClic gauche sur l'icône puis clic gauche sur la zone cible"
 "Invoque une avalanche qui endommagera les ennemis et éteindra les incendies\n Fort contre les unités \n Type de modificateur : Sort \n Les unités ennemies qui traversent le champ de neige subissent -33 % de vitesse \n Icône clic gauche puis clic gauche sur la zone cible"
+End
+
+CONTROLBAR:TooltipAvalancheAngmar
+"Invoque une avalanche qui inflige des dégâts aux unités et structures ennemies\n Fort contre les structures \n Type de modification : sort \n Les unités ennemies traversant le champ de neige subissent -33% de vitesse \n\n Temps de recharge : 12 min \n Clic gauche sur l’icône puis clic gauche sur la zone ciblée"
 End
 
 
@@ -63249,7 +63620,7 @@ Version:Format2
 //"Age of the Ring Version 8.3.1"
 //"Age of the Ring Version 9.1.4"
 //"Age of the Ring Version 9.2.1"
-"Age of the Ring Version 9.2.2"
+"Age of the Ring Version 9.3"
 END
 
 Version:Format3
@@ -63792,10 +64163,17 @@ CONTROLBAR:ConstructWildGundabadArcherHorde
 "Gund&abad  Archers"
 End
 
-CONTROLBAR:ToolTipBuildWildGundabadArcherHorde
-"Nécessite le niveau 2 Gundabad Pit \n Strong vs Swordsmen \n Peut tirer des flèches barbelées \n \n Redoutés dans tout l'Eriador, ces chasseurs d'hommes des montagnes ont la réputation d'être cruels et impitoyables dans la traque de leur proie."
+CONTROLBAR:ConstructAngmarGundabadArcherHorde
+"Chasseurs de Gundabad (&W)"
 End
 
+CONTROLBAR:ToolTipBuildWildGundabadArcherHorde
+"Requiert le niveau 2 Gundabad Pit \n Strong vs Swordsmen \n Peut tirer des flèches barbelées \n \n Redoutés dans tout l'Eriador, ces chasseurs d'hommes des montagnes ont la réputation d'être cruels et impitoyables dans la traque de leur proie."
+End
+
+CONTROLBAR:ToolTipBuildAngmarGundabadArcherHorde
+"Fort contre l’infanterie et les monstres \n Peut tirer des flèches barbelées \n \n Craints dans tout l’Eriador, ces chasseurs d’hommes orcs des montagnes ont la réputation d’être cruels et impitoyables dans la traque de leurs proies."
+End
 
 //------------ Lug the Mauled ---------------
 
@@ -64026,8 +64404,7 @@ CONTROLBAR:ConstructFireWyrmLair
 END
 
 CONTROLBAR:ToolTipConstructFireWyrmLair
-//"Allows the recruitment of Wyrms and Giant Bats \n Increases command point limit by 25"
-"Nécessite la mise à niveau Couvée du Nord \n Apprivoise les Wyrms et les Drakes de glaces"
+"Apprivoise les Wyrms et les Drakes de froid"
 END
 
 CONTROLBAR:UpgradeFireWyrmLairLevel2
@@ -64047,10 +64424,10 @@ Upgrade:FireWyrmLairLevel3
 END
 
 CONTROLBAR:ToolTipBuildFireWyrmLairLevel2Upgrade
-"Permet d'apprivoiser les drakes de glaces et de rechercher l'armure Wyrm\n+10 % de vitesse de construction plus rapide"
+"Permet d'apprivoiser les drakes de glaces\n+10 % de vitesse de construction plus rapide"
 END
 CONTROLBAR:ToolTipBuildFireWyrmLairLevel3Upgrade
-"Les Wyrms de feu et Drakes des glaces alliés proches de la Tanière sont soignés passivement au fil du temps\n+25% de vitesse de construction"
+"Les Drakes de feu et Drakes des glaces alliés proches de la Tanière sont soignés passivement au fil du temps\n+25% de vitesse de construction"
 END
 
 //------------ Cerin Amroth ---------------
@@ -65892,11 +66269,11 @@ CONTROLBAR:LW_Unit_MordorEasterlingArcherHorde
 END
 
 CONTROLBAR:LW_ToolTip_MordorEasterlingArcherHorde
-"Archers du Grand Khân\nType d'unité : Archers d'élite\nPuissants contre les archers"
+"Archers du Grand Khân\nType d'unité : Archers d'élite\nPuissants contre l'infanterie"
 END
 
 CONTROLBAR:ToolTipBuildMordorEasterlingArcherHorde
-"Archers du Grand Khân\nNécessite le niveau 2 de la garnison des Easterlings\nPuissants contre les archers\n\nLes Khân-yûn-âkhax étaient des tireurs d'élite hautement entraînés qui portaient des arcs de guerre lourds et des carquois remplis de flèches barbelées, faisant pleuvoir la mort sur l'ennemi même lorsque la phalange avançait."
+"Archers du Grand Khân\nNécessite le niveau 2 de la garnison des Easterlings\nPuissants contre l'infanterie\n\nLes Khân-yûn-âkhax étaient des tireurs d'élite hautement entraînés qui portaient des arcs de guerre lourds et des carquois remplis de flèches barbelées, faisant pleuvoir la mort sur l'ennemi même lorsque la phalange avançait."
 END
 
 CONTROLBAR:ConstructMordorEasterlingArcherHorde_Rhun
@@ -65904,11 +66281,11 @@ CONTROLBAR:ConstructMordorEasterlingArcherHorde_Rhun
 END
 
 CONTROLBAR:ToolTipBuildMordorEasterlingArcherHorde_Rhun
-"Archers du Grand Khân\nNécessite le niveau 2 de l'atelier d'archerie\nPuissants contre les archers\n\nLes Khân-yûn-âkhax étaient des tireurs d'élite hautement entraînés qui portaient des arcs de guerre lourds et des carquois remplis de flèches barbelées, faisant pleuvoir la mort sur l'ennemi même lorsque la phalange avançait."
+"Archers du Grand Khân\nNécessite le niveau 2 de l'atelier d'archerie\nPuissants contre l'infanteries\n\nLes Khân-yûn-âkhax étaient des tireurs d'élite hautement entraînés qui portaient des arcs de guerre lourds et des carquois remplis de flèches barbelées, faisant pleuvoir la mort sur l'ennemi même lorsque la phalange avançait."
 END
 
 CONTROLBAR:LW_ToolTipBuild_MordorEasterlingArcherHorde
-"Type d'unité : Archers d'élite\nPuissants contre les archers\n"
+"Type d'unité : Archers d'élite\nPuissants contre l'infanteries\n"
 END
 //------------ Easterling Axemen ---------------
 OBJECT:EasterlingAxeman
@@ -67218,6 +67595,14 @@ CONTROLBAR:TooltipGolfimbulLeadership
 "Type d'Action : Charisme. \n Les Wargs et la cavalerie proches de Golfimbul gagnent +25% de dégâts, +15% de vitesse et gagnent de l'expérience 50% plus rapidement (bonus cumulable). \n\n Capacité passive."
 END
 
+CONTROLBAR:GolfimbulLeadershipMount
+"Chef du Mont Gram (&W)"
+END
+
+CONTROLBAR:TooltipGolfimbulLeadershipMount
+"Clic gauche pour activer/désactiver la monture\nType de modification : Charisme \nLes Wargs et la cavalerie à proximité gagnent\n +25% de dégâts, +15% de vitesse et gagnent de l’expérience 50% plus rapidement\n Capacité passive"
+END
+
 CONTROLBAR:GolfimbulWargSummon
 "Loups Blancs de Fo&rochel"
 END
@@ -67307,7 +67692,7 @@ CONTROLBAR:SpecialAbilitySummonWyrm
 END
 
 CONTROLBAR:ToolTipSpecialAbilitySummonWyrm
-"Requiert l'amélioration Allégeance : Immondices du Nord. \n Invoque temporairement un Wyrm de feu. \n\n Clic gauche sur l'icone puis clic gauche sur la zone cible."
+"Requiert l'amélioration Allégeance : Immondices du Nord. \n Invoque temporairement un drake de feu. \n\n Clic gauche sur l'icone puis clic gauche sur la zone cible."
 END
 
 CONTROLBAR:PurchaseUpgradeDolFortressBanners
@@ -67765,7 +68150,7 @@ CONTROLBAR:ConstructWildRisenDeadHorde
 END
 
 CONTROLBAR:ConstructWildRisenDeadHordeAdventureAngmar
-"Mort-vivants d'Arnor [&E]"
+"Mort-vivants d'Arnor [&W]"
 END
 
 CONTROLBAR:ToolTipBuildWildRisenDeadHorde
@@ -68051,6 +68436,10 @@ END
 
 CONTROLBAR:ToolTipBuildElvenAmrothKnightHorde
 "Chevaliers d'Amroth Amdírion\nNécessite le Niveau 2 du Sanctum Caché\nCavalerie d'élite\nEfficaces contre les archers\n\nBien que leur Roi ait disparu depuis longtemps, ces nobles Sindarins continuent de respecter leurs serments et de chevaucher vaillamment pour défendre Lórien en tant que garde personnelle d'Amroth."
+END
+
+CONTROLBAR:ToolTipBuildElvenAmrothKnightHordeLA
+"Cavaliers d’Amroth Amdírion\n Nécessite l’Étendard de Lórinand niveau 2\nCavalerie d’élite \nFort contre les archers \n \n Ces nobles sindar sont liés par serment à défendre le royaume de Lórinand et servent de garde personnelle du roi."
 END
 
 CONTROLBAR:LW_ToolTipBuild_ElvenAmrothKnightHorde
@@ -68358,7 +68747,7 @@ CONTROLBAR:ThingsthatAre
 "Choses qui sont [&Z]"
 END
 CONTROLBAR:ToolTipBuildThingsthatAre
-"Augmente la vitesse de production des Levy sylvains, Sentinels sylvains, Éclaireurs sylvains, Sentiers de la Voie, Sentinelles de Cerin Amroth et Gardes-frontières de 100% pendant 45 secondes"
+"Augmente la vitesse de production des Levy sylvains, Sentinels sylvains, Éclaireurs sylvains, Sentiers de la Voie, Sentinelles de Cerin Amroth et Gardes-frontières de 100% pendant 55 secondes"
 END
 CONTROLBAR:LordOfHavens
 "Seigneur &des Havres"
@@ -68636,6 +69025,14 @@ OBJECT:HordeIsengardDunlandArcher
 "Archers Dunlendings"
 END
 
+OBJECT:IsengardDunlandArcher_Rhudaur
+"Archer long de Rhudaur"
+END
+
+OBJECT:HordeIsengardDunlandArcher_Rhudaur
+"Archers longs de Rhudaur"
+END
+
 CONTROLBAR:ConstructIsengardDunlandArcherHorde
 "Arch&ers Dunlendings"
 END
@@ -68776,6 +69173,14 @@ END
 
 OBJECT:DunlandAxemenHorde
 "Porteurs de Haches Dunlending"
+END
+
+OBJECT:IsengardDunlandAxeman_Rhudaur
+"Porteurs de Haches de Rhudaur"
+END
+
+OBJECT:DunlandAxemenHorde_Rhudaur
+"Porteurs de Haches de Rhudaur"
 END
 
 CONTROLBAR:ConstructIsengardDunlandAxemenHorde
@@ -69428,15 +69833,15 @@ CONTROLBAR:WyrmSlayerBeastslayer
 END
 
 CONTROLBAR:ToolTipWyrmSlayerBeastslayer
-"Requiert niveau 3\n Les coups des tueurs de wyrm ralentissent passivement leurs cibles de 80%\nL’effet de ralentissement ne fonctionne que sur les monstres et la cavalerie\n Capacité passive"
+"Requiert niveau 3\n Les attaques des Tueur de Wyrms ralentissent passivement les monstres ennemis et la cavalerie de 80% \n \n Capacité passive"
 END
 
 CONTROLBAR:ToolTipUnburnt
-"Les tueurs de wyrm sont totalement immunisés aux dégâts de feu\n Capacité passive"
+"Les Tueur de Wyrms sont complètement immunisés aux dégâts de feu, et \n ne peuvent pas être repoussés par les griffes d’un Drake de feu \n Capacité passive"
 END
 
 CONTROLBAR:ToolTipWyrmVetUnburnt
-"Les tueurs de wyrm sont totalement immunisés aux dégâts de feu et ne peuvent pas être piétinés par la cavalerie\n Capacité passive"
+"Les Tueur de Wyrms sont complètement immunisés aux dégâts de feu, \n ne peuvent pas être piétinés par la cavalerie, et ne peuvent \n pas être repoussés par les griffes d’un Drake de feu \n Capacité passive"
 END
 
 CONTROLBAR:OakenBird
@@ -74663,11 +75068,11 @@ BANNERUI:WildHobgoblins
 END
 
 CONTROLBAR:LW_Unit_WildFireDrake
-"Wyrm de feu"
+"Drake de feu"
 END
 
 CONTROLBAR:LW_Unit_WildFireDrakePlural
-"Wyrms de feu"
+"Drakes de feu"
 END
 
 CONTROLBAR:LW_ToolTipBuild_WildFireDrake
@@ -75835,7 +76240,7 @@ CONTROLBAR:RohanPeasantHasDraft
 END
 
 CONTROLBAR:ToolTipRohanPeasantHasDraft
-"Requiert le pouvoir Résistance. \n Les paysans reçoivent des épées et des boucliers, gagnant +5 de dégâts et +20 de points de vie. \n Les paysans peuvent désormais être améliorés avec des lames forgées et une armure lourde."
+"Requiert le pouvoir Résistance. \n Les paysans reçoivent des épées et des boucliers, gagnant +5 de dégâts et +30 de points de vie. \n Les paysans peuvent désormais être améliorés avec des lames forgées et une armure lourde."
 END
 
 CONTROLBAR:PurchaseUpgradeRohanDraft
@@ -75843,7 +76248,7 @@ CONTROLBAR:PurchaseUpgradeRohanDraft
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeRohanDraft
-"Les paysans reçoivent des épées et des boucliers, gagnent +5 de dégâts et +20 de santé. \n Les paysans peuvent être améliorés avec des Lames forgées et des Armures Lourdes."
+"Les paysans reçoivent des épées et des boucliers, gagnent +5 de dégâts et +30 de santé. \n Les paysans peuvent être améliorés avec des Lames forgées et des Armures Lourdes."
 END
 
 CONTROLBAR:ErkenbrandHorn
@@ -75851,7 +76256,7 @@ CONTROLBAR:ErkenbrandHorn
 END
 
 CONTROLBAR:ToolTipErkenbrandHorn
-"L'infanterie gagne une  résistance au renversement et au piétinement pendant 30 secondes."
+"Les unités d’infanterie à proximité gagnent une résistance aux projections et au piétinement, ainsi qu’une immunité à la peur et à la terreur pendant 30 secondes\nClic gauche pour activer"
 END
 
 CONTROLBAR:ErkenbrandShieldCrush
@@ -77020,7 +77425,7 @@ CONTROLBAR:MarkOfFreca
 END
 
 CONTROLBAR:ToolTipMarkOfFreca
-"Requiert le Niveau 3\nLes Helmingas octroient la Marque de Freca à une unité ennemie,\nce qui les fait fuir de peur, perdre tout leadership et -33 % d'armure pendant 60 secondes\nCliquez gauche sur l'icône, puis cliquez gauche sur le bataillon cible"
+"Requiert le Niveau 3\nLes Helmingas octroient la Marque de Freca à une unité ennemie,\nce qui les fait fuir de terreur, perdre tout leadership et -33 % d'armure pendant 60 secondes\nCliquez gauche sur l'icône, puis cliquez gauche sur le bataillon cible"
 END
 
 CONTROLBAR:SurrenderArms
@@ -77755,6 +78160,14 @@ OBJECT:GuldurSpiderRiderHorde
 "Chevaucheurs d'Araignée de Dol Guldur"
 END
 
+OBJECT:GuldurSpiderRider_Angmar
+"Chevaucheur d’Araignée de glace"
+END
+
+OBJECT:GuldurSpiderRiderHorde_Angmar
+"Chevaucheurs d’Araignées de glace"
+END
+
 CONTROLBAR:ConstructGuldurSpiderRiderHorde
 "Chevaucheurs d'Araignée de Dol Guldur"
 END
@@ -78047,7 +78460,7 @@ CONTROLBAR:ConstructGuldurGaol3Upgrade
 End
 
 CONTROLBAR:ToolTipBuildGuldurGaol2Upgrade
-"Permet l'entraînement des Ravageurs Orc\nVitesse de construction +10%"
+"Permet l’entraînement des Ravageurs orcs et la recherche de l’amélioration Flèches de feu des cadavres\n+10% de vitesse de construction"
 End
 
 CONTROLBAR:ToolTipBuildGuldurGaol3Upgrade
@@ -78131,7 +78544,7 @@ CONTROLBAR:EncasingWebs
 END
 
 CONTROLBAR:ToolTipEncasingWebs
-"Requiert le niveau 3\nDésactive les structures ennemies et inflige de légers dégâts pendant 15 secondes\nCliquez gauche sur l'icône, puis cliquez gauche sur la cible"
+"Requiert le niveau 3\nDésactive les structures ennemies et inflige de légers dégâts pendant 20 secondes\nCliquez gauche sur l'icône, puis cliquez gauche sur la cible"
 END
 
 CONTROLBAR:ConstructGuldurSpiderLairLevel2Upgrade
@@ -78600,7 +79013,7 @@ CONTROLBAR:CargastSpell
 END
 
 CONTROLBAR:ToolTipCargastSpell
-"Requiert : Niveau 7 \n Les unités ciblées ennemis fuient de terreur. \n Tous les Morts Réincarnés dans la zone cible font +50% de dégâts. \n\n Clic gauche sur l'icône puis clic gauche sur la zone cible."
+"Requiert : Niveau 7 \n Les unités ciblées ennemis fuient de peur. \n Tous les Morts Réincarnés dans la zone cible font +50% de dégâts. \n\n Clic gauche sur l'icône puis clic gauche sur la zone cible."
 END
 
 CONTROLBAR:CargastDarkAwakening
@@ -78973,7 +79386,7 @@ CONTROLBAR:GuldurShade
 END
 
 CONTROLBAR:ToolTipGuldurShade
-"L'Ombre disparaîtra après avoir invoqué une structure. \n Type d'Action : Malus Passif. \n Les unités ennemies proches souffrent de -15% de vitesse et -10% d'armure. \n Ne peut pas se cumuler avec d'autres Malus. \n\n Capacité Passive"
+"L'Ombre disparaîtra après avoir invoqué une structure. \n Type d'Action : Malus Passif. \n Les unités ennemies proches souffrent de -15% de vitesse, -10% de dégâts et -10% d'armure. \n Ne peut pas se cumuler avec d'autres Malus. \n\n Capacité Passive"
 End
 
 CONTROLBAR:GuldurShadeDecoy
@@ -79000,16 +79413,32 @@ TOOLTIP:LackGuldurBasicTrainingArchers
 "Rechercher l'amélioration des Geôles de Dol Guldur pour débloquer cet équipement. \n Quand elle est équipée, fait passer le bataillon au niveau 2 et débloque la capacité 'Descendez les!'"
 END
 
+TOOLTIP:LackGuldurBasicTraining_Angmar
+"Rechercher l’amélioration à la Flèche d’Angmar pour débloquer cet équipement \n Lorsqu’il est équipé, fait passer cette horde au niveau 2"
+END
+
 CONTROLBAR:PurchaseTechnologyGuldurBasicTraining
 "Rechercher Bannières Noires [&F]"
+END
+
+CONTROLBAR:PurchaseTechnologyGuldurBasicTraining_Angmar
+"Rechercher les Bannières de la Couronne de Fer (&F)"
 END
 
 CONTROLBAR:ToolTipPurchaseTechnologyGuldurBasicTraining
 "Permet aux unités d'acheter l'amélioration Bannières Noires. \n Fait passer une unité au Niveau 2."
 END
 
+CONTROLBAR:ToolTipPurchaseTechnologyGuldurBasicTraining_Angmar
+"Permet aux hordes d’acheter l’amélioration Bannières de la Couronne de Fer \n Fait passer une horde au niveau 2"
+END
+
 CONTROLBAR:PurchaseUpgradeGuldurBasicTraining
 "Bannières Noires [&V]"
+END
+
+CONTROLBAR:PurchaseUpgradeGuldurBasicTraining_Angmar
+"Acheter les Bannières de la Couronne de Fer (&V)"
 END
 
 CONTROLBAR:PurchaseUpgradeGuldurBasicTraining_FellBrood
@@ -79046,6 +79475,14 @@ End
 
 CONTROLBAR:TooltipBuildGuldurSorceryTowerLevel3Upgrade
 "Permet de rechercher l’amélioration Fléau Suprême et d’entraîner les Prémoniteurs de l’Ombre\n +25% de vitesse de construction"
+End
+
+CONTROLBAR:ToolTipBuildGuldurSorceryTowerLevel2Upgrade_Angmar
+"Permet de rechercher l’amélioration Puits des âmes des Sorciers\n +10% de vitesse de construction"
+End
+
+CONTROLBAR:TooltipBuildGuldurSorceryTowerLevel3Upgrade_Angmar
+"Permet de rechercher l’amélioration Pluie de cadavres des Sorciers\n +25% de vitesse de construction"
 End
 
 CONTROLBAR:IntrepidCorpse
@@ -79097,7 +79534,7 @@ CONTROLBAR:ToolTipDarkSustenance_Individual
 END
 
 CONTROLBAR:RDSickness
-"Tomber par la Maladie"
+"Esprits de la Terreur"
 END
 
 CONTROLBAR:ToolTipRDSickness
@@ -84323,7 +84760,7 @@ CONTROLBAR:StatueOfAmroth
 END
 
 CONTROLBAR:ToolTipStatueofAmroth
-"Modifier Type: Sort\n +50% de vitesse de recharge pour les sorts du Sanctuaire Caché et +33% de gain d'expérience pour les Chevaliers d'Amroth Amdírion. \n Recharge les sorts du Sanctuaire Caché lors de l'achat. \nCapacité passive."
+"Modifier Type: Sort\n +50% de vitesse de recharge pour les sorts du Sanctuaire Caché et -15% de ralentissement dû au piétinemen pour les Chevaliers d'Amroth Amdírion. \n Recharge les sorts du Sanctuaire Caché lors de l'achat. \nCapacité passive."
 End
 
 CONTROLBAR:SpecialPowerGaladrielGrace
@@ -85245,6 +85682,62 @@ CONTROLBAR:PurchaseTechnologyMirkwoodSilverthornArrows_Dorwinion
 "Rechercher Plumage Sylvain [&R]"
 END
 //------------ Aventure Angmar ---------------
+OBJECT:AngmarNaglur
+"Naglûr"
+END
+
+CONTROLBAR:AngmarNaglurRecruit
+"Recruter le Chef du Pic\n\nLes sommets hostiles entourant les terres d’Angmar abritent peu de ressources. Par conséquent, les conflits sont incessants, et les chefs s’élèvent et tombent au rythme des neiges. Tous sauf Naglûr, dont la ruse et la cruauté lui ont permis de rester Chef des orcs du Pic depuis des temps immémoriaux."
+END
+
+CONTROLBAR:AngmarNaglurRevive
+"Réanimer le héros tombé, Naglûr"
+END
+
+CONTROLBAR:AngmarNaglurHotkey
+"Naglûr (&W)"
+END
+
+CONTROLBAR:NaglurStalker
+"Traqueur des neiges (&W)"
+END
+
+CONTROLBAR:TooltipNaglurStalker
+"Naglûr peut disparaître dans la neige\net se déplacer sans être repéré\nLors de l’activation, Naglûr devient furtif et ne peut ni attaquer ni être attaqué pendant 30 secondes\nCapacité passive"
+END
+
+CONTROLBAR:NaglurLeadership
+"Chef du Pic"
+END
+
+CONTROLBAR:ToolTipNaglurLeadership
+"Requiert niveau 2\nType de modification : leadership\n Les Snaga d’Angmar, lanciers et chasseurs proches de Naglûr gagnent +50% d’expérience et +35% d’armure\nAu niveau 5, affecte aussi les Ravageurs d’Angmar et la Garde des tombes\nCapacité passive"
+END
+
+CONTROLBAR:NaglurHoarfrost
+"Sang gelé (&T)"
+END
+
+CONTROLBAR:ToolTipNaglurHoarfrost
+"Requiert niveau 3\nLes unités ennemies dans la zone ciblée subissent des dégâts sur la durée et sont ralenties de -33% pendant 15 secondes\nClic gauche puis clic gauche sur la zone ciblée"
+END
+
+CONTROLBAR:DarkKnowledge
+"Connaissance obscure (&C)"
+END
+
+CONTROLBAR:ToolTipDarkKnowledge
+"Requiert niveau 6\nLes orcs d’Angmar ciblés gagnent beaucoup d’expérience \n Clic gauche puis clic gauche sur les unités ciblées"
+END
+
+CONTROLBAR:NaglurDreadfang
+"Croc de terreur (&V)"
+END
+
+CONTROLBAR:ToolTipNaglurDreadfang
+"Nécessite le niveau 9\nNaglûr plonge sa lame dans son adversaire\nLe héros ennemi ciblé subit des dégâts sur la durée et devient un spectre à sa mort\nLes unités ennemies proches du héros ciblé subissent également des dégâts lors de l’activation et deviennent des spectres à leur mort\nClic gauche puis clic gauche sur la cible"
+END
+
 OBJECT:AngmarNauroth
 "Nauroth"
 END
@@ -85261,13 +85754,13 @@ CONTROLBAR:NaurothLunge
 "Sauter [&Z]"
 END
 CONTROLBAR:ToolTipNaurothLunge
-"Nauroth bondit vers une position, infligeant des dégâts de zone\nCliquez sur l'icône, puis cliquez à l'endroit cible"
+"Nauroth gagne +25% d’armure pendant 10 secondes et bondit vers une position, infligeant des dégâts de zone\nCliquez sur l'icône, puis cliquez à l'endroit cible"
 END
 CONTROLBAR:NaurothBloodFreezingHowl
 "Hu&rlement Glacial"
 END
 CONTROLBAR:ToolTipNaurothBloodFreezingHowl
-"Requiert le niveau 3\nLes unités ennemies dans le rayon sont ralenties de 33% et subissent des dégâts accrus de la part des loups pendant 30 secondes\n\nAu rang 6, invoque également une horde de loups blancs\nCliquez sur l'icône, puis cliquez sur les unités cibles"
+"Requiert le niveau 3\nType de modification : affaiblissement et amélioration\nLes unités ennemies dans la zone ne peuvent pas gagner d’expérience\nLes loups alliés dans la zone infligent +50% de dégâts\nLa capacité dure 30 secondes\n\n Au rang 6, invoque également une horde de Loups blancs \n Clic gauche sur l’icône puis clic gauche sur les unités ciblées"
 END
 CONTROLBAR:NaurothWolfInSheepClothing
 "Loup déguisé en Mou&ton"
@@ -85279,7 +85772,7 @@ CONTROLBAR:NaurothRavenousHunger
 "Faim insatiable [&C]"
 END
 CONTROLBAR:ToolTipNaurothRavenousHunger
-"Requiert le niveau 8\nComme Carcharoth, Nauroth possède une faim insatiable de chair\nNauroth peut maintenant piétiner les unités ennemies\nCapacité passive\n\nLorsqu'elle est activée, Nauroth inflige de gros dégâts à l'ennemi sélectionné et se soigne\nCliquez sur l'icône, puis cliquez sur la cible"
+"Requiert le niveau 8\nComme Carcharoth, Nauroth possède une faim insatiable de chair\nLors de l’activation, Nauroth inflige de lourds dégâts à une cible ennemie pour récupérer de la santé et gagne +25% de vitesse de déplacement et +33% de dégâts pendant 20 secondes\n Clic gauche sur l’icône puis clic gauche sur la cible"
 END
 
 OBJECT:AngmarGorg
@@ -85292,13 +85785,13 @@ CONTROLBAR:AngmarGorgRevive
 "Recruter le héros déchu, Gorg le Malfaisant"
 END
 CONTROLBAR:AngmarGorgHotkey
-"Gorg le Malfaisan&t"
+"Gorg le Malfaisant (&D)"
 END
 CONTROLBAR:GorgTrollSummon
 "Chef Trolle [&Z]"
 END
 CONTROLBAR:ToolTipGorgTrollSummon
-"Temporairement invoque un Troll des neiges\nAu niveau 3, invoque un Troll des neiges supplémentaire\nCliquez gauche pour activer"
+"Invoque temporairement un troll des neiges\nAu niveau 3, invoque un troll des neiges supplémentaire\nAu niveau 7, invoque également une horde de trolls des neiges lanceurs de projectiles\nClic gauche pour activer"
 END
 CONTROLBAR:GorgCommand
 "Commandement du Maître"
@@ -85319,6 +85812,115 @@ CONTROLBAR:ToolTipGorgCripple
 "Requiert le niveau 8\nGorg paralyse un héros ennemi pendant 15 secondes\nFait fuir en terreur les unités ennemies environnantes\nCliquez gauche puis cliquez sur le héros ennemi"
 END
 
+OBJECT:AngmarCarghul
+"Carghûl"
+End
+
+CONTROLBAR:AngmarCarghulRecruit
+"Recruter le Capitaine des Damnés \n \n Autrefois capitaine courageux des Hommes, Carghûl fut saisi par les puissances obscures, son esprit banni et son corps enchaîné à la volonté du Roi-Sorcier."
+END
+
+CONTROLBAR:AngmarCarghulRevive
+"Réanimer le héros tombé, Carghûl"
+END
+
+CONTROLBAR:AngmarCarghulHotkey
+"Carghûl (&E)"
+End
+
+CONTROLBAR:AngmarCarghulFrostWight
+"Spectre de givre (&W)"
+End
+
+CONTROLBAR:ToolTipAngmarCarghulFrostWight
+"Carghûl devient un Spectre de givre incorporel pendant 60 secondes\nProvoque la fuite des unités ennemies dans la terreur après sa transformation\nSous forme de Spectre de givre, ses capacités sont renforcées, mais son armure est réduite de -25% et ses dégâts de -33%\nClic gauche pour activer"
+END
+
+CONTROLBAR:AngmarCarghulSpiritRend
+"Déchirure d’esprit (&R)"
+End
+
+CONTROLBAR:TooltipAngmarCarghulSpiritRend
+"La cible ennemie subit des dégâts\nLes dégâts infligés drainent l’énergie et soignent modérément Carghûl\nLorsque la forme de Spectre de givre est active, l’attaque inflige des dégâts dans une large zone\nClic gauche sur l’icône puis clic gauche sur la cible"
+End
+
+CONTROLBAR:AngmarCarghulRime
+"Toucher de givre (&T)"
+END
+
+CONTROLBAR:ToolTipAngmarCarghulRime
+"Requiert le niveau 3\nLors de l’activation, les unités alliées sont légèrement soignées à chaque coup de Carghûl pendant 20 secondes\nSous forme de Spectre de givre, ses attaques repoussent également les unités ennemies\nClic gauche pour activer"
+End
+
+CONTROLBAR:AngmarCarghulWraithWalk
+"Marche spectrale (&C)"
+END
+
+CONTROLBAR:ToolTipAngmarCarghulWraithWalk
+"Requiert le niveau 6\nCarghûl se téléporte dans une zone ciblée et inflige +50% de dégâts pendant 10 secondes à l’arrivée\nSous forme de Spectre de givre, invoque deux Spectres des tertres à l’arrivée\nClic gauche sur l’icône puis clic gauche sur la zone ciblée"
+END
+
+CONTROLBAR:AngmarCarghulDreadStorm
+"Tempête d’effroi (&V)"
+END
+
+CONTROLBAR:ToolTipAngmarCarghulDreadStorm
+"Requiert le niveau 10\nInvoque une petite Tempête d’effroi contrôlable pendant 30 secondes\n Toutes les unités, alliées et ennemies, subissent de faibles dégâts et deviennent des spectres à leur mort\nSous forme de Spectre de givre, la Tempête d’effroi a un rayon plus large et dure 45 secondes\nClic gauche sur l’icône puis clic gauche sur une zone praticable"
+End
+
+OBJECT:CarghulDreadStorm
+"Tempête d’effroi"
+END
+
+
+OBJECT:AngmarAkhorahil
+"Akhôrahil, quatrième des Neuf"
+End
+
+CONTROLBAR:AngmarAkhorahilRecruit
+"Recruter le Lieutenant de Carn Dûm\n\nDe son vivant, Akhôrahil était le seigneur-régent d’une colonie númenóréenne isolée. Une fois doté d’un Anneau de Pouvoir, sa cupidité plongea son peuple dans la guerre contre les tribus Lossoth, offrant au seigneur-régent une domination temporaire — jusqu’à ce que les neiges la lui arrachent. Aujourd’hui, leur colonie morte n’est plus connue que sous le nom de « Mar-nu-lossë », la Terre sous la Neige."
+END
+
+CONTROLBAR:AngmarAkhorahilRevive
+"Réanimer le héros tombé, Akhôrahil"
+END
+
+CONTROLBAR:AngmarAkhorahilHotkey
+"Akhôrahil, quatrième des Neuf (&S)"
+End
+
+CONTROLBAR:LieutenantCarnDum
+"Lieutenant de Carn Dûm"
+END
+
+CONTROLBAR:ToolTipLieutenantCarnDum
+"À mesure que les Nazgûl se rassemblent, leur puissance augmente \n +10% de dégâts et +10% d’armure par Spectre de l’Anneau à proximité \n Capacité passive \n\nType de modification : affaiblissement passif \n Les unités ennemies proches subissent -25% de dégâts et -20% d’armure\n Au niveau 5, les unités mortes-vivantes proches gagnent +15% de vitesse de déplacement et +25% de dégâts\nCapacité passive"
+END
+
+CONTROLBAR:FourthOfNine
+"Quatrième des Neuf (&R)"
+END
+
+CONTROLBAR:TooltipFourthOfNine
+"Requiert le niveau 3 \n Les unités ennemies ciblées fuient dans la terreur et subissent des dégâts sur la durée pendant 15 secondes\nAu niveau 6, invoque des Spectres des tertres à l’emplacement ciblé\nClic gauche puis clic gauche sur la zone ciblée"
+END
+
+CONTROLBAR:AkhorahilAccursedSteel
+"Acier maudit (&T)"
+END
+
+CONTROLBAR:ToolTipAkhorahilAccursedSteel
+"Requiert le niveau 5\n La cible ennemie subit des dégâts de poison sur la durée et devient un spectre à sa mort \n Clic gauche sur l’icône puis clic gauche sur la cible"
+END
+
+CONTROLBAR:Forodgul
+"Forodgûl (&V)"
+END
+
+CONTROLBAR:ToolTipForodgul
+"Requiert le niveau 10\nLes unités ennemies proches d’Akhôrahil subissent des dégâts sur la durée\nLorsque la capacité est active, Akhôrahil gagne +50% d’armure, inflige +33% de dégâts et des projections pendant 30 secondes\nLes attaques d’Akhôrahil ont une chance de geler les ennemis pendant 5 secondes lorsque la capacité est active\nClic gauche pour activer"
+END
+
 OBJECT:AngmarValdugr
 "Úlf le Váldúgr"
 END
@@ -85329,13 +85931,21 @@ CONTROLBAR:AngmarValdugrRevive
 "Ressusciter le héros déchu, Úlf le Váldúgr"
 END
 CONTROLBAR:AngmarValdugrHotkey
-"Úlf le Váldúgr [&Z]"
+"Úlf le Váldúgr [&T]"
 END
 CONTROLBAR:ValdugrLeadership
-"Chef de meute (&W)"
+"Chef de guerre des Váldgoil (&W)"
 END
 CONTROLBAR:ToolTipValdugrLeadership
-"Type de modification : Leadership\nLes Hommes des Collines à proximité gagnent +33% de dégâts, +33% d'armure et une résister à la peur et la terreur\nCapacité passive\n\n Clique gauche pour basculer entre monter et à pied"
+"Réduit le coût de construction de la Salle ancestrale\n et des unités Váldgoil de -25%\nType de modification : charisme\nLes unités Váldgoil proches gagnent +25% de dégâts, +25% d’armure et une résistance à la peur et à la terreur\nCapacité passive \n \n Clic gauche pour alterner entre monture et forme à pied"
+END
+
+CONTROLBAR:UlfSacrificialRite
+"Rite sacrificiel (&R)"
+END
+
+CONTROLBAR:ToolTipUlfSacrificialRite
+"Úlf peut désigner une unité ou un héros ennemi pour un sacrifice\n Pendant 30 secondes, Úlf et ses alliés proches gagnent +33% de dégâts et +100% d’expérience lorsqu’ils sont près de la cible choisie\nClic gauche puis clic gauche sur l’unité ennemie ciblée"
 END
 CONTROLBAR:WolfCunning
 "&Ruse du loup"
@@ -85355,8 +85965,14 @@ END
 CONTROLBAR:TooltipSpecialAbilityValdugr
 "Requiert le niveau 6\nÚlf prend l'esprit du loup\nPendant 30 secondes, chaque attaque consécutive invoque un Loup blanc temporaire, jusqu'à un maximum de 3\nAu niveau 8, le maximum est porté à 5\nCliquez gauche pour activer"
 END
+CONTROLBAR:UlfFrenzy
+"Frénésie sanguinaire (&V)"
+END
+CONTROLBAR:ToolTipUlfFrenzy
+"Requiert le niveau 8 \n Type de modification : sort \n Úlf et les unités Jurées proches gagnent +50% de dégâts et d’armure pendant 20 secondes\nPendant la durée de l’effet, les attaques d’Úlf le soignent lui-même ainsi que les alliés proches\nClic gauche sur l’icône pour activer"
+END
 CONTROLBAR:ShiveringPresence
-"Présence glaciale [&Z]"
+"Présence glaciale (&R)"
 END
 CONTROLBAR:ToolTipWKShiveringPresence
 "Type de modification : Sort\nLes unités d'Angmar à proximité affectées par Slow Decay ne se dégradent plus avec le temps, deviennent résistantes à la peur et à la terreur et reçoivent +33% de dégâts et d'armure\nCapacité passive\n\nAu niveau 3, peut être activé pour entourer le Roi-Sorcier d'une tempête de grêle et de givre pendant 30 secondes\ninfligeant des dégâts aux unités ennemies à proximité, plus elles sont proches de lui\nCliquez gauche pour activer"
@@ -85370,6 +85986,15 @@ END
 CONTROLBAR:ToolTipWKRingwraithSummon
 "À mesure que les Nazgûl se rassemblent, leur force augmente\n+10% de dégâts et +10% d'armure pour chaque Nazgûl à proximité\nCapacité passive\n\nLorsqu'il est activé, invoque un Spectre de l'Anneau\nUn maximum de trois peut être en service à tout moment\nCliquez gauche pour activer"
 END
+CONTROLBAR:LordOfAngmar
+"Seigneur d’Angmar (&W)"
+END
+CONTROLBAR:TooltipLordOfAngmar
+"À mesure que les Nazgûl se rassemblent, leur puissance augmente \n +10% de dégâts et +10% d’armure par Nazgûl à proximité \n Capacité passive\n\n Type de modification : affaiblissement passif\nNeutralise les leaderships ennemis\nCapacité passive \n\n Clic gauche pour alterner entre monture et forme à pied"
+End
+CONTROLBAR:TooltipLordOfAngmarRing
+"À mesure que les Nazgûl se rassemblent, leur puissance augmente \n +10% de dégâts et +10% d’armure par Nazgûl à proximité \n Capacité passive\n\nLe Roi-Sorcier renvoie 10% des dégâts infligés par les ennemis proches\nType de modification : affaiblissement passif \n Les unités ennemies proches subissent -25% de dégâts et -25% d’armure\nNeutralise les leaderships ennemis\nCapacité passive \n\n Clic gauche pour alterner entre monture et forme à pied"
+End
 CONTROLBAR:WKDarkSorcerer
 "Sorcier des &ténèbres"
 END
@@ -85385,11 +86010,14 @@ END
 CONTROLBAR:TooltipUnshroudedWraith
 "Requiert le niveau 5\nLe Roi-Sorcier devient incorporel, ce qui lui permet de se déplacer rapidement sur la carte tout en terrorisant les unités ennemies à proximité\nSpectre dévoilé ne lui permet pas d'attaquer\nCliquez gauche pour changer de forme"
 END
+CONTROLBAR:CursedThreshold
+"Seuil maudit (&C)"
+END
 CONTROLBAR:ToolTipAngmarWKWordofPower
-"Requiert le niveau 8\nRepousse et inflige des dégâts aux unités dans un large rayon autour du Roi-Sorcier\nNe peut pas être utilisé tout en utilisant Spectre dévoilé\nCliquez gauche pour activer"
+"Requiert le niveau 8\nLe Roi-Sorcier révèle sa véritable nature en tant que Seigneur des Nazgûl et serviteur de Sauron\nLe Roi-Sorcier renvoie désormais 10% des dégâts infligés par les ennemis proches\nType de modification : affaiblissement passif\nLes unités ennemies proches subissent -25% de dégâts et -25% d’armure\n\nRepousse et inflige des dégâts aux unités dans un large rayon autour du Roi-Sorcier\nClic gauche pour activer"
 END
 CONTROLBAR:ToolTipAngmarWKWordofPowerRing
-"Requiert le niveau 8\nRepousse et inflige des dégâts aux unités dans un large rayon autour du Roi-Sorcier\nNe peut pas être utilisé tout en utilisant Spectre dévoilé\nTemps de recharge plus court avec l'Anneau Unique"
+"Requiert le niveau 8\nLe Roi-Sorcier révèle sa véritable nature en tant que Seigneur des Nazgûl et serviteur de Sauron\nRepousse et inflige des dégâts aux unités dans un large rayon autour du Roi-Sorcier\nTemps de recharge réduit avec l’Anneau Unique\nClic gauche pour activer"
 END
 
 OBJECT:AngmarMammoth
@@ -85483,8 +86111,8 @@ CONTROLBAR:ConstructAngmarBastion3Upgrade
 "&Améliorer la Tour d'Angmar au niveau 3"
 END
 CONTROLBAR:ToolTipBuildAngmarBastion2Upgrade
-"Permet d'entraîner les Dévastateurs d'Angmar\nVitesse de construction +10%"
-END
+"Permet l’entraînement des Ravageurs d’Angmar et la recherche de l’amélioration Flèches de feu de cadavres\n+10% de vitesse de construction"
+End
 CONTROLBAR:TechnologyAngmarNecromancy
 "Esprits Maudits"
 END
@@ -85517,7 +86145,7 @@ CONTROLBAR:ToolTipBuildAngmarCairnLevel2Upgrade
 "Permet d'entraîner les Matriarches Terrifiantes et les Pillards Trolls des Neiges\n+10% de vitesse de construction"
 END
 CONTROLBAR:ConstructSnowTrollDespoiler
-"Pillard Troll des Neiges (&R)"
+"Pillard Troll des Neiges (&T)"
 END
 CONTROLBAR:ToolTipBuildSnowTrollDespoiler
 "Requiert Niveau 2 Cairn Sauvage\nFort contre l’Infanterie\n\nBien que la plupart des Trolls des Neiges préfèrent se cacher dans la neige, attendant que les voyageurs passent, certains n’ont pas la patience nécessaire. Manieurs de massues énormes, ils traquent leur proie, laissant la mort dans leur sillage. Galopant à travers grésil et neige, les éclaireurs des tribus de la colline sont redoutés pour la rapidité de leur frappe. Ils apparaissent comme des fantômes dans la brume blanche, prennent ce qu’ils veulent, puis disparaissent avant que les cloches ne cessent de sonner."
@@ -85538,7 +86166,7 @@ OBJECT:AngmarSnowTrollStalker
 "Pillard Troll des Neiges"
 END
 CONTROLBAR:ConstructSnowTrollStalker
-"Pillard Troll des Neiges (&T)"
+"Pillard Troll des Neiges (&S)"
 END
 CONTROLBAR:ToolTipBuildSnowTrollStalker
 "Requiert Niveau 3 Cairn Sauvage\nLimité à 5\nFort contre les Structures et les Epéistes\n\nRusé et étonnamment silencieux, le Pillard Troll des Neiges est exceptionnellement doué pour traquer les voyageurs aveuglés par la neige. Certains portent de grands arcs rudimentaires, écrasant leur proie à grande distance."
@@ -85550,16 +86178,16 @@ CONTROLBAR:ToolTipSpecialAbilityLineBreaker
 "Requiert Niveau 2\nInflige des dégâts et repousse les unités ennemies dans un large rayon\nClique gauche sur l’icône puis sur l’unité ciblée"
 END
 CONTROLBAR:HowlingWolves
-"Loups Hurlants [&Z]"
+"Morts agités (&W)"
 END
 CONTROLBAR:ToolTipHowlingWolves
-"Requiert un Cairn Sauvage\nInvoque un Loup Blanc pour défendre la structure\nCliquez gauche pour activer"
+"Requiert un tertre d’Arnor\nInvoque un Spectre des tertres pour défendre la structure\nClic gauche pour activer"
 END
 CONTROLBAR:HowlingWolvesCairn
-"Loups Hurlants"
+"Morts agités"
 END
 CONTROLBAR:ToolTipHowlingWolvesCairn
-"Une fois construits, les Cairns Sauvages permettent à la plupart des structures\nd'utiliser le pouvoir des Loups Hurlants\nLes Loups Hurlants invoquent un Loup Blanc pour défendre la structure\nCompétence passive"
+"Une fois construits, les tertres d’Arnor permettent à la plupart des structures\nd’utiliser le pouvoir Morts agités\nMorts agités invoque un Spectre des tertres pour défendre la structure\nCapacité passive"
 END
 CONTROLBAR:ToolTipBuildAngmarCairnLevel3Upgrade
 "Permet d'entraîner des Pillards Troll des Neiges\n+25% de vitesse de construction"
@@ -85568,7 +86196,7 @@ CONTROLBAR:BuildGuldurWorker
 "Ouvri&er Orc"
 END
 CONTROLBAR:ConstructAngmarWhiteWargPack
-"Loups Blancs [&Z]"
+"Loups Blancs [&E]"
 END
 CONTROLBAR:PurchaseRabidDogs
 "A&cheter des Chiens Enragés"
@@ -85607,7 +86235,7 @@ CONTROLBAR:ShiveringPresenceStructure
 "Présence Glaciale"
 END
 CONTROLBAR:ToolTipShiveringPresence
-"Type de modification : Sort\nLes unités d'Angmar à proximité touchées par la Décroissance Lente ne sont plus affaiblies avec le temps et reçoivent +15% de dégâts et d'armure\nCompétence passive"
+"Type de modification : Sort\nLes unités d'Angmar à proximité touchées par la Décroissance Lente ne sont plus affaiblies avec le temps et reçoivent +15% de dégâts et d'armure, et sont légèrement soignées\nCompétence passive"
 END
 CONTROLBAR:ConstructArnorianBarrow
 "Su&mmon Arnorian Barrow"
@@ -85631,13 +86259,13 @@ CONTROLBAR:TooltipUpgradeArnorianBarrowLevel3
 "Permet d'entraîner les Spectres non ensevelis\nVitesse de construction +25%"
 End
 CONTROLBAR:ConstructAngmarWightLord
-"Habitant des Te&rtres de Rhudaur"
+"Habitant des Tertres de Rhudaur (&E)"
 END
 CONTROLBAR:ToolTipBuildAngmarWightLord
 "Requiert le niveau 2 du Tertre Arnorien\nFort contre l'infanterie \n\n Sous les grands tertres de la désolée Rhudaur, demeurent les morts inquiets, réanimés par les esprits malveillants envoyés par celui qui fut autrefois le Seigneur d'Angmar."
 END
 CONTROLBAR:ConstructAngmarUnburiedWight
-"Spec&tres non ensevelis"
+"Spectres non ensevelis (&R)"
 END
 CONTROLBAR:ToolTipBuildAngmarUnburiedWight
 "Requiert le niveau 3 du Tertre Arnorien \n Unité spécialisée \n Fort contre les unités d'élite et améliorées \n Limité à 3 \n\n La nuit et le brouillard, de sombres créatures rôdent dans les collines et les bois d'Eriador. Les Dúnedain disent qu'ils étaient autrefois les nobles seigneurs d'Arnor, leurs os maintenant soumis à la volonté du Roi-Sorcier."
@@ -85652,7 +86280,10 @@ CONTROLBAR:ConstructAncestralHall
 "Summon An&cestral Hall"
 END
 CONTROLBAR:ToolTipAncestralHall
-"Nécessite Úlf le Váldúgr\nPermet de recruter les Hommes des Collines de Rhudaur"
+"Permet de recruter les Hommes des collines de Rhudaur"
+END
+CONTROLBAR:ToolTipAncestralHall_NoRequirement
+"Permet de recruter les Hommes des collines de Rhudaur"
 END
 CONTROLBAR:ConstructOathswornWarriorHorde
 "Carn Dûm Oathsworn (&E)"
@@ -85664,13 +86295,19 @@ OBJECT:OathswornWarriorHorde
 "Carn Dûm Oathsworn"
 END
 CONTROLBAR:ToolTipBuildOathswornWarriorHorde
-"Fort contre les Piquiers\n\nAprès avoir usurpé le trône des Dúnedain de Rhudaur, les Hommes des Collines ont prêté de nombreux serments au Roi-Sorcier, se liant ainsi en servitude envers leur sombre maître."
+"Fort contre les lanciers\n\nLes contrées septentrionales du Rhudaur étaient habitées par des tribus d’hommes des collines. Les plus puissants d’entre eux étaient les Váldgoil, qui vivaient près de Carn Dûm, ou la Vallée Rouge. Dans ces terres glacées, ils prêtèrent de sombres serments de servitude au Roi-Sorcier."
 END
 CONTROLBAR:NorthernFury
-"Fureur du Nord [&T]"
+"Fureur du Nord [&R]"
 END
 CONTROLBAR:ToolTipNorthernFury
-"Requiert le niveau 2\nCarn Dûm Oathsworn gagnent +15% de dégâts et +50% de résistance au renversement pendant 30 secondes\nCliquez gauche pour activer"
+"Requiert le niveau 2\nCarn Dûm Oathsworn gagnent +25% de dégâts et +15% de vitesse de déplacement pendant 30 secondes\nCliquez gauche pour activer"
+END
+CONTROLBAR:OathswornWitheringRust
+"Rouille flétrissante"
+END
+CONTROLBAR:ToolTipOathswornWitheringRust
+"Requiert le niveau 4\nLes attaques des Jurés de Carn Dûm réduisent passivement les dégâts ennemis de -15% par coup\nL’affaiblissement ne se cumule pas\nCapacité passive"
 END
 OBJECT:OathswornTrapper
 "Piégeur Váldgoil"
@@ -85679,10 +86316,10 @@ OBJECT:OathswornTrapperHorde
 "Piégeurs Váldgoil"
 END
 CONTROLBAR:ConstructOathswornTrapperHorde
-"Piégeurs Váldgoil (&R)"
+"Piégeurs Váldgoil (&T)"
 END
 CONTROLBAR:ToolTipBuildOathswornTrapperHorde
-"Nécessite niveau 2 Salle ancestrale\nFort contre l'infanterie\n\nConnaissant les sombres secrets des terres gelées, ces redoutables forestiers peuvent disparaître dans la neige, pour réapparaître au moment le plus opportun, tendant une embuscade aux adversaires les plus méfiants."
+"Requiert une Salle ancestrale de niveau 2\nFort contre l’infanterie\n\nAprès la chute du royaume de Rhudaur, seuls les plus rusés des tribus des collines réussirent à survivre aux hivers cruels qui suivirent. Les Váldgoil chassaient des proies redoutables dans la neige et le grésil, affirmant que leurs os prenaient les aspects de leurs ennemis vaincus."
 END
 CONTROLBAR:ToggleOathswornAmbushFormation
 "Formation Embuscade (&R)"
@@ -85691,10 +86328,16 @@ CONTROLBAR:ToolTipToggleOathswornAmbushFormation
 "+25 % de dégâts\n+15 % de vitesse de déplacement\n-50 % d’armure"
 END
 CONTROLBAR:SpecialAbilitySerratedBlades
-"Lames Dentelées (&T)"
+"Lames Dentelées (&C)"
 END
 CONTROLBAR:ToolTipSpecialAbilitySerratedBlades
-"Nécessite niveau 2\nLes Piégeurs Váldgoil ignorent l’armure ennemie pendant 30 secondes\nClique gauche pour activer"
+"Nécessite niveau 3\nLes Piégeurs Váldgoil ignorent l’armure ennemie pendant 30 secondes\nClique gauche pour activer"
+END
+CONTROLBAR:OathswornEnsnare
+"Entrave"
+END
+CONTROLBAR:ToolTipOathswornEnsnare
+"Requiert le niveau 2\nLes attaques des Piégeurs Váldgoil réduisent passivement la vitesse de déplacement des ennemis de -10% par coup\nL’affaiblissement ne se cumule pas\nCapacité passive"
 END
 OBJECT:OathswornOutrider
 "Eclaireur Váldgoil"
@@ -85703,16 +86346,22 @@ OBJECT:OathswornOutriderHorde
 "Eclaireurs Váldgoil"
 END
 CONTROLBAR:ConstructOathswornOutriderHorde
-"Eclaireurs Váldgoil (&T)"
+"Eclaireurs Váldgoil (&D)"
 END
 CONTROLBAR:ToolTipBuildOathswornOutriderHorde
-"Nécessite niveau 3 Salle ancestrale\nCavalerie d'élite\nFort contre les archers\n\nFranchissant sans encombre grêle et neige, les éclaireurs des tribus des collines sont redoutés pour la rapidité de leurs attaques. Fantomatiques dans le brouillard blanc, ils prennent ce qu’ils veulent et disparaissent avant que la cloche ait fini de sonner."
+"Requiert une Salle ancestrale de niveau 3\n Cavalerie d’élite \nFort contre les archers \n \nL’avant-garde des bandes de guerre Váldgoil maniait des lances réputées percer à la fois la chair et l’esprit. À mesure que leur acier buvait le sang de leurs ennemis, le guerrier qui la portait s’appropriait la force de sa victime — et quel sang était plus puissant que celui des Seigneurs de l’Ouest ?"
 END
 CONTROLBAR:OathswornUnwavering
 "Assaut Inébranlable"
 END
 CONTROLBAR:ToolTipOathswornUnwavering
-"Nécessite niveau 2\nLes attaques consécutives augmentent temporairement l’armure spécialiste de 5 % jusqu’à un maximum de 20 %\nCapacité passive"
+"Requiert niveau 2\nLes attaques consécutives augmentent temporairement l’armure spécialiste de 5 % jusqu’à un maximum de 20 %\nCapacité passive"
+END
+CONTROLBAR:VanguardEncroachingRime
+"Givre envahissant (&C)"
+END
+CONTROLBAR:ToolTipVanguardEncroachingRime
+"Requiert le niveau 3\nLes attaques de l’Avant-garde de Carn Dûm infligent des dégâts de givre supplémentaires pendant 30 secondes\nClic gauche pour activer"
 END
 CONTROLBAR:ValdgoilFanatic
 "Fanatiques de Váldgoil"
@@ -85730,31 +86379,37 @@ CONTROLBAR:ConstructAngmarHarbingerHorde
 "Annonciateu&rs du Váldgoil (&S)"
 END
 CONTROLBAR:ToolTipBuildAngmarHarbingerHorde
-"Requiert un Hall Ancestral de niveau 3\nUnité Héros\n Limité à 2\nEfficace contre tout type d'unités, l'infanterie et les structures\nLimité à 3\n\nTrès peu de Hillmen cherchant à apprendre la sorcellerie survivent à l'école pénible de Carn Dûm. Ceux qui le font accèdent à des positions de grande importance parmi les leurs, maniant les sombres reliquats de l'influence de Morgoth pour commander le froid d'Angmar."
+"Requiert un Hall Ancestral de niveau 2\nUnité Héros\n Limité à 2\nEfficace contre les épéistes et archers\n Unité Héroïque\nLimité à 3\n\nTrès peu de Váldgoil cherchant à apprendre la sorcellerie sorcellerie survivent à la terrible scholomance du Roi-Sorcier. Ceux qui le font accèdent à des positions de grande importance parmi les leurs, maniant les sombres reliquats de l'influence de Morgoth pour commander le froid d'Angmar."
+END
+CONTROLBAR:DwimmerlaikLeadership
+"Dwimmerlaik"
+END
+CONTROLBAR:ToolTipDwimmerlaikLeadership
+"Type de modification : sort\nLes unités d’Angmar proches affectées par Décomposition lente ne perdent plus de vie au fil du temps, gagnent +15% de dégâts et d’armure, et sont légèrement soignées\n\nLes structures alliées proches gagnent +25% d’armure\n Les unités ennemies attaquantes sont empoisonnées et perdent -15% d’armure pendant 5 secondes\n Capacité passive"
 END
 CONTROLBAR:HarbingerDeepFrost
-"Givre profond [&Z]"
+"Givre mordant (&R)"
 END
 CONTROLBAR:ToolTipHarbingerDeepFrost
-"Type de modificateur : Leadership\nLes chefs ennemis à proximité sont passivement neutralisés\nCapacité passive\n\nPeut être lancé sur une structure pour infliger des dégâts sur la durée\nAu rang 3, invoque plusieurs Loups blancs temporaires et incontrôlables autour de la structure ciblée\nClique gauche sur l'icône puis clique gauche sur la structure cible"
+"Les attaques des Hérauts réduisent passivement l’armure de -15%\net la vitesse de déplacement de -10% par coup\nL’affaiblissement ne se cumule pas\nCapacité passive\n\nPeut être lancé sur une structure pour infliger des dégâts sur la durée\nAu rang 3, fait apparaître plusieurs Spectres des tertres temporaires et incontrôlables autour de la structure ciblée\nClic gauche sur l’icône puis clic gauche sur le bâtiment ciblé"
 END
-CONTROLBAR:HarbingerWitheringWinter
-"Hiver desséchan&t"
+CONTROLBAR:HarbingerRavenousZealotry
+"Zèle vorace (&T)"
 END
-CONTROLBAR:ToolTipHarbingerWitheringWinter
-"Nécessite le niveau 5\nLes unités dans la zone subissent des dégâts sur la durée pendant 20 secondes\nAffecte les ennemis et les alliés\nLes Morts-Ressuscités sont immunisés\nClique gauche sur l’icône puis clique gauche sur la zone ciblée"
+CONTROLBAR:ToolTipHarbingerRavenousZealotry
+"Requiert le niveau 5\nLes attaques des Hérauts drainent la vie et transforment les ennemis tués en Spectres\nCapacité passive\n\nType de modification : sort\n Les unités ennemies ciblées sont terrorisées pendant 5 secondes \n Les alliés à proximité sont soignés et gagnent 25% d’armure pendant 20 secondes \n Clic gauche sur l’icône puis clic gauche sur la zone ciblée"
 END
 CONTROLBAR:UpgradeAncestralHallLevel2
 "&Améliorer le Hall Ancestral au niveau 2"
 END
 CONTROLBAR:TooltipUpgradeAncestralHallLevel2
-"Permet d'entraîner les Chasseurs Váldgoil\n+10 % de vitesse de construction"
+"Permet d'entraîner les Chasseurs Váldgoil et des Hérauts Váldgoil\n+10 % de vitesse de construction"
 End
 CONTROLBAR:UpgradeAncestralHallLevel3
 "&Améliorer le Hall Ancestral au niveau 3"
 END
 CONTROLBAR:TooltipUpgradeAncestralHallLevel3
-"Permet d'entraîner Avant-garde de Carn Dû et les Annonciateurs du Váldgoil\n+25 % de vitesse de construction"
+"Permet d'entraîner Avant-garde de Carn Dûm\n+25 % de vitesse de construction"
 End
 
 CONTROLBAR:BloodFreezingPresence
@@ -85780,13 +86435,31 @@ CONTROLBAR:OrcishAllegiance
 "Allégeance Orc"
 END
 CONTROLBAR:TooltipOrcishAllegiance
-"Invoque deux hordes de Guerriers de Gundabad\nCliquez sur l'icône, puis cliquez sur la zone cible"
+"Invoque 1 bataillon de Chasseurs de Gundabad, de Guerriers et de Brutes, ainsi qu’une unique Horreur du Mont Gram\n Les alliés proches de l’Horreur du Mont Gram gagnent des ressources par élimination\nClic gauche sur l’icône puis clic gauche sur la zone ciblée"
 END
 OBJECT:GundabadWarrior
 "Guerrier de Gundabad"
 END
 OBJECT:HordeGundabadWarrior
 "Guerriers de Gundabad"
+END
+OBJECT:GundabadSpearman
+"Brute de Gundabad"
+END
+OBJECT:AngmarGundadbadSpearmanHorde
+"Brutes de Gundabad"
+END
+OBJECT:AngmarGundabadArcher
+"Chasseur de Gundabad"
+END
+OBJECT:AngmarGundabadArcherHorde
+"Chasseurs de Gundabad"
+END
+OBJECT:AngmarHorrorMtGram
+"Horreur du Mont Gram"
+END
+CONTROLBAR:SpecialAbilityOrcMarauder
+"Maraudeur orque"
 END
 CONTROLBAR:AngmarUndeadMammoth
 "Mammouth Corrompu"
@@ -85799,6 +86472,12 @@ CONTROLBAR:AngmarNorthernStorm
 END
 CONTROLBAR:TooltipAngmarNorthernStorm
 "Toutes les unités à l'intérieur du rayon sont dispersées et subissent des dégâts\n\nCliquez sur l'icône, puis cliquez sur la zone cible"
+END
+CONTROLBAR:SpellBookCursedThreshold
+"Demeure maudite"
+END
+CONTROLBAR:ToolTipSpellBookCursedThreshold
+"La structure ennemie ciblée subit des dégâts sur la durée pendant 60 secondes\nLes unités ennemies proches de la structure ciblée subissent des dégâts sur la durée et deviennent des Spectres à leur mort\nLes unités d’Angmar proches affectées par Décomposition lente ne perdent plus de vie au fil du temps, deviennent résistantes à la peur et à la terreur, gagnent +33% de dégâts et d’armure, et sont légèrement soignées pendant la durée de la capacité\nClic gauche puis clic gauche sur la zone ciblée"
 END
 CONTROLBAR:AngmarGiftOfWK
 "Don du Roi-Sorcier"
@@ -90602,7 +91281,7 @@ CONTROLBAR:SpecialAbilityLongLived
 END
 
 CONTROLBAR:ToolTipSpecialAbilityLongLived
-"Les Bârim an-Nimruzîrim soignent passivement hors combat\nCapacité passive\n\nQuand activée, le héros allié ciblé de la Dernière Alliance gagne +250 points de vie permanents et +25% de vitesse d’auto-soin\nNe se cumule pas\nClique gauche puis clique gauche sur le héros ciblé"
+"Le héros de la Dernière Alliance ciblé gagne définitivement +250 de vie et +25% de vitesse de régénération\nNe se cumule pas\nClic gauche puis clic gauche sur le héros ciblé"
 END
 
 CONTROLBAR:LABladeMasters
@@ -90853,7 +91532,7 @@ CONTROLBAR:ConstructDurinCustodianHorde
 END
 
 CONTROLBAR:ToolTipBuildDurinCustodianHorde
-"Nécessite Niveau 2\nLimité à 3\nFort contre la Cavalerie et les Héros\n\nL’ordre des gardes remonte à la fondation de Khazad-dûm. Pendant d’innombrables années, ces vénérables guerriers nains ont accompagné Durin, endormi ou revenu, servant de gardiens et conseillers, tenant des registres méticuleux de toutes les affaires intéressant leur seigneur immortel."
+"Nécessite Niveau 2 du Standard de Khazad-dûm\nLimité à 3\nFort contre la Cavalerie et les Héros\n\nL’ordre des gardes remonte à la fondation de Khazad-dûm. Pendant d’innombrables années, ces vénérables guerriers nains ont accompagné Durin, endormi ou revenu, servant de gardiens et conseillers, tenant des registres méticuleux de toutes les affaires intéressant leur seigneur immortel."
 END
 
 CONTROLBAR:ToggleDurinCustodianFormation
@@ -91034,7 +91713,7 @@ CONTROLBAR:ConstructErynGalenArcherHorde
 END
 
 CONTROLBAR:ToolTipBuildErynGalenArcherHorde
-"Archers d’Eryn Galen \n Fort contre l’infanterie \n Peut se cacher près des arbres \n \n ...ils étaient aussi indépendants, et peu enclins à se placer sous le commandement suprême de Gil-galad."
+"Archers d’Eryn Galen \n Nécessite le Niveau 2 du Standard d’Eryn Galen\n Fort contre l’infanterie \n Peut se cacher près des arbres \n \n ...ils étaient aussi indépendants, et peu enclins à se placer sous le commandement suprême de Gil-galad."
 END
 
 CONTROLBAR:SpecialAbilityHailThorns
@@ -91427,6 +92106,48 @@ Map:MAPSPgooddolguldur/Desc
 "Le Conseil Blanc et ses alliés lancent un assaut final contre le bastion de Sauron, Dol Guldur, cherchant à abattre ses murs sombres et à mettre à nu ses fosses maléfiques afin de purifier enfin la Forêt Noire de sa corruption."
 End
 
+/////BFME ANGMAR CAMPAIGN/////
+
+Map:MAPSPangangmar/Desc
+"Le Roi-Sorcier et son sinistre lieutenant arrivent dans les terres désolées d’Angmar, où ils réveillent les meutes de Loups et de Trolls qui y résident."
+End
+
+Map:MAPSPanggundabad/Desc
+"Gorg le Malfaisant mène une conquête sanglante à travers le Mont Gundabad pour plier la volonté des chefs orques à celle du Roi-Sorcier."
+End
+
+Map:MAPSPangrhudaur/Desc
+"Avec l’aide d’Úlf et de ses Guerriers Jurés, les armées d’Angmar brisent le premier des royaumes fragmentés d’Arnor."
+End
+
+Map:MAPSPangamonsul/Desc
+"Afin de percer le rempart des Collines de la Météo, le Roi-Sorcier déchaîne toute sa puissance sur la Tour d’Amon Sûl."
+End
+
+Map:MAPSPangdarkeye/Desc
+"Le roi Arveleg fuit désespérément la chute d’Amon Sûl avec le Palantír de la tour de guet. Il est poursuivi sans relâche par les hordes d’Angmar."
+End
+
+Map:MAPSPangcardolan/Desc
+"Avant que la conquête d’Arthédaïn ne commence, Cardolan doit tomber. Úlf est envoyé aux tertres royaux pour attirer le Prince de Cardolan dans un massacre."
+End
+
+Map:MAPSPangcarndum/Desc
+"Les Elfes de Fondcombe repoussent les forces d’Angmar dans la forteresse de Carn Dûm et lancent un assaut audacieux contre le sanctuaire du Roi-Sorcier."
+End
+
+Map:MAPSPangbarrowdowns/Desc
+"Après avoir reconsolidé ses forces, le Roi-Sorcier renvoie ses sorciers dans les Hauts des Tertres pour libérer une peste sur l’Eriador."
+End
+
+Map:MAPSPangfornost/Desc
+"Lors de la bataille décisive des Guerres d’Angmar, le Roi-Sorcier attaque la cité de Fornost pour tuer le roi Arvedui et achever la destruction d’Arnor."
+End
+
+Map:MAPSPangbonus/Desc
+"En représailles à la chute d’Arnor, les Hommes du Gondor et les Elfes de Fondcombe envoient leurs armées contre Angmar et livrent un assaut final sur les terres glacées."
+End
+
 
 /////SINGEPLAYER MISSIONS/////
 
@@ -91525,6 +92246,16 @@ End
 
 Map:MAPMPalternateithilien/Desc
 "L'ennemi s'attaque au Gondor : Les orques et les uruks saccagent les forêts verdoyantes d'Ithilien, les légions de Suderons marchent vers les Terres Noires sans être réfrénées . Faramir, capitaine du Gondor, et ses Rôdeurs ont pour mission d'arrêter ces ennemis avant qu'ils ne submergent la Cité Blanche.\n Carte d'aventure en solo.\n Joueur humain : Gondor"
+End
+
+/////
+
+Map:MAPMPalternatelastalliance
+"Faction alternative : Hôte de l’Ouest*"
+End
+
+Map:MAPMPalternatelastalliance/Desc
+"À la fin du Second Âge, Elendil et Gil-galad menèrent leurs armées unifiées dans une longue et sanglante guerre contre le Seigneur des Ténèbres Sauron.\nCarte de faction alternative \n Faction remplacée : Fondcombe"
 End
 
 /////
@@ -92512,6 +93243,16 @@ End
 
 Map:MAPMPemynarnen/Desc
 "L'Emyn Arnen est un ensemble de collines dans le Sud de l'Ithilien, au Sud d'Osgiliath, sur la Rive Est de l'Anduin. \n\n Capturables : Feu d'alarme. \n Antres : Trolls des collines, Gobelins. \n Région : Gondor. \n"
+End
+
+/////
+
+Map:MAPMPemyndawath
+"Emyn Dawath*"
+End
+
+Map:MAPMPemyndawath/Desc
+"Peu osent s’aventurer dans Emyn Dawath, les « Collines de l’Obscurité ». Des formes sont ressenties là où rien ne se voit, avec des mains froides qui agrippent les vivants à travers les arbres tortueux et les chênes noueux. \n Capturable : Signal de feu \n Créatures : Troll, Spectre des tertres\n Région : Rhovanion"
 End
 
 ///////////////////////
@@ -94877,6 +95618,18 @@ End
 Map:MAPMPthefolde/Desc
 "Le Fold est une région ancienne et historique du Rohan, proche de la capitale d'Édoras, et abritait à l'origine le siège du roi dans la ville d'Aldburg. C'est la patrie ancestrale de la lignée royale du Rohan. \n\n Capturables : Auberge. \n Antres : Wargs. \n Région : Rohan. \n"
 End
+
+/////
+
+Map:MAPMPthemirrorrushes
+"Les Joncs du Miroir*"
+End
+
+Map:MAPMPthemirrorrushes/Desc
+"Une vaste zone marécageuse à l’est de Nen Hithoel, où les eaux reflètent le ciel avec tant de clarté que l’on dit que les étoiles y demeurent même en plein jour. \n Créatures : Warg \n Région : Lindon"
+End
+
+
 
 ///////////////////////
 
