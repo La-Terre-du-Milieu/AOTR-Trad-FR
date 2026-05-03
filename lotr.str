@@ -17213,7 +17213,7 @@ CONTROLBAR:ConstructGondorTrebuchet
 "Trébuchet [&Z]"
 END
 CONTROLBAR:ConstructDolAmrothTrebuchet
-"Trébuchet (&Z)"
+"Trébuchet (&R)"
 END
 CONTROLBAR:ToolTipBuildDolAmrothTrebuchet
 "Requiert une Caserne Royale de Dol Amroth de niveau 2\nPuissant contre les structures\n\nUn trébuchet lance un énorme rocher à une vitesse terrifiante, brisant les défenses et écrasant les guerriers."
@@ -18595,7 +18595,7 @@ CONTROLBAR:TooltipScreech
 END
 
 CONTROLBAR:TooltipSpectersJaunt
-"Khamûl teleports to targeted area and causes enemy units to flee in terror \n Left click icon then left click on target area"
+"Khamûl se téléporte vers une zone ciblée et fait fuir les unités ennemies dans la terreur \n Clic gauche sur l’icône puis clic gauche sur la zone ciblée"
 END
 
 CONTROLBAR:TooltipScreechWitchKing
@@ -18960,7 +18960,7 @@ END
 
 CONTROLBAR:ThranduilNewMountTooltip
 //"Passive: Provides +50% armour to nearby units \n Activate: Left click to switch between \n mounted on Elk and on foot"
-"Type de modificateur : Leadership\nLes alliés près de Thranduil bénéficient d'une armure accrue de +50 %.\n\nType de modificateur : Niveau\nAu niveau 7, Thranduil revêt son armure, gagnant de façon permanente une armure accrue de +25 %.\n\nCliquez gauche pour passer entre\nmonté sur un Grand Élan et à pied."
+"Type de modificateur : Leadership\nLes alliés près de Thranduil bénéficient d'une armure accrue de +33 %.\n\nType de modificateur : Niveau\nAu niveau 7, Thranduil revêt son armure, gagnant de façon permanente une armure accrue de +25 %.\n\nCliquez gauche pour passer entre\nmonté sur un Grand Élan et à pied."
 END
 
 CONTROLBAR:ToolTipThranduilFavor_Campaign
@@ -18968,7 +18968,7 @@ CONTROLBAR:ToolTipThranduilFavor_Campaign
 END
 
 CONTROLBAR:ToolTipThranduilFavor
-"Requiert : Niveau 3 \n Accorde l'Armure Sindarine aux unités dans le rayon. \n Armure Sindarine : fournit +25% d'armure supplémentaire aux unités. \n\n Réduit le temps de rechargement aux niveaux 5, 7 et 10. \n Se cumulte avec le Charisme, les Bonus et les Sorts. \n\n Clic gauche sur l'icône puis clic gauche sur les unités ciblées."
+"Accorde l'Armure Sindarine aux unités dans le rayon. \n Armure Sindarine : fournit +25% d'armure supplémentaire aux unités. \n\n Réduit le temps de rechargement aux niveaux 5, 7 et 10. \n Se cumulte avec le Charisme, les Bonus et les Sorts. \n\n Clic gauche sur l'icône puis clic gauche sur les unités ciblées."
 END
 
 CONTROLBAR:ThranduilFavor
@@ -19408,19 +19408,19 @@ CONTROLBAR:ToggleElvenWarriorWeapons
 END
 
 CONTROLBAR:TogglePrisonGuardWeapons
-"Changer d'arme "
+"Changer d'arme [&Z]"
 END
 
 CONTROLBAR:ToggleInnMirkwoodWarriorWeapons
-"Changer d'arme "
+"Changer d'arme [&Z]"
 END
 
 CONTROLBAR:ToggleGaladhrimWarriorWeapons
-"Changer d'arme "
+"Changer d'arme [&Z]"
 END
 
 CONTROLBAR:ToggleHaldirWeapons
-"Changer d'arme "
+"Changer d'arme [&Z]"
 END
 
 CONTROLBAR:ToggleRohirrimWeapons
@@ -34213,7 +34213,7 @@ CONTROLBAR:PurchaseUpgradeSentryTowerFireArrows
 END
 
 CONTROLBAR:PurchaseUpgradeSentryTowerFireArrowsMorgul
-"Flèches de Feu Nécrotique (&W)"
+"Flèches de Feu Nécrotique (&Z)"
 END
 
 CONTROLBAR:PurchaseUpgradeSentryTowerFireArrowsRuinousTower
@@ -51482,7 +51482,7 @@ END
 
 
 SIDE:Angmar
-"Angmar"
+"Harad"
 END
 
 SIDE:Arnor
@@ -53368,11 +53368,11 @@ CONTROLBAR:ToolTipForgeWorks
 END
 
 CONTROLBAR:UpgradeAngmarForgeWorksLevel2
-"&Améliorer le Pavillon du Roi Doré au niveau 2"
+"&Améliorer le Pavillon du Roi Doré au niveau 2 (&U)"
 End
 
 CONTROLBAR:UpgradeAngmarForgeWorksLevel3
-"&Améliorer le Pavillon du Roi Doré au niveau 3"
+"&Améliorer le Pavillon du Roi Doré au niveau 3 (&U)"
 End
 
 Upgrade:AngmarForgeWorksLevel2
@@ -60306,7 +60306,7 @@ CONTROLBAR:ToolTipDainLeadership
 //"Allies near King Dain gain \n +50% damage, +50% armour, \n and earn experience twice as fast \n \n Passive ability       Does not stack"
 //"Allies near King Dain gain \n +33% damage, +33% armour, \n and earn experience twice as fast \n Passive ability"
 //"Allies near King Dain gain \n +33% damage, +33% armour, \n and earn experience 50% faster\n Passive ability"
-"Type d'Action : Charisme. \n Les alliés proches du Roi Dáin gagnent +75% d'armure et de la résistance à la peur et à la terreur. \n Dáin gagne +33% de dégâts lorsqu'il est proche du Roi Brand (bonus cumulable). \n\n Capacité passive."
+"Type d'Action : Charisme. \n Les alliés proches du Roi Dáin gagnent +50% d'armure et de la résistance à la peur et à la terreur. \n Dáin gagne +33% de dégâts lorsqu'il est proche du Roi Brand (bonus cumulable). \n\n Capacité passive."
 END
 
 CONTROLBAR:DainRestoration
@@ -63620,7 +63620,7 @@ Version:Format2
 //"Age of the Ring Version 8.3.1"
 //"Age of the Ring Version 9.1.4"
 //"Age of the Ring Version 9.2.1"
-"Age of the Ring Version 9.3"
+"Age of the Ring Version 9.3.1"
 END
 
 Version:Format3
@@ -68150,7 +68150,7 @@ CONTROLBAR:ConstructWildRisenDeadHorde
 END
 
 CONTROLBAR:ConstructWildRisenDeadHordeAdventureAngmar
-"Mort-vivants d'Arnor [&W]"
+"Mort-vivants d'Arnor [&Z]"
 END
 
 CONTROLBAR:ToolTipBuildWildRisenDeadHorde
@@ -78637,7 +78637,7 @@ OBJECT:AngmarJaggedSpireExpansion
 "Extension Flèche Dentelée"
 END
 CONTROLBAR:ConstructAngmarJaggedSpireExpansion
-"Extension Flèche Dentelée (&W)"
+"Extension Flèche Dentelée (&Z)"
 END
 CONTROLBAR:ToolTipConstructAngmarJaggedSpireExpansion
 "Tire des flèches sur les unités ennemies à proximité\nBénéficie de l’amélioration Torches Blafardes"
@@ -85426,7 +85426,7 @@ CONTROLBAR:TooltipConstructDorwinionAssembly
 END
 
 CONTROLBAR:ConstructDorwinionAssemblyLevel2
-"&Améliorer l'Assemblée de Dorwinion au Niveau 2"
+"&Améliorer l'Assemblée de Dorwinion au Niveau 2 (&U)"
 END
 
 CONTROLBAR:ToolTipBuildDorwinionAssemblyLevel2
@@ -85434,7 +85434,7 @@ CONTROLBAR:ToolTipBuildDorwinionAssemblyLevel2
 END
 
 CONTROLBAR:ConstructDorwinionAssemblyLevel3
-"&Améliorer l'Assemblée de Dorwinion au Niveau 3"
+"&Améliorer l'Assemblée de Dorwinion au Niveau 3 (&U)"
 END
 
 CONTROLBAR:ToolTipBuildDorwinionAssemblyLevel3
@@ -85450,7 +85450,7 @@ CONTROLBAR:ConstructKinnLaiGarrison
 End
 
 CONTROLBAR:ConstructKinnLaiGarrisonLevel2
-"&Améliorer la Garnison de Kinn-lai au Niveau 2"
+"&Améliorer la Garnison de Kinn-lai au Niveau 2 (&U)"
 END
 
 CONTROLBAR:ToolTipBuildKinnLaiLevel2Upgrade
@@ -85458,7 +85458,7 @@ CONTROLBAR:ToolTipBuildKinnLaiLevel2Upgrade
 END
 
 CONTROLBAR:ConstructKinnLaiGarrisonLevel3Upgrade
-"&Améliorer la Garnison de Kinn-lai au Niveau 3"
+"&Améliorer la Garnison de Kinn-lai au Niveau 3 (&U)"
 END
 
 CONTROLBAR:ToolTipBuildKinnLaiGarrisonLevel3Upgrade
@@ -85620,7 +85620,7 @@ OBJECT:DorwinionGuardHorde
 "Gardes de Dorwinion"
 END
 CONTROLBAR:ConstructDorwinionGuardHorde
-"Gardes de Dorwinion [&Z]"
+"Gardes de Dorwinion [&E]"
 END
 CONTROLBAR:ToolTipBuildDorwinionGuardHorde
 "Fort contre les piquiers\n\nCes guerriers languides patrouillent sur les routes endormies de Dorwinion, veillant à ce qu'aucun méfait ne puisse survenir et à ce que leurs flasques soient toujours pleines."
@@ -85633,7 +85633,7 @@ OBJECT:DorwinionPilumHorde
 "Auxiliaires de Dorwinion"
 END
 CONTROLBAR:ConstructDorwinionPilumHorde
-"Auxiliaires de Dorwinion [&Z]"
+"Auxiliaires de Dorwinion [&R]"
 END
 CONTROLBAR:ToolTipBuildDorwinionPilumHorde
 "Fort contre l'infanterie\n\nLevés des coins les plus éloignés du royaume, les Auxiliaires de Dorwinion sont motivés par de bons salaires et l'occasion de rester en marge du champ de bataille une fois qu'ils ont jeté tout ce qu'ils avaient à jeter."
@@ -85695,7 +85695,7 @@ CONTROLBAR:AngmarNaglurRevive
 END
 
 CONTROLBAR:AngmarNaglurHotkey
-"Naglûr (&W)"
+"Naglûr (&Z)"
 END
 
 CONTROLBAR:NaglurStalker
@@ -85829,7 +85829,7 @@ CONTROLBAR:AngmarCarghulHotkey
 End
 
 CONTROLBAR:AngmarCarghulFrostWight
-"Spectre de givre (&W)"
+"Spectre de givre (&Z)"
 End
 
 CONTROLBAR:ToolTipAngmarCarghulFrostWight
@@ -85910,7 +85910,7 @@ CONTROLBAR:AkhorahilAccursedSteel
 END
 
 CONTROLBAR:ToolTipAkhorahilAccursedSteel
-"Requiert le niveau 5\n La cible ennemie subit des dégâts de poison sur la durée et devient un spectre à sa mort \n Clic gauche sur l’icône puis clic gauche sur la cible"
+"Requiert niveau 5\n La cible ennemie subit des dégâts de poison sur la durée et devient un spectre à sa mort \n Le héros ennemi ciblé est étourdi pendant 10 secondes et ses capacités sont réinitialisées comme si elles venaient d’être utilisées \n Clic gauche sur l’icône puis clic gauche sur la cible"
 END
 
 CONTROLBAR:Forodgul
@@ -85934,7 +85934,7 @@ CONTROLBAR:AngmarValdugrHotkey
 "Úlf le Váldúgr [&T]"
 END
 CONTROLBAR:ValdugrLeadership
-"Chef de guerre des Váldgoil (&W)"
+"Chef de guerre des Váldgoil (&Z)"
 END
 CONTROLBAR:ToolTipValdugrLeadership
 "Réduit le coût de construction de la Salle ancestrale\n et des unités Váldgoil de -25%\nType de modification : charisme\nLes unités Váldgoil proches gagnent +25% de dégâts, +25% d’armure et une résistance à la peur et à la terreur\nCapacité passive \n \n Clic gauche pour alterner entre monture et forme à pied"
@@ -85987,7 +85987,7 @@ CONTROLBAR:ToolTipWKRingwraithSummon
 "À mesure que les Nazgûl se rassemblent, leur force augmente\n+10% de dégâts et +10% d'armure pour chaque Nazgûl à proximité\nCapacité passive\n\nLorsqu'il est activé, invoque un Spectre de l'Anneau\nUn maximum de trois peut être en service à tout moment\nCliquez gauche pour activer"
 END
 CONTROLBAR:LordOfAngmar
-"Seigneur d’Angmar (&W)"
+"Seigneur d'Angmar (&Z)"
 END
 CONTROLBAR:TooltipLordOfAngmar
 "À mesure que les Nazgûl se rassemblent, leur puissance augmente \n +10% de dégâts et +10% d’armure par Nazgûl à proximité \n Capacité passive\n\n Type de modification : affaiblissement passif\nNeutralise les leaderships ennemis\nCapacité passive \n\n Clic gauche pour alterner entre monture et forme à pied"
@@ -86105,10 +86105,10 @@ CONTROLBAR:ToolTipConstructGuldurPorter_Angmar
 "Cet esprit Dúnadan désincarné peut invoquer une structure avant de disparaître\nLimité à 5"
 END
 CONTROLBAR:ConstructAngmarBastion2Upgrade
-"&Améliorer la Tour d'Angmar au niveau 2"
+"Améliorer la Tour d'Angmar au niveau 2 (&U)"
 END
 CONTROLBAR:ConstructAngmarBastion3Upgrade
-"&Améliorer la Tour d'Angmar au niveau 3"
+"Améliorer la Tour d'Angmar au niveau 3 (&U)"
 END
 CONTROLBAR:ToolTipBuildAngmarBastion2Upgrade
 "Permet l’entraînement des Ravageurs d’Angmar et la recherche de l’amélioration Flèches de feu de cadavres\n+10% de vitesse de construction"
@@ -86139,7 +86139,7 @@ CONTROLBAR:ToolTipBuildWildSnowTrollHorde_Adventure
 "Requiert un Cairn Sauvage de niveau 2\nFort contre l'infanterie et les monstres\n\nLes trolls des neiges sont souvent considérés comme des créatures de conte de fées dans les régions plus civilisées de la Terre du Milieu, mais ceux qui vivent dans le climat rigoureux des montagnes brumeuses du nord et au-delà en savent plus. Ces trolls maléfiques sont minces, d'une puissance déconcertante et possèdent un grand talent pour la cruauté."
 END
 CONTROLBAR:ConstructAngmarCairnLevel2Upgrade
-"&Améliorer le Cairn Sauvage au niveau 2"
+"Améliorer le Cairn Sauvage au niveau 2 (&U)"
 END
 CONTROLBAR:ToolTipBuildAngmarCairnLevel2Upgrade
 "Permet d'entraîner les Matriarches Terrifiantes et les Pillards Trolls des Neiges\n+10% de vitesse de construction"
@@ -86160,7 +86160,7 @@ CONTROLBAR:ToolTipSpecialAbilityFrenziedBlow
 "Requiert Niveau 2\nLe Pillard Troll des Neiges frappe le sol, infligeant des dégâts et repoussant les unités ennemies, causant aussi de lourds dégâts aux structures dans un petit rayon\nClique gauche sur l'icône puis sur la cible"
 END
 CONTROLBAR:ConstructAngmarCairnLevel3Upgrade
-"&Améliorer le Cairn Sauvage au niveau 3"
+"Améliorer le Cairn Sauvage au niveau 3 (&U)"
 END
 OBJECT:AngmarSnowTrollStalker
 "Pillard Troll des Neiges"
@@ -86247,13 +86247,13 @@ OBJECT:ArnorianBarrow
 "Arnorian Barrow"
 END
 CONTROLBAR:UpgradeArnorianBarrowLevel2
-"&Améliorer le Tertre Arnorien au niveau 2"
+"Améliorer le Tertre Arnorien au niveau 2 (&U)"
 End
 CONTROLBAR:TooltipUpgradeArnorianBarrowLevel2
 "Permet d'entraîner les Habitants des Tertres de Rhudaur\nVitesse de construction +10%"
 End
 CONTROLBAR:UpgradeArnorianBarrowLevel3
-"&Améliorer le Tertre Arnorien au niveau 3"
+"Améliorer le Tertre Arnorien au niveau 3 (&U)"
 End
 CONTROLBAR:TooltipUpgradeArnorianBarrowLevel3
 "Permet d'entraîner les Spectres non ensevelis\nVitesse de construction +25%"
@@ -86400,13 +86400,13 @@ CONTROLBAR:ToolTipHarbingerRavenousZealotry
 "Requiert le niveau 5\nLes attaques des Hérauts drainent la vie et transforment les ennemis tués en Spectres\nCapacité passive\n\nType de modification : sort\n Les unités ennemies ciblées sont terrorisées pendant 5 secondes \n Les alliés à proximité sont soignés et gagnent 25% d’armure pendant 20 secondes \n Clic gauche sur l’icône puis clic gauche sur la zone ciblée"
 END
 CONTROLBAR:UpgradeAncestralHallLevel2
-"&Améliorer le Hall Ancestral au niveau 2"
+"Améliorer le Hall Ancestral au niveau 2 (&U)"
 END
 CONTROLBAR:TooltipUpgradeAncestralHallLevel2
 "Permet d'entraîner les Chasseurs Váldgoil et des Hérauts Váldgoil\n+10 % de vitesse de construction"
 End
 CONTROLBAR:UpgradeAncestralHallLevel3
-"&Améliorer le Hall Ancestral au niveau 3"
+"Améliorer le Hall Ancestral au niveau 3 (&U)"
 END
 CONTROLBAR:TooltipUpgradeAncestralHallLevel3
 "Permet d'entraîner Avant-garde de Carn Dûm\n+25 % de vitesse de construction"
@@ -86860,13 +86860,13 @@ CONTROLBAR:ToolTipConstructFornostGarrison
 "Entraîne les Dúnedain d'Arnor"
 END
 CONTROLBAR:ConstructFornostGarrisonLevel2
-"&Améliorer la garnison de Fornost au niveau 2"
+"Améliorer la garnison de Fornost au niveau 2 (&U)"
 End
 CONTROLBAR:ToolTipBuildFornostGarrisonLevel2
 "Permet le recrutement des Capitaines d'Annúminas, des Chevaliers d'Arthedain et des Archers de Cardolan\nVitesse de construction +10%"
 END
 CONTROLBAR:ConstructFornostGarrisonLevel3
-"&Améliorer la garnison de Fornost au niveau 3"
+"Améliorer la garnison de Fornost au niveau 3 (&U)"
 End
 CONTROLBAR:ToolTipBuildFornostGarrisonLevel3
 "Permet le recrutement des Trébuchets d'Arnor et des Gardes royaux de Fornost Erain\nVitesse de construction +25%"
@@ -87448,11 +87448,11 @@ CONTROLBAR:ToolTipMorgulGarrison
 END
 
 CONTROLBAR:UpgradeMorgulGarrisonLevel2
-"Améliorer la Garnison de Morgul au Niveau 2 (&A)"
+"Améliorer la Garnison de Morgul au Niveau 2 (&U)"
 END
 
 CONTROLBAR:UpgradeMorgulGarrisonLevel3
-"Améliorer la Garnison de Morgul au Niveau 3 (&A)"
+"Améliorer la Garnison de Morgul au Niveau 3 (&U)"
 END
 
 CONTROLBAR:TooltipUpgradeMorgulGarrisonLevel2
@@ -87484,7 +87484,7 @@ CONTROLBAR:ConstructMorgulFoundry
 END
 
 CONTROLBAR:PurchaseTechnologyMorgulBasicTraining
-"Rechercher Bannières de la Lune Pâle (&W)"
+"Rechercher Bannières de la Lune Pâle (&Z)"
 END
 
 CONTROLBAR:ToolTipPurchaseTechnologyMorgulBasicTraining
@@ -87576,11 +87576,11 @@ CONTROLBAR:ToolTipConstructMorgulDungeon
 END
 
 CONTROLBAR:ConstructMorgulDungeon2Upgrade
-"Améliorer le Donjon de Morgul au niveau 2 (&A)"
+"Améliorer le Donjon de Morgul au niveau 2 (&U)"
 END
 
 CONTROLBAR:ConstructMorgulDungeon3Upgrade
-"Améliorer le Donjon de Morgul au niveau 3 (&A)"
+"Améliorer le Donjon de Morgul au niveau 3 (&U)"
 END
 
 CONTROLBAR:ToolTipBuildMorgulDungeon2Upgrade
@@ -87608,7 +87608,7 @@ CONTROLBAR:ToolTipBloodthirstyMorgulFighter
 END
 
 CONTROLBAR:ConstructMorgulBladeHorde
-"Lames de Morgul (&W)"
+"Lames de Morgul (&Z)"
 END
 
 CONTROLBAR:ToolTipBuildMorgulBladeHorde
@@ -87744,7 +87744,7 @@ CONTROLBAR:ToolTipBuildMorgulHunter
 END
 
 CONTROLBAR:MorgulHunterCunning
-"Ruse Orc (&W)"
+"Ruse Orc (&Z)"
 END
 
 CONTROLBAR:TooltipMorgulHunterCunning
@@ -87772,7 +87772,7 @@ OBJECT:MorgulCapturedThrallHorde
 END
 
 CONTROLBAR:ConstructMorgulCapturedThrallHorde
-"Esclaves capturés (&W)"
+"Esclaves capturés (&Z)"
 END
 
 CONTROLBAR:ToolTipBuildMorgulCapturedThrallHorde
@@ -87892,7 +87892,7 @@ CONTROLBAR:ToolTipBuildMorgulSorcererHorde
 END
 
 CONTROLBAR:BlackCaptainChosen
-"Élus du Capitaine Noir (&W)"
+"Élus du Capitaine Noir (&Z)"
 END
 
 CONTROLBAR:ToolTipBlackCaptainChosen
@@ -87980,7 +87980,7 @@ CONTROLBAR:ToolTipBuildMorgulOlogReaper
 END
 
 CONTROLBAR:OlogReaperRoar
-"Rugissement (&W)"
+"Rugissement (&Z)"
 END
 
 CONTROLBAR:OlogReaperCleavingStrike
@@ -88643,7 +88643,7 @@ OBJECT:ShireCitadel
 END
 
 CONTROLBAR:ConstructShireHobbitHole
-"Trou de Hobbit (&W)"
+"Trou de Hobbit (&Z)"
 END
 
 CONTROLBAR:ToolTipConstructShireHobbitHole
@@ -88931,7 +88931,7 @@ CONTROLBAR:ShireGafferGamgeeRevive
 END
 
 CONTROLBAR:ShireGafferGamgeeHotkey
-"Hamfast Gamgie (&W)"
+"Hamfast Gamgie (&Z)"
 END
 
 CONTROLBAR:ToolTipProudFatherGaffer
@@ -89572,10 +89572,10 @@ CONTROLBAR:DolAmrothLothirielRevive
 "Ramenez à la vie le héros tombé, Lothíriel"
 END
 CONTROLBAR:DolAmrothLothirielHotkey
-"Lothíriel (&W)"
+"Lothíriel (&Z)"
 END
 CONTROLBAR:LothirielSummon
-"Princesse de Dol Amroth (&W)"
+"Princesse de Dol Amroth (&Z)"
 END
 CONTROLBAR:ToolTipLothirielSummon
 "Type de modification : Commandement\nLes attaques de la princesse augmentent l'armure des alliés proches de +25 % pendant 7 secondes\nCapacité passive\n\nLorsqu'elle est activée, la princesse appelle à l'aide et convoque un bataillon de miliciens d'Amroth\nAu niveau 3, la milice est remplacée par des soldats d'élite de Dol Amroth\nAu niveau 6, le bataillon convoqué est entièrement amélioré\nAu niveau 10, convoque un bataillon de guerriers Rohirrim."
@@ -89620,7 +89620,7 @@ CONTROLBAR:DolAmrothAmrothosHotkey
 "Amrothos (&E)"
 END
 CONTROLBAR:AmrothosMount
-"Falmarínin (&W)"
+"Falmarínin (&Z)"
 END
 CONTROLBAR:TooltipAmrothosMount
 "Cliquez gauche pour basculer entre\nmonté sur Falmarínin et à pied"
@@ -89656,7 +89656,7 @@ CONTROLBAR:DolAmrothErchirionHotkey
 "Erchirion (&R)"
 END
 CONTROLBAR:ErchirionMount
-"Lïrdagnir (&W)"
+"Lïrdagnir (&Z)"
 END
 CONTROLBAR:TooltipErchirionMount
 "Cliquez gauche pour basculer entre\nmonté sur Lïrdagnir et à pied"
@@ -89698,7 +89698,7 @@ CONTROLBAR:DolAmrothElphirHotkey
 "Elphir (&T)"
 END
 CONTROLBAR:ElphirHeirApparent
-"Héritier apparent (&W)"
+"Héritier apparent (&Z)"
 END
 CONTROLBAR:ToolTipElphirHeirApparent
 "Elphir monte/descend de son cheval de guerre Môrethir\nCliquez gauche pour activer\n\nQuand Elphir attaque, les unités proches gagnent +25 % de dégâts pendant 5 secondes\nAu niveau 3, Elphir est entouré de 3 champions de Tirith Aear, ils montent et descendent avec Elphir\nCapacité passive"
@@ -89740,7 +89740,7 @@ CONTROLBAR:DolAmrothImrahilHotkey
 "Imrahil (&F)"
 END
 CONTROLBAR:ImrahilPrinceDolAmroth
-"Prince de Dol Amroth (&W)"
+"Prince de Dol Amroth (&Z)"
 END
 CONTROLBAR:TooltipImrahilPrinceDolAmroth
 "Type de modification : Commandement\nLes unités alliées proches d'Imrahil gagnent +33 % de dégâts et +33 % d'armure et sont immunisées à la peur et à la terreur\nS'empile avec les buffs et sorts\nCapacité passive\n\nCliquez gauche pour monter Imrahil sur son cheval Autharan."
@@ -89876,7 +89876,7 @@ CONTROLBAR:ToolTipRecruitBelfalasMarinesRotK
 "Fort contre l'infanterie\n\nConformément à ses traditions maritimes, la terre côtière de Dol Amroth entretenait une force de soldats marins chargés de sécuriser les eaux entre le Gondor et le lointain Harad.\nArcher, peut basculer vers les épées\nPeut recevoir des Lames forgées et des Porteurs de bannière"
 END
 CONTROLBAR:BelfalasSinkThem
-"Coulez-les ! (&W)"
+"Coulez-les ! (&Z)"
 End
 CONTROLBAR:ToolTipBelfalasSinkThem
 "Nécessite le niveau 2\nLes attaques des marines infligent des dégâts de feu pendant 30 secondes\nCliquez gauche pour activer"
@@ -89897,7 +89897,7 @@ OBJECT:DolAmrothSwordsman
 END
 
 CONTROLBAR:RecruitDolAmrothSwordsmen
-"Recruter des Hommes d'Armes de Dol Amroth (&W)"
+"Recruter des Hommes d'Armes de Dol Amroth (&Z)"
 END
 
 CONTROLBAR:ToolTipRecruitDolAmrothSwordsmen
@@ -89917,7 +89917,7 @@ CONTROLBAR:TooltipDolAmrothShipAndSwanPike
 END
 
 CONTROLBAR:DolAmrothThorongilTactics
-"Tactiques de Thorongil (&W)"
+"Tactiques de Thorongil (&Z)"
 END
 CONTROLBAR:ToolTipDolAmrothThorongilTactics
 "Nécessite le niveau 4\nUne tactique apprise du mystérieux capitaine Thorongil lors de l'attaque d'Umbar\nLes soldats d'élite lancent une volée de bombes incendiaires, mettant le feu à la zone sélectionnée\nCliquez gauche puis cliquez gauche sur l'unité ciblée"
@@ -89953,7 +89953,7 @@ CONTROLBAR:ToolTipConstructRoyalSwanGuardHorde
 "Nécessite la caserne royale de Dol Amroth niveau 3 et l'amélioration de la forteresse Tirith Aear\nFort contre tous\n\nVainqueurs incontestés de joutes, mélées et autres concours chevaleresques, les champions de Tirith Aear représentent le summum de la chevalerie amrothienne.\nUnité héroïque. Limitée à 1"
 END
 CONTROLBAR:RoyalSwanMount
-"Monter (&W)"
+"Monter (&Z)"
 END
 CONTROLBAR:RoyalSwanMountTooltip
 "Cliquez gauche pour basculer entre monté et à pied"
@@ -89992,7 +89992,7 @@ OBJECT:DolAmrothSquire
 "Écuyer de Dol Amroth"
 END
 CONTROLBAR:ConstructDolAmrothSquiresHorde
-"Recruter les écuyers de Dol Amroth (&W)"
+"Recruter les écuyers de Dol Amroth (&Z)"
 END
 CONTROLBAR:ToolTipConstructDolAmrothSquiresHorde
 "Fort contre l'infanterie\n\nPour devenir chevalier de Dol Amroth, il faut parcourir une longue route de pratique et de service envers l'ordre chevaleresque établi."
@@ -90032,7 +90032,7 @@ OBJECT:DolAmrothHandmaiden
 "Dame de compagnie"
 End
 CONTROLBAR:ConstructDolAmrothHandmaiden
-"Recruter la dame de compagnie (&W)"
+"Recruter la dame de compagnie (&Z)"
 END
 CONTROLBAR:ToolTipConstructDolAmrothHandmaiden
 "Unité de soutien non combattante\n Limitée à 3.\nLa dame de compagnie est défendue par plus d'escorte à mesure qu'elle monte de niveau\n\nLes dames de compagnie servent la princesse de Dol Amroth et bien qu'elles soient loyales, elles s'ennuient souvent beaucoup."
@@ -90077,7 +90077,7 @@ CONTROLBAR:ToolTipBuildPelargirNoble
 "Nécessite la maison d'hôtes niveau 2\nUnité de soutien, accorde des buffs permanents aux héros et structures\n\nPelargir entretient des liens avec la Maison Royale et, en tant que telle, beaucoup de ses nobles aiment séjourner à Belfalas."
 END
 CONTROLBAR:PelargirNobleDanceLessons
-"Cours de danse (&W)"
+"Cours de danse (&Z)"
 END
 CONTROLBAR:ToolTipPelargirNobleDanceLessons
 "Le noble donne des cours de danse !\nÉtonnamment, cela a des avantages\nLe héros sélectionné gagne +10 % de vitesse de déplacement de manière permanente\nCliquez gauche sur l'icône puis cliquez gauche sur l'unité ciblée"
@@ -90104,7 +90104,7 @@ CONTROLBAR:ToolTipBuildMasterAtArms
 "Nécessite la maison d'hôtes niveau 3\nUnité héroïque\nLimitée à 1\n\nLe maître d'armes amrothien a instruit tous les jeunes princes de Dol Amroth dans l'art de l'escrime. Méfiez-vous d'un vieil homme dans une profession où les hommes meurent jeunes !"
 END
 CONTROLBAR:MasterAtArmsDisarm
-"Désarmer (&W)"
+"Désarmer (&Z)"
 END
 CONTROLBAR:ToolTipMasterAtArmsDisarm
 "Le maître d'armes désarme son adversaire\nL'ennemi sélectionné ne peut pas infliger de dégâts pendant 7 secondes\n\nLorsqu'il est utilisé sur le Roi-sorcier, le Nécromancien, le Roi d'or, Gimli, Thorin, Elessar, Éomer, Elrond, Glorfindel, Bolg, Lurtz, Celeborn ou Thranduil, ils perdent plutôt -25 % de dégâts pendant 7 secondes\nCliquez gauche sur l'icône puis cliquez gauche sur la cible"
@@ -90201,7 +90201,7 @@ OBJECT:DolAmrothFortress
 "Forteresse de Dol Amroth"
 END
 CONTROLBAR:PurchaseUpgradeDAFortressBanners
-"Bannières du Cygne d'Argent (&W)"
+"Bannières du Cygne d'Argent (&Z)"
 END
 CONTROLBAR:ToolTipPurchaseUpgradeDAFortressBanners
 "Type de modification : Commandement\nLes alliés proches de la forteresse gagnent +33 % de dégâts, +33 % d'armure, et gagnent de l'expérience 50 % plus rapidement\n\nRéduit le coût des héros de 10 %\nRéduit le temps de recrutement des héros de 10 %\nRéduit le coût des bâtisseurs de 20 %"
@@ -90349,13 +90349,13 @@ OBJECT:DolAmrothGuardhouseDescription
 "Niveau 2 : +10 % de vitesse de construction plus rapide\nNiveau 3 : +25 % de vitesse de construction plus rapide"
 END
 CONTROLBAR:ConstructDolAmrothGuardhouseLevel2Upgrade
-"Améliorer la caserne au niveau 2 (&A)"
+"Améliorer la caserne au niveau 2 (&U)"
 END
 CONTROLBAR:ToolTipBuildDolAmrothGuardhouseLevel2Upgrade
 "Permet l'entraînement des marins de Belfalas\n+10 % de vitesse de construction plus rapide"
 END
 CONTROLBAR:ConstructDolAmrothGuardhouseLevel3Upgrade
-"Améliorer la caserne au niveau 3 (&A)"
+"Améliorer la caserne au niveau 3 (&U)"
 END
 CONTROLBAR:ToolTipBuildDolAmrothGuardhouseLevel3Upgrade
 "+25 % de vitesse de construction plus rapide"
@@ -90368,13 +90368,13 @@ OBJECT:DolAmrothRoyalBarracksDescription
 "Niveau 2 : +10 % de vitesse de construction plus rapide\nNiveau 3 : +25 % de vitesse de construction plus rapide"
 END
 CONTROLBAR:ConstructDolAmrothRoyalBarracksLevel2Upgrade
-"Améliorer la caserne royale au niveau 2 (&A)"
+"Améliorer la caserne royale au niveau 2 (&U)"
 END
 CONTROLBAR:ToolTipBuildDolAmrothRoyalBarracksLevel2Upgrade
 "Permet l'entraînement des trébuchets\nRépare les engins de sièges proches\n+10 % de vitesse de construction plus rapide"
 END
 CONTROLBAR:ConstructDolAmrothRoyalBarracksLevel3Upgrade
-"Améliorer la caserne royale au niveau 3 (&A)"
+"Améliorer la caserne royale au niveau 3 (&U)"
 END
 CONTROLBAR:ToolTipBuildDolAmrothRoyalBarracksLevel3Upgrade
 "Permet l'entraînement des champions de Tirith Aear et permet aux trébuchets de rechercher l'amélioration Pierres enflammées\n Augmente la réparation des engins de sièges\n+25 % de vitesse de construction plus rapide"
@@ -90400,13 +90400,13 @@ OBJECT:AmrothianGuestHouseDescription
 "Niveau 2 : +10 % de vitesse de construction plus rapide\nNiveau 3 : +25 % de vitesse de construction plus rapide"
 END
 CONTROLBAR:PurchaseUpgradeGuestHouseLevel2
-"Améliorer la maison d'hôtes au niveau 2 (&A)"
+"Améliorer la maison d'hôtes au niveau 2 (&U)"
 END
 CONTROLBAR:ToolTipBuildGuestHouseLevel2
 "Permet l'entraînement des nobles de Pelargir\n+10 % de vitesse de construction plus rapide"
 END
 CONTROLBAR:PurchaseUpgradeGuestHouseLevel3
-"Améliorer la maison d'hôtes au niveau 3 (&A)"
+"Améliorer la maison d'hôtes au niveau 3 (&U)"
 END
 CONTROLBAR:ToolTipBuildGuestHouseLevel3
 "Permet l'entraînement du maître d'armes\n+25 % de vitesse de construction plus rapide\nAjoute une tour de flèches défensive"
@@ -90826,6 +90826,10 @@ END
 
 CONTROLBAR:SelectUpgradesLAHeraldry
 "Améliorations d’Héraldique (&T)"
+END
+
+CONTROLBAR:SelectUpgradesLAHeraldryFortressMap
+"Améliorations d’Héraldique (&R)"
 END
 
 CONTROLBAR:ToolTipCommandSelectUpgradesLAHeraldry
