@@ -16325,10 +16325,10 @@ CONTROLBAR:ConstructGondorBarracksLevel3Upgrade
 "&Améliore la Caserne au niveau 3"
 END
 CONTROLBAR:ConstructGondorStable2Upgrade
-"&Améliore l'Écurie au niveau 2"
+"Améliore l'Écurie au niveau 2 (&U)"
 END
 CONTROLBAR:ConstructGondorStableLevel3Upgrade
-"&Améliore l'Écurie au niveau 3"
+"Améliore l'Écurie au niveau 3 (&U)"
 END
 CONTROLBAR:ConstructGondorWorkshop2Upgrade
 "&Améliore l'Atelier de Siège au niveau 2"
@@ -89788,7 +89788,7 @@ OBJECT:DolAmrothEomer
 "Roi Éomer Éadig"
 END
 CONTROLBAR:EomerKingOfTheMark
-"Roi du Mark (&W)"
+"Roi du Mark (&Z)"
 END
 CONTROLBAR:ToolTipEomerKingOfTheMark
 "Type de modification : Commandement\nLa cavalerie alliée proche gagne +33 % de dégâts et +33 % d'armure\nLorsqu'il est proche de Lothíriel, Éomer gagne +10 % de dégâts et +10 % d'armure\nCapacité passive\n\nCliquez gauche pour monter ou descendre de Patte-feu"
@@ -89840,7 +89840,7 @@ OBJECT:AmrothianMilitia
 "Milice amrothienne"
 END
 CONTROLBAR:RecruitAmrothianMilitia
-"Recruter la Milice amrothienne (&W)"
+"Recruter la Milice amrothienne (&Z)"
 End
 CONTROLBAR:ToolTipRecruitAmrothianMilitia
 "Fort contre les piquiers\n\nAux époques de bouleversements, le prince de Dol Amroth renforçait son armée en utilisant des miliciens conspués, provenant de diverses villes et villages environnants le promontoire."
@@ -90167,7 +90167,7 @@ OBJECT:DolAmrothFarm
 "Marché aux poissons"
 END
 CONTROLBAR:ConstructDolAmrothFarm
-"Construire un marché aux poissons (&W)"
+"Construire un marché aux poissons (&Z)"
 END
 CONTROLBAR:ToolTipConstructDolAmrothFarm
 "Fournit du poisson frais comme ressource en fonction du terrain disponible\nAugmente la limite de points de commandement de 50"
@@ -90280,7 +90280,7 @@ CONTROLBAR:ToolTipLightOfTirithAear
 END
 
 CONTROLBAR:PurchaseExpiredHaul
-"Acheter l'amélioration de la cargaison périmée (&W)"
+"Acheter l'amélioration de la cargaison périmée (&Z)"
 END
 
 CONTROLBAR:ToolTipPurchaseExpiredHaul
@@ -90307,7 +90307,7 @@ CONTROLBAR:ToolTipPungentSmell
 END
 
 CONTROLBAR:PurchaseTechnologyDolAmrothBasicTraining
-"Rechercher les Bannières du Cygne (&W)"
+"Rechercher les Bannières du Cygne (&Z)"
 END
 CONTROLBAR:ToolTipPurchaseTechnologyDolAmrothBasicTraining
 "Permet aux bataillons d'acheter l'amélioration Bannières du Cygne\nMonte un bataillon au niveau 2"
