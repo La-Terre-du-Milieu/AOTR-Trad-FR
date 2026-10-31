@@ -17,7 +17,7 @@ SCRIPT:Hint_Ithilien_Forbidden Pool
 End
 
 SCRIPT:Hint_Ithilien_Warden
-"Marchez doucement ! Si ces orcs nous repèrent, ils avertiront les forces du Mordor de notre localisation !"
+"Marchez doucement ! Si ces orcs nous repèrent, ils avertiront les forces du Mordor de notre localisation !"
 End
 
 SCRIPT:Hint_Ithilien_Warden 2
@@ -29,19 +29,19 @@ SCRIPT:Hint_Ithilien_Warden 3
 End
 
 SCRIPT:Hint_Ithilien_Warden Warning
-"Ces orcs tentent de s'échapper, arrêtez-les avant qu'ils n'alertent le Mordor !"
+"Ces orcs tentent de s'échapper, arrêtez-les avant qu'ils n'alertent le Mordor !"
 End
 
 SCRIPT:Hint_Ithilien_Warden Warning 2
-"Un guetteur s'est échappé. Échappez-vous de la zone et préparez-vous pour l'équipe de recherche du Mordor !"
+"Un guetteur s'est échappé. Échappez-vous de la zone et préparez-vous pour l'équipe de recherche du Mordor !"
 End
 
 SCRIPT:Hint_Ithilien_Warden Warning 3
-"Une équipe de recherche du Mordor est arrivée. Nous devons les éliminer avant d'être envahis !"
+"Une équipe de recherche du Mordor est arrivée. Nous devons les éliminer avant d'être envahis !"
 End
 
 SCRIPT:Hint_Ithilien_Warden Timer
-"L'équipe de recherche du Mordor arrivera dans :"
+"L'équipe de recherche du Mordor arrivera dans :"
 End
 
 SCRIPT:Hint_Ithilien_Madril_Arrived
@@ -57,11 +57,11 @@ SCRIPT:Hint_Ithilien_Damrod Camps 02
 End
 
 SCRIPT:Hint_Ithilien_Anborn Reached
-"Capitaine Faramir ! Mes rangers et moi sommes à votre disposition !"
+"Capitaine Faramir ! Mes rangers et moi sommes à votre disposition !"
 End
 
 SCRIPT:Hint_Ithilien_Mablung Reached
-"Une arrivée des plus opportunes, mon capitaine. Le commandement est à vous !"
+"Une arrivée des plus opportunes, mon capitaine. Le commandement est à vous !"
 End
 
 SCRIPT:Hint_Ithilien_Rangers Reveal
@@ -81,7 +81,7 @@ SCRIPT:Hint_Ithilien_Bodkin Arrows
 End
 
 SCRIPT:Timer_Ithilien_Convoy
-"Le convoi Haradrim arrivera dans :"
+"Le convoi Haradrim arrivera dans :"
 End
 
 SCRIPT:Hint_Ithilien_Convoy Tent
@@ -105,35 +105,35 @@ SCRIPT:Hint_Ithilien_Convoy 01
 End
 
 SCRIPT:Dialogue_Ithilien_Cine_Madril_00
-"MADRIL : Capitaine Faramir, nous sommes revenus avec des nouvelles des éclaireurs. Suivez-nous jusqu'au bord de la rivière."
+"MADRIL : Capitaine Faramir, nous sommes revenus avec des nouvelles des éclaireurs. Suivez-nous jusqu'au bord de la rivière."
 End
 
 SCRIPT:Dialogue_Ithilien_Cine_Madril_01A
-"MADRIL : Capitaine Faramir, nous sommes revenus avec des nouvelles des éclaireurs."
+"MADRIL : Capitaine Faramir, nous sommes revenus avec des nouvelles des éclaireurs."
 End
 
 SCRIPT:Dialogue_Ithilien_Cine_Madril_01B
-"MADRIL : Capitaine Faramir ! Les éclaireurs ont fait leur rapport."
+"MADRIL : Capitaine Faramir ! Les éclaireurs ont fait leur rapport."
 End
 
 SCRIPT:Dialogue_Ithilien_Cine_Madril_02
-"MADRIL : Un grand convoi de forces Haradrim a été aperçu en train de remonter des frontières sud."
+"MADRIL : Un grand convoi de forces Haradrim a été aperçu en train de remonter des frontières sud."
 End
 
 SCRIPT:Dialogue_Ithilien_Cine_Madril_03
-"MADRIL : Ils devraient atteindre le col oriental d'ici demain."
+"MADRIL : Ils devraient atteindre le col oriental d'ici demain."
 End
 
 SCRIPT:Dialogue_Ithilien_Cine_Madril_04
-"FARAMIR : C'est une mauvaise nouvelle en effet. Déjà les orcs ont doublé leur nombre \n et leurs patrouilles nous ont maintenant atteint ici à Henneth Annun..."
+"FARAMIR : C'est une mauvaise nouvelle en effet. Déjà les orcs ont doublé leur nombre \n et leurs patrouilles nous ont maintenant atteint ici à Henneth Annun..."
 End
 
 SCRIPT:Dialogue_Ithilien_Cine_Madril_05
-"FARAMIR : Si nous voulons arrêter ce convoi, nous devons d'abord regrouper les hommes qui nous restent et frapper au pied du Mordor en Ithilien."
+"FARAMIR : Si nous voulons arrêter ce convoi, nous devons d'abord regrouper les hommes qui nous restent et frapper au pied du Mordor en Ithilien."
 End
 
 SCRIPT:Dialogue_Ithilien_Cine_Madril_06
-"FARAMIR : Reposez vos hommes, car nous devons partir aux premières lueurs du jour."
+"FARAMIR : Reposez vos hommes, car nous devons partir aux premières lueurs du jour."
 End
 
 SCRIPT:Debug
@@ -150,7 +150,7 @@ End
 ///////////////////////////////////////////////////////////////
 
 DIALOGEVENT:mgfotr_ithilienofficer001
-"Nous devons éliminer toutes les patrouilles du Mordor avant qu'elles ne découvrent notre refuge secret !" 
+"Nous devons éliminer toutes les patrouilles du Mordor avant qu'elles ne découvrent notre refuge secret !" 
 END
 
 DIALOGEVENT:mgfotr_ithilienofficer002
@@ -174,35 +174,35 @@ DIALOGEVENT:mgfotr_ithilienofficer006
 END
 
 DIALOGEVENT:mgfotr_ithilienofficer007
-"Attention à ce groupe d'orc !" 
+"Attention à ce groupe d'orc !" 
 END
 
 DIALOGEVENT:mgfotr_ithilienofficer008
-"Ces guetteurs alerteront le Mordor sur nos positions s'ils nous découvrent !" 
+"Ces guetteurs alerteront le Mordor sur nos positions s'ils nous découvrent !" 
 END
 
 DIALOGEVENT:mgfotr_ithilienofficer009
-"Les guetteurs orcs se sont échappés ! Nous devons fuir la zone et nous préparer aux renforts du Mordor !" 
+"Les guetteurs orcs se sont échappés ! Nous devons fuir la zone et nous préparer aux renforts du Mordor !" 
 END
 
 DIALOGEVENT:mgfotr_ithilienofficer010
-"Les orcs brûlent les arbres ! Ne les laissez pas enlever notre couverture !" 
+"Les orcs brûlent les arbres ! Ne les laissez pas enlever notre couverture !" 
 END
 
 DIALOGEVENT:mgfotr_ithilienofficer011
-"D'autres guetteurs orcs ont fui !" 
+"D'autres guetteurs orcs ont fui !" 
 END
 
 DIALOGEVENT:mgfotr_ithilienofficer012
-"Encore plus de guetteurs se sont échappés ! Battez en retraite pour vous cachez !" 
+"Encore plus de guetteurs se sont échappés ! Battez en retraite pour vous cachez !" 
 END
 
 DIALOGEVENT:mgfotr_ithilienofficer013
-"Ces guetteurs révéleront notre position !" 
+"Ces guetteurs révéleront notre position !" 
 END
 
 DIALOGEVENT:mgfotr_ithilienofficer014
-"Nous ne pouvons plus permettre à d'autres guetteurs orcs de s'échapper !" 
+"Nous ne pouvons plus permettre à d'autres guetteurs orcs de s'échapper !" 
 END
 
 DIALOGEVENT:mgfotr_ithilienofficer015
@@ -214,7 +214,7 @@ DIALOGEVENT:mgfotr_ithilienofficer016
 END
 
 DIALOGEVENT:mgfotr_ithilienofficer017
-"Si nous détruisons ce camp, l'avancée de l'ennemi sera ralentie !" 
+"Si nous détruisons ce camp, l'avancée de l'ennemi sera ralentie !" 
 END
 
 DIALOGEVENT:mgfotr_ithilienofficer018
@@ -242,7 +242,7 @@ DIALOGEVENT:mgfotr_ithilienofficer023
 END
 
 DIALOGEVENT:mgfotr_ithilienofficer024
-"Les rangers seront cachés. Appelez-les ! Ils répondront et nous indiqueront leur emplacement." 
+"Les rangers seront cachés. Appelez-les ! Ils répondront et nous indiqueront leur emplacement." 
 END
 
 DIALOGEVENT:mgfotr_ithilienofficer025
@@ -254,7 +254,7 @@ DIALOGEVENT:mgfotr_ithilienofficer026
 END
 
 DIALOGEVENT:mgfotr_ithilienofficer027
-"Il reste cinq scieries, il faut les détruire !" 
+"Il reste cinq scieries, il faut les détruire !" 
 END
 
 DIALOGEVENT:mgfotr_ithilienofficer028
@@ -270,11 +270,11 @@ DIALOGEVENT:mgfotr_ithilienofficer030
 END
 
 DIALOGEVENT:mgfotr_ithilienofficer031
-"Il ne reste qu'une scierie !" 
+"Il ne reste qu'une scierie !" 
 END
 
 DIALOGEVENT:mgfotr_ithilienofficer032
-"C'est la dernière de leurs misérables scieries !" 
+"C'est la dernière de leurs misérables scieries !" 
 END
 
 DIALOGEVENT:mgfotr_ithilienofficer033
@@ -286,11 +286,11 @@ DIALOGEVENT:mgfotr_ithilienofficer034
 END
 
 DIALOGEVENT:mgfotr_ithilienofficer035
-"Félicitations, Hommes du Gondor ! Sans leur camp, les forces du Mordor seront coupées !" 
+"Félicitations, Hommes du Gondor ! Sans leur camp, les forces du Mordor seront coupées !" 
 END
 
 DIALOGEVENT:mgfotr_ithilienofficer036
-"Un grand convoi Haradrim arrivera bientôt. Nous devons être prêts à les arrêter !" 
+"Un grand convoi Haradrim arrivera bientôt. Nous devons être prêts à les arrêter !" 
 END
 
 DIALOGEVENT:mgfotr_ithilienofficer037
@@ -310,15 +310,15 @@ DIALOGEVENT:mgfotr_ithilienofficer040
 END
 
 DIALOGEVENT:mgfotr_ithilienofficer041
-"Il y a encore des zones de la crête non protégées. Nous devrions nous rendre rapidement compte de ces points de vue !" 
+"Il y a encore des zones de la crête non protégées. Nous devrions nous rendre rapidement compte de ces points de vue !" 
 END
 
 DIALOGEVENT:mgfotr_ithilienofficer042
-"Le dernier convoi est arrivé ! Détruisez les derniers de ces envahisseurs immondes !" 
+"Le dernier convoi est arrivé ! Détruisez les derniers de ces envahisseurs immondes !" 
 END
 
 DIALOGEVENT:mgfotr_ithilienofficer043
-"C'est fini ! La force Haradrim a été détruite !" 
+"C'est fini ! La force Haradrim a été détruite !" 
 END
 
 DIALOGEVENT:mgfotr_ithilienofficer044
@@ -334,5 +334,5 @@ DIALOGEVENT:mgfotr_ithilienofficer046
 END
 
 SCRIPT:FailsafeTimer
-"La mission se terminera dans :"
+"La mission se terminera dans :"
 END
