@@ -67,6 +67,12 @@ par *delta* avec des scripts, plutôt qu'à la main sur un fichier de 3 Mo.
   source/data/english/movies/<Video>.ini sous-titres de vidéo (textes SUBTITLE:AOTRFR_* ajoutés au lotr.str du submod)
   ```
   D'après la FAQ, les submods sont **solo uniquement** pour l'instant (à confirmer en test pour le genre *Translation*).
+- **Creator Tools du launcher (2.1.0)** : fiche du submod (genre *Translation*, *French*, AotR version, description,
+  changelog) enregistrée dans `mods_manifest.json` ; `build_submod.py` ne fait que lire ce manifeste. « Publish Submod »
+  crée seulement un zip local (`Mods/traduction-fr/traduction-fr_<v>.zip` + `aotr_submod_details.json`), à soumettre
+  sur le Discord d'AotR. Leurs CGU : « only upload submods that you made or have permission to share » → question des
+  voix EA et du son des films posée à l'équipe (10/11/2026). En attendant : zip `paquet_test.py --public` sur
+  `srv.laterredumilieu.fr`.
 - **Version 1 (01/11/2026) : « VO sous-titrée »** — pas d'alternance VF/VO dans une même scène. Texte et voix d'unités
   en FR ; dialogues de campagne en VO (toutes les missions mêlent répliques VF et ajouts d'AotR en anglais) ; cinématiques
   100 % films en VF, cinématiques mixtes (11) et intro `CS01` en VO avec sous-titres complets (texte du doublage pour les
@@ -101,7 +107,7 @@ par *delta* avec des scripts, plutôt qu'à la main sur un fichier de 3 Mo.
 | `soustitres.py transcrit \| construit` | Transcrit (faster-whisper) les passages anglais dans `soustitres.csv` (colonne FR à remplir) ; génère les sous-titres de vidéo du submod |
 | `soustitres_cartes.py <sortie> [carte…] \| --bilan <rapport.csv> [carte…]` | Ajoute aux scripts des cartes solo un `SHOW_MILITARY_CAPTION` (« PERSONNAGE : FR ») après chaque réplique jouée sans texte (`SOUND_PLAY_NAMED`, `PLAY_SOUND_EFFECT*`) ; texte : `repliques.csv`, sinon sous-titres VF de BFME1. Appelé par `build_submod.py` (carte réécrite non compressée, ~6 000 sous-titres) ; les textes vont dans le `lotr.str` du submod (un map.str vide dans le mod n'était pas lu : MISSING à la Dernière Alliance), sauf les clés qu'un map.str définit déjà. Locuteur deviné du nom du son (`SPEAKER_CODES` pour les exceptions : `Cine` sans locuteur, Saroumane, Haldir…) ; extraits `Cine` sans parole non sous-titrés. `--bilan` : chaque son lancé par un script, sous-titré ou non. Un seul emplacement pour `SHOW_MILITARY_CAPTION` (le dernier texte remplace le précédent) : `overlapped()` date textes et sons en suivant les minuteurs de chaque scène et n'ajoute pas notre sous-titre s'il couperait un texte d'AotR de plus de 3 s ou s'il serait remplacé en moins de 1,5 s (doublon) ; `SCRIPT_FIXES` : actions ajoutées aux scripts d'AotR (Feux d'alarme : noms de lieux en pause pendant les cinématiques, sinon « RATH DÍNEN » cachait Pippin) |
 | `build_submod.py --dest <dir> \| --mod "<nom>" [--sans-audio] [--campagne-vf]` | Assemble le submod (dans `work/` ou dans le dossier du launcher), avec cinématiques VF et sous-titres. Par défaut (version 1) : dialogues de campagne (`m…_*.wav`) en VO, cinématique sous-titrée = VO ; `--campagne-vf` remet la VF des campagnes |
-| `paquet_test.py [sortie.zip] [--sans-audio]` | Zip du submod du launcher pour un testeur (dossier + bloc de `mods_manifest.json` + LISEZMOI) ; `--sans-audio` ≈ 50 Mo au lieu de ≈ 860 Mo. Contient des ressources EA/films : envoi privé seulement |
+| `paquet_test.py [sortie.zip] [--sans-audio] [--public]` | Zip du submod du launcher (version active + bloc de `mods_manifest.json` + `Installer.bat`/`installer.ps1` qui copie le dossier et inscrit le submod sans toucher aux autres + LISEZMOI). Par défaut version de test pour un testeur ; `--public` → `work/Traduction_FR_AotR_<version>.zip`, mis sur `srv.laterredumilieu.fr` et lié depuis le tuto (`laterredumilieu/pages/mods/aotr.vue`). `--sans-audio` ≈ 50 Mo au lieu de ≈ 800 Mo |
 
 
 Lancer les scripts depuis la racine du dépôt (`python tools/...`). Sous Git Bash, ajouter `PYTHONIOENCODING=utf-8` pour l'affichage.
