@@ -72,7 +72,8 @@ par *delta* avec des scripts, plutôt qu'à la main sur un fichier de 3 Mo.
   crée seulement un zip local (`Mods/traduction-fr/traduction-fr_<v>.zip` + `aotr_submod_details.json`), à soumettre
   sur le Discord d'AotR. Leurs CGU : « only upload submods that you made or have permission to share » → question des
   voix EA et du son des films posée à l'équipe (10/11/2026). En attendant : zip `paquet_test.py --public` sur
-  `srv.laterredumilieu.fr`.
+  `srv.laterredumilieu.fr` (accès et envoi : section « Serveur de fichiers » de `../Taniquetil/CLAUDE.md`, les
+  identifiants restent là-bas).
 - **Version 1 (01/11/2026) : « VO sous-titrée »** — pas d'alternance VF/VO dans une même scène. Texte et voix d'unités
   en FR ; dialogues de campagne en VO (toutes les missions mêlent répliques VF et ajouts d'AotR en anglais) ; cinématiques
   100 % films en VF, cinématiques mixtes (11) et intro `CS01` en VO avec sous-titres complets (texte du doublage pour les

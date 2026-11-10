@@ -70,9 +70,11 @@ if (-not (Test-Path $src)) {{
 }}
 if (-not (Test-Path $Mods)) {{ New-Item -ItemType Directory -Path $Mods | Out-Null }}
 $dest = Join-Path $Mods $key
-if (Test-Path $dest) {{ Remove-Item $dest -Recurse -Force }}
+# anciennes versions du submod remplacées ; les fichiers posés à côté (zip du launcher…) sont gardés
+if (Test-Path $dest) {{ Get-ChildItem $dest -Directory | Remove-Item -Recurse -Force }}
+else {{ New-Item -ItemType Directory -Path $dest | Out-Null }}
 Write-Host "Copie des fichiers (cela peut prendre une minute)..."
-Copy-Item $src $dest -Recurse
+Copy-Item (Join-Path $src '*') $dest -Recurse -Force
 
 $block = (Get-Content (Join-Path $PSScriptRoot 'mods_manifest.json') -Raw -Encoding UTF8 | ConvertFrom-Json).submods.$key
 $path = Join-Path $Mods 'mods_manifest.json'
