@@ -1,0 +1,574 @@
+/////////////////////////////////
+////////////DIALOGUE/////////////
+/////////////////////////////////
+
+
+////////////INTRO///////////////
+
+SCRIPT:mgfotr_gondorsoldier031
+"Soldat : Regardez ! Les forces des Terres lointaines arrivent !"
+END
+
+SCRIPT:mgfotr_gandalf303
+"Gandalf : De noirs nuages s'amassent au-dessus des Montagnes d'Ombre. Il ne faudra pas longtemps avant que les ténèbres du Mordor n'atteignent la Cité Blanche."
+END
+
+SCRIPT:mgfotr_gandalf304
+"Gandalf : Mais Minas Tirith n'est pas seule. À l'heure du besoin,\nles vaillants seigneurs des fiefs du Gondor ont rassemblé tous les hommes qu'ils ont pu."
+END
+
+SCRIPT:mgfotr_gandalf305
+"Gandalf : Mais cela suffira-t-il ?"
+END
+
+SCRIPT:mgfotr_gandalf306
+"Gandalf : C'est devant ces murs, sur les champs du Pelennor, que se décidera le sort de notre temps."
+END
+
+SCRIPT:mgfotr_gandalf328
+"Les seigneurs des terres lointaines du Gondor sont venus à notre défense. Suivez-moi, Peregrin Touque. Allons accueillir ces nobles capitaines des Hommes."
+END
+
+SCRIPT:mgfotr_gandalf307
+"Vaillant seigneur Forlong ! Vos hardis porteurs de hache seront d'un grand secours à la Cité."
+END
+
+SCRIPT:mgfotr_gandalf308
+"Dervorin, héritier du Val de Ringlo. J'ai connu votre père dans sa jeunesse. Je suis heureux de voir que sa force se perpétue en son rejeton."
+END
+
+SCRIPT:mgfotr_gandalf309
+"Duinhir du Morthond. Vos archers ont le visage grave et sont endurcis par les combats. Le Gondor vous remercie de votre prompte arrivée. Ce sont vos fils, je suppose ?"
+END
+
+SCRIPT:mgfotr_gandalf310
+"Vous êtes devenu un fier chevalier, seigneur Hirluin. J'ai entendu parler de la galanterie et de l'habileté aux armes de vos guerriers."
+END
+
+SCRIPT:mgfotr_gandalf311
+"Longtemps avez-vous défendu votre royaume contre l'Ennemi, seigneur Golasgil. Je suis heureux que, malgré vos épreuves, vous ayez trouvé des hommes pour marcher à notre défense."
+END
+
+SCRIPT:mgfotr_gandalf312
+"Salut à Imrahil, fils d'Adrahil, prince de Dol Amroth. Il reste peu d'hommes au Gondor qui égalent votre sagesse. Votre commandement sera inestimable dans les sombres jours à venir."
+END
+
+SCRIPT:mgfotr_forlong001
+"Je ne m'attendais pas à vous trouver ici, Mithrandir, mais j'en suis ravi !"
+END
+
+SCRIPT:mgfotr_dervorin001
+"Le Val de Ringlo se voue à la défense du Gondor. Nous ne décevrons pas notre Intendant."
+END
+
+SCRIPT:mgfotr_duinhir001
+"Oui, Mithrandir. Duilin et Derufin brûlent de prouver leur valeur face à notre Ennemi."
+END
+
+SCRIPT:mgfotr_hirluin001
+"Mithrandir ! Je n'étais qu'un garçon quand je vous ai vu pour la dernière fois dans la salle de mon père. Ne craignez rien, mes hommes rejetteront l'Ennemi derrière ses portes noires !"
+END
+
+SCRIPT:mgfotr_imrahil009
+"Cela me réjouit le cœur de vous rencontrer ici, Mithrandir. Peut-être le sort du Gondor n'est-il pas aussi sombre que je le croyais. Ensemble, nous ferons tout notre possible pour éviter sa ruine."
+END
+
+SCRIPT:mgfotr_golasgil003
+"Les seigneurs de l'Anfalas se souviennent bien de leurs serments. J'ai amené tous les braves que j'ai pu trouver."
+END
+
+
+SCRIPT:mgfotr_gandalf329
+"Montez sur les murs et tenez-vous prêts ! Nous devons nous préparer à défendre la Cité."
+END
+
+SCRIPT:mgfotr_gandalf330
+"Il nous faudra plus d'hommes pour défendre les murs. Nous devons appeler tous ceux qui sont en état de combattre !"
+END
+
+SCRIPT:mgfotr_gandalf331
+"Envoyez ces archers à la porte. L'Ennemi lancera de terribles engins de siège. Nous devons tout faire pour les repousser."
+END
+
+SCRIPT:mgfotr_gandalf332
+"L'échiquier est dressé, les pièces avancent. Minas Tirith est l'enclume sur laquelle nous frapperons les armées de Sauron. Avec un peu de chance, nous les retiendrons jusqu'à l'arrivée des secours."
+END
+
+SCRIPT:Hint_Setup_Army
+"Préparez la ville, placez toutes vos forces sur les murs."
+End
+
+SCRIPT:Hint_Setup_Ready
+"Menez Gandalf dans la cour une fois vos préparatifs terminés."
+End
+
+SCRIPT:Hint_Setup_Ready_Timer
+"L'armée du Morgul arrive dans :"
+End
+
+////////////RAMMAS///////////////
+
+SCRIPT:mgfotr_faramir078
+"Faramir : Je crains que le Rammas ne tienne pas longtemps."
+END
+
+SCRIPT:mgfotr_boromir040
+"Boromir : Courage, petit frère. Nous le tiendrons aussi longtemps que possible.\nChaque orque tué ici allégera l'assaut contre la Cité Blanche."
+END
+
+SCRIPT: mgfotr_faramir091
+"Faramir : Je suis heureux que tu sois de retour, mon frère. Le Gondor a regretté ton commandement."
+END
+
+SCRIPT:mgtt_boromir-249a
+"Boromir : Hommes de Minas Tirith ! Vous êtes appelés non seulement par votre Intendant, mais par votre peuple !"
+END
+
+SCRIPT:mgtt_boromir-249b
+"Sans notre vaillante défense, l'Ennemi ferait de votre cité un monceau de ruines fumantes !\nDégainez vos épées et repoussez-les de l'autre côté du fleuve !"
+END
+
+SCRIPT:mgtt_boromir-162
+"Boromir : Descendons au combat ensemble"
+END
+
+SCRIPT:mgfotr_faramir092
+"Faramir : Tenez bon, hommes de Minas Tirith ! Nous devons tenir le Rammas aussi longtemps que possible.\nBattez-vous pour votre cité ! Pour votre peuple !"
+END
+
+SCRIPT:mgfotr_faramir093
+"Faramir : Tenez bon ! Tuez-en autant que vous le pouvez ! Battez-vous !"
+END
+
+SCRIPT:MGOsgil_Faramir025
+"Faramir : Sauron frappera bientôt Minas Tirith. Nous devons aider à la protéger !"
+END
+
+SCRIPT:MGOsgil_Faramir023
+"Faramir : Voici venu le moment de montrer ce que nous valons."
+END
+
+SCRIPT:Hint_Rammas_Gate_Attacked
+"La porte du Rammas est attaquée."
+End
+
+SCRIPT:Hint_Rammas_Gate_Damaged
+"La porte du Rammas est presque détruite."
+End
+
+SCRIPT:Hint_Rammas_Retreat
+"Le Rammas est perdu, repliez-vous."
+End
+
+////////////CINE BOROMIR///////////////
+
+SCRIPT:mgfotr_faramir090
+"Faramir : Le Rammas est enfoncé ! L'Ombre est presque sur nous."
+END
+
+SCRIPT:mgfotr_boromir108
+"Boromir : Nous ne pouvons pas laisser tomber la Cité Blanche."
+END
+
+SCRIPT:mgfotr_gandalf320
+"Gandalf : Courage ! Nos espoirs reposent désormais sur la force des Hommes.\nSauron vous sous-estime. Il le regrettera !"
+END
+
+SCRIPT:mgfotr_gandalf321
+"Gandalf : Aux remparts ! Préparez-vous au combat !"
+END
+
+SCRIPT:mgfotr_gandalf419
+" *"
+END
+
+SCRIPT:mgfotr_gandalf419HINT
+"Les Gardes de la Fontaine ont rejoint vos forces pour défendre Minas Tirith"
+END
+
+////////////OUTER///////////////
+
+SCRIPT:mgfotr_gandalf430
+"Prenez le commandement des trébuchets ! Leurs projectiles incendiaires brûleront leurs rangs avant qu'ils n'atteignent nos murs !"
+END
+
+SCRIPT:mgfotr_gandalf333
+"Écoutez-moi ! Nous devons détruire ces échelles de siège !"
+END
+
+SCRIPT:mgfotr_gandalf334
+"Notre tir doit être précis si nous voulons repousser ces tours !"
+END
+
+SCRIPT:mgfotr_gandalf335
+"Ils détruisent nos trébuchets ! Arrêtez-les !"
+END
+
+SCRIPT:mgfotr_gandalf336
+"Nous devons reconstruire nos trébuchets !"
+END
+
+SCRIPT:mgfotr_gandalf337
+"Le seigneur Forlong est encerclé !"
+END
+
+SCRIPT:mgfotr_gandalf338
+"Le seigneur Hirluin a besoin de notre aide !"
+END
+
+SCRIPT:mgfotr_gandalf339
+"Ils vont submerger le seigneur Golasgil ! Ralliez-vous pour le secourir !"
+END
+
+SCRIPT:mgfotr_gandalf340
+"Envoyez des renforts au seigneur Duinhir !"
+END
+
+SCRIPT:mgfotr_gandalf341
+"Nous devons protéger le seigneur Dervorin !"
+END
+
+SCRIPT:mgfotr_gandalf342
+"Faramir, ne jetez pas votre vie avec tant de témérité !"
+END
+
+SCRIPT:mgfotr_gandalf343
+"Boromir ! Allez, secourez votre capitaine !"
+END
+
+SCRIPT:mgfotr_gandalf344
+"Peregrin Touque ! Ce n'est pas un endroit pour un hobbit ! Repliez-vous en lieu sûr."
+END
+
+SCRIPT:mgfotr_gandalf345
+"Irolas ! J'arrive !"
+END
+
+SCRIPT:mgfotr_gandalf346
+"Beregond est submergé !"
+END
+
+SCRIPT:mgfotr_gandalf347
+"Nos murs sont envahis ! Nous devons les repousser !"
+END
+
+SCRIPT:mgfotr_gandalf348
+"Nos défenses faiblissent ! Battez-vous, ou ils nous submergeront !"
+END
+
+SCRIPT:mgfotr_gandalf349
+"Des Trolls ! Archers, à la porte !"
+END
+
+SCRIPT:mgfotr_gandalf350
+"Des béliers approchent ! Défendez la porte !"
+END
+
+SCRIPT:mgfotr_gandalf351
+"Maudits Olog-hai ! Faramir, ralliez vos archers à la porte !"
+END
+
+SCRIPT:mgfotr_gandalf352
+"Maudits Olog-hai ! Beregond, ralliez vos archers à la porte !"
+END
+
+SCRIPT:mgfotr_gandalf353
+"Des Nazgûl ! Raffermissez-vous, archers ! Abattez-les !"
+END
+
+SCRIPT:mgfotr_gandalf354
+"Chassez votre peur ! Visez leurs montures maudites !"
+END
+
+SCRIPT:mgfotr_gandalf355
+"Chassez-les des murs !"
+END
+
+SCRIPT:mgfotr_gandalf356
+"Tenez bon ! La force des hommes ne doit pas faiblir !"
+END
+
+SCRIPT:mgfotr_gandalf357
+"Votre vaillance renversera le cours du destin, battez-vous !"
+END
+
+SCRIPT:mgfotr_gandalf358
+"C'est ici que nous devons briser les armées de Sauron !"
+END
+
+SCRIPT:mgfotr_gandalf359
+"Courage, hommes !"
+END
+
+SCRIPT:mgfotr_gandalf360
+"Avec moi, hommes du Gondor ! Nous devons nous rallier à la porte !"
+END
+
+SCRIPT:mgfotr_gandalf375
+"Ces orques sont plus forts que les autres ! Leurs lames sont imprégnées d'une incantation maléfique ! Tenez bon !"
+END
+
+SCRIPT:mgfotr_gandalf376
+"Des orques d'élite approchent ! Arrêtez-les ici !"
+END
+
+SCRIPT:mgfotr_gandalf407
+"Des Variags du Khand ! Il faut les repousser !"
+END
+
+SCRIPT:mgfotr_gandalf408
+"Les Variags chargent ! Arrêtez-les au mur !"
+END
+
+SCRIPT:mgfotr_gandalf409
+"Des Orientaux ! Pas de pitié pour eux !"
+END
+
+SCRIPT:mgfotr_gandalf410
+"De méchants hommes de l'Est ! Chassez-les !"
+END
+
+SCRIPT:mgfotr_gandalf411
+"Ces Uruks sont dangereux ! Détruisez-les avant que nous ne soyons submergés !"
+END
+
+SCRIPT:mgfotr_gandalf412
+"Les Uruks approchent du mur ! Mettez-les en déroute !"
+END
+
+SCRIPT:Hint_Outer_Capture_Trebuchets
+"Gardez vos héros près des trébuchets pour en prendre le commandement."
+End
+
+SCRIPT:Hint_Outer_Capture_Trebuchets_Flaming
+"Utilisez Projectile incendiaire pour ordonner aux trébuchets de lancer un déluge de feu."
+End
+
+SCRIPT:Hint_Outer_Gate_Approach_Trolls
+"Des Trolls approchent de la porte principale."
+End
+
+SCRIPT:Hint_Outer_Gate_Approach_Rams
+"Des béliers approchent de la porte principale."
+End
+
+SCRIPT:Hint_Outer_Gate_Approach_Ologs
+"Des Olog-hai approchent de la porte principale."
+End
+
+SCRIPT:Hint_Outer_Gate_Attacked
+"La porte principale est attaquée."
+End
+
+SCRIPT:Hint_Outer_Gate_Damaged
+"La porte principale est presque détruite."
+End
+
+SCRIPT:Hint_Outer_Grond
+"Grond ne peut être arrêté."
+End
+
+SCRIPT:Hint_Outer_Heal
+"L'Anneau de Feu de Gandalf soigne passivement les héros proches qui ne sont pas au combat."
+End
+
+////////////GATE///////////////
+
+
+SCRIPT:mgfotr_gandalf361
+"Détruisez les Trolls avant qu'ils ne brisent notre ligne !"
+END
+
+SCRIPT:mgfotr_gandalf362
+"De méchants hommes de l'Est ! Ce sera leur fin !"
+END
+
+SCRIPT:mgfotr_gandalf363
+"Fermeté ! Nous les tiendrons ici, jusqu'à ce que les femmes et les enfants soient en sécurité !"
+END
+
+SCRIPT:mgfotr_gandalf364
+"Des cavaliers de Wargs ! Tenez-vous prêts !"
+END
+
+SCRIPT:mgfotr_gandalf413
+"Un Troll de fournaise ! Il va embraser la cité ! Il faut le détruire !"
+END
+
+SCRIPT:mgfotr_gandalf414
+"Retournez d'où vous venez, créature maudite !"
+END
+
+SCRIPT:mgfotr_gandalf415
+"Abattez-le !"
+END
+
+SCRIPT:mgfotr_gandalf416
+"Beregond, nous avons besoin de votre arc !"
+END
+
+SCRIPT:mgfotr_gandalf417
+"Faramir, nous avons besoin de votre arc !"
+END
+
+SCRIPT:mgfotr_gandalf418
+"Lances, en avant !"
+END
+
+SCRIPT:mgfotr_gandalf365
+"Nous avons fait tout ce que nous pouvions ici ! Ce combat est fini ! Repliez-vous vers le deuxième niveau !"
+END
+
+////////////RETREAT///////////////
+
+SCRIPT:mgfotr_gandalf366
+"Nous ne pouvons pas nous attarder ! Nous devons gagner le deuxième niveau au plus vite !"
+END
+
+SCRIPT:mgfotr_gandalf373
+"Nous devons les sauver avant qu'ils ne soient massacrés !"
+END
+
+SCRIPT:mgfotr_gandalf374
+"Votre courage ne sera pas oublié, ami. Que les Valar vous protègent."
+END
+
+SCRIPT:mgfotr_gondorsoldier032
+"Mithrandir ! Par ici ! Nous sommes en difficulté !"
+END
+
+SCRIPT:mgfotr_gondorsoldier033
+"Nous vous remercions, Mithrandir. Nous devons gagner les niveaux supérieurs avant qu'il ne soit trop tard."
+END
+
+SCRIPT:mgfotr_masteratarms018
+"Allez-y. Je reste en arrière pour sauver tous ceux que je pourrai."
+End
+
+////////////INNER///////////////
+
+SCRIPT:mgfotr_gandalf367
+"Sauron sous-estime la vaillance du Gondor. Nous leur ferons payer chaque pierre ! Tenez ! Tenez, ou bientôt nos morts joncheront chacun des Sept Niveaux de Minas Tirith. Nous devons nous battre ! Pour le Gondor !"
+END
+
+SCRIPT:mgfotr_gandalf368
+"La porte est tombée ! Dégainez vos épées, nous devons les arrêter ici !"
+END
+
+SCRIPT:mgfotr_gandalf369
+"Tuez ce Troll avant qu'il ne détruise la porte intérieure !"
+END
+
+SCRIPT:mgfotr_gandalf370
+"Arrêtez ce bélier ! Avant qu'il n'atteigne la porte intérieure !"
+END
+
+SCRIPT:mgfotr_gandalf371
+"La porte intérieure est endommagée ! Faites venir des poutres !"
+END
+
+SCRIPT:mgfotr_gandalf372
+"La porte est tombée ! Nous ne pouvons plus les retenir ici. Repliez-vous, hommes !"
+END
+
+SCRIPT:Hint_Inner_Gate_Timer
+"Tenez la porte pendant :"
+End
+
+SCRIPT:Hint_Inner_Abandon
+"PLACEHOLDER - LA PORTE VA TOMBER, REPLIEZ-VOUS ET PRÉPAREZ L'INFANTERIE."
+End
+
+SCRIPT:Hint_Inner_Retreat_Setup_Timer
+"Tenez le niveau supérieur pendant :"
+End
+
+SCRIPT:Hint_Inner_Retreat_Timer
+"L'armée se repliera vers le troisième niveau dans :"
+End
+
+/////////////////////////////////
+////////////TIMERS///////////////
+/////////////////////////////////
+
+SCRIPT:Timer_Rammas_WallOverrun
+"Le Rammas Echor sera submergé dans :"
+End
+
+SCRIPT:Timer_Minas_WallOverrun_L
+"Le mur gauche sera submergé dans :"
+End
+
+SCRIPT:Timer_Minas_WallOverrun_R
+"Le mur droit sera submergé dans :"
+End
+
+SCRIPT:Timer_Minas_Arrival
+"Les forces du Mordor arriveront dans :"
+End
+
+/////////////////////////////////
+
+SCRIPT:Debug_FreePlay_On
+"Héros invincibles activés & conditions de défaite désactivées"
+End
+
+SCRIPT:Debug_FreePlay_Off
+"Héros invincibles désactivés & conditions de défaite activées"
+End
+
+SCRIPT:Debug_Skip_Outer
+"Passer à la défense du rempart extérieur dans :"
+End
+
+SCRIPT:Debug_Skip_Gate
+"Passer à la défense de la porte principale dans :"
+End
+
+SCRIPT:Debug_Skip_Inner
+"Passer à la défense intérieure dans :"
+End
+
+SCRIPT:Debug_Disable_Standers
+"Orques statiques désactivés"
+End
+
+SCRIPT:Debug_Disable_Civilians
+"Civils désactivés"
+End
+
+SCRIPT:Debug_Disable_Catapults
+"Catapultes désactivées"
+End
+
+SCRIPT:Debug_Boromir_On
+"Boromir activé"
+End
+
+SCRIPT:Debug_Boromir_Off
+"Boromir désactivé"
+End
+
+SCRIPT:Debug_Waves_Complete
+"Vagues terminées"
+End
+
+SCRIPT:Debug_Orcs_Alive_Creeps
+"Orques en vie - CREEPS"
+End
+
+SCRIPT:Debug_Orcs_Alive_Hunt
+"Orques en vie - CHASSE"
+End
+
+SCRIPT:Debug_Orcs_Alive_Total
+"Orques en vie - TOTAL"
+End
+
+SCRIPT:Debug_Timer_Grond
+"Debug - Début de Grond :"
+End
+
+SCRIPT:Debug_Timer_Towers
+"Debug - Début des tours :"
+End

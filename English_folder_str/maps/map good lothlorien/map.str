@@ -19,12 +19,17 @@ SCRIPT:IdrialHint
 "Elves wander the woods around Caras Galadhon. It would be wise for me to look for them. All are needed to defend the Golden Wood..."
 END
 
+SCRIPT:BridgeHint2
+"Use the southern route across the river to return to Caras Galadhon."
+END
+
+
 SCRIPT:MirrorHint
 "Use the Mirror of Galadriel to purchase upgrades."
 END
 
 SCRIPT:UrshakWarning
-"Urshak! Let us end put an end to this foul orcish shaman!"
+"Let us put an end to this foul Orcish shaman!"
 END
 
 SCRIPT:UrshakWarning2
@@ -52,7 +57,7 @@ SCRIPT:Intro03
 END
 
 SCRIPT:Intro04
-"Idrial: I must make haste!"
+"Idrial: I will go at once."
 END
 
 SCRIPT:Camp01
@@ -60,7 +65,7 @@ SCRIPT:Camp01
 END
 
 SCRIPT:Camp02
-"Idrial: The fellowship that set out from Rivendell are being pursued by Moria goblins on the eastern border!"
+"Idrial: The Fellowship that set out from Rivendell are being pursued by Moria orcs! They have breached the Eastern border!"
 END
 
 SCRIPT:Camp03
@@ -142,3 +147,36 @@ END
 SCRIPT:Barracks Reminder
 "All goblin lairs throughout Lothlorien must be destroyed!"
 END
+
+SCRIPT:PoolFound
+"A statue of Amroth, the lost king. We defend Lothlorien in his memory."
+ENd
+
+SCRIPT:mgfotr_frodo158
+"Frodo: If only Gandalf were here with us..."
+END
+
+SCRIPT:mgfotr_sam187
+"Sam: Be careful, Strider!"
+END
+
+SCRIPT:mgfotr_aragorn423
+"Aragorn: Keep your swords close, my friends. We will find you when this is over."
+END
+
+SCRIPT:mgfotr_celeborn006
+"Celeborn: You bring great evil with you, Frodo Baggins."
+END
+
+SCRIPT:mgfotr_celeborn007
+"Celeborn: Seldom has such an orc-host dared to pass into our realm."
+END
+
+SCRIPT:mgfotr_galadriel011
+"Galadriel: Still, we offer you sanctuary. We will have council later. First, let us repel this vile assault."
+END
+
+SCRIPT:mgfotr_galadriel012
+"Galadriel: Stay close to us, Periannath. Our warriors will see to your safety"
+END
+

@@ -30,12 +30,16 @@ END
 
 ////////////////RIVENDELL//////////////////
 
-SCRIPT: Dialogue_GC_Rivendell_Idrial001
+SCRIPT:mgfotr_idrial021
 "Idrial: My lord Elrond, I bring word from the lady Galadriel."
 END
 
-SCRIPT: Dialogue_GC_Rivendell_Idrial002
-"Idrial: Elessar has crossed into the land of Rohan. The great war has begun. \n He will need all the aid that can be mustered. Gather his kin, and send them forth under his standard!"
+SCRIPT:mgfotr_idrial022
+"Idrial: Elessar has crossed into the land of Rohan. The great war has begun."
+END
+
+SCRIPT:mgfotr_idrial023
+"Idrial: He will need all the aid that can be mustered. Gather his kin, and send them forth under his standard!"
 END
 
 SCRIPT: Dialogue_GC_Rivendell_Elrond001
@@ -68,11 +72,6 @@ SCRIPT:Timer_GC_Annuminas_Decal Ettenmoors
 "Travel to the Ettenmoors in:"
 END
 
-///////////////BARROWS/////////////////
-
-SCRIPT:Hint_GC_Barrows Watstone
-"The other key stone must be hidden elsewhere in the Barrow, we should make sure to search each chamber."
-END
 
 ///////////////SHIRE/////////////////
 
@@ -187,7 +186,7 @@ DIALOGEVENT:mgfotr_elegost012
 END
 
 DIALOGEVENT:mgfotr_elegost013
-"Let us go and have a chat. I can smell the booze from here. They're no threat as they are."
+"Let's go and have a chat. I can smell the booze from here. They're no threat as they are."
 END
 
 DIALOGEVENT:mgfotr_elegost014
@@ -319,7 +318,7 @@ DIALOGEVENT:mgfotr_elladan025
 END
 
 DIALOGEVENT:mgfotr_elladan026
-"We will have to use both levers at the same time to open the main door."
+"We will have to use both levers to open the main door."
 END
 
 DIALOGEVENT:mgfotr_elladan027
@@ -399,7 +398,7 @@ DIALOGEVENT:mgfotr_elrohir009
 END
 
 DIALOGEVENT:mgfotr_elrohir010
-"Another key-stone, though it won't budge. Perhaps there is another?" 
+"Perhaps there is another?" 
 END
 
 DIALOGEVENT:mgfotr_elrohir011
@@ -535,7 +534,7 @@ DIALOGEVENT:mgfotr_amdir005
 END
 
 DIALOGEVENT:mgfotr_amdir006a
-"Amdir: I am glad to be out of there. And gladder still to find the others alive. They are weakened, but the curse seems to be lifting." 
+"Amdir: I'm glad to be out of there. And gladder still to find the others alive. They are weakened, but the curse seems to be lifting." 
 END
 
 DIALOGEVENT:mgfotr_amdir006b
@@ -543,7 +542,7 @@ DIALOGEVENT:mgfotr_amdir006b
 END
 
 DIALOGEVENT:mgfotr_amdir007
-"Amdir: Then let us delay no longer. We will gather our supplies from the camp and return at once." 
+"Amdir: Then let's delay no longer. We will gather our supplies from the camp and return at once." 
 END
 
 DIALOGEVENT:mgfotr_amdir008
@@ -571,7 +570,7 @@ DIALOGEVENT:mgfotr_amdir013
 END
 
 DIALOGEVENT:mgfotr_amdir014
-"That stone appears to summon them. We must destroy it!"
+"That stone appears to have summoned them. We must destroy it!"
 END
 
 DIALOGEVENT:mgfotr_amdir015
@@ -597,6 +596,50 @@ END
 DIALOGEVENT:mgfotr_amdir020
 "Amdir: Be careful, this is no ordinary orc."
 END
+
+DIALOGEVENT:mgfotr_amdir023
+"Amdir: There! The main door."
+END
+
+DIALOGEVENT:mgfotr_elladan075
+"Elladan: It's shut."
+End
+
+DIALOGEVENT:mgfotr_elrohir059
+"Elrohir: The dead draw closer."
+End
+
+DIALOGEVENT:mgfotr_elrohir058
+"Elrohir: We must be careful here."
+End
+
+DIALOGEVENT:mgfotr_elladan066
+"What have you found?"
+END
+
+DIALOGEVENT:mgfotr_elrohir076
+"Look! Another keystone."
+End
+
+DIALOGEVENT:mgfotr_elrohir077
+"Look! A keystone."
+End
+
+DIALOGEVENT:mgfotr_elladan076
+"The lever is pulled, but the door is still shut."
+End
+
+DIALOGEVENT:mgfotr_elrohir078
+"There must be another keystone hidden elsewhere?"
+End
+
+DIALOGEVENT:mgfotr_elladan077
+"We should search each chamber carefully."
+End
+
+DIALOGEVENT:mgfotr_elladan042
+"Watch out!"
+End
 
 DIALOGEVENT:mgfotr_toradan001
 "Well met Sons of Elrond! We're indebted to you it seems, and not for the first time! But later! We are beset on all sides, and must move quickly to aid our scattered forces."
@@ -679,7 +722,7 @@ DIALOGEVENT:mgfotr_lothrandir003
 END
 
 DIALOGEVENT:mgfotr_lothrandir004
-"They assault the farmstead, we must be quick!"
+"They're assaulting the farmstead, we must be quick!"
 END
 
 DIALOGEVENT:mgfotr_lothrandir005
@@ -707,7 +750,7 @@ DIALOGEVENT:mgfotr_lothrandir010
 END
 
 DIALOGEVENT:mgfotr_lothrandir011
-"There is another camp nearby. We must destroy it!"
+"There is another camp nearby. Let us be rid of it!"
 END
 
 DIALOGEVENT:mgfotr_lothrandir012
@@ -739,7 +782,7 @@ DIALOGEVENT:mgfotr_halbarad003
 END
 
 DIALOGEVENT:mgfotr_halbarad004
-"We have heard whispers of a foul wight-lord taking up residence in an ancient barrow. I have sent rangers to investigate, but have received no word from them..."
+"We have heard whispers of a foul wight-lord taking up residence in an ancient barrow. I have sent rangers to investigate, but I have received no word from them..."
 END
 
 DIALOGEVENT:mgfotr_halbarad005
@@ -755,7 +798,7 @@ DIALOGEVENT:mgfotr_halbarad007
 END
 
 DIALOGEVENT:mgfotr_halbarad008
-"Orcs have crawled out from the Ettenmoors. They have attacked our outpost at Fornost. We must reinforce it, ere the Enemy turns it into a foothold for their assault upon Eriador!"
+"Orcs have crawled out from the Ettenmoors. They have attacked our outpost at Fornost. We must reinforce it, ere the Enemy turns it into a foothold of their assault upon Eriador!"
 END
 
 DIALOGEVENT:mgfotr_halbarad009
@@ -767,7 +810,7 @@ DIALOGEVENT:mgfotr_halbarad010
 END
 
 DIALOGEVENT:mgfotr_halbarad011
-"Such an evil fate to befall these warriors! I am glad to know that this horrid troll has been put down."
+"Such an evil fate to befall these warriors! I am glad to know that this horrid troll had been put down."
 END
 
 DIALOGEVENT:mgfotr_halbarad012
@@ -775,7 +818,7 @@ DIALOGEVENT:mgfotr_halbarad012
 END
 
 DIALOGEVENT:mgfotr_halbarad013
-"There is much to explore still in the remnants of Annuminas, ancient seat of my people. Its surroundings may give some comfort to battle-weary eyes, should you desire it, as you face the trials ahead."
+"There is much to explore still in the lands of Annuminas, ancient seat of my people. Its surroundings may give some comfort to battle-weary eyes, should you desire it, as you face your trials ahead."
 END
 
 DIALOGEVENT:mgfotr_halbarad014
@@ -847,7 +890,7 @@ DIALOGEVENT:mgfotr_maggot002
 END
 
 DIALOGEVENT:mgfotr_maggot003
-"My dogs can help you there. Fang! Grip! Wolf! Stay!" 
+"My dogs can help you there. Grip! Fang! Wolf! Stay!" 
 END
 
 DIALOGEVENT:mgfotr_maggot004
@@ -871,7 +914,7 @@ DIALOGEVENT:mgfotr_maggot008
 END
 
 DIALOGEVENT:mgfotr_maggot009
-"I will need to go back for more water!"
+"I'll need to go back for more water!"
 END
 
 DIALOGEVENT:mgfotr_maggot010
@@ -923,7 +966,7 @@ DIALOGEVENT:mgfotr_cargast003
 END
 
 DIALOGEVENT:mgfotr_cargast004
-"You all will die." 
+"You will all die." 
 END
 
 DIALOGEVENT:mgfotr_cargast005

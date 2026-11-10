@@ -1,0 +1,720 @@
+////////////////OBJECTIVES//////////////////
+
+SCRIPT:AngborTimer_RotK
+"Angbor will arrive in:"
+END
+
+////////////////Cinematic - Intro//////////////////
+SCRIPT:mgfotr_gimli111
+"Gimli: What is this place? This rock? I have never seen its like."
+END
+
+SCRIPT:mgfotr_aragorn367B
+"Aragorn: It was at this Oathstone that the Men of the Mountain swore their false fealty, and sealed their fate."
+END
+
+SCRIPT:mgfotr_legolas120
+"Legolas: They have followed us here."
+END
+
+SCRIPT:mgfotr_aragorn237
+"Aragorn: Oathbreakers, why have you come?"
+END
+
+SCRIPT:mgfotr_kod031
+"King of the Dead: To fulfil our oath and have peace."
+END
+
+SCRIPT:mgfotr_aragorn238
+"Aragorn: The hour of doom is now upon us. I will go to Pelargir upon Anduin, and you shall come after me."
+END
+
+SCRIPT:mgfotr_aragorn239
+"Aragorn: And when this land is clean of the servants of Sauron, I will hold the oath fulfilled, and you shall have peace and depart."
+END
+
+SCRIPT:mgfotr_aragorn240
+"Aragorn: For I am Elessar, the Heir of Isildur of Gondor."
+END
+
+SCRIPT:mgfotr_elladan049
+"Elladan: The wind carries the sounds of battle!"
+END
+
+SCRIPT:mgfotr_legolas121
+"Legolas: Look ahead! A skirmish!"
+END
+
+SCRIPT:mgfotr_aragorn370
+"Aragorn: Let us hasten to their aid!"
+END
+
+SCRIPT:mgfotr_gimli113
+"Baruk Khazad!"
+End
+
+
+////////////////Cinematic - Burning Tower 01//////////////////
+
+SCRIPT:mgfotr_pelargirofficer001
+"Pelargir Officer: You have my thanks. But who are you? Why have you come upon Pelargir in its hour of ruin?"
+END
+
+SCRIPT:mgfotr_aragorn241
+"Aragorn: I am Aragorn, son of Arathorn. My companions and I have come to liberate the lands of Gondor."
+END
+
+SCRIPT:mgfotr_pelargirofficer002
+"Pelargir Officer: My lord... Pelargir burns. The Southrons have come in numbers as yet unseen in our lifetimes."
+END
+
+SCRIPT:mgfotr_pelargirofficer003
+"Pelargir Officer: They are inside the walls, and guard all passages into the City, by land or by water.\n I fear that soon there will be naught left but smouldering stone."
+END
+
+SCRIPT:mgfotr_pelargirofficer004
+"Pelargir Officer: We have received word that Angbor of Lamedon is coming, but time is against us\n - and we have no means of entering the City."
+END
+
+SCRIPT:mgfotr_aragorn242
+"Aragorn: And yet we must. That Gate needs to be opened from within."
+END
+
+SCRIPT:mgfotr_pelargirofficer005
+"Pelargir Officer: But how?"
+END
+
+SCRIPT:mgfotr_aragorn267
+"Aragorn: I will go."
+END
+
+SCRIPT:mgfotr_gimli112
+"Gimli: It is a dangerous task..."
+END
+
+SCRIPT:mgfotr_aragorn268
+"Aragorn: Do not worry, Gimli. I can avoid being seen if I wish."
+END
+
+SCRIPT:mgfotr_pelargirofficer006
+"Pelargir Officer: We might hasten Angbor's arrival by reclaiming the island of Barad Ciryn.\n The beacon can be seen from afar, and does not burn by day unless catastrophe is upon the City."
+END
+
+SCRIPT:mgfotr_aragorn364
+"Aragorn: Then I will reclaim it. But first, I need a boat."
+END
+
+SCRIPT:mgfotr_pelargirofficer007
+"Pelargir Officer: There is an old dock not far from here. But the southrons covet this landing, and will fight to keep it."
+END
+
+SCRIPT:mgfotr_pelargirofficer008
+"Pelargir Officer: We will need our full strength to reclaim the beach. Let us establish a camp and bolster our forces."
+END
+
+
+//////////////////BEACH//////////////////
+
+SCRIPT:mgfotr_elladan047
+"This place has been overrun by Corsairs!"
+End
+
+SCRIPT:mgfotr_haldir021
+"Sauron has darkened their very hearts!"
+END
+
+SCRIPT:mgfotr_elladan064
+"These Haradrim are fierce warriors. We must be careful."
+END
+
+SCRIPT:mgfotr_pelargirofficer009
+"We have taken the dock!"
+END
+
+SCRIPT:mgfotr_aragorn408
+"This vessel will do."
+END
+
+SCRIPT:mgfotr_legolas122
+"We will wait for you, until you open the gates."
+END
+
+SCRIPT:mgfotr_gimli129
+"Be careful, laddie."
+End
+
+SCRIPT:mgfotr_aragorn409
+"I must reach the beacon..."
+END
+
+SCRIPT:mgfotr_pelargirofficer010
+"This looks like it was hidden here recently... must've been looted by these raiders."
+END
+
+SCRIPT:Hint_Aragorn_Board
+"Use the captured fishing boat to transport Aragorn to Barad Ciryn."
+END
+
+////////////////LIGHTHOUSE//////////////////
+
+SCRIPT:mgfotr_corsair040
+"Hark! Who are you, and where'd you come from?"
+END
+
+SCRIPT:mgfotr_corsair041
+"Oh, aye? I think not. Get him!"
+END
+
+SCRIPT:mgfotr_corsair042
+"Get over here! We’re getting clobbered!"
+END
+
+SCRIPT:mgfotr_bnum029
+"Who contests our right of conquest!?"
+END
+
+SCRIPT:mgfotr_aragorn410
+"Your cruelty ends here!"
+END
+
+SCRIPT:mgfotr_aragorn411
+"You should not have entered Gondor!"
+END
+
+SCRIPT:mgfotr_aragorn412
+"It is done. This should hasten Angbor's forces. Now I must reach the city and make for the gate before we are discovered."
+END
+
+SCRIPT:mgfotr_aragorn365
+"These tokens are symbols of Umbarian authority. It could come in useful..."
+END
+
+SCRIPT:mgfotr_aragorn371
+"That looks like the safest place to enter the City..."
+END
+
+////////////////Cinematic - Dying Guard//////////////////
+
+SCRIPT:mgfotr_pelargirciv001
+"Dying Guard: They are everywhere... Pelargir has fallen."
+END
+
+SCRIPT:mgfotr_aragorn372
+"Aragorn: Not yet. Help will come."
+END
+
+SCRIPT:mgfotr_pelargirciv002
+"Dying Guard: They are guarding the gate. None can make it out or in."
+END
+
+SCRIPT:mgfotr_pelargirciv006
+"Dying Guard: They're stockpiling their infernal firepots. Who knows what they're planning..."
+END
+
+SCRIPT:mgfotr_aragorn373
+"Aragorn: Save your strength."
+END
+
+SCRIPT:mgfotr_pelargirciv003
+"Dying Guard: It matters little. Cloaked in black... he appeared from\nthe shadows... and shot me with a poisoned bolt."
+END
+
+SCRIPT:mgfotr_pelargirciv004
+"Dying Guard: You... who are you?"
+END
+
+SCRIPT:mgfotr_pelargirciv005
+"Dying Guard: Thank you... my lord."
+END
+
+SCRIPT:mgfotr_aragorn397
+"Aragorn: Be still."
+END
+
+SCRIPT:mgfotr_aragorn398
+"Aragorn: That should slow the poison and stem the bleeding.\nStay out of sight until this is over."
+END
+
+SCRIPT:mgfotr_aragorn400
+"Aragorn: Black cloaks... poisoned darts. The Hasharin have come."
+END
+
+SCRIPT:mgfotr_aragorn427x
+"Aragorn: They are a dangerous foe... and the streets are teeming with guards.\nI should stay out of sight, lest I bring the whole garrison down upon my head."
+END
+
+SCRIPT:hint_hasharin_warning01
+"Aragorn must avoid being detected."
+END
+
+SCRIPT:hint_hasharin_warning02
+"Killing too many guards will alert Hasharin assassins. They must be defeated for Aragorn to remain undetected."
+END
+
+SCRIPT:hint_hasharin_warning03
+"Hasharin will always detect Aragorn, even when he is stealthed, if he enters their vision."
+END
+
+SCRIPT:hint_hasharin_warning04
+"While undetected, Aragorn can use these areas to avoid guards."
+END
+
+
+////////////////STEALTH//////////////////
+
+SCRIPT:mgfotr_aragorn413
+"I have been discovered! I cannot hide from this assassin... I must fight!"
+END
+
+SCRIPT:mgfotr_aragorn404
+"I cannot get close. I must find a way to distract them."
+END
+
+SCRIPT:mgfotr_aragorn405
+"If I could set off this cache of firepots, it should draw their attention."
+END
+
+SCRIPT:mgfotr_aragorn406
+"It is alight. I must get to safety!"
+END
+
+SCRIPT:mgfotr_aragorn407
+"That will bring them running. Perhaps I can reach the gate now."
+END
+
+SCRIPT:mfotr_aragorn399
+"The Water Gate. Opening this will free up passage from the River."
+End
+
+SCRIPT:mgfotr_corsair043
+"Did you see that huge stack of firepots? Wonder what the bosun's planning..."
+End
+
+SCRIPT:mgfotr_corsair044
+"I reckon they're going to blow up the lighthouse. That's gonna be quite a blast..."
+End
+
+SCRIPT:mgfotr_corsair045
+"Oh aye, it'll be heard for miles around!"
+End
+
+SCRIPT:mgfotr_aragorn428
+"Aragorn: I can use these alleyways to slip past the guards."
+End
+
+SCRIPT:stealth_kills
+"Kills Until Detection :"
+End
+
+////////////////ANGBOR//////////////////
+
+SCRIPT:mgfotr_angbor001
+"Angbor: The heir of Isildur emerges unscathed from amongst the wreckage\n of the Enemy. We live in strange times indeed."
+End
+
+SCRIPT:mgfotr_aragorn401
+"Aragorn: Hail, Lord Angbor. Your arrival is most timely."
+END
+
+SCRIPT:mgfotr_gimli115
+"Gimli: Well done, lad! Now, allow us to do our part."
+END
+
+SCRIPT:mgfotr_legolas125
+"Legolas: This city of Men will be free once more."
+END
+
+////////////////BESIEGE//////////////////
+
+SCRIPT:mgfotr_pelargirofficer016
+"My lord, the corsairs are using our guard towers to reinforce their army! We must reclaim them!"
+END
+
+SCRIPT:mgfotr_pelargirofficer017
+"They've raised scaffolds around the tower! Strike them down!"
+END
+
+SCRIPT:mgfotr_pelargirofficer018
+"The outer district is secure. We must push onto the citadel!"
+END
+
+SCRIPT:mgfotr_pelargirofficer019
+"Look ahead - they've blocked our passage. We'll have to smash through it!"
+END
+
+SCRIPT:mgfotr_legolas124
+"Steel yourselves. The Enemy comes!"
+END
+
+SCRIPT:mgfotr_aragorn374
+"They seek to overrun us!"
+END
+
+SCRIPT:mgfotr_corsair004
+"We have been deceived! Defend the port!"
+END
+
+SCRIPT:mgfotr_elrohir049
+"Claim it!"
+END
+
+SCRIPT:mgfotr_elrohir051
+"Capture the tower, quick!"
+END
+
+SCRIPT:mgfotr_elladan046
+"This city burns!"
+END
+
+SCRIPT:mgfotr_elrohir050
+"We must save all that we can!"
+END
+
+SCRIPT:mgfotr_burodapan003
+"Thorongil comes! He pursues a vain ambition. The deep one will come for all."
+END
+
+SCRIPT:mgfotr_burodapan004
+"Draw steel!"
+END
+
+SCRIPT:mgfotr_burodapan005
+"Awaken the sleeper!"
+END
+
+SCRIPT:mgfotr_burodapan006
+"Obey, creature!"
+END
+
+SCRIPT:mgfotr_burodapan007
+"Come forth from the darkest depths!"
+END
+
+SCRIPT:mgfotr_burodapan008
+"We are not strong enough yet... back! Across the bridge!"
+END
+
+SCRIPT:mgfotr_angbor002
+"Let us be rid of these Southron invaders!"
+END
+
+SCRIPT:mgfotr_angbor003
+"Clear them out! Throw them back into the sea!"
+END
+
+SCRIPT:mgfotr_angbor004
+"Give them no quarter! No reprieve!"
+END
+
+SCRIPT:mgfotr_angbor011
+"Show them the wrath of Lamedon!"
+END
+
+SCRIPT:mgfotr_gimli138
+"Their fell horn rouses them again! We must destroy it!"
+END
+
+SCRIPT:mgfotr_aragorn459
+"The dread horn is sounded! Beware! They will fight with strength renewed!"
+END
+
+SCRIPT:Hint_Reinforcements
+"Reinforcements have landed in the north."
+END
+
+SCRIPT:Hint_Towers
+"All guard towers in Pelargir must be reclaimed."
+END
+
+SCRIPT:Hint_Horn_Start
+"Burodapan possesses the Horn of Karna. When it sounds, the Corsairs under his command grow far more dangerous."
+END
+
+SCRIPT:Hint_Horn_Fire
+"The Horn of Karna drives the Corsairs to madness. They will deal more damage while under its influence"
+END
+
+SCRIPT:Horn_Timer
+"Horn of Karna is sounded in:"
+End
+
+
+
+////////////////Cinematic - HAVEN//////////////////
+
+SCRIPT:mgfotr_pelargirofficer011
+"Look! They're raising the bridge!"
+END
+
+SCRIPT:mgfotr_pelargirofficer012
+"Pelargir Officer: We've driven them back, but the fight is not yet over."
+END
+
+SCRIPT:mgfotr_pelargirofficer013
+"Pelargir Officer: It seems they intend to withstand us from the Citadel."
+END
+
+SCRIPT:mgfotr_pelargirofficer014
+"Pelargir Officer: They're defending the island by blockade. We must attempt to break through, and land where the wall has been breached!"
+END
+
+SCRIPT:mgfotr_pelargirofficer015
+"Pelargir Officer: There is an abandoned black ship nearby. Let us board this vessel and take the fight to them!"
+END
+
+SCRIPT:mgfotr_aragorn414
+"Aragorn: Your time is at hand, Men of the Mountain! Come forth and lend us your aid!"
+END
+
+SCRIPT:mgfotr_kod032
+"King of the Dead: Stand, ye wrathful dead! Fight now, and earn the rest you crave!"
+END
+
+////////////////SHIPS//////////////////
+
+SCRIPT:mgfotr_legolas131
+"The landing is clear, but the island is heavily guarded."
+END
+
+SCRIPT:mgfotr_gimli114
+"Pah, nothing we haven't faced before."
+END
+
+SCRIPT:mgfotr_aragorn424
+"Come, my friends! It is time to reclaim Tol Rammath!"
+END
+
+////////////////Cinematic - LANDING//////////////////
+
+SCRIPT:mgfotr_burodapan001
+"Burodapan: You old fool! We should have left when we had the chance! Now he is upon us!"
+END
+
+SCRIPT:mgfotr_cassimir001
+"Cassimir: Be off then, you plundering coward! I will avenge our father."
+END
+
+SCRIPT:mgfotr_cassimir002
+"Cassimir: Thorongil's head will be on a spike outside of my palace, and all shall know the supremacy of the line of Herumor!"
+END
+
+SCRIPT:mgfotr_burodapan002
+"Burodapan: I will not die for your lordship, brother. This war is a fool's errand. I serve a greater purpose."
+END
+
+SCRIPT:mgfotr_aragorn425
+"The Enemy sends forth more of their ships. I will send the Dead to bar their passage."
+END
+
+
+////////////////Cinematic - CASSIMIR//////////////////
+
+SCRIPT:mgfotr_cassimir003
+"Cassimir: Thorongil! Today, I will do what my father could not. Your false line ends here!"
+END
+
+SCRIPT:mgfotr_aragorn426
+"Aragorn: Surrender, lord, and I will grant you clemency."
+END
+
+SCRIPT:mgfotr_cassimir004
+"Cassimir: I will not bow. Draw your sword!"
+END
+
+SCRIPT:mgfotr_cassimir005
+"The Blood of the West courses through my veins!"
+END
+
+SCRIPT:mgfotr_cassimir006
+"I will not fall... I will not!"
+END
+
+SCRIPT:mgfotr_cassimir007
+"No... my line..."
+END
+
+SCRIPT:mgfotr_cassimir008
+"The high blood of Umbar is not yet spent!"
+END
+
+SCRIPT:mgfotr_cassimir009
+"Vengeance is mine!"
+END
+
+SCRIPT:mgfotr_cassimir010
+"You will pay!"
+END
+
+SCRIPT:mgfotr_cassimir011
+"Fall like the dog you really are!"
+END
+
+SCRIPT:mgfotr_cassimir012
+"Once you have fallen, your city will be next!"
+END
+
+SCRIPT:mgfotr_cassimir013
+"I will not die!"
+END
+
+////////////////Cinematic - OUTRO//////////////////
+
+SCRIPT:mgfotr_kod015
+"King of the Dead: Release us!"
+END
+
+SCRIPT:mgfotr_kod016
+"King of the Dead: You gave us your word!"
+END
+
+SCRIPT:mgfotr_gimli069
+"Gimli: They have fought mightily. Their debt is surely paid."
+END
+
+SCRIPT:mgfotr_aragorn227
+"Aragorn: I hold your oath fulfilled... Go... be at peace."
+END
+
+////////////////////////////////////////////////////////////////////////////////
+
+SCRIPT:mgfotr_elladan044
+"Draw your weapons!"
+END
+
+SCRIPT:mgfotr_elladan045
+"Push forward!"
+END
+
+SCRIPT:mgfotr_elladan048
+"We must hold this position!"
+END
+
+SCRIPT:mgfotr_elrohir047
+"Fight with all your might!"
+END
+
+SCRIPT:mgfotr_elrohir048
+"let nothing stand in our way!"
+END
+
+SCRIPT:mgfotr_elrohir052
+"They seek to overrun us!"
+END
+
+SCRIPT:mgfotr_haldir020
+"Flee or be slain where you stand!"
+END
+
+SCRIPT:mgfotr_haldir022
+"If we do not act quickly, all the free peoples shall share the grim fate of this city!"
+END
+
+SCRIPT:mgfotr_haldir023
+"Aragorn, watch out!"
+END
+
+SCRIPT:FailsafeTimer
+"Stuck hero will be teleported in:"
+END
+
+SCRIPT:AragornHidden
+"Stealth - Aragorn Hidden: "
+END
+
+SCRIPT:AragornHidden2
+"Stealth - Chase On: "
+END
+
+SCRIPT:AragornHidden3
+"Stealth - Chase Delay: "
+END
+
+SCRIPT:AragornHidden4
+"Stealth - Enemies Attacking: "
+END
+
+SCRIPT:AragornHidden5
+"Stealth - Patrol Moving Reset: "
+END
+
+SCRIPT:LootersKilled
+"Stealth - Looters Killed: "
+END
+
+///////////////////////////
+
+SCRIPT:mgfotr_halbarad039
+"This is Aragorn, son of Arathorn. He is the heir of Elendil, and to the Throne of Gondor."
+End
+
+SCRIPT:mgfotr_halbarad040
+"I will lend you my aid, kinsmen."
+End
+
+SCRIPT:mgfotr_halbarad041
+"Soon we will return north, to the ruins of Annuminas. Though I suspect it will not be ruined for long."
+End
+
+SCRIPT:mgfotr_halbarad042
+"We've done it. The tower is ours!"
+End
+
+SCRIPT:mgfotr_halbarad043
+"Their banners have been struck! This tower belongs to us."
+End
+
+SCRIPT:mgfotr_halbarad044
+"Only one tower remains to them, let us claim it!"
+End
+
+SCRIPT:mgfotr_halbarad045
+"The forces of Umbar overrun this area. We should find another way."
+End
+
+SCRIPT:mgfotr_halbarad046
+"Look, they have captured more soldiers!"
+End
+
+SCRIPT:mgfotr_halbarad047
+"More captives!"
+End
+
+SCRIPT:mgfotr_halbarad048
+"Gather arms, Men! Help us reclaim your city!"
+End
+
+SCRIPT:mgfotr_halbarad049
+"They have set the streets ablaze! We must rescue all that we can!"
+End
+
+SCRIPT:mgfotr_halbarad050
+"We will push you back into the sea!"
+End
+
+SCRIPT:mgfotr_halbarad051
+"You and your lords will pay for your incursions!"
+End
+
+SCRIPT:mgfotr_halbarad052
+"We will oust you, pretenders!"
+End
+
+SCRIPT:mgfotr_halbarad053
+"You will fear the sons of Arnor!"
+End
+
+SCRIPT:mgfotr_halbarad054
+"Flee back to Umbar!"
+End
+
+SCRIPT:mgfotr_halbarad055
+"They bring up reinforcements!"
+End
+
+SCRIPT:mgfotr_halbarad056
+"Stand your ground, more are coming!"
+End
+
+SCRIPT:mgfotr_halbarad057
+"Lord Angbor is in trouble!"
+End

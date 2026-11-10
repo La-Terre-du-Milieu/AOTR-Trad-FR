@@ -25,6 +25,8 @@ AOTR = r'C:\AgeoftheRing'
 EA = r'C:\Program Files (x86)\Electronic Arts'
 # (jeu, VO de la base du launcher, VF d'EA) — RotWK en dernier : il l'emporte sur BFME II
 GAMES = [
+    # BFME1 : pas de base anglaise dans le launcher ; sert seulement aux voix qu'AotR a reprises (campagnes BFME1…)
+    ('BFME1', None, r'C:\BFME1\lang\frenchaudio.big'),
     ('BFME2', os.path.join(AOTR, 'bfme2', 'lang', 'EnglishAudio.big'),
      os.path.join(EA, 'La Bataille pour la Terre du Milieu II', 'lang', 'FrenchAudio.big')),
     ('RotWK', os.path.join(AOTR, 'rotwk', 'lang', 'EnglishAudio.big'),
@@ -34,6 +36,7 @@ MOD_AUDIO = os.path.join(AOTR, 'aotr', 'data', 'audio')
 VALIDES = os.path.join(ROOT, 'audio_valides.txt')
 BIG_NAME = '!AotR_VF.big'
 TOLERANCE = 0.10
+TOLERANCE_VF = 0.20     # sans VO vanilla (BFME1) : on compare la durée AotR à celle de la VF
 
 
 def wav_duration(head):
@@ -56,7 +59,11 @@ def wav_duration(head):
 
 
 def load():
-    games = [(name, BigFile(en), BigFile(fr)) for name, en, fr in GAMES]
+    games = []
+    for name, en, fr in GAMES:
+        fr_big = BigFile(fr)
+        fr_big.files = {k.replace('lang/french/', '', 1): v for k, v in fr_big.files.items()}
+        games.append((name, BigFile(en) if en else None, fr_big))
     mod = {}
     for sub in ('sounds', 'speech'):
         folder = os.path.join(MOD_AUDIO, sub)
@@ -82,9 +89,12 @@ def analyse(games, mod):
                 continue
             with open(mod[path], 'rb') as f:
                 d_mod = wav_duration(f.read(4096))
-            d_en = wav_duration(en.read(path, 4096)) if path in en.files else None
+            d_en = wav_duration(en.read(path, 4096)) if en and path in en.files else None
             d_fr = wav_duration(fr.read(path, 4096))
-            same = d_mod and d_en and abs(d_mod - d_en) / d_en <= TOLERANCE
+            if en:
+                same = d_mod and d_en and abs(d_mod - d_en) / d_en <= TOLERANCE
+            else:
+                same = d_mod and d_fr and abs(d_fr - d_mod) / d_mod <= TOLERANCE_VF
             base = os.path.basename(path)
             status = 'sûr' if same else ('validé' if base in ok else 'à écouter')
             rows[path] = (base, name, d_mod, d_en, d_fr, status)
@@ -106,18 +116,22 @@ def write_big(dest, entries):
             out.write(src.read(p))
 
 
-def build(dest, games, mod, rows):
+def build(dest, games, mod, rows, skip=None):
+    """skip(nom de fichier) -> True : voix laissée en VO (ex. dialogues de campagne de la version VO sous-titrée)."""
+    skip = skip or (lambda name: False)
     vanilla = {}
-    for _, _, fr in games:
+    for _, en, fr in games:
+        if not en:          # BFME1 : ses voix ne sont pas dans la base du launcher
+            continue
         for path, (_, _, orig) in fr.files.items():
-            if path not in mod and path.startswith('data/audio/'):
+            if path not in mod and path.startswith('data/audio/') and not skip(os.path.basename(path)):
                 vanilla[path] = (orig, fr, path)
     os.makedirs(dest, exist_ok=True)
     write_big(os.path.join(dest, BIG_NAME), sorted(vanilla.values(), key=lambda e: e[2]))
     sounds = os.path.join(dest, 'data', 'audio', 'sounds')
     os.makedirs(sounds, exist_ok=True)
     fr_by_game = {name: fr for name, _, fr in games}
-    loose = [(p, r) for p, r in rows.items() if r[5] in ('sûr', 'validé')]
+    loose = [(p, r) for p, r in rows.items() if r[5] in ('sûr', 'validé') and not skip(r[0])]
     for path, (base, game, *_) in loose:
         fr_by_game[game].extract(path, os.path.join(sounds, base))
     print(f'{BIG_NAME} : {len(vanilla)} voix vanilla | {len(loose)} voix AotR remplacées en VF -> {dest}')

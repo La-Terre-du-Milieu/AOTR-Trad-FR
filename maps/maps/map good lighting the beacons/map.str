@@ -1,0 +1,1637 @@
+////////////////OBJECTIVES//////////////////
+
+SCRIPT:WaystoneHint
+"La Cité Blanche est vaste. Vous pouvez utiliser les Pierres de Voie pour rejoindre rapidement un lieu déjà découvert."
+END
+
+SCRIPT:Objective06_BeaconsAlt
+"Utilisez l'eau-de-vie pour distraire les gardes."
+END
+
+///////////////AREA LABELS/////////////////
+
+SCRIPT:mtareaseventhlevel
+"SEPTIÈME CERCLE"
+END
+
+SCRIPT:mtareasixthlevel
+"SIXIÈME CERCLE"
+END
+
+SCRIPT:mtareafifthlevel
+"CINQUIÈME CERCLE"
+END
+
+SCRIPT:mtareafourthlevel
+"QUATRIÈME CERCLE"
+END
+
+SCRIPT:mtareathirdlevel
+"TROISIÈME CERCLE"
+END
+
+SCRIPT:mtareahousesofhealing
+"MAISONS DE GUÉRISON"
+END
+
+SCRIPT:mtarearoyalbarracks
+"CASERNE DE LA GARDE DE LA CITADELLE"
+END
+
+SCRIPT:houseofthestewards
+"MAISON DES INTENDANTS"
+END
+
+SCRIPT:houseofthekings
+"MAISON DES ROIS"
+END
+
+SCRIPT:mtarearoyalarmoury
+"ARMURERIES ROYALES"
+END
+
+SCRIPT:mtarearoyalstables
+"ÉCURIES ROYALES"
+END
+
+SCRIPT:mtarealibrary
+"BIBLIOTHÈQUE"
+END
+
+SCRIPT:cartographersguild
+"GUILDE DES CARTOGRAPHES"
+END
+
+SCRIPT:markets
+"MARCHÉS"
+END
+
+SCRIPT:tavern
+"AUBERGE DU CYGNE BLANC"
+END
+
+SCRIPT:fullers
+"FOULONS"
+END
+///////////////INTEREST POINTS/////////////////
+
+SCRIPT:mgfotr_pippin016
+"PIPPIN : C'est l'arbre !"
+END
+
+SCRIPT:mgfotr_pippin017
+"PIPPIN : Gandalf, Gandalf !"
+END
+
+SCRIPT:mgfotr_gandalf139
+"GANDALF : Oui, l'Arbre Blanc du Gondor. L'Arbre du Roi."
+END
+
+SCRIPT:mgfotr_gandalf140
+"GANDALF : Mais le seigneur Denethor n'est pas le Roi."
+END
+
+SCRIPT:mgfotr_gandalf141
+"GANDALF : Il n'est qu'un intendant. Un gardien du trône."
+END
+
+SCRIPT:mgfotr_pippin018
+"PIPPIN : Pourquoi le gardent-ils encore ?"
+End
+
+SCRIPT:mgfotr_gandalf146
+"GANDALF : Ils le gardent parce qu'ils ont de l'espoir."
+End
+
+SCRIPT:mgfotr_gandalf147
+"GANDALF : La foi, et l'espoir déclinant qu'un jour il refleurira."
+End
+
+SCRIPT:mgfotr_gandalf148
+"GANDALF : Le Roi viendra..."
+End
+
+SCRIPT:mgfotr_gandalf149
+"GANDALF : ...et cette cité redeviendra ce qu'elle fut..."
+End
+
+SCRIPT:mgfotr_gandalf150
+"GANDALF : ...avant qu'elle ne sombre dans le déclin."
+End
+
+SCRIPT:mgfotr_gandalf151
+"GANDALF : L'antique sagesse née de l'Ouest fut abandonnée."
+END
+
+SCRIPT:mgfotr_gandalf152
+"GANDALF : Les rois bâtirent des tombeaux plus splendides que les demeures des vivants..."
+END
+
+SCRIPT:mgfotr_gandalf153
+"GANDALF : ...et tinrent les vieux noms de leur lignée pour plus chers que les noms de leurs fils."
+END
+
+SCRIPT:mgfotr_gandalf154
+"GANDALF : Des seigneurs sans enfants siégeaient dans de vieilles salles, rêvant d'héraldique..."
+END
+
+SCRIPT:mgfotr_gandalf155
+"GANDALF : ...ou, dans de hautes tours glacées, interrogeaient les étoiles..."
+END
+
+SCRIPT:mgfotr_gandalf156
+"GANDALF : ...et ainsi le peuple du Gondor courut à sa ruine."
+END
+
+SCRIPT:mgfotr_gandalf157
+"GANDALF : La lignée des Rois s'éteignit..."
+END
+
+SCRIPT:mgfotr_gandalf158
+"GANDALF : ...l'Arbre Blanc se flétrit..."
+END
+
+SCRIPT:mgfotr_gandalf159
+"GANDALF : ...le gouvernement du Gondor fut remis à des hommes de moindre rang."
+END
+
+SCRIPT:mgfotr_pippin019
+"PIPPIN : Le Mordor..."
+END
+
+SCRIPT:mgfotr_gandalf160
+"GANDALF : Oui, il est là."
+END
+
+SCRIPT:mgfotr_gandalf161
+"GANDALF : Cette cité a toujours vécu sous le regard de son ombre."
+END
+
+SCRIPT:mgfotr_pippin020
+"PIPPIN : Un orage approche."
+END
+
+SCRIPT:mgfotr_gandalf162
+"GANDALF : Ce n'est pas le temps du monde."
+END
+
+SCRIPT:mgfotr_gandalf163
+"GANDALF : C'est un artifice de Sauron, un tourbillon de fumées qu'il envoie devant son armée."
+END
+
+SCRIPT:mgfotr_gandalf164
+"GANDALF : Les orques du Mordor n'aiment pas la lumière du jour..."
+END
+
+SCRIPT:mgfotr_gandalf165
+"GANDALF : ...alors il voile la face du soleil pour faciliter leur marche sur la route de la guerre."
+END
+
+SCRIPT:mgfotr_gandalf166
+"GANDALF : Quand l'ombre du Mordor atteindra cette cité..."
+END
+
+SCRIPT:mgfotr_gandalf167
+"GANDALF : ...Cela commencera."
+END
+
+///////////GREAT HALL BOROMIR/////////////
+
+SCRIPT:mgfotr_boromir037
+"BOROMIR : Ç'aurait été une folie plus grande encore de le prendre."
+END
+
+SCRIPT:mgfotr_boromir038
+"BOROMIR : À ma honte, j'ai tenté de le faire, et par bonheur l'Anneau de Pouvoir m'a été épargné."
+END
+
+SCRIPT:mgfotr_boromir039
+"BOROMIR : Tenez-vous au chemin de l'espoir, père. Aucune ruine ne s'abattra sur le Gondor tant que ses fils le défendront."
+END
+
+SCRIPT:mgfotr_denethor052
+"DENETHOR : L'Anneau de Pouvoir était à votre portée ! Quelle folie vous a pris de laisser le semi-homme le garder ?"
+END
+
+SCRIPT:mgfotr_denethor053
+"DENETHOR : Que peut-il apporter au Gondor à présent ? Sans son pouvoir, cette guerre ne peut être gagnée."
+END
+
+SCRIPT:mgfotr_denethor054
+"DENETHOR : Pis encore, le semi-homme sera sûrement capturé par les espions de Sauron."
+END
+
+SCRIPT:mgfotr_denethor055
+"DENETHOR : Au doigt de son Maître, l'Anneau nous mènera à la ruine totale !"
+END
+
+
+///////////GREAT HALL APPROACH/////////////
+
+SCRIPT:mgfotr_pippin016
+"PIPPIN : C'est l'arbre !"
+END
+
+SCRIPT:mgfotr_gandalf213
+"GANDALF : Maintenant, écoutez bien."
+END
+
+SCRIPT:mgfotr_gandalf214
+"GANDALF : Le seigneur Denethor est le père de Boromir. Lui annoncer la mort de son fils bien-aimé serait fort imprudent."
+END
+
+SCRIPT:mgfotr_gandalf215
+"GANDALF :...Et ne mentionnez pas Frodon, ni Aragorn non plus.\nEn fait, il vaudrait mieux que vous ne disiez rien du tout, Peregrin Touque."
+END
+
+///////////GREAT HALL INTERIOR/////////////
+
+SCRIPT:mgfotr_gandalf216
+"GANDALF : Salut à vous, Denethor, fils d'Ecthelion, Seigneur et Intendant du Gondor."
+END
+
+SCRIPT:mgfotr_gandalf217
+"GANDALF : Je viens avec des nouvelles en cette heure sombre, et avec un conseil."
+END
+
+///////////GREAT HALL DENETHOR/////////////
+
+SCRIPT:mgfotr_denethor034
+"DENETHOR : Vous venez peut-être m'expliquer ceci..."
+END
+
+SCRIPT:mgfotr_denethor035
+"DENETHOR : Vous venez peut-être me dire pourquoi mon fils est mort..."
+END
+
+SCRIPT:mgfotr_pippin054
+"PIPPIN : Boromir est mort pour nous sauver, mon cousin et moi."
+END
+
+SCRIPT:mgfotr_pippin055
+"PIPPIN : Il est tombé en nous défendant contre de nombreux ennemis."
+END
+
+SCRIPT:mgfotr_pippin056
+"PIPPIN : Je vous offre mes services, pour ce qu'ils valent..."
+END
+
+SCRIPT:mgfotr_pippin057
+"PIPPIN : En paiement de cette dette."
+END
+
+SCRIPT:mgfotr_denethor036
+"DENETHOR : Voici mon premier ordre."
+END
+
+SCRIPT:mgfotr_denethor037
+"DENETHOR : Comment avez-vous échappé, alors que mon fils, si puissant qu'il fût, n'y est pas parvenu ?"
+END
+
+SCRIPT:mgfotr_pippin058
+"PIPPIN : Le plus puissant des hommes peut être tué par une seule flèche... et Boromir en a reçu beaucoup."
+END
+
+SCRIPT:mgfotr_gandalf218
+"GANDALF : Seigneur !"
+END
+
+SCRIPT:mgfotr_gandalf219
+"GANDALF : Il sera temps de pleurer Boromir, mais ce n'est pas maintenant."
+END
+
+SCRIPT:mgfotr_gandalf220
+"GANDALF : La guerre approche !"
+END
+
+SCRIPT:mgfotr_gandalf221
+"GANDALF : L'Ennemi est à votre porte !"
+END
+
+SCRIPT:mgfotr_gandalf222
+"GANDALF : En tant qu'Intendant, vous avez la charge de défendre cette cité... où sont les armées du Gondor ?"
+END
+
+SCRIPT:mgfotr_gandalf223
+"GANDALF : Vous avez encore des amis."
+END
+
+SCRIPT:mgfotr_gandalf224
+"GANDALF : Vous n'êtes pas seul dans ce combat."
+END
+
+SCRIPT:mgfotr_denethor038
+"DENETHOR : Vous vous croyez sage, Mithrandir..."
+END
+
+SCRIPT:mgfotr_denethor039
+"DENETHOR : Pourtant, malgré toutes vos subtilités, vous n'avez pas la sagesse."
+END
+
+SCRIPT:mgfotr_denethor040
+"DENETHOR : Croyez-vous que les yeux de la Tour Blanche soient aveugles ?"
+END
+
+SCRIPT:mgfotr_denethor041
+"DENETHOR : J'ai vu plus que vous ne le savez."
+END
+
+SCRIPT:mgfotr_denethor042
+"DENETHOR : De votre main gauche, vous voudriez m'utiliser comme bouclier contre le Mordor...\net de la droite, vous chercheriez à me supplanter."
+END
+
+SCRIPT:mgfotr_denethor044
+"DENETHOR : Des rumeurs sont parvenues à mes oreilles au sujet de cet Aragorn, fils d'Arathorn,\net je vous le dis maintenant : je ne m'inclinerai pas devant ce Rôdeur du Nord !"
+END
+
+SCRIPT:mgfotr_denethor045
+"DENETHOR : Le dernier d'une maison déchue, depuis longtemps privée de seigneurie."
+END
+
+SCRIPT:mgfotr_gandalf225
+"GANDALF : Vous n'avez pas autorité pour refuser le retour du Roi, Intendant !"
+END
+
+SCRIPT:mgfotr_denethor046
+"DENETHOR : Le gouvernement du Gondor est à moi ! Et à nul autre !"
+END
+
+///////////GREAT HALL EXTERIOR/////////////
+SCRIPT:mgfotr_gandalf142
+"Il irait jusqu'à se draper dans son deuil !"
+END
+
+SCRIPT:mgfotr_gandalf143
+"Pendant mille ans, cette cité est restée debout."
+END
+
+SCRIPT:mgfotr_gandalf144
+"Aujourd'hui, au caprice d'un fou, elle va tomber."
+END
+
+SCRIPT:mgfotr_gandalf145
+"L'Arbre Blanc, l'Arbre du Roi, ne refleurira jamais."
+END
+
+SCRIPT:mgfotr_boromir034
+"BOROMIR : C'est un sombre destin qui nous a réunis, fils de Paladin. Des jours mauvais attendent la Cité Blanche."
+END
+
+SCRIPT:mgfotr_pippin065
+"PIPPIN : Quoi qu'il en soit, je suis très heureux de vous voir sain et sauf ! Vous m'avez sauvé la vie, ainsi qu'à Merry."
+END
+
+SCRIPT:mgfotr_pippin066
+"PIPPIN : J'aimerais vous offrir mes services, pour ce qu'ils valent, en paiement de cette dette !"
+END
+
+SCRIPT:mgfotr_boromir035
+"BOROMIR : La Garde de la Tour a toujours besoin de guerriers avisés comme vous."
+END
+
+SCRIPT:mgfotr_boromir036
+"BOROMIR : Engagez-vous envers le Gondor, et toute dette entre nous sera assurément payée."
+END
+
+///////////GREAT HALL CEREMONY/////////////
+
+SCRIPT:mgfotr_pippin059
+"PIPPIN : Ici je jure fidélité et service au Gondor. En paix comme en guerre, dans la vie comme dans la mort,\ndès cette heure et à jamais, jusqu'à ce que mon seigneur me délie, ou que la mort me prenne."
+END
+
+SCRIPT:mgfotr_denethor047
+"DENETHOR : Et je ne l'oublierai pas !"
+END
+
+SCRIPT:mgfotr_denethor048
+"DENETHOR : Je ne manquerai pas non plus de récompenser ce qui est donné."
+END
+
+SCRIPT:mgfotr_denethor049
+"DENETHOR : La fidélité par l'amour."
+END
+
+SCRIPT:mgfotr_denethor050
+"DENETHOR : La vaillance par l'honneur."
+END
+
+SCRIPT:mgfotr_denethor051
+"DENETHOR : La déloyauté par la vengeance."
+END
+
+///////////GREAT HALL BEREGOND/////////////
+
+SCRIPT:mgfotr_pippin120
+"PIPPIN : Alors, que se passe-t-il maintenant ?"
+End
+
+SCRIPT:mgfotr_gandalf249
+"GANDALF : Vous êtes désormais un Garde de la Citadelle, Peregrin Touque. Vous devrez faire ce qu'on vous dit !"
+END
+
+SCRIPT:mgfotr_gandalf250
+"GANDALF : Venez me voir quand vous vous serez familiarisé avec les devoirs de votre nouveau rang. J'ai des affaires urgentes à régler."
+END
+
+SCRIPT:mgfotr_beregond001
+"BEREGOND : Bienvenue dans les rangs de la Garde de la Citadelle, périan. J'ai reçu pour mission de vous informer de vos devoirs."
+END
+
+SCRIPT:mgfotr_pippin067
+"PIPPIN : Mes devoirs ?"
+END
+
+SCRIPT:mgfotr_beregond002
+"BEREGOND : En effet ! Votre rôle est loin d'être cérémonial. Un Garde de la Citadelle a de nombreuses responsabilités à assumer."
+END
+
+SCRIPT:mgfotr_pippin068
+"PIPPIN : ...Oh. Je vois."
+END
+
+SCRIPT:mgfotr_beregond003
+"BEREGOND : Vous devriez explorer un moment le Septième Cercle. Il y a ici de nombreux lieux importants à découvrir."
+END
+
+SCRIPT:mgfotr_beregond004
+"BEREGOND : À tout le moins, vous devriez vous rendre à la Caserne de la Citadelle, pour recevoir votre entraînement et votre armure..."
+END
+
+SCRIPT:mgfotr_beregond006
+"BEREGOND : Une fois cela fait, venez me voir à la Porte."
+END
+
+SCRIPT:mgfotr_pippin108
+"PIPPIN : Eh bien, on dirait que j'ai des choses à régler !"
+END
+///////////DIALOGUE/////////////
+
+
+///////////Location: Talking to the Fountain Guard/////////////
+
+SCRIPT:mgfotr_pippin069
+"Donc, je fais partie de la Garde de la Citadelle, mais à voir votre tenue, vous appartenez à un autre ordre ?"
+END
+
+SCRIPT:mgfotr_pippin070
+"Ce doit être un dur métier, de rester planté ici toute la journée."
+END
+
+SCRIPT:mgfotr_pippin071
+"J'ai moi-même monté la garde bien des fois, quand mon ami Merry est allé dans les cultures du Fermier Maggotte et... enfin... oubliez ça."
+END
+
+SCRIPT:mgfotr_pippin072
+"Puis-je vous apporter quelque chose ? Une pomme ? De l'eau ? Peut-être une pinte ?"
+END
+
+SCRIPT:FountainGuard001
+"..."
+End
+
+///////////Location: The Tower of Ecthelion/////////////
+
+SCRIPT:mgfotr_pippin073
+"Une magnifique pointe d'argent. Je me demande laquelle est la plus haute, celle-ci ou celles près des frontières occidentales de la Comté ?"
+END
+
+///////////Location: Great Hall/////////////
+SCRIPT:mgfotr_denethor063
+"Laissez-moi à mes pensées, semi-homme. Des affaires graves requièrent mon attention."
+END
+
+
+SCRIPT:mgfotr_irolas001
+"Le seigneur Denethor nous sert depuis longtemps avec sagesse et assurance. Grâce à son commandement et à sa clairvoyance, nous avons résisté aux légions du Mordor."
+END
+
+
+SCRIPT:mgfotr_hurin001
+"Salut, périan. Bienvenue à Minas Tirith. Je suis Húrin, Gardien des Clés."
+END
+
+SCRIPT:mgfotr_pippin133
+"Enchanté, monsieur. Si je puis me permettre, que fait un gardien des clés ?"
+End
+
+SCRIPT:mgfotr_hurin002A
+"Notre charge est ancienne, elle remonte au temps d'Anárion."
+END
+
+SCRIPT:mgfotr_hurin002B
+"Jadis, le Gardien avait la charge des Portes de la Cité. Leur ouverture et leur fermeture légitimes, et empêcher l'intrusion de visiteurs indésirables."
+END
+
+SCRIPT:mgfotr_hurin002C
+"De nos jours, le Gardien est aussi responsable de la Garde de la Cité."
+END
+
+SCRIPT:mgfotr_pippin134
+"Cela semble un travail important."
+End
+
+SCRIPT:mgfotr_hurin003
+"Un travail honorable, assurément."
+END
+
+
+///////////Location: Rath Dinen/////////////
+
+
+SCRIPT:mgfotr_pippin074
+"PIPPIN : Peregrin Touque, voilà qui je suis, fils de Paladin !\nJ'ai rejoint la Garde de la Citadelle de la Cité Blanche, et le Capitaine Beregond m'a chargé d'explorer le Septième Cercle !"
+END
+
+SCRIPT:mgfotr_hallowsguard002A
+"GARDE DU SANCTUAIRE : Le Capitaine Beregond ? Beregond n'est qu'un garde.\nMais on m'a informé de l'arrivée d'un Prince semi-homme venu d'une terre lointaine."
+END
+
+SCRIPT:mgfotr_hallowsguard002B
+"GARDE DU SANCTUAIRE : Ce doit être vous. Vous pouvez passer. Traitez ce lieu sacré avec la vénération qu'il exige."
+END
+
+SCRIPT:mgfotr_pippin077
+"PIPPIN : Il y a tant de statues. Tant de tombeaux. Rendre hommage, a dit Beregond.\nCombien de temps s'est écoulé depuis que quelqu'un a ôté la mousse de ces visages solennels ?"
+END
+
+SCRIPT:mgfotr_pippin078
+"Gandalf m'a dit que le Gondor est sans Roi depuis de nombreuses générations. Pourtant, tant d'entre eux reposent ici. Cette Cité est vieille... plus vieille que la Comté, sans aucun doute."
+END
+
+
+
+SCRIPT:mgfotr_pippin080
+"Hy-ar... Hy-ar... Hy-ar-men-dacil. Ciel, quel nom. Et regardez ! Ils ont sculpté son effigie en armure. Ce devait être un grand guerrier."
+END
+
+SCRIPT:mgfotr_pippin081
+"Earnur. Le seul sans corps. Je me demande ce qui lui est arrivé !"
+END
+
+SCRIPT:mgfotr_pippin082
+"Une modeste tombe... celle-ci raconte une histoire bien triste..."
+END
+
+SCRIPT:mgfotr_pippin083
+"Le seigneur Denethor avait l'air plus royal que tous les Hommes que j'aie jamais vus, sauf peut-être Grands-Pas à Fondcombe. Pourtant, il n'est qu'un intendant... un protecteur du trône."
+END
+
+SCRIPT:mgfotr_pippin084
+"De vieux livres poussiéreux. On dirait que quelqu'un venait lire en paix à cet endroit."
+END
+
+SCRIPT:mgfotr_pippin109
+"Mardil Voronwë. C'est écrit qu'il fut le premier des Intendants Régnants... après la disparition du roi Eärnur..."
+END
+
+SCRIPT:mgfotr_pippin110
+"Ci-gît Ecthelion II... Je crois que c'est le père du seigneur Denethor."
+END
+
+///////////Location: Barracks/////////////
+SCRIPT:mgfotr_masteratarms001
+"Que voulez-vous, Semi-homme ?"
+END
+
+SCRIPT:mgfotr_pippin075
+"En tant que Garde de la Citadelle, je dois m'exercer à l'escrime. J'ai de l'expérience, vous savez. Le voyage jusqu'ici a été long !"
+END
+
+SCRIPT:mgfotr_masteratarms002
+"Je n'en doute pas, jeune sire. Mais les guerriers de cette cour sont très habiles. Ce serait trop dangereux, et je n'ai pas le temps de reprendre les bases maintenant. Mieux vaut que vous observiez."
+END
+
+SCRIPT:mgfotr_pippin076
+"Comme vous voudrez ! Je préfère ne pas me faire rouer de coups. Un peu de repos me fera du bien, de toute façon."
+END
+
+SCRIPT:Objective02_TrainingPrompt
+"Placez Pippin sur le point lumineux pour commencer l'entraînement."
+END
+
+SCRIPT:mgfotr_masteratarms003
+"Maître d'armes : Voilà comment on fait, Semi-homme ! Voici votre armure, qu'elle vous serve bien.\nVous pouvez revenir à tout moment observer d'autres entraînements, si le cœur vous en dit."
+END
+
+SCRIPT:Objective02_TrainingFailed
+"Vous devez réussir 5 vagues d'entraînement pour obtenir l'armure de Pippin."
+END
+
+SCRIPT:mgfotr_masteratarms004
+"Le coude haut !"
+END
+
+SCRIPT:mgfotr_masteratarms005
+"Surveillez vos appuis !"
+END
+
+SCRIPT:mgfotr_masteratarms006
+"Pivotez !"
+END
+
+SCRIPT:mgfotr_masteratarms007
+"Levez ce bouclier la prochaine fois !"
+END
+
+SCRIPT:mgfotr_masteratarms008
+"Continuez à vous entraîner !"
+END
+
+SCRIPT:mgfotr_masteratarms009
+"Quelle escrime bâclée !"
+END
+
+SCRIPT:mgfotr_masteratarms010
+"Allons, debout !"
+END
+
+SCRIPT:mgfotr_masteratarms011
+"Je vous ai déjà vu faire mieux !"
+END
+
+SCRIPT:mgfotr_masteratarms012
+"Il faut être plus rapide !"
+END
+
+SCRIPT:mgfotr_masteratarms013
+"J'attendais mieux de vous."
+END
+
+SCRIPT:mgfotr_masteratarms013
+"J'attendais mieux de vous."
+END
+
+SCRIPT:mgfotr_masteratarms013
+"J'attendais mieux de vous."
+END
+
+SCRIPT:mgfotr_masteratarms013
+"J'attendais mieux de vous."
+END
+
+SCRIPT:mgfotr_masteratarms013
+"J'attendais mieux de vous."
+END
+
+
+///////////Location: Gate to Sixth Level/////////////
+
+SCRIPT:mgfotr_beregond011
+"Le Maître d'armes vous attend, mon ami. Ne le faites pas patienter !"
+END
+
+SCRIPT:mgfotr_beregond007
+"Beregond : Le Cinquième Niveau vous est ouvert, maître hobbit. Mes devoirs requièrent mon attention,\nmais vous pouvez explorer à votre guise. Pour l'instant, du moins."
+END
+
+SCRIPT:mgfotr_pippin085
+"Pippin : Merci, Capitaine Beregond !"
+END
+
+SCRIPT:mgfotr_beregond008
+"Beregond : Je ne suis pas capitaine ! Je ne suis qu'un humble garde de la Citadelle, comme vous."
+END
+
+SCRIPT:mgfotr_pippin086
+"Pippin : Toutes mes excuses. Avez-vous vu Gandalf quelque part ?"
+END
+
+SCRIPT:mgfotr_beregond009
+"Beregond : Mithrandir a disparu. J'ignore où il est allé. Il n'avait pas l'air réjoui."
+END
+
+SCRIPT:mgfotr_pippin087
+"Pippin : Ça lui arrive rarement !"
+END
+
+///////////Location: Beacon Path/////////////
+
+SCRIPT:mgfotr_gandalf187
+"Gandalf : Peregrin Touque, mon garçon... Il y a maintenant une tâche à accomplir."
+END
+
+SCRIPT:mgfotr_gandalf188
+"Gandalf : Une nouvelle occasion pour l'un des gens de la Comté de prouver leur grande valeur !"
+END
+
+SCRIPT:mgfotr_gandalf189
+"Gandalf : Vous devez allumer le feu d'alarme."
+END
+
+SCRIPT:mgfotr_gandalf191
+"Gandalf : Vous ne devez pas me décevoir."
+END
+
+SCRIPT:mgfotr_gandalf284
+"Gandalf : Le sort de la Cité Blanche en dépend."
+END
+
+SCRIPT:mgfotr_gandalf290
+"Ne traînez pas, Peregrin Touque ! Ce feu d'alarme doit être allumé !"
+END
+
+///////////Location: Library/////////////
+SCRIPT:mgfotr_faramir074
+"Faramir : Bienvenue, Maître Hobbit. On m'a dit que vous alliez rejoindre la Garde de la Tour."
+END
+
+SCRIPT:mgfotr_pippin088
+"Pippin : Gandalf m'a dit que vous aviez vu Frodon. Allait-il bien ?"
+END
+
+SCRIPT:mgfotr_faramir075
+"Faramir : Oui. Vous êtes de sa parenté ?"
+END
+
+SCRIPT:mgfotr_pippin089
+"Pippin : Cousin issu de germain. Et Samsaget ?"
+END
+
+SCRIPT:mgfotr_faramir076
+"Faramir : Son brave et loyal jardinier. Lui aussi se portait bien.\nJe ne doute pas de sa capacité à garder son maître en sécurité."
+END
+
+SCRIPT:mgfotr_faramir077
+"Faramir : Allez voir l'armurier et dites-lui que je vous envoie. Il devrait avoir un présent pour vous."
+END
+
+SCRIPT:mgfotr_librarian001A
+"Bibliothécaire : « Contes de fées du Lamedon », « La conquête du Rhûn par le roi Turambar » et « Un conte de deux royaumes ».\nIls manquaient depuis des années. Merci de les avoir rapportés."
+END
+
+SCRIPT:mgfotr_librarian001B
+"Bibliothécaire : Je vous récompenserais, mais faire une bonne action est sa propre récompense, n'êtes-vous pas d'accord ?"
+END
+
+SCRIPT:mgfotr_librarian002
+"Des notes, des notes, des notes… tant de notes !"
+END
+SCRIPT:mgfotr_librarian003
+"C'est un travail difficile, mais il faut bien que quelqu'un le fasse."
+END
+
+///////////Location: Houses of Healing/////////////
+SCRIPT:mgfotr_ioreth001A
+"Ioreth : On dirait que vous sortez tout droit d'un vieux conte. Un prince semi-homme d'un pays lointain.\nSi seulement je pouvais y aller."
+END
+
+SCRIPT:mgfotr_ioreth001B
+"Ioreth : Non, je ne devrais pas dire de telles choses. Mes devoirs sont ici, dans les Maisons de Guérison, comme depuis de nombreuses années.\nJe pense que nous serons bientôt très occupés. La guerre approche."
+END
+
+SCRIPT:mgfotr_pippin090
+"Pippin : Puis-je vous aider en quoi que ce soit ? Vous savez, pour les préparatifs ?"
+END
+
+SCRIPT:mgfotr_ioreth002A
+"Ioreth : Il y a une foule de choses dont je dois m'occuper. Il nous faut du linge propre. Des draps et des bandages, autant qu'on en trouvera.\nLe foulon du Troisième Niveau devrait en avoir un lot de prêt."
+END
+
+SCRIPT:mgfotr_ioreth002B
+"Ioreth : Je ne suis plus aussi agile qu'autrefois, quand je courais à travers les champs fleuris d'Imloth Melui. Peut-être pourriez-vous aller les chercher ?"
+END
+
+SCRIPT:mgfotr_pippin100
+"Voici le linge que vous avez demandé, milady."
+END
+
+SCRIPT:mgfotr_ioreth003
+"Milady ? Eh bien, par exemple ! Je ne suis qu'une servante de l'intendant de cette maison. Merci, aimable seigneur. Revenez nous voir un jour, et racontez-nous une histoire ou deux de votre pays. En bonne santé, bien sûr !"
+END
+
+SCRIPT:mgfotr_hohdunadan001
+///"Plants have many uses, both to harm and heal. And sometimes the most unassuming are the most potent - wouldn't you agree?"
+"Les plantes ont bien des usages, pour nuire comme pour guérir. Et parfois les plus discrètes sont les plus puissantes. L'athelas... sa douce odeur apaise ceux qui ont trop vu la guerre..."
+END
+///////////Location: Stables/////////////
+SCRIPT:mgfotr_pippin091
+"Cher Gripoil ! Comme tu nous as portés vite ! Sains et saufs à travers des terres que Gandalf dit n'être plus sûres pour les gens paisibles. Je te trouverai un gage d'amitié, une récompense pour ton service sans faille."
+END
+
+SCRIPT:mgfotr_pippin099
+"Tenez, monseigneur, ce n'est pas grand-chose, mais c'est la plus belle pomme des marchés de la ville que j'aie pu trouver."
+END
+
+///////////Location: Royal Armouries/////////////
+SCRIPT:mgfotr_armourer001
+"Armurier : Le capitaine Faramir m'a annoncé votre venue. Cela m'a demandé du travail, mais j'ai trouvé l'objet qu'il souhaitait vous voir recevoir.\nSon heaume, forgé pour lui par mon père, quand le capitaine n'était encore qu'un jeune garçon."
+END
+
+SCRIPT:mgfotr_pippin092
+"Pippin : J'ai la tête grosse pour un Hobbit, mais il a l'air de m'aller !"
+END
+
+SCRIPT:mgfotr_armourer002
+"Armurier : Essayez-le, vous verrez."
+END
+
+SCRIPT:mgfotr_pippin101
+"Pippin : Je dois avoir l'air encore plus grand maintenant ! J'aimerais pouvoir le montrer à mes amis."
+END
+
+SCRIPT:mgfotr_boromir072
+"Boromir : Le serment que vous avez prêté témoigne d'une grande noblesse, mon ami.\nUn prince semi-homme dans les rangs de la Garde de la Citadelle est un spectacle merveilleux."
+END
+
+SCRIPT:mgfotr_pippin093
+"Pippin : Merci. Mais vous savez que je ne suis pas vraiment un prince, n'est-ce pas ?"
+END
+
+SCRIPT:mgfotr_boromir073
+"Boromir : Toutes les belles histoires méritent un peu d'embellissement."
+END
+
+SCRIPT:mgfotr_pippin094
+"Pippin : Boromir... Merci encore pour ce que vous avez fait pour nous. Longtemps, j'ai cru que vous étiez tombé.\nVous voir vivant me fait penser qu'il reste de l'espoir pour nous."
+END
+
+SCRIPT:mgfotr_boromir074
+"Boromir : L'espoir demeure, Peregrin Touque. J'ai placé le mien en Aragorn, qui nous rejoindra ici le moment venu."
+END
+
+SCRIPT:mgfotr_boromir102
+"Ah, maître Peregrin. Vous voilà !"
+END
+
+///////////Location: Cartographer's Guild/////////////
+SCRIPT:mgfotr_harion001
+"Harion : Oho, voyez ! Un Semi-homme, venu de la verte Comté !"
+END
+
+SCRIPT:mgfotr_pippin095
+"Pippin : Vous connaissez les Semi-hommes ?"
+END
+
+SCRIPT:mgfotr_alethendir001
+"Alethendir : Bien sûr ! La plupart des gens d'ici vous croiraient sorti tout droit d'un vieux conte elfique."
+END
+
+SCRIPT:mgfotr_harion002
+"Harion : Mais nous savons à quoi nous en tenir ! Traversez le Calenardhon, que l'on nomme à présent Rohan, ou la Marche des Cavaliers..."
+END
+
+SCRIPT:mgfotr_alethendir002
+"Alethendir : Vers l'ouest, jusqu'à l'Isen, que vous franchirez à ses gués..."
+END
+
+SCRIPT:mgfotr_harion003
+"Harion : Puis vers le nord vous devrez voyager de nombreuses lieues, en suivant l'ancienne route..."
+END
+
+SCRIPT:mgfotr_alethendir003
+"Alethendir : Jusqu'à atteindre Tharbad, l'antique passage."
+END
+
+SCRIPT:mgfotr_harion004
+"Harion : Et encore bien des lieues plus loin vers le nord, jusqu'à la ville de Bree, au-delà des anciennes tombes de nos lointains parents."
+END
+
+SCRIPT:mgfotr_alethendir004
+"Alethendir : Puis vers l'ouest vous marcherez, toujours sur la Route, au-delà de la vieille forêt, jusqu'à atteindre le Baranduin..."
+END
+
+SCRIPT:mgfotr_harion005
+"Harion : Ou le Brandevin, comme disent les gens du pays..."
+END
+
+SCRIPT:mgfotr_harionandalethendir001
+"Tous les deux : Et voilà, vous êtes arrivé dans la Comté !"
+END
+
+SCRIPT:mgfotr_harion006
+"Harion : Oui, il y a beaucoup à explorer dans ce vaste monde, mais aussi entre ces murs sacrés."
+END
+
+SCRIPT:mgfotr_alethendir005
+"Alethendir : En effet. Vous êtes-vous aventuré jusqu'aux niveaux les plus hauts ?\nC'est de là que l'on domine le mieux la Cité et la forme du pays."
+END
+
+SCRIPT:mgfotr_harion007
+"Harion : Nous vous prêterions bien notre longue-vue, mais nous semblons l'avoir égarée...\nFaites-nous savoir si vous la trouvez au cours de vos péripéties."
+END
+
+SCRIPT:mgfotr_pippin098
+"Ce doit être la longue-vue que cherchent les cartographes. Je devrais la leur rapporter."
+END
+
+SCRIPT:mgfotr_pippin175
+"Qu'est-ce que c'est ? Quelqu'un a dû la perdre. Ouf, c'est lourd ! Ça doit coûter cher !"
+END
+
+SCRIPT:mgfotr_alethendir006
+"Ah, vous voilà de retour ! Avez-vous trouvé notre longue-vue ?"
+END
+
+SCRIPT:mgfotr_pippin119
+"Voilà !"
+END
+
+SCRIPT:mgfotr_harion008
+"Merci beaucoup ! C'est essentiel pour notre travail. En signe de gratitude, voici une carte de Minas Tirith. C'est la plus détaillée que vous trouverez de cette cité."
+END
+
+SCRIPT:mgfotr_alethendir007
+"Bon voyage !"
+END
+
+SCRIPT:SpyglassBonus
+"Pippin a reçu une carte de la ville, qui peut révéler une zone de la carte"
+END
+
+///////////Location: Markets/////////////
+SCRIPT:mgfotr_pippin096
+"Une pomme ! Je devrais la donner à Gripoil"
+END
+
+///////////Location: Fullers/////////////
+SCRIPT:mgfotr_fuller01
+"Foulon : Salutations, Maître Semi-homme."
+END
+SCRIPT:mgfotr_pippin105
+"Pippin : Bonjour ! Ioreth m'a envoyé depuis le sixième niveau pour récupérer du linge frais."
+END
+SCRIPT:mgfotr_fuller02
+"Foulon : Ah oui, pour les Maisons de Guérison ? Bien sûr, nous avons ici un petit paquet que vous pouvez emporter. Le reste sèche encore, je le crains,\nmais je ferai porter le reste par l'un des porteurs avant demain."
+END
+SCRIPT:mgfotr_pippin106
+"Pippin : Je suis sûr qu'elle comprendra. Merci !"
+END
+
+SCRIPT:mgfotr_pippin097
+"Voici le linge propre que Ioreth m'a demandé de récupérer."
+END
+
+///////////Location: Tavern/////////////
+SCRIPT:mgfotr_barkeep001
+"Où est passé ce satané chat... l'endroit grouille de souris... euh, oh ! Ce que je voulais dire, c'est que tout est en ordre chez nous !"
+END
+
+SCRIPT:mgfotr_barkeep002
+"Oh, te voilà, ma douce ! Merci, jeune maître ! Tenez, une pinte offerte par la maison !... Euh, vous avez bien l'âge, n'est-ce pas ?"
+END
+
+SCRIPT:mgfotr_pippin102
+"Dites, l'ami, vous n'auriez pas du brandy, par hasard ?"
+END
+
+SCRIPT:mgfotr_barkeep003
+"Tout ce que vous voulez, mon petit gars"
+END
+
+SCRIPT:mgfotr_pippin107
+"Oh, je crois que ton maître te cherche, petit chaton !"
+END
+
+SCRIPT:mgfotr_pippin127
+"« Brandy de Lossarnach de qualité supérieure »... Voilà qui réglera le cas de ce garde !"
+END
+
+
+SCRIPT:mgfotr_barveteran001
+"Vétéran : Salutations, périan. D'où venez-vous ?"
+END
+
+SCRIPT:mgfotr_pippin128
+"Pippin : Moi ? Oh, je viens de la Comté. Je suppose que vous n'en avez jamais entendu parler. Elle se trouve loin au nord."
+END
+
+SCRIPT:mgfotr_barveteran002
+"Vétéran : Je ne suis jamais allé au nord, hélas. Mes voyages m'ont mené au sud... jusqu'à Umbar."
+END
+
+SCRIPT:mgfotr_pippin129
+"Pippin : Umbar ?"
+END
+
+SCRIPT:mgfotr_barveteran003A
+"Vétéran : Oui. Il y a près de quarante ans, j'ai servi sous les ordres du légendaire capitaine connu sous le nom de Thorongil, l'Aigle de l'Étoile."
+End
+
+SCRIPT:mgfotr_barveteran003B
+"Vétéran : Le Gondor souffrait depuis longtemps des agressions des corsaires du sud, une engeance sans foi ni loi,\njusqu'à ce que notre capitaine entreprenne un raid audacieux sur leur misérable capitale."
+End
+
+SCRIPT:mgfotr_barveteran003C
+"Vétéran : Nous avons brûlé leur flotte noire, et Thorongil lui-même a tué le Maître de leurs havres en combat singulier.\nPendant de nombreuses années, les Sudrons ont laissé nos côtes en paix... mais il semble que leur scélératesse ait repris."
+End
+
+SCRIPT:mgfotr_barveteran003D
+"Vétéran : Je crains que la puissance du Mordor ne les ait enhardis. Si j'étais encore jeune,\nje partirais vers la côte et les rejetterais à la mer..."
+END
+
+SCRIPT:mgfotr_pippin130
+"Pippin : J'en suis sûr, maître guerrier."
+END
+
+SCRIPT:mgfotr_barveteran004
+"Vétéran : Hmm. Merci, périan, de m'avoir tenu compagnie aujourd'hui. Tenez, prenez cette bouteille de brandy.\nElle vient de Lossarnach, et elle est fort réputée. Ne la buvez pas d'un seul coup, hein."
+END
+
+
+SCRIPT:mgfotr_pippin131
+"Je parie que je pourrais distraire le garde du feu d'alarme avec ça..."
+END
+
+SCRIPT:mgfotr_pippin132
+"Oh, merci. Très aimable. Ça réchauffera peut-être de vieux os !"
+END
+
+///////////Location: Fifth Level Gate/////////////
+SCRIPT:mgfotr_fifthlevelgateguard01
+"Ouste ! Tu ne montes pas là-haut, minet !"
+END
+
+///////////Location: Beacon Door/////////////
+SCRIPT:mgfotr_beaconguard01
+"Garde du feu d'alarme : Halte ! L'accès aux feux d'alarme est interdit par l'autorité de l'Intendant, même aux membres de la Garde de la Citadelle."
+END
+
+SCRIPT:mgfotr_beaconguard02
+"Garde du feu d'alarme 01 : Le vent est glacial ici. Ce que je donnerais pour un brandy de Lossarnach afin de me réchauffer les os."
+END
+
+SCRIPT:mgfotr_beaconguard21
+"Garde du feu d'alarme 02 : Il paraît que l'auberge du Cygne Blanc vient de recevoir un nouvel arrivage de ce truc. C'est rare ces jours-ci !"
+END
+
+SCRIPT:mgfotr_pippin159
+"Les gardes ont parlé d'un certain brandy. Je devrais trouver l'auberge du Cygne Blanc et voir si je peux en obtenir une bouteille."
+END
+
+SCRIPT:mgfotr_pippin160
+"Les gardes ont parlé d'un certain brandy. Je devrais retourner à l'auberge du Cygne Blanc et voir si je peux en obtenir une bouteille."
+END
+
+SCRIPT:mgfotr_beaconguard03
+"Garde du feu d'alarme 01 : Qu'est-ce que c'est ? Allez voir !"
+END
+
+SCRIPT:mgfotr_pippin103
+"Pippin : Je vais laisser ça ici..."
+END
+
+SCRIPT:mgfotr_beaconguard04
+"Garde du feu d'alarme 02 : C'est bien ce que je crois ? Faites le guet pendant que je me réchauffe !"
+END
+
+SCRIPT:mgfotr_pippin111
+"Pippin : Un de réglé ! Je vais distraire l'autre et gagner vite le feu d'alarme."
+END
+
+///////////Location: Quarry/////////////
+
+SCRIPT:mgfotr_bergil01
+"Bergil : Bonjour ! Je suis Bergil, fils de Beregond de la Garde. Je ne vous ai jamais vu. Comment vous appelez-vous ?"
+End
+
+SCRIPT:mgfotr_pippin121
+"Pippin : Je suis Pippin de la Comté. J'ai rencontré ton père, je fais moi aussi partie de la Garde !"
+End
+
+SCRIPT:mgfotr_bergil02
+"Bergil : Vous ? Quel âge avez-vous ? Vous êtes beaucoup trop petit pour être garde !"
+End
+
+SCRIPT:mgfotr_pippin122
+"Pippin : J'ai vingt-neuf ans. Et je suis plutôt grand pour un Hobbit, je te prie de le croire."
+End
+
+SCRIPT:mgfotr_bergil03
+"Bergil : Je n'avais jamais entendu parler des Hobbits... êtes-vous bon à cache-cache ? J'ai envie d'y jouer depuis ce matin."
+End
+
+SCRIPT:mgfotr_pippin123
+"Pippin : Je suppose que oui..."
+End
+
+SCRIPT:mgfotr_bergil04
+"Bergil : Alors venez me trouver !"
+End
+
+SCRIPT:mgfotr_pippin124
+"Pippin : Très bien. Je crois que je peux faire une pause dans mes devoirs !"
+End
+
+SCRIPT:mgfotr_bergil05
+"Bergil : Vous en avez mis du temps ! Rejouons !"
+End
+
+SCRIPT:mgfotr_bergil06
+"Bergil : Vous m'avez eu ! Pas mal, pas mal ! Voyons si vous me trouvez cette fois..."
+End
+
+SCRIPT:mgfotr_bergil07
+"Bergil : Vous êtes fort, Maître Pippin !"
+End
+
+SCRIPT:mgfotr_bergil08
+"Bergil : Revenez bientôt, je vous en prie. Si seulement il n'y avait pas la guerre, nous aurions pu passer de joyeux moments !"
+End
+
+SCRIPT:mgfotr_pippin125
+"Pippin : Bien sûr, je viendrai te chercher si j'ai le temps... un Garde de la Citadelle\na de nombreux devoirs à remplir, après tout. À bientôt !"
+End
+
+SCRIPT:mgfotr_bergil09
+"Bergil : Adieu pour cette fois ! Merci de votre compagnie. Transmettez mes salutations à mon père !"
+End
+
+SCRIPT:mgfotr_pippin126
+"J'ai rencontré votre fils Bergil. Il vous envoie ses salutations !"
+End
+
+SCRIPT:mgfotr_beregond012
+"Vraiment ? J'espère qu'il ne vous a pas trop distrait. Ce garçon adore ses jeux."
+End
+
+SCRIPT:mgfotr_pippin176
+"Bergil n'est sûrement pas allé aussi loin."
+END
+
+SCRIPT:mgfotr_pippin177
+"Je parie que Bergil se cache quelque part par ici."
+END
+
+SCRIPT:HINT_BERGIL_AREA
+"Vous quittez la zone où se cache Bergil. Vous pouvez y retourner pour le trouver, ou revenir plus tard."
+END
+
+///////////Chatter: Beacon/////////////
+
+
+SCRIPT:mgfotr_gandalf285
+"Denethor est en proie à un sombre désespoir... un artifice de Sauron, je le crains."
+END
+
+SCRIPT:mgfotr_boromir099
+"Des messages ont été envoyés aux fiefs du sud. Imrahil, Forlong... ils se battront."
+END
+
+SCRIPT:mgfotr_gandalf286
+"Mais cela suffira-t-il ? Leurs terres sont attaquées."
+END
+
+SCRIPT:mgfotr_boromir100
+"Non."
+END
+
+SCRIPT:mgfotr_boromir101
+"Aragorn chevauche-t-il avec lui ?"
+End
+
+SCRIPT:mgfotr_gandalf288
+"Oui. Nous devons préparer le retour du Roi."
+END
+
+SCRIPT:mgfotr_gandalf289
+"Peregrin Touque ! Vous écoutez aux portes, n'est-ce pas ?! J'espérais que vous aviez appris à ne pas fourrer votre nez où il n'a que faire. Allez faire ce qu'on vous a dit, puis revenez me voir une fois vos tâches accomplies !"
+END
+
+///////////Chatter: Nobles/////////////
+SCRIPT:mtcivnobleconvo_01
+"Le seigneur Denethor sait ce qu'il fait... Mais où est Imrahil ? Où sont nos soldats ?"
+END
+
+SCRIPT:mtcivnobleconvo_02
+"Chaque jour, les ténèbres du Mordor se rapprochent... Nos réserves sont abondantes. Nous tiendrons plus longtemps qu'eux. Sauron cherche à nous détruire, pas à piller nos réserves..."
+END
+SCRIPT:mtcivnobleconvo_03
+"Nous aurions dû renforcer la garnison il y a des années. Maintenant, il est trop tard. Un Gondorien vaut une vingtaine de racailles du Mordor. Je n'en serais pas si sûr..."
+END
+SCRIPT:mtcivnobleconvo_05
+"Nous aurions dû raviver les anciennes alliances le jour où Osgiliath est tombée. La reprendre n'a été qu'un répit temporaire. Pourquoi n'avons-nous pas envoyé d'émissaires au nord ? Le roi des Elfes n'envoie pas volontiers ses elfes au secours des Hommes.."
+END
+SCRIPT:mtcivnobleconvo_06
+"Aucune armée n'a jamais franchi l'Othram. Vous vous inquiétez trop. On dit que Curunir a abattu le grand mur du Gouffre de Helm par quelque sorcellerie noire. Qui sait quels engins maudits le Seigneur Ténébreux enverra lui-même avec ses armées ?"
+END
+SCRIPT:mtcivnobleconvo_07
+"Ainsi Mithrandir est revenu dans la Cité Blanche. On dit que le malheur suit ses pas..."
+END
+SCRIPT:mtcivnobleconvo_08
+"Je n'ai pas dormi depuis des jours... et quand j'y parviens, je rêve de la Terre Noire. Cette nuit, j'ai rêvé d'une belle jeune fille parmi les fleurs d'Imloth Melui."
+END
+SCRIPT:mtcivnobleconvo_18
+"Le seigneur Denethor est sage, certes, mais je ne peux ignorer ce que mes yeux voient. Il nous faut plus d'hommes. D'autres viendront."
+END
+
+///////////Chatter: Civilians/////////////
+SCRIPT:mtcivfoley01
+"Hé, attention !"
+END
+SCRIPT:mtcivfoley02
+"Qu'est-ce que vous voulez ?"
+END
+SCRIPT:mtcivfoley03
+"Vous feriez mieux de ne pas vous attirer d'ennuis..."
+END
+SCRIPT:mtcivfoley04
+"Eh, faites attention !"
+END
+SCRIPT:mtcivfoley05
+"Le sixième niveau ? Ça va prendre toute la journée"
+END
+SCRIPT:mtcivfoley06
+"Un vieux bonhomme en blanc a failli me renverser ce matin."
+END
+SCRIPT:mtcivfoley07
+"Avez-vous vu Andreth aujourd'hui ?"
+END
+SCRIPT:mtcivfoley08
+"Hmm ?"
+END
+SCRIPT:mtcivfoley09
+"Hmmm ?"
+END
+SCRIPT:mtcivfoley10
+"Qu'y a-t-il ?"
+END
+SCRIPT:mtcivfoley11
+"Et vous êtes ?"
+END
+SCRIPT:mtcivfoley12
+"Pourquoi cette hâte ?"
+END
+SCRIPT:mtcivfoley13
+"Aucun orque ne peut escalader ces murs."
+END
+SCRIPT:mtcivfoley14
+"Sur ordre de l'Intendant... ? C'est le troisième cette semaine..."
+END
+SCRIPT:mtcivfoley15
+"Un peu petit pour un garde, non ?"
+END
+SCRIPT:mtcivfoley16
+"Vous avez appris ? Le capitaine Boromir est de retour !"
+END
+SCRIPT:mtcivfoley17
+"Le capitaine Boromir est parti depuis de nombreuses lunes... J'espère qu'il reviendra bientôt."
+END
+SCRIPT:mtcivfoley18
+"Le ciel de l'est s'assombrit... Je crains ce qui va venir."
+END
+SCRIPT:mtcivfoley19
+"Si vous cherchez quelque chose, allez voir un panneau d'affichage."
+END
+SCRIPT:mtcivfoley20
+"Vous cherchez la Caserne de la Citadelle ? Elle est juste devant, à l'ombre de la Salle des Rois."
+END
+SCRIPT:mtcivfoley21
+"Gandalf ? Ah, Mithrandir. Oui, il est passé par ici."
+END
+SCRIPT:mtcivfoley22
+"Vous cherchez le Magicien Blanc ? Je l'ai vu partir vers l'ouest, en grande hâte !"
+END
+SCRIPT:mtcivfoley23
+"Le plus beau cheval que j'aie jamais vu. Mais je doute que même lui résiste à une belle pomme rouge du marché..."
+END
+SCRIPT:mtcivfoley24
+"L'auberge du Cygne Blanc est le meilleur établissement de ce côté de la Pierre."
+END
+
+SCRIPT:mtcivfoley26
+"Cette épée a l'air d'une facture ancienne. Vous l'avez prise à l'armurerie ?"
+END
+SCRIPT:mtcivfoley27
+"Salut, périan. Si vous vous perdez dans les rues de la cité, utilisez ces pierres de guidage pour retrouver votre chemin."
+END
+SCRIPT:mtcivfoley28
+"Vous cherchez le Maître d'armes ? Il est par là."
+END
+SCRIPT:mgfotr_pippin115
+"Ah ! L'homme chauve ?"
+END
+SCRIPT:mtcivfoley29
+"Eh bien... hmm. Oui."
+END
+SCRIPT:mtcivfoley30
+"Ne craignez rien. La Cité Blanche ne tombera pas"
+END
+SCRIPT:mtcivfoley31
+"Nous montons la garde"
+END
+SCRIPT:mtcivfoley32
+"Soyez vigilant, jeune sire"
+END
+SCRIPT:mtcivfoley33
+"Ne laissez pas la menace du Mordor vous effrayer."
+END
+SCRIPT:mtcivfoley34
+"Les Hommes du Gondor ont toujours tenu tête à l'Ombre."
+END
+SCRIPT:mtcivfoley35
+"Vous êtes en sécurité entre ces murs, périan."
+END
+SCRIPT:mtcivfoley36
+"La Cité est vieille. Elle s'effrite en des endroits visibles et invisibles. C'est à nous de la rapiécer."
+END
+
+
+SCRIPT:mtcivfemshortfoley01
+"Les jours s'assombrissent..."
+END
+SCRIPT:mtcivfemshortfoley02
+"Si vous apportez de mauvaises nouvelles, je préfère en être épargnée."
+END
+SCRIPT:mtcivfemshortfoley03
+"Si Osgiliath tombe, que ferons-nous ?"
+END
+SCRIPT:mtcivfemshortfoley04
+"Regardez-le... il est bien petit pour un prince..."
+END
+SCRIPT:mtcivfemshortfoley05
+"Mon mari patrouille dans les forêts d'Ithilien... J'espère qu'il va bien."
+END
+SCRIPT:mtcivfemshortfoley06
+"J'ai fait des provisions... on ne sait jamais, ces temps-ci."
+END
+SCRIPT:mtcivfemshortfoley07
+"Où allez-vous ?"
+END
+SCRIPT:mtcivfemshortfoley08
+"Attention !"
+END
+SCRIPT:mtcivfemshortfoley08a
+"Attention !"
+END
+SCRIPT:mtcivfemshortfoley09
+"Hmm ?"
+END
+SCRIPT:mtcivfemshortfoley09a
+"Hmm ?"
+END
+SCRIPT:mtcivfemshortfoley10
+"Oui ?"
+END
+SCRIPT:mtcivfemshortfoley10a
+"Oui ?"
+END
+SCRIPT:mtcivfemshortfoley11
+"Puis-je vous aider ?"
+END
+SCRIPT:mtcivfemshortfoley11a
+"Puis-je vous aider ?"
+END
+SCRIPT:mtcivfemshortfoley12
+"Qui êtes-vous ?"
+END
+SCRIPT:mtcivfemshortfoley12a
+"Qui êtes-vous ?"
+END
+SCRIPT:mtcivfemshortfoley13
+"Le marché est bien approvisionné… mais pour combien de temps ?"
+END
+SCRIPT:mtcivfemshortfoley14
+"Ma fille ne parle plus que de l'arrivée prochaine de tous ces beaux seigneurs des fiefs..."
+END
+SCRIPT:mtcivfemshortfoley15
+"C'est le prince des Semi-hommes !"
+END
+
+SCRIPT:mtcivfemshortfoley16
+"Prenez garde !"
+END
+SCRIPT:mtcivfemshortfoley17
+"Qui est-ce ?"
+END
+SCRIPT:mtcivfemshortfoley18
+"M'aiderez-vous à porter un sac de grain jusqu'à la grange ?"
+END
+SCRIPT:mtcivfemshortfoley19
+"La ville est sûre"
+END
+SCRIPT:mtcivfemshortfoley20
+"Le seigneur Denethor sait mieux que quiconque"
+END
+
+
+
+SCRIPT:mtcivfemlongfoley01
+"Il est sorti des Maisons de Guérison avant la relève de la garde ! Et voilà que soudain il ne peut plus faire son lit parce qu'il est « blessé »..."
+END
+SCRIPT:mtcivfemlongfoley02
+"Ils ont envoyé mon garçon garnir le Rammas Echor... Je n'ai pas fermé l'œil depuis... Ne désespérez pas. Ivorwen me dit que le capitaine Boromir est de retour !"
+END
+SCRIPT:mtcivfemlongfoley03
+"La ville devient bondée... Trois fois ils sont entrés par effraction pour prendre notre sac de grain. J'ai demandé à Ohtar de condamner nos fenêtres."
+END
+SCRIPT:mtcivfemlongfoley04
+"...deux faisans entiers ! Comme si le seigneur Forlong en personne venait dîner !"
+END
+SCRIPT:mtcivfemlongfoley05
+"...Comme j'aimerais séjourner dans une jolie chaumière à Lossarnach. Mais il est bien trop tard pour cela maintenant. Les routes sont dangereuses."
+END
+SCRIPT:mtcivfemlongfoley06
+"Où as-tu dégoté cette armure, mon garçon ? Oh... Toutes mes excuses."
+END
+
+SCRIPT:mtcivfemlongfoley07
+"Crois-tu que nous soyons en sécurité ici ? Ma mère disait toujours qu'il n'existe pas d'endroit plus sûr que notre Cité Blanche..."
+END
+SCRIPT:mtcivfemlongfoley08
+"Tout ce que font ces seigneurs, c'est parler. Il nous faut de grands exploits, pas des débats !"
+END
+SCRIPT:mtcivfemlongfoley09
+"Si le moment venait, prendriez-vous une lame pour vous battre ? Bien sûr. Mon mari l'ignore, mais j'ai gardé l'épée de mon père en lieu sûr, en bon état..."
+END
+
+
+
+///////////Chatter: Merchants/////////////
+SCRIPT:mtcivarmourer01
+"...oui monsieur, un bon coup de brosse et ce sang partira sans problème."
+END
+
+SCRIPT:mtcivbutcher01
+"De la viande de choix ! Faisan et volaille ! Porc salé !"
+END
+
+SCRIPT:mtcivfishmonger01
+"Poisson frais ! Moules ! Hareng du Harlond ! Perche rouge d'Amroth !"
+END
+
+SCRIPT:mtcivfruitseller01
+"Vendeur de fruits : Des fruits frais ! Des pommes rouges de Ringlo, sucrées et tellement juteuses !"
+END
+
+SCRIPT:mtcivfruitseller02
+"Vendeur de fruits : Tenez, jeune maître, prenez-en une ! Mais n'allez pas le dire à votre mère..."
+END
+
+SCRIPT:mtcivodos01
+"Les Curiosités d'Odo ! Pétards, fusées, crécelles et boutefeux ! Et vous, cher monsieur ?"
+END
+
+SCRIPT:mgfotr_pippin104
+"Euh... Non, merci."
+END
+
+SCRIPT:mtcivtoymaker01
+"...vous la remontez et hop, elle s'anime ! Euh... enfin, d'habitude... Celle-ci a l'air coincée..."
+END
+
+SCRIPT:mtcivweaponsmith01
+"...on n'est jamais trop prudent de nos jours ! Sur la route comme en ville, mieux vaut avoir une dague au côté !"
+END
+
+SCRIPT:mtcivwinemerchant01
+"Le meilleur vin de Tolfalas ! De rares rouges du Dorwinion !"
+END
+
+SCRIPT:mtcivmerchant_01
+"Achetez vos pommes tant qu'il en reste !"
+END
+
+SCRIPT:mtcivmerchant_02
+"Vous avez l'air d'apprécier les belles choses de la vie."
+END
+
+SCRIPT:mtcivmerchant_03
+"Que cherchez-vous, demi-homme ?"
+END
+
+SCRIPT:mtcivmerchant_04
+"J'achète et je troque."
+END
+
+SCRIPT:mtcivmerchant_05
+"Vous cherchez quelque chose en particulier ?"
+END
+
+SCRIPT:mtcivmerchant_06
+"J'ai les meilleures marchandises du pays."
+END
+
+SCRIPT:mtcivmerchant_07
+"Je ne fournis que des produits de première qualité."
+END
+
+SCRIPT:mtcivmerchant_08
+"De toute ma vie, je n'ai jamais vu des gens de votre espèce dans ces rues."
+END
+
+SCRIPT:mtcivmerchant_09
+"Qu'est-ce qui vous amène au marché aujourd'hui ?"
+END
+
+SCRIPT:mtcivmerchant_10
+"La guerre se prépare. Faites des réserves tant que vous le pouvez."
+END
+
+///////////Location: Trebuchet/////////////
+SCRIPT:mgfotr_trebuchetguard01
+"Ne touche pas aux machines de siège, mon garçon, c'est dangereux !"
+END
+///////////Location: Quarry/////////////
+SCRIPT:mgfotr_chiefinspector001
+"Soyez le bienvenu, demi-homme ! Les merveilles de la cité vous plaisent-elles ?"
+END
+///////////Location: Stables/////////////
+SCRIPT:mgfotr_riderofrohan001
+"J'ai été envoyé ici pour assurer le commerce des chevaux entre le Rohan et le Gondor."
+END
+/////////////////////////////////
+////////////TIMERS///////////////
+/////////////////////////////////
+
+SCRIPT:Timer Arena Break
+"La prochaine manche commence dans :"
+End
+
+SCRIPT:Timer Arena Enter
+"L'entraînement commence dans :"
+End
+
+/////////////////////////////////
+/////////////COUNTERS////////////
+/////////////////////////////////
+
+SCRIPT:Counter Arena Waves Completed
+"Manches terminées :"
+End
+
+/////////////////////////////////
+////////////INSTRUCTION//////////
+/////////////////////////////////
+
+SCRIPT:Arena Wave Complete 01
+"Manche 01 terminée !"
+End
+
+SCRIPT:Arena Wave Complete 02
+"Manche 02 terminée !"
+End
+
+SCRIPT:Arena Wave Complete 03
+"Manche 03 terminée !"
+End
+
+SCRIPT:Arena Wave Complete 04
+"Manche 04 terminée !"
+End
+
+SCRIPT:Arena Wave Complete 05
+"Manche 05 terminée !"
+End
+
+SCRIPT:Arena Wave Complete 06
+"Manche 06 terminée !"
+End
+
+SCRIPT:Arena Wave Complete 07
+"Manche 07 terminée !"
+End
+
+SCRIPT:Arena Wave Complete 08
+"Manche 08 terminée !"
+End
+
+SCRIPT:Arena Wave Complete 09
+"Manche 09 terminée !"
+End
+
+SCRIPT:Arena Wave Complete 10
+"Manche 10 terminée !"
+End
+
+SCRIPT:Arena Wave Complete Repeat
+"Vous avez survécu à une nouvelle manche !"
+End
+
+SCRIPT:Arena Waves Record Win
+"Nouveau record de manches remportées !"
+End
+
+SCRIPT:Arena Waves Record Fail
+"Vous n'avez pas battu votre précédent record."
+End
+
+
+///////////Location: Noticeboards/////////////
+
+SCRIPT:NoticeboardCat_Beacons
+"Chat disparu :\nNoir et mince, aux yeux verts\nRécompense à qui le ramènera sain et sauf à l'auberge du Cygne Blanc\nPas d'imposteurs !"
+END
+
+SCRIPT:NoticeboardMarket_Beacons
+"Rendez-vous au quatrième cercle pour le marché hebdomadaire\nProduits locaux, artisanat et autres raretés\nPlace d'Arvedui, 4e cercle, quartier sud"
+END
+
+SCRIPT:NoticeboardLibrary_Beacons
+"Lire est une précieuse compétence et un excellent moyen d'enrichir sa vie.\nSavoirs et récits d'antan vous attendent à la Bibliothèque\nCinquième cercle"
+END
+
+SCRIPT:NoticeboardStables_Beacons
+"À vendre : fidèle jument de la lignée du Halifirien\nAlezane à taches blanches\nS'adresser aux Écuries de la Cité\nQuatrième cercle, près de la Porte Sud"
+END
+
+SCRIPT:NoticeboardSmith_Beacons
+"Visitez le Marteau du Harlond pour des armes et armures de qualité !\nFers à cheval, chaînes et ferronnerie\nRéduction exceptionnelle cette semaine seulement"
+END
+
+SCRIPT:NoticeboardHealers_Beacons
+"Onguents, remèdes et pansements\nConseils de soin le premier et le quinze de chaque mois\nDemandez Sœur Elinor aux Maisons de Guérison, cinquième cercle"
+END
+
+SCRIPT:NoticeboardTraveller_Beacons
+"On recherche une escorte de confiance pour un voyage de Minas Tirith à Dol Amroth.\nLes routes deviennent périlleuses : récompense offerte à qui garantira une arrivée sans encombre.\nSi vous vous jugez compagnon habile et vigilant, laissez un message sur le tableau d'affichage de l'auberge du Cygne Blanc."
+END

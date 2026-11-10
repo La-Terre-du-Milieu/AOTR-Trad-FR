@@ -13,7 +13,7 @@ SCRIPT:Dialogue_HelmsDeep_Legolas001
 END
 
 SCRIPT:Dialogue_HelmsDeep_Gimli001
-"What I would not give for a few dozen armorers from the Iron Hills. The Men of Rohan are brave, yes... but their craftsmanship is lacking."
+"What I would not give for a few dozen armourers from the Iron Hills. The Men of Rohan are brave, yes... but their craftsmanship is lacking."
 END
 
 SCRIPT:Dialogue_HelmsDeep_Eowyn001
@@ -77,7 +77,7 @@ SCRIPT:Dialogue_HelmsDeep_Civilians001
 END
 
 SCRIPT:Dialogue_HelmsDeep_Civilians002
-"To the armory, bowmen! The Enemy comes, and we must be ready!"
+"To the armory, archers! The Enemy comes, and we must be ready!"
 END
 
 SCRIPT:Dialogue_HelmsDeep_Civilians003
@@ -85,11 +85,11 @@ SCRIPT:Dialogue_HelmsDeep_Civilians003
 END
 
 SCRIPT:Dialogue_HelmsDeep_Ouro_Erkenbrand001
-"Erkenbrand: You were amongst the ranks of the Enemy. Yet you did not fight."
+"Eomer: You were amongst the ranks of the Enemy. Yet you did not fight."
 END
 
 SCRIPT:Dialogue_HelmsDeep_Ouro_Erkenbrand002
-"Erkenbrand: We are not savage men that would murder prisoners of war."
+"Eomer: We are not savage men that would murder prisoners of war."
 END
 
 SCRIPT:Dialogue_HelmsDeep_Ouro_Wulfgar001
@@ -289,7 +289,7 @@ SCRIPT:Hint_HelmsDeep_Main Gate 01
 End
 
 SCRIPT:Hint_HelmsDeep_Main Gate 02
-"Gatehouse side doors can be used to transport heroes onto the causeway."
+"Use the postern gates to move heroes onto the causeway."
 End
 
 SCRIPT:Hint_HelmsDeep_Main Gate 03
@@ -298,4 +298,24 @@ END
 
 SCRIPT:Hint_HelmsDeep_Spearthrower
 "Spear throwers deal heavy damage to battering rams."
+END
+
+
+/////////////CINE - GATE///////////////
+
+
+SCRIPT:mgfotr_theoden077
+"Theoden: They come again! To the gate! Draw your swords!"
+END
+
+SCRIPT:mgfotr_theoden078
+"Theoden: Aragorn, take your men to the Causeway! We must push them back!"
+END
+
+SCRIPT:mgfotr_aragorn312
+"Aragorn: Gimli, with me!"
+END
+
+SCRIPT:mgfotr_theoden014
+"Theoden: Brace the gates!"
 END

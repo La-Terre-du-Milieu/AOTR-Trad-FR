@@ -93,7 +93,7 @@ SCRIPT:Dialogue_Westfold_Keep 08
 End
 
 SCRIPT:Dialogue_Westfold_Keep 09
-"Gimli: I will stay behind with the Elf. There is likely axe work that will need doing."
+"Gimli: I will stay with the Elf. There will likely be axe work that needs doing."
 End
 
 DIALOGEVENT:mgfotr_dunhere001
@@ -234,4 +234,200 @@ END
 
 DIALOGEVENT:mgfotr_dunhere035
 "Gandalf! We need your aid!"
+END
+
+SCRIPT:mgfotr_rohanguy013
+"Defender: My lords, we need to close this gate! Help us push back these filthy Uruk-hai!"
+END
+
+SCRIPT:mgfotr_rohanguy014
+"That did it! Thank you! Please, make your way to the Eastern side of the city. The garrison there will surely have need of your aid!"
+END
+
+SCRIPT:mgfotr_rohanguy015
+"We are safe for now, but we must prepare Upbourn before Saruman's forces return. Please, seek out captain Dunhere."
+END
+
+SCRIPT:mgfotr_aragorn296
+"Hasufel, go!"
+END
+
+SCRIPT:mgfotr_aragorn297
+"That gate must be secured!"
+END
+
+SCRIPT:mgfotr_aragorn298
+"We must make our way back to the southern gate!"
+END
+
+SCRIPT:mgfotr_aragorn299
+"Dunhere! Watch your back!"
+END
+
+SCRIPT:mgfotr_aragorn300
+"Then let us take what men we have and strike while their attack is halted!"
+END
+
+SCRIPT:mgfotr_boromir093
+"Boromir: The Men of Rohan are stout warriors. They will not easily surrender their fortress."
+END
+
+SCRIPT:mgfotr_boromir094
+"We are close to the postern gate!"
+END
+
+SCRIPT:mgfotr_boromir095
+"We must protect these villagers!"
+END
+
+SCRIPT:mgfotr_boromir096
+"Pikes! Look out!"
+END
+
+SCRIPT:mgfotr_boromir097
+"For Rohan!"
+END
+
+SCRIPT:mgfotr_boromir098
+"Men of Rohan! Defend your homes!"
+END
+
+SCRIPT:mgfotr_gimli079
+"Good! I long for the feeling of solid rock beneath my feet!"
+END
+
+SCRIPT:mgfotr_gimli080
+"Ha! They’re retreating already!"
+END
+
+SCRIPT:mgfotr_gimli081
+"We are close to the postern gate!"
+END
+
+SCRIPT:mgfotr_gimli082
+"We must protect these villagers!"
+END
+
+SCRIPT:mgfotr_legolas099
+"Pikes! Look out!"
+END
+
+SCRIPT:mgfotr_legolas100
+"With me, Men of Rohan! Push these vile invaders out of your city!"
+END
+
+SCRIPT:mgfotr_gandalf274
+"We are close to the walls of Moria."
+END
+
+SCRIPT:mgfotr_gandalf275
+"Gandalf: We are close to Upbourn! Let us hurry to its southern gate. With luck its garrison has not yet fallen!"
+END
+
+SCRIPT:mgfotr_gandalf276
+"We must defend the gate! With me!"
+END
+
+SCRIPT:mgfotr_gandalf277
+"These villagers are trapped in their homes! We must clear the wreckage and free them!"
+END
+
+SCRIPT:mgfotr_gandalf278
+"Move quickly. We must reach the eastern garrison before they are overrun."
+END
+
+SCRIPT:mgfotr_gandalf279
+"We must rebuild what we can and muster all those that are able to fight. Saruman’s fell horde will return soon."
+END
+
+SCRIPT:mgfotr_gandalf280
+"The forces of Isengard have broken through the outer wall!"
+END
+
+SCRIPT:mgfotr_boromir025
+"Boromir: I fear that Gondor will not survive much longer. Great is my people's need, \n and that of my father, whose rule is failing."
+END
+
+SCRIPT:mgfotr_gandalf117
+"Gandalf: Denethor is strong, but even he cannot match the will of Sauron. \n His defences falter. Your brother will be overwhelmed."
+END
+
+SCRIPT:mgfotr_gandalf118
+"Gandalf: Within you lies a portion of my hope for the race of Men. The Ring sought to corrupt you, \n but it did not prevail. Frodo remains out of Sauron's thought and reach."
+END
+
+SCRIPT:mgfotr_gandalf119
+"Gandalf: Through the pull of the Shadow, you have undergone great change. \n You are not the same Man that set out from Rivendell, Boromir."
+END
+
+SCRIPT:mgfotr_boromir026
+"Boromir: What must I do, Mithrandir?"
+END
+
+SCRIPT:mgfotr_gandalf120
+"Gandalf: You must set yourself to the stewardship of others. \n Shield them from that which could not claim you."
+END
+
+SCRIPT:mgfotr_gandalf390
+"Gandalf: Return to Minas Tirith. Take with you both honour and courage. \n Show your people that there is no storm they cannot weather. No evil they cannot overcome."
+END
+
+SCRIPT:mgfotr_gandalf123
+"Gandalf: Deliver your father from his despair."
+END
+
+SCRIPT:mgfotr_boromir109
+"Boromir: So be it."
+END
+
+SCRIPT:mgfotr_boromir110
+"Boromir: It is here that we must part, my king."
+END
+
+SCRIPT:mgfotr_aragorn417
+"Aragorn: We will meet again, Boromir."
+END
+
+SCRIPT:mgfotr_boromir111
+"Boromir: Farewell"
+END
+
+SCRIPT:mgfotr_gandalf025
+"Gandalf: This is but a taste of the terror that now pours forth from the Ring of Isengard."
+END
+
+SCRIPT:mgfotr_gandalf038
+"Gandalf: Saruman is no mere puppet. His mind has long been set upon the Ring."
+END
+
+SCRIPT:mgfotr_gandalf127
+"Gandalf: I do not doubt that he seeks to overthrow Sauron, only to take his place."
+END
+
+SCRIPT:mgfotr_gandalf121
+"Gandalf: I see now that which I could not before. Long has been his fall. He has forsaken all that he once stood for."
+END
+
+SCRIPT:mgfotr_gandalf122
+"Gandalf: For now, he must reassure the Dark Lord of his loyalty. Through some fell device he has \n brought about the withering of Rohan. His slow betrayal is revealed at last."
+END
+
+SCRIPT:mgfotr_gandalf124
+"Gandalf: Eomer was the last bulwark against the tide. His banishment is a grave blow. \n I fear Theoden King has fallen to the whispers of Orthanc."
+END
+
+SCRIPT:mgfotr_aragorn415
+"Aragorn: Then we must set out at once."
+END
+
+SCRIPT:mgfotr_gandalf125
+"Gandalf: Indeed, though I fear the Golden Hall will not receive us gladly."
+END
+
+SCRIPT:mgfotr_aragorn416
+"Aragorn: I do not believe they could withstand the White Wizard."
+END
+
+SCRIPT:mgfotr_gandalf126
+"Gandalf: Nor do I. Together we shall cure this evil, and ready Rohan for war."
 END

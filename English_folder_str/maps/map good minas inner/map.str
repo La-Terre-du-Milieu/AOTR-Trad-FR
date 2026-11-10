@@ -1,0 +1,288 @@
+/////////////////////////////////
+////////////DIALOGUE/////////////
+/////////////////////////////////
+
+////////////HELP///////////////
+
+SCRIPT:mgfotr_gandalf337
+"Lord Forlong is surrounded!"
+END
+
+SCRIPT:mgfotr_gandalf338
+"Lord Hirluin needs our assistance!"
+END
+
+SCRIPT:mgfotr_gandalf339
+"They will overwhelm Lord Golasgil! Rally to his aid!"
+END
+
+SCRIPT:mgfotr_gandalf340
+"Send aid to Lord Duinhir!"
+END
+
+SCRIPT:mgfotr_gandalf341
+"We must protect Lord Devorin!"
+END
+
+SCRIPT:mgfotr_gandalf342
+"Faramir, do not throw away your life so rashly!"
+END
+
+SCRIPT:mgfotr_gandalf343
+"Boromir! Go, aid your Captain!"
+END
+
+SCRIPT:mgfotr_gandalf344
+"Peregrin Took! This is no place for a hobbit! Fall back to safety."
+END
+
+SCRIPT:mgfotr_gandalf345
+"Irolas! I am coming!"
+END
+
+SCRIPT:mgfotr_gandalf346
+"Beregond is being overwhelmed!"
+END
+
+////////////INNER///////////////
+
+SCRIPT:mgfotr_gandalf367
+"Sauron underestimates the valour of Gondor. We will make them fight for every stone! Hold! Hold! Or soon our dead will lie upon each of the Seven Levels of Minas Tirith. We must fight! For Gondor!"
+END
+
+SCRIPT:mgfotr_gandalf368
+"The gate has fallen! Draw your swords, we must stop them here!"
+END
+
+SCRIPT:mgfotr_gandalf369
+"Kill that troll before he destroys the inner gate!"
+END
+
+SCRIPT:mgfotr_gandalf370
+"Stop that ram! Before it reaches the inner gate!"
+END
+
+SCRIPT:mgfotr_gandalf371
+"The inner gate is damaged! Send for timbers!"
+END
+
+SCRIPT:mgfotr_gandalf372
+"We can no longer hold them here. Fall back men!"
+END
+
+SCRIPT:Hint_Inner_Gate_Timer
+"Hold the gate for:"
+End
+
+SCRIPT:Hint_Inner_Abandon
+"PLACEHOLDER - THE GATE WILL FALL, FALL BACK AND READY INFANTRY."
+End
+
+SCRIPT:Hint_Inner_Retreat_Setup_Timer
+"Hold the second level for:"
+End
+
+SCRIPT:Hint_Inner_Retreat_Timer
+"Army will retreat to the third level in:"
+End
+
+////////////WK FIGHT///////////////
+
+SCRIPT:mgfotr_gandalf377
+"Gandalf: You cannot enter here. Go back to the abyss prepared for you! Go back!\nFall into the nothingness that awaits you and your Master. Go!"
+END
+
+SCRIPT:mgfotr_gandalf378
+"I am a servant of the Secret Fire!"
+END
+
+SCRIPT:mgfotr_gandalf379
+"Your fell sorcery will not avail you!"
+END
+
+SCRIPT:mgfotr_gandalf380
+"Perish, foul servant of Sauron!"
+END
+
+SCRIPT:mgfotr_gandalf381
+"You and your Black Master shall be cast into the Void!"
+END
+
+SCRIPT:mgfotr_gandalf382
+"You will not take this City!"
+END
+
+SCRIPT:mgfotr_gandalf383
+"Silence, fell creature!"
+END
+
+SCRIPT:mgfotr_gandalf384
+"Go back to the Shadow!"
+END
+
+SCRIPT:mgfotr_gandalf385
+"Your end draws near!"
+END
+
+SCRIPT:mgfotr_gandalf386
+"Fall, thing of Shadow!"
+END
+
+SCRIPT:mgfotr_gandalf387
+"The Light of Anar will cast you down!"
+END
+
+SCRIPT:mgfotr_gandalf388
+"You cannot overtake the Light!"
+END
+
+SCRIPT:mgfotr_gandalf389
+"Gandalf: Victory is slipping from your grasp even as you stretch out your hand to seize it!"
+END
+
+SCRIPT:mgfotr_gandalf205
+"Gandalf: Peregrin Took!"
+END
+
+SCRIPT:mgfotr_gandalf206
+"Gandalf: Go back to the citadel!"
+END
+
+SCRIPT:mgfotr_gandalf207
+"Gandalf: This is no place for a hobbit."
+END
+
+SCRIPT:mgmoria_gandalf032
+"Gandalf: Hurry!"
+END
+
+SCRIPT:mgfotr_witchking001
+"Witch-king: Do not come between the Nazgul and his prey"
+END
+
+SCRIPT:mgfotr_witchking002
+"Witch-king: Do you not know death when you see it, old man?"
+END
+
+SCRIPT:mgfotr_witchking003
+"Witch-king: This is my hour!"
+END
+
+SCRIPT:mgfotr_witchking004
+"Witch-king: You have failed."
+END
+
+SCRIPT:mgfotr_witchking005
+"Witch-king: The world of men will fall."
+END
+
+SCRIPT:mgfotr_witchking006
+"You will kneel!"
+END
+
+SCRIPT:mgfotr_witchking007
+"Your death has come!"
+END
+
+SCRIPT:mgfotr_witchking008
+"You will not hinder me!"
+END
+
+SCRIPT:mgfotr_witchking009
+"Shrivel before my might!"
+END
+
+SCRIPT:mgfotr_witchking010
+"Victory eludes you."
+END
+
+SCRIPT:mgfotr_witchking011
+"There is nowhere to hide..."
+END
+
+SCRIPT:mgfotr_witchking012
+"All this land belongs to the Dark Lord"
+END
+
+SCRIPT:mgfotr_witchking013
+"This is the hour of your doom!"
+END
+
+SCRIPT:mgfotr_witchking014
+"A grim fate befalls thee..."
+END
+
+SCRIPT:mgfotr_witchking015
+"I have the mastery!"
+END
+
+SCRIPT:mgfotr_witchking016
+"Witch-king: My arm is long, and you are but an aged conjurer.\nI have many weapons at my disposal."
+END
+
+SCRIPT:mgfotr_pippin048
+"Pippin: Gandalf!"
+END
+
+SCRIPT:mgfotr_pippin050
+"Pippin: Denethor has lost his mind!"
+END
+
+SCRIPT:mgfotr_pippin051
+"Pippin: He's burning Faramir alive!"
+END
+
+SCRIPT:Counter_Civilians_Alive
+"Civilians left alive:"
+End
+
+
+/////////////////////////////////
+////////////TIMERS///////////////
+/////////////////////////////////
+
+/////////////////////////////////
+
+SCRIPT:Debug_FreePlay_On
+"Invincible Heroes On & Lose Conditions Disabled"
+End
+
+SCRIPT:Debug_FreePlay_Off
+"Invincible Heroes Off & Lose Conditions Enabled"
+End
+
+SCRIPT:Debug_Skip_Outer
+"Skip to Outer Wall Defence in:"
+End
+
+SCRIPT:Debug_Skip_Gate
+"Skip to Main Gate Defence in:"
+End
+
+SCRIPT:Debug_Skip_Inner
+"Skip to Inner Defence in:"
+End
+
+SCRIPT:Debug_Disable_Standers
+"Orc Standers Disabled"
+End
+
+SCRIPT:Debug_Disable_Civilians
+"Civilians Disabled"
+End
+
+SCRIPT:Debug_Boromir_On
+"Boromir Enabled"
+End
+
+SCRIPT:Debug_Boromir_Off
+"Boromir Disabled"
+End
+
+SCRIPT:Debug_Knockback_Neutral
+"Knockback objects on neutral team:"
+End
+
+SCRIPT:Debug_Knockback_Creep
+"Knockback objects on enemy team:"
+End

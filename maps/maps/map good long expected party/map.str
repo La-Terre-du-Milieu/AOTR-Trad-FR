@@ -1,0 +1,623 @@
+
+SCRIPT:BulletinBoardBywater_Party
+"Disparue : une poule brune.\nRépond au nom de « Poulette ».\nSi vous la trouvez, merci de la rapporter à Lily Appleby."
+END
+SCRIPT:BulletinBoardHobbiton_Party
+"On cherche des volontaires pour aider à décorer le Champ de la Fête.\nRafraîchissements fournis. UNE seule boisson par hobbit.\n~BB"
+END
+SCRIPT:BulletinBoardHobbiton2_Party
+"AVIS\nLa date du concours de pêche sera affichée dès que le comité en aura une.\nEn attendant, veuillez cesser d'importuner les membres du comité à leur domicile."
+END
+SCRIPT:BulletinBoardHobbiton3_Party
+"Fleurs fraîches, boutures et plants !\nRoses, digitales, roses trémières et bien d'autres.\nÀ l'étal de Marigold Hayward, au marché de Lèzeau de dimanche."
+END
+
+///////////////INTRO/////////////////
+
+SCRIPT:mgnfotr_bilbo001
+"Bilbo : Le jour de la fête est arrivé... Je dois juste vérifier deux ou trois choses..."
+END
+
+SCRIPT:mgnfotr_bilbo002
+"Bilbo : Ah, je vais demander à Frodon. Frodon ? FRODON !?"
+END
+
+SCRIPT:mgnfotr_bilbo003
+"Bilbo : Épinoches ! Où est passé ce garçon ?"
+END
+
+///////////////FIND GANDALF/////////////////
+
+SCRIPT:mgnfotr_gandalfsong001
+"...La Route se poursuit sans fin..."
+END
+
+SCRIPT:mgnfotr_frodo001
+"Gandalf !"
+END
+
+SCRIPT:mgnfotr_frodo002
+"Frodon : Vous êtes en retard !"
+END
+
+SCRIPT:mgnfotr_gandalf001
+"Gandalf : Un magicien n'est jamais en retard, Frodon Sacquet. Il n'est pas en avance non plus. Il arrive précisément quand il l'entend !"
+END
+
+SCRIPT:mgnfotr_frodo003
+"Frodon : C'est merveilleux de vous voir, Gandalf !"
+END
+
+SCRIPT:mgnfotr_gandalf011
+"Gandalf : Tu ne pensais pas que je manquerais l'anniversaire de ton oncle Bilbo ?"
+END
+
+///////////////REACH HOBBINTON/////////////////
+
+SCRIPT:mgnfotr_gandalf002
+"Alors, comment va le vieux coquin ? On m'a dit que ce sera une fête d'une magnificence rare."
+END
+
+SCRIPT:mgnfotr_frodo004
+"Vous connaissez Bilbo. Il a mis tout le pays sens dessus dessous."
+END
+
+SCRIPT:mgnfotr_gandalf003
+"Voilà qui lui fera plaisir."
+END
+
+SCRIPT:mgnfotr_frodo005
+"La moitié de la Comté a été invitée. Et le reste vient quand même."
+END
+
+SCRIPT:mgnfotr_frodo006
+"Il manigance quelque chose. Et je sais que vous y êtes pour quelque chose."
+END
+
+SCRIPT:mgnfotr_gandalf004
+"Vraiment ?"
+END
+
+SCRIPT:mgnfotr_frodo007
+"Très bien, gardez vos secrets."
+END
+
+SCRIPT:mgnfotr_frodo008
+"Avant votre arrivée, nous, les Sacquet, étions très respectés. Nous n'avions jamais d'aventures et ne faisions jamais rien d'inattendu."
+END
+
+SCRIPT:mgnfotr_gandalf005
+"Si tu parles de l'affaire du dragon, je n'y étais presque pour rien... tout ce que j'ai fait, c'est donner à ton oncle une petite poussée pour qu'il franchisse sa porte."
+END
+
+///////////////FIREWORKS/////////////////
+
+SCRIPT:mgnfotr_frodo009
+"Frodon : Quoi que vous ayez fait, on vous a officiellement qualifié de perturbateur de la paix."
+END
+
+SCRIPT:mgnfotr_fireworkschildren001
+"Enfants : Gandalf ! C'est Gandalf ! Des feux d'artifice, Gandalf ! Des feux d'artifice !"
+END
+
+SCRIPT:mgnfotr_gandalf010
+"Filez, maintenant ! Vous en aurez bien assez le moment venu."
+END
+
+SCRIPT:mgnfotr_fireworkschildren002
+"Ouiiiii !"
+END
+
+SCRIPT:mgnfotr_fireworkschildren003
+"Oooooh !"
+END
+
+///////////////GANDALF CART LEAVES/////////////////
+
+SCRIPT:mgnfotr_frodo010
+"Frodon : Gandalf, je suis content que vous soyez de retour."
+END
+
+SCRIPT:mgnfotr_gandalf006
+"Gandalf : Moi aussi, mon cher garçon... moi aussi."
+END
+
+SCRIPT:mgnfotr_frodo011
+"Je devrais vérifier certains préparatifs. C'est ce soir le grand soir, après tout."
+END
+
+///////////////SACKVILLE-BAGGINS/////////////////
+
+SCRIPT:mgnfotr_frodo080
+"Frodon : Je suis sûr que ces Sacquet de Besace rôdent dans les parages. Je préfère éviter la dispute... mieux vaut les éviter !"
+END
+
+SCRIPT:mgnfotr_otto001
+"Otho : Alors, jeune Frodon. Vous devez être plutôt content."
+END
+SCRIPT:mgnfotr_frodo012
+"Frodon : Pardon ?"
+END
+SCRIPT:mgnfotr_lobelia001
+"Lobelia : Vous ne pouvez pas nous tenir à l'écart, petit prétentieux. De quel droit ?"
+END
+SCRIPT:mgnfotr_frodo013
+"Frodon : Je ne crois pas que Bilbo ait l'intention de vous tenir à l'écart. Le service des messagers est un peu débordé, c'est tout.\nLes invitations se sont peut-être perdues..."
+END
+SCRIPT:mgnfotr_lobelia002
+"Lobelia : Quelle chance... pour vous ! Les Sacquet et leur chance. La fortune soudaine de Bilbo, votre promotion au rang d'unique héritier..."
+END
+SCRIPT:mgnfotr_otto002
+"Otho : Douteux. Fort douteux, en vérité."
+END
+SCRIPT:mgnfotr_frodo014
+"Je... je vais me retirer maintenant."
+END
+
+///////////////PARTY PREPARATIONS/////////////////
+
+SCRIPT:mgnfotr_gaffer001
+"Les Nains... ils ne se soucient guère de ce qui pousse. Je ne cesse de leur répéter de ne pas marcher sur l'herbe..."
+END
+SCRIPT:mgnfotr_frodo015
+"Je suis sûr que vous et Sam saurez réparer les dégâts qu'ils feront."
+END
+SCRIPT:mgnfotr_gaffer002
+"Réparer ? Oui, mais il faudra bien quelques saisons. Peut-être pourriez-vous le leur rappeler ?"
+END
+
+SCRIPT:mgnfotr_darla001
+"Il y a tant de nourriture à préparer. Et il arrive encore des charrettes !"
+END
+SCRIPT:mgnfotr_darla004
+"Pire encore, des hobbits arrivent de partout pour chaparder quelque chose : tartes aux pommes, poulets rôtis... l'un d'eux s'est même présenté déguisé en cuisinier !"
+END
+SCRIPT:mgnfotr_darla005
+"J'ai dû détourner quelques-uns des miens pour les chasser, rouleau à pâtisserie en main !"
+END
+SCRIPT:mgnfotr_frodo016
+"On dirait que vous êtes toujours dans les temps."
+END
+SCRIPT:mgnfotr_darla002
+"Oui, pour l'instant. Mais je les vois traîner près de la route. Allez donc les chasser !"
+END
+
+SCRIPT:mgnfotr_frodo022
+"Ouste ! Vous mangerez à votre faim plus tard !"
+END
+SCRIPT:mgnfotr_frodo023
+"Allez, filez !"
+END
+SCRIPT:mgnfotr_frodo024
+"Du balai ! Vous aurez votre chance !"
+END
+
+SCRIPT:mgnfotr_frodo075
+"...et voilà, c'était le dernier de ces pique-assiettes. Je suis sûr que Darla sera soulagée de l'apprendre."
+END
+
+SCRIPT:mgnfotr_frodo070
+"Ils sont partis. Pour un moment, du moins."
+END
+SCRIPT:mgnfotr_darla003
+"Bien. Ils ne mourront pas de faim, il y en aura en abondance ce soir. Merci."
+END
+
+SCRIPT:mgnfotr_frodo017
+"Les jouets fabriqués par les Nains sont de merveilleuses créations. Sont-ils magiques ?"
+END
+SCRIPT:mgnfotr_florin001
+"Magiques ? Oui, je suppose que oui... pour vous."
+END
+SCRIPT:mgnfotr_glorin001
+"Maintenant, n'en demandez pas plus, Maître Sacquet."
+END
+SCRIPT:mgnfotr_norin001
+"Les Nains ne partagent pas leurs secrets. Qu'il s'agisse de fabriquer des jouets, de tailler des gemmes ou de brasser de bonnes bières."
+END
+SCRIPT:mgnfotr_frodo018
+"Je n'en ferai rien, mes amis. À propos de bière naine, je vois que vous en avez apporté beaucoup."
+END
+SCRIPT:mgnfotr_florin002
+"Comme l'a demandé Maître Bilbo. Goûtez donc."
+END
+
+SCRIPT:mgnfotr_frodo025
+"Oh, les invités vont l'adorer, j'en suis certain !"
+END
+SCRIPT:mgnfotr_frodo026
+"Ah, on m'a prié de vous demander de faire attention à l'herbe et au jardin de Cul-de-Sac. Son jardinier est très fier de son travail."
+END
+SCRIPT:mgnfotr_florin003
+"Toutes nos excuses, Maître Sacquet. Nous ferons plus attention."
+END
+SCRIPT:mgnfotr_norin002
+"Oui, ne vous inquiétez pas, nous ne vous ferons pas courir après des nains à travers la Comté."
+END
+
+SCRIPT:mgnfotr_postofficer001
+"Maître Frodon ! Maudit vent ! Les dernières invitations de votre oncle se sont envolées dans tout Hobbitebourg. Mes coursiers sont déjà tous occupés, et la liste d'invités de votre oncle semble s'allonger à chaque minute !"
+END
+SCRIPT:mgnfotr_frodo027
+"Je vais voir si je peux les retrouver."
+END
+SCRIPT:mgnfotr_postofficer003
+"Vraiment ? Oh, que le ciel vous bénisse, Frodon ! Voilà un poids en moins sur l'esprit."
+END
+
+SCRIPT:mgnfotr_frodo071
+"Les voici. L'une d'elles était à mi-chemin de Grenouillers quand je l'ai trouvée."
+END 
+
+SCRIPT:mgnfotr_postofficer002
+"Oh, vous avez retrouvé les invitations ! Je crois que les gens seraient venus de toute façon, mais on ne peut abandonner notre devoir envers la poste ! Merci, Maître Sacquet !"
+END
+
+SCRIPT:mgnfotr_frodo072
+"Bien sûr. Toutes mes excuses de la part de mon oncle pour la corvée qu'il vous a imposée."
+END
+
+// SPOTTED INVITATIONS //
+
+SCRIPT:mgnfotr_frodo030
+"En voici une."
+END
+
+SCRIPT:mgnfotr_frodo031
+"Le vent les a vraiment emportées loin."
+END
+
+SCRIPT:mgnfotr_frodo032
+"Le Maître de la Poste sera content de voir ça."
+END
+
+SCRIPT:mgnfotr_frodo033
+"Qu'est-ce que c'est ? Une lettre !"
+END
+
+SCRIPT:mgnfotr_frodo034
+"C'est une des invitations de Bilbo !"
+END
+
+SCRIPT:mgnfotr_frodo035
+"Ça devrait être toutes. Je dois les rapporter au postier."
+END
+///////////////OPTIONAL CONVERSATION/////////////////
+
+SCRIPT:mgnfotr_sam001
+"Vous croyez qu'elle viendra, Monsieur Frodon ?"
+END
+SCRIPT:mgnfotr_frodo019
+"Oh, Sam. Bien sûr qu'elle viendra."
+END
+SCRIPT:mgnfotr_sam002
+"Il va falloir que je mette mon gilet des grands jours. Celui avec les boutons brillants..."
+END
+
+SCRIPT:mgnfotr_myrtle001
+"Oh, je ne tiens plus d'impatience ! Si seulement les heures pouvaient passer plus vite !"
+END
+
+SCRIPT:mgnfotr_rosie001
+"J'espère tant que Sam m'invitera à danser. Je crois qu'il en avait envie le mois dernier, à la fête des moissons..."
+END
+
+SCRIPT:mgnfotr_odo001
+"Fête ou pas, je n'aime pas la mine de tous ces étrangers qui apparaissent autour de Hobbitebourg. Des Nains... Je ne leur fais pas confiance un instant."
+END
+
+SCRIPT:mgnfotr_tedsandyman001
+"Vous, les Sacquet, vous avez de drôles de manières, si vous voulez mon avis. Partir courir l'aventure dans la nature... Combien de trésors votre oncle a-t-il bien pu cacher, je me demande ?"
+END
+
+SCRIPT:mgnfotr_shirrif001
+"Je serai de service, Maître Frodon. Du côté de Lèzeau, s'entend."
+END
+SCRIPT:mgnfotr_shirrif002
+"Je n'ai rien contre les Nains, moi. Ils ne m'ont jamais causé d'ennuis."
+END
+SCRIPT:mgnfotr_shirrif003
+"Vous m'en garderez un peu, n'est-ce pas, Maître Frodon ?"
+END
+
+SCRIPT:mgnfotr_daddy001
+"Je n'ai jamais vu autant de remue-ménage dans le coin, de toute ma vie."
+END
+
+SCRIPT:mgnfotr_oldnoakes001
+"Des Brandebouquois rôdent ! Un peuple singulier, c'est le moins qu'on puisse dire..."
+END 
+SCRIPT:mgnfotr_frodo028
+"Je suis moi-même à moitié Brandebouquois, monsieur Noakes. Et entièrement singulier !"
+END
+SCRIPT:mgnfotr_oldnoakes002
+"Oh ! Toutes mes excuses, Maître Frodon. Je ne voulais pas vous offenser."
+END
+
+SCRIPT:mgnfotr_merry001
+"Je crois que le vieux Bilbo prépare quelque chose. Qu'en penses-tu, Frodon ?"
+END
+SCRIPT:mgnfotr_frodo029
+"Je n'en sais rien ! Il ne m'a rien dit, en tout cas."
+END
+
+SCRIPT:mgnfotr_pippin001
+"À quelle heure crois-tu qu'on ouvrira les tonneaux ?"
+END
+
+SCRIPT:mgnfotr_folco001
+"Ah, Frodon ! Tu as hâte d'être à la fête, alors ?"
+END
+
+SCRIPT:mgnfotr_fatty001
+"Salut Frodon ! Je me prépare depuis ce matin pour la fête."
+END
+
+SCRIPT:mgnfotr_frodo073
+"Tu te prépares ?"
+END
+
+SCRIPT:mgnfotr_fatty002
+"Je mange moins pour garder de la place."
+END
+
+SCRIPT:mgnfotr_frodo074
+"Quel sacrifice."
+END
+
+SCRIPT:mgnfotr_harry001
+"Ah, bonjour, Maître Sacquet."
+END
+
+SCRIPT:mgnfotr_harry002
+"Dites donc, il se prépare de drôles de temps. Je l'ai appris d'un arbre. Oh non, pas celui-là, ni celui-là non plus, non. Oh... oh, je ne le retrouve plus. Oh, il s'est peut-être égaré..."
+END
+
+
+SCRIPT:mgnfotr_wilmerhayfield001
+"Maître Frodon ! Avez-vous vu ma chèvre noire, Phillip ? Ce petit effronté a encore sauté la clôture."
+END
+
+SCRIPT:mgnfotr_frodo076
+"Pas aujourd'hui. Avez-vous vu où il est allé ?"
+END
+
+SCRIPT:mgnfotr_wilmerhayfield002
+"Vers l'Eau, la dernière fois que je l'ai vu. J'irais bien moi-même, mais si je laisse cette clôture à moitié réparée, le reste de mes chèvres lui emboîtera le pas avant longtemps."
+END
+
+SCRIPT:mgnfotr_frodo077
+"Je vais voir si je peux le retrouver."
+END
+
+SCRIPT:mgnfotr_wilmerhayfield003
+"Tenez, prenez ces pommes. Phillip ne peut pas y résister. Il est têtu, mais jetez-en une devant son nez et il vous suivra n'importe où."
+END
+
+SCRIPT:mgnfotr_wilmerhayfield004
+"Ah, le voilà ! Merci Frodon, j'aurais couru après lui jusqu'à l'heure du thé."
+END
+
+SCRIPT:mgnfotr_frodo078
+"Il a mené dur la négociation. Ça m'a coûté quelques pommes."
+END
+
+SCRIPT:mgnfotr_wilmerhayfield005
+"Un juste prix. Je le surveillerai de plus près, même si j'ose dire que Phillip a d'autres projets."
+END
+
+SCRIPT:mgnfotr_frodo079
+"Tiens, te voilà. Viens, Phillip, voici une belle pomme bien juteuse pour toi."
+END
+
+SCRIPT:mgnfotr_casmoredleaf001
+"Chut ! Vous allez faire fuir les oiseaux. Celui-là, c'est une fauvette de Weymouth, je crois !"
+END
+///////////////OPTIONAL CONVERSATION - UNNAMED HOBBITD/////////////////
+
+SCRIPT:mgnfotr_malehobbit001
+"Ça fait des jours que j'attends ça ! Des semaines !"
+END
+
+SCRIPT:mgnfotr_malehobbit002
+"J'ai sauté le second petit-déjeuner, pour garder assez de place !"
+END
+
+SCRIPT:mgnfotr_malehobbit003
+"Oh, je compte bien être parmi les premiers sur le champ !"
+END
+
+SCRIPT:mgnfotr_malehobbit004
+"Quelle belle journée !"
+END
+
+SCRIPT:mgnfotr_malehobbit005
+"J'ai du travail, mais je ne peux pas m'empêcher de penser à ce soir !"
+END
+
+SCRIPT:mgnfotr_malehobbit006
+"Il a toujours été un peu bizarre, si vous voulez mon avis... Oh ! Euh, salut Frodon !"
+END
+
+SCRIPT:mgnfotr_malehobbit007
+"Il fait toujours des farces, ce Gandalf..."
+END
+
+SCRIPT:mgnfotr_malehobbit008
+"Ces pommes de terre ne vont pas s'arracher toutes seules."
+END
+
+SCRIPT:mgnfotr_malehobbit009
+"Ces satanés lapins se sont encore fourrés dans mes choux !"
+END
+
+SCRIPT:mgnfotr_malehobbit010
+"Je suis sorti pour quelque chose... mais quoi donc ?"
+END
+
+SCRIPT:mgnfotr_malehobbit011
+"Bien le bonjour."
+END
+
+SCRIPT:mgnfotr_malehobbit012
+"Vous êtes un peu loin de chez vous, non ?"
+END
+
+SCRIPT:mgnfotr_malehobbit013
+"Si vous cherchez les ennuis, essayez du côté des Touque, ah ah."
+END
+
+SCRIPT:mgnfotr_malehobbit014
+"Certains appellent ça des commérages. Moi, j'appelle ça de la vigilance communautaire."
+END
+
+SCRIPT:mgnfotr_malehobbit015
+"*Ronflements*"
+END
+
+SCRIPT:mgnfotr_malehobbit016
+"*Ronflements*"
+END
+
+SCRIPT:mgnfotr_malehobbit017
+"*Le hobbit est trop occupé à boire et ignore Frodon*"
+END
+
+SCRIPT:mgnfotr_femalehobbit001
+"Attention où vous mettez les pieds, mon petit ! Ces courges ne poussent pas toutes seules."
+END
+
+SCRIPT:mgnfotr_femalehobbit002
+"Salut Frodon ! Je peux pas causer, faut que j'installe ces tables pour tout à l'heure."
+END
+
+SCRIPT:mgnfotr_femalehobbit003
+"Faudrait donner à manger aux poulettes, sinon elles auront faim !"
+END
+
+SCRIPT:mgnfotr_femalehobbit004
+"Quelqu'un a cueilli des mûres dans ma haie, mais j'ai ma petite idée sur qui."
+END
+
+SCRIPT:mgnfotr_femalehobbit005
+"Mon Dieu, neuf gamins ! Ce panier de linge a-t-il jamais été vide ?"
+END
+
+SCRIPT:mgnfotr_femalehobbit006
+"Je crois que les fraises étaient plus grosses la saison dernière."
+END
+
+SCRIPT:mgnfotr_femalehobbit007
+"Oh, ne l'écoutez pas. Elle dit ça tous les jours de marché."
+END
+
+SCRIPT:mgnfotr_femalehobbit008
+"Je l'ai envoyé chercher des oignons il y a une heure. Il reviendra avec de la bière."
+END
+
+SCRIPT:mgnfotr_femalehobbit009
+"Ce garçon est toujours pressé. Ça me rend nerveuse."
+END
+
+SCRIPT:mgnfotr_femalehobbit010
+"Sept poules, trois enfants et un mari qui ne retrouve jamais ses chaussettes."
+END
+
+SCRIPT:mgnfotr_femalehobbit011
+"Une bonne tarte règle la plupart des problèmes."
+END
+
+SCRIPT:mgnfotr_femalehobbit012
+"Les abeilles sont d'une politesse inhabituelle aujourd'hui."
+END
+
+SCRIPT:mgnfotr_femalehobbit013
+"L'or du dragon ? Vous ne croyez pas à ces balivernes, tout de même ?"
+END
+
+SCRIPT:mgnfotr_femalehobbit014
+"Vous cherchez quelqu'un ?"
+END
+
+SCRIPT:mgnfotr_childhobbit001
+"Tu as triché !"
+END
+
+SCRIPT:mgnfotr_childhobbit002
+"C'est pas vrai !"
+END
+
+SCRIPT:mgnfotr_childhobbit003
+"Ces oies me font peur !"
+END
+
+SCRIPT:mgnfotr_childhobbit004
+"J'ai entendu dire que le vieux Bilbo avait rencontré un dragon."
+END
+
+SCRIPT:mgnfotr_childhobbit005
+"Moi, j'ai entendu dire que c'était lui, le dragon."
+END
+
+SCRIPT:mgnfotr_childhobbit006
+"Frodon !"
+END
+
+SCRIPT:mgnfotr_childhobbit007
+"Maman dit que si t'es pas sage, Gandalf te changera en grenouille !"
+END
+
+SCRIPT:mgnfotr_childhobbit008
+"Je comprends pas pourquoi les grands aiment cette herbe à pipe qui pue."
+END
+
+SCRIPT:mgnfotr_childhobbit009
+"Attention, Frodon !"
+END
+
+///////////////RETURN TO BAGEND/////////////////
+
+SCRIPT:mgnfotr_frodo021
+"Je remonte à Cul-de-Sac. J'ai plein de questions à poser à Gandalf !"
+END
+
+SCRIPT:mgnfotr_gandalf007
+"Vous comptez donc aller au bout de votre plan ?"
+END
+SCRIPT:mgnfotr_bilbo004
+"Oui, oui. Tout est en ordre. Tous les arrangements sont pris."
+END
+SCRIPT:mgnfotr_gandalf008
+"Frodon se doute de quelque chose."
+END
+SCRIPT:mgnfotr_bilbo005
+"Bien sûr qu'il s'en doute. C'est un Sacquet, pas un balourd de Sanglebuc de Hardbottle."
+END
+SCRIPT:mgnfotr_gandalf009
+"Gandalf : Frodon Sacquet ! Ton oncle ne t'a-t-il pas appris à ne pas écouter les conversations privées ?"
+END
+SCRIPT:mgnfotr_frodo020
+"Frodon : Je montais justement vous voir tous les deux !"
+END
+SCRIPT:mgnfotr_bilbo006
+"Bilbo : Frodon, vite ! C'est Lobelia. Cache-toi, mon garçon ! Cache-toi !"
+END
+SCRIPT:mgnfotr_gandalf012
+"Gandalf : Bonne après-midi, Lobelia."
+END
+
+SCRIPT:mgnfotr_lobelia003A
+"Lobelia : Bilbo ! Vous voilà ! Rarement ai-je été aussi offensée ! M'exclure de votre testament, Otho et moi-même !?"
+END
+
+SCRIPT:mgnfotr_lobelia003B
+"Lobelia : Vous vivrez pour le regretter. Oh oui, vous le regretterez !"
+END
+
+SCRIPT:mgnfotr_lobelia011
+"Lobelia : Monsieur Gandalf."
+END
+
+SCRIPT:BilboCaught
+"La déception de Bilbo est incommensurable et sa journée est gâchée."
+END

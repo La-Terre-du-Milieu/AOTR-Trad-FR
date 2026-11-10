@@ -17,7 +17,7 @@ SCRIPT:Aragorn06
 END
 
 SCRIPT:Aragorn07
-"Aragorn: You misstepped, but kept your honor. "
+"Aragorn: You misstepped, Boromir. But through your courage, you kept your honour."
 END 
 
 SCRIPT:Aragorn08.1
@@ -25,7 +25,7 @@ SCRIPT:Aragorn08.1
 END 
 
 SCRIPT:Aragorn08
-"Aragorn: There is nothing to forgive. This war is far from over."
+"Aragorn: Only a fool would turn away this valiant Captain of Gondor. Come, Boromir."
 END 
 
 SCRIPT:Aragorn09
@@ -77,11 +77,11 @@ SCRIPT:Boromir02
 END
 
 SCRIPT:Boromir03
-"Boromir: I tried to take the Ring from Frodo... I failed to protect Merry and Pippin."
+"Boromir: I tried to take the Ring from Frodo... I could not save Merry and Pippin. I failed you."
 END
 
 SCRIPT:Boromir04
-"Boromir: My mind is clear... I will follow you, my King, if you would let me."
+"Boromir: I know now the path I must take. I would follow you, if you would let me."
 END
 
 SCRIPT:Boromir05
@@ -115,3 +115,7 @@ End
 SCRIPT:Vines
 "Frodo can destroy vines to open up alternative routes and avoid the Uruk-hai."
 End
+
+SCRIPT:mgfotr_frodo114
+ "Frodo: I must be careful. I cannot be spotted by these big orcs!"
+ End

@@ -24,11 +24,15 @@ SCRIPT:Dialogue_Osgiliath_ArmyMove02
 "Tout retard risque de faire retomber l'anneau du pouvoir entre les mains de l'ennemi."
 END
 
-SCRIPT:Dialogue_Osgiliath_ArmyReturn01
-"Le capitaine Faramir et ses hommes sont encerclés ! Nous ne pouvons pas rester ici. Nous devons chercher refuge à la Cour d'Isildur. Venez vite."
+SCRIPT:mgfotr_gondorsoldier008
+"Le capitaine Faramir et ses hommes sont encerclés ! Nous ne pouvons pas rester ici."
 End
 
-SCRIPT:Dialogue_Osgiliath_CentreSquare01
+SCRIPT:mgfotr_gondorsoldier009
+"Nous devons chercher refuge dans la Cour d'Isildur. Venez vite."
+End
+
+SCRIPT:mgfotr_gondorsoldier010
 "Nous devons continuer à avancer. Les Nazguls cherchent toujours depuis les cieux et ces ruines offrent peu de couverture."
 End
 
@@ -99,3 +103,32 @@ End
 SCRIPT:Dialogue_Osgiliath_Sewers05
 "Un héros doit être près d'un treuil pour prendre le contrôle des vannes."
 End
+
+SCRIPT:mgrotk_sam006
+"On a réussi !"
+END
+
+SCRIPT:mgfotr_gollum084
+"Maître ! Sméagol est pris au piège !"
+END
+
+SCRIPT:mgfotr_sam209
+"Je suis coincé là-dedans !"
+END
+
+SCRIPT:mgfotr_sam210
+"Ne vous inquiétez pas, monsieur Frodon ! On va vous sortir de là !"
+END
+
+SCRIPT:MGAmonH_Frodo027
+"Je suis coincé ici !"
+END
+
+SCRIPT:mgfotr_frodo172
+"Ne t'inquiète pas ! On va te sortir de là."
+END
+
+SCRIPT:mgfotr_faramir096
+"Semi-hommes ! Je suis pris au piège ici !"
+END
+

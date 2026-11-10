@@ -1,0 +1,623 @@
+
+SCRIPT:BulletinBoardBywater_Party
+"Missing: One brown hen.\nAnswers to "Hen".\nIf found, please return to Lily Appleby."
+END
+SCRIPT:BulletinBoardHobbiton_Party
+"Seeking volunteers to help decorate the Party Field.\nRefreshments provided. ONE drink per hobbit ONLY.\n~BB"
+END
+SCRIPT:BulletinBoardHobbiton2_Party
+"NOTICE\nThe date of the fishing competition will be posted once the committee has one.\nUntil then, kindly cease accosting committee members at their homes."
+END
+SCRIPT:BulletinBoardHobbiton3_Party
+"Fresh flowers, cuttings and seedlings!\nRoses, foxgloves, hollyhocks, and more.\nAt Marigold Hayward's stall at this Sunday's Bywater Market."
+END
+
+///////////////INTRO/////////////////
+
+SCRIPT:mgnfotr_bilbo001
+"Bilbo: The day of the party is here... I just need to check on a few things..."
+END
+
+SCRIPT:mgnfotr_bilbo002
+"Bilbo: Ah, I'll ask Frodo. Frodo? FRODO!?"
+END
+
+SCRIPT:mgnfotr_bilbo003
+"Bilbo: Sticklebacks! Where is that boy?"
+END
+
+///////////////FIND GANDALF/////////////////
+
+SCRIPT:mgnfotr_gandalfsong001
+"...The Road goes ever on and on..."
+END
+
+SCRIPT:mgnfotr_frodo001
+"Gandalf!"
+END
+
+SCRIPT:mgnfotr_frodo002
+"Frodo: You're late!"
+END
+
+SCRIPT:mgnfotr_gandalf001
+"Gandalf: A Wizard is never late, Frodo Baggins. Nor is he early. He arrives precisely when he means to!"
+END
+
+SCRIPT:mgnfotr_frodo003
+"Frodo: It's wonderful to see you, Gandalf!"
+END
+
+SCRIPT:mgnfotr_gandalf011
+"Gandalf: You didn't think I'd miss your Uncle Bilbo's birthday?"
+END
+
+///////////////REACH HOBBINTON/////////////////
+
+SCRIPT:mgnfotr_gandalf002
+"So, how is the old rascal? I hear it's going to be a party of special magnificence."
+END
+
+SCRIPT:mgnfotr_frodo004
+"You know Bilbo. He's got the whole place in an uproar."
+END
+
+SCRIPT:mgnfotr_gandalf003
+"Well, that should please him."
+END
+
+SCRIPT:mgnfotr_frodo005
+"Half the Shire's been invited. And the rest of them are turning up anyway."
+END
+
+SCRIPT:mgnfotr_frodo006
+"He's up to something. And I know you have something to do with it."
+END
+
+SCRIPT:mgnfotr_gandalf004
+"Indeed?"
+END
+
+SCRIPT:mgnfotr_frodo007
+"Alright then, keep your secrets."
+END
+
+SCRIPT:mgnfotr_frodo008
+"Before you came along we Bagginses were very well thought of. Never had any adventures or did anything unexpected."
+END
+
+SCRIPT:mgnfotr_gandalf005
+"If you're referring to the incident with the dragon, I was barely involved... all I did was give your uncle a little nudge out of the door."
+END
+
+///////////////FIREWORKS/////////////////
+
+SCRIPT:mgnfotr_frodo009
+"Frodo: Whatever you did, you've been officially labeled a disturber of the peace."
+END
+
+SCRIPT:mgnfotr_fireworkschildren001
+"Children: Gandalf! It's Gandalf! Fireworks, Gandalf! Fireworks!"
+END
+
+SCRIPT:mgnfotr_gandalf010
+"Run away now! You'll get plenty when the time comes."
+END
+
+SCRIPT:mgnfotr_fireworkschildren002
+"Yeeeeah!"
+END
+
+SCRIPT:mgnfotr_fireworkschildren003
+"Awwww!"
+END
+
+///////////////GANDALF CART LEAVES/////////////////
+
+SCRIPT:mgnfotr_frodo010
+"Frodo: Gandalf, I'm glad you're back."
+END
+
+SCRIPT:mgnfotr_gandalf006
+"Gandalf: So am I, dear boy... so am I."
+END
+
+SCRIPT:mgnfotr_frodo011
+"I should check on some of the preparations. Tonight is the big night, after all."
+END
+
+///////////////SACKVILLE-BAGGINS/////////////////
+
+SCRIPT:mgnfotr_frodo080
+"Frodo: I'm sure those Sackville-Bagginses are abroad. I'd rather not argue... best avoid them!"
+END
+
+SCRIPT:mgnfotr_otto001
+"Otho: So, young Frodo. You must be rather pleased."
+END
+SCRIPT:mgnfotr_frodo012
+"Frodo: Beg your pardon?"
+END
+SCRIPT:mgnfotr_lobelia001
+"Lobelia: You can't keep us out, you upstart. What gives you the right?"
+END
+SCRIPT:mgnfotr_frodo013
+"Frodo: I don't believe Bilbo intends to keep you out. The messenger service is a bit overwhelmed, that's all.\nThe invitations may have been lost..."
+END
+SCRIPT:mgnfotr_lobelia002
+"Lobelia: How fortunate - for you! You Bagginses and your luck. Bilbo's sudden wealth, your promotion to his sole heir..."
+END
+SCRIPT:mgnfotr_otto002
+"Otho: Dubious. Dubious, indeed."
+END
+SCRIPT:mgnfotr_frodo014
+"I'll... I'll be on my way now."
+END
+
+///////////////PARTY PREPARATIONS/////////////////
+
+SCRIPT:mgnfotr_gaffer001
+"Dwarves... they pay no heed to growing things. I keep telling 'em, don't step on the green..."
+END
+SCRIPT:mgnfotr_frodo015
+"I'm sure you and Sam will be able to mend whatever damage they do."
+END
+SCRIPT:mgnfotr_gaffer002
+"Mend? Aye, but it may take a few seasons. Perhaps you could remind them?"
+END
+
+SCRIPT:mgnfotr_darla001
+"There's so much food to prepare. And more carts are still coming in!"
+END
+SCRIPT:mgnfotr_darla004
+"What's worse, there's Hobbits coming in from all directions, looking to pinch something: apple pies, roasted chickens... one of 'em even appeared dressed as one of my cooks!"
+END
+SCRIPT:mgnfotr_darla005
+"I've had to divert a few of mine to scare 'em off, rollers in hand!"
+END
+SCRIPT:mgnfotr_frodo016
+"It looks like you're still on schedule."
+END
+SCRIPT:mgnfotr_darla002
+"We are - for now. But I see them lingering near the road. Go and shoo them away!"
+END
+
+SCRIPT:mgnfotr_frodo022
+"Shoo! You'll eat your fill later!"
+END
+SCRIPT:mgnfotr_frodo023
+"Come on. Away with you!"
+END
+SCRIPT:mgnfotr_frodo024
+"Off you go! You'll get your chance!"
+END
+
+SCRIPT:mgnfotr_frodo075
+"...and that should be the last of those scroungers dealt with. I'm sure Darla will be relieved to hear it."
+END
+
+SCRIPT:mgnfotr_frodo070
+"They're gone. For a while, at least."
+END
+SCRIPT:mgnfotr_darla003
+"Good. They won't go hungry - there'll be plenty tonight. Thank you."
+END
+
+SCRIPT:mgnfotr_frodo017
+"Dwarf-made toys are marvelous creations. Are they magical?"
+END
+SCRIPT:mgnfotr_florin001
+"Magical? Aye, I suppose they may be... to you."
+END
+SCRIPT:mgnfotr_glorin001
+"Now, don't ask any more, Master Baggins."
+END
+SCRIPT:mgnfotr_norin001
+"Dwarves don't share their secrets. Whether they concern toy-making or gem-cutting, or the brewing of fine ales."
+END
+SCRIPT:mgnfotr_frodo018
+"I shan't, my friends. Speaking of Dwarven ale - I see you've brought plenty."
+END
+SCRIPT:mgnfotr_florin002
+"As requested by Master Bilbo. Have a taste."
+END
+
+SCRIPT:mgnfotr_frodo025
+"Oh, the guests will be quite fond of this, I'm sure!"
+END
+SCRIPT:mgnfotr_frodo026
+"Ah, I've been asked to inform you to please mind the grass and the garden at Bag End. Its keeper takes great pride in his work."
+END
+SCRIPT:mgnfotr_florin003
+"Apologies, Master Baggins. We shall be more careful."
+END
+SCRIPT:mgnfotr_norin002
+"Aye, don't worry, we won't you chasing dwarves through the Shire."
+END
+
+SCRIPT:mgnfotr_postofficer001
+"Master Frodo! Blast that wind! The last of your uncle's invitations have gone fluttering all over Hobbiton. My couriers are all busy as it is - and your uncle's guest list seems to grow by the minute!"
+END
+SCRIPT:mgnfotr_frodo027
+"I'll see if I can find them."
+END
+SCRIPT:mgnfotr_postofficer003
+"You will? Oh, bless you, Frodo! That's quite a weight off my mind."
+END
+
+SCRIPT:mgnfotr_frodo071
+"Here they are. One was halfway to Frogmorton before I found it."
+END 
+
+SCRIPT:mgnfotr_postofficer002
+"Oh, you've found the invitations! I reckon folk'd have turned up anyway, but we can't abandon our duty to the post! Thank you, master Baggins!"
+END
+
+SCRIPT:mgnfotr_frodo072
+"Of course. Apologies on behalf of my uncle for the errand he's set you on."
+END
+
+// SPOTTED INVITATIONS //
+
+SCRIPT:mgnfotr_frodo030
+"Here's one."
+END
+
+SCRIPT:mgnfotr_frodo031
+"The wind certainly carried these far."
+END
+
+SCRIPT:mgnfotr_frodo032
+"The Postmaster will be pleased to see this."
+END
+
+SCRIPT:mgnfotr_frodo033
+"What's that? A letter!"
+END
+
+SCRIPT:mgnfotr_frodo034
+"It's one of Bilbo's invitations!"
+END
+
+SCRIPT:mgnfotr_frodo035
+"That should be all of them. I should return them to the Post Officer."
+END
+///////////////OPTIONAL CONVERSATION/////////////////
+
+SCRIPT:mgnfotr_sam001
+"You reckon she'll show up, Mister Frodo?"
+END
+SCRIPT:mgnfotr_frodo019
+"Oh, Sam. Of course she will."
+END
+SCRIPT:mgnfotr_sam002
+"I'll have to wear my special waistcoat. The one with the shiny buttons..."
+END
+
+SCRIPT:mgnfotr_myrtle001
+"Oh, I simply cannot wait! I wish the hours would go by quicker!"
+END
+
+SCRIPT:mgnfotr_rosie001
+"I do hope Sam will ask me to dance. I think he wanted to last month, at the harvest festival..."
+END
+
+SCRIPT:mgnfotr_odo001
+"Party or no, I don't like the look of these strangers appearing around Hobbiton. Dwarves... I don't trust 'em one bit."
+END
+
+SCRIPT:mgnfotr_tedsandyman001
+"You Bagginses have got queer dispositions, if you ask me. Gallivanting off into the wild. How much treasure has your uncle got hidden away, I wonder?"
+END
+
+SCRIPT:mgnfotr_shirrif001
+"I'll be on duty, Master Frodo. Around Bywater, that is."
+END
+SCRIPT:mgnfotr_shirrif002
+"I've got no ill will towards Dwarves, myself. Never gave me any trouble."
+END
+SCRIPT:mgnfotr_shirrif003
+"You'll save me some, won't you, Master Frodo?"
+END
+
+SCRIPT:mgnfotr_daddy001
+"I haven't seen so much busywork 'round these parts, not in all my days"
+END
+
+SCRIPT:mgnfotr_oldnoakes001
+"There's Bucklanders afoot! A peculiar folk, to say the least..."
+END 
+SCRIPT:mgnfotr_frodo028
+"I'm half Bucklander myself, mister Noakes. And entirely peculiar!"
+END
+SCRIPT:mgnfotr_oldnoakes002
+"Oh! Apologies, Master Frodo. I meant no offense."
+END
+
+SCRIPT:mgnfotr_merry001
+"I think old Bilbo may be up to something. What do you reckon, Frodo?"
+END
+SCRIPT:mgnfotr_frodo029
+"I do not know! He hasn't told me anything, at least."
+END
+
+SCRIPT:mgnfotr_pippin001
+"What time do you reckon the kegs will be opened?"
+END
+
+SCRIPT:mgnfotr_folco001
+"Ah, Frodo! Looking forward to the party then?"
+END
+
+SCRIPT:mgnfotr_fatty001
+"Hiya Frodo! I've been preparing all day for the party."
+END
+
+SCRIPT:mgnfotr_frodo073
+"Preparing?"
+END
+
+SCRIPT:mgnfotr_fatty002
+"Eating less, to save space."
+END
+
+SCRIPT:mgnfotr_frodo074
+"That's quite the sacrifice."
+END
+
+SCRIPT:mgnfotr_harry001
+"Ah, hello master Baggins."
+END
+
+SCRIPT:mgnfotr_harry002
+"'ere, I say, there's queer times a-comin'. I heard it from a tree. Oh, no, not that 'un, no, nor him neither, no. Oh... oh, I cannot find it now. Oh, it may have wandered off..."
+END
+
+
+SCRIPT:mgnfotr_wilmerhayfield001
+"Master Frodo! Have you seen my black goat, Phillip? The cheeky rascal's slipped the fence again."
+END
+
+SCRIPT:mgnfotr_frodo076
+"Not today, did you see where he went?"
+END
+
+SCRIPT:mgnfotr_wilmerhayfield002
+"Toward the Water, last I saw. I'd go me'self, but if I leave this fence half-mended, the rest of my goats'll be after him before long."
+END
+
+SCRIPT:mgnfotr_frodo077
+"I'll see if I can find him."
+END
+
+SCRIPT:mgnfotr_wilmerhayfield003
+"Here, take these apples. Phillip can't resist 'em. He's stubborn, but toss one in front of his nose and he'll follow you anywhere."
+END
+
+SCRIPT:mgnfotr_wilmerhayfield004
+"Ah here he is! Thank you Frodo, I'd have been chasing him 'til teatime."
+END
+
+SCRIPT:mgnfotr_frodo078
+"He drove a hard bargain. It cost me a few apples."
+END
+
+SCRIPT:mgnfotr_wilmerhayfield005
+"A fair price. I'll keep a closer eye on him, though I daresay Phillip has other plans."
+END
+
+SCRIPT:mgnfotr_frodo079
+"There you are. Come along Phillip, here's a nice juicy apple for you."
+END
+
+SCRIPT:mgnfotr_casmoredleaf001
+"Ssh! You'll scare away the birds. That one there is a Weymouth Warbler, I think!"
+END
+///////////////OPTIONAL CONVERSATION - UNNAMED HOBBITD/////////////////
+
+SCRIPT:mgnfotr_malehobbit001
+"I've been lookin' forward to this for days! Weeks!"
+END
+
+SCRIPT:mgnfotr_malehobbit002
+"I skipped second breakfast, just to leave enough room!"
+END
+
+SCRIPT:mgnfotr_malehobbit003
+"Oh, I intend to be among the first upon the field!"
+END
+
+SCRIPT:mgnfotr_malehobbit004
+"What a lovely day!"
+END
+
+SCRIPT:mgnfotr_malehobbit005
+"I've got work to do, but I can't stop thinking about tonight!"
+END
+
+SCRIPT:mgnfotr_malehobbit006
+"He's always been a bit odd, if you ask me... Oh! err, hi Frodo!"
+END
+
+SCRIPT:mgnfotr_malehobbit007
+"He's always stirring up mischief that Gandalf..."
+END
+
+SCRIPT:mgnfotr_malehobbit008
+"Ah, these potatoes won't dig themselves up."
+END
+
+SCRIPT:mgnfotr_malehobbit009
+"Bloomin' rabbits got into my cabbages again!"
+END
+
+SCRIPT:mgnfotr_malehobbit010
+"I came out here for something now... what was it?"
+END
+
+SCRIPT:mgnfotr_malehobbit011
+"Good day to ye."
+END
+
+SCRIPT:mgnfotr_malehobbit012
+"You're a ways from home, aren't you?"
+END
+
+SCRIPT:mgnfotr_malehobbit013
+"If you're looking for trouble, try the Tooks, heh."
+END
+
+SCRIPT:mgnfotr_malehobbit014
+"Some folk call it gossip. I call it community awareness."
+END
+
+SCRIPT:mgnfotr_malehobbit015
+"*Snoring*"
+END
+
+SCRIPT:mgnfotr_malehobbit016
+"*Snoring*"
+END
+
+SCRIPT:mgnfotr_malehobbit017
+"*The hobbit is too busy drinking and ignores Frodo*"
+END
+
+SCRIPT:mgnfotr_femalehobbit001
+"Mind your step, dear! Them squash don't grow themselves."
+END
+
+SCRIPT:mgnfotr_femalehobbit002
+"Hi Frodo! I can't chat now, I 'ave ta set up these tables for later."
+END
+
+SCRIPT:mgnfotr_femalehobbit003
+"Better give the chooks a good feed or they'll be goin hungry!"
+END
+
+SCRIPT:mgnfotr_femalehobbit004
+"Someone's been picking blackberries from my hedge, but I have an inkling who."
+END
+
+SCRIPT:mgnfotr_femalehobbit005
+"Mercy me, nine kids! Was this laundry basket ever empty?"
+END
+
+SCRIPT:mgnfotr_femalehobbit006
+"I reckon the strawberries were bigger last season."
+END
+
+SCRIPT:mgnfotr_femalehobbit007
+"Oh, don't listen to her. She says that every market day."
+END
+
+SCRIPT:mgnfotr_femalehobbit008
+"I sent him for onions an hour ago. He'll come back with ale."
+END
+
+SCRIPT:mgnfotr_femalehobbit009
+"That lad's always in a hurry. Makes me nervous."
+END
+
+SCRIPT:mgnfotr_femalehobbit010
+"Seven chickens, three children, and a husband who can't find his own socks."
+END
+
+SCRIPT:mgnfotr_femalehobbit011
+"A good pie solves most problems."
+END
+
+SCRIPT:mgnfotr_femalehobbit012
+"The bees have been unusually polite today."
+END
+
+SCRIPT:mgnfotr_femalehobbit013
+"Dragon's gold? You don't believe that tosh do ye?"
+END
+
+SCRIPT:mgnfotr_femalehobbit014
+"Looking for someone?"
+END
+
+SCRIPT:mgnfotr_childhobbit001
+"You cheated!"
+END
+
+SCRIPT:mgnfotr_childhobbit002
+"I did not!"
+END
+
+SCRIPT:mgnfotr_childhobbit003
+"Those geese are scary!"
+END
+
+SCRIPT:mgnfotr_childhobbit004
+"I heard old Bilbo met a dragon."
+END
+
+SCRIPT:mgnfotr_childhobbit005
+"I heard he is a dragon."
+END
+
+SCRIPT:mgnfotr_childhobbit006
+"Frodo!"
+END
+
+SCRIPT:mgnfotr_childhobbit007
+"Mam says if you're naughty Gandalf'll turn you into a frog!"
+END
+
+SCRIPT:mgnfotr_childhobbit008
+"I don't get why grown ups like that stinky pipeweed anyway."
+END
+
+SCRIPT:mgnfotr_childhobbit009
+"Look out Frodo!"
+END
+
+///////////////RETURN TO BAGEND/////////////////
+
+SCRIPT:mgnfotr_frodo021
+"I'll head back up to Bag End. I've got lots of questions for Gandalf!"
+END
+
+SCRIPT:mgnfotr_gandalf007
+"So, you mean to go through with your plan then?"
+END
+SCRIPT:mgnfotr_bilbo004
+"Yes, yes. It's all in hand. All the arrangements are made."
+END
+SCRIPT:mgnfotr_gandalf008
+"Frodo suspects something."
+END
+SCRIPT:mgnfotr_bilbo005
+"Of course he does. He's a Baggins, not some block-headed Bracegirdle from Hardbottle."
+END
+SCRIPT:mgnfotr_gandalf009
+"Gandalf: Frodo Baggins! Has your uncle not taught you to not listen in on private conversations?"
+END
+SCRIPT:mgnfotr_frodo020
+"Frodo: I was just coming up to see you two!"
+END
+SCRIPT:mgnfotr_bilbo006
+"Bilbo: Frodo, quick! It's Lobelia. Hide, my boy! Hide!"
+END
+SCRIPT:mgnfotr_gandalf012
+"Gandalf: Good afternoon, Lobelia."
+END
+
+SCRIPT:mgnfotr_lobelia003A
+"Lobelia: Bilbo! There you are! Rarely have I been so slighted! Leaving Otho and my good self out of your will!?"
+END
+
+SCRIPT:mgnfotr_lobelia003B
+"Lobelia: You will live to regret this. Oh, you will!"
+END
+
+SCRIPT:mgnfotr_lobelia011
+"Lobelia: Mister Gandalf."
+END
+
+SCRIPT:BilboCaught
+"Bilbo's disappointment is immesurable and his day is ruined."
+END

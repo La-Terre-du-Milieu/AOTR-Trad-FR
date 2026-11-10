@@ -1,0 +1,594 @@
+////////////////OBJECTIVES//////////////////
+
+
+SCRIPT:MissionHint01_PotD
+"Light braziers by approaching them with Aragorn to permanently reveal an area of the map"
+END
+SCRIPT:MissionHint02_PotD
+"The spirits of the dead cause great fear to most of your heroes and units, and they will take damage over time at the sight of them."
+END
+SCRIPT:MissionHint03_PotD
+"Kindled braziers replenish health and fallen troops over time. They also grant permanent vision and banish any wisps that approach it."
+END
+SCRIPT:MissionHint04_PotD
+"Bring Baldor's belongings back to his corpse"
+END
+SCRIPT:MissionHint05_PotD
+"Torches will momentarily heal nearby units"
+END
+
+////////////////Cinematic - Entry//////////////////
+TEMP:HALBARADINTRO01
+"This is an evil door, and my death lies beyond it. I will dare to pass it nonetheless"
+END
+
+////////////////Location: Story Shrines//////////////////
+
+SCRIPT:mgfotr_gimli073
+"What is this wicked shrine they've hewn into the rock?"
+END
+
+SCRIPT:mgfotr_elrohir067
+"I wonder what secrets it holds."
+END
+
+SCRIPT:mgfotr_storyshrine1A
+"Sage: I remember when the Sea-kings came... Mighty they were, clad in bright armour, carrying long, shining swords.."
+END
+SCRIPT:mgfotr_storyshrine1B
+"Sage: In the face of this overwhelming glory an oath was sworn... to swear off the Dark One, \n and to aid the King of Gondor in his time of need..."
+END
+
+SCRIPT:mgfotr_storyshrine2A
+"Sage: Some were glad to be rid of the Dark One's influence, and welcomed back the faith of our forebears..."
+END
+SCRIPT:mgfotr_storyshrine2B
+"Sage: But for others worship of the Dark One was not so easily cast aside, for their power was built upon it..."
+END
+
+SCRIPT:mgfotr_storyshrine3A
+"Sage: Our King, whose name has been forgotten, soon fell back into the old rituals, the old beliefs."
+END
+SCRIPT:mgfotr_storyshrine3B
+"Sage: In the hour of need, when the world shook beneath the marching of great hosts, our King refused the call..."
+END
+
+SCRIPT:mgfotr_storyshrine4A
+"Sage: When the Great Host crossed through our lands, we feared their wrath, sure to be delivered without mercy."
+END
+SCRIPT:mgfotr_storyshrine4B
+"Sage: But instead, Isildur sought out our King, and said unto him: "Thou shalt be the last king. \n And if the West prove mightier than thy Black Master..."
+END
+SCRIPT:mgfotr_storyshrine4C
+"Sage: ..this curse I lay upon thee and thy folk: to rest never until your oath is fulfilled. \n For this war will last through years uncounted, and you shall be summoned once again ere the end."
+END
+
+SCRIPT:mgfotr_storyshrine5A
+"Sage: Convinced of the Dark One's victory, we awaited the inevitable. Months turned into years, \n until nigh a decade later, word of the Dark One's defeat at long last reached our ears."
+END
+SCRIPT:mgfotr_storyshrine5B
+"Sage: Despair fell upon our people. We sought refuge inside the mountain, rarely leaving it, \n for we feared the vengeance of Gondor."
+END
+SCRIPT:mgfotr_storyshrine5C
+"Sage: It was during that dark time that the truth of Isildur's curse first became apparent..."
+END
+
+SCRIPT:mgfotr_storyshrine6A
+"Sage: We were once numerous, but within the darkness of the mountain our people faltered. \n Our King was among the first to die, his spirit lingering restlessly beneath the mountain."
+END
+SCRIPT:mgfotr_storyshrine6B
+"Sage: Soon all the rest would join him there, until at long last our once-verdant mountain \n valleys were changed to places of dark terror, where no living man dared tread..."
+END
+
+////////////////Location: Braziers//////////////////
+SCRIPT:mgfotr_legolas060
+"Pale banners like shreds of cloud"
+END
+SCRIPT:mgfotr_legolas061
+"..spears rise.."
+END
+SCRIPT:mgfotr_legolas062
+"Like winter thickets through a shroud of mist"
+END
+SCRIPT:mgfotr_legolas063
+"The dead are followingl"
+END
+SCRIPT:mgfotr_elegost021
+"The sight of them... I can feel my blood freezing within my veins..."
+END
+SCRIPT:mgfotr_haldir033
+"The spirits of Men do not frighten me"
+END
+SCRIPT:mgfotr_aragorn234
+"We must move on."
+END
+SCRIPT:mgfotr_aragorn233
+"We have broken their enchantment"
+END
+
+SCRIPT:mgfotr_halbarad030
+"A brazier! Quickly, let's get a fire started."
+END
+
+SCRIPT:mgfotr_halbarad031
+"These shades amass. We must reach another brazier."
+END
+SCRIPT:mgfotr_haldir018
+"The spectres have faded. Let us move on."
+END
+SCRIPT:mgfotr_elrohir072
+"This darkness cannot endure."
+END
+SCRIPT:mgfotr_halbarad034
+"Another brazier! Down there!"
+END
+////////////////Location: Unlit Torch//////////////////
+SCRIPT:mgfotr_aragorn266
+"These torches will help light our way through these passages."
+END
+
+ 
+
+
+////////////////Location: Baldor's Corpse//////////////////
+
+SCRIPT:mgfotr_aragorn229
+"Aragorn: Long ago, a Prince of Rohan ventured into this accursed mountain, \n determined to prove his courage. He never returned."
+END
+SCRIPT:mgfotr_baldor001
+"Baldor: Baldor am I. At last I have been found. What news of my father? What news of our fledgling Kingdom?"
+END
+SCRIPT:mgfotr_aragorn230
+"Aragorn: Your time has long since passed, young Prince."
+END
+
+SCRIPT:mgfotr_baldor002
+"Baldor: But it seems to me only recently that they came for me, howling from out of the darkness..."
+END
+SCRIPT:mgfotr_baldor003
+"Baldor: They chased me through long corridors... I could not see my feet beneath the swirling mists."
+END
+SCRIPT:mgfotr_baldor009
+"Baldor: I lost my girdle, given to me by my grandfather... by Eorl."
+END
+SCRIPT:mgfotr_baldor010
+"Baldor: My brooch, too, a gift from my faithful wife... "
+END
+SCRIPT:mgfotr_baldor011
+"Baldor: ...and my helm, forged many years ago in the great Dwarf-smithies of the Grey Mountains..."
+END
+SCRIPT:mgfotr_aragorn232
+"Aragorn: I must bid thee farewell, Baldor, son of Brego. May you resume your long rest in peace."
+END 
+SCRIPT:mgfotr_legolas113
+"Perhaps this Prince of Men may find his rest once his belongings are returned to the place of his death..."
+END
+
+SCRIPT:mgfotr_aragorn318
+"Aragorn: Perhaps the return of his heirlooms will allow his spirit to rest."
+END 
+SCRIPT:mgfotr_baldor012
+"Baldor: ...no rest will I find... ere my death is avenged."
+END 
+
+////////////////Location: Baldor's Belongings//////////////////
+SCRIPT:mgfotr_aragorn235
+"A belt of kingly make. This must belong to Baldor."
+END
+SCRIPT:mgfotr_aragorn236
+"A brooch of the House of Eorl.  We should return this to Baldor."
+END
+SCRIPT:mgfotr_legolas080
+"A lofty helmet after the fashion of the ancient Northmen. The fallen prince would want this returned."
+END
+SCRIPT:mgfotr_elladan066
+"What have you found?"
+END
+////////////////Location: Mini-boss Champion//////////////////
+
+SCRIPT:mgfotr_gimli098
+"Gimli: Something lingers over there!"
+END
+
+SCRIPT:mgfotr_aragorn319
+"Aragorn: Stay close."
+END
+
+SCRIPT:mgfotr_aragorn320
+"We cannot pass! We must defeat him!"
+END
+
+SCRIPT:mgfotr_aragorn321
+"He commands the dead! Do not show fear!"
+END
+
+SCRIPT:mgfotr_aragorn322
+"There is great evil within this mountain..."
+END
+
+SCRIPT:mgfotr_legolas106
+"Legolas: What is this place?"
+END
+
+SCRIPT:mgfotr_legolas107
+"Legolas: It's trapped us here!"
+END
+
+SCRIPT:mgfotr_legolas108
+"They are gone. Let us move on."
+END
+
+SCRIPT:mgfotr_elladan056
+"Elladan: The spirits of the dead return!"
+END
+
+////////////////Location: Mini-boss Seer//////////////////
+
+SCRIPT:mgfotr_legolas109
+"Legolas: Aragorn, there is a fell presence ahead!"
+END
+
+SCRIPT:mgfotr_legolas110
+"Let us end their suffering!"
+END
+
+SCRIPT:mgfotr_aragorn323
+"Aragorn: Hold fast! Slay them all!"
+END
+
+SCRIPT:mgfotr_aragorn324
+"Hold onto your courage, master Dwarf. We will overcome them."
+END
+
+SCRIPT:mgfotr_gimli099
+"Gimli: Undead beasts!?"
+END
+
+SCRIPT:mgfotr_gimli100
+"Bring your ghoulish face to my axe!"
+END
+
+SCRIPT:mgfotr_gimli101
+"The dead seem to grow stronger the deeper we go into this accursed mountain..."
+END
+
+SCRIPT:mgfotr_elrohir046
+"Elrohir: This foe is unlike any other!"
+END
+
+SCRIPT:mgfotr_elrohir066
+"Come, let us proceed."
+END
+
+////////////////Location: Mini-boss Banshee//////////////////
+
+SCRIPT:mgfotr_legolas111
+"A dark power dwells within her!"
+END
+
+SCRIPT:mgfotr_legolas112
+"Her power dissipates. I hope she may find some rest."
+END
+
+SCRIPT:mgfotr_aragorn325
+"Aragorn: Stand together! We will counter her fell sorcery!"
+END
+
+SCRIPT:mgfotr_aragorn326
+"I will defeat you, creature of shadow!"
+END
+
+SCRIPT:mgfotr_aragorn327
+"That weakened her! Let us strike now!"
+END
+
+SCRIPT:mgfotr_aragorn328
+"The Flame of the West shall be your end!"
+END
+
+SCRIPT:mgfotr_aragorn329
+"We must be close to the end. Come."
+END
+
+SCRIPT:mgfotr_legolas102
+"This witch is impervious to our weapons. It appears these spires empower her."
+END
+
+SCRIPT:mgfotr_gimli097
+"That foul sorcery is leaving the spires! Bring them down!"
+END
+
+SCRIPT:mgfotr_elladan042
+"Elladan: Watch out!"
+END
+
+SCRIPT:mgfotr_gimli102
+"Gimli: What is she!"
+END
+
+SCRIPT:mgfotr_gimli103
+"We must destroy the last of these shrines ere we are overwhelmed!"
+END
+
+SCRIPT:mgfotr_gimli104
+"I'd like some rest myself! I don't mean to linger here any longer!"
+END
+
+SCRIPT:mgfotr_elladan068
+"Well done, my friends!"
+END
+
+////////////////Location: Grate04//////////////////
+SCRIPT:mgfotr_aragorn275
+"This gate is shut. We must find another way."
+END
+
+SCRIPT:mgfotr_gimli107
+"It's a doorway. How do we get through?"
+END
+
+SCRIPT:mgfotr_gimli108
+"There's another door here."
+END
+
+////////////////Location: Mist//////////////////
+SCRIPT:mgfotr_legolas079
+"The mists are swirling!"
+END
+SCRIPT:mgfotr_legolas077
+"We must pass through this!"
+END
+SCRIPT:mgfotr_aragorn262
+"Stay alert. Move with caution."
+END
+
+////////////////Location: Generic attacks//////////////////
+
+SCRIPT:mgrotk_gimli025
+"Dwarves would never build such flimsy things!"
+END
+SCRIPT:mgfotr_legolas078
+"The spirits of the dead!"
+END
+SCRIPT:mgfotr_legolas076
+"More spectres approach!"
+END
+SCRIPT:mgrotk_gimli018
+"I have... a very bad feeling about this place."
+END
+SCRIPT:mgfotr_legolas073
+"Fear not Gimli, son of Gloin. It does not become you."
+END
+SCRIPT:mgfotr_legolas090
+"The spectres have returned!"
+END
+SCRIPT:mgfotr_legolas091
+"How do we get through this?"
+END
+SCRIPT:mgfotr_legolas075
+"This is a place of great evil"
+END
+SCRIPT:mgfotr_legolas074
+"I do not fear the dead"
+END
+SCRIPT:mgfotr_aragorn263
+"Stay together!"
+END
+SCRIPT:mgfotr_aragorn265
+"The dead return!"
+END
+SCRIPT:mgfotr_aragorn261
+"Even through living death they obey!"
+END
+SCRIPT:mgfotr_aragorn264
+"They gather here in force!"
+END
+SCRIPT:mgfotr_haldir010
+"Look out, master Dwarf!"
+END
+SCRIPT:mgfotr_haldir011
+"We must defeat them all!"
+END
+SCRIPT:mgfotr_haldir019
+"They are gone. Come, we cannot linger here."
+END
+SCRIPT:mgfotr_haldir017
+"Something evil dwells within this place. I can feel it."
+END
+SCRIPT:mgfotr_amdir021
+"We have fought your kind before!"
+END
+SCRIPT:mgfotr_amdir022
+"We must defeat them all!"
+END
+SCRIPT:mgfotr_toradan018
+"They come again!"
+END
+SCRIPT:mgfotr_toradan019
+"These halls are perilous."
+END
+SCRIPT:mgfotr_lothrandir014
+"Look out! It's collapsing"
+END
+SCRIPT:mgfotr_lothrandir015
+"Something draws near..."
+END
+SCRIPT:mgfotr_elrohir063
+"Stay with me brother!"
+END
+SCRIPT:mgfotr_elrohir053
+"These spell-stones must be destroyed to free the dead!"
+END
+SCRIPT:mgfotr_elladan063
+"Amdir! Bring up your spears!"
+END
+SCRIPT:mgfotr_elegost022
+"Archers! Volley!"
+END
+SCRIPT:mgfotr_elegost023
+"Look, they're shooting at us from up above!"
+END
+SCRIPT:mgfotr_legolas074
+"I do not fear the dead"
+END
+SCRIPT:mgfotr_aragorn260
+"The dead linger on this path"
+END
+SCRIPT:mgfotr_legolas093
+"Their heralds rally fell spirits around their banners... slay them before we are overrun!"
+END
+SCRIPT:mgrotk_gimli023
+"It would appear to be a trap!"
+END
+SCRIPT:mgrotk_gimli029
+"It's no wonder none survive these paths!"
+END
+SCRIPT:mgrotk_gimli019
+"Those blades cut, even if rusty!"
+END
+SCRIPT:mgrotk_gimli017
+"I'm not trained to kill the dead!"
+END
+///////////////Location: Dead ends//////////////////
+SCRIPT:mgfotr_elegost024
+"Another blind passage, we must find another way."
+END
+SCRIPT:mgfotr_kod017
+"A dead end!"
+END
+SCRIPT:mgfotr_kod014
+"A dead end!"
+END
+
+////////////////Location: Champion Fight//////////////////
+SCRIPT:mgfotr_legolas092
+"The heralds call forth more warriors! We must banish them!"
+END
+
+////////////////Location: King of the Dead Chamber Separation//////////////////
+
+SCRIPT:mgfotr_elladan070
+"Elladan: Come! Over here."
+END
+SCRIPT:mgfotr_toradan020
+"Toradan: Watch out!"
+END
+SCRIPT:mgtt_aragorn072
+"Aragorn: Stand back!"
+End
+SCRIPT:mgfotr_kod022
+"It appears your path is blocked."
+End
+SCRIPT:mgfotr_halbarad032
+"Halbarad: Aragorn, you must press on without us."
+END
+SCRIPT:mgfotr_halbarad033
+"Halbarad: We shall wait here until the path is clear."
+END
+
+////////////////Location: King of the Dead Fight//////////////////
+SCRIPT:mgfotr_haldir012
+"Stay together!"
+END
+SCRIPT:mgfotr_haldir013
+"They flood across the chasm!"
+END
+SCRIPT:mgfotr_haldir014
+"Still more come!"
+END
+SCRIPT:mgfotr_haldir015
+"Quickly, get behind cover!"
+END
+SCRIPT:mgfotr_haldir016
+"Back, foul thing!"
+END
+
+
+SCRIPT:mgfotr_baldor004
+"Perish traitors!"
+END
+SCRIPT:mgfotr_baldor005
+"I shall have vengeance!"
+END
+SCRIPT:mgfotr_baldor006
+"Your wickedness will end!"
+END
+SCRIPT:mgfotr_baldor007
+"Curse you turncloak!"
+END
+SCRIPT:mgfotr_baldor008
+"Taste Rohirric steel coward!"
+END
+
+SCRIPT:mgfotr_kod023
+"Men of the mountain, fight for me!"
+END
+SCRIPT:mgfotr_kod024
+"The dead will be your undoing!"
+END
+SCRIPT:mgfotr_kod025
+"All light must fade!"
+END
+SCRIPT:mgfotr_kod026
+"Your life is forfeit"
+END
+SCRIPT:mgfotr_kod027
+"Even in death they obey me!"
+END
+SCRIPT:mgfotr_kod028
+"You will not find what you seek!"
+END
+SCRIPT:mgfotr_kod029
+"You will never leave this accursed place!"
+END
+SCRIPT:mgfotr_kod030
+"Your road leads to nowhere!"
+END
+
+
+
+////////////////King of the Dead//////////////////
+
+SCRIPT:mgfotr_kod018
+"Only a fool would seek an audience with the King of the Dead"
+END
+SCRIPT:mgfotr_kod019
+"So you have found that foolish prince! You shall share in his fate!"
+END
+SCRIPT:mgfotr_kod020
+"The men of the mountain know no fear... no weariness..."
+END
+SCRIPT:mgfotr_kod021
+"They will not stop until all of you lie dead...before my throne"
+END
+SCRIPT:mgfotr_kod022
+"It appears your path is blocked"
+END
+SCRIPT:mgrotk_kod009
+"None return from my mountain!"
+END
+SCRIPT:mgfotr_kod009
+"Now you must die!"
+End
+SCRIPT:mgfotr_kod010
+"That line was broken!"
+End
+SCRIPT:mgfotr_aragorn179
+"It has been remade!"
+END
+
+////////////////DEBUG//////////////////
+
+SCRIPT:DEBUG_KOD_HORDE_COUNTER
+"Ghost Hordes Alive:"
+End
+
+SCRIPT:DEBUG_WISP_DEATH
+"WISP KILLER ACTIVE"
+End
+
+SCRIPT:DEBUG_WISP_ALIVE
+"WISPS HORDES ALIVE"
+End
+
+

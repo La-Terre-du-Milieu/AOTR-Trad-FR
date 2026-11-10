@@ -1,5 +1,5 @@
-SCRIPT:WeathertopAragorn01
-"Rôdeur : Restez ici. Je vais faire un tour. Des Dunedains habitent souvent ces terres."
+SCRIPT:mgfotr_aragorn418
+"Les miens passent souvent par ces terres."
 END
 
 SCRIPT:WeathertopAragorn02
@@ -7,12 +7,21 @@ SCRIPT:WeathertopAragorn02
 END
 
 SCRIPT:WeathertopAragorn03
-"Rôdeur : Le brouillard se lève... Je dois enquêter et vite."
+"De la fumée s'élève... Je dois enquêter."
 END
 
 SCRIPT:WeathertopAragorn04
 "Rôdeur : Mes amis... quel sort maléfique vous est-il arrivé..."
 END
+
+SCRIPT:mgfotr_aragorn419
+"Vous paierez votre cruauté, créatures maléfiques !"
+END
+
+SCRIPT:mgtt_aragorn010
+"Arrière, créatures immondes !"
+END
+
 
 SCRIPT:WeathertopAragorn05
 "Rôdeur : Cette terre est souillée par un mauvais sort... Je dois retourner auprès des Hobbits !"
@@ -35,11 +44,11 @@ SCRIPT:WeathertopSam02
 END
 
 SCRIPT:WeathertopGlorfindel00
-"Glorfindel : Aragorn !"
+"Glorfindel : Aragorn ! L'Ennemi est proche. Vous ne pouvez pas le distancer. Mais le Gué de Bruinen n'est plus loin ! \n Frodon, laissez Asfaloth vous porter à toute vitesse jusqu'au gué. Les miens vous y attendent."
 END
 
 SCRIPT:WeathertopGlorfindel01
-"Glorfindel : L'ennemi est proche. Vous ne pouvez pas les distancer. Mais le Gué de Bruinen est proche ! \n Frodon, laissez vous chevauchez à grande vitesse sur Asfaloth jusqu'au croisement. Les Elfes vous y attendent."
+"Glorfindel : Aragorn ! L'Ennemi est proche. Vous ne pouvez pas le distancer. Mais le Gué de Bruinen n'est plus loin ! \n Frodon, laissez Asfaloth vous porter à toute vitesse jusqu'au gué. Les miens vous y attendent."
 END
 
 SCRIPT:WeathertopGlorfindel02
@@ -73,3 +82,54 @@ End
 SCRIPT:Hint_Fords_Porters Arrived
 "Un nouveau constructeur est arrivé."
 End
+
+SCRIPT:mgfotr_aragorn284
+"Glorfindel ! Nous devons les contenir pendant que les Hobbits s'échappent !"
+End
+
+SCRIPT:mgfotr_aragorn285
+"Nous ne pouvons pas les retenir ici ! Repliez-vous vers les Gués !"
+End
+
+SCRIPT:mgfotr_aragorn286
+"Arwen, prenez garde !"
+End
+
+SCRIPT:mgfotr_aragorn287
+"Glorfindel ! Attention !"
+End
+
+SCRIPT:mgfotr_aragorn288
+"Je ne peux pas vous protéger dans ces Gués, Hobbits ! Battez en retraite, à l'abri !"
+End
+
+SCRIPT:mgtt_aragorn047
+"Aragorn : Avancez, vite !"
+END
+SCRIPT:mgfotr_glorfindel005
+"Glorfindel : Nous devons atteindre les gués au plus vite !"
+END
+
+SCRIPT:mgfotr_glorfindel006
+"Venez, nous devons faire traverser la rivière aux Hobbits !"
+END
+
+SCRIPT:mgfotr_glorfindel007
+"Vous n'entrerez pas dans la Vallée Cachée, engeance de Sauron !"
+END
+
+SCRIPT:mgfotr_glorfindel008
+"Guerriers d'Imladris ! Nous devons vaincre ces créatures !"
+END
+
+SCRIPT:mgfotr_glorfindel009
+"Les forces du Mordor surgissent une dernière fois. Elles ne doivent pas franchir le Bruinen !"
+END
+
+SCRIPT:mgfotr_glorfindel010
+"Attention, Aragorn !"
+END
+
+SCRIPT:mgfotr_aragorn419
+"Vous paierez votre cruauté, créatures maléfiques !"
+END

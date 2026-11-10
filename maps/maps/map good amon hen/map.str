@@ -17,7 +17,7 @@ SCRIPT:Aragorn06
 END
 
 SCRIPT:Aragorn07
-"Aragorn : Vous avez fait une erreur, mais vous avez gardé votre honneur."
+"Aragorn : Vous avez fauté, Boromir. Mais par votre courage, vous avez gardé votre honneur."
 END 
 
 SCRIPT:Aragorn08.1
@@ -25,7 +25,7 @@ SCRIPT:Aragorn08.1
 END 
 
 SCRIPT:Aragorn08
-"Aragorn : Il n'y a rien à pardonner. Cette guerre est loin d'être terminée."
+"Aragorn : Seul un sot repousserait ce vaillant Capitaine du Gondor. Venez, Boromir."
 END 
 
 SCRIPT:Aragorn09
@@ -77,11 +77,11 @@ SCRIPT:Boromir02
 END
 
 SCRIPT:Boromir03
-"Boromir : J'ai essayé de prendre l'Anneau à Frodon... Et je n'ai pas pu protéger Merry et Pippin."
+"Boromir : J'ai essayé de prendre l'Anneau à Frodon... Je n'ai pas pu sauver Merry et Pippin. Je vous ai fait défaut."
 END
 
 SCRIPT:Boromir04
-"Boromir : Mon esprit est clair... Je vous suivrai, mon Roi, si vous me le permettez."
+"Boromir : Je sais maintenant quelle voie je dois suivre. Je vous suivrais, si vous me le permettiez."
 END
 
 SCRIPT:Boromir05
@@ -115,3 +115,7 @@ End
 SCRIPT:Vines
 "Frodon peut détruire les vignes pour ouvrir des routes alternatives et éviter les Uruk-hai."
 End
+
+SCRIPT:mgfotr_frodo114
+"Frodon : Je dois être prudent. Je ne peux pas me faire repérer par ces gros orques !"
+ End

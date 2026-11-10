@@ -13,7 +13,7 @@ SCRIPT:Hint_Fords_Builder01
 END
 
 SCRIPT:Hint_Fords_Builder02
-"We should establish our camp behind the forest on the Eastern Bank."
+"We should establish our camp on the Eastern Bank."
 END
 
 SCRIPT:Hint_Fords_Second Wave 
@@ -49,15 +49,15 @@ SCRIPT:Hint_Fords_Porters Arrived
 End
 
 SCRIPT: Dialogue_Fords_Lug 01
-"Lug: Look boys, it's the strawheads! Old Sharkey's been expecting you!"
+"Sharku: Look boys, it's the strawheads! Old Sharkey's been expecting you!"
 END
 
 SCRIPT: Dialogue_Fords_Lug 02
-"Lug: Ha ha! Rode right into my expertly crafted trap!"
+"Sharku: Ha ha! Rode right into my expertly crafted trap!"
 END
 
 SCRIPT: Dialogue_Fords_Lug 03
-"Lug: Fighting Uruk-hai be you!? Then slay this foolish princeling!"
+"Sharku: Fighting Uruk-hai be you!? Then slay this foolish princeling!"
 END
 
 SCRIPT: Dialogue_Fords_Halifirien Theodred 01
@@ -92,298 +92,318 @@ END
 /////////////////////////////////////////////////////////////////////////////////
 /////////////////////////////////////////////////////////////////////////////////
 
-DIALOGEVENT:mgfotr_mog001
-"Mog: Come to me! Come to Mog, you strawheads! Come!"
+SCRIPT:mgfotr_rohanguy022
+"The forces of the enemy do not relent!"
 END
 
-DIALOGEVENT:mgfotr_mog002
-"Uruks! Bring me his head!"
+SCRIPT:mgfotr_rohanguy023
+"Prince Theodred, we must retreat to higher ground!"
 END
 
-DIALOGEVENT:mgfotr_mog003
-"You will all die!"
+SCRIPT:mgfotr_theodred031
+"Retreat!"
 END
 
-DIALOGEVENT:mgfotr_mog004
-"Tonight we feast on man-flesh!"
+SCRIPT:mgfotr_rohanguy024
+"Royal Guard: Sire! They seek to trap us here!"
 END
 
-DIALOGEVENT:mgfotr_mog005
-"Agh! The White Hand cannot be stopped!"
+SCRIPT:mgfotr_theodred023
+"Theodred: He commands the enemy! We must put an end to him to break their will!"
 END
 
-DIALOGEVENT:mgfotr_mog006
-"To me, Uruks! To me, you scum!"
+SCRIPT:mgfotr_mog001
+"Mog: Strawheads!  Now you will see what Saruman has wrought!"
 END
 
-DIALOGEVENT:mgfotr_theodred001
-"Rohirrim! Ride now across the Isen!"
-END
-
-DIALOGEVENT:mgfotr_theodred002
-"We will send these vile orcs back to the pits of Isengard!"
-END
-
-DIALOGEVENT:mgfotr_theodred003
-"Grimbold, I am pleased to see you have held the enemy back."
-END
-
-DIALOGEVENT:mgfotr_theodred004
-"So it would seem. Let us destroy these foul creatures, ere they regroup in the trees."
-END
-
-DIALOGEVENT:mgfotr_theodred005
-"Their attacks have paused."
-END
-
-DIALOGEVENT:mgfotr_theodred006
-"I will take what riders remain, and go to the gates of Isengard."
-END
-
-DIALOGEVENT:mgfotr_theodred007
-"Saruman must answer for his warmongering!"
-END
-
-DIALOGEVENT:mgfotr_theodred008
-"The Road to Isengard is this way! Come!"
-END
-
-DIALOGEVENT:mgfotr_theodred009
-"There! I can see the Gates of Isengard ahead."
-END
-
-DIALOGEVENT:mgfotr_theodred010
-"Theodred: Do not waste my time, orc! Tell your master to come forward!"
-END
-
-DIALOGEVENT:mgfotr_theodred011
-"Theodred: Ambush! We're outnumbered! We must retreat to the Fords with all haste!"
-END
-
-DIALOGEVENT:mgfotr_theodred012
-"Look out!"
-END
-
-DIALOGEVENT:mgfotr_theodred013
-"Grimbold! We have been misled!"
-END
-
-DIALOGEVENT:mgfotr_theodred014
-"Saruman has amassed a great army of men and orcs. We cannot allow them to cross the Isen."
-END
-
-DIALOGEVENT:mgfotr_theodred015
-"Again the enemy drives forward. We must make our last stand here!"
-END
-
-DIALOGEVENT:mgfotr_theodred016
+SCRIPT:mgfotr_theodred016
 "Come, you orc scum. I will fell you where you stand!"
 END
 
-DIALOGEVENT:mgfotr_theodred017
+SCRIPT:mgfotr_mog002
+"Cut off his head!"
+END
+
+SCRIPT:mgfotr_mog003
+"You will die here!!"
+END
+
+SCRIPT:mgfotr_mog004
+"We will boil the flesh off your bones!"
+END
+
+SCRIPT:mgfotr_mog005
+"The White Hand will have you!"
+END
+
+SCRIPT:mgfotr_mog006
+"To me! Cut them down!"
+END
+
+SCRIPT:mgfotr_theodred001
+"Rohirrim! Ride now across the Isen!"
+END
+
+SCRIPT:mgfotr_theodred002
+"We will send these vile orcs back to the pits of Isengard!"
+END
+
+SCRIPT:mgfotr_theodred003
+"Grimbold, I am pleased to see you have held the enemy back."
+END
+
+SCRIPT:mgfotr_theodred004
+"So it seems. Let us destroy these foul creatures, ere they regroup in the trees."
+END
+
+SCRIPT:mgfotr_theodred005
+"Their attacks have paused."
+END
+
+SCRIPT:mgfotr_theodred006
+"I will take what riders remain, and go to the gates of Isengard."
+END
+
+SCRIPT:mgfotr_theodred007
+"Saruman must answer for his warmongering!"
+END
+
+SCRIPT:mgfotr_theodred008
+"The Road to Isengard is this way! Come!"
+END
+
+SCRIPT:mgfotr_theodred009
+"There! I can see the Gates of Isengard ahead."
+END
+
+SCRIPT:mgfotr_theodred010
+"Theodred: Do not waste my time, orc! Tell your master to come forward!"
+END
+
+SCRIPT:mgfotr_theodred011
+"Ambush! We're outnumbered! We must retreat to the Fords with all haste!"
+END
+
+SCRIPT:mgfotr_theodred012
+"Look out!"
+END
+
+SCRIPT:mgfotr_theodred013
+"Grimbold! We have been misled!"
+END
+
+SCRIPT:mgfotr_theodred014
+"Saruman has amassed a great army of men and orcs. We cannot allow them to cross the Isen."
+END
+
+SCRIPT:mgfotr_theodred015
+"Again the enemy drives forward. We must take our last stand here!"
+END
+
+SCRIPT:mgfotr_theodred017
 "Their forces do not wane!"
 END
 
-DIALOGEVENT:mgfotr_theodred018
+SCRIPT:mgfotr_theodred018
 "The voice of their master drives them..."
 END
 
-DIALOGEVENT:mgfotr_theodred019
+SCRIPT:mgfotr_theodred019
 "Keep them at bay!"
 END
 
-DIALOGEVENT:mgfotr_theodred020
-"Push them back, sons of Rohan!"
+SCRIPT:mgfotr_theodred020
+"Theodred: Push them back, sons of Rohan!"
 END
 
-DIALOGEVENT:mgfotr_theodred021
+SCRIPT:mgfotr_theodred021
 "Theodred: For the Mark!"
 END
 
-DIALOGEVENT:mgfotr_theodred022
+SCRIPT:mgfotr_theodred022
 "Theodred: Let me lie here... to hold the Ford... until Eomer comes..."
 END
 
-DIALOGEVENT:mgfotr_theodred023
-"Theodred: That big orc up there! He commands the enemy! We must put an end to him to break their will!"
-END
-
-DIALOGEVENT:mgfotr_theodred024
+SCRIPT:mgfotr_theodred024
 "Follow me, Men of Rohan!"
 END
 
-DIALOGEVENT:mgfotr_theodred025
+SCRIPT:mgfotr_theodred025
 "Archers! We are in need of your assistance. Rally to the Fords of Isen with all haste!"
 END
 
-DIALOGEVENT:mgfotr_theodred026
+SCRIPT:mgfotr_theodred026
 "These wretched lumber mills fuel the fires of Isengard! Let us put an end to them!"
 END
 
-DIALOGEVENT:mgfotr_theodred027
+SCRIPT:mgfotr_theodred027
 "Return to Wulfgar and tell him you have failed!"
 END
 
-DIALOGEVENT:mgfotr_theodred028
+SCRIPT:mgfotr_theodred028
 "Raze their camp to the ground!"
 END
 
-DIALOGEVENT:mgfotr_theodred029
+SCRIPT:mgfotr_theodred029
 "Pikes! We must find another way!"
 END
 
-DIALOGEVENT:mgfotr_theodred030
+SCRIPT:mgfotr_theodred030
 "The Wildmen camps have been destroyed. That should relieve our forces at the Fords."
 END
 
-DIALOGEVENT:mgfotr_grimbold001
+SCRIPT:mgfotr_grimbold001
 "Grimbold: The forces of Isengard have gathered at our doorstep."
 END
 
-DIALOGEVENT:mgfotr_grimbold002
+SCRIPT:mgfotr_grimbold002
 "Grimbold: Saruman has sent a host of men to take control of the fords of Isen and allow him to invade Rohan."
 END
 
-DIALOGEVENT:mgfotr_grimbold003
+SCRIPT:mgfotr_grimbold003
 "Grimbold: We must hold these Fords until Theodred returns with aid."
 END
 
-DIALOGEVENT:mgfotr_grimbold004
+SCRIPT:mgfotr_grimbold004
 "To battle, sons of Eorl!"
 END
 
-DIALOGEVENT:mgfotr_grimbold005
+SCRIPT:mgfotr_grimbold005
 "My lord Theodred! Your arrival is most timely."
 END
 
-DIALOGEVENT:mgfotr_grimbold006
+SCRIPT:mgfotr_grimbold006
 "Aye! Men, push forward!"
 END
 
-DIALOGEVENT:mgfotr_grimbold007
-"They shall feel the bite of our blades! Men, to battle!"
+SCRIPT:mgfotr_grimbold007
+"They shall feel the bite of our blades! Men, ready yourselves!"
 END
 
-DIALOGEVENT:mgfotr_grimbold008
+SCRIPT:mgfotr_grimbold008
 "Grimbold: Their attack seems to have slowed, we should call upon more troops to bolster our defences."
 END
 
-DIALOGEVENT:mgfotr_grimbold009
+SCRIPT:mgfotr_grimbold009
 "Grimbold: Theodred... No!"
 END
 
-DIALOGEVENT:mgfotr_grimbold010
-"Men... Avenge your prince!"
+SCRIPT:mgfotr_grimbold010
+"Grimbold: Men... Avenge your prince!"
 END
 
-DIALOGEVENT:mgfotr_grimbold011
+SCRIPT:mgfotr_grimbold011
 "Our allies have arrived, we may yet survive this day!"
 END
 
-DIALOGEVENT:mgfotr_grimbold012
+SCRIPT:mgfotr_grimbold012
 "Grimbold: I will not let him pass this way unchallenged..."
 END
 
-DIALOGEVENT:mgfotr_grimbold013
+SCRIPT:mgfotr_grimbold013
 "Grimbold: My lord Erkenbrand... let me maintain a small garrison here so that the enemy may be delayed."
 END
 
-DIALOGEVENT:mgfotr_grimbold014
+SCRIPT:mgfotr_grimbold014
 "Return to the pits that spawned you!"
 END
 
-DIALOGEVENT:mgfotr_grimbold015
+SCRIPT:mgfotr_grimbold015
 "Rohan shall never fall!"
 END
 
-DIALOGEVENT:mgfotr_grimbold016
+SCRIPT:mgfotr_grimbold016
 "Your master will never prevail!"
 END
 
-DIALOGEVENT:mgfotr_grimbold017
+SCRIPT:mgfotr_grimbold017
 "Wargs!"
 END
 
-DIALOGEVENT:mgfotr_grimbold018
+SCRIPT:mgfotr_grimbold018
 "We're being flanked!"
 END
 
-DIALOGEVENT:mgfotr_grimbold019
+SCRIPT:mgfotr_grimbold019
 "The forces of Isengard have reached the Western Bank! We must rout them!"
 END
 
-DIALOGEVENT:mgfotr_grimbold020
+SCRIPT:mgfotr_grimbold020
 "You and your kind will never take the Riddermark!"
 END
 
-DIALOGEVENT:mgfotr_grimbold021
+SCRIPT:mgfotr_grimbold021
 "These Fords will be your grave!"
 END
 
-DIALOGEVENT:mgfotr_grimbold022
+SCRIPT:mgfotr_grimbold022
 "Forward, Men of Rohan!"
 END
 
-DIALOGEVENT:mgfotr_grimbold023
+SCRIPT:mgfotr_grimbold023
 "They are an endless tide!"
 END
 
-DIALOGEVENT:mgfotr_grimbold024
+SCRIPT:mgfotr_grimbold024
 "Grimbold: There is a village to the north of here. We should send riders there to muster what men we can."
 END
 
-DIALOGEVENT:mgfotr_grimbold025
+SCRIPT:mgfotr_grimbold025
 "Grimbold: We should explore the forest to the North-east while we still can."
 END
 
-DIALOGEVENT:mgfotr_grimbold026
-"Grimbold: Saruman exploits these woods for fuel. We may yet have a chance to find and destroy his lumber camps."
+SCRIPT:mgfotr_grimbold026
+"Grimbold: Saruman exploits these woods for fuel and we may yet have a chance to find and destroy his lumber camps."
 END
 
-DIALOGEVENT:mgfotr_elfhelm001
-"Riders! Defend the Prince!"
+SCRIPT:mgfotr_elfhelm001
+"Riders! Defend the Prince! Charge!"
 END
 
-DIALOGEVENT:mgfotr_elfhelm002
+SCRIPT:mgfotr_elfhelm002
 "Stain the Isen with their blood!"
 END
 
-DIALOGEVENT:mgfotr_elfhelm003
+SCRIPT:mgfotr_elfhelm003
 "Elfhelm: Rest now... Theodred... son of Theoden."
 END
 
-DIALOGEVENT:mgfotr_elfhelm004
+SCRIPT:mgfotr_elfhelm004
 "Elfhelm: Soon you shall bask in the presence of your forebears."
 END
 
-DIALOGEVENT:mgfotr_elfhelm005
+SCRIPT:mgfotr_elfhelm005
 "Elfhelm: If Saruman wants to secure the Fords for himself we will not be able to stop him."
 END
 
-DIALOGEVENT:mgfotr_elfhelm006
+SCRIPT:mgfotr_elfhelm006
 "Elfhelm: We must retreat and bolster our forces elsewhere."
 END
 
-DIALOGEVENT:mgfotr_erkenbrand001
+SCRIPT:mgfotr_erkenbrand001
 "To battle, Men of the Westfold!"
 END
 
-DIALOGEVENT:mgfotr_erkenbrand002
+SCRIPT:mgfotr_erkenbrand002
 "The forces of Isengard scatter like rats!"
 END
 
-DIALOGEVENT:mgfotr_erkenbrand003
+SCRIPT:mgfotr_erkenbrand003
 "We are victorious this day!"
 END
 
-DIALOGEVENT:mgfotr_erkenbrand004
-"Erkenbrand: This is but a glimpse of the depths of Saruman's treachery."
+SCRIPT:mgfotr_erkenbrand004
+"Erkenbrand: This was but a glimpse of the depths of Saruman's treachery."
 END
 
-DIALOGEVENT:mgfotr_erkenbrand005
+SCRIPT:mgfotr_erkenbrand005
 "Erkenbrand: Wulfgar of Dunland has pledged his warriors to the wizard's cause, and everyday \n more orcs come down from the mountains and from the darkening east..."
 END
 
-DIALOGEVENT:mgfotr_rohanguy002
+SCRIPT:mgfotr_rohanguy002
 "Rohirrim: The orcs are too many, and more keep coming! If we do not rally soon we shall all be slain!"
+End
+
+SCRIPT:Counter_Buildings
+"Structures left to build: "
 End

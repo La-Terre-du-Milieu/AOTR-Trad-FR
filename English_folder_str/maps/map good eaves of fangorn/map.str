@@ -4,7 +4,7 @@
 ////////////////HINTS//////////////////
 
 SCRIPT:Hint_Eaves_Clue_Armour
-"The Uruks have abandoned their armour to maintain their speed. Their strength must be waning..."
+"They have abandoned their armour to maintain their speed. Their strength must be waning..."
 End
 
 SCRIPT:Hint_Eaves_Clue_Farm
@@ -12,7 +12,7 @@ SCRIPT:Hint_Eaves_Clue_Farm
 End
 
 SCRIPT:Hint_Eaves_Gorge_Path Blocked
-"The path through is blocked. We will need to find another route."
+"The path through is blocked. We will have to find another route."
 End
 
 SCRIPT:Hint_Eaves_Gorge_Wargs
@@ -66,7 +66,7 @@ End
 ////////////////DIALOGUE//////////////////
 
 SCRIPT:Dialogue_Eaves_Villages 01
-"Scout: My lord! The northern villages are under attack by raiders!"
+"Scout: Lord Eomer! The northern villages are under attack by raiders!"
 End
 
 SCRIPT:Dialogue_Eaves_Villages 02
@@ -90,7 +90,7 @@ SCRIPT:Dialogue_Eaves_Villages 06
 End
 
 SCRIPT:Dialogue_Eaves_Eomer Intro 01
-"Eomer: The king has been bewitched by Saruman! I have come to rally all those that are loyal to Rohan, ere this land is lost!"
+"Eomer: King Theoden has been bewitched by Saruman! We must rally all those that are loyal to Rohan, ere this land is lost!"
 End
 
 SCRIPT:Dialogue_Eaves_Eomer Intro 02
@@ -134,7 +134,7 @@ SCRIPT:Dialogue_Eaves_Eomer Camp 01
 End
 
 SCRIPT:Dialogue_Eaves_Eomer Camp 02
-"We'll join you in your fight against these creatures!"
+"We thought all was lost."
 End
 
 SCRIPT:Dialogue_Eaves_Eomer Camp 03
@@ -142,7 +142,13 @@ SCRIPT:Dialogue_Eaves_Eomer Camp 03
 End
 
 SCRIPT:Dialogue_Eaves_Eomer Camp 04
-"Brothers! We have work to do! We'll make camp here."
+"Men! We have work to do! We'll make camp here."
+End
+
+////////////////FANGORN//////////////////
+
+SCRIPT:Dialogue_mgfotr_merry032
+"We must be careful Pip! We can't let those big orcs spot us!"
 End
 
 ////////////////DEBUG//////////////////
@@ -158,3 +164,27 @@ End
 SCRIPT:Egg
 "You saw nothing."
 End
+
+SCRIPT:mgfotr_merry052
+"Now's our chance. Run, Pip!"
+END
+
+SCRIPT:mgfotr_pippin151
+"Let's throw a rock to distract them!"
+END
+
+SCRIPT:mgfotr_aragorn422
+"Legolas! Take it down!"
+END
+
+SCRIPT:mgfotr_boromir117
+"A shield of Rohan. This will serve me well."
+END
+
+SCRIPT:mgfotr_gimli128
+"Look at the size of that warg!"
+END
+
+SCRIPT:mgfotr_eomer042
+"Victory is ours. These villages are secure for now."
+END

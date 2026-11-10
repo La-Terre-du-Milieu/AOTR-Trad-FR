@@ -1,0 +1,813 @@
+// Clés du jeu de base absentes du lotr.str d'AotR (VF officielle de RotWK) : tools/base_vf.py
+
+LWA:ElvesArmy
+"Armée des Elfes"
+END
+
+Map:MAPMPEastRohan
+"Est du Rohan"
+END
+
+Map:MAPMPMirkwood
+"Forêt Noire"
+END
+
+Map:MAPMPMtDoom
+"Montagne du Destin"
+END
+
+Map:MAPMPMouthsofEntwash
+"Bouches de l'Entalluve"
+END
+
+Map:MAPMPBrownLands
+"Terres Brunes"
+END
+
+Map:MAPMPPelargir
+"Pelargir"
+END
+
+Map:MAPMPWold
+"Plateau"
+END
+
+Map:MAPMPSHelmsDeep
+"Gouffre de Helm"
+END
+
+Map:MAPMPSBlackGate
+"La Porte Noire"
+END
+
+Map:MAPMPSIsengard
+"Isengard"
+END
+
+Map:MAPMPSMinasTirith
+"Minas Tirith"
+END
+
+Map:MAPMPSOsgiliath
+"Osgiliath"
+END
+
+Map:MAPWORArnor
+"Arnor"
+END
+
+Map:MAPWORGondor
+"Belfalas"
+END
+
+Map:MAPWORHarad
+"Harad"
+END
+
+Map:MAPWORIthilien
+"Ithilien"
+END
+
+Map:MAPWORCelduin
+"Celduin"
+END
+
+Map:MAPWORLorien
+"Lórien"
+END
+
+Map:MAPWORMordor
+"Mordor"
+END
+
+Map:MAPWORRedhornPass
+"Col de Rubicorne"
+END
+
+Map:MAPWORRohan
+"Rohan"
+END
+
+Map:MAPWORShire
+"La Comté"
+END
+
+Map:MAPMPUmbar
+"Umbar"
+END
+
+Map:MAPMPArgonath
+"Argonath"
+END
+
+Map:MAPMPTournamentMP1
+"Tournoi enneigé"
+END
+
+Map:MAPMPTournamentUdun
+"Udun"
+END
+
+Map:MAPMPFordsofIsenii
+"Gués de l'Isen II"
+END
+
+Map:MAPMPWeatherHills
+"Collines Venteuses"
+END
+
+Map:MAPMPTournamentHills
+"Collines du Tournoi"
+END
+
+Map:MAPWORGondor
+"Belfalas"
+END
+
+Map:MAPWORANGAmonSul
+"Amon Sûl"
+END
+
+Map:MAPWORANGAngmar
+"Angmar"
+END
+
+Map:MAPWORANGBarrowDowns
+"Hauts des Galgals"
+END
+
+Map:MAPWORANGCarnDum
+"Carn Dûm"
+END
+
+Map:MAPWORANGFornost
+"Fornost"
+END
+
+Map:MAPWORANGGundabad
+"Mont Gundabad"
+END
+
+Map:MAPWORANGNorthDowns
+"Hauts du Nord"
+END
+
+Map:MAPWORANGRhudaur
+"Rhudaur"
+END
+
+Map:MAPWORCarrock
+"Carrock"
+END
+
+Map:MAPWORLostriand
+"Lostriand"
+END
+
+Map:MAPMPTheHeubris
+"Brèche est"
+END
+
+Map:MAPMPTournamentUdun/Desc
+"La terre appelée Udun se trouve derrière la Porte Noire. Les cendres volcaniques et les émanations toxiques qui la recouvrent sont à l'origine de son nom, comme référence aux enfers."
+END
+
+Map:MAPMPFordsofIsenII/Desc
+"L'Isen passe entre l'Isengard et le gouffre de Helm. Les nombreux voyageurs qui vont et viennent depuis la Trouée du Rohan traversent ce puissant fleuve à cet endroit peu profond.\n\n Taille : 550 x 313\n Repaires : 8 repaires de ouargues, 2 repaires de troll\n Structures neutres : 2 auberges, 2 feux d'alarme"
+END
+
+Map:MAPMPWeatherHills/Desc
+"Ces collines battues par le vent servaient auparavant de frontière entre les grands royaumes. Aujourd'hui, seules quelques ruines font office de gardiennes de la route de l'est."
+END
+
+Map:MAPMPTournamentHills/Desc
+"Un vieux champ de bataille dans l'Eriador où d'innombrables affrontements ont eu lieu tout au long des siècles."
+END
+
+Map:MAPMPTournamentMP1/Desc
+"Toundra glacée du grand nord pour un champ de bataille équilibré."
+END
+
+Map:MAPMPEastRohan/Desc
+"Terres verdoyantes à l'est du Rohan, coupées en deux par l'Entalluve.\nPoints de départ : châteaux\nPoints d'expansion : 2\nColonies : 6\nAntres : Ouargues"
+END
+
+Map:MAPMPMirkwood/Desc
+"Grande forêt à l'est des Monts Brumeux.\nPoints de départ : châteaux\nPoints d'expansion : 0\nColonies : 12\nAntres : Trolls, Gobelins et Ouargues"
+END
+
+Map:MAPMPMtDoom/Desc
+"Volcan dans lequ"
+END
+
+Map:MAPMPMouthsofEntwash/Desc
+"Région humide et marécageuse où l'Entalluve se jette dans l'Anduin.\nPoints de départ : châteaux\nPoints d'expansion : 6\nColonies : 11\nAntres : Ouargues"
+END
+
+Map:MAPMPPelargir/Desc
+"Ancienne cité portuaire du Gondor située non loin des bouches de l'Anduin.\nPoints de départ : châteaux\nPoints d'expansion : 6\nColonies : 12\nAntres : Gobelins et Ouargues"
+END
+
+Map:MAPMPWold/Desc
+"Région ancienne et désolée au nord de l'Amon Hen.\n\n Taille : 500 x 500\n Repaires : 8 repaires de ouargues\n Structures neutres : 4 avant-postes, 1 feu d'alarme"
+END
+
+Map:MAPMPSHelmsDeep/Desc
+"Scénario 2 contre 2 de la bataille du Gouffre de Helm.\nJoueurs humains uniquement.\nLes 2 joueurs du Rohan sont dans Fort le Cor.\nLes 2 joueurs de l'Isengard sont dans les terres alentour."
+END
+
+Map:MAPMPSMinasTirith/Desc
+"Scénario 2 contre 2 de la bataille de Minas Tirith.\nJoueurs humains uniquement.\nLes 2 joueurs du Gondor sont dans la Cité Blanche.\nLes 2 joueurs du Mordor sont sur les Champs du Pelennor."
+END
+
+Map:MAPMPSOsgiliath/Desc
+"Scénario 2 contre 2 de la bataille d'Osgiliath.\nJoueurs humains uniquement.\nLes 2 joueurs du Gondor sont à l'ouest de la cité\nLes 2 joueurs du Mordor sont à l'est de la cité."
+END
+
+Map:MAPMPSIsengard/Desc
+"Scénario 2 contre 2 de la bataille de l'Isengard.\nJoueurs humains uniquement.\nLes 2 joueurs de l'Isengard sont en Isengard.\nLes 2 joueurs du Rohan sont à l'extérieur du château."
+END
+
+Map:EP14PWiggs1-Dunland/Desc
+"Village fermier près de Hobbitebourg."
+END
+
+Map:HotSummerNightsDemo/Desc
+"Col de Rubicorne"
+END
+
+Map:MAPMPArgonath/Desc
+"Les deux statues gigantesques qui bordent l'Anduin ont été sculptées à l'effigie des Rois du Gondor Isildur et Anarion. Elles délimitent la frontière nord du Gondor.\n\n Taille : 315 x 370\n Repaires : 4 repaires de gobelins, 2 repaires d'araignées\n Structures neutres : 2 avant-postes, 2 auberges, 2 feux d'alarme, 4 tours"
+END
+
+Map:MAPMPUmbar/Desc
+"Ce grand cap est détenu par les Numénoréens noirs qui se sont longtemps battus contre les Hommes du Gondor.\n\n Taille : 310 x 317\n Repaires : 2 repaires d'araignées, 2 repaires de spectre\n Structures neutres : 1 auberge, 1 feu d'alarme, 4 chantiers navals"
+END
+
+Map:MAPWORArnor/Desc
+"C'était jadis le Grand Royaume humain du nord.\n\n Taille : 400 x 425\n Repaires : 2 repaires de troll\n Structures neutres : 1 feu d'alarme"
+END
+
+Map:MAPWORHarad/Desc
+"Cette terre désertique et stérile qui s'étend au sud du Mordor est le berceau des guerriers Haradrim.\n\n Taille : 400 x 400\n Repaires : 7 repaires de gobelins\n Structures neutres : 2 auberges, 1 feu d'alarme"
+END
+
+Map:MAPWORIthilien/Desc
+"Terres fertiles et boisées qui s'étendent entre les montagnes du Mordor et le Gondor.\n\n Taille : 300 x 350\n Repaires : 4 repaires de gobelins, 1 repaire de troll\n Structures neutres : 2 feux d'alarme"
+END
+
+Map:MAPWORCelduin/Desc
+"Villages construits le long de la Rivière Courante, qui prend sa source à Erebor et court vers le sud jusqu'à la Mer de Rhûn.\n\n Taille : 450 x 465\n Repaires, 4 repaires de troll, 4 repaires de spectre\n Structures neutres : 4 avant-postes, 6 auberges, 2 feux d'alarme, 4 chantiers navals, 2 tours"
+END
+
+Map:MAPWORLorien/Desc
+"Cette forêt, également connue sous le nom de Bois Doré de par la présence des Mallorns, est le foyer de Galadriel, de Celeborn et de leurs frères Elfes.\n\n Taille : 400 x 300\n Repaires : 3 repaires de gobelins\n Structures neutres : 2 avant-postes"
+END
+
+Map:MAPWORMordor/Desc
+"Ces terres inhospitalières sont le royaume de Sauron, le Seigneur des Ténèbres. Cette région abrite aussi la Montagne du Destin où l'Anneau Unique fut créé et finalement détruit.\n\n Taille : 500 x 500\n Repaires : 2 repaires de gobelins, 4 repaires de troll, 2 repaires de drake de feu\n Structures neutres : 4 chantiers navals"
+END
+
+Map:MAPWORRedhornPass/Desc
+"Rubicorne est un grand pic au centre des Monts Brumeux, que l'on nomme aussi Caradhras. La Communauté a tenté d'emprunter ce col difficile pendant la Guerre de l'Anneau.\n\n Taille : 455 x 375\n Repaires : 3 repaires de gobelins, 3 repaires de troll\n Structures neutres : 1 avant-poste, 1 auberge, 1 feu d'alarme"
+END
+
+Map:MAPWORRohan/Desc
+"Ce grand royaume de la Terre du Milieu est dirigé par le Roi Théoden. C'est le foyer des Rohirrim, les meilleurs cavaliers de la Terre du Milieu.\n\n Taille : 300 x 300\n Repaires : 4 repaires de ouargues, 2 repaires de troll\n Structures neutres : 2 avant-postes, 2 feux d'alarme, 2 tours"
+END
+
+Map:MAPWORShire/Desc
+"Cette contrée verdoyante et paisible est le foyer des Hobbits de la Terre du Milieu.\n\n Taille : 500 x 500\n Repaires : 8 repaires de ouargues\n Structures neutres : 4 avant-postes, 2 feux d'alarme, 1 auberge"
+END
+
+Map:MAPWORANGAmonSul/Desc
+"La forteresse de la colline venteuse d'Amon Sûl abritait un Palantir jusqu'à la destruction de la forteresse par l'armée du Roi-Sorcier. Plus tard connue sous le nom de Mont Venteux.\n\n Taille : 325 x 275\n Repaires :\n Structures neutres : 1 avant-poste, 1 feu d'alarme"
+END
+
+Map:MAPWORANGAngmar/Desc
+"La maison nordique et glacée des Numénoréens noirs, des Trolls et des loups.\n\n Taille : 350 x 350\n Repaires : 2 repaires de troll\n Structures neutres : 2 feux d'alarme"
+END
+
+Map:MAPWORANGBarrowDowns/Desc
+"L'ancien tombeau des rois d'Arnor.\n\n Taille : 400 x 350\n Repaires : 4 repaires de spectre\n Structures neutres : 1 auberge"
+END
+
+Map:MAPWORANGCarnDum/Desc
+"La cité-forteresse construite par le Roi-Sorcier d'Angmar.\n\n Taille : 400 x 500\n Repaires :\n Structures neutres : 2 auberges, 1 feu d'alarme, forteresse"
+END
+
+Map:MAPWORANGFornost/Desc
+"Capitale de l'Arthedain, royaume nordique d'Arnor. Après sa destruction, elle a été appelée Chaussée des Morts et seuls des Rôdeurs s'y rendaient.\n\n Taille : 300 x 450\n Repaires : Structures neutres : 2 auberges, 2 feux d'alarme, forteresse"
+END
+
+Map:MAPWORANGGundabad/Desc
+"Montagne située à l'extrémité nord des Monts Brumeux, c'est la terre natale des Orques.\n\n Taille : 500 x 500\n Repaires : 6 repaires de gobelins, 1 repaire d'araignées\n Structures neutres : 1 auberge, 1 feu d'alarme"
+END
+
+Map:MAPWORANGNorthDowns/Desc
+"Région vallonnée d'Arnor se trouvant au nord de Bree et d'Amon Sûl.\n\n Taille : 500 x 350\n Repaires : 1 repaire de troll\n Structures neutres : 1 avant-poste, 1 auberge"
+END
+
+Map:MAPWORANGRhudaur/Desc
+"Royaume montagneux oriental d'Arnor, foyer des tribus d'Hommes des collines.\n\n Taille : 500 x 450\n Repaires :\n Structures neutres : 1 avant-poste, 1 auberge"
+END
+
+Map:MAPMPBrownLands/Desc
+"Terres à l'est de l'Anduin, brûlées par Sauron à la fin du Deuxième Âge. Autrefois berceau luxuriant des Ent-femmes, cette terre est abandonnée depuis les batailles de la dernière alliance."
+END
+
+Map:MAPWORCarrock/Desc
+"Région sur les hautes rives de l'Anduin, Carrock tient son nom d'une rivière rocailleuse au nord du Vieux Gué.\n\n Taille : 361 x 421\n Repaires : 2 repaires de ouargues, 2 repaires de troll\n Structures neutres : 1 feu d'alarme"
+END
+
+Map:MAPWORLostriand/Desc
+"Des terres situées entre Amon Sûl et Fondcombe dominées par les Collines du Temps.\n\n Taille : 500 x 500\n Repaires : 2 repaires de spectre\n Structures neutres : 2 avant-postes, 2 feux d'alarme"
+END
+
+Map:MAPMPTheHeubris/Desc
+"Les indentations de la partie est de la Forêt Noire, provoquées par des générations d'arbres. Ces derniers sont moins nombreux dans cette région."
+END
+
+OBJECT:MordorSlaughterHouseDescription
+"Génère des ressources selon le terrain disponible \n Augmente la limite de points de commandement \nPermet aux orques alliés d'être sacrifiés pour ajouter de l'expérience au bâtiment"
+END
+
+Map:MAPEVILAmonHen
+"Amon Hen - Mal"
+END
+
+Map:MAPEVILEdoras
+"Edoras - Mal"
+END
+
+Map:MAPEVILFangorn
+"Fangorn - Mal"
+END
+
+Map:MAPEVILHelmsDeep
+"Gouffre de Helm - Mal"
+END
+
+Map:MAPEVILIsengard
+"Isengard - Mal"
+END
+
+Map:MAPEVILMinasTirith
+"Minas Tirith - Mal"
+END
+
+Map:MAPEVILNearHarad
+"Proche Harad - Mal"
+END
+
+Map:MAPEVILOsgiliath
+"Osgiliath - Mal"
+END
+
+Map:MAPEVILShelobsLair
+"Cirith Ungol - Mal"
+END
+
+Map:MAPEVILSouthernIthilien
+"Sud de l'Ithilien - Mal"
+END
+
+Map:MAPGOODAmonHen
+"Amon Hen - Bien"
+END
+
+Map:MAPGOODBlackGate
+"Porte Noire - Bien"
+END
+
+Map:MAPGOODFangorn
+"Avancées de Fangorn - Bien"
+END
+
+Map:MAPGOODLastAlliance
+"Didacticiel"
+END
+
+Map:MAPGOODLothlorien
+"Lothlórien - Bien"
+END
+
+Map:MAPGOODMinasTirith
+"Minas Tirith - Bien"
+END
+
+Map:MAPGOODMoria
+"Moria - Bien"
+END
+
+Map:MAPGOODShelobsLair
+"Cirith Ungol - Bien"
+END
+
+Map:MAPSPSEVILWestfold
+"Ouestfolde Mal"
+END
+
+Map:MAPSPSEVILAnfalas
+"Anfalas - Mal"
+END
+
+Map:MAPSPSEVILAnorien
+"Anorien - Mal"
+END
+
+Map:MAPSPSEVILBelfalas
+"Belfalas - Mal"
+END
+
+Map:MAPSPSEVILBrownLands
+"Terres Brunes - Mal"
+END
+
+Map:MAPSPSEVILCairAndros
+"Cair Andros - Mal"
+END
+
+Map:MAPSPSEVILCentralIthilien
+"Centre de l'Ithilien - Mal"
+END
+
+Map:MAPSPSEVILCrossroads
+"Carrefour - Mal"
+END
+
+Map:MAPSPSEVILDeadMarshes
+"Marais des Morts - Mal"
+END
+
+Map:MAPSPSEVILDruadanForest
+"Forêt de Druadan - Mal"
+END
+
+Map:MAPSPSEVILDunharrow
+"Dunharrow - Mal"
+END
+
+Map:MAPSPSEVILEastEmnet
+"Estemnet - Mal"
+END
+
+Map:MAPSPSEVILEastRohan
+"Est du Rohan - Mal"
+END
+
+Map:MAPSPSEVILEavesofFangorn
+"Avancées de Fangorn - Mal"
+END
+
+Map:MAPSPSEVILEmynArnen
+"Emyn Arnen - Mal"
+END
+
+Map:MAPSPSEVILEmynMuil
+"Emyn Muil - Mal"
+END
+
+Map:MAPSPSEVILEnedwaith
+"Enedwaith - Mal"
+END
+
+Map:MAPSPSEVILFordsofIsen
+"Gués de l'Isen - Mal"
+END
+
+Map:MAPSPSEVILGapofRohan
+"Trouée de Rohan - Mal"
+END
+
+Map:MAPSPSEVILHalifirien
+"Halifirien - Mal"
+END
+
+Map:MAPSPSEVILHarlond
+"Harlond - Mal"
+END
+
+Map:MAPSPSEVILLebennin
+"Lebennin - Mal"
+END
+
+Map:MAPSPSEVILMirkwood
+"Forêt Noire - Mal"
+END
+
+Map:MAPSPSEVILMouthsofEntwash
+"Bouches de l'Entalluve - Mal"
+END
+
+Map:MAPSPSEVILNorthernIthilien
+"Nord de l'Ithilien - Mal"
+END
+
+Map:MAPSPSEVILPelargir
+"Pelargir - Mal"
+END
+
+Map:MAPSPSEVILRohan
+"Rohan - Mal"
+END
+
+Map:MAPSPSEVILWestEmnet
+"Ouestemnet - Mal"
+END
+
+SCRIPT:MapSPSEvilWestEmnetHintText_01
+"Vous avez des Ouargues."
+END
+
+Map:MAPSPSGOODAnorien
+"Anorien - Bien"
+END
+
+Map:MAPSPSGOODCairAndros
+"Cair Andros - Bien"
+END
+
+Map:MAPSPSGOODCentralIthilien
+"Centre de l'Ithilien - Bien"
+END
+
+Map:MAPSPSGOODCrossroads
+"Carrefour - Bien"
+END
+
+Map:MAPSPSGOODDagorlad
+"Dagorlad - Bien"
+END
+
+Map:MAPSPSGOODDeadMarshes
+"Marais des Morts - Bien"
+END
+
+Map:MAPSPSGOODDruadanForest
+"Forêt de Druadan - Bien"
+END
+
+Map:MAPSPSGOODDunharrow
+"Dunharrow - Bien"
+END
+
+Map:MAPSPSGOODEastEmnet
+"Estemnet - Bien"
+END
+
+Map:MAPSPSGOODEastRohan
+"Est du Rohan - Bien"
+END
+
+Map:MAPSPSGOODEastfold
+"Estfolde - Bien"
+END
+
+Map:MAPSPSGOODEmynArnen
+"Emyn Arnen - Bien"
+END
+
+Map:MAPSPSGOODEmynMuil
+"Emyn Muil - Bien"
+END
+
+Map:MAPSPSGOODFangorn
+"Fangorn - Bien"
+END
+
+Map:MAPSPSGOODHalifirien
+"Halifirien - Bien"
+END
+
+Map:MAPSPSGOODHarondor
+"Harondor - Bien"
+END
+
+Map:MAPSPSGOODMirkwood
+"Forêt Noire - Bien"
+END
+
+Map:MAPSPSGOODMouthsofEntwash
+"Bouches de l'Entalluve - Bien"
+END
+
+Map:MAPSPSGOODNearHarad
+"Proche Harad - Bien"
+END
+
+Map:MAPSPSGOODNurn
+"Nurn - Bien"
+END
+
+Map:MAPSPSGOODRhun
+"Rhûn - Bien"
+END
+
+Map:MAPSPSGOODRohan
+"Rohan - Bien"
+END
+
+Map:MAPSPSGOODSouthernIthilien
+"Sud de l'Ithilien - Bien"
+END
+
+Map:MAPSPSGOODWestEmnet
+"Ouestemnet - Bien"
+END
+
+Map:MAPSPSGOODWestfold
+"Ouestfolde - Bien"
+END
+
+Map:MAPSPSGOODWold
+"Plateau - Bien"
+END
+
+Map:EP14PWiggs1-Dunland
+"Pays de Bouc"
+END
+
+TOOLTIP:LackLevel3HallOfWarrriors
+"Requiert Hall des Guerriers niveau 3"
+END
+
+CONTROLBAR:PurchaseShipUpgradePirateFlag
+"Augmente de manière significative les dégâts infligés par l'arme principale du vaisseau"
+END
+
+CONTROLBAR:LW_ToolTip_MordorMountainTroll
+"Type d'unité : Cavalerie\nFort contre les Epéistes et la Cavalerie"
+END
+
+CONTROLBAR:ToolTipDreadVisage
+"Réduit de manière significative l'armure et les dégâts des unités ennemies \nCapacité passive"
+END
+
+TOOLTIP:LackElvenBasicTraining
+"Recherchez l'amélioration porte-étendard dans la forge d'Eregion \nLorsqu'elle est équipée, les unités passent au niveau 2"
+END
+
+Map:MAPGOODRivendell
+"Bien 1 - Fondcombe"
+END
+
+Map:MAPGOODHighPass
+"Bien 2 - Haut Col"
+END
+
+Map:MAPGOODEttenmoors
+"Bien 3 - Landes d'Etten"
+END
+
+Map:MAPGOODBlueMountain
+"Bien 4 - Montagnes Bleues"
+END
+
+Map:MAPGOODGreyHavens
+"Bien 5 - Havres Gris"
+END
+
+Map:MAPGOODCelduin
+"Bien 6 - Celduin"
+END
+
+Map:MAPGOODErebor
+"Bien 7 - Erebor"
+END
+
+Map:MAPGOODDolGuldur
+"Bien 8 - Dol Guldur"
+END
+
+Map:MAPEVILLorien
+"Mal 1 - Lórien"
+END
+
+Map:MAPEVILGreyHavens
+"Mal 2 - Havres Gris"
+END
+
+Map:MAPEVILShire
+"Mal 3 - La Comté"
+END
+
+Map:MAPEVILFornost
+"Mal 4 - Fornost"
+END
+
+Map:MAPEVILMirkwood
+"Mal 5 - Forêt Noire"
+END
+
+Map:MAPEVILWitheredHeath
+"Mal 6 - Brande Desséchée"
+END
+
+Map:MAPEVILErebor
+"Mal 7 - Erebor"
+END
+
+Map:MAPEVILRivendell
+"Mal 8 - Fondcombe"
+END
+
+CONTROLBAR:ToolTipBuildArvedui
+"Recruter le dernier Roi d'Arnor"
+END
+
+CONTROLBAR:LW_Unit_AngmarSnowTrollHordePlural
+"Trolls des neiges"
+END
+
+CONTROLBAR:ToolTipBuildAngmarBarracks2Upgrade
+"Permet le recrutement de Numénoréens noirs et\n la recherche de porte-étendards \n Niveau 2 : vitesse de construction +10%"
+END
+
+Map:MAPMPAmonSulFortress
+"Forteresse d'Amon Sûl"
+END
+
+BANNERUI:ArnorRanger
+"Rôdeur Dúnedain"
+END
+
+BANNERUI:ArnorRangers
+"Rôdeurs Dúnedain"
+END
+
+LW:TerritoryNorthernWaste
+"Forodwaith"
+END
+
+SCRIPT:ANGBonusMissionIntroText_01
+"GLORFINDEL : Après un combat impitoyable, le Roi-Sorcier a fui devant nos forces pour se réfugier \ndans les zones stériles d'Angmar, d'où il a entamé sa quête de vengeance."
+END
+
+SCRIPT:ANGBonusMissionIntroText_02
+"GLORFINDEL : C'est ici que ses serviteurs et lui vont livrer leur \ndernière bataille."
+END
+
+SCRIPT:ANGBonusMissionIntroText_03
+"EARNUR : Ensemble, les hommes et les Elfes mettront un terme au règne \nmaléfique de la Couronne de fer !"
+END
+
+SCRIPT:ANGBonusMissionScene1Text_02
+"Le gentil chien grogne ! Son maître ne va pas vraiment être content."
+END
+
+SCRIPT:ANGBonusMissionScene2Text_02
+"Du calme, enfant perdu d'Arnor. Notre fer va apaiser ton âme tourmentée."
+END
+
+SCRIPT:ANGBonusMissionScene2Text_03
+"Il a longtemps souffert et il se retire désormais comme un vrai capitaine de Númenor. \nNous avons accompli beaucoup aujourd'hui."
+END
+
+SCRIPT:ANGBonusMissionScene3Text_02
+"Ta force est grande, Troll du Nord, mais tu ne pourras pas nous arrêter si près du repaire de ton maître."
+END
+
+SCRIPT:ANGBonusMissionScene3Text_03
+"C'était un adversaire vraiment redoutable. \nEspérons qu'il n'y en aura plus jamais d'autres comme lui."
+END
+
+SCRIPT:ANGBonusMissionScene4Text_01
+"Maintenant que ses serviteurs sont perdus et son royaume \nen ruines, le Roi-Sorcier daigne enfin se montrer."
+END
+
+SCRIPT:ANGBonusMissionScene4Text_02
+"ROI-SORCIER : Les légions de morts d'Arnor paient en silence ma vengeance \npour l'éternité. A présent, leur sort sera le vôtre."
+END
+
+SCRIPT:ANGBonusMissionScene4Text_03
+"Le Roi-Sorcier a enfin été vaincu ! La paix est revenue sur cette terre."
+END
+
+SCRIPT:ANGBonusMissionScene4Text_04
+"Le Roi-Sorcier quitte le champ de bataille ! Vite, détruisez ses serviteurs !"
+END
+
+SCRIPT:ANGBonusMissionScene4Text_05
+"Le Roi-Sorcier est de retour ! Nous devons le vaincre une fois pour toutes !"
+END
+
+Map:MAPMPAmonSulFortress/Desc
+"La forteresse de la colline venteuse d'Amon Sûl était la pierre angulaire de la défense d'Arnor contre Angmar.\n\n Taille : 325 x 275\n Repaires :\n Structures neutres : 1 avant-poste, 2 feux d'alarme"
+END
+
+Map:MAPMPTournamentRhudaur
+"Tournoi du Rhudaur"
+END
+
+Map:MAPMPTournamentGundabad
+"Tournoi de Gundabad"
+END
+
+Map:MAPMPTournamentRhudaur/Desc
+"Le terrain glissant du Rhudaur a toujours été un champ de bataille pour les Hommes des collines et leurs ennemis."
+END
+
+Map:MAPMPTournamentGundabad/Desc
+"Les passages enneigés du mont Gundabad ont été témoins de nombreuses batailles entre les tribus d'orques et leurs adversaires."
+END

@@ -1,0 +1,563 @@
+////////////////TIMERS//////////////////
+
+SCRIPT:CaptureTimer
+"Transfert des troupes dans :"
+END
+
+SCRIPT:SetupCompleteTimer
+"Départ vers la Porte Noire dans :"
+END
+
+SCRIPT:OverrunOuter
+"Le sommet sera submergé dans :"
+END
+
+SCRIPT:TESTTIMER
+"Utilisez ce minuteur pour tester"
+END
+
+////////////////HINTS//////////////////
+
+SCRIPT:MissionHint01_BlackGate
+"Placez les troupes sur les positions marquées.\nLes 25 bataillons doivent être engagés.\nVous pouvez choisir 8 héros pour tenir les pentes. Tous les autres héros défendront le sommet."
+END
+
+SCRIPT:MissionHint02_BlackGate
+"Approchez les héros pour leur parler."
+END
+
+SCRIPT:MissionHint03_BlackGate
+"Menez Aragorn au sommet une fois vos préparatifs terminés."
+End
+
+SCRIPT:MissionHint04_BlackGate
+"Aragorn ne peut pas quitter son poste de commandement au sommet de la colline. Utilisez ses pouvoirs pour soutenir vos troupes pendant la bataille."
+END
+
+SCRIPT:MissionHint05_BlackGate
+"Ramenez Aragorn au sommet de la colline."
+END
+
+////////////////COUNTERS//////////////////
+
+SCRIPT:SetupTransferredHeroes
+"Héros restants :"
+END
+
+SCRIPT:SetupTransferredHordes
+"Bataillons restants :"
+END
+
+////////////////CINE - INTRO//////////////////
+
+SCRIPT:mgfotr_aragorn335
+"Aragorn : Nous allons nous emparer de cette butte et la défendre."
+End
+
+SCRIPT:mgfotr_aragorn336
+"Aragorn : Avec un peu de chance, nous parviendrons à détourner assez longtemps le regard du Seigneur des Ténèbres."
+End
+
+SCRIPT:mgfotr_aragorn337
+"Venez, préparons-nous !"
+End
+
+////////////////SETUP//////////////////
+
+SCRIPT:mgfotr_aragorn139
+"Il y a toujours de l’espoir."
+END
+
+SCRIPT:mgfotr_aragorn249
+"Frodon est vivant. Je dois le croire."
+END
+
+SCRIPT:mgfotr_aragorn250A
+"En effet, mon ami. Le Seigneur des Ténèbres croit sa victoire inéluctable."
+END
+
+SCRIPT:mgfotr_aragorn250B
+"Cela tient à la nature des bas désirs de l’Homme. Il faut lui prouver qu’il a tort."
+END
+
+SCRIPT:mgfotr_aragorn251
+"Ne désespérez pas, Haldir de Lothlórien. Il y a toujours de l’espoir."
+END
+
+SCRIPT:mgfotr_pippin137
+"Bien joué !… attendez, sérieux ?!"
+END
+
+SCRIPT:mgfotr_pippin138
+"Nous devons être courageux pour nos amis !"
+END
+
+SCRIPT:mgfotr_merry033
+"Je me battrai à vos côtés, Aragorn !"
+END
+
+SCRIPT:mgfotr_merry034
+"Pour Frodon et Sam !"
+END
+
+SCRIPT:mgfotr_gimli109
+"Hmpf ! Voilà le bon choix ! Qu’est-ce qui vous a pris si longtemps ?"
+END
+
+SCRIPT:mgfotr_gimli110
+"Je suis avec toi, mon gars ! Mais abrège les discours, hein ?"
+END
+
+SCRIPT:mgfotr_legolas118
+"Je suis avec vous, Aragorn, je vous suivrai jusqu’au bout."
+END
+
+SCRIPT:mgfotr_legolas119
+"Mon arc et mes lames sont à vous, mon ami."
+END
+
+SCRIPT:mgfotr_gandalf292
+"Je suis avec vous, Aragorn."
+END
+
+SCRIPT:mgfotr_gandalf293
+"Nous avons placé nos espoirs en vous. Menez-nous, Aragorn."
+END
+
+SCRIPT:mgfotr_boromir103
+"Mon épée est à vous, Aragorn. Faisons front ensemble."
+END
+
+SCRIPT:mgfotr_boromir104
+"Je vous suivrai, mon frère, mon capitaine, mon Roi."
+END
+
+SCRIPT:mgfotr_boromir105A
+"Sauron a engagé une immense armée pour conquérir Minas Tirith."
+END
+
+SCRIPT:mgfotr_boromir105B
+"Il a peut-être cru que la Cité Blanche abritait l’Anneau Unique et que nous pourrions tenter de l’utiliser contre lui."
+END
+
+SCRIPT:mgfotr_boromir105C
+"Malgré toute sa ruse, Sauron a sous-estimé notre résistance à sa corruption."
+END
+
+SCRIPT:mgfotr_haldir008
+"Même sans son anneau, les hordes maléfiques de Sauron finiront par nous submerger tous."
+END
+
+SCRIPT:mgfotr_haldir009
+"Il n’y a pas d’espoir pour nous, hormis celui que nous plaçons en autrui."
+END
+
+SCRIPT:mgfotr_haldir036
+"Je me tiendrai à vos côtés, Elessar."
+END
+
+SCRIPT:mgfotr_haldir037
+"En vous repose l’espoir de tous les peuples libres, Aragorn."
+END
+
+SCRIPT:mgfotr_eomer038
+"Tirons nos épées ensemble !"
+END
+
+SCRIPT:mgfotr_eomer039
+"Vous avez notre confiance et nos cœurs. Pour Rohan."
+END
+
+SCRIPT:mgfotr_elfhelm007
+"Mon épée est à vous, ô Grand Roi."
+END
+
+SCRIPT:mgfotr_elfhelm008
+"Je suis avec vous. Pour Théoden ! Pour Éomer !"
+END
+
+SCRIPT:mgfotr_beregond013
+"Je suis honoré de me tenir à vos côtés, mon Roi."
+END
+
+SCRIPT:mgfotr_beregond014
+"Votre vaillance nous inspire tous, Aragorn. Montrons-leur la gloire du Gondor."
+END
+
+SCRIPT:mgfotr_golasgil001
+"Je ferai tout en mon pouvoir pour vous aider, Aragorn. Notre pays dépend de nous."
+END
+
+SCRIPT:mgfotr_golasgil002
+"Un sombre destin vous attend, Aragorn, mais vous ne l’affronterez pas seul."
+END
+
+SCRIPT:mgfotr_imrahil001
+"Dol Amroth est avec vous, mon Roi."
+END
+
+SCRIPT:mgfotr_imrahil002
+"Vous nous inspirez tous, Aragorn. Nous tiendrons bon."
+END
+
+SCRIPT:mgfotr_elladan072
+"Nos lames sont aiguisées, Elessar. Nous combattrons à vos côtés jusqu’à la fin."
+END
+
+SCRIPT:mgfotr_elladan073
+"Que les étoiles nous guident."
+END
+
+SCRIPT:mgfotr_elrohir073
+"Notre force est la vôtre, Elessar."
+END
+
+SCRIPT:mgfotr_elrohir074
+"Mettons fin à cette obscurité."
+END
+
+SCRIPT:mgfotr_halbarad028
+"Étrange fatalité que la nôtre. Nous voici, tous hommes de valeur, mais sans espoir face à leur nombre."
+END
+
+SCRIPT:mgfotr_halbarad029A
+"Nous avons remporté de nombreuses victoires, et pourtant tous nos efforts pourraient être vains."
+END
+
+SCRIPT:mgfotr_halbarad029B
+"Le Porteur de l’Anneau est-il encore en vie ? Est-ce important ?"
+END
+
+SCRIPT:mgfotr_halbarad036
+"Pour les Dúnedain, et pour vous, Aragorn. Nos épées sont vôtres."
+END
+
+SCRIPT:mgfotr_halbarad037
+"Le sang de Númenor coule bien en vous, Aragorn. Ensemble, nous sortirons victorieux."
+END
+
+SCRIPT:mgfotr_faramir094
+"Je me tiens à vos côtés, Aragorn. Cette obscurité ne durera pas."
+END
+
+SCRIPT:mgfotr_faramir095
+"La tempête a enfin éclaté. Qu’il en soit ainsi."
+END
+
+SCRIPT:mgfotr_Cine100A
+"Jamais je n’aurais cru mourir au coude à coude avec un elfe."
+END
+
+SCRIPT:mgfotr_Cine100B
+"Et au coude à coude avec un ami ?"
+END
+
+SCRIPT:mgfotr_Cine100C
+"Ouais… ça, je pourrais."
+END
+
+////////////////MOS - INTRO//////////////////
+
+SCRIPT:mgfotr_mouth012
+"Quelle chance croyez-vous avoir ? Le Seigneur des Ténèbres n’a pas encore commencé à déchaîner toute sa puissance."
+END
+
+SCRIPT:mgfotr_mouth013
+"Il n’y a aucune victoire possible pour vous. Vous allez tous mourir."
+END
+
+SCRIPT:mgfotr_mouth014
+"Mon Seigneur est miséricordieux, vous pouvez encore vous sauver."
+END
+
+SCRIPT:mgfotr_mouth015
+"Insensé ! Votre sort est scellé."
+END
+
+SCRIPT:mgfotr_mouth016
+"Nul ne se souviendra de votre nom."
+END
+
+SCRIPT:mgfotr_mouth017
+"Une épée brisée, et une ligne brisée."
+END
+
+SCRIPT:mgfotr_mouth018
+"Mon Maître me récompensera grandement pour cela !"
+END
+
+SCRIPT:mgfotr_mouth019
+"Votre semi-homme se battait mieux !"
+END
+
+SCRIPT:mgfotr_mouth020
+"Je suis un Émissaire ! Comment osez-vous m’attaquer !"
+END
+
+SCRIPT:mgfotr_mouth021
+"Gardes… occupez-vous de lui."
+END
+
+SCRIPT:mgfotr_mouth022
+"Mes gardes seront largement suffisants."
+END
+
+SCRIPT:mgfotr_mouth023
+"Pensez-vous avoir une chance contre mes gardes ?"
+END
+
+////////////////SAURON - INTRO//////////////////
+
+
+SCRIPT:mgfotr_Cine084
+"Sauron : Quel grand destin vous vous êtes imaginé. De toute évidence, vos ancêtres vous ont transmis leur vaine prétention."
+End
+
+SCRIPT:mgfotr_sauron058
+"Sauron : Roi d’un peuple condamné, incapable de sauver ceux qui vous sont chers. Soumettez-vous à moi, ou vous rejoindrez vos frères dans la mort."
+End
+
+SCRIPT:mgfotr_sauron059
+"Sauron : Roi d’un peuple condamné, voué à l’échec, comme vos ancêtres. Soumettez-vous à moi, ou vous les rejoindrez dans la mort."
+End
+
+SCRIPT:mgfotr_sauron060
+"Sauron : Lui aussi a voulu défier la puissance du Mordor. Vous partagerez son sort."
+End
+
+SCRIPT:mgfotr_sauron061
+"Sauron : Avec quelle facilité il a succombé au pouvoir de l’Anneau. Comment espérez-vous y résister ?"
+End
+
+SCRIPT:mgfotr_sauron062
+"Sauron : Il était puissant, certes, mais je l’ai terrassé quand même. Abandonnez, Elessar, et recevez ma clémence."
+End
+
+SCRIPT:mgfotr_sauron063
+"Sauron : Insensé. Résistez tant que vous le pouvez. À la fin, cela vous coûtera tout. Maintenant frappez, si vous l’osez !"
+End
+
+SCRIPT:mgfotr_sauron064
+"Sauron : La mort hante toute votre lignée. Tel est votre destin."
+End
+
+SCRIPT:mgfotr_sauron065
+"Sauron : Vous n’avez pas pu les protéger. Vous avez échoué."
+End
+
+SCRIPT:mgfotr_sauron066
+"Sauron : De la folie à peine déguisée en courage. Vous êtes exactement comme lui."
+End
+
+SCRIPT:mgfotr_sauron067
+"Sauron : Vous ne pouvez échapper à la faiblesse qui coule dans votre sang."
+End
+
+////////////////MOS - OUTRO//////////////////
+
+
+SCRIPT:mgfotr_mouth025
+"La Bouche de Sauron : Aucune puissance ne vous sauvera, à présent."
+End
+
+SCRIPT:mgfotr_mouth026
+"La Bouche de Sauron : Ainsi s’achève la lignée d’Isildur."
+End
+
+////////////////CINE - SPEECH//////////////////
+
+SCRIPT:mgfotr_aragorn200
+"Retirez-vous !"
+END
+
+SCRIPT:mgfotr_aragorn193
+"Tenez la ligne ! Tenez la ligne !"
+END
+
+SCRIPT:mgfotr_aragorn194
+"Fils du Gondor, du Rohan, mes frères…"
+END
+
+SCRIPT:mgfotr_aragorn195
+"Je vois dans vos yeux la même peur qui saisirait mon propre cœur."
+END
+
+SCRIPT:mgfotr_aragorn196
+"Un jour viendra où le courage des hommes faillira, où nous abandonnerons nos amis et romprons tous les liens de la communauté. Mais ce jour n’est pas celui-là !"
+END
+
+SCRIPT:mgfotr_aragorn197
+"Une heure de loups et de boucliers brisés, où l’âge des hommes s’effondrera. Mais ce jour n’est pas celui-là. Aujourd’hui, nous nous battons !"
+END
+
+SCRIPT:mgfotr_aragorn198
+"Par tout ce que vous chérissez sur cette bonne terre, je vous ordonne de tenir bon. Hommes de l’Ouest !"
+END
+
+////////////////CINE - INNER//////////////////
+
+SCRIPT:mgfotr_aragorn429
+"Aragorn : Repliez-vous ! Repliez-vous !"
+END
+
+SCRIPT:mgfotr_aragorn430
+"Aragorn : Tenez bon avec moi ! Ensemble, nous nous battrons jusqu’au bout !"
+END
+
+
+////////////////DIALOGUE//////////////////
+
+
+SCRIPT:mgfotr_aragorn199
+"Pour Frodon !"
+END
+
+SCRIPT:mgfotr_aragorn339
+"Nous ne devons pas faiblir !"
+END
+
+SCRIPT:mgfotr_aragorn340
+"Les voilà ! Tenez-vous prêts !"
+END
+
+SCRIPT:mgfotr_aragorn341
+"Gardez courage !"
+END
+
+SCRIPT:mgfotr_aragorn342
+"Tenez bon !"
+END
+
+SCRIPT:mgfotr_aragorn343
+"Le destin de la Terre du Milieu repose sur nous !"
+END
+
+SCRIPT:mgfotr_aragorn344
+"Tenez la ligne ! Laissez-les venir à nous !"
+END
+
+SCRIPT:mgfotr_aragorn345
+"Tenez la colline !"
+END
+
+SCRIPT:mgfotr_aragorn346
+"N’ayez pas peur !"
+END
+
+SCRIPT:mgfotr_aragorn347
+"Restez fermes, d’autres arrivent !"
+END
+
+SCRIPT:mgfotr_aragorn348
+"Des Orientaux !"
+END
+
+SCRIPT:mgfotr_aragorn349
+"Des hommes de l’Extrême-Orient !"
+END
+
+SCRIPT:mgfotr_aragorn350
+"Visez les Trolls !"
+END
+
+SCRIPT:mgfotr_aragorn351
+"Des tambours !"
+END
+
+SCRIPT:mgfotr_aragorn352
+"Un Nazgûl !"
+END
+
+SCRIPT:mgfotr_aragorn353
+"Combattez jusqu'au dernier !"
+END
+
+SCRIPT:mgfotr_aragorn354
+"Vous allez nous craindre !"
+END
+
+SCRIPT:mgfotr_aragorn355
+"Par Elendil !"
+END
+
+SCRIPT:mgfotr_aragorn356
+"L’Héritier d’Isildur est sur vous !"
+END
+
+SCRIPT:mgfotr_aragorn357
+"La mort vous attend !"
+END
+
+SCRIPT:mgfotr_aragorn358
+"Retournez ramper devant votre Maître !"
+END
+
+SCRIPT:mgfotr_aragorn359
+"L’Héritier d’Isildur est de retour !"
+END
+
+SCRIPT:mgfotr_aragorn360
+"Ne faiblissez pas ! Tenez ensemble !"
+END
+
+SCRIPT:mgfotr_aragorn361
+"Continuez le combat ! Pour le Gondor ! Pour le Rohan !"
+END
+
+SCRIPT:mgfotr_aragorn362
+"Pour Frodon !"
+END
+
+SCRIPT:mgfotr_aragorn363
+"Ce Mal ne durera pas !"
+END
+
+SCRIPT:AragornNazgul01Warning
+"Un Nazgûl approche par le nord-est !"
+END
+
+SCRIPT:AragornNazgul02Warning
+"Un Nazgûl approche par le nord-ouest !"
+END
+
+SCRIPT:AragornNazgul03Warning
+"Un Nazgûl approche par l’ouest !"
+END
+
+SCRIPT:AragornMollokWarning
+"Le chef des Trolls approche par le nord-est !"
+END
+
+SCRIPT:FrodoMTDOOM
+"Temps restant avant la destruction de l’Anneau :"
+END
+
+////////////////DEBUG//////////////////
+
+SCRIPT:Debug_FreePlay_On
+"Héros invincibles activés & conditions de défaite désactivées"
+End
+
+SCRIPT:Debug_FreePlay_Off
+"Héros invincibles désactivés & conditions de défaite activées"
+End
+
+SCRIPT:Debug_Disable_Standers
+"Orques statiques désactivés"
+End
+
+SCRIPT:Debug_Disable_Wave_Count
+"Vague :"
+End
+
+SCRIPT:Debug_Disable_Wave_Alive
+"Hordes ennemies en vie :"
+End
+
+SCRIPT:Debug_Heroes_Locked
+"HÉROS VERROUILLÉS"
+End
+
+SCRIPT:Debug_Heroes_Unlocked
+"HÉROS DÉVERROUILLÉS"
+End

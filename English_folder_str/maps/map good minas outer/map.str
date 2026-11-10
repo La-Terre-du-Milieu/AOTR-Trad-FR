@@ -1,0 +1,574 @@
+/////////////////////////////////
+////////////DIALOGUE/////////////
+/////////////////////////////////
+
+
+////////////INTRO///////////////
+
+SCRIPT:mgfotr_gondorsoldier031
+"Soldier: Look! The forces of the Outlands are arriving!"
+END
+
+SCRIPT:mgfotr_gandalf303
+"Gandalf: Black clouds gather over the Mountains of Shadow. It will not be long ere the darkness of Mordor reaches the White City."
+END
+
+SCRIPT:mgfotr_gandalf304
+"Gandalf: But Minas Tirith does not stand alone. In its hour of need,\nthe brave Lords of Gondor's fiefdoms have marshalled what Men they could."
+END
+
+SCRIPT:mgfotr_gandalf305
+"Gandalf: But will it be enough?"
+END
+
+SCRIPT:mgfotr_gandalf306
+"Gandalf: Before these walls, upon the fields of the Pelennor, is where the doom of our time shall be decided."
+END
+
+SCRIPT:mgfotr_gandalf328
+"The Lords of Gondor's outlands have rallied to our defence. Follow me, Peregrin Took. Let us welcome these fine Captains of Men."
+END
+
+SCRIPT:mgfotr_gandalf307
+"Brave Lord Forlong! Your doughty axemen will be of great use to the City."
+END
+
+SCRIPT:mgfotr_gandalf308
+"Dervorin, the heir of the Ringlo Vale. I knew your father in his younger years. I am glad to see his strength is carried on in his scion."
+END
+
+SCRIPT:mgfotr_gandalf309
+"Duinhir of Morthond. Your archers are grim-faced and battle-hardened. Gondor thanks you for your swift arrival. These are your sons, I presume?"
+END
+
+SCRIPT:mgfotr_gandalf310
+"You have grown into a fine knight, Lord Hirluin. I have heard tell of the gallantry and skill at arms of your warriors."
+END
+
+SCRIPT:mgfotr_gandalf311
+"Long have you defended your realm against the Enemy, Lord Golasgil. I am glad that despite your hardships you have found Men to march to our defence."
+END
+
+SCRIPT:mgfotr_gandalf312
+"Hail Imrahil, son of Adrahil, Prince of Dol Amroth. There are few Men left in Gondor to match your wisdom. Your leadership will prove invaluable in the dark days ahead."
+END
+
+SCRIPT:mgfotr_forlong001
+"I did not look to find you here, Mithrandir, but I am glad of it!"
+END
+
+SCRIPT:mgfotr_dervorin001
+"The Ringlo Vale is devoted to Gondor's defence. We will not let our Steward down."
+END
+
+SCRIPT:mgfotr_duinhir001
+"Aye, Mithrandir. Duilin and Derufin are eager to prove their worth against our Enemy."
+END
+
+SCRIPT:mgfotr_hirluin001
+"Mithrandir! I was but a boy when last I saw you in my father's hall. Worry not, my Men shall throw the Enemy back over their black gates!"
+END
+
+SCRIPT:mgfotr_imrahil009
+"It gladdens my heart to meet you here, Mithrandir. Perhaps the fate of Gondor is not as grim as I perceived. Together, we will do all we can to avert its ruin."
+END
+
+SCRIPT:mgfotr_golasgil003
+"The lords of Anfalas remember their oaths well. I have brought what brave Men could be found."
+END
+
+
+SCRIPT:mgfotr_gandalf329
+"Move onto the walls and ready yourselves! We must prepare to defend the City."
+END
+
+SCRIPT:mgfotr_gandalf330
+"We will need more men to defend the walls. We must summon everyone able!"
+END
+
+SCRIPT:mgfotr_gandalf331
+"Send these archers to the gate. The Enemy will send forth terrible siege machines. We must do all we can to repel them."
+END
+
+SCRIPT:mgfotr_gandalf332
+"The board is set, the pieces are moving. Minas Tirith is the anvil upon which we smite the armies of Sauron. With luck, we will hold them until help arrives."
+END
+
+SCRIPT:Hint_Setup_Army
+"Prepare the city, move all forces onto the walls."
+End
+
+SCRIPT:Hint_Setup_Ready
+"Move Gandalf to the courtyard once you have finished your preparations."
+End
+
+SCRIPT:Hint_Setup_Ready_Timer
+"The Morgul host arrives in:"
+End
+
+////////////RAMMAS///////////////
+
+SCRIPT:mgfotr_faramir078
+"Faramir: I fear the Rammas will not hold long."
+END
+
+SCRIPT:mgfotr_boromir040
+"Boromir: Take heart, little brother. We will hold it as long we can.\nEvery orc killed here will lessen the assault upon the White City."
+END
+
+SCRIPT: mgfotr_faramir091
+"Faramir: I'm glad you're home, brother. Gondor has missed your leadership."
+END
+
+SCRIPT:mgtt_boromir-249a
+"Boromir: Men of Minas Tirith! You are called upon, not only by your Steward, but by your people!"
+END
+
+SCRIPT:mgtt_boromir-249b
+"The Enemy would leave your city a smouldering ruin, but for our valiant defence!\nDraw your swords, and beat them back across the River!"
+END
+
+SCRIPT:mgtt_boromir-162
+"Boromir: Let us go down to battle together"
+END
+
+SCRIPT:mgfotr_faramir092
+"Faramir: Stand strong, Men of Minas Tirith! We must hold the Rammas as long it can be held.\nFight, for your city! For your people!"
+END
+
+SCRIPT:mgfotr_faramir093
+"Faramir: Stand your ground! Slay all that you can! Fight on!"
+END
+
+SCRIPT:MGOsgil_Faramir025
+"Faramir: Sauron will soon strike Minas Tirith. We must help to protect it!"
+END
+
+SCRIPT:MGOsgil_Faramir023
+"Faramir: Now is the time to show our quality."
+END
+
+SCRIPT:Hint_Rammas_Gate_Attacked
+"The Rammas gate is under attack."
+End
+
+SCRIPT:Hint_Rammas_Gate_Damaged
+"The Rammas gate is almost destroyed."
+End
+
+SCRIPT:Hint_Rammas_Retreat
+"The Rammas is lost, fall back."
+End
+
+////////////CINE BOROMIR///////////////
+
+SCRIPT:mgfotr_faramir090
+"Faramir: The Rammas is breached! The Shadow is almost upon us."
+END
+
+SCRIPT:mgfotr_boromir108
+"Boromir: We cannot allow the White City to fall."
+END
+
+SCRIPT:mgfotr_gandalf320
+"Gandalf: Take heart! Our hopes now lie in the strength of Men.\nSauron underestimates you. This he will come to regret!"
+END
+
+SCRIPT:mgfotr_gandalf321
+"Gandalf: Man the battlements! Prepare for battle!"
+END
+
+SCRIPT:mgfotr_gandalf419
+""
+END
+
+SCRIPT:mgfotr_gandalf419HINT
+"Fountain Guards have joined your forces to defend Minas Tirith"
+END
+
+////////////OUTER///////////////
+
+SCRIPT:mgfotr_gandalf430
+"Take command of the trebuchets! Their flaming shot will burn their ranks before they reach our walls!"
+END
+
+SCRIPT:mgfotr_gandalf333
+"Harken to me! We must destroy those siege ladders!"
+END
+
+SCRIPT:mgfotr_gandalf334
+"Our aim must be true if we are to repel these towers!"
+END
+
+SCRIPT:mgfotr_gandalf335
+"They are destroying our trebuchets! Stop them!"
+END
+
+SCRIPT:mgfotr_gandalf336
+"We must rebuild our trebuchets!"
+END
+
+SCRIPT:mgfotr_gandalf337
+"Lord Forlong is surrounded!"
+END
+
+SCRIPT:mgfotr_gandalf338
+"Lord Hirluin needs our assistance!"
+END
+
+SCRIPT:mgfotr_gandalf339
+"They will overwhelm Lord Golasgil! Rally to his aid!"
+END
+
+SCRIPT:mgfotr_gandalf340
+"Send aid to Lord Duinhir!"
+END
+
+SCRIPT:mgfotr_gandalf341
+"We must protect Lord Devorin!"
+END
+
+SCRIPT:mgfotr_gandalf342
+"Faramir, do not throw away your life so rashly!"
+END
+
+SCRIPT:mgfotr_gandalf343
+"Boromir! Go, aid your Captain!"
+END
+
+SCRIPT:mgfotr_gandalf344
+"Peregrin Took! This is no place for a hobbit! Fall back to safety."
+END
+
+SCRIPT:mgfotr_gandalf345
+"Irolas! I am coming!"
+END
+
+SCRIPT:mgfotr_gandalf346
+"Beregond is being overwhelmed!"
+END
+
+SCRIPT:mgfotr_gandalf347
+"Our walls are overrun! We must push them back!"
+END
+
+SCRIPT:mgfotr_gandalf348
+"Our defences weaken! Fight or they will overrun us!"
+END
+
+SCRIPT:mgfotr_gandalf349
+"Trolls! Archers, to the gate!"
+END
+
+SCRIPT:mgfotr_gandalf350
+"Battering rams approach! Defend the gate!"
+END
+
+SCRIPT:mgfotr_gandalf351
+"Fell Olog-hai! Faramir rally your archers to the gate!"
+END
+
+SCRIPT:mgfotr_gandalf352
+"Fell Olog-hai! Beregond rally your archers to the gate!"
+END
+
+SCRIPT:mgfotr_gandalf353
+"Nazgul! Steel yourselves, archers! Bring them down!"
+END
+
+SCRIPT:mgfotr_gandalf354
+"Cast out your fear! Aim for their Fell beasts!"
+END
+
+SCRIPT:mgfotr_gandalf355
+"Drive them from the walls!"
+END
+
+SCRIPT:mgfotr_gandalf356
+"Stand firm! The strength of men must not wither!"
+END
+
+SCRIPT:mgfotr_gandalf357
+"Your valor will turn the tide—fight on!"
+END
+
+SCRIPT:mgfotr_gandalf358
+"Here we must break Sauron's armies!"
+END
+
+SCRIPT:mgfotr_gandalf359
+"Take heart men!"
+END
+
+SCRIPT:mgfotr_gandalf360
+"With me men of Gondor! We must rally to the gate!"
+END
+
+SCRIPT:mgfotr_gandalf375
+"These orcs are stronger than the others! Their blades are imbued with a fell incantation! Stand fast!"
+END
+
+SCRIPT:mgfotr_gandalf376
+"Elite orcs approach! Stop them here!"
+END
+
+SCRIPT:mgfotr_gandalf407
+"Variags from Khand! They must be repelled!"
+END
+
+SCRIPT:mgfotr_gandalf408
+"The Variags are charging! Stop them at the wall!"
+END
+
+SCRIPT:mgfotr_gandalf409
+"Easterlings! Show them no mercy!"
+END
+
+SCRIPT:mgfotr_gandalf410
+"Wicked Men from the East! Cast them out!"
+END
+
+SCRIPT:mgfotr_gandalf411
+"Those Uruks are dangerous! Destroy them, ere we are overrun!"
+END
+
+SCRIPT:mgfotr_gandalf412
+"The Uruks approach the wall! Rout them!"
+END
+
+SCRIPT:Hint_Outer_Capture_Trebuchets
+"Keep heroes near to trebuchets to take command of them."
+End
+
+SCRIPT:Hint_Outer_Capture_Trebuchets_Flaming
+"Use Flaming Shot to command the Trebuchets to launch a flaming barrage."
+End
+
+SCRIPT:Hint_Outer_Gate_Approach_Trolls
+"Trolls are approaching the main gate."
+End
+
+SCRIPT:Hint_Outer_Gate_Approach_Rams
+"Battering Rams are approaching the main gate."
+End
+
+SCRIPT:Hint_Outer_Gate_Approach_Ologs
+"Olog-hai are approaching the main gate."
+End
+
+SCRIPT:Hint_Outer_Gate_Attacked
+"The main gate is under attack."
+End
+
+SCRIPT:Hint_Outer_Gate_Damaged
+"The main gate is almost destroyed."
+End
+
+SCRIPT:Hint_Outer_Grond
+"Grond cannot be stopped."
+End
+
+SCRIPT:Hint_Outer_Heal
+"Gandalf's Ring of Fire passively heals nearby Heroes who are out of combat."
+End
+
+////////////GATE///////////////
+
+
+SCRIPT:mgfotr_gandalf361
+"Destroy the Trolls, ere they break our line!"
+END
+
+SCRIPT:mgfotr_gandalf362
+"Wicked Men from the East! This will be their end!"
+END
+
+SCRIPT:mgfotr_gandalf363
+"Steady! We will hold them here, until the women and children are safe!"
+END
+
+SCRIPT:mgfotr_gandalf364
+"Warg riders! Ready yourselves!"
+END
+
+SCRIPT:mgfotr_gandalf413
+"A furnace-troll! It will set the city aflame! It must be destroyed!"
+END
+
+SCRIPT:mgfotr_gandalf414
+"Go back, fell creature!"
+END
+
+SCRIPT:mgfotr_gandalf415
+"Bring it down!"
+END
+
+SCRIPT:mgfotr_gandalf416
+"Beregond, we need your bow!"
+END
+
+SCRIPT:mgfotr_gandalf417
+"Faramir, we need your bow!"
+END
+
+SCRIPT:mgfotr_gandalf418
+"Spears, forward!"
+END
+
+SCRIPT:mgfotr_gandalf365
+"We have done all we can here! This fight is done! Retreat to the second level!"
+END
+
+////////////RETREAT///////////////
+
+SCRIPT:mgfotr_gandalf366
+"We cannot tarry! We must reach the second level with all haste!"
+END
+
+SCRIPT:mgfotr_gandalf373
+"We must save them, before they're cut down!"
+END
+
+SCRIPT:mgfotr_gandalf374
+"Your courage will not be forgotten, friend. May the Valar protect you."
+END
+
+SCRIPT:mgfotr_gondorsoldier032
+"Mithrandir! Over here! We're hard-pressed!"
+END
+
+SCRIPT:mgfotr_gondorsoldier033
+"You have our thanks, Mithrandir. We must make haste to the upper levels before it is too late."
+END
+
+SCRIPT:mgfotr_masteratarms018
+"Go on. I will stay behind, to save all those that I can."
+End
+
+////////////INNER///////////////
+
+SCRIPT:mgfotr_gandalf367
+"Sauron underestimates the valour of Gondor. We will make them fight for every stone! Hold! Hold! Or soon our dead will lie upon each of the Seven Levels of Minas Tirith. We must fight! For Gondor!"
+END
+
+SCRIPT:mgfotr_gandalf368
+"The gate has fallen! Draw your swords, we must stop them here!"
+END
+
+SCRIPT:mgfotr_gandalf369
+"Kill that troll before he destroys the inner gate!"
+END
+
+SCRIPT:mgfotr_gandalf370
+"Stop that ram! Before it reaches the inner gate!"
+END
+
+SCRIPT:mgfotr_gandalf371
+"The inner gate is damaged! Send for timbers!"
+END
+
+SCRIPT:mgfotr_gandalf372
+"The gate has fallen! We can no longer hold them here. Fall back men!"
+END
+
+SCRIPT:Hint_Inner_Gate_Timer
+"Hold the gate for:"
+End
+
+SCRIPT:Hint_Inner_Abandon
+"PLACEHOLDER - THE GATE WILL FALL, FALL BACK AND READY INFANTRY."
+End
+
+SCRIPT:Hint_Inner_Retreat_Setup_Timer
+"Hold the upper level for:"
+End
+
+SCRIPT:Hint_Inner_Retreat_Timer
+"Army will retreat to the third level in:"
+End
+
+/////////////////////////////////
+////////////TIMERS///////////////
+/////////////////////////////////
+
+SCRIPT:Timer_Rammas_WallOverrun
+"Rammas Echor will be overrun in:"
+End
+
+SCRIPT:Timer_Minas_WallOverrun_L
+"The left wall will be overrun in:"
+End
+
+SCRIPT:Timer_Minas_WallOverrun_R
+"The right wall will be overrun in:"
+End
+
+SCRIPT:Timer_Minas_Arrival
+"Mordor's forces will arrive in:"
+End
+
+/////////////////////////////////
+
+SCRIPT:Debug_FreePlay_On
+"Invincible Heroes On & Lose Conditions Disabled"
+End
+
+SCRIPT:Debug_FreePlay_Off
+"Invincible Heroes Off & Lose Conditions Enabled"
+End
+
+SCRIPT:Debug_Skip_Outer
+"Skip to Outer Wall Defence in:"
+End
+
+SCRIPT:Debug_Skip_Gate
+"Skip to Main Gate Defence in:"
+End
+
+SCRIPT:Debug_Skip_Inner
+"Skip to Inner Defence in:"
+End
+
+SCRIPT:Debug_Disable_Standers
+"Orc Standers Disabled"
+End
+
+SCRIPT:Debug_Disable_Civilians
+"Civilians Disabled"
+End
+
+SCRIPT:Debug_Disable_Catapults
+"Catapults Disabled"
+End
+
+SCRIPT:Debug_Boromir_On
+"Boromir Enabled"
+End
+
+SCRIPT:Debug_Boromir_Off
+"Boromir Disabled"
+End
+
+SCRIPT:Debug_Waves_Complete
+"Waves Complete"
+End
+
+SCRIPT:Debug_Orcs_Alive_Creeps
+"Orcs Alive CREEPS"
+End
+
+SCRIPT:Debug_Orcs_Alive_Hunt
+"Orcs Alive HUNT"
+End
+
+SCRIPT:Debug_Orcs_Alive_Total
+"Orcs Alive TOTAL"
+End
+
+SCRIPT:Debug_Timer_Grond
+"Debug - Grond Start:"
+End
+
+SCRIPT:Debug_Timer_Towers
+"Debug - Towers Start:"
+End

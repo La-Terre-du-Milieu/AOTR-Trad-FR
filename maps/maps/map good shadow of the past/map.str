@@ -27,6 +27,18 @@ SCRIPT:BreeTomBom01
 "Sortez, vieux bonhomme ! Disparais au soleil ! Se ratatinent comme la brume froide, comme les vents se lamentent. Ne reviens plus jamais ici ! Laissez votre brouette vide !"
 END
 
+SCRIPT:mgfotr_bombadil001
+"Dehors, vieux Fantôme ! Évanouis-toi au soleil ! Flétris-toi comme la brume froide, comme les vents qui gémissent, Va-t'en dans les terres arides, bien au-delà des montagnes !"
+END
+
+SCRIPT:mgfotr_bombadil002
+"Ne revenez jamais ici ! Laissez votre tertre vide !"
+END
+
+SCRIPT:mgfotr_bombadil003
+"Perdus et oubliés, plus noirs que les ténèbres, là où les portes restent à jamais closes, jusqu'à ce que le monde soit réparé."
+END
+
 SCRIPT:Strider01
 "Rôdeur : Je suis un ami de Gandalf, restez près de moi, je vous protègerais."
 END
@@ -36,7 +48,7 @@ SCRIPT:BreeWarningEast
 END
 
 SCRIPT:BreeWarningWest
-"Les Nazguls ont franchi les portes Est et Ouest."
+"Les Nazgûl sont entrés dans l'ouest de Bree."
 END
 
 SCRIPT:BreeWarningSouth
@@ -78,3 +90,211 @@ End
 SCRIPT:BreeTimer
 "Les Nazguls attaqueront de nouveau dans :"
 End
+
+SCRIPT:MGAmonH_Frodo062
+"Frodon : Nous sommes des hobbits de la Comté. Je m'appelle Frodon Sacquet, et voici mes compagnons."
+End
+
+SCRIPT:MGAmonH_Frodo014
+"Frodon : Merci, mon ami."
+END
+
+SCRIPT:mgfotr_gildor001
+"Gildor : Une étoile brille sur notre rencontre, mes amis. Je connais votre fardeau, Frodon Sacquet.\nPermettez-nous de faire notre part pour l'alléger."
+END
+
+SCRIPT:mgfotr_gildor002
+"Gildor : Rassemblez les armes, et ne craignez pas ce mal !"
+END
+
+SCRIPT:mgfotr_gildor003
+"Sortons et mettons fin à cette menace une fois pour toutes !"
+END
+
+SCRIPT:mgfotr_gildor004
+"Gildor : Nous avons prévenu toutes les oreilles amies que nous avons pu atteindre.\nVous devez vous rendre à Bree. Quelqu'un vous y attend."
+END
+
+SCRIPT:mgfotr_gildor005
+"Gildor : Adieu, Frodon Sacquet. Puissions-nous nous revoir."
+END
+
+SCRIPT:mgfotr_gildor006
+"Il ne reste que deux tertres ! Vite !"
+END
+
+SCRIPT:mgfotr_gildor007
+"Retournez dans l'Ombre, viles créatures !"
+END
+
+SCRIPT:mgfotr_gildor008
+"Les Nazgûl commandent ces tertres, nous devons les mettre en déroute !"
+END
+
+SCRIPT:mgfotr_gildor009
+"Les Nazgûl ont fui, détruisons le dernier tertre !"
+END
+
+SCRIPT:mgfotr_gildor010
+"Protégez les Semi-hommes !"
+END
+
+SCRIPT:mgfotr_gildor011
+"Vous périrez, vous et toute votre engeance !"
+END
+
+SCRIPT:mgfotr_gildor012
+"Bombadil ! Aidez-nous à purifier ces collines de la sorcellerie du Seigneur d'Angmar !"
+END
+
+SCRIPT:mgfotr_gildorelf001
+"Elfe : Seigneur Gildor ! Les morts reviennent à la vie et marchent vers notre direction !"
+END
+
+SCRIPT:mgfotr_aragorn276
+"Grands-Pas : Le Nazgûl a fui, mais d'autres viendront ! Nous devons nous rassembler à l'Auberge du Poney Fringant et nous préparer !"
+END
+
+SCRIPT:mgfotr_aragorn277
+"Grands-Pas : Il nous faudra davantage d'hommes pour résister à leur assaut. Cherchez dans les fermes et les auberges."
+END
+
+SCRIPT:mgfotr_aragorn277B
+"Grands-Pas : Nous devons rassembler tout ce que nous pouvons !"
+END
+
+SCRIPT:mgfotr_aragorn317
+"De viles créatures attaquent Bree ! Venez, nous devons les repousser !"
+END
+
+SCRIPT:mgfotr_merry038
+"Il faudra nous cacher si nous voyons des Cavaliers noirs. Inutile de fuir ces chevaux !"
+END
+
+SCRIPT:mgfotr_merry039
+"À couvert !"
+END
+
+SCRIPT:mgfotr_merry040
+"A terre !"
+END
+
+SCRIPT:mgfotr_merry041
+"Attention !"
+END
+
+SCRIPT:mgfotr_merry042
+"C'était moins une !"
+END
+
+SCRIPT:mgfotr_merry043
+"Il faut continuer d'avancer."
+END
+
+SCRIPT:mgfotr_merry044
+"Il est parti. Viens, Pip."
+END
+
+SCRIPT:mgfotr_merry045
+"Ces spectres en ont après Frodon !"
+END
+
+SCRIPT:mgfotr_merry046
+"Venez. Le bac est juste là !"
+END
+
+SCRIPT:mgfotr_merry047
+"Nous devons rester ensemble !"
+END
+
+SCRIPT:mgfotr_pippin144
+"Regardez !"
+END
+
+SCRIPT:mgfotr_pippin145
+"Il vient pour nous !"
+END
+
+SCRIPT:mgfotr_pippin146
+"Il faut se cacher !"
+END
+
+SCRIPT:mgfotr_pippin147
+"Attention ! Ils sont derrière nous !"
+END
+
+SCRIPT:mgfotr_sam175
+"Cavalier noir !"
+END
+
+SCRIPT:mgfotr_sam176
+"Il nous a vus !"
+END
+
+SCRIPT:mgfotr_sam177
+"Cachez-vous, monsieur Frodon !"
+END
+
+SCRIPT:mgfotr_sam178
+"Il est parti. Qu'est-ce qu'on fait, maintenant ?"
+END
+
+SCRIPT:mgfotr_sam179
+"Il a décampé !"
+END
+
+SCRIPT:mgfotr_sam180
+"C'est quoi, ces horribles choses ?"
+END
+
+SCRIPT:mgfotr_sam181
+"J'entends de la musique ?"
+END
+
+SCRIPT:mgfotr_sam182
+"Cet endroit... c'est pas naturel... rien de tout ça !"
+END
+
+SCRIPT:mgfotr_frodo141
+"Cache-toi !"
+END
+
+SCRIPT:mgfotr_frodo142
+"Oh non ! Il nous a trouvés !"
+END
+
+SCRIPT:mgfotr_frodo143
+"Cavalier noir !"
+END
+
+SCRIPT:mgfotr_frodo144
+"Il est passé. Nous devons continuer d'avancer."
+END
+
+SCRIPT:mgfotr_frodo145
+"Nous sommes en sécurité pour le moment. Venez."
+END
+
+SCRIPT:mgfotr_frodo146
+"Nous devons être plus prudents !"
+END
+
+SCRIPT:mgfotr_frodo147
+"Restez groupés !"
+END
+
+SCRIPT:mgfotr_frodo148
+"Gildor ! À l'aide !"
+END
+
+SCRIPT:mgfotr_frodo149
+"Frodon : Merci, Gildor Inglorion."
+END
+
+SCRIPT:mgfotr_frodo150
+"Venez. Nous devons quitter la route au plus vite !"
+END
+
+SCRIPT:mgfotr_frodo151
+"Ils arrivent de tous les côtés !"
+END

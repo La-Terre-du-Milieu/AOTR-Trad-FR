@@ -28,7 +28,7 @@ SCRIPT:Throne 04
 END
 
 SCRIPT:Throne 05
-"Quel est le décompte actuel ?"
+"Oh, je vois. Alors, quel est le décompte actuel ?"
 END
 
 SCRIPT:Throne 06
@@ -84,7 +84,7 @@ SCRIPT:Map 02
 END
 
 SCRIPT:Axe 01
-"Par ma barbe ! C'est la hache de Balin."
+"Par ma barbe ! C'est la hache de Durin."
 END
 
 SCRIPT:Axe 02
@@ -92,7 +92,7 @@ SCRIPT:Axe 02
 END
 
 SCRIPT:Axe Hint
-"Gimli a récupéré la hache de Balin. Il infligera désormais des dégâts accrus"
+"Gimli a récupéré la hache de Durin. Il infligera désormais des dégâts accrus"
 END
 
 SCRIPT:Muzgash Dead
@@ -116,7 +116,7 @@ SCRIPT:Reclaim04
 END
 
 SCRIPT:Reclaim05
-"On ne peut gagner ici. Nous devons nous retirer dans la deuxième salle et rassembler nos forces."
+"Balin : On ne peut gagner ici. Nous devons nous retirer dans la deuxième salle et rassembler nos forces."
 END
 
 SCRIPT:Reclaim06
@@ -141,7 +141,7 @@ SCRIPT:Reclaim08
 END
 
 SCRIPT:Reclaim09
-"Balin : Nous devons atteindre le Second Hall, en toute hâte !"
+"Nous devons atteindre la deuxième salle, en toute hâte !"
 END
 
 SCRIPT:Reclaim10
@@ -165,7 +165,7 @@ SCRIPT:Reclaim13
 END
 
 SCRIPT:Reclaim14
-"Ils ont franchi l'entrée est !"
+"Attention ! Ils ont franchi l'entrée orientale !"
 END
 
 SCRIPT:Reclaim16
@@ -173,7 +173,7 @@ SCRIPT:Reclaim16
 END
 
 SCRIPT:Reclaim17
-"Lord Balin se retire le long de la route est. On va les retenir !"
+"Seigneur Balin, retirez-vous le long de la route est. On va les retenir !"
 END
 
 SCRIPT:Reclaim18
@@ -187,3 +187,143 @@ END
 SCRIPT:Reclaim20
 "Seigneur Balin, aidez-nous à dégager ce passage."
 END
+
+SCRIPT:mgfotr_gimli078
+"Ce ne sont pas des trous. Jadis, Khazad-dûm était plein de lumière et de splendeur, comme nos chants s'en souviennent encore."
+END
+
+SCRIPT:mgfotr_gimli085
+"Le monde était jeune, les montagnes vertes, Nulle tache encore sur la Lune n'était vue, Nul mot n'était posé sur ruisseau ni pierre, Quand Durin s'éveilla et marcha seul."
+END
+
+SCRIPT:mgfotr_gimli086
+"Il nomma les collines et les vallons sans nom ; Il but à des sources encore inviolées ; Il se pencha et regarda dans le Lac du Miroir, Et vit apparaître une couronne d'étoiles, Telles des gemmes sur un fil d'argent, Au-dessus de l'ombre de sa tête."
+END
+
+SCRIPT:mgfotr_gimli087
+"Le monde était beau, les montagnes hautes, Aux Jours Anciens, avant la chute, Des rois puissants de Nargothrond Et de Gondolin, qui maintenant au-delà Des Mers de l'Ouest se sont évanouis : Le monde était beau au temps de Durin."
+END
+
+SCRIPT:mgfotr_gimli088
+"Il était roi sur un trône sculpté, Dans des salles de pierre aux nombreux piliers, Au toit d'or et au sol d'argent, Et des runes de pouvoir sur la porte."
+END
+
+SCRIPT:mgfotr_gimli089
+"La lumière du soleil, des étoiles et de la lune, Dans des lampes de cristal taillé, Que ne ternissait nuage ni ombre de nuit, Y brillait à jamais, belle et éclatante."
+END
+
+SCRIPT:mgfotr_gimli090
+"Là le marteau frappait l'enclume, Là le ciseau fendait, et le burin écrivait ; Là était forgée la lame, et liée la garde ; Le mineur creusait, le maçon bâtissait."
+END
+
+SCRIPT:mgfotr_gimli091
+"Là le béryl, la perle et l'opale pâle, Et le métal ouvré comme des mailles de poisson, Bouclier et cuirasse, hache et épée, Et lances brillantes s'entassaient en trésor."
+END
+
+SCRIPT:mgfotr_gimli092
+"Infatigable alors était le peuple de Durin ; Sous les montagnes la musique s'éveillait : Les harpistes jouaient, les ménestrels chantaient, Et aux portes les trompettes sonnaient."
+END
+
+SCRIPT:mgfotr_gimli093
+"Le monde est gris, les montagnes vieilles, Le feu de la forge est cendre froide ; Nulle harpe ne résonne, nul marteau ne tombe : L'obscurité habite les salles de Durin."
+END
+
+SCRIPT:mgfotr_gimli094
+"L'ombre repose sur son tombeau À Moria, à Khazad-dûm."
+END
+
+SCRIPT:mgfotr_gimli095
+"Mais toujours les étoiles englouties apparaissent Dans le Lac du Miroir sombre et sans vent ; Là gît sa couronne dans l'eau profonde, Jusqu'à ce que Durin s'éveille de son sommeil."
+END
+
+SCRIPT:StoryofDurinHint
+"Retournez dans la salle pour entendre la suite du Chant de Durin."
+END
+
+SCRIPT:mgfotr_sam111
+"Il a dû y avoir ici une foule de Nains, jadis. Ils ne vivaient tout de même pas dans ces trous sinistres ?"
+END
+
+SCRIPT:mgfotr_balin006
+"Avec moi, Nains !"
+END
+
+SCRIPT:mgfotr_balin007
+"Nous devons nous frayer un chemin à travers ces orques !"
+END
+
+SCRIPT:mgfotr_balin008
+"Allez, les gars, il faut continuer d'avancer !"
+END
+
+SCRIPT:mgfotr_balin009
+"Le chemin est libre, allons-y !"
+END
+
+SCRIPT:mgfotr_balin010
+"Que Durin soit avec vous !"
+END
+
+SCRIPT:mgfotr_balin011
+"Ces vils orques paieront d'avoir profané nos salles !"
+END
+
+SCRIPT:mgfotr_balin012
+"Ralliez-vous, Nains !"
+END
+
+SCRIPT:mgfotr_balin013
+"Les revoilà !"
+END
+
+SCRIPT:mgfotr_balin014
+"Archers, visez ces Trolls !"
+END
+
+SCRIPT:mgfotr_balin015
+"Tenez bon, Nains !"
+END
+
+SCRIPT:mgfotr_balin016
+"Baruk-Khazad !"
+END
+
+SCRIPT:mgfotr_balin017
+"Khazad ai-menu !"
+END
+
+SCRIPT:mgfotr_balin018
+"Igribi d'dum !"
+END
+
+SCRIPT:mgfotr_merry037
+"Heureusement que le tombeau n'a pas été écrasé par ce rocher énorme quand il est tombé."
+END
+
+SCRIPT:mgfotr_gimli119
+"C'est un tombeau."
+END
+
+SCRIPT:mgfotr_gimli120
+"Par ma barbe ! Cet endroit... intact de toute souillure orque... se pourrait-il ? Est-ce le Repos de Durin ?"
+END
+
+SCRIPT:mgfotr_gimli121
+"Cette hache... ce doit être celle de Durin. Par Mahal, je l'emporterai d'ici et la garderai en sûreté, afin qu'un jour elle soit rendue à son légitime porteur."
+END
+
+SCRIPT:mgfotr_gimli122
+"De la chance ? Non. Je parie la moitié de ma barbe que ce sont les gens de Balin qui ont scellé toutes les entrées du Repos de Durin."
+END
+
+SCRIPT:mgfotr_gandalf319
+"Il semble bien, mon cher Nain. Un lieu sacré, de grande importance."
+END
+
+SCRIPT:mgfotr_gandalf245
+"On dit que son tranchant ne s'émousse jamais. Gardez-la à portée de main, Gimli. Nous en aurons peut-être besoin avant d'atteindre le Lac du Miroir."
+END
+
+SCRIPT:mgfotr_gimli123
+"Vous pouvez encore beaucoup apprendre des maîtres de savoir de Khazad-dûm."
+End

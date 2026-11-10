@@ -1,5 +1,5 @@
-SCRIPT:WeathertopAragorn01
-"Stay here. I'm going to have a look around. My kinsmen often dwell in these lands."
+SCRIPT:mgfotr_aragorn418 
+"My kinsmen often pass through these lands."
 END
 
 SCRIPT:WeathertopAragorn02
@@ -7,12 +7,21 @@ SCRIPT:WeathertopAragorn02
 END
 
 SCRIPT:WeathertopAragorn03
-"Strider: Smoke rising... I must investigate."
+"Smoke rising... I must investigate."
 END
 
 SCRIPT:WeathertopAragorn04
 "Strider: My friends... what evil fate has befallen you..."
 END
+
+SCRIPT:mgfotr_aragorn419
+"You will pay for your cruelty, fell creatures!"
+END
+
+SCRIPT:mgtt_aragorn010
+"Back vile creatures!"
+END
+
 
 SCRIPT:WeathertopAragorn05
 "This land lies under a dark spell... I must return to the hill!"
@@ -35,11 +44,11 @@ SCRIPT:WeathertopSam02
 END
 
 SCRIPT:WeathertopGlorfindel00
-"Glorfindel: Aragorn!"
+"Glorfindel: Aragorn! The Enemy is near. You cannot outrun them. But the Ford of Bruinen is close! \n Frodo, let Asfaloth bear you at speed to the crossing. My kin awaits you there."
 END
 
 SCRIPT:WeathertopGlorfindel01
-"The Enemy is near. You cannot outrun them. But the Ford of Bruinen is close! \n Frodo, let Asfaloth bear you at speed to the crossing. My kin awaits you there."
+"Glorfindel: Aragorn! The Enemy is near. You cannot outrun them. But the Ford of Bruinen is close! \n Frodo, let Asfaloth bear you at speed to the crossing. My kin awaits you there."
 END
 
 SCRIPT:WeathertopGlorfindel02
@@ -73,3 +82,54 @@ End
 SCRIPT:Hint_Fords_Porters Arrived
 "A new builder has arrived."
 End
+
+SCRIPT:mgfotr_aragorn284
+"Glorfindel! We must hold them in check while the Hobbits escape!"
+End
+
+SCRIPT:mgfotr_aragorn285
+"We cannot hold them here! Fall back to the Fords!"
+End
+
+SCRIPT:mgfotr_aragorn286
+"Arwen, be careful!"
+End
+
+SCRIPT:mgfotr_aragorn287
+"Glorfindel! Watch out!"
+End
+
+SCRIPT:mgfotr_aragorn288
+"I cannot protect you in these Fords, Hobbits! Retreat to safety!"
+End
+
+SCRIPT:mgtt_aragorn047
+"Aragorn: Move, quickly!"
+END
+SCRIPT:mgfotr_glorfindel005
+"Glorfindel: We must reach reach the fords with all haste!"
+END
+
+SCRIPT:mgfotr_glorfindel006
+"Come, we must get the Hobbits across the River!"
+END
+
+SCRIPT:mgfotr_glorfindel007
+"You will not enter the Hidden Valley, spawn of Sauron!"
+END
+
+SCRIPT:mgfotr_glorfindel008
+"Warriors of Imladris! We must defeat these creatures!"
+END
+
+SCRIPT:mgfotr_glorfindel009
+"The forces of Mordor come forth one last time. They must not cross the Bruinen!"
+END
+
+SCRIPT:mgfotr_glorfindel010
+"Look out Aragorn!"
+END
+
+SCRIPT:mgfotr_aragorn419
+"You will pay for your cruelty, fell creatures!"
+END

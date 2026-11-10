@@ -30,12 +30,16 @@ END
 
 ////////////////RIVENDELL//////////////////
 
-SCRIPT: Dialogue_GC_Rivendell_Idrial001
-"IDRIAL : Seigneur Elrond, j'apporte des nouvelles de la part de la dame Galadriel."
+SCRIPT:mgfotr_idrial021
+"Seigneur Elrond, j'apporte des nouvelles de la part de la dame Galadriel."
 END
 
-SCRIPT: Dialogue_GC_Rivendell_Idrial002
-"IDRIAL : Elessar a traversé le pays du Rohan. La grande guerre a commencé. \n Il aura besoin de toute l'aide possible. Rassemblez ses forces et envoyez-les sous son étendard !"
+SCRIPT:mgfotr_idrial022
+"IDRIAL : Elessar est entré sur la terre du Rohan. La grande guerre a commencé."
+END
+
+SCRIPT:mgfotr_idrial023
+"IDRIAL : Il aura besoin de toute l'aide qui pourra être rassemblée. Réunissez les siens et envoyez-les sous son étendard !"
 END
 
 SCRIPT: Dialogue_GC_Rivendell_Elrond001
@@ -68,11 +72,6 @@ SCRIPT:Timer_GC_Annuminas_Decal Ettenmoors
 "Voyagez jusqu'aux Landes d'Etten avant :"
 END
 
-///////////////BARROWS/////////////////
-
-SCRIPT:Hint_GC_Barrows Watstone
-"La seconde clé en pierre doit être cachée ailleurs dans la Tumulus. Nous devrions nous assurer de fouiller chaque chambre."
-END
 
 ///////////////SHIRE/////////////////
 
@@ -123,15 +122,15 @@ END
 /////////////////////////////////////////////////////////////////////////////////
 
 DIALOGEVENT:mgfotr_TrollA001
-"Les Dunedains. Vous voulez vous rendre à l'intérieur des Trouées aux Trolls ?" 
+"Petit minus. Toi vouloir dedans-aller les Boscailles-aux-Trollés ?"
 END
 
 DIALOGEVENT:mgfotr_TrollA002
-"Oh. Pardon." 
+"Boscailles aux Trolls – Trolls."
 END
 
 DIALOGEVENT:mgfotr_TrollB001
-"Ce ne sont pas des antres de Trolls ! Mais bien des Trouées de Trolls !" 
+"Pas Boscailles-aux-Trollés, Boscailles aux Trolls !"
 END
 
 DIALOGEVENT:mgfotr_TrollB002
@@ -187,7 +186,7 @@ DIALOGEVENT:mgfotr_elegost012
 END
 
 DIALOGEVENT:mgfotr_elegost013
-"ELEGOST : Allons discuter. Je peux sentir l'alcool d'ici. Ils ne sont pas une menace comme ils le sont."
+"ELEGOST : Allons discuter. Je sens l'alcool d'ici. Dans cet état, ils ne représentent aucune menace."
 END
 
 DIALOGEVENT:mgfotr_elegost014
@@ -319,7 +318,7 @@ DIALOGEVENT:mgfotr_elladan025
 END
 
 DIALOGEVENT:mgfotr_elladan026
-"ELLADAN : Nous devrons utiliser les deux leviers en même temps pour ouvrir la porte principale."
+"ELLADAN : Nous devrons utiliser les deux leviers pour ouvrir la porte principale."
 END
 
 DIALOGEVENT:mgfotr_elladan027
@@ -399,7 +398,7 @@ DIALOGEVENT:mgfotr_elrohir009
 END
 
 DIALOGEVENT:mgfotr_elrohir010
-"ELROHIR : Une autre clé de voûte, mais elle ne bougera pas. Peut-être y en a-t-il un autre ?" 
+"ELROHIR : Peut-être y en a-t-il un autre ?"
 END
 
 DIALOGEVENT:mgfotr_elrohir011
@@ -535,7 +534,7 @@ DIALOGEVENT:mgfotr_amdir005
 END
 
 DIALOGEVENT:mgfotr_amdir006a
-"AMDIR : Je suis content d'être sorti de là. Et plus heureux encore de retrouver les autres vivants. Ils sont affaiblis, mais la malédiction semble se lever." 
+"AMDIR : Je suis heureux d'être sorti de là. Et plus heureux encore de retrouver les autres vivants. Ils sont affaiblis, mais la malédiction semble se lever."
 END
 
 DIALOGEVENT:mgfotr_amdir006b
@@ -543,7 +542,7 @@ DIALOGEVENT:mgfotr_amdir006b
 END
 
 DIALOGEVENT:mgfotr_amdir007
-"AMDIR : Alors ne tardons plus. Nous allons rassembler nos fournitures au camp et revenir immédiatement." 
+"AMDIR : Alors ne tardons plus. Nous allons rassembler nos provisions au camp et revenir sur-le-champ."
 END
 
 DIALOGEVENT:mgfotr_amdir008
@@ -571,7 +570,7 @@ DIALOGEVENT:mgfotr_amdir013
 END
 
 DIALOGEVENT:mgfotr_amdir014
-"AMDIR : Cette pierre semble les convoquer. Nous devons le détruire !"
+"AMDIR : Cette pierre semble les avoir invoqués. Nous devons la détruire !"
 END
 
 DIALOGEVENT:mgfotr_amdir015
@@ -597,6 +596,50 @@ END
 DIALOGEVENT:mgfotr_amdir020
 "AMDIR : Attention, ce n'est pas un orc ordinaire."
 END
+
+DIALOGEVENT:mgfotr_amdir023
+"AMDIR : Là ! La porte principale."
+END
+
+DIALOGEVENT:mgfotr_elladan075
+"ELLADAN : Elle est fermée."
+End
+
+DIALOGEVENT:mgfotr_elrohir059
+"ELROHIR : Les morts se rapprochent."
+End
+
+DIALOGEVENT:mgfotr_elrohir058
+"ELROHIR : Il faut être prudents ici."
+End
+
+DIALOGEVENT:mgfotr_elladan066
+"Qu'as-tu trouvé ?"
+END
+
+DIALOGEVENT:mgfotr_elrohir076
+"Regarde ! Une autre clé de voûte."
+End
+
+DIALOGEVENT:mgfotr_elrohir077
+"Regarde ! Une clé de voûte."
+End
+
+DIALOGEVENT:mgfotr_elladan076
+"Le levier est actionné, mais la porte reste fermée."
+End
+
+DIALOGEVENT:mgfotr_elrohir078
+"Il doit y avoir une autre clé de voûte cachée ailleurs ?"
+End
+
+DIALOGEVENT:mgfotr_elladan077
+"Nous devrions fouiller chaque salle avec soin."
+End
+
+DIALOGEVENT:mgfotr_elladan042
+"Attention !"
+End
 
 DIALOGEVENT:mgfotr_toradan001
 "TORADAN : Enchanté Fils d'Elrond ! Nous vous sommes redevables semble-t-il, et ce plus d'une fois ! Mais plus tard ! Nous sommes assaillis de toutes parts et devons agir rapidement pour aider nos forces dispersées."
@@ -679,7 +722,7 @@ DIALOGEVENT:mgfotr_lothrandir003
 END
 
 DIALOGEVENT:mgfotr_lothrandir004
-"LOTHRANDIR : Ils attaquent la ferme, il faut faire vite !"
+"LOTHRANDIR : Ils sont en train d'attaquer la ferme, il faut faire vite !"
 END
 
 DIALOGEVENT:mgfotr_lothrandir005
@@ -707,7 +750,7 @@ DIALOGEVENT:mgfotr_lothrandir010
 END
 
 DIALOGEVENT:mgfotr_lothrandir011
-"LOTHRANDIR : Il y a un autre camp à proximité. Nous devons le détruire !"
+"LOTHRANDIR : Il y a un autre camp à proximité. Débarrassons-nous-en !"
 END
 
 DIALOGEVENT:mgfotr_lothrandir012
@@ -739,7 +782,7 @@ DIALOGEVENT:mgfotr_halbarad003
 END
 
 DIALOGEVENT:mgfotr_halbarad004
-"HALBARAD : Nous avons entendu des chuchotements d'un ignoble seigneur des esprits s'installant dans un ancien Galgals. J'ai envoyé des rangers pour enquêter, mais je n'ai reçu aucune nouvelle de leur part..."
+"HALBARAD : Nous avons entendu des rumeurs selon lesquelles un ignoble seigneur des morts-vivants se serait installé dans un ancien tumulus. J'ai envoyé des Rôdeurs enquêter, mais je n'ai reçu aucune nouvelle d'eux..."
 END
 
 DIALOGEVENT:mgfotr_halbarad005
@@ -755,7 +798,7 @@ DIALOGEVENT:mgfotr_halbarad007
 END
 
 DIALOGEVENT:mgfotr_halbarad008
-"HALBARAD : Des orcs ont rampé hors des landes d'Etten. Ils ont attaqué notre avant-poste de Fornost. Nous devons le renforcer, avant que l'Ennemi ne le transforme en un point d'appui pour son assaut sur l'Eriador !"
+"HALBARAD : Des orques ont rampé hors des Landes d'Etten. Ils ont attaqué notre avant-poste de Fornost. Nous devons le renforcer, avant que l'Ennemi n'en fasse un point d'appui pour son assaut sur l'Eriador !"
 END
 
 DIALOGEVENT:mgfotr_halbarad009
@@ -767,7 +810,7 @@ DIALOGEVENT:mgfotr_halbarad010
 END
 
 DIALOGEVENT:mgfotr_halbarad011
-"HALBARAD : Un tel sort maléfique pour ces guerriers ! Je suis heureux de savoir que cet horrible troll a été abattu."
+"HALBARAD : Quel sort funeste pour ces guerriers ! Je suis heureux d'apprendre que cet horrible troll avait été abattu."
 END
 
 DIALOGEVENT:mgfotr_halbarad012
@@ -775,7 +818,7 @@ DIALOGEVENT:mgfotr_halbarad012
 END
 
 DIALOGEVENT:mgfotr_halbarad013
-"HALBARAD : Il y a encore beaucoup à explorer dans les vestiges d'Annuminas, ancien siège de mon peuple. Son environnement peut réconforter les yeux fatigués par la bataille, si vous le désirez, alors que vous faites face aux épreuves qui vous attendent."
+"HALBARAD : Il y a encore beaucoup à explorer dans les terres d'Annuminas, ancien siège de mon peuple. Ses environs pourront réconforter des yeux fatigués par la bataille, si vous le désirez, alors que vous affrontez vos épreuves."
 END
 
 DIALOGEVENT:mgfotr_halbarad014
@@ -847,7 +890,7 @@ DIALOGEVENT:mgfotr_maggot002
 END
 
 DIALOGEVENT:mgfotr_maggot003
-"MAGGOT : Mes chiens pourront vous aider. Fang ! Grip ! Wolf !" 
+"MAGGOT : Mes chiens pourront vous aider. Grip ! Fang ! Wolf ! Restez là !"
 END
 
 DIALOGEVENT:mgfotr_maggot004
@@ -871,7 +914,7 @@ DIALOGEVENT:mgfotr_maggot008
 END
 
 DIALOGEVENT:mgfotr_maggot009
-"MAGGOT : Je vais devoir y retourner pour plus d'eau !"
+"MAGGOT : Il va falloir que je retourne chercher de l'eau !"
 END
 
 DIALOGEVENT:mgfotr_maggot010
@@ -923,7 +966,7 @@ DIALOGEVENT:mgfotr_cargast003
 END
 
 DIALOGEVENT:mgfotr_cargast004
-"CARGAST : Vous allez tous mourir." 
+"CARGAST : Vous allez tous mourir."
 END
 
 DIALOGEVENT:mgfotr_cargast005

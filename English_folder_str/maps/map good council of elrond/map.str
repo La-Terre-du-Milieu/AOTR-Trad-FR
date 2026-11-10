@@ -1,131 +1,26 @@
+/////////////////////////////////
+///////////RIVENDELL/////////////
+/////////////////////////////////
 
-SCRIPT:Gollum Riddle 01
-"What has roots as nobody sees, is taller than trees, up up up it goes..and yet never grows"
-END
+SCRIPT:RivendellHint001
+"Approach nearby heroes to hear their stories"
+End
 
-SCRIPT:Gollum Riddle 02
-"Voiceless it cries, wingless flutters, toothless bites, mouthless mutters."
-END
+SCRIPT:RivendellHint002
+"Leave the Hall of Fire when ready"
+End
 
-SCRIPT:Gollum Riddle 03
-"All things it devours. Birds, beasts, trees, flowers. Gnaws iron, bites steel, grinds hard stones to meal."
-END
+SCRIPT:RivendellHint002Timer
+"Frodo will leave the Hall of Fire in: "
+End
 
-SCRIPT:Gollum Hint 01
-"Use the ring to evade Gollum."
-END
+SCRIPT:RivendellHint002New
+"Listen to the remaining stories or leave the Hall of Fire early"
+End
 
-SCRIPT:Gollum Hint 02
-"Stand on correct answer in:"
-END
-
-SCRIPT:Elendur01
-"Father! We must push these orcs back and rally our troops, lest we are overrun!"
-END
-
-SCRIPT:Elendur02
-"Come! We should regroup near the cover of the forest."
-END
-
-SCRIPT:Elendur03
-"More orcs are approaching! Father, you must conceal yourself to protect the Ring. I will find you after the battle."
-END
-
-SCRIPT:Elendur04
-"We must stop these foul creatures from entering the forest!"
-END
-
-SCRIPT:Elendur05
-"I must find my father... you Men must push up the path and hold the line."
-END
-
-SCRIPT:Elendur06
-"I know, but the orcs still pursue us. Go further! I will find you later."
-END
-
-SCRIPT:Elendur07
-"They are flanking our position! Move up before they surround us. I shall find my father."
-END
-
-SCRIPT:Elendur08
-"We must hold out! Move ahead; the woods are quieter to the north. "
-END
-
-SCRIPT:Elendur09
-"They are legion. We are close to the banks of the Anduin - I shall find my father, and we shall make our last stand."
-END
-
-SCRIPT:Elendur10
-"Father! The orcs are everywhere. We must flee to the river, where you might escape!"
-END
-
-SCRIPT:Elendur11
-"Elendur: Faithful Men of Numenor! Raise your shields, and let your swords ring true! Stand fast, and defend the King!"
-END
-
-SCRIPT:Elendur12
-"Elendur: Father, you must flee! We cannot win, and the Ring must not fall back into the hands of the Enemy!"
-END
-
-SCRIPT:Isildur01
-"The Ring... it's speaking to me..."
-END
-
-SCRIPT:Isildur02
-"Very well."
-END
-
-SCRIPT:Isildur03
-"These woods are perilous..."
-END
-
-SCRIPT:Isildur04
-"Be careful, my son."
-END
-
-SCRIPT:Isildur05
-"Elendur! We are in grave danger. What shall we do?"
-END
-
-SCRIPT:Isildur05B
-"They are upon us, Elendur! I cannot hide any longer."
-END
-
-SCRIPT:Isildur06
-"The Elves of the Greenwood will surely come to our aid."
-END
-
-SCRIPT:Isildur07
-"Isildur: I will not let him have it... the Ring is an heirloom of the House of Elendil!"
-END
-
-SCRIPT:GladdenHint01
-"Repel orc forces trying to enter the forest"
-END
-
-SCRIPT:GladdenHint02
-"Search for Isildur in the forest before the orcs find him"
-END
-
-SCRIPT:GladdenHint03
-"Survive"
-END
-
-SCRIPT:GladdenHint04
-"Isildur will not reveal himself when orcs are nearby"
-END
-
-SCRIPT:GladdenSearchTimer
-"Find Isildur in:"
-END
-
-SCRIPT:GladdenReturnToArmy
-"Regroup with the forces on the main road and stop the orcs from advancing."
-END
-
-SCRIPT:GladdenReturnToArmyFinal
-"Regroup with the forces on the banks of the Anduin."
-END
+SCRIPT:RivendellHint002NewTimer
+"Frodo will leave the Hall of Fire in:"
+End
 
 SCRIPT:Bilbo001
 "Oh, my dear Frodo... Are you enjoying Lord Elrond's hospitality? How is your wound?"
@@ -160,7 +55,7 @@ SCRIPT:Elrond002
 END
 
 SCRIPT:Elrond003
-"Not only does it draw the servants of the Enemy, it has a history of betraying its former bearers...."
+"Not only does it draw the servants of the Enemy, it has a history of betraying its former bearers..."
 END
 
 SCRIPT:Glorfindel001
@@ -191,11 +86,11 @@ SCRIPT:Boromir004
 End
 
 SCRIPT:Legolas001
-"Do you see them? Stories taken shape, like wisps emanating from the distant past...."
+"Do you see them? Stories taken shape, like wisps emanating from the distant past..."
 End
 
 SCRIPT:Legolas002
-"..expressing a desire to share their tales of triumph and hardship..."
+"...expressing a desire to share their tales of triumph and hardship..."
 End
 
 SCRIPT:Gimli001
@@ -234,14 +129,6 @@ SCRIPT:Strider002
 "Myself, I have been helping your uncle with one of his poems. I believe he intends to recite it this evening..."
 End
 
-SCRIPT:Gloin001
-"The last time I was in the company of elves, the experience was notably less enjoyable."
-End
-
-SCRIPT:Gloin002
-"These folk aren't near as uppity as Thranduil's subjects. Proper manners, and they haven't thrown me in a cell yet..."
-End
-
 SCRIPT:Gimli006
 "I take it your uncle Bilbo has told you of Thorin Oakenshield, the great dwarven king that retook the Lonely Mountain?"
 End
@@ -251,19 +138,19 @@ SCRIPT:Pippin003
 End
 
 SCRIPT:Elladan-Elohir001
-"After the waters of the Bruinen washed them away, the two of us and Aragorn went hunting for the Nazgul....."
+"After the waters of the Bruinen washed them away, the two of us and Aragorn went hunting for the Nazgul..."
 End
 
 SCRIPT:Elladan-Elohir002
-"...but we found no trace of them. We do not think they perished..."
+"...but we found no trace of them. Still, we do not think they perished..."
 End
 
 SCRIPT:Lindir001
-"It's been a great many years since the Hall of Fire has been this populous..."
+"It's been a great many years since the Hall of Fire was this populous..."
 End
 
 SCRIPT:Lindir001B
-"Please, do look after yourselves - we had some Dwarves here once that made quite a mess.."
+"Please, do look after yourselves - we had some Dwarves here once that made quite a mess... "
 End
 
 SCRIPT:Lindir002
@@ -283,12 +170,185 @@ SCRIPT:Arwen003
 End
 
 SCRIPT:Sam001
-"...."
+"..."
 End
 
 SCRIPT:Sam002
 "<Sam appears transfixed by the subtle magic of Rivendell and the elven festivities happening around him...>"
 End
+
+SCRIPT:mgfotr_gandalf316
+"By the power of Lord Elrond, the Last Homely House has never been touched by the Shadow."
+END
+
+SCRIPT:mgfotr_gandalf317
+"His magic permeates the valley, rendering it ever-pleasant. Do you sense it?"
+END
+
+SCRIPT:mgfotr_gandalf318
+"A dream of peace and comfort."
+END
+
+SCRIPT:mgfotr_frodo139
+"I think so. It is as if I've wandered into a dream."
+END
+
+SCRIPT:mgfotr_frodo140
+"It's on the mend, uncle. Much better than it was."
+END
+
+SCRIPT:mgfotr_bilbo026
+"That's good. The skill of the Elves is unrivaled."
+END
+
+/////////////////////////////////
+////////////RIDDLES//////////////
+/////////////////////////////////
+
+SCRIPT:Gollum Hint 01
+"Use the ring to evade Gollum."
+END
+
+SCRIPT:Gollum Hint 02
+"Stand on correct answer in:"
+END
+
+SCRIPT:Gollum Riddle 01
+"What has roots as nobody sees, is taller than trees, up up up it goes...and yet never grows"
+END
+
+SCRIPT:Gollum Riddle 02
+"Voiceless it cries, wingless flutters, toothless bites, mouthless mutters."
+END
+
+SCRIPT:Gollum Riddle 03
+"All things it devours. Birds, beasts, trees, flowers. Gnaws iron, bites steel, grinds hard stones to meal."
+END
+
+/////////////////////////////////
+////////GLADDEN FIELDS///////////
+/////////////////////////////////
+
+SCRIPT:GladdenHint01
+"Repel orc forces trying to enter the forest"
+END
+
+SCRIPT:GladdenHint02
+"Search for Isildur in the forest before the orcs find him"
+END
+
+SCRIPT:GladdenHint03
+"Survive"
+END
+
+SCRIPT:GladdenHint04
+"Isildur will not reveal himself when orcs are nearby"
+END
+
+SCRIPT:GladdenSearchTimer
+"Find Isildur in:"
+END
+
+SCRIPT:GladdenReturnToArmy
+"Regroup with the forces on the main road and stop the orcs from advancing."
+END
+
+SCRIPT:GladdenReturnToArmyFinal
+"Regroup with the forces on the banks of the Anduin."
+END
+
+SCRIPT:Elendur01
+"Father! We must push these orcs back and rally our troops, lest we are overrun!"
+END
+
+SCRIPT:Elendur02
+"Come! We should regroup near the cover of the forest."
+END
+
+SCRIPT:Elendur03
+"More orcs are approaching! Father, you must conceal yourself to protect the Ring. I will find you after the battle."
+END
+
+SCRIPT:Elendur04
+"We must stop these foul creatures from entering the forest!"
+END
+
+SCRIPT:Elendur05
+"I must find my father... you Men must push up the path and hold the line."
+END
+
+SCRIPT:Elendur06
+"I know, but the orcs still pursue us. Go further! I will find you later."
+END
+
+SCRIPT:Elendur07
+"They are flanking our position! Move up before they surround us. I shall find my father."
+END
+
+SCRIPT:Elendur08
+"We must hold out! Move ahead; the woods are quieter to the north."
+END
+
+SCRIPT:Elendur09
+"They are legion. We are close to the banks of the Anduin - I shall find my father, and we shall make our last stand."
+END
+
+SCRIPT:Elendur10
+"Father! The orcs are everywhere. We must flee to the river, where you might escape!"
+END
+
+SCRIPT:Elendur11
+"Elendur: Faithful Men of Numenor! Raise your shields, and let your swords ring true! Stand fast, and defend the King!"
+END
+
+SCRIPT:Elendur12
+"Elendur: Father, you must flee! We cannot win, and the Ring must not fall back into the hands of the Enemy!"
+END
+
+SCRIPT:Elendur12x
+"Elendur: Father, you must flee! We cannot win, and the Ring must not fall back into the hands of the Enemy!"
+END
+
+SCRIPT:Isildur01
+"The Ring... it's speaking to me..."
+END
+
+SCRIPT:Isildur02
+"Very well."
+END
+
+SCRIPT:Isildur03
+"These woods are perilous..."
+END
+
+SCRIPT:Isildur04
+"Be careful, my son."
+END
+
+SCRIPT:Isildur05
+"Elendur! We are in grave danger. What shall we do?"
+END
+
+SCRIPT:Isildur05B
+"They are upon us, Elendur! I cannot hide any longer."
+END
+
+SCRIPT:Isildur06
+"The Elves of the Greenwood will surely come to our aid."
+END
+
+SCRIPT:Isildur07
+"Isildur: I will not let him have it... the Ring is an heirloom of the House of Elendil! \n Weregild for the death of my father and brother!"
+END
+
+
+SCRIPT:Isildur07x
+"Isildur: I will not let him have it... the Ring is an heirloom of the House of Elendil!"
+END
+
+/////////////////////////////////
+///////////OSGILIATH//////////////
+/////////////////////////////////
 
 SCRIPT:OsgiliathBuildingArchery
 "An archery Range has been discovered"
@@ -327,7 +387,7 @@ SCRIPT:OsgiliathFaramirArriveEnd
 End
 
 SCRIPT:OsgiliathIntroBoromir01
-"Boromir: The East-bank is taken and our forces are scattered."
+"Boromir: The East-bank is taken and our forces are scattered. We must regroup \n and reinforce this shore before the whole city is overrun."
 End
 
 SCRIPT:OsgiliathIntroBoromir02
@@ -346,18 +406,6 @@ SCRIPT:OsgiliathTimer2x
 "Survive for:"
 End
 
-SCRIPT:RivendellHint001
-"Approach nearby heroes to hear their stories"
-End
-
-SCRIPT:RivendellHint002
-"Leave the Hall of Fire when ready"
-End
-
-SCRIPT:RivendellHint002New
-"Listen to the remaining stories or leave the Hall of Fire early"
-End
-
 SCRIPT:OsgiliathTimer2
 "Enemy forces will attack the bridges in:"
 End
@@ -370,6 +418,582 @@ SCRIPT:OsgiliathFinal
 "Destroy all remaining Mordor Forces"
 End
 
-SCRIPT:RivendellHint002NewTimer
-"Frodo will leave the Hall of Fire in:"
+SCRIPT:mgfotr_faramir084
+"Go forth brother! I shall rally reinforcements and return!"
+END
+SCRIPT:mgfotr_faramir085
+"I'm here brother! Come, let us send these foul orcs back across the Anduin!"
+END
+SCRIPT:mgfotr_faramir086
+"The Enemy is retreating!"
+END
+
+SCRIPT:mgfotr_boromir075
+"The east bank is taken and our forces are scattered. We must regroup and reinforce this shore before the whole city is overrun"
+END
+SCRIPT:mgfotr_boromir076
+"Come men! We must secure the remaining structures before Mordor's forces overrun us! We will need our full strength to keep them at bay!"
+END
+SCRIPT:mgfotr_boromir077
+"We cannot tarry! Let us find and fortify what structures we can!"
+END
+SCRIPT:mgfotr_boromir078
+"There must be more structures to claim! Let us move quickly!"
+END
+SCRIPT:mgfotr_boromir079
+"We reclaim Osgiliath!"
+END
+SCRIPT:mgfotr_boromir080
+"Well done men! We can now reinforce our army and hold them at the Bridges!"
+END
+SCRIPT:mgfotr_boromir081
+"Mordor's forces come again! Stand strong, Men of Gondor! We must hold the line until Faramir arrives!"
+END
+SCRIPT:mgfotr_boromir082
+"I will not let the land of my people fall!"
+END
+SCRIPT:mgfotr_boromir083
+"For Osgiliath! For Gondor!"
+END
+SCRIPT:mgfotr_boromir084
+"Victory is ours!"
+END
+SCRIPT:mgfotr_boromir085
+"Remember today little brother. For today, life is good."
+END
+
+SCRIPT:mgfotr_gondorsoldier016
+"Captain Boromir! We need your assistance!"
+END
+SCRIPT:mgfotr_gondorsoldier017
+"Lord Boromir, help us rout these orcs!"
+END
+SCRIPT:mgfotr_gondorsoldier018
+"Its no use! We can longer hold them!"
+END
+
+/////////////////////////////////
+///////////MIRKWOOD//////////////
+/////////////////////////////////
+
+SCRIPT:mgfotr_gloin001
+"The last time I was in the company of elves, the experience was notably less enjoyable."
+END
+
+SCRIPT:mgfotr_gloin002
+"When I travelled with Thorin and your uncle, we crossed that blighted forest... Mirkwood. Hungry, thirsty. In need of aid..."
+END
+
+SCRIPT:mgfotr_gloin003
+"Gloin: And that was it. With the vanishing of the Feast, we were lost, wandering in the endless dark, \n until one by one, we were taken by the horrors of the forest... all, but your brave uncle Bilbo."
+END
+
+SCRIPT:mgfotr_gloin004
+"Gloin: So we languished in the dungeons of the Elvenking, until your uncle hatched a plan to get us out."
+END
+
+SCRIPT:mgfotr_gloin005
+"Gloin: Tell you the truth, I wasn't looking forward to being in the company of Elves again... but these \n folk aren't near as uppity as Thranduil's subjects. Proper manners, and they haven't thrown me in a cell yet."
+END
+
+SCRIPT:mgfotr_gloin006
+"Would that I could share your outlook, boy. This gloom... it suffocates!"
+END
+
+SCRIPT:mgfotr_thorin001
+"Thorin: The Elves won't take kindly to our presence here. But we are starving, and we need food."
+END
+
+SCRIPT:mgfotr_thorin003
+"Curse this damned forest."
+END
+
+SCRIPT:mgfotr_thorin004
+"All of you, gather around. This isn't over yet!"
+END
+
+SCRIPT:mgfotr_thorin005
+"I hear them! They are coming!"
+END
+
+SCRIPT:mgfotr_thorin006
+"Khazad! Khazad ai-menu!"
+END
+
+SCRIPT:mgfotr_thorin007
+"Kill them all!"
+END
+
+SCRIPT:mgfotr_thorin008
+"Slash its legs!"
+END
+
+SCRIPT:mgfotr_thorin009
+"You should not have crossed the sons of Durin!"
+END
+
+SCRIPT:mgfotr_thorin010
+"Vile creatures! Kill them all!"
+END
+
+SCRIPT:mgfotr_thorin011
+"More are coming! Hold fast!"
+END
+
+SCRIPT:mgfotr_thorin012
+"A dark magic lies upon this forest."
+END
+
+SCRIPT:mgfotr_thorin013
+"Well done master Baggins!"
+END
+
+SCRIPT:mgfotr_thorin014
+"This way! Follow me!"
+END
+
+SCRIPT:mgfotr_thorin015
+"Kili!"
+END
+
+SCRIPT:mgfotr_thorin016
+"Thorin: Close ranks!"
+END
+
+SCRIPT:mgfotr_thorin017
+"Thorin: Our business is no concern of elves."
+END
+
+SCRIPT:mgfotr_dwalin008
+"Dwalin: Bilbo, you are our burglar. See if you can't... 'borrow' some."
+END
+
+SCRIPT:mgfotr_dwalin009
+"Dwalin: Aye, master Hobbit. Unless you'd rather starve?"
+END
+
+SCRIPT:mgfotr_dwalin010
+"It's just a bunch of tightly packed trees."
+END
+
+SCRIPT:mgfotr_dwalin011
+"Filthy creatures! Where are you hiding!?"
+END
+
+SCRIPT:mgfotr_dwalin012
+"Come then, wretches!"
+END
+
+SCRIPT:mgfotr_dwalin013
+"I'll tear you to pieces!"
+END
+
+SCRIPT:mgfotr_dwalin014
+"You face a son of Fundin!"
+END
+
+SCRIPT:mgfotr_dwalin015
+"Ori! Watch out!"
+END
+
+SCRIPT:mgfotr_dwalin016
+"Master Baggins! Get behind me!"
+END
+
+SCRIPT:mgfotr_dwalin017
+"Come on, Balin. You can take that one!"
+END
+
+SCRIPT:mgfotr_kili001
+"Of course we will."
+END
+
+SCRIPT:mgfotr_kili002
+"Oh, Bilbo!"
+END
+
+SCRIPT:mgfotr_kili003
+"Bring it on!"
+END
+
+SCRIPT:mgfotr_kili004
+"I'm not scared of a little spider!"
+END
+
+SCRIPT:mgfotr_kili005
+"Thorin and Dwalin are still missing!"
+End
+
+SCRIPT:mgfotr_fili001
+"Do not worry, uncle. Before long, we will be restored to our rightful place."
+END
+
+SCRIPT:mgfotr_fili002
+"A brave display, my friend!"
+END
+
+SCRIPT:mgfotr_fili003
+"This is your end, foul thing!"
+END
+
+SCRIPT:mgfotr_fili004
+"Don't get cocky now, brother!"
+END
+
+SCRIPT:mgfotr_fili005
+"Keep searching! They cannot be far from here."
+End
+
+
+SCRIPT:mgfotr_balin019
+"If we make it out of this forest alive."
+END
+
+SCRIPT:mgfotr_balin020
+"Thank you, laddy. That would have been a grim end, indeed."
+END
+
+SCRIPT:mgfotr_balin021
+"They are an endless tide!"
+END
+
+SCRIPT:mgfotr_balin022
+"Is there no end to these vile creatures!?"
+END
+
+SCRIPT:mgfotr_balin023
+"Brother! A hand, if you would!?"
+END
+
+SCRIPT:mgfotr_balin024
+"I never knew spiders could get half this big!"
+END
+
+
+SCRIPT:mgfotr_balin025
+"Stay close to me laddie. I'll keep you safe."
+End
+
+SCRIPT:mgfotr_balin027
+"Then we must hurry! Come on!"
+End
+
+SCRIPT:mgfotr_balin028
+"Are you alright son?"
+End
+
+SCRIPT:mgfotr_balin029
+"Look out!"
+End
+
+SCRIPT:mgfotr_balin030
+"Ambush!"
+End
+
+SCRIPT:mgfotr_balin031
+"We appear to be one short?"
+End
+
+SCRIPT:mgfotr_balin032
+"We appear to be two short?"
+End
+
+SCRIPT:mgfotr_balin033
+"We appear to be three short?"
+End
+
+SCRIPT:mgfotr_balin034
+"We must go back! We cannot leave them behind."
+End
+
+SCRIPT:mghob_bilbo044
+"Bilbo: Borrow? You mean steal?"
+END
+
+SCRIPT:mghob_bilbo045
+"Bilbo: Hmpf..."
+END
+
+SCRIPT:mghob_bilbo046
+"Did he see me? No, he didn't."
+END
+
+SCRIPT:mghob_bilbo047
+"Must be careful..."
+END
+
+SCRIPT:mghob_bilbo048
+"This Ring of mine'll come in handy."
+END
+
+SCRIPT:mghob_bilbo049
+"Not sure how I feel about stealing food from these folk..."
+END
+
+SCRIPT:mghob_bilbo050
+"A guard! I've got to distract him!"
+END
+
+SCRIPT:mghob_bilbo051
+"Such merriment... I'm starting to think I shouldn't have left Rivendell."
+END
+
+SCRIPT:mghob_bilbo052
+"Bilbo: What happened? Where am I?"
+END
+
+SCRIPT:mghob_bilbo053
+"Sting, that's a good name! Sting."
+END
+
+SCRIPT:mghob_bilbo054
+"I've no time to waste! I must find the others, and free them quickly!"
+END
+
+SCRIPT:mghob_bilbo055
+"Bilbo: Foul thing!"
+END
+
+SCRIPT:mghob_bilbo056
+"Bilbo: Begone, or I'll stab at you!"
+END
+
+SCRIPT:mghob_bilbo057
+"I'm here! Come, lets get you up!"
+END
+
+SCRIPT:mghob_bilbo058
+"I reckon if we hurry, we'll find the others before it's too late."
+END
+
+SCRIPT:mghob_bilbo059
+"It's Dwalin!"
+END
+
+SCRIPT:mghob_bilbo060
+"Fili! And Kili! Thank goodness!"
+END
+
+SCRIPT:mghob_bilbo061
+"Bombur... you'd have made a lavish meal indeed..."
+END
+
+SCRIPT:mghob_bilbo062
+"Is that you, Bofur? I'm glad you're alright."
+END
+
+SCRIPT:mghob_bilbo063
+"Bifur! Come on, up you get!"
+END
+
+SCRIPT:mghob_bilbo064
+"Poor Ori... he must've gotten quite a fright!"
+END
+
+SCRIPT:mghob_bilbo065
+"That looks like old Dori!"
+END
+
+SCRIPT:mghob_bilbo066
+"That's Nori. Safe and sound. Well, soon to be."
+END
+
+SCRIPT:mghob_bilbo067
+"Thorin! Come, help me get him out!"
+END
+
+SCRIPT:mghob_bilbo069
+"Over here, it's Oin!"
+End
+
+SCRIPT:mgfotr_gloin007
+"Argh! Horrible creatures!"
+End
+
+SCRIPT:mgfotr_gloin008
+"Thank you, Master Baggins."
+End
+
+SCRIPT:mgfotr_gloin009
+"The last thing I saw was those spiders dragging them deeper into the forest."
+End
+
+SCRIPT:mgfotr_gloin010
+"Are you alright, brother?"
+End
+
+SCRIPT:mgfotr_gloin011
+"More of them!"
+End
+
+SCRIPT:mgfotr_gloin012
+"Hold steady!"
+End
+
+SCRIPT:mgfotr_gloin013
+"These odds are to my liking!"
+End
+
+SCRIPT:mgfotr_gloin014
+"Watch out brother!"
+End
+
+SCRIPT:mgfotr_gloin015
+"Stand your ground!"
+End
+
+SCRIPT:mgfotr_oin006
+"What's that? There's webbing stuffed down my trumpet!"
+End
+
+SCRIPT:mgfotr_oin007
+"More of them!"
+End
+
+SCRIPT:mgfotr_oin008
+"Look out!"
+End
+
+SCRIPT:mgfotr_oin009
+"Cut them down!"
+End
+
+SCRIPT:mgfotr_nori001
+"I was startin' to think I'd be dinner!"
+End
+
+SCRIPT:mgfotr_nori002
+"All that mollycoddling has made you soft, Ori!"
+End
+
+SCRIPT:mgfotr_nori003
+"There's more!"
+End
+
+SCRIPT:mgfotr_nori004
+"Dori, watch your back!"
+End
+
+SCRIPT:mgfotr_bofur001
+"Thanks for the rescue, lads! I thought I was done for!"
+End
+
+SCRIPT:mgfotr_bofur002
+"Up you get brother! We've gotta go!"
+End
+
+SCRIPT:mgfotr_bofur003
+"To your left! To your right!! By Durin, they're all over!"
+End
+
+SCRIPT:mgfotr_bofur004
+"Stay together, lads!"
+End
+
+SCRIPT:mgfotr_bofur005
+"Bombur, squish it!"
+End
+
+SCRIPT:mgfotr_dori001
+"Agh... my beard's all tangled up with webs..."
+End
+
+SCRIPT:mgfotr_dori002
+"You have my thanks, Master Baggins. Should we ever make it back to civilised places, tea is on me."
+End
+
+SCRIPT:mgfotr_dori003
+"Move aside! I'll deal with these wretches!"
+End
+
+SCRIPT:mgfotr_dori004
+"You'll pay for what you did to my beard!"
+End
+
+SCRIPT:mgfotr_dori005
+"Ori! Stay close to me, you hear?!"
+End
+
+SCRIPT:mgfotr_ori001
+"Oh thank you! That was awful! I could feel them crawling all over me!"
+End
+
+SCRIPT:mgfotr_bombur001
+"...."
+End
+
+SCRIPT:mgfotr_thranduil035
+"Thranduil: You would intrude upon the table of the Elvenking? Begone, interlopers, ere you incur my wrath!"
+END
+
+SCRIPT:mgfotr_spider007
+"It stings! Stings! Arrgh!"
+End
+
+SCRIPT:mgfotr_thorin016
+"Thorin: Close ranks!"
+END
+
+SCRIPT:mgfotr_thorin017
+"Thorin: Our business is no concern of elves."
+END
+
+SCRIPT:mgfotr_legolas126
+"Legolas: Do not think I won't kill you, Dwarf. It would be my pleasure."
+END
+
+SCRIPT:mgfotr_legolas127
+"Legolas: Search them."
+END
+
+SCRIPT:mgfotr_legolas128
+"Legolas: Are all the spiders dead?"
+END
+
+SCRIPT:mgfotr_legolas129
+"Legolas: Take them away!"
+END
+
+SCRIPT:mgfotr_tauriel048
+"Tauriel: Search them."
+END
+
+SCRIPT:mgfotr_tauriel049
+"Tauriel: Yes, but more will come. They're growing bolder."
+END
+
+SCRIPT:MirkwoodHintAlertedGuards
+"Bilbo must evade the guards before sneaking into the feast to steal food."
+End
+
+SCRIPT:DEBUG_AI_CAN_LURE
+"Team AI_CAN_LURE"
+End
+
+SCRIPT:DEBUG_AI_PATROLLING
+"Team AI_PATROLLING"
+End
+
+SCRIPT:DEBUG_AI_ATTACKING
+"Team AI_ATTACKING"
+End
+
+SCRIPT:DEBUG_AI_INSPECTING_AUDIO
+"Team AI_INSPECTING_AUDIO"
+End
+
+SCRIPT:DEBUG_AI_MATCH_BILBO
+"Team AI_MATCH_BILBO"
+End
+
+SCRIPT:DEBUG_AI_INSPECTING
+"Team AI_INSPECTING"
+End
+
+SCRIPT:DEBUG_AI_INSPECTING_IDLE
+"Team AI_INSPECTING_IDLE"
+End
+
+SCRIPT:DEBUG_AI_RESET_AUDIO
+"Team AI_RESET_AUDIO"
 End

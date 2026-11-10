@@ -1,0 +1,666 @@
+
+SCRIPT:HaradrimArrive_Pelennor
+"Arrivée de l'armée haradrim"
+END
+
+SCRIPT:ImrahilEomer_Pelennor
+"Imrahil et Éomer seront submergés dans :"
+END
+
+SCRIPT:ObjectiveHint01_Pelennor
+"Détruisez toutes les catapultes et tous les trolls pour chasser l'Ennemi du Pelennor"
+END
+
+SCRIPT:ObjectiveHint01b_Pelennor
+"Utilisez le Chant de bataille de vos Rohirrim pour regagner de la santé."
+END
+
+SCRIPT:ObjectiveHint02_Pelennor
+"Faites mettre pied à terre à vos Rohirrim pour contrer les Mûmakil"
+END
+
+SCRIPT:EowynShieldHint01
+"Ramassez des boucliers sur le champ de bataille pour résister aux attaques du Roi-sorcier."
+END
+
+///////////CINE - INTRO/////////////
+
+SCRIPT:mgfotr_theoden070
+"Théoden : Chevauchez maintenant ! Chevauchez ! Chevauchez vers la ruine et la fin du monde !"
+End
+
+SCRIPT:mgfotr_theoden071
+"Théoden : La mort ! La mort ! LA MORT !"
+End
+
+SCRIPT:mgfotr_theoden072
+"Théoden : En avant, Eorlingas !"
+End
+
+///////////ACT I - SIEGE/////////////
+
+SCRIPT:mgfotr_rohanguy025
+"Mundburg brûle !"
+END
+
+SCRIPT:mgfotr_rohanguy026
+"En avant, mettons fin au siège !"
+END
+
+SCRIPT:mgfotr_rohanguy027
+"Détruisez ces catapultes !"
+END
+
+SCRIPT:mgfotr_rohanguy028
+"Des trolls ! Tuez les trolls !"
+END
+
+SCRIPT:mgfotr_rohanguy029
+"Attention ! Restez hors de sa portée !"
+END
+
+SCRIPT:mgfotr_wulfgar004
+"L'acier répond à l'acier : en avant, hommes du Dunland !"
+END
+
+SCRIPT:mgfotr_wulfgar005
+"Nous prouverons notre valeur !"
+END
+
+SCRIPT:mgfotr_wulfgar006
+"On chantera votre courroux, Théoden fils de Thengel !"
+END
+
+
+///////////CINE - HARADRIM/////////////
+
+SCRIPT:MGHelms_Eomer004
+"Éomer : En avant ! Abattez-les !"
+End
+
+SCRIPT:mgfotr_eomer048
+"Éomer : Repoussez-les jusqu'au fleuve !"
+End
+
+SCRIPT:mgfotr_theoden073
+"Théoden : Sécurisez la Cité !"
+End
+
+SCRIPT:mgfotr_theoden074
+"Théoden : Reformez les rangs ! Reformez les rangs !"
+End
+
+SCRIPT:mgfotr_theoden082
+"Théoden : Gamelin ! Protégez nos arrières, face à la cité ! Grimbold ! Prenez votre compagnie et sécurisez le flanc !"
+End
+
+SCRIPT:mgfotr_theoden083
+"Théoden : Vite ! Reprenez le village et prenez des positions défensives !"
+End
+
+///////////ACT II - HARADRIM/////////////
+
+SCRIPT:mgfotr_theoden081
+"Sonnez la charge ! Affrontez-les de front !"
+End
+
+SCRIPT:mgfotr_theoden080
+"Abattez-le !"
+End
+
+SCRIPT:mgfotr_theoden084
+"Étranges guerriers du sud !"
+End
+
+SCRIPT:mgfotr_suladan001
+"Chevauchez, mes guerriers ! Le Serpent noir est avec vous !"
+END
+
+SCRIPT:mgfotr_suladan002
+"Tuez leur roi ! Finissons-en maintenant !"
+END
+
+SCRIPT:mgfotr_suladan003
+"Piétinez ces hommes du nord !"
+END
+
+SCRIPT:mgfotr_suladan004
+"Vous ne résisterez pas à la fureur de Sûladan !"
+END
+
+SCRIPT:mgfotr_rohanguy030
+"Vite ! Utilisez les emplacements de construction pour fortifier notre position !"
+END
+
+SCRIPT:mgfotr_rohanguy031
+"Les Suderons sont sur nous !"
+END
+
+SCRIPT:mgfotr_rohanguy032
+"D'immenses hommes-trolls ! Gardez vos distances !"
+END
+
+SCRIPT:mgfotr_rohanguy033
+"Avez-vous déjà vu pareille engeance ?"
+END
+
+SCRIPT:mgfotr_rohanguy034
+"Quel est ce nouvel ennemi ? Ce ne sont pas des orques !"
+END
+
+SCRIPT:mgfotr_rohanguy035
+"De la cavalerie ! Serrez les rangs !"
+END
+
+SCRIPT:mgfotr_rohanguy036
+"Les Suderons fondent de nouveau sur nous !"
+END
+
+SCRIPT:mgfotr_rohanguy037
+"Leur seigneur approche ! Tuez-le ! Brisez leur volonté !"
+END
+
+SCRIPT:mgfotr_rohanguy038
+"Le Serpent noir est mort !"
+END
+
+SCRIPT:mgfotr_rohanguy039
+"Seigneur Aragorn ! Vous êtes revenu !"
+END
+
+SCRIPT:mgfotr_rohanguy040
+"Nous savions que vous ne nous aviez pas abandonnés !"
+END
+
+SCRIPT:mgfotr_eomer043
+"Restez en arrière ! Attention à leurs pieds !"
+END
+
+SCRIPT:mgfotr_eomer044
+"Abattez leur chef !"
+END
+
+
+///////////CINE - IMRAHIL/////////////
+
+SCRIPT:mgfotr_imrahil007
+"Imrahil : Amroth ! Amroth ! Amroth pour le Gondor !"
+End
+
+///////////CINE - WITCHKING/////////////
+
+SCRIPT:mgfotr_theoden075
+"Théoden : Ralliez-vous à moi ! À moi !"
+End
+
+SCRIPT:MGMinas_Witc003
+"Roi-sorcier : Repais-toi de sa chair"
+End
+
+SCRIPT:mgfotr_eowyn001
+"Éowyn : Je te tuerai si tu le touches !"
+End
+
+SCRIPT:MGMinas_Witc002
+"Roi-sorcier : Ne te mets pas entre le Nazgûl et sa proie"
+End
+
+SCRIPT:MGMinas_Witc001
+"Roi-sorcier : Pauvre fou, nul homme ne peut me tuer ! Meurs maintenant !"
+End
+
+SCRIPT:mgfotr_eowyn004
+"Éowyn : Je ne suis pas un homme."
+End
+
+SCRIPT:mgrotk_merry009
+"Merry : Ma dame, je ne vous abandonnerai pas !"
+End
+
+///////////ACT III - WITCHKING/////////////
+
+SCRIPT:mgfotr_eowyn005
+"Va-t'en, immonde Dwimmerlaik ! Seigneur des charognes ! Laisse les morts en paix !"
+END
+
+SCRIPT:mgfotr_eowyn007
+"Arrière !"
+END
+
+SCRIPT:mgfotr_eowyn008
+"Je vais te tuer !"
+END
+
+SCRIPT:mgfotr_eowyn009
+"Éloigne-toi de lui !"
+END
+
+SCRIPT:mgfotr_eowyn010
+"Merry !"
+END
+
+///////////CINE - LAST STAND/////////////
+
+SCRIPT:mgfotr_imrahil003
+"Imrahil : Le Gondor tient bon ! Tenez la ligne, mes seigneurs, même si la nuit se referme sur nous."
+End
+
+SCRIPT:mgfotr_eomer033
+"Éomer : Tenez bon ! Que chacun se souvienne que le Rohan n'a pas cédé tant qu'il restait un souffle !"
+End
+
+SCRIPT:mgtt_boromir-163
+"Boromir : Nous devons tenir la ligne !"
+End
+
+SCRIPT:mgfotr_forlong002
+"Forlong : Battez-vous, fils du Gondor !"
+End
+
+///////////ACT IV - LAST STAND/////////////
+
+
+SCRIPT:mgfotr_eomer034
+"Hors du doute, hors de l'ombre, vers l'aube du jour, jusqu'à la fin de l'espoir j'ai chevauché, jusqu'au déchirement du cœur !"
+END
+
+SCRIPT:mgfotr_eomer045
+"Grimbold !"
+END
+
+SCRIPT:mgfotr_eomer046
+"Dunhere a combattu jusqu'au bout, il sera vengé !"
+END
+
+SCRIPT:mgfotr_eomer047
+"Jusqu'au bout !"
+END
+
+SCRIPT:mgfotr_imrahil012
+"Hommes du Gondor ! Du Rohan ! C'est ici que nous résistons !"
+END
+
+SCRIPT:mgfotr_imrahil013
+"Dol Amroth ne faiblira pas en ce jour !"
+END
+
+SCRIPT:mgfotr_imrahil014
+"Honorez votre seigneur tombé !"
+END
+
+SCRIPT:mgfotr_imrahil015
+"Courage ! Du courage pour ceux qui sont tombés !"
+END
+
+
+///////////CINE - DOCK/////////////
+
+SCRIPT:mgfotr_guritz001
+"Guritz : En retard comme d'habitude, vermine de pirates ! Il y a du travail de couteau à faire ici !"
+END
+
+SCRIPT:mgfotr_guritz002
+"Guritz : Allez, rats de mer ! Sortez de vos navires !"
+End
+
+SCRIPT:MEMinas_Gimli001
+"Gimli : Il y en a largement pour nous deux ! Que le meilleur des Nains gagne !"
+End
+
+SCRIPT:mgfotr_aragorn243
+"Aragorn : Déployez l'étendard d'Elendil ! En avant, hommes du Gondor !"
+END
+
+///////////ACT V - DOCK/////////////
+
+SCRIPT:mgfotr_aragorn451
+"Sécurisez le port !"
+End
+
+///////////CINE - RESCUE/////////////
+
+
+SCRIPT:mgfotr_aragorn244
+"Aragorn : Legolas, qu'en est-il de la Cité Blanche ? Sommes-nous arrivés trop tard ?"
+End
+
+SCRIPT:mgfotr_legolas136
+"Legolas : Le feu a causé de grands ravages dans la plaine. L'Ennemi est partout et de rudes combats font rage devant la Cité."
+End
+
+SCRIPT:mgfotr_aragorn368
+"Aragorn : Alors c'est là que nous irons."
+End
+
+SCRIPT:mgfotr_halbarad065
+"Halbarad : Nous ne pouvons pas tarder ! Le prince de Dol Amroth est largement dépassé en nombre !"
+End
+
+SCRIPT:mgrotk_legolas013
+"Legolas : Nous devons trouver rapidement un moyen de traverser ici."
+End
+
+SCRIPT:mgfotr_elrohir050
+"Elrohir : Nous devons sauver tout ce que nous pouvons !"
+End
+
+///////////ACT VI - RESCUE/////////////
+
+SCRIPT:mgfotr_aragorn452
+"Vous n'êtes pas abandonnés, ralliez-vous à moi !"
+End
+
+SCRIPT:mgfotr_aragorn453
+"Nous venons en aide au Gondor !"
+End
+
+
+///////////CINE - MEETING/////////////
+
+SCRIPT:mgfotr_imrahil004
+"Imrahil : Qui êtes-vous, vous qui venez à notre secours si à propos ? Nous n'espérions voir aucun allié \n entrer dans le Harlond en ce jour, encore moins sous des voiles noires."
+End
+
+SCRIPT:mgfotr_halbarad039
+"Halbarad : Voici Aragorn, fils d'Arathorn. Il est l'héritier d'Elendil et du Trône du Gondor."
+End
+
+SCRIPT:mgfotr_aragorn369
+"Aragorn : Cela suffit, Halbarad. Je ne ferai valoir aucun droit avant la défaite de Sauron."
+End
+
+SCRIPT:mgfotr_boromir120
+"Boromir : Voilà un vaillant capitaine des Hommes. Je suis heureux de te voir, Aragorn."
+End
+
+SCRIPT:mgfotr_aragorn449
+"Aragorn : Et moi de te voir, Boromir."
+End
+
+SCRIPT:mgfotr_eomer030
+"Éomer : Vous ne pouviez arriver plus à propos, mon ami. Bien des pertes et des deuils nous ont frappés."
+End
+
+SCRIPT:mgfotr_aragorn450
+"Aragorn : Alors vengeons-nous avant d'en parler !"
+End
+
+SCRIPT:mgfotr_imrahil005
+"Imrahil : Qu'il en soit ainsi, seigneur Aragorn. Portons le combat à l'Ennemi !"
+End
+
+SCRIPT:mgfotr_imrahil006
+"Imrahil : Leur armée se rassemble dans le sud. Nous devons frapper leur camp avant qu'ils ne reprennent des forces."
+End
+
+SCRIPT:mgfotr_gimli134
+"Gimli : Débarrassons-nous d'eux !"
+End
+
+///////////ACT VII - COUNTERATTACK/////////////
+
+
+///////////CINE - GOTHMOG/////////////
+
+SCRIPT:mgfotr_halbarad081
+"Halbarad : Venez, serviteurs de l'Ombre ! Affrontez le destin que votre Maître vous a préparé !"
+End
+
+SCRIPT:mgfotr_gothmog003
+"Gothmog : Vous croyez la puissance du Mordor épuisée ? Imbéciles ! Vous annoncez votre propre perte !"
+End
+
+///////////ACT VIII - GOTHMOG/////////////
+
+
+SCRIPT:mgfotr_aragorn448
+"Halbarad ! Vous n'êtes pas seul !"
+End
+
+SCRIPT:mgfotr_aragorn456
+"Halbarad ! Non !"
+End
+
+SCRIPT:mgfotr_aragorn454
+"Courage, Halbarad !"
+End
+
+SCRIPT:mgfotr_aragorn455
+"Halbarad ! Attention !"
+End
+
+SCRIPT:mgfotr_gothmog004
+"Meurs, chien !"
+End
+
+SCRIPT:mgfotr_gothmog005
+"Vermine ! Mes gardes s'occuperont de vous !"
+End
+
+SCRIPT:mgfotr_gothmog006
+"Apportez-moi leurs têtes !"
+End
+
+SCRIPT:mgfotr_gothmog007
+"Tuez-les !"
+End
+
+SCRIPT:mgfotr_gothmog008
+"Je m'en charge moi-même !"
+End
+
+SCRIPT:mgfotr_gothmog009
+"Je vais t'éventrer !"
+End
+
+SCRIPT:mgfotr_gothmog010
+"Mon warg a faim !"
+End
+
+///////////CINE - END/////////////
+
+SCRIPT:mgfotr_imrahil016
+"Imrahil : La journée est gagnée !"
+End
+
+SCRIPT:mgfotr_boromir121
+"Boromir : Chassez-les, qu'aucun ne revienne !"
+End
+
+SCRIPT:MGBlack_GondorSoldier014
+"Soldat : Nous avons gagné, nous avons gagné !"
+End
+
+SCRIPT:MGOsgil_GondorOfficer015
+"Soldat : L'ENNEMI bat en retraite ! La victoire est à nous !"
+End
+
+SCRIPT:mgfotr_elfhelm017
+"Elfhelm : L'ENNEMI bat en retraite ! La victoire est à nous !"
+End
+
+SCRIPT:MEOsgil_Faramir001
+"Faramir : Pour la gloire du Gondor !"
+End
+
+SCRIPT:mgfotr_aragorn457
+"Aragorn : Ils sont brisés, chassez-les du champ de bataille !"
+End
+
+SCRIPT:MGHelms_Aragorn026
+"Aragorn : La victoire est proche !"
+End
+
+///////////CINE - OUTRO 03 /////////////
+
+SCRIPT:mgfotr_aragorn270A
+"Aragorn : Halbarad, mon plus fidèle ami. Que tu tombes alors que le but pour lequel tu te battais était si proche est une cruelle blessure."
+End
+
+SCRIPT:mgfotr_aragorn270B
+"Aragorn : Repose en paix, fils d'Arnor."
+End
+
+///////////CINE - OUTRO 04 /////////////
+
+SCRIPT:mgfotr_faramir079
+"Faramir : L'héritier d'Elendil s'est présenté, père. Le refuser jetterait le déshonneur sur notre Maison.\nC'est grâce au commandement d'Aragorn que l'Ennemi a été repoussé."
+End
+
+SCRIPT:mgfotr_faramir080
+"Faramir : Nous avons peu de temps."
+End
+
+SCRIPT:mgfotr_denethor056
+"Denethor : Qu'en dis-tu, Boromir ?"
+End
+
+SCRIPT:mgfotr_denethor057
+"Denethor : Laissez-moi. J'ai besoin de temps et de silence pour examiner le sens de ces événements."
+End
+
+SCRIPT:mgfotr_denethor058
+"Denethor : Le temps de ma réflexion m'appartient encore, Faramir !"
+End
+
+SCRIPT:mgfotr_boromir041
+"Boromir : C'est un temps de réjouissance, père. Repousser Aragorn sèmerait le chaos dans nos rangs.\nCette guerre n'est pas finie, et nous devons exploiter notre avantage tant que nous le pouvons."
+End
+
+///////////CINE - OUTRO 05 /////////////
+
+SCRIPT:mgfotr_denethor059
+"Denethor : C'est grâce au conseil de Boromir que j'ai compris ce qu'il faut faire."
+End
+
+SCRIPT:mgfotr_denethor060
+"Denethor : Aujourd'hui, je dois te remettre non seulement la seigneurie de mes terres, mais aussi celle de mon peuple,\ndont la vie et le bien-être me tiennent à cœur."
+End
+
+SCRIPT:mgfotr_aragorn245
+"Aragorn : Salut à vous, seigneur Denethor, Intendant du Gondor. Une étoile brille sur l'heure de notre rencontre."
+End
+
+SCRIPT:mgfotr_aragorn246A
+"Aragorn : La Maison des Intendants veille depuis longtemps à la survie du Gondor. Bien que je prenne la royauté sur vous,\nje souhaite que vous demeuriez à votre poste et défendiez Minas Tirith en mon absence."
+End
+
+SCRIPT:mgfotr_aragorn246B
+"Aragorn : Ce n'est qu'ensemble que nous avons une chance de victoire."
+END
+
+SCRIPT:mgfotr_gondorsoldier036
+"Soldat du Gondor : Seigneur Éomer du Rohan ! Votre sœur a été conduite aux Maisons de Guérison. Elle vit encore,\nmais elle est à l'article de la mort ! Allez la voir sans attendre !"
+End
+
+SCRIPT:mgfotr_eomer051
+"Éomer : Éowyn !"
+End
+
+///////////CINE - OUTRO 06 /////////////
+
+SCRIPT:mgfotr_aragorn247
+"Aragorn : Cette Cité et ce royaume reposent depuis de longues années entre les mains des Intendants,\net je ne ferai valoir aucun droit avant que l'on sache qui, de nous ou du Mordor, l'emportera."
+End
+
+SCRIPT:mgfotr_aragorn248
+"Aragorn : Non. Mais je juge le moment mal choisi, et je n'ai d'autre dessein que de combattre notre Ennemi et ses serviteurs.\nJ'attendrai l'accueil du Seigneur de la Cité."
+End
+
+SCRIPT:mgfotr_eomer049
+"Éomer : Vous avez levé l'étendard du roi et montré les emblèmes de la Maison d'Elendil.\nSouffrirez-vous qu'on les conteste ?"
+End
+
+SCRIPT:mgfotr_imrahil017
+"Imrahil : Vos paroles sont sages, seigneur. Mais je ne voudrais pas vous voir rester comme un mendiant à la porte."
+End
+
+SCRIPT:mgfotr_gandalf251A
+"Gandalf : Il ne le doit pas."
+End
+
+SCRIPT:mgfotr_gandalf251B
+"Gandalf : Denethor n'est plus. Son fils, désormais Intendant, gît gravement blessé aux Maisons de Guérison."
+End
+
+SCRIPT:mgfotr_gandalf251C
+"Gandalf : Éomer, votre sœur s'y trouve aussi. Elle vit encore, mais elle est à l'article de la mort. Allez auprès d'elle !"
+End
+
+SCRIPT:mgfotr_gandalf252
+"Gandalf : Les mains du roi sont des mains de guérisseur, et c'est ainsi que l'on reconnaîtra le roi légitime.\nVenez, Aragorn. On a besoin de vous."
+End
+
+///////////CINE - OUTRO 07 /////////////
+
+SCRIPT:mgfotr_boromir042
+"Boromir : Ni le courage du Gondor."
+End
+
+SCRIPT:mgfotr_aragorn458
+"Aragorn : Nous voici au bord du gouffre. Hésiter, c'est tomber. Nous devons marcher sur la Porte Noire,\npour attirer les armées de Sauron et donner à Frodon tout le temps que nous pouvons."
+End
+
+SCRIPT:mgfotr_eomer050
+"Éomer : Je connais peu ces affaires profondes. Mais vous êtes venu à notre secours, et si vous partez, je vous suivrai."
+End
+
+SCRIPT:mgfotr_imrahil018
+"Imrahil : Voudriez-vous alors que nous nous retirions dans nos châteaux pour attendre notre perte ?"
+End
+
+SCRIPT:mgfotr_imrahil019
+"Imrahil : Ni le courage du Gondor."
+End
+
+SCRIPT:mgfotr_gandalf253
+"Gandalf : Nous avons survécu au premier assaut à grand prix. Le prochain sera plus rude.\nLa prudence vous conseillerait de renforcer les places fortes qui vous restent."
+End
+
+SCRIPT:mgfotr_gandalf429
+"Gandalf : Non, car je ne conseille pas la prudence. Je crois que nous devons placer notre espoir dans la destruction de l'Anneau de Pouvoir."
+End
+
+SCRIPT:mgfotr_legolas138
+"Legolas : Nous sommes venus jusqu'ici, Aragorn. Nous sommes avec vous."
+End
+
+SCRIPT:mgfotr_gimli136
+"Gimli : Oui. Que nul ne doute de la constance du Peuple de Durin."
+End
+
+///////////CINE - OUTRO 08/////////////
+
+SCRIPT:mgfotr_legolas139
+"Legolas : Vos parents n'ont peut-être pas besoin de partir en guerre ; je crains que la guerre ne marche déjà sur leurs propres terres."
+End
+
+SCRIPT:mgfotr_gimli137
+"Gimli : J'aimerais pouvoir faire venir au sud quelques-uns des nôtres. Un contingent de Nains robustes, avides de bataille."
+End
+
+////////////////DEBUG//////////////////
+
+SCRIPT:Debug_FreePlay_On
+"Héros invincibles activés et conditions de défaite désactivées"
+End
+
+SCRIPT:Debug_FreePlay_Off
+"Héros invincibles désactivés et conditions de défaite activées"
+End
+
+SCRIPT:Debug_Disable_Standers
+"Sentinelles orques désactivées"
+End
+
+SCRIPT:Debug_Disable_Wave_Count
+"Vague :"
+End
+
+SCRIPT:Debug_Disable_Wave_Alive
+"Hordes ennemies en vie :"
+End
+
+SCRIPT:Debug_Wave_Pause
+"Renforts en pause :"
+END

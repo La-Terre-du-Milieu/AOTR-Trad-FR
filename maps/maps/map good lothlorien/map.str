@@ -16,15 +16,20 @@ SCRIPT:LairHint3
 END
 
 SCRIPT:IdrialHint
-"Les elfes errent dans les bois autour de Caras Galadhon. Il serait sage de les trouver. Toute aide sera nécessaire pour défendre le Bois d'Or..."
+"Les elfes errent dans les bois autour de Caras Galadhon. Il serait sage de les trouver. Toute aide sera nécessaire pour défendre le Bois Doré..."
 END
+
+SCRIPT:BridgeHint2
+"Empruntez la route du sud pour traverser la rivière et regagner Caras Galadhon."
+END
+
 
 SCRIPT:MirrorHint
 "Utilisez le Miroir de Galadriel pour acheter des améliorations."
 END
 
 SCRIPT:UrshakWarning
-"Urshak ! Mettons un terme à cet ignoble chamane orque !"
+"Mettons un terme à cet ignoble chamane orque !"
 END
 
 SCRIPT:UrshakWarning2
@@ -52,7 +57,7 @@ SCRIPT:Intro03
 END
 
 SCRIPT:Intro04
-"IDRIAL : Je dois me dépêcher !"
+"Idrial : J'y vais sur-le-champ."
 END
 
 SCRIPT:Camp01
@@ -60,7 +65,7 @@ SCRIPT:Camp01
 END
 
 SCRIPT:Camp02
-"IDRIAL : La communauté est partie de Fondcombe et est poursuivie par les gobelins de la Moria à la frontière orientale !"
+"Idrial : La Communauté partie de Fondcombe est poursuivie par des orques de la Moria ! Ils ont franchi la frontière orientale !"
 END
 
 SCRIPT:Camp03
@@ -136,9 +141,42 @@ SCRIPT:WaveWarning
 END
 
 SCRIPT:Galadriel Speech
-"GALADRIEL : C'est à moi de protéger le caractère sacré du Bois d'Or ! Je chasserai ces serviteurs de Sauron hors de Calas Galadhon !"
+"GALADRIEL : C'est à moi de protéger le caractère sacré du Bois Doré ! Je chasserai ces serviteurs de Sauron hors de Calas Galadhon !"
 END
 
 SCRIPT:Barracks Reminder
 "Tous les repaires de gobelins de la Lothlorien doivent être détruits !"
 END
+
+SCRIPT:PoolFound
+"Une statue d'Amroth, le roi perdu. Nous défendons la Lothlórien en sa mémoire."
+ENd
+
+SCRIPT:mgfotr_frodo158
+"Frodon : Si seulement Gandalf était avec nous..."
+END
+
+SCRIPT:mgfotr_sam187
+"Sam : Faites attention, Grands-Pas !"
+END
+
+SCRIPT:mgfotr_aragorn423
+"Aragorn : Gardez vos épées près de vous, mes amis. Nous vous retrouverons quand tout sera fini."
+END
+
+SCRIPT:mgfotr_celeborn006
+"Celeborn : Vous apportez un grand mal avec vous, Frodon Sacquet."
+END
+
+SCRIPT:mgfotr_celeborn007
+"Celeborn : Rarement une telle armée d'orques a osé pénétrer dans notre royaume."
+END
+
+SCRIPT:mgfotr_galadriel011
+"Galadriel : Pourtant, nous vous offrons asile. Nous tiendrons conseil plus tard. D'abord, repoussons cet odieux assaut."
+END
+
+SCRIPT:mgfotr_galadriel012
+"Galadriel : Restez près de nous, Periannath. Nos guerriers veilleront à votre sécurité."
+END
+

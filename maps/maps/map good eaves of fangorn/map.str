@@ -4,7 +4,7 @@
 ////////////////HINTS//////////////////
 
 SCRIPT:Hint_Eaves_Clue_Armour
-"Les Uruks ont abandonné leur armure pour maintenir leur vitesse. Leur force doit s'affaiblir..."
+"Ils ont abandonné leur armure pour maintenir leur vitesse. Leur force doit s'affaiblir..."
 End
 
 SCRIPT:Hint_Eaves_Clue_Farm
@@ -90,7 +90,7 @@ SCRIPT:Dialogue_Eaves_Villages 06
 End
 
 SCRIPT:Dialogue_Eaves_Eomer Intro 01
-"EOMER : Le roi Théoden a été ensorcelé par Saroumane ! Je suis venu rallier tous ceux qui sont fidèles au Rohan, avant que cette terre ne soit perdue !"
+"EOMER : Le roi Théoden a été ensorcelé par Saroumane ! Nous devons rallier tous ceux qui sont fidèles au Rohan, avant que cette terre ne soit perdue !"
 End
 
 SCRIPT:Dialogue_Eaves_Eomer Intro 02
@@ -134,7 +134,7 @@ SCRIPT:Dialogue_Eaves_Eomer Camp 01
 End
 
 SCRIPT:Dialogue_Eaves_Eomer Camp 02
-"Nous vous rejoindrons dans votre combat contre ces créatures !"
+"Nous pensions tout perdu."
 End
 
 SCRIPT:Dialogue_Eaves_Eomer Camp 03
@@ -142,7 +142,13 @@ SCRIPT:Dialogue_Eaves_Eomer Camp 03
 End
 
 SCRIPT:Dialogue_Eaves_Eomer Camp 04
-"Frères ! Nous avons du travail ! Nous allons camper ici."
+"Hommes ! Nous avons du travail ! Nous allons camper ici."
+End
+
+////////////////FANGORN//////////////////
+
+SCRIPT:Dialogue_mgfotr_merry032
+"Il faut faire attention, Pip ! Il ne faut pas que ces gros orques nous repèrent !"
 End
 
 ////////////////DEBUG//////////////////
@@ -158,3 +164,27 @@ End
 SCRIPT:Egg
 "You saw nothing."
 End
+
+SCRIPT:mgfotr_merry052
+"C'est le moment. Cours, Pip !"
+END
+
+SCRIPT:mgfotr_pippin151
+"Lançons une pierre pour les distraire !"
+END
+
+SCRIPT:mgfotr_aragorn422
+"Legolas ! Abats-le !"
+END
+
+SCRIPT:mgfotr_boromir117
+"Un bouclier du Rohan. Il me sera fort utile."
+END
+
+SCRIPT:mgfotr_gimli128
+"Regardez la taille de ce warg !"
+END
+
+SCRIPT:mgfotr_eomer042
+"La victoire est à nous. Ces villages sont saufs pour le moment."
+END

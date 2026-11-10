@@ -13,7 +13,7 @@ SCRIPT:Dialogue_HelmsDeep_Legolas001
 END
 
 SCRIPT:Dialogue_HelmsDeep_Gimli001
-"GIMLI : Ce que je ne donnerais pas pour quelques dizaines d'armuriers des Monts de Fers. Les Hommes du Rohan sont courageux, oui... mais leur savoir-faire fait défaut."
+"GIMLI : Ce que je ne donnerais pas pour quelques dizaines d'armuriers des Monts de Fer. Les Hommes du Rohan sont courageux, oui... mais leur savoir-faire fait défaut."
 END
 
 SCRIPT:Dialogue_HelmsDeep_Eowyn001
@@ -77,7 +77,7 @@ SCRIPT:Dialogue_HelmsDeep_Civilians001
 END
 
 SCRIPT:Dialogue_HelmsDeep_Civilians002
-"CIVILS : A l'armurerie, archers ! L'Ennemi arrive, et nous devons être prêts !"
+"CIVILS : À l'armurerie, archers ! L'Ennemi arrive, et nous devons être prêts !"
 END
 
 SCRIPT:Dialogue_HelmsDeep_Civilians003
@@ -85,7 +85,7 @@ SCRIPT:Dialogue_HelmsDeep_Civilians003
 END
 
 SCRIPT:Dialogue_HelmsDeep_Ouro_Erkenbrand001
-"ERKENBRAND : Vous étiez parmi les rangs de l'Ennemi. Pourtant, vous ne vous êtes pas battu."
+"ERKENBRAND : Vous étiez dans les rangs de l'Ennemi. Pourtant, vous ne vous êtes pas battu."
 END
 
 SCRIPT:Dialogue_HelmsDeep_Ouro_Erkenbrand002
@@ -153,7 +153,7 @@ SCRIPT:Dialogue_HelmsDeep_Final_Haldir001
 END
 
 SCRIPT:Dialogue_HelmsDeep_Final_Elladan001
-"ELLADAN : Enchanté, Haldir de la Lorien. Nous avons entendu des histoires de braves gardiens du Bois d'Or."
+"ELLADAN : Enchanté, Haldir de la Lorien. Nous avons entendu des histoires de braves gardiens du Bois Doré."
 END
 
 SCRIPT:Dialogue_HelmsDeep_Final_Elrohir001
@@ -289,7 +289,7 @@ SCRIPT:Hint_HelmsDeep_Main Gate 01
 End
 
 SCRIPT:Hint_HelmsDeep_Main Gate 02
-"Les portes peuvent être utilisées pour transporter les héros sur la chaussée."
+"Les portes latérales du corps de garde permettent de transporter les héros sur la chaussée."
 End
 
 SCRIPT:Hint_HelmsDeep_Main Gate 03
@@ -298,4 +298,24 @@ END
 
 SCRIPT:Hint_HelmsDeep_Spearthrower
 "Les lanceurs de lances infligent de lourds dégâts aux béliers."
+END
+
+
+/////////////CINE - GATE///////////////
+
+
+SCRIPT:mgfotr_theoden077
+"THÉODEN : Ils reviennent ! À la porte ! Dégainez vos épées !"
+END
+
+SCRIPT:mgfotr_theoden078
+"THÉODEN : Aragorn, menez vos hommes à la chaussée ! Nous devons les repousser !"
+END
+
+SCRIPT:mgfotr_aragorn312
+"ARAGORN : Gimli, avec moi !"
+END
+
+SCRIPT:mgfotr_theoden014
+"THÉODEN : Barricadez les portes !"
 END

@@ -1,0 +1,563 @@
+////////////////TIMERS//////////////////
+
+SCRIPT:CaptureTimer
+"Forces will transfer in:"
+END
+
+SCRIPT:SetupCompleteTimer
+"Riding out to the Black Gate in:"
+END
+
+SCRIPT:OverrunOuter
+"Summit will be overrun in:"
+END
+
+SCRIPT:TESTTIMER
+"Use this timer to test"
+END
+
+////////////////HINTS//////////////////
+
+SCRIPT:MissionHint01_BlackGate
+"Move troops onto marked positions.\nAll 25 battalions must be committed.\nYou may choose 8 heroes to hold the slopes. All remaining heroes will defend the summit."
+END
+
+SCRIPT:MissionHint02_BlackGate
+"Approach heroes to speak to them."
+END
+
+SCRIPT:MissionHint03_BlackGate
+"Move Aragorn to the summit once you have finished your preparations."
+End
+
+SCRIPT:MissionHint04_BlackGate
+"Aragorn cannot leave his command at the top of the hill. Use his powers to support your troops during the battle."
+END
+
+SCRIPT:MissionHint05_BlackGate
+"Pull Aragorn back to the summit of the hill."
+END
+
+////////////////COUNTERS//////////////////
+
+SCRIPT:SetupTransferredHeroes
+"Heroes remaining: "
+END
+
+SCRIPT:SetupTransferredHordes
+"Battalions remaining: "
+END
+
+////////////////CINE - INTRO//////////////////
+
+SCRIPT:mgfotr_aragorn335
+"Aragorn: We will seize this hillock and defend it."
+End
+
+SCRIPT:mgfotr_aragorn336
+"Aragorn: With luck, we will be able to distract the Dark Lord's gaze long enough."
+End
+
+SCRIPT:mgfotr_aragorn337
+"Come, let us prepare!"
+End
+
+////////////////SETUP//////////////////
+
+SCRIPT:mgfotr_aragorn139
+"There is always hope."
+END
+
+SCRIPT:mgfotr_aragorn249
+"Frodo is alive. That is what I must believe."
+END
+
+SCRIPT:mgfotr_aragorn250A
+"Indeed, my friend. The Dark Lord believes his victory is inevitable."
+END
+
+SCRIPT:mgfotr_aragorn250B
+"That it lies within the nature of Man's base desires. He must be proven wrong."
+END
+
+SCRIPT:mgfotr_aragorn251
+"Do not despair Haldir of Lothlorien. There is always hope"
+END
+
+SCRIPT:mgfotr_pippin137
+"Good one!.. wait, really?!"
+END
+
+SCRIPT:mgfotr_pippin138
+"We must be brave for our friends!"
+END
+
+SCRIPT:mgfotr_merry033
+"I'll stand with you Aragorn!"
+END
+
+SCRIPT:mgfotr_merry034
+"For Frodo and Sam!"
+END
+
+SCRIPT:mgfotr_gimli109
+"Hmph! The right choice! What took you so long?"
+END
+
+SCRIPT:mgfotr_gimli110
+"I'm with you lad! But keep the speeches short, eh?"
+END
+
+SCRIPT:mgfotr_legolas118
+"I am with you Aragorn, I will follow you to the end."
+END
+
+SCRIPT:mgfotr_legolas119
+"My bow and my blades are yours, my friend."
+END
+
+SCRIPT:mgfotr_gandalf292
+"I am with you, Aragorn."
+END
+
+SCRIPT:mgfotr_gandalf293
+"We have placed our hopes in you. Lead on, Aragorn."
+END
+
+SCRIPT:mgfotr_boromir103
+"My sword is yours Aragorn. Let us make our stand together."
+END
+
+SCRIPT:mgfotr_boromir104
+"I will follow you my brother, my captain, my King. "
+END
+
+SCRIPT:mgfotr_boromir105A
+"Sauron committed a great force to conquer Minas Tirith."
+END
+
+SCRIPT:mgfotr_boromir105B
+"He may have been convinced that the White City harboured the One Ring, and that we might attempt to use it against him there."
+END
+
+SCRIPT:mgfotr_boromir105C
+"For all his cunning, Sauron has underestimated our resilience to his corruption."
+END
+
+SCRIPT:mgfotr_haldir008
+"Even without his ring, Sauron's fell hordes will eventually overrun us all"
+END
+
+SCRIPT:mgfotr_haldir009
+"There is no hope for us, but that which we have placed in others."
+END
+
+SCRIPT:mgfotr_haldir036
+"I will stand with you, Elessar."
+END
+
+SCRIPT:mgfotr_haldir037
+"Within you lies the hope of all free peoples, Aragorn."
+END
+
+SCRIPT:mgfotr_eomer038
+"Let us draw swords together!"
+END
+
+SCRIPT:mgfotr_eomer039
+"You have our trust and our hearts. For Rohan."
+END
+
+SCRIPT:mgfotr_elfhelm007
+"My sword is yours, o Great King."
+END
+
+SCRIPT:mgfotr_elfhelm008
+"I am with you. For Theoden! For Eomer!"
+END
+
+SCRIPT:mgfotr_beregond013
+"I am honoured to stand by your side, my King"
+END
+
+SCRIPT:mgfotr_beregond014
+"Your valour inspires us all, Aragorn. Let us show them the glory of Gondor."
+END
+
+SCRIPT:mgfotr_golasgil001
+"I will do all in my power to aid you, Aragorn. Our country depends on us."
+END
+
+SCRIPT:mgfotr_golasgil002
+"You face a grim fate, Aragorn, but you do not face it alone."
+END
+
+SCRIPT:mgfotr_imrahil001
+"Dol Amroth stands with you, my King."
+END
+
+SCRIPT:mgfotr_imrahil002
+"You inspire us all, Aragorn. We will persevere."
+END
+
+SCRIPT:mgfotr_elladan072
+"Our blades are sharp, Elessar. We will fight with you to the end."
+END
+
+SCRIPT:mgfotr_elladan073
+"May the stars guide us"
+END
+
+SCRIPT:mgfotr_elrohir073
+"Our strength is yours, Elessar."
+END
+
+SCRIPT:mgfotr_elrohir074
+"Let us bring an end to this darkness."
+END
+
+SCRIPT:mgfotr_halbarad028
+"A strange doom unfolds before us. Here we stand, men of valour all, but hopelessly outmatched."
+END
+
+SCRIPT:mgfotr_halbarad029A
+"We have achieved many victories, yet all our labours may come to nought."
+END
+
+SCRIPT:mgfotr_halbarad029B
+"Does the ringbearer still live? Does it matter?"
+END
+
+SCRIPT:mgfotr_halbarad036
+"For the Dunedain, and for you, Aragorn. Our swords are yours."
+END
+
+SCRIPT:mgfotr_halbarad037
+"The blood of Westernesse runs true with you, Aragorn. Together, we will emerge victorious."
+END
+
+SCRIPT:mgfotr_faramir094
+"I stand with you, Aragorn. This darkness will not endure."
+END
+
+SCRIPT:mgfotr_faramir095
+"The storm has burst at last. So be it."
+END
+
+SCRIPT:mgfotr_Cine100A
+"Never thought I'd die fighting side by side with an Elf."
+END
+
+SCRIPT:mgfotr_Cine100B
+"What about side by side with a friend?"
+END
+
+SCRIPT:mgfotr_Cine100C
+"Aye - I could do that."
+END
+
+////////////////MOS - INTRO//////////////////
+
+SCRIPT:mgfotr_mouth012
+"What chance do you think you have? The Dark Lord has not yet begun to unleash his full might."
+END
+
+SCRIPT:mgfotr_mouth013
+"There is no victory to be gained for you. You are all going to die."
+END
+
+SCRIPT:mgfotr_mouth014
+"My Lord is merciful, you can still save yourself"
+END
+
+SCRIPT:mgfotr_mouth015
+"Foolish! Your fate is sealed"
+END
+
+SCRIPT:mgfotr_mouth016
+"None shall remember your name"
+END
+
+SCRIPT:mgfotr_mouth017
+"A broken sword, and a broken line"
+END
+
+SCRIPT:mgfotr_mouth018
+"My Master shall reward me greatly for this!"
+END
+
+SCRIPT:mgfotr_mouth019
+"Your halfling fought better!"
+END
+
+SCRIPT:mgfotr_mouth020
+"I am an Emissary! How dare you assault me!"
+END
+
+SCRIPT:mgfotr_mouth021
+"Guards... take care of him."
+END
+
+SCRIPT:mgfotr_mouth022
+"My guards will be more than enough."
+END
+
+SCRIPT:mgfotr_mouth023
+"Do you think you stand a chance against my guards?"
+END
+
+////////////////SAURON - INTRO//////////////////
+
+
+SCRIPT:mgfotr_Cine084
+"Sauron: Such a grand fate you have envisioned for yourself. It is clear that your forebears have passed their deluded conceit on to you."
+End
+
+SCRIPT:mgfotr_sauron058
+"Sauron: A king of a doomed people, unable to save those he cares for. Surrender to me, or you will join your brethren in death."
+End
+
+SCRIPT:mgfotr_sauron059
+"Sauron: A king of a doomed people, destined to fail, just like your forebears. Surrender to me, or you will join them in death."
+End
+
+SCRIPT:mgfotr_sauron060
+"Sauron: He, too, sought to challenge the Might of Mordor. You will share his fate."
+End
+
+SCRIPT:mgfotr_sauron061
+"Sauron: So easily did he fall to the power of the Ring. How could you hope to resist?"
+End
+
+SCRIPT:mgfotr_sauron062
+"Sauron: He was mighty, yes, but I felled him all the same. Give up, Elessar, and receive my mercy."
+End
+
+SCRIPT:mgfotr_sauron063
+"Sauron: Fool. Resist while you can. In the end, it will cost you everything. Now strike, if you dare!"
+End
+
+SCRIPT:mgfotr_sauron064
+"Sauron: Death haunts all your line. So it is fated."
+End
+
+SCRIPT:mgfotr_sauron065
+"Sauron: You could not protect them. You have failed."
+End
+
+SCRIPT:mgfotr_sauron066
+"Sauron: Foolishness, thinly veiled as courage. You are just like him."
+End
+
+SCRIPT:mgfotr_sauron067
+"Sauron: You cannot escape the weakness that runs in your blood."
+End
+
+////////////////MOS - OUTRO//////////////////
+
+
+SCRIPT:mgfotr_mouth025
+"Mouth of Sauron: There is no power that will avail you now."
+End
+
+SCRIPT:mgfotr_mouth026
+"Mouth of Sauron: So ends the line of Isildur."
+End
+
+////////////////CINE - SPEECH//////////////////
+
+SCRIPT:mgfotr_aragorn200
+"Fall back!"
+END
+
+SCRIPT:mgfotr_aragorn193
+"Hold your ground! Hold your ground!"
+END
+
+SCRIPT:mgfotr_aragorn194
+"Sons of Gondor, of Rohan, my brothers"
+END
+
+SCRIPT:mgfotr_aragorn195
+"I see in your eyes. The same fear that would take the heart of me"
+END
+
+SCRIPT:mgfotr_aragorn196
+"A day may come when the courage of men fails, when we forsake our friends and break all bond of fellowship. But it is not this day!"
+END
+
+SCRIPT:mgfotr_aragorn197
+"An hour of wolves and shattered shields, when the age of men comes crashing down. But it is not this day. This day we fight!"
+END
+
+SCRIPT:mgfotr_aragorn198
+"By all that you hold dear on this good earth. I bid you stand. Men of the West!"
+END
+
+////////////////CINE - INNER//////////////////
+
+SCRIPT:mgfotr_aragorn429
+"Aragorn: Fall back! Fall back!"
+END
+
+SCRIPT:mgfotr_aragorn430
+"Aragorn: Stand with me! Together, we will fight to the end!"
+END
+
+
+////////////////DIALOGUE//////////////////
+
+
+SCRIPT:mgfotr_aragorn199
+"For Frodo"
+END
+
+SCRIPT:mgfotr_aragorn339
+"We must not falter!"
+END
+
+SCRIPT:mgfotr_aragorn340
+"They come! Brace yourselves!"
+END
+
+SCRIPT:mgfotr_aragorn341
+"Hold onto your courage!"
+END
+
+SCRIPT:mgfotr_aragorn342
+"Stand now!"
+END
+
+SCRIPT:mgfotr_aragorn343
+"The fate of Middle-earth rests on us!"
+END
+
+SCRIPT:mgfotr_aragorn344
+"Hold the line! Let them come to us!"
+END
+
+SCRIPT:mgfotr_aragorn345
+"Hold the hill!"
+END
+
+SCRIPT:mgfotr_aragorn346
+"Do not fear!"
+END
+
+SCRIPT:mgfotr_aragorn347
+"Stay true, more are coming!"
+END
+
+SCRIPT:mgfotr_aragorn348
+"Easterlings!"
+END
+
+SCRIPT:mgfotr_aragorn349
+"Men from the far East!"
+END
+
+SCRIPT:mgfotr_aragorn350
+"Aim for the trolls!"
+END
+
+SCRIPT:mgfotr_aragorn351
+"Drums!"
+END
+
+SCRIPT:mgfotr_aragorn352
+"Nazgul!"
+END
+
+SCRIPT:mgfotr_aragorn353
+"Fight! Fight to the last man!"
+END
+
+SCRIPT:mgfotr_aragorn354
+"You will fear us!"
+END
+
+SCRIPT:mgfotr_aragorn355
+"By Elendil!"
+END
+
+SCRIPT:mgfotr_aragorn356
+"The Heir of Isildur is upon you!"
+END
+
+SCRIPT:mgfotr_aragorn357
+"Death awaits you!"
+END
+
+SCRIPT:mgfotr_aragorn358
+"Crawl back to your Master!"
+END
+
+SCRIPT:mgfotr_aragorn359
+"The Heir of Isildur has returned!"
+END
+
+SCRIPT:mgfotr_aragorn360
+"Do not falter! Stand as one!"
+END
+
+SCRIPT:mgfotr_aragorn361
+"Fight on! For Gondor! For Rohan!"
+END
+
+SCRIPT:mgfotr_aragorn362
+"For Frodo!"
+END
+
+SCRIPT:mgfotr_aragorn363
+"This Evil will not last!"
+END
+
+SCRIPT:AragornNazgul01Warning
+"A Nazgul approaches from the North-East!"
+END
+
+SCRIPT:AragornNazgul02Warning
+"A Nazgul approaches from the North-West!"
+END
+
+SCRIPT:AragornNazgul03Warning
+"A Nazgul approaches from the West!"
+END
+
+SCRIPT:AragornMollokWarning
+"The Troll-chief approaches from the North-East!"
+END
+
+SCRIPT:FrodoMTDOOM
+"Time until the Ring's destruction:"
+END
+
+////////////////DEBUG//////////////////
+
+SCRIPT:Debug_FreePlay_On
+"Invincible Heroes On & Lose Conditions Disabled"
+End
+
+SCRIPT:Debug_FreePlay_Off
+"Invincible Heroes Off & Lose Conditions Enabled"
+End
+
+SCRIPT:Debug_Disable_Standers
+"Orc Standers Disabled"
+End
+
+SCRIPT:Debug_Disable_Wave_Count
+"Wave: "
+End
+
+SCRIPT:Debug_Disable_Wave_Alive
+"Enemy Hordes Alive: "
+End
+
+SCRIPT:Debug_Heroes_Locked
+"HEROES LOCKED"
+End
+
+SCRIPT:Debug_Heroes_Unlocked
+"HEROES UNLOCKED"
+End

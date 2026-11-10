@@ -93,7 +93,7 @@ SCRIPT:Dialogue_Westfold_Keep 08
 End
 
 SCRIPT:Dialogue_Westfold_Keep 09
-"GIMLI : Je resterai avec l'elfe. Il y aura probablement un travail de hache à faire."
+"Gimli : Je resterai avec l'Elfe. Il y aura sans doute du travail pour la hache."
 End
 
 DIALOGEVENT:mgfotr_dunhere001
@@ -234,4 +234,200 @@ END
 
 DIALOGEVENT:mgfotr_dunhere035
 "DUNHERE : Gandalf ! Nous avons besoin de votre aide !"
+END
+
+SCRIPT:mgfotr_rohanguy013
+"Défenseur : Seigneurs, nous devons fermer cette porte ! Aidez-nous à repousser ces sales Uruk-hai !"
+END
+
+SCRIPT:mgfotr_rohanguy014
+"Ça y est ! Merci ! Veuillez gagner l'est de la cité. La garnison de là-bas aura sûrement besoin de votre aide !"
+END
+
+SCRIPT:mgfotr_rohanguy015
+"Nous voilà saufs pour l'instant, mais nous devons préparer Upbourn avant le retour des troupes de Saroumane. Je vous prie de chercher le capitaine Dunhere."
+END
+
+SCRIPT:mgfotr_aragorn296
+"Hasufel, au galop !"
+END
+
+SCRIPT:mgfotr_aragorn297
+"Cette porte doit être sécurisée !"
+END
+
+SCRIPT:mgfotr_aragorn298
+"Nous devons regagner la porte sud !"
+END
+
+SCRIPT:mgfotr_aragorn299
+"Dunhere ! Prenez garde derrière vous !"
+END
+
+SCRIPT:mgfotr_aragorn300
+"Alors prenons les hommes que nous avons et frappons tant que leur attaque est stoppée !"
+END
+
+SCRIPT:mgfotr_boromir093
+"Boromir : Les Hommes du Rohan sont de rudes guerriers. Ils ne céderont pas leur forteresse facilement."
+END
+
+SCRIPT:mgfotr_boromir094
+"Nous sommes près de la poterne !"
+END
+
+SCRIPT:mgfotr_boromir095
+"Nous devons protéger ces villageois !"
+END
+
+SCRIPT:mgfotr_boromir096
+"Des piques ! Attention !"
+END
+
+SCRIPT:mgfotr_boromir097
+"Pour le Rohan !"
+END
+
+SCRIPT:mgfotr_boromir098
+"Hommes du Rohan ! Défendez vos foyers !"
+END
+
+SCRIPT:mgfotr_gimli079
+"Bien ! Il me tarde de sentir la roche solide sous mes pieds !"
+END
+
+SCRIPT:mgfotr_gimli080
+"Ha ! Ils battent déjà en retraite !"
+END
+
+SCRIPT:mgfotr_gimli081
+"Nous sommes près de la poterne !"
+END
+
+SCRIPT:mgfotr_gimli082
+"Nous devons protéger ces villageois !"
+END
+
+SCRIPT:mgfotr_legolas099
+"Des piques ! Attention !"
+END
+
+SCRIPT:mgfotr_legolas100
+"Avec moi, Hommes du Rohan ! Chassez ces vils envahisseurs de votre cité !"
+END
+
+SCRIPT:mgfotr_gandalf274
+"Nous approchons des murs de la Moria."
+END
+
+SCRIPT:mgfotr_gandalf275
+"Gandalf : Nous approchons d'Upbourn ! Hâtons-nous vers sa porte sud. Avec un peu de chance, sa garnison n'est pas encore tombée !"
+END
+
+SCRIPT:mgfotr_gandalf276
+"Nous devons défendre la porte ! Avec moi !"
+END
+
+SCRIPT:mgfotr_gandalf277
+"Ces villageois sont piégés chez eux ! Nous devons déblayer les décombres et les délivrer !"
+END
+
+SCRIPT:mgfotr_gandalf278
+"Avancez vite. Nous devons atteindre la garnison de l'est avant qu'elle ne soit submergée."
+END
+
+SCRIPT:mgfotr_gandalf279
+"Nous devons rebâtir ce que nous pouvons et rassembler tous ceux qui sont en état de se battre. La horde maléfique de Saroumane reviendra bientôt."
+END
+
+SCRIPT:mgfotr_gandalf280
+"Les forces d'Isengard ont percé le mur extérieur !"
+END
+
+SCRIPT:mgfotr_boromir025
+"Boromir : Je crains que le Gondor ne survive plus très longtemps. Grand est le besoin de mon peuple, \n et de mon père, dont l'autorité faiblit."
+END
+
+SCRIPT:mgfotr_gandalf117
+"Gandalf : Denethor est fort, mais même lui ne peut égaler la volonté de Sauron. \n Ses défenses vacillent. Votre frère sera submergé."
+END
+
+SCRIPT:mgfotr_gandalf118
+"Gandalf : En vous réside une part de mon espoir pour la race des Hommes. L'Anneau a cherché à vous corrompre, \n mais il n'a pas prévalu. Frodon reste hors de la pensée et de la portée de Sauron."
+END
+
+SCRIPT:mgfotr_gandalf119
+"Gandalf : Sous l'emprise de l'Ombre, vous avez subi un grand changement. \n Vous n'êtes plus le même Homme qui est parti de Fondcombe, Boromir."
+END
+
+SCRIPT:mgfotr_boromir026
+"Boromir : Que dois-je faire, Mithrandir ?"
+END
+
+SCRIPT:mgfotr_gandalf120
+"Gandalf : Vous devez vous consacrer à la protection des autres. \n Protégez-les de ce qui n'a pu vous soumettre."
+END
+
+SCRIPT:mgfotr_gandalf390
+"Gandalf : Retournez à Minas Tirith. Emportez avec vous l'honneur et le courage. \n Montrez à votre peuple qu'il n'est aucune tempête qu'il ne puisse affronter. Aucun mal qu'il ne puisse vaincre."
+END
+
+SCRIPT:mgfotr_gandalf123
+"Gandalf : Délivrez votre père de son désespoir."
+END
+
+SCRIPT:mgfotr_boromir109
+"Boromir : Qu'il en soit ainsi."
+END
+
+SCRIPT:mgfotr_boromir110
+"Boromir : C'est ici que nous devons nous séparer, mon roi."
+END
+
+SCRIPT:mgfotr_aragorn417
+"Aragorn : Nous nous reverrons, Boromir."
+END
+
+SCRIPT:mgfotr_boromir111
+"Boromir : Adieu"
+END
+
+SCRIPT:mgfotr_gandalf025
+"Gandalf : Ce n'est qu'un avant-goût de la terreur qui se déverse désormais du Cercle d'Isengard."
+END
+
+SCRIPT:mgfotr_gandalf038
+"Gandalf : Saroumane n'est pas une simple marionnette. Son esprit est depuis longtemps tourné vers l'Anneau."
+END
+
+SCRIPT:mgfotr_gandalf127
+"Gandalf : Je ne doute pas qu'il cherche à renverser Sauron, uniquement pour prendre sa place."
+END
+
+SCRIPT:mgfotr_gandalf121
+"Gandalf : Je vois à présent ce que je ne voyais pas auparavant. Sa chute est ancienne. Il a renié tout ce qu'il défendait autrefois."
+END
+
+SCRIPT:mgfotr_gandalf122
+"Gandalf : Pour l'instant, il doit rassurer le Seigneur des Ténèbres sur sa loyauté. Par quelque maléfice, il a \n provoqué le dépérissement du Rohan. Sa lente trahison est enfin révélée."
+END
+
+SCRIPT:mgfotr_gandalf124
+"Gandalf : Éomer était le dernier rempart contre la marée. Son bannissement est un coup terrible. \n Je crains que le roi Théoden n'ait succombé aux murmures d'Orthanc."
+END
+
+SCRIPT:mgfotr_aragorn415
+"Aragorn : Alors nous devons partir sur-le-champ."
+END
+
+SCRIPT:mgfotr_gandalf125
+"Gandalf : En effet, bien que je craigne que le Château d'Or ne nous accueille pas de bon cœur."
+END
+
+SCRIPT:mgfotr_aragorn416
+"Aragorn : Je ne crois pas qu'ils puissent résister au Magicien Blanc."
+END
+
+SCRIPT:mgfotr_gandalf126
+"Gandalf : Moi non plus. Ensemble, nous guérirons ce mal et préparerons le Rohan à la guerre."
 END

@@ -24,11 +24,15 @@ SCRIPT:Dialogue_Osgiliath_ArmyMove02
 "Delay could risk the ring of power falling back into the hands of the enemy."
 END
 
-SCRIPT:Dialogue_Osgiliath_ArmyReturn01
-"Captain Faramir and his men are surrounded! We cannot stay here. We must seek refuge in the Court of Isildur. Come quickly."
+SCRIPT:mgfotr_gondorsoldier008
+"Captain Faramir and his men are surrounded! We cannot stay here."
 End
 
-SCRIPT:Dialogue_Osgiliath_CentreSquare01
+SCRIPT:mgfotr_gondorsoldier009
+"We must seek refuge in the Court of Isildur. Come quickly."
+End
+
+SCRIPT:mgfotr_gondorsoldier010
 "We must keep moving. The Nazgul is still circling above and these ruins offer little cover."
 End
 
@@ -99,3 +103,32 @@ End
 SCRIPT:Dialogue_Osgiliath_Sewers05
 "A hero must be close to a gate winch to gain control over the floodgates."
 End
+
+SCRIPT:mgrotk_sam006
+"We did it!"
+END
+
+SCRIPT:mgfotr_gollum084
+"Master! Smeagol is trapped!"
+END
+
+SCRIPT:mgfotr_sam209
+"I'm trapped in here!"
+END
+
+SCRIPT:mgfotr_sam210
+"Don't worry Mr Frodo! We'll get you out of there!"
+END
+
+SCRIPT:MGAmonH_Frodo027
+"I'm trapped here!"
+END
+
+SCRIPT:mgfotr_frodo172
+"Don't worry! We'll get you out of there."
+END
+
+SCRIPT:mgfotr_faramir096
+"Halflings! I am trapped here!"
+END
+
