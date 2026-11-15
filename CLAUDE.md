@@ -122,6 +122,11 @@ Le moteur cherche `SUBTITLE:<X>` (ne pas mettre le préfixe dans `Label`). Une e
 
 ## 5. État au 31/10/2026 (base 10.0)
 
+- **Patch 10.0.2 (15/11/2026)** : 2 modifiées dans `lotr.str` (numéro de version, tooltip de Gandalf déjà juste en FR),
+  11 coquilles/ponctuations corrigées dans 6 `map.str` (3 points finaux repris en FR). `.map` modifiés (khazad, beacons,
+  lothlorien, minas outer, pelargir, redhorn) : submod à reconstruire. Sinon musiques de menu, INI, `game.dat` ;
+  aucun son ni cinématique. VO : `English_folder_str/lotr_10.0.2.str`.
+
 - **Patch 10.0.1 (10/11/2026)** : 2 ajoutées, 4 modifiées, 1 supprimée dans `lotr.str` (objectif des Feux d'alarme scindé
   en `Objective06_BeaconsA/B`, message de version différente en ligne, `GUI:LobbyRoom2` = BFME2) + 1 réplique de Pippin
   dans `map good lighting the beacons` (dont le `.map` a changé : submod à reconstruire). Aucun son ni cinématique modifié.
