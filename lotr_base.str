@@ -1,5 +1,9 @@
 // Clés du jeu de base absentes du lotr.str d'AotR (VF officielle de RotWK) : tools/base_vf.py
 
+SCRIPT:MGEttenmoors_Captain02
+"CAPITAINE ELFE : Tuez le Troll et libérez la Chambre des Ents."
+END
+
 LWA:ElvesArmy
 "Armée des Elfes"
 END
@@ -376,10 +380,6 @@ Map:MAPGOODAmonHen
 "Amon Hen - Bien"
 END
 
-Map:MAPGOODBlackGate
-"Porte Noire - Bien"
-END
-
 Map:MAPGOODFangorn
 "Avancées de Fangorn - Bien"
 END
@@ -662,10 +662,6 @@ END
 
 Map:MAPGOODBlueMountain
 "Bien 4 - Montagnes Bleues"
-END
-
-Map:MAPGOODGreyHavens
-"Bien 5 - Havres Gris"
 END
 
 Map:MAPGOODCelduin

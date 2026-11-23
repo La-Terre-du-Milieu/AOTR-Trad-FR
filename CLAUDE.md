@@ -16,7 +16,7 @@ par *delta* avec des scripts, plutôt qu'à la main sur un fichier de 3 Mo.
 | Glossaire | `glossaire.csv` (généré depuis la traduction, puis arbitré à la main) |
 | Voix validées après écoute | `audio_valides.txt` |
 | Scripts | `tools/` (voir §4) |
-| Travail temporaire | `work/` (non versionné : rapports, lots, submod construit, paires audio) |
+| Travail temporaire | `work/` (non versionné : rapports, lots, submod construit, paires audio) ; `work/versions/<v>/` = diffs, lots et contrôles de chaque mise à jour ; `work/doublage/historique/` = anciennes versions de `repliques.csv` |
 | Anciennes traductions | `Ancien_fichier/` (archives, ne pas modifier) |
 | Mod installé (launcher) | `C:\AgeoftheRing\aotr\` — `data/lotr.str` et `maps/*/map.str` sont la **VO** |
 | Base du launcher | `C:\AgeoftheRing\bfme2`, `C:\AgeoftheRing\rotwk` (installations **anglaises**) |
@@ -100,14 +100,15 @@ par *delta* avec des scripts, plutôt qu'à la main sur un fichier de 3 Mo.
 | `cinematiques_vf.py <sortie> [extrait…] [--controle]` | VF des cinématiques (numpy + ffmpeg) → `<sortie>/<extrait>.mp3` + `liste.csv` (part VF, passages restés en anglais) |
 | `cinematiques_vf.py <sortie> "mgfotr_*" --voix` | Même chose pour les répliques de campagne (`data/audio/sounds`) tirées des films → `work/voix_vf` (233) |
 | `films_voix.py [--controle]` | Répliques de campagne tirées des films retrouvées **par le texte** (sous-titres anglais des versions longues), calées par le son dans ±20 s, VF posée → `work/voix_vf` + `liste_texte.csv` |
+| `films_texte.py [--applique <relu.csv>]` | **Avec le Python de Shire** (`..\Shire\.venv\Scripts\python.exe`, faster-whisper sur la carte graphique). Pour les 708 répliques de `work/voix_vf` : piste VF du film transcrite autour de la réplique (medium + noms en amorce, contexte ±20 s) et sous-titres français complets du même fichier → `work/voix_vf/texte_fr.csv`, à réconcilier (formulation du doublage, noms des sous-titres) puis `--applique` dans `repliques.csv` |
 | `base_vf.py` | `lotr_base.str` : clés du jeu de base absentes du `lotr.str` d'AotR (sinon lues en anglais dans `English.big`), VF officielle de RotWK ; ajouté au `lotr.str` du submod par `build_submod.py` |
 | `chargement.py` | Image de fond de l'écran de chargement avec « CHARGEMENT » (police Aniron à installer, DDS DXT3, Pillow) → `work/chargement/` ; copiée par `build_submod.py` |
 | `mapfile.py` | Décompression RefPack des `.map` et chaînes des scripts (« Audio - Qui - Texte » avant le son joué) |
 | `doublage.py <liste.csv> [--transcrit] \| lots \| reinjecte \| roles \| controle` | Répliques de campagne à doubler (`work/doublage/repliques.csv` : personnage, mission, durée, VO, FR) ; lots de traduction ; dossiers par rôle avec la VO de référence ; contrôle des `.wav` livrés |
 | `saut_mission.py <départ> <voulue> \| --annule \| --liste` | Test en jeu : la mission de départ du Save Generator (`FordsofIsen`, `LordoftheRings`) charge une autre carte (INI de campagne copié dans le submod) ; **annuler après le test** |
 | `soustitres.py transcrit \| construit` | Transcrit (faster-whisper) les passages anglais dans `soustitres.csv` (colonne FR à remplir) ; génère les sous-titres de vidéo du submod |
-| `soustitres_cartes.py <sortie> [carte…] \| --bilan <rapport.csv> [carte…]` | Ajoute aux scripts des cartes solo un `SHOW_MILITARY_CAPTION` (« PERSONNAGE : FR ») après chaque réplique jouée sans texte (`SOUND_PLAY_NAMED`, `PLAY_SOUND_EFFECT*`) ; texte : `repliques.csv`, sinon sous-titres VF de BFME1. Appelé par `build_submod.py` (carte réécrite non compressée, ~6 000 sous-titres) ; les textes vont dans le `lotr.str` du submod (un map.str vide dans le mod n'était pas lu : MISSING à la Dernière Alliance), sauf les clés qu'un map.str définit déjà. Locuteur deviné du nom du son (`SPEAKER_CODES` pour les exceptions : `Cine` sans locuteur, Saroumane, Haldir…) ; extraits `Cine` sans parole non sous-titrés. `--bilan` : chaque son lancé par un script, sous-titré ou non. Un seul emplacement pour `SHOW_MILITARY_CAPTION` (le dernier texte remplace le précédent) : `overlapped()` date textes et sons en suivant les minuteurs de chaque scène et n'ajoute pas notre sous-titre s'il couperait un texte d'AotR de plus de 3 s ou s'il serait remplacé en moins de 1,5 s (doublon) ; `SCRIPT_FIXES` : actions ajoutées aux scripts d'AotR (Feux d'alarme : noms de lieux en pause pendant les cinématiques, sinon « RATH DÍNEN » cachait Pippin) |
-| `build_submod.py --dest <dir> \| --mod "<nom>" [--sans-audio] [--campagne-vf]` | Assemble le submod (dans `work/` ou dans le dossier du launcher), avec cinématiques VF et sous-titres. Par défaut (version 1) : dialogues de campagne (`m…_*.wav`) en VO, cinématique sous-titrée = VO ; `--campagne-vf` remet la VF des campagnes |
+| `soustitres_cartes.py <sortie> [carte…] \| --bilan <rapport.csv> [carte…]` | Ajoute aux scripts des cartes solo un `SHOW_MILITARY_CAPTION` (« PERSONNAGE : FR ») après chaque réplique jouée sans texte (`SOUND_PLAY_NAMED`, `PLAY_SOUND_EFFECT*`) ; texte : `repliques.csv`, sinon sous-titres VF de BFME1. Appelé par `build_submod.py` (carte réécrite non compressée, ~6 000 sous-titres) ; les textes vont dans le `lotr.str` du submod (un map.str vide dans le mod n'était pas lu : MISSING à la Dernière Alliance), sauf les clés qu'un map.str définit déjà. Locuteur deviné du nom du son (`SPEAKER_CODES` pour les exceptions : `Cine` sans locuteur, Saroumane, Haldir…) ; extraits `Cine` sans parole non sous-titrés. `--bilan` : chaque son lancé par un script, sous-titré ou non. Un seul emplacement pour `SHOW_MILITARY_CAPTION` (le dernier texte remplace le précédent) : `overlapped()` date textes et sons en suivant les minuteurs de chaque scène et n'ajoute pas notre sous-titre s'il couperait un texte d'AotR de plus de 3 s ou s'il serait remplacé en moins de 1,5 s (doublon) ; `SCRIPT_FIXES` : actions ajoutées aux scripts d'AotR (Feux d'alarme : noms de lieux en pause pendant les cinématiques, sinon « RATH DÍNEN » cachait Pippin). Pas de sous-titre non plus pour un son dont un script voisin (parent, enfant ou frère, liés par `ENABLE_SCRIPT`, `CALL_SUBROUTINE` ou un minuteur) affiche la même réplique : `already_shown()`, VO comparée sur les mots de plus de 3 lettres (≥ 0,3, frère ≥ 0,5), ex. Conseil d'Elrond « Rivendell - Speech - … » → « Audio - … » |
+| `build_submod.py --dest <dir> \| --mod "<nom>" [--sans-audio] [--campagne-vf]` | Assemble le submod (dans `work/` ou dans le dossier du launcher), avec cinématiques VF et sous-titres. Par défaut (version 1) : dialogues de campagne (`m…_*.wav`) en VO, cinématique sous-titrée = VO ; `--campagne-vf` remet la VF des campagnes. Les textes `SCRIPT:`/`DIALOGEVENT:` sont coupés à 100 caractères par ligne (`rules.wrap`), **jamais plus de 4 lignes** (au-delà, le jeu plante : `MAX_CAPTION_LINES`) |
 | `paquet_test.py [sortie.zip] [--sans-audio] [--public]` | Zip du submod du launcher (version active + bloc de `mods_manifest.json` + `Installer.bat`/`installer.ps1` qui copie le dossier et inscrit le submod sans toucher aux autres + LISEZMOI). Par défaut version de test pour un testeur ; `--public` → `work/Traduction_FR_AotR_<version>.zip`, mis sur `srv.laterredumilieu.fr` et lié depuis le tuto (`laterredumilieu/pages/mods/aotr.vue`). `--sans-audio` ≈ 50 Mo au lieu de ≈ 800 Mo |
 
 
@@ -121,6 +122,27 @@ puis `data/english/movies/<Video>.ini` avec un bloc `SubTitles <Video>` (`FontNa
 Le moteur cherche `SUBTITLE:<X>` (ne pas mettre le préfixe dans `Label`). Une erreur de syntaxe fait planter le jeu au lancement.
 
 ## 5. État au 31/10/2026 (base 10.0)
+
+- **Corrections du 23/11/2026** (retours de la campagne SdA en jeu) → **submod 1.2** (même zip `Traduction_FR_AotR_10.0.2.zip`,
+  l'ancien rangé dans `work/versions/10.0.2/`, log `build_1.2.log`) :
+  - crash à « L'Anneau part vers le Sud » (Redhorn) : `SHOW_MILITARY_CAPTION` de 5 lignes (`mgfotr_gandalf129`, 480 car.) ;
+    le moteur n'en a que 4. `rules.wrap` limite à 4 lignes ; 3 autres cas (Moria `gandalf132`, Compagnie grise
+    `halbarad024`, Gouffre de Helm `dialogue_helmsdeep_ouro_halbarad003`). Une ligne trop large ne plante pas (VO jusqu'à 1 400 px).
+  - Conseil d'Elrond : nos sous-titres doublaient les fenêtres à portrait d'AotR (scripts liés par `ENABLE_SCRIPT`) → `already_shown()`.
+  - « Dernière VO » prise par tri alphabétique (`lotr_9.3.str` !) dans `doublage.py` et `base_vf.py` → `doublage.latest_vo()` ;
+    187 répliques de `repliques.csv` reprises du texte officiel de la VO 10.0, `lotr_base.str` régénéré.
+  - Fenêtre du Conseil restée en anglais : `SCRIPT:Gimli002` (« Dwarves too like to gather around the fire… »).
+  - Doublons : 183 sous-titres retirés en tout (scripts voisins liés par minuteur, parents, frères).
+  - Répliques des films (708) : texte du doublage VF par `films_texte.py` (medium GPU + sous-titres FR des mkv), réconcilié
+    par 3 relecteurs Sonnet (`work/voix_vf/relecture/relu.csv`) : 349 répliques de `repliques.csv` et 71 textes d'AotR
+    (`map.str`, `lotr.str`) remis au texte du doublage. Plusieurs « VO » de `repliques.csv` étaient fausses (noms de sons,
+    Whisper sur de l'elfique : aragorn142 = « Car ils n'en auront aucune »).
+  - Énigmes dans le noir (Conseil d'Elrond, `mghob_*`) : 51 répliques retrouvées par le son dans la scène
+    d'*Un voyage inattendu* (7 850–8 700 s), VO corrigée d'après les sous-titres anglais, VF et texte du doublage ;
+    fenêtres `SCRIPT:Gollum Riddle 01-03` aussi. Puis `cinematiques_vf.py --voix` sur les 1 428 autres répliques
+    « à doubler » hors `mgfotr_` (7 min) : 12 de plus seulement (`work/voix_vf/liste_autres_campagnes.csv`) ; le reste
+    (`mgrotk_` 638, `mgnfotr_` 177…) est enregistré par AotR → doublage.
+  - « Elfstone » = **Pierre Elfique** (arbitrage de l'utilisateur, glossaire).
 
 - **Patch 10.0.2 (15/11/2026)** : 2 modifiées dans `lotr.str` (numéro de version, tooltip de Gandalf déjà juste en FR),
   11 coquilles/ponctuations corrigées dans 6 `map.str` (3 points finaux repris en FR). `.map` modifiés (khazad, beacons,
@@ -137,7 +159,7 @@ Le moteur cherche `SUBTITLE:<X>` (ne pas mettre le préfixe dans `Label`). Une e
   (Sonnet) puis relues (Sonnet). `lotr.str` et les 48 maps : 0 manquante, 0 obsolète, 0 placeholder.
 - Maps retirées en 10.0 : `hobbit azanulbizar` (textes passés dans `lotr.str`), `mp besiege helms deep`, `sp evil fornost`.
 - Noms de la Comté arbitrés (Ledoux) : Sacquet de Besace, l'Ancien (Gaffer), Ted Rouquin, Bill Fougeard, Grenouillers,
-  Sanglebuc ; Sharkey et Shirriff gardés. Questions des relecteurs : `work/lots_10.0/questions.csv` (119, non versionné).
+  Sanglebuc ; Sharkey et Shirriff gardés. Questions des relecteurs : `work/versions/10.0/lots_10.0/questions.csv` (119, non versionné).
 - Audio 10.0 : Aragorn n'a plus de voix modifiées ; 65 nouvelles d'Éowyn ; 11 voix d'Éomer retirées d'`audio_valides.txt`
   (fichiers remplacés). 53 paires d'unités validées à l'écoute.
 - Cinématiques : 68 extraits en VF (films + VF EA d'Angmar, `CS11`, `CS15`), 53 sous-titres dans 12 vidéos
@@ -217,6 +239,7 @@ Fable/Opus en sous-agent seulement pour un lot à forte valeur littéraire (dial
    (colonne FR ; répliques des films : **texte du doublage français**, pas les sous-titres officiels, qui sont
    reformulés pour la lecture — on reconnaît la réplique telle qu'on l'entend en VF).
 7. `python tools/build_submod.py --mod "Traduction FR"`, test en jeu, commit `update traduction 10.0`, publication.
+8. Ranger les fichiers de travail de la version (diffs, `*_tm.csv`, lots, check, log du build) dans `work/versions/<v>/`.
 
 ## 9. Questions ouvertes
 

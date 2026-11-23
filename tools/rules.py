@@ -11,9 +11,26 @@ _GLUED_QE = re.compile(r'(?<=[0-9A-Za-zÀ-ÖØ-öø-ÿ%)»])([?!])')  # "mot?"  
 _GLUED_COLON = re.compile(r'(?<=[A-Za-zÀ-ÖØ-öø-ÿ%)»])([:;])(?= )')  # "Bonus: x" -> "Bonus\xa0: x"
 
 
-def wrap(text, width=100):
+MAX_CAPTION_LINES = 4     # sous-titres « lettre par lettre » (SHOW_MILITARY_CAPTION) : au-delà, le jeu plante
+
+
+def wrap(text, width=100, max_lines=MAX_CAPTION_LINES):
     """Coupe aux espaces (\\n littéral des .str) les lignes de plus de `width` caractères, en lignes équilibrées :
-    le moteur n'enroule pas les textes affichés à l'écran (dialogues de campagne), ils sortent de l'écran."""
+    le moteur n'enroule pas les textes affichés à l'écran (dialogues de campagne), ils sortent de l'écran.
+
+    Jamais plus de `max_lines` lignes : le moteur (hérité de Generals) n'a que 4 lignes pour un SHOW_MILITARY_CAPTION
+    et plante à la 5e (crash du 23/11/2026, « L'Anneau part vers le Sud », mgfotr_gandalf129 de 480 caractères).
+    Un texte trop long est alors recoupé en `max_lines` lignes plus larges, sans les \\n de la VO."""
+    out = _wrap(text, width)
+    if out.count('\\n') >= max_lines:
+        flat = ' '.join(p.strip() for p in text.split('\\n') if p.strip())
+        width = -(-len(flat) // max_lines)
+        while (out := _wrap(flat, width)).count('\\n') >= max_lines:
+            width += 2
+    return out
+
+
+def _wrap(text, width):
     out = []
     for part in text.split('\\n'):
         part = part.strip()

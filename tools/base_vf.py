@@ -8,6 +8,7 @@ import os
 import sys
 import tempfile
 
+import doublage
 import memoire
 import rules
 import strfile
@@ -51,6 +52,5 @@ def main(vo_path):
 
 
 if __name__ == '__main__':
-    vo = sys.argv[1] if len(sys.argv) > 1 else os.path.join(ROOT, 'English_folder_str', sorted(
-        f for f in os.listdir(os.path.join(ROOT, 'English_folder_str')) if f.startswith('lotr_'))[-1])
+    vo = sys.argv[1] if len(sys.argv) > 1 else doublage.latest_vo()
     main(vo)

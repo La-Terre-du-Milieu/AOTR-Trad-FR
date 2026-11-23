@@ -37,6 +37,13 @@ OLD = re.compile(r'(?i)backup|_old|old\.|archive|crash| - old')
 CAMPAIGN = r'(?i)^(mg[a-z]+_|ma(destr?|carnd|rhuda|gunda|bardo|wight|caw)_|mtciv)'   # pas les voix d'unités (mahud_, mablung_…)
 
 
+def latest_vo():
+    """Dernière VO de English_folder_str (tri par numéro de version : « 10.0.2 » après « 9.3.3 »)."""
+    folder = os.path.join(ROOT, 'English_folder_str')
+    files = [f for f in os.listdir(folder) if re.fullmatch(r'lotr_[\d.]+\.str', f)]
+    return os.path.join(folder, max(files, key=lambda f: [int(x) for x in f[5:-4].split('.')]))
+
+
 INCOMPLETE = ('à transcrire', 'script tronqué', 'script douteux')     # sources à passer par Whisper
 SILENT = 'sans parole (Whisper)'
 
@@ -168,8 +175,7 @@ def duration(path):
 
 
 def main(out, transcribe=False):
-    vo = strfile.read(os.path.join(ROOT, 'English_folder_str', sorted(
-        f for f in os.listdir(os.path.join(ROOT, 'English_folder_str')) if f.startswith('lotr_'))[-1])).index()
+    vo = strfile.read(latest_vo()).index()
     fr = strfile.read(os.path.join(ROOT, 'lotr.str')).index()
     old = {r['fichier']: r for r in (csv.DictReader(open(out, encoding='utf-8-sig'), delimiter=';')
                                       if os.path.exists(out) else [])}
@@ -246,8 +252,7 @@ def lots(table, out_dir, max_lines=250, max_words=2500):
     Les textes déjà traduits ailleurs dans lotr.str (même phrase anglaise) sont repris directement."""
     import lots as lotsmod
     from memoire import Memoire, adapt, alert, read_pairs
-    vo_path = os.path.join(ROOT, 'English_folder_str', sorted(
-        f for f in os.listdir(os.path.join(ROOT, 'English_folder_str')) if f.startswith('lotr_'))[-1])
+    vo_path = latest_vo()
     mem = Memoire()
     for k, en, fr in read_pairs(vo_path, os.path.join(ROOT, 'lotr.str')):
         mem.add('nous', k, re.sub(r'^[^:]{1,25}:\s*', '', en), fr)

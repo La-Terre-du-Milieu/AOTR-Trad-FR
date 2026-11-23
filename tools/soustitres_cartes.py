@@ -16,6 +16,7 @@ Usage : python tools/soustitres_cartes.py <dossier de sortie> [carte…]     (ex
 """
 import collections
 import csv
+import difflib
 import glob
 import os
 import re
@@ -378,6 +379,11 @@ class Texts:
         # clés que le map.str d'une carte définit déjà (texte d'AotR) : jamais dans lotr.str, il passerait devant
         self.map_keys = {e.lkey for p in glob.glob(os.path.join(ROOT, 'maps', 'maps', '*', 'map.str'))
                          for e in strfile.read(p).entries}
+        # textes VO (clé -> texte) : comparer une réplique au texte d'une fenêtre d'AotR (already_shown)
+        self.vo = {}
+        for p in [doublage.latest_vo()] + glob.glob(os.path.join(ROOT, 'English_folder_str', 'maps', '*', 'map.str')):
+            for e in strfile.read(p).entries:
+                self.vo.setdefault(e.lkey, e.text)
 
     def speaker(self, sound):
         m = re.match(r'(?i)m[a-z]+_([a-z]+?)\d', sound)
@@ -444,6 +450,89 @@ def captions_shown(names, chunks):
     return {label for c in walk(chunks) if (label := shown_label(names, c))}
 
 
+LAUNCH = ('ENABLE_SCRIPT', 'CALL_SUBROUTINE')                # argument : titre du script lancé
+TIMERS = ('SET_TIMER', 'SET_MILLISECOND_TIMER')               # argument : minuteur -> scripts TIMER_EXPIRED dessus
+
+
+SAME_LINE = 0.3          # ressemblance (mots de la VO) au-delà de laquelle deux textes sont la même réplique
+
+
+def launched_by_text(names, chunks):
+    """{titre d'un script : [(lien, clé d'un texte affiché par un script voisin)]}, lien = 'parent' (le script qui le
+    lance par ENABLE_SCRIPT, CALL_SUBROUTINE ou un minuteur), 'enfant' (un script qu'il lance) ou 'frère' (lancé par
+    le même parent : texte et son déclenchés ensemble par deux minuteurs).
+
+    Conseil d'Elrond (23/11/2026) : « Rivendell - Speech - Elrond 01 » affiche la réplique dans une fenêtre avec
+    portrait et active « Audio - Elrond - You have shown… », qui joue seulement le son ; « Gladden - Area 01 -
+    Isildur Speech 01 » affiche « Isildur : Très bien. » et lance le minuteur « Audio - Isildur - Very well. ».
+    Notre sous-titre en haut de l'écran faisait doublon. Voir already_shown()."""
+    scripts = [s for s in walk(chunks) if s.children is not None and names[s.cid] == 'Script']
+    by_timer = collections.defaultdict(list)
+    labels, launches = {}, collections.defaultdict(set)
+    for s in scripts:
+        t = script_title(s)
+        labels[t] = [full_label(names, c) for c in s.children if shown_label(names, c)]
+        for c in walk(s.children):
+            if c.children is None and names[c.cid] == 'Condition':
+                try:
+                    _, k, args, _ = action(c.raw)
+                except (struct.error, UnicodeDecodeError):
+                    continue
+                if names.get(k >> 8) == 'TIMER_EXPIRED' and args and args[0][3]:
+                    by_timer[args[0][3]].append(t)
+    for s in scripts:
+        for c in s.children:
+            if c.children is None and names[c.cid] in ACTIONS:
+                _, k, args, _ = action(c.raw)
+                n = names.get(k >> 8)
+                if n in LAUNCH and args and args[0][3]:
+                    launches[script_title(s)].add(args[0][3])
+                elif n in TIMERS and args and args[0][3]:
+                    launches[script_title(s)].update(by_timer.get(args[0][3], []))
+    out = collections.defaultdict(list)
+    for parent, kids in launches.items():
+        kids.discard(parent)
+        for kid in kids:
+            out[kid] += [('parent', l) for l in labels.get(parent, [])]
+            out[parent] += [('enfant', l) for l in labels.get(kid, [])]
+            for other in kids - {kid}:
+                out[kid] += [('frère', l) for l in labels.get(other, [])]
+    return out
+
+
+def full_label(names, chunk):
+    _, _, args, _ = action(chunk.raw)
+    return next((a[3] for a in args if re.match(r'(?i)(script|dialogevent):', a[3])), '')
+
+
+def words(text):
+    text = re.sub(r'^[^:]{1,40}?\s?:\s', '', text.replace('\\n', ' '))         # sans le locuteur
+    return re.sub(r'[^a-zà-ÿ0-9 ]', '', text.lower()).split()
+
+
+def already_shown(texts, found, related):
+    """La réplique est-elle l'un des textes affichés par un script voisin (launched_by_text) ? On compare les VO :
+    les cris ou répliques enchaînées (Rhudaur, Cirith Ungol : « What's that!? He's massive! » puis « I think we made
+    a mistake ») restent sous-titrés, les paraphrases d'AotR (Conseil d'Elrond, ressemblance 0,4 à 1) ne le sont pas."""
+    if not related:
+        return False
+    r = texts.lines.get(found[0])
+    if not r or not r['VO']:                         # réplique BFME1 sans VO de référence : seulement le script parent
+        return any(kind == 'parent' for kind, _ in related)
+    mine = content_words(r['VO'])
+    return any(difflib.SequenceMatcher(None, mine, content_words(texts.vo.get(l.lower(), ''))).ratio()
+               >= (SAME_LINE if kind != 'frère' else SAME_LINE_SIBLING) for kind, l in related)
+
+
+SAME_LINE_SIBLING = 0.5  # texte lancé en même temps (frère) : toute une scène, il faut plus de ressemblance
+
+
+def content_words(text):
+    """Mots de plus de 3 lettres : « the », « of », « your » rapprochaient deux répliques courtes différentes
+    (« This is the hour of your doom! » / « The world of men will fall. »)."""
+    return [w for w in words(text) if len(w) > 3]
+
+
 def run(name, out_dir, texts, shared=None):
     """Réécrit les cartes de <name> avec les sous-titres ajoutés. Leurs textes vont dans <shared> (dict clé -> texte,
     à ajouter au lotr.str du submod) quand il est fourni, sinon dans le map.str de la carte.
@@ -467,15 +556,17 @@ def run(name, out_dir, texts, shared=None):
             names[ids[CAPTION]] = CAPTION
         key = (ids[CAPTION] << 8) | 3
         shown = captions_shown(names, chunks)
+        linked = launched_by_text(names, chunks)
         cap_type = next((action(c.raw)[0] for c in walk(chunks) if c.children is None and names[c.cid] in ACTIONS
                          and names.get(action(c.raw)[1] >> 8) == CAPTION), 0x8E)
         for c in walk(chunks):
             if not c.children:
                 continue
             new = []
-            # le script affiche déjà un texte (fenêtre avec portrait, sous-titre) : la réplique a son texte
-            texted = any(shown_label(names, ch) for ch in c.children)
+            # le script affiche déjà un texte (fenêtre avec portrait, sous-titre), ou il est lancé par un script qui
+            # en affiche un : la réplique a son texte
             title = script_title(c) if names[c.cid] == 'Script' else None
+            texted = any(shown_label(names, ch) for ch in c.children)
             for ch in c.children:
                 new.append(ch)
                 if ch.children is not None or names[ch.cid] not in ACTIONS:
@@ -488,7 +579,8 @@ def run(name, out_dir, texts, shared=None):
                 if not found:
                     continue
                 sound, text, seconds = found
-                if event.lower() in shown or sound in shown or texted:
+                if event.lower() in shown or sound in shown or texted or \
+                        already_shown(texts, found, linked.get(title)):
                     report['déjà sous-titrées'] += 1
                     continue
                 if (title, event.lower()) in over:
@@ -528,6 +620,7 @@ def bilan(name, texts):
         names, chunks = load(path)
         shown = captions_shown(names, chunks)
         over = overlapped(names, chunks, texts)
+        linked = launched_by_text(names, chunks)
 
         def visit(chunks, script):
             texted = any(shown_label(names, c) for c in chunks)
@@ -550,7 +643,8 @@ def bilan(name, texts):
                 r = texts.lines.get(found[0]) if found else None
                 if not found:
                     status = 'son (pas une réplique connue)'
-                elif event.lower() in shown or found[0] in shown or texted:
+                elif event.lower() in shown or found[0] in shown or texted or \
+                        already_shown(texts, found, linked.get(script)):
                     status = 'sous-titrée par AotR'
                 elif (script, event.lower()) in over:
                     status = "texte d'AotR en même temps (non sous-titrée)"
